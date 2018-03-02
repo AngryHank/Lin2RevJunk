@@ -1,0 +1,6305 @@
+﻿Id,Title,Name
+19,,Spring of Recovery
+31,,Red Team West Tower
+32,,Red Team East Tower
+33,,Red Team Holy Artifact Tower
+34,,Blue Team West Tower
+35,,Blue Team East Tower
+36,,Blue Team Holy Artifact Tower
+20,,@19
+37,,@31
+38,,@32
+39,,@33
+40,,@34
+41,,@35
+42,,@36
+43,,Class Change Revision
+44,,@43
+45,,Altar of Wind
+46,,Altar of Earth
+101,,Central Siege Camp
+102,,East Siege Camp
+103,,West Siege Camp
+104,,Central Gatehouse
+105,,East Gatehouse
+106,,West Gatehouse
+107,,Main Gate Left Defense Tower
+108,,Main Gate Right Defense Tower
+109,,Audience Chamber Left Defense Tower
+110,,Audience Chamber Right Defense Tower
+115,,Gate of Fire Left Defense Tower
+116,,Gate of Fire Right Defense Tower
+117,,Gate of Water Left Defense Tower
+118,,Gate of Water Right Defense Tower
+119,,Holy Artifact Chamber Left Tower
+120,,Holy Artifact Chamber Right Tower
+121,,Holy Artifact Left Tower
+122,,Holy Artifact Right Tower
+123,,Left Trap
+124,,Right Trap
+201,Quest Keeper,Lloyd
+202,Relic Keeper,Feldheim
+203,Potion Keeper,Jackie
+204,Feast Keeper,Emma
+205,General Merchant,Pan
+211,,Crystal of Unity
+212,,Fireplace
+301,,Green Robust Ratel
+302,,Silver Robust Ratel
+303,,Gold Robust Ratel
+304,,Mandragora
+305,,Garden Sentry
+401,계정 창고지기,Nigel
+402,은빛용병단,Aymel
+403,@205,@205
+404,,은빛 용병단원
+405,,마그나딘 경비병
+406,Master Blacksmith,Mobart
+407,,Spectator
+408,,@407
+409,Scroll Merchant,Wayless
+410,,Novice Wizard
+411,Librarian,Farjane
+412,,Reader
+413,,@412
+414,Baker,Bremen
+415,,Baker’s Child
+416,,Hungry Child
+417,,Bored Child
+418,Weapon Merchant,Pondiac
+419,,Adventurer
+420,,@419
+421,Fishing Merchant,Tegma
+422,,Fisherman
+423,,Wizard
+424,Pet Caretaker,Cuvi
+425,,Young Noblewoman
+426,,Curious Child
+427,,Romi
+428,,Julie
+429,,Old Man
+430,,Excited Child
+431,,Kid
+432,,Black Bear Cub
+433,,Explorer
+434,Barbecue Merchant,Maduka
+435,,Leah
+436,,Mio
+437,,Mercenary Officer
+438,,Worker
+439,Minstrel,Asiren
+440,Teleporter,@409
+441,은빛용병단장,Hardin
+442,@402,Theodore
+443,Peddling Caravan Leader,Felicia
+444,@402,Russel
+445,Guide,Chau
+446,@445,Lyncia
+447,@445,Seikan
+448,Personal Storage Keeper,Gattuso
+449,미용사,Katrina
+450,Merrymaker,Lena
+451,Red Envelope,Ada
+452,Teleporter,Agatha
+453,@452,Catherine
+454,@452,Grace
+455,@452,Hanna
+456,Clan Keeper,Hubert
+457,Fortress Keeper,James
+458,공성 관리인,Harry
+459,Clan Hall Keeper,Jasmine
+460,Clan Auctioneer,Courtney
+461,Auctioneer,Dario
+462,@401,Dixie
+463,캐릭터 창고지기,Edith
+464,Battlefield Keeper,Dustin
+550,,은빛용병단원
+551,,@550
+552,,은빛용병단 장교
+553,,은빛용병단 학자
+554,,@553
+555,,@553
+556,,Caravan Member
+557,,@556
+558,,@556
+559,,Gludio Envoy
+560,,@559
+561,,@559
+562,,Dion Envoy
+563,,@562
+564,,@562
+565,,Giran Envoy
+566,,@565
+567,,@565
+568,,Oren Envoy
+569,,@568
+570,,@568
+571,,Innadril Envoy
+572,,@571
+573,,@571
+574,,Aden Envoy
+575,,@574
+576,,@574
+577,,Elmor Envoy
+578,,@577
+579,,@577
+580,,Gracia Envoy
+581,,@580
+582,,@580
+583,,Elven Envoy
+584,,@583
+585,,@583
+586,,Dark Elven Envoy
+587,,Member’s Family
+588,,@587
+589,,@587
+590,,@587
+591,,@587
+1001,For testing skill,Growler
+1101,For balancing battle,Lvl. 1 Growler
+1102,@1101,Lvl. 2 Growler
+1103,@1101,Lvl. 3 Growler
+1104,@1101,Lvl. 4 Growler
+1105,@1101,Lvl. 5 Growler
+1106,@1101,Lvl. 6 Growler
+1107,@1101,Lvl. 7 Growler
+1108,@1101,Lvl. 8 Growler
+1109,@1101,Lvl. 9 Growler
+1110,@1101,Lvl. 10 Growler
+1111,@1101,Lvl. 11 Growler
+1112,@1101,Lvl. 12 Growler
+1113,@1101,Lvl. 13 Growler
+1114,@1101,Lvl. 14 Growler
+1115,@1101,Lvl. 15 Growler
+1116,@1101,Lvl. 16 Growler
+1117,@1101,Lvl. 17 Growler
+1118,@1101,Lvl. 18 Growler
+1119,@1101,Lvl. 19 Growler
+1120,@1101,Lvl. 20 Growler
+1121,@1101,Lvl. 21 Growler
+1122,@1101,Lvl. 22 Growler
+1123,@1101,Lvl. 23 Growler
+1124,@1101,Lvl. 24 Growler
+1125,@1101,Lvl. 25 Growler
+1126,@1101,Lvl. 26 Growler
+1127,@1101,Lvl. 27 Growler
+1128,@1101,Lvl. 28 Growler
+1129,@1101,Lvl. 29 Growler
+1130,@1101,Lvl. 30 Growler
+1131,@1101,Lvl. 31 Growler
+1132,@1101,Lvl. 32 Growler
+1133,@1101,Lvl. 33 Growler
+1134,@1101,Lvl. 34 Growler
+1135,@1101,Lvl. 35 Growler
+1136,@1101,Lvl. 36 Growler
+1137,@1101,Lvl. 37 Growler
+1138,@1101,Lvl. 38 Growler
+1139,@1101,Lvl. 39 Growler
+1140,@1101,Lvl. 40 Growler
+1141,@1101,Lvl. 41 Growler
+1142,@1101,Lvl. 42 Growler
+1143,@1101,Lvl. 43 Growler
+1144,@1101,Lvl. 44 Growler
+1145,@1101,Lvl. 45 Growler
+1146,@1101,Lvl. 46 Growler
+1147,@1101,Lvl. 47 Growler
+1148,@1101,Lvl. 48 Growler
+1149,@1101,Lvl. 49 Growler
+1150,@1101,Lvl. 50 Growler
+1151,@1101,Lvl. 51 Growler
+1152,@1101,Lvl. 52 Growler
+1153,@1101,Lvl. 53 Growler
+1154,@1101,Lvl. 54 Growler
+1155,@1101,Lvl. 55 Growler
+1156,@1101,Lvl. 56 Growler
+1157,@1101,Lvl. 57 Growler
+1158,@1101,Lvl. 58 Growler
+1159,@1101,Lvl. 59 Growler
+1160,@1101,Lvl. 60 Growler
+1161,@1101,Lvl. 61 Growler
+1162,@1101,Lvl. 62 Growler
+1163,@1101,Lvl. 63 Growler
+1164,@1101,Lvl. 64 Growler
+1165,@1101,Lvl. 65 Growler
+1166,@1101,Lvl. 66 Growler
+1167,@1101,Lvl. 67 Growler
+1168,@1101,Lvl. 68 Growler
+1169,@1101,Lvl. 69 Growler
+1170,@1101,Lvl. 70 Growler
+1171,@1101,Lvl. 71 Growler
+1172,@1101,Lvl. 72 Growler
+1173,@1101,Lvl. 73 Growler
+1174,@1101,Lvl. 74 Growler
+1175,@1101,Lvl. 75 Growler
+1176,@1101,Lvl. 76 Growler
+1177,@1101,Lvl. 77 Growler
+1178,@1101,Lvl. 78 Growler
+1179,@1101,Lvl. 79 Growler
+1180,@1101,Lvl. 80 Growler
+1181,@1101,Lvl. 81 Growler
+1182,@1101,Lvl. 82 Growler
+1183,@1101,Lvl. 83 Growler
+1184,@1101,Lvl. 84 Growler
+1185,@1101,Lvl. 85 Growler
+1186,@1101,Lvl. 86 Growler
+1187,@1101,Lvl. 87 Growler
+1188,@1101,Lvl. 88 Growler
+1189,@1101,Lvl. 89 Growler
+1190,@1101,Lvl. 90 Growler
+1191,@1101,Lvl. 91 Growler
+1192,@1101,Lvl. 92 Growler
+1193,@1101,Lvl. 93 Growler
+1194,@1101,Lvl. 94 Growler
+1195,@1101,Lvl. 95 Growler
+1196,@1101,Lvl. 96 Growler
+1197,@1101,Lvl. 97 Growler
+1198,@1101,Lvl. 98 Growler
+1199,@1101,Lvl. 99 Growler
+1200,@1101,Lvl. 100 Growler
+1201,@1101,@1101
+1202,@1101,@1102
+1203,@1101,@1103
+1204,@1101,@1104
+1205,@1101,@1105
+1206,@1101,@1106
+1207,@1101,@1107
+1208,@1101,@1108
+1209,@1101,@1109
+1210,@1101,@1110
+1211,@1101,@1111
+1212,@1101,@1112
+1213,@1101,@1113
+1214,@1101,@1114
+1215,@1101,@1115
+1216,@1101,@1116
+1217,@1101,@1117
+1218,@1101,@1118
+1219,@1101,@1119
+1220,@1101,@1120
+1221,@1101,@1121
+1222,@1101,@1122
+1223,@1101,@1123
+1224,@1101,@1124
+1225,@1101,@1125
+1226,@1101,@1126
+1227,@1101,@1127
+1228,@1101,@1128
+1229,@1101,@1129
+1230,@1101,@1130
+1231,@1101,@1131
+1232,@1101,@1132
+1233,@1101,@1133
+1234,@1101,@1134
+1235,@1101,@1135
+1236,@1101,@1136
+1237,@1101,@1137
+1238,@1101,@1138
+1239,@1101,@1139
+1240,@1101,@1140
+1241,@1101,@1141
+1242,@1101,@1142
+1243,@1101,@1143
+1244,@1101,@1144
+1245,@1101,@1145
+1246,@1101,@1146
+1247,@1101,@1147
+1248,@1101,@1148
+1249,@1101,@1149
+1250,@1101,@1150
+1251,@1101,@1151
+1252,@1101,@1152
+1253,@1101,@1153
+1254,@1101,@1154
+1255,@1101,@1155
+1256,@1101,@1156
+1257,@1101,@1157
+1258,@1101,@1158
+1259,@1101,@1159
+1260,@1101,@1160
+1261,@1101,@1161
+1262,@1101,@1162
+1263,@1101,@1163
+1264,@1101,@1164
+1265,@1101,@1165
+1266,@1101,@1166
+1267,@1101,@1167
+1268,@1101,@1168
+1269,@1101,@1169
+1270,@1101,@1170
+1271,@1101,@1171
+1272,@1101,@1172
+1273,@1101,@1173
+1274,@1101,@1174
+1275,@1101,@1175
+1276,@1101,@1176
+1277,@1101,@1177
+1278,@1101,@1178
+1279,@1101,@1179
+1280,@1101,@1180
+1281,@1101,@1181
+1282,@1101,@1182
+1283,@1101,@1183
+1284,@1101,@1184
+1285,@1101,@1185
+1286,@1101,@1186
+1287,@1101,@1187
+1288,@1101,@1188
+1289,@1101,@1189
+1290,@1101,@1190
+1291,@1101,@1191
+1292,@1101,@1192
+1293,@1101,@1193
+1294,@1101,@1194
+1295,@1101,@1195
+1296,@1101,@1196
+1297,@1101,@1197
+1298,@1101,@1198
+1299,@1101,@1199
+1300,@1101,@1200
+1301,@1101,@1101
+1302,@1101,@1102
+1303,@1101,@1103
+1304,@1101,@1104
+1305,@1101,@1105
+1306,@1101,@1106
+1307,@1101,@1107
+1308,@1101,@1108
+1309,@1101,@1109
+1310,@1101,@1110
+1311,@1101,@1111
+1312,@1101,@1112
+1313,@1101,@1113
+1314,@1101,@1114
+1315,@1101,@1115
+1316,@1101,@1116
+1317,@1101,@1117
+1318,@1101,@1118
+1319,@1101,@1119
+1320,@1101,@1120
+1321,@1101,@1121
+1322,@1101,@1122
+1323,@1101,@1123
+1324,@1101,@1124
+1325,@1101,@1125
+1326,@1101,@1126
+1327,@1101,@1127
+1328,@1101,@1128
+1329,@1101,@1129
+1330,@1101,@1130
+1331,@1101,@1131
+1332,@1101,@1132
+1333,@1101,@1133
+1334,@1101,@1134
+1335,@1101,@1135
+1336,@1101,@1136
+1337,@1101,@1137
+1338,@1101,@1138
+1339,@1101,@1139
+1340,@1101,@1140
+1341,@1101,@1141
+1342,@1101,@1142
+1343,@1101,@1143
+1344,@1101,@1144
+1345,@1101,@1145
+1346,@1101,@1146
+1347,@1101,@1147
+1348,@1101,@1148
+1349,@1101,@1149
+1350,@1101,@1150
+1351,@1101,@1151
+1352,@1101,@1152
+1353,@1101,@1153
+1354,@1101,@1154
+1355,@1101,@1155
+1356,@1101,@1156
+1357,@1101,@1157
+1358,@1101,@1158
+1359,@1101,@1159
+1360,@1101,@1160
+1361,@1101,@1161
+1362,@1101,@1162
+1363,@1101,@1163
+1364,@1101,@1164
+1365,@1101,@1165
+1366,@1101,@1166
+1367,@1101,@1167
+1368,@1101,@1168
+1369,@1101,@1169
+1370,@1101,@1170
+1371,@1101,@1171
+1372,@1101,@1172
+1373,@1101,@1173
+1374,@1101,@1174
+1375,@1101,@1175
+1376,@1101,@1176
+1377,@1101,@1177
+1378,@1101,@1178
+1379,@1101,@1179
+1380,@1101,@1180
+1381,@1101,@1181
+1382,@1101,@1182
+1383,@1101,@1183
+1384,@1101,@1184
+1385,@1101,@1185
+1386,@1101,@1186
+1387,@1101,@1187
+1388,@1101,@1188
+1389,@1101,@1189
+1390,@1101,@1190
+1391,@1101,@1191
+1392,@1101,@1192
+1393,@1101,@1193
+1394,@1101,@1194
+1395,@1101,@1195
+1396,@1101,@1196
+1397,@1101,@1197
+1398,@1101,@1198
+1399,@1101,@1199
+1400,@1101,@1200
+1401,@1101,@1101
+1402,@1101,@1102
+1403,@1101,@1103
+1404,@1101,@1104
+1405,@1101,@1105
+1406,@1101,@1106
+1407,@1101,@1107
+1408,@1101,@1108
+1409,@1101,@1109
+1410,@1101,@1110
+1411,@1101,@1111
+1412,@1101,@1112
+1413,@1101,@1113
+1414,@1101,@1114
+1415,@1101,@1115
+1416,@1101,@1116
+1417,@1101,@1117
+1418,@1101,@1118
+1419,@1101,@1119
+1420,@1101,@1120
+1421,@1101,@1121
+1422,@1101,@1122
+1423,@1101,@1123
+1424,@1101,@1124
+1425,@1101,@1125
+1426,@1101,@1126
+1427,@1101,@1127
+1428,@1101,@1128
+1429,@1101,@1129
+1430,@1101,@1130
+1431,@1101,@1131
+1432,@1101,@1132
+1433,@1101,@1133
+1434,@1101,@1134
+1435,@1101,@1135
+1436,@1101,@1136
+1437,@1101,@1137
+1438,@1101,@1138
+1439,@1101,@1139
+1440,@1101,@1140
+1441,@1101,@1141
+1442,@1101,@1142
+1443,@1101,@1143
+1444,@1101,@1144
+1445,@1101,@1145
+1446,@1101,@1146
+1447,@1101,@1147
+1448,@1101,@1148
+1449,@1101,@1149
+1450,@1101,@1150
+1451,@1101,@1151
+1452,@1101,@1152
+1453,@1101,@1153
+1454,@1101,@1154
+1455,@1101,@1155
+1456,@1101,@1156
+1457,@1101,@1157
+1458,@1101,@1158
+1459,@1101,@1159
+1460,@1101,@1160
+1461,@1101,@1161
+1462,@1101,@1162
+1463,@1101,@1163
+1464,@1101,@1164
+1465,@1101,@1165
+1466,@1101,@1166
+1467,@1101,@1167
+1468,@1101,@1168
+1469,@1101,@1169
+1470,@1101,@1170
+1471,@1101,@1171
+1472,@1101,@1172
+1473,@1101,@1173
+1474,@1101,@1174
+1475,@1101,@1175
+1476,@1101,@1176
+1477,@1101,@1177
+1478,@1101,@1178
+1479,@1101,@1179
+1480,@1101,@1180
+1481,@1101,@1181
+1482,@1101,@1182
+1483,@1101,@1183
+1484,@1101,@1184
+1485,@1101,@1185
+1486,@1101,@1186
+1487,@1101,@1187
+1488,@1101,@1188
+1489,@1101,@1189
+1490,@1101,@1190
+1491,@1101,@1191
+1492,@1101,@1192
+1493,@1101,@1193
+1494,@1101,@1194
+1495,@1101,@1195
+1496,@1101,@1196
+1497,@1101,@1197
+1498,@1101,@1198
+1499,@1101,@1199
+1500,@1101,@1200
+1501,@1101,@1101
+1502,@1101,@1102
+1503,@1101,@1103
+1504,@1101,@1104
+1505,@1101,@1105
+1506,@1101,@1106
+1507,@1101,@1107
+1508,@1101,@1108
+1509,@1101,@1109
+1510,@1101,@1110
+1511,@1101,@1111
+1512,@1101,@1112
+1513,@1101,@1113
+1514,@1101,@1114
+1515,@1101,@1115
+1516,@1101,@1116
+1517,@1101,@1117
+1518,@1101,@1118
+1519,@1101,@1119
+1520,@1101,@1120
+1521,@1101,@1121
+1522,@1101,@1122
+1523,@1101,@1123
+1524,@1101,@1124
+1525,@1101,@1125
+1526,@1101,@1126
+1527,@1101,@1127
+1528,@1101,@1128
+1529,@1101,@1129
+1530,@1101,@1130
+1531,@1101,@1131
+1532,@1101,@1132
+1533,@1101,@1133
+1534,@1101,@1134
+1535,@1101,@1135
+1536,@1101,@1136
+1537,@1101,@1137
+1538,@1101,@1138
+1539,@1101,@1139
+1540,@1101,@1140
+1541,@1101,@1141
+1542,@1101,@1142
+1543,@1101,@1143
+1544,@1101,@1144
+1545,@1101,@1145
+1546,@1101,@1146
+1547,@1101,@1147
+1548,@1101,@1148
+1549,@1101,@1149
+1550,@1101,@1150
+1551,@1101,@1151
+1552,@1101,@1152
+1553,@1101,@1153
+1554,@1101,@1154
+1555,@1101,@1155
+1556,@1101,@1156
+1557,@1101,@1157
+1558,@1101,@1158
+1559,@1101,@1159
+1560,@1101,@1160
+1561,@1101,@1161
+1562,@1101,@1162
+1563,@1101,@1163
+1564,@1101,@1164
+1565,@1101,@1165
+1566,@1101,@1166
+1567,@1101,@1167
+1568,@1101,@1168
+1569,@1101,@1169
+1570,@1101,@1170
+1571,@1101,@1171
+1572,@1101,@1172
+1573,@1101,@1173
+1574,@1101,@1174
+1575,@1101,@1175
+1576,@1101,@1176
+1577,@1101,@1177
+1578,@1101,@1178
+1579,@1101,@1179
+1580,@1101,@1180
+1581,@1101,@1181
+1582,@1101,@1182
+1583,@1101,@1183
+1584,@1101,@1184
+1585,@1101,@1185
+1586,@1101,@1186
+1587,@1101,@1187
+1588,@1101,@1188
+1589,@1101,@1189
+1590,@1101,@1190
+1591,@1101,@1191
+1592,@1101,@1192
+1593,@1101,@1193
+1594,@1101,@1194
+1595,@1101,@1195
+1596,@1101,@1196
+1597,@1101,@1197
+1598,@1101,@1198
+1599,@1101,@1199
+1600,@1101,@1200
+2000,TEST TITLE,Aimel
+2001,@2000,ArmorMerchant
+2002,@2000,ArmorMerchant_Capture
+2003,@2000,Attack_ArmorMerchant
+2004,@2000,Attack_ArmorMerchant_Bow
+2005,@2000,CatTheCat
+2006,@2000,CatTheCat_Attack
+2007,@2000,CatTheCat_Down
+2008,@2000,CityGuard
+2009,@2000,CityGuard_02
+2010,@2000,CityGuard_Drug
+2011,@2000,CityGuard_Wounded
+2012,@2000,DarkAssociation
+2013,@2000,DarkAssociation_Capture
+2014,@2000,DarkAssociation_Normal
+2015,@2000,DarkAssociation_Wounded_01
+2016,@2000,Fernel
+2017,@2000,Fernel_Attack_Dagger
+2018,@2000,GateKeeper
+2019,@2000,Hardin
+2020,@2000,Attack_Hardin
+2021,@2000,Hardin_Capture
+2022,@2000,HardinsFollower
+2023,@2000,HardinsFollower_Capture
+2024,@2000,HardinsFollower_Wound
+2025,@2000,Attack_HardinsFollower
+2026,@2000,HardinsFollower_Wounded
+2027,@2000,ItemMerchant
+2028,@2000,ItemMerchant_BattleStand
+2029,@2000,ItemMerchant_Wounded
+2030,@2000,ItemMerchant_Wounded_02
+2031,@2000,Attack_ItemMerchant
+2032,@2000,Terrify_ItemMerchant
+2033,@2000,LittleGirl
+2034,@2000,LittleGirl_Down
+2035,@2000,LittleGirl_Terrify
+2036,@2000,Magician
+2037,@2000,Magician_Wounded
+2038,@2000,Noble_01
+2039,@2000,Noble_02
+2040,@2000,Noble_03
+2041,@2000,Noble_03_Attack_Sword
+2042,@2000,Officer
+2043,@2000,Attack_Officer
+2044,@2000,Officer_Wounded
+2045,@2000,Officer_02
+2046,@2000,Officer_02_Attack_Spear
+2047,@2000,Resident_01
+2048,@2000,Resident_01_Talk
+2049,@2000,Resident_02
+2050,@2000,Attack_Resident_02
+2051,@2000,Attack_Resident_02_Staff
+2052,@2000,Resident_02_Capture
+2053,@2000,Resident_02_Capture_02
+2054,@2000,Resident_02_Dead
+2055,@2000,Resident_02_Fear
+2056,@2000,Resident_03
+2057,@2000,Resident_03_Capture
+2058,@2000,Resident_03_Capture_02
+2059,@2000,Resident_03_Dead
+2060,@2000,Resident_03_Fear
+2061,@2000,Attack_Resident_03_Bow
+2062,@2000,Attack_Resident_03_Bow_DarkSide
+2063,@2000,Attack_Resident_03_DualSword
+2064,@2000,Attack_Resident_03_Sword
+2065,@2000,Resident_04
+2066,@2000,Resident_04_Attack_Sword
+2067,@2000,Resident_05
+2068,@2000,Resident_05_Dagger
+2069,@2000,SmeltingMerchant
+2070,@2000,SmeltingMerchant_Capture
+2071,@2000,SmeltingMerchant_Wounded
+2072,@2000,SmeltingMerchant_Wounded_02
+2073,@2000,Attack_SmeltingMerchant
+2074,@2000,Student
+2075,@2000,Student_down
+2076,@2000,Student_Fear
+2077,@2000,Student_Sleep
+2078,@2000,Attack_Student_Dagger
+2079,@2000,Attack_Student_Staff
+2080,@2000,Teleporter
+2081,@2000,Teleporter_Capture
+2082,@2000,Attack_Teleporter
+2083,@2000,TemplePriest
+2084,@2000,TemplePriest_Capture
+2085,@2000,TemplePriest_Fear
+2086,@2000,TemplePriest_Wounded_01
+2087,@2000,TemplePriest_Wounded_02
+2088,@2000,Attack_TemplePriest
+2089,@2000,Tutorial_DarkElf_01
+2090,@2000,Tutorial_DarkElf_02
+2091,@2000,Tutorial_Dwarf_01
+2092,@2000,Tutorial_Elf_01
+2093,@2000,Tutorial_Gate
+2094,@2000,Tutorial_human_01
+2095,@2000,Tutorial_human_02
+2096,@2000,Tutorial_human_03
+2097,@2000,Tutorial_human_04
+2098,@2000,Tutorial_human_05
+2099,@2000,Tutorial_human_06
+2100,@2000,WarehouseKeeper
+2101,@2000,WareHouseKeeper_Terrify
+2102,@2000,WareHouseKeeper_Wounded
+2103,@2000,Attack_WarehouseKeeper
+2104,@2000,SmeltingMerchant_Attack_Bow
+3000,,Antelope
+3001,,Ant Larva
+3002,,Ant Soldier
+3003,,Ant
+3004,,Basilisk
+3005,,Monster Eye Watcher
+3006,,Black Willow
+3007,,Black Wolf
+3008,,Blood Queen
+3009,,Boreas
+3010,,Gorgon Queen Stenoa
+3011,,Fettered Soul
+3012,,Dark Brotherhood
+3013,,Dark Knight
+3014,,Black Leopard
+3015,,Dark Lord
+3016,,Nerkas
+3017,,Red Fox
+3018,,Dicor
+3019,,Doom Servant
+3020,,Drake
+3021,,Headless Knight
+3022,,Perum
+3023,,Dustwind Gargoyle
+3024,,Giant Leech
+3025,,Giant Pincher
+3026,,Grandis
+3027,,Red Bear
+3028,,Guillotine of Death
+3029,,Wasp
+3030,,Resurrected Specter
+3031,,Relentless Specter
+3032,,Kaim Vanul
+3033,,Ketra Orc Seeker
+3034,,Ketra Orc White Captain
+3035,,Ketra Orc Ranger Captain
+3036,,King Bugbear
+3037,,Leto Lizardman
+3038,,Leto Lizardman Chief
+3039,,Leto Lizardman Archer
+3040,,Leto Lizardman Shaman
+3041,,Leto Lizardman Fighter
+3042,,Rorka
+3043,,Maille Lizardman Scout
+3044,,Maille Lizardman Shaman
+3046,,Maille Lizardman Fighter
+3047,,@304
+3048,,Marsh Stakato Soldier
+3050,,Medusa
+3051,,Meforde
+3052,,Mystical Weaver
+3053,,Swamp Killer
+3054,,Noble Ant
+3055,,Oel Mahum
+3056,,Oel Mahum Shaman
+3057,,Oel Mahum Fighter
+3058,,Ol Mahum Shooter
+3059,,Ol Mahum Warrior
+3060,,Ol Mahum Warchief
+3061,,Ol Mahum Scout
+3062,,Orfen
+3063,,Orfen's Handmaiden
+3064,,Zombie Pirate
+3065,,Zombie Pirate Captain
+3066,,Zombie Pirate Navigator
+3067,,Venomous Spider
+3068,,Dark Choir Prima
+3069,,Premo
+3070,,Queen Ant
+3072,,Richard
+3073,,Reaper
+3074,,Sahara
+3075,,Cave Keeper
+3076,,Dungeon Skeleton Soldier
+3077,,Skeleton Marauder
+3078,,Skeleton Pursuer
+3079,,Skeleton Scout
+3080,,Snipe
+3081,,Spore Fungus
+3082,,Stone Golem
+3083,,Succubus
+3084,,Susceptor Prime
+3085,,Tanor Silenos
+3086,,Tanor Silenos Chief
+3087,,Tanor Silenos Shaman
+3088,,Tanor Silenos Fighter
+3089,,Tepra Scorpion
+3090,,Breka Orc
+3091,,Breka Orc Archer
+3092,,Breka Orc Warchief
+3093,,Breka Orc Shaman
+3094,,Breka Orc Fighter
+3095,,Turek Orc Archer
+3096,,Turek Orc Warchief
+3097,,Turek Orc Trooper
+3098,,Typheron
+3099,,Dismal Shout
+3100,,Validus
+3101,,Vampire Bat
+3102,,Turek War Hound
+3103,,Werewolf
+3104,,White Wolf
+3105,,Rabid Cougar
+3106,,Windsus
+3108,,Wyrm
+3109,,Zaken
+3110,,Zombie Lord Crowl
+3111,,Orbis
+3112,,Makkum
+3113,,Trikan
+3114,,Blood King
+3115,,Archon Bau
+3116,,Dark Messenger
+3117,,Varkaron
+3118,,Kresous
+3119,,Robust Ratel
+3120,,@305
+3121,,Disorderly Warrior
+3122,,Kurklin the Shredder
+3123,,Chief Turamathia
+3124,,Shelop Watcher
+3125,,Dragon Hatchling
+3126,,Nymph Rose
+3127,,Nymph Queen Lara
+3128,,Barka Silenos Warchief
+3129,,Beleth
+3130,,Embrion’s Knight
+3131,,Fairy
+3132,,Imp
+3133,,Ketra Orc
+3134,,Ketra Orc Warchief
+3135,,Mimic Gold
+3136,,@205
+3137,,Tanta Lizardman Wizard
+3138,,Tanta Lizardman Fighter
+3139,,DragonPython
+3140,,DragonBerserker
+3141,,Karinness
+3142,,DarkAssociation_M_High
+3143,,Grendel
+3144,,ArmoredGrandis
+3145,,EmbryonKnights
+3146,,Leonard
+10000,@441,@441
+10001,@402,@442
+10002,Itinerant Vendor,Smiley
+10003,Smiley’s Carrier,Bambam
+10004,,@419
+10005,,Guard
+10006,,@10005
+10007,,Guard Captain
+10008,,@10007
+10009,,@10007
+10010,,Security Lieutenant
+10011,,@10010
+10012,,Townsperson
+10013,,Aristocrat
+10014,,@10012
+10015,,@10012
+10016,,@10012
+10017,,@10012
+10018,,@10012
+10019,,@10012
+10020,,@419
+10021,,@419
+10022,,@10013
+10023,,@419
+10024,,@10013
+10025,,@419
+10026,,@10012
+10027,,@419
+10028,,@419
+10029,,@10012
+10030,,@10012
+10031,,@10012
+10032,,@10012
+10033,,@10012
+10034,,@419
+10035,,@419
+10036,,@419
+10037,,@10012
+10038,,@419
+10039,,@10012
+10040,,@419
+10041,,@10012
+10042,,@10012
+10043,,@10012
+10044,,@419
+10045,,@10012
+10046,,@10012
+10047,,@10012
+10048,,@10012
+10049,,@419
+10050,,@419
+10051,,@10012
+10052,,Priest
+10053,,@10052
+10054,,@10052
+10055,,@10052
+10056,,@10012
+10057,,@10012
+10058,,@10012
+10059,,Thug
+10060,,@10059
+10061,,@10059
+10062,,Maid
+10063,,@10062
+10064,,@10062
+10065,,@10062
+10066,,@10062
+10067,,@10062
+10068,Oren Regular Army,@10005
+10069,@10068,@10010
+10070,@10068,@10007
+10071,,Hunter
+10072,,@10071
+10073,,@10071
+10074,@10068,@10005
+10075,,Fairy Townsperson
+10076,,@10012
+10101,,Paws
+10102,,Sailor
+10103,,Blood Ranger
+10104,@461,Isaac
+10105,Port Master,Psyche
+10107,,@10102
+10108,,Navigator
+10109,,Trader
+10110,,Gludio Ship Attendant
+10111,,Peddler
+10112,,Gludio Ship Captain
+10113,,Townsperson
+10114,Gate Keeper,Kainess
+10115,General Merchant,Anais
+10116,,@10113
+10117,Talking Island Archon,Daniel
+10118,@10114,Kynell
+10119,@456,Krius
+10120,Blacksmith,Veren
+10121,Soulshot Merchant,Roarke
+10122,@421,Dekkan
+10123,Equipment Merchant,@10101
+10124,,Mercenary
+10125,Storage Keeper,Penzel
+10127,,@10005
+10129,,Seriana
+10131,,Ajax
+10132,,Hazem
+10144,Guard Captain,Harold
+10146,,@10005
+10147,,@10102
+10149,Mercenary Captain,Douglas
+10150,Feldheim’s Archaeologist,Codellia
+10151,@10150,Niah
+10152,,Sinister Wizard
+10153,Head Archaeologist,@202
+10154,,Purifying Fairy
+10155,,@10154
+10156,Fisherman,Aman
+10157,@10156,Pesca
+10158,@205,@205
+10159,Talking Island Guard,Terre
+10160,Wagon Merchant,Helia
+10161,,Town Guard
+10162,Mystic’s Pawn,Skeleton Soldier
+10163,@402,@444
+10164,Blood Ranger Captain,Austin
+10165,Blood Ranger Lieutenant,Arthur
+10166,Drillmaster,Albert the Giant
+10167,Academy Professor,Eugene
+10168,@421,Tau
+10169,,Jupie
+10170,,Orc Butcher
+10171,@10120,Leo
+10173,@10167,@10167
+10175,,Einhovant Mystic
+10176,@10153,@202
+10177,@402,@442
+10178,,@10103
+10184,@10153,@202
+10185,,@10103
+10186,@402,@444
+10187,,@10103
+10188,@10120,Ferron
+10189,@10144,@10144
+10190,,Orc Kidnapper
+10191,,Archaeologist
+10202,,Ticket Inspector
+10203,@402,@442
+10208,@402,@442
+10209,,@10103
+10210,Ranger Captain,Arnold
+10215,Ruins Keeper,Cecile
+10217,,Elizabeth
+10218,@10150,Canaria
+10219,@402,@444
+10220,,@202
+10221,@10150,@455
+10223,,@10154
+10224,,@10154
+10225,@10150,@10218
+10226,@10150,@455
+10227,Ranger Lieutenant,Andy
+10230,@10153,@202
+10231,@10150,@10151
+10232,@10215,@10215
+10233,,@10103
+10234,@10215,@10215
+10235,@402,@442
+10236,Dark Brotherhood High Priest,Ethan
+10237,Ethan’s Pawn,@10162
+10238,@10210,@10210
+10301,,Veteran Sailor Karlov
+10302,@10105,Draid
+10304,Gludin Archon,Patton
+10305,,East Gate Guard
+10306,,Aida
+10307,Graveyard Keeper,Kadol
+10308,Gludin Guard Captain,Forde
+10309,@205,Veda
+10310,,Veda’s Escort
+10311,Graveyard Guardian,Barry
+10312,Wizard,Luna
+10313,@10002,Abel
+10315,@10311,Picas
+10316,@458,Caiman
+10317,@10114,Kristina
+10318,@456,Kyzel
+10319,@10120,Gairan
+10320,@10121,Gauss
+10321,@421,Dumel
+10322,@10123,Faust
+10323,@10115,Aruman
+10324,@10125,Prima
+10325,,Gludin Guard
+10326,Gludio Cardinal,Nestor
+10327,,Galatea
+10328,,@419
+10329,,@419
+10330,,Harvey
+10331,,Athena
+10332,,@419
+10333,,@419
+10334,,Aren
+10335,,Kris
+10336,,Erica Ken Weber
+10337,,Silika
+10338,,Norman
+10339,,Ramos
+10340,Gludin Security Lieutenant,Walter
+10341,@10326,@10326
+10342,Gludio Mayor,Steven
+10343,@205,@205
+10344,Farm Siege Keeper,Hamel
+10345,,Augel
+10346,,Helena
+10347,@402,@444
+10348,,Eleanor
+10349,,Dark Mystic
+10350,,Byron
+10352,Eleanor’s Younger Sibling,Elos
+10353,@10164,Jackson
+10355,@205,@205
+10357,@402,@402
+10358,,George
+10359,,John
+10360,,Thomas
+10361,,Andrew
+10362,,Martin
+10363,,Gludin Soldier
+10364,,Charles
+10365,@402,@444
+10367,@402,@402
+10368,@402,@402
+10369,@205,@205
+10370,,@10350
+10371,,Blood Ranger
+10372,,@10371
+10373,,@10346
+10374,,Kidnapped Townsperson
+10375,,@10374
+10376,,@10374
+10377,,@10374
+10378,,@10364
+10379,@402,@402
+10380,Ghost Ship First Mate,Billy
+10381,,@3064
+10382,,@3061
+10383,,Ol Mahum Looter
+10384,,@10345
+10385,,@10345
+10386,@10308,@10308
+10387,Cat Caravan,Nero
+10388,@10387,Varot
+10389,Apprentice Priest of Einhasad,Vinath
+10390,Einhasad Priest,Laurel
+10391,Gludio Officer,Faute
+10392,Stranded Soldier,Bhan
+10393,Bhan's Comrade,Bolt
+10394,Gludio Town Crier,Zarin
+10395,@402,@402
+10396,,Einhasad Priest
+10397,,@10396
+10398,,@10396
+10399,,@10396
+10402,,Gludio Archon
+10403,@402,@402
+10404,,Monster Exterminator
+10405,,@10404
+10407,,Injured Soldier
+10408,,@419
+10409,,@419
+10410,,@419
+10411,,@419
+10412,,@419
+10413,,@419
+10414,,@419
+10415,@458,Damion
+10416,@10114,Ilya
+10418,@10120,Mirio
+10419,@10121,Micia
+10420,@421,Orpheus
+10421,@10123,Kyritos
+10422,@10115,Asnath
+10423,@461,Nebulus
+10424,,Gludio Guard
+10426,,Lyra
+10427,,Helix
+10428,,Simon
+10429,,Sodan
+10430,,Kyliana
+10431,@10123,Gabi
+10432,@10115,Kachu
+10433,@402,@442
+10437,@205,@205
+10438,,Horen
+10439,,@10438
+10440,,Melina
+10441,Monster Ranger Recruiter,Draiden
+10442,Monster Ranger Lieutenant,Keshupone
+10443,Gludio Chancellor,Reuenthal
+10444,@10442,@10442
+10445,,Eric
+10446,Monster Ranger Platoon 2 Leader,Melbourne
+10447,Monster Ranger Platoon 2,Hexor
+10448,,Heath
+10450,Town Chief,Dragos
+10451,,Karin
+10452,,Gludio Soldier
+10453,,@10305
+10454,,@10445
+10455,@10446,@10446
+10456,@10447,@10103
+10457,@10447,@10103
+10458,@10236,Polemus
+10459,@402,@444
+10460,@402,@444
+10461,,Captured Guard
+10462,Western Blood Ranger Captain,Amos
+10463,@402,@402
+10464,,Militiaman
+10465,,West Blood Ranger
+10466,,Frantic Soldier
+10467,,Soldier in Turmoil
+10468,Dark Brotherhood Cardinal,@10217
+10469,,@10465
+10470,,Chancellor’s Escort
+10471,@10447,@10447
+10472,,@10448
+10473,@10462,@10462
+10474,@402,@402
+10475,@402,Lonna
+10476,,@10445
+10477,,@10465
+10478,@402,@442
+10479,@402,@402
+10480,@402,@444
+10483,@10443,@10443
+10484,@402,@402
+10486,@402,@402
+10487,Chancellor's Escort,Palmon
+10488,@10462,Alban
+10489,@10387,@10387
+10490,,Pante
+10491,,Hamon
+10492,@10394,@10394
+10493,Aden Exploration Team,Dorothy
+10494,@10493,Mitchell
+10495,@10493,Sara Ra
+10496,@10391,@10391
+10497,Gludio Lieutenant,Knox
+10498,,@10491
+10499,,@10452
+10501,Cowardly Soldier,Shayne
+10502,Exhausted Soldier,Emil
+10503,,@3012
+10504,,Southern Troop Commandant
+10505,@402,@444
+10507,,Blood Ranger Soldier
+10508,Magitechie,Angie
+10509,Security Lieutenant,Reinheim
+10510,,The Amnesiac
+10511,@10210,Carlze
+10512,@10144,Gert
+10513,Special Force Platoon 1 Leader,Kail
+10514,Special Force Captain,Duvalte
+10515,@10514,@10514
+10516,,Scouting Party Member
+10517,Special Force Platoon 2 Leader,Miles
+10519,Ranger Soldier,Latos
+10521,@441,@441
+10522,Magic Leader,Aurora
+10523,,Escort Soldier
+10524,,@10507
+10525,,Soldier Recruit
+10526,,@10504
+10527,,Troop Captain
+10528,@10517,@10517
+10529,@10513,@10513
+10530,@10522,@10522
+10531,@10210,@10511
+10532,,Reinforcement
+10533,@441,@441
+10534,,@10407
+10535,@10502,@10502
+10537,,@10510
+10538,Insane,@10508
+10540,@441,@441
+10541,Under Control,Valter
+10543,,@10507
+10544,@10508,@10508
+10545,Out of Control,@10541
+10546,,Kegoon
+10547,,Turek Orc Soldier Recruit
+10549,Cat Follower,Leopold
+10550,Female Follower,Vicky
+10551,@10519,@10519
+10552,@402,@444
+10553,,@10507
+10554,,Korum
+10555,,@10554
+10556,,@419
+10557,,@419
+10577,,Kidnapped Townsfolk
+10578,,@10577
+10579,,@10577
+10580,@10493,@10493
+10581,@10493,@10493
+10582,@10493,@10495
+10583,@10493,@10494
+10584,Alchemist,Arche
+10585,Treasure Hunter,Farlon
+10586,@10150,Azir
+10587,Cat Caravan,@10388
+10588,Orc Avenger,Darian
+10589,High Priest of Gran Kain,Psy
+10597,@10588,@10588
+10598,@10588,@10588
+10601,@402,@442
+10602,Ivory Tower Wizard,Edina
+10603,@10602,Emon
+10604,,Western Adventurer
+10605,,Frightened Old Man
+10606,,Staris
+10607,,Researcher
+10608,,@10607
+10609,,@10607
+10610,@10002,Monta
+10611,,Staris's Minion
+10612,@402,@444
+10613,,Astrologer Tiana
+10614,,Merchant
+10615,@10602,@10602
+10616,,@10613
+10617,@402,@444
+10619,@10602,@10603
+10621,,Old Man who Almost Died
+10622,,@10606
+10623,@10602,@10603
+10626,@402,@442
+10627,,@10606
+10628,,@10613
+10629,,@10613
+10631,High Summoner,Swan
+10632,@10602,@10602
+10633,Wizard Butcher,Void
+10634,,Void Demon
+10635,,Red-Hair Ol Mahum Chief
+10637,,@10611
+10638,@10631,@10631
+10639,,@419
+10640,,@419
+10641,,@419
+10642,,@419
+10643,,@419
+10646,@10002,Charlie
+10647,@10002,Tom
+10648,@10002,Aria
+10649,@10002,Peter
+10670,Black Bear Keeper,Nine
+10671,,Black Bear
+10672,,@432
+10673,,@10671
+10674,,@432
+10675,,Basilisk Meat
+10676,Team Bear,Ribero
+10677,@10676,Sabero
+10678,@10676,Mia
+10679,,@432
+10680,,Fallen Scout
+10681,@10584,@10584
+10682,@10150,@10586
+10683,@10394,@10394
+10684,Eva Temple Apprentice Priest,Shane
+10685,@10493,@10495
+10686,@10493,@10494
+10687,@10493,@10493
+10688,@10493,@10495
+10689,@10493,@10493
+10690,@10493,@10495
+10691,@10684,@10684
+10692,@10394,@10394
+10693,@10584,@10584
+10694,@10150,@10586
+10695,@10493,@10494
+10702,,Lost Child
+10703,,@10702
+10707,@205,@205
+10709,Dion Archon,Clark
+10711,,Paul
+10712,,@10711
+10714,@458,Jurio
+10715,@10114,Ralfina
+10716,@456,Huck
+10717,@10120,Sara
+10718,@10121,Gus
+10719,@421,Alf
+10720,@10123,Morrison
+10721,@10115,Rody
+10722,@461,Reuel
+10724,,Dion Guard
+10725,Dion Cardinal,Kazimoo
+10726,,Phoebe
+10727,,@10113
+10728,,@10113
+10729,,@10113
+10730,,Jeld
+10731,,@10730
+10732,,Marina
+10733,,@10732
+10736,@402,@442
+10737,@10164,Mahert
+10738,,Blood Ranger
+10739,@10165,Vacen
+10740,Youngest Member,Mike
+10741,,Blood Ranger Soldier
+10742,@10165,Parvill
+10743,@10144,Thano
+10744,,Leia
+10745,,Nora
+10746,,Mystic Zaab
+10747,,@10746
+10748,,@10005
+10749,@10165,@10739
+10750,,Wounded Soldier
+10751,@10740,@10740
+10752,@402,@442
+10753,@10631,Vascilious
+10754,,Rescued Townsperson
+10755,,Escort Soldier
+10759,,@10741
+10760,,@10755
+10761,,@10005
+10762,,@10750
+10763,,@10744
+10764,@10740,@10740
+10767,,@10744
+10768,Dion Town Crier,Theron
+10769,@10588,@10588
+10770,Entomologist,Pavel
+10771,@10387,@10388
+10772,Gastronomy,Mechillen
+10773,@10387,@10387
+10774,@10768,Alberto
+10775,Priest of Eva,Mellon
+10776,Dion Officer,Ancelotti
+10777,High Priest of Eva,Evna
+10778,Seed of Lucas,Lucas
+10779,Scared,@10778
+10780,@10779,Tony
+10781,@10779,@10780
+10782,@10777,@10777
+10783,@10777,@10777
+10784,Dion Invasion Leader,Morgoh
+10785,,Breka Destroyer
+10786,,Breka Giant Archer
+10787,,@419
+10788,,@419
+10789,,@419
+10790,,@419
+10791,,@419
+10792,,@419
+10793,,@419
+10801,,@10744
+10802,,Laris
+10803,,Horace
+10804,@402,@442
+10805,@10153,@202
+10806,@10150,@10151
+10807,@10150,@10607
+10808,@10150,@10607
+10809,@10150,@10607
+10810,@10150,@10607
+10811,,Guard Ligus
+10812,Head Researcher,Oden
+10813,Researcher,Bruin
+10814,,Guard Phard
+10815,@402,@402
+10816,@10468,@10217
+10818,,@10744
+10819,Dark Brotherhood,High Priest
+10820,@205,@205
+10821,@10153,@202
+10822,,Swamp Guard
+10823,,Elie
+10828,,Mitereu
+10829,,@10828
+10830,,@10802
+10832,,@10813
+10834,@402,@442
+10836,@402,@402
+10837,@205,Fallen Pan
+10838,,Hans
+10839,,Guard
+10840,,@10839
+10841,,@10811
+10842,@10819,@10803
+10843,,@10814
+10844,,@10744
+10846,,@10744
+10847,,@10813
+10848,@10768,@10768
+10849,Seed of Ancelotti,@10778
+10850,Priest of Gran Kain,Carmen
+10851,@10387,@10388
+10852,@10390,@10390
+10853,@10387,@10387
+10854,Feldheim’s Archaeologists,@10586
+10855,@10768,@10774
+10856,@10776,@10776
+10857,@10589,@10589
+10858,@10631,McCrane
+10859,Mother Stakato,Pente
+10860,@10236,Magikos
+10861,@10819,@10803
+10862,Pente’s Child,Infant Stakato
+10863,Tired,@10778
+10864,@10776,@10776
+10865,@10863,@10776
+10866,@10849,@10778
+10871,,@419
+10873,,@419
+10874,@10153,@202
+10875,@441,@441
+10876,@10153,@202
+10877,@441,@441
+10901,@205,@205
+10902,,Vague
+10903,@402,@442
+10904,@441,@441
+10906,@402,Durzel
+10907,@10468,@10217
+10908,,@10902
+10909,@441,@441
+10910,@402,@442
+10911,,@10839
+10913,@402,@10906
+10915,,Borys
+10916,@402,@10906
+10917,,@10902
+10918,,@10915
+10920,@402,@10906
+10921,@10776,@10776
+10922,High Priest of Maphr,Bartum
+10923,@10772,@10772
+10924,@10493,@10495
+10925,@10768,Gromwell
+10926,Priest of Maphr,Rouen
+10927,@10772,Ashley
+10928,@10493,@10494
+10929,@10493,@10493
+10930,High Priest of Maphr,@10922
+10931,@10930,@10922
+10932,,Chief's Guards
+10933,Tanor Chief,Al'Dahir
+10934,Tanor Tribal Chief,Kankoon
+10935,Kankoon's  Warrior,Jangdo
+10936,Kankoon's  Counselor,Zawar
+10937,@10930,@10922
+11001,@402,@442
+11002,@402,@442
+11003,East Gate Guard,Balu
+11004,@402,@10541
+11005,Dark Brotherhood Necromancer,Diabolos
+11006,@205,@205
+11007,@441,@441
+11008,@402,@10906
+11009,@402,@10541
+11010,,Injured Merchant
+11011,Lord of Keep of Agony,Guillotine
+11012,@205,@205
+11013,@441,@441
+11014,Army of Agony Captain,Mania
+11015,,Host Zombie Lord Crowl
+11016,,Tortured Royal Knight
+11017,,@3012
+11018,@10768,Dimsdale
+11019,Botanist,Yumaeri
+11020,@10850,@10850
+11021,@10849,@10778
+11022,@10768,Neville
+11023,@10390,@10390
+11024,@10389,@10389
+11025,@10776,@10776
+11026,High Priest of Einhasad,Inore
+11027,,@10005
+11028,Supplies Officer,@10005
+11029,@11026,@11026
+11030,,@10005
+11031,Earnestly Seeking One,Cowboy
+11033,,@3031
+11034,@11019,@11019
+11035,@441,@441
+11036,Guillotine’s Blood Rangers,Blood Ranger Captain
+11037,@11036,@10103
+11101,@205,@205
+11102,,Giran Guard Captain
+11103,Dasparion’s Familiar Spirit,@3008
+11105,,Town Elder
+11106,,@10305
+11107,,Botanist
+11108,Giran Archon,Ervin
+11109,@458,Mael
+11110,@10114,Anora
+11111,@456,@10149
+11113,@10121,Mato
+11114,@421,Muse
+11115,@10123,Mischa
+11116,@10115,Shannon
+11117,@461,Rael
+11118,Giran Guard Captain,Lucius
+11119,,Giran Guard
+11120,Giran Cardinal,Krovis
+11121,,Gawain
+11122,,Crowale
+11123,,Vaster
+11124,,Medlam
+11125,,Artemis
+11128,@441,@441
+11129,,Alice
+11130,@402,@402
+11131,,@11129
+11132,,Vehin
+11133,@402,@442
+11134,@402,@444
+11136,Seed of Owen,Linfield
+11137,@11136,@11136
+11138,@11136,@11136
+11140,Security Captain,Vishnua
+11141,Dark Magic Researcher,Thox
+11142,,Tark
+11143,,@11142
+11144,,Alexander
+11145,@10390,Abelino
+11146,,@11119
+11147,,@11119
+11148,,@11119
+11149,,@11142
+11150,,@11144
+11170,@10390,@11145
+11171,@10390,Abelino’s Corpse
+11151,,@11129
+11152,@402,@402
+11153,@441,@441
+11154,@205,@205
+11155,Tax Officer,Meldon
+11156,,@11132
+11157,,@11119
+11158,,@11129
+11159,,Vehin's Comrade
+11160,@402,@442
+11161,,@442
+11163,@402,@444
+11164,@402,@402
+11165,,Innadril Chancellor
+11167,,Chancellor's Attendant
+11168,,Chancellor's Carrier
+11178,Giran Officer,Sir Owen
+11180,West Gate Guard Captain,Christian
+11182,@11140,@11140
+11185,@11136,@11136
+11186,South Gate Guard Captain,Gardner
+11187,Dark Mystic,Jaid
+11188,East Gate Guard Captain,Royce
+11189,Grazing Keeper,Jean
+11190,Blood Ranger Wizard,Ingham
+11191,Blood Ranger Soldier,@10711
+11192,Blood Ranger Captain,MacNahan
+11193,Black Market Merchant,Kutcher
+11194,Giran Town Crier,Todd
+11195,@11191,Rancho
+11196,Botanist,@11019
+11202,@10153,@202
+11204,@402,@442
+11205,@402,@442
+11206,,Stranded Merchant
+11207,,@11206
+11208,,Merchant of the East
+11209,,Arzen
+11210,@10150,@11209
+11211,@10150,@11209
+11212,@205,@205
+11213,@205,@205
+11214,@10150,Anna
+11215,@10150,@11214
+11220,@10153,@202
+11221,@10150,@10104
+11222,@10150,Hugh
+11224,Trade Route Rest Area Chief,MacBain
+11225,,Falt
+11226,,Shao
+11227,,Oona
+11228,@10150,Page
+11229,@10150,Maliss
+11230,@10150,Jack
+11231,@10150,@10487
+11232,,@10005
+11233,,@10005
+11235,,@11206
+11236,,@11206
+11237,,@11208
+11239,@10468,@10217
+11240,@10236,Phobos
+11241,Ol Mahum Bandit Captain,Lyle
+11242,@10150,@10104
+11243,@10150,@11222
+11244,@10819,Cartess
+11245,,Lyle's Royal Guard
+11246,,Ashear
+11247,,@11246
+11248,,@11246
+11249,,Aiden
+11250,,@11249
+11251,Official Giran Army Captain,Frederick
+11253,@402,@402
+11254,@402,@402
+11255,Scholar of Cruma Tower,Gnosis
+11256,@11255,@11255
+11257,Giran Port Master,Benjamin
+11258,@10150,@11228
+11259,@10150,@11229
+11260,@10150,@11230
+11261,@10150,@10487
+11262,@10493,@10493
+11263,@10493,@10495
+11264,@10493,@10494
+11265,Leather Merchant,Votang
+11266,Vigilante,@10358
+11267,@11136,@11136
+11268,Treasure Hunter,@10585
+11269,@10150,@10586
+11270,@10105,Ruben
+11271,@11194,Jane
+11272,@11178,@11178
+11273,@11140,@11140
+11274,@10150,@11214
+11275,@10150,@11209
+11276,@205,@205
+11277,@10150,@10104
+11278,@10150,@11222
+11279,,Bandit Leader's Left Hand
+11280,,Left Hand Man’s Underling
+11281,,Left Hand Man’s Lookout
+11282,,Starving Coastal Cougar
+11283,,Starving Red Bear
+11284,,Huge Cougar
+11285,@11255,@11255
+11301,@11251,@11251
+11302,@11251,@11251
+11303,@402,@442
+11304,@402,@442
+11305,,West Gate Guard
+11306,@402,@402
+11307,@402,@402
+11308,,@11249
+11309,,@11249
+11310,,@10005
+11311,,@10005
+11312,,@11246
+11313,,@11246
+11314,,@11246
+11315,,@10005
+11316,,@10005
+11317,Giran Advance Party Captain,Barrett
+11318,,@11249
+11319,,@10005
+11320,,@10005
+11321,@11251,@11251
+11322,,@11246
+11323,@402,@442
+11324,,Zaken’s Patrol Unit
+11325,Third Mate Navigator,Railey
+11326,@402,@402
+11327,Sharp Blade,Kirion
+11350,@10819,Executor
+11351,@10468,@10217
+11352,Pirate King,Phantom of Zaken
+11354,Zaken's Harvester,Soul Collector
+11355,@11352,@11352
+11356,@10236,Nix
+11357,@10236,@11356
+11358,@10236,Osto
+11359,@11352,@3109
+11360,@10387,@10387
+11361,@10150,@10586
+11362,@11268,@10717
+11363,Cursed Commander,Ditch
+11364,Stranded Advance Party Captain,@11142
+11366,@10150,@10586
+11367,,Manipulated Guard
+11368,@10819,@11350
+11369,Awakened,Ancient Demon
+11370,,Advance Party Soldier
+11401,,@442
+11402,,@441
+11404,@10123,Putine
+11406,@10121,Juan
+11407,,@10071
+11408,,@10071
+11409,@402,@442
+11410,Peace Envoy,Jen
+11411,Cardinal,Caranese
+11412,Protection Tree Elf,Cara
+11413,Peace Envoy,Natalie
+11414,@11413,@10165
+11415,@11413,Adams
+11416,,Ravine Breka Warchief
+11417,,Ravine Breka High Warchief
+11418,@11412,@423
+11419,@11412,@423
+11420,@205,Vanquished Pan
+11421,Elder,Rowen
+11422,@205,@205
+11423,@11412,@11412
+11424,@11412,@11412
+11425,@11412,@11412
+11426,,Veremus
+11427,,@3114
+11428,@11412,@11412
+11429,Patrol Captain,Celin
+11430,Abducted Merchant,@10120
+11431,@10588,@10588
+11432,Guardian Elf,Buhill
+11433,@10002,Lawrence
+11434,@11193,@11193
+11435,@11187,@11187
+11436,@10493,@10493
+11437,@10493,@10495
+11438,@10493,@10494
+11439,Straggler,Nithos
+11440,@11430,@10120
+11441,@10588,@10588
+11442,@11432,@11432
+11443,@10002,@11433
+11444,@11193,@11193
+11445,@11187,@11187
+11446,@10493,@10493
+11447,@10493,@10495
+11448,@10493,@10494
+11449,@11439,@11439
+11450,,@11417
+11451,,Ravine Breka Royal Guard
+11452,,Ravine Breka Elite Soldier
+11453,,Cardinal's Retinue
+11454,,Cardinal's Carrier
+11455,Dragon Knight,Quesnel
+11456,,@3011
+11461,@402,@442
+11464,@11410,@11410
+11465,@11411,@11411
+11466,@11412,@11412
+11469,@11413,@11413
+11470,@11413,@10165
+11471,@11413,@11415
+11473,@11412,Patrol Unit
+11474,@205,@205
+11475,@11429,@11429
+11476,@11421,@11421
+11477,Valley Hunter,Hammon
+11478,@10153,@202
+11479,@10150,@10151
+11481,@402,@442
+11484,@11410,@11410
+11486,@11412,@11412
+11489,@11413,@11413
+11490,@11413,@10165
+11491,@11413,@11415
+11494,@205,@205
+11495,@11429,@11429
+11497,@11477,@11477
+11498,@10153,@202
+11499,@11410,@11410
+11500,Honor Fighter,Vartis
+11501,Oren Archon,Ramone
+11502,@458,Dewyl
+11503,@10114,@10306
+11504,@456,Sereos
+11505,@10120,Runan
+11506,@10121,Lowe
+11507,@421,Gale
+11508,@10123,Arkham
+11509,@10115,Rhias
+11510,@10125,Boadeu
+11511,@11411,@11411
+11512,@10772,Maychel
+11513,Hunter,Renner
+11514,@10068,Drave
+11515,@10068,@10005
+11516,@11513,Shayden
+11517,Backup Chief,Beto
+11518,,@10071
+11519,,@10071
+11520,@205,@205
+11521,@205,@205
+11522,@205,@205
+11523,Outlaw Hunter,@10359
+11524,@402,@10906
+11525,@402,@10906
+11526,@402,@10906
+11527,@10068,@10906
+11528,@402,@10906
+11529,,Town Chief Ariana
+11530,,@11529
+11531,@402,@402
+11532,@402,@402
+11533,@10934,Hamgalalte
+11534,@402,@402
+11535,@402,@444
+11536,@402,@444
+11537,@402,@444
+11538,@402,@444
+11539,@402,@444
+11540,,Hunter Manny
+11541,,Hunter Eture
+11542,Oren Royal Knight,Steiner
+11543,@11542,@11542
+11544,@11542,@11542
+11545,@11542,@11542
+11546,Concubine of Oren’s Lord,Christine
+11547,,Kate
+11548,,@11547
+11549,Oren Royal Guard,Raihel
+11550,@11549,Aisa
+11551,@11549,@11550
+11552,@11549,@11550
+11553,Oren’s First Lady,Salein
+11554,@11553,@11553
+11555,@11553,@11553
+11556,Oren Lord,David
+11557,@11556,@11556
+11558,@402,@442
+11559,,Tanor Fighter
+11560,@402,@442
+11561,Mutated Timak Orc,Rakum
+11562,@11561,@11561
+11563,@11561,@11561
+11564,@11561,Caraku
+11565,,Caraku’s Guard
+11566,@11561,@11564
+11567,Dark Brotherhood High Knight,Embrion
+11568,@11567,@11567
+11569,Embrion's Knights,@11433
+11570,@11569,@11433
+11571,,Mysterious Girl
+11572,,Leto Lizardman Attacker
+11573,,@11571
+11574,,Female Windsus
+11575,@11546,@11546
+11576,,Coocoo
+11577,,@11576
+11578,Ravine Spider Queen,Poricule
+11579,,@11547
+11580,Merchant,Creezaro
+11581,@10772,@11512
+11582,@10772,Annie
+11583,@11513,@11513
+11584,Oren Soldier,@11514
+11585,@11196,@11019
+11586,@11187,@11187
+11587,@10387,@10387
+11588,@11513,@11516
+11589,@10588,@10588
+11590,@10493,@10493
+11591,@10387,@10388
+11592,@10493,@10495
+11593,High Shaman,Varpio
+11594,@10387,@10388
+11595,,Tanor Wizard
+11596,@10819,@11350
+11597,,Minion of Darkness
+11598,,@11576
+11599,@10493,@10495
+11623,,Gigantic Walking Fungus
+11624,,Mini Walking Fungus
+11625,Dark Brotherhood Follower,@3055
+11626,,Labaki
+11627,,Labaki’s Minion
+11628,,Ukra
+11629,,Ukra’s Minion
+11630,,@11629
+11601,,Iron Tooth
+11602,Wounded,@205
+11603,,@3012
+11604,@11625,Deathfire
+11605,@402,@402
+11606,@402,@402
+11607,@205,@205
+11631,@402,@402
+11632,@441,@441
+11633,@10602,@10603
+11634,@205,@205
+11635,,@3012
+11636,@402,@442
+11637,,Andre
+11638,,Molly
+11639,@402,@444
+11640,@10819,Gelan
+11641,,Cusher
+11642,,Jenis
+11643,,Dennis
+11644,,Hanshen
+11661,@402,@402
+11662,@441,@441
+11663,@10602,@10603
+11664,@205,@205
+11665,,@3012
+11666,@402,@442
+11667,,@11637
+11668,,@11638
+11669,@402,@444
+11670,@10819,@11640
+11671,,@11641
+11672,,@11642
+11673,,@11643
+11674,,@11644
+11614,Oren Officer,Tyron
+11613,@11614,@11614
+11612,@10387,@10387
+11615,@11193,Lady Nine
+11616,@11268,@10585
+11617,@10387,@10388
+11618,Trapped in Crystal,Jayhan
+11619,@11265,@11265
+11620,@10311,@11644
+11621,@11196,@11019
+11622,Tyron’s Retinue,Claire
+11675,Oren Crier,Galina
+11701,@402,@442
+11702,@402,@444
+11703,@10602,@10602
+11704,@10602,Lonardo
+11705,@10602,Hamsen
+11706,@402,@10541
+11707,@10602,Bayona
+11708,,Ivory Tower Wizard
+11709,,@10217
+11710,,@11638
+11711,Silverlight Mercenaries Captain,@441
+11712,,@11708
+11713,,@3012
+11714,Ivory Tower High Wizard,Emerson
+11715,@11714,Sosa
+11716,@11714,Vanuel
+11717,,Gillium
+11731,@402,@442
+11732,@402,@444
+11733,@10602,@10602
+11734,@10602,@11704
+11735,@10602,@11705
+11736,@402,@10541
+11737,@10602,@11707
+11738,,@11708
+11739,,@10217
+11740,,@11638
+11741,@11711,@441
+11742,,@11708
+11743,,@3012
+11744,@11714,@11714
+11745,@11714,@11715
+11746,@11714,@11716
+11747,,@11717
+11771,,Bandit Looter Captain
+11772,,Mountain Bandits Scout
+11773,@10125,Lowren
+11774,,Bandit Shaman
+11775,@10602,@10602
+11776,@10602,@11704
+11777,@10602,@11705
+11778,Bandit Boss,Igorasi
+11779,,@11774
+11780,Bandit Underboss,Lakasi
+11781,Timak Orc Tracking Captain,Grimstone
+11782,,Timak Orc Elite Ranger
+11783,,Timak Orc Elite Soldier
+11784,@10602,@10602
+11785,@10819,@11567
+11786,,@3012
+11787,Dark Knight,Sansiro
+11788,,@3012
+11761,,@3013
+11789,@11675,Pintu
+11790,@11614,@11614
+11791,@11622,@11622
+11792,Ivory Tower Cook,Bella
+11793,@10588,@10588
+11794,@10387,@10387
+11795,@11193,@11193
+11796,@10387,@10388
+11797,@10493,@10494
+11798,@10493,@10495
+11799,@10493,@10493
+11720,@10602,Rakan
+11721,@10602,Jaya
+11722,@10602,@11720
+11723,@10602,@11721
+11724,@11622,@11622
+11725,@11792,@11792
+11726,@10588,@10588
+11727,Butcher,Sadistic Crugar
+11728,@10387,@10387
+11729,Sinister Merchant,Mancini
+11730,@10387,@10388
+11750,@10493,@10494
+11751,@10493,@10495
+11752,@10602,Kirinaldo
+11753,@10602,@11752
+11754,@10493,@10493
+11801,,Dragon Valley Merchant
+11802,@402,@442
+11803,@441,@441
+11804,@10468,@10217
+11805,@402,@402
+11806,@402,@444
+11808,@402,@442
+20101,,Prairie Vampire Bat
+20102,,@3103
+20103,,Prairie Antelope
+20104,,@3027
+20105,,@3007
+20106,,Pincher
+20107,,@3025
+20108,,Orc Trooper
+20109,,Orc Archer
+20110,Orc Vanguard Warchief,Orc Warchief
+20111,,Orc Scout
+20112,,Spider Egg
+20113,,Orc Master Marksman
+20116,,@10170
+20117,,Ruin Werewolf
+20118,,Prairie Red Bear
+20120,,Bighorn Antelope
+20121,,Prairie Bat
+20122,,Orc Footman
+20123,,Orc Sentinel
+20124,,Swift Black Wolf
+20125,,Grizzly Bear
+20126,,Orc Marauder
+20127,,Hermit Spider
+20128,,Giant Hermit Spider
+20134,,@10190
+20141,,Orc Foreman
+20143,,@3011
+20144,,Orc Escort
+20148,,Walking Fungus
+20149,,Elusive Premo
+20150,,@3050
+20181,Dark Marauder,Black Fang
+20182,Blood Hooves,Silverhorn
+20183,Spider Queen,Queen Sylop
+20184,Glaring Gaze,Urca
+20185,Tolerant Sword,Kobaka
+20201,,@3017
+20202,,Forest Dicor
+20203,,Forest Wasp
+20204,,Orc Worker
+20205,,@20111
+20206,,Orc Fighter
+20207,,@3082
+20208,,Orc Berserker
+20209,,@10162
+20210,,Skeleton Archer
+20211,,Red Fox Spirit Keeper
+20213,,Orc Elite Patrol
+20214,,Forest Thorn Dicor
+20219,,Starving Red Fox
+20220,,Orc Seeker
+20222,,@20108
+20223,,@20123
+20224,,Orc Leader
+20228,,Fallen Stone Golem
+20234,,Forest Venomfang
+20236,,Royal Guard Leader
+20237,,Escort Leader
+20244,,Stout Golem
+20257,,Relic Werewolf
+20258,,@3073
+20281,Grassland’s Danger,Sting
+20282,Quick Feet,Red Rouse
+20283,Landing Captain,Taarka
+20284,Highly Toxic Sting,Bane King
+20298,Corrupt Forrest Keeper,Spirit Shepherd
+20301,,Sadistic Werewolf
+20302,,Rabid Prairie Cougar
+20303,,Ol Mahum Spy
+20304,,@3059
+20305,,@3097
+20306,,Ol Mahum Axeman
+20307,,Weaver
+20308,,Bugbear
+20309,,@10162
+20310,,@20210
+20311,,Grave Bat
+20312,,@3073
+20313,,Ol Mahum Seeker
+20314,,Ol Mahum Officer
+20315,,@3058
+20316,,Pirate Navigator
+20320,,Ol Mahum Guard
+20321,,Loot Guard
+20323,,@10363
+20331,,Ol Mahum Foreman
+20332,,Ol Mahum Plunderer
+20333,,Ol Mahum Fighter
+20334,,Malevolent Skeleton Soldier
+20335,,Malevolent Skeleton Archer
+20336,,Grave Vampire Bat
+20337,,Ol Mahum Master Marksman
+20338,,@10383
+20339,,Ol Mahum Cutthroat
+20341,,Rabid Werewolf
+20343,,Plains Cougar
+20345,,@3061
+20347,,@3064
+20352,,Cougar
+20357,,Turek Orc Scout
+20362,,@3076
+20363,,Shade Reaper
+20372,,Ol Mahum Champion
+20373,,@20320
+20374,Guard Unit Boss,Tumir
+20376,,@10349
+20378,,Bugbear Subject
+20379,,Grandis Subject
+20381,Fierce Animal,Canine
+20382,Cruel Tooth,Freki
+20383,Restless One,Melville
+20384,Bitter One,Moretti
+20385,Robber,Olvar
+20386,Sniffing Nose,Alle
+20398,Murderer,Zodiac
+20401,,Famished Black Wolf
+20402,,@3027
+20403,,Bugbear Looter
+20404,,Maille Lizardman Provoker
+20405,,@3043
+20406,,Crazed Black Wolf
+20407,,@3017
+20408,,Maille Lizardman Trooper
+20409,,Maille Lizardman Marksman
+20410,,@3044
+20411,,@3005
+20412,,Turek Orc Sniper
+20413,,Turek Orc Patrol
+20414,,Turek Orc Fighter
+20415,,@20106
+20416,,@3000
+20418,,Vicious Red Bear
+20419,,Bugbear Plunderer
+20420,,Dark Weaver
+20424,,Maille Lizardman Seeker
+20425,,Maille Lizardman Pillager
+20426,,Maille Lizardman Assault Soldier
+20432,,Maille Lizardman Guard
+20434,,Maille Lizardman Gatekeeper
+20440,,@20357
+20441,,Orc Watchtower
+20442,,Turek Orc Escort
+20443,,Turek Orc Leader
+20444,,@3102
+20446,,Maille Lizardman Manhunter
+20447,,Maille Lizardman Goalseeker
+20458,,Rabid Black Wolf
+20461,,Bugbear Butcher
+20462,,Tullan Bugbear
+20463,Tullan Tribe Boss,Marc
+20464,,Dark Prima
+20465,,Dark Nerkas
+20468,,Turek Orc Bowman
+20470,,Turek Orc Blacksmith
+20471,Skeleton Collector,Kyrios
+20478,,@20446
+20479,,@20447
+20481,Starved Instinct,Bighand
+20482,Soul Plunderer,Doom Skull
+20483,Human Collector,Kactoose
+20484,Watcher,Cotous
+20485,Priest,Cox
+20486,Escort Captain,Turekka
+20498,Invasion Leader,Silverbeard
+20501,,Grotesque Werewolf
+20502,,Skeleton Warrior
+20503,,Skeleton Bowman
+20504,,@3101
+20505,,Soul Slasher
+20506,,@20320
+20507,,Ol Mahum Vanguard
+20508,,Ol Mahum Ranger
+20509,,Fierce Turek War Hound
+20510,,Turek Orc Shooter
+20511,,@10547
+20514,,@3067
+20515,,@20352
+20516,,Gludio Bear
+20517,,Turek Orc Guard
+20518,,Huge War Machine
+20519,,Turek Orc Altar Guard
+20520,,Turek Orc Decanus
+20521,,Turek Orc Elite Soldier
+20530,,@3097
+20532,,Starving Hound
+20534,,Vindictive Prima
+20535,,Escorting Guard
+20536,,Ferocious Cougar
+20537,,Soulstone
+20538,,@20442
+20539,,Turek Captain of the Guard
+20540,,Turek Troop Captain
+20541,,Turek Patrol Captain
+20542,,Turek Guardian Captain
+20544,,Ol Mahum Crystal Thief
+20545,,Cursed Hunter
+20547,,Fallen Snipe
+20550,,Mysterious Subject
+20551,,Cauldron
+20552,,@20551
+20553,,@20551
+20554,,@20357
+20555,,@3095
+20557,,@3097
+20558,,@3095
+20559,,@20357
+20560,,@20442
+20581,Ruin Herald,Shadow Wing
+20582,Ruin Visiter,Ruins Wanderer
+20583,Fallen,Sabretooth
+20584,Archer Captain,Hucca
+20585,Lightning,Gnasher
+20586,Conquerer,Troka
+20598,Fallen Guardian,Vapar
+20601,,@3103
+20602,,Monster Eye Tracker
+20603,,@3074
+20604,,Skeleton Tracker
+20605,,Skeleton Seeker
+20606,,Mutant Armored Ant
+20607,,Wastelands Basilisk
+20608,,@3024
+20610,,@10383
+20611,,Ol Mahum Looter Fighter
+20612,,Ol Mahum Porter
+20613,,Sahara of the Desert
+20616,,Mutant Armored Ant Warrior
+20618,,Red-Hair Ol Mahum
+20619,,@10635
+20620,,Ol Mahum Carrier
+20622,,Valley Watcher
+20633,,Ol Mahum Looter Guard
+20634,,Ol Mahum Looter Ranger
+20638,,Eroded Sahara
+20639,,Mutant Armored Ant Worker
+20640,,Mutant Armored Ant Fighter
+20641,,Mana Leech
+20642,,Desert Skeleton Sentinel
+20643,,Desert Skeleton Seeker
+20644,,Mutant Armored Ant Page
+20645,,Mutant Armored Ant Soldier
+20646,,Gray Stone Golem
+20647,,Weapon Box
+20656,@10631,@10631
+20657,@10631,@10631
+20662,,@3012
+20681,Wasteland Watcher,Sand Eye
+20682,Wasteland Herald,Red Lock
+20683,,Pointer
+20684,,Grinder
+20685,Desert Killer,Sand Lurker
+20686,Angered Land,Stone Haftz
+20687,Angered Desert,Sand Haftz
+20698,Deadly Poison Sting,Kazir
+20701,,Breka Orc Supplier
+20704,,Breka Orc Elite Soldier
+20706,,Prickly Wasp
+20707,,Blood Wasp
+20708,,Leto Lizardman Looter
+20709,,@3039
+20710,,@3041
+20711,,@3040
+20712,,@20103
+20713,,Prairie Windsus
+20714,,Breka Orc Infiltrator
+20715,,Breka Orc Ranger
+20716,,Breka Orc Trooper
+20717,,Surly Vampire Bat
+20719,,Ferocious Red Bear
+20720,,Prairie Blade Spider
+20721,,@20462
+20722,,Giant Thorn Spider
+20725,,Leto Lizardman Guard
+20727,,Leto Lizardman Escort
+20731,,@20112
+20733,,Blade Pincher
+20734,,Elven Antelope
+20735,,Elven Windsus
+20736,,Elven Red Bear
+20737,Green Fang,Pamba
+20740,,Breka Orc Scout
+20741,,@3094
+20742,,Breka Orc Guard
+20743,,Breka Orc Decanus
+20744,,Breka Orc Escort
+20746,,@3029
+20747,,Enraged Wasp
+20748,,@3037
+20750,,Elder Antelope
+20752,,Vampire Bat
+20754,,Leto Lizardman Pillager
+20756,,@3027
+20757,,@20308
+20762,,@3094
+20770,,@20740
+20771,,@3094
+20772,,Relic Wraith
+20773,,Rabid Wasp
+20781,Logging Captain,Bulc
+20782,Scout,Baroque
+20783,Provoker,Moke
+20784,Looter King,Thrush
+20785,Attacker,Krush
+20786,Marksman,Varash
+20787,@11727,Screash
+20798,Plains Dragon,Flagon
+20801,,Swamp Venomous Spider
+20802,,Black Tiger Spider
+20803,,Swamp Bat
+20804,,Horror Reaper
+20805,,Horror Mist Reaper
+20806,,Cursed Seer
+20807,,Maille Lizardman Vanguard
+20808,,Maille Lizardman Pursuer
+20809,,@3044
+20810,,@3078
+20811,,@3079
+20812,Snooping One,Danthalion
+20813,Lesser Giant Researcher,Sparshi
+20814,,Marsh Stakato Slave
+20816,,@3053
+20817,,Shadow Choir Prima
+20830,,Swamp Hassassin
+20831,,@20814
+20833,,Marsh Stakato Envoy
+20834,,@3053
+20835,,Swamp Assassin
+20837,,Maille Lizardman Patrol
+20845,,Swamp Ghoul
+20855,,Marsh Stakato Hassassin
+20857,,Destructive Killer
+20858,,Insane Killer
+20881,Lost Soldier,Liam
+20882,Wandering Arrow,Ronde
+20883,Silent Assassination,Morgan
+20884,Marsh Queen,Zyrnna
+20885,Spirit Leader,Arcane
+20898,Swamp Ruler,Sina
+20901,,Enraged Grizzly Bear
+20902,,Forest Fang Spider
+20903,,Ol Mahum Aide
+20904,,@3014
+20905,,@3061
+20906,,Ol Mahum Patrol
+20907,,Ol Mahum Sentry
+20908,,Ol Mahum Recruit
+20910,,@20314
+20911,,Ol Mahum Trooper
+20912,,Ol Mahum Supplier
+20913,,Ol Mahum Sniper
+20914,,Ol Mahum Commander
+20915,Ol Mahum Chief,Alarac
+20916,,@11559
+20917,,Tanor Scout
+20918,,Tanor Sentry
+20920,,Tanor Supplier
+20921,,Tanor Knight Recruit
+20922,,Tanor Priest
+20923,,Tanor Shaman
+20924,,Tanor Trooper
+20927,,Shade Wasp
+20928,,Red-Tailed Fox
+20929,,Venomous Marsh Spider
+20930,,Marsh Premo
+20931,,@20148
+20932,,Sapping Wasp
+20933,,Tanor Sentinel
+20934,@20783,Duthlyr
+20935,,@11559
+20942,,@3012
+20943,,Tanor Patrol
+20944,,Training Dummy
+20945,,Training Target
+20948,,Escaped Officer
+20949,,Ol Mahum Straggler
+20952,,Ol Mahum Chief's Soul Fragment
+20955,,@20921
+20956,,@20507
+20957,,Ol Mahum Advance Party
+20961,,Kankoon's Elite Soldier
+20962,,Kankoon's Sentry
+20963,,Kankoon's Priest
+20971,,@11559
+20972,,@20952
+20973,,Kankoon's Sentinel
+20981,@20785,Summit Attacker
+20982,@10144,Tartan
+20983,Tanor Vanguard,Thaartan
+20984,Counselor,Tutan
+20985,Summit Ruler,Ol B’Khan
+20998,Forgotten Lesser Giant,Amadeus
+21001,,Furious Mandragora
+21002,,Tortured Mandragora
+21003,,Wailing Mandragora
+21004,,Dicor of Sorrow
+21005,,Dicor of Despair
+21006,,Vindictive Killer
+21007,,Maimed Killer
+21008,,Demented Reaper
+21009,,Exhausted Doom Servant
+21010,,@3006
+21011,,@3019
+21012,,Wailing Dicor
+21013,,Innocent Spirit
+21014,,Death Reaper
+21015,,Ominous Willow
+21016,,@3030
+21017,,Bloodthirsty Specter
+21018,,Tortured Specter
+21019,,@3031
+21020,,Skeleton Trooper
+21021,,Skeleton Marksman
+21022,,Nerkas Necromancer
+21023,,Zombie Lord
+21025,Soul Aggregate,Koma
+21026,,Restless Spirit
+21027,,@3012
+21032,,Dread Servant
+21033,,@3011
+21035,,Nerkas Soulharvester
+21036,,Resurrected Merchant
+21038,,@3021
+21039,,@3079
+21081,Screaming Plant,Screamer
+21082,Spirit Dyed in Darkness,Flora
+21083,Surrendered Page,Jonadan
+21084,Corpse Transporter,Shrieking Treant
+21085,@11031,@11031
+21086,Waiting Lady,Seamstress
+21087,Dirtying One,Balthazar
+21099,@11011,@3028
+21090,Guard of Pain,Shadow Knight
+21091,@21090,Shadow Lord
+21092,@21090,@11604
+21093,@21090,@3021
+21101,,Deluded Bugbear
+21102,,@3050
+21103,,@3108
+21104,Snipe King,Rugal
+21105,,Forest Werewolf
+21106,,Swift Snipe
+21107,,@3083
+21108,,Ruin Dicor
+21109,,Langk Lizardman Warrior
+21110,,Langk Lizardman Ranger
+21111,,Langk Lizardman Shaman
+21112,,Langk Lizardman Fighter
+21113,,Alpine Cougar
+21114,,Stout Cougar
+21115,,Hungry Red Bear
+21116,,Fierce Red Bear
+21117,,Grazing Windsus
+21118,,Grazing Antelope
+21119,,Dicor of the Forest
+21120,,Giant Male Red Bear
+21121,,Cougar Leader
+21122,,@3082
+21123,,Langk Lizardman Recruit
+21124,,@3080
+21125,,Langk Lizardman Totem
+21128,,Langk Lizardman Sentry
+21129,,Ruin Snipe
+21132,,Elder Dicor
+21134,,Seductive Succubus
+21135,,Langk Lizardman Soldier
+21136,,Langk Lizardman Scout
+21137,,Langk Lizardman Elder Shaman
+21138,,Langk Lizardman Trooper
+21140,,@20308
+21141,,Wyrm Warden
+21155,,Dicor of Hallucination
+21160,Stenoa’s Handmaiden,Ellen
+21161,@21160,@21160
+21162,Ellen’s Minion,@3050
+21163,@21162,@3108
+21164,@21162,@3050
+21165,@21162,@3108
+21166,@21162,@3050
+21167,@21162,@3108
+21168,Thox’s Elite Soldier,Lizardman Scout
+21169,@21168,@21112
+21170,@21168,@21110
+21171,@21168,@21112
+21172,@21168,@21110
+21173,@11141,@11141
+21174,@21168,@21112
+21175,@21168,@21138
+21181,@21160,@21160
+21182,Stenoa’s Herald,Vir
+21183,Drill Sergeant,Tess
+21184,Chief’s Left Hand,Rashkos
+21185,Chief’s Right Hand,Shakos
+21186,Chief’s Eye,Luce
+21187,@11141,@11141
+21198,Gorgon Queen,Stenoa
+21188,Zaken Pirates,@3064
+21189,@21188,Zaken’s Tracker
+21190,@21188,Pirate Zombie Sniper
+21201,,Savage Red Bear
+21202,,Starving Cougar
+21203,,Ol Mahum Bandits Worker
+21204,,Ol Mahum Bandits Supplier
+21205,,Ol Mahum Bandits Pillager
+21206,,Ol Mahum Bandits Sentry
+21207,,Ol Mahum Bandits Warrior
+21208,,Ol Mahum Bandits Commander
+21210,,Ol Mahum Bandits Scout
+21211,,Ol Mahum Bandits Archer
+21212,,Ol Mahum Bandits Master Marksman
+21213,,Wandering Dead
+21214,,Zaken Pirates Vanguard
+21215,,Zaken Pirates Shooter
+21216,,Death Flyer
+21217,,Zaken Pirates Infantry
+21218,,@3099
+21219,,Bugbear Warrior
+21220,,Bugbear Fighter
+21221,,Creation of the Lesser Giant
+21222,,Lesser Giant's Creation
+21223,,Grandis Destroyer
+21224,,Grandis Shredder
+21225,,Degenerated Lesser Giant
+21226,,Forgotten Lesser Giant
+21227,,@3100
+21228,,@3052
+21255,,Cry of Despair
+21256,,Lost Red Bear
+21258,,Shipwrecked Zombie Pirate
+21259,,@21115
+21260,,Rabid Coastal Cougar
+21261,,Insatiable Cougar
+21262,,Insane Lesser Giant
+21263,,Anguished Lesser Giant
+21264,,Grandis Tyrant
+21265,,Giant Dead
+21281,@21184,Lulani
+21282,One-Eyed,Alfonso
+21283,Suffering One,Holst
+21284,Despairing Lesser Giant,Medes
+21285,Deranged Lesser Giant,Luka
+21286,Marsh Terror,Hector
+21296,Marsha’s Pawn,Stone Gargoyle
+21297,@21296,@20307
+21298,Trade Route’s Witch,Marsha
+21301,,Zaken’s Slave
+21302,,Dark Succubus
+21303,,Jungle Premo
+21304,,Shadow Choir Prima
+21305,,Zaken Pirates Cutthroat
+21306,,Zaken Pirates Lookout
+21307,,Zaken Pirates Deckhand
+21308,,Devilrock Scorpion
+21309,,Zaken Pirates Navigator
+21310,,Zaken Pirates Helmsman
+21311,,Zaken's Captain
+21312,,Zaken Pirates Boatswain
+21313,,Zaken’s Watcher
+21314,,Zaken’s Royal Guard
+21315,,Zaken’s Master Shooter
+21316,,Hell Choir Prima
+21317,,Cave Scorpion
+21318,,Zaken’s Eye
+21319,,Zaken’s Retinue
+21320,,Vindictive Dead
+21321,,Evil Eye
+21322,,Sentry of the Treasure
+21329,,@11305
+21330,,Malevolent Zaken's Slave
+21331,,Deadly Dark Succubus
+21332,,Starving Jungle Premo
+21334,,Zaken Pirates Patrol
+21335,,Zaken Pirates Sniper
+21336,,Relentless Dead
+21337,,@3083
+21338,,Zaken’s Marksman
+21339,,@3064
+21351,@21188,Zaken Pirates Soldier
+21352,@21188,@21307
+21353,@21188,@21309
+21354,@21188,Zaken Pirates Captain
+21355,@21188,Zaken Pirates Artilleryman
+21356,@21188,@21355
+21357,@21188,@21355
+21358,@21188,@21355
+21359,@21188,@21355
+21360,@21188,@21355
+21361,@21188,@21355
+21362,@21188,@21355
+21363,@21188,@21355
+21364,@21188,@21355
+21365,,@11352
+21366,,@11352
+21367,,@11352
+21368,,@11352
+21369,,@11352
+21370,Deep Sea Creature,Mysterious Tentacle
+21371,,Mouse
+21372,@21188,@21351
+21373,@21188,@21307
+21374,@21188,@21309
+21375,@21188,@21354
+21381,Seductive Gaze,Rua
+21382,Awakened Terror Thorn,Bornesting
+21383,Commander,Albert
+21384,First Mate,Jeff
+21399,Devil's Isle Master,@3109
+21401,,Ravine Breka Supplier
+21402,,Ravine Breka Scout
+21403,,Ravine Breka Priest
+21404,,Ravine Breka Patrol
+21405,,Ravine Breka Shaman
+21406,,@11416
+21407,,Ravine Breka Sentry
+21408,,Ravine Breka Berserker
+21409,,Ravine Breka Fighter
+21411,,Amber Basilisk
+21412,,Ravine Windsus
+21413,,Soul Tracker Prima
+21414,,Twilight Sahara
+21415,,Death Werewolf
+21416,,Wyrm Guardian
+21417,,Wandering Fettered Soul
+21418,,@3021
+21419,,Grandis Bonecrusher
+21420,,@3023
+21421,,Fearful Monster Eye
+21422,,@3100
+21423,,Deathly Monster Eye
+21424,,@3082
+21425,,@3022
+21426,,Stakato Soldier
+21430,,Maelstrom Dustwind
+21431,,Death Bind
+21432,,Death Headless Knight
+21433,,Grandis Dragon Slayer
+21434,,Sahara of Barren Land
+21435,,Soul Devourer Prima
+21436,,Guardian Basilisk
+21440,,@3073
+21441,,Baby Wyrm
+21442,,Cager’s Henchman
+21443,,Alert Wyrm
+21444,,Veremus’s Child
+21481,Breka Chief,Gorokk
+21482,Dragon Researcher,Verock
+21483,Unwavering Will,Jason
+21484,Dragon Eater,Oomba
+21485,Wind of Death,Agarez
+21486,Murderer,Ravolas
+21487,Gluttonous,Wilhelm
+21498,Usher of Darkness,Marlox
+21499,,Demonic Totem
+21501,,Grendel
+21502,,Plateau Windsus
+21503,,Starving Grendel
+21504,,Ravine Pincher
+21505,,Maneater Atrox
+21506,,Razorwind Bugbear Tyrant
+21507,,Razorwind Bugbear Worker
+21508,,Razorwind Bugbear Devourer
+21509,,Razorwind Bugbear Fighter
+21510,,Cruel Nymph Rose
+21511,,Plateau Atrox
+21512,,@20725
+21513,,Leto Lizardman Sentinel
+21514,,@3040
+21515,,Leto Lizardman Infiltrator
+21516,,Leto Lizardman Priest
+21517,,Leto Lizardman Guardian
+21518,,Timak Orc Sentinel
+21519,,Kazan’s Guard
+21520,,Kazan’s Seeker
+21521,,Kazan Slave Foreman
+21522,,@11783
+21523,,Tanor Avenger
+21525,,Tanor Recruit
+21526,,Tanor Tribal Chief Royal Guard
+21527,,@11595
+21528,,Tanor Tribe Guardian
+21529,Slave Patrol,Karok
+21533,,Witchcraft Totem
+21534,Godmother of Lizardmen Marsh,Crokyle
+21535,,Lizardman Al
+21536,Sentry Captain,Cheat
+21537,Training Captain,Charto
+21538,,Young Lizardman
+21581,Frightening Strike,Bear Grylle
+21582,Razorwind Butcher,Gaytin
+21583,Unbreakable Horn,Silenos
+21584,Tribe Guide,Toruq
+21585,Bloody Blade,Karix
+21586,Totem Admirer,Xeno
+21598,Valley Sentry,Heart of the Plateau
+21601,,Blind Reaper
+21602,,Corrupted Willow
+21603,,Soul Harvester
+21604,,@20148
+21605,,Armored Howler
+21606,,Soul Collector
+21607,,Barrier Watchman
+21608,,Sadistic Grandis Destroyer
+21609,,@3056
+21610,,Oel Mahum Pillager
+21611,,Oel Mahum Shredder
+21612,,Oel Mahum Worker
+21613,,@3057
+21614,,Oel Mahum Sapper
+21615,,Oel Mahum Destroyer
+21616,,@21223
+21617,,@3012
+21618,,@3081
+21619,,Spore Bat
+21620,,Parasite Zombie
+21621,,@3108
+21622,,Result of Greed
+21623,,Soul Eater
+21624,,Spore Spider
+21625,,Water Seer
+21626,,Obsidian Golem
+21627,,Pan Luem
+21628,,Fierce Nymph
+21629,,Nightmare Spirit
+21630,,@20505
+21631,,@20752
+21632,,@3019
+21633,,Rotten Spore Fungus
+21634,,@21608
+21635,,Lymph Rose
+21636,,Vile Nymph
+21637,,Vile Pan Luem
+21651,,Altered Blind Reaper
+21681,Contractor,Larva
+21682,Barrier Undoer,Reba
+21683,Proliferating Sickness,Host Fungus
+21684,Maddened,Herven
+21685,Dark Brotherhood Member,Shadow
+21697,Orfen’s Knight,@3072
+21698,Orfen's Handmaiden,Rebecca
+21699,Spore Queen,@3062
+21701,,@21501
+21702,,Bandit Rookie
+21703,,@11772
+21704,,Bandit Looter
+21705,,Mountain Bandits Cutthroat
+21706,,Bandit Plunderer
+21707,,@11774
+21708,,Bandit Fighter
+21709,,Bandit Fighter
+21710,,Ferocious Grendel
+21711,,Bandit Top-grade Shaman
+21712,,Forest Wyrm
+21713,,Dark Witch
+21714,,Timak Orc Archer
+21715,,Timak Orc Fighter
+21716,,Timak Orc Seeker
+21717,,Atrox
+21718,,@3024
+21719,,Timak Orc Fighter
+21720,,Timak Orc White Captain
+21721,,Timak Orc Officer
+21722,,Timak Orc Sentinel
+21723,,Timak Orc Berserker
+21724,,@11782
+21725,,@11783
+21726,,Timak Orc Tribal Chief
+21727,,Timak Orc Archer
+21728,,Ivory Tower Gargoyle
+21729,,Ivory Tower Guardian Golem
+21730,,Fallen Knight
+21731,,Void Hound
+21732,,Staunch Gargoyle
+21733,,Ferocious Void Hound
+21734,,@3013
+21735,,Malfunctioning Guardian
+21736,,Dark Brotherhood High Priest
+21737,,Embrion’s Squire
+21738,,Tainted Dicor
+21739,,Thorn Dicor
+21740,,Tainted Walking Fungus
+21741,,@3081
+21742,,Tainted Scorpion
+21743,,Venom Scorpion
+21744,,@3089
+21745,,Premo the Lunatic
+21746,,Premo the Tainted
+21747,,Obsidian Gargoyle
+21781,Treasure Plunderer,Tarba
+21782,Vanguard Captain,Marata
+21783,Destroyer,Kreta
+21784,Timak High Warchief,Morta
+21785,Uncontrollable,Defender
+21786,Avenger,Arita
+21787,Special Master Marksman,Mita
+21798,Wandering Collector,Undertaker
+21801,,Draconic Minion
+21802,,Demon's Handmaiden
+21803,,Rabid Drake
+21804,,@3009
+21805,,@3021
+21806,,@3013
+21807,,@3015
+21808,,@3008
+21809,,@3032
+21810,,@3075
+21811,,@3016
+21812,,Powerful Draconic Minion
+21814,,Powerful Demon's Handmaiden
+21815,,Dark Brotherhood Outcast
+21816,,@3012
+21817,,Royal Blood Queen
+21825,,Lord of the Underworld
+21826,,Ravine Drake
+21828,,Death Knight
+21881,Fallen Honor,Gusion
+21882,Valley Watcher,Valgarth
+21883,Wind Dragon’s Herald,Buer
+21884,Usher of Pain,Ouroboros
+21885,Dark Ruler,Lerazia
+21886,Blood Witch,Vatory
+30001,,Desmodus
+30002,,Lycanthrope
+30003,Evil of Blood,Spartoi Warrior
+30004,@30003,Spartoi Archer
+30005,@30003,Subterranean Pincher
+30006,,Drill Bat
+30007,,Lycan
+30081,Giant Wings,Horror Wing
+30082,Wolf King,Ryukaon
+30083,Underground Queen,Arachne
+30101,,Spartoi Berserker
+30102,,Spartoi Hunter
+30103,,Hermit Pincher
+30104,@30003,Spotter
+30105,@30003,Shaper
+30106,@30003,Spartoi Knight
+30107,@30003,Spartoi Sniper
+30108,,Spartoi Patrol
+30109,,Spartoi Attacker
+30110,,Hermit Fang Spider
+30111,@30003,@30106
+30112,@30003,@30107
+30181,Mad,Maniskull
+30182,Ruins Watcher,Felix
+30183,@20484,Death Gazer
+30184,Death Guide,Necross
+30201,,Ant Soldier Larva
+30202,,@3003
+30203,,@3002
+30204,@30003,Ant Captain
+30205,@30003,Ant Patrol
+30206,,Worker Ant Larva
+30281,To be King,Reaver
+30282,Under Queen’s Control,Ant Nest Foreman
+30301,,@3001
+30302,,Ant Overseer
+30303,,Ant Soldier Recruit
+30304,@30003,Ant Soldier Royal Guard
+30305,@30003,@3054
+30306,@30003,Noble Ant Leader
+30381,@30282,Ant Nest Royal Guard Captain
+30382,@30282,Spawning Ground Keeper
+30401,,Mordeo's Minion
+30402,,Excuro
+30403,,Porta
+30404,,Mordeo's Guard
+30405,,High Excuro
+30406,,Bound Porta
+30407,@30003,Mordeo's Mirror Image
+30408,@30003,Magical Excuro
+30409,@30003,@3084
+30410,@30003,@30408
+30411,@30003,@3084
+30481,Soul Devourer,Mystique
+30482,Magic Golem,Stelos
+30483,@20484,Master Mordeo
+30484,Tower Sentry,Serbo Prime
+30501,,Validus Guard
+30502,,Gustos Susceptor
+30503,,@3051
+30504,@30003,Validus Mutant
+30505,@30003,Deranged Meforde
+30506,@30003,@3042
+30507,,Validus Patrol
+30508,,Kusion Susceptor
+30509,@30003,@30505
+30510,,Susceptor
+30511,@30003,@30504
+30581,Subject of Terror,Greezo
+30582,Tower’s Terror,Julius
+30583,Cruma Watcher,Magnus
+30611,,@21738
+30612,,@21739
+30613,,@21740
+30614,,@3081
+30615,@30003,@21742
+30616,@30003,@21743
+30617,@30003,@3089
+30618,@30003,@21745
+30619,@30003,@21746
+30691,Spore Host,Mesheemp
+30692,Poison of Death,Corepio
+30693,@30181,Preta
+30711,,Swamp Medusa
+30712,,Cave Medusa
+30713,,@21426
+30714,@30003,Stakato Trooper
+30716,,Cave Gargoyle
+30717,@30003,Enhanced Gargoyle
+30718,@30003,Enhanced Perum
+30791,Mad Butcher,Vulture
+30792,Tainted,Gargu
+30793,Enhanced Golem,Morpheus
+30812,,Dark Choir Soul Prima
+30813,,Dark Choir Dark Prima
+30815,@30003,@21020
+30817,@30003,Dark General
+30819,@30003,Cave Sahara
+30891,@21684,Skullchaser
+30892,Deathly,Creatus
+30893,@30792,Sandstorm
+30901,,Forest Grendel
+30902,,Toxic Atrox
+30903,,Secretive Watcher
+30904,,Forest Watcher
+30905,@30003,Nymph Épée
+30906,@30003,Nymph Fleur
+30907,@30003,Nymph Sabre
+30908,@30003,Secretive Grendel
+30909,@30003,Pan Direum
+30910,@30003,Pan Dryed
+30991,Fierce Front Paw,Argos
+30992,Secretive Killer,Helissa
+30993,Terrifying Spiderweb,Sling
+31001,,Pan Defender
+31002,,Nymph Slasher
+31003,,Nymph Avenger
+31004,,Secretive Succubus
+31005,@30003,Succubus Demon
+31006,@30003,Succubus Night Hag
+31007,@30003,Tempting Medusa
+31008,@30003,Nightmare Medusa
+31009,@30003,Poison Serpent
+31010,@30003,Venom Serpent
+31091,Guardian of the Forest,Vanuk
+31092,Sweet Whispers,Cailyn
+31093,Sharp Fang,Veiloss
+31101,@30003,Twisted Subject
+31102,@30003,Uncontrollable Golem
+31103,@30003,Bound Subject
+31104,@30003,Malfunctioning Guardian
+31105,@30003,Restless Apprentice
+31106,@30003,Restless Wizard
+31107,@30003,Dark Brotherhood Investigator
+31108,@30003,Dark Brotherhood Guardian
+31109,@30003,Dark Brotherhood Researcher
+31110,@30003,Twisted Assistant
+31111,@30003,Underground Basilisk
+31181,The Lucky One,Adolf
+31182,Sentry of the Sealer,Genos
+31183,Initial Test Volunteer,@11144
+31184,@31182,Trasos
+31185,Innocent Woman,Barbara
+31186,Seal Party Advance Captain,@10462
+31187,Dark Brotherhood Investigation Captain,Enclema
+31188,Dark Brotherhood Escort Captain,Kloud
+31189,Dark Brotherhood Research Captain,Sophos
+31190,Chief Assistant,Edwin
+31191,Mother Basilisk,Enas
+31201,@30003,Lost Lizardman Fighter
+31202,@30003,Lost Lizardman
+31203,@30003,Maneater Forest Spider
+31204,@30003,Furious Fairy Willow
+31205,@30003,274 Normal
+31206,@30003,282 Normal
+31207,@30003,290 Normal
+31208,@30003,298 Normal
+31209,@30003,306 Normal
+31210,@30003,314 Normal
+31281,Leto Pioneer,Intrepidez
+31282,Leto Adventurer,Avetura
+31283,Corpse Cleaner,Gari
+31284,Long-time Forest Dweller,Alkaios
+31285,,274 Named
+31286,,282 Named
+31287,,290 Named
+31288,,298 Named
+31289,,306 Named
+31290,,314 Named
+39011,,Pan Fighter
+39012,,Nymph Fleur
+39013,,Nymph Queen Lara
+40001,,Ramog’s Guard
+40002,,Ramog’s Guard Captain
+40003,,Ramog’s Royal Guard
+40004,,Tainted Golem
+40005,,Ramog’s Guard Archer
+40006,,Ramog’s Guard Grenadier
+40007,,@40001
+40008,,@40002
+40009,,@40004
+40010,,@40005
+40011,,Lunatic Self-destructing Soldier
+40012,,@40011
+40013,,Paagrio’s Ember
+40014,Sadistic Guard Captain,Boranta
+40015,Mad Orc,Ramog
+40016,@10602,Leewen
+40017,@10602,Laenis
+40018,@10602,@40017
+40019,@10602,@40016
+40020,,Orc Shaman Soul
+40084,,Nebulite Crystal
+40085,,@40001
+40086,,@40005
+40021,,@40001
+40022,,@40002
+40023,,@40003
+40024,,@40004
+40025,,@40005
+40026,,@40006
+40027,,@40001
+40028,,@40002
+40029,,@40004
+40030,,@40005
+40031,,@40011
+40032,,@40011
+40033,,@40013
+40034,@40014,@40014
+40035,@40015,@40015
+40036,@10602,@40016
+40037,@10602,@40017
+40038,@10602,@40017
+40039,@10602,@40016
+40040,,@40020
+40083,,@40084
+40087,,@40001
+40088,,@40005
+40041,,@40001
+40042,,@40002
+40043,,@40003
+40044,,@40004
+40045,,@40005
+40046,,@40006
+40047,,@40001
+40048,,@40002
+40049,,@40004
+40050,,@40005
+40051,,@40011
+40052,,@40011
+40053,,@40013
+40054,@40014,@40014
+40055,@40015,@40015
+40056,@10602,@40016
+40057,@10602,@40017
+40058,@10602,@40017
+40059,@10602,@40016
+40060,,@40020
+40082,,@40084
+40089,,@40001
+40090,,@40005
+40061,,@40001
+40062,,@40002
+40063,,@40003
+40064,,@40004
+40065,,@40005
+40066,,@40006
+40067,,@40001
+40068,,@40002
+40069,,@40004
+40070,,@40005
+40071,,@40011
+40072,,@40011
+40073,,@40013
+40074,@40014,@40014
+40075,@40015,@40015
+40076,@10602,@40016
+40077,@10602,@40017
+40078,@10602,@40017
+40079,@10602,@40016
+40080,,@40020
+40081,,@40084
+40091,,@40001
+40092,,@40005
+40099,,Ramog’s Energy
+40098,,Exploding Paagrio’s Ember
+40101,,@21305
+40102,,Zaken Pirates Hammerfist
+40103,,@21306
+40104,,@21312
+40105,,Vampiric Leech
+40118,,Supersaturated Maggot
+40106,,Maggot Zombie
+40117,,Maggot
+40107,Underboss,@10149
+40108,,Blood Clot
+40109,,Trisha’s Bat
+40110,@11352,@11352
+40111,@11352,@3109
+40112,Guardian Knight,Leonard
+40113,Countess of Blood,Trisha
+40114,@11317,@11142
+40115,@11317,@11142
+40116,@11317,@11142
+40121,,@21305
+40122,,@40102
+40123,,@21306
+40124,,@21312
+40125,,@40105
+40126,,@40118
+40127,,@40106
+40128,,@40117
+40129,@40107,@10149
+40130,,@40108
+40131,,@40109
+40132,@11352,@11352
+40133,@11352,@3109
+40134,@40112,@40112
+40135,@40113,@40113
+40136,@11317,@11142
+40137,@11317,@11142
+40138,@11317,@11142
+40141,,@21305
+40142,,@40102
+40143,,@21306
+40144,,@21312
+40145,,@40105
+40146,,@40118
+40147,,@40106
+40148,,@40117
+40149,@40107,@10149
+40150,,@40108
+40151,,@40109
+40152,@11352,@11352
+40153,@11352,@3109
+40154,@40112,@40112
+40155,@40113,@40113
+40156,@11317,@11142
+40157,@11317,@11142
+40158,@11317,@11142
+40159,,Giran Advance Party Member
+40160,Giran Advance Party,Turner
+40161,,Pile of Trash
+40171,,@21305
+40172,,@40102
+40173,,@21306
+40174,,@21312
+40175,,@40105
+40188,,@40118
+40176,,@40106
+40177,,@40117
+40178,@40107,@10149
+40179,,@40108
+40180,,@40109
+40181,@11352,@11352
+40182,@11352,@3109
+40183,@40112,@40112
+40184,@40113,@40113
+40185,@11317,@11142
+40186,@11317,@11142
+40187,@11317,@11142
+60012,,Mercenary Knight
+60013,,Mercenary Archer
+60014,,@60012
+60015,,Lucien
+60016,,Elpin
+60018,,@60013
+60021,,Loyalist Knight
+60022,,Loyalist Archer
+60023,,@60021
+60024,The Blood Spear,Marlow
+60027,,Control Tower
+60028,,Gatehouse
+70101,,@3111
+70102,,@3112
+70103,,@3113
+70104,,@3114
+70105,,@3115
+70106,,@3009
+70107,,@3116
+70201,,@3111
+70202,,@3007
+70203,,@3017
+70204,,@3102
+70205,,@3002
+70206,,@3003
+70207,,@3001
+70208,,@3027
+70209,,@3017
+70210,,@3106
+70211,,@3112
+70212,,@3096
+70213,,@3097
+70214,,@3095
+70215,,@3061
+70216,,@3058
+70217,,@3059
+70218,,@3090
+70219,,@3091
+70220,,@3094
+70221,,@3113
+70222,,@3004
+70223,,@3024
+70224,,@3036
+70225,,@3069
+70226,,@3026
+70227,,@3014
+70228,,@3072
+70229,,@3074
+70230,,@3081
+70231,,@3114
+70232,,@3011
+70233,,@3019
+70234,,@3073
+70235,,@3076
+70236,,@3077
+70237,,@3078
+70238,,@3064
+70239,,@3066
+70240,,@3065
+70241,,@3115
+70242,,@3016
+70243,,@3083
+70244,,@3068
+70245,,@3013
+70246,,@3015
+70247,,@3050
+70248,,@3032
+70249,,@3016
+70250,,@3068
+70251,,@3009
+70252,,@3043
+70253,,@3044
+70254,,@3046
+70255,,@3037
+70256,,@3039
+70257,,@3041
+70258,,@3108
+70259,,@3020
+70260,,@3040
+70261,,@3116
+70262,,@3082
+70263,,@3022
+70264,,@3080
+70265,,@3052
+70266,,Monster Eye Watcher
+70267,,@3100
+70268,,@3051
+70269,,@3023
+70270,,@3084
+70301,,@3111
+70401,,@3025
+70402,,@3067
+70403,,@20752
+70404,,@3029
+70405,,@3000
+70406,,@3106
+70407,,@3017
+70408,,@3106
+70409,,@3007
+70410,,@3007
+70411,,@3017
+70412,,@3102
+70413,,@3002
+70414,,@3003
+70415,,@3001
+70416,,@3027
+70417,,@3029
+70418,,@3106
+70419,,@3112
+70420,,@3096
+70421,,@3097
+70422,,@3095
+70423,,@3061
+70424,,@3058
+70425,,@3059
+70426,,@3090
+70427,,@3091
+70428,,@3094
+70429,,@3103
+70430,,@3061
+70431,,@3058
+70432,,@3092
+70433,,@3090
+70434,,@3094
+70435,,@3085
+70436,,@3088
+70437,,@3087
+70438,,@3113
+70439,,@3004
+70440,,@3024
+70441,,@3036
+70442,,@3069
+70443,,@3026
+70444,,@3014
+70445,,@3072
+70446,,@3074
+70447,,@3081
+70448,,@3006
+70449,,@3018
+70450,,@304
+70451,,@3004
+70452,,@3036
+70453,,@3074
+70454,,@3069
+70455,,@3026
+70456,,@3072
+70457,,@3114
+70458,,@3011
+70459,,@3019
+70460,,@3073
+70461,,@3076
+70462,,@3077
+70463,,@3078
+70464,,@3064
+70465,,@3066
+70466,,@3065
+70467,,@3078
+70468,,@3079
+70469,,@3076
+70470,,@3011
+70471,,@3030
+70472,,@3031
+70473,,@3065
+70474,,@3019
+70475,,@3073
+70476,,@3115
+70477,,@3016
+70478,,@3083
+70479,,@3068
+70480,,@3013
+70481,,@3015
+70482,,@3050
+70483,,@3032
+70484,,@3016
+70485,,@3068
+70486,,@3032
+70487,,@3083
+70488,,@3013
+70489,,@3075
+70490,,@3050
+70491,,@3083
+70492,,@3015
+70493,,@3068
+70494,,@3016
+70495,,@3009
+70496,,@3043
+70497,,@3044
+70498,,@3046
+70499,,@3037
+70500,,@3039
+70501,,@3041
+70502,,@3108
+70503,,@3020
+70504,,@3040
+70505,,@3040
+70506,,@3039
+70507,,@3041
+70508,,@3108
+70509,,@3020
+70510,,@3037
+70511,,@3043
+70512,,@3044
+70513,,@3046
+70514,,@3116
+70515,,@3082
+70516,,@3022
+70517,,@3080
+70518,,@3052
+70519,,@70266
+70520,,@3100
+70521,,@3051
+70522,,@3023
+70523,,@3084
+70524,,@3084
+70525,,@70266
+70526,,@3080
+70527,,@3051
+70528,,@3100
+70529,,@3052
+70530,,@3023
+70531,,@3022
+70532,,@3082
+70601,,@3111
+70602,,@3025
+70603,,@3067
+70604,,@20752
+70605,,@3029
+70606,,@3000
+70607,,@3106
+70608,,@3017
+70609,,@3106
+70610,,@3007
+70611,,@3007
+70612,,@3017
+70613,,@3102
+70614,,@3002
+70615,,@3003
+70616,,@3001
+70617,,@3027
+70618,,@3029
+70619,,@3106
+70620,,@3112
+70621,,@3096
+70622,,@3097
+70623,,@3095
+70624,,@3061
+70625,,@3058
+70626,,@3059
+70627,,@3090
+70628,,@3091
+70629,,@3094
+70630,,@3103
+70631,,@3061
+70632,,@3058
+70633,,@3092
+70634,,@3090
+70635,,@3094
+70636,,@3085
+70637,,@3088
+70638,,@3087
+70639,,@3113
+70640,,@3004
+70641,,@3024
+70642,,@3036
+70643,,@3069
+70644,,@3026
+70645,,@3014
+70646,,@3072
+70647,,@3074
+70648,,@3081
+70649,,@3006
+70650,,@3018
+70651,,@304
+70652,,@3004
+70653,,@3036
+70654,,@3074
+70655,,@3069
+70656,,@3026
+70657,,@3072
+70658,,@3114
+70659,,@3011
+70660,,@3019
+70661,,@3073
+70662,,@3076
+70663,,@3077
+70664,,@3078
+70665,,@3064
+70666,,@3066
+70667,,@3065
+70668,,@3078
+70669,,@3079
+70670,,@3076
+70671,,@3011
+70672,,@3030
+70673,,@3031
+70674,,@3065
+70675,,@3019
+70676,,@3073
+70677,,@3115
+70678,,@3016
+70679,,@3083
+70680,,@3068
+70681,,@3013
+70682,,@3015
+70683,,@3050
+70684,,@3032
+70685,,@3016
+70686,,@3068
+70687,,@3032
+70688,,@3083
+70689,,@3013
+70690,,@3075
+70691,,@3050
+70692,,@3083
+70693,,@3015
+70694,,@3068
+70695,,@3016
+70696,,@3009
+70697,,@3043
+70698,,@3044
+70699,,@3046
+70700,,@3037
+70701,,@3039
+70702,,@3041
+70703,,@3108
+70704,,@3020
+70705,,@3040
+70706,,@3040
+70707,,@3039
+70708,,@3041
+70709,,@3108
+70710,,@3020
+70711,,@3037
+70712,,@3043
+70713,,@3044
+70714,,@3046
+70715,,@3116
+70716,,@3082
+70717,,@3022
+70718,,@3080
+70719,,@3052
+70720,,@70266
+70721,,@3100
+70722,,@3051
+70723,,@3023
+70724,,@3084
+70725,,@3084
+70726,,@70266
+70727,,@3080
+70728,,@3051
+70729,,@3100
+70730,,@3052
+70731,,@3023
+70732,,@3022
+70733,,@3082
+70734,,@3111
+70735,,@3025
+70736,,@3067
+70737,,@20752
+70738,,@3029
+70739,,@3000
+70740,,@3106
+70741,,@3017
+70742,,@3106
+70743,,@3007
+70744,,@3007
+70745,,@3017
+70746,,@3102
+70747,,@3002
+70748,,@3003
+70749,,@3001
+70750,,@3027
+70751,,@3029
+70752,,@3106
+70753,,@3112
+70754,,@3096
+70755,,@3097
+70756,,@3095
+70757,,@3061
+70758,,@3058
+70759,,@3059
+70760,,@3090
+70761,,@3091
+70762,,@3094
+70763,,@3103
+70764,,@3061
+70765,,@3058
+70766,,@3092
+70767,,@3090
+70768,,@3094
+70769,,@3085
+70770,,@3088
+70771,,@3087
+70772,,@3113
+70773,,@3004
+70774,,@3024
+70775,,@3036
+70776,,@3069
+70777,,@3026
+70778,,@3014
+70779,,@3072
+70780,,@3074
+70781,,@3081
+70782,,@3006
+70783,,@3018
+70784,,@304
+70785,,@3004
+70786,,@3036
+70787,,@3074
+70788,,@3069
+70789,,@3026
+70790,,@3072
+70791,,@3114
+70792,,@3011
+70793,,@3019
+70794,,@3073
+70795,,@3076
+70796,,@3077
+70797,,@3078
+70798,,@3064
+70799,,@3066
+70800,,@3065
+70801,,@3078
+70802,,@3079
+70803,,@3076
+70804,,@3011
+70805,,@3030
+70806,,@3031
+70807,,@3065
+70808,,@3019
+70809,,@3073
+70810,,@3115
+70811,,@3016
+70812,,@3083
+70813,,@3068
+70814,,@3013
+70815,,@3015
+70816,,@3050
+70817,,@3032
+70818,,@3016
+70819,,@3068
+70820,,@3032
+70821,,@3083
+70822,,@3013
+70823,,@3075
+70824,,@3050
+70825,,@3083
+70826,,@3015
+70827,,@3068
+70828,,@3016
+70829,,@3009
+70830,,@3043
+70831,,@3044
+70832,,@3046
+70833,,@3037
+70834,,@3039
+70835,,@3041
+70836,,@3108
+70837,,@3020
+70838,,@3040
+70839,,@3040
+70840,,@3039
+70841,,@3041
+70842,,@3108
+70843,,@3020
+70844,,@3037
+70845,,@3043
+70846,,@3044
+70847,,@3046
+70848,,@3116
+70849,,@3082
+70850,,@3022
+70851,,@3080
+70852,,@3052
+70853,,@70266
+70854,,@3100
+70855,,@3051
+70856,,@3023
+70857,,@3084
+70858,,@3084
+70859,,@70266
+70860,,@3080
+70861,,@3051
+70862,,@3100
+70863,,@3052
+70864,,@3023
+70865,,@3022
+70866,,@3082
+80011,,@3027
+80012,,@3101
+80013,,@3025
+80014,,Giant Groot
+80021,,@3029
+80022,,@3067
+80023,,@3007
+80024,,Cursed Harron
+80031,,@3027
+80032,,@3007
+80033,,Red Fox
+80034,,Gruus the Pillager
+80041,,@3029
+80042,,@3067
+80043,,@30007
+80044,,Taracula the Iron Spider
+80051,,@80014
+80052,,@80024
+80053,,@80034
+80054,,@80044
+80055,,Silver Kyliana
+80061,,@3097
+80062,,@3095
+80063,,@3096
+80064,,Steel Warchief Khanzel
+80071,,@3029
+80072,,@3025
+80073,,@20752
+80074,,Deadly Black Widow
+80081,,@3106
+80082,,@3000
+80083,,@80033
+80084,,Grizzle the Pulverizer
+80091,,@3097
+80092,,@3095
+80093,,@3096
+80094,,Slayer Tukoon
+80101,,@80064
+80102,,@80074
+80103,,@80084
+80104,,@80094
+80105,,Forgotten Golem Fist
+80111,,@3076
+80112,,@3077
+80113,,@3089
+80114,,Soul Exploiter Predoom
+80121,,@3061
+80122,,@3059
+80124,,Ol Mahum Warrior Mahon
+80131,,@3052
+80132,,@3005
+80133,,@3068
+80134,,Harbinger Grang
+80141,,@3076
+80142,,@3077
+80143,,@20752
+80144,,Dark Devourer Pleus
+80151,,@80114
+80152,,@80124
+80153,,@80134
+80154,,@80144
+80155,,Maruun the Lunatic
+80161,,@3106
+80162,,@80033
+80163,,@3007
+80164,,Gruto the Gorge Tyrant
+80171,,@3046
+80172,,@3043
+80173,,@3037
+80174,,Grazen the Sinister Shaman
+80181,,@3000
+80182,,@80033
+80183,,@3007
+80184,,Rabid Werewolf Warrick
+80191,,@3007
+80192,,@3103
+80193,,@3027
+80194,,Vile Bugbear Mos
+80201,,@80164
+80202,,@80174
+80203,,@80184
+80204,,@80194
+80205,,Black Venom Skelepie
+80211,,@3037
+80212,,@3043
+80213,,@3046
+80214,,Red Marsh Warrior Mondeltis
+80221,,@3043
+80222,,@3044
+80223,,@3046
+80224,,Red Marsh Shaman Parzantis
+80231,,@3102
+80232,,@3097
+80233,,@3095
+80234,,Blackhand Warchief Turak
+80241,,@3090
+80242,,@3097
+80243,,@3095
+80244,,Blackhand Warrior Gruuk
+80251,,@80214
+80252,,@80224
+80253,,@80234
+80254,,@80244
+80255,,Black Forest Hollow
+80261,,@3076
+80262,,@3077
+80263,,@3073
+80264,,Soul Destroyer Mammon
+80271,,@3061
+80272,,@3059
+80273,,@3058
+80274,,Dissonance Kodomor Warrior
+80281,,@3007
+80282,,@3067
+80283,,@3027
+80284,,Blue Mane Kelpaus
+80291,,@3102
+80292,,@3090
+80293,,@3097
+80294,,Red Arrow Tapupa
+80301,,@80264
+80302,,@80274
+80303,,@80284
+80304,,@80294
+80305,,Pakattu the Butcher
+80311,,@3005
+80312,,@3052
+80313,,@3082
+80314,,Red Sand Sahara
+80321,,@3001
+80322,,@3003
+80323,,@3002
+80324,,Mutated Ant Forza
+80331,,@3004
+80332,,@3024
+80333,,@3089
+80334,,Grimhorn the Skullcrusher
+80341,,@3076
+80342,,@3077
+80343,,@3073
+80344,,Phetalius of Despair
+80351,,@80314
+80352,,@80324
+80353,,@80334
+80354,,@80344
+80355,,Sephiroth the Corpse Devourer
+80361,,@3059
+80362,,@3061
+80363,,@3058
+80364,,Vicious Madok
+80371,,@3090
+80372,,@3094
+80373,,@3091
+80374,,Callous Vontuk
+80381,,@3029
+80382,,@20752
+80383,,@3025
+80384,,Kricule the Poison Queen
+80391,,@3000
+80392,,@3106
+80393,,@3007
+80394,,Thunderfist Kuma
+80401,,@80364
+80402,,@80374
+80403,,@80384
+80404,,@80394
+80405,,Lizardman Prophet Zabteesh
+80411,,@3029
+80412,,@20752
+80413,,@3025
+80414,,Brutal Venomous Spider
+80421,,@80033
+80422,,@3007
+80423,,@3027
+80424,,Dire Red Bear
+80431,,@3007
+80432,,@3103
+80433,,@3027
+80434,,Vile King Bugbear
+80441,,@3000
+80442,,@3106
+80443,,@3027
+80444,,Charming Red Fox
+80451,,@80414
+80452,,@80424
+80453,,@80434
+80454,,@80444
+80455,,Soul Devourer Prima
+80461,,@3078
+80462,,@3079
+80463,,@3073
+80464,,Phantom Horror
+80471,,@3052
+80472,,@3005
+80473,,@3068
+80474,,Abhorrent Reaper of Misery
+80481,,@3046
+80482,,@3043
+80484,,Wicked Lizardman Shaman
+80491,,@3106
+80492,,@80033
+80493,,@3007
+80494,,Tenacious Red Bear
+80501,,@80464
+80502,,@80474
+80503,,@80484
+80504,,@80494
+80505,,Usher of Death
+80511,,@3082
+80512,,@3074
+80513,,@3052
+80514,,Insidious Shadow Beast
+80521,,@3029
+80522,,@3025
+80523,,@3027
+80524,,Fallen Guardian of the Forest
+80531,,@3029
+80532,,@20752
+80533,,@3025
+80534,,Cunning Spider
+80541,,@80033
+80542,,@3014
+80543,,@3027
+80544,,Greater Chaser Wolf
+80551,,@80514
+80552,,@80524
+80553,,@80534
+80554,,@80544
+80555,,Vengeful Silenos Ruler
+80561,,@3061
+80562,,@3058
+80563,,@3059
+80564,,Mysterious Ol Mahum Warchief
+80571,,@3076
+80572,,@3077
+80573,,@3073
+80574,,Grotesque Usher of Death
+80581,,@3082
+80582,,@3074
+80583,,@3052
+80584,,Dire Shadow Beast
+80591,,@3029
+80592,,@3081
+80593,,@304
+80594,,Cursed Master of the Forest
+80601,,@80564
+80602,,@80574
+80603,,@80584
+80604,,@80594
+80605,,Dicor of Unease
+80611,,@3019
+80612,,@3011
+80613,,@3073
+80614,,Conjura
+80621,,@3052
+80622,,@3005
+80623,,@3068
+80624,,Death
+80631,,@3031
+80632,,@3030
+80633,,@3053
+80634,,Maros
+80641,,@3082
+80642,,@3074
+80643,,@3052
+80644,,Perjedilla
+80651,,@80614
+80652,,@80624
+80653,,@80634
+80654,,@80644
+80655,,Hebe
+80661,,@3029
+80662,,@20752
+80663,,@3025
+80664,,Beth
+80671,,@3106
+80672,,@80033
+80673,,@3007
+80674,,Eyesis
+80681,,@3018
+80682,,@3050
+80683,,@3083
+80684,,Whisper
+80691,,@3007
+80692,,@3103
+80693,,@3027
+80694,,Kardamok
+80701,,@80664
+80702,,@80674
+80703,,@80684
+80704,,@80694
+80705,,Kezar
+80711,,@3067
+80712,,@3048
+80713,,@3053
+80714,,Carabor
+80721,,@3024
+80722,,@3089
+80723,,@3004
+80724,,Marduk
+80731,,@3067
+80732,,@3007
+80733,,@3027
+80734,,Ekis
+80741,,@80033
+80742,,@3014
+80743,,@3103
+80744,,@20898
+80751,,@80714
+80752,,@80724
+80753,,@80734
+80754,,@20898
+80755,,Dorma
+80761,,@3078
+80762,,@3079
+80763,,@3064
+80764,,Temperus
+80771,,@80033
+80772,,@3014
+80773,,@3027
+80774,,Belemos
+80781,,@3026
+80782,,@3036
+80783,,@3069
+80784,,Meforde
+80791,,@3019
+80792,,@3011
+80793,,@3073
+80794,,Baht
+80801,,@80764
+80802,,@80774
+80803,,@80784
+80804,,@80794
+80805,,Lue
+80811,,@3078
+80812,,@3079
+80813,,@3099
+80814,,Premo of Despair
+80821,,@3073
+80822,,@3099
+80823,,@3089
+80824,,Impending Doom
+80831,,@3018
+80832,,@3050
+80833,,@3083
+80834,,Woeful Hex Queen
+80841,,@3064
+80842,,@3099
+80843,,@3073
+80844,,Sea Spirit
+80851,,@80814
+80852,,@80824
+80853,,@80834
+80854,,@80844
+80855,,Deep Sea Spirit
+80861,,@3067
+80862,,@3007
+80863,,@3027
+80864,,Uncontrollable Beast
+80871,,@3094
+80872,,@3091
+80873,,@3093
+80874,,Mighty Orc Ruler
+80881,,@3052
+80882,,@3005
+80883,,@3068
+80884,,Reaper of Doom
+80891,,@3004
+80892,,@3074
+80893,,@3089
+80894,,Abyssal King Bugbear
+80901,,@80864
+80902,,@80874
+80903,,@80884
+80904,,@80894
+80905,,Merciless Dark Lord
+80911,,@3083
+80912,,@3075
+80913,,@3008
+80914,,Heinous Emperor of Evil
+80921,,@3007
+80922,,@3067
+80923,,@3027
+80924,,Crazed Beast
+80931,,@3078
+80932,,@3079
+80933,,@3110
+80934,,Sinister Wings of Hell
+80941,,@3037
+80942,,@3041
+80943,,@3039
+80944,,Ferocious Lizardman Shaman
+80951,,@80914
+80952,,@80924
+80953,,@80934
+80954,,@80944
+80955,,Bloodthirsty Orc Captain
+80961,,@3085
+80962,,@3088
+80963,,@3087
+80964,,Ferocious Silenos Ruler
+80971,,@3024
+80972,,@3004
+80973,,@3089
+80974,,Sickening Doom
+80981,,@3055
+80982,,@3057
+80984,,Heartless Oel Shaman
+80991,,@3023
+80992,,@3082
+80993,,@3022
+80994,,Woeful Lesser Giant
+81001,,@80964
+81002,,@80974
+81003,,@80984
+81004,,@80994
+81005,,The Queen Who Defied the Gods
+91101,Strongbox Watcher,@3118
+91102,Kresous’s Summon,Hatchling
+91103,,Adena Treasure Chest
+91201,@91101,@3118
+91202,@91102,@91102
+91203,,@91103
+91301,@91101,@3118
+91302,@91102,@91102
+91303,,@91103
+91401,@91101,@3118
+91402,@91102,@91102
+91403,,@91103
+91501,@91101,@3118
+91502,@91102,@91102
+91503,,@91103
+92101,,@10162
+92102,,@20210
+92106,,@3068
+92107,,@3015
+92201,,Purgatory Skeleton Soldier
+92202,,Purgatory Skeleton Archer
+92205,,Purgatory Reaper
+92206,,Limbo Choir Prima
+92207,,Purgatory Lord
+92301,,Hell's Skeleton Trooper
+92302,,Hell's Skeleton Sniper
+92305,,@21316
+92306,,Lesser Demon
+92307,,Hell Lord
+92401,,Underworld Specter
+92402,,Underworld Avenger
+92405,,Lesser Demon Harvester
+92406,,Underworld Knight
+92407,,Underworld Lord
+92501,,@92401
+92502,,@92402
+92505,,@92405
+92506,,@92406
+92507,,@92407
+92508,,@21731
+93100,,Water Crystal
+93101,,@3080
+93102,,Gargoyle
+93103,,@20307
+93104,,@3018
+93105,,@3026
+93106,,@20308
+93200,,@93100
+93201,,@3080
+93202,,@93102
+93203,,@20307
+93204,,@3018
+93205,,@3026
+93206,,@20308
+93300,,@93100
+93301,,@3080
+93302,,@93102
+93303,,@20307
+93304,,@3018
+93305,,@3026
+93306,,@20308
+93400,,@93100
+93401,,@3080
+93402,,@93102
+93403,,@20307
+93404,,@3018
+93405,,@3026
+93406,,@20308
+93500,,@93100
+93501,,@3080
+93502,,@93102
+93503,,@20307
+93504,,@3018
+93505,,@3026
+93506,,@20308
+93507,,@3100
+94100,,@202
+94101,,@10162
+94102,,@3005
+94103,,@21020
+94104,,@3021
+94105,,@3082
+94106,,Demon Contractor
+94200,,@202
+94201,,@10162
+94202,,@3005
+94203,,@21020
+94204,,@3021
+94205,,@3082
+94206,,@94106
+94300,,@202
+94301,,@10162
+94302,,@3005
+94303,,@21020
+94304,,@3021
+94305,,@3082
+94306,,@94106
+94400,,@202
+94401,,@10162
+94402,,@3005
+94403,,@21020
+94404,,@3021
+94405,,@3082
+94406,,@94106
+94407,,@3033
+94408,,@1001
+94500,,Protection Stone
+94501,,Summoning Stone
+94502,,@3022
+94503,,@3023
+94504,,@3052
+94505,,@3005
+94506,,@3080
+94510,,@94500
+94511,,@94501
+94512,,@3022
+94513,,@3023
+94514,,@3052
+94515,,@3005
+94516,,@3080
+94520,,@94500
+94521,,@94501
+94522,,@3022
+94523,,@3023
+94524,,@3052
+94525,,@3005
+94526,,@3080
+94530,,@94500
+94531,,@94501
+94532,,@3022
+94533,,@3023
+94534,,@3052
+94535,,@3005
+94536,,@3080
+100000,,Degenerated Lesser Giant Researcher
+100001,,@100000
+100002,,@100000
+100003,,@100000
+100004,,@100000
+100005,,@100000
+100006,,@100000
+100007,,@100000
+100008,,@100000
+100009,,@100000
+100010,,@100000
+100011,,@100000
+100012,,@100000
+100013,,@100000
+100014,,@100000
+100015,,@100000
+100090,,Deranged Lesser Giant
+100091,,@100090
+100092,,@100090
+110001,Lesser Giant's Subject,@20181
+110002,@110001,@20182
+110003,@110001,@20183
+110004,@110001,@20184
+110005,@110001,@20185
+110006,@110001,@20281
+110007,@110001,@20282
+110008,@110001,@20283
+110009,@110001,@20284
+110010,@110001,@30081
+110011,@110001,@30082
+110012,@110001,@30083
+110013,@110001,@30181
+110014,@110001,@30182
+110015,@110001,@30183
+110016,@110001,@30184
+110101,@110001,@20381
+110102,@110001,@20382
+110103,@110001,@20383
+110104,@110001,@20384
+110105,@110001,@20385
+110106,@110001,@20386
+110107,@110001,@20481
+110108,@110001,@20482
+110109,@110001,@20483
+110110,@110001,@20484
+110111,@110001,@20485
+110112,@110001,@20486
+110113,@110001,@20581
+110114,@110001,@20582
+110115,@110001,@20583
+110116,@110001,@20584
+110117,@110001,@20585
+110118,@110001,@20586
+110119,@110001,@20681
+110120,@110001,@20682
+110121,@110001,@20683
+110122,@110001,@20684
+110123,@110001,@20685
+110124,@110001,@20686
+110125,@110001,@20687
+110126,@110001,@30281
+110127,@110001,@30282
+110128,@110001,@30381
+110129,@110001,@30382
+110201,@110001,@20781
+110202,@110001,@20782
+110203,@110001,@20783
+110204,@110001,@20784
+110205,@110001,@20785
+110206,@110001,@20786
+110207,@110001,@20787
+110208,@110001,@20881
+110209,@110001,@20882
+110210,@110001,@20883
+110211,@110001,@20884
+110212,@110001,@20885
+110213,@110001,@20981
+110214,@110001,@20982
+110215,@110001,@20983
+110216,@110001,@20984
+110217,@110001,@20985
+110218,@110001,@21081
+110219,@110001,@21082
+110220,@110001,@21083
+110221,@110001,@21084
+110222,@110001,@11031
+110223,@110001,@21086
+110224,@110001,@21087
+110225,@110001,@30481
+110226,@110001,@30482
+110227,@110001,@30483
+110228,@110001,@30484
+110229,@110001,@30581
+110230,@110001,@30582
+110231,@110001,@30583
+110301,@110001,@21160
+110302,@110001,@21182
+110303,@110001,@21183
+110304,@110001,@21184
+110305,@110001,@21185
+110306,@110001,@21186
+110307,@110001,@11141
+110308,@110001,@21281
+110309,@110001,@21282
+110310,@110001,@21283
+110311,@110001,@21284
+110312,@110001,@21285
+110313,@110001,@21286
+110314,@110001,@21381
+110315,@110001,@21382
+110316,@110001,@21383
+110317,@110001,@21384
+110318,@110001,@21481
+110319,@110001,@21482
+110320,@110001,@21483
+110321,@110001,@21484
+110322,@110001,@21485
+110323,@110001,@21486
+110324,@110001,@21487
+110325,@110001,@30691
+110326,@110001,@30692
+110327,@110001,@30693
+110328,@110001,@30791
+110329,@110001,@30792
+110330,@110001,@30793
+110331,@110001,@30891
+110332,@110001,@30892
+110333,@110001,Sandstorm
+110334,@110001,@31181
+110335,@110001,@31182
+110336,@110001,@11144
+110337,@110001,@31184
+110338,@110001,@31185
+110339,@110001,@10462
+110340,@110001,@31187
+110341,@110001,@31188
+110342,@110001,@31189
+110343,@110001,@31190
+110344,@110001,@31191
+110401,@110001,@21581
+110402,@110001,@21582
+110403,@110001,@21583
+110404,@110001,@21584
+110405,@110001,@21585
+110406,@110001,@21586
+110407,@110001,@21681
+110408,@110001,@21682
+110409,@110001,@21683
+110410,@110001,@21684
+110411,@110001,@21685
+110412,@110001,@21781
+110413,@110001,@21782
+110414,@110001,@21783
+110415,@110001,@21784
+110416,@110001,@21787
+110417,@110001,@21786
+110418,@110001,@21785
+110419,@110001,@30991
+110420,@110001,@30992
+110421,@110001,@30993
+110422,@110001,@31091
+110423,@110001,@31092
+110424,@110001,@31093
+110425,@110001,@31281
+110426,@110001,@31282
+110427,@110001,@31283
+110428,@110001,@31284
+110429,@110001,@31285
+110430,@110001,@31286
+110431,@110001,@31287
+110432,@110001,@31288
+110433,@110001,@31289
+110434,@110001,@31290
+120101,@110001,@20298
+120102,@110001,@20398
+120103,@110001,@20498
+120104,@110001,@20598
+120105,@110001,@20698
+120201,@110001,@20798
+120202,@110001,@20898
+120203,@110001,@20998
+120301,@110001,@21198
+120302,@110001,@21298
+120303,@110001,@21498
+120401,@110001,@21598
+120402,@110001,@3072
+120403,@110001,@21698
+120404,@110001,@21798
+130201,@110001,@3028
+130301,@110001,@3109
+130401,@110001,@3062
+150001,@110001,@20124
+150002,@110001,@20120
+150003,@110001,@20128
+150004,@110001,@20113
+150005,@110001,@20122
+150006,@110001,@20203
+150007,@110001,@20211
+150008,@110001,@20208
+150009,@110001,@20234
+150010,@110001,@30006
+150011,@110001,@30007
+150012,@110001,@30005
+150013,@110001,@30101
+150014,@110001,@30102
+150015,@110001,@30104
+150016,@110001,@30105
+150101,@110001,@20352
+150102,@110001,@20301
+150103,@110001,@10162
+150104,@110001,@20335
+150105,@110001,@20339
+150106,@110001,@3058
+150107,@110001,@20418
+150108,@110001,@20420
+150109,@110001,@20446
+150150,@110001,@3043
+150111,@110001,@3044
+150112,@110001,@20442
+150113,@110001,@3101
+150114,@110001,@20505
+150115,@110001,@20547
+150116,@110001,@20510
+150117,@110001,@20509
+150118,@110001,@3097
+150119,@110001,@20602
+150120,@110001,@20607
+150121,@110001,@20606
+150122,@110001,@20640
+150123,@110001,@3024
+150124,@110001,@20646
+150125,@110001,@20613
+150126,@110001,@30201
+150127,@110001,@30204
+150128,@110001,@30304
+150129,@110001,@30306
+150201,@110001,@20714
+150202,@110001,@20715
+150203,@110001,@20716
+150204,@110001,@3037
+150205,@110001,@20725
+150206,@110001,@3039
+150207,@110001,@3040
+150208,@110001,@3078
+150209,@110001,@3079
+150210,@110001,@3053
+150211,@110001,@20814
+150212,@110001,@20817
+150213,@110001,@3014
+150214,@110001,@20933
+150215,@110001,@20961
+150216,@110001,@20922
+150217,@110001,@20911
+150218,@110001,@21002
+150219,@110001,@21004
+150220,@110001,@3019
+150221,@110001,@21015
+150222,@110001,@3030
+150223,@110001,@3031
+150224,@110001,@21022
+150225,@110001,@30402
+150226,@110001,@30403
+150227,@110001,@30404
+150228,@110001,@3084
+150229,@110001,@30501
+150230,@110001,@3051
+150231,@110001,@3042
+150301,@110001,@3050
+150302,@110001,@21141
+150303,@110001,@21123
+150304,@110001,@21135
+150305,@110001,@21112
+150306,@110001,@21110
+150307,@110001,@21137
+150308,@110001,@21208
+150309,@110001,@21258
+150310,@110001,@3099
+150311,@110001,@21225
+150312,@110001,@21226
+150313,@110001,@21221
+150314,@110001,@21302
+150315,@110001,@21308
+150316,@110001,@21312
+150317,@110001,@21310
+150318,@110001,@11416
+150319,@110001,@21405
+150320,@110001,@21417
+150321,@110001,@21419
+150322,@110001,@3023
+150323,@110001,@21432
+150324,@110001,@21412
+150325,@110001,Tainted Fungus
+150326,@110001,@21742
+150327,@110001,@21746
+150328,@110001,@21426
+150329,@110001,@30717
+150330,@110001,@30718
+150331,@110001,@21020
+150332,@110001,@30817
+150333,@110001,@30819
+150334,@110001,@31101
+150335,@110001,@31102
+150336,@110001,@31103
+150337,@110001,@31104
+150338,@110001,@31105
+150339,@110001,@31106
+150340,@110001,@31107
+150341,@110001,@31108
+150342,@110001,@31109
+150343,@110001,@31110
+150344,@110001,@31111
+150401,@110001,@21501
+150402,@110001,@21508
+150403,@110001,@21528
+150404,@110001,@21526
+150405,@110001,@21521
+150406,@110001,@3040
+150407,@110001,@21637
+150408,@110001,@3056
+150409,@110001,@20148
+150410,@110001,@21620
+150411,@110001,@3012
+150412,@110001,@21709
+150413,@110001,@21716
+150414,@110001,@21720
+150415,@110001,@21726
+150416,@110001,@21727
+150417,@110001,@21731
+150418,@110001,@21729
+150419,@110001,@30901
+150420,@110001,@30906
+150421,@110001,@30902
+150422,@110001,@31001
+150423,@110001,@31008
+150424,@110001,@31009
+150425,@110001,@31201
+150426,@110001,@31202
+150427,@110001,@31203
+150428,@110001,@31204
+150429,@110001,@31205
+150430,@110001,@31206
+150431,@110001,@31207
+150432,@110001,@31208
+150433,@110001,@31209
+150434,@110001,@31210
+220101,,@10190
+220102,,@3103
+220103,@10166,@10166
+220104,,@10103
+220105,,@3103
+220106,,@20106
+220108,,@20108
+220114,Corrupt One,Votis
+220115,,Resurrected Orc Warchief
+220131,,@20206
+220132,,@20144
+220133,Human Amputator,Orc Troop Captain
+220134,,Orc Troop
+220135,,@3068
+220136,Mind Destroyer,@3015
+220137,,Gorsaur's Royal Guard
+220138,,Gorsaur
+220140,,@10152
+220141,@10162,@10162
+220142,,@220137
+220143,,@3011
+220146,,@20126
+220147,,@10349
+220148,,@20144
+220150,,@3050
+220151,,@3075
+220154,,Votis's Watchman
+220155,,@10170
+220156,,@20109
+220157,,Carpheous
+220158,,@20144
+220201,Corrupt Guardian,Stonefist
+220202,,Bound Werewolf
+220203,,Orc Instructor
+220204,,@20204
+220205,,Orc Trainer
+220206,,@20206
+220207,,@3082
+220208,,@20257
+220209,,@10162
+220210,,@20224
+220222,,@20108
+220237,,@20237
+220240,,@3017
+220241,,@20214
+220242,Butcher,Dexter
+220243,Usher of Death,Orobas
+220245,,@3073
+220246,,@3068
+220247,,Headless Cavalier
+220248,,@3011
+220249,,@10162
+220250,,@20210
+220251,,@3019
+220252,@10236,@10236
+220253,@10237,@10162
+220254,Twisted Twins,@10359
+220255,@220254,Johnny
+220256,,@3073
+220257,@10236,@10236
+220258,,@3073
+220259,,@20307
+220260,Human Pulverizer,Tamed Bugbear
+220261,@20282,@20282
+220262,,Pestilence Reaper
+220263,,@20307
+220306,Goalseeker,Hortzco
+220307,,Ol Mahum Kidnapper
+220308,Graveyard Wanderer,Red Shadow
+220309,,Triggered Skeleton
+220310,,@20306
+220311,,@20343
+220312,,Venga
+220313,,@20343
+220314,,@20314
+220315,,@20343
+220316,,@20316
+220320,Scheming,Voldiac
+220321,,@20313
+220322,,@20320
+220323,,@20313
+220324,,@20320
+220336,,@20308
+220337,,Big Boss
+220338,,@20339
+220339,,@3076
+220340,,@20363
+220341,,@20308
+220342,,@3061
+220343,,@20343
+220344,,@220312
+220345,,@3061
+220346,,Cacha
+220347,,@220312
+220348,,@10162
+220349,,@20210
+220350,Ghost Ship Captain,@11230
+220351,,@20301
+220352,@10380,@10380
+220353,Abduction Specialist,Vollach
+220354,,@3061
+220355,,@10383
+220356,,@3064
+220357,,Pirate Escort
+220358,,@20308
+220359,,@220337
+220360,,@3076
+220361,,@20363
+220362,,@3076
+220363,@220320,@220320
+220364,,@3076
+220365,,@3059
+220366,,@20339
+220367,,Jackal
+220369,,@20311
+220370,,Dark Magic Subject
+220371,,Ol Mahum Soldier
+220372,,@220370
+220373,@10352,@10352
+220374,,Ol Mahum Elite Soldier
+220375,,@20337
+220376,Patrol Unit Boss,Turnell
+220378,,@20378
+220379,,@20379
+220380,,Mutated Gludin Townsperson
+220381,,@20307
+220382,,@3068
+220383,@21681,@3016
+220384,Nebulite Mutant,Ralf
+220385,,@3068
+220386,,@20378
+220387,,@20337
+220388,,@220371
+220389,,Kanum
+220390,,@3012
+220391,,@3012
+220392,,@220367
+220393,,@3061
+220394,,@220346
+220395,,@3061
+220396,,@20339
+220401,,@20408
+220402,,@20409
+220403,,Maille Lizardman Troop Captain
+220404,,Maille Lizardman Sharpshooter
+220405,,Resurrected Troop Captain
+220406,,Resurrected Sharpshooter
+220407,,@3044
+220408,,Maille Lizardman High Shaman
+220409,,Chancellor Reuenthal
+220410,,Turek Orc Sentinel
+220411,,@20442
+220412,,@3096
+220413,Elizabeth's Knights,@3013
+220414,@220413,@3013
+220415,,@20468
+220416,,@20403
+220417,@11727,Giantstride
+220418,Blood-colored Toenail,Gruffhands
+220419,,@20408
+220420,,@20420
+220421,,@20462
+220422,,@3027
+220423,,@20425
+220424,,@20424
+220425,,@20425
+220426,,@20425
+220427,Looter,@11113
+220428,,@20442
+220429,,Turek Orc Dark Mystic
+220430,Marc’s Right Hand,Tou
+220431,Marc’s Left Hand,Gaal
+220433,,@20432
+220434,,@3027
+220435,Emperor,Kaba
+220436,,@20462
+220437,Vile,Jakapa
+220438,,@3052
+220439,,@20408
+220440,,Maille Lizardman Captain
+220441,,@3044
+220442,Shaman,Kuata
+220443,,@20443
+220444,,@20357
+220445,,@20413
+220446,,Kariana
+220448,Tracking Lieutenant,Zareeve
+220449,@10236,@10458
+220450,Dark Magic Guardian,Revenant
+220451,Chief Guard,Kuaroon
+220452,Tracking Captain,Zariv
+220453,,@3044
+220454,,@20357
+220455,@220435,@220435
+220460,@10487,@10487
+220461,,@10470
+220462,,@20462
+220463,@20463,@20463
+220464,,@20464
+220465,,@20465
+220466,Revenant's Page,@92306
+220469,,@220429
+220470,@220413,@20210
+220472,,Dark Zombie Lord
+220473,Polemus’s Summon,@20420
+220475,,@3102
+220476,,@20414
+220477,,Dark Mystic's Page
+220478,,@20446
+220479,,@20447
+220480,,@20458
+220481,Kuaroon’s Escort,@20442
+220482,@220481,@20468
+220483,,Tukan
+220484,,@220483
+220485,,@20414
+220486,,@3102
+220487,,@3102
+220488,,Bakum
+220489,,@220488
+220490,,@20414
+220496,,@20414
+220491,Turek War Hound Trainer,Schringer
+220492,,@20414
+220493,,@20408
+220494,,@3044
+220495,,@3027
+220501,,@20414
+220502,,@20502
+220503,,@20503
+220504,,@20505
+220505,,@20505
+220506,,@20320
+220507,,@20507
+220508,,@20508
+220509,,@20509
+220510,,@20510
+220511,,@10547
+220512,,@20502
+220513,,@20503
+220514,,@3067
+220515,,@20502
+220516,,@20503
+220517,,@20517
+220518,,@10547
+220519,,@20510
+220520,,Rabid Turek War Hound
+220521,,@20517
+220522,,Insomniac Orc Soul
+220523,,Angry Turek Orc Guard
+220524,,Angry Turek Orc Trooper
+220525,,Angry Turek Orc Escort
+220526,,@20414
+220527,,@3096
+220528,,@220115
+220530,,@3097
+220533,,Vengeful Killer
+220536,,@20536
+220544,,@20544
+220545,,@20545
+220546,,Turek Orc Seeker
+220547,,@20547
+220548,,Giant Skeleton
+220549,,@3012
+220550,,@20550
+220551,,@220548
+220552,,@3012
+220555,,@3095
+220560,Mangled,@20598
+220562,Summoned,@3083
+220563,@220562,@10324
+220565,@220562,@3013
+220566,Absorbed Power of Darkness,@20110
+220568,Rabid,Crawler
+220569,Ambush Captain,Horkan
+220570,Vapar’s Right-hand Man,Qupown
+220571,Mother of War Hound,Riley
+220572,@220562,@10324
+220573,,@10546
+220574,,@10547
+220575,,Mammon
+220576,,@3083
+220577,,@10554
+220578,,@20510
+220579,,@20414
+220581,,@220548
+220582,Ultimate Weapon,Karvick
+220583,Windawood Murderer,Habeth
+220584,Minion,Nameless Subject
+220586,@220570,@220570
+220587,@220562,@10324
+220592,Signal Fire Guard,Guard Captain Kookan
+220593,,Horkan Guard
+220594,,Horkan Sniper
+220595,@220562,Qupown’s Servant
+220596,,Kookan’s Guards
+2205001,,Starving Hunting Dog
+2205002,Hunting Dog Trainer,Fraille
+2205003,,Black Hunting Dog
+2205004,,@20545
+2205005,,@20502
+2205006,@10819,Bezz
+2205007,,@20502
+2205008,,@20545
+2205009,,@20320
+2205010,,@3058
+2205011,,Lokita
+2205012,,@20320
+2205013,,@3058
+2205014,,@10383
+2205015,,Ol Mahum Archer
+2205016,,Canu
+2205017,,@10383
+2205018,,@2205015
+2205019,,Evil Spirit of Ruins
+2205020,,@220570
+2205021,,@2205019
+2205022,,@20516
+2205023,,@20352
+2205024,,Sanctuary Sentry
+2205025,,@20516
+2205026,,@3097
+2205027,,Turek Orc Marksman
+2205028,@220242,Kurk
+2205029,,Kurk’s Royal Guard
+2205030,,Kurk’s Marksman
+220601,,@3103
+220602,,@10383
+220603,,@20622
+220604,,Crazed Basilisk
+220605,,@20606
+220606,,@20606
+220607,,@20639
+220608,,@3082
+220609,,@20633
+220610,,@20618
+220611,,Ol Mahum Looter Captain
+220612,,Ol Mahum Looter Escort
+220613,,@20633
+220614,@10631,@10631
+220615,@30282,Ant Soldier Captain
+220616,,@3003
+220617,Pilot of Looting,Talarh
+220618,,Quick Foot
+220619,,@20634
+220620,,@20633
+220622,,@3082
+220623,,Giant Sahara
+220624,,@3074
+220625,,Phartos the Steel Golem
+220626,,@20611
+220628,,@20633
+220629,Magic Looter,Mana Eater
+220630,,@20622
+220631,Gloomy Assassin,Bloody Nail
+220632,,Monster Eye Manawatcher
+220633,,@20633
+220635,,Ol Mahum Looting Archer
+220636,,@220632
+220637,,@10383
+220638,,@3002
+220639,,@3003
+220640,,@220635
+220641,,Defeated Ant Soldier
+220642,,Defeated Noble Ant
+220644,,@20606
+220645,,@20611
+220646,,Ol Mahum Looter Porter
+220647,,@20633
+220649,,@20618
+220650,,@10635
+220651,,@10383
+220652,,@20611
+220653,,@20634
+220654,,@20633
+220658,@10819,@11350
+220677,,Dark Brotherhood Minion
+220678,Slumbering Terror,Scorpion
+220679,,@220641
+220680,@10633,@10633
+220681,,@10634
+220682,@220569,Deram
+220683,,Ol Mahum Attacker
+220684,,Ant Soldier Pioneer
+220685,Spawning Ground Pioneer,Noble Flyer
+220686,,@220677
+220687,,@10634
+220688,Wastelands Emperor,Ironmaw
+220689,,@20622
+2206001,,Bitter Evil Spirit
+2206002,,Fenril
+2206003,,By-product of Failure
+2206004,,@3004
+2206005,,Armored Ant Worker
+2206006,,@220623
+2206007,,@2206005
+2206008,,@20642
+2206009,,Leonic
+2206010,,@10162
+2206011,,@2206005
+2206012,,Ant General
+2206013,,@2206005
+2206014,,@20605
+2206015,,Armored Ant Page
+2206016,,Giant Ant
+2206017,,@20605
+2206018,,@2206015
+2206019,,@220604
+2206020,,Giant Basilisk
+2206021,,@220604
+2206022,,Ol Mahum Looter Carrier
+2206024,,Ol Mahum Looter Lookout
+2206025,,Kashtray
+2206026,,@2206022
+2206027,,@2206024
+2206028,,Traman’s Minion
+2206029,,Traman
+2206030,,@2206028
+2206031,@10676,@10676
+2206032,@10676,@10677
+2206033,@10676,@10678
+2206034,Captured,Bear
+220701,Plains Destroyer,Tulka
+220702,,@3091
+220703,,@3094
+220704,,Breka Orc Ranger Captain
+220706,Seeker Warchief,Karrack
+220707,Karrack’s Escort,@20715
+220708,,@3040
+220709,,@3041
+220710,,@3041
+220711,,@3040
+220712,@10784,@10784
+220713,,@10785
+220714,,@10786
+220715,,@10785
+220716,,@10786
+220719,,@20719
+220721,,@20462
+220722,Human Hunter,Kakish
+220723,Kakish’s Hand,Leto Lizardman Kidnapper
+220725,,@20727
+220728,,Leto Lizardman Sentry
+220741,,@20716
+220744,,@3094
+220745,,@3091
+220746,Tulka’s Escort,@20744
+220751,@10819,@11350
+220752,@10236,Sticky Entomo
+220753,@10236,@220752
+220754,,@220728
+220755,,Evil Summoning Stone
+220756,,Maneating Blade Spider
+220758,,@20720
+220759,,Venomous Blade Spider
+220760,@10631,@10753
+220761,,@20701
+220762,,@3094
+220764,,@3039
+220765,,@3040
+220766,,@20725
+220767,,@220728
+220768,,@20727
+220769,Agricultural Area Destroyer,Kakrish
+220770,,@20727
+220771,,@3039
+220774,,Restless Skeleton
+220775,,@3015
+220776,,@220774
+220777,,@92306
+220778,,@3015
+220783,,@20725
+220784,@20784,@20784
+220785,@20785,@20785
+220786,@20786,@20786
+220787,@11727,@20787
+220789,,Varash's Elite Soldier
+220790,@20784,@20784
+220791,,@20725
+220792,,@20725
+220793,@20785,@20785
+220794,,@220789
+220795,,@220789
+220796,@11727,@20787
+220797,,Screash's Escort
+2207001,,@20747
+2207002,,@20747
+2207003,,Mutated Wasp
+2207004,,Breka Orc Berserker
+2207005,,Garok’s Minion
+2207006,Berserker,Garok
+2207007,,@3039
+2207008,,Krush’s Minion
+2207009,@20785,@20785
+2207028,,@3039
+2207029,@20785,@20785
+2207010,,@3041
+2207011,,Varash’s Minion
+2207012,@20786,@20786
+2207013,,Summoned Leto Lizardman
+2207014,,Screash’s Minion
+2207015,@11727,@20787
+2207016,,Male Elder Antelope
+2207017,,@2207016
+2207018,,Alpha Male
+2207019,,Angry Vampire Bat
+2207020,,@2207019
+2207021,,Vampire Bat Leader
+2207022,,@20716
+2207023,,@20716
+2207024,,@220704
+2207025,,@20715
+2207026,,@20715
+2207027,,Breka Orc Troop Captain
+220801,Marsh Spider Queen,Deadly Mother
+220802,,@20802
+220803,,@20801
+220804,,Spiderling
+220806,,@20806
+220808,Shadow Killer,Catacomb
+220809,,Shade Bat
+220810,,@3078
+220811,,@3079
+220812,Bloodthirsty One,@10488
+220813,,Alban's Victim
+220814,,@20814
+220816,,@3053
+220817,@10631,@10858
+220818,@10859,@10859
+220819,@10862,@10862
+220820,Long-time Marsh Dweller,Marsh Lurker
+220823,,Marsh Stakato
+220824,,Swamp Seer
+220825,,@220823
+220826,,@220824
+220828,,Summoned Nerkas
+220832,,@20833
+220833,,@20833
+220840,,@20804
+220841,,Lost Skeleton
+220844,,Traitor Horace
+220845,,@20845
+220849,@10819,@11350
+220850,,Marsh Stakato Fighter
+220851,@10236,@10860
+220852,@10236,@10860
+220854,,Marsh Stakato Contractor
+220860,@10819,@11350
+220861,,@20835
+220862,,@20814
+220863,,@30401
+220864,,@30402
+220865,,@30401
+220866,Guardian of Cruma Tower,Guardian Prime
+220867,,@3042
+220870,,Phantom Demon
+220871,,@30402
+220872,,@3068
+220873,,@3068
+220879,,@3079
+220880,,@3079
+220881,@20881,@20881
+220882,@20882,@20882
+220884,@20884,@20884
+220885,@20885,@20885
+220888,,@3078
+220889,,@3078
+220892,@20885,@20885
+2208001,,@20814
+2208002,,@20833
+2208003,,@20884
+2208901,,@20884
+2208902,@10776,@10776
+2208004,,@21304
+2208005,,@21304
+2208006,,@20885
+2208007,,Skeleton Tracer
+2208008,,Liam’s Minion
+2208009,,@20881
+2208010,,@3079
+2208011,,Ronde’s Minion
+2208012,,@20882
+2208013,,@20805
+2208014,,@3052
+2208015,,Mist Terror Reaper
+2208016,,@20802
+2208017,,@20802
+2208018,,@20802
+2208019,,@20845
+2208020,,Swamp Killer
+2208021,,@20845
+2208022,,@20857
+2208023,,Deadman
+2208024,,Murderous Killer
+2208025,,@20835
+2208026,,@20835
+2208027,,@20835
+2208028,,Defense System
+2208029,,@2208028
+2208030,,Giant’s Box Guardian
+2208031,,@2208028
+2208032,,@2208028
+2208033,,@2208028
+2208034,,@2208030
+2208035,,@2208028
+2208036,,@2208028
+2208037,,@2208028
+2208038,,@2208030
+2208039,,@2208028
+2208040,,@2208028
+2208041,,@2208028
+2208042,,@2208030
+2208043,,@2208028
+220901,,@20901
+220902,,@20902
+220903,,@20928
+220904,,@3014
+220905,,@3061
+220906,Tribe Quartermaster,Vortan
+220907,,Tanor War Fox
+220908,,@20908
+220910,,@20314
+220911,,@20911
+220912,,@20912
+220913,,@20913
+220914,,@20914
+220916,,@11559
+220918,,@20918
+220919,,Tanor Elite Soldier
+220921,,@20921
+220922,,@20922
+220923,,@20923
+220924,,@20924
+220925,@10933,@10933
+220933,,@10932
+220934,,Tanor Guard
+220935,,@11559
+220937,,Tanor Elder Shaman
+220938,,Tartan’s Minion
+220939,,Thaartan's Minion
+220940,,Tutan’s Minion
+220942,@10819,@11350
+220947,,Tanor Strategist
+220949,,@20901
+220950,,@20928
+220951,Forest Ruler,Exquisite Leopard King
+220952,@20915,@20915
+220953,,Resurrected Ol Mahum Trooper
+220954,,Resurrected Ol Mahum Supplier
+220955,,@10383
+220956,,@2205015
+220957,Hagatan’s Friend,Urta
+220958,@220957,Potan
+220959,@10144,Hagatan
+220960,,@220919
+220961,,@20961
+220962,,Kankoon's Scout
+220963,,@20963
+220964,,Kankoon's Escort
+220965,@10934,@10934
+220966,@10935,@10935
+220967,@10936,@10936
+220968,,Resurrected Tanor Fighter
+220969,,Resurrected Tanor Shaman
+220970,,Resurrected Tanor
+220971,@11005,@30184
+220979,,@20314
+220980,,@20911
+220982,@10144,@20982
+220983,@20983,@20983
+220984,@20984,@20984
+220985,@20985,@20985
+220986,@10144,@20982
+220987,@20983,@20983
+220988,@20984,@20984
+220989,@10144,@20982
+220990,@20983,@20983
+220991,@20984,@20984
+220992,,@220938
+220993,,@220939
+220994,,@220940
+220995,,@3061
+220996,@20985,@20985
+220997,@10144,@20982
+220998,Thaartan’s Captain,Thartos
+220999,Top-grade Shaman,Kuruta
+2209001,,@3014
+2209002,,@3014
+2209003,,Sharon
+2209004,,@20928
+2209005,,@20928
+2209006,,Red-Tailed Fox Leader
+2209007,,@20921
+2209008,,@220938
+2209009,,@20982
+2209010,,@20917
+2209011,,@220939
+2209012,,@20983
+2209013,,@20923
+2209014,,@220940
+2209015,,@20984
+2209016,,@20929
+2209017,,@20929
+2209018,,Giant Venomous Marsh Spider
+2209019,,@20507
+2209020,,Ol B’Khan’s Minion
+2209021,,@20985
+2209028,,@20985
+2209022,,@20314
+2209023,,@20314
+2209024,,Ol Mahum General
+2209029,,@2209024
+2209025,,@20914
+2209026,,@20914
+2209027,,Ol Mahum Commanding Officer
+221001,,Triggered Mandragora
+221002,,Triggered Dicor
+221003,,@21020
+221004,,@21021
+221006,,@21006
+221010,,@3006
+221011,,@3019
+221012,,@3019
+221015,,@21015
+221016,,@21036
+221017,,@21036
+221018,,@21018
+221020,,@21020
+221021,,@21021
+221022,,@21022
+221023,,@21023
+221024,Army of Agony Sniper,Chase
+221025,,Attacker
+221029,@11014,@11014
+221030,Soul Collector,Murmur
+221031,,@21004
+221032,,@21001
+221033,@21090,Royal Knight
+221034,Execution Site Gatekeeper,Praga
+221035,,Executioner
+221036,Twisted Caravan Leader,Ricky
+221037,,Ricky’s Retinue
+221038,,Ricky's Secretary
+221039,@21090,Deno
+221040,,@21020
+221041,,@21021
+221042,,@21020
+221043,,@21021
+221044,,@21023
+221045,@21090,@221033
+221046,,@21018
+221047,,@3031
+221048,,@21018
+221049,,@3031
+221050,Twisted Caravan Accountant,Roy
+221051,Twisted Caravan,Roy's Assistant
+221052,@221051,Caravan Escort
+221053,@221051,@221051
+221054,@221051,@221052
+221055,,@21018
+221056,,@3031
+221057,,@3031
+221058,,@21018
+221059,,@3031
+221060,,@3031
+221084,@21084,@21084
+221085,@11031,@11031
+221086,@21086,@21086
+221087,@21087,@21087
+221088,In Peril,@21015
+2210001,,@21022
+2210002,,Balthazar’s Minion
+2210003,,@21087
+2210004,,@3031
+2210005,,Cowboy’s Minion
+2210006,,@11031
+2210007,,Soldier’s Specter
+2210008,,Seamstress’s Minion
+2210009,,@21086
+2210010,,@3030
+2210011,,@3030
+2210012,,Dread Specter
+2210013,,@3019
+2210014,,Twisted Spirit
+2210015,,Twisted Doom Servant
+2210016,,Saddened Mandragora
+2210017,,@2210016
+2210018,,Large Dicor of Sorrow
+2210019,,@21005
+2210020,,Dryed’s Minion
+2210021,,Dryed
+2210022,,Demented Spirit
+2210023,,Repus’s Minion
+2210024,,Repus
+2210031,,@2210024
+2210025,,@21013
+2210026,,Kamel’s Minion
+2210027,,Kamel
+2210032,,@2210027
+2210028,,@21013
+2210029,,Toat’s Minion
+2210030,,Toat
+2210040,Incinerator,Skeleton
+2210041,@2210040,Skeleton Archer
+2210042,@2210040,@21091
+2210043,Army of Undead,Crowl
+2210044,@2210043,@3019
+2210045,@2210043,Doom Punisher
+2210046,Corps Leader,Pugg
+2210047,@2210043,Husk Crawler
+2210048,@2210043,Husk Stalker
+2210049,@2210046,@2210046
+2210050,Apostle,Azrael
+2210051,@2210043,@2210048
+2210052,@2210043,Kaim Vanul
+2210053,@2210043,@2210047
+2210054,@2210043,@2210052
+2210055,@2210050,@2210050
+2210056,@2210050,@2210050
+221101,,@21113
+221102,,@21115
+221103,@11003,@11003
+221104,,@11119
+221105,,@21105
+221106,Stone Statue Collector,Himena
+221107,,@21101
+221108,Deluded Bugbear,Kazim
+221109,,@3050
+221110,,@21132
+221111,,Seal Sentry
+221112,,Protector’s Minion
+221113,,Succubus Queen
+221114,,@21101
+221115,,Snipe Dyed in Darkness
+221122,,Summoned Dustwind Gargoyle
+221123,,@21123
+221126,,Langk Lizardman Warchief
+221127,,Langk Lizardman Escort
+221128,,Langk Lizardman Royal Guard
+221130,,Langk Lizardman High Shaman
+221131,,@21138
+221132,,Langk Lizardman Marksman
+221134,,@21134
+221138,,@21138
+221141,,@21141
+221146,,@21138
+221147,,@21110
+221149,,@3050
+221152,,@3083
+221158,,@21111
+221159,,@21112
+221165,@11103,@3008
+221166,,Queen's Handmaiden
+221167,Queen’s Demon,Matu
+221168,,Robbed Soul
+221169,,Bound Soul
+221192,,@11102
+221194,,@11119
+2211001,,@3050
+2211002,,Ellen’s Minion
+2211003,@21160,@21160
+2211004,,@21116
+2211005,,@21116
+2211006,,Maroon Bear
+2211031,@11186,@11186
+2211032,,@11119
+2211033,,Citizen 1
+2211034,,Citizen 2
+2211007,,@3052
+2211039,,@21090
+2211008,,@3052
+2211040,,@3100
+2211009,,@11604
+2211010,,@21117
+2211011,,@21117
+2211012,,Great Black
+2211035,@11189,@11189
+2211013,,Male Antelope
+2211014,,@2211013
+2211015,,Gray Hoof
+2211016,,@21132
+2211017,,Queen Dicor’s Minion
+2211018,,Queen Dicor
+2211019,,@21110
+2211020,,@21110
+2211021,,Ranger Captain Kazeeb
+2211036,,@21138
+2211037,,@21138
+2211022,,@21137
+2211023,,@21137
+2211024,Elder Shaman,Crotoa
+2211038,@11192,@11192
+2211025,,@3108
+2211026,,Axetyl’s Minion
+2211027,,Axetyl
+2211028,,@21129
+2211029,,Snipe Leader’s Minion
+2211030,Leader,@21129
+2211041,@21188,@3064
+2211042,@21188,@21189
+2211043,@21188,@3064
+2211044,,@11352
+2211045,,@11352
+2211046,@21188,Pirate Boatswain
+2211047,@21188,Pirate Zombie Sniper
+2211048,,Mutated Sir Alexander
+2211049,,@2211048
+2211050,,@11119
+2211051,,@11352
+221201,@10819,@11244
+221202,,@21208
+221203,@11241,@11241
+221204,,@21263
+221205,,@21205
+221206,,@21206
+221207,,@21207
+221208,,Right Hand Man’s Underling
+221209,,Lyle’s Sniper
+221210,,@11245
+221211,,@21211
+221212,,@21211
+221214,,@21213
+221218,,@3099
+221226,@11255,@11255
+221227,,@11280
+221228,,@11281
+221230,,Bandit Leader's Right Hand
+221231,,@11279
+221232,Shelter Food Thief,Coastal Cougar Leader
+221233,,@11282
+221234,,@11283
+221235,,@21216
+221236,,@21214
+221237,,@21255
+221238,,@21215
+221239,,Young Starving Cougar
+221246,,Controlled Lesser Giant
+221249,Gnosis’s Creation,Marred Premo
+221252,,@21225
+221253,,@21226
+221254,Zaken Pirates Butcher,Razorlimb
+221256,Captain of Pirate Crew under Zaken,Gavin
+221257,Pirate Crew under Zaken,@20316
+221258,@10819,Deathdealer
+221259,@10236,Partos
+221260,@10236,@11240
+221261,,@21222
+221262,,@92306
+221263,Bandits Acting Head,Vargal
+221264,,@21205
+221265,,Huge Red Bear
+221266,,@11284
+221267,@10819,@221258
+221268,,@21213
+221269,,@3099
+221270,,Benumka
+221271,,@21216
+221272,,@221263
+221273,,@21205
+221274,,Marsh Shadow Premo
+221275,,@21221
+221276,,Greedy Grandis
+221277,,@21255
+221278,,Suffering Dead
+221279,,@21220
+221280,,@21221
+221281,,@21216
+221282,,@21211
+221283,,@92306
+2212001,,@21258
+2212002,,@21213
+2212003,,@21258
+2212004,,@21213
+2212005,@21282,@21282
+2212006,,@21255
+2212007,,@21213
+2212008,,@21255
+2212009,,@21213
+2212010,@21283,@21283
+2212011,,@21221
+2212012,,@21221
+2212013,Angry,Anggras
+2212014,,@21225
+2212015,,Gnall’s Creation
+2212016,@20484,Gnall
+2212017,,@21216
+2212018,,@21216
+2212019,Hell Fire’s,Aktomus
+2212020,,@21213
+2212021,,@21213
+2212022,Leader,@21213
+2212023,,@21260
+2212024,,@21115
+2212025,,@21260
+2212026,Leader,@21115
+2212027,,@21205
+2212028,,@21205
+2212029,@220437,Nagash
+2212030,,@21204
+2212031,,@21204
+2212032,Greedy,Gudd
+2212033,,@20914
+2212034,,@20914
+2212035,Field Commandant,Nabas
+221302,Zaken’s Right-hand Man,@11354
+221303,Official Giran Army Advance Party Captain,@11317
+221304,,@21304
+221305,,@21305
+221306,,@21306
+221307,,@21307
+221308,,@21303
+221309,,Skeleton Sniper
+221310,,@21310
+221311,,Skeleton Cutthroat
+221312,,@21312
+221314,,@21319
+221315,,@21315
+221316,,@21316
+221317,@10236,Transformed Nix
+221318,,Zaken Pirates Deathdealers
+221319,Official Giran Army Advance Party,@10005
+221320,@221319,Noel’s Retinue
+221321,Official Giran Army,@11246
+221322,@10819,@11350
+221323,@10819,@11350
+221324,@21681,Caliban
+221325,@10236,@11358
+221326,,@92306
+221327,@11251,@11251
+221328,,@11324
+221329,@11325,@11325
+221330,,Crazed Premo
+221331,,@10162
+221332,,@3083
+221333,Sharp Shout,Rena
+221334,@221319,Lieutenant Noel
+221335,@221319,@10005
+221336,,Manipulated Soldier
+221337,,Manipulated Adventurer
+221338,,@221337
+221339,@221321,Cursed Guard
+221340,,@21311
+221341,,@21309
+221342,,@21307
+221343,,@21305
+221344,,@21306
+221345,,@21320
+221346,,@11352
+221347,@11327,@11327
+221348,,Cursed Dead
+221349,,Skeleton Minion Cutthroat
+221350,@11369,@11369
+221351,,Demon Minion
+221352,,@21311
+221353,,@21309
+221354,,@21307
+221355,,@21306
+221356,,@21311
+221357,,@21309
+221358,,@21307
+221359,,@21306
+221360,,@221337
+221361,,@221337
+221362,,Kirion’s Troop
+2213001,,@21301
+2213002,,Kenbell’s Minion
+2213003,Obsessive,Kenbell
+2213004,,@21332
+2213005,,Lemon’s Minion
+2213006,,Lemon
+2213007,@10541,Cat Merchant
+2213008,@10541,@2213007
+2213009,@10541,Nesca
+2213010,,@21305
+2213011,,Karell’s Minion
+2213012,Trapping One,Karell
+2213013,,@21305
+2213014,,@21320
+2213015,Relic Watcher,Vic
+2213016,,Treasure-keeping Dead
+2213017,,Cous’s Minion
+2213018,Traitor,Cous
+2213025,Sara’s Partner,@2213018
+2213026,@2213025,@2213018
+2213028,,@2213017
+2213019,,@21309
+2213020,,Caruso’s Minion
+2213021,,Caruso
+2213022,,@21310
+2213023,,Janna’s Minion
+2213024,,Janna
+2213027,,@11370
+2213051,,Zaken Pirates Sailor
+2213052,,Watcher
+2213053,,@2213003
+2213054,,@21310
+2213055,@20484,Beholder
+2213070,,Nassa’s Minion
+2213056,Treasure Watcher,Nassa
+2213057,,@21314
+2213058,,@21338
+2213059,,@21309
+2213060,,@21312
+2213061,,Zaken’s Cutthroat
+2213062,,Zaken’s Archer
+2213063,@30792,Maso
+2213064,Mutated,Martoon
+2213065,Seductive,@3083
+2213066,@220568,@3069
+2213067,,@21314
+2213068,,@21315
+2213069,,@21308
+2213071,@205,@10309
+2213072,,@10310
+221401,,@21402
+221402,,@21408
+221403,,@21407
+221404,,@21434
+221405,,@21403
+221406,,@3021
+221407,@11429,@11429
+221408,,Soul Tracker Prima
+221410,,@21416
+221411,,@3021
+221412,,@21417
+221413,,@21419
+221414,,Grandis Leader
+221416,,@21416
+221417,,@21423
+221419,,@21444
+221420,,@21423
+221421,,@11426
+221422,,@21431
+221423,,@21432
+221426,@21881,@11429
+221427,,Ravine Breka Guard
+221428,,Ravine Breka Cook
+221429,Breka Chef,Kachoi
+221430,,Kachoi's Assistant
+221431,,@11452
+221432,,@11416
+221433,,@11417
+221434,,@11451
+221435,@11429,@11429
+221436,Protection Tree,Guardian Elf
+221437,,@3119
+221438,,@221408
+221439,@30481,Gore
+221440,,@221168
+221442,,@3015
+221444,,@10324
+221445,@10819,Lukemar
+221446,,@3013
+221450,,@21431
+221451,@10819,@20463
+221460,,@21416
+221461,,@3020
+221462,,@3011
+221463,,Restless Elf
+221464,Quesnel’s Henchman,Lusius
+221465,,@3011
+221466,,@21419
+221467,Boss’s Brother,Mahmmon
+221468,,@21419
+221469,,@21416
+221470,,@21423
+221471,@11455,@11455
+221472,,@21416
+221473,,@21423
+221474,,@3021
+221475,,Wyrm Avenger
+221476,@11455,Cager
+221477,,Cager's Comrade
+221478,,@3114
+221479,,@3011
+221480,,@3083
+221481,,@3008
+221482,,Marc’s Uniter
+2214001,,@20701
+2214002,,Cago’s Minion
+2214003,,Cago
+2214004,,@20701
+2214005,,Kuta’s Minion
+2214006,,Kuta
+2214025,,Breka Orc Patrol
+2214026,,@2214005
+2214007,,@2214025
+2214008,,Pokas’s Minion
+2214009,,Pokas
+2214027,,@20716
+2214010,,Mambo’s Child
+2214011,,@2214010
+2214012,,Mambo
+2214013,,@21436
+2214014,,@21436
+2214015,,Baruka
+2214016,,@21419
+2214017,,@21419
+2214018,,Zakum
+2214019,,@21414
+2214020,,@21414
+2214021,,Sahara’s Spirit
+2214028,@10002,@11433
+2214022,,@3021
+2214023,,Kaimbell’s Knight
+2214024,,Knights Leader Kaimbell
+2214050,,@3023
+2214051,,@21421
+2214052,,@21423
+2214053,,@21430
+2214054,,@21431
+2214055,,Kargos
+221501,,@10359
+221502,,John’s Bandits
+221503,,@221502
+221504,,Male Windsus
+221506,Ravine Devourer,Great King Grendel
+221507,,@221504
+221508,,@21503
+221509,,@221504
+221510,,Poricule’s Pincher
+221511,,Poricule’s Venomous Spider
+221512,Poricule Family,Pedicule
+221513,,Pedicule’s Child
+221514,,@221513
+221515,,@21504
+221516,,Ravine Atrox
+221517,Ravine Spider Queen,@11578
+221518,,@21504
+221519,,Ravine Venomous Spider
+221520,,Poricule’s Child
+221521,,@21509
+221522,,Razorwind Bugbear Looter
+221523,Razorwind Family Underboss,Hadok
+221524,Hadok’s Pet,Black Fist
+221525,,Tamed Grendel
+221526,,@21509
+221527,Razorwind Family Troop Captain,Maxim
+221528,,Maxim’s Fighter
+221529,,@221525
+221530,,Maxim’s Troop
+221531,,@21508
+221532,,@21509
+221533,Razorwind Family Cook,Cuking
+221534,,Hungry Razorwind Bugbear
+221535,Flower of Hallucination,Piladesia
+221536,,@3126
+221537,,Bugbear Under Hallucination
+221538,,Emoleta’s Familiar Spirit
+221539,@21681,Emoleta
+221540,,@221538
+221541,@10068,@10005
+221542,@10068,Top-grade Guard
+221543,Underground Prison Warden,Shakman
+221544,,Prison Guard
+221545,Leto Infiltrator,Varto
+221546,@221545,Tory
+221547,,@21513
+221548,@11549,@11549
+221549,@10068,@221542
+221550,@11549,@10005
+221551,@221545,@11580
+221552,,@11572
+221553,,@20725
+221554,@21185,Crogurk
+221555,,@11572
+221556,Lizardmen Marsh Chief,Grunky
+221557,,@3041
+221558,,@3040
+221559,,Leto Lizardman Wizard
+221560,Leto High Shaman,Shras
+221561,,@3041
+221562,,@3040
+221563,Leto Lizardman Queen,@11546
+221564,,Leto Lizardman Berserker
+221565,,Resurrected Lizardman Berserker
+221566,Slave Foreman,@220488
+221567,,@21715
+221568,@220451,Croatica
+221569,,Prison Guard Seeker
+221570,,Prison Guard
+221571,,Warden’s Escort
+221572,Timak Outpost Warchief,Kazan
+221573,@221572,Enhanced Kazan
+221574,,Kazan’s Berserker
+221575,,Kazan’s Master Marksman
+221576,,Kazan’s Guards
+221577,,Kazan’s Sniper
+221578,@10934,@11533
+221579,,@220919
+221580,,@20923
+221586,@11569,@11433
+221587,@10819,@11350
+221588,,Leto Lizardman Killer
+221589,,Christine’s Creation
+221590,,@221589
+221591,@10068,@10005
+221592,,Prison Guard’s Sniper
+221593,,@11597
+221594,@10819,@11350
+221595,,@11597
+221596,@10819,@11350
+221597,,@11597
+2215001,,@21501
+2215002,Giant Bear,Grizzly
+2215003,,@21501
+2215004,,Baby Windsus
+2215005,Mother Fang,Giant Windsus
+2215006,,@2215004
+2215007,,@221522
+2215008,,@21506
+2215009,Uncommonly Ugly Man,Especially Ugly Bugbear
+2215010,,Ugly Man’s Minion
+2215011,,@21508
+2215012,Weapon Collector,Bugbear of Greed
+2215013,,Rookie Bugbear Collector
+2215014,,Seductive Nymph
+2215015,,Seductive Razorwind Bugbear
+2215016,Protection of the Princess,Nymph Queen
+2215017,,@221166
+2215018,,@21517
+2215019,,@21516
+2215020,Spawning Ground Manager,Tantaka
+2215021,,Manager’s Escort
+2215022,,@21515
+2215023,,@3040
+2215024,Infiltration Expert,Tanguri
+2215025,,Tanguri’s Recruit
+2215026,,@11783
+2215027,,@21714
+2215028,Search Adviser,Kamodu
+2215029,,Timak Orc Trooper
+2215030,,Timak Orc Sniper
+2215031,,@21525
+2215032,,@20923
+2215033,Angry Blacksmith,Kanto
+2215034,,Kanto’s Retinue
+2215035,,Kanto’s Spirit Guide
+2215036,,@11559
+2215037,,@11595
+2215038,@11593,@11593
+2215039,@11500,@11500
+2215040,@11517,@11517
+2215041,,Tanor Chief Royal Guard
+2215042,,Tanor Chief Shaman
+221601,,@11623
+221602,,@11624
+221603,,@11624
+221604,,Ferocious Grandis Destroyer
+221605,@11625,@3055
+221606,@11625,@3056
+221607,,@3012
+221608,@11625,@3055
+221609,@11625,@3055
+221610,,Oel Mahum Looter
+221611,,@221604
+221612,,@3057
+221613,,@3056
+221614,,@3056
+221615,,@3056
+221616,,@3057
+221617,,Grandis Berserker
+221618,,Oel Mahum Prophet
+221619,,Oel Mahum Berserker
+221620,,@21611
+221621,,@11626
+221622,,@11627
+221623,,@21611
+221624,,@3056
+221625,,@11628
+221626,,@11629
+221627,,@11629
+221628,,@11601
+221629,,Iron Tooth’s Minion
+221630,,@3057
+221631,,@3056
+221632,@10819,@11640
+221633,Gelan’s Summon,@11604
+221634,,@21619
+221635,,@21620
+221636,,@3081
+221637,,Parasite Zombie Lord
+221638,,@21620
+221639,,@21619
+221640,,@21620
+221641,,@3012
+221642,@11625,@11604
+221643,@11625,@11604
+221644,,@3012
+221645,@11625,@11604
+221646,@10819,@11640
+221647,@221633,@11604
+221648,,@3012
+221649,@10819,@11640
+221650,,@3012
+221651,@10819,@11640
+221652,,@21627
+221653,,@21628
+221654,,Starving Pan Luem
+221655,,Greedy Nymph
+221656,,@21629
+221657,,@21628
+221658,,@21627
+221659,,@21628
+221660,,@21629
+221661,,@3012
+221662,,@3012
+221663,Dark Brotherhood Summon,@11604
+221664,@11625,@3057
+221665,,@21651
+221685,,Angsra’s Minion
+221686,,Angsra’s Right-hand Man
+221687,,Angsra’s Page
+221666,Ancient Zombie,Angsra
+221667,,Jaka’s Minion
+221688,,Obsidian Sentry
+221689,,Ancient Obsidian Golem
+221668,Ancient Golem,Jaka
+221669,,Armored Grandis
+221690,,Grandis Blacksmith
+221670,Red Headgear,Tarugal
+221671,,Oel Mahum Supplier
+221691,,Oel Mahum Mercenary
+221672,,Hammertooth
+221673,,@3056
+221674,@10819,@11642
+221675,,Oel Mahum Petty Thief
+221676,Expert Pillager,Kuzran
+221677,,Mary Rose
+221692,,Sneak Rose
+221678,Deadly Flower,Hallamari
+221679,,@21627
+221693,,Stakato Luem
+221680,Alleyway Boss,Waika
+221681,,@3081
+221694,,Dried-up Willow
+221682,,Fungurian
+221683,,Unbound Reaper
+221695,,Unbound Soul
+221684,Soul within the Jar,Osner
+221696,,@21607
+221697,,Barrier Tracker
+221698,,@21607
+221699,,Gallonian
+221701,,@11771
+221702,,@11772
+221703,,@11774
+221704,,@21704
+221705,,@21706
+221706,,@11774
+221707,@10125,@11773
+221708,,@11774
+221709,,@21705
+221710,,Bandit Chore Person
+221711,,@21709
+221712,@11778,@11778
+221713,,@11774
+221714,,Bandit Tracker
+221715,,@11774
+221716,,@11780
+221717,,@21705
+221718,,Dark Witch Prison Guard
+221719,,@21719
+221720,,@21713
+221721,Dark Witch Elder,Sechalla
+221722,,Silent Watcher
+221723,,Timak Orc Prison Guard
+221724,,Timak Orc Tracer
+221725,,@21722
+221726,Timak Orc Ranger Captain,@11781
+221727,,@11782
+221728,,@11782
+221729,,@11783
+221730,,@11783
+221731,,@21726
+221732,,@11783
+221733,,@11782
+221734,Top-grade Officer,Avakar
+221735,,Timak Orc Technician
+221736,,Timak Orc Top-grade Warrior
+221737,,Timak Orc Wolf
+221738,,@221737
+221739,,@221737
+221740,,@221737
+221741,,Timak Orc Elite Archer
+221742,,@21721
+221743,,@221741
+221744,,Dark Brotherhood Top-grade Captain
+221745,,@221736
+221746,,@3012
+221747,Timak Orc Head Chief,Cronakan
+221748,,@221736
+221749,,@3012
+221750,,@11783
+221751,,@11782
+221752,,@221737
+221753,,Timak Orc Tracer Unit
+221754,,Evil Soul
+221755,,@3012
+221756,,@221754
+221757,,@3012
+221758,,@21731
+221759,,@3012
+221760,,@21731
+221761,,@3013
+221762,,@3012
+221763,,@21731
+221764,@11787,@11787
+221765,,@3012
+221766,,@3012
+221767,,@3012
+221768,Tainted by Dark Magic,Kazniak
+221769,,Tainted Hound
+221770,,@21747
+221771,,Malfunctioning Guardian
+221772,,@3013
+221773,,@21731
+221774,,@3012
+221775,,@3013
+221776,,Ivory Tower Guardian
+221777,,@21747
+221778,,Ivory Tower Guardian Golem
+221779,,@21728
+2217001,,@21736
+2217002,,@21731
+2217003,High Priest,Nabraham
+2217004,,@11604
+2217005,,@21731
+2217006,,@21730
+2217007,@20583,Doll of Emptiness
+2217008,,@11604
+2217009,,@21732
+2217010,Swirling,Dust Storm
+2217011,,@21732
+2217012,,@21722
+2217013,,@21714
+2217014,@11727,@11727
+2217015,,@11783
+2217016,,@21722
+2217035,,@21716
+2217017,Explosion Freak,Aton
+2217018,,@21722
+2217019,,@21713
+2217034,,@21712
+2217020,Keeper of Darkness,Kilbanus
+2217021,,Eye of Darkness
+2217022,,@21723
+2217023,Leech Emperor,Colossal
+2217024,,@3024
+2217025,,@11774
+2217026,Sealed in Staff,Saraxia
+2217027,,Saraxia’s Minion
+2217028,,@21706
+2217029,Tough,Paska
+2217030,,@21706
+2217031,,@21501
+2217032,Vicious,Durticlo
+2217033,,@21501
+2217036,,@21704
+2217037,Filthy,Kayteach
+2217038,,@21702
+2217039,,@21702
+221803,,@21803
+221804,,@3009
+221807,,@3015
+221809,,@3032
+221811,,@3016
+221813,,Red Crystal
+221818,,@220828
+221819,,Summoned Mangled Weaver
+221820,,Summoned Doom Servant
+221821,,Summoned Fettered Soul
+221832,,Elizabeth's Maid
+221833,,Elizabeth's Handmaiden
+221834,,Awakened Elizabeth
+300091,Godmother of Colony,@3070
+300092,,@3001
+300093,,Self-destructive Ant
+300001,@300091,@3070
+300002,,@3001
+300003,,@300093
+300101,@300091,@3070
+300102,,@3001
+300103,,@3002
+300104,,@300093
+300105,,Nurse Ant
+300201,@300091,@3070
+300202,,@3001
+300203,,@3002
+300204,,@300093
+300205,,@300105
+300301,@300091,@3070
+300302,,@3001
+300303,,@3002
+300304,,@300093
+300305,,@300105
+300306,,Large Nurse Ant
+300307,,@300306
+300308,,@300306
+301091,Dark Lord,@3117
+301092,,@3099
+301093,,@3079
+301094,,@3015
+301001,@301091,@3117
+301002,,@3099
+301003,,@3079
+301004,,@3015
+301101,@301091,@3117
+301102,,@3099
+301103,,@3079
+301104,,@3015
+301201,@301091,@3117
+301202,,@3099
+301203,,@3079
+301204,,@3015
+301301,@301091,@3117
+301302,,@21023
+301303,,@3011
+301304,,@3019
+301305,,@3015
+301306,,Varkaron’s Creation
+302001,,Cruma Core
+302002,,@3015
+302003,,@3013
+302004,,Krakia
+302101,,@302001
+302102,,@3015
+302103,,@3013
+302104,,@302004
+302201,,@302001
+302202,,@3015
+302203,,@3013
+302204,,@302004
+302301,,Guard Unit Alpha
+302302,,@3015
+302303,,@3013
+302304,,@302004
+999991,,Grade C Black Bear
+999992,,Grade B Black Bear
+999993,,Grade A Black Bear
+999994,,Grade S Black Bear
+999995,,Grade R Black Bear
+999996,,Grade SR Black Bear

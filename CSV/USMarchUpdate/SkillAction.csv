@@ -1,0 +1,79 @@
+﻿Index,Id,Type,Operation,Parameter,StartAttack,FireOnFinish
+1,10112,Sequence,Wait,Section:Start,1,0
+2,10112,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+3,11113,Sequence,Wait,Section:Start,1,0
+4,11113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+5,12113,Sequence,Wait,Section:Start,1,0
+6,12113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+7,13113,Sequence,Wait,Section:Start,1,0
+8,13113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+9,14113,Sequence,Wait,Section:Start,1,0
+10,14113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+11,10122,Group,Collision,Name:Ghost,0,0
+12,10122,Group,HitState,,0,0
+13,10122,Sequence,Wait,Section:Start,1,0
+14,10122,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+15,11123,Group,Collision,Name:Ghost,0,0
+16,11123,Group,HitState,,0,0
+17,11123,Sequence,Wait,Section:Start,1,0
+18,11123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+19,12123,Group,Collision,Name:Ghost,0,0
+20,12123,Group,HitState,,0,0
+21,12123,Sequence,Wait,Section:Start,1,0
+22,12123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+23,13123,Group,Collision,Name:Ghost,0,0
+24,13123,Group,HitState,,0,0
+25,13123,Sequence,Wait,Section:Start,1,0
+26,13123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+27,14123,Group,Collision,Name:Ghost,0,0
+28,14123,Group,HitState,,0,0
+29,14123,Sequence,Wait,Section:Start,1,0
+30,14123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+31,14231,Group,Collision,Name:Ghost,0,0
+32,14231,Group,HitState,,0,0
+33,14231,Sequence,Fade,"Type:Out, Time:0",0,0
+34,14231,Sequence,Wait,Section:Start,1,0
+35,14231,Sequence,Fade,"Type:In, Time:0",0,0
+36,14231,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+37,11232,Sequence,Fade,"Type:Out, Time:0",1,0
+38,11232,Sequence,Wait,Time:0.5,0,0
+39,11232,Sequence,Fade,"Type:In, Time:0",0,0
+40,11232,Sequence,Teleport,Rear,0,1
+41,13212,Group,Shift,"Dist:5, Duration:0.3",1,0
+42,14222,Sequence,Wait,Section:Start,1,0
+43,14222,Sequence,Jump,"Dist:5, Duration:0.5, Height:5, RatioA:0.4, RatioB:0.6",0,1
+44,13222,Sequence,Wait,Section:Start,1,0
+45,13222,Sequence,Channeling,"Type:Move, MoveSpeed:500, Tick:1.0",0,0
+46,13251,Sequence,Wait,Section:Start,1,0
+47,13251,Sequence,Channeling,"Type:Rotate, RotateSpeed:500, Tick:1.0",0,0
+48,60110,Sequence,Wait,Section:Start,1,0
+49,60110,Sequence,Channeling,"Type:Move, MoveSpeed:500, Tick:1.0",0,0
+50,74052,Group,Shift,"Dist:5, Duration:0.3",1,0
+51,74112,Sequence,Wait,Section:Start,1,0
+52,74112,Sequence,Move,"Type:Direct, Dist:10, Speed:20, Acc:100",0,1
+53,74132,Sequence,Wait,Section:Start,1,0
+54,74132,Sequence,Move,"Type:Direct, Dist:10, Speed:20, Acc:100",0,1
+55,200016,Group,Attach,,0,0
+56,72034,Sequence,Wait,Section:Start,1,0
+57,72034,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+58,74135,Sequence,Wait,Section:Start,1,0
+59,74135,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+60,60127,Sequence,Wait,Section:Start,1,0
+61,60127,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+62,74114,Sequence,Fade,"Type:Out, Time:0.7",1,0
+63,74114,Sequence,Wait,Time:0.0,0,0
+64,74114,Sequence,Fade,"Type:In, Time:0.0",0,0
+65,74114,Sequence,Teleport,Front,0,1
+66,401036,Sequence,Fade,"Type:In, Time:0.5",1,0
+67,401036,Sequence,Teleport,Rear,0,0
+68,401036,Sequence,Fade,"Type:Out, Time:0.5",0,1
+69,401204,Sequence,Fade,"Type:Out, Time:0.7",1,0
+70,401204,Sequence,Teleport,Rear,0,0
+71,401204,Sequence,Fade,"Type:In, Time:0.7",0,1
+72,401207,Sequence,Fade,"Type:Out, Time:0.7",1,0
+73,401207,Sequence,Teleport,Rear,0,0
+74,401207,Sequence,Fade,"Type:In, Time:0.7",0,1
+75,401216,Sequence,Fade,"Type:Out, Time:0.7",1,0
+76,401216,Sequence,Teleport,Rear,0,0
+77,401216,Sequence,Fade,"Type:In, Time:0.7",0,1
+78,73027,Sequence,Teleport,Rear,1,1

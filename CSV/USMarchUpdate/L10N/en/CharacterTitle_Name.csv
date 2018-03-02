@@ -1,0 +1,59 @@
+﻿Id,Name,Description,DescParam
+1000100,The Adventure Begins,The first title given to a hero at the start of their adventure.,
+1000200,Top Donor,Activates upon completing the “What’s Mine is Ours (Tier {DescParam})” achievement.,10
+1000300,Good Attendance,Activates upon completing the “Always on My Mind (Tier {DescParam})” achievement.,10
+1000400,Best Friend,Activates upon completing the “Doesn’t Feel Wasted on My Friend (Tier {DescParam})” achievement.,10
+1000500,Top 1%,Activates upon completing the “No Use for Chump Change (Tier {DescParam})” achievement.,10
+1000600,Monster Hunter,Activates upon completing the “Indiscriminate Hunter (Tier {DescParam})” achievement.,11
+1000800,Rookie Contender,Gained when you reach rank #{DescParam} or better in the Arena rankings.,10000
+1000900,Follower of Power,Gained when you reach rank #{DescParam} or better in the Combat Power rankings.,10000
+1001000,Assistant Researcher,Gained when you reach rank #{DescParam} or better in the level rankings.,10000
+1001200,Advancement Master,Activates upon completing the “More Than Food (Tier {DescParam})” achievement.,10
+1001300,Soul Hunter,Activates upon completing the “So Many Sparkles (Tier {DescParam})” achievement.,10
+1001400,Pocket Administrator,Activates upon completing the “It Takes TLC (Tier {DescParam})” achievement.,10
+1001500,Collector,"Activates upon completing the “Not a Garbageman, but... (Tier {DescParam})” achievement.",10
+1001600,Alchemist,Activates upon completing the “What Makes Me Shine (Tier {DescParam})” achievement.,10
+1001700,Duelist,Activates upon completing the “Sign of Victory (Tier {DescParam})” achievement.,10
+1001800,Drawing Expert,Activates upon completing the “Luck is Not Skill (Tier {DescParam})” achievement.,10
+1001900,Core Hunter,Activates upon completing the “Loot Collection (Tier {DescParam})” achievement.,10
+2000200,Expert Contender,@1000800,5000
+2000300,Adventurer,@1000900,5000
+2000400,Top Researcher,@1001000,5000
+2000600,Monster Diary,Activates upon completing the “{DescParam})” achievement.,Shrieking Hallows Region Codex
+2000700,Valuables Enthusiast,Activates upon completing the “Seen This Before? (Tier {DescParam})” achievement.,10
+2000900,Lucky Guy,Activates upon completing the “Luck Be with You (Tier {DescParam})” achievement.,10
+2001000,Mount Trainer,Activates upon completing the “Stronger and Fiercer (Tier {DescParam})” achievement.,10
+2001100,Spirit’s Protection,Activates upon completing the “Battle Necessity (Tier {DescParam})” achievement.,10
+2001200,Forensic Investigator,Activates upon completing the “Different Blood (Tier {DescParam})” achievement.,10
+2001300,Safety First,Activates upon completing the “Way to Safe Road (Tier {DescParam})” achievement.,10
+2001400,Master of Disguise,Activates upon completing the “Being Temperamental is Tough (Tier {DescParam})” achievement.,10
+2001500,Weapon Master,Activates upon completing the “From the Legends (Tier {DescParam})” achievement.,10
+2001600,Armor Master,Activates upon completing the “Scroll from the Dreams (Tier {DescParam})” achievement.,10
+2001800,Combinationist,Activates upon completing the “Equipment’s Infinite Evolution (Tier {DescParam})” achievement.,10
+2001900,Jewelry Master,Activates upon completing the “Found My Scroll (Tier {DescParam})” achievement.,10
+2002000,Slayer,Activates upon completing the “Defeated a Legendary Monster (Tier {DescParam})” achievement.,10
+2002100,Upgrade Master,Activates upon completing the “It’s Totally Different (Tier {DescParam})” achievement.,10
+3000200,Spirited Contender,@1000800,100
+3000300,Formidable Conqueror,@1000900,100
+3000500,Intelligent Researcher,@1001000,100
+3000700,창공의 은빛용병단,"창공의 은빛용병단 징표' 를 사용 시 활성 됩니다.
+(해당 징표는 '창공섬 마그나딘' 퀘스트를 완료 시, 획득 할 수 있습니다.)",1
+3000900,Specialist,Activates upon completing the “How to Make Special Equipment (Tier {DescParam})” achievement.,10
+3001000,Limit Breaker,Activates upon completing the “Is That Your Best (Tier {DescParam})” achievement.,10
+3100100,Fortress Commander,"Gained if you are the {DescParam} of the ruling clan of the fortress.
+(Held while you meet the set conditions.)",Elder
+3100200,Fortress Guardian,@3100100,Clan Member
+4100100,Fortress Commandant,@3100100,Leader
+4101000,The Ten Contenders,"Gained when you reach rank #{DescParam} or better in the Arena rankings.
+(Held while you meet the set conditions.)",10
+4101100,The Ten Conquerors,"Gained when you reach rank #{DescParam} or better in the Combat Power rankings.
+(Held while you meet the set conditions.)",10
+4101200,Renowned Researcher,"Gained when you reach rank #{DescParam} or better in the level rankings.
+(Held while you meet the set conditions.)",10
+5100200,King of the Duel,"Gained when you reach rank #{DescParam} in the Arena rankings.
+(Held while you meet the set conditions.)",1
+5100300,I am the Strongest,"Gained when you reach rank #{DescParam} in the Combat Power rankings.
+(Held while you meet the set conditions.)",1
+5100400,Enlightened One,"Gained when you reach rank #{DescParam} in the level rankings.
+(Held while you meet the set conditions.)",1
+30000000,Initial Pioneer,Limited-edition title available to players who have pre-registered.,

@@ -1,0 +1,4 @@
+﻿Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Lucky Box,"▶ An event where all the players on the server take on the challenge at once.
+▶ New rewards are available for each event rotation.
+▶ Tickets needed to participate in the Event can be obtained from Summon Boxes, which can be found in the Shop.",You can access the draw event after reaching Lv. 10.,Congratulations! [Player] has won the #[Rank] prize in the Lucky Box Event.

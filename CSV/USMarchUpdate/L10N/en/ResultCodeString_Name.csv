@@ -1,0 +1,845 @@
+﻿Key,Value
+1,The packet version doesn’t match with the server. Restart the app.
+2,Restart the game for an update.
+3,Server Error (DB)
+4,Server Error (LUA)
+5,Excel Table Error
+6,Server Error (Parameter)
+7,Server Error (Logic)
+8,Server Error
+9,You have not logged in.
+10,You are already logged in.
+11,There are no targets to kick out.
+12,Incorrect authentication
+13,Incorrect character identifier
+14,Incorrect class information
+15,Incorrect gender
+16,Incorrect name
+17,Incorrect NPC information
+18,Incorrect player identifier
+19,Incorrect race information
+20,Incorrect skill
+21,Incorrect skill target
+22,Incorrect status
+23,You can no longer enter.
+24,There is no device identifier.
+25,This name is already in use.
+26,Skill is being used.
+27,You cannot move.
+28,You are not dead.
+29,Not enough MP
+30,Not enough Adena
+31,You did not select a player.
+32,Not enough Diamonds.
+33,Character level is not high enough.
+34,Cannot transfer class to the same identifier.
+35,Cannot transfer to this class.
+36,You cannot transfer class yet since your level is too low.
+37,Incorrect security code.
+38,Incorrect player identifier.
+39,Incorrect buff effect identifier.
+40,Incorrect shop information identifier.
+41,Packet hash does not match. Your game may not run properly.
+42,Incorrect skill effect identifier.
+43,Incorrect achievement identifier.
+44,Invalid rune level.
+45,Not enough Rune Fragments.
+46,Invalid rune info.
+47,Failed to level up rune.
+48,Rune is already at max level.
+49,Previous rune’s level is not high enough.
+50,This exceeds the maximum Adena capacity.
+51,This exceeds the maximum Topaz capacity.
+52,This exceeds the maximum Diamonds capacity.
+53,@NotEnoughFreeDiamondStorage
+54,Not enough Topazes.
+55,Not enough materials to craft item.
+56,Currently dead.
+57,"Only 4-16 characters allowed.
+(2-8 if Korean/Chinese is included)"
+58,"You cannot have any spaces.
+Input another name."
+59,Insufficient SP.
+60,Your Adena capacity is full.
+61,Your Clan Coin capacity is at it’s maximum value.
+62,Fill in more of the previous rune page.
+63,Not enough Friendship Points.
+64,Invalid reward type.
+65,Currently stunned.
+66,Battle is in progress.
+67,This class cannot be selected during character creation.
+68,Exceeded Loyalty capacity.
+69,Standing by in queue.
+70,You cannot use gadgets.
+71,You cannot use the relevant security code at this time.
+72,"This content is restricted.
+You cannot enter."
+73,Incorrect base class value.
+74,"This character is a clan leader.
+The clan leader character can be deleted after transferring the leadership or leaving the clan."
+75,Not enough Blue Diamonds.
+76,Not enough Red Diamonds.
+77,Restricted target.
+78,Chat is currently forbidden.
+79,Cannot enter as there is a number restriction for participating players.
+80,Not enough Clan Red Starstones.
+81,Available after class transfer.
+82,"This nickname was pre-registered.
+Go to the verification steps if you have pre-registered."
+83,Invalid nickname.
+84,This player has been deleted.
+85,Hidden world.
+86,Empty account value.
+87,Empty token value.
+100,You have been disconnected as a result of server maintenance.
+101,"Waiting to revive.
+You cannot revive yet."
+102,Channel is full.
+103,Time change restriction.
+201,Achievement cannot be completed.
+202,There are no achievements.
+203,You already collected the achievement level reward.
+251,Invalid chat message
+252,Incorrect chat message identifier.
+253,Incorrect chat additional information identifier.
+254,Incorrect chat publicity type.
+255,Cooldown restriction.
+256,Already in the chat ban list.
+257,Not in the chat ban list.
+258,Registered into chat ban list.
+259,The receiver has placed blocked you.
+301,This is the skill cooldown.
+302,Create first account
+303,Failed to check previously used skill.
+370,Incorrect check-in info.
+371,Incorrect check-in information identifier.
+372,Incorrect check-in reward identifier.
+373,You have already checked in.
+374,You have already collected the reward.
+375,No active weekly check-in reward period.
+401,Incorrect item identifier.
+402,@InvalidItemInfoId
+403,This item cannot be enhanced.
+404,Not enough Scraps.
+405,Not enough items.
+406,Combine and Upgrade are both available starting from Lv. 5.
+407,Not enough enhance scrolls.
+408,Cannot enhance anymore.
+409,Failed to enhance equipment.
+410,"Equipment has been sealed.
+Sealed equipment cannot be enhanced."
+411,Only sealed equipment can be released.
+412,This equipment is already equipped.
+413,This equipment is not equipped.
+414,Not enough slots in your inventory.
+415,Equipped equipment cannot be used.
+-1,This equipment cannot be seal released.
+417,This equipment cannot be upgraded.
+418,This equipment cannot be upgraded anymore.
+419,This equipment cannot be combined anymore.
+420,즐겨찾기' 아이템은 사용할 수 없습니다.
+421,"The combining materials have different types.
+You can only combine equipment of the same type."
+422,"The combining materials have different grades.
+You can only combine equipment of the same grade."
+423,Incorrect substat index.
+424,This item cannot be used.
+425,This equipment cannot be enchanted anymore.
+426,This is not an equipment.
+427,Not enough materials to upgrade.
+428,Cannot expand your inventory anymore.
+429,Incorrect material item identifier.
+430,This is not an enhance scroll.
+431,Item information identifier is different.
+432,Cannot limit break this item.
+433,Cannot limit break this item anymore.
+434,This is not a Soul Crystal.
+435,Incorrect item slot index.
+436,This Soul Crystal type is already equipped.
+437,Item is already at max level.
+438,This item does not have any substats.
+439,This item does not have any attributes.
+440,Attributes do not match.
+441,Failed to enhance item attribute.
+442,Cannot use any more Elixirs.
+443,Incorrect item craft type or group.
+444,Not enough materials to craft item.
+445,Not enough Crystals of Aegis.
+446,Incorrect equipment type.
+447,Incorrect deck index.
+448,This equipment deck is already being used.
+449,Server is different from the deck.
+450,Failed to craft item due to insufficient inventory slot space.
+451,Cannot use table information.
+452,This Monster Codex is already completed.
+453,You do not have any unbound Monster Cores in your Inventory.
+454,Incorrect group identifier.
+455,This Monster Codex group is already completed.
+456,There are no Monster Codices to work on.
+457,Incorrect recess reward type.
+458,Not enough Recess Points.
+459,Additional use currency type is different.
+460,Incorrect Forgotten Scroll item substat type.
+461,Not a Forgotten Scroll item.
+462,Cannot use Forgotten Scroll items.
+463,Skill is already at max level.
+464,Incorrect material count.
+465,This is a different type of enhance scroll.
+466,Cannot use since your HP is full.
+467,Cannot use since your MP is full.
+468,Cannot craft anymore.
+469,Not enough Scrolls of Escape.
+470,Surprise box is empty.
+471,There are no equipped Soul Crystals.
+472,This elixir cannot be used.
+473,Equipment attribute level is at max.
+474,This is not a megaphone type item.
+475,Incorrect Soul Crystal effect type.
+476,Incorrect item drop information identifier.
+477,You’ve reached the daily count allowed.
+478,Cannot be used during cooldown.
+479,This equipment is not for your class so you cannot equip it.
+480,Teleporting.
+481,Weapons are not removed. Replace it with another weapon.
+482,Already at max level.
+483,The same type Soulshot is already activated.
+484,In Arena.
+485,Cannot summon Evil Summoning Stone here.
+486,Cannot be used anymore since Chaotic Value has reached 0.
+487,Cannot acquire anymore.
+488,Exceeds the maximum amount that can be sold at once.
+489,Incorrect substat slot.
+490,This item cannot be crafted with equipment.
+491,Item level for crafting equipment is too low.
+492,Item grade for crafting equipment is too low.
+493,This item cannot be sold.
+501,Cannot receive mail.
+502,"Your Mailbox is full.
+Acquire the reward in your Mailbox
+then try again."
+503,"Couldn’t acquire rewards because your Mailbox is full.
+Try again after making room in your Mailbox."
+511,Insufficient Daily Activities points.
+512,Incorrect Daily Activities reward identifier.
+513,Incorrect Daily Activities reward group identifier.
+514,There are no rewards to acquire.
+521,Incorrect complete now information identifier.
+522,This isn’t an identifier for complete now information.
+523,Incorrect complete now reward group identifier.
+531,Incorrect quest request type.
+532,Incorrect quest request information type.
+533,Cannot start quest right now.
+534,Cannot complete right now.
+535,No quest is currently in progress.
+536,This quest is already completed.
+537,There are no daily quests you can renew.
+538,No weekly quest is in progress.
+539,@NoMoreDailyActivityRewardGet
+540,Another weekly quest is already in progress.
+541,You’ve expended your daily quest count for today.
+601,Incorrect territory information identifier.
+602,Incorrect spot information identifier.
+603,Incorrect region information identifier.
+604,Incorrect quest information identifier.
+605,Quest is already in progress.
+606,Quest is not in progress.
+607,Quest cannot be completed.
+608,Prerequisite quest has not been completed.
+609,Not enough Quest Tickets.
+610,Not enough quest completion counts.
+611,There are no changes to quest.
+612,Region hasn’t been cleared.
+613,Region spot hasn’t been cleared.
+614,Failed quest.
+615,Didn’t fail quest.
+616,You cannot revive during this quest.
+617,Incorrect gadget identifier.
+618,Distance is too far.
+619,There are no NPCs.
+620,Incorrect quest status.
+621,Quest has already been completed.
+622,Not enough Quest Auto-Clears.
+623,Incorrect conquest quest reward information.
+624,Not enough stars for clearing conquest.
+625,Hasn’t been completed even once.
+626,This is not a conquest quest.
+627,Quest ticket is already at max value.
+628,Quest ticket recharge count is already at max value.
+629,You must acquire at least 3 stars to be able to use Auto-Clear in that stage.
+630,No remaining gadget control count.
+631,Already controlled gadget.
+632,Incorrect quest act number.
+633,Not yet completed quest act.
+634,Already acquired reward for completing quest act.
+635,Already acquired reward for completing progress of quest act.
+636,Insufficient quest scroll count.
+637,Insufficient quest scroll reset count.
+701,"Skill is at max level.
+Try again after leveling up your character."
+702,Incorrect skill deck identifier.
+703,Failed to change skill deck.
+704,Skill cannot be used with this weapon.
+801,This player is already a friend.
+802,You have already sent a request.
+803,Didn’t receive a friend request.
+804,Not a friend.
+805,Cannot find player.
+806,Your friends list is full.
+807,Your friends request received slots are full.
+808,You cannot greet yourself.
+809,Already gave your greetings.
+810,Cannot request yourself.
+811,Failed to create a recommended friends list.
+812,"Not a friend.
+1:1 chat is available only between players who are friends."
+813,You have no greetings from friends.
+814,This player has not yet completed the friend tutorial.
+815,Friend request has been accepted.
+816,You’ve reached the daily limit for greetings.
+817,You have no friends to greet.
+818,This player’s friend list is full.
+819,You have already sent too many friend requests.
+847,Only the Party Leader can request to enter.
+848,Already participating in a dungeon.
+849,Action cannot be completed while in a party.
+850,You have already invited this player.
+851,This party does not exist.
+852,You were not invited to a party.
+853,Already in a party.
+854,You do not belong to a party.
+855,The party leader is offline.
+856,You cannot go here.
+857,You are already the party leader.
+858,You don’t have authority.
+859,Cannot do this to yourself.
+860,Party is full.
+861,Not online.
+862,Have not requested to join a party.
+863,Target is in a region you cannot go to or in a region from which it cannot be summoned.
+864,Not in a room.
+865,Cannot be done here.
+866,Cannot form a party during Castle Siege/ Fortress Siege.
+867,Not enough party members.
+868,Only the party leader can cancel.
+869,This user has not yet completed the party tutorial.
+870,Already being matched.
+871,In a region where quick find cannot be used.
+872,Cannot be done inside an instance dungeon.
+873,Not a party.
+874,Cannot be done.
+875,Not on queue to enter a party dungeon.
+876,Cannot find this party member.
+877,Not enough party members.
+878,Cannot be done while matching for a party.
+879,Already registered to party voice chat.
+880,Not registered to voice chat.
+881,Apollo voice error.
+882,Party quest is not being shared.
+883,A player’s level is not high enough.
+884,Already recruiting.
+885,There is a member in a region that cannot be accessed.
+886,There is a party member who doesn’t have enough dungeon entry counts remaining.
+887,There is a party member who doesn’t satisfy conditions required to enter the dungeon.
+888,Cannot be done while the party is full.
+889,Cannot be done while inviting a party member.
+890,Can request after [Time].
+891,You have already requested to join this party.
+892,The party leader is nearby.
+893,There is a party member who cannot.
+894,Cannot join this party.
+901,This identifier is either for a clan that doesn’t exist or for a different clan.
+902,Clan name’s length is incorrect.
+903,There is already a clan with the same name.
+904,Already in a clan.
+905,Not yet in a clan.
+906,You don’t have clan authority.
+907,This clan is not disclosed.
+908,Already requested to join.
+909,Haven’t yet requested to join clan.
+910,You cannot accept anymore clan members.
+911,Only applicable to low-rank clan members.
+912,This currency cannot be donated.
+913,Incorrect donation count.
+914,Already cast a vote for the impeachment.
+915,Already checked in for the clan.
+916,Cannot make anymore clan greetings.
+917,Already gave your greetings to this player.
+918,Not enough Clan Coins.
+919,Incorrect clan buff identifier.
+920,Already have this clan buff.
+921,Incorrect castle information identifier.
+922,Not enough Clan Adena.
+923,Cannot acquire anymore.
+924,Incorrect clan emblem information identifier.
+925,Cannot grant anymore of this clan rank.
+926,No clan.
+927,Already allied.
+928,Already sent an alliance request.
+929,You were not invited to a clan.
+930,Not an allied clan.
+931,Cannot form anymore alliances.
+932,This clan cannot form any more alliances.
+933,Clan leader cannot leave clan.
+934,Cannot register anymore hostile clans.
+935,Already a hostile clan.
+936,Not a hostile clan.
+937,War against a hostile clan is not available.
+938,Cannot delete hostile clan.
+939,Cannot surrender a hostile battle.
+940,No clan buffs.
+941,Cannot form alliance with hostile clans.
+942,Cannot form hostility with alliance clans.
+943,You must enter a price higher than the minimum bid price.
+944,Cannot use this feature because the clan level is too low.
+945,Cannot declare the opposing clan as hostile because its level is too low.
+946,"Join restriction level has been raised higher.
+Cannot request to join."
+947,"Join type has been changed to require approval.
+Cannot request to join."
+948,You’ve reached the daily limit for donations.
+949,Not enough Proofs of Blood.
+950,Purchased the maximum amount allowed per day.
+951,You cannot accept anymore join requests.
+952,Incorrect clan name.
+953,You cannot have spaces in clan names.
+954,All clan members must leave the clan in order for the clan to be broken up.
+955,Cannot participate in Clan activities due to penalties from leaving and rejoining a Clan.
+956,Already a clan member.
+957,@GuildJoined
+958,All hostile clans are registered.
+959,Not the Clan leader.
+960,Purchased the maximum amount allowed per week.
+961,Purchased the maximum amount allowed per month.
+962,Cannot kick out high rank members.
+963,This user has not yet completed the clan tutorial.
+964,Cannot register any more hostile clans anymore.
+965,Cannot purchase due to insufficient Clan Proofs of Blood.
+966,"Cannot join, leave, delegate clan leader,
+or break up clan during Castle Siege."
+967,"Cannot join, leave, delegate clan leader,
+or break up clan during Fortress Siege."
+968,This Clan Dungeon is unavailable.
+969,You are not an eligible clan member.
+970,This Clan Dungeon has already been cleared.
+971,Reached the reset count.
+972,This Clan Dungeon has not been cleared yet.
+973,Not enough Red Starstones.
+974,There is no Clan Check-in reward available.
+975,There is no Clan Check-in available.
+976,You have already claimed the Clan Check-in reward.
+977,This clan member has not logged in for a long time.
+978,Either a nonexistent or unregistered clan.
+1001,Incorrect portal identifier.
+1002,Cannot control.
+1101,Failed to bid for Castle Siege.
+1102,Failed to cancel the bid for Castle Siege.
+1103,Incorrect Castle Siege.
+1104,No information for Castle Siege bid.
+1105,Not enough Castle Siege Festival Coupon.
+1106,No Castle Siege Festival vouchers.
+1107,Not enough currency to bid.
+1108,It is not time to bid.
+1109,Already made extension bid.
+1110,Incorrect Castle Siege Festival slot.
+1111,Only clans that have succeeded in bidding can enter.
+1112,"Currently, cannot acquire the voucher reward."
+1113,Castle Siege is not in progress.
+1114,Cannot bid with the same amount.
+1115,You cannot go to Castle Siege from this world.
+1116,There is no conquered clan.
+1117,There is no Castle Siege history.
+1118,Castle Siege Festival is not active right now.
+1119,Cannot purchase because no clan has conquered or made a bid on castle.
+1151,Failed at bidding.
+1152,Failed to cancel bid.
+1153,Incorrect Fortress Siege registration.
+1154,No information for Fortress Siege bid.
+1155,Incorrect territory information.
+1156,Incorrect fortress information identifier.
+1157,Clans who own castles cannot bid.
+1158,Fortress Siege is not in progress.
+1159,This clan didn’t participate in Fortress Siege.
+1160,Only clans who have conquered castles can purchase.
+1161,Only clans who have conquered fortresses can purchase.
+1162,Clans who own fortresses cannot bid.
+1190,"Only clan members who enter a Castle Siege or
+Fortress Siege can register."
+1201,Incorrect price.
+1202,@InvalidName
+1203,There are no items that can be used.
+1204,Incorrect status.
+1205,Must be a bound item.
+1206,This is the seller.
+1207,No search results.
+1208,This type cannot be registered.
+1209,Already sold out.
+1210,Exceeded the number of registries allowed.
+1211,Item grade does not match.
+1212,No relevant name and category.
+1213,No relevant name and grade.
+1214,Not enough Adena to register to Trading Post.
+1215,Your Trading Post Favorite list is full.
+1216,Identical Favorited item.
+1217,No Favorited items.
+1218,This item cannot be registered.
+1219,Soul Crystal is equipped.
+1220,Reached the maximum number of items that can be registered.
+1221,Insufficient Trading Post Amount
+1222,Parts of this item has been sold.
+1301,Incorrect item identifier.
+1302,Incorrect purchase item.
+1303,Incorrect currency type.
+1304,Incorrect draw type.
+1305,You cannot buy the initial purchase item.
+1306,Cannot purchase during cooldown time.
+1307,Exceeded the permitted daily purchase count.
+1308,Exceeded the permitted weekly purchase count.
+1309,Exceeded the permitted monthly purchase count.
+1310,Not time for purchases.
+1332,Sale of this item has ended.
+1311,This item cannot be purchased for free.
+1312,Already using the same type of monthly package.
+1313,You have not acquired the monthly package reward enough times.
+1314,Invalid request.
+1315,Purchased item’s tab type doesn’t match.
+1316,Already using an annuity item.
+1317,Incorrect shop reward information identifier.
+1318,Not the period for shop bonus event.
+1319,Incorrect shop reward type.
+1320,There are no rewards to acquire.
+1321,Event period has been renewed. Reload.
+1322,Not returning player.
+1323,Not new player.
+1324,The sale period has ended.
+1325,Item has sold out.
+1326,Conditions for purchase haven’t been met.
+1327,Purchase failed.
+1328,Incorrect annuity item reward type.
+1329,Request Customer Service.
+1330,Incorrect smart pop-up information identifier.
+1331,Limited item has been sold out.
+1401,Incorrect dungeon identifier.
+1402,There are no remaining dungeon entry counts.
+1403,Free entry into Daily Dungeons are available only on the specific days.
+1404,Failed to clear the dungeon.
+1405,You are not in a dungeon.
+1406,"You cannot enter the Tower of Insolence because
+you have expended the entry counts."
+1407,Dungeon has not been cleared yet.
+1408,Auto-Clear cannot be used.
+1409,Cannot enter Daily Dungeons for free.
+1410,Cannot extract anymore.
+1411,Incorrect dungeon quest information.
+1412,Dungeon quest has not been completed yet.
+1413,You have already acquired the reward for clearing this dungeon.
+1414,Not enough dungeon quest points to acquire rewards.
+1415,There is still time remaining for dungeon bonus time.
+1416,Not enough recharge count for dungeon bonus time.
+1417,Auto-Clear is available after the initial clear of Elite Dungeon quests.
+1418,There are no remaining daily dungeon entry counts.
+1419,Auto-Clear is unavailable because the dungeon clear rank is too low. Raise the rank and try again.
+1420,You cannot go to dungeon from the current world.
+1421,There are still opportunities to enter Daily Dungeons.
+1422,You can no longer enter this Daily Dungeon.
+1423,There are no remaining dungeon entry counts.
+1424,Cannot enter this dungeon.
+1425,There are dungeon entry counts remaining.
+1426,Already expended all opportunities to pay for recharge.
+1501,Incorrect PvP status.
+1502,Your rank has changed.
+1503,The target’s rank has changed.
+1504,The target’s status is battle ready.
+1505,You were attacked in PvP.
+1506,Not enough tickets to enter PvP.
+1507,You are not in the Arena.
+1508,PvP start was not confirmed.
+1509,Not PK status.
+1510,Annihilation list is full.
+1511,Couldn’t find from Annihilation list.
+1512,This user is already registered.
+1513,Weapon not equipped.
+1514,Reward already acquired.
+1515,No Arena rank.
+1516,No Arena reward.
+1517,Cannot purchase anymore PvP tickets.
+1518,Incorrect duel target.
+1551,Class transfer quest is already in progress.
+1552,Class transfer quest is still in progress.
+1553,There is still class transfer reward remaining.
+1554,Cannot be completed.
+1555,Cannot acquire rewards.
+1556,Incorrect class transfer quest identifier.
+1601,Already completed quest.
+1602,@NotCompeletableStateMissionRequest
+1603,@InvalidQuestInfoId
+1604,Incorrect quest reward identifier.
+1701,Incorrect tutorial identifier.
+1702,Failed to run tutorial.
+1703,Incorrect tutorial stage.
+1704,@TutorialWorldAcquireFailed
+1705,Tutorial stage has been completed.
+1706,You’ve already acquired tutorial material.
+1707,Tutorial has not started yet.
+1708,Mandatory tutorial is in progress.
+1709,Tutorial has already been completed.
+1710,You’ve already acquired the reward.
+1711,Tutorial Player - Only runs tutorial
+1712,This is not a tutorial player.
+1713,Cannot be skipped.
+1714,Cannot run tutorial in dungeons.
+1801,Redis server error.
+1802,Incorrect ranking information identifier.
+1803,No ranking data.
+1804,Incorrect page.
+1850,Voice chat has not been reset.
+1851,Response time with voice chat server has deviated.
+1901,You’ve reached the limit for Castle Siege Festival Coupons.
+1902,You’ve reached the limit for SP.
+1903,You’ve reached the limit for Arena Tickets.
+1904,You’ve reached the limit for Red Diamonds.
+1905,You’ve reached the limit for Blue Diamonds.
+1906,You’ve reached the limit for Loyalty.
+1907,You’ve reached the limit for Friendship Points.
+1908,You’ve reached the limit for Topazes.
+1909,You’ve reached the limit for Clan Coins.
+1910,You’ve reached the limit for Adena.
+2001,Incorrect event type.
+2002,The event is not currently in progress.
+2003,You’ve already acquired the event rewards.
+2004,Incorrect event conditions.
+2005,You cannot satisfy the event conditions.
+2006,You’ve already acquired the maximum obtainable number of event rewards.
+3000,NetmarbleS IAP Target to receive present has exceeded the limit.
+3001,NetmarbleS IAP Gift limit exceeded.
+3002,NetmarbleS IAP Exceeded payment limit.
+3003,NetmarbleS IAP Error.
+3004,NetmarbleS IAP Not a registered item.
+3005,NetmarbleS IAP No response from server. Try again.
+3006,NetmarbleS IAP Server maintenance in progress.
+3007,Item setting error.
+3008,Item sale period has ended.
+3009,This item is out of stock.
+3101,Failed to confirm pre-registration.
+3102,Failed pre-registration verification.
+4001,Player hasn’t yet entered this region.
+9000,Packet to be deleted.
+9001,Coming Soon
+9002,Exceeded.
+981,Not enough Clan Hall Exp. to level up.
+980,"This clan’s Clan Hall is closed.
+You can only enter if the Clan Hall’s doors are open."
+990,This clan has not purchased a Clan Hall.
+991,You are already at the Clan Hall.
+5600,"You can invite players within 200 points of
+the Battlefield Party leader’s points."
+5601,This player is already part of a Battlefield Party.
+498,"You cannot purchase Soulshots
+while your Soulshots are active."
+992,This member has reached the max limit of prizes allowed.
+993,There are no clan members to reward.
+92,"The barrier has closed because the summoning time has ended.
+The battle for this dungeon is over."
+5602,"We are currently in the offseason.
+Your score will be applied once the regular season begins."
+999,The Clan Hall cannot be disbanded because there is a player remaining inside.
+1013,You can only delegate the position of Clan Leader to a player who has been a member for 7 days or longer.
+979,You have already purchased the Clan Hall.
+982,Not enough Crystal of Unity Fragments to level up.
+1004,"Clan Hall Solo Quests reset daily
+and only one is available each day."
+983,"There is no limit on how many Clan Hall Quests you can do in a day,
+but only 3 can be done simultaneously."
+984,This Clan Hall Quest is already in progress.
+985,Another clan member is already working on this quest.
+986,This quest has already been completed.
+987,This quest is not currently in progress.
+988,This quest cannot be completed at this time.
+989,"Level up the Clan Hall in order
+to strengthen the Crystal of Unity."
+994,"Hire a higher-grade
+Keeper to use."
+995,Another Relic has already been registered.
+996,There are no registered Relics.
+997,More time is needed to appraise the Relic.
+998,Not enough Clan Relic Chest Points.
+1000,"An equally good or better feast
+has already been prepared."
+1010,This Keeper is already busy with a task.
+1011,This is an unknown Keeper type.
+1012,Unable to upgrade the Keeper to the selected grade.
+1021,Not battling against hostile clan.
+1022,Already negotiating end of battle against hostile clan.
+1023,Not negotiating end of battle against hostile clan.
+1024,Not enough clan members to go to battle.
+1025,Not enough hostile clan members to go to battle.
+93,Cannot change channels while in a battle.
+500,Leave the Scrimmage Arena to move.
+97,Not enough Honor Coins.
+98,Not enough Courage Coins.
+99,Not enough Ancient Coins.
+1911,Reached the limit for Honor Coins.
+1912,Reached the limit for Courage Coins.
+1913,Reached the limit for Ancient Coins.
+895,Cannot enter while the battlefield is being prepared.
+1014,Not enough Kindling to light a fire in the Fireplace.
+1015,Reached the Craft limit.
+1051,This item cannot be given as a prize.
+400,There are no available SP.
+5300,Incorrect mount identifier.
+5301,Incorrect mount info identifier.
+5302,There are no equipped mounts.
+5303,You are requesting to mount an identical mount.
+5304,This is another mount’s item.
+5305,Reached the limit for using this mount item.
+5306,Mount information doesn’t match.
+5307,Cannot activate the mount because your level is too low.
+5308,There are no activated mounts.
+5309,Mount’s grade is too low.
+5310,The condition for activating this mount has not been met.
+5311,This is not a mount item.
+5312,Incorrect slot for equipping this mount item.
+5313,Not enough mount level up material.
+5314,You cannot mount any mounts here.
+5315,The mount’s level is too low.
+6500,Reached the maximum bind limit.
+896,"You have included invalid characters.
+(Cannot use special letters or slang)"
+898,"Including spaces, only 2-16 characters
+(2-12 if Korean or Chinese is included)
+can be used."
+897,You can only have one space at a time.
+5400,This is currently unavailable.
+1121,Cannot enter the Siege Headquarters because it was destroyed.
+899,"You can only join a party of clan members in Fortress Siege and Castle Siege
+or invite them into your party."
+6600,This is currently unavailable. You can only change the name in the field and cannot do so while in a party.
+1055,Response from the Netmarble server is currently delayed. Please try again.
+900,Cannot send/receive invites at current location.
+5603,Party matching is unavailable during the placement period.
+5604,You cannot be matched in a party with players participating in placement tests.
+7100,Grade UR cannot be used as attribute material.
+107,"You cannot enter while dead.
+Please try again after reviving."
+1056,Your level is lower than the required entry level.
+1057,Your Combat Power is lower than the required entry Combat Power.
+1058,You don’t have enough Clan Help entry counts.
+1059,You’ve reached the maximum number of players who can participate in Clan Dungeon Help.
+1060,You cannot enter a dungeon using [Join] if you are already participating in a dungeon.
+1061,You are outside of the Clan Dungeon support level range.
+1062,You are outside of the Clan Dungeon support Combat Power range.
+1063,You are outside of the Clan Dungeon Help recruit player count range.
+1064,Clan Dungeon Call for Help has been put on hold.
+108,You’ve reached the maximum number of Instant Revives.
+109,It is too crowded to enter.
+110,Not enough Green Diamonds.
+111,@NotEnoughFreeDiamondStorage
+112,Not enough Blue Diamonds or Green Diamonds.
+1914,You’ve reached the limit for Green Diamonds.
+1065,Clan Dungeon boss has been defeated.
+638,"You already have a special mission.
+You must complete special missions in progress first."
+1066,@PartyInvalidName
+1067,There are no targets to exact vengeance on.
+1068,Player is not in the room.
+1069,Supporting a vengeance is not possible here.
+1605,There is no Journey Quest reward.
+5101,"This title has been activated,
+so you cannot use items."
+113,@PartyInvalidName
+1005,This player has already been invited to the clan.
+1006,Failed to invite to clan. Reached the max clan invite number.
+1007,This player has refused the clan invitation.
+1008,This player cannot be invited to clan.
+114,"Including spaces, only 2-25 characters
+(2-20 if Korean or Chinese is included)
+can be used."
+1026,Clan invite advertisement will be available shortly.
+1334,"This purchase is only available to players who are part of a clan.
+Please try again after joining one."
+1009,@PartyInvalidName
+1018,@PartyInvalidNameSpace
+1019,@PartyInvalidNameLength
+5607,Already claimed the season reward.
+6203,Insufficient number of openings when using Adena. You can only open 2 daily with Adena.
+8600,Incorrect mini-game identifier
+8601,No more rewards remaining
+8602,Not in mini-game world
+8603,Mini-game cannot be entered
+1027,No more Clan Hall Quests remaining.
+1430,"A party member is affected by a leaver penalty.
+Cannot enter."
+1431,"You left a Temporal Rift early recently.
+You cannot enter for a period of time."
+2211,This cloak has already been acquired.
+2212,Incorrect cloak type.
+2213,Cannot find cloak.
+2214,Cloak necessary for cloak activation not owned.
+2215,Cloak level too low for cloak activation.
+2216,Cloak battle deck data is incorrect.
+2217,Cannot find the cloak battle deck data.
+2218,Cloak is at max level.
+2219,Cloak not activated.
+2220,Cloak color data is incorrect.
+2221,Cloak type data is incorrect.
+2222,Cloak substat lock data is incorrect.
+2223,Only Clan Leaders can choose to level up or change the color of Clan Cloaks.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
+122,Name contains forbidden text.
+123,@PartyInvalidNameSpace
+7103,Item use level is at max.
+1432,Cannot recharge when the reward count is at max.
+1433,Used up all reward recharges.
+-1,Reached max reset amount on the Treasure Board. Cannot reset.
+6201,You must open at least 20 cells to reset to the next Treasure Board.
+6202,Insufficient total opened treasures.
+1333,League Tier too low to purchase.
+1434,You cannot enter because the rift is closed.
+2201,Cannot find this event.
+2202,Coming soon.
+2203,This event has ended.
+2204,All draw rewards have been used.
+2205,Not enough Tickets.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Character Name Duplicate
+7300,Character Limitation
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Limited-time items cannot be used.
+1350,Already requesting to join the Open Siege.
+1351,A player is already on standby to enter the Open Siege.
+1352,A player cannot be found.
+1353,A player is already in your party.
+1354,This Open Siege party cannot be found.
+1355,Party member count maxed out.
+1356,Player is currently a part of an Open Siege party.
+1357,No affiliated party.
+1358,Not the party leader.
+1359,You cannot kick yourself.
+1360,This player cannot be found.
+1361,This action cannot be performed by the Party Leader.
+1362,This action cannot be performed during preparation.
+1363,Not possible at the current moment.
+1364,Select a class to finish preparations.
+1365,A party member isn’t ready.
+1366,Ready!
+1367,Not ready yet.
+1368,This action cannot be performed yet.
+1369,Previous participation history identified.
+1370,Preparing to enter the dungeon.
+1371,A player is preparing to enter the dungeon.
+1372,This action is unavailable when a player is requesting to participate in Open Siege.
+1373,A player is currently a part of an Open Siege.
+1374,You cannot enter Open Siege from this location.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,A member of a clan participating in a Fortress Siege (or Castle Siege) must enter first to make spectator mode possible.
+1442,This item is no longer being sold.
+7700,Not enough Mastery Tokens.
+1191,현재 관전 인원수가 최대 입니다.
+2008,You have already reached the last section. Check the event again.
+1339,Purchasable only after conquering a Fortress of an appropriate Grade.
+2009,Reached the maximum number of Dice Game plays.
+-1,Dummy
+7550,Cannot obtain item because time has expired.
+1120,Not able to forfeit.

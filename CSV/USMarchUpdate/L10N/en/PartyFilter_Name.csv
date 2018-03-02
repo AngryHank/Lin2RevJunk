@@ -1,0 +1,43 @@
+﻿Id,Adventure,Difficulty
+1,All,All
+2,Elite Dungeon,Elven Ruins 1
+3,@2,Elven Ruins 2
+4,@2,Ant Nest 1
+5,@2,Ant Nest 2
+6,@2,Cruma Tower Floor 2
+7,@2,Cruma Tower Floor 3
+8,@2,Ivory Tower Catacomb 1
+9,@2,Ivory Tower Catacomb 2
+10,Extraction Pit,Extraction Pit
+11,Temple Guardian,Easy
+12,@11,Normal
+13,@11,Hard
+14,@11,Very Hard
+15,Summoning Circle,@11
+16,@15,@12
+17,@15,@13
+101,Raid Boss,Spirit Shepherd
+102,@101,Zodiac
+103,@101,Kyrios
+104,@101,Silverbeard
+105,@101,Vapar
+106,@101,Kazir
+107,@101,Flagon
+108,@101,Sina
+109,@101,Amadeus
+111,@101,Stenoa
+112,@101,Marsha
+118,@2,Ivory Tower Catacomb 3
+124,Temporal Rift,Altar of Madness - Easy
+125,@124,Altar of Madness - Normal
+129,@124,Countess of Blood’s Boudoir - Easy
+130,@124,Countess of Blood’s Boudoir - Normal
+140,Rare Monster Summoning Stone Dungeon,Talking Island
+141,@140,Gludio
+142,@140,Dion
+143,@140,Giran
+144,@140,Oren
+145,Boss Summoning Stone Dungeon,@141
+146,@145,@142
+147,@145,@143
+148,@145,@144

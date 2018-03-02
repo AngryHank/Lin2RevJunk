@@ -1,0 +1,406 @@
+﻿Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Elven Ruins 1,,,"A place filled with magic energy, this is the academy where Elves taught magic to Humans. Humans built their foundations here to eventually become the rulers of the continent."
+201,Elven Ruins 2,,,"When the Elves ruled the continent, this floor was only opened for Humans with exceptional talent. The magical energy here is stronger than on the first floor."
+202,Ant Nest 1,,,A cave filled with Giant Ants that adapted and survived in the Wasteland that was created by the gigantic dark magic explosion.
+203,Ant Nest 2,,,The ants created an even more complicated maze here to protect their precious goods. Only ants can find their way around.
+204,Cruma Tower Floor 2,,,A moving fortress and science facility used by ancient giants for biological experiments aimed to create a new type of lifeform. Used to protect the laboratory.
+205,Cruma Tower Floor 3,,,"Staying true to the tower’s original intention, this floor has many biological research laboratories. It is filled with the Giants’ magical energy."
+206,Ivory Tower Catacomb 1,,,"A space formed when the meteorite Nebulite fell. It was originally a laboratory and library, but was closed down in the aftermath of the Rampant Wizards Incident."
+207,Ivory Tower Catacomb 2,,,"There was originally an alchemic laboratory here, but it is now overrun with hard, rock-like mushrooms that grew through the ground."
+208,Ivory Tower Catacomb 3,,,"In these Nebulite rich depths monsters run amok, imbued with great strength and insane ferocity by the effects of the crashed meteorite."
+209,Ivory Tower Catacomb Laboratory,,,This is both the laboratory of a Nebulite-crazed Ivory Tower Wizard and the place he was sealed. Many subjects roam here.
+210,Forest of Secrets Canopy,,,This was where the Fairies used to reside. Monsters have since taken over this area after the Fairies migrated away from the danger of battles.
+211,Forest of Secrets Understory,,,"The Forest of Secrets is overgrown, preventing sunlight from entering, and has been desecrated by monsters."
+212,Forest of Secrets Slaughter Site,,,"The final resting place of the Fairies who resisted the Fairy Hunt. There is always a gloomy, blood red fog lingering."
+4000,Iridescent Scale Garden (Dummy),,,
+9000,Trials of Experience I,Upgrade Stone,Use to acquire 1 Upgrade Stone Draw.,There are many powerful Evil Summoning Stones installed by the Dark Brotherhood that have yet to be discovered. You must enter Outworld and defeat monsters to remove them.
+9001,Trials of Experience II,@9000,Use to acquire 2 Upgrade Stone Draws.,@9000
+9002,Trials of Experience III,@9000,Use to acquire 3 Upgrade Stone Draws.,@9000
+9003,Trials of Experience IV,@9000,Use to acquire 5 Upgrade Stone Draws.,@9000
+9100,Trials of Experience V,@9000,@9003,@9000
+9004,Adena Vault I,@9000,@9000,"Shunaiman, the Emperor of Elmoreden, used this place to store gold required to build the Tower of Insolence. After his death it became occupied by Kresous the Gold Dragon."
+9005,Adena Vault II,@9000,@9001,@9004
+9006,Adena Vault III,@9000,@9002,@9004
+9008,Adena Vault IV,@9000,@9003,@9004
+9200,Adena Vault V,@9000,@9003,@9004
+9009,Temple Guardian I,@9000,@9000,The Elven temple that houses the Water Crystal blessed by Eva. Hardin ordered the Silverlight Mercenaries to guard the temple to protect the Water Crystal from the Dark Brotherhood.
+9010,Temple Guardian II,@9000,@9001,@9009
+9011,Temple Guardian III,@9000,@9002,@9009
+9012,Temple Guardian IV,@9000,@9003,@9009
+9300,Temple Guardian V,@9000,@9003,@9009
+9013,Summoning Circle I,@9000,@9000,Protect Feldheim while he removes the magic placed on the sealed Holy Artifact and clear the dungeon to get the Summoning Stone.
+9014,Summoning Circle II,@9000,@9001,@9013
+9015,Summoning Circle III,@9000,@9002,@9013
+9016,Summoning Circle IV,@9000,@9003,@9013
+9017,Refining Stone Dungeon I,@9000,@9000,Destroy the dimensional gate that summons monsters and acquire rewards.
+9018,Refining Stone Dungeon II,@9000,@9001,@9017
+9019,Refining Stone Dungeon III,@9000,@9002,@9017
+9020,Refining Stone Dungeon IV,@9000,@9003,@9017
+11100,Ancient Sanctuary I,Upgrade Stone Selection Box,Use to acquire 1 Upgrade Stone Selection Box.,
+11101,Ancient Sanctuary II,@11100,Use to acquire 2 Upgrade Stone Selection Boxes.,
+11102,Ancient Sanctuary III,@11100,Use to acquire 3 Upgrade Stone Selection Boxes.,
+11103,Ancient Sanctuary IV,@11100,Use to acquire 4 Upgrade Stone Selection Boxes.,
+11104,Ancient Sanctuary V,Radiant Upgrade Stone Selection Box,Used to acquire 1 Radiant Upgrade Stone Selection Box.,
+11200,Trackers' Sanctuary I,Scroll: Enhance Weapon,Use to acquire 1 Scroll: Enhance Weapon.,
+11201,Trackers' Sanctuary II,@11200,Use to acquire 2 Scrolls: Enhance Weapon.,
+11202,Trackers' Sanctuary III,@11200,Use to acquire 3 Scrolls: Enhance Weapon.,
+11203,Trackers' Sanctuary IV,@11200,Use to acquire 4 Scrolls: Enhance Weapon.,
+11204,Trackers' Sanctuary V,Weapon & Mount Equipment Enhance Scroll,"Use to acquire 5 Weapon Enhance Scrolls and
+1 Mount Equipment Enhance Scroll.",
+11300,Warriors' Sanctuary I,Weapon Upgrade Stone,Used to acquire 1 Weapon Upgrade Stone.,
+11301,Warriors' Sanctuary II,@11300,Used to acquire 2 Weapon Upgrade Stones.,
+11302,Warriors' Sanctuary III,@11300,Used to acquire 3 Weapon Upgrade Stones.,
+11303,Warriors' Sanctuary IV,@11300,Used to acquire 4 Weapon Upgrade Stones.,
+11304,Warriors' Sanctuary V,Radiant Weapon Upgrade Stone,Used to acquire 1 Radiant Weapon Upgrade Stone.,
+11400,Beast Sanctuary I,Scroll: Enhance Armor,Use to acquire 1 Scroll: Enhance Armor.,
+11401,Beast Sanctuary II,@11400,Use to acquire 2 Scrolls: Enhance Armor.,
+11402,Beast Sanctuary III,@11400,Use to acquire 3 Scrolls: Enhance Armor.,
+11403,Beast Sanctuary IV,@11400,Use to acquire 4 Scrolls: Enhance Armor.,
+11404,Beast Sanctuary V,Armor & Mount Equipment Enhance Scroll,"Use to acquire 5 Armor Enhance Scrolls and
+1 Mount Equipment Enhance Scroll.",
+11500,Monster Sanctuary I,Armor Upgrade Stone,Used to acquire 1 Armor Upgrade Stone.,
+11501,Monster Sanctuary II,@11500,Used to acquire 2 Armor Upgrade Stones.,
+11502,Monster Sanctuary III,@11500,Used to acquire 3 Armor Upgrade Stones.,
+11503,Monster Sanctuary IV,@11500,Used to acquire 4 Armor Upgrade Stones.,
+11504,Monster Sanctuary V,Radiant Armor Upgrade Stone,Used to acquire 1 Radiant Armor Upgrade Stone.,
+11600,Sanctuary of Fiends I,Scroll: Enhance Accessory,Use to acquire 1 Scroll: Enhance Accessory.,
+11601,Sanctuary of Fiends II,@11600,Use to acquire 2 Scrolls: Enhance Accessory.,
+11602,Sanctuary of Fiends III,@11600,Use to acquire 3 Scrolls: Enhance Accessory.,
+11603,Sanctuary of Fiends IV,@11600,Use to acquire 4 Scrolls: Enhance Accessory.,
+11604,Sanctuary of Fiends V,Accessory & Mount Equipment Enhance Scroll,"Use to acquire 5 Accessory Enhance Scrolls and
+1 Mount Equipment Enhance Scroll.",
+11700,Sanctuary of Memories I,Accessory Upgrade Stone,Used to acquire 1 Accessory Upgrade Stone.,
+11701,Sanctuary of Memories II,@11700,Used to acquire 2 Accessory Upgrade Stones.,
+11702,Sanctuary of Memories III,@11700,Used to acquire 3 Accessory Upgrade Stones.,
+11703,Sanctuary of Memories IV,@11700,Used to acquire 4 Accessory Upgrade Stones.,
+11704,Sanctuary of Memories V,Radiant Accessory Upgrade Stone,Used to acquire 1 Radiant Accessory Upgrade Stone.,
+12001,Tower of Insolence Floor {IntParam},@9000,,
+12002,@12001,Enhance Scroll,,
+12003,@12001,Proof of Blood,,
+12004,@12001,Soul Crystal,,
+12005,@12001,Adena,,
+12006,@12001,Equipment Draw Ticket,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Lesser Giant Ruins,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Extraction Pit,@12003,,A secret mine formed underneath the Ivory Tower that stores Nebulite the meteorite. Many herbs with mysterious powers grow here.
+60001,Official Tutorial,Exp.,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Varkaron’s Vestige,@12003,,"Varkaron’s sharp blades
+will cause heavy bleeding."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90104,@90101,@12003,,@90101
+90301,Queen Ant’s Cave,@12003,,"The Queen Ant, deep in her
+dark cave, is a master of poisons."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90304,@90301,@12003,,@90301
+90401,Room of Cruma Core,@12003,,"The Cruma Core is the heart of the Cruma Tower.
+It guards the knowledge of the Lesser Giants that is sealed in Cruma Tower."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,God’s Gift,,,
+70004,@70003,,,
+100001,Altar of Madness,,,"The wizards of the <GreenBold>Ivory Tower</>
+endeavor to find a portion of the shards that were stolen.
+
+During their investigation
+they discovered <BlueBold>Leanis</>, one of the wizards 
+from the <GreenBold>Ivory Tower</>, had disappeared.
+While searching for her tracks
+they stumble upon a village where the <RedBold>Timak Orc Shamans</> live.
+
+The wizards deduce that <BlueBold>Laenis</> has been kidnapped
+by the <RedBold>Orcs</>
+and enter the village to save her.
+However, they are forced to retreat after experiencing 
+strength they had never encountered before from the <RedBold>Orcs</>.
+The wizards of the <GreenBold>Ivory Tower</> have doubled down
+on investigating the <RedBold>Orcs</>, and have recruited
+the <BlueBold>Silverlight Mercenaries</> to help rescue <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Countess of Blood’s Boudoir,,,"The <RedBold>Countess Trisha</>, who was once dearly beloved
+by the Lord of Giran,
+
+suddenly disappeared, causing an uproar among the Giran nobility.
+They knew that if this information was leaked to the hostile land
+of Oren, they’d be put in an unfavorable situation politically.
+Knowing this, the Lord of Giran secretly deployed <BlueBold>Captain Tark</>
+to lead a search party to find her.
+
+After hearing that the <RedBold>Countess Trisha</> was last seen with
+her <RedBold>Guardian Knight</> in <GreenBold>Giran Harbor</>, <BlueBold>Captain Tark</> and
+his search party disguised themselves as Blood Rangers
+from the Devil’s Isle and secretly began searching <GreenBold>Devil’s Isle</>.
+However, after being exposed to various dangerous situations,
+<BlueBold>Captain Tark</> was forced to request help from the
+<BlueBold>Silverlight Mercenaries</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301
+90400,@90401,@12003,,@90401

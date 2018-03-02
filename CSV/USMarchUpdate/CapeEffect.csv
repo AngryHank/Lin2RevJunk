@@ -1,0 +1,847 @@
+﻿Id,EquipEffectDescription,ConditionRoomTypeList,ConditionType,ConditionFireRate,EffectType,EffectParam1,EffectParam2,EquipEffectBuffIcon,EquipEffectBuffName,EquipEffectBuffDescription
+7000101,"
+혈맹 망토는 착용효과를 보유하고 있지 않습니다.",,11,,179,,,,,
+7000201,"
+혈맹 망토는 착용효과를 보유하고 있지 않습니다.",,11,,179,,,,,
+7000301,"
+혈맹 망토는 착용효과를 보유하고 있지 않습니다.",,11,,179,,,,,
+7100101,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>5%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,500,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 5%</> 증가"
+7100102,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>5.5%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,550,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 5.5%</> 증가"
+7100103,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>6%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,600,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 6%</> 증가"
+7100104,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>6.5%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,650,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 6.5%</> 증가"
+7100105,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>7%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,700,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 7%</> 증가"
+7100106,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>7.5%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,750,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 7.5%</> 증가"
+7100107,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>8%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,800,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 8%</> 증가"
+7100108,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>8.5%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,850,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 8.5%</> 증가"
+7100109,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>9%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,900,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 9%</> 증가"
+7100110,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>10%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1000,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 10%</> 증가"
+7100111,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>11%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1100,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 11%</> 증가"
+7100112,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>12%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1200,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 12%</> 증가"
+7100113,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>13%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1300,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 13%</> 증가"
+7100114,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>14%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1400,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 14%</> 증가"
+7100115,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>15%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1500,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 15%</> 증가"
+7100116,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>16%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1600,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 16%</> 증가"
+7100117,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>17%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1700,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 17%</> 증가"
+7100118,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>18%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1800,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 18%</> 증가"
+7100119,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>19%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,1900,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 19%</> 증가"
+7100120,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>20%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2000,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 20%</> 증가"
+7100121,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>21%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2100,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 21%</> 증가"
+7100122,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>22%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2200,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 22%</> 증가"
+7100123,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>23%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2300,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 23%</> 증가"
+7100124,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>24%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2400,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 24%</> 증가"
+7100125,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>25%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2500,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 25%</> 증가"
+7100126,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>26%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2600,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 26%</> 증가"
+7100127,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>27%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2700,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 27%</> 증가"
+7100128,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>28%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2800,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 28%</> 증가"
+7100129,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>29%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,2900,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 29%</> 증가"
+7100130,"몬스터 처치 시와 채집 시,
+획득되는 경험치량이 <Fontblue>30%</> 증가 합니다.
+
+(적용장소 : 필드 / 채집던전)","World,GatheringDungeonWorld",0,10000,87,3000,,Icon_Buff_CapeEquipEffect_01,모험가의 망토 착용효과,"몬스터 처치 시와 채집 시,획득 경험치가<Fontblue> 30%</> 증가"
+7100201,"피의 마물 처치 시 <Fontblue>10%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1000,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>10%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100202,"피의 마물 처치 시 <Fontblue>11%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1100,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>11%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100203,"피의 마물 처치 시 <Fontblue>12%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1200,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>12%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100204,"피의 마물 처치 시 <Fontblue>13%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1300,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>13%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100205,"피의 마물 처치 시 <Fontblue>14%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1400,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>14%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100206,"피의 마물 처치 시 <Fontblue>15%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1500,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>15%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100207,"피의 마물 처치 시 <Fontblue>16%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1600,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>16%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100208,"피의 마물 처치 시 <Fontblue>17%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1700,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>17%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100209,"피의 마물 처치 시 <Fontblue>18%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,1800,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>18%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100210,"피의 마물 처치 시 <Fontblue>20%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2000,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>20%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100211,"피의 마물 처치 시 <Fontblue>21.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2150,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>21.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100212,"피의 마물 처치 시 <Fontblue>23%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2300,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>23%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100213,"피의 마물 처치 시 <Fontblue>24.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2450,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>24.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100214,"피의 마물 처치 시 <Fontblue>26%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2600,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>26%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100215,"피의 마물 처치 시 <Fontblue>27.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2750,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>27.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100216,"피의 마물 처치 시 <Fontblue>29%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,2900,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>29%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100217,"피의 마물 처치 시 <Fontblue>30.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3050,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>30.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100218,"피의 마물 처치 시 <Fontblue>32%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3200,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>32%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100219,"피의 마물 처치 시 <Fontblue>33.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3350,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>33.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100220,"피의 마물 처치 시 <Fontblue>35%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3500,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>35%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100221,"피의 마물 처치 시 <Fontblue>36.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3650,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>36.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100222,"피의 마물 처치 시 <Fontblue>38%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3800,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>38%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100223,"피의 마물 처치 시 <Fontblue>39.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,3950,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>39.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100224,"피의 마물 처치 시 <Fontblue>41%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4100,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>41%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100225,"피의 마물 처치 시 <Fontblue>42.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4250,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>42.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100226,"피의 마물 처치 시 <Fontblue>44%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4400,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>44%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100227,"피의 마물 처치 시 <Fontblue>45.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4550,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>45.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100228,"피의 마물 처치 시 <Fontblue>47%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4700,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>47%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100229,"피의 마물 처치 시 <Fontblue>48.5%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,4850,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>48.5%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100230,"피의 마물 처치 시 <Fontblue>50%</> 확률로, 
+<Fontblue>피의 결정체</>를 추가적으로 획득 합니다.
+일일 최대 2000개까지 획득 할 수 있습니다.
+
+(케릭터의 레벨보다 7레벨 이하의 피의 마물 처치시에는 적용 되지 않으며, 피의 마물에 가한 피해량에 따라서, 확률이 보정 될 수 있습니다.)
+(적용장소 : 정예던전)",RegularDungeonWorld,2,5000,96,9900025,,Icon_Buff_CapeEquipEffect_01,토벌의 망토 착용효과,"피의 마물 처치 시 <Fontblue>50%</> 확률로, <Fontblue>피의 결정체</> 추가 획득"
+7100301,"채집 시 <Fontblue>12%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1200,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>12%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100302,"채집 시 <Fontblue>13.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1350,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>13.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100303,"채집 시 <Fontblue>15%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1500,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>15%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100304,"채집 시 <Fontblue>16.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1650,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>16.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100305,"채집 시 <Fontblue>18%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1800,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>18%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100306,"채집 시 <Fontblue>19.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,1950,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>19.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100307,"채집 시 <Fontblue>21%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2100,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>21%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100308,"채집 시 <Fontblue>22.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2250,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>22.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100309,"채집 시 <Fontblue>24%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2400,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>24%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100310,"채집 시 <Fontblue>25.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2550,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>25.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100311,"채집 시 <Fontblue>27%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2700,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>27%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100312,"채집 시 <Fontblue>28.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,2850,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>28.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100313,"채집 시 <Fontblue>30%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3000,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>30%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100314,"채집 시 <Fontblue>31.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3150,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>31.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100315,"채집 시 <Fontblue>33%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3300,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>33%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100316,"채집 시 <Fontblue>34.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3450,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>34.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100317,"채집 시 <Fontblue>36%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3600,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>36%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100318,"채집 시 <Fontblue>37.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3750,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>37.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100319,"채집 시 <Fontblue>39%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,3900,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>39%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100320,"채집 시 <Fontblue>40.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4050,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>40.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100321,"채집 시 <Fontblue>42%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4200,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>42%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100322,"채집 시 <Fontblue>43.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4350,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>43.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100323,"채집 시 <Fontblue>45%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4500,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>45%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100324,"채집 시 <Fontblue>46.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4650,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>46.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100325,"채집 시 <Fontblue>48%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4800,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>48%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100326,"채집 시 <Fontblue>49.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,4950,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>49.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100327,"채집 시 <Fontblue>51%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,5100,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>51%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100328,"채집 시 <Fontblue>52.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,5250,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>52.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100329,"채집 시 <Fontblue>54%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,5400,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>54%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100330,"채집 시 <Fontblue>55.5%</> 확률로,
+<Fontblue>정원의 선물 1개</>를 추가 획득 할 수 있습니다.
+
+(적용장소 : 채집던전)",GatheringDungeonWorld,3,5550,96,9900031,,Icon_Buff_CapeEquipEffect_01,정원의 망토 착용효과,"채집 시 <Fontblue>55.5%</> 확률로,<Fontblue>정원의 선물 1개</> 추가 획득"
+7100401,"일반 스킬 사용 시, <Fontblue>16%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분30초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1600,85,1,990001,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>16%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분30초"
+7100402,"일반 스킬 사용 시, <Fontblue>16.7%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분28초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1670,85,1,990002,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>16.7%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분28초"
+7100403,"일반 스킬 사용 시, <Fontblue>17.4%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분26초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1740,85,1,990003,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>17.4%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분26초"
+7100404,"일반 스킬 사용 시, <Fontblue>18.1%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분24초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1810,85,1,990004,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>18.1%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분24초"
+7100405,"일반 스킬 사용 시, <Fontblue>18.8%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분22초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1880,85,1,990005,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>18.8%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분22초"
+7100406,"일반 스킬 사용 시, <Fontblue>19.5%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분20초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,1950,85,1,990006,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>19.5%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분20초"
+7100407,"일반 스킬 사용 시, <Fontblue>20.2%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분18초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2020,85,1,990007,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>20.2%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분18초"
+7100408,"일반 스킬 사용 시, <Fontblue>20.9%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분16초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2090,85,1,990008,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>20.9%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분16초"
+7100409,"일반 스킬 사용 시, <Fontblue>21.6%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분14초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2160,85,1,990009,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>21.6%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분14초"
+7100410,"일반 스킬 사용 시, <Fontblue>22.3%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분11초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2230,85,1,990010,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>22.3%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분11초"
+7100411,"일반 스킬 사용 시, <Fontblue>23%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분9초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2300,85,1,990011,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>23%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분9초"
+7100412,"일반 스킬 사용 시, <Fontblue>23.7%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분7초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2370,85,1,990012,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>23.7%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분7초"
+7100413,"일반 스킬 사용 시, <Fontblue>24.4%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분5초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2440,85,1,990013,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>24.4%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분5초"
+7100414,"일반 스킬 사용 시, <Fontblue>25.1%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분3초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2510,85,1,990014,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>25.1%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분3초"
+7100415,"일반 스킬 사용 시, <Fontblue>25.8%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>2분1초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2580,85,1,990015,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>25.8%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임2분1초"
+7100416,"일반 스킬 사용 시, <Fontblue>26.5%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분59초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2650,85,1,990016,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>26.5%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분59초"
+7100417,"일반 스킬 사용 시, <Fontblue>27.2%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분57초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2720,85,1,990017,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>27.2%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분57초"
+7100418,"일반 스킬 사용 시, <Fontblue>27.9%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분55초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2790,85,1,990018,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>27.9%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분55초"
+7100419,"일반 스킬 사용 시, <Fontblue>28.6%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분53초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2860,85,1,990019,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>28.6%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분53초"
+7100420,"일반 스킬 사용 시, <Fontblue>29.3%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분50초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,2930,85,1,990020,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>29.3%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분50초"
+7100421,"일반 스킬 사용 시, <Fontblue>30%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분48초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3000,85,1,990021,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>30%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분48초"
+7100422,"일반 스킬 사용 시, <Fontblue>30.7%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분46초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3070,85,1,990022,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>30.7%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분46초"
+7100423,"일반 스킬 사용 시, <Fontblue>31.4%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분44초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3140,85,1,990023,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>31.4%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분44초"
+7100424,"일반 스킬 사용 시, <Fontblue>32.1%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분42초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3210,85,1,990024,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>32.1%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분42초"
+7100425,"일반 스킬 사용 시, <Fontblue>32.8%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분40초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3280,85,1,990025,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>32.8%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분40초"
+7100426,"일반 스킬 사용 시, <Fontblue>33.5%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분38초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3350,85,1,990026,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>33.5%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분38초"
+7100427,"일반 스킬 사용 시, <Fontblue>34.2%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분36초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3420,85,1,990027,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>34.2%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분36초"
+7100428,"일반 스킬 사용 시, <Fontblue>34.9%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분34초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3490,85,1,990028,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>34.9%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분34초"
+7100429,"일반 스킬 사용 시, <Fontblue>35.6%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분32초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3560,85,1,990029,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>35.6%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분32초"
+7100430,"일반 스킬 사용 시, <Fontblue>36.3%</> 확률로,
+<Fontblue>마지막 사용한 일반 스킬</>의 쿨타임이 초기화 되어,
+즉시 재 사용 할 수 있습니다.
+
+(이 효과는 <Fontblue>1분30초</>에 한번만 발동됩니다.)
+(적용장소 : 모든 장소에서 적용)",,8,3630,85,1,990030,Icon_Buff_CapeEquipEffect_01,영웅의 망토 착용효과,"일반 스킬 사용 시, <Fontblue>36.3%</> 확률로,<fontblue>마지막 사용한 일반스킬</>의 쿨타임 초기화. 쿨타임1분30초"
+7100601,"몬스터에게 피해를 받으면 <Fontblue>6%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,600,85,1,990201,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>6%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100602,"몬스터에게 피해를 받으면 <Fontblue>6.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,650,85,1,990202,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>6.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100603,"몬스터에게 피해를 받으면 <Fontblue>7%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,700,85,1,990203,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>7%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100604,"몬스터에게 피해를 받으면 <Fontblue>7.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,750,85,1,990204,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>7.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100605,"몬스터에게 피해를 받으면 <Fontblue>8%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,800,85,1,990205,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>8%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100606,"몬스터에게 피해를 받으면 <Fontblue>8.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,850,85,1,990206,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>8.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100607,"몬스터에게 피해를 받으면 <Fontblue>9%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,900,85,1,990207,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>9%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100608,"몬스터에게 피해를 받으면 <Fontblue>9.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,950,85,1,990208,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>9.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100609,"몬스터에게 피해를 받으면 <Fontblue>10%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1000,85,1,990209,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>10%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100610,"몬스터에게 피해를 받으면 <Fontblue>10.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1050,85,1,990210,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>10.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100611,"몬스터에게 피해를 받으면 <Fontblue>11%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1100,85,1,990211,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>11%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100612,"몬스터에게 피해를 받으면 <Fontblue>11.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1150,85,1,990212,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>11.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100613,"몬스터에게 피해를 받으면 <Fontblue>12%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1200,85,1,990213,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>12%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100614,"몬스터에게 피해를 받으면 <Fontblue>12.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>1회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1250,85,1,990214,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>12.5%</> 확률로,<Fontblue>몬스터스킬공격을 1회</> 막는 보호막 발동. 쿨타임3분"
+7100615,"몬스터에게 피해를 받으면 <Fontblue>13%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1300,85,1,990215,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>13%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100616,"몬스터에게 피해를 받으면 <Fontblue>13.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1350,85,1,990216,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>13.5%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100617,"몬스터에게 피해를 받으면 <Fontblue>14%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1400,85,1,990217,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>14%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100618,"몬스터에게 피해를 받으면 <Fontblue>14.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1450,85,1,990218,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>14.5%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100619,"몬스터에게 피해를 받으면 <Fontblue>15%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1500,85,1,990219,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>15%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100620,"몬스터에게 피해를 받으면 <Fontblue>15.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1550,85,1,990220,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>15.5%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100621,"몬스터에게 피해를 받으면 <Fontblue>15.9%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1590,85,1,990221,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>15.9%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100622,"몬스터에게 피해를 받으면 <Fontblue>16.3%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1630,85,1,990222,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>16.3%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100623,"몬스터에게 피해를 받으면 <Fontblue>16.7%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1670,85,1,990223,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>16.7%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100624,"몬스터에게 피해를 받으면 <Fontblue>17.1%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1710,85,1,990224,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>17.1%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100625,"몬스터에게 피해를 받으면 <Fontblue>17.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1750,85,1,990225,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>17.5%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100626,"몬스터에게 피해를 받으면 <Fontblue>17.9%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1790,85,1,990226,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>17.9%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100627,"몬스터에게 피해를 받으면 <Fontblue>18.3%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1830,85,1,990227,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>18.3%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100628,"몬스터에게 피해를 받으면 <Fontblue>18.7%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1870,85,1,990228,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>18.7%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100629,"몬스터에게 피해를 받으면 <Fontblue>19.1%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>2회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1910,85,1,990229,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>19.1%</> 확률로,<Fontblue>몬스터스킬공격을 2회</> 막는 보호막 발동. 쿨타임3분"
+7100630,"몬스터에게 피해를 받으면 <Fontblue>19.5%</> 확률로,보호막이<Fontblue>12초</>간 생성됩니다.보호막이 유지되는 동안 몬스터의 스킬공격을 <Fontblue>3회</> 방어합니다.
+
+(이 효과는 3분에 한번만 발동됩니다.)
+(적용장소 : 필드/월드보스/정예던전/시공의균열/혈맹던전/마물소환석/오만의탑/일일,채집,장비,아데나,소환석던전)","World,BossWorld,RegularDungeonWorld,PartyDungeonWorld,GuildDungeonWorld,SummonWorld,InfinityDungeonWorld,DailyDungeonWorld,GatheringDungeonWorld,EquipDungeonWorld,AdenaDungeonWorld,SummonStoneDungeonWorld",4,1950,85,1,990230,Icon_Buff_CapeEquipEffect_01,붉은 파멸의 망토 착용효과,"몬스터에게 피해를 받으면 <Fontblue>19.5%</> 확률로,<Fontblue>몬스터스킬공격을 3회</> 막는 보호막 발동. 쿨타임3분"
+7100701,"플레이어에게 피해를 받으면 <Fontblue>3%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,300,85,1,990301,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>3%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100702,"플레이어에게 피해를 받으면 <Fontblue>3.3%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,330,85,1,990302,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>3.3%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100703,"플레이어에게 피해를 받으면 <Fontblue>3.6%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,360,85,1,990303,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>3.6%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100704,"플레이어에게 피해를 받으면 <Fontblue>3.9%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,390,85,1,990304,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>3.9%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100705,"플레이어에게 피해를 받으면 <Fontblue>4.2%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,420,85,1,990305,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>4.2%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100706,"플레이어에게 피해를 받으면 <Fontblue>4.5%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,450,85,1,990306,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>4.5%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100707,"플레이어에게 피해를 받으면 <Fontblue>4.8%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,480,85,1,990307,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>4.8%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100708,"플레이어에게 피해를 받으면 <Fontblue>5.1%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,510,85,1,990308,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>5.1%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100709,"플레이어에게 피해를 받으면 <Fontblue>5.4%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,540,85,1,990309,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>5.4%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100710,"플레이어에게 피해를 받으면 <Fontblue>5.7%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,570,85,1,990310,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>5.7%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100711,"플레이어에게 피해를 받으면 <Fontblue>6%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,600,85,1,990311,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>6%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100712,"플레이어에게 피해를 받으면 <Fontblue>6.3%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,630,85,1,990312,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>6.3%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100713,"플레이어에게 피해를 받으면 <Fontblue>6.6%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,660,85,1,990313,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>6.6%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100714,"플레이어에게 피해를 받으면 <Fontblue>6.9%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>1회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,690,85,1,990314,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>6.9%</> 확률로,<fontblue>레어스킬공격을 1회</> 막는 보호막 발동. 쿨타임5분"
+7100715,"플레이어에게 피해를 받으면 <Fontblue>7.2%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,720,85,1,990315,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>7.2%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100716,"플레이어에게 피해를 받으면 <Fontblue>7.5%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,750,85,1,990316,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>7.5%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100717,"플레이어에게 피해를 받으면 <Fontblue>7.8%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,780,85,1,990317,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>7.8%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100718,"플레이어에게 피해를 받으면 <Fontblue>8.1%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,810,85,1,990318,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>8.1%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100719,"플레이어에게 피해를 받으면 <Fontblue>8.4%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,840,85,1,990319,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>8.4%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100720,"플레이어에게 피해를 받으면 <Fontblue>8.7%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,870,85,1,990320,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>8.7%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100721,"플레이어에게 피해를 받으면 <Fontblue>8.9%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,890,85,1,990321,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>8.9%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100722,"플레이어에게 피해를 받으면 <Fontblue>9.1%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,910,85,1,990322,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>9.1%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100723,"플레이어에게 피해를 받으면 <Fontblue>9.3%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,930,85,1,990323,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>9.3%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100724,"플레이어에게 피해를 받으면 <Fontblue>9.5%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,950,85,1,990324,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>9.5%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100725,"플레이어에게 피해를 받으면 <Fontblue>9.7%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,970,85,1,990325,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>9.7%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100726,"플레이어에게 피해를 받으면 <Fontblue>9.9%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,990,85,1,990326,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>9.9%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100727,"플레이어에게 피해를 받으면 <Fontblue>10.1%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,1010,85,1,990327,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>10.1%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100728,"플레이어에게 피해를 받으면 <Fontblue>10.3%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,1030,85,1,990328,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>10.3%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100729,"플레이어에게 피해를 받으면 <Fontblue>10.5%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>2회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,1050,85,1,990329,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>10.5%</> 확률로,<fontblue>레어스킬공격을 2회</> 막는 보호막 발동. 쿨타임5분"
+7100730,"플레이어에게 피해를 받으면 <Fontblue>10.7%</> 확률로,보호막이<Fontblue>7초</>간 생성됩니다.보호막이 유지되는 동안, 레어스킬 공격을 <Fontblue>3회</> 막을 수 있습니다.
+
+(이 효과는 5분에 한번만 발동됩니다.)
+(적용장소 : 결투장/명예의전장/요새전/공성전/난투장/혈맹아지트/채집던전)","PvpWorld,SiegeWorld,BattlefieldOfHonorWorld,MeleeWorld,GuildAgitWorld,GatheringDungeonWorld",5,1070,85,1,990330,Icon_Buff_CapeEquipEffect_01,고결한 피의 망토 착용효과,"플레이어에게 피해를 받으면 <Fontblue>10.7%</> 확률로,<fontblue>레어스킬공격을 3회</> 막는 보호막 발동. 쿨타임5분"

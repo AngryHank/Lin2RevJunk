@@ -1,0 +1,24 @@
+﻿id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Charge,"Everyone, chaaarge!",Charge!,Charge!,Let’s charge!
+2,Victory,I only know victory!,For victory!,I only know victory!,For victory!
+3,Wave Hello,How do you do?,Hello.,Good to meet you!,Hi there!
+4,Laugh,Hahahahaha!,Hahaha!,Ahahahahaha!,Pwahahahaha!
+5,Sadness,*Sob*...,*Sniffle*!,*Sniffle*...,Bwaaaah!
+6,High-five,High-five!,High-five!,High-five!,High-five!
+7,Clap,That’s awesome!,That’s amazing!,Pretty amazing.,Wow! Awesome!
+8,Dismayed,I can’t believe this...,How could this be...?,What in the world...,Oh my goodness...
+9,Anger,I’m getting pissed!,Hmph!,Uowaaaaaah!,Urrrrgh! I’m mad!
+1001,Summon Evil,,,,
+1002,Go to the Village,,,,
+10001,Arena Human Victory,,,,
+10002,Arena Human Loss,,,,
+10003,Arena Elf Victory,,,,
+10004,Arena Elf Loss,,,,
+10005,Arena Dark Elf Victory,,,,
+10006,Arena Dark Elf Loss,,,,
+10007,Arena Dwarf Victory,,,,
+10008,Arena Dwarf Loss,,,,
+100001,Touch Action #1,,,,
+100002,Touch Action #2,,,,
+100003,Touch Action #3,,,,
+100004,Touch Action #4,,,,

@@ -1,0 +1,568 @@
+﻿Id,NpcName,DialogMessage
+1001,,
+1002,,
+2001,,
+2002,,
+3001,,
+3002,Port Master Psyche,"Welcome. Is this your first time on Talking Island? If you press here, then the quest will be automated."
+4001,,
+4002,Mercenary Captain Douglas,The automated quest stops once the quest is complete. Tap to begin the next quest.
+6001,@4002,Okay. You're a natural. Let's try another quest.
+11001,Guard Captain Harold,All of your items can be found in your Inventory.
+11002,,
+11003,@11001,Auto Equip is a quick and easy way to equip your best equipment.
+11004,,
+11005,@11001,"It’s a useful feature for new adventurers like yourself, so make good use of it."
+11006,,
+12001,Feldheim,<YellowBold>Soulshots</> allow for stronger attacks.
+12002,@12001,You should start by using Soulshots automatically!
+12003,@12001,Soulshots are only used <YellowBold>when you attack</>.
+12004,@12001,They stay safe and sound with you at all other times.
+12005,@12001,Don’t want to use them automatically? Just tap again.
+12006,@12001,"<YellowBold>Soulshots are available in the Shop</>, so stay well stocked!"
+12007,,
+13001,Niah,Let’s learn about Daily Dungeons.
+13002,@13001,You can find the entrance in the Dungeons menu.
+13003,@13001,See all the different dungeons?
+13004,@13001,"If you keep up with your training, you’ll be able to tackle them soon!"
+13005,@13001,"For now, let’s check out the Daily Dungeon."
+13006,@13001,"In <YellowBold>Daily Dungeons</>, <YellowBold>different monsters appear every day</>."
+13007,@13001,Defeat them to acquire <YellowBold>special rewards</>!
+13008,@13001,"Stronger monsters drop better rewards, so work on becoming stronger yourself."
+13009,@13001,Go on - head inside!
+13010,,
+13011,,
+13012,,
+13013,@13001,Auto-Battle is available if you need help.
+13014,,
+13015,,
+13016,,
+13017,@13001,Wow! That was one powerful monster you knocked out!
+13018,,
+13019,@13001,"You can only enter a few times per day, but don’t worry! The count <YellowBold>resets daily</>."
+13020,,
+13021,,
+13022,@13001,"<YellowBold>It won’t count as an entry</> if you fail, so don’t be afraid to challenge yourself!"
+13023,@13001,That was a solid effort. Better luck next time!
+13024,,
+14001,Archon Daniel,Time to check your achievements and claim rewards.
+14002,@14001,The first step is to enter Challenges.
+14003,@14001,That will lead you to Achievements.
+14004,@14001,Have your <YellowBold>achievements</> acknowledged and receive <YellowBold>rewards</> for them.
+14005,@14001,It seems you’ve been working hard. You’ve already completed some <YellowBold>achievements</>.
+14006,@14001,Go ahead and claim this reward.
+14007,,
+14008,@14001,Well done. You will acquire <YellowBold>titles and abilities</> based on your meritorious deeds.
+14009,@14001,So stop by often to stay updated.
+14010,@14001,"Keep working hard, and your efforts will be quickly rewarded."
+14011,@14001,"The higher your achievement level, the stronger your abilities - and you’ll receive supply items as daily rewards."
+14012,@14001,"Be mindful of <YellowBold>the different kinds of achievements</> to complete, and don’t ignore any of them."
+14013,,
+15001,Merchant Anais,The Shop is full of helpful supplies.
+15002,@15001,Like this one right here. Remember what it looks like - it’ll come in handy later on!
+15003,@15001,What are you waiting for? Open it up!
+15004,,
+15005,@15001,Wow! That’s a fantastic piece of equipment!
+15006,@15001,Do you know how to make equipment stronger? You <YellowBold>level it up</>!
+15007,@15001,"You’ll get <YellowBold>one free High-grade Equipment Box daily</>, so don’t forget to stop by!"
+15008,,
+16001,Ferron the Blacksmith,You came to the right man if you want to <YellowBold>level up</> equipment. I’m the best blacksmith on Talking Island!
+16002,@16001,"Here, take this equipment. It should be useful for you."
+16003,@16001,Let’s take a look at the equipment you received.
+16004,@16001,It should be in the armor tab.
+16005,@16001,Go on and select the equipment I gave you.
+16006,@16001,You can level up equipment at the Forge. Follow me.
+16007,@16001,There are <YellowBold>various ways to strengthen equipment</> using the Forge.
+16008,@16001,Select Level Up.
+16009,@16001,<YellowBold>Level up</> uses other equipment as material to <YellowBold>improve</> the equipment you primarily use.
+16010,@16001,"Now, there is a small fee for the service... I’d be out on the streets if I did this for free, heh!"
+16011,@16001,Use this as material. Let’s call it a gift!
+16012,@16001,"Well, we’re all set! I can do this for free just this once. Our secret!"
+16013,@16001,The materials will disappear during the process.
+16014,,
+16015,@16001,"All finished! Let’s take a look. Hey, it’s a success!"
+16016,@16001,Go ahead and equip it now that it’s leveled up!
+16017,@16001,It’s as easy as tapping Auto Equip!
+16018,,
+16019,@16001,Leveling up your equipment <YellowBold>is the easiest way to improve your combat abilities</>. Try leveling up your equipment if enemies are too powerful.
+16020,,
+17001,Captain Austin,Well then! Let's move onto leveling up your skills.
+17002,@17001,"Before we start, we’ll need to see what skills you use."
+17003,@17001,Let’s take a look at your skills.
+17004,@17001,"Here, you can raise your <YellowBold>skill levels</> and <YellowBold>switch the locations of skill buttons</>."
+17005,@17001,You’ll need Skill Points to raise the level of your skills.
+17006,@17001,You can acquire SP by raising your character’s level and by playing consistently.
+17007,@17001,Okay. Let’s <YellowBold>level up your skills</>.
+17008,@17001,Hmm. This skill will do.
+17009,@17001,"Do you see the level up button? It’s tempting, right?"
+17010,@17001,You can use <YellowBold>SP</> to <YellowBold>raise skill levels</>.
+17011,@17001,"Normally, this would cost some Adena... However, I’ll help you out this time since you were so helpful recently."
+17012,@17001,Oh! And one more thing!
+17013,@17001,See the passive skills here?
+17014,@17001,<YellowBold>Passive skills</> can be leveled up the same way. Let’s try it out.
+17015,@17001,"First, select a skill."
+17016,@17001,"Then, you can spend SP and Adena to raise its level."
+17017,@17001,"<YellowBold>Passive skill</> effects are automatically activated, so they can be easy to overlook - but it’s important to remember them if you want to become stronger."
+17018,,
+18001,Russel,The Arena is the best place to test your skills.
+18002,@18001,You can find it on the Battlefield!
+18003,@18001,See the Arena entrance? Prepare yourself!
+18004,@18001,You can fight <YellowBold>1 on 1 duels</> against other adventurers. It’s a great place to prove your skills!
+18005,@18001,Select one of the 4 opponents from the list and defeat them! You can rise to greater heights by fighting and defeating stronger opponents!
+18006,@18001,<YellowBold>Weekly rewards</> are given out based on your weekly ranking. Work hard to consistently place high!
+18007,@18001,Don’t forget that duels go hand-in-hand with Honor!
+18008,@18001,Honor is given to winners and losers alike.
+18009,@18001,Accumulate Honor to reach higher ranks and acquire <YellowBold>stat rewards</>!
+18010,@18001,Hmm... you don’t have any Honor to speak of right now...
+18011,@18001,But that’s easy to fix!
+18012,@18001,"With dedication, you’ll earn more Honor and better rewards!"
+18013,@18001,Well? Do you feel pumped?
+18014,@18001,Don’t be modest - let’s get dueling right away!
+18015,@18001,"Select Start. There’s no telling who your opponent will be, but I’m sure you’ll beat them to a pulp!"
+18016,,
+18017,,
+18018,@18001,I knew you’d win! Congrats!
+18019,,
+18020,,
+18021,,
+18022,@18001,"Ouch... That was close! Well, there’s always next time!"
+18023,,
+19001,Academy Professor Eugene,Allow me to teach you another way to improve equipment.
+19002,@19001,"Combine is relatively simple, but it gets the job done."
+19003,@19001,You’ll need to use the Forge to combine equipment.
+19004,@19001,You can combine equipment here.
+19005,@19001,Combine two level 30 equipment pieces of the same grade and type to acquire one piece of equipment of a grade one greater than the material used.
+19006,@19001,Equipment is categorized into target equipment and material equipment.
+19007,@19001,Check the details of the target equipment here.
+19008,@19001,Let’s not waste any more time - it’s time to combine. Use this as combining material.
+19009,,
+19010,@19001,Tap this.
+19011,@19001,Take this and use it as material equipment.
+19012,,
+19013,@19001,Select this material equipment.
+19014,@19001,"If the material is ready, let’s combine."
+19015,@19001,There’s no time. Hurry up with it.
+19016,,
+19017,@19001,Success! Seems the preparations are ready.
+19018,@19001,"Don’t forget to equip your equipment! Oh! Combine <YellowBold>produces the same type as the main material equipment</> so keep that in mind! Well then, good luck!"
+19019,,
+20001,Lieutenant Arthur,Want to know about clans? Tap the main menu.
+20002,@20001,Tap the Clan button here.
+20003,@20001,You would do well to join a clan that matches your beliefs.
+20004,@20001,You’ll find that there are many benefits to membership.
+20005,@20001,Oops! Here I am suggesting you join a clan without even explaining what clans are!
+20006,@20001,"The key aspects of clans are <YellowBold>Castle Siege</> and <YellowBold>Fortress Siege</>, where you can battle other clans over various castles and fortresses."
+20007,@20001,"And of course, clans can’t be competitive without significant power."
+20008,@20001,All citizens of Aden can <YellowBold>bet on the winners of a Castle Siege and win prizes</> during the <YellowBold>Castle Seige Festival.</>
+20009,@20001,"And that’s not all! When you’re in a clan, you can reap benefits from <YellowBold>buffs, the clan shop, clan quests, and rewards</>."
+20010,@20001,Let’s look at <YellowBold>how to join clans</>.
+20011,@20001,This is how you join clans.
+20012,@20001,Anyone can choose a clan leader they believe in and work together to reach the top!
+20013,@20001,"If you like the look of one of these clan leaders, tap <YellowBold>Apply</>!"
+20014,@20001,I’m excited to see what clan you’ll join!
+20015,@20001,Or maybe you’ll strike out on your own and become the leader of a new powerful clan!
+20016,,
+21001,Theodore,Have you heard about the <YellowBold>Tower of Insolence</>? Every Adventurer in Aden should enter it at least once.
+21002,@21001,"Well, then. Let’s try the Tower of Insolence now."
+21003,@21001,You can enter the Tower of Insolence through the Dungeons menu.
+21004,@21001,Do you see the infinitely tall tower? That is the Tower of Insolence.
+21005,,
+21006,@21001,<YellowBold>The Tower of Insolence</> was constructed by Emperor Baium of Elmoreden in defiance of the gods.
+21007,@21001,"Although it was once called the Tower of Eternity, enraged with wrath, the god Einhasad filled it with monsters."
+21008,@21001,"The higher you climb in the tower, the stronger the monsters you’ll encounter - and the better the treasures you’ll find."
+21009,@21001,"Curious? At present, you should be able to at least clear the first floor."
+21010,,
+21011,,
+21012,,
+21013,@21001,Not too shabby.
+21014,,
+21015,@21001,"For each floor you’ve already cleared, you can acquire additional rewards once per day using <YellowBold>Auto-Clear</>."
+21016,@21001,"Here, you can check the Auto-Clear reward for each floor."
+21017,@21001,You can acquire <YellowBold>Rune Fragments</> using Auto-Clear. Think of it as a key to improve your combat abilities.
+21018,@21001,I'll teach you more the next time I see you.
+21019,,
+21020,,
+21021,@21001,Hmm... Seems you haven’t trained enough...
+21022,@21001,Let’s return by tapping the screen.
+21023,,
+22001,@21001,"I’ll teach you Rune Imprinting, which will allow you to use Rune Fragments to get stronger."
+22002,@21001,Rune imprinting is a means of directly improving your character.
+22003,@21001,Use this to try out rune imprinting for yourself.
+22004,@21001,"Through rune imprinting, the abilities of each rune become yours <YellowBold>permanently</>."
+22005,@21001,"Rune imprinting requires <YellowBold>Rune Fragments</>. Yes indeed, those things you acquired through auto-clearing the Tower of Insolence."
+22006,@21001,We’ll perform the most basic kind of rune imprint.
+22007,@21001,You can check here to see the materials required for rune imprinting.
+22008,@21001,"Now, give rune imprinting a try."
+22009,,
+22010,@21001,"Since this is your first time, I’ll provide you with the materials necessary."
+22011,@21001,The preparations are ready. Try imprinting.
+22012,,
+22013,@21001,Did you notice the large rune in the middle? That is the <YellowBold>Core Rune</>.
+22014,@21001,The <YellowBold>Core Rune</> level increases when all the runes on each page are imprinted to the same tier.
+22015,@21001,"Remember, Core Runes grant <YellowBold>many more stats</> than ordinary runes do."
+22016,@21001,"As you’ve noticed, this is the Core Rune."
+22017,@21001,Core Runes grant many stats that you can look forward to.
+22018,@21001,And finally... these aren’t all the runes that can be imprinted.
+22019,@21001,You can use this to unlock more rune pages.
+22020,@21001,You can imprint <YellowBold>more diverse and powerful runes as you gain access to more pages</>.
+22021,@21001,"However, <YellowBold>all runes on a page need to be imprinted a level greater than Lv. 1</> in order to unlock the next page."
+22022,@21001,"Rune imprinting draws out powerful abilities, so it requires adequate preparations."
+22023,@21001,Well then! I look forward to seeing how strong you’ll become through the power of rune imprinting.
+22024,,
+23001,,
+23002,@21001,Let’s open the Inventory.
+23003,@21001,Select the Armor tab.
+23004,@21001,Equip the headgear I gave you.
+23005,@21001,"You do know to tap equip, right?"
+23006,@21001,If you carefully inspect the headgear you just equipped...
+23007,,
+23008,@21001,You can find the slot to equip Soul Crystals.
+23009,@21001,Soul Crystals are gemstones containing the souls of monsters. Equipping them results in <YellowBold>the soul’s stats being applied to equipment</>.
+23010,@21001,The traits of Soul Crystals determine their stats. Stronger souls provide <YellowBold>more powerful stats</>.
+23011,@21001,You can use Soul Crystals as material to create <YellowBold>more powerful ones</>.
+23012,@21001,We’ll be equipping Soul Crystals to this equipment.
+23013,@21001,Here’s a Soul Crystal acquired from defeating that monster.
+23014,@21001,Nice. Let’s equip it.
+23015,@21001,"Well done. Next, we’ll look into <YellowBold>upgrading</> Soul Crystals."
+23016,@21001,<YellowBold>Upgrading</> is the only way to <YellowBold>increase the grades</> of Soul Crystals.
+23017,@21001,Go ahead and tap Upgrade.
+23018,@21001,Tap the Soul Crystal you want to upgrade.
+23019,@21001,"Tap level up, and you’re all set."
+23020,@21001,"Then, tap Upgrade to see the magic happen."
+23021,@21001,
+23022,@21001,Well done. Let’s get out of here.
+23023,@21001,"If you have better headgear, equip that instead."
+23024,@21001,Simply tap auto equip.
+23025,@21001,Remember that you can only <YellowBold>upgrade</> Soul Crystals when you have the necessary amount of Soul Crystals of the <YellowBold>same grade and type</>.
+23026,@21001,That’s it about Soul Crystals. One Soul Crystal could be all the difference between victory and defeat. Use them wisely.
+23027,@21001,One Soul Crystal could be all the difference between victory and loss. Use them wisely.
+24001,@12001,You can enter Elite Dungeons from the Dungeons menu.
+24002,@12001,I trust you know how to get there.
+24003,@12001,There! See the Elite Dungeon? Select it.
+24004,,
+24005,@12001,"I stumbled across this place during my time as an archaeologist...
+The most vile monsters in Aden appear here."
+24006,@12001,"You may even encounter monsters you can’t handle on your own - you should take some <YellowBold>trusted friends</> along. The higher the risk, the greater the rewards."
+24007,@12001,The lord will post new Elite Dungeon missions each day.
+24008,@12001,You will receive additional rewards each time you complete 5 missions.
+24009,@12001,You can acquire additional Exp. during this time each day.
+24010,@12001,It’s dangerous to venture into Elite Dungeons alone. Parties provide safety in numbers.
+24011,,
+25001,@21001,I’ll teach you how to upgrade equipment.
+25002,@21001,"You remember how to get to the Forge, right?"
+25003,@21001,Here we are.
+25004,@21001,Go ahead and tap upgrade.
+25005,@21001,Use Upgrade Stones <YellowBold>to raise equipment grades while maintaining their appearance and stats.</>
+25006,@21001,"In order to upgrade equipment, you need <YellowBold>Upgrade Stones specific to the equipment parts</>."
+25007,@21001,"For example, you need <YellowBold>Accessory Upgrade Stones</> to upgrade accessories."
+25008,@21001,Check here to see the expected upgrade result.
+25009,@21001,"Well, let’s upgrade some accessories!"
+25010,,
+25011,@21001,Tap this ring to place it in the upgrade slot.
+25012,@21001,Tap this button to start the upgrade.
+25013,,
+25014,@21001,It’s a success! Congratulations.
+25015,@21001,Use the upgrade feature if you want to <YellowBold>keep a preferred piece of equipment’s stats or match set equipment</>.
+25016,@21001,Keep in mind that Upgrade Stones are rare and difficult to obtain.
+25017,,
+26001,Purifying Fairy,Enhance equipment using scrolls.
+26002,@26001,Tap an item.
+26003,@26001,You need to go to the Forge to enhance equipment.
+26004,@26001,Tap the enhance button.
+26005,@26001,<YellowBold>Equipment-specific enhance scrolls</> are required to enhance specific equipment types.
+26006,@26001,"Remember, <YellowBold>Blessed Scrolls</> can enhance up to +3 at once."
+26007,@26001,You can gain additional bonus stats for matching the enhancement levels of multiple pieces of equipment. It pays to keep things even.
+26008,@26001,"Don’t forget, equipment has maximum enhancement levels depending on its grade."
+26009,@26001,Let’s enhance this weapon.
+26010,,
+26011,@26001,Enhance scrolls are kept on the Other tab.
+26012,@26001,Select a Scroll: Enhance Weapon.
+26013,@26001,Steady... enhancing has a chance of failure.
+26014,@26001,"If you’re all set, start enhancing."
+26015,,
+26016,@26001,Success! I hope you like it.
+26017,@26001,"Be careful. Successful enhancements can raise a piece of equipment’s stats, but failure can lead to the enhancement level dropping."
+26018,,
+27001,@12001,I’ll teach you how to use the Codex. Follow me.
+27002,@12001,You can find the Codex in the Challenge menu.
+27003,@12001,Here we are.
+27004,@12001,You can register Cores obtained from monsters in the <YellowBold>Codex</>. Collect Cores to level up the Codex and <YellowBold>increase your stats</>!
+27005,@12001,"If you collect <YellowBold>all of the Monster Cores in a specific region</>, your <YellowBold>stat bonus increases even more</>."
+27006,@12001,I’ll teach you <YellowBold>how to register Cores</>.
+27007,@12001,Red Rouse is a monster that appears in West Talking Island. Select it.
+27008,@12001,There are enough Cores to complete the Codex. Good. Craft the Codex!
+27009,,
+27010,@12001,"Well done. Easy, right?"
+27011,@12001,"All monsters can drop Cores, but regular monsters won’t drop them very often."
+27012,@12001,<p>Focus your hunt on <YellowBold>Named Monsters</>. They’re guaranteed to drop Cores.
+27013,,
+28001,@26001,I’ll teach you one rare skill I know.
+28002,@26001,It should be of some help. This way...
+28003,@26001,"Here, you can learn rare skills."
+28004,@26001,Select the Forgotten Scroll.
+28005,@26001,"<YellowBold>Rare skills</> are different from normal skills and <YellowBold>are both efficient and powerful</>. Anyone can use them, regardless of their class."
+28006,@26001,"But, it’s important to note that rare skills cannot be learned normally or leveled up. You must gather <YellowBold>Forgotten Scroll pages</> to complete your Forgotten Scroll."
+28007,@26001,Select the skill page I handed you just now.
+28008,@26001,We need to create a Forgotten Scroll.
+28009,,
+28010,@26001,Nicely done!
+28011,@26001,You can use your <YellowBold>Forgotten Scroll</> to learn a rare skill. Check your inventory.
+28012,@26001,Go on...
+28013,@26001,This way.
+28014,@26001,Hurry...
+28015,@26001,Open your inventory.
+28016,@26001,Here’s the manual.
+28017,@26001,This is the Forgotten Scroll that was made just now.
+28018,@26001,Tap use to learn the skill.
+28019,@26001,Well done! Now try registering a rare skill to a slot.
+28020,@26001,Okay. Let’s go back to the Manage Skills screen.
+28021,@26001,Here.
+28022,@26001,I trust you know what to do.
+28023,@26001,"Yes, just like that."
+28024,@26001,"Yes, just like that."
+28025,@26001,It’s the rare skill you learned just now.
+28026,@26001,Tap here to register a skill.
+28027,@26001,Well done. You can acquire other rare skills from powerful monsters like <YellowBold>raid bosses</> and the Trading Post.
+28028,@26001,"If you use Rare Skills in battle, they will have a great impact. Be sure to collect as many Rare Skills as possible!"
+28029,,
+29001,Aymel,Hmm... to think the space created by the Dark Mystic was connected to the tunnel beneath Ivory Tower.
+29002,@29001,The tunnel beneath Ivory Tower? It’s where you can collect special herbs used for crafting <YellowBold>Elixirs</>.
+29003,@29001,"You want to go there again? Well, how about this for now."
+29004,@29001,You can get there from the Dungeons menu.
+29005,@29001,It’s also known as an Extraction Pit.
+29006,,
+29007,@29001,You can combine the available herbs to craft <YellowBold>Elixirs</> that permanently increase your stats.
+29008,@29001,"However, the Nebullite in the tunnel means you cannot stay there for long. Extended exposure will drive any sentient beings insane."
+29009,@29001,"As a result, you can only extract a set number of herbs per day."
+29010,,
+30001,@29001,The existence of magical herbs means the gods are on our side. We can craft <YellowBold>Elixirs</> with them.
+30002,@29001,"Time is short, so listen carefully."
+30003,@29001,In order to craft an Elixir...
+30004,@29001,Go to the Character menu...
+30005,@29001,And tap the Elixir button.
+30006,@29001,"Here, you can craft Elixirs. Crafting requires <YellowBold>4 herbs</>."
+30007,@29001,"Different Elixirs have different effects, so choose carefully."
+30008,@29001,Let’s craft an HP Elixir.
+30009,@29001,The materials are ready. Let’s start!
+30010,,
+30011,@29001,Elixirs <YellowBold>are used the moment they are crafted</>! You should feel stronger already!
+30012,@29001,"You can also acquire materials for Elixirs from Daily Dungeons, monsters, and the Shop."
+30013,@29001,"Collect as many <YellowBold>herbs and essences</> as you can, because they are crucial for becoming stronger."
+30014,,
+31001,Nine,"Let me teach you how to ride that Black Bear!
+Pay attention, and you’ll be a rider in no time!"
+31002,@31001,Head over to the main menu.
+31003,@31001,Tap into the Character menu.
+31004,@31001,Select Mounts.
+31005,@31001,See how the Black Bear is selected?
+31006,@31001,Tap to summon him!
+31007,@31001,Make sure the summoned Black Bear enters battle in order to mount it.
+31008,@31001,Let’s head out so you can mount it.
+31009,@31001,Tap Mount!
+31010,@31001,This guy is clearly attached to you already! Please raise the Black Bear well!
+32001,Monta,"Be careful at Mount Eborga since Kresous lives there. Not to mention, demons appear in Summoning Circles."
+32002,@32001,Feldheim might be in trouble right about now!
+32003,@32001,Enter the Summoning Circle through here!
+32004,@32001,Hurry!
+32005,,
+32006,@32001,Oh! Be sure to gather other players before you go into a Summoning Circle. It is quite dangerous inside!
+32007,,
+101001,@3002,Tap the main menu button.
+101002,@3002,"Next, tap the friend button."
+101003,@3002,"Adventures are more fun with companions. Here, you can add friends and greet each other to send and receive <YellowBold>Friendship Points</>."
+101004,@3002,Oh! I have some friends to introduce you to!
+101005,@3002,Over here. Tap recommended friends!
+101006,@3002,See anyone you like?
+101007,@3002,"Making friends has many advantages! You can embark on adventures together and exchange friendship! With your combined strength, you can even defeat huge monsters!"
+101008,,
+102001,@17001,It’s easy. I’ll explain it to you!
+102002,@17001,You can <YellowBold>create a party</> and recruit other players.
+102003,@17001,<YellowBold>Manual search</> allows you to find and join another player’s party.
+102004,@17001,"If you use <YellowBold>Auto-Join</>, you’ll automatically join a party that matches your preferences."
+102005,,
+104001,Peddler Pan,Want to learn about the Trading Post? Tap the main menu button meow.
+104002,@104001,"Meow, tap the Trading Post button."
+104003,@104001,You must have some items that are too good to sell in the shop but are wasting away in your inventory!
+104004,@104001,"In the Trading Post, you can strike a deal on your extra items, or purchase rare goods from other players!"
+104005,@104001,"Set your search conditions, and the Trading Post employee will show you a myriad of items that you might like!"
+104006,@104001,Sell something meow and see for yourself!
+104007,@104001,Over here. This is what you want to use.
+104008,@104001,"Just list your item and sale price, and we’ll take care of the rest! Meow, I do gotta warn you - there is a limit on how cheap you make things."
+104009,@104001,"Hold on! Is that a <YellowBold>Grade A</> item?
+<p>The Trading Post only works with <YellowBold>S</> or higher items..."
+104010,@104001,Don’t take it purrsonally! We have to make sure our stock matches the quality our customers have come to expect.
+104011,@104001,"Meow then, come over here."
+104012,@104001,Check this out!
+104013,@104001,Use this to keep up with your bids and check if your items have sold!
+104014,,
+112001,Academy Student,Let’s review how Daily Quests work.
+112002,@112001,Tap Challenges to begin.
+112003,@112001,"Next, tap Quests."
+112004,@112001,"Now, tap Daily Quests."
+112005,@112001,You can receive and complete up to <YellowBold>12</> quests every day.
+112006,@112001,"However, you can only have up to 3 quests active at once."
+112007,@112001,"Choose your quests carefully - the difficulty, and the rewards, are based on the quest’s grade."
+112008,@112001,"Here, you can see how to complete the quest."
+112009,@112001,You can also check the quest’s rewards.
+112010,@112001,Let’s start a quest and see for ourselves!
+112011,@112001,See how the quest content changes.
+112012,@112001,"You can complete quests you have taken on, or they will <YellowBold>be completed automatically once a certain amount of time passes</>."
+112013,@112001,"Or, if you’re feeling impatient, you can <YellowBold>spend Adena to complete quests instantly</>."
+112014,@112001,You can check your Daily Quest completion rate and acquire additional rewards here.
+112015,@112001,"Here, you can change all the quests on standby."
+112016,@112001,<YellowBold>Changing quests</> efficiently should prove helpful in growing stronger.
+112017,@112001,"Take advantage of it now, or you might regret it later!"
+112018,,
+113001,@112001,Now we’ll go over Weekly Quests!
+113002,@112001,@112002
+113003,@112001,"Next, tap Quests."
+113004,@112001,"Now, tap Weekly Quests."
+113005,@112001,"Here, you can take on quests that can be completed over one week."
+113006,@112001,You can complete up to <YellowBold>15 quests daily</>.
+113007,@112001,You’ll have to work on quests consistently if you want to reap the rewards!
+113008,@112001,You can review details of ongoing quests here.
+113009,@112001,Let’s start a quest! Tap Accept Quest.
+113010,@112001,Finish Weekly Quests consistently and reap the rewards!
+113011,@112001,Remember - the most important thing about Weekly Quests is to <YellowBold>do them every day</>!
+113012,,
+114001,@29001,You’re finally eligible to make <YellowBold>clan donations</>!
+114002,@29001,Donations are what keep clans running smoothly!
+114003,@29001,Let’s go over how to make donations.
+114004,@29001,Let’s go to the Clan menu.
+114005,@29001,Tap the Donate button.
+114006,@29001,"You can donate Adena,"
+114007,@29001,"Proof of Blood,"
+114008,@29001,and Red Starstones.
+114009,@29001,"Your donation will go further if you use Proof of Blood or Red Starstones,"
+114010,@29001,but acquiring those can be a little tricky.
+114011,@29001,I’ll share some Proof of Blood with you this time.
+114012,@29001,Try donating some Proof of Blood.
+114013,@29001,Be sure to collect the donation rewards!
+114014,@29001,The contribution scores show which clan members have made the most donations.
+114015,@29001,"Oh! I almost forgot about <YellowBold>Clan Coins</>. You’ll receive Clan Coins every time you donate, and you can use them to make purchases in the Clan Shop or buy clan buffs."
+114016,@29001,"Now, let’s get out of here."
+114017,@29001,This is the Clan Shop I mentioned earlier.
+114018,@29001,"There are items here for both improving the clan and for your own benefit, so look around."
+114019,@29001,"Some items can only be purchased after fulfilling certain conditions, but I’m sure you won’t have any trouble with that."
+114020,,
+115001,@29001,What? You’re not in a <YellowBold>clan</> yet?!
+115002,@29001,Let me remind you how to join one.
+115003,@29001,@114004
+115004,@29001,Follow me.
+115005,@29001,Tap the last button.
+115006,@29001,See all the clans?
+115007,@29001,There are so many benefits to joining a clan!
+115008,@29001,I’m certain you won’t regret it.
+115009,,
+116001,@29001,I hope you’re settling into your clan just fine.
+116002,@29001,It’s time for me to teach you about something new.
+116003,@29001,Let’s go back to the Clan menu.
+116004,@29001,@115004
+116005,@29001,I want to show you Clan Achievements!
+116006,@29001,"All clan members contribute to Clan Achievements, and the entire clan receives rewards when they are completed!"
+116007,@29001,Individual rewards are sent to each individual member.
+116008,@29001,<YellowBold>Clan rewards are sent to Clan Storage</>.
+116009,@29001,"However, rewards are only available if achievements are completed in a timely manner, so the whole clan will have to work together."
+116010,@29001,"Achievements require a great deal of cooperation to fulfill, but working together will bring your clan closer together!"
+116011,,
+117001,@29001,How do you like being in a clan?
+117002,@29001,There’s something very important I need to tell you about clans.
+117003,@29001,@114004
+117004,@29001,This is a Clan Dungeon.
+117005,@29001,Players from the same clan can enter the Clan Dungeon together and challenge powerful bosses.
+117006,@29001,Clan members must work together to conquer the Clan Dungeon - it’s the ultimate test of a clan’s strength!
+117007,@29001,It’ll be a hard battle - but the rewards are worth it!
+117008,@29001,"Challenging the Clan Dungeon is good for the clan, and for improving your own abilities!"
+117009,@29001,"Cooperate with other clan members, and together you’ll be unstoppable!"
+117010,,
+118001,@11001,Welcome. You can check your <YellowBold>quest progress</> here.
+118002,@11001,"Here, you can view <YellowBold>ongoing quests</>, <GreenBold>completed quests</>, and quests to be done all at once."
+118003,@11001,Look! You can even view additional <YellowBold>rewards</>.
+118004,,
+119001,@18001,"Are you finally taking some interest in crafting?<p>Hahaha!!! That makes me so happy!<p>As you know, Grade UR can only be acquired through crafting! I’ll tell you about it, so listen carefully!"
+119002,@18001,"To start, place the equipment you want to craft here!"
+119003,@18001,You’ll need the recipe for the equipment you want to craft!
+119004,@18001,"Next, you need rare minerals or wood!"
+119005,@18001,"What was the next thing... Oh, yeah! You need materials like Radiant Upgrade Stones!"
+119006,@18001,And then you need the Scraps acquired from salvaging weapons or armor!
+119007,@18001,You can make Grade UR equipment as long as you have those four things!
+119008,@18001,"Oh! I almost forgot!<p>You can only craft Grade UR equipment by using Lv. 30 Grade SR equipment!<p>Also, Grade UR equipment maintains its enhancement, limit break, substat, and attribute details!<p>And the four materials can all enhance equipment. Be sure to enhance your equipment whenever you collect a type of material. You’ll surely enjoy how much stronger your equipment becomes!<p>Of course, Grade UR equipment crafted using all four material types would be incomparably stronger! Hahaha!"
+119009,,
+201001,@29001,Whoa! You’re ready to transfer classes? That’s incredible!
+201002,@29001,I have a message for your regarding taking the class transfer test.
+201003,@29001,The Silverlight Mercenaries are granting new classes to anyone strong enough to pass their test.
+201004,@29001,"You can learn <YellowBold>new skills</> upon transferring classes, enabling you to become even stronger than you are now."
+201005,,
+201006,@29001,"Look, this is the first test."
+201007,@29001,"To pass the first test, you have to defeat 50 monsters."
+201008,@29001,This will gauge your basic combat abilities.
+201009,@29001,I have faith that you’ll pass with flying colors!
+201010,@29001,The next test will be revealed once you pass the first.
+201011,@29001,"Once you pass all seven tests, you’ll be able to transfer classes."
+201012,@29001,And then... you’ll be even stronger!!!
+201013,@29001,You’ve got this <YellowBold>[player]</> !
+201014,@29001,"I’ll see the new, stronger you next time!"
+201015,,
+202001,Lonna,I thought you might need more Adena around now...
+202002,@202001,"Here, I’ll show you the best place to find Adena."
+202003,@202001,It’s right inside this dungeon!
+202004,@202001,Tap the Adena Vault button.
+202005,,
+202006,@202001,This is the home of Kresous the Gold Dragon.
+202007,@202001,Defeat Kresous to loot his stash of Adena!
+202008,@202001,"There’s a daily entry limit for the Adena Vault, so make the most of every attempt!"
+202009,@202001,I look forward to hearing about your victory over the dragon!
+202010,,
+203001,Aida,Hey! Want to hear about a great place to find equipment?
+203002,@203001,Look no further than this special dungeon!
+203003,@203001,Select Temple Guardian here!
+203004,,
+203005,@203001,"Protect the <YellowBold>Holy Artifact</>, and you’re sure to find all the <YellowBold>equipment</> you need."
+203006,@203001,"There’s just one catch. Temple Guardian is only open to players in <YellowBold>a party</>, and you can only enter <YellowBold>a few times a day</>."
+203007,,
+204001,Tiana,Are you perhaps running short on scrolls for enhancing equipment?
+204002,@204001,I know just the place!
+204003,@204001,The Enhance Scroll Dungeon.
+204004,,
+204005,@204001,"Unseal the Holy Artifact and acquire Enhance Scrolls! Do your best, because there’s a <YellowBold>daily entry limit</>!"
+204006,@204001,Enhancing your weapons is the <YellowBold>simplest and most powerful</> way to become stronger!
+204007,,
+205001,@202001,A little birdie told me you might need some help becoming stronger.
+205002,@202001,I’ll show you a good place to level up!
+205003,@202001,The Trials of Experience!
+205004,,
+205005,@202001,"Here, you can acquire large amounts of Exp. at once... but don’t rely too heavily on it, since there’s a <YellowBold>daily entry limit</>."
+205006,@202001,"Challenge yourself, and you’ll level up in no time! I bet you’ll be really buff next time I see you!"
+205007,,
+207001,@18001,"Welcome. The Silverlight Mercenaries have long been recognized as a symbol of justice, but they are also known for their stylish and unique <YellowBold>cloaks</>.<p>I think it’s about time you get a cloak of your own. Don’t worry, I’ll teach you how!<p>First you’ll need a brooch for the cloak. Here, take this and obtain an Adventurer's Cloak."
+207002,@18001,Tap Acquire.
+207003,@18001,Tap Equip.
+207004,@18001,The Adventurer's Cloak looks superb on you! You can add flair to your cloak with yarn. Here’s some yarn for you.
+207005,@18001,Tap Level Up.
+207006,@18001,"Tap Level Up, right here."
+207007,,
+207008,@18001,Your cloak is looking better already! How do you like it?
+207009,@18001,You can use Magic Fabric to change cloak substats.<p>Continue to do so until you get the substat you want.<p>That’s all I have to tell you about cloaks. Now it’s up to you to make a unique cloak of your own!
+301001,@18001,Ah. I see you’ve failed to enhance?
+301002,@18001,Failing to enhance <YellowBold>+6 enhancement</> equipment can result in the <YellowBold>enhancement level</> decreasing.
+301003,@18001,"But, note that you can use <YellowBold>Maphr’s Protection</> to prevent the enhancement level from decreasing."
+301004,@18001,"Also, equipment that has been enhanced to <YellowBold>+7, +10, and +20</> or higher won’t drop below those values."
+301005,@18001,Keeping these things in mind will be helpful when you enhance equipment in the future!
+301006,@18001,I’ll give you a Maphr’s Protection to demonstrate.
+301007,@18001,Tap ‘Miscellaneous’.
+301008,@18001,Do you see the Maphr’s Protection item?
+301009,@18001,<YellowBold>Maphr’s Protection</> is a very valuable item that prevents enhancement levels from decreasing after unsuccessful enhances.
+301010,@18001,"Go on, tap Workshop!"
+301011,@18001,Collect Maphr’s Protection Fragments from the Workshop to create <YellowBold>Maphr’s Protection</>.
+301012,,
+302001,@21001,"Ever heard of <YellowBold>Rare Monster Summoning Stones</>? No? Well, we’ll take a look into using Rare Monster Summoning Stones to acquire Monster Cores."
+302002,@21001,Tap Inventory.
+302003,@21001,Go to the Consumables tab.
+302004,@21001,"Here, take a Rare Monster Summoning Stone."
+302005,@21001,Try tapping Use.
+302006,@21001,Do you see all those rare monsters? Select the one that most intrigues you.
+302007,@21001,"There are Monster Cores for each and every rare monster.
+<p>Be sure to complete Weekly Quests to accumulate these Rare Monster Summoning Stones."
+302008,@21001,Tap Summon!
+302009,@21001,This button right here!
+302010,@21001,여기를 누르면 된다네!

@@ -1,0 +1,129 @@
+﻿Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,You have been reconnected to the server.,,
+3,A party has been created.,,
+4,You have joined the party.,,
+5,<FontGreen>[Name]</> has joined the party.,,
+6,You left the party.,,
+7,<FontGreen>[Name]</> left the party.,,
+8,You were kicked from the party.,,
+9,<FontGreen>[Name]</> was kicked from the party.,,
+10,You have become the party leader.,,
+11,<FontGreen>[Name]</> was appointed as the new party leader.,,
+12,The party has disbanded.,,
+13,"<FontGreen>[Name]</> invited you to their party.
+Join the party? <FontRed>[Seconds]</> sec.",Refuse,Join
+14,You refused to join the party.,,
+15,"Someone requested to join your party.
+Approve? <FontRed>[Seconds]</>sec.",@13,Accept
+16,Auto-Party canceled.,,
+17,"<FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> wants to start the adventure. Get ready? <FontRed>[Seconds]</>sec",@13,Accept
+18,"<FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+You will enter <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> in <FontRed>[Seconds]</> seconds.
+Prepare for battle.",,
+19,"<FontGreen>[WorldName]</>
+<FontBlue>[Name]</> would like to summon you.
+Accept the summon? <FontRed>[Seconds]</> sec",By walking,By Portal
+20,@19,Close,Enter
+21,"<FontGreen>[WorldName]</>
+Go to where the party is gathering? <FontRed>[Seconds]</> sec",@19,@19
+22,@21,@20,@20
+23,"<FontYellow>[Battlefield]</> party has been created.
+Enter the Battlefield <FontBlue>alone</> or in a <FontBlue>battlefield party</> with other players.",,
+24,Joined the <FontYellow>[Battlefield]</> party.,,
+25,<FontGreen>[Name]</> joined the <FontYellow>[Battlefield]</> party.,,
+26,The <FontYellow>[Battlefield]</> party has disbanded.,,
+27,Left the <FontYellow>[Battlefield]</> party.,,
+28,<FontGreen>[Name]</> left the <FontYellow>[Battlefield]</> party.,,
+29,"<FontGreen>[Name]</>([Power]) invited you to the Battlefield party.
+Join the <FontYellow>[Battlefield]</> party? <FontRed>[Seconds]</> sec",@13,@15
+30,"<FontYellow>[BattlefieldType]</> matching is complete.
+Entering battlefield in <FontRed>[Seconds]</> sec. Prepare for battle.",,
+31,[Name] requested to be friends.,Friend,
+32,You’ve become friends with [Name].,@31,
+33,<FontYellow>The Clan Leader has changed the Clan Emblem.</>,,
+34,Clan member [Name] changed Nickname: <FontGreen>[Name2]</>,,
+35,<FontGreen>[Param1]</> has logged in.,,
+36,<FontGreen>[Name]</> donated <FontGreen>[Count] [AssetsType]</> for Clan members.,,
+37,<FontGreen>[Param1]</> has <FontBlue> joined </> the Clan.,,
+38,<FontGreen>[Param1]</> has <FontRed>left</>the Clan.,,
+39,<FontGreen>[Name]</> has been <FontRed>kicked out</> of the Clan.,,
+40,<FontBlue>[GuildName]</> Clan has sent invitation.,@13,@17
+41,<FontBlue>[Name]</> refused invitation.,,
+42,<FontYellow>There is a new request to join the clan.</>,Clan,
+43,You have joined <FontBlue>[GuildName]</>.,@42,
+44,<FontBlue>[GuildName]</> <FontRed>refused</> your request to join.,,
+45,Left the Clan.,,
+46,<FontGreen>[Param1]</>'s rank has become <FontBlue>[Param2]</>,,
+47,<FontGreen>[Param1]</> was appointed as the new Clan Leader.,,
+48,<FontGreen>[Param1]</> has been appointed as the new Clan Leader due to the previous Clan Leader’s long absence and lack of attendance.,,
+49,[Param1] has given <FontGreen>[Param2]</> a reward.,,
+50,[Param1] has given <FontGreen> all Clan members </>rewards.,,
+51,"[Param1] has given rewards to a total of <FontGreen>[Param3] members</>, including [Param2].",,
+52,A Clan gift has arrived from <FontGreen>[Name]</>.,Mailbox,
+53,"Clan member <FontGreen>[Name]</> requested revenge:
+[Name2] of <FontRed>[GuildName] Clan</>.",@20,@19
+54,"Clan member <FontGreen>[Name]</> requested revenge:
+[Name] of <FontRed>[GuildName] Clan</>.",@20,@20
+55,"Clan member <FontGreen>[Name]</> requested revenge:
+<FontRed>[Name2]</>",@20,@19
+56,"Clan member <FontGreen>[Name]</> requested revenge:
+<FontRed>[Name]</>",@20,@20
+57,<FontBlue>Formed</>alliance with <FontBlue>[Param1]</>.,,
+58,Alliance has <FontRed> ended </> with <FontBlue>[Param1]</>.,,
+59,<FontRed>Declared</> war against clan <FontBlue>[Name]</>.,,
+60,<FontRed>Rejected</> the cease fire with <FontBlue>[GuildName]</>.,,
+61,<FontBlue>[GuildName]</> <FontRed>rejected</> the cease fire.,,
+62,<FontGreen>Negotiated</> a cease fire with clan <FontBlue>[Name]</>.,,
+63,<FontBlue>Won</>the war with <FontBlue>[Name]</>.,,
+64,<FontRed>Lost</>the war with <FontBlue>[Name]</>.,,
+65,<FontYellow>Clan reached Lv. [Param1]</>.,,
+66,<FontYellow>Clan buff [Name] reached Lv. [param]</>.,,
+67,Lord [Name] has purchased <FontGreen>[Item]</> from <FontGreen>[ShopName]</>.,,
+68,<FontYellow>[Param1] Successfully cleared.</>,Clan Achievement,
+69,"Clan Leader has called from <FontGreen>[DungeonName]</>.
+Accept?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) has been reset.</>,Clan Dungeon,
+71,Renew the bidding price of<FontYellow>[Param1]!</>,Fortress Siege,
+72,@71,Castle Siege,
+73,Bidding price of <FontYellow>[Param1]has been extended.</>,@71,
+74,@73,@72,
+75,"Fortress Siege has opened.
+Enter <FontGreen>[FortressName]</>?",@20,@20
+76,"Castle Siege has opened.
+Enter <FontGreen>[CastleName]</>?",@20,@20
+77,<FontYellow>Clan Leader has forfeited ownership of [Name].</>,,
+78,Clan Leader selected<FontBlue>[Name]</> as<FontYellow>[CastleType]</>.,,
+79,<FontYellow>Clan Hall reached Lv. [Level].</>,,
+80,<FontYellow>Crystal of Unity in Clan Hall reached Lv. [param].</>,,
+81,<FontGreen>[Name]</> has done a Clan Hall Quest for the clan.,,
+82,<FontGreen>[Name]</> has prepared a <FontBlue>feast</> in the Clan Hall.,@20,@20
+83,<FontYellow>[Value] Mystical Relic(s) sent to Clan Storage.</>,,
+84,[NAME] crafted [COUNT]<FontGreen>[POTION_NAME]</>.,,
+85,<FontYellow>The Clan Hall Fireplace burns brightly.</>,@20,@20
+86,<FontYellow>The Clan Hall Fireplace is warming up.</>,@20,@20
+87,<FontYellow>The warmth from the fireplace has faded.</>,,
+88,<FontRed>Kicked out</> of the Clan.,,
+89,"The Fortress Siege has begun!
+Enter <FontGreen>[FortressName]</>?",@20,@20
+90,"The Castle Siege has begun!
+Enter <FontGreen>[CastleName]</>?",@20,@20
+91,"Location: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> would like to summon you.
+Go now? <FontRed>[Seconds]</> sec",@13,@17
+92,"Actions are limited due to not being in a party.
+Automatically exiting the Temporal Rift in 15 seconds.",Leave,
+93,<FontYellow>The item for [EventName] has expired.</>Removed from the inventory.,,
+94,"<FontYellow>Open Siege</> party created.
+Go <FontGreen>alone</> or team up with a <FontGreen>party</> in the Open Siege.",,
+95,Joined a <FontYellow>Open Siege</> party.,,
+96,<FontGreen>[Name]</> joined the <FontYellow>Open Siege</>.,,
+97,<FontYellow>Open Siege</> party disbanded.,,
+98,Left the <FontYellow>Open Siege</>.,,
+99,<FontGreen>[Name]</> left the <FontYellow>Open Siege</> party.,,
+100,"<FontGreen>[Name]</> invited you to an Open Siege party.
+Accept the <FontYellow>Open Siege</> party invite? <FontRed>[Seconds]</> sec.",@13,@15
+101,"<FontYellow>Open Siege</> matching is complete.
+Entering the Open Siege in <FontRed>[Seconds]</> sec. Prepare for battle.",,
+1000,Logging in.,,

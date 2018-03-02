@@ -1,0 +1,6 @@
+Id,WorldId,Step,Intensity,LightColorR,LightColorG,LightColorB,CharacterColorR,CharacterColorG,CharacterColorB,ShadowColorR,ShadowColorG,ShadowColorB,FogEnabled,FogDensity,FogInscatteringColorR,FogInscatteringColorG,FogInscatteringColorB,FogHeightFalloff,FogMaxOpacity,FogStartDistance,FogWorldHeight,Duration
+1,402,1,18,0.2,0.4,0.8,1.6,1.4,1,0.5,0.6,0.6,1,0.25,0.04,0.1,0.22,1,0.85,2500,4000,3
+2,402,2,12,0.2,0.4,0.8,1.6,1.4,1,0.5,0.6,0.6,1,0.25,0.04,0.1,0.22,1,0.85,2500,4000,3
+3,402,3,6,0.2,0.4,0.8,1.6,1.4,1,0.5,0.6,0.6,1,0.25,0.04,0.1,0.22,1,0.85,2500,4000,3
+4,402,4,3,0.2,0.4,0.8,1.6,1.4,1,0.5,0.6,0.6,1,0.25,0.04,0.1,0.22,1,0.85,2500,4000,3
+5,402,5,1,0.2,0.4,0.8,1.6,1.4,1,0.5,0.6,0.6,1,0.25,0.04,0.1,0.22,1,0.85,2500,4000,3

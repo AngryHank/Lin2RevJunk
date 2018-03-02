@@ -1,0 +1,2148 @@
+﻿Id,Name,Description,EffectDescription,SkillDialogue
+1101,Human Sword Combo 1,A basic attack that uses a sword and shield.,,
+1102,Human Sword Combo 2,@1101,,
+1103,Human Sword Combo 3,@1101,,
+1104,Human Sword Combo 4,@1101,,
+1105,Human Sword Combo 5,@1101,,
+1106,Human Sword Combo 6,@1101,,
+1201,Elf Sword Combo 1,@1101,,
+1202,Elf Sword Combo 2,@1101,,
+1203,Elf Sword Combo 3,@1101,,
+1204,Elf Sword Combo 4,@1101,,
+1205,Elf Sword Combo 5,@1101,,
+1206,Elf Sword Combo 6,@1101,,
+1301,Dark Elf Sword Combo 1,@1101,,
+1302,Dark Elf Sword Combo 2,@1101,,
+1303,Dark Elf Sword Combo 3,@1101,,
+1304,Dark Elf Sword Combo 4,@1101,,
+1305,Dark Elf Sword Combo 5,@1101,,
+1306,Dark Elf Sword Combo 6,@1101,,
+1401,Dwarf Sword Combo 1,@1101,,
+1402,Dwarf Sword Combo 2,@1101,,
+1403,Dwarf Sword Combo 3,@1101,,
+1404,Dwarf Sword Combo 4,@1101,,
+1405,Dwarf Sword Combo 5,@1101,,
+1406,Dwarf Sword Combo 6,@1101,,
+2101,Human Spear Combo 1,A basic attack that uses a spear.,,
+2102,Human Spear Combo 2,@2101,,
+2103,Human Spear Combo 3,@2101,,
+2104,Human Spear Combo 4,@2101,,
+2105,Human Spear Combo 5,@2101,,
+2106,Human Spear Combo 6,@2101,,
+2201,Elf Spear Combo 1,@2101,,
+2202,Elf Spear Combo 2,@2101,,
+2203,Elf Spear Combo 3,@2101,,
+2204,Elf Spear Combo 4,@2101,,
+2205,Elf Spear Combo 5,@2101,,
+2206,Elf Spear Combo 6,@2101,,
+2301,Dark Elf Spear Combo 1,@2101,,
+2302,Dark Elf Spear Combo 2,@2101,,
+2303,Dark Elf Spear Combo 3,@2101,,
+2304,Dark Elf Spear Combo 4,@2101,,
+2305,Dark Elf Spear Combo 5,@2101,,
+2306,Dark Elf Spear Combo 6,@2101,,
+2401,Dwarf Spear Combo 1,@2101,,
+2402,Dwarf Spear Combo 2,@2101,,
+2403,Dwarf Spear Combo 3,@2101,,
+2404,Dwarf Spear Combo 4,@2101,,
+2405,Dwarf Spear Combo 5,@2101,,
+2406,Dwarf Spear Combo 6,@2101,,
+3101,Human Dual Swords Combo 1,A basic attack that uses dual swords.,,
+3102,Human Dual Swords Combo 2,@3101,,
+3103,Human Dual Swords Combo 3,@3101,,
+3104,Human Dual Swords Combo 4,@3101,,
+3105,Human Dual Swords Combo 5,@3101,,
+3106,Human Dual Swords Combo 6,@3101,,
+3107,Human Dual Swords Combo 7,@3101,,
+3108,Human Dual Swords Combo 8,@3101,,
+3201,Elf Dual Swords Combo 1,@3101,,
+3202,Elf Dual Swords Combo 2,@3101,,
+3203,Elf Dual Swords Combo 3,@3101,,
+3204,Elf Dual Swords Combo 4,@3101,,
+3205,Elf Dual Swords Combo 5,@3101,,
+3206,Elf Dual Swords Combo 6,@3101,,
+3207,Elf Dual Swords Combo 7,@3101,,
+3208,Elf Dual Swords Combo 8,@3101,,
+3301,Dark Elf Dual Swords Combo 1,@3101,,
+3302,Dark Elf Dual Swords Combo 2,@3101,,
+3303,Dark Elf Dual Swords Combo 3,@3101,,
+3304,Dark Elf Dual Swords Combo 4,@3101,,
+3305,Dark Elf Dual Swords Combo 5,@3101,,
+3306,Dark Elf Dual Swords Combo 6,@3101,,
+3307,Dark Elf Dual Swords Combo 7,@3101,,
+3308,Dark Elf Dual Swords Combo 8,@3101,,
+3401,Dwarf Dual Swords Combo 1,@3101,,
+3402,Dwarf Dual Swords Combo 2,@3101,,
+3403,Dwarf Dual Swords Combo 3,@3101,,
+3404,Dwarf Dual Swords Combo 4,@3101,,
+3405,Dwarf Dual Swords Combo 5,@3101,,
+3406,Dwarf Dual Swords Combo 6,@3101,,
+3407,Dwarf Dual Swords Combo 7,@3101,,
+3408,Dwarf Dual Swords Combo 8,@3101,,
+4101,Human Dagger Combo 1,A basic attack that uses a dagger.,,
+4102,Human Dagger Combo 2,@4101,,
+4103,Human Dagger Combo 3,@4101,,
+4104,Human Dagger Combo 4,@4101,,
+4105,Human Dagger Combo 5,@4101,,
+4106,Human Dagger Combo 6,@4101,,
+4201,Elf Dagger Combo 1,@4101,,
+4202,Elf Dagger Combo 2,@4101,,
+4203,Elf Dagger Combo 3,@4101,,
+4204,Elf Dagger Combo 4,@4101,,
+4205,Elf Dagger Combo 5,@4101,,
+4206,Elf Dagger Combo 6,@4101,,
+4301,Dark Elf Dagger Combo 1,@4101,,
+4302,Dark Elf Dagger Combo 2,@4101,,
+4303,Dark Elf Dagger Combo 3,@4101,,
+4304,Dark Elf Dagger Combo 4,@4101,,
+4305,Dark Elf Dagger Combo 5,@4101,,
+4306,Dark Elf Dagger Combo 6,@4101,,
+4401,Dwarf Dagger Combo 1,@4101,,
+4402,Dwarf Dagger Combo 2,@4101,,
+4403,Dwarf Dagger Combo 3,@4101,,
+4404,Dwarf Dagger Combo 4,@4101,,
+4405,Dwarf Dagger Combo 5,@4101,,
+4406,Dwarf Dagger Combo 6,@4101,,
+5101,Human Bow Combo 1,A basic attack that uses a bow.,,
+5102,Human Bow Combo 2,@5101,,
+5103,Human Bow Combo 3,@5101,,
+5104,Human Bow Combo 4,@5101,,
+5201,Elf Bow Combo 1,@5101,,
+5202,Elf Bow Combo 2,@5101,,
+5203,Elf Bow Combo 3,@5101,,
+5204,Elf Bow Combo 4,@5101,,
+5301,Dark Elf Bow Combo 1,@5101,,
+5302,Dark Elf Bow Combo 2,@5101,,
+5303,Dark Elf Bow Combo 3,@5101,,
+5304,Dark Elf Bow Combo 4,@5101,,
+5401,Dwarf Bow Combo 1,@5101,,
+5402,Dwarf Bow Combo 2,@5101,,
+5403,Dwarf Bow Combo 3,@5101,,
+5404,Dwarf Bow Combo 4,@5101,,
+6101,Human Staff Combo 1,A basic attack that uses a staff.,,
+6102,Human Staff Combo 2,@6101,,
+6103,Human Staff Combo 3,@6101,,
+6104,Human Staff Combo 4,@6101,,
+6201,Elf Staff Combo 1,@6101,,
+6202,Elf Staff Combo 2,@6101,,
+6203,Elf Staff Combo 3,@6101,,
+6204,Elf Staff Combo 4,@6101,,
+6301,Dark Elf Staff Combo 1,@6101,,
+6302,Dark Elf Staff Combo 2,@6101,,
+6303,Dark Elf Staff Combo 3,@6101,,
+6304,Dark Elf Staff Combo 4,@6101,,
+6401,Dwarf Staff Combo 1,@6101,,
+6402,Dwarf Staff Combo 2,@6101,,
+6403,Dwarf Staff Combo 3,@6101,,
+6404,Dwarf Staff Combo 4,@6101,,
+11111,Energy Blast,"<SkillTitle>[Any Weapon]</>
+Creates a concentration of energy in front and detonates it to deal damage to enemies.",Damage: {[Use34Param]1%}% of Atk. +{1},
+11112,Power Strike,"<SkillTitle>[Sword & Shield, Spear, Dual Swords Only]</>
+Swings the weapon in a large arc to deal damage and knock down enemies.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Knock down targets for 2 sec.",
+11113,Rush Impact,"<SkillTitle>[Sword & Shield, Spear, Dual Swords Only]</>
+Rushes toward enemies to deal damage and knock them down.",@11112,
+11121,@11111,@11111,@11111,
+11122,Mortal Blow,"<SkillTitle>[Dagger Only]</>
+Charges up, then attacks at full power and knocks down the enemy.",@11112,
+11123,Power Thrust,"<SkillTitle>[Dagger Only]</>
+Dashes through enemies while attacking, briefly stunning them.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Stun targets for 2 sec.",
+11124,Power Shot,"<SkillTitle>[Bow Only]</>
+Fires an arrow that damages and knocks down the enemy.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Knock down targets for 2 sec.",
+11125,Double Shot,"<SkillTitle>[Bow Only]</>
+Fires two arrows at enemies in front to deal powerful damage.",Damage: {[Use34Param]1-1%}% of Atk. +{1-1} for every 2 shots.,
+11131,Energy Bolt,"<SkillTitle>[Any Weapon]</>
+Launches a penetrating ball of energy to attack distant enemies in the front.",Damage: {[Use34Param]1-1%}% of Atk. +{1-1},
+11132,Flame Strike,"<SkillTitle>[Staff Only]</>
+Launches a flaming ball to deal massive explosion damage and knockdown enemies.",@11124,
+11133,Wind Strike,"<SkillTitle>[Staff Only]</>
+Brings forth a gust of wind that penetrates through enemies in a straight line to attack.",@11131,
+12111,@11111,@11111,@11111,
+12112,@11112,@11112,@11112,
+12113,@11113,@11113,@11112,
+12121,@11111,@11111,@11111,
+12122,@11122,@11122,@11112,
+12123,@11123,@11123,@11123,
+12124,@11124,@11124,@11124,
+12125,@11125,@11125,@11125,
+12131,@11131,@11131,@11131,
+12132,@11132,@11132,@11124,
+12133,@11133,@11133,@11131,
+13111,@11111,@11111,@11111,
+13112,@11112,@11112,@11112,
+13113,@11113,@11113,@11112,
+13121,@11111,@11111,@11111,
+13122,@11122,@11122,@11112,
+13123,@11123,@11123,@11123,
+13124,@11124,@11124,@11124,
+13125,@11125,@11125,@11125,
+13131,@11131,@11131,@11131,
+13132,@11132,@11132,@11124,
+13133,@11133,@11133,@11131,
+14111,@11111,@11111,@11111,
+14112,@11112,@11112,@11112,
+14113,@11113,@11113,@11112,
+14121,@11111,@11111,@11111,
+14122,@11122,@11122,@11112,
+14123,@11123,@11123,@11123,
+14124,@11124,@11124,@11124,
+14125,@11125,@11125,@11125,
+14131,@11131,@11131,@11131,
+14132,@11132,@11132,@11124,
+14133,@11133,@11133,@11131,
+11211,Slam,"<SkillTitle>[Sword & Shield Only]</>
+Swings the weapon in a large arc to deal damage and knock down enemies.","Damage: {[Use34Param]1%}% of Atk. + {1}.
+Knocks down target for 2 sec.
+Aggro +50%",
+11212,Vengeance,"<SkillTitle>[Sword & Shield Only]</>
+Shouts to provoke nearby enemies to attack you. Enemies who are hit are uncontrollable and can’t use skills.","Damage: Deals {[Use34Param]1%}% of Atk. + {1}. Decreases targets’ Atk. by {4-1} for 8 sec.
+Monster’s Provoke: All attacks will be focused on the target for 8 sec.
+Player’s Provoke: Targets cannot use skills and must focus attacks on you for 4 sec.",
+11213,Majesty,"<SkillTitle>[Sword & Shield Only]</>
+Increases Def. for a moment and reflects a portion of the damage received.","Def. +{1-2%}%
+Reflects {1-1%}% of damage received
+Duration: 15 sec.",
+11221,Judgment,"<SkillTitle>[Spear, Dual Swords Only]</>
+Swings the weapon in a large arc to deal damage and knock down enemies.",@11112,
+11222,Thunder Storm,"<SkillTitle>[Spear, Dual Swords Only]</>
+Slams the ground with great force to deal damage and stun nearby enemies.",@11123,
+11223,Wide Sweep,"<SkillTitle>[Spear, Dual Swords Only]</>
+Increases Atk. Spd. and the number of enemies hit at once.","Simultaneous Targets +{1-1}, Atk. Spd. +{1-2%}%
+Duration: 15 sec.",
+11231,Sand Cloud,"<SkillTitle>[Dagger Only]</>
+Sprays dirt forward that damages enemies. Affected enemies will have trouble seeing and have drastically decreased Accuracy.","Damage: {[Use34Param]1%}% of Atk. + {1}.
+Decreases enemies’ Accuracy Rate by {2%}% for 10 sec.",
+11232,Back Stab,"<SkillTitle>[Dagger Only]</>
+Teleports behind an enemy to deal damage and stun nearby enemies.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Stun targets for 3 sec.",
+11233,Haste,"<SkillTitle>[Dagger Only]</>
+Increases Atk. Spd. and Evasion drastically for a moment.","Atk. Spd +{1-1%}%
+Evasion + {2-1%}%
+Duration: 15 sec.",
+11241,Multiple Shot,"<SkillTitle>[Bow Only]</>
+Sprays penetrating arrows in a cone to deal damage and knockdown enemies.",@11112,
+11242,Arrow Rain,"<SkillTitle>[Bow Only]</>
+Showers arrows in a circle to deal continuous damage to enemies within the area.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+and {[Use34Param]1-2%}% of Atk. +{1-2} for every 4 additional hits.",
+11243,Snipe,"<SkillTitle>[Bow Only]</>
+Moves carefully to increase Atk. and Accuracy Rate. Can attack enemies far away by sniping.","Range: 4m, {1-2%}% of Atk., Accuracy +{1-3}
+Slowed movement during duration, duration: 15 sec.",
+11244,Hawkeye,"<SkillTitle>[Bow Only]</>
+Activates Hawkeye. Hawkeye increases Crit. Rate and damage dealt to enemies.","Crit. Rate +{1-1} and Attack Damage +{1-2%}%
+Duration: 20 sec.",
+11251,Volcano,"<SkillTitle>[Staff Only]</>
+Creates a powerful pillar of fire to deal damage to enemies within the area.",Damage: {[Use34Param]1%}% of Atk. +{1} for every 5 hits.,
+11252,Molten Bowl,"<SkillTitle>[Staff Only]</>
+Launches a flaming orb that penetrates enemies and explodes at the end of its trajectory.","Damage: {[Use34Param]1-3%}% of Atk. +{1-3}
+Explosion Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Knocks down targets for 2 sec.",
+11253,Boost Mana,"<SkillTitle>[Staff Only]</>
+Increases the MP used for skills and boosts the skill’s Atk.","MP use +{1-1%}%
+Skill Atk. +{1-2%}%
+Duration: 90 sec.",
+11261,Divine Punishment,"<SkillTitle>[Staff Only]</>
+Creates a holy explosion to deal damage and knockdown enemies within the area.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Knock down targets for 2.5 sec.",
+11262,Major Heal,"<SkillTitle>[Staff Only]</>
+Heals you and your party members around you with holy powers to recover HP and MP.","HP Regen. Rate: {[Use34Param]1%}% of Atk. +{1}
+MP Regen. Rate: {[Use34Param]2%}% of Atk. +{2}",
+12211,Tribunal,"<SkillTitle>[Sword & Shield Only]</>
+A broad swing to deal damage, knockdown enemies, and provoke them to attack you.","Damage: {[Use34Param]1%}% of Atk. + {1}.
+Aggro +30%
+Knocks down enemies for 2 sec.",
+12212,Eva's Grace,"<SkillTitle>[Sword & Shield Only]</>
+Creates a holy area on the ground that deals damage over time to enemies within the area and decreases their HP Regen.","Damage: {[Use34Param]1%}% of Atk. + {1} for every 6 hits.
+Decreases Regen. of nearby enemies by 50%.",
+12213,Aegis Stance,"<SkillTitle>[Sword & Shield Only]</>
+Becomes invulnerable to damage for a short period of time and increases Speed.","Grants Damage Immunity for 5 sec.
+Speed +{2-1%}% for 15 sec.",
+12221,Sonic Blaster,"<SkillTitle>[Spear, Dual Swords Only]</>
+Fires the sword aura forward to deal damage to distant enemies and decrease Speed.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Decreases targets’ Speed by {PhyBuff:12221-1%}% for 5 sec.",
+12222,Sonic Storm,"<SkillTitle>[Spear, Dual Swords Only]</>
+Fires sword aura forward that ultimately explodes, damages, and knocks down enemies.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Knock down targets for 2.5 sec.",
+12223,Rhythm of Combat,"<SkillTitle>[Spear and Dual Swords Only]</>
+Increases Atk. and Def. for you and your party members.","Atk. +{1-1}
+Def. +{1-3}
+Duration: 90 sec.",
+12224,Song of Hunter,"<SkillTitle>[Spear, Dual Swords Only]</>
+Increases Crit. Rate and Critical Damage for you and your party members.","Crit. Rate +{1-1%}%
+Critical Damage + {1-2%}%
+Duration: 30 sec.",
+12231,Triple Splinter,"<SkillTitle>[Dagger Only]</>
+Rapidly attacks forward 3 times, dealing massive damage and decreases Def., Atk. Spd., and Speed of affected enemies.","Damage: {[Use34Param]1%}% of Atk. + {1}.
+Decreases enemies’ Def. by {2-1%}% for 5 sec.
+Decreases enemies’ Atk. Spd. by {2-3%}% and Speed by {2-4%}% for 5 sec.",
+12232,Blade Hurricane,"<SkillTitle>[Dagger Only]</>
+Launches a flurry of attacks forward that damages enemies in the area consecutive times.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Stuns enemies for 3 sec.",
+12233,Planeswalk,"<SkillTitle>[Dagger Only]</>
+Greatly increases Atk. Spd. and Speed. Also increases HP Drain Rate during the duration.","Increases Atk. Spd by {1-1%}% and Speed by {1-2%}%.
+Increases HP Drain Rate by {1-3%}%.
+Duration: 20 sec.",
+12241,Lethal Shot,"<SkillTitle>[Bow Only]</>
+Fires a sharp, penetrating arrow to deal damage and stun enemies.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Stun targets for 2 sec.",
+12242,Double Wide Shot,"<SkillTitle>[Bow Only]</>
+Fires two arrow-shaped energy bolts, dealing damage to the enemies they penetrate. Decreases the Def. of hit enemies.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1} for every 2 shots.
+Decreases targets’ Def. by {PhyBuff:12242-1%}% for 10 sec.",
+12243,Mind’s Eye,"<SkillTitle>[Bow Only]</>
+Greatly increases Crit. Rate.","Crit. Rate +{1-1}
+Duration: 30 sec.",
+12244,Double Quick Step,"<SkillTitle>[Bow Only]</>
+Increases Atk. Spd. and Speed.","Speed +{1-1%}%, Atk. Spd. +{1-2%}%
+Duration: 30 sec.",
+12251,Ice Spear,"<SkillTitle>[Staff Only]</>
+Launches an ice spear in front to deal powerful damage and slow affected enemies.","Damage: {[Use34Param]1-2%}% of Atk. +{1-2}
+Decrease Speed of targets by {PhyBuff:12251-1%}% for 5 sec.",
+12252,Blizzard,"<SkillTitle>[Staff Only]</>
+Summons a snowstorm around yourself that attacks the area and deals damage. Affected enemies will be slowed and stunned.","Damage: {[Use34Param]1%}% of Atk. + {1} for every 5 hits.
+Decreases enemies’ Speed by {2-1%}% for 5 sec.
+Stuns enemies for 2 seconds.",
+12261,Holy Fire,"<SkillTitle>[Staff Only]</>
+A pillar of holy flames that damages enemies. Affected enemies take increased damage.","Damage: {[Use34Param]1%}% of Atk. +{1}
+plus {[Use34Param]2-1%}% of Atk. +{2-1} for every 2 additional hits.
+Increase damage targets take by {3-1%}% for 7 sec.",
+12262,Restoration,"<SkillTitle>[Staff Only]</>
+Imbues an effect on you that heals you and the party members around you continuously.",Regen. Rate: {[Use34Param]1-1%}% of Atk. +{1-1} over 6 sec.,
+12263,Mental Refresh,"<SkillTitle>[Staff Only]</>
+Encourages yourself and your party members, decreasing skill cooldowns and removes debuffs.","Skill Cooldown - {1-1#} sec.
+Duration: 20 sec.
+Removes debuffs",
+12264,Follow Defense,"<SkillTitle>[Staff Only]</>
+Increases Def. of you and your party members.","Def. +{1-1%}%
+Duration: 40 sec.",
+13211,Life Leech,"<SkillTitle>[Sword & Shield Only]</>
+Swings the weapon widely to attack enemies and drain a portion of their HP. Decreases Def. of affected enemies.","Damage: {[Use34Param]1%}% of Atk. + {1}.
+Absorb HP for 30% of damage dealt.
+Decreases enemies’ Def. by {2-1%}%.",
+13212,Chain Hydra,"<SkillTitle>[Sword & Shield Only]</>
+Pulls enemies to you to deal damage, stun them, and force them to attack you.","Damage: {[Use34Param]1%}% of Atk. + {1}
+Provoke: Attacks focus on you for 8 sec.
+Stuns targets for 2.5 sec.",
+13213,Ultimate Defense,"<SkillTitle>[Sword & Shield Only]</>
+Increases Def. and decreases attacking enemies’ Speed for a period of time.","Def.: {1-1%}% + {1-3}.
+Decreases Speed by 50% for 5 sec while effect is active.
+Duration: 15 sec.",
+13221,Spinning Slasher,"<SkillTitle>[Spear, Dual Swords Only]</>
+Swings the weapon in a large arc to deal damage and knock down enemies.",@11124,
+13222,Hurricane Storm,"<SkillTitle>[Spear, Dual Swords Only]</>
+Spins to attack surrounding enemies.
+The damaged target will be slowed.
+You can move quickly while using this skill.","Damage: {[Use34Param]1%}% of Atk. + {1} for every 7 hits dealt
+Target’s Speed -{2-1%}% for 3 sec.
+Speed +{3-1%}% for 7 sec.",
+13223,Dance of the Warrior,"<SkillTitle>[Spear, Dual Swords Only]</>
+Increases P. Atk of you and your party members.","P. Atk +{1-1}
+Duration: 40 sec.",
+13224,Dance of Fury,"<SkillTitle>[Spear, Dual Swords Only]</>
+Increases Atk. Spd. of you and your party members.","Atk. Spd. +{1-1%}%
+Duration: 40 sec.",
+13231,Sting,"<SkillTitle>[Dagger Only]</>
+Attacks enemies in front, dealing damage and causing them to bleed. A portion of the damage is applied while ignoring Def.","Damage: {[Use34Param]1%}% of Atk. + {1}
+Ignore Def. Damage: {2}
+Deals additional damage to enemies for 3 sec.",
+13232,Razor Rain,"<SkillTitle>[Dagger Only]</>
+Attacks nearby enemies to deal damage, briefly stun them, and make them bleed.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Additional damage to targets for 3 sec., stun targets for 2 sec.",
+13233,Vicious Stance,"<SkillTitle>[Dagger Only]</>
+Greatly increases Critical Damage. Also, briefly increases Crit. Rate to max.","Critical Damage +{1-1%}%, duration: 20 sec.
+Additional effect: Crit. Rate Max Efficiency for 4 sec.",
+13241,Death Sting,"<SkillTitle>[Bow Only]</>
+Fires a fierce arrow that penetrates enemies and deals powerful damage.",@11131,
+13242,Stun Shot,"<SkillTitle>[Bow Only]</>
+Deals damage and briefly stuns enemies.",@11232,
+13243,Rapid Fire,"<SkillTitle>[Bow Only]</>
+A state that increases Atk. Spd. while decreasing Attack Range.","Atk. Spd. +{1-1%}%, Attack Range - {1-2%}m
+Duration: 15 sec.",
+13244,Fatal Counter,"<SkillTitle>[Bow Only]</>
+Gives up on evasion and focuses on offense, increasing Atk. greatly while in this state.","Atk. +{1-1}, Evasion - {1-2%}%
+Duration: 15 sec.",
+13251,Dark Breath,"<SkillTitle>[Staff Only]</>
+Channels dark element flames to deal damage. You can alter the direction while casting.",Damage: {[Use34Param]1%}% of Atk. +{1} for every 7 hits.,
+13252,Corruption,"<SkillTitle>[Staff Only]</>
+Corrupts an area on the ground to damage enemies and decrease their Def. and Speed.","Damage: {[Use34Param]1%}% of Atk. +{1} for every 5 hits
+Briefly decrease Def. and Speed of targets.",
+13253,Fatal Wisdom,"<SkillTitle>[Staff Only]</>
+Briefly increases M. Atk. to its limit.","M. Atk +{1-1}
+Duration: 15 sec.",
+13261,Vampiric Touch,"<SkillTitle>[Staff Only]</>
+A lifestealing attack that heals your party. Members with low HP receive more healing.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Regen. Rate: 20% - 60% of damage dealt, based on recovery target’s current HP",
+13262,Bloody Rage,"<SkillTitle>[Staff Only]</>
+Blasts a dark element shockwave around you to deal heavy damage and slow enemies. Removes buffs from hit enemies.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Decrease Speed of targets by {2%}% for 4 sec.
+Removes buffs from targets",
+13263,Empower,"<SkillTitle>[Staff Only]</>
+Prevents HP from dropping below a set amount while skill is active, and restores a small amount of HP.","Prevents HP from dropping below {1-1}
+Duration: 5 sec.
+Heals HP by {2}",
+13264,Empower (Healing),@13263,"M. Atk +{1-1}
+Duration: 20 sec.",
+14211,Thrust,"<SkillTitle>[Sword & Shield Only]</>
+A damaging swing that decreases enemy damage, and provokes them to attack you.","Damage: {[Use34Param]1-1%}% of Atk. +{1-1}
+Decrease Def. of targets by {2-1%}%, Provoke: Focus attacks on you for 8 sec.",
+14212,Earthquake,"<SkillTitle>[Sword & Shield Only]</>
+Slams the ground, damaging and knocking down enemies within the area. Decreases Atk. of affected enemies.","Damage: {[Use34Param]1-1%}% of Atk. + {1-1}.
+Targets’ Atk. -20% for 8.5 sec.
+Stuns targets for 2.5 sec.",
+14221,Power Smash,"<SkillTitle>[Spear, Dual Swords Only]</>
+Attacks the area in front to deal massive damage to enemies within the area.",@11131,
+14222,Leap Attack,"<SkillTitle>[Spear, Dual Swords Only]</>
+Jumps on a target to knockdown nearby enemies, briefly rendering them unable to act.",@12222,
+14223,Angry Dwarf,"<SkillTitle>[Spear, Dual Swords Only]</>
+Believes in your innately high Def. to focus on attacking rather than defending.","Atk. +{1-1}, Def. - {1-2%}%
+Duration: 15 sec.",
+14231,Blade Rush,"<SkillTitle>[Dagger Only]</>
+Charges forward, penetrating enemies, making them more vulnerable to Critical Attacks.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Decrease Critical Resist of targets by {2-1%}% for 10 sec.",
+14232,Sonic Star,"<SkillTitle>[Dagger Only]</>
+Moves swiftly in a pentagram shape while attacking enemies. Affected enemies have their Speed decreased and can’t use their skills.","Damage: {[Use34Param]1%}% of Atk. + {1}
+Decreases enemies’ Speed by {2-1%}% for 10 sec.
+Silences enemies for 5 sec.",
+14233,Adena Search,"<SkillTitle>[Dagger Only]</>
+Discover more Adena when battling. Increases Speed and affected enemies are poisoned and slowed.","Adena Gain +{1-1%} and Speed +{1-2%}.
+Poisons and decreases enemies’ Speed while skill is active.
+Duration: 60 sec.",
+14241,Burst Shot,"<SkillTitle>[Bow Only]</>
+Fires an fire element arrow that explodes to deal damage and knockdown enemies.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Additional damage of {3-1} to targets for 4 sec.
+Knocks down targets for 2.5 sec.",
+14242,Evasion Shot,"<SkillTitle>[Bow Only]</>
+Steps back 3 meters and fires 3 arrows that explode to damage and slow enemies.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Decrease Speed of targets by {2-1%}% for 4 sec.
+Range of attack increases by {PhyBuff:142422-1%}m for 5 sec.",
+14251,Earth Spike,"<SkillTitle>[Staff Only]</>
+Violently erects a stone pillar to deal damage and knockdown enemies within the area.","Damage: {[Use34Param]1%}% of Atk. +{1}
+Knock down targets for 3 sec.",
+14252,Tri-shard,"<SkillTitle>[Staff Only]</>
+Launches earth element shards in 3 directions, penetrating and damaging enemies.",@11131,
+14253,Infighter,"<SkillTitle>[Staff Only]</>
+Invokes old memories to increase the Atk. of your party's basic attacks.","Basic attack Atk. +{1-1%}%
+Duration: 30 sec.",
+14261,Divine Protection,"<SkillTitle>[Staff Only]</>
+Heals HP of you and your party members and increases Def.","Regen. Rate: {[Use34Param]1%}% of Atk. +{1}
+Increase Def. of party members by {2-1} for 10 sec.",
+14262,Divine Clap,"<SkillTitle>[Staff Only]</>
+Slams the ground to deal damage and stun enemies within the area.","Damage: {[Use34Param]1%}% of Atk. +{1}
+plus {[Use34Param]1-3%}% of Atk. +{1-3} for every 4 additional hits, stun targets for 2.5 sec.",
+14263,Great Vitality,"<SkillTitle>[Staff Only]</>
+Increases Max HP of you and your party members.","Max HP +{1-1}
+Duration: 180 sec.",
+21001,Human Potential,Humans’ firm resolve gives them higher Atk. against enemies.,Bonuses to P. Atk. and Crit. Resist,
+21111,Warrior Weapon Mastery,"<SkillTitle>[Passive]</>
+Increases Atk. when you equip a Sword & Shield, Spear, or Dual Swords.",Atk. +{1},
+21112,Heavy Armor Mastery,"<SkillTitle>[Passive]</>
+Decreases damage taken when Heavy Armor is equipped. This effect stacks up to 4 times.","Damage - {1%}%
+Stacks with each piece: Headgear, Armor, Gloves, Boots.",
+21121,Rogue Weapon Mastery,"<SkillTitle>[Passive]</>
+Increases Atk. when a dagger or bow is equipped.",@21111,
+21122,Light Armor Mastery,"<SkillTitle>[Passive]</>
+Increases Evasion Rate when Light Armor is equipped. This effect stacks up to 4 times.","Evasion Rate +{1%}%
+Stacks with each piece: Headgear, Armor, Gloves, Boots.",
+21131,Mage Weapon Mastery,"<SkillTitle>[Passive]</>
+Increases Atk. when a Staff is equipped.",@21111,
+21132,Robe Mastery,"<SkillTitle>[Passive]</>
+Increases Attack Damage when Robe-armor is equipped. This effect stacks up to 4 times.","Damage +{1%}%
+Stacks with each piece: Headgear, Armor, Gloves, Boots.",
+22001,Elven Potential,Agile movement allows Elves to have a higher Evasion against enemy attacks.,"Bonuses to Evasion, Speed, and M. Atk.",
+22111,@21111,@21111,@21111,
+22112,@21112,@21112,@21112,
+22121,@21121,@21121,@21111,
+22122,@21122,@21122,@21122,
+22131,@21131,@21131,@21111,
+22132,@21132,@21132,@21132,
+23001,Dark Elven Potential,Their splendid battle senses grant them a higher Crit. Rate when attacking enemies.,Bonuses to Acc. and Crit. Rate,
+23111,@21111,@21111,@21111,
+23112,@21112,@21112,@21112,
+23121,@21121,@21121,@21111,
+23122,@21122,@21122,@21122,
+23131,@21131,@21131,@21111,
+23132,@21132,@21132,@21132,
+24001,Dwarven Potential,"Their bodies are blessed by the heavens, bestowing them with high HP.",Bonuses to P. Def. and Max HP,
+24111,@21111,@21111,@21111,
+24112,@21112,@21112,@21112,
+24121,@21121,@21121,@21111,
+24122,@21122,@21122,@21122,
+24131,@21131,@21131,@21111,
+24132,@21132,@21132,@21132,
+20211,Defense Aura,"<SkillTitle>[Passive]</>
+Increases the Def. of you and your party members. This effect is region-wide.",Def. +{1-1},
+20212,Righteous Fury,"<SkillTitle>[Passive]</>
+Increases damage dealt to monsters and decreases damage taken from monsters. Increases the aggression level of the attacks.","Increases Atk. Damage by {2%}% and decreases Damage received by {3%}% against monsters.
+Increases Aggro Gain by {1%}%.",
+20221,Attack Aura,"<SkillTitle>[Passive]</>
+Increases the Atk. of you and your party members. This effect is region-wide.",Party members’ Atk. +{1-1},
+20231,Quick Step,"<SkillTitle>[Passive]</>
+Increases the Speed of you and your party members. This effect is region-wide.",Party members’ Speed +{1-1%}%,
+20241,Guidance,"<SkillTitle>[Passive]</>
+Increases the Accuracy of you and your party members. This effect is region-wide.",Party members’ Accuracy +{1-1},
+20251,Death Whisper,"<SkillTitle>[Passive]</>
+Increases the Critical Damage of you and your party members. This effect is region-wide.",Party members’ Crit. Damage +{1-1%}%,
+20261,Boost HP,"<SkillTitle>[Passive]</>
+Increases the Max HP of you and your party members. This effect is region-wide.",Party members’ Max HP +{1-1},
+21211,Parry Mastery,"<SkillTitle>[Passive]</>
+Has a chance of decreasing the damage taken when attacked.","Shield Defense: {1%}%
+Damage received upon defending with Shield -{2%}%.
+Def. +{3}.",
+21221,Revenge,"<SkillTitle>[Passive]</>
+Has a chance of generating a buff that increases Atk. when a Crit. Atk. lands.","Atk. +{1-1}
+Proc Rate: 10%, duration: 6 sec.",
+21222,Combat Mastery,"<SkillTitle>[Passive]</>
+Further increases Atk. when a Spear or Dual Swords are equipped.",Atk. +{1%}%,
+21231,Sneak,"<SkillTitle>[Passive]</>
+Set chance to decrease cooldown of skills upon dodging and increases Atk. for 3 seconds.","Decreases Skill Cooldown by {1-1#} sec.
+Increases Atk. by {2-1} for 3 sec.
+Proc Rate: 10%. Duration: 6 sec.",
+21232,Improve Critical Attack,"<SkillTitle>[Passive]</>
+Increases Crit. Rate and Critical Damage.","Increases Crit. Rate {1%}%.
+Increases Critical Damage by {2%}%.",
+21241,Enhanced Slow,"<SkillTitle>[Passive]</>
+Slows the enemy when a Crit. Atk. lands.","Enemy Speed -{1-1%}%
+Enemy Bleed Dmg.: {[Use34Param]2-1%}%
+Proc Rate: 10%. Duration: 3 sec.",
+21251,Blaze,@21221,@21221,
+21261,Divine Link,"<SkillTitle>[Passive]</>
+Increases Def. when in a party. The effect is amplified with more party members.",Def. +{1-1%}% per party member,
+21262,Mana Shield,"<SkillTitle>[Passive]</>
+When hit, MP is lost instead of part of the damage.",{1-1%}% of Dmg. is deducted from MP,
+22211,Elder Avoidance,"<SkillTitle>[Passive]</>
+Has a chance of generating a buff that increases Evasion Rate when attacked.","Evasion Rate +{1-1%}%
+Proc Rate: 15%, duration: 5 sec.",
+22212,@21211,@21211,@21211,
+22221,Esprit,"<SkillTitle>[Passive]</>
+Increases Crit. Rate continuously.",Crit. Rate +{1-1%}%,
+22222,@21222,@21222,@21222,
+22231,Rapid Anger,"<SkillTitle>[Passive]</>
+When attacking, increases Atk. Spd. and Speed depending on the number of hits.","Increases Atk. Spd per attack by {1-1%}%.
+Each attack increases movement Speed by {1-2%}%.
+Duration: 5 sec.",
+22232,Critical Chance,"<SkillTitle>[Passive]</>
+Increases Crit. Rate.",Crit. Rate +{1-1},
+22241,Swift,"<SkillTitle>[Passive]</>
+Increases the damage of basic attacks.",Dmg. of Basic Attack +{1%}%,
+22251,Frost Sigil,"<SkillTitle>[Passive]</>
+Increases damage when attacking enemies affected by movement impairing effects.",Atk. +{1%}% against enemies affected by movement impairing effects.,
+22252,Attacking Light Heal,"<SkillTitle>[Passive]</>
+Has a chance of recovering HP when attacking.","Regen. Rate: {1}
+Proc Rate: 10%",
+22261,@22211,"<SkillTitle>[Passive]</>
+Increases Evasion Rate continuously.",Evasion Rate +{1-1%}%,
+23211,Enhanced Drain,"<SkillTitle>[Passive]</>
+Has a chance of generating a buff that absorbs HP when attacked.","HP Drain: {1-1%}% of damage dealt
+Proc Rate: 15%, duration: 6 sec.",
+132132,Ultimate Defense (Slow),"<SkillTitle>[Sword & Shield Only]</>
+Raises Def. to the limits while moving carefully.","Def.: {1-1%}% + {1-3}.
+Decreases Speed by 50% for 5 sec while effect is active.
+Duration: 15 sec.",
+23221,Fever,"<SkillTitle>[Passive]</>
+Has a chance of generating a buff that increases Critical Damage when a Crit. Atk. lands.","Crit. Damage +{1-1%}%
+Proc Rate: 10%, duration: 6 sec.",
+23222,@21222,@21222,@21222,
+23231,Seek Blood,"<SkillTitle>[Passive]</>
+When attacking enemies with low HP, decreases their Def. and Critical Resist.","When enemy’s HP is 50% or lower.
+Def. -{1-1%}%.
+Crit. Rate Resist -{1-3%}%. Duration: 3 sec.",
+23232,Critical Power,"<SkillTitle>[Passive]</>
+Increases Critical Damage and when attacking bleeding enemies, increases Atk.","Critical Damage +{1-1%}%.
+Atk. against bleeding enemies +{2%}%.",
+23241,Critical Sign,"<SkillTitle>[Passive]</>
+Has a chance of generating a buff that increases the Accuracy Rate when a Crit. Atk. lands.","Acc. Rate  +{1-1%}%
+{2} MP Recovery
+Proc Rate: 10%, duration: 6 sec.",
+23251,@23221,@23221,@23221,
+23252,@22252,"<SkillTitle>[Passive]</>
+Has a chance of recovering HP when a Crit. Atk. lands.",@22252,
+23261,Aggression,"<SkillTitle>[Passive]</>
+Bestows a small rate of HP Drain to a party member continuously.",HP Drain + {1-1%}%,
+24211,Parry Expertise,"<SkillTitle>[Passive]</>
+Increases Max HP. Also, has a set chance of decreasing the damage taken when attacked.","Max HP +{3%}%. Shield Defense: {1%}%
+Damage received upon defending with Shield -{2%}%.
+Def. +{4}.",
+24212,Lucky Dexterity,"<SkillTitle>[Passive]</>
+This skill can be used twice regularly and increases HP by a small amount.","Use the skill in a shining skill slot to use the skill twice.
+Regen: {2}
+Cooldown: 15 sec.",
+24221,Crave Impact,"<SkillTitle>[Passive]</>
+When attack lands, has a chance of generating a buff that increases Atk. and increases number of enemies targeted.","Atk. +{1-1}
+Increases enemy attacked by 1
+Proc Rate: 10%. Duration: 6 sec.",
+24222,@21222,@21222,@21222,
+24223,Lucky Berserker,"<SkillTitle>[Passive]</>
+Has a chance to apply a buff that increases your party's Atk. Spd. when a Crit. Atk. lands.","Atk. Spd. +{1-1%}%
+Proc Rate: 8%, duration: 6.5 sec.",
+24231,@22221,@22221,@22221,
+24232,Lucky Fatality,"<SkillTitle>[Passive]</>
+Increases Crit. Rate and when attacking enemies with decreased Speed, deals additional damage.","Crit. Rate +{1-1}
+Increases Atk. against slowed enemies by {2%}%.",
+24233,Adena Search (Poison),"<SkillTitle>[Dagger Only]</>
+Discover more Adena in battle. Increases Speed and poisons affected enemies.","Increases Adena Gain by {1-1%}% and Speed by {1-2%}%.
+Duration: 60 sec",
+142422,@14242,@14242,"Damage: {[Use34Param]1%}% of Atk. + {1}
+Decrease Speed of targets for 4 sec
+Increases range for 5 sec.",
+24241,Acrobatics,"<SkillTitle>[Passive]</>
+Increases Evasion Rate and Atk. Spd. continuously.","Evasion Rate +{1%}%
+Atk. Spd. +{2%}%",
+24242,Lucky Quick Step,"<SkillTitle>[Passive]</>
+Has a chance of stunning and decreasing Atk. when a direct attack lands.","10% chance to stun target for 0.5 sec upon direct hit, ATK -{2-1%}%",
+24251,@23261,@21221,"Atk. +{1-1%}%.
+Proc Rate: 10%. Duration: 6 sec.",
+24252,Lucky Defense,"<SkillTitle>[Passive]</>
+Has a chance of increasing Def. of you and your party members when a Crit. Atk. lands.","Def. +{1-1}
+Proc Rate: 15%, duration: 6 sec.",
+24261,Fortify,"<SkillTitle>[Passive]</>
+Increases an ally’s HP Regen.",HP Regen + {1-1%}%,
+24262,Lucky Pure Heal,"<SkillTitle>[Passive]</>
+Has a chance of recovering HP of you and your party members when attacked.","Regen. Rate: {1}
+Proc Rate: 15%",
+30001,Absolute Shield,"<SkillTitle>[Any Weapon]</>
+A protective spell that decreases damage taken and increases incapacitation resistance.","Def. +{1-1%}%
+Incapacitation Resist +{1-3%}%.",
+30002,Nimble Step,"<SkillTitle>[Any Weapon]</>
+Moves quickly for a brief moment.",Speed +{1%}%,
+30003,Immortal,"<SkillTitle>[Passive]</>
+If gravely injured to the brink of death, grants a chance of surviving with 1 HP.",Huh?,
+30004,Blood Arrow,"<SkillTitle>[Any Weapon]</>
+Fires a sword aura forward to cause bleeding.",Damage: {[Use34Param]1%}% of P. Atk.,
+30005,Lightning Field,"<SkillTitle>[Any Weapon]</>
+Creates an area forward that shocks enemies.",Damage: {[Use34Param]1%}% of M. Atk.,
+30006,Missile Bolt,"<SkillTitle>[Any Weapon]</>
+Attacks enemies with a powerful shockwave and deals great damage.",Damage: {[Use34Param]1-1%}% of P. Atk. +{[Use34Param]1-2%}% of M. Atk.,
+30007,Poison Swarm,"<SkillTitle>[Any Weapon]</>
+Creates an area forward that poisons enemies. Enemies in this area have decreased Speed.",@30005,
+30008,Frost Armor,"<SkillTitle>[Any Weapon]</>
+Increases Def. for a period of time and slows enemies that are attacked.","Damage: 1.5x + {[Use34Param]1} of Atk.
+Decreases Atk. of targets by {4-1} for 3 sec.",
+30009,Evasion Shock,"<SkillTitle>[Any Weapon]</>
+Dodges backwards and sends a shockwave forward.",@30004,
+30010,Mana Shield,"<SkillTitle>[Any Weapon]</>
+When hit, causes a portion of damage to be deducted from MP rather than HP.",Uses MP equal to {2%}% of damage taken.,
+30011,Healing Strike,"<SkillTitle>[Any Weapon]</>
+Heals your HP slightly.",Regen. Rate: {[Use34Param]1%}% of Atk.,
+30012,Meteor Shower,"<SkillTitle>[Any Weapon]</>
+Drops a meteorite in front to deal fire damage.","Damage: {[Use34Param]1-1%}% of P. Atk. + {[Use34Param]1-2%}% of M. Atk.
+Knocks down enemy.
+Damage over 3 sec.",
+30013,Time Reduction,"<SkillTitle>[Any Weapon]</>
+Decreases skill cooldown time for a period of time.",Skill Cooldown -{1#} sec,
+30014,Poison Strike,"<SkillTitle>[Any Weapon]</>
+Poisons enemy and decreases their Dmg. and Speed for a period of time.","Damage: {[Use34Param]1-1%}% of P. Atk. + {[Use34Param]1-2%}% of M. Atk.
+Additional damage over 5 sec.
+For 5 sec, enemy Speed: -{3-2%}%. Damage: -{3-1%}%.",
+30015,Defense Zone,"<SkillTitle>[Any Weapon]</>
+Sets up a protection area that decreases Dmg. taken by allies and grants Immunity to self for a short period.","For 6 sec, Dmg. taken by allies -{PhyBuff:300151-1%}%.
+Dmg. taken from Rare Skill decreases by an additional {PhyBuff:300151-2%}%.
+Debuff immunity for 2 sec.",
+31001,Frost Armor (Slowing Effect Test),Slowing passive for Frost Armor,Decreases Speed by {2-1}%,
+31002,Power Smash (Old),Powerfully attacks the enemies in front.,Powerfully attacks the enemies in front.,
+31003,Great Slam (Old),@31002,@31002,
+31004,@14221,Power Smash,Deals a powerful attack to nearby enemies.,
+31005,Great Slam,Great Slam,@31004,
+31006,@11222,Thunder Storm,@31004,
+31007,Holy Field,Deals powerful damage to nearby enemies.,@31004,
+31008,@30009,Fires a shockwave forward while evading backwards.,@30004,
+35001,@21111,@21111,,
+35002,@21112,@21112,,
+35003,@21121,@21121,,
+35004,@21122,@21122,,
+35005,@21131,@21131,,
+35006,@21132,@21132,,
+35011,@21211,@21211,,
+35021,@21222,@21222,,
+35031,@21232,@21232,,
+35111,@21211,@21211,,
+35121,@22221,@22221,,
+35122,@21222,@21222,,
+35131,@22232,@22232,,
+35141,@22241,@22241,,
+35151,@22251,@22251,,
+35161,@22211,@22261,,
+35221,@21222,@21222,,
+35231,@23232,@23232,,
+35311,@24211,@24211,,
+35321,@21222,@21222,,
+35331,@22221,@22221,,
+35332,Lucky Fatality,@24232,,
+35341,@24241,@24241,,
+40001,P. Atk.,P. Atk.,Increases M. Atk. by {1-1},
+40002,M. Atk.,M. Atk.,@40001,
+40003,P. Atk. Increase Rate,P. Atk. Increase Rate,@40001,
+40004,M. Atk. Increase Rate,M. Atk. Increase Rate,@40001,
+40005,Basic Attack Power,Basic Attack Power,@40001,
+40006,Party Member Atk. Increase Rate,Party Member Atk. Increase Rate,@40001,
+40007,Atk. Spd. Increase Rate,Atk. Spd. Increase Rate,@40001,
+40008,Critical Damage Increase Rate,Critical Damage Increase Rate,@40001,
+40009,Critical Accuracy Rate,Critical Accuracy Rate,@40001,
+40010,Critical Resist Rate,Critical Resist Rate,@40001,
+40011,P. Dmg.,P. Dmg.,@40001,
+40012,M. Dmg.,M. Dmg.,@40001,
+40013,Ignore Def.,Ignore Def.,@40001,
+40014,Target HP Decrease,Target HP Decrease,@40001,
+40015,Target HP Decrease (%),Target HP Decrease (%),@40001,
+40016,P. Def.,P. Def.,@40001,
+40017,M. Def.,M. Def.,@40001,
+40018,P. Def. Increase Rate,P. Def. Increase Rate,@40001,
+40019,M. Def. Increase Rate,M. Def. Increase Rate,@40001,
+40020,Evasion,Evasion,@40001,
+40021,Evasion Increase Rate,Evasion Increase Rate,@40001,
+40022,Evasion Rate,Evasion Rate,@40001,
+40023,Accuracy,Accuracy,@40001,
+40024,Acc. Increase Rate,Acc. Increase Rate,@40001,
+40025,Accuracy Rate,Accuracy Rate,@40001,
+40026,Dmg. Increase Rate,Dmg. Increase Rate,@40001,
+40027,P. Dmg. Increase Rate,P. Dmg. Increase Rate,@40001,
+40028,@40027,@40027,@40001,
+40029,Dmg. to Slowed Target Increase Rate,Dmg. to Slowed Target Increase Rate,@40001,
+40030,Ignore Def. Dmg.,Ignore Def. Dmg.,@40001,
+40031,Dmg. Decrease Rate,Dmg. Decrease Rate,@40001,
+40032,P. Dmg. Decrease Rate,P. Dmg. Decrease Rate,@40001,
+40033,M. Dmg. Decrease Rate,M. Dmg. Decrease Rate,@40001,
+40034,Fixed Damage Decrease,Fixed Damage Decrease,@40001,
+40035,Deflect Rate,Deflect Rate,@40001,
+40036,Deflect Dmg. Decrease Rate,Deflect Dmg. Decrease Rate,@40001,
+40037,P. Dmg. over Time,P. Dmg. over Time,@40001,
+40038,M. Dmg. over Time,M. Dmg. over Time,@40001,
+40039,Heal HP Based on Atk.,Heal HP Based on Atk.,@40001,
+40040,Heal over Time,Heal over Time,@40001,
+40041,Aggression Increase Rate,Aggression Increase Rate,@40001,
+40042,HP Regen.,HP Regen.,@40001,
+40043,HP Drain,HP Drain,@40001,
+40044,HP Absorption (An active skill that steals HP from the enemy),HP Absorption (An active skill that steals HP from the enemy),@40001,
+40045,HP Absorption (Allocates stolen HP to yourself and your party members),HP Absorption (Allocates stolen HP to yourself and your party members),@40001,
+40046,Max HP,Max HP,@40001,
+40047,Max HP Increase Rate,Max HP Increase Rate,@40001,
+40048,Max MP,Max MP,@40001,
+40049,Max MP Increase Rate,Max MP Increase Rate,@40001,
+40050,Speed Increase Rate,Speed Increase Rate,@40001,
+40051,MP Cost Decrease Rate,MP Cost Decrease Rate,@40001,
+40052,MP Cost Decrease,MP Cost Decrease,@40001,
+40053,MP Regen. Rate,MP Regen. Rate,@40001,
+40054,Skill Cooldown,Skill Cooldown,@40001,
+40055,Sneer (Increases Aggro to max),Sneer (Increases Aggro to max),@40001,
+40056,Lock Target,Lock Target,@40001,
+40057,Move Target,Move Target,@40001,
+40058,Pull Target,Pull Target,@40001,
+40059,Pull Resist Rate,Pull Resist Rate,@40001,
+40060,Knock Back Resist Rate,Knock Back Resist Rate,@40001,
+40061,Exp. Gain Increase Rate,Exp. Gain Increase Rate,@40001,
+40062,Adena Gain Increase Rate,Adena Gain Increase Rate,@40001,
+40063,Slow Resist Rate,Slow Resist Rate,@40001,
+40064,Stun Resist Rate,Stun Resist Rate,@40001,
+40065,Abnormal Status Resist,Abnormal Status Resist,@40001,
+40066,Skill Range Increase,Skill Range Increase,@40001,
+40067,Skill Hit Count Increase,Skill Hit Count Increase,@40001,
+40068,Combo End Time Increase,Combo End Time Increase,@40001,
+40069,Penetration,Penetration,@40001,
+40070,Resilience,Resilience,@40001,
+40071,Crit. Rate,Crit. Rate,@40001,
+40072,Critical Resistance,Critical Resistance,@40001,
+40073,Crit. Rate Increase Rate,Crit. Rate Increase Rate,@40001,
+40074,Crit. Resist Increase Rate,Crit. Resist Increase Rate,@40001,
+50001,Antelope,Melee Attack Type Monster,,
+50002,Breka Orc,@50001,,
+50003,Breka Orc Fighter,@50001,,
+50004,Giant Pincher,@50001,,
+50005,Red Bear,@50001,,
+50006,Wasp,@50001,,
+50007,King Bugbear,@50001,,
+50008,Leto Lizardman,@50001,,
+50009,Leto Lizardman Shaman,Ranged Wind Element Attack. Fires a wind projectile. Penetrates enemies.,,
+50010,Leto Lizardman Fighter,@50001,,
+50011,Maille Lizardman Shaman,Ranged Fire Element Attack. Fires a flame projectile. Applies DoT.,,
+50012,Maille Lizardman Fighter,@50001,,
+50013,Marsh Stakato Soldier,@50001,,
+50014,Mystical Weaver,Ranged Dark Element Attack. Fires a dark projectile to deal Dmg.. Applies Curse. DoT is weak but lasts for a long time.,,
+50015,Venomous Spider,@50001,,
+50016,Dark Choir Prima,@50001,,
+50017,Reaper,@50001,,
+50018,Skeleton Pursuer,@50001,,
+50019,Vampire Bat,@50001,,
+50020,Windsus,@50001,,
+50021,Zombie Lord Crowl,@50001,,
+50022,Black Leopard,@50001,,
+50023,Tanor Silenos Fighter,@50001,,
+50024,Tanor Silenos,@50001,,
+50025,Ol Mahum Scout,@50001,,
+50026,Ol Mahum Warrior,@50001,,
+50027,Tanor Silenos Shaman,@50009,,
+50028,Tanor Silenos Chief,@50001,,
+50029,Dark Knight,@50001,,
+50030,Stone Golem,@50001,,
+50031,@11243,@50001,,
+50032,Meforde,@50001,,
+50033,Premo,@50001,,
+50034,Rorka,@50001,,
+50035,Mandragora,@50001,,
+50036,Doom Servant,@50001,,
+50037,Fettered Soul,@50001,,
+50038,Nerkas,@50001,,
+50039,Guillotine of Death,@50001,,
+50040,Black Wolf,@50001,,
+50041,Turek Orc Archer,A basic attack from Ranged monsters that use bows.,,
+50042,Turek Orc Warchief,@50001,,
+50043,Turek Orc Trooper,@50001,,
+50044,Dungeon Skeleton Soldier,@50001,,
+50045,Skeleton Marauder,@50041,,
+50046,Werewolf,@50001,,
+50047,Tepra Scorpion,@50001,,
+50048,Rabid Cougar,@50001,,
+50049,Red Fox,@50001,,
+50050,Monster Eye Watcher,@50001,,
+50051,Turek War Hound,@50001,,
+50052,Ant Larva,@50001,,
+50053,Ant Soldier,@50001,,
+50054,Ant,@50001,,
+50055,Basilisk,@50001,,
+50056,Giant Leech,@50001,,
+50057,Sahara,@50001,,
+50058,Noble Ant,@50001,,
+50060,Resurrected Specter,@50001,,
+50061,Relentless Specter,@50001,,
+50062,Succubus,@50001,,
+50063,Breka Orc Warchief,@50001,,
+50064,Breka Orc Shaman,@50009,,
+50065,Perum,@50001,,
+50066,Dark Lord,@50001,,
+50067,Zombie Pirate,@50001,,
+50068,Susceptor Prime,@50001,,
+50069,Dismal Shout,@50001,,
+50070,Kaim Vanul,@50001,,
+50071,Zombie Pirate Navigator,@50001,,
+50072,Zombie Pirate Captain,@50001,,
+50073,Zaken,@50001,,
+50074,Gorgon Queen Stenoa,@50001,,
+50075,Medusa,@50001,,
+50076,Wyrm,@50001,,
+50077,Headless Knight,@50001,,
+50078,Dustwind Gargoyle,@50001,,
+50079,Grandis,@50001,,
+50080,Leto Lizardman Chief,@50001,,
+50081,Drake,@50001,,
+50082,Spore Fungus,@50001,,
+50083,Richard,@50001,,
+50084,Orfen,@50001,,
+50085,Orfen's Handmaiden,@50001,,
+50086,Ketra Orc Seeker,@50041,,
+50087,Oel Mahum,@50001,,
+50088,Oel Mahum Shaman,@50011,,
+50089,Oel Mahum Fighter,@50001,,
+50090,Blood Queen,@50001,,
+50091,Boreas,@50001,,
+50092,Cave Keeper,@50001,,
+50093,Ol Mahum Warchief,@50001,,
+50094,Ol Mahum Shooter,@50041,,
+50095,Maille Lizardman Scout,A basic attack from Ranged monsters that use spears.,,
+50096,Leto Lizardman Archer,@50041,,
+50097,Swamp Killer,@50001,,
+50098,Skeleton Scout,@50041,,
+50099,Validus,@50001,,
+50100,Breka Orc Archer,@50041,,
+50101,Dicor,@50001,,
+50102,Black Willow,@50001,,
+50103,Dark Brotherhood,@50014,,
+50104,Typheron,@50001,,
+50105,White Wolf,@50001,,
+50106,Ketra Orc Ranger Captain,@50001,,
+50107,Ketra Orc White Captain,@50001,,
+50108,Balrog,@50001,,
+50109,Apostle,@50001,,
+50110,Tutorial Knight 1,@50001,,
+50111,@50110,@50001,,
+50112,Tutorial Knight 2,@50001,,
+50113,@50112,@50001,,
+50114,Tutorial Knight 3,@50041,,
+50115,Tutorial Knight 4,@50001,,
+50116,@50115,@50001,,
+50117,Tutorial Knight 5,@50001,,
+50118,@50117,@50001,,
+50119,Tutorial Knight 6,@50041,,
+50120,Tutorial Knight 7,@50001,,
+50121,@50120,@50001,,
+50122,Field Boss_West Talking Island_Fallen Spirit Shepherd,@50001,,
+50123,Field Boss_Gludin Highway_Zodiac the Murderer,@50001,,
+50124,Field Boss_Gludio Plains_Silverbeard the Invasion Leader,@50001,,
+50125,Field Boss_Windawood Manor_Vapar the Fallen Guardian,@50001,,
+50126,Field Boss_Wasteland_Shelop Watcher,@50001,,
+50127,Field Boss_Plains of Dion_Flagon,@50001,,
+50128,Field Boss_Cruma Swamp_Sina the Swamp Ruler,@50001,,
+50129,Field Boss_Summit of Dissonance_Rorka the Forgotten,@50001,,
+50130,Field Boss_Giran Dominion_Stenoa the Gorgon Queen,@50001,,
+50131,Field Boss_Deathly Fog Shores_Undertaker,@50001,,
+50132,Field Boss_Haunted Necropolis_Marlox,@50001,,
+50133,Field Boss_Northwind Plateau_Heart of the Plateau,@50001,,
+50134,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady,@50001,,
+50140,Revolutionary Army Knight (Human - Spear) Combo 1,@2101,,
+50141,Revolutionary Army Knight (Human - Spear) Combo 2,@2101,,
+50142,Revolutionary Army Knight (Human - Spear) Combo 3,@2101,,
+50143,Revolutionary Army Knight (Human - Spear) Combo 4,@2101,,
+50144,Revolutionary Army Knight (Human - Spear) Combo 5,@2101,,
+50145,Revolutionary Army Knight (Human - Spear) Combo 6,@2101,,
+50146,Revolutionary Army Archer (Human - Bow) Combo 1,@5101,,
+50147,Revolutionary Army Archer (Human - Bow) Combo 2,@5101,,
+50148,Revolutionary Army Archer (Human - Bow) Combo 3,@5101,,
+50149,Revolutionary Army Archer (Human - Bow) Combo 4,@5101,,
+50150,Revolutionary Army Knight (Human - Sword) Combo 1,A basic attack that uses a Sword.,,
+50151,Revolutionary Army Knight (Human - Sword) Combo 2,@50150,,
+50152,Revolutionary Army Knight (Human - Sword) Combo 3,@50150,,
+50153,Revolutionary Army Knight (Human - Sword) Combo 4,@50150,,
+50154,Revolutionary Army Knight (Human - Sword) Combo 5,@50150,,
+50155,Revolutionary Army Knight (Human - Sword) Combo 6,@50150,,
+50156,Lucien Staff Combo 1,@6101,,
+50157,Lucien Staff Combo 2,@6101,,
+50158,Lucien Staff Combo 3,@6101,,
+50159,Lucien Staff Combo 4,@6101,,
+50160,Elpin Bow Combo 1,@5101,,
+50161,Elpin Bow Combo 2,@5101,,
+50162,Elpin Bow Combo 3,@5101,,
+50163,Elpin Bow Combo 4,@5101,,
+50164,Loyalist Knight (Human - Spear) Combo 1,@2101,,
+50165,Loyalist Knight (Human - Spear) Combo 2,@2101,,
+50166,Loyalist Knight (Human - Spear) Combo 3,@2101,,
+50167,Loyalist Knight (Human - Spear) Combo 4,@2101,,
+50168,Loyalist Knight (Human - Spear) Combo 5,@2101,,
+50169,Loyalist Knight (Human - Spear) Combo 6,@2101,,
+50170,Loyalist Archer (Human - Bow) Combo 1,@5101,,
+50171,Loyalist Archer (Human - Bow) Combo 2,@5101,,
+50172,Loyalist Archer (Human - Bow) Combo 3,@5101,,
+50173,Loyalist Archer (Human - Bow) Combo 4,@5101,,
+50174,Loyalist Knight (Human - Sword) Combo 1,@50150,,
+50175,Loyalist Knight (Human - Sword) Combo 2,@50150,,
+50176,Loyalist Knight (Human - Sword) Combo 3,@50150,,
+50177,Loyalist Knight (Human - Sword) Combo 4,@50150,,
+50178,Loyalist Knight (Human - Sword) Combo 5,@50150,,
+50179,Loyalist Knight (Human - Sword) Combo 6,@50150,,
+50180,Marlow Spear Combo 1,@2101,,
+50181,Marlow Spear Combo 2,@2101,,
+50182,Marlow Spear Combo 3,@2101,,
+50183,Marlow Spear Combo 4,@2101,,
+50184,Marlow Spear Combo 5,@2101,,
+50185,Marlow Spear Combo 6,@2101,,
+50186,Control Tower Attack,,,
+50187,Adena Vault Boss Normal Attack,"A melee attack-type gold dragon that protects the Adena Vault.
+Uses its giant wings to generate powerful gusts of wind.",,
+50188,Adena Vault Summon Monster Normal Attack,Adena Vault summon monster’s basic attack.,,
+50189,Varkaron,Clan Dungeon boss Varcarlo’s basic attack.,,
+501891,Varkaron’s Creation,Basic attack used by Varkaron’s (Clan Dungeon boss) Creation.,,
+50190,@50187,@50187,,
+50191,Krakia,,,
+50192,Nymph Rose,,,
+50193,Nymph Queen Lara,,,
+50194,Imp,"Flutters its wings, jumps, and strikes with the key.",,
+50195,Mimic Gold,Opens the lid and strikes with its tongue.,,
+50196,Fairy,,,
+50197,Pan,,,
+50198,Tanta Lizardman Berserker,,,
+50199,Tanta Lizardman Summoner,,,
+50200,Ketra Orc,,,
+50201,Ketra Orc Warchief,,,
+50202,Barka Silenos Officer,,,
+50203,Marsha,,,
+50204,DragonPython,,,
+50205,DragonBerserker,,,
+50206,Karinness,,,
+50207,DarkAssociation_M_High,,,
+50208,Grendel_Boss,,,
+50209,Void Hound,@50001,,
+50210,ArmoredGrandis,,,
+50211,EmbryonKnights,,,
+50212,Grendel,,,
+50213,Atrox,,,
+50214,Embryon,,,
+58001,ArmorMerchant_01,,,
+58002,Aimel,,,
+58003,Hardin,,,
+58004,HardinsFallower,,,
+58005,Fernel,,,
+58006,CatTheCat_01,,,
+58011,Resident_02_Sword,,,
+58012,Resident_02_Staff,,,
+58021,Resident_03,,,
+58022,Resident_03_Bow,,,
+58023,Resident_03_Sword,,,
+58024,Resident_03_DualSword,,,
+58031,Resident_04_Sword,,,
+58032,Resident_04_Bow,,,
+58033,Resident_04_Sword_2,,,
+58034,Resident_04_Sword_3,,,
+58041,Resident_05_Dagger,,,
+58051,Noble_02_Staff,,,
+58061,Noble_03_Sword,,,
+58071,Student_Dagger,,,
+58072,Student_Staff,,,
+58081,Teleporter_01_Staff,,,
+58091,SmeltingMerchant_01_Sword,,,
+58101,Magician_Staff,,,
+58111,ItemMerchant_01_Spear,,,
+58121,Officer_Sword,,,
+58131,WarehouseKeeper_01_Sword,,,
+58141,TemplePriest_01,,,
+58151,Officer_02_Spear,,,
+58152,Officer_02_Spear_Skill1,,,
+58153,Officer_02_Spear_Skill2,,,
+58161,CityGuard_01_01_Spear,,,
+58162,CityGuard_01_02_Spear,,,
+58163,CityGuard_01_03_Spear,,,
+58164,Tsun,,,
+58165,BP_Wooldie,Normal Attack,,
+58166,BP_Scooldie,@58165,,
+60001,@50001,Powerful Dmg.,,
+60002,@50002,@60001,,
+60003,@50003,@60001,,
+60004,@50004,Applies a weak but stacking DoT.,,
+60005,@50005,Stuns.,,
+60006,@50006,@60004,,
+60007,@50007,@60005,,
+60008,@50008,@60001,,
+60009,@50010,@60001,,
+60010,@50012,@60001,,
+60011,@50013,@60001,,
+60012,@50015,@60004,,
+60013,@50016,Deals damage and recovers its HP.,,
+60014,@50017,@60013,,
+60015,@50018,@60005,,
+60016,@50019,Applies DOT.,,
+60017,@50020,@60001,,
+60018,@50021,@60005,,
+60019,@50022,@60005,,
+60020,@50023,@60001,,
+60021,@50024,@60001,,
+60022,@50025,@60004,,
+60023,@50026,@60001,,
+60024,@50028,@60001,,
+60025,@50029,Decreases target’s Atk. and Def.,,
+60026,@50030,@60001,,
+60027,@11243,@60025,,
+60028,@50032,@60025,,
+60029,@50033,@60005,,
+60030,@50034,@60001,,
+60031,@50035,@60004,,
+60032,@50036,@60001,,
+60033,@50037,@60001,,
+60034,@50038,@60001,,
+60035,@50040,@60016,,
+60036,@50042,@60001,,
+60037,@50043,@60001,,
+60038,@50044,@60005,,
+60039,@50046,@60016,,
+60040,@50047,@60004,,
+60041,@50048,@60005,,
+60042,@50049,@60016,,
+60043,@50050,@60025,,
+60044,@50051,@60016,,
+60045,@50053,@60004,,
+60046,@50054,@60004,,
+60047,@50055,@60005,,
+60048,@50056,@60013,,
+60049,@50057,@60005,,
+60050,@50058,@60016,,
+60051,@50060,@60001,,
+60052,@50061,@60004,,
+60053,@50062,@60025,,
+60054,@50063,@60001,,
+60055,@50065,@60001,,
+60056,@50066,"Weak, continuous damage.",,
+60057,@50067,@60001,,
+60058,@50068,@60001,,
+60059,@50069,@60001,,
+60060,@50070,@60001,,
+60061,@50071,@60001,,
+60062,@50072,@60013,,
+60063,@50074,@60001,,
+60064,@50075,@60004,,
+60065,@50076,@60016,,
+60066,@50077,@60013,,
+60067,@50078,@60001,,
+60068,@50079,@60005,,
+60069,@50080,@60001,,
+60070,@50081,@60016,,
+60071,@50082,@60004,,
+60072,@50083,@60001,,
+60073,@50085,@60004,,
+60074,@50087,@60001,,
+60075,@50089,@60001,,
+60076,@50090,@60025,,
+60077,@50091,@60025,,
+60078,@50092,@60001,,
+60079,@50093,@60001,,
+60080,@50097,@60001,,
+60081,@50098,@60013,,
+60082,@50099,@60001,,
+60083,@50101,@60001,,
+60084,@50102,@60001,,
+60085,@50106,@60001,,
+60086,@50107,@60001,,
+60087,@50108,@60001,,
+60088,@50110,@60001,,
+60089,@50112,@60001,,
+60090,@50114,@50041,,
+60091,@50115,@60001,,
+60092,@50117,@60001,,
+60093,@50119,@50041,,
+60094,@50120,@60001,,
+160018,@50021,@60005,,
+160032,@50036,@60001,,
+160033,@50037,@60001,,
+160056,@50066,@60056,,
+60095,@11222,"<SkillTitle>[Spear, Dual Swords Only]</>
+Slams the ground with great force to deal damage and slow nearby enemies.","Damage: 100% of Atk. +{1}
+Decrease Speed and Atk. Spd. of targets by {2-1%}% for 3 sec.",
+50135,Talking Island Boreas Normal Attack,Boreas’s Basic Attack,,
+60096,Talking Island Gorsaur Skill 1,,,
+60097,Talking Island Gorsaur Skill 2,,,
+50136,Talking Island Orbis Normal Attack,Orbis’s Basic Attack,,
+60098,Talking Island Carpheous Skill 1,,,
+60099,Talking Island Carpheous Skill 2,,,
+50137,Talking Island Apostle Normal Attack,Apostle’s Basic Attack,,
+60100,Talking Island Orobas Skill 1,,,
+50138,Talking Island Archon Bau Normal Attack,Archon Bau’s Basic Attack,,
+60101,Talking Island Archon Votis Skill 1,,,
+60102,Talking Island Archon Votis Skill 2,,,
+60103,Dummy Skill,,,
+50139,Talking Island Makkum Normal Attack,Makkum’s Basic Attack,,
+60104,Talking Island Dexter 1,,,
+60105,Talking Island Dexter 2,,,
+60106,Lucien - Major Heal,"<SkillTitle>[Staff Only]</>
+Heals you and your party members around you with holy powers to recover HP.",,
+60107,Lucien - Flame Strike,"<SkillTitle>[Staff Only]</>
+Launches a flaming ball to deal massive explosion damage to enemies.",,
+60108,Elpin - Sonic Star,"<SkillTitle>[Dagger Only]</>
+Moves swiftly in a pentagram shape while attacking the enemies, then deals a second round of damage to nearby enemies. Decreases damage taken while in movement.",,
+60109,Elpin - Power Shot,"<SkillTitle>[Bow Only]</>
+Fires an arrow to deal damage and briefly stun the enemy and surrounding targets.",,
+60110,Marlow - Hurricane Storm,Castle Siege Tutorial Boss Marlow’s Exclusive Skill,,
+60111,Marlow - Dark Breath,@60110,,
+60112,Marlow - Appearance Lightning Field,@60110,,
+60113,Gale Strike,"Deals damage and knocks down enemies in front.
+Flaps its wings while facing forward to attack.",,
+60114,Fluish Crack,Strikes the ground to send a shockwave around the dragon.,,
+60115,Golden Fire Breath,Exhales fire in front to attack.,,
+60116,Marlow - Lightning Field,@60110,,
+60117,East Talking Island Act 8 Boss - Cave Keeper,@60001,,
+60118,Marlow - Ultimate Defense,Greatly increases Def.,,
+60121,@50078,Melee Attack Type Monster (for field treasure chests),,
+60122,@50078,Powerful Damage (for field treasure chests),,
+60123,@50192,,,
+60124,@50193,,,
+60125,@50193,,,
+60126,@50196,,,
+60127,@50197,,,
+60128,@50197,,,
+60129,@50198,,,
+60130,@50199,,,
+60131,@50200,,,
+60132,@50201,,,
+60135,@50201,,,
+60133,@50202,,,
+60134,@50202,,,
+60136,Skeleton Chaser (+ Stun/For Enhance Scroll Dungeon),Skeleton Chaser (+ Stun/For Enhance Scroll Dungeon),,
+60137,Stone Golem (+ Stun/For Enhance Scroll Dungeon),Stone Golem (+ Stun/For Enhance Scroll Dungeon),,
+60138,DragonPythonBossSkill_01,,,
+60139,DragonPythonSkill_01,,,
+60140,DragonBerserkerBossSkill_01,,,
+60141,DragonBerserkerSkill_01,,,
+60142,KarinnessSkill_01,,,
+60143,KarinnessBossSkill_01,,,
+60144,DarkAssociation_M_HighSkill_01,,,
+60145,DarkAssociation_M_HighSkill_02,,,
+60146,GrendelSkill_01(Boss),,,
+60147,GrendelSkill_02(Boss),,,
+60148,@50030,@50001,,
+60149,@50077,@50001,,
+60150,@50077,@60013,,
+60151,@50070,@50001,,
+60152,@50070,@60001,,
+60153,@50210,@60001,,
+60154,@50211,@60001,,
+60155,@50211,@60001,,
+60156,GrendelSkill_01,@60001,,
+60157,AtroxSkill_01,@60001,,
+60158,Embryon_Skill_Sword_01,@60001,,
+60159,Embryon_Skill_Sword_02,@60001,,
+60160,VoidHoundSkill_01,@60001,,
+60161,VoidHoundSkill_01(Trials of Experience - Hell),Deals damage and knocks down.,,
+60162,Golden Fire Breath (Hell),@60115,,
+60163,ValidusSkill_02(Temple Guardian - Hell),Self-destruct + Splash + Dmg.,,
+60164,KetraOrcArcher(Summoning Circle - Very Hard),,,
+71011,Daily Dungeon - Makkum (Easy),,,
+71012,@71011,"Swings fists in a large arc to attack.
+> Deals damage to enemies in front.
++ applies a Stun Effect",,
+71013,@71011,"Stomps the ground to attack using the shockwaves on the ground.
+> Deals powerful damage to nearby enemies.",,
+71021,Daily Dungeon - Trikan (Easy),,,
+71022,@71021,"Jumps, then comes crashing down on the ground for a powerful attack.
+> Deals very powerful damage to nearby enemies.",,
+71023,@71021,"Lets out a scream for a sound wave attack.
+> Deals weak damage to nearby enemies.
++ Slow",,
+71031,Daily Dungeon - Apostle (Easy),,,
+71032,@71031,"Swings the scythe forward for a multi-hit attack.
+> Deals powerful damage to enemies in front.",,
+71033,@71031,"Summons demonic minions nearby.
+> Summoned monsters differ based on the Dungeon difficulty.
+> Minions are controlled by AI.",,
+71041,Daily Dungeon - Archon Bau (Easy),,,
+71042,@71041,"Attacks by firing weapons from underground.
+> Deals average damage to enemies in front.
+> Designed to be hard to avoid.",,
+71043,@71041,"Transforms the weapon into a blade and then swings it.
+> Deals powerful damage to enemies in front.",,
+71051,Daily Dungeon - Blood King (Easy),,,
+71052,@71051,"The head of the statue continuously bites to attack.
+> Deals powerful damage to enemies in front.
++ Bleed DoT",,
+71053,@71051,"Summons undead minions nearby.
+> Summoned monsters differ based on the Dungeon difficulty.
+> Minions are controlled by AI.",,
+71061,Daily Dungeon - Orbis (Easy),,,
+71062,@71061,"Swings its front claws in a large arc to attack.
+> Deals weak damage to nearby enemies.
++ Stacking Bleed DoT",,
+71063,@71061,"Charges forward while attacking with its teeth.
+> Deals powerful damage to enemies in front.
+> Repeats the attack 1 - 4 time(s) in the user’s direction, based on the difficulty.",,
+71071,Daily Dungeon - Boreas (Easy),,,
+71072,@71071,"Exhales fire in front to attack.
+> Deals powerful damage to enemies in front.
+> Breathes fire continuously for 5 seconds.",,
+71073,@71071,"Spits out flaming spheres at the ground that explode in order.
+> Deals powerful damage to enemies in front.
+> The flames explode 3 times in a row.",,
+71111,Daily Dungeon - Makkum (Normal),,,
+71112,@71111,,,
+71113,@71111,,,
+71121,Daily Dungeon - Trikan (Normal),,,
+71122,@71121,,,
+71123,@71121,,,
+71131,Daily Dungeon - Apostle (Normal),,,
+71132,@71131,,,
+71133,@71131,,,
+71141,Daily Dungeon - Archon Bau (Normal),,,
+71142,@71141,,,
+71143,@71141,,,
+71151,Daily Dungeon - Blood King (Normal),,,
+71152,@71151,,,
+71153,@71151,,,
+71161,Daily Dungeon - Orbis (Normal),,,
+71162,@71161,,,
+71163,@71161,,,
+71171,Daily Dungeon - Boreas (Normal),,,
+71172,@71171,,,
+71173,@71171,,,
+71211,Daily Dungeon - Makkum (Hard),,,
+71212,@71211,,,
+71213,@71211,,,
+71221,Daily Dungeon - Trikan (Hard),,,
+71222,@71221,,,
+71223,@71221,,,
+71231,Daily Dungeon - Apostle (Hard),,,
+71232,@71231,,,
+71233,@71231,,,
+71241,Daily Dungeon - Archon Bau (Hard),,,
+71242,@71241,,,
+71243,@71241,,,
+71251,Daily Dungeon - Blood King (Hard),,,
+71252,@71251,,,
+71253,@71251,,,
+71261,Daily Dungeon - Orbis (Hard),,,
+71262,@71261,,,
+71263,@71261,,,
+71271,Daily Dungeon - Boreas (Hard),,,
+71272,@71271,,,
+71273,@71271,,,
+71311,Daily Dungeon - Makkum (Very Hard),,,
+71312,@71311,,,
+71313,@71311,,,
+71321,Daily Dungeon - Trikan (Very Hard),,,
+71322,@71321,,,
+71323,@71321,,,
+71331,Daily Dungeon - Apostle (Very Hard),,,
+71332,@71331,,,
+71333,@71331,,,
+71341,Daily Dungeon - Archon Bau (Very Hard),,,
+71342,@71341,,,
+71343,@71341,,,
+71351,Daily Dungeon - Blood King (Very Hard),,,
+71352,@71351,,,
+71353,@71351,,,
+71361,Daily Dungeon - Orbis (Very Hard),,,
+71362,@71361,,,
+71363,@71361,,,
+71371,Daily Dungeon - Boreas (Very Hard),,,
+71372,@71371,,,
+71373,@71371,,,
+71411,Daily Dungeon - Makkum (Hell),,,
+71412,@71411,,,
+71413,@71411,,,
+71421,Daily Dungeon - Trikan (Hell),,,
+71422,@71421,,,
+71423,@71421,,,
+71431,Daily Dungeon - Apostle (Hell),,,
+71432,@71431,,,
+71433,@71431,,,
+71441,Daily Dungeon - Archon Bau (Hell),,,
+71442,@71441,,,
+71443,@71441,,,
+71451,Daily Dungeon - Blood King (Hell),,,
+71452,@71451,,,
+71453,@71451,,,
+71461,Daily Dungeon - Orbis (Hell),,,
+71462,@71461,,,
+71463,@71461,,,
+71471,Daily Dungeon - Boreas (Hell),,,
+71472,@71471,,,
+71473,@71471,,,
+72011,Clan Raid - Kaim Vanul,Lets out a flurry of attacks in front for 3 seconds to deal damage to enemies in the area.,,
+50059,Queen Ant,@50001,,
+500591,@50059,@50001,,
+72021,Pounce,Range Dmg. in Front,,Queen Ant uses Pounce.
+72022,Spit Poison,Range Dmg. in Front + Dmg. over Time,,Queen Ant uses Spit Poison.
+72023,Release Pheromone,Circular AoE Dmg. + Def. Decrease + Speed Decrease,,Queen Ant releases her pheromones.
+72024,Dig,Hide + Invincibility,,Queen Ant disappears underground.
+72025,Berserk (Queen Ant),Self Buff,,Queen Ant has gone berserk.
+72026,Ant Self-Destruction - 10 Count,@60163,,
+72027,Ant Self-Destruction - 20 Count,@60163,,
+720271,Ant Self-Destruction - 40 Count,@60163,,
+72028,Ant Soldier Slow Normal Attack,Basic Attack + Slow,,
+72029,Noble Ant - AoE Heal,Heal,,
+72030,P. Atk. Immunity (15 sec),P. Atk. Immunity,,
+72121,Def. Increase (20 sec),Def. Increase,,
+72122,Queen Ant Basic Attack Enhance,,,
+72123,Dig - End,,,Queen Ant has reappeared.
+721241,Ant Buff 0,,,
+72124,Ant Buff 1,,,
+72125,Ant Buff 2,,,
+72126,Ant Buff 3,,,
+72127,Ant Buff 4,,,
+72128,Ant Buff 5,,,
+72129,Ant Buff 6,,,
+172021,Pounce - Very Hard,Frontal Dmg. + Stun,,@72021
+172022,Spit Poison - Pounce connection,@72022,,@72022
+172023,Release Pheromone - Close Range,@72023,,@72023
+172024,Release Pheromone - Long Range,@72023,,@72023
+172025,Spit Poison - Frontal,@72022,,@72022
+172026,Spit Poison - Left,Dmg. on left + Dmg. over Time,,@72022
+172027,Spit Poison - Right,Dmg. on right + Dmg. over Time,,@72022
+172028,Poison Burst,Stacked Poison Dmg. in circular area.,,Queen Ant uses Poison Burst.
+172029,Puddle of Poison,"Poisons in a small, circular area.",,@72022
+1720310,Large Nurse Ant’s Blessing_1,Invincible,,Queen Ant is Barrier 1
+1720311,Large Nurse Ant’s Blessing_2,@1720310,,Queen Ant is Barrier 2
+1720312,Large Nurse Ant’s Blessing_3,@1720310,,Queen Ant is Barrier 3
+1720313,Remove Large Nurse Ant’s Blessing_1,De-spell,,Remove Barrier 1
+1720314,Remove Large Nurse Ant’s Blessing_2,@1720313,,Remove Barrier 2
+1720315,Remove Large Nurse Ant’s Blessing_3,@1720313,,Remove Barrier 3
+1720316,Self-Stun,Stun,,Self-Stun
+1720317,Dig (Brief Stun),@72024,,@72024
+1720318,Deadly Poison,AoE Floor,,Release Deadly Poison
+1720319,Release Pheromone - Close Range (Underground),@72023,,@72023
+1720320,Release Pheromone - Long Range (Underground),@72023,,@72023
+72130,Dig - Stun Before,AoE Stun,,
+72131,Ant Self-Destruction - 5 Count,@60163,,
+72132,Binding,AoE Bind,,Queen Ant uses Bind.
+72133,Nurse Ant Heal,@72029,,
+72134,Nurse Ant Heal (Fake),@72029,,
+1720001,Queen Ant (Basic Attack),@50001,,
+1720002,@72022,Frontal Dmg. + Poison,,@72022
+1720003,@72021,Frontal Dmg. + Knock Down + Puddle of Poison + Poison,,@72021
+1720004,Ant Fury,Circular Dmg. = Poison,,The Queen Ant uses Fury.
+1720005,@172023,Circular AoE Dmg. + Poison + Binding,,The Queen Ant sprays her pheromones in the surrounding area.
+1720006,@172024,Torus AoE Dmg. + Poison + Binding,,The Queen Ant sprays her pheromones a long distance.
+1720007,@1720318,Circular Floor,,
+1720008,Pounce II,@1720003,,
+1720009,Berserk,@72025,,The Queen Ant has gone Berserk.
+72031,Blood Blade,Swings the sword to deal damage.,,Varkaron uses Blood Blade.
+720311,Blood Blade - Very Hard,@72031,,@72031
+72032,Blood Protection,Casts a shield on self.,,Varkaron uses Blood Shield.
+72033,Blood Reverberation,Jumps and strikes downward with the sword to deal damage.,,Varkaron uses Blood Reverb.
+72034,Blood Charge,Charges forward with the sword held in front.,,
+72035,Blood Berserker,Berserk,,
+720353,Blood Berserker - Very Hard,@72035,,
+72036,Blood Blade (Enhance),Swings the sword to deal damage and drain HP.,,@72031
+720361,Blood Blade (Enhance) - Very Hard,@72036,,@72031
+72037,Blood Reverberation (Enhance),Jumps and strikes down with the sword to deal damage and Stun.,,@72033
+720371,Blood Reverberation (Enhance) - Very Hard,@72037,,@72033
+72038,Blood Vortex,Attack enemies while spinning,,Varkaron uses Blood Vortex.
+72039,Summon Clone,For Cooldown rotation.,,
+72040,Floor (Phase 1),Floor Skill,,Varkaron uses Puddle of Destruction.
+720401,Floor (Phase 2),@72040,,@72040
+720402,Floor (Phase 3),@72040,,@72040
+172031,@72031,@72031,,@72031
+172032,@72032,@72032,,@72032
+172033,@72033,@72033,,@72033
+172034,@72034,@72034,,
+172035,Buff,Buff Skill,,Varkaron’s Creation has enhanced Varkaron.
+172036,Remove Buff,@172035,,
+172038,@72038,@72038,,@72038
+720411,Death Lazor (Easy),Fires a laser beam + explodes on contact.,,
+720412,Death Lazor (Normal),@720411,,
+720413,Death Lazor (Hard),@720411,,
+720414,Death Lazor (Event),@720411,,
+72042,Rising Spark,Large Range AoE damage in Front,,Cruma Core uses Rising Spark.
+720431,Time Reset (Easy),Restores HP of the Core itself.,,Cruma Core uses Time Reset.
+720432,Time Reset (Normal),@720431,,@720431
+720433,Time Reset (Hard),@720431,,@720431
+72044,Gravity Poison,Sphere explosion + Dmg. over Time,,Cruma Core uses Gravity Poison.
+72045,Core Rampage,Dmg. Increase + Dmg. Reflect,,Cruma Core has begun to rampage.
+72046,Mind Jammer,Mind Controls in a small surrounding area.,,Cruma Core uses Mind Jammer.
+72047,Drill Smash,Nearby Dmg. + Stun,,
+72048,Gatekeeper’s Roar,Nearby Dmg. + Silence,,
+72051,Easy Summon 1,@72039,,Cruma Core summons Guardians.
+72052,@72046,@72046,,@72046
+72053,@72046,@72046,,@72046
+72054,Easy Summon 2,@72039,,@72051
+72055,Normal Summon 1,@72039,,@72051
+72056,Normal Summon 2,@72039,,@72051
+72057,Normal Summon 3,@72039,,@72051
+72058,Hard Summon 1,@72039,,@72051
+72059,Hard Summon 2,@72039,,@72051
+72060,Hard Summon 3,@72039,,@72051
+72061,Event Summon 1,@72039,,Guard Unit Alpha summons the Guardian.
+72062,Event Summon 2,@72039,,@72061
+73011,Curth Slasher,Deals “Ignore Def. Dmg.” to nearby enemies.,,
+73012,Nightmare,Creates a cursed area around a random target.,,
+73013,Fury,Atk. + Atk. Spd. Increase,,
+73041,Field Raid - Orfen 1,Decreases one’s own Def.,,
+73042,Field Raid - Orfen 2,"Spawns 4 poisonous explosions in random spots nearby.
+Enemies within the area take damage and have DoT applied.",,
+73043,Field Raid - Orfen 3,Atk. and Atk. Spd. Increase (Stackable),,
+74011,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 01,All enemies within the area take Fixed Dmg. and are knocked down.,,
+74012,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 02,Randomly selects a nearby enemy to deal powerful damage.,,
+74021,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 01,Deals powerful damage to a character in front of the boss and applies an abnormal state (Bleed).,,
+74022,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 02,Recovers own HP by n% every second.,,
+74031,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 01,Deals AoE damage.,,
+74032,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 02,Deals damage equal to a percentage of the target’s HP over time.,,
+74041,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 01,Deals AoE damage to nearby enemies.,,
+74042,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 02,Applies Burn state to random enemies within the area.,,
+74051,Field Boss_Wasteland_Shelop Watcher_Skill 01,Poison Carpet,,
+74052,Field Boss_Wasteland_Shelop Watcher_Skill 02,Damage,,
+74061,Field Boss_Plains of Dion_Flagon_Skill 01,Launches lightning spheres at 3 random targets.,,
+74062,Field Boss_Plains of Dion_Flagon_Skill 02,Strikes 5 random targets with lightning.,,
+74071,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 01,Lays down poison carpets underneath 3 random targets.,,
+74072,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 02,Attacks nearby enemies and slows them.,,
+74081,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 01,Attacks enemies in front to knock them down.,,
+74082,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_01,Self’s Stats Increase,,
+74083,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_02,@74082,,
+74084,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_03,@74082,,
+74085,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_Unlimited,Self’s Stats Increase_Until Death,,
+74091,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 01,Petrifies a random target.,,Stenoa uses Petrifying Gaze.
+74092,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 02,AoE Damage.,,Stenoa uses Queen's Strike.
+74093,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 03,P. Def. Buff,,Stenoa uses Scale Enhance and increases its P. Def.
+74094,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 04,M. Def. Buff,,Stenoa uses Scale Enhance and increases its M. Def.
+74101,Field Boss_Deathly Fog Shores_Undertaker_Skill 01,Fires sword energy forward to deal damage.,,
+74102,Field Boss_Deathly Fog Shores_Undertaker_Skill 02,Charges forward and attacks.,,
+74111,Field Boss_Haunted Necropolis_Marlox_Skill 01,Attacks two random targets.,,
+74112,Field Boss_Haunted Necropolis_Marlox_Skill 02,@74092,,
+74113,Field Boss_Haunted Necropolis_Marlox_Skill 01_Stone Punch,Stone Punch,,
+74114,Field Boss_Haunted Necropolis_Marlox_Skill 02_Devil Kick,Devil Kick,,
+74115,Field Boss_Haunted Necropolis_Marlox_Skill 03_Flame of Death,Flame of Death,,
+74116,Field Boss_Haunted Necropolis_Marlox_Skill 04_Demonic Roar,Demonic Roar,,Marlox uses Demonic Roar.
+74117,Field Boss_Haunted Necropolis_Marlox_Skill 04_01_Fatigue,Fatigue,,
+74118,Field Boss_Haunted Necropolis_Marlox_Normal Attack,Normal Attack,,
+74119,Field Boss_Haunted Necropolis_Marlox_Demon Totem Buff (Stackable),Stackable Buff,,
+74120,Field Boss_Haunted Necropolis_Marlox_Demon Totem (Fireball),Fireball,,
+741161,@74120,@74117,,
+74121,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 01,@74092,,
+74122,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 02,@74092,,
+74131,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 01,@74092,,
+74132,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 02,@74092,,
+74133,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 03,Lays down a poison carpet under the caster.,,
+74134,Marsha: Tornado of Temptation,,,Marsha uses Tornado of Temptation.
+74135,Marsha: Bladewind,,,Marsha uses Bladewind.
+74136,@74135,,,
+74137,Marsha: Summon,@72039,,Marsha summons minions.
+75016,@50016,@50001,,
+75017,@50017,@50001,,
+75018,@50018,@50001,,
+75019,@50209,@50001,,
+75029,@50029,@50001,,
+75038,@50038,@50001,,
+75044,@50044,@50001,,
+75045,@50045,A basic Ranged monster that uses bows.,,
+75060,@50060,@50001,,
+75061,@50061,@50001,,
+75066,@50066,@50001,,
+75098,@50098,@75045,,
+76001,@50001,@50001,,
+76002,@50002,@50001,,
+76003,@50003,@50001,,
+76004,@50004,@50001,,
+76005,@50005,@50001,,
+76006,@50006,@50001,,
+76007,@50007,@50001,,
+76008,@50008,@50001,,
+76009,@50009,Ranged Water Element Attack. Fires an ice projectile. Slow enemies.,,
+76010,@50010,@50001,,
+76011,@50011,@50011,,
+76012,@50012,@50001,,
+76013,@50013,@50001,,
+76014,@50014,@50014,,
+76015,@50015,@50001,,
+76016,@50016,@50001,,
+76017,@50017,@50001,,
+76018,@50018,@50001,,
+76019,@50019,@50001,,
+76020,@50020,@50001,,
+76021,@50021,@50001,,
+76022,@50022,@50001,,
+76023,@50023,@50001,,
+76024,@50024,@50001,,
+76025,@50025,@50001,,
+76026,@50026,@50001,,
+76027,@50027,@50009,,
+76028,@50028,@50001,,
+76029,@50029,@50001,,
+76030,@50030,@50001,,
+76031,@11243,@50001,,
+76032,@50032,@50001,,
+76033,@50033,@50001,,
+76034,@50034,@50001,,
+76035,@50035,@50001,,
+76036,@50036,@50001,,
+76037,@50037,@50001,,
+76038,@50038,@50001,,
+76039,@50039,@50001,,
+76040,@50040,@50001,,
+76041,@50041,@50041,,
+76042,@50042,@50001,,
+76043,@50043,@50001,,
+76044,@50044,@50001,,
+76045,@50045,@50041,,
+76046,@50046,@50001,,
+76047,@50047,@50001,,
+76048,@50048,@50001,,
+76049,@50049,@50001,,
+76050,@50050,@50001,,
+76051,@50051,@50001,,
+76052,@50052,@50001,,
+76053,@50053,@50001,,
+76054,@50054,@50001,,
+76055,@50055,@50001,,
+76056,@50056,@50001,,
+76057,@50057,@50001,,
+76058,@50058,@50001,,
+76059,@50059,@50001,,
+76060,@50060,@50001,,
+76061,@50061,@50001,,
+76062,@50062,@50001,,
+76063,@50063,@50001,,
+76064,@50064,@50009,,
+76065,@50065,@50001,,
+76066,@50066,@50001,,
+76067,@50067,@50001,,
+76068,@50068,@50001,,
+76069,@50069,@50001,,
+76070,@50070,@50001,,
+76071,@50071,@50001,,
+76072,@50072,@50001,,
+76073,@50073,@50001,,
+76074,@50074,@50001,,
+76075,@50075,@50001,,
+76076,@50076,@50001,,
+76077,@50077,@50001,,
+76078,@50078,@50001,,
+76079,@50079,@50001,,
+76080,@50080,@50001,,
+76081,@50081,@50001,,
+76082,@50082,@50001,,
+76083,@50083,@50001,,
+76084,@50084,@50001,,
+76085,@50085,@50001,,
+76086,@50086,@50041,,
+76087,@50087,@50001,,
+76088,@50088,@50011,,
+76089,@50089,@50001,,
+76090,@50090,@50001,,
+76091,@50091,@50001,,
+76092,@50092,@50001,,
+76093,@50093,@50001,,
+76094,@50094,@50041,,
+76095,@50095,@50095,,
+76096,@50096,@50041,,
+76097,@50097,@50001,,
+76098,@50098,@50001,,
+76099,@50099,@50001,,
+76100,@50100,@50041,,
+76101,@50101,@50001,,
+76102,@50102,@50001,,
+76103,@50103,@50014,,
+76104,@50104,@50001,,
+76105,@50105,@50001,,
+77001,@50001,@60001,,
+77002,@50002,@60001,,
+77003,@50003,@60001,,
+77004,@50004,@60004,,
+77005,@50005,@60005,,
+77006,@50006,@60004,,
+77007,@50007,@60005,,
+77008,@50008,@60001,,
+77009,@50010,@60001,,
+77010,@50012,@60001,,
+77011,@50013,@60001,,
+77012,@50015,@60004,,
+77013,@50016,@60013,,
+77014,@50017,@60013,,
+77015,@50018,@60005,,
+77016,@50019,@60016,,
+77017,@50020,@60001,,
+77018,@50021,@60005,,
+77019,@50022,@60005,,
+77020,@50023,@60001,,
+77021,@50024,@60001,,
+77022,@50025,@60004,,
+77023,@50026,@60001,,
+77024,@50028,@60001,,
+77025,@50029,@60025,,
+77026,@50030,@60001,,
+77027,@11243,@60025,,
+77028,@50032,@60025,,
+77029,@50033,@60005,,
+77030,@50034,@60001,,
+77031,@50035,@60004,,
+77032,@50036,@60001,,
+77033,@50037,@60001,,
+77034,@50038,@60001,,
+77035,@50040,@60016,,
+77036,@50042,@60001,,
+77037,@50043,@60001,,
+77038,@50044,@60005,,
+77039,@50046,@60016,,
+77040,@50047,@60004,,
+77041,@50048,@60005,,
+77042,@50049,@60016,,
+77043,@50050,@60025,,
+77044,@50051,@60016,,
+77045,@50053,@60004,,
+77046,@50054,@60004,,
+77047,@50055,@60005,,
+77048,@50056,@60013,,
+77049,@50057,@60005,,
+77050,@50058,@60016,,
+77051,@50060,@60001,,
+77052,@50061,@60004,,
+77053,@50062,@60025,,
+77054,@50063,@60001,,
+77055,@50065,@60001,,
+77056,@50066,@60056,,
+77057,@50067,@60001,,
+77058,@50068,@60001,,
+77059,@50069,@60001,,
+77060,@50070,@60001,,
+77061,@50071,@60001,,
+77062,@50072,@60013,,
+77063,@50074,@60001,,
+77064,@50075,@60004,,
+77065,@50076,@60016,,
+77066,@50077,@60013,,
+77067,@50078,@60001,,
+77068,@50079,@60005,,
+77069,@50080,@60001,,
+77070,@50081,@60016,,
+77071,@50082,@60004,,
+77072,@50083,@60001,,
+77073,@50085,@60004,,
+77074,@50087,@60001,,
+77075,@50089,@60001,,
+77076,@50090,@60025,,
+77077,@50091,@60025,,
+77078,@50092,@60001,,
+77079,@50093,@60001,,
+77080,@50097,@60001,,
+77081,@50098,@60013,,
+77082,@50099,@60001,,
+77083,@50101,@60001,,
+77084,@50102,@60001,,
+77085,Field Raid - Zaken 1,Deals damage to nearby enemies.,,
+77086,Field Raid - Zaken 2,Fires a penetrating sword aura at a random distant enemy.,,
+77087,Field Raid - Zaken 3,Deals damage to nearby enemies and recovers HP.,,
+80001,Defense Tower Basic Attack,,,
+80002,Trap Basic Attack,,,
+80003,Trap Attack 1,,,
+80004,Trap Attack 2,,,
+80005,Trap Attack 3,,,
+80006,Trap Attack 4,,,
+80007,Trap Attack 5,,,
+80008,Fortress Defense Tower Basic Attack,,,
+80009,Siege Camp Basic Attack,,,
+90002,NPC Basic Attack,,,
+90003,CrakiaKarcus Attack,,,
+100001,Clan Health,Increases Max HP for 1 hour.,Max HP + {1-1%}%,
+100002,Clan Soul,Increases Max MP for 1 hour.,Max MP + {1-1%}%,
+100003,Clan Shield,Increases Def. for 1 hour.,Def. + {1-1%}%,
+100004,Clan Might,Increases Atk. for 1 hour.,Atk. + {1-1%}%,
+100005,Clan Guidance,Increases Acc. for 1 hour.,Acc. + {1-1%}%,
+100006,Clan Evade,Increases Evasion for 1 hour.,Evasion + {1-1%}%,
+100007,Clan Movement,Increases Speed for 1 hour.,Speed + {1-1%}%,
+100008,Clan Deadly Strike,Increases Crit. Dmg. for 1 hour.,Crit. Damage + {1-1%}%,
+100009,Clan Crit. Rate,Increases Crit. for 1 hour.,Crit. Rate + {1-1%}%,
+500001,Eldru's Rage,"Increases Atk., Def., Speed, and Atk. Spd. for 1 hour.",Attack Defense Speed Atk. Spd.,
+900001,Tower of Insolence Boss Display,Hh,,
+905602,Morale Increase Effect,Prolonged Morale Increase Potion effect.,,
+905604,Ice Storm Effect,Prolonged Ice Storm Potion effect.,,
+905607,HP Regen. Amplification Potion,Prolonged HP Regen. Amplification Potion effect.,,
+905612,Anti-Magic Effect,Prolonged Anti-Magic Potion effect.,,
+906002,Honorable Battlefield,HP Recovery,,
+301,Blessing of Robust Ratel,Speed Increase,,
+302,@301,Extraction Speed Increase,,
+303,@301,Extraction Amount Increase,,
+304,Durable Ratel,A docile monster that doesn’t attack. Defeating it will provide a buff.,,
+305,Garden Sentry,The first skill the Garden Sentry uses when it spawns.,,
+306,Garden Sentry Effect,The effect of the skill that the Garden Sentry uses regularly.,,
+401,Spring of Recovery,The first skill the Spring of Recovery uses when it spawns.,,
+402,Spring of Recovery Buff,The skill that the Spring of Recovery uses repeatedly.,,
+451,Durable Castle Siege Gatehouse,The Gatehouse always only takes 1 damage during Castle Siege.,,
+601,Feldheim Self-Stun,Stunned momentarily upon being hit.,Stun,
+602,Stun for Field Boss Display,Temporary Stun,,
+701,Firework Effect Animation Data 1 ,Firework 1,,
+702,Firework Effect Animation Data 2,Firework 2,,
+703,Firework Effect Animation Data 3,Firework 3,,
+704,Firework Effect Animation Data 4,Firework 4,,
+150001,BP_Aimel_Attack_Sword,,,
+150002,@150001,,,
+150003,@150001,,,
+150101,BP_ArmorMerchant_01_Attack_Spear,,,
+150102,@150101,,,
+150103,@150101,,,
+150104,@150101,,,
+150201,BP_CityGuard_01_Attack_Spear,,,
+150202,@150201,,,
+150203,@150201,,,
+150301,BP_Fernel_Attack_DualSword,,,
+150302,@150301,,,
+150303,@150301,,,
+150401,BP_Hardin_Attack_NoWeapon,,,
+150402,@150401,,,
+150501,BP_HardinsFollower_Attack_Staff,,,
+150502,@150501,,,
+150503,@150501,,,
+150601,BP_ItemMerchant_01_Attack_Spear,,,
+150602,@150601,,,
+150603,@150601,,,
+150701,BP_Magician_Attack_Staff,,,
+150702,@150701,,,
+150703,@150701,,,
+150801,BP_Noble_02_Attack_Staff,,,
+150802,@150801,,,
+150803,@150801,,,
+150901,BP_Noble_03_Attack_Sword,,,
+150902,@150901,,,
+150903,@150901,,,
+151001,BP_Officer_Attack_Sword,,,
+151002,@151001,,,
+151003,@151001,,,
+151101,BP_Officer_02_Attack_Spear,,,
+151102,@151101,,,
+151103,@151101,,,
+151201,BP_Resident_02_Attack_Staff,,,
+151202,@151201,,,
+151203,@151201,,,
+151204,BP_Resident_02_Attack_Sword,,,
+151205,@151204,,,
+151206,@151204,,,
+151301,BP_Resident_03_Attack_NoWeapon,,,
+151302,@151301,,,
+151303,BP_Resident_03_Attack_Sword,,,
+151304,@151303,,,
+151305,@151303,,,
+151306,BP_Resident_03_Attack_Bow,,,
+151307,@151306,,,
+151308,BP_Resident_03_Attack_DualSword,,,
+151309,@151308,,,
+151310,@151308,,,
+151401,BP_Resident_04_Attack_Sword,,,
+151402,@151401,,,
+151403,@151401,,,
+151404,BP_Resident_04_Attack_Bow,,,
+151405,@151404,,,
+151501,BP_Resident_05_Attack_Dagger,,,
+151502,@151501,,,
+151503,@151501,,,
+151601,BP_SmeltingMerchant_Attack_Sword,,,
+151602,@151601,,,
+151603,@151601,,,
+151604,BP_SmeltingMerchant_Attack_Bow,,,
+151605,@151604,,,
+151701,BP_student_Attack_Dagger,,,
+151702,@151701,,,
+151703,@151701,,,
+151704,BP_student_Attack_Staff,,,
+151705,@151704,,,
+151706,@151704,,,
+151801,BP_Teleporter_01_Attack_Staff,,,
+151802,@151801,,,
+151803,@151801,,,
+151901,BP_TemplePriest_01_Attack_NoWeapon,,,
+151902,@151901,,,
+152001,BP_WarehouseKeeper_Attack_Sword,,,
+152002,@152001,,,
+152003,@152001,,,
+152101,BP_CatTheCat_Attack,,,
+152102,DarkAssociation,,,
+152103,UnKnown_Male,,,
+153001,BP_Maid_01_Attack_DualSword,,,
+153002,@153001,,,
+153003,@153001,,,
+200001,Monster Dmg. Decrease Passive,,,
+210001,Monster Damage Dmg. Increase Passive,,,
+8010441,Melee Damage Aura,,,
+8010461,Party of Fury,,,
+801047,Overpower,,,
+801048,@801047,,,
+93506,Berserk Bugbear,"Large Atk. and Def. Increase, Small Speed and Atk. Spd. Increase",,
+94409,Berserk Demon Contractor,@93506,,
+94407,Ketra Orc Seeker (For Summoning Circle),@50041,,
+805000,Party Dungeon Boss Floor Skill (Circle),Deals damage as the circle size increases.,,
+805001,Party Dungeon Boss Floor Skill (Fan),Deals damage as the fan size increases.,,
+805002,Party Dungeon Boss Floor Skill (Obb),Deals damage as the frontal range increases.,,
+805003,Party Dungeon Boss Floor Skill (Torus),Deals damage as the torus’s min and max increase simultaneously.,,
+805004,Blood Blade for testing,@72031,,@72031
+170001,Leonard,Basic Attack,,
+411001,Trisha,@170001,,
+411002,@170001,@170001,,
+411005,Cut Off,"Instant damage over fan-shaped area
+Applies [Bleed]",,
+411006,Tepes’s Spear: Sign,"Instant damage over circle + torus-shaped area
+Applies [Bleed]",,
+411007,Tepes’s Spear: Follow-up,"Instant damage over torus-shaped area
+Applies [Bleed]",,
+411008,Blood Explosion,"Affects enemies with [Bleed].
+Immediate damage to enemies with [Bleed].
+Removes [Bleed] from afflicted enemies.",,
+411009,Summon Blood Clot,Summons a self-destructing monster on enemies with [Bleed].,,
+411010,Anemia,"Applies [Stun] to self.
+Increases Dmg. taken.",,
+411011,Forceful HP Drain,Applies [HP Drain] on enemies.,,
+411012,Self-destruct,@60163,,
+411015,HP Transfer,Restores Trisha’s HP and removes Debuffs,,
+411016,Invisibility,Disappears after heal,,
+411017,Vampire Bat Horde,"Instant linear damage.
+Remove [Vampirize]",,
+411018,Blood Change,"Instant damage over fan-shaped area.
+Applies [Vampirize]",,
+411019,Sanguine Cross: 1,"Instant damage over cross-shaped area.
+Applies [Vampirize]",,
+411020,Sanguine Cross: 2,@411019,,
+411021,Recharge Blood,"Disappears.
+Summons 15 Vampire Bats.",,
+411022,Unite,Appears,,
+411025,Sticky Leech Essence,Create a ground object in any region.,,
+411028,Vampiric Transformation,Remove [HP Drain] effect.,,Transform using vampire blood and be freed from HP Drain.
+411036,Enrage Tier 1,Berserk if only 1 bat is living,,
+411037,Enrage Tier 2,Berserk if only 2 bats are living,,
+411038,Enrage Tier 3,Berserk if only 3 bats are living,,
+411042,Tepes’s Spear: Sign - Connection,@411006,,
+412005,@411005,@411005,,
+412006,@411006,@411006,,
+412007,@411007,@411007,,
+412008,@411008,@411008,,
+412009,@411009,@411009,,
+412010,@411010,@411010,,
+412011,@411011,@411011,,
+412012,@411012,@60163,,
+412015,@411015,@411015,,
+412016,@411016,@411016,,
+412017,@411017,@411017,,
+412018,@411018,@411018,,
+412019,@411019,@411019,,
+412020,@411020,@411019,,
+412021,@411021,@411021,,
+412022,@411022,@411022,,
+412025,@411025,@411025,,
+412028,@411028,@411028,,@411028
+412036,@411036,@411036,,
+412037,@411037,@411037,,
+412038,@411038,@411038,,
+412042,@411042,@411006,,
+413002,Enraged Blood,Gives allies Atk. and Atk. Spd. buffs,,
+413003,Overkill,Frontal target damage and Knock Down,,
+413005,@411005,@411005,,
+413006,@411006,@411006,,
+413007,@411007,@411007,,
+413008,@411008,@411008,,
+413009,@411009,@411009,,
+413010,@411010,@411010,,
+413011,@411011,@411011,,
+413012,@411012,Self-destruct + Splash + Dmg. + Floor,,
+413013,Toxic Nails,"Instant damage over fan-shaped area
+Applies [Corrosive Acid]",,
+413015,@411015,@411015,,
+413016,@411016,@411016,,
+413017,@411017,@411017,,
+413018,@411018,@411018,,
+413019,@411019,@411019,,
+413020,@411020,@411019,,
+413021,@411021,@411021,,
+413022,@411022,@411022,,
+413023,Torrent of Blood: Wave,Create ground object around self.,,
+413024,Torrent of Blood: Explosion,Torus-shaped explosion around self.,,
+413025,@411025,@411025,,
+413027,Blood Clot Glow,Indicate time remaining for blood clot explosion.,,
+413028,@411028,@411028,,@411028
+413029,Remove Trisha Debuff,Remove 1 stack of Trisha debuff upon death.,,
+413030,Phantom of Zaken: Invisibility,Phantom of Zaken summons Zaken,,
+413032,Blood Clot Basic Attack,,,
+413034,Leech Supersaturation: Color Buff,Leech Color Buff,,
+413035,Phantom of Zaken: Invincible,Invincibility Buff on Phantom of Zaken,,
+413036,@411036,@411036,,
+413037,@411037,@411037,,
+413038,@411038,@411038,,
+413039,Smoldering Blood,A temporary object is created on the ground upon self-destruct,,
+413040,Zaken Invisibility,Invisible after completion of battle,,
+413041,Blood Hell: Anemia,Self HP 5% Decrease,,
+413042,@411042,@411006,,
+414002,@413002,@413002,,
+414003,@413003,@413003,,
+414005,@411005,@411005,,
+414006,@411006,@411006,,
+414007,@411007,@411007,,
+414008,@411008,@411008,,
+414009,@411009,@411009,,
+414010,@411010,@411010,,
+414011,@411011,@411011,,
+414012,@411012,@413012,,
+414013,@413013,@413013,,
+414015,@411015,@411015,,
+414016,@411016,@411016,,
+414017,@411017,@411017,,
+414018,@411018,@411018,,
+414019,@411019,@411019,,
+414020,@411020,@411019,,
+414021,@411021,@411021,,
+414022,@411022,@411022,,
+414023,@413023,@413023,,
+414024,@413024,@413024,,
+414025,@411025,@411025,,
+414028,@411028,@411028,,@411028
+414036,@411036,@411036,,
+414037,@411037,@411037,,
+414038,@411038,@411038,,
+414039,@413039,@413039,,
+414041,@413041,@413041,,
+414042,@411042,@411006,,
+414043,Turner Invisibility Buff,,,
+414044,Zaken Basic Attack for the Countess,Zaken one-shots a character,,
+414045,Vampiric Resonance,Berserk upon appearance of Zaken,,
+401001,Royal Guard Normal Attack,@74118,,
+401002,Royal Guard Captain Normal Attack,@74118,,
+401003,Tactical Slash,Instant fan-shaped damage,,
+401004,Guard Normal Attack,@74118,,
+401005,Golem Normal Attack,@74118,,
+401006,Rock Smash,"Instant damage on 1 target
+Chance to [Stun]",,
+401007,Archer Normal Attack,Ranged Basic Attack,,
+401008,Bomb Toss,AoE Damage on a random location within range,,
+401009,Guard Rage,Rage Buff additional Skills,,
+401010,Orc Shaman Soul Animation,Soul Animation Skill,,
+401011,Nebulite Crystal Death Skill,Skill that kills target after a period of time,,
+401012,Ramog Berserk Nebulite Crystal,Gives Ramog continuous berserk,,
+401016,@411012,"Approaches a target and Self-destructs
+Deals damage in a circular area",,
+401013,Self-destruct Timer,Timer Display Buff Linking Skill,,
+401014,Self-destruct 1 sec,Time Check Skill,,
+401015,Self-destruct 3 sec,@401014,,
+401019,Normal Attack,@74118,,
+401024,Fire Zone,Contact target damage,,Fire Zone created.
+401025,@401019,@74118,,
+403002,Guard Shot,Linear damage,,
+401101,Land Smash,Fan-shaped damage,,Boranta uses Land Smash.
+401103,Target Identified,"Single target instant damage
+Gives [Target] effect",,Boranta selects a target.
+401104,Axe Throw,"Linear damage
+Uses [Target] on target
+Gives [Ember] effect on 1 random enemy (Easy)",,Boranta throws an axe at the selected target.
+401105,@401104,"Linear damage
+Uses [Target] on target
+Gives [Ember] effect on 1 random enemy (Normal)",,@401104
+401106,@401104,"Linear damage
+Uses [Target] on target
+Gives [Ember] effect on 1 random enemy (Hard)",,@401104
+401107,@401104,@401106,,@401104
+401108,@401104,"Linear damage
+Uses [Target] on target
+Gives [Ember] effect on 1 random enemy (Very Hard)",,@401104
+401113,@401104,@401108,,@401104
+401102,Ember Explosion 1,GO to Small circular area,,
+401109,Ember Explosion 2,@401102,,
+401110,Boranta Minion Summon Tier 1 Shout,Basic attack accompanies Shouting prior to Summoning,,
+401111,Boranta Minion Summon Tier 2 Shout,@401110,,
+401112,Boranta Minion Summon Tier 3 Shout,@401110,,
+401201,Paagrio Quest Animation Death,Quest Animation for Skill,,The Magic’s power purifies Paagrio’s Embers!
+401202,Lunatic Blade,,,
+401203,Downfall,Downfall for continuous use,,
+401204,Move to Center (Explosion Standby),,,Ramog moves to Center
+401205,Explosion Standby,,,
+401207,Move to Center (Downfall),,,@401204
+401210,Paagrio’s Great Explosion,"If it touches Ramog, far spreading AoE damage will be dealt
+Additional damage dealt to targets with [Downfall]",,Paagrio’s Embers Explode!
+401216,Move to Center (Berserk),,,Ramog moves to gather strength.
+401217,Berserk Standby,Standby for becoming Berserk after moving to the center,,Paagrio’s energy is emitting from Ramog!
+401218,Self Stun,Become Stunned after destroying the Nebulite Crystal,,Strength is escaping Ramog.
+401211,Berserk Ramog,Berserk when HP falls below 10%,,
+401212,@401203,First Activated Forward-facing Downfall: Attack delay is long,,
+401213,Downfall: Counter,First Activated Backward-facing Downfall: Attack delay is long,,
+401214,Light Downfall,First Activated Forward-returning Downfall: Attack delay is long,,
+401215,Light Downfall: Counter,First Activated Backward-returning Downfall: Attack delay is long,,
+990001,Lv. 1 Cloak Effect - Normal Skill Reset,,,
+990002,Lv. 2 Cloak Effect - Normal Skill Reset,,,
+990003,Lv. 3 Cloak Effect - Normal Skill Reset,,,
+990004,Lv. 4 Cloak Effect - Normal Skill Reset,,,
+990005,Lv. 5 Cloak Effect - Normal Skill Reset,,,
+990006,Lv. 6 Cloak Effect - Normal Skill Reset,,,
+990007,Lv. 7 Cloak Effect - Normal Skill Reset,,,
+990008,Lv. 8 Cloak Effect - Normal Skill Reset,,,
+990009,Lv. 9 Cloak Effect - Normal Skill Reset,,,
+990010,Lv. 10 Cloak Effect - Normal Skill Reset,,,
+990011,Lv. 11 Cloak Effect - Normal Skill Reset,,,
+990012,Lv. 12 Cloak Effect - Normal Skill Reset,,,
+990013,Lv. 13 Cloak Effect - Normal Skill Reset,,,
+990014,Lv. 14 Cloak Effect - Normal Skill Reset,,,
+990015,Lv. 15 Cloak Effect - Normal Skill Reset,,,
+990016,Lv. 16 Cloak Effect - Normal Skill Reset,,,
+990017,Lv. 17 Cloak Effect - Normal Skill Reset,,,
+990018,Lv. 18 Cloak Effect - Normal Skill Reset,,,
+990019,Lv. 19 Cloak Effect - Normal Skill Reset,,,
+990020,Lv. 20 Cloak Effect - Normal Skill Reset,,,
+990021,Lv. 21 Cloak Effect - Normal Skill Reset,,,
+990022,Lv. 22 Cloak Effect - Normal Skill Reset,,,
+990023,Lv. 23 Cloak Effect - Normal Skill Reset,,,
+990024,Lv. 24 Cloak Effect - Normal Skill Reset,,,
+990025,Lv. 25 Cloak Effect - Normal Skill Reset,,,
+990026,Lv. 26 Cloak Effect - Normal Skill Reset,,,
+990027,Lv. 27 Cloak Effect - Normal Skill Reset,,,
+990028,Lv. 28 Cloak Effect - Normal Skill Reset,,,
+990029,Lv. 29 Cloak Effect - Normal Skill Reset,,,
+990030,Lv. 30 Cloak Effect - Normal Skill Reset,,,
+990101,Lv. 1 Cloak Effect - Undecided,,,
+990102,Lv. 2 Cloak Effect - Undecided,,,
+990103,Lv. 3 Cloak Effect - Undecided,,,
+990104,Lv. 4 Cloak Effect - Undecided,,,
+990105,Lv. 5 Cloak Effect - Undecided,,,
+990106,Lv. 6 Cloak Effect - Undecided,,,
+990107,Lv. 7 Cloak Effect - Undecided,,,
+990108,Lv. 8 Cloak Effect - Undecided,,,
+990109,Lv. 9 Cloak Effect - Undecided,,,
+990110,Lv. 10 Cloak Effect - Undecided,,,
+990111,Lv. 11 Cloak Effect - Undecided,,,
+990112,Lv. 12 Cloak Effect - Undecided,,,
+990113,Lv. 13 Cloak Effect - Undecided,,,
+990114,Lv. 14 Cloak Effect - Undecided,,,
+990115,Lv. 15 Cloak Effect - Undecided,,,
+990116,Lv. 16 Cloak Effect - Undecided,,,
+990117,Lv. 17 Cloak Effect - Undecided,,,
+990118,Lv. 18 Cloak Effect - Undecided,,,
+990119,Lv. 19 Cloak Effect - Undecided,,,
+990120,Lv. 20 Cloak Effect - Undecided,,,
+990121,Lv. 21 Cloak Effect - Undecided,,,
+990122,Lv. 22 Cloak Effect - Undecided,,,
+990123,Lv. 23 Cloak Effect - Undecided,,,
+990124,Lv. 24 Cloak Effect - Undecided,,,
+990125,Lv. 25 Cloak Effect - Undecided,,,
+990126,Lv. 26 Cloak Effect - Undecided,,,
+990127,Lv. 27 Cloak Effect - Undecided,,,
+990128,Lv. 28 Cloak Effect - Undecided,,,
+990129,Lv. 29 Cloak Effect - Undecided,,,
+990130,Lv. 30 Cloak Effect - Undecided,,,
+990201,Lv. 1 Cloak Effect - PVE Attack Disable Barrier,,,
+990202,Lv. 2 Cloak Effect - PVE Attack Disable Barrier,,,
+990203,Lv. 3 Cloak Effect - PVE Attack Disable Barrier,,,
+990204,Lv. 4 Cloak Effect - PVE Attack Disable Barrier,,,
+990205,Lv. 5 Cloak Effect - PVE Attack Disable Barrier,,,
+990206,Lv. 6 Cloak Effect - PVE Attack Disable Barrier,,,
+990207,Lv. 7 Cloak Effect - PVE Attack Disable Barrier,,,
+990208,Lv. 8 Cloak Effect - PVE Attack Disable Barrier,,,
+990209,Lv. 9 Cloak Effect - PVE Attack Disable Barrier,,,
+990210,Lv. 10 Cloak Effect - PVE Attack Disable Barrier,,,
+990211,Lv. 11 Cloak Effect - PVE Attack Disable Barrier,,,
+990212,Lv. 12 Cloak Effect - PVE Attack Disable Barrier,,,
+990213,Lv. 13 Cloak Effect - PVE Attack Disable Barrier,,,
+990214,Lv. 14 Cloak Effect - PVE Attack Disable Barrier,,,
+990215,Lv. 15 Cloak Effect - PVE Attack Disable Barrier,,,
+990216,Lv. 16 Cloak Effect - PVE Attack Disable Barrier,,,
+990217,Lv. 17 Cloak Effect - PVE Attack Disable Barrier,,,
+990218,Lv. 18 Cloak Effect - PVE Attack Disable Barrier,,,
+990219,Lv. 19 Cloak Effect - PVE Attack Disable Barrier,,,
+990220,Lv. 20 Cloak Effect - PVE Attack Disable Barrier,,,
+990221,Lv. 21 Cloak Effect - PVE Attack Disable Barrier,,,
+990222,Lv. 22 Cloak Effect - PVE Attack Disable Barrier,,,
+990223,Lv. 23 Cloak Effect - PVE Attack Disable Barrier,,,
+990224,Lv. 24 Cloak Effect - PVE Attack Disable Barrier,,,
+990225,Lv. 25 Cloak Effect - PVE Attack Disable Barrier,,,
+990226,Lv. 26 Cloak Effect - PVE Attack Disable Barrier,,,
+990227,Lv. 27 Cloak Effect - PVE Attack Disable Barrier,,,
+990228,Lv. 28 Cloak Effect - PVE Attack Disable Barrier,,,
+990229,Lv. 29 Cloak Effect - PVE Attack Disable Barrier,,,
+990230,Lv. 30 Cloak Effect - PVE Attack Disable Barrier,,,
+990301,Lv. 1 Cloak Effect - PVP Rare Skill Barrier,,,
+990302,Lv. 2 Cloak Effect - PVP Rare Skill Barrier,,,
+990303,Lv. 3 Cloak Effect - PVP Rare Skill Barrier,,,
+990304,Lv. 4 Cloak Effect - PVP Rare Skill Barrier,,,
+990305,Lv. 5 Cloak Effect - PVP Rare Skill Barrier,,,
+990306,Lv. 6 Cloak Effect - PVP Rare Skill Barrier,,,
+990307,Lv. 7 Cloak Effect - PVP Rare Skill Barrier,,,
+990308,Lv. 8 Cloak Effect - PVP Rare Skill Barrier,,,
+990309,Lv. 9 Cloak Effect - PVP Rare Skill Barrier,,,
+990310,Lv. 10 Cloak Effect - PVP Rare Skill Barrier,,,
+990311,Lv. 11 Cloak Effect - PVP Rare Skill Barrier,,,
+990312,Lv. 12 Cloak Effect - PVP Rare Skill Barrier,,,
+990313,Lv. 13 Cloak Effect - PVP Rare Skill Barrier,,,
+990314,Lv. 14 Cloak Effect - PVP Rare Skill Barrier,,,
+990315,Lv. 15 Cloak Effect - PVP Rare Skill Barrier,,,
+990316,Lv. 16 Cloak Effect - PVP Rare Skill Barrier,,,
+990317,Lv. 17 Cloak Effect - PVP Rare Skill Barrier,,,
+990318,Lv. 18 Cloak Effect - PVP Rare Skill Barrier,,,
+990319,Lv. 19 Cloak Effect - PVP Rare Skill Barrier,,,
+990320,Lv. 20 Cloak Effect - PVP Rare Skill Barrier,,,
+990321,Lv. 21 Cloak Effect - PVP Rare Skill Barrier,,,
+990322,Lv. 22 Cloak Effect - PVP Rare Skill Barrier,,,
+990323,Lv. 23 Cloak Effect - PVP Rare Skill Barrier,,,
+990324,Lv. 24 Cloak Effect - PVP Rare Skill Barrier,,,
+990325,Lv. 25 Cloak Effect - PVP Rare Skill Barrier,,,
+990326,Lv. 26 Cloak Effect - PVP Rare Skill Barrier,,,
+990327,Lv. 27 Cloak Effect - PVP Rare Skill Barrier,,,
+990328,Lv. 28 Cloak Effect - PVP Rare Skill Barrier,,,
+990329,Lv. 29 Cloak Effect - PVP Rare Skill Barrier,,,
+990330,Lv. 30 Cloak Effect - PVP Rare Skill Barrier,,,
+500661,@50066,Event-use Core Summon Monster,,
+500291,@50029,@500661,,
+501911,@50191,@500661,,
+73020,@50073,@50001,,
+73021,Wave,,,
+73022,Invite,,,
+73023,@73022,,,
+73024,Return,,,
+73025,Walk Motion,Walk Motion,,
+73026,Life Drain,Life Drain,,
+73027,Move,Move,,
+73028,Hide,Hide,,
+73029,Move to First Boat,,,
+73030,Move to Second Boat,,,
+73031,Release - Main Body,,,
+73127,Release - Stage 1,,,
+73128,Release - Stage 2,,,
+73129,Release - Stage 3,,,
+73130,Release - Stage 4,,,
+73131,Release - Stage 5,,,
+73132,Phantom Suicide,Suicide,,
+73121,밤 1단계,,,
+73122,밤 2단계,,,
+73123,밤 3단계,,,
+73124,밤 4단계,,,
+73125,밤 5단계,,,
+73126,밤 6단계,,,
+73134,Fire Cannon (Animation),,,
+73135,Fire Cannon (Real),,,
+73136,자켄 해적단 전투원,,,
+73137,자켄 해적단 갑판원,,,
+73138,자켄 해적단 항해사,,,
+73139,자켄 해적단 선장,,,
+73140,자켄 해적단 전투원(장판),,,
+73141,정체 불명의 촉수 공격 01,,,
+73142,정체 불명의 촉수 공격 02,,,
+73143,정체 불명의 촉수 공격 03,,,
+73144,정체 불명의 촉수 공격 04,,,
+73145,정체 불명의 촉수 스폰 어택,,,
+73146,Mouse - Invisible,,,
+73147,Mouse - Return,,,

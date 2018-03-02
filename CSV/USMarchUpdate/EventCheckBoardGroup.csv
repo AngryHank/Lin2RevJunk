@@ -1,0 +1,2 @@
+﻿GroupID,MaxCellCount,Check_Repeat,KeyitemUID,NeedKeyItemAmount,AdenaforOpen,OpenLimittoAdena,MustOpenedCellforReset,MoneyTypeforReset,MoneyAmountforReset,AcquireContents1,AcquireContents2,AcquireContents3,AcquireContents4,AdditionalReward1_Condition,AdditionalReward1_item,AdditionalReward1_Amount,AdditionalReward2_Condition,AdditionalReward2_item,AdditionalReward2_Amount,AdditionalReward3_Condition,AdditionalReward3_item,AdditionalReward3_Amount,LimitAcquirebyGuildDungeonHelp
+10001,50,0,910261,1,30000,2,20,7,1500,42,44,54,0,50,919004,20,100,911024,1000,150,911021,3,3
