@@ -449,6 +449,12 @@ to update it automatically or you can do it by hand.
 Just open the following link, then press "File" -> "Make a Copy...":
 https://docs.google.com/spreadsheets/d/11qO8jxBhc2sD0bkjpHc56l2DgtR80C8W47WFV8XLFfo/edit?usp=sharing
 
+SEA Server:
+https://docs.google.com/spreadsheets/d/1X9wkcs71XNYQtk7wplsko9XDJUq73va8hggMeqOW7n4/edit?usp=sharing
+US Server March Update:
+https://docs.google.com/spreadsheets/d/1kfmV5pHdTaclbcwF9PC-MnFs4j7RWwg4zIrLwHuto0E/edit?usp=sharing
+
+
 ------------
 Party Sheet
 ------------
@@ -465,3 +471,5 @@ the party needs.
 Just open the following link, then press "File" -> "Make a Copy...":
 https://docs.google.com/spreadsheets/d/1IsH6ZlXpXBmxMHU30WfgfFNrmp0o4aHFwal6QUYQD7M/edit?usp=sharing
 
+US Server March Update:
+https://docs.google.com/spreadsheets/d/1rUsLL2M86AtGLtDStkKOv5pgwpw0DbOmU90eIBhDWFI/edit?usp=sharing
