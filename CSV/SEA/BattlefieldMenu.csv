@@ -1,0 +1,5 @@
+Id,NameKey,BattlefieldType,Description,BackgroundImage,ContentsLockKeyword
+1,2011,Pvp,CARTEL_DESC,UI_Image_Guild,PVP
+5,731000000773,FortressSiege,FORTRESS_DESC,UI_Image_Fortress,FORTRESS_SIEGE
+6,881000000007,FreeFortressSiege,FREE_FORTRESS_DESC,UI_Image_FreeSiege,FREE_FORTRESS_SIEGE
+7,731000000254,CastleSiege,CASTLESIEGE_DESC,UI_Image_CastleSiege,CASTLE_SIEGE

@@ -1,0 +1,6 @@
+Grade,FirePlace,AgitOpen,AgitExpel,AgitBuy,AgitManager,AgitCrystal,AgitPotion,JoinRequestOptionChange,Advertisement,NoticeChange,IntroductionChange,JoinRequestAcceptance,MemberGradeChange,Expulsion,Invitation,UseAdditionalBuff,Impeachment,FortressWarRegistration,CastleWarRegistration,Grant,SkillUpgrade,Alliance,EnemyGuild,EmblemChange,CastleSiegeAlarm,IconPath
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Icon_Guild_Membership_01
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Icon_Guild_Membership_02
+2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,Icon_Guild_Membership_03
+3,0,1,1,0,0,0,1,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,Icon_Guild_Membership_04
+4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,Icon_Guild_Membership_05

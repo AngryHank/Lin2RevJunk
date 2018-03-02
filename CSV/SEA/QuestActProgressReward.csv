@@ -1,0 +1,50 @@
+ActChapterId,RewardType,RewardParam,RewardCount
+6,Adena, ,10000
+11,FreeDiamond, ,10
+14,Item,910006,1
+18,FreeDiamond, ,20
+22,Adena, ,20000
+25,Item,910004,1
+28,FreeDiamond, ,20
+32,Adena, ,20000
+35,Item,910006,1
+38,FreeDiamond, ,30
+42,Adena, ,20000
+45,Item,400000,2
+48,FreeDiamond, ,30
+52,Adena, ,30000
+55,Item,910004,1
+58,FreeDiamond, ,40
+61,Adena, ,30000
+64,Item,910006,1
+67,FreeDiamond, ,50
+70,Adena, ,50000
+73,Item,490030,1
+76,FreeDiamond, ,60
+79,Adena, ,50000
+82,Item,400000,5
+84,FreeDiamond, ,70
+87,Adena, ,50000
+90,Item,900011,1
+93,FreeDiamond, ,80
+96,Adena, ,50000
+99,Item,910006,1
+103,FreeDiamond, ,90
+107,Adena, ,50000
+111,Item,490030,2
+114,FreeDiamond, ,100
+117,Adena, ,50000
+120,Item,400000,5
+123,FreeDiamond, ,110
+127,Adena, ,50000
+130,Item,900011,1
+133,FreeDiamond, ,120
+136,Adena, ,70000
+140,Item,911023,1
+143,FreeDiamond, ,130
+146,Adena, ,70000
+149,Item,400000,5
+153,FreeDiamond, ,140
+157,Adena, ,70000
+161,Item,911013,1
+164,FreeDiamond, ,150

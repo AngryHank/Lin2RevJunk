@@ -1,0 +1,4 @@
+﻿ID,WorIdinfoId,ResultType,FreeFortressReward1,FreeFortressRewardInfoId1,FreeFortressRewardCount1,FreeFortressReward2,FreeFortressRewardInfoId2,FreeFortressRewardCount2,FreeFortressReward3,FreeFortressRewardInfoId3,FreeFortressRewardCount3,FreeFortressReward4,FreeFortressRewardInfoId4,FreeFortressRewardCount4
+1,16999,Win,Item,10919080,2,Item,919081,5,,,,,,
+2,16999,Draw,Item,10919080,1,Item,919081,2,,,,,,
+3,16999,Lose,Item,10919080,1,Item,919081,2,,,,,,

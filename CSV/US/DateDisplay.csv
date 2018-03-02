@@ -1,0 +1,11 @@
+Key,DateDisplay,Month1,Month2,Month3,Month4,Month5,Month6,Month7,Month8,Month9,Month10,Month11,Month12,TimeDisplay,UseHourPeriods,AM,PM
+ko,[YEAR]년 [MONTH]월 [DATE]일,1,2,3,4,5,6,7,8,9,10,11,12,[MER] [HOUR]시 [MIN]분,1,오전,오후
+en,"[MONTH] [DATE], [YEAR]",Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,[HOUR]:[MIN] [MER],1,AM,PM
+de,[DATE]. [MONTH] [YEAR],Jan.,Feb.,März,Apr.,Mai,Juni,Juli,Aug.,Sept.,Okt.,Nov.,Dez.,[HOUR]:[MIN] Uhr,0,,
+es,[DATE] de [MONTH] de [YEAR],Ene.,Feb.,Mar,Abr,Mayo,Jun,Jul,Ago,Sep,Oct,Nov,Dic,a  las [HOUR]:[MIN],0,,
+it,[DATE] [MONTH] [YEAR],Gen.,Feb.,Mar.,Apr.,maggio,Giu.,Lug.,Ago,Set.,Ott.,Nov.,Dic.,alle [HOUR].[MIN],0,,
+pt,[DATE] de [MONTH] de [YEAR],Jan,Feb,Mar,Abr,Maio,Jun,Jul,Ago,Set,Out,Nov,Dez,às [HOUR]:[MIN],0,,
+fr,[DATE] [MONTH] [YEAR],Janv.,Févr.,Mars,Avr.,Mai,Juin,Juill.,Août,Sept.,Oct.,Nov.,Déc.,à [HOUR]h[MIN],0,,
+zh-CN,[YEAR]年 [MONTH]月 [DATE]日,1,2,3,4,5,6,7,8,9,10,11,12,[MER] [HOUR]点[MIN]分,1,上午,晚上
+ru,[DATE] [MONTH] [YEAR],Янв,Фев,Мрт,Апр,может,Июн,Июл,Авг,Сен,Окт,Нбр,Дек,[HOUR]:[MIN],0,,
+tr,[DATE] [MONTH] [YEAR],Oca,Şub,Mar,Nis,Mayıs,Haz,Tem,Ağu,Eyl,Eki,Kas,Ara,[HOUR]:[MIN],0,,

@@ -1,0 +1,679 @@
+Id,Name,EffectTypeName,Desc
+1001,Common Knock Down,Knock Down,
+1002,@1001,@1001,Last Hit of Basic Attack
+1003,@1001,@1001,
+1004,Common Invincibility,Invincible,There is no damage taken.
+1005,Revive Protection Buff,@1004,There is no damage taken. Attacking an enemy will dispel the Invincibility buff.
+1011,Common Stun,Stun,Stun
+10111,Rush Impact: Knock Down,@1001,
+10122,Power Thrust: Slow,Slow,Speed -{1%}%
+11211,Slam,Aggro Gain Increase,Aggro Gain +50%
+112124,Vengeance,Target Locked (PC),Forced to Attack
+112125,@112124,Atk. Decrease,Atk. -{1}
+112126,@112124,Target Locked (NPC),
+11213,Majesty,"Majesty: Aggro level Amplification, P. Def./M. Def. Amplification, Evasion Decrease","Def. +{2%}%, Aggro of all Attacks +{1%}%, Damage Reflect: {1%}%"
+11221,Judgment,Defense Decrease,
+11222,Thunder Storm,Stun,@1011
+112231,Wide Sweep,"Multi-hit: Simultaneous Hit Amplification, Atk. Spd. Increase","Enemies Hit at Once +{1}, Atk. Spd. +{2%}%"
+11231,Sand Cloud,Blind,Acc. Rate -{1%}%
+11232,Back Stab: Stun,@11222,@1011
+112331,Haste,Haste: Atk. Spd. Amplification,Atk. Spd. +{1%}%
+112332,@112331,Haste: Evasion Amplification,Evasion +{1%}%
+11242,Arrow Rain,P. Atk. Decrease,Atk. Decrease
+11243,Snipe,"Snipe: Attack Range, Atk., Acc. Increase, Immobility",Atk.: {2%}%. Acc. +{3}. Increases Attack Range. Decreases Speed.
+11244,Hawkeye,"Hawkeye: Critical Increase, Def. Decrease",Crit. Rate +{1} and Damage +{2%}%
+11251,Molten Bowl,Damage over Time,Damage over Time
+112531,Boost Mana,Boost Mana: Max MP Amplification,"MP Use +{1%}%, Skill Damage +{2%}%"
+11261,Divine Punishment: Stun,@1001,
+11262,Restoration,HoT,Heal over Time
+12211,Tribunal,Target Locked,Aggro Gain +30%
+12212,Eva's Grace,Atk. Spd. Decrease,Decreases HP Regen. by 50%.
+122131,Aegis Stance,Aegis Stance: Temporary Damage Immunity,Damage Immunity
+122132,@122131,Aegis Stance: Speed Increase,Speed +{1%}%
+12221,Sonic Blaster,Sonic Blaster: Speed Decrease,Speed -{1%}%
+122231,Rhythm of Combat,"Rhythm of Combat: Atk., Def. Increase","Party Members’ Atk. +{1}, Def. +{3}"
+122241,Song of Hunter,Song of Hunter: Party Crit. Rate,Party Members’ Crit. Rate +{1%}%
+12231,Triple Splinter,Speed Decrease,"Def. -{1%}%, Atk. Spd. -{3%}%, and Speed -{4%}%."
+12232,Blade Hurricane,@1011,@1011
+12233,Plains Walk,"Plains Walk: Atk. Spd., Speed Amplification, HP Absorption Rate",Atk. Spd: {1%}%. Speed +{2%}%. HP Drain Rate: {3%}%
+12241,Lethal Shot,Crit. Rate Increase,
+12242,Double Wide Shot,Double Wide Shot: Def. Decrease,P. Def. -{1%}%
+122431,Mind’s Eye,Mind’s Eye: Large Crit. Rate Increase,Crit. Rate +{1}
+122441,Double Quick Step,"Double Quick Step: Large Speed Increase, Small Atk. Spd. Increase","Speed +{1%}%, Atk. Spd. +{2%}%"
+12251,Ice Spear: Freeze,@11222,
+12252,Blizzard,@10122,@10122
+122521,@12252,@1011,@1011
+122614,Nightmare,@10122,Speed -10%
+122615,Holy Fire,Dmg. Taken Increase,Damage Taken +{1%}%
+12263,Major Heal,Heal,
+122631,Mental Refresh,Mental Refresh: Party Cooldown Decrease,Party Members’ Skill Cooldown -{1#} sec
+12264,Follow Defense,"Defensive Party Buff, P. and M.",Party Members’ Def. +{1%}%
+13211,Life Leech,Def. Increase,Def. -{1%}%
+132125,Chain Hydra,@11222,@1011
+132126,@132125,Immune to Pull and Provoke,Aggro Focus Effect
+13213,Ultimate Defense,"Ultimate Defense: Large P. Def. & M. Def. Increase, Immobility",Def.: {1%}% + {3}. Decreases enemies’ Speed.
+132132,@13213,Ultimate Defense: Slows Enemy,Speed Decrease
+13222,Hurricane Storm,@10122,@10122
+132231,Dance of the Warrior,Dance of Warrior: Party P. Atk. Increase,Party Members’ P. Atk +{1}
+132241,Dance of Fury,Dance of Fury: Party Atk. Spd. Increase,Party Members’ Atk. Spd. +{1%}%
+13231,Sting,Bonus Bleed Dmg.,Dmg.: {[Use34Param]1-1%}% of Atk. +{1-1}
+13232,Razor Rain: Bonus Bleed Dmg.,@13231,
+132322,Razor Rain,@11222,@1011
+132331,Vicious Stance,Vicious Stance: Crit. Damage Amplification,Crit. Dmg. +{1%}%
+132332,Vicious Stance Critical Hit,Vicious Stance: 100% Crit. Rate,Crit. Rate Max Efficiency
+13242,Stun Shot,@11222,
+13243,Rapid Fire,"Rapidfire: Atk. Spd. Increase, Attack Range Decrease",Atk. Spd +{1%}% and Attack Range -{2%}m.
+13244,Fatal Counter,"Fatal Counter: Large Atk. Increase, Evasion Decrease","Atk. +{1}, Evasion -{2%}%"
+13251,Dark Breath,@10122,
+13252,Corruption,"Def. Decrease, Speed Decrease","Def. -{1%}%, Speed -{3%}%"
+132531,Fatal Wisdom,Fatal Wisdom: Large M. Atk. Increase,M. Atk +{1}
+132623,Bloody Rage,@10122,@10122
+132624,Bloody Rage: Dmg. Increase,Atk. Increase,
+132631,Empower,Empower: HP Use Restriction,Prevents HP from dropping below {1}
+132632,@132631,@132631,
+14211,Thrust,"Def. Decrease, Target Fixed",@13211
+14212,Earthquake,@1011,@1011
+14213,@14212,@112125,Atk. -20%
+14222,Leap Attack,@1001,
+14223,Angry Dwarf,"Angry Dwarf: Atk. Increase, Def. Decrease","Atk. +{1}, Def. -{2%}%"
+14231,Blade Rush,Crit. Resist Decrease,Crit. Resist -{1%}%
+14232,Sonic Star,@12231,@10122
+142321,@14232,Silence,Silence
+142331,Adena Search,Adena Search: Adena Gain Increase,Adena gained during battle +{1%}% and Speed +{2%}%.
+242331,@142331,Adena Search: Poison and Slow,Poison damage and Speed -{2%}%
+14241,Burst Shot,@11251,@13231
+14242,Evasion Shot,@12231,@10122
+142422,@14242,Range Increase,Range Increase
+14251,Earth Spike,@1001,
+142531,Infighter,Infighter: Party Basic Attack Amplification,Party Members’ Basic Attack Atk. +{1%}%
+14261,Divine Protection,Def. Increase,Party Members’ Def. +{1}
+14262,Divine Clap,@11222,
+142631,Great Vitality,Great Vitality: Party Max HP Increase,Party Members’ Max HP +{1}
+20211,Defense Aura,Def. Increase,@14261
+20221,Attack Aura,Atk. Increase,Party Members’ Atk. +{1}
+20231,Quick Step,Speed Increase,Party Members’ Speed +{1%}%
+20241,Guidance,Acc. Increase,Party Members’ Accuracy +{1}
+20251,Death Whisper,Crit. Dmg. Increase,Party Members’ Crit. Dmg. +{1%}%
+20261,Boost HP,Max HP Increase,@142631
+21221,Revenge,@20221,Atk. +{1}
+21231,Sneak,Skill Cooldown Decrease,Skill Cooldown -{1}
+212311,@21231,Sneak: Atk. Increase,@21221
+21241,Enhanced Slow,@10122,@10122
+21242,Enhanced Slow: Bleed Damage,@10122,Damage: {[Use34Param]1-1%}% of Atk.
+21251,Blaze,@11251,
+212512,@21251,@20221,@21221
+212611,Divine Link,@20211,Def. +{1%}% per Party Member
+212621,Mana Shield,Mana Shield,Depletes MP instead of HP when taking damage.
+22211,Elder Avoidance,Evasion Increase,Evasion Rate +{1%}%
+22221,Esprit,Crit. Rate Increase,Crit. Rate +{1%}%
+22231,Rapid Anger,"Atk. Spd., Speed Increase",Atk. Spd +{[StackMul]1%}% and Speed +{[StackMul]1%}%.
+22241,Swift,Crit. Dmg. Increase,Speed +{1%}%
+22261,@22211,@22211,Evasion +{1%}%
+23211,Enhanced Drain,HP Drain Effect,Absorb {1-1%}% of damage dealt
+23221,Fever,@22241,@132331
+23231,Seek Blood,"Def., Crit. Rate Resistance Decrease",Def. -{1%}% and Critical Resist -{3%}%.
+23241,Critical Sign,Acc. Rate Increase,Acc. Rate +{1%}%
+23251,@23221,@22241,@132331
+23261,Aggression,@20221,HP Drain +{1%}%
+24211,Patience,Atk. Increase Buff,@21221
+242121,Lucky Dexterity,Lucky Dexterity: Chance to decrease Cooldown when party is attacked,Skill Cooldown -{1#}
+24221,Crave Impact,@24211,@21221
+242231,Lucky Berserker,Lucky Berserker: Chance to increase Atk. Spd. when party attacks,Atk. Spd +{1%}%
+24231,@22221,@22221,@22221
+242321,Lucky Fatal,Lucky Fatality: Crit. Rate Increase,@122431
+24241,Acrobatics,Evasion Rate Increase,@22211
+242421,Lucky Quick Step,Lucky Quick Step: Stun,@1011
+2424211,@242421,Lucky Quick Step: Atk. Decrease,Atk. -{1%}%
+24251,@23261,@20221,@21221
+24252,Lucky Defense,Lucky Defense: Chance to increase P. Def. and M. Def. when party attacks,Def. +{1}
+24261,Fortify,HP Regen. Increase,HP Regen. +{1%}%
+30001,Absolute Shield,"Damage Taken Decrease, Incapacitation Resist","Damage taken -{1%}% (brief), Incapacitating Debuff Resist +30%"
+30002,Nimble Step,Speed Increase,@22241
+30003,Immortal,@1004,
+30004,Blood Arrow: Damage over Time,@13231,Bleed Dmg. +{[Use34Param]1%}%
+30006,Missile Bolt: Stun,@11222,@1011
+30008,Frost Armor: All,Frost Armor,Slow
+30010,Mana Shield,Mana Shield,@212621
+30013,Time Reduction,Cooldown Decrease,Decreases Skill Cooldown for Set Duration
+30014,Poison Strike,Damage and Speed Decrease,Damage -{1%}% and Speed -{2%}%
+300141,@30014,Poison Damage,Poison Dmg.: {[Use34Param]1%}%
+30015,Defense Zone,Abnormal Status Resist,Abnormal Status Resist +{1%}%
+300151,@30015,Decrease Damage Taken,Damage Taken -{1%}% and Rare Skill Dmg. Taken is additional -{2%}%
+31001,Frost Armor: Slow,@10122,@30008
+40001,Exp. Bonus Time Buff,Exp. Gain Increase,Obtain a large amount of Exp. during Bonus Time.
+40002,Adena Bonus Time Buff,Adena Gain Increase,Obtain a large amount of Adena during Bonus Time.
+40003,Equipment Bonus Time Buff,Equipment Acquisition Rate Increase,Greatly increases equipment drop rate during Bonus Time.
+40004,P. Atk.,P. Atk.,
+40005,M. Atk.,M. Atk.,
+40006,P. Atk. Increase Rate,P. Atk. Increase Rate,
+40007,M. Atk. Increase Rate,M. Atk. Increase Rate,
+40008,Basic Attack Power,Basic Attack Power,
+40009,Party Member Atk. Increase Rate,Party Member Atk. Increase Rate,
+40010,Atk. Spd. Increase Rate,Atk. Spd. Increase Rate,
+40011,Critical Damage Increase Rate,Critical Damage Increase Rate,
+40012,Critical Accuracy Rate,Critical Accuracy Rate,
+40013,Critical Resist Rate,Critical Resist Rate,
+40014,P. Dmg.,P. Dmg.,
+40015,M. Dmg.,M. Dmg.,
+40016,Ignore Def.,Ignore Def.,
+40017,Target HP Decrease,Target HP Decrease,
+40018,Target HP Decrease (%),Target HP Decrease (%),
+40019,P. Def.,P. Def.,
+40020,M. Def.,M. Def.,
+40021,P. Def. Increase Rate,P. Def. Increase Rate,
+40022,M. Def. Increase Rate,M. Def. Increase Rate,
+40023,Evasion,Evasion,
+40024,Evasion Increase Rate,Evasion Increase Rate,
+40025,Evasion Rate,Evasion Rate,
+40026,Accuracy,Accuracy,
+40027,Acc. Increase Rate,Acc. Increase Rate,
+40028,Accuracy Rate,Accuracy Rate,
+40029,Dmg. Increase Rate,Dmg. Increase Rate,
+40030,P. Dmg. Increase Rate,P. Dmg. Increase Rate,
+40031,@40030,@40030,
+40032,Dmg. to Slowed Target Increase Rate,Dmg. to Slowed Target Increase Rate,
+40033,Ignore Def. Dmg.,Ignore Def. Dmg.,
+40034,Dmg. Decrease Rate,Dmg. Decrease Rate,
+40035,P. Dmg. Decrease Rate,P. Dmg. Decrease Rate,
+40036,M. Dmg. Decrease Rate,M. Dmg. Decrease Rate,
+40037,Fixed Damage Decrease,Fixed Damage Decrease,
+40038,Deflect Rate,Deflect Rate,
+40039,Deflect Dmg. Decrease Rate,Deflect Dmg. Decrease Rate,
+40040,P. Dmg. over Time,P. Dmg. over Time,
+40041,M. Dmg. over Time,M. Dmg. over Time,
+40042,Heal HP Based on Atk.,Heal HP Based on Atk.,
+40043,Heal over Time,Heal over Time,
+40044,Aggression Increase Rate,Aggression Increase Rate,
+40045,HP Regen.,HP Regen.,
+40046,HP Drain,HP Drain,
+40047,HP Absorption (An active skill that steals HP from the enemy),HP Absorption (An active skill that steals HP from the enemy),
+40048,HP Absorption (Allocates stolen HP to yourself and your party members),HP Absorption (Allocates stolen HP to yourself and your party members),
+40049,Max HP,Max HP,
+40050,Max HP Increase Rate,Max HP Increase Rate,
+40051,Max MP,Max MP,
+40052,Max MP Increase Rate,Max MP Increase Rate,
+40053,Speed Increase Rate,Speed Increase Rate,
+40054,MP Cost Decrease Rate,MP Cost Decrease Rate,
+40055,MP Cost Decrease,MP Cost Decrease,
+40056,MP Regen. Rate,MP Regen. Rate,
+40057,Skill Cooldown,Skill Cooldown,
+40058,Sneer (Increases Aggro to max),Sneer (Increases Aggro to max),
+40059,Lock Target,Lock Target,
+40060,Move Target,Move Target,
+40061,Pull Target,Pull Target,
+40062,Pull Resist Rate,Pull Resist Rate,
+40063,Knock Back Resist Rate,Knock Back Resist Rate,
+40064,Exp. Gain Increase Rate,Exp. Gain Increase Rate,
+40065,Adena Gain Increase Rate,Adena Gain Increase Rate,
+40066,Slow Resist Rate,Slow Resist Rate,
+40067,Stun Resist Rate,Stun Resist Rate,
+40068,Abnormal Status Resist,@30015,
+40069,Skill Range Increase,Skill Range Increase,
+40070,Skill Hit Count Increase,Skill Hit Count Increase,
+40071,Combo End Time Increase,Combo End Time Increase,
+40072,Penetration,Penetration,
+40073,Resilience,Resilience,
+40074,Crit. Rate,Crit. Rate,
+40075,Critical Resistance,Critical Resistance,
+40076,Crit. Rate Increase Rate,Crit. Rate Increase Rate,
+40077,Crit. Resist Increase Rate,Crit. Resist Increase Rate,
+50001,Flame,Monster: Flame,
+50002,Chill,Monster: Chill,
+50003,Blind,Monster: Blind,
+50004,Curse,Monster: Curse,
+50005,Stun,Monster: Stun,
+50006,Bleed,"Monster: Bleed, Atk. Spd. Decrease",
+50007,Poison,"Monster: Poison, Speed Decrease",
+50008,Weaken,Monster: Weaken,
+50010,@50005,@50005,
+60099,@50006,Talking Island Monster: Bleed,
+60103,Dummy Skill,@30002,
+60115,Golden Idol,Burn,Damage is dealt over time for 5 seconds.
+60118,Marlow - Ultimate Defense,@13213,Greatly increases Def.
+60136,Skeleton Chaser (+ Stun/For Enhance Scroll Dungeon),@50005,
+60137,Stone Golem (+ Stun/For Enhance Scroll Dungeon),@50005,
+71023,Critical Noise,@10122,Speed -40%
+71452,@50006,Blood King Death Bite: Bleed,
+71462,@50006,Orbis Scratch: Bleed,
+73013,Guillotine: Fury,Anger,
+73022,Bloody Crescent: Attack Decrease,@112125,Decreases Atk.
+73031,Orfen: Weaken,Orfen Weaken,Decreases Def.
+73033,Orfen Anger,Orfen Anger,Atk. and Atk. Spd. increase.
+74011,Root of Death: Knock Down,@1001,
+74022,Blood Drain,Blood Drain: Heal over Time (%),
+74032,Call Lightning,Call Lightning: Damage over Time,
+74042,Infernal Curse,Infernal Curse: Flame,
+74051,Poison Pit,Poison Pit: Damage over Time,
+74062,@11222,Thunderstorm: Slow,
+74071,Marsh of Malice,Marsh of Malice: Damage over Time,
+74072,Tail Strike,Tail Strike: Slow,@12221
+74082,Overheat,Overheat: Atk. Increase,
+74083,@74082,Overheat: Speed Increase,
+74084,@74082,Overheat: Def. decrease,
+74085,@74082,@74082,
+74086,@74082,@74083,
+74087,@74082,@74084,
+74088,@74082,@74082,
+74089,@74082,@74083,
+74090,@74082,@74084,
+74091,@74082,@74082,
+74092,@74082,@74083,
+74093,@74082,@74084,
+50074,Smash: Atk. Decrease,Smash: Dmg. Decrease,Decreases Atk. by {1} for each stack of a specific effect.
+74095,Petrifying Gaze,Petrifying Gaze: Damage Taken increase,Increases damage taken by {1%}%.
+74096,Queen's Strike,Queen's Strike: Blind,Decreases by {1} for each Acc. stack
+74097,Scale Enhance: P. Def,Scale Enhance: P. Def,P. Def. +{1%}%
+74098,Scale Enhance: M. Def.,Scale Enhance: M. Def.,M. Def.+{1%}%
+74111,Mark of Death,Mark of Death,
+74121,Smoldering Mud,Smoldering Mud: Damage Taken increase,
+74122,Ground Smash,Ground Smash: Damage over Time,
+74131,Marsha's Gaze (Old),Marsha's Gaze: Damage over Time,Damage is received over time for 10 seconds while infecting nearby allies.
+74132,Medusa's Curse (Old),Medusa's Curse: AoE Damage,"Immobilizes for 5 seconds, and afterwards, an explosion deals great damage to the surrounding area."
+74134,@74132,Medusa's Curse: Explosion,
+741341,Marsha: Tornado of Temptation,Marsha: Tornado of Temptation,Causes {1} Bleed damage over 10 seconds.
+741342,@741341,@741341,@1011
+741351,Marsha: Bladewind,Marsha: Bladewind,Unable to use skills for 5 seconds.
+7413511,@741351,Marsha: Bladewind (VE),@741351
+741352,@741351,@741351,@741351
+741353,@741351,@741351,@741351
+77001,@50001,@50001,
+77002,@50002,"Monster: Chill, Speed decrease",
+77003,@50003,@50003,
+77004,@50004,"Monster: Curse, Def. decrease",
+77005,@50005,@50005,
+77006,@50006,"Monster: Bleed, Atk. Decrease",
+77007,@50007,@50007,
+77008,@50008,@50008,
+77010,@50005,@50005,
+77085,@73022,@112125,@73022
+801011,Atk. Increase,"P. Atk., M. Atk. Increase",Atk. +50% for 30 sec.
+801012,P. Atk. Increase,P. Atk. Increase,Atk. +30% for 30 sec.
+801013,M. Atk. Increase,M. Atk. Increase,@801012
+801021,Atk. Spd. Increase,Atk. Spd. Increase,Atk. Spd +50% for 30 sec.
+801022,@801021,@801021,Atk. Spd +20% for 30 sec.
+801031,Def. Increase,P. Def. & M. Def. Increase,Def. +300% for 30 sec.
+801032,P. Def. Increase,P. Def. Increase,Def. +35% for 30 sec.
+801033,M. Def. Increase,M. Def. Increase,@801032
+801041,Speed Increase,Speed Increase,Speed +30% for 30 sec.
+801042,@801041,@801041,@801041
+80105,Max HP Increase,Max HP Increase,Max HP +40% for 30 sec.
+80106,Max MP Increase,Max MP Increase,Max MP +40% for 30 sec.
+801043,Increase Skill Damage,Increase Skill Damage,Increases skill Damage by 300% for 30 sec.
+801044,Melee Damage Aura (Timer),Melee Damage Aura,Deals 300 fixed damage to nearby enemies over 30 sec.
+801045,Water Crystal Barrier,Water Crystal Damage Immunity,Creates a damage immunity barrier over the Water Crystal for 30 sec.
+801046,Party of Fury (Timer),Increase Party Atk. and Def.,Increases allies’ Atk. and Def. by 30% for 30 sec.
+8010461,Party of Fury,@801046,@801046
+801047,Overpower,Atk. and Atk. Spd. Increase,Increases Atk. and Atk. Spd. for 30 sec.
+801048,@801047,@801047,Increases Atk. and Atk. Spd. for 10 sec.
+93506,Berserk Bugbear,"Large Atk. and Def. Increase, Small Speed and Atk. Spd. Increase",
+94409,Berserk Demon Contractor,@93506,"Atk., Def., Speed, and Atk. Spd. Increase"
+90001,Clan Health,HP Increase,Max HP +{1%}%
+90002,Clan Soul,MP Increase,Max MP +{1%}%
+90003,Clan Shield,Def. Increase,Def. +{1%}%
+90004,Clan Might,Atk. Increase,Atk. +{1%}%
+90005,Clan Guidance,Acc. Increase,Accuracy +{1%}%
+90006,Clan Evade,@22211,@22261
+90007,Clan Movement,Speed Increase,@22241
+90008,Clan Deadly Strike,@22241,@132331
+90009,Clan Crit. Rate,Crit. Rate Increase,Crit. Rate +{1%}%
+905001,Crystal of Unity Lv. {TextParam1},Crystal of Unity Lv. {TextParam2} Buff,Imbues the power of the Clan Hall’s Crystal of Unity.
+905002,@905001,@905001,@905001
+905003,@905001,@905001,@905001
+905004,@905001,@905001,@905001
+905005,@905001,@905001,@905001
+905006,@905001,@905001,@905001
+905007,@905001,@905001,@905001
+905008,@905001,@905001,@905001
+905009,@905001,@905001,@905001
+905010,@905001,@905001,@905001
+905101,Satiation of Small Feast,P. Def. and M. Def. Increase,P. Def. & M. Def. +500
+905102,Satiation of Medium Feast,HP and MP Increase,HP/MP 1000 Increase
+905103,Satiation of Large Feast,P. Atk. and M. Atk. Increase,"P. Atk., M. Atk. +500"
+905104,Satiation of Fancy Small Feast,@905101,"P. Def. & M. Def. +1,200"
+905105,Satiation of Fancy Medium Feast,@905102,HP/MP 2000 Increase
+905106,Satiation of Fancy Large Feast,@905103,"P. Atk., M. Atk. +1,200"
+905107,Satiation of Luxurious Small Feast,"P. Def, M. Def, and Crit. Rate Increase","P. Atk., M. Atk. +2,000 and Crit. Rate +500"
+905108,Satiation of Luxurious Medium Feast,"HP, MP, and Crit. Rate Increase","HP, MP +3,000 and Crit. Rate +500"
+905109,Satiation of Luxurious Large Feast,"P. Atk, M. Atk, and Crit. Rate Increase","P. Atk., M. Atk. +2,000, Crit. Rate +500"
+905501,P. Atk Increase Potion,P. Atk. Increase,Increases P. Atk. by 10%.
+905502,M. Atk Increase Potion,M. Atk. Increase,Increases M. Atk. by 10%.
+905503,P. Def. Increase Potion,P. Def. Increase,Increases P. Def. by 10%.
+905504,M. Def. Increase Potion,M. Def. Increase,Increases M. Def. by 10%.
+905505,Speed Increase Potion,Speed Increase,Increases Speed by 15%.
+905506,Extraction Spd. Increase Potion,Extraction Speed Increase,Increases Extraction Speed by 50%.
+905507,Atk. Spd Increase Potion,Atk. Spd Increase,Increases Atk. Spd. by 20%.
+905508,Evasion Rate Increase Potion,@24241,Increases Evasion Rate by 50%.
+905509,Resilience Increase Potion,Resilience Increase,"Increases Resilience by 10,000."
+905510,Ignore Def. Dmg. Increase Potion,Ignore Def. Dmg. Increase,"Increases Ignore Def. Dmg. by 2,000."
+905511,Fixed Damage Decrease Potion,Increase Fixed Damage Decrease,"Increases Fixed Damage Decrease by 1,000."
+905512,Skill Cooldown Decrease Potion,@21231,Decreases Skill Cooldown by 30%.
+905513,Penetration Increase Potion,Penetration Increase,"Increases Penetration by 10,000."
+905514,Dmg. Dealt to Boss Increase Potion,Dmg. Dealt to Boss Increase,Increases Dmg. Dealt to Boss by 15%.
+905515,Dmg. Taken from Boss Decrease Potion,Dmg. Taken from Boss Decrease,Decreases Dmg. Taken from Boss by 5%.
+905516,Core Gain Increase Potion,Monster Core Drop Increase,Increases Monster Core Drop Rate by 25%. (Excludes Elite Dungeons)
+905601,Morale Increase Potion,Morale Increase,Increases Speed of nearby clan members and self by 30%.
+905602,Morale Increase Effect,Morale Increase Effect,Increases Speed of clan members by 30%.
+905603,Ice Storm Potion,Ice Storm,Decreases Speed of nearby enemies by 50%.
+905604,Ice Storm Effect,Ice Storm Effect,Decreases Speed by 50%.
+905605,Potion of Destruction,Destroy Castle,Increases damage dealt to Attacker structures by 50%.
+905606,HP Regen. Increase Potion,HP Regen. Amplification,Increases HP Regen. of nearby clan members and self by 50%.
+905607,HP Regen. Amplification,HP Regen. Amplification,Increases HP Regen. of clan members by 50%.
+905608,Atk. Amplification Potion,Atk. Amplification,Decreases Def. by 60% and increases Atk. by 20%.
+905609,Def. Amplification Potion,Def. Amplification,Decreases Atk. by 15% and increases Def. by 100%.
+905610,Mind Enhance Potion,Mind Enhancement,Increases Debuff Resistance Rate by 50%.
+905611,Anti-Magic Potion,Anti-Magic,Eliminates MP of nearby enemies by 20% every second.
+905612,Anti-Magic Effect,@905611,Eliminates 20% of MP every second.
+906000,Honorable Battlefield Revive Protection,Honorable Battlefield Revive Protection,@1005
+906001,Honorable Battlefield,HP Recovery,Heals allies’ HP.
+906002,@906001,HP Recovery Effect,@906001
+906003,@906001,@801041,Increases Speed of allies.
+906100,Courageous Battlefield Revive Protection,Courageous Battlefield Revive Protection,@1005
+906101,Courageous Battlefield,@906001,Heals HP.
+906102,@906101,@801041,Increases Speed.
+906500,Scrimmage Arena Revive Protection,Scrimmage Arena Revive Protection,@1005
+906501,Scrimmage Arena Sanctuary,Scrimmage Arena Sanctuary,"Atk, Def., Atk. Spd, and Speed +30%."
+11,Soulshot,Soulshot,This is a Soulshot.
+12,Dummy Knock Back,@1001,This is for Knock Back testing.
+100001,Invincibility Buff,@1004,This is the Invincibility Buff.
+100002,Invisibility Buff,Invisible,This is the Invisibility Buff.
+100003,Durability Buff,Durable,This is the Durability Buff.
+100004,Smart Buff,Smart,This is the Smart Buff.
+100005,One Kill Buff,One Kill,This is the One Kill Buff.
+100006,Earth Energy,@20221,"Protection of Altar of Earth: P. Atk. and M. Atk. +10%, Damage dealt to Defense Towers +25%"
+100007,Wind Energy,@20221,"Protection of Altar of Wind: P. Atk. and M. Atk. +10%, Damage dealt to Defense Towers +25%"
+100008,Altar’s Protection,@20221,Altar’s power amplifies and increases P. Atk. and M. Atk. by an additional 30%.
+100011,Combo Effect Lv. {TextParam1},Combo {TextParam2},This is a 10 combo buff. No icons are displayed.
+100012,@100011,@100011,This is a 20 combo buff. No icons are displayed.
+100013,@100011,@100011,This is a 40 combo buff. No icons are displayed.
+100014,@100011,@100011,This is a 60 combo buff. No icons are displayed.
+100015,@100011,@100011,This is a 90 combo buff. No icons are displayed.
+100016,@100011,@100011,This is a 120 combo buff. No icons are displayed.
+100017,@100011,@100011,This is a 160 combo buff. No icons are displayed.
+100018,@100011,@100011,This is a 200 combo buff. No icons are displayed.
+100019,@100011,@100011,This is a 250 combo buff. No icons are displayed.
+100020,@100011,@100011,This is a 300 combo buff. No icons are displayed.
+100021,Guilty Conscience,"Atk., Def. Decrease",You feel very guilty and cannot muster any strength.
+100031,PvP Calibration Buff,"Atk., Def. Increase",@100021
+100101,Hero of the Earthen Altar,"Atk., Damage to Structures, Max HP, Speed Increased","P. Atk. and M. Atk +80%, Damage dealt to Defense Towers +50%, Max HP +100%, Speed +10%, Stun Resistance +30%"
+100102,Hero of the Windy Altar,@100101,@100101
+200000,Protection,Protection,@100001
+200001,Fire Energy,Speed and Atk. Spd. Increase,Altar of Fire’s Protection increases Speed by 10% and Atk. Spd. by 10%.
+200002,Water Energy,"Speed Increase, Skill Cooldown Decrease",Altar of Water’s Protection increases Speed by 10% and decreases Skill Cooldown by 15%.
+200003,Siege Hero Lv. {TextParam1},"Atk., Def. +{TextParam2}",Atk. and Def. +1%.
+200004,@200003,@200003,Atk. and Def. +2%
+200005,@200003,@200003,Atk. and Def. +3%
+200006,@200003,@200003,Atk. and Def. +4%.
+200007,@200003,@200003,Atk. and Def. +5%.
+200008,@200003,@200003,Atk. and Def. +6%.
+200009,@200003,@200003,Atk. and Def. +7%.
+300001,Grand Castle,Exp. Gain Increase,"Exp. from Monsters +50%.
+Only applies in a conquered castle’s territory."
+300002,Gludio Castle,"Atk., Def. +1.5%","Atk. and Def. +1.5%
+(Excludes Castle Siege, Fortress Siege)"
+300003,Dion Castle,"Atk., Def. +2%","Atk. and Def. +2%
+(Excludes Castle Siege, Fortress Siege)"
+300004,Giran Castle,"Atk., Def. +2.5%","Atk. and Def. +2.5%
+(Excludes Castle Siege, Fortress Siege)"
+300005,Oren Castle,"Atk., Def. +3%","Atk. and Def. +3%
+(Excludes Castle Siege, Fortress Siege)"
+301001,Fortress Blessing,Monster Core Drop Rate Increase,"Monster Core Drop Rate +10%
+Only applies in the region of your conquered Fortress."
+301002,Gludin Highway Fortress,Dmg. Dealt to Monsters Increase,Damage Dealt to Monsters +5%
+301003,Gludio Plains Fortress,Dmg. Taken from Monsters Decrease,Dmg. Taken from Monsters -2%
+301004,Windawood Manor Fortress,@301002,Damage Dealt to Monsters +10%
+301005,Wasteland Fortress,@301003,Dmg. Taken from Monsters -4%
+301006,Plains of Dion Fortress,Dmg. Dealt to Elite Monsters Increase,Damage Dealt to Elite Monsters +5%
+301007,Cruma Swamp Fortress,Dmg. Taken from Elite Monsters Decrease,Dmg. Taken from Elite Monsters -2%
+301008,Summit of Dissonance Fortress,@301006,Damage Dealt to Elite Monsters +10%
+301009,Shrieking Hallows Fortress,@301007,Dmg. Taken from Elite Monsters -4%
+301010,Giran Dominion Fortress,Dmg. Dealt to Bosses Increase,Damage Dealt to Bosses +5%
+301011,Deathly Fog Shores Fortress,Dmg. Taken from Boss Monsters Decrease,Dmg. Taken from Bosses -2%
+301012,Devil's Isle Fortress,@301010,Damage Dealt to Bosses +10%
+301013,Haunted Necropolis Fortress,@301011,Dmg. Taken from Bosses -4%
+301014,Dragon Valley Fortress,Dmg. Dealt to Players Increase,"Damage Dealt to Players +2%
+(Excludes Castle Siege, Fortress Siege)"
+301015,Northwind Plateau Fortress,Dmg. Taken from Players Decrease,"Damage Taken from Players -2%
+(Excludes Castle Siege, Fortress Siege)"
+301016,Eternal Lands Fortress,@301014,"Damage Dealt to Players +4%
+(Excludes Castle Siege, Fortress Siege)"
+301017,Ivory Tower Conquered Fortress,@301015,"Damage Taken from Players -4%
+(Excludes Castle Siege, Fortress Siege)"
+301018,Talking Island Fortress,@30002,"Speed +2%
+(Excludes Castle Siege, Fortress Siege)"
+302001,Lord's Wisdom,"HP, MP Potion Effectiveness Increase","HP and MP Potion effectiveness +20%. (Excludes Castle Siege, Fortress Siege)"
+302002,Lord's Glory,"Monster Defeat Exp. Gain, Core Drop Rate Increase",Exp. from Monsters & Core Drop Rate +20%
+302003,Lord's Grace,"Monster Defeat Item Drop Rate, Adena Gain Increase",Aden from Monsters & Item Drop Rate +20%.
+400001,Sanctuary Buff,"Adena, Exp. Gain, and Speed Increase","Adena Gain, Exp. Gain, & Speed Increase"
+400002,Gran Kain’s Rage,"Atk., Def., and Atk. Spd Increase","Atk., Def., and Atk. Spd Increase"
+500001,Eldru's Rage,"Atk., Def., Speed, and Atk. Spd. Increase","Display rage towards weak enemies / Double Atk. & Def., Speed & Atk. Spd. Increase"
+510001,Daily Diamond Bonus Buff,@30002,Speed +8%
+900001,Tower of Insolence Boss Spotlight,Strong,Strong
+301,Blessing of Robust Ratel {TextParam1},Speed,Blessing of Robust Ratel increases Speed.
+302,@301,Extraction Speed,Blessing of Robust Ratel increases Extraction Speed.
+303,@301,Extraction Amount,Blessing of Robust Ratel increases Extraction amount.
+304,Garden Sentry’s Blessing,Garden Sentry Buff,A blessing from the Garden Sentry. Increases Extraction amount by 2 times.
+305,Garden Sentry,Garden Sentry,The first skill the Garden Sentry uses when it spawns.
+306,Garden Sentry Effect,Garden Sentry Effect,The effect of the skill that the Garden Sentry uses regularly.
+401,Spring of Recovery,Spring of Recovery,The first skill the Spring of Recovery uses when it spawns.
+402,Spring of Recovery Buff,Spring of Recovery Buff,HP recovers quickly near the Spring of Recovery.
+403,Fortress Siege Revive Buff,@1004,Applies Invincibility briefly upon being revived during a Fortress Siege.
+451,Castle Siege Defender’s Revive Buff,@1004,Applies Invincibility briefly upon being revived during a Castle Siege.
+452,@451,@301,Allows faster Speed briefly upon being revived during a Castle Siege.
+453,Castle Siege Attacker’s Revive Buff,@1004,@451
+454,@453,@301,@452
+501,Block PK,Block PK,"Not subject to PK. (Excludes Fortress Siege, Castle Siege, Battlefield)"
+502,@501,@501,@501
+503,@501,@501,@501
+510,Einhasad’s Blessing,Einhasad’s Blessing,Increases Field Hunt Exp. and Extraction Exp. gained by 100%.
+511,@510,@510,Increases Field Hunt Exp. and Extraction Exp. gained by 200%.
+720212,Pounce - Stun,@11222,@1011
+1720212,@720212,@11222,@1011
+720222,Spit Poison - Poison,Poison,Applies Poison and receive damage over time.
+1720222,@50007,@720222,Poisoned and receives damage over time.
+1720223,Puddle of Poison,Puddle of Poison,
+720232,Release Pheromone - P. Def. Decrease,P. Def. Decrease,Decreases P. Def.
+720233,Release Pheromone - M. Def. Decrease,M. Def. Decrease,Decreases M. Def.
+720234,Release Pheromone - Speed Decrease,@12231,Decreases Speed.
+1720232,@720232,@720232,@720232
+1720233,@720233,@720233,@720233
+1720234,@720234,@12231,@720234
+1720310,Large Nurse Ant’s Blessing_1,@1004,
+1720311,Large Nurse Ant’s Blessing_2,@1004,
+1720312,Large Nurse Ant’s Blessing_3,@1004,
+1720316,Self-Stun,@11222,
+720241,Dig - Invisibility,@100002,
+720242,Dig - Invincibility,@1004,
+720243,Dig - Stun,@11222,
+720251,Berserk (Queen Ant),@905502,
+720282,Basic Attack + Slow,Basic Crit. Dmg. Resist,@720234
+720301,Immunity from physical attacks for {TextParam1} sec.,,
+721211,Increases Def. for {TextParam1} sec.,,
+721222,Queen Ant Basic Attack Enhance,@720222,@720222
+7212411,Ant Buff (For displaying time),Remaining Time Until Self-Destruction,
+721241,Ant Buff {TextParam1},,
+721242,@721241,,
+721243,@721241,,
+721244,@721241,,
+721245,@721241,,
+721246,@721241,,
+721301,@720243,@11222,
+721321,Binding,,Binds and makes immobile.
+720312,Blood Blade: Bleed,Bleed,Deals damage over time for 30 seconds (Stackable).
+720321,Blood Protection,Shield,A shield that lasts for 10 seconds.
+720351,Blood Berserker,Berserk,Berserk
+720352,@720351,@720351,@720351
+720353,Blood Berserker (Very Hard),@720351,@720351
+720372,@50005,Varcarlo: Stun,
+7203721,@50005,Varkaron (Very Hard): Stun,
+720361,Bloody Slap: Bleed,Bleed 2,@720312
+72038,Blood Vortex: Def. Decrease,@13211,Decreases Def. for 10 seconds (Stackable).
+172035,Varkaron’s Clone: Atk. Enhance Buff,Atk. Enhancement,Atk. Enhancement
+720391,Summon Clone: Cooldown,Cooldown,Simple Cooldown
+720441,Gravity Poison,Damage over Time,Deals damage over time for 30 seconds.
+720451,Core Rampage,@720351,Rampage
+720461,Mind Control,Mind Control,Become confused and become unable to distinguish allies from foes.
+720472,Drill Smash (Stun),@11222,@1011
+720482,Gatekeeper’s Roar (Silence),@142321,Unable to Use Skills
+720511,Easy Summon {TextParam1},Cooldown Test,@720391
+720521,@720461,@720461,@720461
+720531,@720461,@720461,@720461
+720541,@720511,@720511,@720391
+720551,Normal Summon {TextParam1},@720511,@720391
+720561,@720551,@720511,@720391
+720571,@720551,@720511,@720391
+720581,Hard Summon {TextParam1},@720511,@720391
+720591,@720581,@720511,@720391
+720601,@720581,@720511,@720391
+600,Mind Control (Test),@720461,Mind Control (Data Currently Being Tested)
+741141,Rupture,@11222,Rupture applies Stun.
+741171,Marlox Fatigue,@11222,"Marlox becomes fatigued.
+Damage taken by Marlox increases significantly."
+741191,Demon Totem Buff (Stackable),Stackable Buff,"When stacked, applies Stun."
+7411911,@741171,@11222,Marlox becomes fatigued.
+7411912,Marlox_Strong (Status),Demonic Immunity,Demonic Immunity prevents you from taking any damage.
+601391,Decay,Atk. Spd Decrease,Decreases Atk. Spd.
+601402,Dazed,Attack Accuracy Rate Decrease,Decreases Accuracy Rate of attacks.
+601412,@50006,@720312,Take damage over time from bleeding.
+601441,@50006,@720312,@601412
+601462,@50005,@11222,@1011
+601472,Knock Down,@1001,Fallen Over
+601612,@601472,@1001,@601472
+601622,Slow,@10122,Speed Decrease
+601642,@50007,Poison,Take damage over time from poisoning.
+601,@50005,@1011,@1011
+910245,Organic Honey Candy,,"Atk. +1,500"
+910246,Strawberry Candy,,"Max HP +3,000"
+910247,Chocolate Candy,,"Max MP +3,000"
+910248,Grape Candy,,"Def. +2,000"
+910249,Spring Sprout,,@910248
+910250,Well Done,,@910245
+910251,Grape,,Increases Critical Damage by 3%.
+910252,Watermelon,,@910246
+910253,Oriental Melon,,@910248
+910254,Raspberry,,@910245
+910255,Feldheim’s Treasure Hunt Key,,@910246
+602,Buff for displaying field boss.,For displaying field boss,For displaying field boss
+800000,Alarm Icon (Test),Display Alarm Icon,Alarm Icon Display Test
+805004,@720312,@720312,@720312
+413005,Pierced Wound,Pierced Wound,Bleeding from wound decreases Def.
+413010,Leonard: Bleed,@11222,
+413011,Forceful HP Drain,Forceful HP Drain,Leonard drains HP forcefully.
+413013,Sticky Vomit,Dmg. over Time and Speed Decrease,Sticky vomit limits movement and melts skin.
+413015,Life Drain,,Trisha’s bat drains HP successfully and keeps it.
+413016,HP Transfer,,Trisha’s bat transfers HP to Trisha.
+4130211,Recharge HP: Invisible,@100002,
+4130212,Recharge HP: Invincible,@1004,
+4130213,Recharge HP: Stun,@11222,
+413018,Vampirize,Atk. Increase and Def. Decrease,Blood vampirizes and causes rage.
+413019,Vampiric Change,@720461,Blood completely vampirizes and targets ally HP.
+413027,Blood Clot Explosion Timer,@7212411,
+413028,Vampiric Transformation,Remove HP Drain,
+420001,Paladin,,
+420002,Warlord,,
+420003,Treasure Hunter,,
+420004,@11244,,
+420005,Sorcerer,,
+420006,Bishop,,
+420007,Temple Knight,,
+420008,Swordsinger,,
+420009,Plains Walker,,
+420010,Silver Ranger,,
+420011,Spellsinger,,
+420012,Elder,,
+420013,Shillien Knight,,
+420014,Bladedancer,,
+420015,Abyss Walker,,
+420016,Phantom Ranger,,
+420017,Spellhowler,,
+420018,Shillien Elder,,
+420019,Guardian,,
+420020,Slayer,,
+420021,Scavenger,,
+420022,War Ranger,,
+420023,Battle Mage,,
+420024,Sage,,
+810000001,Lv.1 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 10%.
+The effect lasts for 1 hour."
+810000002,Lv.2 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 20%.
+The effect lasts for 1 hour."
+810000003,Lv.3 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 30%.
+The effect lasts for 1 hour."
+810000004,Lv.4 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 40%.
+The effect lasts for 1 hour."
+810000005,Lv.5 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 50%.
+The effect lasts for 1 hour."
+810000006,Lv.6 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 60%.
+The effect lasts for 1 hour."
+810000007,Lv.7 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 70%.
+The effect lasts for 1 hour."
+810000008,Lv.8 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 80%.
+The effect lasts for 1 hour."
+810000009,Lv.9 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 90%.
+The effect lasts for 1 hour."
+810000010,Lv.10 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 100%.
+The effect lasts for 1 hour."
+810000101,Lv.1 Clan Potion: Item Drop Buff,Item Drop Rate Increased,"Once used, Item Drop rate is increased by 10%.
+The effect lasts for 1 hour."
+810000102,Lv.2 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 20%.
+The effect lasts for 1 hour."
+810000103,Lv.3 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 30%.
+The effect lasts for 1 hour."
+810000104,Lv.4 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 40%.
+The effect lasts for 1 hour."
+810000105,Lv.5 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 50%.
+The effect lasts for 1 hour."
+810000106,Lv.6 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 60%.
+The effect lasts for 1 hour."
+810000107,Lv.7 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 70%.
+The effect lasts for 1 hour."
+810000108,Lv.8 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 80%.
+The effect lasts for 1 hour."
+810000109,Lv.9 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 90%.
+The effect lasts for 1 hour."
+810000110,Lv.10 Clan Potion: Item Drop Buff,@810000101,"Once used, Item Drop rate is increased by 100%.
+The effect lasts for 1 hour."
+810000201,Lv.1 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 10%.
+The effect lasts for 1 hour."
+810000202,Lv.2 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 20%.
+The effect lasts for 1 hour."
+810000203,Lv.3 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 30%.
+The effect lasts for 1 hour."
+810000204,Lv.4 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 40%.
+The effect lasts for 1 hour."
+810000205,Lv.5 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 50%.
+The effect lasts for 1 hour."
+810000206,Lv.6 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 60%.
+The effect lasts for 1 hour."
+810000207,Lv.7 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 70%.
+The effect lasts for 1 hour."
+810000208,Lv.8 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 80%.
+The effect lasts for 1 hour."
+810000209,Lv.9 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 90%.
+The effect lasts for 1 hour."
+810000210,Lv.10 Clan Potion: Core Drop Buff,@905516,"Once used, Monster Core drop rate is increased by 100%.
+The effect lasts for 1 hour."
+810000301,Lv.1 Clan Potion: Exp. Buff,Increased Exp.,"Once used, the amount of Exp. gained is increased by 10%.
+The effect lasts for 1 hour."
+810000302,Lv.2 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 20%.
+The effect lasts for 1 hour."
+810000303,Lv.3 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 30%.
+The effect lasts for 1 hour."
+810000304,Lv.4 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 40%.
+The effect lasts for 1 hour."
+810000305,Lv.5 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 50%.
+The effect lasts for 1 hour."
+810000306,Lv.6 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 60%.
+The effect lasts for 1 hour."
+810000307,Lv.7 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 70%.
+The effect lasts for 1 hour."
+810000308,Lv.8 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 80%.
+The effect lasts for 1 hour."
+810000309,Lv.9 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 90%.
+The effect lasts for 1 hour."
+810000310,Lv.10 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 100%.
+The effect lasts for 1 hour."
+30910245,White Chocolate,,@910245
+30910246,Dark Chocolate,,@910246
+30910247,Plain Chocolate,,@910247
+30910248,Milk Chocolate,,@910248
+30910251,Amaretto Chocolate,,@910251

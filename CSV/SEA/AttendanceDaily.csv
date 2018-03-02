@@ -1,0 +1,5 @@
+Id,PlayTime,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,300,Item,400001,1000,Icon_SoulShot_01
+2,900,Adena, ,20000,Icon_Asset_Adena_01
+3,2400,Item,910220,1,Icon_Gacha_EnchantScroll
+4,3600,Item,910315,1,Icon_BuffItem_ExpBonus

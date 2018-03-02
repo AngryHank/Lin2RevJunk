@@ -1,0 +1,13 @@
+GroupId,Grade,GradeName,GradeIcon,NextGrade,RequiredCompleteCount,NpcTalkGroupInfoId
+3,1,C,UI_Icon_ItemSlotSmall_01,2,5,102
+3,2,B,UI_Icon_ItemSlotSmall_02,3,5,103
+3,3,A,UI_Icon_ItemSlotSmall_03,4,5,104
+3,4,S,UI_Icon_ItemSlotSmall_04,5,5,105
+3,5,R,UI_Icon_ItemSlotSmall_05,6,5,106
+3,6,SR,UI_Icon_ItemSlotSmall_06,0,5,107
+2,1,C,UI_Icon_ItemSlotSmall_01,2,5,152
+2,2,B,UI_Icon_ItemSlotSmall_02,3,5,153
+2,3,A,UI_Icon_ItemSlotSmall_03,4,5,154
+2,4,S,UI_Icon_ItemSlotSmall_04,5,5,155
+2,5,R,UI_Icon_ItemSlotSmall_05,6,5,156
+2,6,SR,UI_Icon_ItemSlotSmall_06,0,5,156

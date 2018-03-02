@@ -1,0 +1,9 @@
+Id,MissionType,RequireCompleteCount,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,Daily,6,Adena,,5000,Icon_Asset_Adena_01
+2,Daily,12,Item,500119,1,Icon_Relic_Field_1_1
+3,Weekly,10,Item,911178,1,Icon_Box_EquipLevelMaterial
+4,Weekly,20,Item,500119,1,Icon_Relic_Field_1_1
+5,Weekly,30,Item,911178,1,Icon_Box_EquipLevelMaterial
+6,Weekly,40,Item,900006,1,Icon_Shop_Gacha_Material_03
+7,Weekly,50,Item,911179,1,Icon_Box_EquipLevelMaterial
+8,Weekly,60,Item,500120,1,Icon_Relic_Field_1_2

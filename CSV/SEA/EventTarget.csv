@@ -1,0 +1,17 @@
+Id,EventType,TabNameKey,TitleNameKey,Infold,HelpKeyword,SpecialEffect
+1,PlayerReturner,1201000000001,1202000000001,101,EventTargetAttendance,0
+2,PlayerNormal,1201000000001,1202000000001,102,EventTargetAttendance,0
+3,PlayerBeginner,1201000000001,1202000000001,103,EventTargetAttendance,0
+4,PlayerReturner,1201000000004,1202000000004,4,EventTargetBenefit,0
+5,PlayerNormal,1201000000004,1202000000004,6,EventTargetBenefit,0
+6,PlayerBeginner,1201000000004,1202000000004,8,EventTargetBenefit,0
+7,PlayerReturner,1201000000012,1202000000012,5,EventTargetBenefit,0
+8,PlayerNormal,1201000000012,1202000000012,7,EventTargetBenefit,0
+9,PlayerBeginner,1201000000012,1202000000012,9,EventTargetBenefit,0
+10,PlayerReturner,1201000000007,1202000000007,7,EventTargetShop,1
+11,PlayerNormal,1201000000007,1202000000007,8,EventTargetShop,1
+12,PlayerBeginner,1201000000007,1202000000007,8,EventTargetShop,1
+13,PlayerReturner,1201000000008,1202000000008,100001,EventTargetAnnuityShop,0
+14,PlayerNormal,1201000000008,1202000000008,100002,EventTargetAnnuityShop,0
+15,PlayerBeginner,1201000000008,1202000000008,100003,EventTargetAnnuityShop,0
+16,PlayerNormal,1201000000011,1202000000011,100004,EventTargetAnnuityShop,0

@@ -1,0 +1,5 @@
+Id,PlayTime,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,600,6,910314,1,Icon_BuffItem_ExpBonus
+2,1200,1,490002,5000,Icon_Asset_Adena_01
+3,2400,1,490002,10000,Icon_Asset_Adena_01
+4,3600,6,34000300,1,Icon_Box_Legion6

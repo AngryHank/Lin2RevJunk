@@ -1,0 +1,10 @@
+SoulCrystalType,SocketIconPath
+AttackPowerPhy,Icon_SoulCrystal_Socket_1
+DefensePowerPhy,Icon_SoulCrystal_Socket_7
+MaxHP,Icon_SoulCrystal_Socket_13
+HitValue,Icon_SoulCrystal_Socket_19
+DodgeValue,Icon_SoulCrystal_Socket_25
+CriticalValue,Icon_SoulCrystal_Socket_31
+AntiCriticalValue,Icon_SoulCrystal_Socket_37
+Penetration,Icon_SoulCrystal_Socket_43
+Resilience,Icon_SoulCrystal_Socket_49

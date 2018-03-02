@@ -1,0 +1,4 @@
+Id,GroupID,RequiredPoint,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,1,100,1,,10000,Icon_Asset_Adena_01
+2,1,200,2,,30,Icon_Asset_Diamond_02
+3,1,400,13,,50,Icon_Asset_Upgrade_03

@@ -1,0 +1,45 @@
+Id,Name,Message
+100001,Erika,"Your current equipment isn’t doing you or your abilities justice, <YellowBold>[player]</>."
+100002,@100001,I hear the Shop has great items in stock.
+100011,@100001,Your equipment looks like it needs a boost in power.
+100012,@100001,Head over to the Forge and “level up” your equipment.
+100101,@100001,Runes are full of untapped potential.
+100102,@100001,You can imprint runes in the Rune menu.
+100201,@100001,Collect Monster Cores and complete Codices to become stronger.
+100202,@100001,The Monster Codex menu is found under Challenges.
+100203,@100001,Make sure you complete as many as you can!
+100301,@100001,Elixirs are mystical potions that boost your strength.
+100302,@100001,You can brew elixirs in the Elixir menu.
+100401,@100001,Complete achievements to gain stats.
+100402,@100001,"<YellowBold>[player]</>, your achievement progress can be found under Challenges > Achievements."
+100501,@100001,Soul Crystals imbue equipment with power.
+100502,@100001,You can equip them in the Items menu.
+100503,@100001,Why don’t you give it a try?
+100601,@100001,Hone your skills for a better chance of survival in battle.
+100602,@100001,You can level up skills in the Skill menu.
+100701,@100001,Honor is bestowed upon the worthy and the skilled.
+100702,@100001,Earn Honor by participating in Arena Battles in the Battlefield menu.
+400000,@100001,How about a new challenge to spice up your adventures?
+400001,@100001,"Let’s take a trip to the Tower of Insolence! The powerful monsters in the Tower of Insolence will be a good challenge for you, <YellowBold>[player]</>!"
+400002,@100001,"I’m sure the items you get there would be a great help, <YellowBold>[player]</>."
+400100,@100001,"Am I the only one who thinks you look bored, <YellowBold>[player]</>?"
+400101,@100001,What about checking out Daily Dungeons to face off against powerful bosses?
+400102,@100001,"I’m sure the materials and Exp. would be a great help to you, <YellowBold>[player]</>!"
+400200,@100001,@400100
+400201,@100001,Nothing beats a battle that no one can guess the outcome of!
+400202,@100001,"<YellowBold>[player]</>, build your fame by fighting lots of other players!"
+400300,@100001,How about a new task to spice up your adventures?
+400301,@100001,Journey across the continent and complete Daily Quests!
+400302,@100001,"I’m sure the items you get from Daily Quests would be a great help to you, <YellowBold>[player]</>."
+400400,@100001,@400300
+400401,@100001,Participate in boss battles to fight monsters and acquire Cores!
+400402,@100001,"I’m sure the items you get from Weekly Quest would be a great help to you, <YellowBold>[player]</>."
+400500,@100001,Have you ever thought about joining up with other players to battle powerful monsters?
+400501,@100001,Powerful monsters and rare rewards... A place for you and your allies...
+400502,@100001,Team up with allies and complete quests in Elite Dungeons to have never-before-seen adventures!
+400600,@100001,How about taking a break to recover from your adventures?
+400601,@100001,Extract herbs from the scenic Extraction Pit!
+400602,@100001,Gather herbs now and use them later!
+400700,@100001,@400000
+400701,@100001,"Countless monsters await your challenge in the Trials of Experience, <YellowBold>[player]</>."
+400702,@100001,"<YellowBold>[player]</>, you’ll become stronger than you can imagine by fighting monsters!"

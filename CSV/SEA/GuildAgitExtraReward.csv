@@ -1,0 +1,5 @@
+Id,RequiredCount,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,20,ExpAgit,,200,UI_Icon_AgitPoint
+2,50,ExpAgit,,360,UI_Icon_AgitPoint
+4,80,ExpAgit,,450,UI_Icon_AgitPoint
+5,105,ExpAgitCrystal,,3000,Icon_Asset_GuildAgitCrystal

@@ -1,0 +1,4 @@
+Id,Name,PopupType,RepeatType,DailyType,UIKeyword,Probability,AchievementId,LimitPeriodStart,LimitPeriodEnd,ShopItemId
+1,10-20레벨구간,System,,,,,,,,9008
+2,20-30레벨구간,System,,,,,,,,9009
+3,30-40레벨구간,System,,,,,,,,9010

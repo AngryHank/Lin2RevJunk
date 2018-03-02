@@ -1,0 +1,15 @@
+Key,AdditionalCutSceneName,KeepHeadMesh
+BossEmersion_Orbis,CutScene,0
+BossEmersion_Boreas,CutScene,0
+Scene01_Cut01,Scene01_SubLevel,0
+Scene01_Cut03,Scene01_SubLevel,0
+Tutor_Scene01_01,Streaming_outdoor02,0
+Tutor_Scene01_02,"Scene01_SubLevel,Streaming_outdoor02",0
+Tutor_Scene02_01,Scene01_SubLevel,0
+Tutor_Scene02_02,"Scene01_SubLevel,Streaming_outdoor02",0
+Tutor_Scene03_01,Streaming_indoor,0
+Tutor_Scene03_02,Streaming_indoor,0
+Tutor_Scene03_04,Streaming_indoor,0
+BarrierEntrance,T_Sub_002,0
+Victory,"OthersideRift_CutScene,ElvenRuins_CutScene",0
+Finish,"OthersideRift_CutScene,ElvenRuins_CutScene",1

@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Holy Artifact Imprinting Time Increase,Increases the time required to imprint a Holy Artifact by 1 second.
+1002,@1001,Increases the time required to imprint a Holy Artifact by 2 seconds.
+1003,@1001,Increases the time required to imprint a Holy Artifact by 3 seconds.
+1004,@1001,Increases the time required to imprint a Holy Artifact by 4 seconds.
+1005,@1001,Increases the time required to imprint a Holy Artifact by 5 seconds.
+2001,Defense Tower HP Increase,Increases Defense Tower HP by 500.
+2002,@2001,"Increases Defense Tower HP by 1,000."
+2003,@2001,"Increases Defense Tower HP by 1,500."
+2004,@2001,"Increases Defense Tower HP by 2,000."
+2005,@2001,"Increases Defense Tower HP by 2,500."
+3001,Trap Atk. Increase,"Increases Trap Atk. by 1%.
+Traps deal % damage to enemy Max HP."
+3002,@3001,"Increases Trap Atk. by 2%.
+Traps deal % damage to enemy Max HP."
+3003,@3001,"Increases Trap Atk. by 3%.
+Traps deal % damage to enemy Max HP."
+3004,@3001,"Increases Trap Atk. by 4%.
+Traps deal % damage to enemy Max HP."
+3005,@3001,"Increases Trap Atk. by 5%.
+Traps deal % damage to enemy Max HP."

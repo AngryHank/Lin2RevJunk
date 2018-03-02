@@ -1,0 +1,6 @@
+Id,EventGroupID,TargetUserLevel_Low,TargetUserLevel_High,BackGroundTexture,BadgeType,EventCheck
+31,31,1,15,UI_Image_JourneyEvent,204,0
+32,32,16,31,UI_Image_JourneyEvent,205,0
+33,33,32,49,UI_Image_JourneyEvent,209,0
+34,34,50,180,UI_Image_JourneyEvent3,206,0
+35,35,1,180,UI_Image_JourneyEvent4,207,1

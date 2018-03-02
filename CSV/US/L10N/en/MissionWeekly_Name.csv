@@ -1,0 +1,1705 @@
+Id,Nme,Desc
+1,Defeat Orc Worker of West Talking Island.,Defeat Orc Worker {TaskCount} time(s).
+2,Defeat Forest Thorn Dicor of West Talking Island.,Defeat Forest Thorn Dicor {TaskCount} time(s).
+3,Defeat Starving Red Fox of West Talking Island.,Defeat Starving Red Fox {TaskCount} time(s).
+4,Defeat Forest Wasp of West Talking Island.,Defeat Forest Wasp {TaskCount} time(s).
+5,@1,@1
+6,@2,@2
+7,@3,@3
+8,@1,@1
+9,@2,@2
+10,@3,@3
+11,@4,@4
+12,@1,@1
+13,@2,@2
+14,@3,@3
+15,@1,@1
+16,@2,@2
+17,@3,@3
+18,@4,@4
+19,@1,@1
+20,@2,@2
+21,@3,@3
+22,@1,@1
+23,@2,@2
+24,@3,@3
+25,@4,@4
+26,@1,@1
+27,@2,@2
+28,@3,@3
+29,@2,@2
+30,@3,@3
+31,Defeat Skeleton Soldier of West Talking Island.,Defeat a Skeleton Soldier {TaskCount} time(s).
+32,Defeat Skeleton Archer of West Talking Island.,Defeat Skeleton Archer {TaskCount} time(s).
+33,Defeat Red Rouse of West Talking Island.,Defeat Red Rouse {TaskCount} time(s).
+34,Defeat Taarka of West Talking Island.,Defeat Taarka {TaskCount} time(s).
+35,Defeat Bane King of West Talking Island.,Defeat Bane King {TaskCount} time(s).
+36,@31,@31
+37,@32,@32
+38,@31,@31
+39,@32,@32
+40,@33,@33
+41,@34,@34
+42,@35,@35
+43,@31,@31
+44,@32,@32
+45,@31,@31
+46,@32,@32
+47,@31,@31
+48,@32,@32
+49,@31,@31
+50,@32,@32
+51,@34,@34
+52,@35,@35
+53,@31,@31
+54,@32,@32
+55,@31,@31
+56,@32,@32
+57,@31,@31
+58,@32,@32
+59,@31,@31
+60,@32,@32
+61,Defeat Rabid Werewolf of Gludin Highway.,Defeat Rabid Werewolf {TaskCount} time(s).
+62,@61,@61
+63,@61,@61
+64,@61,@61
+65,@61,@61
+66,@61,@61
+67,Defeat Canine of Gludin Highway.,Defeat Canine {TaskCount} time(s).
+68,Defeat Freki of Gludin Highway.,Defeat Freki {TaskCount} time(s).
+69,@67,@67
+70,@68,@68
+71,Defeat Ol Mahum Scout of Gludin Highway.,Defeat Ol Mahum Scout {TaskCount} time(s).
+72,@71,@71
+73,@71,@71
+74,@71,@71
+75,@71,@71
+76,@71,@71
+77,Defeat Plains Cougar of Gludin Highway.,Defeat Plains Cougar {TaskCount} time(s).
+78,Defeat Weaver of Gludin Highway.,Defeat Weaver {TaskCount} time(s).
+79,@77,@77
+80,@78,@78
+81,@77,@77
+82,@78,@78
+83,@77,@77
+84,@78,@78
+85,@77,@77
+86,@78,@78
+87,Defeat Melville of Gludin Highway.,Defeat Melville {TaskCount} time(s).
+88,@77,@77
+89,@78,@78
+90,@87,@87
+91,Defeat Malevolent Skeleton Soldier of Gludin Highway.,Defeat a Malevolent Skeleton Soldier {TaskCount} time(s).
+92,Defeat Grave Bat of Gludin Highway.,Defeat Grave Bat {TaskCount} time(s).
+93,@91,@91
+94,@92,@92
+95,@91,@91
+96,@92,@92
+97,@91,@91
+98,@92,@92
+99,@91,@91
+100,@92,@92
+101,@91,@91
+102,@92,@92
+103,@91,@91
+104,@92,@92
+105,@91,@91
+106,@92,@92
+107,@91,@91
+108,@92,@92
+109,@91,@91
+110,@92,@92
+111,@91,@91
+112,@92,@92
+113,@91,@91
+114,@92,@92
+115,Defeat Malevolent Skeleton Archer of Gludin Highway.,Defeat Malevolent Skeleton Archer {TaskCount} time(s).
+116,@115,@115
+117,Defeat Moretti of Gludin Highway.,Defeat Moretti {TaskCount} time(s).
+118,@117,@117
+119,@117,@117
+120,@117,@117
+121,Defeat Ol Mahum Foreman of Gludin Highway.,Defeat Ol Mahum Foreman {TaskCount} time(s).
+122,Defeat Ol Mahum Cutthroats on Gludin Highway.,Defeat Ol Mahum Cutthroats {TaskCount} time(s).
+123,@121,@121
+124,@122,@122
+125,@121,@121
+126,@122,@122
+127,@121,@121
+128,@122,@122
+129,@121,@121
+130,@122,@122
+131,@121,@121
+132,@122,@122
+133,@121,@121
+134,@122,@122
+135,@121,@121
+136,@122,@122
+137,@121,@121
+138,@122,@122
+139,@121,@121
+140,@122,@122
+141,Defeat Olvar of Gludin Highway.,Defeat Olvar {TaskCount} time(s).
+142,@121,@121
+143,@122,@122
+144,@141,@141
+145,Defeat Ol Mahum Shooter of Gludin Highway.,Defeat Ol Mahum Shooter {TaskCount} time(s).
+146,Defeat Alle of Gludin Highway.,Defeat Alle {TaskCount} time(s).
+147,@145,@145
+148,@141,@141
+149,@146,@146
+150,@146,@146
+151,Defeat Red Fox of Gludio Plains.,Defeat Red Fox {TaskCount} time(s).
+152,Defeat Crazed Black Wolf of Gludio Plains.,Defeat Crazed Black Wolf {TaskCount} time(s).
+153,Defeat Antelope of Gludio Plains.,Defeat Antelope {TaskCount} time(s).
+154,@151,@151
+155,@152,@152
+156,@153,@153
+157,@151,@151
+158,@152,@152
+159,@153,@153
+160,@151,@151
+161,@152,@152
+162,@153,@153
+163,Defeat Maille Lizardman Goalseeker of Gludio Plains.,Defeat Maille Lizardman Goalseeker {TaskCount} time(s).
+164,Defeat Rabid Black Wolves of Gludio Plains.,Defeat Rabid Black Wolves {TaskCount} time(s).
+165,Defeat Pincher of Gludio Plains.,Defeat {TaskCount} Pincher(s).
+166,@163,@163
+167,@164,@164
+168,@165,@165
+169,@163,@163
+170,@164,@164
+171,@165,@165
+172,@163,@163
+173,@164,@164
+174,@165,@165
+175,Defeat Kactoose of Gludio Plains.,Defeat Kactoose {TaskCount} time(s).
+176,@175,@175
+177,Defeat Bugbear Looter of Gludio Plains.,Defeat Bugbear Looter {TaskCount} time(s).
+178,@177,@177
+179,@175,@175
+180,@177,@177
+181,Defeat Bighand of Gludio Plains.,Defeat Bighand {TaskCount} time(s).
+182,Defeat Doom Skull of Gludio Plains.,Defeat Doom Skull {TaskCount} time(s).
+183,@175,@175
+184,@163,@163
+185,@164,@164
+186,@151,@151
+187,@152,@152
+188,@153,@153
+189,@165,@165
+190,Defeat Dark Weaver of Gludio Plains.,Defeat Dark Weaver {TaskCount} time(s).
+191,@177,@177
+192,Defeat Bugbear Butcher of Gludio Plains.,Defeat Bugbear Butcher {TaskCount} time(s).
+193,@181,@181
+194,@182,@182
+195,@175,@175
+196,@163,@163
+197,@164,@164
+198,@151,@151
+199,@152,@152
+200,@153,@153
+201,@165,@165
+202,@190,@190
+203,@177,@177
+204,@192,@192
+205,@152,@152
+206,@153,@153
+207,@165,@165
+208,@190,@190
+209,@177,@177
+210,@192,@192
+211,Defeat Cotous of Gludio Plains.,Defeat Cotous {TaskCount} time(s).
+212,Defeat Cox of Gludio Plains.,Defeat Cox {TaskCount} time(s).
+213,Defeat Turekka of Gludio Plains.,Defeat Turekka {TaskCount} time(s).
+214,Defeat Maille Lizardman Shaman of Gludio Plains.,Defeat Maille Lizardman Shaman {TaskCount} time(s).
+215,Defeat Maille Lizardman Marksman of Gludio Plains.,Defeat Maille Lizardman Marksman {TaskCount} time(s).
+216,Defeat Maille Lizardman Guard of Gludio Plains.,Defeat Maille Lizardman Guard {TaskCount} time(s).
+217,Defeat Maille Lizardman Scout of Gludio Plains.,Defeat Maille Lizardman Scout {TaskCount} time(s).
+218,@211,@211
+219,@212,@212
+220,@213,@213
+221,@214,@214
+222,@215,@215
+223,@216,@216
+224,@217,@217
+225,@211,@211
+226,@212,@212
+227,@213,@213
+228,@214,@214
+229,@215,@215
+230,@216,@216
+231,@217,@217
+232,@211,@211
+233,@212,@212
+234,@213,@213
+235,@214,@214
+236,@215,@215
+237,@216,@216
+238,@217,@217
+239,@216,@216
+240,@217,@217
+241,Defeat Cursed Hunter of Windawood Manor.,Defeat Cursed Hunter {TaskCount} time(s).
+242,Defeat Mysterious Subject of Windawood Manor.,Defeat Mysterious Subject {TaskCount} time(s).
+243,Defeat Shadow Wing of Windawood Manor.,Defeat Shadow Wing {TaskCount} time(s).
+244,Defeat Grotesque Werewolf of Windawood Manor.,Defeat Grotesque Werewolf {TaskCount} time(s).
+245,Defeat Vampire Bat of Windawood Manor.,Defeat Vampire Bat {TaskCount} time(s).
+246,Defeat Skeleton Warrior of Windawood Manor.,Defeat Skeleton Warrior {TaskCount} time(s).
+247,Defeat Skeleton Bowman of Windawood Manor.,Defeat Skeleton Bowman {TaskCount} time(s).
+248,Defeat Starving Hound of Windawood Manor.,Defeat Starving Hound {TaskCount} time(s).
+249,@246,@246
+250,Defeat Soul Slasher of Windawood Manor.,Defeat Soul Slasher {TaskCount} time(s).
+251,@241,@241
+252,@242,@242
+253,@243,@243
+254,@244,@244
+255,@245,@245
+256,@246,@246
+257,@247,@247
+258,@248,@248
+259,@246,@246
+260,@250,@250
+261,@241,@241
+262,@242,@242
+263,@243,@243
+264,@244,@244
+265,@245,@245
+266,@246,@246
+267,@247,@247
+268,@248,@248
+269,@246,@246
+270,@250,@250
+271,Defeat Ruins Wanderer of Windawood Manor.,Defeat Ruins Wanderer {TaskCount} time(s).
+272,Defeat Vindictive Prima of Windawood Manor.,Defeat Vindictive Prima {TaskCount} time(s).
+273,Defeat Ol Mahum Crystal Thief of Windawood Manor.,Defeat Ol Mahum Crystal Thief {TaskCount} time(s).
+274,Defeat Ol Mahum Ranger of Windawood Manor.,Defeat Ol Mahum Ranger {TaskCount} time(s).
+275,Defeat Ol Mahum Vanguard of Windawood Manor.,Defeat Ol Mahum Vanguard {TaskCount} time(s).
+276,Defeat Ol Mahum Guard of Windawood Manor.,Defeat Ol Mahum Guard {TaskCount} time(s).
+277,Defeat Venomous Spider of Windawood Manor.,Defeat Venomous Spider {TaskCount} time(s).
+278,Defeat Ferocious Cougar of Windawood Manor.,Defeat Ferocious Cougar {TaskCount} time(s).
+279,@271,@271
+280,@272,@272
+281,@273,Defeat Ol Mahum Crystal Thief {TaskCount} time(s).
+282,@274,@274
+283,@275,@275
+284,@276,@276
+285,@277,@277
+286,@278,@278
+287,@271,@271
+288,@272,@272
+289,@273,@281
+290,@274,@274
+291,@275,@275
+292,@276,@276
+293,@277,@277
+294,@278,@278
+295,@271,@271
+296,@272,@272
+297,@273,@281
+298,@274,@274
+299,@275,@275
+300,@276,@276
+301,@277,@277
+302,@278,@278
+303,Defeat Fallen Snipe of Windawood Manor.,Defeat Fallen Snipe {TaskCount} time(s).
+304,Defeat Cougar of Windawood Manor.,Defeat Cougar {TaskCount} time(s).
+305,Defeat Sabretooth of Windawood Manor.,Defeat Sabretooth {TaskCount} time(s).
+306,Defeat Gludio Bear of Windawood Manor.,Defeat Gludio Bear {TaskCount} time(s).
+307,Defeat Turek Orc Soldier Recruit of Windawood Manor.,Defeat Turek Orc Soldier Recruit {TaskCount} time(s).
+308,Defeat Turek Orc Troopers of Windawood Manor.,Defeat Turek Orc Trooper {TaskCount} time(s).
+309,Defeat Hucca of Windawood Manor.,Defeat Hucca {TaskCount} time(s).
+310,Defeat Turek Orc Guard of Windawood Manor.,Defeat Turek Orc Guard {TaskCount} time(s).
+311,Defeat Turek Orc Shooter of Windawood Manor.,Defeat Turek Orc Shooter {TaskCount} time(s).
+312,Defeat Fierce Turek War Hound of Windawood Manor.,Defeat Fierce Turek War Hound {TaskCount} time(s).
+313,Defeat Turek Orc Decanus of Windawood Manor.,Defeat Turek Orc Decanus {TaskCount} time(s).
+314,@303,@303
+315,@304,@304
+316,@305,@305
+317,@306,@306
+318,@307,@307
+319,@308,@308
+320,@309,@309
+321,@310,@310
+322,@311,@311
+323,@312,@312
+324,@313,@313
+325,@303,@303
+326,@304,@304
+327,@305,@305
+328,@306,@306
+329,@307,@307
+330,@308,@308
+331,@309,@309
+332,@310,@310
+333,@311,@311
+334,@312,@312
+335,@313,@313
+336,Defeat Turek Orc Altar Guard of Windawood Manor.,Defeat Turek Orc Altar Guard {TaskCount} time(s).
+337,Defeat Turek Orc Scout of Windawood Manor.,Defeat Turek Orc Scout {TaskCount} time(s).
+338,Defeat Turek Orc Archer of Windawood Manor.,Defeat Turek Orc Archer {TaskCount} time(s).
+339,Defeat Turek Orc Escort of Windawood Manor.,Defeat Turek Orc Escort {TaskCount} time(s).
+340,Defeat Turek Orc Elite Soldier of Windawood Manor.,Defeat Turek Orc Elite Soldier {TaskCount} time(s).
+341,Defeat Gnasher of Windawood Manor.,Defeat Gnasher {TaskCount} time(s).
+342,Defeat Troka of Windawood Manor.,Defeat Troka {TaskCount} time(s).
+343,@336,@336
+344,@337,@337
+345,@338,@338
+346,@339,@339
+347,@340,@340
+348,@341,@341
+349,@342,@342
+350,@336,@336
+351,@337,@337
+352,@338,@338
+353,@339,@339
+354,@340,@340
+355,@341,@341
+356,@342,@342
+357,@336,@336
+358,@337,@337
+359,@338,@338
+360,@339,@339
+361,@340,@340
+362,@341,@341
+363,@342,@342
+364,@336,@336
+365,@337,@337
+366,Defeat Sand Eye of the Wasteland.,Defeat Sand Eye {TaskCount} time(s).
+367,Defeat Ol Mahum Carriers in the Wasteland.,Defeat {TaskCount} Ol Mahum Carriers.
+368,Defeat Werewolf of the Wasteland.,Defeat Werewolf {TaskCount} time(s).
+369,Defeat Valley Watcher of the Wasteland.,Defeat Valley Watcher {TaskCount} time(s).
+370,Defeat Monster Eye Tracker of the Wasteland.,Defeat Monster Eye Tracker {TaskCount} time(s).
+371,Defeat Sahara of the Wasteland.,Defeat Sahara {TaskCount} time(s).
+372,Defeat Skeleton Seeker of the Wasteland.,Defeat Skeleton Seeker {TaskCount} time(s).
+373,Defeat Red Lock of the Wasteland.,Defeat Red Lock {TaskCount} time(s).
+374,Defeat Pointer of the Wasteland.,Defeat Pointer {TaskCount} time(s).
+375,Defeat Wastelands Basilisk of the Wasteland.,Defeat Wastelands Basilisk {TaskCount} time(s).
+376,Defeat Mutant Armored Ant of the Wasteland.,Defeat Mutant Armored Ant {TaskCount} time(s).
+377,Defeat Mutant Armored Ant Warrior of the Wasteland.,Defeat Mutant Armored Ant Warrior {TaskCount} time(s).
+378,Defeat Skeleton Tracker of the Wasteland.,Defeat Skeleton Tracker {TaskCount} time(s).
+379,@366,@366
+380,@367,@367
+381,@368,@368
+382,@369,@369
+383,@370,@370
+384,@371,@371
+385,@372,@372
+386,@373,@373
+387,@374,@374
+388,@375,@375
+389,@376,@376
+390,@377,@377
+391,@378,@378
+392,@366,@366
+393,@367,@367
+394,@368,@368
+395,@369,@369
+396,Defeat Eroded Sahara of the Wasteland.,Defeat Eroded Sahara {TaskCount} time(s).
+397,Defeat Giant Leech of the Wasteland.,Defeat Giant Leech {TaskCount} time(s).
+398,Defeat Mutant Armored Ant Worker of the Wasteland.,Defeat Mutant Armored Ant Workers {TaskCount} time(s).
+399,Defeat Mutant Armored Ant Page of the Wasteland.,Defeat Mutant Armored Ant Page {TaskCount} time(s).
+400,Defeat Ol Mahum Looter Guards of the Wasteland.,Defeat Ol Mahum Looter Guard {TaskCount} time(s).
+401,Defeat Ol Mahum Porter of the Wasteland.,Defeat Ol Mahum Porter {TaskCount} time(s).
+402,Defeat Grinder of the Wasteland.,Defeat Grinder {TaskCount} time(s).
+403,Defeat Sand Lurker of the Wasteland.,Defeat Sand Lurker {TaskCount} time(s).
+404,Defeat Mana Leech of the Wasteland.,Defeat Mana Leech {TaskCount} time(s).
+405,Defeat Desert Skeleton Sentinel of the Wasteland.,Defeat Desert Skeleton Sentinel {TaskCount} time(s).
+406,Defeat Desert Skeleton Seeker of the Wasteland.,Defeat Desert Skeleton Seeker {TaskCount} time(s).
+407,Defeat Mutant Armored Ant Soldier of the Wasteland.,Defeat Mutant Armored Ant Soldier {TaskCount} time(s).
+408,Defeat Sahara of the Desert of the Wasteland.,Defeat Sahara of the Desert {TaskCount} time(s).
+409,Defeat Gray Stone Golem of the Wasteland.,Defeat Gray Stone Golem {TaskCount} time(s).
+410,Defeat Ol Mahum Looters of the Wasteland.,Defeat Ol Mahum Looter {TaskCount} time(s).
+411,@396,@396
+412,@397,@397
+413,@398,@398
+414,@399,@399
+415,@400,@400
+416,@401,@401
+417,@402,@402
+418,@403,@403
+419,@404,@404
+420,@405,@405
+421,@406,@406
+422,@407,@407
+423,@408,@408
+424,@409,@409
+425,@410,@410
+426,@408,@408
+427,@409,@409
+428,@400,@400
+429,@401,@401
+430,@410,@410
+431,Defeat Ol Mahum Looter Fighters of the Wasteland.,Defeat Ol Mahum Looter Fighter {TaskCount} time(s).
+432,Defeat Ol Mahum Looter Rangers of the Wasteland.,Defeat Ol Mahum Looter Ranger {TaskCount} time(s).
+433,Defeat Stone Haftz of the Wasteland.,Defeat Stone Haftz {TaskCount} time(s).
+434,Defeat Sand Haftz of the Wasteland.,Defeat Sand Haftz {TaskCount} time(s).
+435,@408,@408
+436,@408,@408
+437,@409,@409
+438,@400,@400
+439,@401,@401
+440,@410,@410
+441,@431,@431
+442,@432,@432
+443,@433,@433
+444,@434,@434
+445,@408,@408
+446,@408,@408
+447,@409,@409
+448,@400,@400
+449,@401,@401
+450,@410,@410
+451,@431,@431
+452,@432,@432
+453,@433,@433
+454,@434,@434
+455,@408,@408
+456,Defeat Breka Orc Scouts of the Plains of Dion.,Defeat Breka Orc Scouts {TaskCount} time(s).
+457,Defeat Breka Orc Fighter of the Plains of Dion.,Defeat Breka Orc Fighter {TaskCount} time(s).
+458,Defeat Breka Orc Guard of the Plains of Dion.,Defeat Breka Orc Guard {TaskCount} time(s).
+460,Defeat Breka Orc Escort of the Plains of Dion.,Defeat Breka Orc Escort {TaskCount} time(s).
+461,Defeat Enraged Wasp of the Plains of Dion.,Defeat Enraged Wasp {TaskCount} time(s).
+462,Defeat Wasp of the Plains of Dion.,Defeat Wasp {TaskCount} time(s).
+463,Defeat Breka Orc Supplier of the Plains of Dion.,Defeat Breka Orc Supplier {TaskCount} time(s).
+464,Defeat Breka Orc Ranger of the Plains of Dion.,Defeat Breka Orc Ranger {TaskCount} time(s).
+465,Defeat Bulc of the Plains of Dion.,Defeat Bulc {TaskCount} time(s).
+466,Defeat Baroque of the Plains of Dion.,Defeat Baroque {TaskCount} time(s).
+467,Defeat Thrush of the Plains of Dion.,Defeat Thrush {TaskCount} time(s).
+468,Defeat Varash of the Plains of Dion.,Defeat Varash {TaskCount} time(s).
+469,Defeat Leto Lizardman of the Plains of Dion.,Defeat Leto Lizardman {TaskCount} time(s).
+470,Defeat Leto Lizardman Fighters of the Plains of Dion.,Defeat Leto Lizardman Fighters {TaskCount} time(s).
+471,Defeat Leto Lizardman Archer of the Plains of Dion.,Defeat Leto Lizardman Archer {TaskCount} time(s).
+472,Defeat Leto Lizardman Looter of the Plains of Dion.,Defeat Leto Lizardman Looter {TaskCount} time(s).
+473,@456,@456
+474,@457,@457
+475,@458,@458
+477,@460,@460
+478,@461,@461
+479,@462,@462
+480,@463,@463
+481,@464,@464
+482,@465,@465
+483,@466,@466
+484,@467,@467
+485,@468,@468
+486,@469,@469
+487,@470,@470
+488,@471,@471
+489,@472,@472
+490,Defeat Leto Lizardman Shaman of the Plains of Dion.,Defeat Leto Lizardman Shaman {TaskCount} time(s).
+491,Defeat Leto Lizardman Guard of the Plains of Dion.,Defeat Leto Lizardman Guard {TaskCount} time(s).
+492,Defeat Prickly Wasp of the Plains of Dion.,Defeat Prickly Wasp {TaskCount} time(s).
+493,Defeat Prairie Antelope of the Plains of Dion.,Defeat Prairie Antelope {TaskCount} time(s).
+494,Defeat Leto Lizardman Pillager of the Plains of Dion.,Defeat Leto Lizardman Pillager {TaskCount} time(s).
+495,Defeat Krush of the Plains of Dion.,Defeat Krush {TaskCount} time(s).
+496,Defeat Screash of the Plains of Dion.,Defeat Screash {TaskCount} time(s).
+497,@491,@491
+498,Defeat Leto Lizardman Escort of the Plains of Dion.,Defeat Leto Lizardman Escort {TaskCount} time(s).
+499,Defeat Prairie Windsus of the Plains of Dion.,Defeat Prairie Windsus {TaskCount} time(s).
+500,@490,@490
+501,@491,@491
+502,@492,@492
+503,@493,@493
+504,@494,@494
+505,@495,@495
+506,@496,@496
+507,@491,@491
+508,@498,@498
+509,@499,@499
+510,@490,@490
+511,@491,@491
+512,@492,@492
+513,@493,@493
+514,@494,@494
+515,@495,@495
+516,@496,@496
+517,@491,@491
+518,@498,@498
+519,@499,@499
+520,Defeat Elven Antelope of the Plains of Dion.,Defeat Elven Antelope {TaskCount} time(s).
+521,Defeat Breka Orc Infiltrator of the Plains of Dion.,Defeat Breka Orc Infiltrator {TaskCount} time(s).
+522,Defeat Elder Antelope of the Plains of Dion.,Defeat Elder Antelope {TaskCount} time(s).
+523,Defeat Surly Vampire Bat of the Plains of Dion.,Defeat Surly Vampire Bat {TaskCount} time(s).
+524,Defeat Giant Thorn Spider of the Plains of Dion.,Defeat Giant Thorn Spider {TaskCount} time(s).
+525,Defeat Vampire Bat of the Plains of Dion.,Defeat Vampire Bat {TaskCount} time(s).
+526,Defeat Tullan Bugbear of the Plains of Dion.,Defeat Tullan Bugbear {TaskCount} time(s).
+527,Defeat Ferocious Red Bear of the Plains of Dion.,Defeat Ferocious Red Bear {TaskCount} time(s).
+528,Defeat Prairie Blade Spider of the Plains of Dion.,Defeat Prairie Blade Spider {TaskCount} time(s).
+529,Defeat Blade Pincher of the Plains of Dion.,Defeat Blade Pincher {TaskCount} time(s).
+530,Defeat Red Bear of the Plains of Dion.,Defeat Red Bear {TaskCount} time(s).
+531,Defeat Bugbear of the Plains of Dion.,Defeat Bugbear {TaskCount} time(s).
+532,Defeat Elven Windsus of the Plains of Dion.,Defeat Elven Windsus {TaskCount} time(s).
+533,Defeat Moke of the Plains of Dion.,Defeat Moke {TaskCount} time(s).
+534,Defeat Elven Red Bear of the Plains of Dion.,Defeat Elven Red Bear {TaskCount} time(s).
+535,Defeat Breka Orc Trooper of the Plains of Dion.,Defeat Breka Orc Trooper {TaskCount} time(s).
+536,Defeat Blood Wasp of the Plains of Dion.,Defeat Blood Wasp {TaskCount} time(s).
+537,@521,@521
+538,@522,@522
+539,@523,@523
+540,@524,@524
+541,@525,@525
+542,@526,@526
+543,@527,@527
+544,@528,@528
+545,@529,@529
+546,@530,@530
+547,@531,@531
+548,@532,@532
+549,@533,@533
+550,@534,@534
+551,@535,@535
+552,@536,@536
+553,Defeat Black Tiger Spider of Cruma Swamp.,Defeat Black Tiger Spider {TaskCount} time(s).
+554,Defeat Horror Mist Reaper of Cruma Swamp.,Defeat Horror Mist Reaper {TaskCount} time(s).
+555,Defeat Horror Reaper of Cruma Swamp.,Defeat Horror Reaper {TaskCount} time(s).
+556,Defeat Swamp Venomous Spider of Cruma Swamp.,Defeat Swamp Venomous Spider {TaskCount} time(s).
+557,Defeat Swamp Bat of Cruma Swamp.,Defeat Swamp Bat {TaskCount} time(s).
+558,Defeat Cursed Seer of Cruma Swamp.,Defeat Cursed Seer {TaskCount} time(s).
+559,@553,@553
+560,@554,@554
+561,@555,@555
+562,@556,@556
+563,@557,@557
+564,@558,@558
+565,@553,@553
+566,@554,@554
+567,@555,@555
+568,@556,@556
+569,@557,@557
+570,@558,@558
+571,@553,@553
+572,@554,@554
+573,@555,@555
+574,@556,@556
+575,@557,@557
+576,@558,@558
+577,@553,@553
+578,@554,@554
+579,@555,@555
+580,@556,@556
+581,@557,@557
+582,@558,@558
+583,Defeat Liam of Cruma Swamp.,Defeat Liam {TaskCount} time(s).
+584,Defeat Ronde of Cruma Swamp.,Defeat Ronde {TaskCount} time(s).
+585,Defeat Maille Lizardman Vanguard of Cruma Swamp.,Defeat Maille Lizardman Vanguard {TaskCount} time(s).
+586,Defeat Skeleton Scout of Cruma Swamp.,Defeat Skeleton Scout {TaskCount} time(s).
+587,Defeat Skeleton Pursuer of Cruma Swamp.,Defeat Skeleton Pursuer {TaskCount} time(s).
+588,Defeat Maille Lizardman Shaman of Cruma Swamp.,@214
+589,Defeat Maille Lizardman Pursuer of Cruma Swamp.,Defeat Maille Lizardman Pursuer {TaskCount} time(s).
+590,Defeat Maille Lizardman Patrol of Cruma Swamp.,Defeat Maille Lizardman Patrol {TaskCount} time(s).
+591,Defeat Swamp Ghoul of Cruma Swamp.,Defeat Swamp Ghoul {TaskCount} time(s).
+592,@583,@583
+593,@584,@584
+594,@585,@585
+595,@586,@586
+596,@587,@587
+597,@588,@214
+598,@589,@589
+599,@590,@590
+600,@591,@591
+601,@583,@583
+602,@584,@584
+603,@585,@585
+604,@586,@586
+605,@587,@587
+606,@588,@214
+607,@589,@589
+608,@590,@590
+609,@591,@591
+610,@588,@214
+611,@589,@589
+612,@590,@590
+613,Defeat Swamp Assassin of Cruma Swamp.,Defeat Swamp Assassin {TaskCount} time(s).
+614,Defeat Swamp Killer of Cruma Swamp.,Defeat Swamp Killer {TaskCount} time(s).
+615,Defeat Marsh Stakato Envoy of Cruma Swamp.,Defeat Marsh Stakato Envoy {TaskCount} time(s).
+616,Defeat Swamp Hassassin of Cruma Swamp.,Defeat Swamp Hassassin {TaskCount} time(s).
+617,Defeat Marsh Stakato Slave of Cruma Swamp.,Defeat Marsh Stakato Slave {TaskCount} time(s).
+618,Defeat Marsh Stakato Hassassin of Cruma Swamp.,Defeat Marsh Stakato Hassassin {TaskCount} time(s).
+619,Defeat Destructive Killer of Cruma Swamp.,Defeat Destructive Killer {TaskCount} time(s).
+620,Defeat Swamp Killer of Cruma Swamp.,@614
+621,Defeat Morgan of Cruma Swamp.,Defeat Morgan {TaskCount} time(s).
+622,Defeat Zyrnna of Cruma Swamp.,Defeat Zyrnna {TaskCount} time(s).
+623,@613,@613
+624,@614,@614
+625,@615,@615
+626,@616,@616
+627,@617,@617
+628,@618,@618
+629,@619,@619
+630,@620,@614
+631,@621,@621
+632,@622,@622
+633,@613,@613
+634,@614,@614
+635,@615,@615
+636,@616,@616
+637,@617,@617
+638,@618,@618
+639,@619,@619
+640,@620,@614
+641,@621,@621
+642,@622,@622
+643,Defeat Arcane of Cruma Swamp.,Defeat Arcane {TaskCount} time(s).
+644,Defeat Insane Killer of Cruma Swamp.,Defeat Insane Killer {TaskCount} time(s).
+645,Defeat Shadow Choir Prima of Cruma Swamp.,Defeat Shadow Choir Prima {TaskCount} time(s).
+646,Defeat Enraged Grizzly Bear of the Summit of Dissonance.,Defeat Enraged Grizzly Bear {TaskCount} time(s).
+647,Defeat Red-Tailed Fox of the Summit of Dissonance.,Defeat Red-Tailed Fox {TaskCount} time(s).
+648,Defeat Black Leopard of the Summit of Dissonance.,Defeat Black Leopard {TaskCount} time(s).
+649,Defeat Forest Fang Spider of the Summit of Dissonance.,Defeat Forest Fang Spider {TaskCount} time(s).
+650,Defeat Tanor Sentinel of the Summit of Dissonance.,Defeat Tanor Sentinel {TaskCount} time(s).
+651,Defeat Tanor Trooper of the Summit of Dissonance.,Defeat Tanor Trooper {TaskCount} time(s).
+652,Defeat Tanor Fighter of the Summit of Dissonance.,Defeat Tanor Fighter {TaskCount} time(s).
+653,Defeat Tanor Sentry of the Summit of Dissonance.,Defeat Tanor Sentry {TaskCount} time(s).
+654,Defeat Tanor Scout of the Summit of Dissonance.,Defeat Tanor Scout {TaskCount} time(s).
+655,Defeat Tanor Knight Recruit of the Summit of Dissonance.,Defeat Tanor Knight Recruit {TaskCount} time(s).
+656,Defeat Tanor Supplier of the Summit of Dissonance.,Defeat Tanor Supplier {TaskCount} time(s).
+657,Defeat Tanor Shaman of the Summit of Dissonance.,Defeat Tanor Shaman {TaskCount} time(s).
+658,Defeat Sapping Wasp of the Summit of Dissonance.,Defeat Sapping Wasp {TaskCount} time(s).
+659,Defeat Summit Attacker of the Summit of Dissonance.,Defeat Summit Attacker {TaskCount} time(s).
+660,Defeat Tartan of the Summit of Dissonance.,Defeat Tartan {TaskCount} time(s).
+661,Defeat Tutan of the Summit of Dissonance.,Defeat Tutan {TaskCount} time(s).
+662,@646,@646
+663,@647,@647
+664,@648,@648
+665,@649,@649
+666,@650,@650
+667,@651,@651
+668,@652,@652
+669,@653,@653
+670,@654,@654
+671,@655,@655
+672,@656,@656
+673,@657,@657
+674,@658,@658
+675,@659,@659
+676,@660,@660
+677,@661,@661
+678,Defeat Venomous Marsh Spider of the Summit of Dissonance.,Defeat Venomous Marsh Spider {TaskCount} time(s).
+679,Defeat Ol Mahum Patrol of the Summit of Dissonance.,Defeat Ol Mahum Patrol {TaskCount} time(s).
+680,Defeat Ol Mahum Scout of the Summit of Dissonance.,@71
+681,Defeat Shade Wasp of the Summit of Dissonance.,Defeat Shade Wasp {TaskCount} time(s).
+682,@655,@655
+683,Defeat Tanor Priest of the Summit of Dissonance.,Defeat Tanor Priest {TaskCount} time(s).
+684,Defeat Kankoon’s Elite Soldier of the Summit of Dissonance.,Defeat Kankoon's Elite Soldier {TaskCount} time(s).
+685,Defeat Kankoon’s Sentry of the Summit of Dissonance.,Defeat Kankoon's Sentry {TaskCount} time(s).
+686,Defeat Kankoon’s Priest of the Summit of Dissonance.,Defeat Kankoon's Priest {TaskCount} time(s).
+687,@652,@652
+688,Defeat Thaartan of the Summit of Dissonance.,Defeat Thaartan {TaskCount} time(s).
+689,@678,@678
+690,@679,@679
+691,@680,@71
+692,@681,@681
+693,@655,@655
+694,@683,@683
+695,@684,@684
+696,@685,@685
+697,@686,@686
+698,@652,@652
+699,@688,@688
+700,@678,@678
+701,@679,@679
+702,@680,@71
+703,@681,@681
+704,@655,@655
+705,@683,@683
+706,@684,@684
+707,@685,@685
+708,@686,@686
+709,@652,@652
+710,@688,@688
+711,Defeat Ol Mahum Officer of the Summit of Dissonance.,Defeat Ol Mahum Officer {TaskCount} time(s).
+712,Defeat Ol Mahum Supplier of the Summit of Dissonance.,Defeat Ol Mahum Supplier {TaskCount} time(s).
+713,Defeat Ol B’Khan of the Summit of Dissonance.,Defeat Ol B’Khan {TaskCount} time(s).
+714,Defeat Marsh Premo of the Summit of Dissonance.,Defeat Marsh Premo {TaskCount} time(s).
+715,Defeat Ol Mahum Sentry of the Summit of Dissonance.,Defeat Ol Mahum Sentry {TaskCount} time(s).
+716,Defeat Ol Mahum Recruit of the Summit of Dissonance.,Defeat Ol Mahum Recruit {TaskCount} time(s).
+717,Defeat Ol Mahum Trooper of the Summit of Dissonance.,Defeat Ol Mahum Trooper {TaskCount} time(s).
+718,Defeat Ol Mahum Sniper of the Summit of Dissonance.,Defeat Ol Mahum Sniper {TaskCount} time(s).
+719,Defeat Ol Mahum Commander of the Summit of Dissonance.,Defeat Ol Mahum Commander {TaskCount} time(s).
+720,Defeat Walking Fungus of the Summit of Dissonance.,Defeat Walking Fungus {TaskCount} time(s).
+721,@711,@711
+722,@712,@712
+723,@713,@713
+724,@714,@714
+725,@715,@715
+726,@716,@716
+727,@717,@717
+728,@718,@718
+729,@719,@719
+730,@720,@720
+731,@711,@711
+732,@712,@712
+733,@713,@713
+734,@714,@714
+735,@715,@715
+736,@716,@716
+737,@717,@717
+738,@718,@718
+739,@719,@719
+740,@720,@720
+741,Defeat Dicor of Sorrow of Shrieking Hallows.,Defeat Dicor of Sorrow {TaskCount} time(s).
+742,Defeat Wailing Mandragora of Shrieking Hallows.,Defeat Wailing Mandragora {TaskCount} time(s).
+743,Defeat Tortured Mandragora of Shrieking Hallows.,Defeat Tortured Mandragora {TaskCount} time(s).
+744,Defeat Dicor of Despair of Shrieking Hallows.,Defeat Dicor of Despair {TaskCount} time(s).
+745,Defeat Furious Mandragora of Shrieking Hallows.,Defeat Furious Mandragora {TaskCount} time(s).
+746,Defeat Screamer of Shrieking Hallows.,Defeat Screamer {TaskCount} time(s).
+747,Defeat Flora of Shrieking Hallows.,Defeat Flora {TaskCount} time(s).
+748,@741,@741
+749,@742,@742
+750,@743,@743
+751,@744,@744
+752,@745,@745
+753,@746,@746
+754,@747,@747
+755,@741,@741
+756,@742,@742
+757,@743,@743
+758,@744,@744
+759,@745,@745
+760,@746,@746
+761,@747,@747
+762,@741,@741
+763,@742,@742
+764,@743,@743
+765,@744,@744
+766,@745,@745
+767,@746,@746
+768,@747,@747
+769,@741,@741
+770,@742,@742
+771,Defeat Exhausted Doom Servant of Shrieking Hallows.,Defeat Exhausted Doom Servant {TaskCount} time(s).
+772,Defeat Vindictive Killer of Shrieking Hallows.,Defeat Vindictive Killer {TaskCount} time(s).
+773,Defeat Demented Reaper of Shrieking Hallows.,Defeat Demented Reaper {TaskCount} time(s).
+774,Defeat Black Willow of Shrieking Hallows.,Defeat Black Willow {TaskCount} time(s).
+775,Defeat Maimed Killer of Shrieking Hallows.,Defeat Maimed Killer {TaskCount} time(s).
+776,@771,@771
+777,@772,@772
+778,@773,@773
+779,@774,@774
+780,@775,@775
+781,@771,@771
+782,@772,@772
+783,@773,@773
+784,@774,@774
+785,@775,@775
+786,@771,@771
+787,@772,@772
+788,@773,@773
+789,@774,@774
+790,@775,@775
+791,@771,@771
+792,@772,@772
+793,@773,@773
+794,@774,@774
+795,@775,@775
+796,@771,@771
+797,@772,@772
+798,@773,@773
+799,@774,@774
+800,@775,@775
+801,Defeat Doom Servant of Shrieking Hallows.,Defeat Doom Servant {TaskCount} time(s).
+802,Defeat Restless Spirit of Shrieking Hallows.,Defeat Restless Spirit {TaskCount} time(s).
+803,Defeat Innocent Spirit of Shrieking Hallows.,Defeat Innocent Spirit {TaskCount} time(s).
+804,Defeat Death Reaper of Shrieking Hallows.,Defeat Death Reaper {TaskCount} time(s).
+805,Defeat Ominous Willow of Shrieking Hallows.,Defeat Ominous Willow {TaskCount} time(s).
+806,Defeat Bloodthirsty Specter at Shrieking Hallows of Shrieking Hallows.,Defeat Bloodthirsty Specter {TaskCount} time(s).
+807,Defeat Resurrected Specter of Shrieking Hallows.,Defeat Resurrected Specter {TaskCount} time(s).
+808,Defeat Resurrected Merchant of Shrieking Hallows.,Defeat Resurrected Merchant {TaskCount} time(s).
+809,@801,@801
+810,@802,@802
+811,@803,@803
+812,@804,@804
+813,@805,@805
+814,@806,@806
+815,@807,@807
+816,@808,@808
+817,@801,@801
+818,@802,@802
+819,@803,@803
+820,@804,@804
+821,@805,@805
+822,@806,@806
+823,@807,@807
+824,@808,@808
+825,@801,@801
+826,@802,@802
+827,@803,@803
+828,@804,@804
+829,@805,@805
+830,@806,@806
+831,Defeat Jonadan of Shrieking Hallows.,Defeat Jonadan {TaskCount} time(s).
+832,Defeat Shrieking Treant of Shrieking Hallows.,Defeat Shrieking Treant {TaskCount} time(s).
+833,Defeat Cowboy of Shrieking Hallows.,Defeat Cowboy {TaskCount} time(s).
+834,Defeat Seamstress of Shrieking Hallows.,Defeat Seamstress {TaskCount} time(s).
+835,Defeat Balthazar of Shrieking Hallows.,Defeat Balthazar {TaskCount} time(s).
+836,Defeat Skeleton Trooper of Shrieking Hallows.,Defeat Skeleton Trooper {TaskCount} time(s).
+837,Defeat Skeleton Marksman of Shrieking Hallows.,Defeat Skeleton Marksman {TaskCount} time(s).
+838,@831,@831
+839,@832,@832
+840,@833,@833
+841,@834,@834
+842,@835,@835
+843,@836,@836
+844,@837,@837
+845,@831,@831
+846,@832,@832
+847,@833,@833
+848,@834,@834
+849,@835,@835
+850,@836,@836
+851,@837,@837
+852,@832,@832
+853,@833,@833
+854,@834,@834
+855,@835,@835
+856,@836,@836
+857,@837,@837
+858,@831,@831
+859,@832,@832
+860,@831,@831
+861,@832,@832
+862,Defeat Nerkas Necromancer of Shrieking Hallows.,Defeat Nerkas Necromancer {TaskCount} time(s).
+863,Defeat Nerkas Soulharvester of Shrieking Hallows.,Defeat Nerkas Soulharvester {TaskCount} time(s).
+864,Defeat Zombie Lord of Shrieking Hallows.,Defeat Zombie Lord {TaskCount} time(s).
+865,Defeat Relentless Specter at Shrieking Hallows of Shrieking Hallows.,Defeat Relentless Specter {TaskCount} time(s).
+866,Defeat Tortured Specter of Shrieking Hallows.,Defeat Tortured Specter {TaskCount} time(s).
+867,Defeat Wailing Dicor of Shrieking Hallows.,Defeat Wailing Dicor {TaskCount} time(s).
+868,Defeat Fettered Soul of Shrieking Hallows.,Defeat Fettered Soul {TaskCount} time(s).
+869,Defeat Dread Servant of Shrieking Hallows.,Defeat Dread Servant {TaskCount} time(s).
+870,@862,@862
+871,@863,@863
+872,@864,@864
+873,@865,@865
+874,@866,@866
+875,@867,@867
+876,@868,@868
+877,@869,@869
+878,@862,@862
+879,@863,@863
+880,@864,@864
+881,@865,@865
+882,@866,@866
+883,@867,@867
+884,@868,@868
+885,@869,@869
+886,@862,@862
+887,@863,@863
+888,@864,@864
+889,@865,@865
+890,@866,@866
+891,@867,@867
+892,Defeat Ruin Dicor of Giran Dominion.,Defeat Ruin Dicor {TaskCount} time(s).
+893,Defeat Ruin Snipe of Giran Dominion.,Defeat Ruin Snipe {TaskCount} time(s).
+894,Defeat Hungry Red Bear of Giran Dominion.,Defeat Hungry Red Bear {TaskCount} time(s).
+895,Defeat Fierce Red Bear of Giran Dominion.,Defeat Fierce Red Bear {TaskCount} time(s).
+896,Defeat Alpine Cougar of Giran Dominion.,Defeat Alpine Cougar {TaskCount} time(s).
+897,Defeat Stout Cougar of Giran Dominion.,Defeat Stout Cougar {TaskCount} time(s).
+898,@892,@892
+899,@893,@893
+900,@894,@894
+901,@895,@895
+902,@896,@896
+903,@897,@897
+904,@892,@892
+905,@893,@893
+906,@894,@894
+907,@895,@895
+908,@896,@896
+909,@897,@897
+910,@892,@892
+911,@893,@893
+912,@894,@894
+913,@895,@895
+914,@896,@896
+915,@897,@897
+916,@892,@892
+917,@893,@893
+918,@894,@894
+919,@895,@895
+920,@896,@896
+921,@897,@897
+922,Defeat Grazing Antelope of Giran Dominion.,Defeat Grazing Antelope {TaskCount} time(s).
+923,Defeat Grazing Windsus of Giran Dominion.,Defeat Grazing Windsus {TaskCount} time(s).
+924,Defeat Medusa of Giran Dominion.,Defeat Medusa {TaskCount} time(s).
+925,Defeat Wyrm of Giran Dominion.,Defeat Wyrm {TaskCount} time(s).
+926,Defeat Bugbear of Giran Dominion.,@531
+927,Defeat Wyrm Warden of Giran Dominion.,Defeat Wyrm Warden {TaskCount} time(s).
+928,Defeat Stone Golem of Giran Dominion.,Defeat Stone Golem {TaskCount} time(s).
+929,Defeat Ellen of Giran Dominion.,Defeat Ellen {TaskCount} time(s).
+930,Defeat Vir of Giran Dominion.,Defeat Vir {TaskCount} time(s).
+931,@922,@922
+932,@923,@923
+933,@924,@924
+934,@925,@925
+935,@926,@531
+936,@927,@927
+937,@928,@928
+938,@929,@929
+939,@930,@930
+940,@922,@922
+941,@923,@923
+942,@924,@924
+943,@925,@925
+944,@926,@531
+945,@927,@927
+946,@928,@928
+947,@929,@929
+948,@930,@930
+949,@922,@922
+950,@923,@923
+951,@924,@924
+952,@925,@925
+953,@926,@531
+954,@927,@927
+955,@928,@928
+956,@929,@929
+957,@930,@930
+958,Defeat Dicor of the Forest of Giran Dominion.,Defeat Dicor of the Forest {TaskCount} time(s).
+959,Defeat Dicor of Hallucination of Giran Dominion.,Defeat Dicor of Hallucination {TaskCount} time(s).
+960,Defeat Succubus of Giran Dominion.,Defeat Succubus {TaskCount} time(s).
+961,Defeat Forest Werewolf of Giran Dominion.,Defeat Forest Werewolf {TaskCount} time(s).
+962,Defeat Seductive Succubus of Giran Dominion.,Defeat Seductive Succubus {TaskCount} time(s).
+963,Defeat Swift Snipe of Giran Dominion.,Defeat Swift Snipe {TaskCount} time(s).
+964,Defeat Elder Dicor of Giran Dominion.,Defeat Elder Dicor {TaskCount} time(s).
+965,@958,@958
+966,@959,@959
+967,@960,@960
+968,@961,@961
+969,@962,@962
+970,@963,@963
+971,@964,@964
+972,@958,@958
+973,@959,@959
+974,@960,@960
+975,@961,@961
+976,@962,@962
+977,@963,@963
+978,@964,@964
+979,@958,@958
+980,@959,@959
+981,@960,@960
+982,@961,@961
+983,@962,@962
+984,@963,@963
+985,@964,@964
+986,@958,@958
+987,@959,@959
+988,@960,@960
+989,@961,@961
+990,@962,@962
+991,@963,@963
+992,@964,@964
+993,Defeat Langk Lizardman Sentry of Giran Dominion.,Defeat Langk Lizardman Sentry {TaskCount} time(s).
+994,Defeat Langk Lizardman Scout of Giran Dominion.,Defeat Langk Lizardman Scout {TaskCount} time(s).
+995,Defeat Langk Lizardman Warrior of Giran Dominion.,Defeat Langk Lizardman Warrior {TaskCount} time(s).
+996,Defeat Langk Lizardman Fighter of Giran Dominion.,Defeat Langk Lizardman Fighter {TaskCount} time(s).
+997,Defeat Langk Lizardman Ranger of Giran Dominion.,Defeat Langk Lizardman Ranger {TaskCount} time(s).
+998,Defeat Langk Lizardman Recruit of Giran Dominion.,Defeat Langk Lizardman Recruit {TaskCount} time(s).
+999,Defeat Langk Lizardman Shaman of Giran Dominion.,Defeat Langk Lizardman Shaman {TaskCount} time(s).
+1000,Defeat Langk Lizardman Soldier of Giran Dominion.,Defeat Langk Lizardman Soldier {TaskCount} time(s).
+1001,Defeat Langk Lizardman Elder Shaman of Giran Dominion.,Defeat Langk Lizardman Elder Shaman {TaskCount} time(s).
+1002,Defeat Langk Lizardman Trooper of Giran Dominion.,Defeat Langk Lizardman Trooper {TaskCount} time(s).
+1003,@993,@993
+1004,@994,@994
+1005,@995,@995
+1006,@996,@996
+1007,@997,@997
+1008,@998,@998
+1009,@999,@999
+1010,@1000,@1000
+1011,@1001,@1001
+1012,@1002,@1002
+1013,@993,@993
+1014,@994,@994
+1015,@995,@995
+1016,@996,@996
+1017,@997,@997
+1018,@998,@998
+1019,@999,@999
+1020,@1000,@1000
+1021,@1001,@1001
+1022,@1002,@1002
+1023,Defeat Starving Cougar of Deathly Fog Shores.,Defeat Starving Cougar {TaskCount} time(s).
+1024,Defeat Ol Mahum Bandits Pillager of Deathly Fog Shores.,Defeat Ol Mahum Bandits Pillager {TaskCount} time(s).
+1025,Defeat Ol Mahum Bandits Worker of Deathly Fog Shores.,Defeat Ol Mahum Bandits Worker {TaskCount} time(s).
+1026,Defeat Savage Red Bear of Deathly Fog Shores.,Defeat Savage Red Bear {TaskCount} time(s).
+1027,Defeat Insatiable Cougar of Deathly Fog Shores.,Defeat Insatiable Cougar {TaskCount} time(s).
+1028,Defeat Ol Mahum Bandits Scout of Deathly Fog Shores.,Defeat Ol Mahum Bandits Scout {TaskCount} time(s).
+1029,Defeat Ol Mahum Bandits Sentry of Deathly Fog Shores.,Defeat Ol Mahum Bandits Sentry {TaskCount} time(s).
+1030,Defeat Ol Mahum Bandits Warrior of Deathly Fog Shores.,Defeat Ol Mahum Bandits Warrior {TaskCount} time(s).
+1031,Defeat Ol Mahum Bandits Supplier of Deathly Fog Shores.,Defeat Ol Mahum Bandits Supplier {TaskCount} time(s).
+1032,Defeat Ol Mahum Bandits Master Marksman of Deathly Fog Shores.,Defeat Ol Mahum Bandits Master Marksman {TaskCount} time(s).
+1033,Defeat Ol Mahum Bandits Commander of Deathly Fog Shores.,Defeat Ol Mahum Bandits Commander {TaskCount} time(s).
+1034,Defeat Ol Mahum Bandits Archer of Deathly Fog Shores.,Defeat Ol Mahum Bandits Archer {TaskCount} time(s).
+1035,Defeat Hungry Red Bear of Deathly Fog Shores.,Defeat Hungry Red Bear {TaskCount} time(s).
+1036,Defeat Rabid Coastal Cougar of Deathly Fog Shores.,Defeat Rabid Coastal Cougar {TaskCount} time(s).
+1037,Defeat Lulani of Deathly Fog Shores.,Defeat Lulani {TaskCount} time(s).
+1038,@1023,@1023
+1039,@1024,@1024
+1040,@1025,@1025
+1041,@1026,@1026
+1042,@1027,@1027
+1043,@1028,@1028
+1044,@1029,@1029
+1045,@1030,@1030
+1046,@1031,@1031
+1047,@1032,@1032
+1048,@1033,@1033
+1049,@1034,@1034
+1050,@1035,@1035
+1051,@1036,@1036
+1052,@1037,@1037
+1053,Defeat Wandering Dead of Deathly Fog Shores.,Defeat Wandering Dead {TaskCount} time(s).
+1054,Defeat Shipwrecked Zombie Pirates in Deathly Fog Shores.,Defeat Shipwrecked Zombie Pirate {TaskCount} time(s).
+1055,Defeat Dismal Shout of Deathly Fog Shores.,Defeat Dismal Shout {TaskCount} time(s).
+1056,Defeat Giant Dead of Deathly Fog Shores.,Defeat Giant Dead {TaskCount} time(s).
+1057,Defeat Death Flyer of Deathly Fog Shores.,Defeat Death Flyer {TaskCount} time(s).
+1058,Defeat Grandis Destroyer of Deathly Fog Shores.,Defeat Grandis Destroyer {TaskCount} time(s).
+1059,Defeat Bugbear Fighter of Deathly Fog Shores.,Defeat Bugbear Fighter {TaskCount} time(s).
+1060,Defeat Lesser Giant's Creation of Deathly Fog Shores.,Defeat Lesser Giant's Creation {TaskCount} time(s).
+1061,Defeat Insane Lesser Giant of Deathly Fog Shores.,Defeat Insane Lesser Giant {TaskCount} time(s).
+1062,Defeat Degenerated Lesser Giant of Deathly Fog Shores.,Defeat Degenerated Lesser Giant {TaskCount} time(s).
+1063,Defeat Alfonso of Deathly Fog Shores.,Defeat Alfonso {TaskCount} time(s).
+1064,Defeat Holst of Deathly Fog Shores.,Defeat Holst {TaskCount} time(s).
+1065,Defeat Medes of Deathly Fog Shores.,Defeat Medes {TaskCount} time(s).
+1066,@1053,@1053
+1067,@1054,@1054
+1068,@1055,@1055
+1069,@1056,@1056
+1070,@1057,@1057
+1071,@1058,@1058
+1072,@1059,@1059
+1073,@1060,@1060
+1074,@1061,@1061
+1075,@1062,@1062
+1076,@1063,@1063
+1077,@1064,@1064
+1078,@1065,@1065
+1079,@1053,@1053
+1080,@1054,@1054
+1081,@1055,@1055
+1082,@1056,@1056
+1083,@1057,@1057
+1084,@1058,@1058
+1085,@1059,@1059
+1086,@1060,@1060
+1087,@1061,@1061
+1088,@1062,@1062
+1089,@1063,@1063
+1090,@1064,@1064
+1091,@1065,@1065
+1092,Defeat Forgotten Lesser Giant of Deathly Fog Shores.,Defeat Forgotten Lesser Giant {TaskCount} time(s).
+1093,Defeat Anguished Lesser Giant of Deathly Fog Shores.,Defeat Anguished Lesser Giant {TaskCount} time(s).
+1094,Defeat Grandis Shredder of Deathly Fog Shores.,Defeat Grandis Shredder {TaskCount} time(s).
+1095,Defeat Creation of the Lesser Giant of Deathly Fog Shores.,Defeat Creation of the Lesser Giant {TaskCount} time(s).
+1096,Defeat Bugbear Warrior of Deathly Fog Shores.,Defeat Bugbear Warrior {TaskCount} time(s).
+1097,Defeat Grandis Tyrant of Deathly Fog Shores.,Defeat Grandis Tyrant {TaskCount} time(s).
+1098,Defeat Zaken Pirates Infantry of Deathly Fog Shores.,Defeat Zaken Pirates Infantry {TaskCount} time(s).
+1099,Defeat Zaken Pirates Shooter of Deathly Fog Shores.,Defeat Zaken Pirates Shooter {TaskCount} time(s).
+1100,Defeat Zaken Pirates Vanguard of Deathly Fog Shores.,Defeat Zaken Pirates Vanguard {TaskCount} time(s).
+1101,Defeat Cry of Despair of Deathly Fog Shores.,Defeat Cry of Despair {TaskCount} time(s).
+1102,Defeat Luka of Deathly Fog Shores.,Defeat Luka {TaskCount} time(s).
+1103,Defeat Hector of Deathly Fog Shores.,Defeat Hector {TaskCount} time(s).
+1104,@1092,@1092
+1105,@1093,@1093
+1106,@1094,@1094
+1107,@1092,@1092
+1108,@1093,@1093
+1109,@1094,@1094
+1110,@1095,@1095
+1111,@1096,@1096
+1112,@1097,@1097
+1113,@1098,@1098
+1114,@1099,@1099
+1115,@1100,@1100
+1116,@1101,@1101
+1117,@1102,@1102
+1118,@1103,@1103
+1119,@1092,@1092
+1120,@1093,@1093
+1121,@1094,@1094
+1122,Defeat Dark Succubus of Devil's Isle.,Defeat Dark Succubus {TaskCount} time(s).
+1123,Defeat Hell Choir Prima of Devil's Isle.,Defeat Hell Choir Prima {TaskCount} time(s).
+1124,Defeat Devilrock Scorpion of Devil's Isle.,Defeat Devilrock Scorpion {TaskCount} time(s).
+1125,Defeat Deadly Dark Succubus of Devil's Isle.,Defeat Deadly Dark Succubus {TaskCount} time(s).
+1126,Defeat Starving Jungle Premo of Devil's Isle.,Defeat Starving Jungle Premo {TaskCount} time(s).
+1127,Defeat Zaken Pirates Cutthroat of Devil's Isle.,Defeat Zaken Pirates Cutthroat {TaskCount} time(s).
+1128,Defeat Vindictive Dead of Devil's Isle.,Defeat Vindictive Dead {TaskCount} time(s).
+1129,Defeat Zaken Pirates Lookout of Devil's Isle.,Defeat Zaken Pirates Lookout {TaskCount} time(s).
+1130,Defeat Zaken Pirates Patrol of Devil's Isle.,Defeat Zaken Pirates Patrol {TaskCount} time(s).
+1131,Defeat Zaken Pirates Sniper of Devil's Isle.,Defeat Zaken Pirates Sniper {TaskCount} time(s).
+1132,Defeat Rua of Devil's Isle.,Defeat Rua {TaskCount} time(s).
+1133,Defeat Bornesting of Devil's Isle.,Defeat Bornesting {TaskCount} time(s).
+1134,@1122,@1122
+1135,@1123,@1123
+1136,@1124,@1124
+1137,@1125,@1125
+1138,@1126,@1126
+1139,@1127,@1127
+1140,@1128,@1128
+1141,@1129,@1129
+1142,@1130,@1130
+1143,@1131,@1131
+1144,@1132,@1132
+1145,@1133,@1133
+1146,@1122,@1122
+1147,@1123,@1123
+1148,@1124,@1124
+1149,@1125,@1125
+1150,@1126,@1126
+1151,@1127,@1127
+1152,@1128,@1128
+1153,@1129,@1129
+1154,@1130,@1130
+1155,@1131,@1131
+1156,@1132,@1132
+1157,@1133,@1133
+1158,Defeat Zaken Pirates Deckhand of Devil's Isle.,Defeat Zaken Pirates Deckhand {TaskCount} time(s).
+1159,Defeat Relentless Dead of Devil's Isle.,Defeat Relentless Dead {TaskCount} time(s).
+1160,Defeat Cave Scorpion of Devil's Isle.,Defeat Cave Scorpion {TaskCount} time(s).
+1161,Defeat Zaken’s Marksman of Devil's Isle.,Defeat Zaken's Marksman {TaskCount} time(s).
+1162,Defeat Zombie Pirates on Devil's Isle.,Defeat Zombie Pirate {TaskCount} time(s).
+1163,Defeat Zaken’s Royal Guard of Devil's Isle.,Defeat Zaken's Royal Guard {TaskCount} time(s).
+1164,Defeat Zaken Pirates Navigator of Devil's Isle.,Defeat Zaken Pirates Navigator {TaskCount} time(s).
+1165,Defeat Zaken Pirates Boatswain of Devil's Isle.,Defeat Zaken Pirates Boatswain {TaskCount} time(s).
+1166,Defeat Zaken’s Watcher of Devil's Isle.,Defeat Zaken's Watcher {TaskCount} time(s).
+1167,Defeat Zaken Pirates Helmsman of Devil's Isle.,Defeat Zaken Pirates Helmsman {TaskCount} time(s).
+1168,Defeat Albert of Devil's Isle.,Defeat Albert {TaskCount} time(s).
+1169,Defeat Jeff of Devil's Isle.,Defeat Jeff {TaskCount} time(s).
+1170,@1158,@1158
+1171,@1159,@1159
+1172,@1160,@1160
+1173,@1161,@1161
+1174,@1162,@1162
+1175,@1163,@1163
+1176,@1164,@1164
+1177,@1165,@1165
+1178,@1166,@1166
+1179,@1167,@1167
+1180,@1168,@1168
+1181,@1169,@1169
+1182,@1158,@1158
+1183,@1159,@1159
+1184,@1160,@1160
+1185,@1161,@1161
+1186,@1162,@1162
+1187,@1163,@1163
+1188,@1164,@1164
+1189,@1165,@1165
+1190,@1166,@1166
+1191,@1167,@1167
+1192,@1168,@1168
+1193,@1169,@1169
+1194,Defeat Ravine Breka Scout of Haunted Necropolis.,Defeat Ravine Breka Scout {TaskCount} time(s).
+1195,Defeat Ravine Breka Sentry of Haunted Necropolis.,Defeat Ravine Breka Sentry {TaskCount} time(s).
+1196,Defeat Ravine Breka Supplier of Haunted Necropolis.,Defeat Ravine Breka Supplier {TaskCount} time(s).
+1197,Defeat Ravine Breka Fighter of Haunted Necropolis.,Defeat Ravine Breka Fighter {TaskCount} time(s).
+1198,Defeat Ravine Breka Shaman of Haunted Necropolis.,Defeat Ravine Breka Shaman {TaskCount} time(s).
+1199,Defeat Verock of Haunted Necropolis.,Defeat Verock {TaskCount} time(s).
+1200,@1194,@1194
+1201,@1195,@1195
+1202,@1196,@1196
+1203,@1197,@1197
+1204,@1198,@1198
+1205,@1199,@1199
+1206,@1194,@1194
+1207,@1195,@1195
+1208,@1196,@1196
+1209,@1197,@1197
+1210,@1198,@1198
+1211,@1199,@1199
+1212,@1194,@1194
+1213,@1195,@1195
+1214,@1196,@1196
+1215,@1197,@1197
+1216,@1198,@1198
+1217,@1199,@1199
+1218,@1194,@1194
+1219,@1195,@1195
+1220,@1196,@1196
+1221,@1197,@1197
+1222,@1198,@1198
+1223,@1199,@1199
+1224,Defeat Ravine Breka Patrol of Haunted Necropolis.,Defeat Ravine Breka Patrol {TaskCount} time(s).
+1225,Defeat Ravine Breka Warchief of Haunted Necropolis.,Defeat Ravine Breka Warchief {TaskCount} time(s).
+1226,Defeat Ravine Breka Priest of Haunted Necropolis.,Defeat Ravine Breka Priest {TaskCount} time(s).
+1227,Defeat Soul Tracker Prima of Haunted Necropolis.,Defeat Soul Tracker Prima {TaskCount} time(s).
+1228,Defeat Ravine Windsus of Haunted Necropolis.,Defeat Ravine Windsus {TaskCount} time(s).
+1229,Defeat Stone Golem of Haunted Necropolis.,@928
+1230,Defeat Guardian Basilisk of Haunted Necropolis.,Defeat Guardian Basilisk {TaskCount} time(s).
+1231,Defeat Reaper of Haunted Necropolis.,Defeat Reaper {TaskCount} time(s).
+1232,Defeat Gorokk of Haunted Necropolis.,Defeat Gorokk {TaskCount} time(s).
+1233,Defeat Wilhelm of Haunted Necropolis.,Defeat Wilhelm {TaskCount} time(s).
+1234,@1224,@1224
+1235,@1225,@1225
+1236,@1226,@1226
+1237,@1227,@1227
+1238,@1228,@1228
+1239,@1229,@928
+1240,@1230,@1230
+1241,@1231,@1231
+1242,@1232,@1232
+1243,@1233,@1233
+1244,@1224,@1224
+1245,@1225,@1225
+1246,@1226,@1226
+1247,@1227,@1227
+1248,@1228,@1228
+1249,@1229,@928
+1250,@1230,@1230
+1251,@1231,@1231
+1252,@1232,@1232
+1253,@1233,@1233
+1254,Defeat Soul Devourer Prima of Haunted Necropolis.,Defeat Soul Devourer Prima {TaskCount} time(s).
+1255,Defeat Sahara of Barren Land of Haunted Necropolis.,Defeat Sahara of Barren Land {TaskCount} time(s).
+1256,Defeat Twilight Sahara of Haunted Necropolis.,Defeat Twilight Sahara {TaskCount} time(s).
+1257,Defeat Amber Basilisk of Haunted Necropolis.,Defeat Amber Basilisk {TaskCount} time(s).
+1258,Defeat Wandering Fettered Soul of Haunted Necropolis.,Defeat Wandering Fettered Soul {TaskCount} time(s).
+1259,Defeat Headless Knight of Haunted Necropolis.,Defeat Headless Knight {TaskCount} time(s).
+1260,Defeat Grandis Bonecrusher of Haunted Necropolis.,Defeat Grandis Bonecrusher {TaskCount} time(s).
+1261,Defeat Dustwind Gargoyle of Haunted Necropolis.,Defeat Dustwind Gargoyle {TaskCount} time(s).
+1262,Defeat Fearful Monster Eye of Haunted Necropolis.,Defeat Fearful Monster Eye {TaskCount} time(s).
+1263,Defeat Maelstrom Dustwind of Haunted Necropolis.,Defeat Maelstrom Dustwind {TaskCount} time(s).
+1264,Defeat Wyrm Guardian of Haunted Necropolis.,Defeat Wyrm Guardian {TaskCount} time(s).
+1265,Defeat Deathly Monster Eye of Haunted Necropolis.,Defeat Deathly Monster Eye {TaskCount} time(s).
+1266,Defeat Alert Wyrm of Haunted Necropolis.,Defeat Alert Wyrm {TaskCount} time(s).
+1267,Defeat Baby Wyrm of Haunted Necropolis.,Defeat Baby Wyrm {TaskCount} time(s).
+1268,Defeat Cager’s Henchman of Haunted Necropolis.,Defeat Cager’s Henchman {TaskCount} time(s).
+1269,Defeat Jason of Haunted Necropolis.,Defeat Jason {TaskCount} time(s).
+1270,Defeat Oomba of Haunted Necropolis.,Defeat Oomba {TaskCount} time(s).
+1271,Defeat Agarez of Haunted Necropolis.,Defeat Agarez {TaskCount} time(s).
+1272,@1254,@1254
+1273,@1255,@1255
+1274,@1256,@1256
+1275,@1257,@1257
+1276,@1258,@1258
+1277,@1259,@1259
+1278,@1260,@1260
+1279,@1261,@1261
+1280,@1262,@1262
+1281,@1263,@1263
+1282,@1264,@1264
+1283,@1265,@1265
+1284,@1266,@1266
+1285,@1267,@1267
+1286,@1268,@1268
+1287,@1269,@1269
+1288,@1270,@1270
+1289,@1271,@1271
+1290,Defeat Wyrm Guardian of Haunted Necropolis.,Defeat Wyrm Guardian {TaskCount} time(s).
+1291,Defeat Deathly Monster Eye of Haunted Necropolis.,Defeat Deathly Monster Eye {TaskCount} time(s).
+1292,Defeat Alert Wyrm of Haunted Necropolis.,Defeat Alert Wyrm {TaskCount} time(s).
+1293,Defeat Baby Wyrm of Haunted Necropolis.,Defeat Baby Wyrm {TaskCount} time(s).
+1294,Defeat Cager’s Henchman of Haunted Necropolis.,Defeat Cager’s Henchman {TaskCount} time(s).
+1295,Defeat Death Bind of Haunted Necropolis.,Defeat Death Bind {TaskCount} time(s).
+1296,Defeat Veremus’s Child of Haunted Necropolis.,Defeat Veremus’s Child {TaskCount} time(s).
+1297,Defeat Grandis Dragon Slayer of Haunted Necropolis.,Defeat Grandis Dragon Slayer {TaskCount} time(s).
+1298,Defeat Death Headless Knight of Haunted Necropolis.,Defeat Death Headless Knight {TaskCount} time(s).
+1299,Defeat Ravolas of Haunted Necropolis.,Defeat Ravolas {TaskCount} time(s).
+1300,@1290,@1290
+1301,@1291,@1291
+1302,@1292,@1292
+1303,@1293,@1293
+1304,@1294,@1294
+1305,@1295,@1295
+1306,@1296,@1296
+1307,@1297,@1297
+1308,@1298,@1298
+1309,@1299,@1299
+1310,@1290,@1290
+1311,@1291,@1291
+1312,@1292,@1292
+1313,@1293,@1293
+1314,@1294,@1294
+1315,@1295,@1295
+1316,@1296,@1296
+1317,@1297,@1297
+1318,@1298,@1298
+1319,@1299,@1299
+1320,Defeat Grendel of Northwind Plateau.,Defeat Grendel {TaskCount} time(s).
+1321,Defeat Plateau Windsus of Northwind Plateau.,Defeat Plateau Windsus {TaskCount} time(s).
+1322,Defeat Starving Grendel of Northwind Plateau.,Defeat Starving Grendel {TaskCount} time(s).
+1323,Defeat Ravine Pincher of Northwind Plateau.,Defeat Ravine Pincher {TaskCount} time(s).
+1324,Defeat Maneater Atrox of Northwind Plateau.,Defeat Atrox {TaskCount} time(s).
+1325,Defeat Razorwind Bugbear Tyrant of Northwind Plateau.,Defeat Razorwind Bugbear Tyrant {TaskCount} time(s).
+1326,Defeat Razorwind Bugbear Worker of Northwind Plateau.,Defeat Razorwind Bugbear Worker {TaskCount} time(s).
+1327,Defeat Razorwind Bugbear Devourer of Northwind Plateau.,Defeat Razorwind Bugbear Devourer {TaskCount} time(s).
+1328,Defeat Razorwind Bugbear Fighter of Northwind Plateau.,Defeat Razorwind Bugbear Fighter {TaskCount} time(s).
+1329,Defeat Bear Grylle of Northwind Plateau.,Defeat Bear Grylle {TaskCount} time(s).
+1330,Defeat Gaytin of Northwind Plateau.,Defeat Gaytin {TaskCount} time(s).
+1331,@1320,@1320
+1332,@1321,@1321
+1333,@1322,@1322
+1334,@1323,@1323
+1335,@1324,@1324
+1336,@1325,@1325
+1337,@1326,@1326
+1338,@1327,@1327
+1339,@1328,@1328
+1340,@1329,@1329
+1341,@1330,@1330
+1342,@1320,@1320
+1343,@1321,@1321
+1344,@1322,@1322
+1345,@1323,@1323
+1346,@1324,@1324
+1347,@1325,@1325
+1348,@1326,@1326
+1349,@1327,@1327
+1350,@1328,@1328
+1351,@1329,@1329
+1352,@1330,@1330
+1353,Defeat Cruel Nymph Rose of Northwind Plateau.,Defeat Cruel Nymph Rose {TaskCount} time(s).
+1354,Defeat Plateau Atrox of Northwind Plateau.,Defeat Atrox {TaskCount} time(s).
+1355,Defeat Leto Lizardman Guard of Northwind Plateau.,@491
+1356,Defeat Leto Lizardman Sentinel of Northwind Plateau.,Defeat Leto Lizardman Sentinel {TaskCount} time(s).
+1357,Defeat Leto Lizardman Shaman of Northwind Plateau.,@490
+1358,Defeat Leto Lizardman Infiltrator of Northwind Plateau.,Defeat Leto Lizardman Infiltrator {TaskCount} time(s).
+1359,Defeat Leto Lizardman Priest of Northwind Plateau.,Defeat Leto Lizardman Priest {TaskCount} time(s).
+1360,Defeat Leto Lizardman Guardian of Northwind Plateau.,Defeat Leto Lizardman Guardian {TaskCount} time(s).
+1361,Defeat Xeno of Northwind Plateau.,Defeat Xeno {TaskCount} time(s).
+1362,@1353,@1353
+1363,@1354,@1354
+1364,@1355,@491
+1365,@1356,@1356
+1366,@1357,@490
+1367,@1358,@1358
+1368,@1359,@1359
+1369,@1360,@1360
+1370,@1361,@1361
+1371,@1353,@1353
+1372,@1354,@1354
+1373,@1355,@491
+1374,@1356,@1356
+1375,@1357,@490
+1376,@1358,@1358
+1377,@1359,@1359
+1378,@1360,@1360
+1379,@1361,@1361
+1380,@1353,@1353
+1381,@1354,@1354
+1382,@1355,@491
+1383,@1356,@1356
+1384,@1357,@490
+1385,@1358,@1358
+1386,@1359,@1359
+1387,@1360,@1360
+1388,@1361,@1361
+1389,Defeat Timak Orc Sentinel of Northwind Plateau.,Defeat Timak Orc Sentinel {TaskCount} time(s).
+1390,Defeat Kazan’s Guard of Northwind Plateau.,Defeat Kazan’s Guard {TaskCount} time(s).
+1391,Defeat Kazan’s Seeker of Northwind Plateau.,Defeat Kazan’s Seeker {TaskCount} time(s).
+1392,Defeat Kazan’s Slave Foreman of Northwind Plateau.,Defeat Kazan’s Slave Foreman {TaskCount} time(s).
+1393,Defeat Timak Orc Elite Soldier of Northwind Plateau.,Defeat Timak Orc Elite Soldier {TaskCount} time(s).
+1394,Defeat Tanor Avenger of Northwind Plateau.,Defeat Tanor Avenger {TaskCount} time(s).
+1395,Defeat Tanor Recruit of Northwind Plateau.,Defeat Tanor Recruit {TaskCount} time(s).
+1396,Defeat Tanor Tribal Chief Royal Guard of Northwind Plateau.,Defeat Tanor Tribal Chief Royal Guard {TaskCount} time(s).
+1397,Defeat Tanor Wizard of Northwind Plateau.,Defeat Tanor Wizard {TaskCount} time(s).
+1398,Defeat Tanor Tribe Guardian of Northwind Plateau.,Defeat Tanor Tribe Guardian {TaskCount} time(s).
+1399,Defeat Silenos of Northwind Plateau.,Defeat Silenos {TaskCount} time(s).
+1400,Defeat Toruq of Northwind Plateau.,Defeat Toruq {TaskCount} time(s).
+1401,Defeat Karix of Northwind Plateau.,Defeat Karix {TaskCount} time(s).
+1402,@1389,@1389
+1403,@1390,@1390
+1404,@1391,@1391
+1405,@1392,@1392
+1406,@1393,@1393
+1407,@1394,@1394
+1408,@1395,@1395
+1409,@1396,@1396
+1410,@1397,@1397
+1411,@1398,@1398
+1412,@1399,@1399
+1413,@1400,@1400
+1414,@1401,@1401
+1415,@1389,@1389
+1416,@1390,@1390
+1417,@1391,@1391
+1418,@1392,@1392
+1419,@1393,@1393
+1420,@1394,@1394
+1421,@1395,@1395
+1422,@1396,@1396
+1423,@1397,@1397
+1424,@1398,@1398
+1425,@1399,@1399
+1426,@1400,@1400
+1427,@1401,@1401
+1428,Defeat Blind Reaper of Eternal Lands.,Defeat Blind Reaper {TaskCount} time(s).
+1429,Defeat Corrupted Willow of Eternal Lands.,Defeat Corrupted Willow {TaskCount} time(s).
+1430,Defeat Soul Harvester of Eternal Lands.,Defeat Soul Harvester {TaskCount} time(s).
+1431,Defeat Walking Fungus of Eternal Lands.,@720
+1432,Defeat Armored Howlers of Eternal Lands.,Defeat Armored Howlers {TaskCount} time(s).
+1433,Defeat Soul Collector of Eternal Lands.,Defeat Soul Collector {TaskCount} time(s).
+1434,Defeat Barrier Watchman of Eternal Lands.,Defeat Barrier Watchman {TaskCount} time(s).
+1435,Defeat Sadistic Grandis Destroyer of Eternal Lands.,Defeat Sadistic Grandis Destroyer {TaskCount} time(s).
+1436,Defeat Host Fungus of Eternal Lands.,Defeat Host Fungus {TaskCount} time(s).
+1437,@1428,@1428
+1438,@1429,@1429
+1439,@1430,@1430
+1440,@1431,@720
+1441,@1432,@1432
+1442,@1433,@1433
+1443,@1434,@1434
+1444,@1435,@1435
+1445,@1436,@1436
+1446,@1428,@1428
+1447,@1429,@1429
+1448,@1430,@1430
+1449,@1431,@720
+1450,@1432,@1432
+1451,@1433,@1433
+1452,@1434,@1434
+1453,@1435,@1435
+1454,@1436,@1436
+1455,@1428,@1428
+1456,@1429,@1429
+1457,@1430,@1430
+1458,@1431,@720
+1459,@1432,@1432
+1460,@1433,@1433
+1461,@1434,@1434
+1462,@1435,@1435
+1463,@1436,@1436
+1464,Defeat Oel Mahum Shaman of Eternal Lands.,Defeat Oel Mahum Shaman {TaskCount} time(s).
+1465,Defeat Oel Mahum Pillager of Eternal Lands.,Defeat Oel Mahum Pillager {TaskCount} time(s).
+1466,Defeat Oel Mahum Shredder of Eternal Lands.,Defeat Oel Mahum Shredder {TaskCount} time(s).
+1467,Defeat Oel Mahum Worker of Eternal Lands.,Defeat Oel Mahum Worker {TaskCount} time(s).
+1468,Defeat Oel Mahum Fighter of Eternal Lands.,Defeat Oel Mahum Fighter {TaskCount} time(s).
+1469,Defeat Oel Mahum Destroyer of Eternal Lands.,Defeat Oel Mahum Destroyer {TaskCount} time(s).
+1470,Defeat Grandis Destroyer of Eternal Lands.,@1058
+1471,Defeat the Dark Brotherhood of Eternal Lands.,Defeat the Dark Brotherhood {TaskCount} time(s).
+1472,Defeat Reba of Eternal Lands.,Defeat Reba {TaskCount} time(s).
+1473,Defeat Shadow of Eternal Lands.,Defeat Shadow {TaskCount} time(s).
+1474,@1464,@1464
+1475,@1465,@1465
+1476,@1466,@1466
+1477,@1467,@1467
+1478,@1468,@1468
+1479,@1469,@1469
+1480,@1470,@1058
+1481,@1471,@1471
+1482,@1472,@1472
+1483,@1473,@1473
+1484,@1464,@1464
+1485,@1465,@1465
+1486,@1466,@1466
+1487,@1467,@1467
+1488,@1468,@1468
+1489,@1469,@1469
+1490,@1470,@1058
+1491,@1471,@1471
+1492,@1472,@1472
+1493,@1473,@1473
+1494,Defeat Spore Fungus of Eternal Lands.,Defeat Spore Fungus {TaskCount} time(s).
+1495,Defeat Spore Bat of Eternal Lands.,Defeat Spore Bat {TaskCount} time(s).
+1496,Defeat Parasite Zombie of Eternal Lands.,Defeat Parasite Zombie {TaskCount} time(s).
+1497,Defeat Wyrm of Eternal Lands.,@925
+1498,Defeat Result of Greed of Eternal Lands.,Defeat Result of Greed {TaskCount} time(s).
+1499,Defeat Soul Eater of Eternal Lands.,Defeat Soul Eater {TaskCount} time(s).
+1500,Defeat Spore Spider of Eternal Lands.,Defeat Spore Spider {TaskCount} time(s).
+1501,Defeat Water Seer of Eternal Lands.,Defeat Water Seer {TaskCount} time(s).
+1502,Defeat Obsidian Golem of Eternal Lands.,Defeat Obsidian Golem {TaskCount} time(s).
+1503,Defeat Pan Luems of Eternal Lands.,Defeat Pan Luems {TaskCount} time(s).
+1504,Defeat Rotten Spore Fungus of Eternal Lands.,Defeat Rotten Spore Fungus {TaskCount} time(s).
+1505,Defeat Herven of Eternal Lands.,Defeat Herven {TaskCount} time(s).
+1506,@1494,@1494
+1507,@1495,@1495
+1508,@1496,@1496
+1509,@1497,@925
+1510,@1498,@1498
+1511,@1499,@1499
+1512,@1500,@1500
+1513,@1501,@1501
+1514,@1502,@1502
+1515,@1503,@1503
+1516,@1504,@1504
+1517,@1505,@1505
+1518,@1494,@1494
+1519,@1495,@1495
+1520,@1496,@1496
+1521,@1497,@925
+1522,@1498,@1498
+1523,@1499,@1499
+1524,@1500,@1500
+1525,@1501,@1501
+1526,@1502,@1502
+1527,@1503,@1503
+1528,@1504,@1504
+1529,@1505,@1505
+1530,Defeat Fierce Nymph of Eternal Lands.,Defeat Fierce Nymph {TaskCount} time(s).
+1531,Defeat Nightmare Spirit of Eternal Lands.,Defeat Nightmare Spirit {TaskCount} time(s).
+1532,Defeat Soul Slasher of Eternal Lands.,@250
+1533,Defeat Vampire Bat of Eternal Lands.,@525
+1534,Defeat Doom Servant of Eternal Lands.,@801
+1535,Defeat Nymph Rose of Eternal Lands.,Defeat Nymph Rose {TaskCount} time(s).
+1536,Defeat Vile Nymph of Eternal Lands.,Defeat Vile Nymph {TaskCount} time(s).
+1537,Defeat Vile Pan Luems of Eternal Lands.,Defeat Vile Pan Luems {TaskCount} time(s).
+1538,Defeat Larva of Eternal Lands.,Defeat Larva {TaskCount} time(s).
+1539,@1530,@1530
+1540,@1531,@1531
+1541,@1532,@250
+1542,@1533,@525
+1543,@1534,@801
+1544,@1535,@1535
+1545,@1536,@1536
+1546,@1537,@1537
+1547,@1538,@1538
+1548,@1530,@1530
+1549,@1531,@1531
+1550,@1532,@250
+1551,@1533,@525
+1552,@1534,@801
+1553,@1535,@1535
+1554,@1536,@1536
+1555,@1537,@1537
+1556,@1538,@1538
+1557,@1530,@1530
+1558,@1531,@1531
+1559,@1532,@250
+1560,@1533,@525
+1561,@1534,@801
+1562,@1535,@1535
+1563,@1536,@1536
+1564,@1537,@1537
+1565,@1538,@1538
+1566,Defeat Grendel of Ivory Tower Conquered Territory.,@1320
+1567,Defeat Bandit Rookie of Ivory Tower Conquered Territory.,Defeat Bandit Rookie {TaskCount} time(s).
+1568,Defeat Bandit Scout of Ivory Tower Conquered Territory.,Defeat Bandit Scout {TaskCount} time(s).
+1569,Defeat Bandit Looter of Ivory Tower Conquered Territory.,Defeat Bandit Looter {TaskCount} time(s).
+1570,Defeat Bandit Cutthroat of Ivory Tower Conquered Territory.,Defeat Bandit Cutthroat {TaskCount} time(s).
+1571,Defeat Bandit Plunderer of Ivory Tower Conquered Territory.,Defeat Bandit Plunderer {TaskCount} time(s).
+1572,Defeat Bandit Shaman of Ivory Tower Conquered Territory.,Defeat Bandit Shaman {TaskCount} time(s).
+1573,Defeat Bandit Warrior of Ivory Tower Conquered Territory.,Defeat Bandit Warrior {TaskCount} time(s).
+1574,Defeat Bandit Fighter of Ivory Tower Conquered Territory.,Defeat Bandit Fighter {TaskCount} time(s).
+1575,Defeat Ferocious Grendel of Ivory Tower Conquered Territory.,Defeat Ferocious Grendel {TaskCount} time(s).
+1576,Defeat Bandit High Shaman of Ivory Tower Conquered Territory.,Defeat Bandit High Shaman {TaskCount} time(s).
+1577,Defeat Tarba of Ivory Tower Conquered Territory.,Defeat Tarba {TaskCount} time(s).
+1578,@1566,@1320
+1579,@1567,@1567
+1580,@1568,@1568
+1581,@1569,@1569
+1582,@1570,@1570
+1583,@1571,@1571
+1584,@1572,@1572
+1585,@1573,@1573
+1586,@1574,@1574
+1587,@1575,@1575
+1588,@1576,@1576
+1589,@1577,@1577
+1590,@1566,@1320
+1591,@1567,@1567
+1592,@1568,@1568
+1593,@1569,@1569
+1594,@1570,@1570
+1595,@1571,@1571
+1596,@1572,@1572
+1597,@1573,@1573
+1598,@1574,@1574
+1599,@1575,@1575
+1600,@1576,@1576
+1601,@1577,@1577
+1602,Defeat Forest Wyrm of Ivory Tower Conquered Territory.,Defeat Forest Wyrm {TaskCount} time(s).
+1603,Defeat Dark Witch of Ivory Tower Conquered Territory.,Defeat Dark Witch {TaskCount} time(s).
+1604,Defeat Timak Orc Archer of Ivory Tower Conquered Territory.,Defeat Timak Orc Archer {TaskCount} time(s).
+1605,Defeat Timak Orc Fighter of Ivory Tower Conquered Territory.,Defeat Timak Orc Fighter {TaskCount} time(s).
+1606,Defeat Timak Orc Seeker of Ivory Tower Conquered Territory.,Defeat Timak Orc Seeker {TaskCount} time(s).
+1607,Defeat Atrox of Ivory Tower Conquered Territory.,Defeat Atrox {TaskCount} time(s).
+1608,Defeat Giant Leech of Ivory Tower Conquered Territory.,@397
+1609,Defeat Timak Orc Warrior of Ivory Tower Conquered Territory.,Defeat Timak Orc Warrior {TaskCount} time(s).
+1610,Defeat Timak Orc Sentinel of Ivory Tower Conquered Territory.,Defeat Timak Orc Sentinel {TaskCount} time(s).
+1611,Defeat Marata of Ivory Tower Conquered Territory.,Defeat Marata {TaskCount} time(s).
+1612,Defeat Kreta of Ivory Tower Conquered Territory.,Defeat Kreta {TaskCount} time(s).
+1613,@1602,@1602
+1614,@1603,@1603
+1615,@1604,@1604
+1616,@1605,@1605
+1617,@1606,@1606
+1618,@1607,@1607
+1619,@1608,@397
+1620,@1609,@1609
+1621,@1610,@1610
+1622,@1611,@1611
+1623,@1612,@1612
+1624,@1602,@1602
+1625,@1603,@1603
+1626,@1604,@1604
+1627,@1605,@1605
+1628,@1606,@1606
+1629,@1607,@1607
+1630,@1608,@397
+1631,@1609,@1609
+1632,@1610,@1610
+1633,@1611,@1611
+1634,@1612,@1612
+1635,Defeat Timak Orc White Captain of Ivory Tower Conquered Territory.,Defeat Timak Orc White Captain {TaskCount} time(s).
+1636,Defeat Timak Orc Officer of Ivory Tower Conquered Territory.,Defeat Timak Orc Officer {TaskCount} time(s).
+1637,Defeat Timak Orc Berserker of Ivory Tower Conquered Territory.,Defeat Timak Orc Berserker {TaskCount} time(s).
+1638,Defeat Timak Orc Elite Rangers of Ivory Tower Conquered Territory.,Defeat Timak Orc Elite Rangers {TaskCount} time(s).
+1639,Defeat Timak Orc Elite Soldier of Ivory Tower Conquered Territory.,@1393
+1640,Defeat Timak Orc Tribal Chief of Ivory Tower Conquered Territory.,Defeat Timak Orc Tribal Chief {TaskCount} time(s).
+1641,Defeat Timak Orc Archer of Ivory Tower Conquered Territory.,Defeat Timak Orc Archer {TaskCount} time(s).
+1642,Defeat Morta of Ivory Tower Conquered Territory.,Defeat Morta {TaskCount} time(s).
+1643,Defeat Mita of Ivory Tower Conquered Territory.,Defeat Mita {TaskCount} time(s).
+1644,@1635,@1635
+1645,@1636,@1636
+1646,@1637,@1637
+1647,@1638,@1638
+1648,@1639,@1393
+1649,@1640,@1640
+1650,@1641,@1641
+1651,@1642,@1642
+1652,@1643,@1643
+1653,@1635,@1635
+1654,@1636,@1636
+1655,@1637,@1637
+1656,@1638,@1638
+1657,@1639,@1393
+1658,@1640,@1640
+1659,@1641,@1641
+1660,@1642,@1642
+1661,@1643,@1643
+1662,@1635,@1635
+1663,@1636,@1636
+1664,@1637,@1637
+1665,@1638,@1638
+1666,@1639,@1393
+1667,@1640,@1640
+1668,@1641,@1641
+1669,@1642,@1642
+1670,@1643,@1643
+1671,Defeat Gargoyle of Ivory Tower Conquered Territory.,Defeat Ivory Tower Gargoyle {TaskCount} time(s).
+1672,Defeat Ivory Tower Guardian Golem of Ivory Tower Conquered Territory.,Defeat Ivory Tower Guardian Golem {TaskCount} time(s).
+1673,Defeat Fallen Knight of Ivory Tower Conquered Territory.,Defeat Fallen Knight {TaskCount} time(s).
+1674,Defeat Void Hound of Ivory Tower Conquered Territory.,Defeat Void Hound {TaskCount} time(s).
+1675,Defeat Staunch Gargoyle of Ivory Tower Conquered Territory.,Defeat Staunch Gargoyle {TaskCount} time(s).
+1676,Defeat Ferocious Void Hound of Ivory Tower Conquered Territory.,Defeat Ferocious Void Hound {TaskCount} time(s).
+1677,Defeat Malfunctioning Guardian of Ivory Tower Conquered Territory.,Defeat Malfunctioning Guardian {TaskCount} time(s).
+1678,Defeat Dark Knight of Ivory Tower Conquered Territory.,Defeat Dark Knight {TaskCount} time(s).
+1679,Defeat Dark Brotherhood High Priest of Ivory Tower Conquered Territory.,Defeat Dark Brotherhood High Priest {TaskCount} time(s).
+1680,Defeat Embrion’s Squire of Ivory Tower Conquered Territory.,Defeat Embrion’s Squire {TaskCount} time(s).
+1681,Defeat Defender of Ivory Tower Conquered Territory.,Defeat Defender {TaskCount} time(s).
+1682,Defeat Arita of Ivory Tower Conquered Territory.,Defeat Arita {TaskCount} time(s).
+1683,@1671,@1671
+1684,@1672,@1672
+1685,@1673,@1673
+1686,@1674,@1674
+1687,@1675,@1675
+1688,@1676,@1676
+1689,@1677,@1677
+1690,@1678,@1678
+1691,@1679,@1679
+1692,@1680,@1680
+1693,@1681,@1681
+1694,@1682,@1682
+1695,@1671,@1671
+1696,@1672,@1672
+1697,@1673,@1673
+1698,@1674,@1674
+1699,@1675,@1675
+1700,@1676,@1676
+1701,@1677,@1677
+1702,@1678,@1678
+1703,@1679,@1679
+1704,@1680,@1680
+1705,@1681,@1681
+1706,@1682,@1682

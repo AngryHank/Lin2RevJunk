@@ -1,0 +1,13 @@
+Id,Difficulty,ClearRewardItemID1,ClearRewardItemCount1,ClearRewardItemID2,ClearRewardItemCount2,ClearRewardItemID3,ClearRewardItemCount3
+1,Easy,900010,1,,,,
+2,Easy,900010,2,,,,
+3,Easy,900010,1,,,,
+4,Normal,900010,3,,,,
+5,Normal,900010,7,,,,
+6,Normal,900010,2,,,,
+7,Hard,900010,7,,,,
+8,Hard,900010,10,,,,
+9,Hard,900010,3,,,,
+10,Hell,900010,10,,,,
+11,Hell,900010,14,,,,
+12,Hell,900010,4,,,,

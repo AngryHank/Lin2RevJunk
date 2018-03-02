@@ -1,0 +1,15 @@
+EventId,TabNameKey,TitleNameKey,ViewStyle,TabType,BadgeType
+1,861000000001,862000000001,TableView,Compound,EventCompound
+2,861000000007,862000000007,TileView,CommonEvent1,EventCommonEvent1
+3,861000000003,862000000003,TableView,CommonEvent2,EventCommonEvent2
+4,861000000004,862000000004,TableView,CommonEvent3,EventCommonEvent3
+5,861000000005,862000000005,TileView,CommonEvent4,EventCommonEvent4
+6,861000000006,862000000006,TileView,CommonEvent5,EventCommonEvent5
+7,861000000007,862000000007,TileView,Compound,EventCompound
+8,861000000008,862000000008,TileView,Compound,EventCompound
+9,861000000009,862000000009,TableView,Compound,EventCompound
+10,1080000000201,1080000000201,TableView,Compound,EventCompound
+11,861000000011,861000000011,TableView,Compound,EventCompound
+12,861000000012,861000000012,TileView,Compound,EventCompound
+13,861000000013,861000000013,TileView,Compound,EventCompound
+14,861000000014,862000000014,TableView,CommonEvent2,EventCommonEvent2

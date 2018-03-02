@@ -1,0 +1,9 @@
+Id,EventType,NameKey,GradeGroupId,ProgressRewardGroupId,MaxDailyCompleteCount,InitialNpcTalkGroupId,InitialGrade,RepeatableMission,LoofGrade,MaxGrade,RepeatableProgressReward,BackGroungImage,TicketItemInfoId,HelpKeyword
+1,Quest,1021000000001,1,1,5,101,1,0,0,6,0,UI_BG_SchoolEvenBg,0,EventDailyQuest1
+2,Quest,1021000000002,2,2,5,0,1,0,0,6,0,UI_BG_BigUpdateCelebrationFestival,0,EventDailyQuest1
+10000,Achievement,1021000000002,3,3,0,0,3,0,0,5,0,UI_BG_SchoolEvenBg,0,EventAchieve
+4,Quest,1021000000003,4,4,4,0,1,0,0,6,0,UI_BG_SchoolEquipmentEnhancementEvent,0,EventDailyQuest4
+5,Quest,1021000000004,5,5,5,0,1,0,0,6,0,UI_BG_GuildEvent,0,EventDailyQuest5
+6,Quest,1021000000006,6,6,4,0,1,0,0,5,0,UI_BG_BigUpdateCelebrationFestival,0,EventDailyQuest1
+7,Quest,1021000000007,7,7,5,0,1,1,1,6,0,UI_BG_GuildEvent,0,EventDailyQuest4
+8,Quest,1021000000008,8,8,5,0,1,1,1,6,0,UI_BG_BigUpdateCelebrationFestival,0,EventDailyQuest5

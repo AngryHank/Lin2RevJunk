@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Episode Complete,Clear Episode <RedBold>1-2</>.
+31002,Equipment Level Up,Attempt to level up equipment <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31003,@31001,Clear Episode <RedBold>1-5</>.
+31004,Combat Power,Reach Maximum Combat Power of <RedBold>[Value]</>. ([Value1]/[Value2])
+31005,Arena,Challenge the Arena <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31006,Acquire Equipment,Acquire <RedBold>[Value]</> equipment. ([Value1]/[Value2])
+31007,Level Up Skill,Level up skill <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Achievement Points,Reach <RedBold>[Value]</> Achievement Point(s). ([Value1]/[Value2])
+31010,Clan Check In,Check in to the Clan. <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31011,Clan Donation,Donate to Clan <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31012,Clan Shop,Purchase Clan Buff <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31013,Enter the Tower of Insolence,Challenge the Tower of Insolence <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31014,Auto-Clear Tower of Insolence.,Auto-Clear the Tower of Insolence <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31015,Rune Imprinting,Attempt Rune Imprint <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31016,Combining Equipment,Attempt to combine equipment <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31017,@31001,Clear Episode <RedBold>1-11</>.
+31018,Upgrade Equipment,Attempt to upgrade equipment <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31019,Daily Mission,Complete <RedBold>[Value]</> Daily Quest(s). ([Value1]/[Value2])
+31020,@31015,Successfully imprint runes <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Weekly Quest Complete,Clear Weekly Quest <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31102,Enhancing Equipment,Enhance equipment <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Elite Dungeons,Complete <RedBold>[Value]</> Elite Dungeon Quest(s). ([Value1]/[Value2])
+31105,Defeat Monsters in Elven Ruins 1,Defeat <RedBold>[Value]</> Monsters ([Value1]/[Value2]) in Elven Ruins Catacomb 1
+31106,Acquire Monster Core,Acquire <RedBold>[Value]</> Monster Core(s). ([Value1]/[Value2])
+31107,Register Monster Cores,Register <RedBold>[Value]</> Monster Core(s). ([Value1]/[Value2])
+31108,Clear Temple Guardian,Clear Temple Guardian <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31109,Tower of Insolence,Clear the Tower of Insolence <RedBold>Floor [Value]</>. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,Clear Episode <RedBold>3-5</>.
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Extraction Pit,Extract herbs <RedBold>[Value2]</> time(s) in the Extraction Pit. ([Value1]/[Value2])
+31117,Elixir Crafting,Craft Elixir <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31118,Upgrade Soul Crystal,Attempt to upgrade a Soul Crystal <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31119,@31001,Clear Episode <RedBold>4-4</>.
+31120,Reach Level,Reach Lv. <RedBold>31</>. ([Value1]/[Value2]) 
+31121,Class Transfer Complete,Do <RedBold>class transfer</>.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Daily Dungeon Cleared,Clear Daily Dungeon <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Defeat Monsters in Ant Nest 1,Defeat <RedBold>[Value]</> Monsters ([Value1]/[Value2]) in Ant Nest 1
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Adena Vault,Clear the Adena Vault <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,Reach Lv. <RedBold>50</>. ([Value1]/[Value2])
+31302,Clear Summoning Circle,Clear Summoning Circle <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31303,Mount Equipment,Put <RedBold>equipment on</> mount. ([Value1]/[Value2])
+31304,Level Up Mount Equipment,Attempt mount <RedBold>equipment level up [Value]</> time(s). ([Value1]/[Value2])
+31305,Use Advancement Stone,Use Advancement Stone <RedBold>[Value]</> time(s) on mount. ([Value1]/[Value2])
+31306,Enhance Mount Equipment,Enhance mount equipment <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31307,Reach Mount Level Goal,Reach mount <RedBold>Lv. [Value]</>. ([Value1]/[Value2])
+31308,Upgrade Mount,Upgrade mount <RedBold>[Value]</> time(s). ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Acquire Mount Equipment,Acquire <RedBold>[Value]</> Grade A or higher mount equipment. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,Acquire <RedBold>[Value]</> Grade S or higher mount equipment. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,Acquire <RedBold>[Value]</> Grade R or higher mount equipment. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,Trials of Experience,Clear Trials of Experience <RedBold>[Value]</> time(s). ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

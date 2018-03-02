@@ -1,0 +1,79 @@
+Id,NameKey,MoveType,MoveSpeed,Distance,Count,HitCount,ExplosionCollisionUnitType,ExplosionCollisionUnitParam,Resource,SocketName
+11131,0,Dynamic,1650,650,1,1,Circle,"""radius"": 200",BP_PROJ_EnergyBolt,Socket_Fire_2
+11125,0,,2000,800,1,3,Circle,"""radius"": 200",BP_PROJ_DoubleShot,WeaponL
+11132,0,,1800,650,1,1,Circle,"""radius"": 230",BP_PROJ_FlameBurst,Socket_Fire_2
+11133,0,Dynamic,1500,650,1,4,Circle,"""radius"": 200",BP_PROJ_WindStrike,Socket_Fire_2
+12131,0,Dynamic,1650,650,1,1,Circle,"""radius"": 200",BP_PROJ_EnergyBolt,Socket_Fire_2
+12125,0,,2000,800,1,3,Circle,"""radius"": 200",BP_PROJ_DoubleShot,WeaponL
+12132,0,,1800,650,1,1,Circle,"""radius"": 230",BP_PROJ_FlameBurst,Socket_Fire_2
+12133,0,Dynamic,1500,650,1,4,Circle,"""radius"": 200",BP_PROJ_WindStrike,Socket_Fire_2
+13131,0,Dynamic,1650,650,1,1,Circle,"""radius"": 200",BP_PROJ_EnergyBolt,Socket_Fire_2
+13125,0,,2000,800,1,3,Circle,"""radius"": 200",BP_PROJ_DoubleShot,WeaponL
+13132,0,,1800,650,1,1,Circle,"""radius"": 230",BP_PROJ_FlameBurst,Socket_Fire_2
+13133,0,Dynamic,1500,650,1,4,Circle,"""radius"": 200",BP_PROJ_WindStrike,Socket_Fire_2
+14131,0,Dynamic,1650,650,1,1,Circle,"""radius"": 200",BP_PROJ_EnergyBolt,Socket_Fire_2
+14125,0,,2000,800,1,3,Circle,"""radius"": 200",BP_PROJ_DoubleShot,WeaponL
+14132,0,,1800,650,1,1,Circle,"""radius"": 230",BP_PROJ_FlameBurst,Socket_Fire_2
+14133,0,Dynamic,1500,650,1,4,Circle,"""radius"": 200",BP_PROJ_WindStrike,Socket_Fire_2
+11252,0,Dynamic,500,500,1,-1,Circle,"""radius"": 350",BP_PROJ_MoltenBowl01,Socket_Fire_2
+12221,0,Dynamic,1800,700,1,4,Circle,"""radius"": 230",BP_PROJ_SonicBlaster,Socket_Fire_2
+12222,0,Dynamic,1500,700,1,1,Circle,"""radius"": 250",BP_PROJ_SonicStorm,Socket_Fire_2
+12242,0,Dynamic,1500,800,1,4,Obb,"""left"":200, ""right"":200, ""front"":110, ""back"":110",BP_PROJ_DoubleWideShot,Socket_Fire_2
+12251,0,,1500,650,1,1,Circle,"""radius"": 230",BP_PROJ_IceSpear,Socket_Fire_2
+13241,0,,900,700,1,4,Circle,"""radius"": 230",BP_PROJ_DeathStinger,Socket_Fire_2
+30004,0,Dynamic,1000,800,1,4,Circle,"""radius"": 250",BP_PROJ_BloodArrow,WeaponL
+30006,0,Dynamic,1000,800,1,1,Circle,"""radius"": 150",BP_PROJ_MissileBolt,Socket_Fire_2
+31003,0,,400,600,1,-1,Circle,"""radius"": 250",BP_PROJ_HumanSkillTutorial_02,Socket_Fire_2
+50001,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_FlameBurst,Socket_Center
+50002,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_IceSpear,Socket_Center
+50003,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_Earth,Socket_Center
+50004,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_Windstrike,Socket_Center
+50005,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_Dark,Socket_Center
+50006,0,,1600,800,1,3,Circle,"""radius"": 130",BP_PROJ_EnergyBolt,Socket_Center
+50007,0,,2000,800,1,2,Circle,"""radius"": 130",BP_PROJ_DoubleShot,Socket_Center
+60107,0,,1600,800,1,1,Circle,"""radius"": 130",BP_PROJ_FlameBurst,Socket_Fire_2
+60109,0,Dynamic,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_PowerShot,WeaponL
+73022,0,Dynamic,1800,1000,1,-1,Circle,"""radius"": 130",BP_PROJ_Zaken,Socket_Center
+77085,0,Dynamic,1800,1000,1,-1,Circle,"""radius"": 130",BP_PROJ_Zaken,Socket_Center
+74061,0,,300,2000,3,20,Circle,"""radius"": 130",BP_PROJ_Drake,Socket_BossSkill_01
+74101,0,,1600,2000,1,20,Circle,"""radius"": 150",BP_PROJ_Dullahan,Socket_Center
+74111,0,,1600,2000,1,20,Circle,"""radius"": 150",BP_PROJ_DarkLord,Socket_Fire_2
+74121,0,,300,2000,4,20,Obb,"""left"":100, ""right"":100, ""front"":200, ""back"":200",BP_PROJ_Sahara_03,Socket_Bottom
+80001,0,Static,1600,800,1,1,Circle,"""radius"": 75",BP_PROJ_FlameBurst,Socket_Fire_2
+1508031,0,,1500,800,1,-1,Circle,"""radius"": 300",BP_PROJ_WindStrike,Socket_Fire_2
+1512031,0,Dynamic,2000,800,1,-1,Circle,"""radius"": 250",BP_PROJ_EnergyBolt,Socket_Fire_2
+1513021,0,Dynamic,2000,800,1,-1,Circle,"""radius"": 250",BP_PROJ_EnergyBolt,Socket_Fire_2
+1513071,0,,2500,900,1,-1,Circle,"""radius"": 250",BP_PROJ_DoubleShot,WeaponL
+1514051,0,Dynamic,2500,900,1,1,Circle,"""radius"": 250",BP_PROJ_PowerShot,WeaponL
+1518031,0,,2000,900,1,-1,Circle,"""radius"": 230",BP_PROJ_IceSpear,Socket_Fire_2
+1519021,0,Dynamic,2000,800,1,-1,Circle,"""radius"": 250",BP_PROJ_EnergyBolt,Socket_Fire_2
+720441,0,,700,2000,1,1,Circle,"""radius"": 600",BP_PROJ_CrumaCoreBoss_Skill04,Socket_Center
+601261,0,Dynamic,1000,1000,1,10,Circle,"""radius"": 100",BP_PROJ_Windstrike,Socket_Center
+601391,0,Dynamic,800,1000,1,10,Circle,"""radius"": 100",BP_PROJ_Dark,Socket_Center
+601441,0,Dynamic,500,1000,1,10,Circle,"""radius"": 200",BP_PROJ_BloodArrow,Bip01
+10050005,0,,2000,800,1,1,Circle,"""radius"": 130",BP_PROJ_Dark,Socket_Center
+731271,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731281,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731291,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731301,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731311,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731371,0,,1500,800,1,10,Circle,"""radius"": 200",BP_PROJ_DoubleShot,Socket_Center
+730311,0,Dynamic,600,3000,9,100,Circle,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+1205,0,Dynamic,1500,750,1,1,Circle,"""radius"": 150",BP_PROJ_SpiritOfMoonlight,Socket_Fire_2
+50221,0,Dyanmic,2000,800,1,1,Circle,"""radius"": 210",BP_PROJ_GiantStatuePeltastAttack,Socket_Center
+40020101,0,Dyanmic,500,900,1,1,Circle,"""radius"": 100",BP_PROJ_OlMahumAcherSkill_01,Socket_Center
+40020108,0,Dyanmic,300,900,1,1,Circle,"""radius"": 300",BP_PROJ_NightmareEyeSkill_01,Socket_Center
+40020130,0,Dyanmic,1000,2000,4,1,Circle,"""radius"": 200",BP_PROJ_HagiosColumnSkill_01,Socket_Center
+40020177,0,Dyanmic,750,5000,1,1,Obb,"""left"":150, ""right"":150, ""front"":50, ""back"":50",BP_PROJ_HagiosBossSkill_05,Socket_Center
+40020201,0,Dyanmic,500,900,1,1,Circle,"""radius"": 100",BP_PROJ_OlMahumAcherSkill_01,Socket_Center
+40020208,0,Dyanmic,300,900,1,1,Circle,"""radius"": 300",BP_PROJ_NightmareEyeSkill_01,Socket_Center
+40020230,0,Dyanmic,1000,2000,4,1,Circle,"""radius"": 200",BP_PROJ_HagiosColumnSkill_01,Socket_Center
+40020277,0,Dyanmic,750,5000,1,1,Obb,"""left"":150, ""right"":150, ""front"":50, ""back"":50",BP_PROJ_HagiosBossSkill_05,Socket_Center
+40020301,0,Dyanmic,500,900,1,1,Circle,"""radius"": 100",BP_PROJ_OlMahumAcherSkill_01,Socket_Center
+40020308,0,Dyanmic,300,900,1,1,Circle,"""radius"": 300",BP_PROJ_NightmareEyeSkill_01,Socket_Center
+40020330,0,Dyanmic,1000,2000,5,1,Circle,"""radius"": 200",BP_PROJ_HagiosColumnSkill_01,Socket_Center
+40020377,0,Dyanmic,750,5000,1,1,Obb,"""left"":150, ""right"":150, ""front"":50, ""back"":50",BP_PROJ_HagiosBossSkill_05,Socket_Center
+40020401,0,Dyanmic,500,900,1,1,Circle,"""radius"": 100",BP_PROJ_OlMahumAcherSkill_01,Socket_Center
+40020408,0,Dyanmic,300,900,1,1,Circle,"""radius"": 300",BP_PROJ_NightmareEyeSkill_01,Socket_Center
+40020430,0,Dyanmic,1000,2000,5,1,Circle,"""radius"": 200",BP_PROJ_HagiosColumnSkill_01,Socket_Center
+40020477,0,Dyanmic,750,5000,1,1,Obb,"""left"":150, ""right"":150, ""front"":50, ""back"":50",BP_PROJ_HagiosBossSkill_05,Socket_Center

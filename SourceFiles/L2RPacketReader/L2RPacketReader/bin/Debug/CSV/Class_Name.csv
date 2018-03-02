@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Adventurer,"Beginner with untapped potential. Can transfer into Warrior, Rogue, or Mystic."
+2,Warrior,Fighter who attacks in melee range.
+3,Rogue,Skilled in using a dagger and bow.
+4,Mystic,Damage dealer who uses magic to attack enemies.
+5,Paladin,Tank with high Def. and useful defense skills.
+6,Warlord,Damage dealer who attacks enemies while continuously weakening them.
+7,Treasure Hunter,Damage dealer who stuns enemies and deals consecutive attacks.
+8,Hawkeye,Long range damage dealer who deals AoE attacks and slows enemies.
+9,Sorcerer,Damage dealer who deals lasting flame damage.
+10,Bishop,Healer who helps by healing allies and stunning enemies.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Temple Knight,Offensive tank who deals wide AoE attacks.
+36,Swordsinger,Damage dealer who specializes in mid-range attacks.
+37,Plains Walker,Damage dealer who has a very fast attack speed.
+38,Silver Ranger,Long-range damage dealer who attacks very quickly.
+39,Spellsinger,Support damage dealer who attacks enemies or freezes them.
+40,Elder,Healer who greatly restores ally HP.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Shillien Knight,Offensive tank who attacks enemies by absorbing their HP.
+66,Bladedancer,Damage dealer who has high Atk.
+67,Abyss Walker,Damage dealer who deals bleed damage with a very fast attack speed.
+68,Phantom Ranger,Damage dealer who has a slow attack speed but lands powerful attacks.
+69,Spellhowler,Damage dealer who curses enemies and deals lasting AoE damage.
+70,Shillien Elder,Healer who raises allies’ Combat Power and heals party members.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Guardian,Magic tank who deals AoE crowd control.
+96,Slayer,@68
+97,Scavenger,Damage dealer who crushes enemies with quick movement speed.
+98,War Ranger,Long range damage dealer who uses traps and evasion skills.
+99,Battle Mage,Damage dealer who casts skills quickly at narrow areas.
+100,Sage,Support damage dealer who increases party members’ Def.

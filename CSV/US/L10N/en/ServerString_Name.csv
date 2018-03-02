@@ -1,0 +1,235 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,Castle Siege Reward
+GuildWarehouseRecordSiegeWarBidding,Bid on Castle Siege
+GuildWarehouseRecordFortressWarReward,Fortress Siege Reward
+GuildWarehouseRecordFortressWarBidding,Bid on Fortress Siege
+GuildWarehouseRecordCommission,Collect Taxes
+GuildWarehouseRecordMarketBuy,Purchase from Shop
+SystemMailName,System
+SystemMessageKickOutFromGM,The server is being reset. Please restart the game.
+SystemMessageLogOut,The game will now end.
+CastleSiegeFestivalCouponResetNotify,Siege Festival Tickets will be reset.
+MailTitleCheat,Cheat
+MailTitleTutorialReward,Tutorial
+MailTitleGuideQuestReward,Mercenary’s Journey Reward
+MailTitleShopGachaItem,Shop Summon Box Item
+MailTitleDungeonReward,Dungeon Reward
+MailTitlePvpHonorPointReward,Arena Honor Reward
+MailTitlePvpFirstRankReward,Arena First Rank Achievement Reward
+MailTitlePvpRankingReward,Arena Ranking Reward
+MailTitleCastleSiegeBegin,Castle Siege Start
+MailTitleCastleSiegeLoseReward,Castle Siege Loss Reward
+MailTitleCastleSiegeWinReward,Castle Siege Victory Reward
+MailTitleFortressSiegeLoseReward,Fortress Siege Loss Reward
+MailTitleFortressSiegeWinReward,Fortress Siege Victory Reward
+MailTitleFortressSiegeDrawReward,Fortress Siege Draw Reward
+MailTitleAuctionHouseBuy,Purchase from Trading Post
+MailTitleAuctionHouseSellFailed,Trading Post Sale Expired
+MailTitleAuctionHouseSellingCancel,Trading Post Sale Canceled
+MailTitleConnectDailyReward,Daily Login Reward
+MailTitleConnectWeeklyReward,Weekly Login Reward
+MailTitleConnectMonthlyReward,Monthly Login Reward
+MailTitleGuildAchievementReward,Clan Achievements Reward
+MailTitleGuildMarketBuy,Purchase from Clan Shop
+MailTitleGuildMarketGiftBuy,[Player] sent a gift.
+MailTitleGuildWarehouseGrant,Clan Prize
+MailTitleAchievementReward,Achievement Reward
+MailTitlePeriodAchievementReward,Timed Achievements Reward
+MailTitleFriendGreet,Greet Friend
+MailTitleBagIsFull,Inventory Full
+MailTitleDailyActivityReward,Daily Activities Reward
+MailTitleInstantCompleteReward,Reward Claim Item
+MailTitleMissionDailyReward,Daily Quest Reward
+MailTitleMissionWeeklyReward,Weekly Quest Reward
+MailTitleShopReward,Recharge/Spend Reward
+MailTitleSupriseBox,Open Surprise Box
+MailTitleEvent,Event Reward
+MailTitleEventDice,Dice Event Reward
+MailTitleEventDiceComplete,Dice Event Lap Completion Reward
+MailTitleCastleSiegeFestivalWin,Successfully Predicted the Castle Siege Festival Victory Clan
+MailTitleCastleSiegeFestivalLose,Failed to Predict the Castle Siege Festival Victory Clan
+MailTitleItemEnchantFailReward,Enhancement Failed Reward
+MailContentCheat,[Item]
+MailContentTutorialReward,You received [Item] as the tutorial reward!
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,Item acquired from Shop Summon Box. (Inventory limit reached)
+MailContentDungeonReward,An item acquired as a Dungeon Reward.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,Check out the items that you purchased from the Trading Post.
+MailContentAuctionHouseSellFailed,This item failed to sell at the Trading Post.
+MailContentAuctionHouseSellingCancel,This item’s sale was canceled at the Trading Post.
+MailContentConnectDailyReward,Acquired [Item] for being online 
+MailContentConnectWeeklyReward,Acquired [Item] for Day [Day].
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,Received a prize from the clan.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailRewardAdena,[Count] Adena
+MailRewardDiamond,[Count] Diamond(s)
+MailRewardCrystal,Scrap
+MailRewardExp,[Count] Exp.
+MailRewardQuestLimitTime,Quest Time Limit
+MailRewardFriendshipPoint,[Count] Friendship Points
+MailRewardStatus,[Count] Stat(s)
+MailRewardBloodCrystal,[Count] Sanguine Crystal(s)
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,Siege Festival Ticket
+GuildWarehouseRecordGuildAchievement,Clan Achievement
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,SP
+MailRewardTopaz,Topaz
+MailRewardMileage,Loyalty Points
+MailRewardGuildCoin,Clan Coin
+MailRewardAchievementPoint,Achievement Points
+MailRewardPvpHonorPoint,Honor Points
+MailRewardRunePiece,Rune Fragment
+MailRewardPvpTicket,Arena Ticket
+MailTitleClassTransfer,Class Transfer
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,Monster Codex
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,Your clan has cleared [GuildDungeonName].
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,Here is your reward for clearing [GuildDungeonName].
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,[GuildDungeonName] clan help reward will be sent.
+MailContentGuildDungeonHelpReward,Reward for clearing with the help of [GuildDungeonName] has been sent.
+MailTitleLevelUpGift,Character Strengthening Reward
+MailContentLevelUpGift,[Item]
+MailTitleReservedNickName,Here is a thank-you present for reserving your name!
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,Clan Hall Quest Reward
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,Link Account Reward
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,Relic Appraisal Results
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,Recover Registered Relic
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,Craft Potion
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,Fishing Codex Reward
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,Honorable Battlefield Season Reward
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,Courageous Battlefield Season Reward
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,Ancient Battlefield Season Reward
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,Clan Hall Quests
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,Use Potion Materials
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,Clan Relic Chest
+EquipDungeonHp80,The Holy Artifact has 80% HP remaining.
+EquipDungeonHp60,The Holy Artifact has 60% HP remaining.
+EquipDungeonHp40,The Holy Artifact has 40% HP remaining.
+EquipDungeonHp20,The Holy Artifact has 20% HP remaining.
+EquipDungeonHp0,The Holy Artifact was destroyed.
+VarBerk30,Varkaron has gone berserk.
+QueenAntScout,Monsters that protect the Queen Ant appear.
+QueenBigAnt,Large Nurse Ant appears!
+BigAntGiveHeal,Large Nurse Ant heals the Queen Ant.
+KICKOUT_FOR_INSPECT,You have been disconnected as a result of server maintenance.
+KICKOUT_FOR_ASSET_PATCH,Moving to the title screen to download new resources.
+KICKOUT_PACKET_KEY_CHANGE,You have been disconnected as you were inactive for an extended period of time.
+KICKOUT_SPEED_CHECK,You have been disconnected.
+CannotAcquireItemAnymore,Cannot acquire anymore.
+GuildMasterAutoEntrust,[System] There are no active members in this clan.
+MailTitlePurchaseLimitOverReward,[TargetItem] Duplicate Purchase
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"This clan has received the max number of daily requests.
+Please try again after 4am."
+GuildJoinAcceptDailyJoinLimit,"You have reached the max number of daily approvals.
+Please try again after 4am."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,The Cruma Core summoned the Guardian.
+DiceEventMaxCount,You have reached the max count for the Dice Event.
+PET_EQUIPMENT_ERROR_MESSAGE,"Mount equipment can’t be accessed from the Forge.
+Please use the Mount menu."
+MailTitleGuildCastleDailyReward,Castle Conquer Daily Reward
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,Trading Post Sale Payment
+MailContentAuctionHouseSellCompleted,This is the payment for the Trading Post sale.
+ConfineMessage,"Game access is restricted for <FontRed>[Day]</> days.
+Refer to the Community Forum notifications or contact Customer Service for details.
+(Available for use from <FontRed>[ReuseMonth]/[ReuseDay]/[ReuseYear] [ReuseHour] hr [ReuseMin] min.</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,Clan Hall Check In Reward
+EventDailyQuest,Daily Quest Event
+EventDailyQuestReward,Daily Quest Event Reward
+EventDailyQuestProgressReward,Daily Quest Event Progress Reward
+ESportsMasterDiedNotify,"[PlayerName], the <FontWhite>Clan Leader of</> [GuildName] has <FontWhite>died.</>"
+ESportsMsgNotStartTime,You cannot enter because the match hasn’t started yet.
+ESportsMsgNoMoreMatch,There are no matches in progress.
+ESportsMsgMatchInfo,"[MyServerName]-[MyGuildName], [PlayerName]’s match with [TargetServerName]-[TargetGuildName] will start after [EsportsStartTime] on the Competition Server."
+ESportsMsgMatchInfoLastTime,"[MyServerName]-[MyGuildName], [PlayerName]’s match with [TargetServerName]-[TargetGuildName] is currently in progress on the Competition Server."
+ESportsMatchEnded,Match in room [MatchId] has ended.
+ESportsMsgKickoutMatchEnded,"The match has ended, so you will be moved to the title screen."
+AuctionHouseDisabledMessage,"Trading Post is currently unavailable.
+Refer to the Community Forum for details."
+DayOfWeekMon,Monday
+DayOfWeekTue,Tuesday
+DayOfWeekWed,Wednesday
+DayOfWeekThu,Thursday
+DayOfWeekFri,Friday
+DayOfWeekSat,Saturday
+DayOfWeekSun,Sunday
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,Feldheim’s Treasure Hunt Debut Reward
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,Feldheim’s Treasure Hunt Total Reward
+MailTitleShopGuildReward,[Player]’s [Name] Gift
+MailContentRecommandationServerReward,Recommended Server Selection Reward Box
+MailTitleRecommandationServerReward,Recommended Server Selection Box
+MailTitleFacebookReward,Facebook Achievement Reward
+MailContentFacebookReward,@MailContentCheat
+MailTitleGuildDonationReward,Clan Donation Reward
+MailContentGuildDonationReward,@MailContentCheat
+MailTitleMasteryUpGift,Mastery Strengthening Reward
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,Mastery Token
+MailTitleFreeFortressResultWinReward,Open Siege Victory Reward
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,Open Siege Draw Reward
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,Open Siege Defeat Reward
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,Open Siege Point Reward
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleAppstoreReward,Founder’s Box
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Special Gift Box
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,You have been disconnected for inactivity while participating in Open Siege.
+MailTitleFotressDailyReward,Fortress Siege Conquer Reward
+MailContentFotressDailyReward,@MailContentCheat
+MailTitleFortressSiegeSpotReward,@GuildWarehouseRecordFortressWarReward
+MailContentFortressSiegeSpotReward,This is a Fortress Siege reward for conquering this location.
+SuspendAccount,"Your access has been suspended in accordance to the Terms of Service. (Illegal Transactions, etc.)
+If you require assistance, please contact our Customer Service Center.
+http://help.netmarble.com/web/lin2ws"
+NsVerifyFailed,@SuspendAccount

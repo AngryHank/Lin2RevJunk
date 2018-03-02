@@ -1,0 +1,11 @@
+Id,Type,ConditionValue1,ConditionValue2,ConditionValue3,CompleteValue1,CompleteValue2,CompleteValue3,FinishLv,Period
+20001,SoulShot,12,0,,100000,,,15,300
+20002,Equipment,15,,,1,,,15,300
+20003,Skill,17,3,100,2,,,15,300
+20004,HpPotion,0,,,100000,,,15,300
+20005,MpPotion,0,,,100000,,,15,300
+20006,Quest,200,,,,,,12,300
+20007,Rune,100,,,5,,,15,300
+20008,Revive,,,,,,,30,300
+20009,AutoEquip,11,,,5,,,30,300
+20010,PartyWorld,,,,,,,0,300

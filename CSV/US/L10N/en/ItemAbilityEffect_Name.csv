@@ -1,0 +1,43 @@
+Id,Description
+1,"[Param] Bonus Dmg., independent of final damage, vs Normal Monsters"
+2,"[Param] Bonus Dmg., independent of final damage, vs Elite Monsters"
+3,"[Param] Bonus Dmg., independent of final damage, vs Bosses"
+4,"[Param] Bonus Dmg., independent of final damage, vs Other Players"
+5,"-[Param] Damage, independent of final damage, from Normal Monsters"
+6,"-[Param] Damage, independent of final damage, from Elite Monsters"
+7,"-[Param] Damage, independent of final damage, from Bosses"
+8,"-[Param] Damage, independent of final damage, from Other Players"
+9,Stun Resist Rate +[Param]
+10,M. Def. +[Param]
+11,Slow Resist Rate +[Param]
+12,Crit. Resist Rate +[Param]
+13,Speed +[Param]
+14,Combo End Time +[Param]
+15,"[Param] Bonus Offensive Normal Skill Dmg., independent of final damage"
+16,"[Param] Bonus Dmg., independent of final damage, vs Magical Monsters"
+17,"-[Param] Damage, independent of final damage, from Magical Monsters"
+101,[Param] Bonus Dmg. vs Normal Monsters
+102,@101
+103,@101
+104,[Param] Bonus Dmg. vs Bosses
+105,@104
+106,@104
+107,Damage from Other Players -[Param]
+108,@107
+109,[Param] Bonus Dmg. vs Other Players
+110,@109
+111,Damage from Normal Monsters -[Param]
+112,@111
+113,[Param] Bonus Dmg. vs Elite Monsters
+114,@113
+115,Damage from Elite Monsters -[Param]
+116,@115
+117,Damage from Bosses -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] Bonus Dmg. vs. Castle Siege Building
+204,@2
+205,@3
+206,@16
+301,Increases Atk. Spd by [Param] on battlefield.

@@ -1,0 +1,61 @@
+MissionInfoId,TaskName,TaskDescription
+3101,Join or Create a Clan,Join or create a Clan {0} time. ({1} / {2})
+3102,Clan Check In,Check-in with Clan {0} time(s). ({1} / {2})
+3103,Clan Shop,Make {0} purchases in the Clan Shop. ({1} / {2})
+3104,Clan Donation,Donate {0} Adena to the Clan. ({1} / {2})
+3105,Clan Greet,Greet a Clan member {0} time(s). ({1} / {2})
+3201,Clan Achievement,Collect Clan Achievement Reward(s) {0} time(s). ({1} / {2})
+3202,@3102,@3102
+3203,@3103,@3103
+3204,@3104,Donate {0} Proof(s) of Blood to the clan. ({1} / {2})
+3205,@3105,@3105
+3301,@3201,@3201
+3302,@3102,@3102
+3303,@3103,@3103
+3304,@3104,Donate {0} Red Starstone(s) to the Clan. ({1} / {2})
+3305,@3105,@3105
+3401,@3201,@3201
+3402,@3102,@3102
+3403,@3103,@3103
+3404,@3104,@3104
+3405,@3105,@3105
+3501,@3201,@3201
+3502,@3102,@3102
+3503,@3103,@3103
+3504,@3104,@3204
+3505,@3105,@3105
+3601,@3201,@3201
+3602,@3102,@3102
+3603,@3103,@3103
+3604,@3104,@3304
+3605,@3105,@3105
+2101,Level Up Equipment,Attempt Equipment Level Up {0} time(s) ({1}/{2})
+2102,Attempt to Enhance,Attempt to enhance equipment {0} time(s). ({1}/{2})
+2103,Upgrade Soul Crystals,Upgrade Soul Crystals {0} time(s) ({1}/{2})
+2104,Clear Temple Guardian,Clear Temple Guardian {0} time(s) ({1}/{2})
+2105,Equipment Draw,Attempt an Equipment Draw {0} time(s) ({1}/{2})
+2201,@2101,@2101
+2202,@2102,@2102
+2203,@2103,@2103
+2204,@2104,@2104
+2205,@2105,@2105
+2301,@2101,@2101
+2302,@2102,@2102
+2303,@2103,@2103
+2304,@2104,@2104
+2305,@2105,@2105
+2401,@2101,@2101
+2402,@2102,@2102
+2403,Combine Equipment,Attempt to combine Equipment {0} time(s) ({1}/{2})
+2404,@2104,@2104
+2405,Attempt Substat Changes,Change Equipment Substats {0} time(s) ({1}/{2})
+2501,@2101,@2101
+2502,@2102,@2102
+2503,@2403,@2403
+2504,@2104,@2104
+2505,@2405,@2405
+2601,@2101,@2101
+2602,@2102,@2102
+2603,@2403,@2403
+2604,@2104,@2104
+2605,@2405,@2405

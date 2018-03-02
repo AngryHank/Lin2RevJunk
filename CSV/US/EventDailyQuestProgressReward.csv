@@ -1,0 +1,7 @@
+GroupId,RequiredQuestCount,RewardItemType,RewardItemInfoId,RewardCount,EnableEffect
+3,10,6,910234,1,0
+3,20,6,910221,5,0
+3,30,6,910134,1,1
+2,10,6,910234,1,0
+2,20,6,910004,1,0
+2,30,6,910005,1,1

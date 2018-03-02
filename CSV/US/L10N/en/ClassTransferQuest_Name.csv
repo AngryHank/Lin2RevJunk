@@ -1,0 +1,92 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Proof of Patience,Defeat {TaskCount} Monster(s).,,
+1112,2. A Day’s Sorting,Clear Daily Dungeon on Easy mode.,Aymel,"Woah! You already defeated 50 monsters? That’s incredible!<p>Your next test is to clear an Easy Daily Dungeon!
+These bosses are known to be very powerful.<p>Only true combatants can defeat them!
+Go and prove yourself!"
+1113,3. Readiness,Acquire {TaskCount} Grade C item(s).,@1112,"You are the first to have defeated the boss of the holy ground so quickly! You really are something, you know that?<p>The next test is... Hmm... Well, it’s not so much of a test. You need to collect Grade C items.<p>You will need to level up your equipment as you fight! What you need at such moments are Grade C items. Collect and use them for enhancing your equipment!"
+1114,4. Everyone’s Approval,Participate in {TaskCount} or more duel(s).,@1112,"Well? Leveling up your equipment with Grade C items really helped, right?<p>Now that you’ve leveled up your equipment, let’s check out your abilities.<p>Oh, you think you’ll be fighting monsters? Nice try!
+You need to show off your abilities against other players!<p>It would be a shame if you lost in the Arena without putting up a fight!<p>Hmm, this should work! One fight in the Arena!
+Just participate one time in the Arena - easy, right?<p>Don’t be a baby!
+When I was a newbie, I participated in 100 fights!
+Go on. Now, it’s your turn!"
+1115,5. Proof of Qualification,Acquire {TaskCount} Adena.,@1112,"What?! You already fought in the Arena?<p>Well, then we should move on to the next test.<p>You need to earn 10,000 Adena.<p>This is a test of your hunting and finance management skills! You could die at a crucial moment if you don’t do a good job of managing your finances!<p>Go earn 10,000 Adena!"
+1116,6. Breakthrough,Successfully enhance equipment {TaskCount} time(s).,@1112,"On to the next test!<p>Now you need to enhance your equipment.<p>Equipment is as important to a mercenary as their own life!
+Enhance your equipment diligently if you want to survive on the battlefield!<p>Try enhancing one piece of equipment!"
+1117,7. Acknowledgement,Defeat Skeleton Collector Kyrios {TaskCount} time(s).,@1112,"Wow, is it already the final test? Congratulations! Looks like the higher ups have high expectations of you for a reason.<p>Because of your extraordinary abilities, we’ve decided to include you in the Kyrios Blood Ranger task! Kyrios is a terrible monster that kills Humans!<p>We only assign this task to the extremely talented members in our mercenaries. For some reason, the higher ups want you to take on this task!<p>It’s the first time such a thing has happened! It’s proof that they truly acknowledge your abilities!<p>Be sure to defeat it since they said this would take the place of the last test! It will be tough but I wish you the best of luck!<p>Oh, it’ll be a tougher opponent than you might expect so it will be helpful to go with comrades!"
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

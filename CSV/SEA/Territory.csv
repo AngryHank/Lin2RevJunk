@@ -1,0 +1,6 @@
+Id,NameKey,NameTagPosX,NameTagPosY,NameTagDirection,Texture,CastleTexture,Desc,HelpKeyWord
+1,231000000001,312,300,Right,UI_Image_GludioTerritory,UI_Image_GludioCastle,,Gludio
+2,231000000002,648,240,Left,UI_Image_DionTerritory,UI_Image_DionCastle,,Dion
+3,231000000003,908,212,Left,UI_Image_GiranTerritory,UI_Image_GiranCastle,,Giran
+4,231000000004,828,24,Left,UI_Image_OrenTerritory,UI_Image_OrenCastle,,Oren
+5,231000000005,16,440,Right,UI_Image_TalkingIslandTerritory,UI_Image_TalkingIslandCastle,,TalkingIsland

@@ -1,0 +1,9 @@
+Id,BattlefieldLeagueId,RankingDesc,LeagueScore,RewardType,RewardItemInfoId,RewardCount
+4,401,,900,Item,912001,1
+4,404,,1200,Item,912002,2
+4,407,,1500,Item,912003,3
+4,410,,1800,Item,912004,1
+4,413,,2100,Item,912005,2
+4,416,,2400,Item,912006,3
+4,417,,2700,Item,912007,1
+4,418,,3000,Item,912008,5

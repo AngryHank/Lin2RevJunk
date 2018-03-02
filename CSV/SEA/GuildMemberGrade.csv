@@ -1,0 +1,6 @@
+Grade,NameKey,AgitOpen,AgitExpel,AgitBuy,AgitManager,AgitCrystal,JoinRequestOptionChange,Advertisement,NoticeChange,IntroductionChange,JoinRequestAcceptance,MemberGradeChange,Expulsion,Invitation,UseAdditionalBuff,Impeachment,FortressWarRegistration,CastleWarRegistration,Grant,SkillUpgrade,Alliance,EnemyGuild,EmblemChange,CastleSiegeAlarm,IconPath,FirePlace,AgitPotion
+Knight,591000000001,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Icon_Guild_Membership_01,0,0
+KnightsLeader,322000000060,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Icon_Guild_Membership_02,0,0
+RoyalGuardsLeader,591000000003,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,Icon_Guild_Membership_03,0,0
+AssistantMaster,591000000004,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,Icon_Guild_Membership_04,0,1
+Master,591000000005,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,Icon_Guild_Membership_05,1,1

@@ -1,0 +1,13 @@
+UseType,Type,ManagerGrade,ManagerCost,ManagerTexture,ProgressMissionCount
+0,0,1,0,Noble_01,3
+0,2,1,0,WarehouseKeeper_W_01,
+0,3,1,0,Fernel,
+0,1,1,0,SmeltingMerchant_01,
+0,0,2,100000,Noble_01,3
+0,2,2,100000,WarehouseKeeper_W_01,
+0,3,2,150000,Fernel,
+0,1,2,100000,SmeltingMerchant_01,
+0,0,3,100000,Noble_01,3
+0,2,3,100000,WarehouseKeeper_W_01,
+0,3,3,250000,Fernel,
+0,1,3,100000,SmeltingMerchant_01,

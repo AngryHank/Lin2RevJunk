@@ -1,0 +1,6 @@
+IndividualNoticeType,ImageIcon,RichTextScript
+0,,적 <FontRed>처치!</>
+1,,[killCount]연속 <FontRed>처치!</>
+2,,방어탑 파괴 <FontBlue>성공!</>
+3,,[AltarName] <FontBlue>각인!</>
+4,,[SiegeBuff] <FontBlue>달성!</>

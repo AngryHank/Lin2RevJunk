@@ -1,0 +1,4 @@
+Id,NameKey,IconTexture,BackgroundImage,DescKey,Tax,WorldInfoId,GlobalBuffInfoId,LocalBuffInfoId,DailyGiveItem,ImageCastle,RewardCapeInfold
+1,771000000001,Image_Castle_mark_01,Image_Castle_01,772000000001,100,17001,300002,,911029,MI_UI_Image_GludioCastle,
+2,771000000002,Image_Castle_mark_02,Image_Castle_02,772000000002,150,17002,300003,,911029,MI_UI_Image_DionCastle,
+3,771000000003,Image_Castle_mark_03,Image_Castle_03,772000000003,200,17003,300004,,911029,MI_UI_Image_GiranCastle,70003

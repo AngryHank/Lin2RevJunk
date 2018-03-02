@@ -1,0 +1,5 @@
+MonsterType,NameColor,IconTexture
+RaidBoss,Red,Icon_Boss_Raid
+FieldBoss,Red,Icon_Boss_Field
+Named,Orange,Icon_Boss_Named
+QuestBoss,Red,UI_Icon_QuestBoss

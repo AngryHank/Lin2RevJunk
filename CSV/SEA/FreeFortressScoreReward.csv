@@ -1,0 +1,6 @@
+﻿ID,WorIdinfoId,ResultScoreMin,ResultScoreMax,FreeFortressScoreRewardInfoId1,FreeFortressScoreRewardCount1,FreeFortressScoreRewardInfoId2,FreeFortressScoreRewardCount2,FreeFortressScoreRewardInfoId3,FreeFortressScoreRewardCount3
+1,16999,30,59,919082,1,,,,
+2,16999,60,89,919082,2,919083,1,,
+3,16999,90,124,919082,3,919083,2,,
+4,16999,125,149,919082,4,919083,4,,
+5,16999,150,999,919082,5,919083,6,,

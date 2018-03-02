@@ -1,0 +1,3 @@
+Id,EventGroupID,TargetUserLevel_Low,TargetUserLevel_High,NameKey,BackGroundTexture,BadgeType,EventCheck
+1,1,1,260,613000001001,UI_Image_JourneyEvent,GuideQuest1,0
+2,2,1,260,613000001002,UI_Image_JourneyEvent,GuideQuest2,1

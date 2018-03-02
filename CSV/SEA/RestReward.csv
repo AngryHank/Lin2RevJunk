@@ -1,0 +1,4 @@
+Id,ProductNameKey,ProductType,PercentQuantity,ProductId,ProductCount,CostTypeForAdditionalPurchase,CostForAdditionalPurchase,MulForAdditionalPurchase,CostTypeForAdditionalPurchase2,CostForAdditionalPurchase2,MulForAdditionalPurchase2,RewardIcon
+1,361000000001,Exp,100,,,Diamond,1,,Adena,1000,,Icon_Exp_01
+2,1004,RunePiece,100,490005,1,Diamond,1,,Adena,1000,,Icon_Asset_RuneStone_01
+3,361000000003,CompleteTicket,10000,910313,1,Diamond,100,2,Adena,50000,2,Icon_PkProtector

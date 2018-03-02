@@ -1,0 +1,58 @@
+Id,Description
+1,Sets the game resolution. The game may run smoother at lower settings.
+2,Sets the visible range. The game may run smoother at lower settings.
+3,Adjusts how smoothly borders are rendered. Objects will appear cruder at lower settings but the game may run smoother.
+4,Sets the texture detail. The game may run smoother at lower settings.
+5,Sets the shadow quality. The graphics will appear more realistic at higher settings.
+6,Sets the vertical synchronization. The graphics will appear more smoothly at higher settings.
+7,@5
+8,Sets the texture quality. The game may run smoother at lower settings.
+9,Texture LOD Level
+10,Sets the resolution ratio.
+11,Runs 1 prepass within Slate.
+12,Sets the visibility of your shadow.
+13,Sets the video frame rate.
+14,Sets the graphics quality related to APU usage.
+15,Sets the graphics quality related to memory usage.
+16,Sets the sound channel quality.
+17,Sets the effect display target.
+18,Sets the maximum number of players to be displayed on your screen.
+19,Sets the equipment to be displayed on your screen.
+20,Sets the master sound volume.
+21,Sets the background sound volume.
+22,Sets the sound effect volume.
+23,Sets the voice actor volume.
+24,Toggles vibration feedback.
+25,Toggles your mobile device’s auto-turn on/off feature.
+26,Toggles the voice chat’s auto-play feature.
+27,You can toggle all in-game notifications.
+28,Receive game notifications.
+29,Receive game notice notifications.
+30,Turning this off blocks all notification between 9pm and 8am.
+31,Turn off this option to disable pop-up notifications (except high-priority notifications).
+32,Turn off this option to disable 1:1 Chat pop-up notifications.
+33,Turn off this option to disable Clan Chat pop-up notifications.
+34,Turn off this option to disable Party Chat pop-up notifications.
+41,Sets the HP at which to use HP Potions automatically.
+42,Sets the MP at which to use MP Potions automatically.
+43,Sets the HP percentage at which to use healing skills automatically.
+44,Sets the order of potions to use when using HP Potions automatically.
+45,Sets the order of potions to use when using MP Potions automatically.
+46,Displays normal attack range.
+47,Sets the range your character moves within while in Auto-Battle.
+48,Sets the minimum grade for equipment to acquire.
+49,Escape to safety when you encounter Elite or greater Monsters while in Auto-Battle.
+50,You will acquire items of at least this grade. (Will not acquire lower grade items.)
+51,Sets the control area of the Digital Analog controls to a fixed area of the screen.
+52,Translates chat messages to the language used in-game.
+53,Sets which languages should or should not be translated in chat.
+54,@53
+55,@53
+56,@53
+57,@53
+58,@53
+59,@53
+60,@53
+61,@53
+62,@53
+63,@53

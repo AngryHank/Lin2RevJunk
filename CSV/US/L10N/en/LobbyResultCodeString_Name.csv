@@ -1,0 +1,43 @@
+Key,Value
+10001,The packet version doesn’t match with the server. Restart the app.
+10002,Restart the game for an update.
+10003,Server Error (DB)
+10004,Server Error (LUA)
+10005,Excel table error
+10006,Server error (Parameter)
+10007,Server error (Logic)
+10008,Server error
+10009,You have not logged in.
+10010,You are already logged in.
+10011,There are no targets to kick out.
+10012,Incorrect authentication
+10013,Incorrect character identifier
+10014,Incorrect class information
+10015,Incorrect gender
+10016,Incorrect name
+10017,Incorrect NPC information
+10018,Incorrect player identifier
+10019,Incorrect race information
+10020,Incorrect skill
+10021,Incorrect skill target
+10022,Incorrect status
+10023,Incorrect region information
+10024,There is no device identifier.
+10025,The name is already in use.
+10026,Skill is in casting.
+10027,Currently stunned.
+10028,You are not dead.
+10029,Not enough MP
+10030,Session has disconnected.
+10031,GameToken is not up to date.
+10032,"Protocol error.
+Latest update is required."
+10033,System Error
+10034,GameToken Format Error
+10035,GameToken doesn’t exist.
+10036,Maintenance in progress.
+10037,Account is empty.
+10038,Coming soon.
+10039,You cannot enter this server because character creation is restricted. Please use another server.
+10040,Netmarble Security Failed
+10100,This player has left.

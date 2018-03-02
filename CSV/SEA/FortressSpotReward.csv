@@ -1,0 +1,7 @@
+Grade,GuildRewardType1,GuildRewardItemInfo1,GuildRewardCount1,GuildRewardType2,GuildRewardItemInfo2,GuildRewardCount2,GuildRewardType3,GuildRewardItemInfo3,GuildRewardCount3,GuildRewardType4,GuildRewardItemInfo4,GuildRewardCount4,RewardType1,RewardItemInfo1,RewardCount1,RewardType2,RewardItemInfo2,RewardCount2,RewardType3,RewardItemInfo3,RewardCount3,RewardType4,RewardItemInfo4,RewardCount4
+C,GuildAdena,,100000,GuildBloodCrystal,,3000,GuildRedStarStone,,1000,None,,0,Item,490011,1,Item,911194,3,,,,,,
+B,GuildAdena,,100000,GuildBloodCrystal,,3000,GuildRedStarStone,,1000,None,,0,Item,490011,2,Item,911194,3,,,,,,
+A,GuildAdena,,100000,GuildBloodCrystal,,3000,GuildRedStarStone,,1000,None,,0,Item,490011,3,Item,911194,3,,,,,,
+S,GuildAdena,,200000,GuildBloodCrystal,,5000,GuildRedStarStone,,2000,None,,0,Item,490011,5,Item,911194,4,Item,10900001,1,,,
+R,GuildAdena,,400000,GuildBloodCrystal,,10000,GuildRedStarStone,,3000,None,,0,Item,490011,7,Item,911194,5,Item,10900002,1,,,
+SR,GuildAdena,,1000000,GuildBloodCrystal,,20000,GuildRedStarStone,,5000,None,,0,Item,490012,1,Item,911194,7,Item,10900003,1,,,

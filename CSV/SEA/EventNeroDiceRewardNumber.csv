@@ -1,0 +1,6 @@
+RewardNumber,EventGroupID,RewardItemID,GroupNum,RewarditemCount,BoardCellIcon
+101,20001,910237,1,2,UI_BG_NeroDice_Rank1
+102,20001,916001,2,1,UI_BG_NeroDice_Rank2
+103,20001,410004,3,2,UI_BG_NeroDice_Rank3
+104,20001,911024,4,15,UI_BG_NeroDice_Rank4
+105,20001,490011,5,1,UI_BG_NeroDice_Rank5

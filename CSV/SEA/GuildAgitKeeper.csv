@@ -1,0 +1,13 @@
+UseType,Type,ManagerGrade,ManagerCost,ManagerTexture,ProgressMissionCount,ManagerDescKey
+0,Mission,1,0,Noble_01,3,871000000001
+0,Banquet,1,0,WarehouseKeeper_W_01,,871000000002
+0,Relic,1,0,Fernel,,871000000003
+0,Liquid,1,0,SmeltingMerchant_01,,871000000004
+0,Mission,2,50000,Noble_01,3,871000000005
+0,Banquet,2,50000,WarehouseKeeper_W_01,,871000000006
+0,Relic,2,100000,Fernel,,871000000007
+0,Liquid,2,50000,SmeltingMerchant_01,,871000000008
+0,Mission,3,50000,Noble_01,3,871000000009
+0,Banquet,3,75000,WarehouseKeeper_W_01,,871000000010
+0,Relic,3,200000,Fernel,,871000000011
+0,Liquid,3,100000,SmeltingMerchant_01,,871000000012

@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] has joined the clan.
+2,[Param1] has left the clan.
+3,[Param1]’s rank has become [Param2]{[Param2]|}.
+4,[Param1] was appointed as the new Clan Leader.
+5,Clan level has reached [Param1]{[Param1]}.
+6,Formed an alliance with [Param1].
+7,Alliance with [Param1] has ended.
+8,[Param1] has given [Param2] a reward.
+9,[Param1] has given all clan members rewards.
+10,Succeeded in conquering [Param1].
+11,Renew the bidding price of [Param1]!
+12,Bidding price of [Param1] has been extended.
+13,[Param1]’s Siege Headquarters is under attack.
+14,[Param1]’s Siege Headquarters has been destroyed.
+15,Festival Tickets will be reset when the Castle Siege starts. Hurry up and apply for a voucher.
+16,[Time] [Param1] has logged in.
+17,[Param1] has been appointed as the new Clan Leader due to the previous Clan Leader’s long absence and lack of attendance.
+18,The next buff will appear in [Param1] sec.
+19,[Param1] has defeated [Param2].
+20,The Blue Team has acquired [Param1]{[Param1]}.
+21,The Red Team has acquired [Param1]{[Param1]}.
+22,[Param1] has achieved [Param2] consecutive kills!
+23,[Param2] of [Param1] has achieved [Param3] consecutive kills!
+24,The Honorable Battlefield has opened. Join the fight!
+25,The Honorable Battlefield starts in [Param1] minute(s). Prepare for battle!
+26,The Courageous Battlefield has opened. Join the fight!
+27,The Courageous Battlefield starts in [Param1] minute(s). Prepare for battle!
+28,"[Param1] has rewarded [Param3] player(s), including [Param2]."

@@ -1,0 +1,13 @@
+Id,NameKey,BGTexture,BGTextureSmall,BPName,ContentType,Promote
+9001,1071000009001,Image_SmartPopup_9001,small_package_01,,,
+9008,1071000009008,Image_SmartPopup_Junior,small_package_08,,,
+9009,1071000009009,Image_SmartPopup_Senior,small_package_09,,,
+9010,1071000009010,Image_SmartPopup_Veteran,small_package_10,,,
+9053,1071000009053,Image_SmartPopup_Elite,small_package_10,,,
+9501,1071000009501,Image_SmartPopup_9501,small_package_10,BP_EquipmentEnhancementUI,BlackSmithLevelUp,
+9502,1071000009502,Image_SmartPopup_9502,small_package_11,BP_EquipmentEnhancementUI,BlackSmithEnchant,
+9503,1071000009503,Image_SmartPopup_9503,small_package_12,BP_InventoryUI,BagAccessory,
+9611,1071000009611,Image_Smartpopup_Noblesse,small_package_10,,,
+9011,1071000009011,Image_Smartpopup_Platinum,small_package_10,,,
+9012,1071000009012,Image_Smartpopup_Master,small_package_10,,,
+10010030,331010010030,Image_Smartpopup_10010030,small_package_10,BP_EquipmentEnhancementUI,BlackSmithEnchant,

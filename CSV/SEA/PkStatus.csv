@@ -1,0 +1,7 @@
+Id,ActiveIconPath,DeactiveIconPath
+Peace,Texture/UI_Icon_Pk_Peace_On,Texture/UI_Icon_Pk_Peace
+Murderous,Texture/UI_Icon_Pk_Murderous_On,Texture/UI_Icon_Pk_Murderous
+Justice,Texture/UI_Icon_Pk_Definition_On,Texture/UI_Icon_Pk_Definition
+Hostile,Texture/UI_Icon_Pk_Hostile_On,Texture/UI_Icon_Pk_Hostile
+CountAttack,Texture/UI_Icon_PK_Stab_On,Texture/UI_Icon_PK_Stab
+Custom,Texture/UI_Icon_PK_Custom_On,Texture/UI_Icon_PK_Custom

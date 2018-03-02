@@ -1,0 +1,5 @@
+Id,BattlefieldType,Description,BackgroundImage,ContentsLockKeyword
+1,1,CARTEL_DESC,UI_Image_Guild,PVP
+2,8,FREE_FORTRESS_DESC,UI_Image_FreeSiege,FREE_FORTRESS_SIEGE
+6,3,FORTRESS_DESC,UI_Image_Fortress,FORTRESS_SIEGE
+7,2,CASTLESIEGE_DESC,UI_Image_CastleSiege,CASTLE_SIEGE

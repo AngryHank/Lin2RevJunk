@@ -1,0 +1,9 @@
+Score,ScoreBuffID,BuffInfo,GradeName
+0,0,None,Warrior
+5,200003,Atk. and Def. +1%,Knight
+15,200004,Atk. and Def. +2%,Top-grade Knight
+30,200005,Atk. and Def. +3%,Knight Captain
+60,200006,Atk. and Def. +4%,First Knight
+90,200007,Atk. and Def. +5%,Commander
+125,200008,Atk. and Def. +6%,General
+150,200009,Atk. and Def. +7%,Champion

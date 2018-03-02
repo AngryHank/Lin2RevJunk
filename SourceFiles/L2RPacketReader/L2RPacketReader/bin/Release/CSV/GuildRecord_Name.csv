@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,Clan member [Param1] donated [Param2] Adena.
+1,[Param1] donated [Param2] Proof of Blood(s).
+2,Clan Buff [Param1] has reached level [Param2].
+3,<FontYellow>Clan has reached level [Param1].</>
+4,<FontRed>A war has been declared</> on [Param1].
+6,<FontBlue>Established</> an alliance with clan [Param1].
+7,The alliance with [Param1] has been <FontRed>disbanded</>.
+8,Clan member [Param1] has become [Param2].
+10,[Param1] has <FontBlue>joined</> the clan.
+11,[Param1] has <FontRed>left</> the clan.
+12,<FontYellow>[Param1] has levied [Param2] Diamond Box(es) as the tax.</>
+13,Successfully cleared Clan Dungeon <FontBlue>[Param1]</>.
+14,Successfully achieved clan achievement <FontGreen>[Param1]</>.
+15,<FontYellow>You’ve become the ruler of [Param1].</>
+16,@CastleAcquired
+17,<FontGreen>Gifted</> [Param3] [Param2](s) to [Param1] clan member(s).
+18,Gave [Param2] x[Param3] <FontGreen>prize</> to [Param1] clan member.
+19,<FontBlue>Rewarded</> [Param1] x[Param2] to all clan members.
+20,<FontBlue>Won</> the war against clan [Param1].
+21,<FontRed>Lost</> the war against clan [Param1].
+22,Fought to a standstill in the war against clan [Param1].
+23,Lord [Param1] purchased [Param2] from the Castle Siege Store.
+24,Clan member [Param1] donated [Param2] Red Starstone(s).
+9,[Param1] <FontRed>automatically appointed</> [Param2] as the new Lord.
+25,<FontYellow>You have purchased a Clan Hall.</>
+26,<FontYellow>The Clan Hall has reached Level [Param1].</>
+27,<FontYellow>The Crystal of Unity has reached Level [Param1].</>
+28,Will give up ownership of [Param1].
+29,Haven given up ownership of [Param1].
+30,War against clan [Param1] has terminated under settlement.
