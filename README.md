@@ -8,21 +8,37 @@
 Contents:
 ------------
 1. Overview 
+
 2.1 SEA - Data from SEA server
+
 2.1. US - Data from US server
+
 3. Tools
-  3.1 Tools\Extraction - Program to Extract Pak Files
-    3.1.1 Instructions
-  3.2 Tools\Decryption - Program to Decrypt CSV Files
-  3.3 Tools\L2RPacketReader - Program to Sniff L2R Packets
-    3.3.1 Instructions
-	3.3.2 Data Sniffed
-	3.3.3 Command Line Options
-  3.4 Tools\Lin2.txt - General Information on Pactch Servers
+
+3.1 Tools\Extraction - Program to Extract Pak Files
+
+3.1.1 Instructions
+
+3.2 Tools\Decryption - Program to Decrypt CSV Files
+
+3.3 Tools\L2RPacketReader - Program to Sniff L2R Packets
+
+3.3.1 Instructions
+
+3.3.2 Data Sniffed
+
+3.3.3 Command Line Options
+
+3.4 Tools\Lin2.txt - General Information on Pactch Servers
+
 4. SourceFiles
-  4.1 SourceFiles\decrypt\ - Source to the decrypt program
-  4.2 SourceFiles\L2RPacketReader\ - source to the packet sniffer.
+
+4.1 SourceFiles\decrypt\ - Source to the decrypt program
+
+4.2 SourceFiles\L2RPacketReader\ - source to the packet sniffer.
+
 5.0 Codex - Latest Codex Sheets URLS
+
 
 
 
