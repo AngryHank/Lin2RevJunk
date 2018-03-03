@@ -19,30 +19,31 @@ namespace L2RPacketReader.CSV
 
     class race
     {
-        private static string result;
+        private static IEnumerable<raceheader> _records;
         public static string RaceName(int intID)
         {
-
+            string result = string.Empty;
             string id = intID.ToString();
-            
-        IDSearch:
 
-            using (var sr = new StreamReader(@"CSV\Race_Name.csv"))
+            if (_records == null)
             {
-                var csv = new CsvReader(sr);
-                var record = new raceheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                using (var sr = new StreamReader(@"CSV\Race_Name.csv"))
                 {
-                    if (r.Id == id)
-                    {
-                        result = r.Name;
-                        break;
-                    }
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<raceheader>().ToList();
                 }
-
             }
-            if (result.Length > 0 & result.Substring(0, 1) == "@")
+
+        IDSearch:
+            foreach (var r in _records)
+            {
+                if (r.Id == id)
+                {
+                    result = r.Name;
+                    break;
+                }
+            }
+            if (result.Length > 0 && result.Substring(0, 1) == "@")
             {
                 id = (result.Substring(1, (result.Length - 1)));
                 goto IDSearch;

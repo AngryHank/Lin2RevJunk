@@ -18,27 +18,27 @@ namespace L2RPacketReader.CSV
 
     class guildMemberGrade
     {
-        private static String result;
+        private static IEnumerable<guildMemberGradeheader> _records;
         public static String guildMemberGradeName(byte Grade)
         {
-            
-            using (var sr = new StreamReader(@"CSV\GuildMemberGrade_Name.csv"))
+            if (_records == null)
             {
-                var csv = new CsvReader(sr);
-                var record = new guildMemberGradeheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                using (var sr = new StreamReader(@"CSV\GuildMemberGrade_Name.csv"))
                 {
-                    if (r.Grade == Grade)
-                    {
-                        result = r.Name;
-                        break;
-                    }
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<guildMemberGradeheader>().ToList();
                 }
-
             }
 
-            return result;
+            foreach (var r in _records)
+            {
+                if (r.Grade == Grade)
+                {
+                    return r.Name;
+                }
+            }
+
+            return string.Empty;
 
         }
 

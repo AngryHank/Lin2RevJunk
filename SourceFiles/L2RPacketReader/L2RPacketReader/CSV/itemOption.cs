@@ -19,30 +19,32 @@ namespace L2RPacketReader.CSV
 
     class itemOption
     {
-        private static string result;
+        private static List<itemOptionheader> _records;
         public static string itemOptionName(int intID)
         {
-
             string id = intID.ToString();
-            
+            string result = string.Empty;
+
         IDSearch:
 
-            using (var sr = new StreamReader(@"CSV\ItemOption_Name.csv"))
+            if (_records == null)
             {
-                var csv = new CsvReader(sr);
-                var record = new itemOptionheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                using (var sr = new StreamReader(@"CSV\ItemOption_Name.csv"))
                 {
-                    if (r.Id == id)
-                    {
-                        result = r.Name;
-                        break;
-                    }
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<itemOptionheader>().ToList();
                 }
-
             }
-            if (result.Length > 0 & result.Substring(0, 1) == "@")
+
+            foreach (var r in _records)
+            {
+                if (r.Id == id)
+                {
+                    result = r.Name;
+                    break;
+                }
+            }
+            if (result.Length > 0 && result.Substring(0, 1) == "@")
             {
                 id = (result.Substring(1, (result.Length - 1)));
                 goto IDSearch;

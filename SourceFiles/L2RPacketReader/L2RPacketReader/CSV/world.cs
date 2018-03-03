@@ -18,30 +18,33 @@ namespace L2RPacketReader.CSV
 
     class world
     {
-        private static string result = " ";
+        private static IEnumerable<worldheader> _records;
         public static string worldName(int intID)
         {
-
+            string result = "";
             string id = intID.ToString();
-            
+
+            if (_records == null)
+            {
+                using (var sr = new StreamReader(@"CSV\World_Name.csv"))
+                {
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<worldheader>().ToList();
+                }
+            }
+
         IDSearch:
 
-            using (var sr = new StreamReader(@"CSV\World_Name.csv"))
+            foreach (var r in _records)
             {
-                var csv = new CsvReader(sr);
-                var record = new worldheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                if (r.Id == id)
                 {
-                    if (r.Id == id)
-                    {
-                        result = r.Name;
-                        break;
-                    }
+                    result = r.Name;
+                    break;
                 }
-
             }
-            if (result.Length >0 & result.Substring(0, 1) == "@")
+
+            if (result.Length > 0 && result.Substring(0, 1) == "@")
             {
                 id = (result.Substring(1, (result.Length - 1)));
                 goto IDSearch;

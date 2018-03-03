@@ -25,28 +25,27 @@ namespace L2RPacketReader.CSV
 
     class guildLevelUp
     {
-        private static UInt32 result;
+        private static IEnumerable<guildLevelUpheader> _records;
         public static UInt32 guildLevelUpExp(UInt32 Lv)
         {
-            
-            using (var sr = new StreamReader(@"CSV\GuildLevelUp.csv"))
+            if (_records == null)
             {
-                var csv = new CsvReader(sr);
-                var record = new guildLevelUpheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                using (var sr = new StreamReader(@"CSV\GuildLevelUp.csv"))
                 {
-                    if (r.Lv == Lv)
-                    {
-                        result = Convert.ToUInt32(r.NextLevelNeedExp);
-                        break;
-                    }
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<guildLevelUpheader>().ToList();
                 }
-
             }
 
-            return result;
+            foreach (var r in _records)
+            {
+                if (r.Lv == Lv)
+                {
+                    return Convert.ToUInt32(r.NextLevelNeedExp);
+                }
+            }
 
+            return 0;
         }
 
     }

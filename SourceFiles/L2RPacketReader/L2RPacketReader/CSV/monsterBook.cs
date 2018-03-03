@@ -12,9 +12,6 @@ namespace L2RPacketReader.CSV
 
     class monsterBookheader
     {
-
-
-
         public Int16 Id { get; set; }
         public Int16 BookLevel { get; set; }
         public String GroupId { get; set; }
@@ -36,25 +33,27 @@ namespace L2RPacketReader.CSV
 
     class monsterBook
     {
-        private static Int16 result = 0;
+        private static IEnumerable<monsterBookheader> _records;
         public static Int16 monsterBookCores(UInt16 ID, UInt16 Level)
         {
-            using (var sr = new StreamReader(@"CSV\MonsterBook.csv"))
+            if (_records == null)
             {
-                var csv = new CsvReader(sr);
-                var record = new monsterBookheader();
-                var records = csv.EnumerateRecords(record);
-                foreach (var r in records)
+                using (var sr = new StreamReader(@"CSV\MonsterBook.csv"))
                 {
-                    if (r.Id == ID & r.BookLevel == Level)
-                    {
-                        result = r.RequiredQuantity;
-                        break;
-                    }
+                    var csv = new CsvReader(sr);
+                    _records = csv.GetRecords<monsterBookheader>().ToList();
                 }
-
             }
-            return result;
+
+            foreach (var r in _records)
+            {
+                if (r.Id == ID & r.BookLevel == Level)
+                {
+                    return r.RequiredQuantity;
+                }
+            }
+
+            return 0;
         }
 
     }
