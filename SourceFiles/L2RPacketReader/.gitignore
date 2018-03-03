@@ -1,4 +1,5 @@
 .vs
+packages
 L2RPacketReader/obj/**
 L2RPacketReader/bin/Debug/*
 !L2RPacketReader/bin/Debug/CSV
