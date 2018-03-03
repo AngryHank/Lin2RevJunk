@@ -108,11 +108,11 @@ namespace L2RPacketReader
                 {
                     byte spacer = _incomingBuffer[2]; // skip 1 byte
 
-                    byte[] packet = _incomingBuffer.GetRange(3, packetLength - 3).ToArray();
+                    byte[] packetData = _incomingBuffer.GetRange(3, packetLength - 3).ToArray();
                     _incomingBuffer.RemoveRange(0, packetLength);
 
-                    DecryptPacket(packet);
-                    ParsePacket(packet);
+                    DecryptPacket(packetData);
+                    ParsePacket(new PacketReader(packetData));
                 }
                 else
                 {
@@ -129,14 +129,10 @@ namespace L2RPacketReader
             }
         }
 
-        private static void ParsePacket(byte[] packet)
+        private static void ParsePacket(PacketReader packet)
         {
-            ushort packetId = (ushort)(BitConverter.ToUInt16(packet, 0) - 1);
-
-            byte[] packetData = new byte[packet.Length - 2];
-            Array.Copy(packet, 2, packetData, 0, packetData.Length);
-
-            Parser.Handler.Parse(packetData, packetId);
+            ushort packetId = (ushort)(packet.ReadUInt16() - 1);
+            Parser.Handler.Parse(packet, packetId);
         }
 
         private static int Initialization(string[] args)

@@ -5,22 +5,17 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktBagListReadresultClean
     {
-        public static void Packet(byte[] packetData)
+        public static void Packet(PacketReader packet)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Output\Inventory.csv", true))
             {
-                int i = 2;
+                packet.Skip(2);
                 
-                UInt16 BagNumber = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                byte Unk0 = packetData[i];
-                i++;
-                UInt16 MaxInvenSize = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 ExpInvenSize = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 UsedInvenSize = BitConverter.ToUInt16(packetData, i);
-                i += 2;
+                UInt16 BagNumber = packet.ReadUInt16();
+                byte Unk0 = packet.ReadByte();
+                UInt16 MaxInvenSize = packet.ReadUInt16();
+                UInt16 ExpInvenSize = packet.ReadUInt16();
+                UInt16 UsedInvenSize = packet.ReadUInt16();
 
                 fileStream.WriteLine("Bag Number, Max Inv Size, Expanded Inv Size, Filled Inv Size");
                 fileStream.WriteLine(BagNumber +  "," + MaxInvenSize + "," + ExpInvenSize + "," + UsedInvenSize + "\n");
@@ -32,69 +27,46 @@ namespace L2RPacketReader.Parser.Parsers
                     "Limit Break Count,Limit Break Add Rate,Ability Level,Ability Upgrade Add Rate");
 
                 for (int j = 0; j < UsedInvenSize; j++) { 
-                    UInt64 UItemID = BitConverter.ToUInt64(packetData, i);
-                    i += 8;
-                    string ItemID = CusEnum.Item.Enum(BitConverter.ToUInt32(packetData, i));
-                    i += 4;
-                    UInt32 Exp = BitConverter.ToUInt32(packetData, i);
-                    i += 4;
-                    byte Level = packetData[i];
-                    i++;
-                    byte EnchantLevel = packetData[i];
-                    i++;
-                    byte LimitBreakCount = packetData[i];
-                    i++;
-                    byte LimitBreakAddRate = packetData[i];
-                    i++;
-                    UInt16 Count = BitConverter.ToUInt16(packetData, i);
-                    i += 2;
-                    byte Liked = packetData[i];
-                    i++;
-                    Double TimeLooted = Convert.ToDouble(BitConverter.ToUInt64(packetData, i));
+                    UInt64 UItemID = packet.ReadUInt64();
+                    string ItemID = CusEnum.Item.Enum(packet.ReadUInt32());
+                    UInt32 Exp = packet.ReadUInt32();
+                    byte Level = packet.ReadByte();
+                    byte EnchantLevel = packet.ReadByte();
+                    byte LimitBreakCount = packet.ReadByte();
+                    byte LimitBreakAddRate = packet.ReadByte();
+                    UInt16 Count = packet.ReadUInt16();
+                    byte Liked = packet.ReadByte();
+                    Double TimeLooted = Convert.ToDouble(packet.ReadUInt64());
                     if (TimeLooted > 0)
+                    {
                         TimeLooted = TimeLooted / 60 / 60 / 24 + 25569 - (5 / 24);
-                    i += 8;
-                    byte BasicOptionLength = packetData[i];
-                    i++;
+                    }
+                    byte BasicOptionLength = packet.ReadByte();
                     string[] BasicOption = { "", "", "" };
                     for (int k = 0; BasicOptionLength > k; k++) {
-                        byte Unk1 = packetData[i];
-                        i++;
-                        string ItemOption = CSV.itemOption.itemOptionName(BitConverter.ToInt32(packetData, i));
-                        i += 4;
-                        UInt16 IOvalue = BitConverter.ToUInt16(packetData, i);
-                        i += 2;
-                        byte Unk2 = packetData[i];
-                        i++;
+                        byte Unk1 = packet.ReadByte();
+                        string ItemOption = CSV.itemOption.itemOptionName(packet.ReadInt32());
+                        UInt16 IOvalue = packet.ReadUInt16();
+                        byte Unk2 = packet.ReadByte();
                         BasicOption[k] = "\"" + ItemOption + "\"";
                     }
-                    byte Unk3 = packetData[i];
-                    i++;
-                    byte SocketListLength = packetData[i];
-                    i++;
+                    byte Unk3 = packet.ReadByte();
+                    byte SocketListLength = packet.ReadByte();
                     string[] SocketList = { "", "", "", "", "", "" };
                     for (int k = 0; SocketListLength > k; k++)
                     {
-                        byte Unk5 = packetData[i];
-                        i++;
-                        UInt64 SocketID = BitConverter.ToUInt64(packetData, i);
-                        i += 8;
-                        string SocketName = CusEnum.Item.Enum(BitConverter.ToUInt32(packetData, i));
-                        i += 8;
+                        byte Unk5 = packet.ReadByte();
+                        UInt64 SocketID = packet.ReadUInt64();
+                        string SocketName = CusEnum.Item.Enum(packet.ReadUInt32());
+                        packet.Skip(4);
                         SocketList[k] = "\"" + SocketName + "\"";
-                        UInt16 SocketCount = BitConverter.ToUInt16(packetData, i);
-                        i += 2;
+                        UInt16 SocketCount = packet.ReadUInt16();
                     }
-                    byte Unk6 = packetData[i];
-                    i++;
-                    byte Bind = packetData[i];
-                    i++;
-                    byte AbilityLevel = packetData[i];
-                    i++;
-                    UInt16 AbilityUpgradeAddRate = BitConverter.ToUInt16(packetData, i);
-                    i += 2;
-                    byte CraftFlag = packetData[i];
-                    i++;
+                    byte Unk6 = packet.ReadByte();
+                    byte Bind = packet.ReadByte();
+                    byte AbilityLevel = packet.ReadByte();
+                    UInt16 AbilityUpgradeAddRate = packet.ReadUInt16();
+                    byte CraftFlag = packet.ReadByte();
 
                     string EnchantLevelPlus = "";
 
@@ -102,7 +74,7 @@ namespace L2RPacketReader.Parser.Parsers
                         EnchantLevelPlus = "+" + EnchantLevel+" ";
                     
 
-                    fileStream.WriteLine(UItemID + TimeLooted + "," + EnchantLevelPlus + ItemID + "," + Level + "," + Exp + "," +
+                    fileStream.WriteLine(UItemID + "," + TimeLooted + "," + EnchantLevelPlus + ItemID + "," + Level + "," + Exp + "," +
                         Count + "," + Liked + "," + Bind + "," +  BasicOption[0] + 
                         "," + BasicOption[1] + "," + BasicOption[2] +  
                         "," + SocketList[0] + "," + SocketList[1] + "," + SocketList[2] + "," + SocketList[3] + 

@@ -8,15 +8,14 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktGuildDungeonParticipateresult
     {
-        public static void Packet(byte[] packetData)
+        public static void Packet(PacketReader packet)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Data\PktGuildDungeonParticipateresult.csv", true))
             {
                 // Parses the header of the PktGuildMemberListReadresult
                 // First two bytes are not used.
-                int i = 2;
-                UInt16 itemCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
+                packet.Skip(2);
+                UInt16 itemCount = packet.ReadUInt16();
 
                 // Doing Items as sloppy as I know how!
                 int[] Unk1 = new int[itemCount] ;
@@ -27,24 +26,16 @@ namespace L2RPacketReader.Parser.Parsers
                 int[] ItemID = new int[itemCount];
                 int[] ItemCount = new int[itemCount];
                 for (int l = 0; l < itemCount; l++) {
-                    Unk1[l] = BitConverter.ToInt32(packetData, i);
-                    i += 4;
-                    Unk2[l] = BitConverter.ToInt32(packetData, i);
-                    i += 4;
-                    ItemID[l] = BitConverter.ToInt32(packetData, i);
-                    i += 4;
-                    ItemCount[l] = BitConverter.ToInt16(packetData, i);
-                    i += 2;
-                    Unk3[l] = BitConverter.ToInt32(packetData, i);
-                    i += 4;
-                    Unk4[l] = BitConverter.ToInt32(packetData, i);
-                    i += 4;
-                    Unk5[l] = packetData[i];
-                    i += 1;
+                    Unk1[l] = packet.ReadInt32();
+                    Unk2[l] = packet.ReadInt32();
+                    ItemID[l] = packet.ReadInt32();
+                    ItemCount[l] = packet.ReadInt16();
+                    Unk3[l] = packet.ReadInt32();
+                    Unk4[l] = packet.ReadInt32();
+                    Unk5[l] = packet.ReadByte();
                 }
 
-                UInt16 PlayerCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
+                UInt16 PlayerCount = packet.ReadUInt16();
                 // Doing it again for the players!
                 long[] PlayerID = new long[PlayerCount];
                 short[] NameLength = new short[PlayerCount];
@@ -53,27 +44,18 @@ namespace L2RPacketReader.Parser.Parsers
                 byte[] Unk6 = new byte[PlayerCount];
                 for (int l = 0; l < PlayerCount; l++)
                 {
-                    PlayerID[l] = BitConverter.ToInt64(packetData, i);
-                    i += 8;
-                    NameLength[l] = BitConverter.ToInt16(packetData, i);
-                    i += 2;
-                    Name[l] = Encoding.UTF8.GetString(packetData, i, NameLength[l]);
-                    i += NameLength[l];
-                    Damage[l] = Convert.ToDouble(BitConverter.ToInt32(packetData, i));
+                    PlayerID[l] = packet.ReadInt64();
+                    NameLength[l] = packet.ReadInt16();
+                    Name[l] = packet.ReadString(NameLength[l]);
+                    Damage[l] = Convert.ToDouble(packet.ReadInt32());
                     Damage[l] = Damage[l] / 100;
-                    i += 4;
-                    Unk6[l] = packetData[i];
-                    i += 1;
+                    Unk6[l] = packet.ReadByte();
                 }
 
-                UInt16 unk7 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt32 unk8 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                String Time = Misc.Misc.CalcTime(BitConverter.ToUInt32(packetData, i));
-                i += 4;
-                UInt32 unk9 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
+                UInt16 unk7 = packet.ReadUInt16();
+                UInt32 unk8 = packet.ReadUInt32();
+                String Time = Misc.Misc.CalcTime(packet.ReadUInt32());
+                UInt32 unk9 = packet.ReadUInt32();
 
                 //Write
                 fileStream.WriteLine("Time: " + Time);

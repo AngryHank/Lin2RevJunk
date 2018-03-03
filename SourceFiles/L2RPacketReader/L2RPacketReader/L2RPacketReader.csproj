@@ -81,6 +81,7 @@
     <Compile Include="CusEnum\Item.cs" />
     <Compile Include="CusEnum\ClanRecordGroupType.cs" />
     <Compile Include="Misc\Misc.cs" />
+    <Compile Include="Parser\PacketData.cs" />
     <Compile Include="Parser\Handler.cs" />
     <Compile Include="Parser\Parsers\PktSkillHitNotify.cs" />
     <Compile Include="Parser\Parsers\PktMonsterBookListReadresult.cs" />
