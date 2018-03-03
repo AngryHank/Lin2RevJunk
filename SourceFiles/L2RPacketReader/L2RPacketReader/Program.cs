@@ -19,19 +19,6 @@ namespace L2RPacketReader
         /// </summary>
         public static void Main(string[] args)
         {
-
-            /*test stuff
-            DateTime dateTime = DateTime.Now;
-            if ( dateTime.Year > 2018 || dateTime.DayOfYear > 42)
-            {
-                Console.WriteLine("Past Automatic Shutdown Date.");
-                Console.ReadLine();
-                ExitProgram();
-            }
-                
-            */
-
-
             /* Retrieve the device list  part of initialization*/
             var devices = CaptureDeviceList.Instance;
             // reads args and sets up options.
@@ -69,11 +56,6 @@ namespace L2RPacketReader
             // Print out the device statistics
             Console.WriteLine(device.Statistics.ToString());
 
-            // Decrypts the packets
-            Console.WriteLine("-- Decrypting Received Packets.");
-            PacketReceivedDecrypter();
-            Console.WriteLine("-- Analyzing Received Packets.");
-            PacketRecievedAnalyzer();
             // Close the pcap device
             device.Close();
 
@@ -106,126 +88,67 @@ namespace L2RPacketReader
                 srcIp, srcPort, dstIp, dstPort);
 
 
-                // Writes payloads that are received to first file and sent to the second file.
+                // Decrypt and process incoming packets
                 if (srcPort == 12000)
                 {
-                    using (StreamWriter fileStream = new StreamWriter(@"Logs\ReceivedCaptureLog.txt", true))
-                    {
-
-                        fileStream.WriteLine("{0}:{1}:{2}.{3}\tLen={4}\t{5}:{6} -> {7}:{8}",
-                        time.Hour, time.Minute, time.Second, time.Millisecond, len,
-                        srcIp, srcPort, dstIp, dstPort);
-
-                    }
-                    using (FileStream fileStream = new FileStream(@"Captures\ReceivedPackets.dat", FileMode.Append, FileAccess.Write, FileShare.Write))
-                    {
-                        for (int i = 0; i < payloadData.Length; i++)
-                        {
-                            fileStream.WriteByte(payloadData[i]);
-                        }
-                    }
-                }
-                else if (dstPort == 12000)
-                {
-                    using (StreamWriter fileStream = new StreamWriter(@"Logs\SentCaptureLog.txt", true))
-                    {
-
-                        fileStream.WriteLine("{0}:{1}:{2}.{3}\tLen={4}\t{5}:{6} -> {7}:{8}",
-                        time.Hour, time.Minute, time.Second, time.Millisecond, len,
-                        srcIp, srcPort, dstIp, dstPort);
-
-                    }
-                    using (FileStream fileStream = new FileStream(@"Captures\SentPackets.dat", FileMode.Append, FileAccess.Write, FileShare.Write))
-                    {
-                        for (int i = 0; i < payloadData.Length; i++)
-                        {
-                            fileStream.WriteByte(payloadData[i]);
-                        }
-                    }
-                }
-
-                using (StreamWriter fileStream = new StreamWriter(@"Logs\CaptureLog.txt", true))
-                {
-
-                    fileStream.WriteLine("{0}:{1}:{2}.{3}\tLen={4}\t{5}:{6} -> {7}:{8}",
-                    time.Hour, time.Minute, time.Second, time.Millisecond, len,
-                    srcIp, srcPort, dstIp, dstPort);
-
-                }
-                using (FileStream fileStream = new FileStream(@"Captures\Packets.dat", FileMode.Append, FileAccess.Write, FileShare.Write))
-                {
-                    for (int i = 0; i < payloadData.Length; i++)
-                    {
-                        fileStream.WriteByte(payloadData[i]);
-                    }
+                    AppendIncomingData(payloadData);
                 }
             }
         }
 
+        private static System.Collections.Generic.List<byte> _incomingBuffer = new System.Collections.Generic.List<byte>();
 
-        /// <summary>
-        /// Decrypts every packet that was Received.
-        /// </summary>
-        private static void PacketReceivedDecrypter()
+        private static void AppendIncomingData(byte[] payloadData)
         {
-            using (FileStream stream = File.OpenRead(@"Captures\ReceivedPackets.dat"))
-            using (FileStream writeStream = File.OpenWrite(@"Captures\DecryptedReceivedPackets.dat"))
+            _incomingBuffer.AddRange(payloadData);
+            while (_incomingBuffer.Count >= 2)
             {
-                BinaryReader reader = new BinaryReader(stream);
-                BinaryWriter writer = new BinaryWriter(writeStream);
-                
-                while (reader.BaseStream.Position != reader.BaseStream.Length)
+                int packetLength = _incomingBuffer[1] * 256 + _incomingBuffer[0];
+                if (_incomingBuffer.Count >= packetLength)
                 {
-                    short packetLength = reader.ReadInt16();
-                    writer.Write(packetLength);
-                    writer.Write(reader.ReadByte());
+                    byte spacer = _incomingBuffer[2];
 
-                    for (int i = 0; i < (packetLength - 3); i++)
+                    byte[] packet = new byte[packetLength - 3];
+                    for (int i=0; i<packet.Length; i++)
                     {
-                        byte EncryptionKeyByte = EncryptionKey[i % EncryptionKey.Length];
-                        byte PacketByte = (reader.ReadByte());
-                        PacketByte ^= EncryptionKeyByte;
-                        writer.Write(PacketByte);
+                        packet[i] = _incomingBuffer[i + 3];
                     }
+
+                    _incomingBuffer.RemoveRange(0, packetLength);
+
+                    DecryptPacket(packet);
+                    ParsePacket(packet);
                 }
-            }
+                else
+                {
+                    break;
+                }
+            }            
         }
-        
-        /// <summary>
-        /// Analyzes every packet that was Received.
-        /// </summary>
-        private static void PacketRecievedAnalyzer()
+
+        private static void DecryptPacket(byte[] packet)
         {
-            using (FileStream stream = File.OpenRead(@"Captures\DecryptedReceivedPackets.dat"))
+            for (int i = 0; i < packet.Length; i++)
             {
-                BinaryReader reader = new BinaryReader(stream);
-                
-                while (reader.BaseStream.Position != reader.BaseStream.Length)
-                {
-                    long CurPos = reader.BaseStream.Position;
-                    // Reads Packet Length and adjusts for data stripped below
-                    ushort packetLength = reader.ReadUInt16();
-                    reader.ReadByte(); // Spacer
-                    packetLength -= 5;
-                    // Server starts packetID at 1 while client starts at 0
-                    // adjusts for the difference
-                    ushort packetID = reader.ReadUInt16();
-                    packetID -= 1;
-                    byte[] packetData = reader.ReadBytes(packetLength);
-
-                    using (StreamWriter fileStreamR = new StreamWriter(@"Logs\ReceivedParserLog.txt", true))
-                    {
-
-                        fileStreamR.WriteLine(Parser.Handler.Parse(packetData, packetLength, packetID, CurPos));
-
-                    }
-
-                }
+                byte val = packet[i];
+                byte key = EncryptionKey[i % EncryptionKey.Length];
+                val ^= key;
+                packet[i] = val;
             }
-
         }
 
+        private static void ParsePacket(byte[] packet)
+        {
+            ushort packetID = (ushort)(packet[1] * 256 + packet[0] - 1);
 
+            byte[] packetData = new byte[packet.Length - 2];
+            for (int i=0; i<packetData.Length; i++)
+            {
+                packetData[i] = packet[i + 2];
+            }
+
+            Parser.Handler.Parse(packetData, (ushort)packetData.Length, packetID, 0);
+        }
 
         private static int Initialization(string[] args)
         {
@@ -274,18 +197,6 @@ namespace L2RPacketReader
                     case "h":
                         Help();
                         break;
-                    case "a":
-                        PacketRecievedAnalyzer();
-                        ExitProgram();
-                        break;
-                    case "z":
-                        // Decrypts the packets
-                        Console.WriteLine("-- Decrypting Received Packets.");
-                        PacketReceivedDecrypter();
-                        Console.WriteLine("-- Analyzing Received Packets.");
-                        PacketRecievedAnalyzer();
-                        ExitProgram();
-                        break;
                     default:
                         Console.WriteLine("Incorrect arguement used when lauching program. /n/n");
                         Help();
@@ -305,14 +216,6 @@ namespace L2RPacketReader
                 Directory.CreateDirectory(@"Output\");
 
             // Deletes old record files if it exists.
-            if (delCaptures == 1)
-            {
-                foreach (var item in Directory.GetFiles(@"Captures\", "*.dat")) File.Delete(item);
-            }
-            else
-            {
-                foreach (var item in Directory.GetFiles(@"Captures\", "*Decrypted*.dat")) File.Delete(item);
-            }
             if (delLogs == 1)
                 foreach (var item in Directory.GetFiles(@"Logs\", "*log.txt")) File.Delete(item);
             if (delData == 1) { 
@@ -364,7 +267,6 @@ namespace L2RPacketReader
             Console.WriteLine("    Decrypted Capture files will still be deleted.");
             Console.WriteLine("-l: Saves Log files between executions.");
             Console.WriteLine("-d: Saves Data files between executions.");
-            Console.WriteLine("-a: Reanalyzes the packets previously captured.");
             Console.WriteLine("\nOptions That Require Values\n");
             Console.WriteLine("-i #: Sets which device to listen for packets to capture.");
             Console.WriteLine("-f \"filter\": Sets a custom filter for the packets using winPCap's filtering.");
