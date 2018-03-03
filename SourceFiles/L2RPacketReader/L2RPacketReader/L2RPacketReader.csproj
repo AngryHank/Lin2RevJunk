@@ -101,7 +101,6 @@
     <Compile Include="Parser\Parsers\_PktTemplate.cs" />
     <Compile Include="Parser\Parsers\PktGuildMemberListReadresult.cs" />
     <None Include="packages.config" />
-    <None Include="ProgramBackup.cs.bak" />
     <Compile Include="Parser\ReadableParsers\PktMonsterBookListReadresultClean.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

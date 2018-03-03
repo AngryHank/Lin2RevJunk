@@ -152,9 +152,6 @@ namespace L2RPacketReader
 
         private static int Initialization(string[] args)
         {
-            
-            int delCaptures = 1;
-            int delLogs = 1;
             int delData = 1;
 
 
@@ -188,12 +185,6 @@ namespace L2RPacketReader
                     case "d":
                         delData = 0;
                         break;
-                    case "l":
-                        delLogs = 0;
-                        break;
-                    case "c":
-                        delCaptures = 0;
-                        break;
                     case "h":
                         Help();
                         break;
@@ -206,18 +197,12 @@ namespace L2RPacketReader
 
 
             // Creates folders if they do not exist yet.
-            if (!Directory.Exists(@"Captures\"))
-                Directory.CreateDirectory(@"Captures\");
-            if (!Directory.Exists(@"Logs\"))
-                Directory.CreateDirectory(@"Logs\");
             if (!Directory.Exists(@"Data\"))
                 Directory.CreateDirectory(@"Data\");
             if (!Directory.Exists(@"Output\"))
                 Directory.CreateDirectory(@"Output\");
 
             // Deletes old record files if it exists.
-            if (delLogs == 1)
-                foreach (var item in Directory.GetFiles(@"Logs\", "*log.txt")) File.Delete(item);
             if (delData == 1) { 
                 foreach (var item in Directory.GetFiles(@"Data\", "*.csv")) File.Delete(item);
                 foreach (var item in Directory.GetFiles(@"Output\", "*.csv")) File.Delete(item);
@@ -263,9 +248,6 @@ namespace L2RPacketReader
             Console.WriteLine("Correct usage: L2RPacketReader.exe -(option) (value)");
             Console.WriteLine("\nStandalone Options\n");
             Console.WriteLine("-h: Displays this document.");
-            Console.WriteLine("-c: Saves Capture files between executions.");
-            Console.WriteLine("    Decrypted Capture files will still be deleted.");
-            Console.WriteLine("-l: Saves Log files between executions.");
             Console.WriteLine("-d: Saves Data files between executions.");
             Console.WriteLine("\nOptions That Require Values\n");
             Console.WriteLine("-i #: Sets which device to listen for packets to capture.");

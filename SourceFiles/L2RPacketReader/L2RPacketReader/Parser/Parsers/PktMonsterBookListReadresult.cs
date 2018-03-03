@@ -20,7 +20,7 @@ namespace L2RPacketReader.Parser.Parsers
 
                 UInt16 TotalCodex = BitConverter.ToUInt16(packetData, i);
                 fileStream.WriteLine("Codex Entries: " + TotalCodex);
-                fileStream.WriteLine("/nCodexID,Cores,Level,Unk1");
+                fileStream.WriteLine("\nCodexID,Cores,Level,Unk1");
                 i += 2;
                 for (int j = 0; j < TotalCodex; j++)
                 {
