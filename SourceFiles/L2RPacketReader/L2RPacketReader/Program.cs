@@ -58,8 +58,6 @@ namespace L2RPacketReader
 
             // Close the pcap device
             device.Close();
-
-            ExitProgram();
         }
 
         /// <summary>
@@ -101,19 +99,16 @@ namespace L2RPacketReader
         private static void AppendIncomingData(byte[] payloadData)
         {
             _incomingBuffer.AddRange(payloadData);
+
+            // If the buffer contains any complete packets, process them
             while (_incomingBuffer.Count >= 2)
             {
-                int packetLength = _incomingBuffer[1] * 256 + _incomingBuffer[0];
+                ushort packetLength = BitConverter.ToUInt16(_incomingBuffer.GetRange(0,2).ToArray(), 0);
                 if (_incomingBuffer.Count >= packetLength)
                 {
-                    byte spacer = _incomingBuffer[2];
+                    byte spacer = _incomingBuffer[2]; // skip 1 byte
 
-                    byte[] packet = new byte[packetLength - 3];
-                    for (int i=0; i<packet.Length; i++)
-                    {
-                        packet[i] = _incomingBuffer[i + 3];
-                    }
-
+                    byte[] packet = _incomingBuffer.GetRange(3, packetLength - 3).ToArray();
                     _incomingBuffer.RemoveRange(0, packetLength);
 
                     DecryptPacket(packet);
@@ -130,24 +125,18 @@ namespace L2RPacketReader
         {
             for (int i = 0; i < packet.Length; i++)
             {
-                byte val = packet[i];
-                byte key = EncryptionKey[i % EncryptionKey.Length];
-                val ^= key;
-                packet[i] = val;
+                packet[i] = (byte)(packet[i] ^ EncryptionKey[i % EncryptionKey.Length]);
             }
         }
 
         private static void ParsePacket(byte[] packet)
         {
-            ushort packetID = (ushort)(packet[1] * 256 + packet[0] - 1);
+            ushort packetId = (ushort)(BitConverter.ToUInt16(packet, 0) - 1);
 
             byte[] packetData = new byte[packet.Length - 2];
-            for (int i=0; i<packetData.Length; i++)
-            {
-                packetData[i] = packet[i + 2];
-            }
+            Array.Copy(packet, 2, packetData, 0, packetData.Length);
 
-            Parser.Handler.Parse(packetData, (ushort)packetData.Length, packetID, 0);
+            Parser.Handler.Parse(packetData, packetId);
         }
 
         private static int Initialization(string[] args)
@@ -259,11 +248,6 @@ namespace L2RPacketReader
 
         private static void ExitProgram()
         {
-            Console.WriteLine("Press enter to exit the application");
-            string CurDir = System.IO.Directory.GetCurrentDirectory();
-            CurDir += @"\Data\";
-//            Console.WriteLine(CurDir);
-//            Console.ReadLine();
             Environment.Exit(0);
         }
 

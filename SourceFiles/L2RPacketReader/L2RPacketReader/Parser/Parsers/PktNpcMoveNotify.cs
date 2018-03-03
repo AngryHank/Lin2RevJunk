@@ -6,7 +6,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktNpcMoveNotify
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Data\PktNpcMoveNotify.csv", true))
             {

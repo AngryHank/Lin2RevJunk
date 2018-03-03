@@ -6,7 +6,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktMonsterBookListReadresultClean
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             if (File.Exists(@"Data\Codex.txt"))
                 File.Delete(@"Data\Codex.txt");

@@ -98,7 +98,6 @@
     <Compile Include="Parser\ReadableParsers\PktGuildRecordListReadresultClean.cs" />
     <Compile Include="Parser\Parsers\PktPlayerMoveListNotify.cs" />
     <Compile Include="Parser\Parsers\PktNpcMoveNotify.cs" />
-    <Compile Include="Parser\Parsers\_PktTemplate.cs" />
     <Compile Include="Parser\Parsers\PktGuildMemberListReadresult.cs" />
     <None Include="packages.config" />
     <Compile Include="Parser\ReadableParsers\PktMonsterBookListReadresultClean.cs" />

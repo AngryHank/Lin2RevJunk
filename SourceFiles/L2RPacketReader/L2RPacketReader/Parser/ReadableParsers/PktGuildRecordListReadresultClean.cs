@@ -6,7 +6,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktGuildRecordListReadresultClean
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Output\ClanDonations.txt", true))
             using (StreamWriter fileStream2 = new StreamWriter(@"Output\ClanDonations.csv", true))

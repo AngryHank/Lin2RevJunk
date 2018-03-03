@@ -6,10 +6,10 @@ namespace L2RPacketReader.Parser
 {
     class Handler
     {
-        public static string Parse(byte[] packetData, ushort packetLength, ushort packetID, long CurPos)
+        public static void Parse(byte[] packetData, ushort packetID)
         {
             string result;
-            Console.Write("Start Pos: " + CurPos + "\tPacketID: " + packetID.ToString("X") + "\tLength: " + packetLength);
+            Console.Write("PacketID: " + packetID.ToString("X") + "\tLength: " + packetData.Length);
             //Packet Handler for PacketID
             switch (packetID)
             {
@@ -258,7 +258,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xCB:
                     result = "PktPlayerMoveListNotify";
-                    PktPlayerMoveListNotify.Packet(packetData, packetLength);
+                    PktPlayerMoveListNotify.Packet(packetData);
                     break;
                 case 0xCC:
                     result = "PktSightEnterNotify";
@@ -268,7 +268,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xCE:
                     result = "PktNpcMoveNotify";
-                    PktNpcMoveNotify.Packet(packetData, packetLength);
+                    PktNpcMoveNotify.Packet(packetData);
                     break;
                 case 0xCF:
                     result = "PktCharacterDieNotify";
@@ -506,7 +506,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x11D:
                     result = "PktExpDisplayNotify";
-                    PktPktExpDisplayNotify.Packet(packetData, packetLength);
+                    PktPktExpDisplayNotify.Packet(packetData);
                     break;
                 case 0x11E:
                     result = "PktPlayerSelfIntroChange";
@@ -597,8 +597,8 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x1C3:
                     result = "PktMonsterBookListReadresult";
-                    PktMonsterBookListReadresult.Packet(packetData, packetLength);
-                    PktMonsterBookListReadresultClean.Packet(packetData, packetLength);
+                    PktMonsterBookListReadresult.Packet(packetData);
+                    PktMonsterBookListReadresultClean.Packet(packetData);
                     break;
                 case 0x1C4:
                     result = "PktMonsterCoreUse";
@@ -686,7 +686,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x263:
                     result = "PktSkillHitNotify";
-                    PktSkillHitNotify.Packet(packetData, packetLength);
+                    PktSkillHitNotify.Packet(packetData);
                     break;
                 case 0x264:
                     result = "PktSkillMissNotify";
@@ -942,8 +942,8 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x353:
                     result = "PktBagListReadresult";
-                    PktBagListReadresult.Packet(packetData, packetLength);
-                    PktBagListReadresultClean.Packet(packetData, packetLength);
+                    PktBagListReadresult.Packet(packetData);
+                    PktBagListReadresultClean.Packet(packetData);
                     break;
                 case 0x354:
                     result = "PktEquipmentListRead";
@@ -1844,16 +1844,16 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x579:
                     result = "PktGuildInfoReadresult";
-                    PktGuildInfoReadresult.Packet(packetData, packetLength);
-                    PktGuildInfoReadresultClean.Packet(packetData, packetLength);
+                    PktGuildInfoReadresult.Packet(packetData);
+                    PktGuildInfoReadresultClean.Packet(packetData);
                     break;
                 case 0x57A:
                     result = "PktGuildMemberListRead";
                     break;
                 case 0x57B:
                     result = "PktGuildMemberListReadresult";
-                    PktGuildMemberListReadresult.Packet(packetData, packetLength);
-                    PktGuildMemberListReadresultClean.Packet(packetData, packetLength);
+                    PktGuildMemberListReadresult.Packet(packetData);
+                    PktGuildMemberListReadresultClean.Packet(packetData);
                     break;
                 case 0x57C:
                     result = "PktGuildCreate";
@@ -2025,8 +2025,8 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x5B4:
                     result = "PktGuildRecommendationListReadresult";
-                    PktGuildRecommendationListReadresult.Packet(packetData, packetLength);
-                    PktGuildRecommendationListReadresult.Packet(packetData, packetLength);
+                    PktGuildRecommendationListReadresult.Packet(packetData);
+                    PktGuildRecommendationListReadresult.Packet(packetData);
                     break;
                 case 0x5B5:
                     result = "PktGuildRankingListRead";
@@ -2108,7 +2108,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x5CF:
                     result = "PktGuildRecordListReadresult";
-                    PktGuildRecordListReadresultClean.Packet(packetData, packetLength);
+                    PktGuildRecordListReadresultClean.Packet(packetData);
                     break;
                 case 0x5D0:
                     result = "PktGuildWarehouseListRead";
@@ -4290,8 +4290,8 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x232E:
                     result = "PktGuildDungeonParticipateresult";
-                    PktGuildDungeonParticipateresult.Packet(packetData, packetLength);
-                    PktGuildDungeonParticipateresultClean.Packet(packetData, packetLength);
+                    PktGuildDungeonParticipateresult.Packet(packetData);
+                    PktGuildDungeonParticipateresultClean.Packet(packetData);
                     break;
                 case 0x232F:
                     result = "PktGuildDungeonHelp	resultNotify";
@@ -4422,11 +4422,7 @@ namespace L2RPacketReader.Parser
             }
 
  
-            String FullResult = "PacketID: " + packetID.ToString("X") + "\tLength: " + packetLength + "\tPacketType: " + result ;
             Console.Write("\tPacketType: " + result + "\n");
-
-            return FullResult;
-
         }
     }
 }

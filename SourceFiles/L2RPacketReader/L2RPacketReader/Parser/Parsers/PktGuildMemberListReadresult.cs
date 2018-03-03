@@ -8,7 +8,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktGuildMemberListReadresult
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Data\PktGuildMemberListReadresult.csv", true))
             {
@@ -30,7 +30,7 @@ namespace L2RPacketReader.Parser.Parsers
                 
 
                 // Parses the PktGuildMemberListReadresult
-                while ( i < (packetLength))
+                while ( i < (packetData.Length))
                 {
                     UInt64 PlayerID = BitConverter.ToUInt64(packetData, i);
                     i += 8;

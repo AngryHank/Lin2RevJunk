@@ -6,7 +6,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktGuildRecommendationListReadresult
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Data\PktGuildRecommendationListReadresult.csv", true))
             {

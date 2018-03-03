@@ -6,7 +6,7 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktSkillHitNotify
     {
-        public static void Packet(byte[] packetData, ushort packetLength)
+        public static void Packet(byte[] packetData)
         {
             using (StreamWriter fileStream = new StreamWriter(@"Data\PktSkillHitNotify.csv", true))
             {
@@ -61,8 +61,8 @@ namespace L2RPacketReader.Parser.Parsers
 
                 }
 
-                byte[] junkdata = new byte[packetLength-i];
-                for (int j = 0; i < (packetLength); j++)
+                byte[] junkdata = new byte[packetData.Length-i];
+                for (int j = 0; i < (packetData.Length); j++)
                 {
 
                     junkdata[j] = packetData[i];
