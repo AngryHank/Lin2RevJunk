@@ -2902,7 +2902,7 @@ namespace L2RPacketReader.Parser
                     result = "PktDungeonSweepresult";
                     break;
                 case 0x7DA:
-                    result = "PktDungeon	resultNotify";
+                    result = "PktDungeonresultNotify";
                     break;
                 case 0x7DB:
                     result = "PktDungeonStateNotify";
@@ -4420,7 +4420,14 @@ namespace L2RPacketReader.Parser
                     break;
             }
 
- 
+            using (FileStream fileStream = new FileStream(@"Packets\" + result + ".dat", FileMode.Append, FileAccess.Write, FileShare.Write))
+            {
+                for (int i = 0; i < packetData.Length; i++)
+                {
+                    fileStream.WriteByte(packetData[i]);
+                }
+            }
+
             String FullResult = "PacketID: " + packetID.ToString("X") + "\tLength: " + packetLength + "\tPacketType: " + result ;
             Console.Write("\tPacketType: " + result + "\n");
 

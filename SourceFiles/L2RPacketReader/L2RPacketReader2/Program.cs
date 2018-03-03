@@ -79,7 +79,10 @@ namespace L2RPacketReader
             var tcpPacket = (PacketDotNet.TcpPacket)packet.Extract(typeof(PacketDotNet.TcpPacket));
             if (tcpPacket != null)
             {
+
                 byte[] payloadData = tcpPacket.PayloadData;
+                if (payloadData.Length < 5)
+                    return;
                 Int16 payloadLen = BitConverter.ToInt16(payloadData, 0);
                 int payloadLoc = 0;
 
@@ -93,8 +96,18 @@ namespace L2RPacketReader
                     // Multiple payload packet
                         while (payloadLoc < payloadData.Length) {
                             payloadLen = BitConverter.ToInt16(payloadData, payloadLoc);
-                            PayloadHandler(payloadData, payloadLoc, payloadLoc+payloadLen, e);
-                            payloadLoc += payloadLen;
+                            if (payloadLen > payloadData.Length - payloadLoc)
+                            {
+                                for (int i = payloadLoc; i < payloadData.Length; i++)
+                                {
+                                    mutiPayload[i - payloadLoc] = payloadData[i];
+                                }
+                                multiPayloadLoc = payloadLen;
+
+                            } else { 
+                                PayloadHandler(payloadData, payloadLoc, payloadLoc+payloadLen, e);
+                                payloadLoc += payloadLen;
+                            }
                         }
                     }
                     else if (payloadLen > payloadData.Length)
@@ -194,7 +207,7 @@ namespace L2RPacketReader
         }
 
 
-            private static int Initialization(string[] args)
+        private static int Initialization(string[] args)
         {
 
             int delCaptures = 1;
@@ -269,6 +282,8 @@ namespace L2RPacketReader
                 Directory.CreateDirectory(@"Logs\");
             if (!Directory.Exists(@"Output\"))
                 Directory.CreateDirectory(@"Output\");
+            if (!Directory.Exists(@"Packets\"))
+                Directory.CreateDirectory(@"Packets\");
 
             // Deletes old record files if it exists.
             if (delCaptures == 1)
