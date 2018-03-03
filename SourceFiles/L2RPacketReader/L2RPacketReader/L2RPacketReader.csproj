@@ -80,7 +80,6 @@
     <Compile Include="CusEnum\ClanRecordType.cs" />
     <Compile Include="CusEnum\Item.cs" />
     <Compile Include="CusEnum\ClanRecordGroupType.cs" />
-    <Compile Include="CusEnum\_Template.cs" />
     <Compile Include="Misc\Misc.cs" />
     <Compile Include="Parser\Handler.cs" />
     <Compile Include="Parser\Parsers\PktSkillHitNotify.cs" />
