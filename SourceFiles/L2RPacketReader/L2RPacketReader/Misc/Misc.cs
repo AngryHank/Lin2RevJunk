@@ -13,22 +13,22 @@ namespace L2RPacketReader.Misc
             }
             if (Timevalue / 86400 > 1)
             {
-                returnTime += Timevalue / 86400 + "Day(s) ";
+                returnTime += Timevalue / 86400 + "d ";
                 Timevalue = Timevalue % 86400;
             }
             if (Timevalue / 3600 > 1)
             {
-                returnTime += Timevalue / 3600 + "Hours(s) ";
+                returnTime += Timevalue / 3600 + "h ";
                 Timevalue = Timevalue % 3600;
             }
             if (Timevalue / 60 > 1)
             {
-                returnTime += Timevalue / 60 + "Minutes(s) ";
+                returnTime += Timevalue / 60 + "m ";
                 Timevalue = Timevalue % 60;
             }
             if (Timevalue / 1 > 1)
             {
-                returnTime += Timevalue + "Seconds(s) ";
+                returnTime += Timevalue + "s";
             }
 
 

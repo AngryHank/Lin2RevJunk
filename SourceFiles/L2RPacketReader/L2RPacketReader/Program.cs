@@ -85,7 +85,6 @@ namespace L2RPacketReader
                 time.Hour, time.Minute, time.Second, time.Millisecond, len,
                 srcIp, srcPort, dstIp, dstPort);
 
-
                 // Decrypt and process incoming packets
                 if (srcPort == 12000)
                 {

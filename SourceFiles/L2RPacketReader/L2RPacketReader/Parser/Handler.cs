@@ -9,7 +9,7 @@ namespace L2RPacketReader.Parser
         public static void Parse(PacketReader packet, ushort packetID)
         {
             string result;
-            Console.Write("PacketID: " + packetID.ToString("X") + "\tLength: " + packet.Length);
+            Console.Write("PacketID: " + packetID.ToString("X") + "\tLength: " + packet.Remaining);
             //Packet Handler for PacketID
             switch (packetID)
             {
@@ -1852,8 +1852,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x57B:
                     result = "PktGuildMemberListReadresult";
-                    PktGuildMemberListReadresult.Packet(packet.Clone().ToBytes());
-                    PktGuildMemberListReadresultClean.Packet(packet.ToBytes());
+                    PktGuildMemberListReadresultClean.Packet(packet);
                     break;
                 case 0x57C:
                     result = "PktGuildCreate";

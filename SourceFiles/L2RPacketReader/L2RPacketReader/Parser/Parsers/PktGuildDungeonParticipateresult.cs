@@ -18,7 +18,7 @@ namespace L2RPacketReader.Parser.Parsers
                 UInt16 itemCount = packet.ReadUInt16();
 
                 // Doing Items as sloppy as I know how!
-                int[] Unk1 = new int[itemCount] ;
+                int[] Unk1 = new int[itemCount];
                 int[] Unk2 = new int[itemCount];
                 int[] Unk3 = new int[itemCount];
                 int[] Unk4 = new int[itemCount];
@@ -38,15 +38,13 @@ namespace L2RPacketReader.Parser.Parsers
                 UInt16 PlayerCount = packet.ReadUInt16();
                 // Doing it again for the players!
                 long[] PlayerID = new long[PlayerCount];
-                short[] NameLength = new short[PlayerCount];
                 string[] Name = new string[PlayerCount];
                 double[] Damage = new double[PlayerCount];
                 byte[] Unk6 = new byte[PlayerCount];
                 for (int l = 0; l < PlayerCount; l++)
                 {
                     PlayerID[l] = packet.ReadInt64();
-                    NameLength[l] = packet.ReadInt16();
-                    Name[l] = packet.ReadString(NameLength[l]);
+                    Name[l] = packet.ReadString();
                     Damage[l] = Convert.ToDouble(packet.ReadInt32());
                     Damage[l] = Damage[l] / 100;
                     Unk6[l] = packet.ReadByte();
@@ -72,10 +70,10 @@ namespace L2RPacketReader.Parser.Parsers
                         ItemCount[l] + "," + Unk3[l] + "," + Unk4[l] + "," + Unk5[l]);
                 }
 
-                fileStream.WriteLine("\nPlayerID,NameLength,Name,Damage,Unk6");
+                fileStream.WriteLine("\nPlayerID,Name,Damage,Unk6");
                 for (int l = 0; l < PlayerCount; l++)
                 {
-                    fileStream.WriteLine(PlayerID[l] + "," + NameLength[l] + "," + 
+                    fileStream.WriteLine(PlayerID[l] + "," + 
                         Name[l] + "," + Damage[l] + "%," + Unk6[l]);
                 }
                 fileStream.WriteLine("\n\n");

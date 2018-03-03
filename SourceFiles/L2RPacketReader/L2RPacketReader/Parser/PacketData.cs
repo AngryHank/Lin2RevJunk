@@ -68,11 +68,19 @@ namespace L2RPacketReader
             return value;
         }
 
-        public string ReadString(int length)
+        public string ReadString()
         {
-            string value = Encoding.UTF8.GetString(_bytes, _index, length);
-            _index += length;
-            return value;
+            int length = ReadUInt16();
+            if (length > 0)
+            {
+                string value = Encoding.UTF8.GetString(_bytes, _index, length);
+                _index += length;
+                return value;
+            }
+            else
+            {
+                return string.Empty;
+            }
         }
 
         public void Skip(int count)
@@ -80,7 +88,7 @@ namespace L2RPacketReader
             _index += count;
         }
 
-        public int Length
+        public int Remaining
         {
             get
             {

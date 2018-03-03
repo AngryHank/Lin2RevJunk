@@ -69,7 +69,6 @@
     <Compile Include="CSV\monsterBook.cs" />
     <Compile Include="CSV\guildMemberGrade.cs" />
     <Compile Include="CSV\guildLevelUp.cs" />
-    <Compile Include="CSV\item.cs" />
     <Compile Include="CSV\itemOption.cs" />
     <Compile Include="CSV\fortress.cs" />
     <Compile Include="CSV\class.cs" />
@@ -98,7 +97,6 @@
     <Compile Include="Parser\ReadableParsers\PktGuildRecordListReadresultClean.cs" />
     <Compile Include="Parser\Parsers\PktPlayerMoveListNotify.cs" />
     <Compile Include="Parser\Parsers\PktNpcMoveNotify.cs" />
-    <Compile Include="Parser\Parsers\PktGuildMemberListReadresult.cs" />
     <None Include="packages.config" />
     <Compile Include="Parser\ReadableParsers\PktMonsterBookListReadresultClean.cs" />
     <Compile Include="Program.cs" />

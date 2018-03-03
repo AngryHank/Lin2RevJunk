@@ -26,7 +26,8 @@ namespace L2RPacketReader.Parser.Parsers
                     "Socket 2,Socket 3,Socket 4, Socket 5,Socket 6," +
                     "Limit Break Count,Limit Break Add Rate,Ability Level,Ability Upgrade Add Rate");
 
-                for (int j = 0; j < UsedInvenSize; j++) { 
+                for (int j = 0; j < UsedInvenSize; j++)
+                {
                     UInt64 UItemID = packet.ReadUInt64();
                     string ItemID = CusEnum.Item.Enum(packet.ReadUInt32());
                     UInt32 Exp = packet.ReadUInt32();
