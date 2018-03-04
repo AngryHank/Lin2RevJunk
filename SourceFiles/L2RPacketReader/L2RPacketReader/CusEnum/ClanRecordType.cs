@@ -8,7 +8,7 @@ namespace L2RPacketReader.CusEnum
 {
     class ClanRecordType
     {
-        public static string Enum(byte CEValue,string Param1, string Param2, string Param3)
+        public static string Enum(byte CEValue, string Param1, string Param2, string Param3)
         {
             switch (CEValue)
             {

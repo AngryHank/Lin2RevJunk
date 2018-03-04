@@ -66,7 +66,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CSV\monsterBook.cs" />
     <Compile Include="CSV\guildMemberGrade.cs" />
     <Compile Include="CSV\guildLevelUp.cs" />
     <Compile Include="CSV\itemOption.cs" />
@@ -77,28 +76,25 @@
     <Compile Include="CSV\skill.cs" />
     <Compile Include="CusEnum\ClanRecordTypeSimple.cs" />
     <Compile Include="CusEnum\ClanRecordType.cs" />
+    <Compile Include="CusEnum\Class1.cs" />
     <Compile Include="CusEnum\Item.cs" />
     <Compile Include="CusEnum\ClanRecordGroupType.cs" />
     <Compile Include="Misc\Misc.cs" />
-    <Compile Include="Parser\PacketData.cs" />
+    <Compile Include="Parser\PacketReader.cs" />
     <Compile Include="Parser\Handler.cs" />
+    <Compile Include="Parser\Parsers\PkgGuildAgitQuestListresult.cs" />
     <Compile Include="Parser\Parsers\PktSkillHitNotify.cs" />
     <Compile Include="Parser\Parsers\PktMonsterBookListReadresult.cs" />
-    <Compile Include="Parser\ReadableParsers\PktBagListReadresultClean.cs" />
     <Compile Include="Parser\Parsers\PktBagListReadresult.cs" />
-    <Compile Include="Parser\ReadableParsers\PktGuildDungeonParticipateresultClean.cs" />
-    <Compile Include="Parser\ReadableParsers\PktGuildInfoReadresultClean.cs" />
+    <Compile Include="Parser\Parsers\PktGuildDungeonParticipateresult.cs" />
     <Compile Include="Parser\Parsers\PktGuildInfoReadresult.cs" />
     <Compile Include="Parser\Parsers\PktExpDisplayNotify.cs" />
-    <Compile Include="Parser\Parsers\PktGuildDungeonParticipateresult.cs" />
-    <Compile Include="Parser\ReadableParsers\PktGuildMemberListReadresultClean.cs" />
-    <Compile Include="Parser\ReadableParsers\PktGuildRecommendationListReadresultClean.cs" />
+    <Compile Include="Parser\Parsers\PktGuildMemberListReadresult.cs" />
     <Compile Include="Parser\Parsers\PktGuildRecommendationListReadresult.cs" />
-    <Compile Include="Parser\ReadableParsers\PktGuildRecordListReadresultClean.cs" />
+    <Compile Include="Parser\Parsers\PktGuildRecordListReadresult.cs" />
     <Compile Include="Parser\Parsers\PktPlayerMoveListNotify.cs" />
     <Compile Include="Parser\Parsers\PktNpcMoveNotify.cs" />
     <None Include="packages.config" />
-    <Compile Include="Parser\ReadableParsers\PktMonsterBookListReadresultClean.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

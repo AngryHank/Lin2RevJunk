@@ -6,7 +6,7 @@ using L2RPacketReader.Misc;
 
 namespace L2RPacketReader.Parser.Parsers
 {
-    class PktGuildMemberListReadresultClean
+    class PktGuildMemberListReadresult
     {
         public static void Packet(PacketReader packet)
         {
@@ -21,10 +21,10 @@ namespace L2RPacketReader.Parser.Parsers
 
                 //Writes header for the PktGuildMemberListReadresult
                 fileStream.WriteLine("Clan ID,Name,Member Count\n" + ClanID + ",\"=VLOOKUP(OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())),0,-1),DetailedGuildInfo!A:C,3,FALSE)\"," + MemberCount + "\n");
-                fileStream.WriteLine("Player ID," + "Player Name," + "Level," + "Combat Power," + 
-                    "Role," + "Class," + "Offline," + "Contribution," + "Total Contributions," + 
-                    "Checked in," + "Rewards Count," + "World,"  + "Introduction");
-                
+                fileStream.WriteLine("Player ID," + "Player Name," + "Level," + "Combat Power," +
+                    "Role," + "Class," + "Offline," + "Contribution," + "Total Contributions," +
+                    "Checked in," + "Rewards Count," + "World," + "Introduction");
+
 
                 // Parses the PktGuildMemberListReadresult
                 while (packet.Remaining > 0)
@@ -52,7 +52,7 @@ namespace L2RPacketReader.Parser.Parsers
 
 
                     fileStream.WriteLine(PlayerID + "," + PlayerName + "," + Level + "," + PlayerCP + "," +
-                        ClanRole + "," + PlayerClass + "," + Offline + "," + Contribution + "," + TotalContribution + ", " +  
+                        ClanRole + "," + PlayerClass + "," + Offline + "," + Contribution + "," + TotalContribution + ", " +
                         Checkin + "," + RewardCount + "," + WorldID + "," + Introduction);
 
                 }

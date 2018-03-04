@@ -10,11 +10,12 @@ namespace L2RPacketReader.Parser.Parsers
     {
         public static void Packet(PacketReader packet)
         {
-            using (StreamWriter fileStream = new StreamWriter(@"Data\PktGuildDungeonParticipateresult.csv", true))
+            using (StreamWriter fileStream = new StreamWriter(@"Output\ClanDungeonResults.csv", true))
             {
                 // Parses the header of the PktGuildMemberListReadresult
                 // First two bytes are not used.
                 packet.Skip(2);
+
                 UInt16 itemCount = packet.ReadUInt16();
 
                 // Doing Items as sloppy as I know how!
@@ -23,12 +24,13 @@ namespace L2RPacketReader.Parser.Parsers
                 int[] Unk3 = new int[itemCount];
                 int[] Unk4 = new int[itemCount];
                 byte[] Unk5 = new byte[itemCount];
-                int[] ItemID = new int[itemCount];
+                string[] ItemID = new string[itemCount];
                 int[] ItemCount = new int[itemCount];
-                for (int l = 0; l < itemCount; l++) {
+                for (int l = 0; l < itemCount; l++)
+                {
                     Unk1[l] = packet.ReadInt32();
                     Unk2[l] = packet.ReadInt32();
-                    ItemID[l] = packet.ReadInt32();
+                    ItemID[l] = CusEnum.Item.Enum(packet.ReadUInt32());
                     ItemCount[l] = packet.ReadInt16();
                     Unk3[l] = packet.ReadInt32();
                     Unk4[l] = packet.ReadInt32();
@@ -58,26 +60,20 @@ namespace L2RPacketReader.Parser.Parsers
                 //Write
                 fileStream.WriteLine("Time: " + Time);
                 fileStream.WriteLine("PlayerCount: " + PlayerCount);
-                fileStream.WriteLine("itemCount: " + itemCount);
-                fileStream.WriteLine("unk7: " + unk7);
-                fileStream.WriteLine("unk8: " + unk8);
-                fileStream.WriteLine("unk9: " + unk9);
 
-                fileStream.WriteLine("\nUnk1, Unk2, ItemID, ItemCount, Unk3, Unk4, Unk5");
+                fileStream.WriteLine("\nItem ID, Item Count");
                 for (int l = 0; l < itemCount; l++)
                 {
-                    fileStream.WriteLine(Unk1[l] + "," + Unk2[l] + "," + ItemID[l] + "," +
-                        ItemCount[l] + "," + Unk3[l] + "," + Unk4[l] + "," + Unk5[l]);
+                    fileStream.WriteLine(ItemID[l] + "," + ItemCount[l]);
                 }
 
-                fileStream.WriteLine("\nPlayerID,Name,Damage,Unk6");
+                fileStream.WriteLine("\nPlayer ID,Name,Damage");
                 for (int l = 0; l < PlayerCount; l++)
                 {
-                    fileStream.WriteLine(PlayerID[l] + "," + 
-                        Name[l] + "," + Damage[l] + "%," + Unk6[l]);
+                    fileStream.WriteLine(PlayerID[l] + "," + Name[l] + "," + Damage[l] + "%");
                 }
                 fileStream.WriteLine("\n\n");
-             
+
             }
         }
     }

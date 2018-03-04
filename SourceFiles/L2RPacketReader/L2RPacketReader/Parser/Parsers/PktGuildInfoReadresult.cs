@@ -8,238 +8,127 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktGuildInfoReadresult
     {
-        public static void Packet(byte[] packetData)
+        public static void Packet(PacketReader packet)
         {
-            using (StreamWriter fileStream = new StreamWriter(@"Data\PktGuildInfoReadresult.csv", true))
+            using (StreamWriter fileStream = new StreamWriter(@"Output\DetailedGuildInfo.csv", true))
             {
                 // First two bytes are not used.
-                int i = 2;
+                packet.Skip(2);
+
                 //Writes header for the PktGuildInfoReadresult
                 if (fileStream.BaseStream.Length < 1)
-                    fileStream.WriteLine("ID," + "NameLength," + "Name," + "EmblemSymbolID," + 
-                        "EmblemBackgroundID," + "Level," + "Exp," + "Adena," + "Proof Of Blood," + 
-                        "IntroLength," + "Intro," + "NoticeLength," + "Notice," + "IsPublic," + 
-                        "Ranking," + "RankingTotal," + "Reputation," + "LeaderNameLength," + 
-                        "Leader Name," + "Squire Count," + "Guard Count," + "Knight Count," + "Captain Count," + 
-                        "Elder Count," + "Require Approval," + "Level Requirement," + "Castle Owned," + 
-                        "Fortress Owned," + "Red Star Stone," + "Junk," + "ID2," + "Name2Length," + "Name2," + 
-                        "Emblem2SymbolID," + "Emblem2BackgroundID," + "Intro2Length," + "Intro2," + "Level2," + 
-                        "Exp2," + "Reputation2," + "Spacer," + "Members," + "Leader2NameLength," + "Leader2Name," + 
-                        "Adena2," + "RequireApproval2," + "LevelRequirement2," + "Wins," + "Draws," + "Losses," +
-                        "Combat Power 2," + "Unk3," + "Unk4," + "Fortress Occupy Date," + "Unk5," + "Unk6," + "Unk7," + "Four?," + 
-                        "Unk8," + "Siege Date," + "Bid Date," + "Combat Power," + "Seven," + "Unk9," + "Castle Date," + "Unk11," + 
-                        "Unk12," + "Unk13," + "Unk14," + "Unk14_2," + "Unk15," + "Unk15_2," + "Checkin Yesterday," + 
-                        "Checkin Today," + "Unk17," + "Unk18," + 
-                        "Unk18_2," + "Unk20," + "Unk21," + "Unk22," + "Unk23," + "Unk24," + "Unk25," + "Unk26," + 
-                        "Unk27," + "Unk28," + "Unk29," + "Unk30," + "Unk32");
+                    fileStream.WriteLine("ID,Ranking,Name,Leader,Level,Exp,As Percentage, Reputation,Combat Power,Adena," +
+                        "Proof of Blood,Red Star Stone,Members,Checked in Yesterday,Checked in Today," +
+                        "Fortress Owned,Fortress Occupy Date,Wins,Draws,Losses,Require Approval," +
+                        "Level Requirement,Intro,Notice");
 
-                UInt64 ID = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt16 NameLength = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Name = Encoding.UTF8.GetString(packetData, i, NameLength);
-                i += NameLength;
-                UInt32 EmblemSymbolID = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 EmblemBackgroundID = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 Level = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt32 Exp = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt64 Adena = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt64 BloodCrystal = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt16 IntroLength = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Intro = Encoding.UTF8.GetString(packetData, i, IntroLength);
-                i += IntroLength;
-                UInt16 NoticeLength = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Notice = Encoding.UTF8.GetString(packetData, i, NoticeLength);
-                i += NoticeLength;
-                byte IsPublic = packetData[i];
-                i++;
-                UInt32 Ranking = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 RankingTotal = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 Reputation = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 LeaderNameLength = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string LeaderName = Encoding.UTF8.GetString(packetData, i, LeaderNameLength);
-                i += LeaderNameLength;
-                UInt16 SquireCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 GuardCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 KnightCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 CaptainCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 ElderCount = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                byte RequireApproval = packetData[i];
-                i++;
-                UInt16 LevelRequirement = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt32 CastleOwned = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                string FortressOwned = CSV.fortress.fortressName(BitConverter.ToInt32(packetData, i));
-                i += 4;
-                UInt32 RedStarStone = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                i += 100; // Junk Data
-                UInt32 PacketID2 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt64 ID2 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt16 Name2Length = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Name2 = Encoding.UTF8.GetString(packetData, i, Name2Length);
-                i += Name2Length;
-                UInt32 Emblem2SymbolID = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 Emblem2BackgroundID = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 Intro2Length = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Intro2 = Encoding.UTF8.GetString(packetData, i, Intro2Length);
-                i += Intro2Length;
-                UInt16 Level2 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt32 Exp2 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt64 Reputation2 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt32 Spacer = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 Members = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Leader2NameLength = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                string Leader2Name = Encoding.UTF8.GetString(packetData, i, Leader2NameLength);
-                i += Leader2NameLength;
-                UInt64 Adena2 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                byte RequireApproval2 = packetData[i];
-                i++;
-                UInt16 LevelRequirement2 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Wins = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Draws = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Losses = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt64 CombatPower2 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt64 Unk3 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                byte Unk4 = packetData[i];
-                i++;
-                // Unk3 is most likely CastleOccupyDate, Possible Unk6.
-                Double FortressOccupyDate = Convert.ToDouble(BitConverter.ToUInt64(packetData, i));
-                FortressOccupyDate = FortressOccupyDate / 60 / 60 / 24 + 25569 - (5 / 24);
-                i += 8;
-                byte Unk5 = packetData[i];
-                i++;
-                UInt64 Unk6 = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                byte Unk7 = packetData[i];
-                i++;
-                UInt16 Four = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                byte Unk8 = packetData[i];
-                i++;
-                // DateTime SiegeDate = DateTime.FromBinary(BitConverter.ToUInt64(packetData, i));
-                //UInt64 SiegeDate = BitConverter.ToUInt64(packetData, i);
-                Double SiegeDate = Convert.ToDouble(BitConverter.ToUInt64(packetData, i));
+                UInt64 ID = packet.ReadUInt64();
+                string Name = packet.ReadString();
+                UInt32 EmblemSymbolID = packet.ReadUInt32();
+                UInt32 EmblemBackgroundID = packet.ReadUInt32();
+                UInt16 Level = packet.ReadUInt16();
+                UInt32 Exp = packet.ReadUInt32();
+                UInt64 Adena = packet.ReadUInt64();
+                UInt64 BloodCrystal = packet.ReadUInt64();
+                string Intro = packet.ReadString();
+                string Notice = packet.ReadString();
+                byte IsPublic = packet.ReadByte();
+                UInt32 Ranking = packet.ReadUInt32();
+                UInt32 RankingTotal = packet.ReadUInt32();
+                UInt32 Reputation = packet.ReadUInt32();
+                string LeaderName = packet.ReadString();
+                UInt16 SquireCount = packet.ReadUInt16();
+                UInt16 GuardCount = packet.ReadUInt16();
+                UInt16 KnightCount = packet.ReadUInt16();
+                UInt16 CaptainCount = packet.ReadUInt16();
+                UInt16 ElderCount = packet.ReadUInt16();
+                byte RequireApproval = packet.ReadByte();
+                UInt16 LevelRequirement = packet.ReadUInt16();
+                UInt32 CastleOwned = packet.ReadUInt32();
+                string FortressOwned = CSV.fortress.fortressName(packet.ReadInt32());
+                UInt32 RedStarStone = packet.ReadUInt32();
+                packet.Skip(100); // Junk Data
+                UInt32 PacketID2 = packet.ReadUInt32();
+                UInt64 ID2 = packet.ReadUInt64();
+                string Name2 = packet.ReadString();
+                UInt32 Emblem2SymbolID = packet.ReadUInt32();
+                UInt32 Emblem2BackgroundID = packet.ReadUInt32();
+                string Intro2 = packet.ReadString();
+                UInt16 Level2 = packet.ReadUInt16();
+                UInt32 Exp2 = packet.ReadUInt32();
+                UInt64 Reputation2 = packet.ReadUInt64();
+                UInt32 Spacer = packet.ReadUInt32();
+                UInt16 Members = packet.ReadUInt16();
+                string Leader2Name = packet.ReadString();
+                UInt64 Adena2 = packet.ReadUInt64();
+                byte RequireApproval2 = packet.ReadByte();
+                UInt16 LevelRequirement2 = packet.ReadUInt16();
+                UInt16 Wins = packet.ReadUInt16();
+                UInt16 Draws = packet.ReadUInt16();
+                UInt16 Losses = packet.ReadUInt16();
+                UInt64 CombatPower2 = packet.ReadUInt64();
+                UInt64 Unk3 = packet.ReadUInt64();
+                byte Unk4 = packet.ReadByte();
+                Double FortressOccupyDate = Convert.ToDouble(packet.ReadUInt64());
+                if (FortressOccupyDate > 0)
+                {
+                    FortressOccupyDate = FortressOccupyDate / 60 / 60 / 24 + 25569 - (5 / 24);
+                }
+                byte Unk5 = packet.ReadByte();
+                UInt64 Unk6 = packet.ReadUInt64();
+                byte Unk7 = packet.ReadByte();
+                UInt16 Four = packet.ReadUInt16();
+                byte Unk8 = packet.ReadByte();
+                Double SiegeDate = Convert.ToDouble(packet.ReadUInt64());
                 SiegeDate = SiegeDate / 60 / 60 / 24 + 25569 - (5 / 24);
-                i += 8;
-                //UInt64 BidDate = BitConverter.ToUInt64(packetData, i);
-                Double BidDate = Convert.ToDouble(BitConverter.ToUInt64(packetData, i));
+                Double BidDate = Convert.ToDouble(packet.ReadUInt64());
                 BidDate = BidDate / 60 / 60 / 24 + 25569 - (5 / 24);
-                i += 8;
-                UInt64 CombatPower = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                UInt32 Seven = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                byte Unk9 = packetData[i];
-                i++;
-                //UInt32 Unk10 = BitConverter.ToUInt32(packetData, i);
+                UInt64 CombatPower = packet.ReadUInt64();
+                UInt32 Seven = packet.ReadUInt32();
+                byte Unk9 = packet.ReadByte();
 
-                Double CastleDate = Convert.ToDouble(BitConverter.ToUInt32(packetData, i));
+                Double CastleDate = Convert.ToDouble(packet.ReadUInt32());
                 CastleDate = CastleDate / 60 / 60 / 24 + 25569 - (5 / 24);
-                i += 4;
-                UInt16 Unk11 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                byte Unk12 = packetData[i];
-                i ++;
-                byte Unk13 = packetData[i];
-                i++;
-                byte Unk14 = packetData[i];
-                i++;
-                byte Unk14_2 = packetData[i];
-                i++;
-                UInt32 Unk15 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 Unk15_2 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 CheckinYesterday = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 CheckinToday = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk17 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt32 Unk18 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt32 Unk18_2 = BitConverter.ToUInt32(packetData, i);
-                i += 4;
-                UInt16 Unk20 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk21 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk22 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk23 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk24 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk25 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk26 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk27 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk28 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk29 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                UInt16 Unk30 = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                byte Unk32 = packetData[i];
+                UInt16 Unk11 = packet.ReadUInt16();
+                byte Unk12 = packet.ReadByte();
+                byte Unk13 = packet.ReadByte();
+                byte Unk14 = packet.ReadByte();
+                byte Unk14_2 = packet.ReadByte();
+                UInt32 Unk15 = packet.ReadUInt32();
+                UInt32 Unk15_2 = packet.ReadUInt32();
+                UInt16 CheckinYesterday = packet.ReadUInt16();
+                UInt16 CheckinToday = packet.ReadUInt16();
+                UInt16 Unk17 = packet.ReadUInt16();
+                UInt32 Unk18 = packet.ReadUInt32();
+                UInt32 Unk18_2 = packet.ReadUInt32();
+                UInt16 Unk20 = packet.ReadUInt16();
+                UInt16 Unk21 = packet.ReadUInt16();
+                UInt16 Unk22 = packet.ReadUInt16();
+                UInt16 Unk23 = packet.ReadUInt16();
+                UInt16 Unk24 = packet.ReadUInt16();
+                UInt16 Unk25 = packet.ReadUInt16();
+                UInt16 Unk26 = packet.ReadUInt16();
+                UInt16 Unk27 = packet.ReadUInt16();
+                UInt16 Unk28 = packet.ReadUInt16();
+                UInt16 Unk29 = packet.ReadUInt16();
+                UInt16 Unk30 = packet.ReadUInt16();
+                byte Unk32 = packet.ReadByte();
 
-                fileStream.WriteLine(ID + "," + NameLength + ",\"" + Name + "\"," + EmblemSymbolID + "," + 
-                    EmblemBackgroundID + "," + Level + "," + Exp + "," + Adena + "," + BloodCrystal + 
-                    "," + IntroLength + ",\"" + Intro + "\"," + NoticeLength + ",\"" + Notice + "\"," + IsPublic + 
-                    "," + Ranking + "," + RankingTotal + "," + Reputation + "," + LeaderNameLength + "," + 
-                    LeaderName + "," + SquireCount + "," + GuardCount + "," + KnightCount + "," + 
-                    CaptainCount + "," + ElderCount + "," + RequireApproval + "," + LevelRequirement + "," + 
-                    CastleOwned + "," + FortressOwned + "," + RedStarStone + "," + PacketID2 + "," + ID2 + "," + 
-                    Name2Length + ",\"" + Name2 + "\"," + Emblem2SymbolID + "," + Emblem2BackgroundID + "," + 
-                    Intro2Length + ",\"" + Intro2 + "\"," + Level2 + "," + Exp2 + "," + Reputation2 + "," + 
-                    Spacer + "," + Members + "," + Leader2NameLength + ",\"" + Leader2Name + "\"," + Adena2 + 
-                    "," + RequireApproval2 + "," + LevelRequirement2 + "," + Wins + "," + Draws + "," + 
-                    Losses + "," + CombatPower2 + "," + Unk3 + "," + Unk4 + "," + FortressOccupyDate + "," + Unk5 + "," + 
-                    Unk6 + "," + Unk7 + "," + Four + "," + Unk8 + "," + SiegeDate + "," + BidDate + "," +
-                    CombatPower + "," + Seven + "," + Unk9 + "," + CastleDate + "," + Unk11 + "," + Unk12 + "," + Unk13 +
-                    "," + Unk14 + "," + Unk14_2 + "," + Unk15 + "," + Unk15_2 + "," + CheckinYesterday + "," + CheckinToday + "," + Unk17 + "," + Unk18 + 
-                    "," + Unk18_2 + "," + Unk20 + "," + Unk21 + "," + Unk22 + "," + Unk23 + "," + Unk24 + 
-                    "," + Unk25 + "," + Unk26 + "," + Unk27 + "," + Unk28 + "," + Unk29 + "," + Unk30 + "," + 
-                    Unk32);
+                // Calculates Total Members from Data given for all Clans
+                int TMembers = SquireCount + GuardCount + KnightCount + CaptainCount + ElderCount + 1;
+                // Calculates Percentage to next level.
+                double ExpPer = Convert.ToDouble(CSV.guildLevelUp.guildLevelUpExp(Level));
+                ExpPer = Exp / ExpPer * 100;
+
+                fileStream.Write(ID + "," + Ranking + "," + Name + "," + LeaderName + "," + Level + "," + Exp + "," + ExpPer + "%," +
+                    Reputation + "," + CombatPower + "," + Adena + "," + BloodCrystal + "," + RedStarStone + "," +
+                     TMembers + "," + CheckinYesterday + "," + CheckinToday + "," +
+                    FortressOwned + ",");
+                if (FortressOccupyDate > 0)
+                { fileStream.Write(FortressOccupyDate + "," + Wins + "," + Draws + "," + Losses + ","); }
+                else
+                { fileStream.Write(",,,,"); }
+                fileStream.Write(RequireApproval + "," + LevelRequirement + ",\"" + Intro + "\",\"" + Notice + "\"\n");
             }
         }
     }

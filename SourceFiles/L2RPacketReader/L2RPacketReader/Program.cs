@@ -136,7 +136,7 @@ namespace L2RPacketReader
 
         private static int Initialization(string[] args)
         {
-            int delData = 1;
+            int delData = 0;
 
 
             // Sets optional values based on what arguement is used.
@@ -181,14 +181,12 @@ namespace L2RPacketReader
 
 
             // Creates folders if they do not exist yet.
-            if (!Directory.Exists(@"Data\"))
-                Directory.CreateDirectory(@"Data\");
             if (!Directory.Exists(@"Output\"))
                 Directory.CreateDirectory(@"Output\");
 
             // Deletes old record files if it exists.
-            if (delData == 1) { 
-                foreach (var item in Directory.GetFiles(@"Data\", "*.csv")) File.Delete(item);
+            if (delData == 1)
+            { 
                 foreach (var item in Directory.GetFiles(@"Output\", "*.csv")) File.Delete(item);
                 foreach (var item in Directory.GetFiles(@"Output\", "*.txt")) File.Delete(item);
             } 
@@ -209,7 +207,8 @@ namespace L2RPacketReader
             }
 
 
-            if (defaultDevice < 0) { 
+            if (defaultDevice < 0)
+            { 
                 defaultDevice = 0;
                 // Lists each of the devices that can be captured
                 // and then has you select the device you want to use.

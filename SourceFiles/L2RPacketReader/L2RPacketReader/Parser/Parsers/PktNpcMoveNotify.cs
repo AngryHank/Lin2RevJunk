@@ -6,33 +6,26 @@ namespace L2RPacketReader.Parser.Parsers
 {
     class PktNpcMoveNotify
     {
-        public static void Packet(byte[] packetData)
+        public static void Packet(PacketReader packet)
         {
-            using (StreamWriter fileStream = new StreamWriter(@"Data\PktNpcMoveNotify.csv", true))
+            using (StreamWriter fileStream = new StreamWriter(@"Output\PktNpcMoveNotify.csv", true))
             {
                 if (fileStream.BaseStream.Length < 1)
+                {
                     fileStream.WriteLine("NPCID,X Coord, Y Coord, Unk1, Unk2, Move Type,Destination X Coord, Destination Y Coord");
+                }
 
-                int i = 0;
-                UInt64 NPCID = BitConverter.ToUInt64(packetData, i);
-                i += 8;
-                Single xpos = BitConverter.ToSingle(packetData, i);
-                i += 4;
-                Single ypos = BitConverter.ToSingle(packetData, i);
-                i += 4;
-                Single unk1 = BitConverter.ToSingle(packetData, i);
-                i += 4;
-                Single unk2 = BitConverter.ToSingle(packetData, i);
-                i += 4;
-                UInt16 movetype = BitConverter.ToUInt16(packetData, i);
-                i += 2;
-                Single dxpos = BitConverter.ToSingle(packetData, i);
-                i += 4;
-                Single dypos = BitConverter.ToSingle(packetData, i);
-                i += 4;
+                UInt64 NPCID = packet.ReadUInt64();
+                Single xpos = packet.ReadSingle();
+                Single ypos = packet.ReadSingle();
+                Single unk1 = packet.ReadSingle();
+                Single unk2 = packet.ReadSingle();
+                UInt16 movetype = packet.ReadUInt16();
+                Single dxpos = packet.ReadSingle();
+                Single dypos = packet.ReadSingle();
 
                 fileStream.WriteLine(NPCID + "," + xpos + "," + ypos + "," + unk1 + "," + unk2 + "," + movetype + "," + dxpos + "," + dypos);
-            
+
             }
         }
     }

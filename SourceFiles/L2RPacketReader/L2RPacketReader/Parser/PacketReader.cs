@@ -67,7 +67,6 @@ namespace L2RPacketReader
             _index += 1;
             return value;
         }
-
         public string ReadString()
         {
             int length = ReadUInt16();
@@ -80,6 +79,27 @@ namespace L2RPacketReader
             else
             {
                 return string.Empty;
+            }
+        }
+
+        public Single ReadSingle()
+        {
+            Single value = BitConverter.ToSingle(_bytes, _index);
+            _index += 4;
+            return value;
+        }
+
+        // TODO: Consider custom reader extensions for different types instead of embedding interpretation here.
+        public DateTime ReadDate()
+        {
+            Int64 seconds = ReadInt64();
+            if (seconds > 0)
+            {
+                return new DateTime(1970, 1, 1).AddSeconds(seconds - 18000 /* TODO: This a time zone adjustment? Check it. */);
+            }
+            else
+            {
+                return DateTime.MaxValue;
             }
         }
 
@@ -96,11 +116,11 @@ namespace L2RPacketReader
             }
         }
 
-        public byte[] ToBytes()
+        public byte[] ReadBytes(int length)
         {
-            byte[] value = new byte[_bytes.Length - _index];
-            Array.Copy(_bytes, _index, value, 0, value.Length);
-            _index += value.Length;
+            byte[] value = new byte[length];
+            Array.Copy(_bytes, _index, value, 0, length);
+            _index += length;
             return value;
         }
 
