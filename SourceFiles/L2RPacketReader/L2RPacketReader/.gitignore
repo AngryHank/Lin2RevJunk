@@ -1,0 +1,9 @@
+.vs
+packages
+L2RPacketReader/L2RPacketReader.csproj.user
+L2RPacketReader/obj/**
+L2RPacketReader/bin/Debug/*
+!L2RPacketReader/bin/Debug/CSV
+L2RPacketReader/bin/Release/*
+!L2RPacketReader/bin/Release/CSV
+
