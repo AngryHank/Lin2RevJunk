@@ -1,6 +1,4 @@
-DiceEventId,EventNameKey,DiceMissionGroupId,EventRewardGroupId,CompleteRewardId,DiceChargeTime,DiceChargeMaxCount,DiceMaxCount,ExchangePoint,DiceImage,CompleteRewardRepeatable,DiceMaxCountTotal
-1,851000000001,1,1,100,0,3,99,100,UI_Bg_EventDiceBoard,1,250
-2,851000000002,2,2,200,0,2,99,100,UI_Bg_EventDiceBoard,0,250
-3,851000000005,3,3,300,0,3,99,100,UI_Bg_EventDiceBoard,0,500
-7,851000000007,7,7,700,0,3,99,100,UI_Bg_EventDiceBoard,0,500
-8,851000000005,8,8,800,0,3,99,100,UI_Bg_EventDiceBoard,0,500
+DiceEventId,EventNameKey,DiceMissionGroupId,EventRewardGroupId,CompleteRewardId,DiceChargeTime,DiceChargeMaxCount,DiceMaxCount,ExchangePoint,DiceImage,CompleteRewardRepeatable,EventKeyItemId,DiceMaxCountTotal
+1,851000000001,1,1,100,0,3,99,100,UI_Bg_EventDiceBoard,1,490068,250
+2,851000000002,2,2,200,0,2,99,100,UI_Bg_EventDiceBoard,0,490068,250
+3,851000000005,3,3,300,0,3,99,100,UI_Bg_EventDiceBoard,0,490068,500

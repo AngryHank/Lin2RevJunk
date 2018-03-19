@@ -1,0 +1,827 @@
+Id,Name,Desc,Desc2
+1001,20 000 Adena,Obtenez 20 000 Adena.,
+1002,42 000 Adena,Obtenez 40 000 Adena (+ 2 000 Adena bonus).,
+1003,88 000 Adena,Obtenez 80 000 Adena (+ 8 000 Adena bonus).,
+1004,184 000 Adena,Obtenez 160 000 Adena (+ 24 000 Adena bonus).,
+1005,384 000 Adena,Obtenez 320 000 Adena (+ 64 000 Adena bonus).,
+1006,800 000 Adena,(Obtenez 640 000 Adena + 160 000 Adena bonus).,
+3001,1 Boîte d'équipement spécial,"Obtenez de l'équipement S - SR !
+De l'équipement rare peut être obtenu !",
+3002,Parch. béni : arme,"Parch. béni : arme
+Sert à améliorer une arme de 1 à 3 niv.",
+3003,Parch. béni : armure,"Parch. béni : armure
+Utilisé pour améliorer une armure de 1 à 3 niv.",
+3004,Parch. béni : acc.,"Parch. béni : acc.
+Sert à améliorer un accessoire de 1 à 3 niv.",
+3005,Protection de Maphr,Évite de perdre des niveaux de perfectionnement en cas d'échec de perfectionnement.,
+3006,Pierre de rev. SR,Sert à revaloriser un équipement de qualité SR.,
+3007,Pierre d'attribut de qualité S,Sert à perfectionner l'attribut d'un équipement.,
+3008,Pierre d'attribut de qualité R,@3007,
+3009,Pierre d'attribut de qualité SR,@3007,
+3011,1 Boîte d'accessoire spécial,Obtenez un accessoire (S - SR) !,
+4001,20 Potions de PV,Restaure une petite quantité de PV.,
+4002,-10 % ! 200 Potions de PV,@4001,
+4005,20 Potions de PM,Restaure une petite quantité de PM.,
+4006,-10 % ! 200 Potions de PM,@4005,
+4009,500 Traits d'âme,Bénit l'arme de la lumière spirituelle pour infliger plus de dégâts.,
+4010,-10 % ! 5 000 Traits d'âme,@4009,
+4013,1 Mégaphone,Objet servant à parler dans la discussion mondiale.,
+4014,10 Mégaphones,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Crucifix du regret,"Sert à réduire la valeur chaotique de 30.
+Vous pouvez en utiliser 3 par jour.",
+4101,50 Parchemins d'évasion,Sert à se téléporter.,
+4105,Feux d'artifice nocturnes,"Feux d'artifice capables d'éclairer le ciel nocturne, même en pleine journée.",
+4106,Feux d'artifice Lumargents,Feux d'artifice qui brillent comme les étoiles dans le ciel.,
+4107,Feux d'artifice de prospérité,Feux d'artifice qui symbolisent l'envie de prospérité.,
+4108,Feux d'artifice d'amour,Feux d'artifice spéciaux pour une demande en mariage réussie.,
+5002,1 Équipement haute qualité,"Obtenez un équipement (A - SR) !
+De l'équipement rare peut être obtenu !",
+5003,10 Équipements haute qualité (+1 bonus),"Obtenez un équipement (A - SR) !
+Au moins 1 équipement de qualité S ou supérieure garanti !
+De l'équipement rare peut être obtenu !",
+5014,@5002,"Obtenez un équipement (A - SR) !
+De l'équipement rare et de l'équipement échangeable peut être obtenu !",
+5015,@5003,"Obtenez un équipement (A - SR) !
+Au moins 1 équipement de qualité S ou supérieure garanti !
+De l'équipement rare et de l'équipement échangeable peut être obtenu !",
+5101,1 Boîte de renforcement d'arme,"Armes et vernis d'arme (qualité A à SR) disponibles !
+Augmentation du taux d'acquisition d'équipement rare !
+Vous ne pouvez obtenir que des armes lorsque vous recevez de l'équipement rare !",
+5102,10 Boîtes de renforcement d'arme (+1 bonus),@5101,
+5103,@5101,"Possibilité d’armes et de vernis d'arme (Qualité A - Qualité SR) !
+Parchemin d'alchimie - Parchemin béni : Possibilité d’arme/armure/accessoire !",
+5104,@5102,"Possibilité d’armes et de vernis d'arme (Qualité A - Qualité SR) !
+Parchemin d'alchimie - Parchemin béni : Possibilité d’arme/armure/accessoire !
+Achetez 7 fois pour obtenir une Arme Rouge de qualité S !",
+5201,1 Boîte de renforcement d'armure,"(Qualité A - SR) Vernis d'armure et armure disponible !
+Le taux d'acquisition d'équipement rare a augmenté !
+Vous ne pouvez obtenir que des armures en récupérant de l'équipement rare !",
+5202,10 Boîtes de renforcement d'armure (+1 bonus),@5201,
+5301,10 Boîtes de matériau spéciales (+1 bonus),"Possibilité de matériaux de renforcement variés tels que Parchemins bénis, Protections de Maphr, Fil de cape,
+Éclats de la folie, Larmes de Trisha
+et Cristaux d’âmes !",
+10001,10 Potions de PV,@4001,
+10002,10 Potions de PM,@4005,
+10003,250 Traits d'âme,@4009,
+10017,1 Boîte d'équipement,Équipement de qualité A max. disponible !,
+10020,Croix du regret,"Réduit la valeur chaotique d'un personnage.
+Chaque utilisation réduit la valeur chaotique de 3 et vous pouvez utiliser cet effet 3 fois par jour.",
+10029,100 météores rouges,Sert à réinitialiser les donjons de clan.,
+13000,(Niv. 20) Parch. quête qual. C,Sert à participer à une quête secondaire de qualité C.,
+13001,(Niv. 30) Parch. quête qual. C,@13000,
+13002,(Niv. 40) Parch. quête qual. C,@13000,
+13003,(Niv. 50) Parch. quête qual. C,@13000,
+13004,(Niv. 60) Parch. quête qual. C,@13000,
+13005,(Niv. 75) Parch. quête qual. C,@13000,
+13006,(Niv. 90) Parch. quête qual. C,@13000,
+13007,(Niv. 105) Parch. quête qual. C,@13000,
+13008,(Niv. 120) Parch. quête qual. C,@13000,
+13009,(Niv. 135) Parch. quête qual. C,@13000,
+13010,(Niv. 150) Parch. quête qual. C,@13000,
+13011,(Niv. 165) Parch. quête qual. C,@13000,
+13100,(Niv.  20) Parch. quête qual. A,Sert à participer à une quête secondaire de qualité A.,
+13101,(Niv. 30) Parch. quête qual. A,@13100,
+13102,(Niv. 40) Parch. quête qual. A,@13100,
+13103,(Niv. 50) Parch. quête qual. A,@13100,
+13104,(Niv. 60) Parch. quête qual. A,@13100,
+13105,(Niv. 75) Parch. quête qual. A,@13100,
+13106,(Niv. 90) Parch. quête qual. A,@13100,
+13107,(Niv. 105) Parch. quête qual. A,@13100,
+13108,(Niv. 120) Parch. quête qual. A,@13100,
+13109,(Niv. 135) Parch. quête qual. A,@13100,
+13110,(Niv. 150) Parch. quête qual. A,@13100,
+13111,(Niv. 165) Parch. quête qual. A,@13100,
+13200,(Niv. 20) Parch. quête qual. S,Sert à participer à une quête secondaire de qualité S.,
+13201,(Niv. 30) Parch. quête qual. S,@13200,
+13202,(Niv. 40) Parch. quête qual. S,@13200,
+13203,(Niv. 50) Parch. quête qual. S,@13200,
+13204,(Niv. 60) Parch. quête qual. S,@13200,
+13205,(Niv. 75) Parch. quête qual. S,@13200,
+13206,(Niv. 90) Parch. quête qual. S,@13200,
+13207,(Niv. 105) Parch. quête qual. S,@13200,
+13208,(Niv. 120) Parch. quête qual. S,@13200,
+13209,(Niv. 135) Parch. quête qual. S,@13200,
+13210,(Niv. 150) Parch. quête qual. S,@13200,
+13211,(Niv. 165) Parch. quête qual. S,@13200,
+30001000,60 + 60 Diamants,"60 Diamants bleus
+60 Diamants rouges",
+30001010,1 fois ! 90 + 90 Diamants,"90 Diamants bleus
+90 Diamants rouges
+2 Topazes",
+30001020,1 fois ! 160 + 160 Diamants,"160 Diamants bleus
+160 Diamants rouges
+4 Topazes",
+30001030,1 fois ! 340 + 340 Diamants,"340 Diamants bleus
+340 Diamants rouges
+8 Topazes",
+30001040,80 + 80 Diamants,"80 Diamants bleus
+80 Diamants rouges",
+30001050,700 Diamants (20 %),"700 Diamants bleus
+16 Topazes",
+30001060,1 080 Diamants (20 %),"1 080 Diamants bleus
+25 Topazes",
+30001070,1 900 Diamants (10 %),"1 900 Diamants bleus
+45 Topazes",
+30001080,1 900 Diamants (20 %),@30001070,
+30001090,4 000 Diamants (10 %),"4 000 Diamants bleus
+100 Topazes",
+30001100,4 000 Diamants (20 %),@30001090,
+30001110,4 000 Diamants (30 %),@30001090,
+30001120,4 000 + 2 000 Diamants,"4 000 Diamants bleus
+2 000 Diamants rouges",
+30001130,1 080 + 540 Diamants,"1 080 Diamants bleus
+540 Diamants rouges",
+30001140,1 080 + 108 Diamants,"1 080 Diamants bleus
+108 Diamants rouges",
+30001150,1 080 + 216 Diamants,"1 080 Diamants bleus
+216 Diamants rouges",
+30001160,1 900 + 190 Diamants,"1 900 Diamants bleus
+190 Diamants rouges",
+30001170,1 900 + 380 Diamants,"1 900 Diamants bleus
+380 Diamants rouges",
+30001180,4 000 + 400 Diamants,"4 000 Diamants bleus
+400 Diamants rouges",
+30001190,4 000 + 800 Diamants,"4 000 Diamants bleus
+800 Diamants rouges",
+30001200,1 fois ! 30 + 60 diam.,"30 Diamants bleus
+60 Diamants rouges
+1 Topaze",
+30002000,90 Diamants,"90 Diamants bleus
+2 Topazes",
+30002010,160 Diamants,"160 Diamants bleus
+4 + 8 Topazes",
+30002020,340 Diamants,"340 Diamants bleus
+8 + 16 Topazes",
+30002030,700 Diamants,"700 Diamants bleus
+16 + 32 Topazes",
+30002040,1 080 Diamants,"1 080 Diamants bleus
+25 + 50 Topazes",
+30002050,1 900 Diamants,"1 900 Diamants bleus
+45 + 90 Topazes",
+30002060,4 000 Diamants,"4 000 Diamants bleus
+100 + 200 Topazes",
+30002070,60 Diamants,"60 Diamants bleus
+1 Topazes",
+30002080,@30002010,"160 Diamants bleus
+4 Topazes",
+30002090,@30002020,"340 Diamants bleus
+8 Topazes",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Diamants quotidiens I (28 j),"1 200 Diamants rouges obtenus immédiatement !
+120 Diamants rouges quotidiennement !
++10 Topazes toutes les 8 collectes quotidiennes !",Un total de 4 560 Diamants rouges !
+30003100,Adena quotidiens I (28 j),"50 000 Adena immédiatement !
+10 000 Adena quotidiennement !
++ 40 Diamants rouges toutes les 8 collectes quotidiennes !",Un total de 330 000 Adena !
+30003101,Adena quotidiens II (28 j),"160 000 Adena immédiatement !
+30 000 Adena chaque jour !
++ 80 Diamants rouges toutes les 8 collectes quotidiennes !",Un total de 1 000 000 Adena !
+30004000,Boîte d'équip. exclusif rare de qual. S,Obtenez 1 Boîte d'équipement exclusif rare de qualité S.,
+30004001,Boîte d'accessoire de haute qualité,Obtenez 1 Boîte d'accessoire de haute qualité.,
+30004002,Pierre de revalorisation SR,Obtenez 1 Pierre de revalorisation de qualité SR.,
+30004003,Pierre d'attribut R,Obtenez 1 Pierre d'attribut de qualité R.,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Boîte de Parchemin béni aléatoire,Sert à obtenir un Parchemin béni aléatoire.,
+30004008,3 Boîtes de Parchemin béni aléatoire,@30004007,
+30004100,Corne-flûte de lien de Saint argenté,Obtenez 1 Corne-flûte de lien de Saint argenté.,
+30004101,Corne-flûte de lien de Kukurin,Obtenez 1 Corne-flûte de lien de Kukurin.,
+30004102,10 Énergies de rev.,Obtenez 10 unités d'Énergie de revalorisation.,
+30004103,10 Énergies d'attribut,Obtenez 10 unités d'Énergie d'attribut.,
+30004104,Parch. d'Alch. : P. d'att. de qual. S,Obtenez 1 Parchemin d'Alchimie : Pierre d'attribut de qualité S.,
+30004105,Parch. d'Alch. : P. d'att. de qual. R,Obtenez 1 Parchemin d'Alchimie : Pierre d'attribut de qualité R.,
+30004106,Parch. d'Alch. : P. d'att. de qual. SR,Obtenez 1 Parchemin d'Alchimie : Pierre d'attribut de qualité SR.,
+30004107,Parch. d'Alch. : P. de rev. de qual. SR,Obtenez 1 Parchemin d'Alchimie : Pierre de revalorisation de qualité SR.,
+30004108,Parch. d'Alch. - Parch. béni : arme,Obtenez 1 Parchemin d'Alchimie - Parchemin béni : arme.,
+30004109,Parch. d'Alch. - Parch. béni : armure,Obtenez 1 Parchemin d'Alchimie - Parchemin béni : armure.,
+30004110,Parch. d'Alch. - Parch. béni : acc.,Obtenez 1 Parchemin d'Alchimie - Parchemin béni : accessoire.,
+30004111,200 Frag. de P. d'invoc. d'Ours noir,À lier pour fabriquer une Pierre d'invocation d’Ours noir.,
+30004112,150 Frag. de P. d'invoc. de Saint argenté,À lier pour fabriquer une Pierre d'invocation de Saint argenté.,
+30004113,100 Frag. de P. d'invoc. de Kukurin,À lier pour fabriquer une Pierre d'invocation de Kukurin.,
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Frag. Pierre d'invoc. d'Ours noir,@30004111,
+30004120,5 Frag. de P. d'invoc. de St. argenté,@30004112,
+30004121,5 Frag. de P. d'invoc. de Kukurin,@30004113,
+30004122,Parch. d’Alch. : Essence d'Élixir d'ATQ,La formule permettant de fabriquer des Essences d'Élixir d’ATQ est inscrite sur ce document. Liez des herbes pour obtenir des Essences d'Élixir d'ATQ.,
+30004123,Parch. d’Alch. : Essence d'Élixir de DÉF,La formule permettant de fabriquer des Essences d'Élixir de DÉF est inscrite sur ce document. Liez des herbes pour obtenir des Essences d'Élixir de DÉF.,
+30004124,Parch. d'Alch. : Essence d'Élixir de PV,La formule permettant de fabriquer des Essences d'Élixir de PV est inscrite sur ce document. Liez des herbes pour obtenir des Essences d'Élixir de PV.,
+30004125,Parch.d'Alch. : Essence d'Élixir de PM,La formule permettant de fabriquer des Essences d'Élixir de PM est inscrite sur ce document. Liez des herbes pour obtenir des Essences d'Élixir de PM.,
+30004126,50 Pierres d'évolution,Utilisez des Pierres d'évolution pour renforcer vos montures.,
+30004200,Boîte de sélection de Parchemin béni,Obtenez 1 Boîte de sélection de Parchemin béni.,
+30004201,3 Boîtes de sél. de P. d'amélioration,Sert à sélectionner et à obtenir une Pierre d'amélioration.,
+30004202,3 Boîtes de P. d'amélioration aléatoire,Sert à obtenir une Pierre d'amélioration aléatoire.,
+30004203,3 Boîtes de sélection d'Essence d'Élixir,Sert à sélectionner et à obtenir une Essence d'Élixir.,
+30004204,3 Boîtes d’Essence d'Élixir aléatoire,Sert à obtenir une Essence d'Élixir aléatoire.,
+30004205,@3005,@3005,
+30004206,10 Boîtes de Parch. de perfectionnement,Sert à sélectionner et à obtenir un Parchemin de perfectionnement.,
+30004207,10 Boîtes de Parch. de perfect. aléat.,Sert à obtenir un Parchemin de perfectionnement aléatoire.,
+30004208,10 Parchemins : Perfectionnement d’arme,Ce parchemin perfectionne les armes et augmente les stats.,
+30004209,10 Parch. : Perfectionnement d’armure,Ce parchemin perfectionne les armures et augmente les stats.,
+30004210,10 Parch. : Perfectionnement d’acc.,Ce parchemin perfectionne les accessoires et augmente les stats.,
+30004211,3 Essences d'Élixir de PV,Cette essence sert à fabriquer des Élixirs de PV.,
+30004212,3 Essences d'Élixir de PM,Cette essence sert à fabriquer des Élixirs de PM.,
+30004213,3 Essences d'élixir d'ATQ,Cette essence sert à fabriquer des Élixirs d'ATQ.,
+30004214,3 Essences d'Élixir de DÉF,Cette essence sert à fabriquer des Élixirs de DÉF.,
+30004215,15 Pierres d'amélioration d'arme,Sert à améliorer les armes jusqu'à la prochaine qualité.,
+30004216,15 Pierres d'amélioration d'armure,Sert à améliorer l’armure jusqu'à la prochaine qualité.,
+30004217,15 Pierres d'amélioration d'accessoire,Sert à améliorer les accessoires jusqu'à la prochaine qualité.,
+30004218,5 Boîtes de sél. de Vernis de qualité S,Sert à sélectionner et à obtenir un Vernis de qualité S.,
+30004219,5 Boîtes de P. d'amélioration aléatoire,@30004202,
+30004220,10 Boîtes de sélection de Pierre d'amélioration,@30004201,
+30004221,@30004220,@30004201,
+30004222,5 Boîtes de sélection de vernis de qualité R,Sert à sélectionner et obtenir un vernis de qualité R.,
+30004223,5 Boîtes de sélection de vernis de qualité SR,Sert à sélectionner et obtenir un vernis de qualité SR.,
+30004224,10 Pierres d'amélioration d'arme,@30004215,
+30004225,10 Pierres d'amélioration d'armure,@30004216,
+30004226,10 Pierres d'amélioration d'accessoire,@30004217,
+30004227,5 Boîtes de Parchemin de perfectionnement,@30004206,
+30004228,5 Parchemins : Perfectionnement d’arme,@30004208,
+30004229,5 Parchemins : Perfectionnement d’armure,@30004209,
+30004230,5 Parchemins : Perfectionnement d’acc.,@30004210,
+30004231,3 Boîte de sélection de Parchemin béni,Obtenez 3 boîte de sélection de Parchemin béni.,
+30004232,3 Parch. bénis : arme,@3002,
+30004233,3 Parch. bénis : armure,@3003,
+30004234,3 Parch. bénis : acc.,@3004,
+30004235,@30004102,@30004102,
+30004236,20 unités d'énergie d'attribut,Obtenez 20 unités d'énergie d'attribut.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Fragments Pierre d'invoc. d'Ours noir,@30004111,
+30004241,100 Fragments Pierre d'invoc. St argenté,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 Boîtes de Cristal d'âme de qualité A,Obtenez 1 Boîte de sélection de Cristal d'âme de qualité A.,
+30004301,Boîte de sél. de C. d'âme de qualité S,Obtenez 1 boîte de sélection de cristal d'âme de qualité S.,
+30004302,Boîte aléat. de C. d'âme de qual. B - S,Obtenez 1 boîte aléatoire de Cristal d'âme de qualité B - S.,
+30004303,Cristal d'âme d'ATQ de qualité A,"Vous pouvez imprégner des âmes dans des armes et des gants.
+Cela permet d'augmenter votre ATQP et votre ATQM.
+Ce cristal renferme des âmes de monstres.",
+30004304,Cristal d'âme de DÉF de qualité A,"Vous pouvez imprégner des âmes dans des couvre-chefs et des armures.
+Cela permet d'augmenter votre DÉFP et votre DÉFM.
+Ce cristal renferme des âmes de monstres.",
+30004305,Cristal d'âme de pénétration de qual. A,"Vous pouvez imprégner des âmes dans des anneaux.
+Ce cristal renferme des âmes de monstres.",
+30004306,Cristal d'âme de résilience de qualité A,"Vous pouvez imprégner des âmes dans des boucles d'oreilles.
+Ce cristal renferme des âmes de monstres.",
+30004307,Cristal d'âme de PRÉ de qualité A,"Vous pouvez imprégner des âmes dans des bottes et des colliers.
+Ce cristal renferme des âmes de monstres.",
+30004308,Cristal d'âme d'Esquive de qualité A,@30004307,
+30004309,C. d'âme de taux de CRIT de qualité A,"Vous pouvez imprégner des âmes dans des armes et des gants.
+Ce cristal renferme des âmes de monstres.",
+30004310,C. d'âme de résistance CRIT de qual. A,@30004306,
+30004311,Cristal d'âme de PV de qualité A,"Vous pouvez imprégner des âmes dans des couvre-chefs et des armures.
+Ce cristal renferme des âmes de monstres.",
+30004312,3 Cristaux d'âme d'ATQ de qualité B,@30004303,
+30004313,3 Cristaux d'âme de DÉF de qualité B,@30004304,
+30004314,3 C. d'âme de Pénétration de qual. B,@30004305,
+30004315,3 C. d'âme de Résilience de qual. B,@30004306,
+30004316,3 Cristaux d'âme de PRÉ de qualité B,@30004307,
+30004317,3 Cristaux d'âme d’Esquive de qualité B,@30004307,
+30004318,3 C. d'âme de taux de CRIT de qual. B,@30004309,
+30004319,3 C. d'âme de résistance CRIT de qual. B,@30004306,
+30004320,3 Cristaux d'âme de PV de qualité B,@30004311,
+30110000,Lot de départ luxueux,"600 Diamants bleus
+1 000 Potions de PV
+1 000 Potions de MP
+5 000 Traits d’âme
+120 emplacements d'inventaire",
+30110001,Lot invent. luxueux,"1 500 Diamants bleus
+1 000 Potions de PV
+1 000 Potions de MP
+10 000 Traits d’âme
+100 emplacements d'inventaire",
+30110011,Lot de perfectionnement de compétence rare spécial,"500 000 Adena
+3 Boîtes de sélection de Page de Parchemin oublié
+3 Lots de Parchemins de perfectionnement
+500 PC
+30 Parchemins d’évasion",
+30110012,Lot de perfectionnement de compétence rare spécial (10 %),@30110011,
+30110013,Lot de perfectionnement de compétence rare spécial (20 %),@30110011,
+30110014,Pack de comp. rares,"250 000 Adena
+2 Boîtes de sélection de Page de Parchemin oublié
+5 Boîtes aléatoires de Parchemin de perfectionnement
+3 Petites Boîtes de PC
+20 Parchemins d’évasion",
+30110015,Lot d'aventurier débutant,"600 Diamants bleus
+600 Diamants rouges
+1 Boîte de sélection d'arme exclusive
+de qualité S
+1 000 Fragments de rune",
+30110016,Lot d'aventurier expérimenté,"2 000 Diamants bleus
+2 000 Diamants rouges
+1 Boîte de sélection d’équipement de qualité R
+10 Boîtes de sélection de Pierre d'amélioration
+10 Boîtes de sélection de Vernis de qualité S",
+30110017,Lot d'aventurier vétéran,"2 000 Diamants bleus
+2 000 Diamants rouges
+1 Boîte de sélection d’accessoire de qualité R
+1 Pierre d'attribut de qualité R",
+30120005,Lot spécial de marquage de rune,"150 000 Adena
+3 000 Fragments de rune",
+30120007,Lot de PC,"360 Diamants rouges
+1 Boîte de PC (500 points)",
+30120008,Lot de PC de haute qualité,"1 200 Diamants rouges
+100 000 Adena
+3 Boîtes de PC (500 points)",
+30120009,Lot d'invoc. d'acc.,"2 500 Diamants rouges
+50 Topazes
+150 000 Adena
+3 Boîtes d'accessoire de haute qualité",
+30120010,Lot d'élixir spécial,"20 Boîtes d'Essence d'Élixir
+40 Lots d'Herbes",
+30120011,Lot d'Adena spécial (édition limitée),1 000 000 Adena,
+30120012,Lot d'invoc. d'acc. (10 %),@30120009,
+30120013,Lot d'invoc. d'acc. (20 %),@30120009,
+30120014,Lot de compétence rare,"300 Diamants rouges
+100 000 Adena
+1 Boîte de Page de Parchemin oublié aléatoire",
+30130000,Lot de Parch. de perf. de faible qualité,"300 Diamants bleus
+20 Topazes
+3 Lots de Parchemins de perfectionnement",
+30130001,Lot de Parch. de perf. de haute qualité,"1 000 Diamants rouges
+50 Topazes
+5 Lots de Parchemins de perfectionnement
+1 Protection de Maphr",
+30130002,Lot spé. de B. de sél. de P. d'amélio.,"3 000 Diamants rouges
+200 000 Adena
+40 Boîtes de sélection de Pierre d'amélioration",
+30130003,Lot de renf. d'équipement de qualité A,"200 000 Adena
+10 Boîtes de sélection de Vernis de qualité A",
+30130004,Lot de renf. d'équipement de qualité S,"300 000 Adena
+5 Boîtes de sélection de Vernis de qualité S
+10 Boîtes de sélection de Vernis de qualité A",
+30130005,Lot de renf. d'équipement de qualité R,"500 000 Adena
+3 Boîtes de sélection de Vernis de qualité R
+10 Boîtes de sélection de Vernis de qualité S",
+30130006,Lot de Parchemin béni,"1 200 Diamants rouges
+20 Topazes
+5 Boîtes de sél. de Parchemins béni
+10 Parchemins de perfectionnement",
+30130007,Lot de cristaux d'âme,"1 000 Diamants rouges
+50 000 Adena
+7 Boîtes aléatoires de Cristaux d'âme de qualité A - S",
+30130008,Lot II premium de Cristal d'âme,"1 000 Diamants rouges
+100 000 Adena
+3 Boîtes aléatoires de Cristaux d'âme de qualité S - R",
+30130009,Lot III premium de Cristal d'âme,"2 000 Diamants rouges
+200 000 Adena
+3 Boîtes aléatoires de Cristaux d'âme de qualité S - SR",
+30130010,Lot de Boîtes d'armure rare de qual. S,"120 Diamants rouges
+1 Boîte d'armure rare exclusive de qualité S",
+30130011,Lot de protection béni,"500 Diamants bleus
+500 Diamants rouges
+5 Boîtes de sélection de Parchemin béni
+5 Protections de Maphr",
+30130012,Lot de Pierre de reval. de qualité SR,"100 000 Adena
+1 Pierre de revalorisation",
+30130013,Lot de Parch. de perf. de HQ (10 %),@30130001,
+30130014,Lot spécial de Pierres d'amé. (10 %),@30130002,
+30130015,Lot spécial de Pierres d'amé. (20 %),@30130002,
+30130016,Lot de Parchemin béni (10 %),@30130006,
+30130017,Lot de Boîtes d'équip. rare de qualité S,"300 Diamants rouges
+1 Boîte d'équipement exclusif rare de qualité S",
+30130018,Lot d'accessoires de qualité A,"300 Diamants rouges
+1 Boîte d'accessoires de qualité A",
+30130019,Lot de Boîtes d'équipement de qualité S,"1 Boîte d'arme exclusive de qualité S
+1 Boîte d'armure exclusive de qualité S",
+30150000,Lot de renforcement de monture I,"100 000 Adena
+40 Pierres d'évolution
+10 Vernis d’équipement de monture de qualité B
+5 Parchemins de perfectionnement de monture",
+30150001,Lot de renforcement de monture II,"150 000 Adena
+80 Pierres d'évolution
+10 Vernis d'équipement de monture de qualité A
+5 Parchemins de perfectionnement de monture",
+30150002,Lot de renforcement de monture III,"300 000 Adena
+120 Pierres d'évolution
+10 Vernis d'équipement de monture de qualité S
+10 Parchemins de perfectionnement de monture",
+30150003,Lot d'invocation de Saint argenté,"1 000 Diamants bleus
+1 Corne-flûte de lien Saint argenté
+1 Pierre d'invocation de Saint argenté
+40 Pierres d'invocation
+5 Parch. de perfection. de monture",
+30150004,Lot d'invocation de Kukurin,"1 500 Diamants bleus
+1 Corne-flûte de lien Kukurin
+1 Pierre d'invocation de Kukurin
+40 Pierres d'invocation
+5 Parch. de perfection. de monture",
+30160000,Renfort de Diamants I,"Recevez immédiatement 1 500 Diamants rouges et une Boîte d'invocation d'arme exclusive de qualité A !
+Jusqu'à 8 500 Diamants rouges, 1 Boîte d'armure exclusive A et/ou 1 Boîte de sélection de Cristal d'âme C - B !",
+30160001,Renfort de Diamants II,"Recevez immédiatement 1 500 Diamants rouges et une Boîte d'invocation d'arme exclusive de qualité S !
+Jusqu'à 8 500 Diamants rouges, 1 Boîte d'armure exclusive S et/ou 1 Boîte de sélection de Cristal d'âme B - A !",
+30160002,Renfort de Diamants III,"Obtenez instantanément jusqu'à 1 500 Diamants rouges et une Pierre d'attribut de qualité S ! 
+Obtenez jusqu'à 8 500 Diamants rouges, une Boîte de sélection de cristal d'âme de qualité A et/ou une Pierre d'attribut de qualité S !",
+30170000,Histoire I,"Recevez immédiatement 1 000 Diamants rouges et une récompense chaque fois que vous terminez une histoire avant celle de Dion !
+Vous obtiendrez même des récompenses pour les histoires terminées avant votre achat !",
+30170001,Histoire II,"Obtenez 2 000 Diamants rouges + Protection de Maphr tout de suite puis une récompense chaque fois que vous terminez une histoire avant Giran !
+Vous obtiendrez même des récompenses pour les histoires terminées avant votre achat !",
+39005000,Boîte de matériau de renforcement (HQ),"Divers matériaux de renforcement sont disponibles
+tels que des vernis, des matériaux d'élixir et des protections de Maphr !",
+39005001,10 Boîtes de renforcement (HQ) (+1 bonus),@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"Divers matériaux de renforcement sont disponibles
+tels que des vernis, des matériaux d'élixir et des protections de Maphr !
+100% de chance d'obtenir un vernis de qualité R ou supérieur !",
+39005004,Boîte de matériau de monture,"Peut contenir de l'Équipement de monture, une Pierre d'évolution, une Pierre d'invocation et un Parchemin de perfectionnement d'équipement de monture !",
+39005005,10 Boîtes de mat. de monture (+1 bonus),@39005004,
+39005010,1 Boîte de matériaux de monture de haute qualité,"Corne-flûte de monture, Pierre d'invocation, Fragment de Pierre d'invocation,
+équipement de monture, Parchemin de perfectionnement de monture et Pierre d'évolution disponibles !
+(Corne-flûte de Lion velu, Pierre d'invocation et Fragment de Pierre d'invocation inclus)",
+39005011,10 Boîtes de mat. de mont. de haute qual. (+1 bonus),@39005010,
+30014000,Boîte de sél. de ticket de Pillage auto.,Sert à sélectionner et à obtenir 1 ticket de pillage auto.,
+30014001,@10029,@10029,
+30014002,10 PC,Ces points servent à améliorer les compétences.,
+30014003,5 fragments de Protection de Maphr,Liez des fragments pour obtenir la Protection de Maphr.,
+30014004,Boîte de sélection de Parch. de perf.,Obtenez 1 Boîte de sélection de Parchemin de perfectionnement.,
+30014005,B. de Pierre d'invocation de monstre rare,Sert à obtenir des Pierres d'invocation de monstre rare aléatoires.,
+30014006,10 B. de Fragment de P. d'invoc. de boss,Sert à obtenir différents fragments aléatoires de Pierre d'invocation de monstre.,
+30014007,Boîte de sélection d'Essence d'Élixir,Sert à sélectionner et à obtenir 1 Essence d'Élixir.,
+30014008,B. de Vernis d'équip. de qualité C - A,Obtenez 1 Boîte de Vernis d'équipement de qualité C - A,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,340 Diamants (Évènement),"340 Diamants bleus
+5 Boîtes de sélection de Vernis de qualité A",
+38000001,@30001050,"700 Diamants bleus
+10 Boîtes de sélection de Parchemin de
+perfectionnement",
+38000002,@30001060,"1 080 Diamants
+10 Boîtes de sélection de Pierre
+d'amélioration",
+38000003,@30001110,"4 000 Diamants
+30 Boîtes de sélection de Pierre
+d'amélioration",
+30130020,Lot commémoratif de renforcements d'équipement de qualité R pour la mise à jour de Siège ouvert,"200 000 Adena
+2 boîtes de sélection de vernis de qualité R
+5 boîtes de sélection de vernis de qualité S",
+30130021,Lot commémoratif de perfectionnement pour la mise à jour de Siège ouvert,"1 000 Diamants rouges
+50 Topazes
+5 Lots de Parchemins de perfectionnement
+3 Protection de Maphr",
+30110018,Pack de palier 1,Pack de palier 1 acheté.,
+30110019,Pack de palier 2,Pack de palier 2 acheté.,
+30110020,Pack de palier 3,Pack de palier 3 acheté.,
+30110021,Pack de palier 5,Pack de palier 5 acheté.,
+30110022,Pack de palier 10,Pack de palier 10 acheté.,
+30110023,Pack de palier 16,Pack de palier 16 acheté.,
+30110024,Pack de palier 20,Pack de palier 20 acheté.,
+30110025,Pack de palier 24,Pack de palier 24 acheté.,
+30110026,Pack de palier 30,Pack de palier 30 acheté.,
+30110027,Pack de palier 40,Pack de palier 40 acheté.,
+30110028,Pack de palier 45,Pack de palier 45 acheté.,
+30110029,Pack de palier 50,Pack de palier 50 acheté.,
+30110030,Pack de palier 54,Pack de palier 54 acheté.,
+30110031,Pack de palier 56,Pack de palier 56 acheté.,
+30110032,Pack de palier 58,Pack de palier 58 acheté.,
+30110033,Pack de palier 60,Pack de palier 60 acheté.,
+5022,10 Boîtes de renforcement de haute qualité (+1 bonus),"Divers matériaux de renforcement sont disponibles, tels que des Cristaux d'âme, des Parchemins bénis, des Essences d'élixir et des protections de Maphr !
+Obtenez différents matériaux de renforcement !",
+6002,Pierre d'amélioration d'arme,"Objet servant à
+améliorer une arme.",
+6003,Pierre d'amélioration d'armure,"Objet servant à
+améliorer une armure.",
+6004,Pierre d'amélioration d'accessoire,"Objet servant à
+améliorer un accessoire.",
+6005,Parchemin : Perfectionnement d’arme,"Parchemin servant à
+perfectionner une arme.",
+6006,Parchemin : Perfectionnement d’armure,"Parchemin servant à
+perfectionner une armure.",
+6007,Parch. : Perfectionnement d’accessoire,"Parchemin servant à
+perfectionner un accessoire.",
+6008,@3005,@3005,
+6015,Boite de sél. de Pierre d'invoc. de boss,Sert à sélectionner et à obtenir une Pierre d'invocation de boss.,
+6020,1 Boîte d'arme spéciale,"Obtenez une arme S - SR !
+De l'équipement rare peut être obtenu !",
+6021,1 Boîte d'armure spéciale,"Obtenez une armure (S - SR) !
+De l'équipement rare peut être obtenu !",
+6022,1 Boîte d'évolution spéciale,"Équipement (R - SR) ou Équipement rare (S - SR)
+disponibles !",
+8002,Diamant de connexion,"Obtenez immédiatement 600 Diamants rouges !
+Obtenez un total de 2 000 Diamants rouges et recevez des Runes, des Herbes et des Parchemins tous les jours !",
+30004243,Bénédiction d'Einhasad (+200 %),Sert à augmenter l'EXP de chasse sur terrain et l'EXP d'extraction de 200 %. (1 heure),
+30004244,1500 Traits d'âme,@4009,
+30004245,@10029,@10029,
+30004246,5 Parchemins d'évasion,@4101,
+30004247,15 Mégaphones,@4013,
+30004248,50 Pain frais,À utiliser dans la Salle du clan lors de la préparation de festins.,
+30004249,50 Légumes frais,@30004248,
+30004250,50 Viande juteuse,@30004248,
+30004251,Cœur de Barbe grise,"Cœur de monstre renfermant l'énergie de : Barbe grise.
+À enregistrer dans le codex de monstres pour augmenter vos stats.",
+30004252,Petite boîte de PC,"Cette petite boîte contient des PC.
+Sert à obtenir 100 PC.",
+30004253,Boîte de Parchemin de quête de qualité S,Sert à obtenir un Parchemin de quête de qualité S.,
+30004254,20 Potions de PV sup.,Restaure une grande quantité de PV.,
+30004255,20 Potions de PM sup.,Restaure une grande quantité de PM.,
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Lot d'herbes,"Cette boîte contient des herbes nécessaires pour fabriquer des élixirs.
+Sert à obtenir un exemplaire de chaque type d'herbe.",
+30004263,Boîte aléat. de C. d'âme de qual. A - S,Obtenez 1 boîte aléatoire de Cristal d'âme de qualité A - S.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Parchemins : Perfectionnement d'équipement de monture,Ce parchemin augmente les stats et perfectionne : Équipement de monture.,
+30004270,Boîte de sélection d'accessoire de qualité S,Sert à sélectionner et à obtenir un accessoire de qualité S de la liste.,
+30004271,Boîte de sélection de Page de Parchemin oublié 1,Sert à sélectionner et à obtenir une Page de Parchemin oublié de la liste.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Lot de renforcements de fêtes,"<Les objets listés ci-dessous sont disponibles !>
+500 000 Adena
+5 Boîtes de sélection de vernis de qualité R
+2 Boîtes de sélection de vernis de qualité SR
+15 Boîtes de sél. de P. d'amélioration",
+30004275,Lot spécial d'Adena 2018,"Accrochez-vous à vos chaussettes !
+2 018 000 Adena !",
+30005015,1 fois ! 10 Équip. HQ (+1 qualité R),"Obtenez un équipement (A - SR) !
+Au moins 1 équipement de qualité R ou supérieure garanti !",
+30005016,Boîte d'équipement de vacances rare,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 Potions de PV sup.,Restaure une grande quantité de PV.,
+30004282,100 Potions de PM sup.,Restaure une grande quantité de PM.,
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,10 Boîtes de collecte d'arme rare (+1 bonus),"[Pour une durée limitée seulement]
+Obtenez un équipement aléatoire de【qualité A - SR】
+Avec 1 200 Diamants bleus !
+Meilleure chance d'obtenir une arme rare !",
+39005007,10 Boîtes de collecte d'armure rare (+1 bonus),"[Pour une durée limitée seulement]
+Obtenez un équipement aléatoire de【qualité A - SR】
+Avec 1 200 Diamants bleus !
+Meilleure chance d'obtenir une armure rare !",
+39005008,10 Boîtes de collecte d'équipement d'attribut de boss (+1),"[Pour une durée limitée seulement] Vous pouvez obtenir des armes et armures de [qualité A - SR]
+De l'équipement avec des attributs utiles contre les boss !",
+39005009,10 Boîtes de collecte d'équipement d'attribut élite (+1),"[Pour une durée limitée seulement] Vous pouvez obtenir des armes et armures de [qualité A - SR]
+De l'équipement avec des attributs utiles contre les monstres élites !",
+39009000,@30110015,"1 000 Diamants bleus
+1 Boîte d'armure rare exclusive de qualité S
+1 000 Fragments de rune
+[Niveau requis pour l'achat : 16]",
+39009001,@30110016,"3 500 Diamants rouges
+1 Boîte de sélection d'équipement exclusif de qualité R
+1 Pierre d'attribut de qualité SR
+[Niveau requis pour l'achat : 44]",
+39009002,@30110017,"3 500 Diamants rouges
+1 Boîte de sélection d'accessoire de qualité R
+1 Pierre de revalorisation de qualité SR
+[Niveau requis pour l'achat : 73]",
+39009003,Lot d'aventurier élite,"2 000 Diamants rouges
+1 Pierre d'attribut de qualité SR
+3 Protections de Maphr
+[Niveau requis pour l'achat : 121]",
+39009004,Lot du noble aventurier,"2 000 Diamants rouges
+200 000 Adena
+1 Pierre de revalorisation de qualité SR
+1 Pierre d'attribut de qualité SR
+[Niveau requis pour l'achat : 151]",
+39009005,Lot de Pierres d'amélioration léger,"250 Diamants rouges
+25 000 Adena
+4 Boîtes de sélection de Pierres d'amélioration",
+39009006,Lot de Pierres d'amélioration,"1 500 Diamants rouges
+100 000 Adena
+20 Boîtes de sélection de Pierres d'amélioration",
+39009007,Lot de Pierres d'amélioration spécial,"3 300 Diamants rouges
+250 000 Adena
+40 Boîtes de sélection de Pierres d'amélioration",
+39009008,Lot de perfectionnement,"4 Parchemins de perfectionnement : arme
+4 Parchemins de perfectionnement : armure
+4 Parchemins de perfectionnement : accessoire
+1 Protection de Maphr
+15 Topazes",
+39009009,Lot de perfectionnement spécial,"15 Parchemins de perfectionnement : arme
+15 Parchemins de perfectionnement : armure
+15 Parchemins de perfectionnement : accessoire
+3 Protections de Maphr
+50 Topazes",
+39009010,Lot de Parchemins bénis léger,"150 Diamants rouges
+1 Parchemin béni : Boîte de sélection de perfectionnement
+20 Fragments de Protection de Maphr",
+39009011,Lot de Parchemins bénis,"1 000 Diamants rouges
+20 Topazes
+5 Parchemins bénis : Boîtes de sélection de perfectionnement
+1 Protection de Maphr",
+39009012,Lot de Parchemins bénis spécial,"2 000 Diamants rouges
+50 Topazes
+10 Parchemins bénis : Boîtes de sélection de perfectionnement
+2 Protections de Maphr",
+39009013,Lot de perfectionnement de monture,"300 000 Adena
+120 Pierres d'évolution
+10 Boîtes de vernis d'équipement de monture de qualité S
+10 Parchemins de perfectionnement de monture",
+30004325,Lot de perfectionnement léger,"50 000 Adena
+4 Parchemins de perfectionnement : arme
+4 Parchemins de perfectionnement : armure
+4 Parchemins de perfectionnement : accessoire
+20 Fragments de Protection de Maphr",
+30004326,Parchemin d'alchimie - Parchemin béni : arme,@30004108,
+30004327,Parchemin d'alchimie - Parchemin béni : armure,@30004109,
+30004328,Parchemin d'alchimie - Parchemin béni : accessoire,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,Boîte de sélection de vernis de qualité S,@30004218,
+30004334,Boîte de sélection de vernis de qualité R,@30004222,
+30004335,Boîte de sélection de vernis de qualité SR,@30004223,
+30004336,Boîte de sélection de Pierre d'amélioration,@30004201,
+30004337,Boîte de sélection de Parchemin de perfectionnement,@30004206,
+30004338,@3005,@3005,
+30004339,Énergie d'attribut,Obtenez 1 unité d'Énergie d'attribut.,
+30004340,Énergie de revalorisation,Obtenez 1 unité d'Énergie de revalorisation.,
+30004341,Lot de cristaux d'âme léger,"100 000 Adena
+3 Boîtes aléatoires de Cristal d'âme de qualité A",
+30004342,2 Cristaux d'âme d'ATQ de qualité B,@30004303,
+30004343,2 Cristaux d'âme de DÉF de qualité B,@30004304,
+30004344,2 Cristaux d'âme de PRÉ de qualité B,@30004307,
+30004345,2 Cristaux d'âme d'esquive de qualité B,@30004307,
+30004346,2 Cristaux d'âme de taux de CRIT de qualité B,@30004309,
+30004347,2 Cristaux d'âme de RÉSIST aux CRIT de qualité B,@30004306,
+30004348,2 Cristaux d'âme de PV de qualité B,@30004311,
+30004349,Lot de renforcement de monture léger,"50 000 Adena
+25 Pierres d'évolution
+2 Vernis d'équipement de monture de qualité S
+2 Parchemins de perfectionnement de monture",
+30004350,10 Fragments de Pierre d'invocation d'Ours noir,@30004111,
+30004351,10 Fragments de Pierre d'invocation de Saint argenté,@30004112,
+30004352,10 Fragments de Pierre d'invocation de Kukurin,@30004113,
+30004353,10 Pierres d'évolution,@30004126,
+30004354,Visière en acier de qualité A,Une visière très résistante pour monture.,
+30004355,Selle en acier de qualité A,Une selle très résistante pour monture.,
+30004356,Armure en acier de qualité A,Une armure très résistante pour monture.,
+30004357,Bottes en acier de qualité A,Des bottes très résistantes pour monture.,
+30004358,500 Fragments de rune,Sert à obtenir 500 Fragments de rune.,
+39009014,@39009010,"200 Diamants rouges
+50 000 Adena
+1 Parchemin béni : Boîte de sélection de perfectionnement
+5 Boîtes de sélection de Parchemin de perfectionnement",
+39006001,Lot I de célébration des 100 jours de Revolution,"50 Diamants rouges
+500 traits d'âme
+50 Potions de PV
+50 Potions de MP
+5 Boîtes de Pierre d'amélioration aléatoire",
+39006002,Lot II de célébration des 100 jours de Revolution,"100 Diamants bleus
+100 Pierres d'étoile rouges
+100 Potions de PV
+100 Potions de PM
+Boîte d'armure rare exclusive de qualité S",
+39006101,Boîte de sélection d'arme rare de célébration des 100 jours,À utiliser pour sélectionner une ou plusieurs armes rares de qualité S.,
+39006102,@3008,@3007,
+39006003,Lot spécial Lion velu à durée limitée,"1 Pierre d'invocation de Lion velu
+1 Corne-flûte de Lion velu
+500 Pierres d'évolution
+10 Parchemins de perfectionnement de monture
+500 000 Adena",
+39006004,Lot spécial Renforcement du printemps à durée limitée,"100 Diamants rouges
+1 Vernis d'armure blanc immaculé de qualité SR
+1 Vernis d'arme blanc immaculé de qualité SR",
+3016,Pierre d'invocation de Lion velu,1 Pierre d'invocation de Lion velu,
+30150005,Lot de perfectionnement de monture spécial,"1 000 Diamants rouges
+200 Pierres d'évolution
+20 Boîtes de Vernis d'équipement de monture de qualité S
+20 Parchemins de perfectionnement de monture
+1 Boîte de sélection de Pierre d'invocation de monture",
+30130022,Lot de cristaux d'âme spécial,"2 000 Diamants rouges
+200 000 Adena
+2 Boîtes de sélection de Cristal d'âme de qualité S
+10 Boîtes aléatoires de Cristal d'âme de qualité S - SR",
+39006103,Boîte sélec. d'armure rare de célébration des 100 jours,@39006101,
+30004359,@30004341,"200 Diamants rouges
+2 Boîtes de sélection de cristal d'âme de qualité A",
+38000100,Récompense de carte cadeau A,"400 Diamants rouges
+150 000 Adena
+3 Boîtes aléatoires de Parchemin de perfectionnement",
+38000200,Récompense de carte cadeau B,"800 Diamants rouges
+500 000 Adena
+10 Boîtes aléatoires de Parchemin de perfectionnement",
+9667,Avantages de quête quotidiens (28 jours),"1. Fonctionnalité Parchemin de quête auto.
+2. Fonctionnalité Quête hebdomadaire auto.
+3. 3 Boîtes de Parchemin de quête de qualité S fournies quotidiennement
+4. 1 200 Diamants rouges en cas d'achat",
+9668,Avantages de chasse quotidiens (28 jours),"1. Fonctionnalité de vente d'objet d'inventaire auto.
+2. Buff +20 % au taux d'apparition des objets
+3. Buff +20 % aux gains d'Adena
+4. 1 pillage auto. de donjon fourni quotidiennement
+5. 20 points de loyauté fournis quotidiennement
+6. 1 200 Diamants rouges en cas d'achat",
+30180001,Lot de soutien de compétence de clan,"[Récompense individuelle]
+1 500 [Diamants rouges]
+[Boîte de Page de Parchemin oublié aléatoire]
+[Boîte de sélection de Page de Parchemin oublié]
+[Récompense de membre de clan]
+1 [Pack comprimé de Trait d'âme]
+10 [PC]
+10 [Potions de PV sup.]",
+30180002,Lot de soutien de Renforcement de clan,"Récompense individuelle
+2 000 [Diamants rouges]
+5 [Boîtes de sélection de Parchemin béni]
+3 [Protections de Maphr]
+Récompense de membre de clan :
+2 [Boîtes de sélection de Parchemin de perfectionnement]
+5 [Fragments de Protection de Maphr]",
+30150006,Lot de lion velu,"1 [Pierre d'invocation de Lion velu]
+1 [Corne-flûte de lien de Lion velu]
+300 [Pierres d'évolution]
+10 [Boîte d’équipement de monture aléatoire de qualité A - S]
+200 000 [Adena]",
+39006005,Lot spécial d'armure rouge rare,"1 [Boîte de sélection d'armure égide de qualité SR]
+5 [Vernis d'armure de qualité SR]
+300 000 [Adena]
+5 [Parchemins bénis : Armure]",
+39006006,Lot d'armure de patience,"1 [Boîte de sélection d'armure de Patience de qualité SR]
+1 [Pierre d'attribut de qualité R]
+100 000 [Adena]
+2 [Parchemins bénis : Armure]",
+39006007,Lot d'armure de protection,"1 [Boîte de sélection d'armure de Protection de qualité SR]
+1 [Pierre d'attribut de qualité R]
+100 000 [Adena]
+2 [Parchemins bénis : Armure]",
+30130023,Lot de Broche de la Cape de Ranger sanguinaire,"1 [Broche de Cape de Ranger sanguinaire]
+100 [Fils de cape]",
+30130024,Lot de Broche de la Cape du jardin,"1 [Broche de Cape du jardin]
+30 [Fils de cape]",
+30130025,Lot de Protection de Maphr spécial,"10 [Protections de Maphr]
+10 [Lots de Parchemins de perfectionnement]
+30 [Topazes]",
+30130026,Lot de renforcement de Cape,"100 000 [Adena]
+50 [Fils de cape]
+5 [Éclats de la folie]
+5 [Larmes de Trisha]
+10 [Topaze]",
+30130027,Lot de renforcement de Cape spécial,"200 [Fils de cape]
+40 [Éclats de la folie]
+40 [Larmes de Trisha]",
+30004360,Lot de renforcement de Cape léger,"2 [Boîtes de sélection de matériau de renforcement de cape]
+50 000 [Adena]",
+30004361,Fil de cape,Matériau requis pour développer les capes.,
+30004362,Éclat de la folie,Matériau requis pour développer la Cape de la destruction rouge. Utilisez 1 000 éclats de la folie pour fabriquer une Broche de la Cape de la destruction rouge.,
+30004363,Larme de Trisha,Matériau requis pour développer la Cape du sang vertueux. Utilisez 1 000 éclats de la folie pour fabriquer une Broche de la Cape du sang vertueux.,
+30004364,Tissu magique,Matériau requis pour modifier les stats extra.,
+30004365,Tissu magique de la destruction,Matériau requis pour modifier les stats extra de la Cape de la destruction rouge.,
+30004366,Tissu magique de la vertu,Matériau requis pour modifier les stats extra de la Cape du sang vertueux.,
+30004367,Aiguille magique,Matériau requis pour conserver les stats extra.,
+3017,20 Éclats de la folie,@30004362,
+3018,20 Larmes de Trisha,@30004363,
+6023,80 Fils de cape,@30004361,
+39006008,Lot de Diamants rouges,4 000 Diamants rouges,
+39006009,Lot spécial de célébration de mise à jour,"10 [Pochettes spéciales de célébration de mise à jour]
+(Permet d’obtenir au hasard 1-10 Protections de Maphr ou Parchemins bénis.)
+1 000 Diamants bleus",
+39006010,Pochette spéciale de célébration de mise à jour,"1 [Pochette spéciale de célébration de mise à jour]
+(Permet d’obtenir au hasard 1-10 Protections de Maphr ou Parchemins bénis.)",
+39006011,Lot d'armure rouge rare,"1 [Boîte de sélection d'armure Égide de qualité SR]
+1 [Vernis d'armure de qualité SR]
+100 000 Adena
+1 [Parchemin béni : armure]",
+30014013,Boîte de sélection de vernis d'équipement de qualité S,Sert à sélectionner et à obtenir un vernis de qualité S.,
+30014014,Lot de Parchemins de perfectionnement,"Cette boîte contient des Parchemins de perfectionnement.
+Sert à obtenir un exemplaire de chaque type de Parchemin de perfectionnement.",
+30014015,@3005,"Cette gemme renferme la protection de Maphr, la déesse des terres.
+Cet objet protège le niveau de perfectionnement de votre équipement en cas de perfectionnement échoué.",
+30014016,Boîte de sélection de Pierre d'invocation de boss,Sert à sélectionner et à obtenir une Pierre d'invocation de boss.,
+30014017,50 Fils de cape,@30004361,
+30014018,@30004367,@30004364,
+30014019,Boîte de sélection de Parchemin béni,"Sert à sélectionner et à obtenir un des objets suivants : Parchemin béni : arme, Parchemin béni : armure ou Parchemin béni : accessoire.",
+30014020,@3008,@3007,
+30130028,Lot d'armure rare bleue de qualité S,@30130010,

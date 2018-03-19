@@ -1,0 +1,100 @@
+Id,ContentsDesc,Name
+1,Há vários jeitos de melhorar a eficácia do seu equipamento.,Forjar
+2,Imbua o poder de outras na sua arma para fazer ataques mais poderosos.,Disparo Anímico
+3,,Masmorra
+4,A cada dia da semana você encontra chefes e recompensas diferentes nas masmorras.,Masmorra diária
+5,A quantidade de recompensa aumenta com base em quanto você explorou Aden.,Conquista
+6,,Amigo
+8,"Adquira um equipamento de alto grau, grau A ou melhor, todos os dias.",Caixa de Equipamento alto grau
+10,Teste seu poder contra vários aventureiros em Aden.,Arena
+11,,Classificação
+12,Combine dois equipamentos para conseguir um de grau maior.,Combinar
+13,Use Pergaminhos de Aprimoramento para aumentar a eficácia do seu equipamento.,Aprimorar
+14,,Clã
+15,Suba numa torre infinita para testar seus limites.,Torre da Insolência
+16,Marque runas para aprimorar permanentemente suas habilidades.,Marcação de runa
+17,Aumente o grau do equipamento enquanto preserva a estética e os subatributos do mesmo.,Melhorar
+18,,Atividades diárias
+19,,Missões diárias
+20,,Missões semanais
+21,Crave uma gema com alma e ganhe uma habilidade especial.,Cristal Anímico
+22,"Entre numa masmorra extremamente perigosa, mas altamente recompensante.",Masmorra Elite
+23,,Ruínas Élficas 1º Andar
+24,Colete núcleos de monstros para conseguir várias recompensas.,Códice de monstros
+25,"Há várias habilidades poderosas que você pode usar, mesmo sendo difícil de adquiri-las.",Habilidade rara
+27,,Entreposto Comercial
+28,Beba elixires para aprimorar permanentemente suas habilidades.,Elixir
+29,Aqui você pode extrair ervas para fabricar elixires.,Masmorra de extração
+30,Encontre inimigos perto de você para guerrear automaticamente.,Batalha automática
+40,Este é o título.,Título
+101,,Masmorra diária (normal)
+102,,Ruínas Élficas 2º Andar
+103,,Transferência de classe
+104,,Masmorra diária (difícil)
+105,,Formigueiro Catacumba 1
+106,,Formigueiro Catacumba 2
+107,,Masmorra diária (dificílima)
+108,,Torre de Cruma 2º Andar
+109,,Torre de Cruma 3º Andar
+110,,Torre de Marfim Catacumba 1
+111,,Torre de Marfim Catacumba 2
+112,Derrote hordas de monstros e ganhe grandes quantidades de Exp.,Masmorra de experiência
+113,Derrote o dragão protegendo o ouro e obtenha grande quantidade de adena.,Masmorra de adena
+114,Proteja o templo contra as forças o mal e ganhe equipamentos.,Guardião do Templo
+115,,Círculo de Invocação
+116,,Masmorra de clã de Varkaron
+117,,Masmorra de clã da Formiga Rainha
+118,,Cerco à Fortaleza
+119,,Cerco ao Castelo
+120,Evolua suas habilidades para aumentar seu efeito.,Subir nível da habilidade
+121,Destrua o portão dimensional protegido pelos monstros.,Masmorra de Pedra de Refino
+122,,Inventário
+123,,Núcleo de Cruma
+126,,Sede do Clã
+127,,Torre de Marfim Catacumba 3
+129,,Montaria
+130,,Campo de Batalha da Coragem
+131,,Campo de batalha antigo
+132,,Cobertura da Floresta dos Segredos
+133,,Laboratório da Catacumba da Torre de Marfim
+134,,Sub-bosque da Floresta dos Segredos
+135,,Matadouro da Floresta dos Segredos
+137,,Capa
+138,,Cerco Aberto
+10000,Não é possível usar este recurso.,Personagem
+10003,@10000,Classe
+10006,@10000,Oficina
+10007,@10000,Missão
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Evento
+10013,@10000,Recompensa de recesso
+10014,@10000,Recompensa de login
+10015,@10000,Festival de Cerco ao Castelo
+10016,@10000,Evento da web
+10017,@10000,Loja comum
+10018,@10000,Loja de diamantes
+10019,@10000,Não foi possível
+10021,@10000,Campo de batalha
+10022,@10000,@14
+10023,@10000,Masmorra de clã
+10029,@10000,Vender item
+10030,@10000,Usar item
+10031,@10000,Mover item
+10032,@10000,Pergaminho Esquecido
+10034,@10000,Evoluir equipamento de montaria
+10035,@10000,Evocar montaria
+10036,@10000,Evoluir montaria
+10037,@10000,Detalhes do subatributo
+10038,@10000,Fórum da comunidade
+10039,@10000,Aprimorar montaria
+20001,,Altar da Loucura
+20002,,Quarto da Condessa de Sangue
+401,@10000,Loja de maestria
+10040,@10000,Conta do subatributo
+301,,@122
+303,,@122
+30000,,Pergaminho de Missão
+30102,Use para evocar monstros do território selecionado e obter seus núcleos.,Território de Gludio - Pedra de Evocação de Monstro
+30103,Use para evocar monstros do território selecionado e obter seus núcleos.,Território de Dion - Pedra de Evocação de Monstro
+30104,Use para evocar monstros do território selecionado e obter seus núcleos.,Território de Giran - Pedra de Evocação de Monstro

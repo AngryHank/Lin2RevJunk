@@ -1,4 +1,4 @@
-Id,BossNpcInfoId,TrophyItemInfoId,TrophyQuestInfoId,TrophyBuffInfoId,NoticeNpcNameKey,NoticeNpcTexture,NoticeString,NoticeVoice,DelayTime,NpcSpawnGroupId,ReaderNpcSpawnId,GuardNpcSpawnGroupId,EventDuration,ThemeBgmInfoId,AdditionalSubLevelName
-1,21399,2000,21000100,910250,10010000,Hardin,TOWN_BUFF_NOTICE_CHAT,Dialogue_Magnadin_Buff_01,300,21001,21001060,21002,600,83,
-2,991,2010,21000200,,0,,,,,,,,,,
-3,992,2020,21000201,,0,,,,,,,,,,
+Id,BossNpcInfoId,TrophyItemInfoId,TrophyQuestInfoId,TrophyBuffInfoId,NoticeNpcNameKey,NoticeNpcTexture,NoticeString,NoticeVoice,DelayTime,NpcSpawnGroupId,EventDuration,ThemeBgmInfoId,AdditionalSubLevelName
+1,21399,2000,21000100,910250,10010000,Hardin,TOWN_BUFF_NOTICE_CHAT,Dialogue_Magnadin_Buff_01,300,21001,600,83,
+2,991,2010,21000200,,0,,,,,,,,
+3,992,2020,21000201,,0,,,,,,,,

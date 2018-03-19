@@ -1,0 +1,136 @@
+Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
+1,Isola Parlante Est,{ReplaceString1} - Ricognizione,Isola Parlante Est,Uccidi {ReplaceString2} mostro/i,Sconfiggi {TaskCount} mostro/i sull’Isola Parlante Est.
+2,Isola Parlante Ovest,@1,Isola Parlante Ovest,@1,Sconfiggi {TaskCount} mostro/i sull’Isola Parlante Ovest.
+3,Strada Gludin,@1,Strada Gludin,@1,Sconfiggi {TaskCount} mostro/i nella Strada di Gludin.
+4,Piane di Gludio,@1,Piane di Gludio,@1,Sconfiggi {TaskCount} mostro/i nelle Piane di Gludio.
+5,Maniero Windawood,@1,Maniero Windawood,@1,Sconfiggi {TaskCount} mostro/i nel Maniero Windawood.
+6,Terra Incolta,@1,Terra Incolta,@1,Sconfiggi {TaskCount} mostro/i nella Terra Incolta.
+7,Piane di Dion,@1,Piane di Dion,@1,Sconfiggi {TaskCount} mostro/i nelle Piane di Dion.
+8,Palude di Cruma,@1,Palude di Cruma,@1,Sconfiggi {TaskCount} mostro/i nella Palude di Cruma.
+9,Sommità della Dissonanza,@1,Sommità della Dissonanza,@1,Sconfiggi {TaskCount} mostro/i nella Sommità della Dissonanza.
+10,Santi Urlanti,@1,Santi Urlanti,@1,Sconfiggi {TaskCount} mostro/i ai Santi Urlanti.
+11,Dominio di Giran,@1,Dominio di Giran,@1,Sconfiggi {TaskCount} mostro/i nel Dominio di Giran.
+12,Rive della Nebbia Mortale,@1,Rive della Nebbia Mortale,@1,Sconfiggi {TaskCount} mostro/i nelle Rive della Nebbia Mortale.
+13,Isola del Diavolo,@1,Isola del Diavolo,@1,Sconfiggi {TaskCount} mostro/i nell’Isola del Diavolo.
+14,@13,@1,@13,@1,@13
+15,Necropoli Infestata,@1,Necropoli Infestata,@1,Sconfiggi {TaskCount} mostro/i nella Necropoli Infestata.
+16,@15,@1,@15,@1,@15
+101,Rovine Elfiche 1,Completamento automatico {ReplaceString1},Rovine Elfiche 1,@1,Sconfiggi {TaskCount} mostro/i nelle Rovine Elfiche 1.
+102,Rovine Elfiche 2,@101,Rovine Elfiche 2,@1,Sconfiggi {TaskCount} mostro/i nelle Rovine Elfiche 2.
+103,Nido di Formiche 1,@101,Nido di Formiche 1,@1,Sconfiggi {TaskCount} mostro/i nel Nido di Formiche 1.
+104,Nido di Formiche 2,@101,Nido di Formiche 2,@1,Sconfiggi {TaskCount} mostro/i nel Nido di Formiche 2.
+105,Torre di Cruma 2,@101,Torre di Cruma 2,@1,Sconfiggi {TaskCount} mostro/i nella Torre di Cruma 2.
+106,Torre di Cruma 3,@101,Torre di Cruma 3,@1,Sconfiggi {TaskCount} mostro/i nella Torre di Cruma 3.
+107,Torre d’Avorio 1,@101,Torre d’Avorio 1,@1,Sconfiggi {TaskCount} mostro/i nella Torre d’Avorio 1° piano - Catacomba.
+108,@107,@101,@107,@1,@107
+109,Torre d’Avorio 2,@101,Torre d’Avorio 2,@1,Sconfiggi {TaskCount} mostro/i nella Torre d’Avorio 2° piano - Catacomba
+110,@109,@101,@109,@1,@109
+111,Completa Torre d’Avorio 3,@101,Completa Torre d’Avorio 3,@1,Sconfiggi {TaskCount} mostro/i nella Torre d’Avorio 3° piano - Catacomba.
+112,@111,@101,@111,@1,@111
+201,Santuario dei Ricordi Perduti,{ReplaceString1} - Esplorazione,Segreta giornaliera,@1,Sconfiggi {TaskCount} mostro/i nella Segreta giornaliera.
+202,@201,@201,@201,@1,@201
+203,Segreta di Estrazione,@201,Segreta di Estrazione,@1,Sconfiggi {TaskCount} mostro/i nella Segreta di Estrazione.
+204,@203,@201,@203,@1,@203
+205,Tempio dell’Acqua,Proteggi {ReplaceString1},Tempio Guardiano,@1,Sconfiggi {TaskCount} mostro/i nel Tempio Guardiano.
+206,@205,@205,@205,@1,@205
+207,Cassaforte di Kresous,{ReplaceString1} - Scossa,Segreta di Adena,@1,Sconfiggi {TaskCount} mostro/i nella Segreta di Adena.
+208,@207,@207,@207,@1,@207
+209,Spaccatura dell’Oltretomba,{ReplaceString1} - Conquista,Segreta Esp.,@1,Sconfiggi {TaskCount} mostro/i nella Segreta Esp.
+210,@209,@209,@209,@1,@209
+211,Ingresso sigillato,@201,Cerchio di Evocazione,@1,Sconfiggi {TaskCount} mostro/i nel Cerchio di Evocazione.
+212,@211,@201,@211,@1,@211
+301,Pietra di Evocazione Malvagia (Rara),Purifica {ReplaceString1},Pietra di evocazione Mostro Raro,@1,Sconfiggi {TaskCount} mostro/i nella Segreta usando una Pietra di Evocazione Mostro Raro.
+302,@301,@301,@301,@1,@301
+303,Pietra di Evocazione Malvagia (Boss),@301,Pietra di Evocazione Boss,@1,Sconfiggi {TaskCount} mostro/i nella Segreta usando una Pietra di Evocazione Boss.
+351,,Macellaio,,Uccisioni,GK un altro giocatore {TaskCount} volta/e.
+352,,@351,,@351,@351
+401,Pastore dello Spirito,Sconfiggi {ReplaceString1},@2,Uccidi {ReplaceString2} boss,Sconfiggi il Pastore dello Spirito dell’Isola Parlante Ovest {TaskCount} volta/e.
+402,Zodiac,@401,@3,@401,Sconfiggi Zodiac della Strada di Gludin {TaskCount} volta/e.
+403,Barba d’argento,@401,@4,@401,Sconfiggi Barba d’argento delle Piane di Gludio {TaskCount} volta/e.
+404,Vapar,@401,@5,@401,Sconfiggi Vapar del Maniero Windawood {TaskCount} volta/e.
+405,Kazir,@401,@6,@401,Sconfiggi Kazir della Terra Incolta {TaskCount} volta/e.
+406,Flagon,@401,@7,@401,"Sconfiggi Flagon, boss delle Piane di Dion {TaskCount} volta/e"
+407,Sina,@401,@8,@401,Sconfiggi Sina della Palude di Cruma {TaskCount} volta/e.
+408,Amadeus,@401,@9,@401,Sconfiggi Amadeus della Sommità della Dissonanza {TaskCount} volta/e.
+409,Stenoa,@401,@11,@401,Sconfiggi Stenoa del Dominio di Giran {TaskCount} volta/e.
+1001,,"Impegnato, impegnato ogni giorno",Quest giornaliere,Esegui {ReplaceString2},Completa una Quest giornaliera {TaskCount} volta/e.
+1002,,"Impegnato, impegnato ogni settimana",Quest settimanali,@1001,Completa una Quest settimanale {TaskCount} volta/e.
+1011,,Fornendo Adena tramite Pergamene,C,Completa una Pergamena della Quest di Grado {ReplaceString2} o superiore,Completa una Pergamena della Quest di Grado C o superiore {TaskCount} volta/e.
+1012,,@1011,B,@1011,Completa una Pergamena della Quest di Grado B o superiore {TaskCount} volta/e.
+1013,,@1011,A,@1011,Completa una Pergamena della Quest di Grado A o superiore {TaskCount} volta/e.
+1014,,@1011,S,@1011,Completa una Pergamena della Quest di Grado S o superiore {TaskCount} volta/e.
+1031,,Colpisci ancora e ancora,,Ottieni Combo,Ottieni {TaskCount} combo con attacchi consecutivi.
+1032,,Attacco Opprimente,,Dan. mas. Att. Sing.,Infliggi {TaskCount}000000 danni o superiore con un singolo colpo.
+1101,Mostro,{ReplaceString1} - Macellaio,Mostro normale,Uccidi {ReplaceString2},Sconfiggi {TaskCount} mostro/i.
+1102,Mostro élite,@1101,Mostro élite,@1101,Sconfiggi {TaskCount} mostro/i élite.
+1103,Boss,@1101,Boss,@1101,Sconfiggi {TaskCount} boss.
+1104,,Passaggio di Classe Amico segreto,Kyrios,@1101,Sconfiggi Kyrios {TaskCount} volta/e.
+1105,,Sentinella del Giardino,Sentinella del Giardino,@1101,Sconfiggi Sentinella del Giardino nella Segreta di Estrazione {TaskCount} volta/e.
+1106,@203,Pazzi per {ReplaceString1} ,Mandragora,@1101,Sconfiggi Mandagora {TaskCount} volta/e nella Segreta di Estrazione.
+1107,Bronzo,{ReplaceString1} - Segreta di Estrazione,Ratel Vigoroso Verde,@1101,Sconfiggi Ratele Vigoroso Verde nella Segreta di Estrazione {TaskCount} volta/e.
+1108,Argento,@1107,Ratel Vigoroso Argento,@1101,Sconfiggi Ratel Vigoroso Argento nella Segreta di Estrazione {TaskCount} volta/e.
+1109,Oro,@1107,Ratel Vigoroso d’Oro,@1101,Sconfiggi Ratele Vigoroso d’Oro nella Segreta di Estrazione {TaskCount} volta/e.
+1151,Sconfiggi Varkaron,Preparati a {ReplaceString1},Mostro nella Segreta del Clan (Varkaron),@1101,Sconfiggi {TaskCount} mostro/i nella Segreta del clan (Varkaron).
+1152,Sconfiggi la Formica Regina,@1151,Mostro nella Segreta del Clan (Formica Regina),@1101,Sconfiggi {TaskCount} mostro/i nella Segreta del clan (Formica Regina).
+1153,Sconfiggi l’Essenza di Cruma,@1151,Mostro nella Segreta del Clan (Essenza di Cruma),@1101,Sconfiggi {TaskCount} mostro/i nella Segreta del clan (Essenza di Cruma).
+1201,Arena,{ReplaceString1} - Tour,,Partecipa all’Arena,Partecipa all’Arena {TaskCount} volta/e.
+1202,@1201,@209,,Vinci nell’Arena,Vinci nell’Arena {TaskCount} volta/e.
+1203,@1201,Sequenza di vittorie {ReplaceString1},,Vinci cons. in Arena,Vinci {TaskCondition} combattimenti consecutivi nell’Arena.
+1301,Segreta giornaliera,@209,Difficile o superiore,Comp. Seg. Gior. ({ReplaceString2}),Completa Segreta giornaliera (difficile o superiore) {TaskCount} volta/e.
+1303,,Verso il cielo,,Comp. Torre Insol.,Completa automaticamente la Torre dell’Insolenza {TaskCount} volta/e.
+1304,,Re dell’Erba,,Raccogli erbe nella Segreta di Estrazione,Raccogli {TaskCount} erba/e nella Segreta di Estrazione.
+1306,@207,{ReplaceString1} - Maestro,@1301,Completa Segreta di Adena ({ReplaceString2}) con SS o più,"Completa Segreta di Adena (Difficile) {TaskCount} volta/e
+con SS o più."
+1307,@207,@1106,,Fai Combo Seg. Adena,Effettua {TaskCondition} Combo nella Sala del Tesoro di Adena.
+1308,@209,@209,@1301,Completa Segreta Esp. ({ReplaceString2}) con SSS o più,"Completa Segreta Esp. (Difficile o superiore)
+{TaskCount} volta/e con SSS."
+1401,Signore oscuro,@401,Varkaron (Facile),@1101,Sconfiggi le Vestigia di Varkaron (facile) {TaskCount} volta/e.
+1402,@1401,@401,Varkaron (Normale),@1101,Sconfiggi le Vestigia di Varkaron (normale) {TaskCount} volta/e.
+1403,@1401,@401,Varkaron (Difficile),@1101,Sconfiggi le Vestigia di Varkaron (difficile) {TaskCount} volta/e.
+1411,Madrina della Colonia,@401,Formica Regina (Facile),@1101,Sconfiggi la Grotta della Formica Regina (facile) {TaskCount} volta/e.
+1412,@1411,@401,Formica Regina (Normale),@1101,Sconfiggi la Grotta della Formica Regina (normale) {TaskCount} volta/e.
+1413,@1411,@401,Formica Regina (Difficile),@1101,Sconfiggi la Grotta della Formica Regina (difficile) {TaskCount} volta/e.
+1421,Controlla-mente,@401,Essenza di Cruma (Facile),@1101,Sconfiggi la Stanza dell’Essenza di Cruma (facile) {TaskCount} volta/e.
+1422,@1421,@401,Essenza di Cruma (Normale),@1101,Sconfiggi la Stanza dell’Essenza di Cruma (normale) {TaskCount} volta/e.
+1423,@1421,@401,Essenza di Cruma (Difficile),@1101,Sconfiggi la Stanza dell’Essenza di Cruma (difficile) {TaskCount} volta/e.
+1501,,Adoro imprimere Rune,,Prova imprimere Rune,Prova a imprimere Rune {TaskCount} volta/e.
+1502,,Non c’è cosa migliore che imprimere Rune,,Imprimi Runa con successo,Imprimi Rune con successo {TaskCount} volta/e.
+1511,,Non c’è cosa migliore degli Elisir,,Crea Elisir,Crea {TaskCount} Elisir.
+1521,,Taccagno,Adena,Acquisisci {ReplaceString2},Acquisisci {TaskCount} Adena.
+1522,Clan,Per {ReplaceString1},Prova di sangue,@1521,Acquisisci {TaskCount} Prova/e di Sangue.
+1523,Segreta del Clan,@1522,Pietrastella Rossa,@1521,Acquisisci {TaskCount} Pietrestella rosse.
+1524,Essenza di Mostro,@1106,Essenza di Mostro,@1521,Acquisisci {TaskCount} Essenza/e di Mostro.
+1525,Cristallo dell’Anima,@1106,Cristallo dell’Anima,@1521,Acquisisci {TaskCount} Cristallo/i dell’Anima.
+1527,C,Grado {ReplaceString1} Oggetto Mania,@1011,Acqui. ogg. Gr. {ReplaceString2},Acquisisci {TaskCount} oggetto/i di Grado C.
+1528,B,@1527,@1012,@1527,Acquisisci {TaskCount} oggetto/i di grado B.
+1529,A,@1527,@1013,@1527,Acquisisci {TaskCount} oggetto/i di grado A.
+1530,Grado alto Extra,{ReplaceString1} Oggetto Mania,@1014,Acqui. ogg. Gr. {ReplaceString2} o +,Acquisisci {TaskCount} oggetto/i di Grado S o superiore.
+1551,Equipaggiamento,@1106,Equipaggiamento,Acqui. {ReplaceString2} ogg.,Acquisisci {TaskCount} oggetto/i di equipaggiamento.
+1552,Equi.,@1106,Equi.,@1551,Acquisisci {TaskCount} oggetto/i di Equipaggiamento Cavalcatura.
+1601,,Basi del rinforzo dell’equipaggiamento,@1551,Tenta aum. liv. {ReplaceString2},Tenta di aumentare di livello l’Equipaggiamento {TaskCount} o più volte.
+1602,,L’Equipaggiamento Cavalcatura è importante,@1552,@1601,Tenta di aumentare di livello l’Equipaggiamento Cavalcatura {TaskCount} o più volte.
+1603,,Come rinforzare l’Equipaggiamento,Upgrade,Tenta {ReplaceString2} su equi.,Tenta di potenziare l’upgrade dell’equipaggiamento {TaskCount} volta/e.
+1604,,Per l’Equipaggiamento che vuoi,Combina,@1603,Prova a combinare equipaggiamento {TaskCount} o più volte.
+1605,,Potenzia con Mano salda,Potenzia,@1603,Prova a potenziare l’equipaggiamento {TaskCount} o più volte.
+1606,,Potenzia con Nervi saldi,Potenzia con successo l’equipaggiamento,{ReplaceString2},Potenzia con successo l’equipaggiamento {TaskCount} o più volte.
+1607,,Potenziamento degli Attributi sopra ogni cosa,Pot. Attributi,@1603,Tenta di potenziare gli attributi {TaskCount} volta/e.
+1608,,Le sottostatistiche sono qualcosa in più,Cambia,@1603,Tenta di modificare le sottostatistiche {TaskCount} volta/e.
+1609,,Non ci sono limiti,Superamento limite,@1603,Tenta superare il limite dell’equipaggiamento {TaskCount} volta/e.
+1801,,"Più forte, più veloce",Colpo d’Anima,Usa {ReplaceString2},Usa {TaskCount} Colpo/i d’Anima.
+1802,Salute,@1522,Pozione PS,@1801,Usa {TaskCount} Pozione/i PS.
+1803,@1802,@1522,Pozione PM,@1801,Usa {TaskCount} Pozione/i PM.
+1804,Il Mondo di Aden,La crescita di {ReplaceString1},@1521,@1801,Usa {TaskCount} Adena.
+1805,@1804,Il progresso di {ReplaceString1},Diamante rosso,@1801,Usa {TaskCount} Diamante/i rosso/i.
+1806,@1804,La gloria di {ReplaceString1},Diamante blu,@1801,Usa {TaskCount} Diamante/i blu.
+1807,,Potenzia con un Tocco deciso,@1605,@1603,Prova a potenziare l’equipaggiamento {TaskCount} volta/e.
+1901,@1522,@1522,,Acquisisci Punti Contributo del Clan,Acquisisci {TaskCount} Punti Contributo del Clan.
+1902,,Membro gentile del clan,,Saluta membro Clan,Saluta i membri del tuo clan {TaskCount} volte.
+1903,,Miglior Donatore,,Donazione al clan,Dona {TaskCount} volta/e al clan.
+1904,@1522,@1804,@1521,Dona {ReplaceString2} al Clan,Dona {TaskCount} Adena al clan.
+1905,@1522,@1805,@1522,@1904,Dona {TaskCount} Prova/e di sangue al clan.
+1906,@1522,@1806,@1523,@1904,Dona {TaskCount} Pietrestella rosse al clan.
+9015,,"Non è molto, ma goditelo",Banchetto piccolo,Prepara uno/a {ReplaceString2} nella Sala del Clan,Prepara {TaskCount} Banchetto/i Piccolo/i nella Sala del Clan.
+9016,,Metti in mostra le tue doti culinarie,Banchetto medio,@9015,Prepara {TaskCount} Banchetto/i Medio/i nella Sala del Clan.
+9017,,Stasera banchettiamo!,Banchetto grande,@9015,Prepara {TaskCount} Banchetto/i Grande/i nella Sala del Clan.
+9018,,Potere della Tigre,,Crea Poz. nella S. Clan,Crea {TaskCount} Pozione/i Personale/i nella Sala del Clan.
+9019,,Re delle Reliquie,,Valuta una Reliquia nella Sala del Clan,Valuta {TaskCount} Reliquia/e nella Sala del Clan.

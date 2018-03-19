@@ -1,0 +1,241 @@
+Id,Name,Desc
+1,Conquista Rovine Elfiche 1.,Sconfiggi {TaskCount} Licantropo/i.
+2,@1,@1
+3,@1,@1
+4,@1,Sconfiggi {TaskCount} Desmodus.
+5,@1,@4
+6,@1,@4
+7,@1,Sconfiggi Ala d’orrore {TaskCount} volta/e.
+8,@1,Sconfiggi Ryukaon {TaskCount} volta/e.
+9,@1,Sconfiggi Arachne {TaskCount} volta/e.
+10,@1,Acquisisci {TaskCount} Essenza/e di Mostro.
+11,@1,@10
+12,@1,Sconfiggi {TaskCount} mostro/i della segreta.
+13,@1,@12
+14,Conquista Rovine Elfiche 2.,Sconfiggi {TaskCount} Berserker Spartoi.
+15,@14,Sconfiggi {TaskCount} Pattuglia/e Spartoi.
+16,@14,Sconfiggi {TaskCount} Tenaglia/e Eremita.
+17,@14,Sconfiggi {TaskCount} Ragno/i zanna eremita.
+18,@14,Sconfiggi {TaskCount} Cacciatore/i Spartoi.
+19,@14,Sconfiggi {TaskCount} Aggressore/i Spartoi.
+20,@14,@14
+21,@14,@15
+22,@14,@16
+23,@14,@17
+24,@14,@18
+25,@14,@19
+26,@14,Sconfiggi Maniskull {TaskCount} volta/e.
+27,@14,Sconfiggi Felix {TaskCount} volta/e.
+28,@14,Sconfiggi Osservatore di Morte {TaskCount} volta/e.
+29,@14,Sconfiggi Necross {TaskCount} volta/e.
+30,@14,@10
+31,@14,@10
+32,@14,@10
+33,@14,@12
+34,@14,@12
+35,@14,@12
+36,Conquista Nido di Formiche 1.,Sconfiggi {TaskCount} Larva/e di Formica Soldato.
+37,@36,Sconfiggi {TaskCount} Larva/e di Formica Operaia.
+38,@36,Sconfiggi {TaskCount} Formica/che Operaia/e.
+39,@36,Sconfiggi {TaskCount} Formica/che Soldato.
+40,@36,@36
+41,@36,@37
+42,@36,@38
+43,@36,Sconfiggi Reaver {TaskCount} volta/e.
+44,@36,Sconfiggi Capomastro del Nido di Formiche {TaskCount} volta/e.
+45,@36,@10
+46,@36,@10
+47,@36,@10
+48,@36,@12
+49,@36,@12
+50,@36,@12
+51,Conquista Nido di Formiche 2.,Sconfiggi {TaskCount} Larva/e di Formica.
+52,@51,Sconfiggi {TaskCount} Supervisore/i Formica Operaia.
+53,@51,Sconfiggi {TaskCount} Recluta/e Formica Operaia.
+54,@51,@51
+55,@51,@52
+56,@51,@53
+57,@51,Sconfiggi Guardia Reale del Nido di Formiche {TaskCount} volta/e.
+58,@51,Sconfiggi Custode del Terreno generatore {TaskCount} volta/e.
+59,@51,@10
+60,@51,@10
+61,@51,@10
+62,@51,@12
+63,@51,@12
+64,@51,@12
+65,Conquista Torre di Cruma 2.,Sconfiggi {TaskCount} Servo/i di Mordeo.
+66,@65,Sconfiggi {TaskCount} Excuro.
+67,@65,Sconfiggi {TaskCount} Porta.
+68,@65,Sconfiggi {TaskCount} Sommo/i Excuro.
+69,@65,Sconfiggi {TaskCount} Guardia/e di Mordeo.
+70,@65,Sconfiggi {TaskCount} Porta legato/i.
+71,@65,Sconfiggi Mistica {TaskCount} volta/e.
+72,@65,Sconfiggi Stelos {TaskCount} volta/e.
+73,@65,Sconfiggi Maestro Mordeo {TaskCount} volta/e.
+74,@65,Sconfiggi Serbo Prime {TaskCount} volta/e.
+75,@65,@10
+76,@65,@10
+77,@65,@10
+78,@65,@10
+79,@65,@10
+80,@65,@10
+81,@65,@12
+82,@65,@12
+83,@65,@12
+84,@65,@12
+85,@65,@12
+86,@65,@12
+87,Conquista Torre di Cruma 3.,Sconfiggi {TaskCount} Guardia/e Validus.
+88,@87,Sconfiggi {TaskCount} Pattuglia/e Validus.
+89,@87,Sconfiggi {TaskCount} Suscettore/i Gustos.
+90,@87,Sconfiggi {TaskCount} Suscettore/i Kusion.
+91,@87,Sconfiggi {TaskCount} Meforde.
+92,@87,@87
+93,@87,@88
+94,@87,@89
+95,@87,@90
+96,@87,@91
+97,@87,Sconfiggi Greezo {TaskCount} volta/e.
+98,@87,Sconfiggi Julius {TaskCount} volta/e.
+99,@87,Sconfiggi Magnus {TaskCount} volta/e.
+100,@87,@10
+101,@87,@10
+102,@87,@10
+103,@87,@12
+104,@87,@12
+105,@87,@12
+107,Conquista Torre d’Avorio 1.,Sconfiggi Sanguisuga sotterranea {TaskCount} volta/e.
+108,@107,Sconfiggi Fungo viandante corrotto {TaskCount} volta/e.
+109,@107,@107
+110,@107,@108
+111,@107,Sconfiggi Mesheemp {TaskCount} volta/e.
+112,@107,Sconfiggi Corepio {TaskCount} volta/e.
+113,@107,Sconfiggi Preta {TaskCount} volta/e.
+114,@107,@10
+115,@107,@10
+116,@107,@10
+117,@107,@12
+118,@107,@12
+119,@107,@12
+120,Conquista Torre d’Avorio 2.,Sconfiggi Medusa della Palude {TaskCount} volta/e.
+121,@120,Sconfiggi Medusa della Grotta {TaskCount} volta/e.
+122,@120,Sconfiggi Soldato Stakato {TaskCount} volta/e.
+123,@120,Sconfiggi Soldato d’Assalto Stakato {TaskCount} volta/e.
+124,@120,@120
+125,@120,@121
+126,@120,@122
+127,@120,@123
+128,@120,Sconfiggi Vulture {TaskCount} volta/e.
+129,@120,Sconfiggi Gargu {TaskCount} volta/e.
+130,@120,Sconfiggi Morpheus {TaskCount} volta/e.
+131,@120,@10
+132,@120,@10
+133,@120,@10
+134,@120,@12
+135,@120,@12
+136,Conquista Torre d’Avorio 3.,Sconfiggi Soldato d’Assalto Scheletro {TaskCount} volta/e.
+137,@136,Sconfiggi la Soprano Anima del Coro dell'Ombra {TaskCount} volta/e.
+138,@136,Sconfiggi la Soprano Oscura del Coro dell'Ombra {TaskCount} volta/e.
+139,@136,@136
+140,@136,@137
+141,@136,@138
+142,@136,Sconfiggi Cacciatore di crani {TaskCount} volta/e.
+143,@136,Sconfiggi Creatus {TaskCount} volta/e.
+144,@136,Sconfiggi Tempesta di sabbia {TaskCount} volta/e.
+145,@136,@10
+146,@136,@10
+147,@136,@10
+148,@136,@12
+149,@136,@12
+150,Conquista il Laboratorio della Torre d’Avorio,Sconfiggi {TaskCount} Suddito/i Perverso/i
+151,@150,Sconfiggi {TaskCount} Golem Incontrollabile/i
+152,@150,Sconfiggi {TaskCount} Suddito/i Legato/i
+153,@150,Sconfiggi {TaskCount} Golem Malfunzionante/i Mecha.
+154,@150,Sconfiggi {TaskCount} Apprendista/i Irrequieto/i.
+155,@150,Sconfiggi {TaskCount} Stregone/i Irrequieto/i.
+156,@150,Sconfiggi {TaskCount} Investigatore/i della Confraternita Oscura.
+157,@150,Sconfiggi {TaskCount} Guardiano/i della Confraternita Oscura.
+158,@150,Sconfiggi {TaskCount} Ricercatore/i della Confraternita Oscura.
+159,@150,Sconfiggi {TaskCount} Assistente/i Perverso/i.
+160,@150,Sconfiggi {TaskCount} Basilisco/chi del Sottosuolo.
+161,@150,Sconfiggi Adolf {TaskCount} volta/e.
+162,@150,Sconfiggi Genos {TaskCount} time(s).
+163,@150,Sconfiggi Alexander {TaskCount} volta/e.
+164,@150,Sconfiggi Trasos {TaskCount} volta/e.
+165,@150,Sconfiggi Barbara {TaskCount} volta/e.
+166,@150,Sconfiggi Amos {TaskCount} volta/e.
+167,@150,Sconfiggi Enclema {TaskCount} volta/e.
+168,@150,Sconfiggi Kloud {TaskCount} volta/e.
+169,@150,Sconfiggi Sophos {TaskCount} volta/e.
+170,@150,Sconfiggi Edwin {TaskCount} volta/e.
+171,@150,Sconfiggi Enas {TaskCount} volta/e.
+172,@150,@10
+173,@150,@10
+174,@150,@10
+175,@150,@10
+176,@150,@10
+177,@150,@10
+178,@150,@10
+179,@150,@10
+180,@150,@10
+181,@150,@10
+182,@150,@10
+184,@150,@12
+185,@150,@12
+186,@150,@12
+187,@150,@12
+188,@150,@12
+189,@150,@12
+190,@150,@12
+191,@150,@12
+192,@150,@12
+193,@150,@12
+194,@150,@12
+195,Conquista la Volta della Foresta dei Segreti.,Sconfiggi {TaskCount} Grendel della Foresta.
+196,@195,Sconfiggi {TaskCount} Atrox Tossico/i.
+197,@195,Sconfiggi {TaskCount} Sorvegliante/i Riservato/i.
+198,@195,Sconfiggi {TaskCount} Sorvegliante/i della Foresta.
+199,@195,@195
+200,@195,@196
+201,@195,@197
+202,@195,@198
+203,@195,Sconfiggi Argos {TaskCount} volta/e.
+204,@195,Sconfiggi Helissa {TaskCount} volta/e.
+205,@195,Sconfiggi Sling {TaskCount} volta/e.
+206,@195,@10
+207,@195,@10
+208,@195,@10
+209,@195,@12
+210,@195,@12
+211,Conquista il Sottobosco della Foresta dei Segreti.,Sconfiggi {TaskCount} Difensore/i di Pan.
+212,@211,Sconfiggi {TaskCount} Assalitore/i di Ninfe.
+213,@211,Sconfiggi {TaskCount} Vendicatore/i di Ninfe.
+214,@211,Sconfiggi {TaskCount} Succubo/i Riservato/i.
+215,@211,@211
+216,@211,@212
+217,@211,@213
+218,@211,@214
+219,@211,Sconfiggi Vanuk {TaskCount} volta/e.
+220,@211,Sconfiggi Caylin {TaskCount} volta/e.
+221,@211,Sconfiggi Veiloss {TaskCount} volta/e.
+222,@211,@10
+223,@211,@10
+224,@211,@10
+225,@211,@12
+226,@211,@12
+227,Conquista il Macello della Foresta dei Segreti.,Sconfiggi {TaskCount} Uomo/ini Lucertola Guerriero/i Caduto/i.
+228,@227,Sconfiggi {TaskCount} Uomo/ini Lucertola Guerriero/i.
+229,@227,Sconfiggi {TaskCount} Ragno/i Mangiauomini della Foresta.
+230,@227,Sconfiggi {TaskCount} Fata/e Furiosa/e del Salice.
+231,@227,Sconfiggi Intrepidez {TaskCount} volta/e.
+232,@227,Sconfiggi Avetura {TaskCount} volta/e.
+233,@227,Sconfiggi Gari {TaskCount} volta/e.
+234,@227,Sconfiggi Alkaios {TaskCount} volta/e.
+235,@227,@10
+236,@227,@10
+237,@227,@10
+238,@227,@10
+239,@227,@12
+240,@227,@12
+241,@227,@12
+242,@227,@12

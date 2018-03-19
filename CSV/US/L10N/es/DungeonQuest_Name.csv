@@ -1,0 +1,241 @@
+Id,Name,Desc
+1,Conquista Ruinas élficas 1.,Derrota a {TaskCount} licántropo(s).
+2,@1,@1
+3,@1,@1
+4,@1,Derrota a {TaskCount} desmodus.
+5,@1,@4
+6,@1,@4
+7,@1,Derrota a Ala terrorífica {TaskCount} vez/veces.
+8,@1,Derrota a Ryukaon {TaskCount} vez/veces.
+9,@1,Derrota a Arachne {TaskCount} vez/veces.
+10,@1,Consigue {TaskCount} corazón(es) de monstruo.
+11,@1,@10
+12,@1,Derrota a {TaskCount} monst. de mazmorra.
+13,@1,@12
+14,Conquista Ruinas élficas 2.,Derrota a {TaskCount} enloquecido(s) de los Spartoi.
+15,@14,Derrota a {TaskCount} patrullero(s) de los Spartoi.
+16,@14,Derrota a {TaskCount} pellizcadora(s) ermitaña(s).
+17,@14,Derrota a {TaskCount} araña(s) con colmillos ermitaña(s).
+18,@14,Derrota a {TaskCount} cazador(es) de los Spartoi.
+19,@14,Derrota a {TaskCount} atacante(s) de los Spartoi.
+20,@14,@14
+21,@14,@15
+22,@14,@16
+23,@14,@17
+24,@14,@18
+25,@14,@19
+26,@14,Derrota a Huesudo {TaskCount} vez/veces.
+27,@14,Derrota a Felix {TaskCount} vez/veces.
+28,@14,Derrota al observador mortal {TaskCount} vez/veces.
+29,@14,Derrota a Necross {TaskCount} vez/veces.
+30,@14,@10
+31,@14,@10
+32,@14,@10
+33,@14,@12
+34,@14,@12
+35,@14,@12
+36,Conquista Hormiguero 1.,Derrota a {TaskCount} larva(s) de soldado hormiga.
+37,@36,Derrota a {TaskCount} larva(s) de hormiga obrera.
+38,@36,Derrota a {TaskCount} hormiga(s) obrera(s).
+39,@36,Derrota a {TaskCount} hormiga(s) soldado.
+40,@36,@36
+41,@36,@37
+42,@36,@38
+43,@36,Derrota a Reaver {TaskCount} vez/veces.
+44,@36,Derrota al capataz {TaskCount} vez/veces.
+45,@36,@10
+46,@36,@10
+47,@36,@10
+48,@36,@12
+49,@36,@12
+50,@36,@12
+51,Conquista Hormiguero 2.,Derrota a {TaskCount} larva(s) de hormiga.
+52,@51,Derrota a {TaskCount} supervisor(es) de hormiga obrera.
+53,@51,Derrota a {TaskCount} hormiga(s) soldado recluta(s).
+54,@51,@51
+55,@51,@52
+56,@51,@53
+57,@51,Derrota al guarda real del hormiguero {TaskCount} vez/veces.
+58,@51,Derrota al protector de tierra engendradora {TaskCount} vez/veces.
+59,@51,@10
+60,@51,@10
+61,@51,@10
+62,@51,@12
+63,@51,@12
+64,@51,@12
+65,Conquista la Torre de Cruma 2.,Derrota a {TaskCount} secuaz/secuaces de Mordeo.
+66,@65,Derrota a {TaskCount} excuro(s).
+67,@65,Derrota a {TaskCount} porta(s).
+68,@65,Derrota a {TaskCount} alto(s) excuro(s).
+69,@65,Derrota a {TaskCount} guarda(s) de Mordeo.
+70,@65,Derrota a {TaskCount} porta(s) atado(s).
+71,@65,Derrota a Mystique {TaskCount} vez/veces.
+72,@65,Derrota a Stelos {TaskCount} vez/veces.
+73,@65,Derrota a Maestro Mordeo {TaskCount} vez/veces.
+74,@65,Derrota a Serbo Prime {TaskCount} vez/veces.
+75,@65,@10
+76,@65,@10
+77,@65,@10
+78,@65,@10
+79,@65,@10
+80,@65,@10
+81,@65,@12
+82,@65,@12
+83,@65,@12
+84,@65,@12
+85,@65,@12
+86,@65,@12
+87,Conquista la Torre de Cruma 3.,Derrota a {TaskCount} guarda(s) de Validus.
+88,@87,Derrota a {TaskCount} patrullero(s) de Validus.
+89,@87,Derrota a {TaskCount} Gustos Susceptor(s).
+90,@87,Derrota a {TaskCount} Kusion Susceptor(s).
+91,@87,Derrota a {TaskCount} meforde(s).
+92,@87,@87
+93,@87,@88
+94,@87,@89
+95,@87,@90
+96,@87,@91
+97,@87,Derrota a Greezo {TaskCount} vez/veces.
+98,@87,Derrota a Julius {TaskCount} vez/veces.
+99,@87,Derrota a Magnus {TaskCount} vez/veces.
+100,@87,@10
+101,@87,@10
+102,@87,@10
+103,@87,@12
+104,@87,@12
+105,@87,@12
+107,Conquista la Torre de marfil 1.,Derrota a la sanguijuela subterránea {TaskCount} vez/veces.
+108,@107,Derrota al hongo caminante manchado {TaskCount} vez/veces.
+109,@107,@107
+110,@107,@108
+111,@107,Derrota a Champi {TaskCount} vez/veces.
+112,@107,Derrota a Corepio {TaskCount} vez/veces.
+113,@107,Derrota a Preta {TaskCount} vez/veces.
+114,@107,@10
+115,@107,@10
+116,@107,@10
+117,@107,@12
+118,@107,@12
+119,@107,@12
+120,Conquista la Torre de marfil 2.,Derrota a la Medusa del pantano {TaskCount} vez/veces.
+121,@120,Derrota a la Medusa de la cueva {TaskCount} vez/veces.
+122,@120,Derrota al soldado Stakato {TaskCount} vez/veces.
+123,@120,Derrota al stakato combatiente {TaskCount} vez/veces.
+124,@120,@120
+125,@120,@121
+126,@120,@122
+127,@120,@123
+128,@120,Derrota a Vulture {TaskCount} vez/veces.
+129,@120,Derrota a Gargu {TaskCount} vez/veces.
+130,@120,Derrota a Morpheus {TaskCount} vez/veces.
+131,@120,@10
+132,@120,@10
+133,@120,@10
+134,@120,@12
+135,@120,@12
+136,Conquista la Torre de marfil 3.,Derrota al esqueleto combatiente {TaskCount} vez/veces.
+137,@136,Derrota al prima alma coro oscuro {TaskCount} vez/veces.
+138,@136,Derrota al prima oscuro coro oscuro {TaskCount} vez/veces.
+139,@136,@136
+140,@136,@137
+141,@136,@138
+142,@136,Derrota al cazador esquelético {TaskCount} vez/veces.
+143,@136,Derrota a Creatus {TaskCount} vez/veces.
+144,@136,Derrota a Arenisca {TaskCount} vez/veces.
+145,@136,@10
+146,@136,@10
+147,@136,@10
+148,@136,@12
+149,@136,@12
+150,Conquista el laboratorio de Torre de marfil,Derrota a {TaskCount} sujeto(s) misterioso(s).
+151,@150,Derrota a {TaskCount} gólem(s) de piedra gigante(s).
+152,@150,Derrota a {TaskCount} sujeto(s) unido(s).
+153,@150,Derrota a {TaskCount} gólem(s) mecha estropeado(s).
+154,@150,Derrota a {TaskCount} novato(s) inquieto(s).
+155,@150,Derrota a {TaskCount} hechicero(s) inquieto(s).
+156,@150,Derrota a {TaskCount} estudioso(s) de la Hermandad oscura.
+157,@150,Derrota a {TaskCount} guardia(s) de la Hermandad oscura.
+158,@150,Derrota a {TaskCount} investigador(es) de la Hermandad oscura.
+159,@150,Derrota a {TaskCount} asistente(s) misterioso(s).
+160,@150,Derrota a {TaskCount} basilisco(s) de las alcantarillas.
+161,@150,Derrota a Adolf {TaskCount} vez/veces.
+162,@150,Derrota a Genos {TaskCount} vez/veces.
+163,@150,Derrota a Alexander {TaskCount} vez/veces.
+164,@150,Derrota a Trasos {TaskCount} vez/veces.
+165,@150,Derrota a Barbara {TaskCount} vez/veces.
+166,@150,Derrota a Amos {TaskCount} vez/veces.
+167,@150,Derrota a Enclema {TaskCount} vez/veces.
+168,@150,Derrota a Kloud {TaskCount} vez/veces.
+169,@150,Derrota a Sophos {TaskCount} vez/veces.
+170,@150,Derrota a Edwin {TaskCount} vez/veces.
+171,@150,Derrota a Enas {TaskCount} vez/veces.
+172,@150,@10
+173,@150,@10
+174,@150,@10
+175,@150,@10
+176,@150,@10
+177,@150,@10
+178,@150,@10
+179,@150,@10
+180,@150,@10
+181,@150,@10
+182,@150,@10
+184,@150,@12
+185,@150,@12
+186,@150,@12
+187,@150,@12
+188,@150,@12
+189,@150,@12
+190,@150,@12
+191,@150,@12
+192,@150,@12
+193,@150,@12
+194,@150,@12
+195,Conquista la espesura del bosque de los secretos.,Derrota a {TaskCount} Grendel(s) del bosque.
+196,@195,Derrota a {TaskCount} atrox tóxico(s).
+197,@195,Derrota a {TaskCount} custodio(s) sigiloso(s).
+198,@195,Derrota a {TaskCount} guardabosque(s).
+199,@195,@195
+200,@195,@196
+201,@195,@197
+202,@195,@198
+203,@195,Derrota a Argos {TaskCount} vez/veces.
+204,@195,Derrota a Helissa {TaskCount} vez/veces.
+205,@195,Derrota a Sling {TaskCount} vez/veces.
+206,@195,@10
+207,@195,@10
+208,@195,@10
+209,@195,@12
+210,@195,@12
+211,Conquista el sotobosque del bosque de los secretos.,Derrota a {TaskCount} defensor(es) de Pan.
+212,@211,Derrota a {TaskCount} degollador(es) de ninfas.
+213,@211,Derrota a {TaskCount} vengador(es) de ninfas.
+214,@211,Derrota a {TaskCount} súcubo(s) sigiloso(s).
+215,@211,@211
+216,@211,@212
+217,@211,@213
+218,@211,@214
+219,@211,Derrota a Vanuk {TaskCount} vez/veces.
+220,@211,Derrota a Cailyn {TaskCount} vez/veces.
+221,@211,Derrota a Veiloss {TaskCount} vez/veces.
+222,@211,@10
+223,@211,@10
+224,@211,@10
+225,@211,@12
+226,@211,@12
+227,Conquista el lugar de matanza del bosque de los secretos.,Derrota a {TaskCount} hombre(s) lagarto luchador(es) perdido(s).
+228,@227,Derrota a {TaskCount} hombre(s) lagarto guerrero(s) perdido(s).
+229,@227,Derrota a {TaskCount} araña(s) comehumanos del bosque.
+230,@227,Derrota a {TaskCount} hada(s) furiosa(s) corrupta(s).
+231,@227,Derrota a Intrepidez {TaskCount} vez/veces.
+232,@227,Derrota a Avetura {TaskCount} vez/veces.
+233,@227,Derrota a Gari {TaskCount} vez/veces.
+234,@227,Derrota a Alkaios {TaskCount} vez/veces.
+235,@227,@10
+236,@227,@10
+237,@227,@10
+238,@227,@10
+239,@227,@12
+240,@227,@12
+241,@227,@12
+242,@227,@12

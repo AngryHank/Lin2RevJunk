@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] ist dem Klan beigetreten.
+2,[Param1] hat den Klan verlassen.
+3,[Param1] hat jetzt den Rang [Param2]{[Param2]|}.
+4,[Param1] wurde zum neuen Klanführer ernannt.
+5,Das Klanlevel ist nun [Param1]{[Param1]}.
+6,Allianz mit [Param1] eingegangen.
+7,Allianz mit [Param1] beendet.
+8,[Param2] hat von [Param1] eine Belohnung erhalten.
+9,[Param1] hat alle Klanmitglieder belohnt.
+10,Erfolgreich erobert: [Param1].
+11,Gebot erhöhen für: [Param1]!
+12,Gebot wurde erweitert für: [Param1].
+13,[Param1]s Bel.-Hauptquartier wird angegriffen.
+14,[Param1]s Bel.-Hauptquartier zerstört.
+15,Ticket-Rücks. zu Burgbel.! Guts. holen!
+16,[Time] - [Param1] hat sich eingeloggt.
+17,Klanfü. zu lang offline. Neuer Klanfü: [Param1].
+18,Nächster Buff erscheint in [Param1] Sek.
+19,[Param1] hat [Param2] besiegt.
+20,Das Blaue Team hat erhalten: [Param1]{[Param1]}.
+21,Das Rote Team hat erhalten: [Param1]{[Param1]}.
+22,[Param1] hat [Param2]-mal in Folge getötet!
+23,"[Param2] von ""[Param1]"" hat [Param3]-mal in Folge getötet!"
+24,Ehr. Schlachtf. ist offen. Los geht’s!
+25,Ehr. Schlachtf. in [Param1] Min. offen!
+26,Courage-Schlachtf. offen. Los geht’s!
+27,Courage-Schlachtf. in [Param1] Min. offen!
+28,"[Param1] hat [Param3] Spieler belohnt, inkl. [Param2]."

@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,El miembro de clan [Param1] ha donado [Param2] adenas.
+1,El miembro de clan [Param1] ha donado [Param2] prueba(s) de sangre.
+2,El potenciador de clan [Param1] ha alcanzado el nivel [Param2].
+3,<FontYellow>El clan ha alcanzado el nivel [Param1]</>.
+4,<FontRed>Se ha declarado una guerra</> en [Param1].
+6,<FontBlue>Se ha creado</> una alianza con el clan [Param1].
+7,La alianza con el clan [Param1] se ha <FontRed>disuelto</>.
+8,El miembro del clan [Param1] se ha convertido en [Param2].
+10,[Param1] se ha <FontBlue>unido</> al clan.
+11,[Param1] ha <FontRed>abandonado</> el clan.
+12,<FontYellow>[Param1] ha impuesto [Param2] caja(s) de diamantes como impuesto.</>
+13,La mazmorra de clan <FontBlue>[Param1]</> se ha completado con éxito.
+14,Ha obtenido con éxito un logro de clan <FontGreen>[Param1]</>.
+15,<FontYellow>Eres el dirigente de [Param1].</>
+16,@CastleAcquired
+17,<FontGreen>Has regalado</> [Param3] x [Param2] a miembro/s del clan [Param1]
+18,Has entregado [Param2] x [Param3] como <FontGreen>premio</> a un miembro del clan [Param1].
+19,<FontBlue>Ha recompensado con</> [Param1] x[Param2] a todos los miembros del clan.
+20,<FontBlue>Ha ganado</> la guerra contra el clan [Param1].
+21,<FontRed>Ha perdido</> la guerra contra el clan [Param1].
+22,Ha combatido sin descanso en la guerra contra el clan [Param1].
+23,El señor [Param1] ha comprado [Param2] en la tienda de Asedio al castillo.
+24,El miembro del clan [Param1] ha donado [Param2] piedra(s) de estrella roja.
+9,[Param1] <FontRed>ha elegido automáticamente a</> [Param2] como el nuevo señor.
+25,<FontYellow>Has comprado una sala del clan.</>
+26,<FontYellow>La sala del clan ha alcanzado el nivel [Param1].</>
+27,<FontYellow>El cristal de unidad ha alcanzado el nivel [Param1].</>
+28,Renunciará a la propiedad de [Param1].
+29,Ha renunciado a la propiedad de [Param1].
+30,La guerra contra el clan [Param1] ha terminado tras llegar a un acuerdo.

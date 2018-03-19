@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,Erstes Abenteuer,"Der erste Titel, den Helden zu Beginn ihres Abenteuers erhalten.",
+1000200,Top-Spender,"Wird bei Abschluss des Erfolges ""Was mein ist, ist auch unser (Ebene {DescParam})"" aktiviert.",10
+1000300,Allzeit bereit,"Wird bei Abschluss des Erfolges ""Ich denke immer daran (Ebene {DescParam})"" aktiviert.",10
+1000400,Beste Freunde,"Wird bei Abschluss des Erfolges ""Meine Freunde sind es wert (Ebene {DescParam})"" aktiviert.",10
+1000500,Top 1 %,"Wird bei Abschluss des Erfolges ""Für Kleingeld nichts übrig (Ebene {DescParam})"" aktiviert.",10
+1000600,Monsterjäger,"Wird bei Abschluss des Erfolges ""Unbedachter Jäger (Ebene {DescParam})"" aktiviert.",11
+1000800,Wettstreiter-Grünschnabel,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Arenaranglisten belegst.",10000
+1000900,Machtanhänger,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Kampfkraftranglisten belegst.",10000
+1001000,Forscher-Assistent,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Levelranglisten belegst.",10000
+1001200,Fortschrittsmeister,"Wird bei Abschluss des Erfolges ""Mehr als nur Nahrung (Ebene {DescParam})"" aktiviert.",10
+1001300,Seelenjäger,"Wird bei Abschluss des Erfolges ""So viel Glitzer (Ebene {DescParam})"" aktiviert.",10
+1001400,Taschenverwalter,"Wird bei Abschluss des Erfolges ""Streicheleinheiten sind das A und O (Ebene {DescParam})"" aktiviert.",10
+1001500,Sammler,"Wird bei Abschluss des Erfolges ""Kein Müllmann, aber ... (Ebene {DescParam})"" aktiviert.",10
+1001600,Alchemist,"Wird bei Abschluss des Erfolges ""Was mich zum Leuchten bringt (Ebene {DescParam})"" aktiviert.",10
+1001700,Duellant,"Wird bei Abschluss des Erfolges ""Zeichen des Sieges (Ebene {DescParam})"" aktiviert.",10
+1001800,Zugexperte,"Wird bei Abschluss des Erfolges ""Glück ist nicht Können (Ebene {DescParam})"" aktiviert.",10
+1001900,Kernjäger,"Wird bei Abschluss des Erfolges ""Beutesammlung (Ebene {DescParam})"" aktiviert.",10
+2000200,Wettstreit-Experte,@1000800,5000
+2000300,Abenteurer,@1000900,5000
+2000400,Top-Forscher,@1001000,5000
+2000600,Monster-Tagebuch,"Wird bei Abschluss des Erfolges ""({DescParam})"" aktiviert.","Kodex der Region ""Kreischendes Heiligtum"""
+2000700,Wertsachen-Enthusiast,"Wird bei Abschluss des Erfolges ""Sowas schon mal gesehen? (Ebene {DescParam})"" aktiviert.",10
+2000900,Glückspilz,"Wird bei Abschluss des Erfolges ""Möge dir das Glück hold sein (Ebene {DescParam})"" aktiviert.",10
+2001000,Reitbegleiter-Trainer,"Wird bei Abschluss des Erfolges ""Stärker und unerbittlicher (Ebene {DescParam})"" aktiviert.",10
+2001100,Geisterschutz,"Wird bei Abschluss des Erfolges ""Notwendigkeit zum Kampf (Ebene {DescParam})"" aktiviert.",10
+2001200,Forensischer Ermittler,"Wird bei Abschluss des Erfolges ""Anderes Blut (Ebene {DescParam})"" aktiviert.",10
+2001300,Sicherheit geht vor,"Wird bei Abschluss des Erfolges ""Zum sicheren Weg (Ebene {DescParam})"" aktiviert.",10
+2001400,Meister der Tarnung,"Wird bei Abschluss des Erfolges ""Es ist hart, temperamentvoll zu sein (Ebene {DescParam})"" aktiviert.",10
+2001500,Waffenmeister,"Wird bei Abschluss des Erfolges ""Stoff der Legenden (Ebene {DescParam})"" aktiviert.",10
+2001600,Rüstungsmeister,"Wird bei Abschluss des Erfolges ""Schriftrolle aus süßen Träumen (Ebene {DescParam})"" aktiviert.",10
+2001800,Kombinierer,"Wird bei Abschluss des Erfolges ""Unendliche Ausrüstungsentwicklung (Ebene {DescParam})"" aktiviert.",10
+2001900,Juwelenmeister,"Wird bei Abschluss des Erfolges ""Hab meine Schriftrolle gefunden (Ebene {DescParam})"" aktiviert.",10
+2002000,Schlächter,"Wird bei Abschluss des Erfolges ""Ein legendäres Monster besiegt (Ebene {DescParam})"" aktiviert.",10
+2002100,Verbesserungsmeister,"Wird bei Abschluss des Erfolges ""Es ist ganz anders (Ebene {DescParam})"" aktiviert.",10
+3000200,Schneidiger Wettstreiter,@1000800,100
+3000300,Überragender Wettstreiter,@1000900,100
+3000500,Kluger Forscher,@1001000,100
+3000900,Spezialist,"Wird bei Abschluss des Erfolges ""Wie man besondere Ausrüstung bekommt (Ebene {DescParam})"" aktiviert.",10
+3001000,Limit-Breaker,"Wird bei Abschluss des Erfolges ""Ist das alles? (Ebene {DescParam})"" aktiviert.",10
+3100100,Festenkommandant,"Wird erlangt, wenn du der {DescParam} des Klans bist, der die Feste kontrolliert.
+(Wird getragen, solange du die Bedingungen erfüllst.)",Ältester
+3100200,Festenwächter,@3100100,Mitglied
+4100100,Festenkommandant,@3100100,Anführer
+4101000,Die zehn Wettstreiter,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Arenaranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",10
+4101100,Die zehn Eroberer,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Kampfkraftranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",10
+4101200,Anerkannter Forscher,"Wird erlangt, wenn du Rang #{DescParam} oder höher in den Levelranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",10
+5100200,Duellkönig,"Wird erlangt, wenn du Rang #{DescParam} in den Arenaranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",1
+5100300,Ich bin am stärksten,"Wird erlangt, wenn du Rang #{DescParam} in den Kampfkraftranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",1
+5100400,Erleuchtet,"Wird erlangt, wenn du Rang #{DescParam} in den Levelranglisten belegst.
+(Wird getragen, solange du die Bedingungen erfüllst.)",1
+30000000,Erster Vorkämpfer,"Titel mit beschränkter Auflage, der für Spieler erhältlich ist, die ihre Pre-Registrierung abgeschlossen haben.",
+30000010,Klanförderer,"Ein Ehrentitel, der Klanmitgliedern verliehen wird, die einen erheblichen Beitrag für ihren Klan leisten.",

@@ -7,3 +7,5 @@ Id,EventType,NameKey,GradeGroupId,ProgressRewardGroupId,MaxDailyCompleteCount,In
 6,Quest,1021000000006,6,6,4,0,1,0,0,5,0,UI_BG_BigUpdateCelebrationFestival,0,EventDailyQuest1
 7,Quest,1021000000007,7,7,5,0,1,1,1,6,0,UI_BG_GuildEvent,0,EventDailyQuest4
 8,Quest,1021000000008,8,8,5,0,1,1,1,6,0,UI_BG_BigUpdateCelebrationFestival,0,EventDailyQuest5
+9,Quest,1021000000001,9,0,5,101,1,0,0,6,0,UI_BG_SchoolEvenBg,0,EventDailyQuest9
+10,Quest,1021000000001,10,0,5,0,1,0,0,6,0,UI_BG_SchoolEvenBg,0,EventDailyQuest10

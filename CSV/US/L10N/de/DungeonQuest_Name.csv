@@ -1,0 +1,241 @@
+Id,Name,Desc
+1,Erobere die Elfenruinen 1.,Besiege {TaskCount} Lycanthrop(e).
+2,@1,@1
+3,@1,@1
+4,@1,Besiege {TaskCount} Desmodus(se).
+5,@1,@4
+6,@1,@4
+7,@1,Besiege Horrorflügel {TaskCount} Mal.
+8,@1,Besiege Ryukaon {TaskCount} Mal.
+9,@1,Besiege Arachne {TaskCount} Mal.
+10,@1,Erhalte {TaskCount} Monsterkern(e).
+11,@1,@10
+12,@1,Besiege {TaskCount} Dungeon-Monster.
+13,@1,@12
+14,Erobere die Elfenruinen 2.,Besiege {TaskCount} Spartoi-Berserker.
+15,@14,Besiege {TaskCount} Spartoi-Patrouille(n).
+16,@14,Besiege {TaskCount} Einsiedlerkneifer.
+17,@14,Besiege {TaskCount} Einsiedlerzahnspinne(n).
+18,@14,Besiege {TaskCount} Spartoi-Jäger.
+19,@14,Besiege {TaskCount} Spartoi-Angreifer.
+20,@14,@14
+21,@14,@15
+22,@14,@16
+23,@14,@17
+24,@14,@18
+25,@14,@19
+26,@14,Besiege Maniskull {TaskCount} Mal.
+27,@14,Besiege Felix {TaskCount} Mal.
+28,@14,Besiege Todesseher {TaskCount} Mal.
+29,@14,Besiege Necross {TaskCount} Mal.
+30,@14,@10
+31,@14,@10
+32,@14,@10
+33,@14,@12
+34,@14,@12
+35,@14,@12
+36,Erobere das Ameisennest 1.,Besiege {TaskCount} Ameisensoldatenlarve(n).
+37,@36,Besiege {TaskCount} Arbeiterameisenlarve(n).
+38,@36,Besiege {TaskCount} Arbeiterameise(n).
+39,@36,Besiege {TaskCount} Ameisensoldat(en).
+40,@36,@36
+41,@36,@37
+42,@36,@38
+43,@36,Besiege Reaver {TaskCount} Mal.
+44,@36,Besiege Ameisennest-Vorarbeiter {TaskCount} Mal.
+45,@36,@10
+46,@36,@10
+47,@36,@10
+48,@36,@12
+49,@36,@12
+50,@36,@12
+51,Erobere das Ameisennest 2.,Besiege {TaskCount} Ameisenlarve(n).
+52,@51,Besiege {TaskCount} Arbeiterameisen-Aufseher.
+53,@51,Besiege {TaskCount} Ameisensoldaten-Rekrut(en).
+54,@51,@51
+55,@51,@52
+56,@51,@53
+57,@51,Besiege Ameisennest-Königswache {TaskCount} Mal.
+58,@51,Besiege Brutfeld-Hüter {TaskCount} Mal.
+59,@51,@10
+60,@51,@10
+61,@51,@10
+62,@51,@12
+63,@51,@12
+64,@51,@12
+65,Erobere den Cruma-Turm 2.,Besiege {TaskCount} Schergen Mordeos.
+66,@65,Besiege {TaskCount} Excuro(s).
+67,@65,Besiege {TaskCount} Porta(s).
+68,@65,Besiege {TaskCount} Hohe(n) Excuro(s).
+69,@65,Besiege {TaskCount} Bewacher Mordeos.
+70,@65,Besiege {TaskCount} Gebundene(n) Porta(s).
+71,@65,Besiege Mystique {TaskCount} Mal.
+72,@65,Besiege Stelos {TaskCount} Mal.
+73,@65,Besiege Meister Mordeo {TaskCount} Mal.
+74,@65,Besiege Serbo-Prime {TaskCount} Mal.
+75,@65,@10
+76,@65,@10
+77,@65,@10
+78,@65,@10
+79,@65,@10
+80,@65,@10
+81,@65,@12
+82,@65,@12
+83,@65,@12
+84,@65,@12
+85,@65,@12
+86,@65,@12
+87,Erobere den Cruma-Turm 3.,Besiege {TaskCount} Validus-Bewacher.
+88,@87,Besiege {TaskCount} Validus-Patrouille(n).
+89,@87,Besiege {TaskCount} Gustos-Suszeptor(en).
+90,@87,Besiege {TaskCount} Kusion-Suszeptor(en).
+91,@87,Besiege {TaskCount} Meforde(n).
+92,@87,@87
+93,@87,@88
+94,@87,@89
+95,@87,@90
+96,@87,@91
+97,@87,Besiege Greezo {TaskCount} Mal.
+98,@87,Besiege Julius {TaskCount} Mal.
+99,@87,Besiege Magnus {TaskCount} Mal.
+100,@87,@10
+101,@87,@10
+102,@87,@10
+103,@87,@12
+104,@87,@12
+105,@87,@12
+107,Erobere den Elfenbeinturm 1.,Besiege Unterirdischen Egel {TaskCount} Mal.
+108,@107,Besiege Befleckten Wandelnden Fungus {TaskCount} Mal.
+109,@107,@107
+110,@107,@108
+111,@107,Besiege Mesheemp {TaskCount} Mal.
+112,@107,Besiege Corepio {TaskCount} Mal.
+113,@107,Besiege Preta {TaskCount} Mal.
+114,@107,@10
+115,@107,@10
+116,@107,@10
+117,@107,@12
+118,@107,@12
+119,@107,@12
+120,Erobere den Elfenbeinturm 2.,Besiege Sumpf-Medusa {TaskCount} Mal.
+121,@120,Besiege Höhlen-Medusa {TaskCount} Mal.
+122,@120,Besiege Stakato-Soldat {TaskCount} Mal.
+123,@120,Besiege Stakato-Stürmer {TaskCount} Mal.
+124,@120,@120
+125,@120,@121
+126,@120,@122
+127,@120,@123
+128,@120,Besiege Geier {TaskCount} Mal.
+129,@120,Besiege Gargu {TaskCount} Mal.
+130,@120,Besiege Morpheus {TaskCount} Mal.
+131,@120,@10
+132,@120,@10
+133,@120,@10
+134,@120,@12
+135,@120,@12
+136,Erobere den Elfenbeinturm 3.,Besiege Knochenstürmer {TaskCount} Mal.
+137,@136,Besiege Dunkelchor-Seelen-Prima {TaskCount} Mal.
+138,@136,Besiege Dunklen Dunkelchor-Prima {TaskCount} Mal.
+139,@136,@136
+140,@136,@137
+141,@136,@138
+142,@136,Besiege Schädeljäger {TaskCount} Mal.
+143,@136,Besiege Creatus {TaskCount} Mal.
+144,@136,Besiege Sandsturm {TaskCount} Mal.
+145,@136,@10
+146,@136,@10
+147,@136,@10
+148,@136,@12
+149,@136,@12
+150,Erobere das Elfenbeinturm-Katakombenlabor.,Besiege Unredliches Subjekt {TaskCount} Mal.
+151,@150,Besiege Unkontrollierbaren Golem {TaskCount} Mal.
+152,@150,Besiege Gebundenes Subjekt {TaskCount} Mal.
+153,@150,Besiege Gestörten Mecha-Golem {TaskCount} Mal.
+154,@150,Besiege Ruhelosen Lehrling {TaskCount} Mal.
+155,@150,Besiege Ruhelosen Zauberer {TaskCount} Mal.
+156,@150,Besiege Ermittler der Dunklen Bruderschaft {TaskCount} Mal.
+157,@150,Besiege Wächter der Dunklen Bruderschaft {TaskCount} Mal.
+158,@150,Besiege Forscher der Dunklen Bruderschaft {TaskCount} Mal.
+159,@150,Besiege Unredlichen Assistenten {TaskCount} Mal.
+160,@150,Besiege Untergrund-Basilisken {TaskCount} Mal.
+161,@150,Besiege Adolf {TaskCount} Mal.
+162,@150,Defeat Genos {TaskCount} time(s).
+163,@150,Besiege Alexander {TaskCount} Mal.
+164,@150,Besiege Trasos {TaskCount} Mal.
+165,@150,Besiege Barbara {TaskCount} Mal.
+166,@150,Besiege Amos {TaskCount} Mal.
+167,@150,Besiege Enclema {TaskCount} Mal.
+168,@150,Besiege Kloud {TaskCount} Mal.
+169,@150,Besiege Sophos {TaskCount} Mal.
+170,@150,Besiege Edwin {TaskCount} Mal.
+171,@150,Besiege Enas {TaskCount} Mal.
+172,@150,@10
+173,@150,@10
+174,@150,@10
+175,@150,@10
+176,@150,@10
+177,@150,@10
+178,@150,@10
+179,@150,@10
+180,@150,@10
+181,@150,@10
+182,@150,@10
+184,@150,@12
+185,@150,@12
+186,@150,@12
+187,@150,@12
+188,@150,@12
+189,@150,@12
+190,@150,@12
+191,@150,@12
+192,@150,@12
+193,@150,@12
+194,@150,@12
+195,Erobere die Krone des Geheimniswaldes.,Besiege Wald-Grendel {TaskCount} Mal.
+196,@195,Besiege Hochgiftigen Atrox {TaskCount} Mal.
+197,@195,Besiege Heimlichen Beobachter {TaskCount} Mal.
+198,@195,Besiege Waldwachmann {TaskCount} Mal.
+199,@195,@195
+200,@195,@196
+201,@195,@197
+202,@195,@198
+203,@195,Besiege Argos {TaskCount} Mal.
+204,@195,Besiege Helissa {TaskCount} Mal.
+205,@195,Besiege Sling {TaskCount} Mal.
+206,@195,@10
+207,@195,@10
+208,@195,@10
+209,@195,@12
+210,@195,@12
+211,Erobere das Unterholz des Geheimniswaldes.,Besiege Pan-Verteidiger {TaskCount} Mal.
+212,@211,Besiege Nymphen-Schlitzer {TaskCount} Mal.
+213,@211,Besiege Nymphen-Rächer {TaskCount} Mal.
+214,@211,Besiege Heimlichen Sukkubus {TaskCount} Mal.
+215,@211,@211
+216,@211,@212
+217,@211,@213
+218,@211,@214
+219,@211,Besiege Vanuk {TaskCount} Mal.
+220,@211,Besiege Cailyn {TaskCount} Mal.
+221,@211,Besiege Veiloss {TaskCount} Mal.
+222,@211,@10
+223,@211,@10
+224,@211,@10
+225,@211,@12
+226,@211,@12
+227,Erobere den Ort des Massakers im Geheimniswald.,Besiege Verlorenen Echsenmensch-Kämpfer {TaskCount} Mal.
+228,@227,Besiege Verlorenen Echsenmensch-Krieger {TaskCount} Mal.
+229,@227,Besiege Menschenfresser-Waldspinne {TaskCount} Mal.
+230,@227,Besiege Erzürnte Feenweide {TaskCount} Mal.
+231,@227,Besiege Intrepidez {TaskCount} Mal.
+232,@227,Besiege Avetura {TaskCount} Mal.
+233,@227,Besiege Gari {TaskCount} Mal.
+234,@227,Besiege Alkaios {TaskCount} Mal.
+235,@227,@10
+236,@227,@10
+237,@227,@10
+238,@227,@10
+239,@227,@12
+240,@227,@12
+241,@227,@12
+242,@227,@12

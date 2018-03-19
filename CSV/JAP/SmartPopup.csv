@@ -1,0 +1,8 @@
+Id,Name,BGTexture,BGTextureSmall,BPName,ContentType,Promote
+9001,프리미엄 스타팅 패키지,Image_SmartPopup_9001,small_package_01,,127,40
+12011,주니어 모험가 패키지,Image_SmartPopup_Junior_JP,small_package_08,,127,40
+12012,시니어 모험가 패키지,Image_SmartPopup_Senior_JP,small_package_09,,127,40
+12013,베테랑 모험가 패키지,Image_SmartPopup_Veteran_JP,small_package_10,,127,40
+12113,초특가 다이아 패키지 1,Image_SmartPopup_ChoDia01,small_package_13,,127,40
+12115,초특가 다이아 패키지 2,Image_SmartPopup_ChoDia02,small_package_13,,127,40
+9054,프리미엄 인벤토리 패키지,Image_SmartPopup_9051_JP,small_package_01,,127,40

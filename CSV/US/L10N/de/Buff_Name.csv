@@ -1,0 +1,824 @@
+Id,Name,EffectTypeName,Desc
+1001,Gewöhnliches Niederschlagen,Niederschlagen,
+1002,@1001,@1001,Letzter Treffer des Basisangriffs
+1003,@1001,@1001,
+1004,Gewöhnliche Unbesiegbarkeit,Unbesiegbar,Es wird kein Schaden erlitten.
+1005,Wiederbelebungs-Schutzbuff,@1004,"Es wird kein Schaden erlitten. Der Unbesiegbarkeitsbuff endet, wenn ein Gegner angegriffen wird."
+1011,Gewöhnliche Betäubung,Betäuben,Betäuben
+10111,Ansturmeffekt: Niederschlagen,@1001,
+10122,Machtstoß: Verlangsamen,Verlangsamen,-{1%} % Geschwindigkeit
+11211,Knall,Aggro-Gewinnerhöhung,+50 % Aggro-Gewinn
+112124,Rache,Ziel fixiert (PC),Zum Angriff gezwungen
+112125,@112124,ANG-Verringerung,-{1} ANG
+112126,@112124,Ziel fixiert (NPC),
+11213,Erhabenheit,"Erhabenheit: Bedrohungslevel-Steigerung, P-VER-/M-VER-Steigerung, Ausweichen-Verringerung","VER +{2%} %, Aggro aller Angriffe +{1%} %, Schadensreflektion: {1%} %"
+11221,Urteil,Verteidigungsverringerung,
+11222,Donnersturm,Betäubt,@1011
+112231,Weiter Schwung,"Multi-Treffer: Steigerung gleichzeitiger Treffer, ANG-GES-Erhöhung","+{1} Gegner werden gleichzeitig getroffen, +{2%} % ANG-GES"
+11231,Sandwolke,Erblinden,-{1%} % Genauigkeitsrate
+11232,Rückschritt: Betäuben,@11222,@1011
+112331,Hast,Hast: ANG-GES-Steigerung,+{1%}% ANG Geschw.
+112332,@112331,Hast: Ausweichen-Steigerung,+{1%} % Ausweichen
+11242,Pfeilregen,P-ANG-Verringerung,ANG-Verringerung
+11243,Scharfschuss,"Snipe: Angriffsreichweite-, ANG-, Genauigkeitserhöhung, Immobilität",ANG: {2%}%. +{3} GEN. Erhöht Angriffsreichweite. Verringert Geschwindigkeit.
+11244,Falkenauge,"Falkenauge: Krit.-Erhöhung, VER-Verringerung","Krit. Rate +{1}, +{2%} % Schaden"
+11251,Feuerkessel,Schaden über Zeit,Schaden über Zeit
+112531,Mana-Schub,Mana-Schub: Max. MP-Steigerung,"+{1%} % MP-Verbrauch, +{2%} % Fertigkeitenschaden"
+11261,Himmlische Strafe: Betäuben,@1001,
+11262,Wiederherstellung,HüZ,Heilung über Zeit
+12211,Gericht,Ziel fixiert,+30 % Aggro-Gewinn
+12212,Evas Anmut,ANG-GES-Verringerung,Verringert LP-Regen. um 50 %.
+122131,Aigis-Haltung,Aigis-Haltung: Temporäre Schadensimmunität,Schadensimmunität
+122132,@122131,Aigis-Haltung: Geschwindigkeitserhöhung,+{1%} % Geschwindigkeit
+12221,Schallsprenger,Schallsprenger: Geschwindigkeitsverringerung,-{1%}% Geschwindigkeit
+122231,Kampfrhythmus,"Kampfrhythmus: ANG, VER Erhöhung","+{1} ANG, +{3} VER der Gruppenmitglieder"
+122241,Lied des Jägers,Lied des Jägers: Gruppen-Krit.-Rate,+{1%} % Krit. Rate für Gruppenmitglieder
+12231,Dreifach-Splitter,Geschwindigkeitsverringerung,"-{1%} VER, -{3%} % ANG-GES, -{4%} % Geschwindigkeit"
+12232,Klingen-Wirbelsturm,@1011,@1011
+12233,Ebenengang,"Ebenengang: ANG-GES-, Geschwindigkeitssteigerung, LP-Absorptionsrate",ANG-GES: {1%} %. +{2%} % Geschwindigkeit. LP-Entzugsrate: {3%} %
+12241,Tödlicher Schuss,Erhöhung der Krit. Rate,
+12242,Doppelter Streuschuss,Doppelter Streuschuss VER Verringern,P-VER -{1%} %
+122431,Geistiges Auge,Geistiges Auge: Starke Erhöhung der Krit. Rate,+{1} Krit. Rate
+122441,Doppelter Schnellschritt,"Sturmschritt: Starke Geschwindigkeitserhöhung, schwache ANG-GES-Erhöhung","+{1%} % Geschwindigkeit, +{2%} % ANG-GES"
+12251,Eisspeer: Einfrieren,@11222,
+12252,Schneesturm,@10122,@10122
+122521,@12252,@1011,@1011
+122614,Albtraum,@10122,-10 % Geschwindigkeit
+122615,Heiliges Feuer,Erhöhung erlittenen Schadens,+{1%} % erlittener Schaden
+12263,Große Heilung,Heilung,
+122631,Mentale Erfrischung,Mentale Erfrischung: Gruppen-Abklingzeitverringerung,-{1#} Sek. Fertigkeits-Abklingzeit der Gruppenmitglieder
+12264,Folgeverteidigung,"Defensiver Gruppen-Buff, P und M",+ {1%} % VER der Gruppenmitglieder
+13211,Blutsauger,VER-Erhöhung,-{1%} % VER
+132125,Ketten-Hydra,@11222,@1011
+132126,@132125,Immun gegen Ziehen und Provozieren,Aggro-Fokuseffekt
+13213,Ultimative Verteidigung,"Ultimative Verteidigung: Starke P-VER- und M-VER-Erhöhung, Immobilität",VER: {1%} % +{3}. Verringert Geschwindigkeit der Gegner.
+132132,@13213,Ultimative Verteidigung: Verlangsamt Gegner,Geschwindigkeitsverringerung
+13222,Wirbelsturm,@10122,@10122
+132221,@13222,Geschwindigkeitserhöhung,+{1%} % Geschwindigkeit
+132231,Tanz des Kriegers,Tanz des Kriegers: P-ANG-Erhöhung für die Gruppe,+{1} P-ANG der Gruppenmitglieder
+132241,Tanz des Zorns,Tanz des Zorns: ANG-GES-Erhöhung für die Gruppe,+{1%} % ANG-GES der Gruppenmitglieder
+13231,Stich,Bonus-Blutungs-SCH,SCH: {[Use34Param]1-1%} % des ANG + {1-1}
+13232,Messerregen: Bonus-Blutungs-SCH,@13231,
+132322,Messerregen,@11222,@1011
+132331,Bösartige Haltung,Bösartige Haltung: Krit.-Schaden-Steigerung,+{1%} % Krit. SCH
+132332,Bösartige Haltung - Kritischer Treffer,Bösartige Haltung: 100 % Krit. Rate,Max. Effizienz der Krit. Rate
+13242,Betäubungsschuss,@11222,
+13243,Schnellfeuer,"Schnellfeuer: ANG-GES-Erhöhung, Angriffsreichweitenverringerung","+{1%} % ANG-GES, -{2%} m Angriffsreichweite."
+13244,Fataler Konter,"Fataler Konter: Starke ANG-Erhöhung, Ausweichen-Verringerung","+{1} ANG, -{2%} % Ausweichen"
+13251,Dunkelatem,@10122,
+13252,Korruption,"VER-Verringerung, Geschwindigkeitsverringerung","-{1%} % VER, -{3%} % Geschwindigkeit"
+132531,Fatale Weisheit,Fatale Weisheit: Starke M-ANG-Erhöhung,+{1} M-ANG
+132623,Blutige Wut,@10122,@10122
+132624,Blutige Wut: SCH-Erhöhung,ANG-Erhöhung,
+132631,Ermächtigen,Ermächtigen: Beschränkung des LP-Verbrauchs,LP fallen nicht unter {1}
+132632,@132631,@132631,
+14211,Stoß,"VER-Verringerung, Ziel fixiert",@13211
+14212,Erdbeben,@1011,@1011
+14213,@14212,@112125,-20 % ANG
+14222,Sprungangriff,@1001,
+14223,Zorniger Zwerg,"Zorniger Zwerg: ANG-Erhöhung, VER-Verringerung","+{1} ANG, -{2%} % VER"
+14231,Klingenansturm,Kritischer Widerstand-Verringerung,-{1%} % Kritischer Widerstand
+14232,Schall-Stern,@12231,@10122
+142321,@14232,Stille,Stille
+142331,Adena-Suche,Adena-Suche: Adenagewinn-Erhöhung,"+{1%} % Adena in Kämpfen, +{2%} % Geschwindigkeit"
+242331,@142331,Adena-Suche: Gift und Verlangsamen,-{2%} % Giftschaden und Geschwindigkeit
+14241,Salvenschuss,@11251,@13231
+14242,Ausweich-Schuss,@12231,@10122
+142422,@14242,Erhöhung der Reichweite,Erhöhung der Reichweite
+14251,Erdnadel,@1001,
+142531,Faustkämpfer,Faustkämpfer: Steigerung des Basisangriffs für die Gruppe,+{1%} % zum ANG des Basisangriffs der Gruppenmitglieder
+14261,Himmlischer Schutz,VER-Erhöhung,+{1} VER der Gruppenmitglieder
+14262,Himmlisches Klatschen,@11222,
+142631,Große Vitalität,Große Vitalität: Max. LP-Erhöhung der Gruppe,+{1} Max. LP der Gruppenmitglieder
+20211,Verteidigungsaura,VER-Erhöhung,@14261
+20221,Angriffsaura,ANG-Erhöhung,+{1} ANG der Gruppenmitglieder
+20231,Schnellschritt,Geschwindigkeitserhöhung,+{1%} % Geschwindigkeit der Gruppenmitglieder
+20241,Leitung,Genauigkeitserhöhung,+{1} Genauigkeit der Gruppenmitglieder
+20251,Todesflüstern,Krit.-SCH-Erhöhung,+{1%} % Krit. SCH der Gruppenmitglieder
+20261,LP-Schub,Max. LP-Erhöhung,@142631
+21221,Rache,@20221,+{1} ANG
+21231,Schleichen,Fertigkeits-Abklingzeitverringerung,-{1} Fertigkeits-Abklingzeit
+212311,@21231,Schleichen: ANG-Erhöhung,@21221
+21241,Verbessertes Verlangsamen,@10122,@10122
+21242,Verbessertes Verlangsamen: Blutungs-Schaden,@10122,Schaden: {[Use34Param]1-1%} % des ANG
+21251,Lodern,@11251,
+212512,@21251,@20221,@21221
+212611,Himmlische Verbindung,@20211,+{1%} % VER pro Gruppenmitglied
+212621,Manaschild,Manaschild,Verringert beim Schadennehmen MP statt LP.
+22211,Altes meiden,Ausweichen-Erhöhung,+{1%} % Ausweichrate
+22221,Esprit,Erhöhung der Krit. Rate,+{1%} % Krit. Rate
+22231,Schneller Zorn,"ANG-GES-, Geschwindigkeitserhöhung","+{[StackMul]1%} % ANG-GES, +{[StackMul]1%} % Geschwindigkeit."
+22241,Flink,Krit.-SCH-Erhöhung,@132221
+22261,@22211,@22211,+{1%} % Ausweichen
+23211,Aufgewerteter Entzug,LP-Entzug-Effekt,Absorbiert {1-1%} % des zugefügten Schadens
+23221,Fieber,@22241,@132331
+23231,Blutlust,Verringerung von VER und Widerstand gegen Krit. Rate,"-{1%} % VER, -{3%} % Kritischer Widerstand"
+23241,Kritisches Zeichen,Genauigkeitsratenerhöhung,+{1%} % Gen.-Rate.
+23251,@23221,@22241,@132331
+23261,Aggression,@20221,+{1%} % LP-Entzug
+24211,Geduld,ANG-Erhöhung-Buff,@21221
+242121,Glückliches Geschick,"Glückliches Geschick: Chance auf Abklingzeit-Verringerung, wenn Gruppe angegriffen wird",-{1#} Fertigkeits-Abklingzeit
+24221,Ersehnter Aufschlag,@24211,@21221
+242231,Glückliches Wüten,"Glückliches Wüten: Chance auf ANG-GES-Erhöhung, wenn Gruppe angreift",+{1%} % ANG-GES
+24231,@22221,@22221,@22221
+242321,Glücklicher Todesfall,Glücklicher Todesfall: Krit.-Rate-Erhöhung,@122431
+24241,Akrobatik,Ausweichratenerhöhung,@22211
+242421,Glücklicher Schnellschritt,Glücklicher Schnellschritt: Betäubt,@1011
+2424211,@242421,Glücklicher Schnellschritt: ANG Verringern,-{1%} % ANG
+24251,@23261,@20221,@21221
+24252,Glückliche Verteidigung,"Glückliche Verteidigung: Chance auf P-VER- und M-VER-Erhöhung, wenn Gruppe angreift",+{1} VER
+24261,Befestigen,LP-Regen. Erhöhung,+{1%} % LP-Regen.
+30001,Absoluter Schild,"Verringerung erlittenen Schadens, Hinderungswiderstand","-{1%} % erlittener Schaden (kurz), +30 % Hindernder Debuff-Widerstand"
+30002,Flinker Schritt,@132221,@132221
+30003,Unsterblich,@1004,
+30004,Blutpfeil: Schaden über Zeit,@13231,+{[Use34Param]1%} % Blutungs-SCH
+30006,Rakete: Betäuben,@11222,@1011
+30008,Frostrüstung: Alle,Frostrüstung,Verlangsamen
+30010,Manaschild,Manaschild,@212621
+30013,Zeitverringerung,Abklingzeitverringerung,Verringert Fertigkeits-Abklingzeit für eine bestimmte Dauer.
+30014,Giftschlag,Verringerung von Schaden und Geschwindigkeit,Schaden -{1%} % und Geschwindigkeit -{2%} %
+300141,@30014,Giftschaden,Gift-SCH: {[Use34Param]1%} %
+30015,Verteidigungszone,Abnormaler Status-Wdst.,Abnormaler Status-Wdst +{1%} %
+300151,@30015,Erlittener Schaden wird verringert,Erlittener Schaden -{1%} % und erlittener SCH durch seltene Fertigkeit ist zusätzlich -{2%} %
+31001,Frostrüstung: Verlangsamen,@10122,@30008
+35001,Kriegerwaffen-Meisterschaft,Kriegerwaffen-Meisterschaft,
+35002,Schwere Rüstung-Meisterschaft,Schwere Rüstung-Meisterschaft,
+35003,Schurkenwaffen-Meisterschaft,Schurkenwaffen-Meisterschaft,
+35004,Leichte Rüstung-Meisterschaft,Leichte Rüstung-Meisterschaft,
+35005,Magierwaffen-Meisterschaft,Magierwaffen-Meisterschaft,
+35006,Roben-Meisterschaft,Roben-Meisterschaft,
+35011,Abwehr-Meisterschaft,Abwehr-Meisterschaft,
+35021,Kampfmeisterschaft,Kampfmeisterschaft,
+35031,Verbesserter Kritischer Angriff,Verbesserter Kritischer Angriff,
+35111,@35011,@35011,
+35121,@22221,Esprit,
+35122,@35021,@35021,
+35131,Kritische Chance,Kritische Chance,
+35141,@22241,Flink,
+35151,Frost-Siegel,Frost-Siegel,
+35161,@22211,Altes meiden,
+35221,@35021,@35021,
+35231,Kritische Kraft,Kritische Kraft,
+35311,Abwehr-Expertise,Abwehr-Expertise,
+35321,@35021,@35021,
+35331,@22221,@35121,
+35332,Glücklicher Todesfall,Glücklicher Todesfall,
+35341,@24241,Akrobatik,
+40001,ERF-Bonuszeit-Buff,ERF-Gewinn-Erhöhung,Erhalte eine große Menge ERF während der Bonuszeit.
+40002,Adena-Bonuszeit-Buff,Adenagewinn-Erhöhung,Erhalte eine große Menge Adena während der Bonuszeit.
+40003,Ausrüstungs-Bonuszeit-Buff,Ausrüstungserhaltungsraten-Erhöhung,Erhöht die Ausrüstungsfundrate während der Bonuszeit stark.
+40004,P-ANG,P-ANG,
+40005,M-ANG,M-ANG,
+40006,P-ANG-Erhöhungsrate,P-ANG-Erhöhungsrate,
+40007,M-ANG-Erhöhungsrate,M-ANG-Erhöhungsrate,
+40008,Basisangriffskraft,Basisangriffskraft,
+40009,Gruppenmitglied-ANG-Erhöhungsrate,Gruppenmitglied-ANG-Erhöhungsrate,
+40010,ANG-GES-Erhöhungsrate,ANG-GES-Erhöhungsrate,
+40011,Krit.-SCH-Erhöhungsrate,Krit.-SCH-Erhöhungsrate,
+40012,Kritische Genauigkeitsrate,Kritische Genauigkeitsrate,
+40013,Kritische Widerstandsrate,Kritische Widerstandsrate,
+40014,P-SCH,P-SCH,
+40015,M-SCH,M-SCH,
+40016,VER-Ignorieren,VER-Ignorieren,
+40017,Ziel-LP-Verringerung,Ziel-LP-Verringerung,
+40018,Ziel-LP-Verringerung (%),Ziel-LP-Verringerung (%),
+40019,P-VER,P-VER,
+40020,M-VER,M-VER,
+40021,P-VER-Erhöhungsrate,P-VER-Erhöhungsrate,
+40022,M-VER-Erhöhungsrate,M-VER-Erhöhungsrate,
+40023,Ausweichen,Ausweichen,
+40024,Ausweichen-Erhöhungsrate,Ausweichen-Erhöhungsrate,
+40025,Ausweichrate,Ausweichrate,
+40026,Genauigkeit,Genauigkeit,
+40027,Genauigkeitserhöhungsrate,Genauigkeitserhöhungsrate,
+40028,Genauigkeitsrate,Genauigkeitsrate,
+40029,Schaden-Erhöhungsrate,Schaden-Erhöhungsrate,
+40030,P-SCH-Erhöhungsrate,P-SCH-Erhöhungsrate,
+40031,@40030,@40030,
+40032,Erhöhungsrate für Schaden an verlangsamtem Ziel,Erhöhungsrate für Schaden an verlangsamtem Ziel,
+40033,VER-SCH-Ignorieren,VER-SCH-Ignorieren,
+40034,Schaden-Verringerungsrate,Schaden-Verringerungsrate,
+40035,P-SCH-Verringerungsrate,P-SCH-Verringerungsrate,
+40036,M-SCH-Verringerungsrate,M-SCH-Verringerungsrate,
+40037,Festschadenverringerung,Festschadenverringerung,
+40038,Abwehrrate,Abwehrrate,
+40039,Abwehrschaden-Verringerungsrate,Abwehrschaden-Verringerungsrate,
+40040,P-SCH über Zeit,P-SCH über Zeit,
+40041,M-SCH über Zeit,M-SCH über Zeit,
+40042,LP basierend auf ANG heilen,LP basierend auf ANG heilen,
+40043,Heilung über Zeit,Heilung über Zeit,
+40044,Aggressions-Erhöhungsrate,Aggressions-Erhöhungsrate,
+40045,LP-Regen.,LP-Regen.,
+40046,LP-Entzug,LP-Entzug,
+40047,"LP-Absorption (Eine aktive Fertigkeit, die dem Gegner LP stiehlt.)","LP-Absorption (Eine aktive Fertigkeit, die dem Gegner LP stiehlt.)",
+40048,LP-Absorption (Verteilt gestohlene LP auf dich und deine Gruppenmitglieder.),LP-Absorption (Verteilt gestohlene LP auf dich und deine Gruppenmitglieder.),
+40049,Max. LP,Max. LP,
+40050,Max.-LP-Erhöhungsrate,Max.-LP-Erhöhungsrate,
+40051,Max. MP,Max. MP,
+40052,Max.-MP-Erhöhungsrate,Max.-MP-Erhöhungsrate,
+40053,Geschwindigkeits-Erhöhungsrate,Geschwindigkeits-Erhöhungsrate,
+40054,MP-Kostenverringerungsrate,MP-Kostenverringerungsrate,
+40055,MP-Kostenverringerung,MP-Kostenverringerung,
+40056,MP-Regen.-Rate,MP-Regen.-Rate,
+40057,Fertigkeits-Abklingzeit,Fertigkeits-Abklingzeit,
+40058,Spott (Erhöht Aggro auf Max.),Spott (Erhöht Aggro auf Max.),
+40059,Ziel erfassen,Ziel erfassen,
+40060,Ziel bewegen,Ziel bewegen,
+40061,Ziel ziehen,Ziel ziehen,
+40062,Zugwiderstandsrate,Zugwiderstandsrate,
+40063,Rückschlag-Widerstandsrate,Rückschlag-Widerstandsrate,
+40064,ERF-Gewinn-Erhöhungsrate,ERF-Gewinn-Erhöhungsrate,
+40065,Adenagewinn-Erhöhungsrate,Adenagewinn-Erhöhungsrate,
+40066,Verlangsamungswiderstandsrate,Verlangsamungswiderstandsrate,
+40067,Betäubungswiderstandsrate,Betäubungswiderstandsrate,
+40068,Abnormaler Status-Widerstand,@30015,
+40069,Erhöhung der Fertigkeitsreichweite,Erhöhung der Fertigkeitsreichweite,
+40070,Erhöhung der Fertigkeits-Trefferzahl,Erhöhung der Fertigkeits-Trefferzahl,
+40071,Kombo-Endzeit-Erhöhung,Kombo-Endzeit-Erhöhung,
+40072,Durchdringung,Durchdringung,
+40073,Zähigkeit,Zähigkeit,
+40074,Krit. Rate,Krit. Rate,
+40075,Krit. Widerstand,Krit. Widerstand,
+40076,Erhöhung der Krit. Rate,Erhöhung der Krit. Rate,
+40077,Kritischer Widerstand-Erhöhungsrate,Kritischer Widerstand-Erhöhungsrate,
+50001,Flamme,Monster: Flamme,
+50002,Kälte,Monster: Kälte,
+50003,Erblinden,Monster: Erblinden,
+50004,Fluch,Monster: Fluch,
+50005,Betäubt,Monster: Betäuben,
+50006,Blutung,"Monster: Bluten, ANG-GES-Verringerung",
+50007,Gift,"Monster: Gift, Geschwindigkeitsverringerung",
+50008,Schwächen,Monster: Schwächen,
+50010,@50005,@50005,
+60099,@50006,Monster der Sprechenden Insel Blutung,
+60103,Fertigkeits-Attrappe,@132221,
+60115,Goldenes Idol,Brennen,5 Sekunden lang wird Schaden über Zeit zugefügt.
+60118,Marlow - Ultimative Verteidigung,@13213,Erhöht VER stark.
+60136,Knochenjäger (+ Betäuben/Für Aufwertungsrollen-Dungeon),@50005,
+60137,Steingolem (+ Betäuben/Für Aufwertungsrollen-Dungeon),@50005,
+71023,Kritischer Lärm,@10122,-40 % Geschwindigkeit
+71452,@50006,Todesbiss des Blutkönigs: Blutung,
+71462,@50006,Orbis-Kratzer: Blutung,
+73013,Guillotine: Zorn,Ärger,
+73022,Blutiger Halbmond: Angriffsverringerung,@112125,Verringert ANG.
+73031,Orfen: Schwächen,Orfen-Schwächen,Verringert VER.
+73033,Orfen-Ärger,Orfen-Ärger,Erhöht ANG und ANG-GES.
+74011,Wurzel des Todes: Niederschlagen,@1001,
+74022,Blut-Entzug,Blut-Entzug: Heilung über Zeit (%),
+74032,Blitz rufen,Blitz rufen: Schaden über Zeit,
+74042,Höllischer Fluch,Höllischer Fluch: Flamme,
+74051,Giftgrube,Giftgrube: Schaden über Zeit,
+74062,@11222,Gewitter: Verlangsamen,
+74071,Moor der Bosheit,Miasma: Schaden über Zeit,
+74072,Schwanzschlag,Schwanzschlag: Verlangsamen,@12221
+74082,Überhitzen,Überhitzen: ANG-Erhöhung,
+74083,@74082,Überhitzen: Geschwindigkeitserhöhung,
+74084,@74082,Überhitzen: VER-Verringerung,
+74085,@74082,@74082,
+74086,@74082,@74083,
+74087,@74082,@74084,
+74088,@74082,@74082,
+74089,@74082,@74083,
+74090,@74082,@74084,
+74091,@74082,@74082,
+74092,@74082,@74083,
+74093,@74082,@74084,
+50074,Hieb: ANG-Verringerung,Hieb: Schadensverringerung,Verringert für jede Stapelung eines bestimmten Effekts ANG um {1}.
+74095,Versteinernder Blick,Versteinernder Blick: Erhöhung erlittenen Schadens,Erhöht erlittenen Schaden um {1%} %.
+74096,Königinnenschlag,Königinnenschlag: Erblinden,Verringert sich mit jeder Auslösung von Genauigkeit um {1}.
+74097,Schuppenaufwertung: P-VER,Schuppenaufwertung: P-VER,+{1%} P-VER
+74098,Schuppenaufwertung: M-VER,Schuppenaufwertung: M-VER,+{1%} M-VER
+74111,Zeichen des Todes,Zeichen des Todes,
+74121,Schwelender Schlamm,Schwelender Schlamm: Erhöhung erlittenen Schadens,
+74122,Bodenhieb,Bodenhieb: Schaden über Zeit,
+74131,Marshas Blick (Alt),Marshas Blick: Schaden über Zeit,"10 Sekunden lang wird Schaden über Zeit erlitten, während nahe Verbündete infiziert werden."
+74132,Medusas Fluch (Alt),Medusas Fluch: Flächenschaden,"Macht 5 Sekunden lang unbeweglich, danach fügt eine Explosion der Umgebung großen Schaden zu."
+74134,@74132,Medusas Fluch: Explosion,
+741341,Marsha: Tornado der Versuchung,Marsha: Tornado der Versuchung,Verursacht über 10 Sekunden {1} Blutungsschaden.
+741342,@741341,@741341,@1011
+741351,Marsha: Klingenwind,Marsha: Klingenwind,Kann 5 Sekunden lang keine Fertigkeiten einsetzen.
+7413511,@741351,Marsha: Klingenwind (VE),@741351
+741352,@741351,@741351,@741351
+741353,@741351,@741351,@741351
+77001,@50001,@50001,
+77002,@50002,"Monster: Kälte, Geschwindigkeitsverringerung",
+77003,@50003,@50003,
+77004,@50004,"Monster: Fluch, VER-Verringerung",
+77005,@50005,@50005,
+77006,@50006,"Monster: Bluten, ANG-Verringerung",
+77007,@50007,@50007,
+77008,@50008,@50008,
+77010,@50005,@50005,
+77085,@73022,@112125,@73022
+801011,ANG-Erhöhung,P-ANG-/M-ANG-Erhöhung,+50 % ANG für 30 Sek.
+801012,P-ANG-Erhöhung,P-ANG-Erhöhung,+30 % ANG für 30 Sek.
+801013,M-ANG-Erhöhung,M-ANG-Erhöhung,@801012
+801021,ANG-GES-Erhöhung,ANG-GES-Erhöhung,+50 % ANG-GES für 30 Sek.
+801022,@801021,@801021,+20 % ANG-GES für 30 Sek.
+801031,VER-Erhöhung,P-VER-/M-VER-Erhöhung,+30 % VER für 30 Sek.
+801032,P-VER-Erhöhung,P-VER-Erhöhung,+35 % VER für 30 Sek.
+801033,M-VER-Erhöhung,M-VER-Erhöhung,@801032
+801041,Geschwindigkeitserhöhung,Geschwindigkeitserhöhung,+30 % Geschwindigkeit für 30 Sek.
+801042,@801041,@801041,@801041
+80105,Max. LP-Erhöhung,Max. LP-Erhöhung,+ 40 % max. LP für 30 Sek.
+80106,Max. MP-Erhöhung,Max. MP-Erhöhung,+ 40 % max. MP für 30 Sek.
+801043,Erhöhung des Schadens von Fertigkeiten,Erhöhung des Schadens von Fertigkeiten,Erhöht Fertigkeitenschaden 30 Sek. lang um 300 %.
+801044,Nahkampfschadensaura (Timer),Nahkampfschadensaura,Fügt nahen Gegnern über 30 Sek. 300 Festschaden zu.
+801045,Wasserkristall-Barriere,Wasserkristall-Schadensimmunität,Erzeugt über dem Wasserkristall 30 Sek. lang eine Schadensimmunitätsbarriere.
+801046,Gruppe des Zorns (Timer),Erhöht ANG und VER der Gruppe,Erhöht Verbündeten-ANG und -VER 30 Sek. lang um 30 %.
+8010461,Gruppe des Zorns,@801046,@801046
+801047,Überwältigen,ANG- und ANG-GES-Erhöhung,Erhöht ANG und ANG-GES 30 Sek. lang.
+801048,@801047,@801047,Erhöht ANG und ANG-GES 10 Sek. lang.
+93506,Wütendes Schreckgespenst,"Starke ANG- und VER-Erhöhung, kleine Geschwindigkeits- und ANG-GES-Erhöhung",
+94409,Berserkerdämon-Kontraktor,@93506,"Erhöhung von ANG, VER, Geschwindigkeit und ANG-GES"
+90001,Klangesundheit,LP-Erhöhung,+{1%} % max. LP
+90002,Klanseele,MP-Erhöhung,+{1%} % max. MP
+90003,Klanschild,VER-Erhöhung,+{1%} % VER
+90004,Klanmacht,ANG-Erhöhung,+{1%} % ANG
+90005,Klanleitung,Genauigkeitserhöhung,+{1%} % Genauigkeitsrate
+90006,Klan-Ausweichen,@22211,@22261
+90007,Klanbewegung,Geschwindigkeitserhöhung,@132221
+90008,Tödlicher Klanschlag,@22241,@132331
+90009,Klan-Krit.-Rate,Erhöhung der Krit. Rate,+{1%} % Krit. Rate
+905001,Kristall der Eintracht Lv. {TextParam1},Kristall der Eintracht Lv. {TextParam2}-Buff,Erfüllt den Kristall der Eintracht der Klanhalle mit Macht.
+905002,@905001,@905001,@905001
+905003,@905001,@905001,@905001
+905004,@905001,@905001,@905001
+905005,@905001,@905001,@905001
+905006,@905001,@905001,@905001
+905007,@905001,@905001,@905001
+905008,@905001,@905001,@905001
+905009,@905001,@905001,@905001
+905010,@905001,@905001,@905001
+905101,Sättigung des Kleinen Festmahls,P-VER-/M-VER-Erhöhung,+500 P-VER/M-VER
+905102,Sättigung des Mittleren Festmahls,LP-/MP-Erhöhung,1000 LP-/MP-Erhöhung
+905103,Sättigung des Großen Festmahls,P-ANG-/M-ANG-Erhöhung,+500 P-ANG/M-ANG
+905104,Sättigung des Extravaganten Kleinen Festmahls,@905101,+1.200 P-VER/M-VER
+905105,Sättigung des Extravaganten Mittleren Festmahls,@905102,2000 LP-/MP-Erhöhung
+905106,Sättigung des Extravaganten Großen Festmahls,@905103,+1.200 P-ANG/M-ANG
+905107,Sättigung des Luxuriösen Kleinen Festmahls,P-VER-/M-VER- und Krit.-Rate-Erhöhung,"+2.000 P-ANG/M-ANG, +500 Krit. Rate"
+905108,Sättigung des Luxuriösen Mittleren Festmahls,LP-/MP- und Krit.-Rate-Erhöhung,"+3.000 LP/MP, +500 Krit. Rate"
+905109,Sättigung des Luxuriösen Großen Festmahls,P-ANG-/M-ANG- und Krit.-Rate-Erhöhung,"+2.000 P-ANG/M-ANG, +500 Krit. Rate"
+905501,P-ANG-Erhöhungstrank,P-ANG-Erhöhung,Erhöht P-ANG um 10 %.
+905502,M-ANG-Erhöhungstrank,M-ANG-Erhöhung,Erhöht M-ANG um 10 %.
+905503,P-VER-Erhöhungstrank,P-VER-Erhöhung,Erhöht P-VER um 10 %.
+905504,M-VER-Erhöhungstrank,M-VER-Erhöhung,Erhöht M-VER um 10 %.
+905505,Geschwindigkeitserhöhungstrank,Geschwindigkeitserhöhung,Erhöht Geschwindigkeit um 15 %.
+905506,Entnahme-GES-Erhöhungstrank,Entnahme-Geschwindigkeitserhöhung,Erhöht Entnahmegeschwindigkeit um 50 %.
+905507,ANG-GES-Erhöhungstrank,ANG-GES-Erhöhung,Erhöht ANG-GES um 20 %.
+905508,Ausweichratenerhöhungstrank,@24241,Erhöht Ausweichrate um 50 %.
+905509,Zähigkeitserhöhungstrank,Zähigkeitserhöhung,Erhöht Zähigkeit um 10.000.
+905510,VER-Ignorierender Schaden-Erhöhungstrank,VER-SCH-Ignorieren-Erhöhung,Erhöht VER-SCH-Ignorieren um 2.000.
+905511,Festschadenverringerung-Trank,Festschadenverringerung-Erhöhung,Erhöht Festschadenverringerung um 1.000.
+905512,Fertigkeits-Abklingzeitverringerungstrank,@21231,Verringert Fertigkeits-Abklingzeit um 30 %.
+905513,Durchdringung-Erhöhungstrank,Durchdringungserhöhung,Erhöht Durchdringung um 10.000.
+905514,Trank zur Bossschaden-Erhöhung,SCH-an-Boss-Erhöhung,Erhöht den dem Boss zugefügten Schaden um 15 %.
+905515,Trank zur Verringerung des durch Boss erlittenen Schadens,SCH-von-Boss-Verringerung,Verringert durch den Boss erlittenen Schaden um 5 %.
+905516,Kerngewinn-Erhöhungstrank,Monsterkernfunderhöhung,Erhöht die Monsterkernfundrate um 25 %. (Nicht für Elite-Dungeons)
+905601,Moralerhöhungstrank,Moralerhöhung,Erhöht die eigene und die Geschwindigkeit naher Klanmitglieder um 30 %.
+905602,Moralerhöhungs-Effekt,Moralerhöhungs-Effekt,Erhöht die Geschwindigkeit von Klanmitgliedern um 30 %.
+905603,Eissturm-Trank,Eissturm,Verringert die Geschwindigkeit naher Gegner um 50 %.
+905604,Eissturm-Effekt,Eissturm-Effekt,Verringert Geschwindigkeit um 50 %.
+905605,Trank der Zerstörung,Burg zerstören,Erhöht Angreiferbauten zugefügten Schaden um 50 %.
+905606,LP-Regen.-Erhöhungstrank,LP-Regen.-Steigerung,Erhöht die eigene und die LP-Regen. naher Klanmitglieder um 50 %.
+905607,LP-Regen.-Steigerung,LP-Regen.-Steigerung,Erhöht die LP-Regen. von Klanmitgliedern um 50 %.
+905608,ANG-Steigerungstrank,ANG-Steigerung,Verringert VER um 60 % und erhöht ANG um 20 %.
+905609,VER-Steigerungstrank,VER-Steigerung,Verringert ANG um 15 % und erhöht VER um 100 %.
+905610,Verstandaufwertungstrank,Verstandaufwertung,Erhöht Debuff-Widerstandsrate um 50 %.
+905611,Antimagie-Trank,Antimagie,Eliminiert MP naher Gegner um 20 % pro Sekunde.
+905612,Antimagie-Effekt,@905611,Eliminiert 20 % der MP pro Sekunde.
+906000,Ehrenhaftes-Schlachtfeld-Wiederbelebungsschutz,Ehrenhaftes-Schlachtfeld-Wiederbelebungsschutz,@1005
+906001,Ehrenhaftes Schlachtfeld,LP-Wiederherstellung,Heilt LP von Verbündeten.
+906002,@906001,LP-Wiederherstellungs-Effekt,@906001
+906003,@906001,@801041,Erhöht Geschwindigkeit von Verbündeten.
+906100,Courage-Schlachtfeld-Wiederbelebungsschutz,Courage-Schlachtfeld-Wiederbelebungsschutz,@1005
+906101,Courage-Schlachtfeld,@906001,Heilt LP.
+906102,@906101,@801041,Erhöht Geschwindigkeit.
+906500,Geplänkel-Arena-Wiederbelebungsschutz,Geplänkel-Arena-Wiederbelebungsschutz,@1005
+906501,Geplänkel-Arena-Zuflucht,Geplänkel-Arena-Zuflucht,"+30 % ANG, VER, ANG-GES und Geschwindigkeit"
+11,Seelenschuss,Seelenschuss,Dies ist ein Seelenschuss.
+12,Rückschlag-Attrappe,@1001,Dies ist zum Testen des Rückschlags.
+100001,Unbesiegbarkeitsbuff,@1004,Dies ist der Unbesiegbarkeitsbuff.
+100002,Unsichtbarkeitsbuff,Unsichtbar,Dies ist der Unsichtbarkeitsbuff.
+100003,Langlebigkeitsbuff,Langlebig,Dies ist der Langlebigkeitsbuff.
+100004,Gerissenheitsbuff,Gerissen,Dies ist der Gerissenheitsbuff.
+100005,Ein-Schlag-Kill-Buff,Ein-Schlag-Kill,Dies ist der Ein-Schlag-Kill-Buff.
+100006,Erdenergie,@20221,"Schutz des Erdaltars: P-ANG-/M-ANG +10 %, +25 % Verteidigungstürmen zugefügter Schaden"
+100007,Windenergie,@20221,"Schutz des Windaltars: P-ANG-/M-ANG +10 %, +25 % Verteidigungstürmen zugefügter Schaden"
+100008,Altars Schutz,@20221,Die Macht des Altars verstärkt und erhöht P-ANG und M-ANG um zusätzliche 30 %.
+100011,Komboeffekt Lv. {TextParam1},Kombo {TextParam2},Dies ist ein 10-Kombo-Buff. Es werden keine Symbole angezeigt.
+100012,@100011,@100011,Dies ist ein 20-Kombo-Buff. Es werden keine Symbole angezeigt.
+100013,@100011,@100011,Dies ist ein 40-Kombo-Buff. Es werden keine Symbole angezeigt.
+100014,@100011,@100011,Dies ist ein 60-Kombo-Buff. Es werden keine Symbole angezeigt.
+100015,@100011,@100011,Dies ist ein 90-Kombo-Buff. Es werden keine Symbole angezeigt.
+100016,@100011,@100011,Dies ist ein 120-Kombo-Buff. Es werden keine Symbole angezeigt.
+100017,@100011,@100011,Dies ist ein 160-Kombo-Buff. Es werden keine Symbole angezeigt.
+100018,@100011,@100011,Dies ist ein 200-Kombo-Buff. Es werden keine Symbole angezeigt.
+100019,@100011,@100011,Dies ist ein 250-Kombo-Buff. Es werden keine Symbole angezeigt.
+100020,@100011,@100011,Dies ist ein 300-Kombo-Buff. Es werden keine Symbole angezeigt.
+100021,Schlechtes Gewissen,ANG-/VER-Verringerung,Du fühlst dich sehr schuldig und kannst keine Kraft aufbringen.
+100031,PvP-Kalibrierungsbuff,ANG-/VER-Erhöhung,@100021
+100101,Held des Erdaltars,"ANG, Gebäudeschäden, Max. LP, erhöhte Geschwindigkeit","P-ANG und M-ANG +80 %, Verteidigungstürmen zugefügter Schaden +50 %, Max. LP +100 %, Geschwindigkeit +10 %, Betäubungswiderstand +30 %"
+100102,Held des Windaltars,@100101,@100101
+200000,Schutz,Schutz,@100001
+200001,Feuerenergie, GES Erhöhung,Der Feueraltar-Schutz erhöht Geschwindigkeit um 10 % und ANG-GES um 10 %.
+200002,Wasserenergie,"Geschwindigkeitserhöhung, Fertigkeits-Abklingzeitverringerung",Der Wasseraltar-Schutz erhöht Geschwindigkeit um 10 % und verringert Fertigkeits-Abklingzeit um 15 %.
+200003,Belagerungsheld Lv. {TextParam1},ANG/VER +{TextParam2},+1 % ANG/VER
+200004,@200003,@200003,+2 % ANG/VER
+200005,@200003,@200003,+3 % ANG/VER
+200006,@200003,@200003,+4 % ANG/VER
+200007,@200003,@200003,+5 % ANG/VER
+200008,@200003,@200003,+6 % ANG/VER
+200009,@200003,@200003,+7 % ANG/VER
+200013,@200003,@200003,@200003
+200014,@200003,@200003,@200004
+200015,@200003,@200003,@200005
+200016,@200003,@200003,@200006
+200017,@200003,@200003,@200007
+200018,@200003,@200003,@200008
+200019,@200003,@200003,@200009
+300001,Große Burg,ERF-Gewinn-Erhöhung,"+50 % ERF von Monstern
+Gilt nur im Territorium einer eroberten Burg."
+300002,Burg von Gludio,"+1,5 % ANG/VER","+1,5 % ANG und VER
+(Nicht für Burg- und Festenbelagerungen)"
+300003,Burg von Dion,+2 % ANG/VER,"+2 % ANG und VER
+(Nicht für Burg- und Festenbelagerungen)"
+300004,Burg von Giran,"+2,5 % ANG/VER","+2,5 % ANG und VER
+(Nicht für Burg- und Festenbelagerungen)"
+300005,Burg von Oren,+3 % ANG/VER,"+3 % ANG und VER
+(Nicht für Burg- und Festenbelagerungen)"
+301001,Festensegen,Monsterkernfundratenerhöhung,"Monsterkern Fundrate +10%
+Trifft nur in der Region einer von dir eroberten Festung zu."
+301002,Feste der Gludin-Straße,Erhöhung des Monstern zugefügten Schadens,+5 % Monstern zugefügter Schaden
+301003,Feste der Gludio-Ebenen,SCH-von-Monstern-Verringerung,-2 % erlittener SCH durch Monster
+301004,Feste des Windawood-Anwesens,@301002,+10 % Monstern zugefügter Schaden
+301005,Feste der Einöde,@301003,-4 % erlittener SCH durch Monster
+301006,Feste der Dion-Ebenen,Erhöhung des Elite-Monstern zugefügten SCH,+5 % Elite-Monstern zugefügter Schaden
+301007,Feste des Cruma-Sumpfes,SCH-von-Elite-Monstern-Verringerung,-2 % erlittener SCH durch Elite-Monster
+301008,Feste des Gipfels des Missklangs,@301006,+10 % Elite-Monstern zugefügter Schaden
+301009,Feste des Kreischenden Heiligtums,@301007,-4 % erlittener SCH durch Elite-Monster
+301010,Feste des Giran-Reiches,Erhöhung des Bossen zugefügten Schadens,+5 % Bossen zugefügter Schaden
+301011,Feste der Tödlichen Nebelküste,SCH-von-Bossmonstern-Verringerung,-2 % erlittener SCH durch Bosse
+301012,Feste der Teufelsinsel,@301010,+10 % Bossen zugefügter Schaden
+301013,Feste der Ruhelosen Totenstadt,@301011,-4 % erlittener SCH durch Bosse
+301014,Feste des Drachentals,Erhöhung des Spielern zugefügten Schadens,"+2 % Spielern zugefügter Schaden
+(Nicht für Burg- und Festenbelagerungen)"
+301015,Feste des Nordwindplateaus,Verringerung des von Spielern erlittenen Schadens,"-2 % durch Spieler erlittener Schaden
+(Nicht für Burg- und Festenbelagerungen)"
+301016,Feste der Ewigen Lande,@301014,"+4 % Spielern zugefügter Schaden
+(Nicht für Burg- und Festenbelagerungen)"
+301017,Eroberte Feste des Elfenbeinturms,@301015,"-4 % durch Spieler erlittener Schaden
+(Nicht für Burg- und Festenbelagerungen)"
+301018,Feste der Sprechenden Insel,@132221,"GES +2%
+(Ausschließlich Burgbelagerung, Festenbelagerung)"
+301030,Eroberte Feste - Buff C,"LP, MP, Geschwindigkeitserhöhung","LP, MP, +2 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+301031,Eroberte Feste - Buff B,@301030,@301030
+301032,Eroberte Feste - Buff A,@301030,"LP, MP, +3 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+301033,Eroberte Feste - Buff S,@301030,"LP, MP, +4 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+301034,Eroberte Feste - Buff R,@301030,"LP, MP, +6 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+301035,Eroberte Feste - Buff SR,@301030,"LP, MP, +8 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+301036,Eroberte Feste - Buff UR,@301030,"LP, MP, +10 % Geschwindigkeit
+(Nicht für Burg- und Festenbelagerungen)"
+302001,Weisheit des Fürsten,Erhöhung der Effektivität von LP-/MP-Tränken,+20 % Effizienz von LP- und MP-Tränken (Nicht für Burg- und Festenbelagerungen)
+302002,Ruhm des Fürsten,Erhöhung von ERF-Gewinn durch Sieg über Monster sowie von Kernfundrate,+{0} % ERF von Monstern und Kernfundrate
+302003,Gunst des Fürsten,Erhöhung von Gegenstandsfundrate durch Sieg über Monster sowie von Adenagewinn,+{0} % Adena von Monstern und Gegenstandsfundrate
+400001,Zufluchtsbuff,Erhöhung von Adena- und ERF-Gewinn sowie von Geschwindigkeit,"Adenagewinn-, ERF-Gewinn und Geschwindigkeitserhöhung"
+400002,Gran Kains Wut,"ANG-, VER- und ANG-GES-Erhöhung","ANG-, VER- und ANG-GES-Erhöhung"
+500001,Eldrus Wut,"Erhöhung von ANG, VER, Geschwindigkeit und ANG-GES",Zeigt Wut gegenüber schwachen Gegnern / Doppelt ANG und VER; Geschwindigkeits- und ANG-GES-Erhöhung
+510001,Täglicher Diamanten-Bonusbuff,@132221,+8 % Geschwindigkeit
+510002,Tagesjagd-Vorteile-Buff,"Gegenstandsfundrate, +20 % Adenagewinn",Gegenstandsfundrate / +20 % Adenagewinn
+900001,Turm der Anmaßung - Boss-Highlight,Stark,Stark
+301,Segen des robusten Honigdachses {TextParam1},Geschwindigkeit,Der Segen des Robusten Honigdachses erhöht Geschwindigkeit.
+302,@301,Entnahmegeschwindigkeit,Der Segen des Robusten Honigdachses erhöht Entnahmegeschwindigkeit.
+303,@301,Entnahmemenge,Der Segen des Robusten Honigdachses erhöht Entnahmemenge.
+304,Segen des Gartenwächters,Gartenwächter-Buff,Ein Segen des Gartenwächters. Erhöht Entnahmemenge um das {0}-fache.
+305,Gartenwächter,Gartenwächter,"Die erste Fertigkeit, die der Gartenwächter nach seinem Erscheinen einsetzt."
+306,Gartenwächter-Effekt,Gartenwächter-Effekt,"Der Effekt der Fertigkeit, die der Gartenwächter regelmäßig einsetzt."
+401,Quelle der Erholung,Quelle der Erholung,"Die erste Fertigkeit, die die Quelle der Erholung nach ihrem Erscheinen einsetzt."
+402,Quelle der Erholung-Buff,Quelle der Erholung-Buff,In der Nähe der Quelle der Erholung füllt sich LP schnell auf.
+403,Festenbelagerung-Wiederbelebungsbuff,@1004,Gewährt nach dem Wiederbeleben während einer Festenbelagerung kurzzeitig Unbesiegbarkeit.
+451,Wiederbelebungsbuff für Burgbelagerungsverteidiger,@1004,Gewährt nach dem Wiederbeleben während einer Burgbelagerung kurzzeitig Unbesiegbarkeit.
+452,@451,@301,Gewährt nach dem Wiederbeleben während einer Burgbelagerung kurzzeitig höhere Geschwindigkeit.
+453,Wiederbelebungsbuff für Burgbelagerungsangreifer,@1004,@451
+454,@453,@301,@452
+501,PK-Block,PK-Block,Unterliegt nicht PK. (Nicht für Burg- und Festenbelagerungen und Schlachtfeld)
+502,@501,@501,@501
+503,@501,@501,@501
+504,@501,@501,@501
+510,Einhasads Segen,Einhasads Segen,Erhöht gewonnene Feldjagd-ERF und Entnahme-ERF um 100 %.
+511,@510,@510,Erhöht gewonnene Feldjagd-ERF und Entnahme-ERF um 200 %.
+720212,Sprung - Betäuben,@11222,@1011
+1720212,@720212,@11222,@1011
+720222,Giftspucke - Gift,Gift,Fügt Gift zu und sorgt für Schaden über Zeit.
+1720222,@50007,@720222,Vergiftet und erleidet Schaden über Zeit.
+1720223,Giftpfütze,Giftpfütze,
+720232,Pheromon freigeben - P-VER-Verringerung,P-VER-Verringerung,Verringert P-VER.
+720233,Pheromon freigeben - M-VER-Verringerung,M-VER-Verringerung,Verringert M-VER.
+720234,Pheromon freigeben - GES-Verringerung,@12231,Verringert Geschwindigkeit.
+1720232,@720232,@720232,@720232
+1720233,@720233,@720233,@720233
+1720234,@720234,@12231,@720234
+1720310,Segen des Großen Ameisenpflegers_1,@1004,
+1720311,Segen des Großen Ameisenpflegers_2,@1004,
+1720312,Segen des Großen Ameisenpflegers_3,@1004,
+1720316,Selbstbetäubung,@11222,
+720241,Graben - Unsichtbarkeit,@100002,
+720242,Graben - Unbesiegbarkeit,@1004,
+720243,Graben - Betäuben,@11222,
+720251,Wüten (Ameisenkönigin),@905502,
+720282,Basisangriff + Verlangsamung,Basis-Krit.-SCH-Widerstand,@720234
+720301,{TextParam1} Sek. lang Immunität gegen physische Angriffe,,
+721211,Erhöht VER {TextParam1} Sek. lang.,,
+721222,Ameisenkönigin - Basisangriffsaufwertung,@720222,@720222
+7212411,Ameisen-Buff (Während angezeigter Zeit),Verbleibende Zeit bis zur Selbstzerstörung,
+721241,Ameisen-Buff {TextParam1},,
+721242,@721241,,
+721243,@721241,,
+721244,@721241,,
+721245,@721241,,
+721246,@721241,,
+721301,@720243,@11222,
+721321,Bindung,,Bindet und verursacht Immobilität.
+721332,Ameisenpfleger-Buff,,
+721341,Ameisenpfleger-Selbst-Buff,,
+17200022,@50007,,@1720222
+17200032,@1720223,@1720223,
+17200033,Gefallen,,
+17200052,@50005,,Kann mich nicht bewegen.
+17200091,Wüten,,
+720312,Blutklinge: Blutung,Blutung,Fügt 30 Sekunden lang Schaden über Zeit zu (Stapelbar).
+720321,Blutschutz,Schild,"Ein Schild, der 10 Sekunden lang hält."
+720351,Blutberserker,Wüten,Wüten
+720352,@720351,@720351,@720351
+720353,Blutberserker (Sehr schwer),@720351,@720351
+720372,@50005,Varcarlo: Betäuben,
+7203721,@50005,Varkaron (Sehr schwer) Betäubt,
+720361,Blutiger Klaps: Blutung,Bluten 2,@720312
+72038,Blutwirbel VER Verringern,@13211,Verringert 10 Sekunden lang SCH (Stapelbar).
+172035,Varkarons Klon: ANG-Aufwertungs-Buff,ANG-Aufwertung,ANG-Aufwertung
+720391,Klonbeschwörung: Abklingzeit,Abklingzeit,Einfache Abklingzeit
+720441,Schwerkraftgift,Schaden über Zeit,Fügt 30 Sekunden lang Schaden über Zeit zu.
+720451,Kerntoben,@720351,Toben
+720461,Gedankenkontrolle,Gedankenkontrolle,"Macht verwirrt und unfähig, Freund von Feind zu unterscheiden."
+720472,Bohrhieb (Betäuben),@11222,@1011
+720482,Brüllen des Torwächters (Stille),@142321,Kann keine Fertigkeiten einsetzen
+720511,Einfache Beschwörung {TextParam1},Abklingzeittest,@720391
+720521,@720461,@720461,@720461
+720531,@720461,@720461,@720461
+720541,@720511,@720511,@720391
+720551,Normale Beschwörung {TextParam1},@720511,@720391
+720561,@720551,@720511,@720391
+720571,@720551,@720511,@720391
+720581,Schwierige Beschwörung {TextParam1},@720511,@720391
+720591,@720581,@720511,@720391
+720601,@720581,@720511,@720391
+600,Gedankenkontrolle (Test),@720461,Gedankenkontrolle (Daten werden aktuell getestet)
+741141,Bruch,@11222,Bruch fügt Betäuben zu.
+741171,Marlox-Erschöpfung,@11222,"Marlox ist erschöpft.
+Erlittener Schaden von Marlox erhöht sich erheblich."
+741191,Dämonentotem-Buff (Stapelbar),Stapelbarer Buff,"Fügt Betäuben zu, wenn gestapelt."
+7411911,@741171,@11222,Marlox ist erschöpft.
+7411912,Marlox_Stark (Status),Dämonenimmunität,"Dämonenimmunität verhindert, dass du Schaden erleidest."
+601391,Verfall,ANG-GES-Verringerung,Verringert ANG-GES
+601402,Benommen,Verringerung der Angriffsgenauigkeitsrate,Verringert die Genauigkeitsrate von Angriffen.
+601412,@50006,@720312,Schaden über Zeit durch Bluten.
+601441,@50006,@720312,@601412
+601462,@50005,@11222,@1011
+601472,Niederschlagen,@1001,Hingefallen
+601612,@601472,@1001,@601472
+601622,Verlangsamen,@10122,Geschwindigkeitsverringerung
+601642,@50007,Gift,Schaden über Zeit durch Gift.
+601,@50005,@1011,@1011
+910245,Bio-Honigsüßigkeiten,,+1.500 ANG
+910246,Erdbeersüßigkeiten,,+3.000 max. LP
+910247,Schokolade,,+3.000 max. MP
+910248,Traubensüßigkeiten,,+2.000 VER
+910249,Frühlingsspross,,@910248
+910250,Gut gemacht,,@910245
+910251,Traube,,Erhöht Kritischen Schaden lang um 3 %.
+910252,Wassermelone,,@910246
+910253,Orientalische Melone,,@910248
+910254,Himbeere,,@910245
+910255,Feldheims Schatzsuche-Schlüssel,,@910246
+910256,Feuerwerk-Effektanimationsdaten 1 ,,Feuerwerk-Effektdaten 1
+910257,Feuerwerk-Effektanimationsdaten 2,,Feuerwerk-Effektdaten 2
+910258,Feuerwerk-Effektanimationsdaten 3,,Feuerwerk-Effektdaten 3
+910259,Feuerwerk-Effektanimationsdaten 4,,Feuerwerk-Effektdaten 4
+602,Buff für angezeigten Feldboss.,Für angezeigten Feldboss,Für angezeigten Feldboss
+800000,Alarmsymbol (Test),Alarmsymbol anzeigen,Alarmsymbol-Anzeigentest
+805004,@720312,@720312,@720312
+411005,Stichwunde,Stichwunde,Blutung aus Wunde verringert VER
+411010,Blutarmut,@11222,
+411011,Starker LP-Entzug,Starker LP-Entzug,Leonard erzwingt LP-Entzug.
+411018,Vampirisieren,ANG-Erhöhung und VER-Verringerung,Blut wird zu dem eines Vampirs und verursacht Wut.
+411019,Vampirische Veränderung,@720461,Blut wird vollständig vampirisiert und das Blut eines Verbündeten wird zum neuen Ziel.
+411036,Wut des Blutes I,,
+411037,Wut des Blutes II,,
+411038,Wut des Blutes III,,
+412005,@411005,@411005,@411005
+412010,@411010,@11222,
+412011,@411011,@411011,@411011
+412018,@411018,@411018,@411018
+412019,@411019,@720461,@411019
+412036,@411036,,
+412037,@411037,,
+412038,@411038,,
+413002,Aufgebrachtes Blut,ANG- und ANG-GES-Erhöhung,
+413005,@411005,@411005,@411005
+413010,Leonard: Blutarmut,@11222,
+413011,@411011,@411011,@411011
+413013,Ätzende Säure,SCH über Zeit und Geschwindigkeitsverringerung,Klebriges Erbrochenes schränkt Bewegung ein und schmilzt Haut.
+413016,Fledermaus: Unsichtbar,,
+4130212,Blutaufladung: Unbesiegbar,@1004,
+4130213,Blutaufladung: Betäuben,@11222,
+413018,@411018,@411018,@411018
+413019,@411019,@720461,@411019
+4130272,Blutgerinnsel-Glühen,,
+413034,Schleim-Übersättigung,,
+413035,Unbesiegbarkeit von Zakens Phantom,@1004,@1004
+413036,@411036,,
+413037,@411037,,
+413038,@411038,,
+413041,Leonard: Bluthölle,@11222,
+414002,@413002,@413002,
+414005,@411005,@411005,@411005
+414010,@411010,@11222,
+414011,@411011,@411011,@411011
+414013,@413013,@413013,@413013
+414016,@413016,,
+414018,@411018,@411018,@411018
+414019,@411019,@720461,@411019
+414036,@411036,,
+414037,@411037,,
+414038,@411038,,
+414041,@413041,@11222,
+414043,Tarks Unsichtbarkeitsbuff,@11222,
+414045,Vampirische Resonanz,,
+4010062,Steinhieb: Betäuben,@11222,@1011
+4010202,Ziel identifiziert: Ziel,Ziel,Wird zum Ziel von Axtwürfen.
+401021,Glut,,Explodiert nach kurzer Dauer und steckt den Boden in Brand.
+401026,Zündeln,Zusätzlicher Schaden (Stapelbar),Eine durch Zündeln ausgelöste Explosion verursacht deutlich mehr Schaden.
+401009,Ramogs wütende Königswache,Animation,
+401010,Ork-Schamanenseele: Animation,,
+401011,Nebulite-Kristall: Betäuben,@11222,
+401013,Selbstzerstörungs-Timer,@7212411,
+401014,Selbstzerstörungsanimation - Buff 1,,
+401015,Selbstzerstörungsanimation - Buff 2,,
+4020012,Starker Schlitzer: Niederschlagen,@1001,@601472
+4010351,Explosion-Bereitschaft: Unschädlich,Für die Unschädlichmachung von Ramog,
+4020101,Explosion-Bereitschaft: Unschädlich,@12231,
+4010361,Paagrios Bewegungsbuff,Mobil,
+4010222,@50001,Flamme,
+401000,Macht des Ork,Ork-Vorratskistenbuff,
+4011032,Ziel identifiziert: Betäuben,@1001,
+4011042,@401021,Glut,Glut haftet am Körper und fügt andauernden Schaden zu.
+4011022,Glutexplosion 1,@4011042,
+4011023,Glutexplosion 2,,
+4011092,Glutexplosion: Niederschlagen,@1001,
+4012022,@401026,,@401026
+4012051,Explosion-Bereitschaft,,
+4012061,@4010361,,
+401217,Wüten-Bereitschaft,,
+401218,Ramogs Selbstbetäubung,,
+4012092,Paagrios Glühen,,
+401211,Ramog - Wüten,,
+9902011,Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere: 1 Mal,,
+9902012,Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere: 2 Mal,,
+9902013,Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere: 3 Mal,,
+9903011,Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere: 1 Mal,,
+9903012,Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere: 2 Mal,,
+9903013,Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere: 3 Mal,,
+1000000,Elite-Monster-SCH-Erhöhung,Elite-Monster-SCH-Erhöhung-Buff,+15 % Schaden für Elite-Monster
+1000001,Boss-SCH Erhöhung,Boss-SCH Buff erhöhen,+15 % Schaden für Bosse
+1000002,Magie-Monster-SCH-Erhöhung,Magie-Monster-SCH-Erhöhung-Buff,+30 % Schaden für magische Monster
+420001,Paladin,,
+420002,Warlord,,
+420003,Schatzjäger,,
+420004,@11244,,
+420005,Hexenmeister,,
+420006,Bischof,,
+420007,Tempelritter,,
+420008,Schwertsänger,,
+420009,Ebenengänger,,
+420010,Silber-Ranger,,
+420011,Zaubersänger,,
+420012,Ältester,,
+420013,Shillien-Ritter,,
+420014,Klingentänzer,,
+420015,Höllengänger,,
+420016,Phantom-Ranger,,
+420017,Zauberwüter,,
+420018,Shillien-Ältester,,
+420019,Wächter,,
+420020,Schlächter,,
+420021,Streuner,,
+420022,Kriegs-Ranger,,
+420023,Kampfmagier,,
+420024,Weiser,,
+731211,자켄 밤 1단계,,
+731221,자켄 밤 2단계,,
+731231,자켄 밤 3단계,,
+731241,자켄 밤 4단계,,
+731251,자켄 밤 5단계,,
+731261,자켄 밤 6단계,,
+730223,Rückkehr,,
+730233,Rückkehr-Animation,,
+731361,Soldat der Zaken-Piraten,,
+731391,Hauptmann der Zaken-Piraten,,Verringert VER stark
+730271,Bereitschaft,,Verringert P-VER und M-VER
+730281,Verstecken,,
+730222,Teleportation + Begib dich zum ersten Boot,,
+730232,Teleportation + Begib dich zum zweiten Boot,,
+731412,Unbekannter Schleim,,
+731461,Maus - Unsichtbar,,
+731471,Maus - Rückkehr,,
+810000001,Lv.1-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 10 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000002,Lv.2-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 20 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000003,Lv.3-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 30 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000004,Lv.4-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 40 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000005,Lv.5-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 50 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000006,Lv.6-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 60 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000007,Lv.7-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 70 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000008,Lv.8-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 80 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000009,Lv.9-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 90 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000010,Lv.10-Klan-Trank: Adena-Buff,@40002,"Bei Benutzung wird erhaltenes Adena um 100 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000101,Lv.1-Klan-Trank: Gegenstandsfund-Buff,Gegenstandsfundratenerhöhung,"Bei Benutzung wird die Gegenstandsfundrate um 10 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000102,Lv.2-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 20 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000103,Lv.3-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 30 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000104,Lv.4-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 40 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000105,Lv.5-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 50 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000106,Lv.6-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 60 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000107,Lv.7-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 70 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000108,Lv.8-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 80 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000109,Lv.9-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 90 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000110,Lv.10-Klan-Trank: Gegenstandsfund-Buff,@810000101,"Bei Benutzung wird die Gegenstandsfundrate um 100 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000201,Lv.1-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 10 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000202,Lv.2-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 20 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000203,Lv.3-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 30 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000204,Lv.4-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 40 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000205,Lv.5-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 50 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000206,Lv.6-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 60 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000207,Lv.7-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 70 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000208,Lv.8-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 80 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000209,Lv.9-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 90 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000210,Lv.10-Klan-Trank: Kernfund-Buff,@905516,"Bei Benutzung wird die Monsterkernfundrate um 100 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000301,Lv.1-Klan-Trank: ERF-Buff,ERF-Erhöhung,"Bei Benutzung wird erhaltene ERF um 10 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000302,Lv.2-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 20 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000303,Lv.3-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 30 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000304,Lv.4-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 40 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000305,Lv.5-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 50 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000306,Lv.6-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 60 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000307,Lv.7-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 70 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000308,Lv.8-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 80 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000309,Lv.9-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 90 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+810000310,Lv.10-Klan-Trank: ERF-Buff,@810000301,"Bei Benutzung wird erhaltene ERF um 100 % erhöht.
+Der Effekt dauert 1 Stunde lang an."
+30910245,Einfache Schokolade,,@910245
+30910246,Milchschokolade,,@910246
+30910247,Dunkle Schokolade,,@910247
+30910248,Weiße Schokolade,,@910248
+30910251,Amaretto-Schokolade,,@910251

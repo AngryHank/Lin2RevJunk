@@ -1,0 +1,1832 @@
+Id,Nme,Desc
+1,Derrote o trabalhador orc da Ilha Falante Ocidental.,Derrote o Trabalhador orc {TaskCount} vez(es).
+2,Derrote o Dícor espinhosa da floresta da Ilha Falante Ocidental.,Derrote o Dícor Espinhosa da floresta {TaskCount} vez(es).
+3,Derrote Raposa vermelha faminta da Ilha Falante Ocidental.,Derrote Raposa vermelha faminta {TaskCount} vez(es).
+4,Derrote a Vespa da floresta da Ilha Falante Ocidental.,Derrote a Vespa da floresta {TaskCount} vez(es).
+5,@1,@1
+6,@2,@2
+7,@3,@3
+8,@1,@1
+9,@2,@2
+10,@3,@3
+11,@4,@4
+12,@1,@1
+13,@2,@2
+14,@3,@3
+15,@1,@1
+16,@2,@2
+17,@3,@3
+18,@4,@4
+19,@1,@1
+20,@2,@2
+21,@3,@3
+22,@1,@1
+23,@2,@2
+24,@3,@3
+25,@4,@4
+26,@1,@1
+27,@2,@2
+28,@3,@3
+29,@2,@2
+30,@3,@3
+31,Derrote o Soldado esqueleto da Ilha Falante Ocidental.,Derrote o Soldado esqueleto {TaskCount} vez(es).
+32,Derrote o Arqueiro esqueleto da Ilha Falante Ocidental.,Derrote o Arqueiro esqueleto {TaskCount} vez(es).
+33,@31,@31
+34,@32,@32
+35,@31,@31
+36,@32,@32
+37,@31,@31
+38,@32,@32
+39,@31,@31
+40,@32,@32
+41,@31,@31
+42,@32,@32
+43,@31,@31
+44,@32,@32
+45,@31,@31
+46,@32,@32
+47,@31,@31
+48,@32,@32
+49,@31,@31
+50,@32,@32
+51,@31,@31
+52,@32,@32
+53,@31,@31
+54,@32,@32
+55,@31,@31
+56,@32,@32
+57,@31,@31
+58,@32,@32
+59,@31,@31
+60,@32,@32
+61,@31,@31
+62,@32,@32
+63,Derrote o Lobisomem raivoso da Estrada de Gludin.,Derrote o Lobisomem raivoso {TaskCount} vez(es).
+64,@63,@63
+65,@63,@63
+66,@63,@63
+67,@63,@63
+68,@63,@63
+69,Derrote o batedor Ol Mahum da Estrada de Gludin.,Derrote o Batedor Ol Mahum {TaskCount} vez(es).
+70,@69,@69
+71,@69,@69
+72,@69,@69
+73,@69,@69
+74,@69,@69
+75,Derrote o Puma da planície da Estrada de Gludin.,Derrote o Puma da planície {TaskCount} vez(es).
+76,Derrote o Tecelão da Estrada de Gludin.,Derrote o Tecelão {TaskCount} vez(es).
+77,@75,@75
+78,@76,@76
+79,@75,@75
+80,@76,@76
+81,@75,@75
+82,@76,@76
+83,@75,@75
+84,@76,@76
+85,@75,@75
+86,@76,@76
+87,@63,@63
+88,@63,@63
+89,@63,@63
+90,@69,@69
+91,@69,@69
+92,@69,@69
+93,Derrote o Soldado esqueleto malévolo da Estrada de Gludin,Derrote o Soldado esqueleto malévolo {TaskCount} vez(es).
+94,Derrote o Morcego da sepultura da Estrada de Gludin.,Derrote o Morcego da sepultura {TaskCount} vez(es).
+95,@93,@93
+96,@94,@94
+97,@93,@93
+98,@94,@94
+99,@93,@93
+100,@94,@94
+101,@93,@93
+102,@94,@94
+103,@93,@93
+104,@94,@94
+105,@93,@93
+106,@94,@94
+107,@93,@93
+108,@94,@94
+109,@93,@93
+110,@94,@94
+111,@93,@93
+112,@94,@94
+113,@93,@93
+114,@94,@94
+115,@93,@93
+116,@94,@94
+117,Derrote o Arqueiro esqueleto malévolo da Estrada de Gludin.,Derrote o Arqueiro esqueleto malévolo {TaskCount} vez(es).
+118,@117,@117
+119,@93,@93
+120,@94,@94
+121,@117,@117
+122,@117,@117
+123,Derrote o capataz Ol Mahum da Estrada de Gludin.,Derrote o Capataz Ol Mahum {TaskCount} vez(es).
+124,Derrote o degolador Ol Mahum da Estrada de Gludin.,Derrote o Degolador Ol Mahum {TaskCount} vez(es).
+125,@123,@123
+126,@124,@124
+127,@123,@123
+128,@124,@124
+129,@123,@123
+130,@124,@124
+131,@123,@123
+132,@124,@124
+133,@123,@123
+134,@124,@124
+135,@123,@123
+136,@124,@124
+137,@123,@123
+138,@124,@124
+139,@123,@123
+140,@124,@124
+141,@123,@123
+142,@124,@124
+143,@123,@123
+144,@124,@124
+145,Derrote o atirador Ol Mahum da Estrada de Gludin.,Derrote o Atirador Ol Mahum {TaskCount} vez(es).
+146,@145,@145
+147,@123,@123
+148,@124,@124
+149,@123,@123
+150,@124,@124
+151,@145,@145
+152,@145,@145
+153,Derrote a Raposa vermelha da Planície de Gludio.,Derrote a Raposa vermelha {TaskCount} vez(es).
+154,Derrote o Lobo negro louco da Planície de Gludio.,Derrote o Lobo negro louco {TaskCount} vez(es).
+155,Derrote o Antílope da Planície de Gludio.,Derrote Antílope {TaskCount} vez(es).
+156,@153,@153
+157,@154,@154
+158,@155,@155
+159,@153,@153
+160,@154,@154
+161,@155,@155
+162,@153,@153
+163,@154,@154
+164,@155,@155
+165,Derrote o obstinado homem-lagarto Maille da Planície de Gludio.,Derrote o obstinado homem-lagarto Maille {TaskCount} vez(es).
+166,Derrote o Lobo negro raivoso da Planície de Gludio.,Derrote o Lobo negro raivoso {TaskCount} vez(es).
+167,Derrote o Pinção da Planície de Gludio.,Derrote {TaskCount} Pinções.
+168,@165,@165
+169,@166,@166
+170,@167,@167
+171,@165,@165
+172,@166,@166
+173,@167,@167
+174,@165,@165
+175,@166,@166
+176,@167,@167
+177,Derrote o Troglodita saqueador da Planície de Gludio.,Derrote o Troglodita saqueador {TaskCount} vez(es).
+178,@177,@177
+179,@177,@177
+180,@177,@177
+181,@177,@177
+182,@177,@177
+183,@165,@165
+184,@166,@166
+185,@153,@153
+186,@154,@154
+187,@155,@155
+188,@167,@167
+189,Derrote o Tecelão sombrio da Planície de Gludio.,Derrote o Tecelão sombrio {TaskCount} vez(es).
+190,@177,@177
+191,Derrote o Troglodita açougueiro da Planície de Gludio.,Derrote o Troglodita açougueiro {TaskCount} vez(es).
+192,@165,@165
+193,@166,@166
+194,@153,@153
+195,@154,@154
+196,@155,@155
+197,@167,@167
+198,@189,@189
+199,@177,@177
+200,@191,@191
+201,@154,@154
+202,@155,@155
+203,@167,@167
+204,@189,@189
+205,@177,@177
+206,@191,@191
+207,@154,@154
+208,@155,@155
+209,@167,@167
+210,@189,@189
+211,@177,@177
+212,@191,@191
+213,Derrote o Xamã homem-lagarto Maille da Planície de Gludio.,Derrote o Xamã homem-lagarto Maille {TaskCount} vez(es).
+214,Derrote o Franco-atirador homem-lagarto Maille da Planície de Gludio.,Derrote o Franco-atirador homem-lagarto Maille {TaskCount} vez(es).
+215,Derrote o Guarda homem-lagarto Maille da Planície de Gludio.,Derrote o Guarda homem-lagarto Maille {TaskCount} vez(es).
+216,Derrote o Batedor homem-lagarto Maille da Planície de Gludio.,Derrote o Batedor homem-lagarto Maille {TaskCount} vez(es).
+217,@213,@213
+218,@214,@214
+219,@215,@215
+220,@216,@216
+221,@213,@213
+222,@214,@214
+223,@215,@215
+224,@216,@216
+225,@213,@213
+226,@214,@214
+227,@215,@215
+228,@216,@216
+229,@215,@215
+230,@216,@216
+231,@215,@215
+232,@216,@216
+233,@213,@213
+234,@214,@214
+235,@215,@215
+236,@216,@216
+237,@213,@213
+238,@214,@214
+239,@215,@215
+240,@216,@216
+241,@215,@215
+242,@216,@216
+243,Derrote o Caçador amaldiçoado da Mansão Windawood.,Derrote o Caçador amaldiçoado {TaskCount} vez(es).
+244,Derrote o Sujeito misterioso da Mansão Windawood.,Derrote o Sujeito misterioso {TaskCount} vez(es).
+245,Derrote o Lobisomem grotesco da Mansão Windawood.,Derrote o Lobisomem grotesco {TaskCount} vez(es).
+246,Derrote o Morcego vampiro da Mansão Windawood.,Derrote o Morcego vampiro {TaskCount} vez(es).
+247,Derrote o Guerreiro esqueleto da Mansão Windawood.,Derrote o Guerreiro esqueleto {TaskCount} vez(es).
+248,Derrote o Flecheiro esqueleto da Mansão Windawood.,Derrote o Flecheiro esqueleto {TaskCount} vez(es).
+249,Derrote o Cão faminto da Mansão Windawood.,Derrote o Cão faminto {TaskCount} vez(es).
+250,@247,@247
+251,Derrote o Retalhador das Almas da Mansão Windawood.,Derrote o Retalhador das Almas {TaskCount} vez(es).
+252,@243,@243
+253,@244,@244
+254,@245,@245
+255,@246,@246
+256,@247,@247
+257,@248,@248
+258,@249,@249
+259,@247,@247
+260,@251,@251
+261,@243,@243
+262,@244,@244
+263,@245,@245
+264,@246,@246
+265,@247,@247
+266,@248,@248
+267,@249,@249
+268,@247,@247
+269,@251,@251
+270,@249,@249
+271,@247,@247
+272,@251,@251
+273,Derrote o Prima vingativo da Mansão Windawood.,Derrote o Prima vingativo {TaskCount} vez(es).
+274,Derrote o Ladrão de cristais Ol Mahum da Mansão Windawood.,Derrote o Ladrão de cristais de Ol Mahum {TaskCount} vez(es).
+275,Derrote o Guarda Ol Mahum da Mansão Windawood.,Derrote o Patrulheiro de Ol Mahum {TaskCount} vez(es).
+276,Derrote a Vanguarda Ol Mahum da Mansão Windawood.,Derrote a Vanguarda de Ol Mahum {TaskCount} vez(es).
+277,Derrote o Guarda Ol Mahum da Mansão Windawood.,Derrote o Guarda de Ol Mahum {TaskCount} vez(es).
+278,Derrote a Aranha peçonhenta da Mansão Windawood.,Derrote a Aranha Peçonhenta {TaskCount} vez(es).
+279,Derrote o Puma feroz da Mansão Windawood.,Derrote o Puma feroz {TaskCount} vez(es).
+280,@273,@273
+281,@274,@274
+282,@275,@275
+283,@276,@276
+284,@277,@277
+285,@278,@278
+286,@279,@279
+287,@273,@273
+288,@274,@274
+289,@275,@275
+290,@276,@276
+291,@277,@277
+292,@278,@278
+293,@279,@279
+294,@273,@273
+295,@274,@274
+296,@275,@275
+297,@276,@276
+298,@277,@277
+299,@278,@278
+300,@279,@279
+301,@278,@278
+302,@279,@279
+303,Derrote a Snipe caída da Mansão Windawood.,Derrote a Snipe caída {TaskCount} vez(es).
+304,Derrote o Puma da Mansão Windawood.,Derrote o Puma {TaskCount} vez(es).
+305,Derrote o Urso de Gludio da Mansão Windawood.,Derrote o Urso de Gludio {TaskCount} vez(es).
+306,Derrote o Soldado recruta orc de Turek da Mansão Windawood.,Derrote o Soldado recruta orc de Turek {TaskCount} vez(es).
+307,Derrote os Soldados orc de Turek da Mansão Windawood.,Derrote os Soldados orc Turek {TaskCount} vez(es).
+308,Derrote o Guarda orc de Turek da Mansão Windawood.,Derrote o Guarda orc de Turek {TaskCount} vez(es).
+309,Derrote o Atirador orc de Turek da Mansão Windawood.,Derrote o Atirador orc de Turek {TaskCount} vez(es).
+310,Derrote o Cão feroz de Guerra de Turek da Mansão Windawood.,Derrote o Cão feroz de guerra de Turek {TaskCount} vez(es).
+311,Derrote o Decano orc de Turek da Mansão Windawood.,Derrote o Decano orc de Turek {TaskCount} vez(es).
+312,@303,@303
+313,@304,@304
+314,@305,@305
+315,@306,@306
+316,@307,@307
+317,@308,@308
+318,@309,@309
+319,@310,@310
+320,@311,@311
+321,@303,@303
+322,@304,@304
+323,@305,@305
+324,@306,@306
+325,@307,@307
+326,@308,@308
+327,@309,@309
+328,@310,@310
+329,@311,@311
+330,@309,@309
+331,@310,@310
+332,@311,@311
+333,Derrote os Guardas do altar orc de Turek da Mansão Windawood,Derrote o Guarda do altar orc de Turek {TaskCount} vez(es).
+334,Derrote o Batedor orc de Turek da Mansão Windawood.,Derrote o Batedor orc de Turek {TaskCount} vez(es).
+335,Derrote o Flecheiro orc de Turek da Mansão Windawood.,Derrote o Flecheiro orc de Turek {TaskCount} vez(es).
+336,Derrote a Escolta orc de Turek da Mansão Windawood.,Derrote a Escolta orc de Turek {TaskCount} vez(es).
+337,Derrote o Soldado de elite orc de Turek da Mansão Windawood.,Derrote o Soldado de elite orc de Turek {TaskCount} vez(es).
+338,@333,@333
+339,@334,@334
+340,@335,@335
+341,@336,@336
+342,@337,@337
+343,@333,@333
+344,@334,@334
+345,@335,@335
+346,@336,@336
+347,@337,@337
+348,@333,@333
+349,@334,@334
+350,@335,@335
+351,@336,@336
+352,@337,@337
+353,@333,@333
+354,@334,@334
+355,@337,@337
+356,@333,@333
+357,@334,@334
+358,@335,@335
+359,@336,@336
+360,@337,@337
+361,@333,@333
+362,@334,@334
+363,Derrote o Portador Ol Mahum do Deserto.,Derrote o Transportador de Ol Mahum {TaskCount} vez(es).
+364,Derrote o Lobisomem do Deserto.,Derrote o Lobisomem {TaskCount} vez(es).
+365,Derrote o Vigia do Vale do Deserto.,Derrote o Vigia do vale {TaskCount} vez(es).
+366,Derrote o Rastreador Olho de monstro do Deserto.,Derrote o Rastreador Olho de monstro {TaskCount} vez(es).
+367,Derrote Sahara do Deserto,Derrote Sahara {TaskCount} vez(es).
+368,Derrote o Buscador esqueleto do Deserto.,Derrote o Buscador esqueleto {TaskCount} vez(es).
+369,Derrote o Basilisco do Deserto.,Derrote o Basilisco do Deserto {TaskCount} vez(es).
+370,Derrote a Formiga Blindada Mutante do Deserto.,Derrote a Formiga Blindada Mutante {TaskCount} vez(es).
+371,Derrote a Formiga Guerreira Blindada Mutante do Deserto.,Derrote a Formiga Guerreira Blindada Mutante {TaskCount} vez(es).
+372,Derrote o Rastreador esqueleto do Deserto.,Derrote o Rastreador esqueleto {TaskCount} vez(es).
+373,@363,@363
+374,@364,@364
+375,@365,@365
+376,@366,@366
+377,@367,@367
+378,@368,@368
+379,@369,@369
+380,@370,@370
+381,@371,@371
+382,@372,@372
+383,@363,@363
+384,@364,@364
+385,@365,@365
+386,@369,@369
+387,@370,@370
+388,@371,@371
+389,@372,@372
+390,@363,@363
+391,@364,@364
+392,@365,@365
+393,Derrote o Sahara erodido do Deserto.,Derrote o Sahara Erodido {TaskCount} vez(es).
+394,Derrote a Sanguessuga gigante do Deserto.,Derrote a Sanguessuga gigante {TaskCount} vez(es).
+395,Derrote o Formiga Operária Blindada Mutante do Deserto.,Derrote as Formigas operárias Blindadas Mutantes {TaskCount} vez(es).
+396,Derrote a Formiga Pajem Blindada Mutante do Deserto.,Derrote a Formiga Pajem Blindada Mutante {TaskCount} vez(es).
+397,Derrote o Guarda saqueador Ol Mahum do Deserto.,Derrote o Guarda saqueador Ol Mahum {TaskCount} vez(es).
+398,Derrote o Transportador Ol Mahum do Deserto.,Derrote o Contrabandista Ol Mahum {TaskCount} vez(es).
+399,Derrote a Suga-mana do Deserto.,Derrote a Suga-mana {TaskCount} vez(es).
+400,Derrote o Sentinela esqueleto desertor do Deserto,Derrote o Sentinela esqueleto do deserto {TaskCount} vez(es).
+401,Derrote o Buscador esqueleto desertor do Deserto.,Derrote o Buscador esqueleto do deserto {TaskCount} vez(es).
+402,Derrote a Formiga soldado Blindada Mutante do Deserto.,Derrote a Formiga Soldado Blindada Mutante {TaskCount} vez(es).
+403,Derrote o Sahara do Deserto do Deserto.,Derrote o Sahara do Deserto {TaskCount} vez(es).
+404,Derrote os Golems de Pedra Cinzas,Derrote o Golem de Pedra Cinza {TaskCount} vez(es).
+405,Derrote o Saqueador Ol Mahum do Deserto.,Derrote o Saqueador Ol Mahum {TaskCount} vez(es).
+406,@393,@393
+407,@394,@394
+408,@395,@395
+409,@396,@396
+410,@397,@397
+411,@398,@398
+412,@399,@399
+413,@400,@400
+414,@401,@401
+415,@402,@402
+416,@403,@403
+417,@404,@404
+418,@405,@405
+419,@402,@402
+420,@403,@403
+421,@404,@404
+422,@405,@405
+423,@403,@403
+424,@404,@404
+425,@397,@397
+426,@398,@398
+427,@405,@405
+428,Derrote o Lutador saqueador Ol Mahum do Deserto.,Derrote o Lutador saqueador Ol Mahum {TaskCount} vez(es).
+429,Derrote o Saqueador Ol Mahum do Deserto.,Derrote o Patrulheiro saqueador Ol Mahum {TaskCount} vez(es).
+430,@403,@403
+431,@403,@403
+432,@404,@404
+433,@397,@397
+434,@398,@398
+435,@405,@405
+436,@428,@428
+437,@429,@429
+438,@403,@403
+439,@403,@403
+440,@404,@404
+441,@397,@397
+442,@398,@398
+443,@405,@405
+444,@428,@428
+445,@429,@429
+446,@403,@403
+447,@397,@397
+448,@398,@398
+449,@405,@405
+450,@428,@428
+451,@429,@429
+452,@403,@403
+453,Derrote o Batedor orc de Breka da Planície de Dion.,Derrote o Batedor orc de Breka {TaskCount} vez(es).
+454,Derrote o Lutador orc de Breka da Planície de Dion.,Derrote o Lutador orc de Breka {TaskCount} vez(es).
+455,Derrote o Guarda orc de Breka da Planície de Dion.,Derrote o Guarda orc de Breka {TaskCount} vez(es).
+456,Derrote a Escolta orc de Breka da Planície de Dion.,Derrote a Escolta orc de Breka {TaskCount} vez(es).
+457,Derrote a Vespa Furiosa da Planície de Dion.,Derrote a Vespa Furiosa {TaskCount} vez(es).
+458,Derrote a Vespa da Planície de Dion.,Derrote a Vespa {TaskCount} vez(es).
+459,Derrote a Fornecedor orc de Breka da Planície de Dion.,Derrote o Fornecedor orc de Breka {TaskCount} vez(es).
+460,Derrote o Patrulheiro orc de Breka da Planície de Dion.,Derrote o Patrulheiro orc de Breka {TaskCount} vez(es).
+461,Derrote o homem-lagarto Leto da Planície de Dion.,Derrote o Homem-lagarto Leto {TaskCount} vez(es).
+462,Derrote o Lutador homem-lagarto Leto da Planície de Dion.,Derrote o Lutador homem-lagarto Leto {TaskCount} vez(es).
+463,Derrote o Arqueiro homem-lagarto Leto da Planície de Dion.,Derrote o Arqueiro homem-lagarto Leto {TaskCount} vez(es).
+464,Derrote o Saqueador homem-lagarto Leto da Planície de Dion.,Derrote o Saqueador homem-lagarto Leto {TaskCount} vez(es).
+465,@453,@453
+466,@454,@454
+467,@455,@455
+468,@456,@456
+469,@457,@457
+470,@458,@458
+471,@459,@459
+472,@460,@460
+473,@461,@461
+474,@462,@462
+475,@463,@463
+476,@464,@464
+477,@459,@459
+478,@460,@460
+479,@461,@461
+480,@462,@462
+481,@463,@463
+482,@464,@464
+483,Derrote o Xamã homem-lagarto Leto da Planície de Dion.,Derrote o Xamã homem-lagarto Leto {TaskCount} vez(es).
+484,Derrote o Guarda homem-lagarto Leto da Planície de Dion.,Derrote o Guarda homem-lagarto Leto {TaskCount} vez(es).
+485,Derrote a Vespa Espinhosa da Planície de Dion.,Derrot a Vespa Espinhosa {TaskCount} vez(es).
+486,Derrote o Antílope da pradaria da Planície de Dion.,Derroto Antílope das pradarias {TaskCount} vez(es).
+487,Derrote o Pilhador Homem-lagarto Leto da Planície de Dion.,Derrote o Pilhador Homem-lagarto Leto {TaskCount} vez(es).
+488,@484,@484
+489,Derrote a Escolta homem-lagarto Leto da Planície de Dion.,Derrote a Escolta de homens-lagartos de Leto {TaskCount} vez(es).
+490,Derrote o Windsus da pradaria da Planície de Dion.,Derrote o Windsus das pradarias {TaskCount} vez(es).
+491,@483,@483
+492,@484,@484
+493,@485,@485
+494,@486,@486
+495,@487,@487
+496,@484,@484
+497,@489,@489
+498,@490,@490
+499,@483,@483
+500,@484,@484
+501,@485,@485
+502,@486,@486
+503,@487,@487
+504,@484,@484
+505,@489,@489
+506,@490,@490
+507,Derrote o Antílope élfico da Planície de Dion.,Derrote o Antílope élfico {TaskCount} vez(es).
+508,@487,@487
+509,@484,@484
+510,@489,@489
+511,@490,@490
+512,@507,@507
+513,Derrote o Infiltrador orc de Breka da Planície de Dion.,Derrote o Infiltrador orc de Breka {TaskCount} vez(es).
+514,Derrote o Antílope ancião da Planície de Dion.,Derrote o Antílope Ancião {TaskCount} vez(es).
+515,Derrote o Morcego vampiro grosseiro da Planície de Dion.,Derrote o Morcego vampiro grosseiro {TaskCount} vez(es).
+516,Derrote a Aranha Espinhosa Gigante da Planície de Dion.,Derrote a Aranha Espinhosa gigante {TaskCount} vez(es).
+517,Derrote o Morcego vampiro da Planície de Dion.,Derrote o Morcego vampiro {TaskCount} vez(es).
+518,Derrote o Troglodita de Tullan da Planície de Dion.,Derrote o Troglodita de Tullan {TaskCount} vez(es).
+519,Derrote o Urso-vermelho feroz da Planície de Dion.,Derrote o Urso-vermelho feroz {TaskCount} vez(es).
+520,Derrote a Aranha-navalha da pradaria da Planície de Dion.,Derrote a Aranha-navalha da pradaria {TaskCount} vez(es).
+521,Derrote o Pinção-navalha da Planície de Dion.,Derrote o Pinção-navalha {TaskCount} vez(es).
+522,Derrote o Urso-vermelho da Planície de Dion.,Derrote o Urso-vermelho {TaskCount} vez(es).
+523,Derrote o Troglodita da Planície de Dion.,Derrote o Troglodita {TaskCount} vez(es).
+524,Derrote o Windsus élfico da Planície de Dion.,Derrote o Windsus élfico {TaskCount} vez(es).
+525,Derrote o Urso-vermelho élfico da Planície de Dion.,Derrote o Urso-vermelho élfico {TaskCount} vez(es).
+526,Derrote o Soldado orc de Breka da Planície de Dion.,Derrote o Soldado orc de Breka {TaskCount} vez(es).
+527,Derrote a Vespa Sangrenta da Planície de Dion.,Derrote a Vespa Sangrenta {TaskCount} vez(es).
+528,@513,@513
+529,@514,@514
+530,@515,@515
+531,@516,@516
+532,@517,@517
+533,@518,@518
+534,@519,@519
+535,@520,@520
+536,@521,@521
+537,@522,@522
+538,@523,@523
+539,@524,@524
+540,@525,@525
+541,@526,@526
+542,@527,@527
+543,Derrote a Aranha tigre-negro do Pântano de Cruma.,Derrote a Aranha tigre-negro {TaskCount} vez(es).
+544,Derrote o Ceifeiro Enevoado do Horror do Pântano de Cruma.,Derrote o Ceifeiro enevoado do horror {TaskCount} vez(es).
+545,Derrote o Ceifeiro do Horror do Pântano de Cruma.,Derrote o Ceifeiro do horror {TaskCount} vez(es).
+546,Derrote a Aranha Peçonhenta do Pântano de Cruma.,Derrote a Aranha Peçonhenta do Pântano {TaskCount} vez(es).
+547,Derrote o Morcego do pântano do Pântano de Cruma,Derrote o Morcego do pântano {TaskCount} vez(es).
+548,Derrote o Vidente Amaldiçoado do Pântano de Cruma.,Derrote o Vidente amaldiçoado {TaskCount} vez(es).
+549,@543,@543
+550,@544,@544
+551,@545,@545
+552,@546,@546
+553,@547,@547
+554,@548,@548
+555,@543,@543
+556,@544,@544
+557,@545,@545
+558,@546,@546
+559,@547,@547
+560,@548,@548
+561,@543,@543
+562,@544,@544
+563,@545,@545
+564,@546,@546
+565,@547,@547
+566,@548,@548
+567,@543,@543
+568,@544,@544
+569,@545,@545
+570,@546,@546
+571,@547,@547
+572,@548,@548
+573,Derrote a Vanguarda homem-lagarto Maille do Pântano de Cruma.,Derrote a Vanguarda de homens-lagartos Maille {TaskCount} vez(es).
+574,Derrote a Escolta esqueleto do Pântano de Cruma.,Derrote o Batedor esqueleto {TaskCount} vez(es).
+575,Derrote o Perseguidor esqueleto do Pântano de Cruma.,Derrote o Perseguidor esqueleto {TaskCount} vez(es).
+576,Derrote o Xamã homem-lagarto Maille do Pântano de Cruma.,@213
+577,Derrote o Perseguidor homem-lagarto Maille do Pântano de Cruma.,Derrote o Rastreador homem-lagarto Maille {TaskCount} vez(es).
+578,Derrote o Vigilante homem-lagarto Maille do Pântano de Cruma.,Derrote o Vigilante homem-lagarto Maille {TaskCount} vez(es).
+579,Derrote o Carniçal do pântano do Pântano de Cruma.,Derrote o Carniçal do pântano {TaskCount} vez(es).
+580,@573,@573
+581,@574,@574
+582,@575,@575
+583,@576,@213
+584,@577,@577
+585,@578,@578
+586,@579,@579
+587,@573,@573
+588,@574,@574
+589,@575,@575
+590,@576,@213
+591,@577,@577
+592,@578,@578
+593,@579,@579
+594,@576,@213
+595,@577,@577
+596,@578,@578
+597,@577,@577
+598,@578,@578
+599,@579,@579
+600,@576,@213
+601,@577,@577
+602,@578,@578
+603,Derrote o assassino do Pântano de Cruma.,Derrote o Assassino do Pântano {TaskCount} vez(es).
+604,Derrote o Matador do pântano do Pântano de Cruma.,Derrote o Matador do pântano {TaskCount} vez(es).
+605,Derrote o Mensageiro do Pântano Stakato do Pântano de Cruma.,Derrote o Mensageiro do Pântano Stakato {TaskCount} vez(es).
+606,Derrote o sicário do Pântano de Cruma.,Derrote o Sicário do Pântano {TaskCount} vez(es).
+607,Derrote o Escravo do Pântano Stakato do Pântano de Cruma.,Derrote o Escravo do Pântano Stakato {TaskCount} vez(es).
+608,Derrote o sicário do Pântano Stakato do Pântano de Cruma.,Derrote o Sicário do Pântano Stakato {TaskCount} vez(es).
+609,Derrote o Assassino destrutivo do Pântano de Cruma.,Derrote o Assassino destrutivo {TaskCount} vez(es).
+610,Derrote o Matador do pântano do Pântano de Cruma.,@604
+611,@603,@603
+612,@604,@604
+613,@605,@605
+614,@606,@606
+615,@607,@607
+616,@608,@608
+617,@609,@609
+618,@610,@604
+619,@603,@603
+620,@604,@604
+621,@605,@605
+622,@606,@606
+623,@607,@607
+624,@608,@608
+625,@609,@609
+626,@610,@604
+627,Derrote o Assassino insano do Pântano de Cruma.,Derrote o Assassino insano {TaskCount} vez(es).
+628,Derrote a Prima do Coral das Sombras do Pântano de Cruma.,Derrote a Prima do Coral das sombras {TaskCount} vez(es).
+629,@609,@609
+630,@610,@604
+631,@627,@627
+632,@628,@628
+633,Derrote o Urso-cinzento enfurecido do Pico da Dissonância.,Derrote o Urso-cinzento enfurecido {TaskCount} vez(es).
+634,Derrote a Raposa de cauda vermelha do Pico da Dissonância.,Derrote a Raposa de cauda vermelha {TaskCount} vez(es).
+635,Derrote o Leopardo negro do Pico da Dissonância.,Derrote o Leopardo negro {TaskCount} vez(es).
+636,Derrote a Aranha de presas da floresta do Pico da Dissonância.,Derrote a Aranha de presas da floresta {TaskCount} vez(es).
+637,Derrote o Sentinela de Tanor do Pico da Dissonância.,Derrote a Sentinela de Tanor {TaskCount} vez(es).
+638,Derrote o Soldado de Tanor do Pico da Dissonância.,Derrote o Soldado de Tanor {TaskCount} vez(es).
+639,Derrote o Lutador de Tanor do Pico da Dissonância.,Derrote o Lutador de Tanor {TaskCount} vez(es).
+640,Derrote o Vigia de Tanor do Pico da Dissonância.,Derrote o Vigia de Tanor {TaskCount} vez(es).
+641,Derrote o Batedor de Tanor do Pico da Dissonância.,Derrote o Batedor de Tanor {TaskCount} vez(es).
+642,Derrote o Cavaleiro recruta de Tanor do Pico da Dissonância.,Derrote o Cavaleiro recruta de Tanor {TaskCount} vez(es).
+643,Derrote o Fornecedor de Tanor do Pico da Dissonância.,Derrote o Fornecedor de Tanor {TaskCount} vez(es).
+644,Derrote o Xamã de Tanor do Pico da Dissonância.,Derrote o Xamã de Tanor {TaskCount} vez(es).
+645,Derrote a Vespa debilitante do Pico da Dissonância.,Derrote a Vespa debilitante {TaskCount} vez(es).
+646,@633,@633
+647,@634,@634
+648,@635,@635
+649,@636,@636
+650,@637,@637
+651,@638,@638
+652,@639,@639
+653,@640,@640
+654,@641,@641
+655,@642,@642
+656,@643,@643
+657,@644,@644
+658,@645,@645
+659,@642,@642
+660,@643,@643
+661,@644,@644
+662,@645,@645
+663,Derrote a Aranha peçonhenta do pântano do Pico da Dissonância.,Derrote a Aranha peçonhenta do pântano {TaskCount} vez(es).
+664,Derrote o Vigilante Ol Mahum do Pico da Dissonância.,Derrote a Patrulha de Ol Mahum {TaskCount} vez(es).
+665,Derrote o Batedor Ol Mahum do Pico da Dissonância.,@69
+666,Derrote a Vespa das sombras do Pico da Dissonância.,Derrote a Vespa das sombras {TaskCount} vez(es).
+667,@642,@642
+668,Derrote o Sacerdote de Tanor do Pico da Dissonância.,Derrote o Sacerdote de Tanor {TaskCount} vez(es).
+669,Derrote o Soldado de Elite de Kankoon do Pico da Dissonância.,Derrote o Soldado de elite de Kankoon {TaskCount} vez(es).
+670,Derrote o Vigia de Kankoon do Pico da Dissonância.,Derrote a Sentinela de Kankoon {TaskCount} vez(es).
+671,Derrote o Sacerdote de Kankoon do Pico da Dissonância.,Derrote o Sacerdote de Kankoon {TaskCount} vez(es).
+672,@639,@639
+673,@663,@663
+674,@664,@664
+675,@665,@69
+676,@666,@666
+677,@642,@642
+678,@668,@668
+679,@669,@669
+680,@670,@670
+681,@671,@671
+682,@639,@639
+683,@663,@663
+684,@664,@664
+685,@665,@69
+686,@666,@666
+687,@642,@642
+688,@668,@668
+689,@669,@669
+690,@670,@670
+691,@671,@671
+692,@639,@639
+693,Derrote o Oficial Ol Mahum do Pico da Dissonância.,Derrote o Oficial Ol Mahum {TaskCount} vez(es).
+694,Derrote o Fornecedor Ol Mahum do Pico da Dissonância.,Derrote o Fornecedor Ol Mahum {TaskCount} vez(es).
+695,Derrote o Premo do pântano do Pico da Dissonância.,Derrote o Premo do pântano {TaskCount} vez(es).
+696,Derrote o Sentinela Ol Mahum do Pico da Dissonância.,Derrote a Sentinela de Ol Mahum {TaskCount} vez(es).
+697,Derrote o Recruta Ol Mahum do Pico da Dissonância.,Derrote o Recruta de Ol Mahum {TaskCount} vez(es).
+698,Derrote o Soldado Ol Mahum do Pico da Dissonância.,Derrote o Soldado de Ol Mahum {TaskCount} vez(es).
+699,Derrote o Atirador de elite Ol Mahum do Pico da Dissonância.,Derrote o Atirador de elite de Ol Mahum {TaskCount} vez(es).
+700,Derrote o Comandante Ol Mahum do Pico da Dissonância.,Derrota Comandante de Ol Mahum {TaskCount} vez(es).
+701,Derrote Fungo andante do Pico da Dissonância.,Derrote o Fungo caminhante {TaskCount} vez(es).
+702,@693,@693
+703,@694,@694
+704,@695,@695
+705,@696,@696
+706,@697,@697
+707,@698,@698
+708,@699,@699
+709,@700,@700
+710,@701,@701
+711,@693,@693
+712,@694,@694
+713,@695,@695
+714,@696,@696
+715,@697,@697
+716,@698,@698
+717,@699,@699
+718,@700,@700
+719,@701,@701
+720,@699,@699
+721,@700,@700
+722,@701,@701
+723,Derrote a Dícor do sofrimento nos Sacrários Uivantes.,Derrote a Dícor do sofrimento {TaskCount} vez(es).
+724,Derrote a Mandrágora lamuriante nos Sacrários Uivantes.,Derrote a Mandrágora lamuriante {TaskCount} vez(es).
+725,Derrote a Mandrágora torturada nos Sacrários Uivantes.,Derrote a Mandrágora torturada {TaskCount} vez(es).
+726,Derrote a Dícor do desespero nos Sacrários Uivantes.,Derrote a Dícor do desespero {TaskCount} vez(es).
+727,Derrote a Mandrágora furiosa nos Sacrários Uivantes.,Derrote a Mandrágora furiosa {TaskCount} vez(es).
+728,@723,@723
+729,@724,@724
+730,@725,@725
+731,@726,@726
+732,@727,@727
+733,@723,@723
+734,@724,@724
+735,@725,@725
+736,@726,@726
+737,@727,@727
+738,@723,@723
+739,@724,@724
+740,@725,@725
+741,@726,@726
+742,@727,@727
+743,@723,@723
+744,@724,@724
+745,@727,@727
+746,@723,@723
+747,@724,@724
+748,@725,@725
+749,@726,@726
+750,@727,@727
+751,@723,@723
+752,@724,@724
+753,Derrote os Servos da perdição exaustos nos Sacrários Uivantes.,Derrote o Servo da perdição exausto {TaskCount} vez(es).
+754,Derrote o Assassino vingativo nos Sacrários Uivantes.,Derrote o Assassino vingativo {TaskCount} vez(es).
+755,Derrote o Ceifeiro Demente nos Sacrários Uivantes.,Derrote o Ceifeiro Demente {TaskCount} vez(es).
+756,Derrote o Salgueiro negro nos Sacrários Uivantes.,Derrote o Salgueiro Negro {TaskCount} vez(es).
+757,Derrote o Assassino desfigurado nos Sacrários Uivantes.,Derrote o Assassino desfigurado {TaskCount} vez(es).
+758,@753,@753
+759,@754,@754
+760,@755,@755
+761,@756,@756
+762,@757,@757
+763,@753,@753
+764,@754,@754
+765,@755,@755
+766,@756,@756
+767,@757,@757
+768,@753,@753
+769,@754,@754
+770,@755,@755
+771,@756,@756
+772,@757,@757
+773,@753,@753
+774,@754,@754
+775,@755,@755
+776,@756,@756
+777,@757,@757
+778,@753,@753
+779,@754,@754
+780,@755,@755
+781,@756,@756
+782,@757,@757
+783,Derrote o Servo da perdição nos Sacrários Uivantes.,Derrote o Servo da perdição {TaskCount} vez(es).
+784,Derrote o Espírito inquieto nos Sacrários Uivantes.,Derrote o Espírito inquieto {TaskCount} vez(es).
+785,Derrote o Espírito inocente nos Sacrários Uivantes.,Derrote o Espírito inocente {TaskCount} vez(es).
+786,Derrote o Ceifeiro da morte nos Sacrários Uivantes.,Derrote o Ceifeiro da morte {TaskCount} vez(es).
+787,Derrote o Salgueiro sinistro nos Sacrários Uivantes.,Derrote o Salgueiro sinistro {TaskCount} vez(es).
+788,Derrote o Espectro sanguissedento dos Sacrários Uivantes nos Sacrários Uivantes.,Derrote o Espectro sanguissedento {TaskCount} vez(es).
+789,Derrote o Espectro ressuscitado nos Sacrários Uivantes.,Derrote o Espectro ressuscitado {TaskCount} vez(es).
+790,Derrote o Mercante ressuscitado nos Sacrários Uivantes.,Derrote o Comerciante ressuscitado {TaskCount} vez(es).
+791,@783,@783
+792,@784,@784
+793,@785,@785
+794,@786,@786
+795,@787,@787
+796,@788,@788
+797,@789,@789
+798,@790,@790
+799,@783,@783
+800,@784,@784
+801,@785,@785
+802,@786,@786
+803,@787,@787
+804,@788,@788
+805,@789,@789
+806,@790,@790
+807,@783,@783
+808,@784,@784
+809,@785,@785
+810,@786,@786
+811,@787,@787
+812,@788,@788
+813,Derrote o Tropeiro esqueleto nos Sacrários Uivantes.,Derrote o Tropeiro esqueleto {TaskCount} vez(es).
+814,Derrote o Franco-atirador esqueleto nos Sacrários Uivantes.,Derrote o Franco-atirador esqueleto {TaskCount} vez(es).
+815,@813,@813
+816,@814,@814
+817,@813,@813
+818,@814,@814
+819,@813,@813
+820,@814,@814
+821,@813,@813
+822,@814,@814
+823,@813,@813
+824,@814,@814
+825,@813,@813
+826,@814,@814
+827,@813,@813
+828,@814,@814
+829,@813,@813
+830,@814,@814
+831,@813,@813
+832,@814,@814
+833,@813,@813
+834,@814,@814
+835,@813,@813
+836,@814,@814
+837,@813,@813
+838,@814,@814
+839,@813,@813
+840,@814,@814
+841,@813,@813
+842,@814,@814
+843,@813,@813
+844,@814,@814
+845,Derrote o Necromante de Nerkas nos Sacrários Uivantes.,Derrote o Necromante de Nerkas {TaskCount} vez(es).
+846,Derrote o Ceifa-almas de Nerkas nos Sacrários Uivantes.,Derrote o Ceifa-almas de Nerkas {TaskCount} vez(es).
+847,Derrote o Senhor Zumbi nos Sacrários Uivantes.,Derrote o Senhor Zumbi {TaskCount} vez(es).
+848,Derrote o Espectro impiedosos dos Sacrários Uivantes nos Sacrários Uivantes.,Derrote o Espectro impiedoso {TaskCount} vez(es).
+849,Derrote o Espectro torturado nos Sacrários Uivantes.,Derrote o Espectro torturado {TaskCount} vez(es).
+850,Derrote a Dícor lamuriante nos Sacrários Uivantes.,Derrote a Dícor lamuriante {TaskCount} vez(es).
+851,Derrote a Alma acorrentada nos Sacrários Uivantes.,Derrote a Alma acorrentada {TaskCount} vez(es).
+852,Derrote o Servo medonho nos Sacrários Uivantes.,Derrote o Servo medonho {TaskCount} vez(es).
+853,@845,@845
+854,@846,@846
+855,@847,@847
+856,@848,@848
+857,@849,@849
+858,@850,@850
+859,@851,@851
+860,@852,@852
+861,@845,@845
+862,@846,@846
+863,@847,@847
+864,@848,@848
+865,@849,@849
+866,@850,@850
+867,@851,@851
+868,@852,@852
+869,@845,@845
+870,@846,@846
+871,@847,@847
+872,@848,@848
+873,@849,@849
+874,@850,@850
+875,Derrote a Dícor da ruína no Domínio de Giran.,Derrote a Dícor da ruína {TaskCount} vez(es).
+876,Derrote a Snipe da ruína no Domínio de Giran.,Derrote a Snipe da ruína {TaskCount} vez(es).
+877,Derrote o Urso-vermelho faminto no Domínio de Giran.,Derrote o Urso-vermelho faminto {TaskCount} vez(es).
+878,Derrote o Urso-vermelho furioso no Domínio de Giran.,Derrote o Urso-vermelho furioso {TaskCount} vez(es).
+879,Derrote o Puma alpino no Domínio de Giran.,Derrote o Puma alpino {TaskCount} vez(es).
+880,Derrote o Puma robusto no Domínio de Giran.,Derrot o Puma robusto {TaskCount} vez(es).
+881,@875,@875
+882,@876,@876
+883,@877,@877
+884,@878,@878
+885,@879,@879
+886,@880,@880
+887,@875,@875
+888,@876,@876
+889,@877,@877
+890,@878,@878
+891,@879,@879
+892,@880,@880
+893,@875,@875
+894,@876,@876
+895,@877,@877
+896,@878,@878
+897,@879,@879
+898,@880,@880
+899,@875,@875
+900,@876,@876
+901,@877,@877
+902,@878,@878
+903,@879,@879
+904,@880,@880
+905,Derrote o Antílope de pasto no Domínio de Giran.,Derrote o Antílope de pasto {TaskCount} vez(es).
+906,Derrote o Windsus de pasto no Domínio de Giran.,Derrote o Windsus de pasto {TaskCount} vez(es).
+907,Derrote a Medusa no Domínio de Giran.,Derrote Medusa {TaskCount} vez(es).
+908,Derrote o Serpe no Domínio de Giran.,Derrote o Serpe {TaskCount} vez(es).
+909,Derrote o Troglodita no Domínio de Giran.,@523
+910,Derrote o Protetor Serpe no Domínio de Giran.,Derrote o Protetor Serpe {TaskCount} vez(es).
+911,Derrote o Golem de Pedra do Domínio de Giran,Derrote o Golem de Pedra {TaskCount} vez(es).
+912,@905,@905
+913,@906,@906
+914,@907,@907
+915,@908,@908
+916,@909,@523
+917,@910,@910
+918,@911,@911
+919,@905,@905
+920,@906,@906
+921,@907,@907
+922,@908,@908
+923,@909,@523
+924,@910,@910
+925,@911,@911
+926,@905,@905
+927,@906,@906
+928,@907,@907
+929,@908,@908
+930,@909,@523
+931,@910,@910
+932,@911,@911
+933,@910,@910
+934,@911,@911
+935,Derrote a Dícor da floresta no Domínio de Giran.,Derrote a Dícor da floresta {TaskCount} vez(es).
+936,Derrote a Dícor da alucinação no Domínio de Giran.,Derrote a Dícor da alucinação {TaskCount} vez(es).
+937,Derrote o Súcubo no Domínio de Giran.,Derrote a Súcubo {TaskCount} vez(es).
+938,Derrote o Lobisomem da floresta no Domínio de Giran.,Derrote o Lobisomem da floresta {TaskCount} vez(es).
+939,Derrote a Súcubo sedutora no Domínio de Giran.,Derrote a Súcubo sedutora {TaskCount} vez(es).
+940,Derrote a Snipe ágil no Domínio de Giran.,Derrote a Snipe ágil {TaskCount} vez(es).
+941,Derrote a Dícor anciã no Domínio de Giran.,Derrote a Dícor anciã {TaskCount} vez(es).
+942,@935,@935
+943,@936,@936
+944,@937,@937
+945,@938,@938
+946,@939,@939
+947,@940,@940
+948,@941,@941
+949,@935,@935
+950,@936,@936
+951,@937,@937
+952,@938,@938
+953,@939,@939
+954,@940,@940
+955,@941,@941
+956,@935,@935
+957,@936,@936
+958,@937,@937
+959,@938,@938
+960,@939,@939
+961,@940,@940
+962,@941,@941
+963,@935,@935
+964,@936,@936
+965,@937,@937
+966,@938,@938
+967,@939,@939
+968,@940,@940
+969,@941,@941
+970,Derrote o Sentinela homem-lagarto Langk no Domínio de Giran.,Derrote o Sentinela homem-lagarto Langk {TaskCount} vez(es).
+971,Derrote o Batedor homem-lagarto Langk no Domínio de Giran.,Derrote o Batedor homem-lagarto Langk {TaskCount} vez(es).
+972,Derrote o Guerreiro homem-lagarto Langk no Domínio de Giran.,Derrote o Guerreiro homem-lagarto Langk {TaskCount} vez(es).
+973,Derrote o Lutador homem-lagarto Langk no Domínio de Giran.,Derrote o Lutador homem-lagarto Langk {TaskCount} vez(es).
+974,Derrote o Patrulheiro homem-lagarto Langk no Domínio de Giran.,Derrote o Patrulheiro homem-lagarto Langk {TaskCount} vez(es).
+975,Derrote o Recruta homem-lagarto Langk no Domínio de Giran.,Derrote o Recruta homem-lagarto Langk {TaskCount} vez(es).
+976,Derrote o Xamã homem-lagarto Langk no Domínio de Giran.,Derrote o Xamã homem-lagarto Langk {TaskCount} vez(es).
+977,Derrote o Soldado homem-lagarto Langk no Domínio de Giran.,Derrote o Soldado homem-lagarto Langk {TaskCount} vez(es).
+978,Derrote o Xamã ancião homem-lagarto Langk no Domínio de Giran.,Derrote o Xamã ancião homem-lagarto Langk {TaskCount} vez(es).
+979,Derrote o Tropeiro homem-lagarto Langk no Domínio de Giran.,Derrote o Tropeiro homem-lagarto Langk {TaskCount} vez(es).
+980,@970,@970
+981,@971,@971
+982,@972,@972
+983,@973,@973
+984,@974,@974
+985,@975,@975
+986,@976,@976
+987,@977,@977
+988,@978,@978
+989,@979,@979
+990,@970,@970
+991,@971,@971
+992,@972,@972
+993,@973,@973
+994,@974,@974
+995,@975,@975
+996,@976,@976
+997,@977,@977
+998,@978,@978
+999,@979,@979
+1000,Derrote o Puma faminto nas Praias da Névoa Mortal.,Derrote o Puma faminto {TaskCount} vez(es).
+1001,Derrote o Saqueador dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Saqueador dos bandidos de Ol Mahum {TaskCount} vez(es).
+1002,Derrote o Operário dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Trabalhador dos bandidos de Ol Mahum {TaskCount} vez(es).
+1003,Derrote o Urso-vermelho faminto nas Praias da Névoa Mortal.,Derrote o Urso-vermelho selvagem {TaskCount} vez(es).
+1004,Derrote o Puma insaciável nas Praias da Névoa Mortal.,Derrote o Puma insaciável {TaskCount} vez(es).
+1005,Derrote o Batedor dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Batedor dos bandidos de Ol Mahum {TaskCount} vez(es).
+1006,Derrote o Sentinela dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Sentinela dos bandidos de Ol Mahum {TaskCount} vez(es).
+1007,Derrote o Guerreiro dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Guerreiro dos bandidos de Ol Mahum {TaskCount} vez(es).
+1008,Derrote o Fornecedor dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote os Fornecedor dos bandidos de Ol Mahum {TaskCount} vez(es).
+1009,Derrote o atirador mestre dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Franco-atirador mestre dos bandidos de Ol Mahum {TaskCount} vez(es).
+1010,Derrote o Comandante dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Comandante dos bandidos de Ol Mahum {TaskCount} vez(es).
+1011,Derrote o Arqueiro dos bandidos Ol Mahum nas Praias da Névoa Mortal.,Derrote o Arqueiro dos bandidos de Ol Mahum {TaskCount} vez(es).
+1012,Derrote o Urso-vermelho faminto nas Praias da Névoa Mortal.,@877
+1013,Derrote o Puma costeiro raivoso nas Praias da Névoa Mortal.,Derrote o Puma costeiro raivoso {TaskCount} vez(es).
+1014,@1000,@1000
+1015,@1001,@1001
+1016,@1002,@1002
+1017,@1003,@1003
+1018,@1004,@1004
+1019,@1005,@1005
+1020,@1006,@1006
+1021,@1007,@1007
+1022,@1008,@1008
+1023,@1009,@1009
+1024,@1010,@1010
+1025,@1011,@1011
+1026,@1012,@877
+1027,@1013,@1013
+1028,@1012,@877
+1029,@1013,@1013
+1030,Derrote o Morto errante nas Praias da Névoa Mortal.,Derrote o Morto Errante {TaskCount} vez(es).
+1031,Derrote o Zumbi pirata náufrago nas Praias da Névoa Mortal.,Derrote o Zumbi pirata náufrago {TaskCount} vez(es).
+1032,Derrote o Brado Deplorável nas Praias da Névoa Mortal.,Derrote o Brado deplorável {TaskCount} vez(es).
+1033,Derrote o Morto gigante nas Praias da Névoa Mortal.,Derrote o Morto gigante {TaskCount} vez(es).
+1034,Derrote o Voador da Morte nas Praias da Névoa Mortal.,Derrote o Voador da morte {TaskCount} vez(es).
+1035,Derrote o Destruidor Grandis nas Praias da Névoa Mortal.,Derrote o Destruidor Grandis {TaskCount} vez(es).
+1036,Derrote Lutador troglodita nas Praias da Névoa Mortal.,Derrote o Lutador troglodita {TaskCount} vez(es).
+1037,Derrote a Criação do Gigante Inferior nas Praias da Névoa Mortal.,Derrote a Criação do Gigante Inferior {TaskCount} vez(es).
+1038,Derrote Gigante Inferior insano nas Praias da Névoa Mortal.,Derrote Gigante Inferior insano {TaskCount} vez(es).
+1039,Derrote Gigante Inferior degenerado nas Praias da Névoa Mortal.,Derrote Gigante Inferior degenerado {TaskCount} vez(es).
+1040,@1030,@1030
+1041,@1031,@1031
+1042,@1032,@1032
+1043,@1033,@1033
+1044,@1034,@1034
+1045,@1035,@1035
+1046,@1036,@1036
+1047,@1037,@1037
+1048,@1038,@1038
+1049,@1039,@1039
+1050,@1030,@1030
+1051,@1031,@1031
+1052,@1032,@1032
+1053,@1033,@1033
+1054,@1034,@1034
+1055,@1035,@1035
+1056,@1036,@1036
+1057,@1037,@1037
+1058,@1038,@1038
+1059,@1039,@1039
+1060,Derrote Gigante Inferior esquecido nas Praias da Névoa Mortal.,Derrote o Gigante inferior esquecido {TaskCount} vez(es).
+1061,Derrote Gigante Inferior angustiado nas Praias da Névoa Mortal.,Derrote Gigante inferior angustiado {TaskCount} vez(es).
+1062,Derrote o Triturador Grandis nas Praias da Névoa Mortal.,Derrote o Triturador Grandis {TaskCount} vez(es).
+1063,Derrote a criação do Gigante Inferior nas Praias da Névoa Mortal.,Derrote a Criação do Gigante inferior {TaskCount} vez(es).
+1064,Derrote o Guerreiro troglodita nas Praias da Névoa Mortal.,Derrote o Guerreiro troglodita {TaskCount} vez(es).
+1065,Derrote o Tirano Grandis nas Praias da Névoa Mortal.,Derrote o Tirano Grandis {TaskCount} vez(es).
+1066,Derrote a Infantaria dos piratas de Zaken nas Praias da Névoa Mortal.,Derrote a Infantaria dos piratas de Zaken {TaskCount} vez(es).
+1067,Derrote o Atirador dos piratas de Zaken nas Praias da Névoa Mortal.,Derrote o Atirador dos piratas de Zaken {TaskCount} vez(es).
+1068,Derrote a vanguarda dos piratas de Zaken nas Praias da Névoa Mortal.,Derrote a Vanguarda dos piratas de Zaken {TaskCount} vez(es).
+1069,Derrote o Grito do Desespero nas Praias da Névoa Mortal.,Derrote o Grito do Desespero {TaskCount} vez(es).
+1070,@1060,@1060
+1071,@1061,@1061
+1072,@1062,@1062
+1073,@1060,@1060
+1074,@1061,@1061
+1075,@1062,@1062
+1076,@1063,@1063
+1077,@1064,@1064
+1078,@1065,@1065
+1079,@1066,@1066
+1080,@1067,@1067
+1081,@1068,@1068
+1082,@1069,@1069
+1083,@1060,@1060
+1084,@1061,@1061
+1085,@1062,@1062
+1086,@1069,@1069
+1087,@1060,@1060
+1088,@1061,@1061
+1089,@1062,@1062
+1090,Derrote o Súcubo Sombrio na Ilha do Demônio.,Derrote o Súcubo Sombrio {TaskCount} vez(es).
+1091,Derrote a Prima do Coral do Inferno na Ilha do Demônio.,Derrote o Prima do Coral do Inferno {TaskCount} vez(es).
+1092,Derrote o Escorpião da Pedra Maligna na Ilha do Demônio.,Derrote o Escorpião de Pedra Maligna {TaskCount} vez(es).
+1093,Derrote o Súcubo Sombrio Letal na Ilha do Demônio.,Derrote o Súcubo Sombrio Letal {TaskCount} vez(es).
+1094,Derrote o Premo da selva faminto na Ilha do Demônio.,Derrote o Premo da selva faminto {TaskCount} vez(es).
+1095,Derrote o Degolador dos piratas de Zaken na Ilha do Demônio.,Derrote o Degolador dos piratas de Zaken {TaskCount} vez(es).
+1096,Derrote o Morto Vingativo na Ilha do Demônio.,Derrote o Morto vingativo {TaskCount} vez(es).
+1097,Derrote o Vigia dos piratas de Zaken na Ilha do Demônio.,Derrote o Vigia dos piratas de Zaken {TaskCount} vez(es).
+1098,Derrote o Vigilante dos piratas de Zaken na Ilha do Demônio.,Derrote o Vigilante dos piratas de Zaken {TaskCount} vez(es).
+1099,Derrote o Atirador de elite dos piratas de Zaken na Ilha do Demônio.,Derrote o Atirador de elite dos piratas de Zaken {TaskCount} vez(es).
+1100,@1090,@1090
+1101,@1091,@1091
+1102,@1092,@1092
+1103,@1093,@1093
+1104,@1094,@1094
+1105,@1095,@1095
+1106,@1096,@1096
+1107,@1097,@1097
+1108,@1098,@1098
+1109,@1099,@1099
+1110,@1090,@1090
+1111,@1091,@1091
+1112,@1092,@1092
+1113,@1093,@1093
+1114,@1094,@1094
+1115,@1095,@1095
+1116,@1096,@1096
+1117,@1097,@1097
+1118,@1098,@1098
+1119,@1099,@1099
+1120,Derrote os Ajudantes de convés dos piratas de Zaken na Ilha do Demônio.,Derrote os Ajudantes de convés dos piratas de Zaken {TaskCount} vez(es).
+1121,Derrote o Morto implacável na Ilha do Demônio.,Derrote o Morto Implacável {TaskCount} vez(es).
+1122,Derrote o Escorpião da caverna na Ilha do Demônio.,Derrote o Escorpião da caverna {TaskCount} vez(es).
+1123,Derrote o Franco-atirador de Zaken na Ilha do Demônio.,Derrote o Franco-atirador de Zaken {TaskCount} vez(es).
+1124,Derrote o Zumbi pirata na Ilha do Demônio.,Derrote o Zumbi pirata {TaskCount} vez(es).
+1125,Derrote a Guarda Real de Zaken na Ilha do Demônio.,Derrote o Guarda real de Zaken {TaskCount} vez(es).
+1126,Derrote o Navegador dos piratas de Zaken na Ilha do Demônio.,Derrote o Navegador dos piratas de Zaken {TaskCount} vez(es).
+1127,Derrote o Contramestre dos piratas de Zaken na Ilha do Demônio.,Derrote o Contramestre dos piratas de Zaken {TaskCount} vez(es).
+1128,Derrote o Vigia de Zaken na Ilha do Demônio.,Derrote o Vigia de Zaken {TaskCount} vez(es).
+1129,Derrote o Timoneiro dos piratas de Zaken na Ilha do Demônio.,Derrote o Timoneiro dos piratas de Zaken {TaskCount} vez(es).
+1130,@1120,@1120
+1131,@1121,@1121
+1132,@1122,@1122
+1133,@1123,@1123
+1134,@1124,@1124
+1135,@1125,@1125
+1136,@1126,@1126
+1137,@1127,@1127
+1138,@1128,@1128
+1139,@1129,@1129
+1140,@1120,@1120
+1141,@1121,@1121
+1142,@1122,@1122
+1143,@1123,@1123
+1144,@1124,@1124
+1145,@1125,@1125
+1146,@1126,@1126
+1147,@1127,@1127
+1148,@1128,@1128
+1149,@1129,@1129
+1150,Derrote o Batedor da Ravina de Breka na Necrópole Assombrada.,Derrote o Batedor da Ravina de Breka {TaskCount} vez(es).
+1151,Derrote o Sentinela da Ravina de Breka na Necrópole Assombrada.,Derrote o Sentinela da Ravina de Breka {TaskCount} vez(es).
+1152,Derrote o Fornecedor da Ravina de Breka na Necrópole Assombrada.,Derrote o Fornecedor da Ravina de Breka {TaskCount} vez(es).
+1153,Derrote o Lutador da Ravina de Breka na Necrópole Assombrada.,Derrote o Lutador da Ravina de Breka {TaskCount} vez(es).
+1154,Derrote o Xamã da Ravina de Breka na Necrópole Assombrada.,Derrote o Xamã da Ravina de Breka {TaskCount} vez(es).
+1155,@1150,@1150
+1156,@1151,@1151
+1157,@1152,@1152
+1158,@1153,@1153
+1159,@1154,@1154
+1160,@1150,@1150
+1161,@1151,@1151
+1162,@1152,@1152
+1163,@1153,@1153
+1164,@1154,@1154
+1165,@1150,@1150
+1166,@1151,@1151
+1167,@1152,@1152
+1168,@1153,@1153
+1169,@1154,@1154
+1170,@1150,@1150
+1171,@1151,@1151
+1172,@1152,@1152
+1173,@1153,@1153
+1174,@1154,@1154
+1175,@1150,@1150
+1176,@1151,@1151
+1177,@1152,@1152
+1178,@1153,@1153
+1179,@1154,@1154
+1180,Derrote o Vigilante da Ravina de Breka na Necrópole Assombrada.,Derrote a Patrulha da Ravina de Breka {TaskCount} vez(es).
+1181,Derrote o Chefe Guerreiro da Ravina de Breka na Necrópole Assombrada.,Derrote o Chefe Guerreiro da Ravina de Breka {TaskCount} vez(es).
+1182,Derrote o Sacerdote da Ravina de Breka na Necrópole Assombrada.,Derrote o Sacerdote da Ravina de Breka {TaskCount} vez(es).
+1183,Derrote o Prima Rastreador de almas na Necrópole Assombrada.,Derrote a Prima rastreadora de almas {TaskCount} vez(es).
+1184,Derrote o Windsus da ravina na Necrópole Assombrada.,Derrote o Windsus da Ravina {TaskCount} vez(es).
+1185,Derrote o Golem de Pedra da Necrópole Assombrada.,@911
+1186,Derrote o Basilisco guardião na Necrópole Assombrada.,Derrote o Basilisco guardião {TaskCount} vez(es).
+1187,Derrote o Ceifeiro na Necrópole Assombrada.,Derrote o Ceifeiro {TaskCount} vez(es).
+1188,@1180,@1180
+1189,@1181,@1181
+1190,@1182,@1182
+1191,@1183,@1183
+1192,@1184,@1184
+1193,@1185,@911
+1194,@1186,@1186
+1195,@1187,@1187
+1196,@1180,@1180
+1197,@1181,@1181
+1198,@1182,@1182
+1199,@1183,@1183
+1200,@1184,@1184
+1201,@1185,@911
+1202,@1186,@1186
+1203,@1187,@1187
+1204,@1182,@1182
+1205,@1183,@1183
+1206,@1184,@1184
+1207,@1185,@911
+1208,@1186,@1186
+1209,@1187,@1187
+1210,Derrote o Prima devorador de almas na Necrópole Assombrada.,Derrote o Prima devorador de almas {TaskCount} vez(es).
+1211,Derrote o Sahara das Terras Desoladas na Necrópole Assombrada.,Derrote o Sahara das Terras Desoladas {TaskCount} vez(es).
+1212,Derrote o Sahara do Crepúsculo na Necrópole Assombrada.,Derrote o Sahara do Crepúsculo {TaskCount} vez(es).
+1213,Derrote o Basilisco âmbar na Necrópole Assombrada.,Derrote o Basilisco âmbar {TaskCount} vez(es).
+1214,Derrote a Alma acorrentada errante na Necrópole Assombrada.,Derrote a Alma acorrentada errante {TaskCount} vez(es).
+1215,Derrote o Cavaleiro sem cabeça na Necrópole Assombrada.,Derrote o Cavaleiro sem cabeça {TaskCount} vez(es).
+1216,Derrote o Esmaga-ossos de Grandis na Necrópole Assombrada.,Derrote o Esmaga-ossos de Grandis {TaskCount} vez(es).
+1217,Derrote as Gárgulas Sopravento na Necrópole Assombrada.,Derrote a Gárgula sopravento {TaskCount} vez(es).
+1218,Derrote o Olho de Monstro terrível na Necrópole Assombrada.,Derrote o Olho de Monstro terrível {TaskCount} vez(es).
+1219,Derrote o Redemoinho Sopravento na Necrópole Assombrada.,Derrote o Redemoinho sopravento {TaskCount} vez(es).
+1220,Derrote o Guardião Serpe na Necrópole Assombrada.,Derrote Guardião Serpe {TaskCount} vez(es).
+1221,Derrote o Olho de Monstro mortal na Necrópole Assombrada.,Derrote o Olho de Monstro mortal {TaskCount} vez(es).
+1222,Derrote a Serpe de alerta na Necrópole Assombrada.,Derrote a Serpe de alerta {TaskCount} vez(es).
+1223,Derrote a Serpe filhote na Necrópole Assombrada.,Derrote a Serpe filhote {TaskCount} vez(es).
+1224,Derrote Capataz de Cager na Necrópole Assombrada.,Derrote Capataz de Cager {TaskCount} vez(es).
+1225,@1210,@1210
+1226,@1211,@1211
+1227,@1212,@1212
+1228,@1213,@1213
+1229,@1214,@1214
+1230,@1215,@1215
+1231,@1216,@1216
+1232,@1217,@1217
+1233,@1218,@1218
+1234,@1219,@1219
+1235,@1220,@1220
+1236,@1221,@1221
+1237,@1222,@1222
+1238,@1223,@1223
+1239,@1224,@1224
+1240,Derrote o Guardião Serpe na Necrópole Assombrada.,@1220
+1241,Derrote o Olho de Monstro mortal na Necrópole Assombrada.,@1221
+1242,Derrote a Serpe de alerta na Necrópole Assombrada.,@1222
+1243,Derrote a Serpe filhote na Necrópole Assombrada.,@1223
+1244,Derrote Capataz de Cager na Necrópole Assombrada.,@1224
+1245,Derrote o Laço da morte na Necrópole Assombrada.,Derrote o Laço da morte {TaskCount} vez(es).
+1246,Derrote a Criança de Veremus na Necrópole Assombrada.,Derrote a Criança de Veremus {TaskCount} vez(es).
+1247,Derrote o Matador de dragões de Grandis na Necrópole Assombrada.,Derrote o Matador de dragões de Grandis {TaskCount} vez(es).
+1248,Derrote o Cavaleiro sem cabeça da morte na Necrópole Assombrada.,Derrote o Cavaleiro sem cabeça da morte {TaskCount} vez(es).
+1249,@1240,@1220
+1250,@1241,@1221
+1251,@1242,@1222
+1252,@1243,@1223
+1253,@1244,@1224
+1254,@1245,@1245
+1255,@1246,@1246
+1256,@1247,@1247
+1257,@1248,@1248
+1258,@1240,@1220
+1259,@1241,@1221
+1260,@1242,@1222
+1261,@1243,@1223
+1262,@1244,@1224
+1263,@1245,@1245
+1264,@1246,@1246
+1265,@1247,@1247
+1266,@1248,@1248
+1267,@1246,@1246
+1268,@1247,@1247
+1269,@1248,@1248
+1270,Derrote o Grendel do Platô do Vento Norte.,Derrote o Grendel {TaskCount} vez(es).
+1271,Derrote Windsus do Platô do Vento Norte.,Derrote Windsus do Platô {TaskCount} vez(es).
+1272,Derrote o Grendel Faminto do Platô do Vento Norte.,Derrote o Grendel Faminto {TaskCount} vez(es).
+1273,Derrote Pinção da Ravina do Platô do Vento Norte.,Derrote Pinção da Ravina {TaskCount} vez(es).
+1274,Derrote o Atroz Carnívoro do Platô do Vento Norte.,Derrote o Atroz {TaskCount} vez(es).
+1275,Derrote o Tirano Troglodita de Cortevento do Platô do Vento Norte.,Derrote o Tirano Troglodita de Cortevento {TaskCount} vez(es).
+1276,Derrote o Trabalhador Troglodita de Cortevento do Platô do Vento Norte.,Derrote o Trabalhador Troglodita de Cortevento {TaskCount} vez(es).
+1277,Derrote o Devorador Troglodita de Cortevento do Platô do Vento Norte.,Derrote o Devorador Troglodita de Cortevento {TaskCount} vez(es).
+1278,Derrote o Lutador Troglodita de Cortevento do Platô do Vento Norte.,Derrote o Lutador Troglodita de Cortevento {TaskCount} vez(es).
+1279,@1270,@1270
+1280,@1271,@1271
+1281,@1272,@1272
+1282,@1273,@1273
+1283,@1274,@1274
+1284,@1275,@1275
+1285,@1276,@1276
+1286,@1277,@1277
+1287,@1278,@1278
+1288,@1270,@1270
+1289,@1271,@1271
+1290,@1272,@1272
+1291,@1273,@1273
+1292,@1274,@1274
+1293,@1275,@1275
+1294,@1276,@1276
+1295,@1277,@1277
+1296,@1278,@1278
+1297,@1276,@1276
+1298,@1277,@1277
+1299,@1278,@1278
+1300,Derrote a Ninfa Cruel Rosa do Platô do Vento Norte.,Derrote a Ninfa Cruel Rosa {TaskCount} vez(es).
+1301,Derrote o Atroz do Platô do Vento Norte.,Derrote o Atroz {TaskCount} vez(es).
+1302,Derrote o Guarda Homem-lagarto Leto do Platô do Vento Norte.,@484
+1303,Derrote o Sentinela Homem-lagarto Leto do Platô do Vento Norte.,Derrote o Sentinela Homem-lagarto Leto {TaskCount} vez(es).
+1304,Derrote o Xamã Homem-lagarto Leto do Platô do Vento Norte.,@483
+1305,Derrote o Infiltrador Homem-lagarto Leto do Platô do Vento Norte.,Derrote o Infiltrador Homem-lagarto Leto {TaskCount} vez(es).
+1306,Derrote o Sacerdote Homem-lagarto Leto do Platô do Vento Norte.,Derrote o Sacerdote Homem-lagarto Leto {TaskCount} vez(es).
+1307,Derrote o Guardião Homem-lagarto Leto do Platô do Vento Norte.,Derrote o Guardião Homem-lagarto Leto {TaskCount} vez(es).
+1308,@1300,@1300
+1309,@1301,@1301
+1310,@1302,@484
+1311,@1303,@1303
+1312,@1304,@483
+1313,@1305,@1305
+1314,@1306,@1306
+1315,@1307,@1307
+1316,@1300,@1300
+1317,@1301,@1301
+1318,@1302,@484
+1319,@1303,@1303
+1320,@1304,@483
+1321,@1305,@1305
+1322,@1306,@1306
+1323,@1307,@1307
+1324,@1300,@1300
+1325,@1301,@1301
+1326,@1302,@484
+1327,@1303,@1303
+1328,@1304,@483
+1329,@1305,@1305
+1330,@1306,@1306
+1331,@1307,@1307
+1332,Derrote o Sentinela Orc de Timak do Platô do Vento Norte.,Derrote o Sentinela Orc de Timak {TaskCount} vez(es).
+1333,Derrote o Guarda de Kazan do Platô do Vento Norte.,Derrote o Guarda de Kazan {TaskCount} vez(es).
+1334,Derrote o Buscador de Kazan do Platô do Vento Norte.,Derrote o Buscador de Kazan {TaskCount} vez(es).
+1335,Derrote o Capataz dos Escravos de Kazan do Platô do Vento Norte.,Derrote o Capataz dos Escravos de Kazan {TaskCount} vez(es).
+1336,Derrote o Soldado de Elite Orc de Timak do Platô do Vento Norte.,Derrote o Soldado de Elite Orc de Timak {TaskCount} vez(es).
+1337,Derrote o Vingador de Tanor do Platô do Vento Norte.,Derrote o Vingador de Tanor {TaskCount} vez(es).
+1338,Derrote o recruta de Tanor do Platô do Vento Norte.,Derrote o Recruta de Tanor {TaskCount} vez(es).
+1339,Derrote o Guarda Real do Chefe Tribal de Tanor do Platô do Vento Norte.,Derrote o Guarda Real do Chefe Tribal de Tanor {TaskCount} vez(es).
+1340,Derrote o Bruxo de Tanor do Platô do Vento Norte.,Derrote o Bruxo de Tanor {TaskCount} vez(es).
+1341,Derrote o Guardião da Tribo de Tanor do Platô do Vento Norte.,Derrote o Guardião da Tribo de Tanor {TaskCount} vez(es).
+1342,@1332,@1332
+1343,@1333,@1333
+1344,@1334,@1334
+1345,@1335,@1335
+1346,@1336,@1336
+1347,@1337,@1337
+1348,@1338,@1338
+1349,@1339,@1339
+1350,@1340,@1340
+1351,@1341,@1341
+1352,@1332,@1332
+1353,@1333,@1333
+1354,@1334,@1334
+1355,@1335,@1335
+1356,@1336,@1336
+1357,@1337,@1337
+1358,@1338,@1338
+1359,@1339,@1339
+1360,@1340,@1340
+1361,@1341,@1341
+1362,Derrote o Ceifeiro Cego das Terras Eternas.,Derrote o Ceifeiro Cego {TaskCount} vez(es).
+1363,Derrote o Salgueiro Corrompido das Terras Eternas.,Derrote o Salgueiro Corrompido {TaskCount} vez(es).
+1364,Derrote o Ceifeiro de Almas das Terras Eternas.,Derrote o Ceifeiro de Almas {TaskCount} vez(es).
+1365,Derrote o Fungo Caminhante das Terras Eternas.,@701
+1366,Derrote o Uivador Blindado das Terras Eternas.,Derrote o Uivador Blindado {TaskCount} vez(es).
+1367,Derrote o Coletor de Almas das Terras Eternas.,Derrote o Coletor de Almas {TaskCount} vez(es).
+1368,Derrote o Vigia da Barreira das Terras Eternas.,Derrote o Vigia da Barreira {TaskCount} vez(es).
+1369,Derrote o Destruidor Grandis Sádico das Terras Eternas.,Derrote o Destruidor Grandis Sádico {TaskCount} vez(es).
+1370,@1362,@1362
+1371,@1363,@1363
+1372,@1364,@1364
+1373,@1365,@701
+1374,@1366,@1366
+1375,@1367,@1367
+1376,@1368,@1368
+1377,@1369,@1369
+1378,@1362,@1362
+1379,@1363,@1363
+1380,@1364,@1364
+1381,@1365,@701
+1382,@1366,@1366
+1383,@1367,@1367
+1384,@1368,@1368
+1385,@1369,@1369
+1386,@1362,@1362
+1387,@1363,@1363
+1388,@1364,@1364
+1389,@1365,@701
+1390,@1366,@1366
+1391,@1367,@1367
+1392,@1368,@1368
+1393,@1369,@1369
+1394,Derrote o Xamã de Oel Mahum das Terras Eternas.,Derrote o Xamã de Oel Mahum {TaskCount} vez(es).
+1395,Derrote o Pilhador de Oel Mahum das Terras Eternas.,Derrote o Pilhador de Oel Mahum {TaskCount} vez(es).
+1396,Derrote o Destruidor Oel Mahum das Terras Eternas.,Derrote o Destruidor Oel Mahum {TaskCount} vez(es).
+1397,Derrote o Trabalhador de Oel Mahum das Terras Eternas.,Derrote o Trabalhador de Oel Mahum {TaskCount} vez(es).
+1398,Derrote o Lutador de Oel Mahum das Terras Eternas.,Derrote o Lutador de Oel Mahum {TaskCount} vez(es).
+1399,Derrote o Destruidor de Oel Mahum das Terras Eternas.,Derrote o Destruidor de Oel Mahum {TaskCount} vez(es).
+1400,Derrote o Destruidor Grandis das Terras Eternas.,@1035
+1401,Derrote a Irmandade Sombria das Terras Eternas.,Derrote a Irmandade Sombria {TaskCount} vez(es).
+1402,@1394,@1394
+1403,@1395,@1395
+1404,@1396,@1396
+1405,@1397,@1397
+1406,@1398,@1398
+1407,@1399,@1399
+1408,@1400,@1035
+1409,@1401,@1401
+1410,@1394,@1394
+1411,@1395,@1395
+1412,@1396,@1396
+1413,@1397,@1397
+1414,@1398,@1398
+1415,@1399,@1399
+1416,@1400,@1035
+1417,@1401,@1401
+1418,@1396,@1396
+1419,@1397,@1397
+1420,@1398,@1398
+1421,@1399,@1399
+1422,@1400,@1035
+1423,@1401,@1401
+1424,Derrote o Fungo de Esporos das Terras Eternas.,Derrote o Fungo de Esporos {TaskCount} vez(es).
+1425,Derrote o Morcego de Esporos das Terras Eternas.,Derrote o Morcego de Esporos {TaskCount} vez(es).
+1426,Derrote o Zumbi Parasita das Terras Eternas.,Derrote o Zumbi Parasita {TaskCount} vez(es).
+1427,Derrote Serpe das Terras Eternas.,@908
+1428,Derrote o Resultado da ganância das Terras Eternas.,Derrote o Resultado da ganância {TaskCount} vez(es).
+1429,Derrote o Comedor de Almas das Terras Eternas.,Derrote o Comedor de Almas {TaskCount} vez(es).
+1430,Derrote a Aranha de Esporos das Terras Eternas.,Derrote a Aranha de Esporos {TaskCount} vez(es).
+1431,Derrote o Vidente da Água das Terras Eternas.,Derrote o Vidente da Água {TaskCount} vez(es).
+1432,Derrote o Golem de Obsidiana das Terras Eternas.,Derrote o Golem de Obsidiana {TaskCount} vez(es).
+1433,Derrote Pan Luem das Terras Eternas.,Derrote Pan Luem {TaskCount} vez(es).
+1434,Derrote o Fungo de Esporos Podres das Terras Eternas.,Derrote o Fungo de Esporos Podres {TaskCount} vez(es).
+1435,@1424,@1424
+1436,@1425,@1425
+1437,@1426,@1426
+1438,@1427,@908
+1439,@1428,@1428
+1440,@1429,@1429
+1441,@1430,@1430
+1442,@1431,@1431
+1443,@1432,@1432
+1444,@1433,@1433
+1445,@1434,@1434
+1446,@1424,@1424
+1447,@1425,@1425
+1448,@1426,@1426
+1449,@1427,@908
+1450,@1428,@1428
+1451,@1429,@1429
+1452,@1430,@1430
+1453,@1431,@1431
+1454,@1432,@1432
+1455,@1433,@1433
+1456,@1434,@1434
+1457,Derrote a Ninfa Feroz das Terras Eternas.,Derrote a Ninfa Feroz {TaskCount} vez(es).
+1458,Derrote o Espírito do Pesadelo das Terras Eternas.,Derrote o Espírito do Pesadelo {TaskCount} vez(es).
+1459,Derrote o Retalhador das Almas das Terras Eternas.,@251
+1460,Derrote o Morcego Vampiro das Terras Eternas.,@517
+1461,Derrote o Servo da Perdição das Terras Eternas.,@783
+1462,Derrote a Ninfa Rosa das Terras Eternas.,Derrote a Ninfa Rosa {TaskCount} vez(es).
+1463,Derrote a Ninfa Vil das Terras Eternas.,Derrote a Ninfa Vil {TaskCount} vez(es).
+1464,Derrote Pan Luem Vil das Terras Eternas.,Derrote Pan Luem Vil {TaskCount} vez(es).
+1465,@1457,@1457
+1466,@1458,@1458
+1467,@1459,@251
+1468,@1460,@517
+1469,@1461,@783
+1470,@1462,@1462
+1471,@1463,@1463
+1472,@1464,@1464
+1473,@1457,@1457
+1474,@1458,@1458
+1475,@1459,@251
+1476,@1460,@517
+1477,@1461,@783
+1478,@1462,@1462
+1479,@1463,@1463
+1480,@1464,@1464
+1481,@1457,@1457
+1482,@1458,@1458
+1483,@1459,@251
+1484,@1460,@517
+1485,@1461,@783
+1486,@1462,@1462
+1487,@1463,@1463
+1488,@1464,@1464
+1489,Derrote o Grendel do Território Conquistado da Torre de Marfim.,@1270
+1490,Derrote o Novato Bandido do Território Conquistado da Torre de Marfim.,Derrote o Novato Bandido {TaskCount} vez(es).
+1491,Derrote o Batedor Bandido do Território Conquistado da Torre de Marfim.,Derrote o Batedor Bandido {TaskCount} vez(es).
+1492,Derrote o Saqueador Bandido do Território Conquistado da Torre de Marfim.,Derrote o Saqueador Bandido {TaskCount} vez(es).
+1493,Derrote o Degolador Bandido do Território Conquistado da Torre de Marfim.,Derrote o Degolador Bandido {TaskCount} vez(es).
+1494,Derrote o Espoliador Bandido do Território Conquistado da Torre de Marfim.,Derrote o Espoliador Bandido {TaskCount} vez(es).
+1495,Derrote o Xamã Bandido do Território Conquistado da Torre de Marfim.,Derrote o Xamã Bandido {TaskCount} vez(es).
+1496,Derrote o Guerreiro Bandido do Território Conquistado da Torre de Marfim.,Derrote o Guerreiro Bandido {TaskCount} vez(es).
+1497,Derrote o Lutador Bandido do Território Conquistado da Torre de Marfim.,Derrote o Lutador Bandido {TaskCount} vez(es).
+1498,Derrote o Grendel Feroz do Território Conquistado da Torre de Marfim.,Derrot o Grendel Feroz {TaskCount} vez(s).
+1499,Derrote o Sumo Xamã Bandido do Território Conquistado da Torre de Marfim.,Derrote o Sumo Xamã Bandido {TaskCount} vez(es).
+1500,@1489,@1270
+1501,@1490,@1490
+1502,@1491,@1491
+1503,@1492,@1492
+1504,@1493,@1493
+1505,@1494,@1494
+1506,@1495,@1495
+1507,@1496,@1496
+1508,@1497,@1497
+1509,@1498,@1498
+1510,@1499,@1499
+1511,@1489,@1270
+1512,@1490,@1490
+1513,@1491,@1491
+1514,@1492,@1492
+1515,@1493,@1493
+1516,@1494,@1494
+1517,@1495,@1495
+1518,@1496,@1496
+1519,@1497,@1497
+1520,@1498,@1498
+1521,@1499,@1499
+1522,Derrote a Serpe da Floresta do Território Conquistado da Torre de Marfim.,Derrote a Serpe da Floresta {TaskCount} vez(es).
+1523,Derrote a Bruxa Sombria do Território Conquistado da Torre de Marfim.,Derrote a Bruxa Sombria {TaskCount} vez(es).
+1524,Derrote o Arqueiro Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Arqueiro Orc de Timak {TaskCount} vez(es).
+1525,Derrote o Lutador Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Lutador Orc de Timak {TaskCount} vez(es).
+1526,Derrote o Buscador Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Buscador Orc de Timak {TaskCount} vez(es).
+1527,Derrote o Atroz do Território Conquistado da Torre de Marfim.,Derrote o Atroz {TaskCount} vez(es).
+1528,Derrote a Sanguessuga Gigante do Território Conquistado da Torre de Marfim.,@394
+1529,Derrote o Guerreiro Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Guerreiro Orc de Timak {TaskCount} vez(es).
+1530,Derrote o Sentinela Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Sentinela Orc de Timak {TaskCount} vez(es).
+1531,@1522,@1522
+1532,@1523,@1523
+1533,@1524,@1524
+1534,@1525,@1525
+1535,@1526,@1526
+1536,@1527,@1527
+1537,@1528,@394
+1538,@1529,@1529
+1539,@1530,@1530
+1540,@1522,@1522
+1541,@1523,@1523
+1542,@1524,@1524
+1543,@1525,@1525
+1544,@1526,@1526
+1545,@1527,@1527
+1546,@1528,@394
+1547,@1529,@1529
+1548,@1530,@1530
+1549,@1528,@394
+1550,@1529,@1529
+1551,@1530,@1530
+1552,Derrote o Capitão Branco Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Capitão Branco Orc de Timak {TaskCount} vez(es).
+1553,Derrote o Oficial Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Oficial Orc de Timak {TaskCount} vez(es).
+1554,Derrote o Berserker Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Berserker Orc de Timak {TaskCount} vez(es).
+1555,Derrote o Patrulheiro de Elite Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Patrulheiro de Elite Orc de Timak {TaskCount} vez(es).
+1556,Derrote o Soldado de Elite Orc de Timak do Território Conquistado da Torre de Marfim.,@1336
+1557,Derrote o Chefe Tribal Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Chefe Tribal Orc de Timak {TaskCount} vez(es).
+1558,Derrote o Arqueiro Orc de Timak do Território Conquistado da Torre de Marfim.,Derrote o Arqueiro Orc de Timak {TaskCount} vez(es).
+1559,@1552,@1552
+1560,@1553,@1553
+1561,@1554,@1554
+1562,@1555,@1555
+1563,@1556,@1336
+1564,@1557,@1557
+1565,@1558,@1558
+1566,@1552,@1552
+1567,@1553,@1553
+1568,@1554,@1554
+1569,@1555,@1555
+1570,@1556,@1336
+1571,@1557,@1557
+1572,@1558,@1558
+1573,@1552,@1552
+1574,@1553,@1553
+1575,@1554,@1554
+1576,@1555,@1555
+1577,@1556,@1336
+1578,@1557,@1557
+1579,@1558,@1558
+1580,@1557,@1557
+1581,@1558,@1558
+1582,Derrote a Gárgula do Território Conquistado da Torre de Marfim.,Derrote a Gárgula da Torre de Marfim {TaskCount} vez(es).
+1583,Derrote o Guardião Golem do Território Conquistado da Torre de Marfim.,Derrote o Guardião Golem da Torre de Marfim Conquistado {TaskCount} vez(es).
+1584,Derrote o Cavaleiro Caído do Território Conquistado da Torre de Marfim.,Derrote o Cavaleiro Caído {TaskCount} vez(es).
+1585,Derrote o Cão do Limbo do Território Conquistado da Torre de Marfim.,Derrote o Cão do Limbo {TaskCount} vez(es).
+1586,Derrote a Gárgula Convicta do Território Conquistado da Torre de Marfim.,Derrote a Gárgula Convicta {TaskCount} vez(es).
+1587,@1582,@1582
+1588,@1583,@1583
+1589,@1584,@1584
+1590,@1585,@1585
+1591,@1586,@1586
+1592,@1582,@1582
+1593,@1583,@1583
+1594,@1584,@1584
+1595,@1585,@1585
+1596,@1586,@1586
+1597,@1582,@1582
+1598,@1583,@1583
+1599,@1584,@1584
+1600,@1585,@1585
+1601,@1586,@1586
+1602,@1582,@1582
+1603,@1583,@1583
+1604,@1584,@1584
+1605,@1585,@1585
+1606,@1586,@1586
+1607,@1582,@1582
+1608,@1583,@1583
+1609,@1584,@1584
+1610,@1585,@1585
+1611,@1586,@1586
+1612,Derrote o Cão do Limbo Feroz do Território Conquistado da Torre de Marfim.,Derrote o Cão do Limbo Feroz {TaskCount} vez(es).
+1613,Derrote o Guardião com defeito do Território Conquistado da Torre de Marfim.,Derrote o Guardião com defeito {TaskCount} vez(es).
+1614,Derrote o Cavaleiro Negro do Território Conquistado da Torre de Marfim.,Derrote o Cavaleiro Negro {TaskCount} vez(es).
+1615,Derrote o Sumo Sacerdote da Irmandade Sombria do Território Conquistado da Torre de Marfim.,Derrote o Sumo Sacerdote da Irmandade Sombria {TaskCount} vez(es).
+1616,Derrote o Escudeiro do Embrião do Território Conquistado da Torre de Marfim.,Derrote o Escudeiro do Embrião {TaskCount} vez(es).
+1617,@1612,@1612
+1618,@1613,@1613
+1619,@1614,@1614
+1620,@1615,@1615
+1621,@1616,@1616
+1622,@1612,@1612
+1623,@1613,@1613
+1624,@1614,@1614
+1625,@1615,@1615
+1626,@1616,@1616
+1627,@1612,@1612
+1628,@1613,@1613
+1629,@1614,@1614
+1630,@1615,@1615
+1631,@1616,@1616
+1632,@1612,@1612
+1633,@1613,@1613
+1634,@1614,@1614
+1635,@1615,@1615
+1636,@1616,@1616
+1637,@1612,@1612
+1638,@1613,@1613
+1639,@1614,@1614
+1640,@1615,@1615
+1641,@1616,@1616
+1642,용의 계곡 어둠의 기사 공략,@1614
+1643,용의 계곡 어둠의 군주 공략,어둠의 군주 {TaskCount}회 처치하기
+1644,용의 계곡 네르카스 공략,네르카스 {TaskCount}회 처치하기
+1645,용의 계곡 드레이크 공략,드레이크 {TaskCount}회 처치하기
+1646,용의 계곡 어둠의 결사 공략,@1401
+1647,용의 계곡 보이드 데몬 공략,보이드 데몬 {TaskCount}회 처치하기
+1648,용의 계곡 블러디 퀸 공략,블러디 퀸 {TaskCount}회 처치하기
+1649,@1642,@1614
+1650,@1643,@1643
+1651,@1644,@1644
+1652,@1645,@1645
+1653,@1646,@1401
+1654,@1647,@1647
+1655,@1648,@1648
+1656,용의 계곡 어둠의 결사 고위사제 공략,@1615
+1657,용의 계곡 엠브리온의 기사단원 공략,@1616
+1658,용의 계곡 포악한 어둠의 군주 공략,포악한 어둠의 군주 {TaskCount}회 처치하기
+1659,@1656,@1615
+1660,@1657,@1616
+1661,@1658,@1658
+1662,약속된 땅 케이브 키퍼 정찰병 공략,케이브 키퍼 정찰병 {TaskCount}회 처치하기
+1663,약속된 땅 말룩 헌터 정찰병 공략,말룩 헌터 정찰병 {TaskCount}회 처치하기
+1664,약속된 땅 블러디 퀸 정찰병 공략,블러디 퀸 정찰병 {TaskCount}회 처치하기
+1665,약속된 땅 유혹의 서큐버스 공략,유혹의 서큐버스 {TaskCount}회 처치하기
+1666,약속된 땅 현혹된 미믹 공략,현혹된 미믹 {TaskCount}회 처치하기
+1667,약속된 땅 난폭해진 미믹 공략,난폭해진 미믹 {TaskCount}회 처치하기
+1668,약속된 땅 현혹의 서큐버스 공략,현혹의 서큐버스 {TaskCount}회 처치하기
+1669,약속된 땅 케이브 키퍼 정예병 공략,케이브 키퍼 정예병 {TaskCount}회 처치하기
+1670,약속된 땅 말룩 헌터 정예병 공략,말룩 헌터 정예병 {TaskCount}회 처치하기
+1671,약속된 땅 케이브 키퍼 감시병 공략,케이브 키퍼 감시병 {TaskCount}회 처치하기
+1672,약속된 땅 말룩 헌터 감시병 공략,말룩 헌터 감시병 {TaskCount}회 처치하기
+1673,약속된 땅 파괴의 서큐버스 공략,파괴의 서큐버스 {TaskCount}회 처치하기
+1674,약속된 땅 블러디 퀸 정예병 공략,블러디 퀸 정예병 {TaskCount}회 처치하기
+1675,약속된 땅 지옥의 서큐버스 공략,지옥의 서큐버스 {TaskCount}회 처치하기
+1676,약속된 땅 블러디 퀸 감시병 공략,블러디 퀸 감시병 {TaskCount}회 처치하기
+1677,@1662,@1662
+1678,@1663,@1663
+1679,@1664,@1664
+1680,@1665,@1665
+1681,@1666,@1666
+1682,@1667,@1667
+1683,@1668,@1668
+1684,@1669,@1669
+1685,@1670,@1670
+1686,@1671,@1671
+1687,@1672,@1672
+1688,@1673,@1673
+1689,@1674,@1674
+1690,@1675,@1675
+1691,@1676,@1676
+1692,약속된 땅 케이브 키퍼 근위병 공략,케이브 키퍼 근위병 {TaskCount}회 처치하기
+1693,약속된 땅 최면에 걸린 미믹 공략,최면에 걸린 미믹 {TaskCount}회 처치하기
+1694,약속된 땅 말룩 헌터 근위병 공략,말룩 헌터 근위병 {TaskCount}회 처치하기
+1695,약속된 땅 사악해진 미믹 공략,사악해진 미믹 {TaskCount}회 처치하기
+1696,약속된 땅 블러디 퀸 근위병 공략,블러디 퀸 근위병 {TaskCount}회 처치하기
+1697,약속된 땅 임프 감시병 공략,임프 감시병 {TaskCount}회 처치하기
+1698,약속된 땅 말룩 스나이퍼 감시병 공략,말룩 스나이퍼 감시병 {TaskCount}회 처치하기
+1699,약속된 땅 난폭한 보이드 하운드 공략,난폭한 보이드 하운드 {TaskCount}회 처치하기
+1700,약속된 땅 말룩 스나이퍼 정찰병 공략,말룩 스나이퍼 정찰병 {TaskCount}회 처치하기
+1701,약속된 땅 지배당한 크림슨 바인드 공략,지배당한 크림슨 바인드 {TaskCount}회 처치하기
+1702,@1692,@1692
+1703,@1693,@1693
+1704,@1694,@1694
+1705,@1695,@1695
+1706,@1696,@1696
+1707,@1697,@1697
+1708,@1698,@1698
+1709,@1699,@1699
+1710,@1700,@1700
+1711,@1701,@1701
+1712,약속된 땅 날뛰는 미믹 공략,날뛰는 미믹 {TaskCount}회 처치하기
+1713,약속된 땅 정신 나간 미믹 공략,정신 나간 미믹 {TaskCount}회 처치하기
+1714,약속된 땅 순종적인 크림슨 바인드 공략,순종적인 크림슨 바인드 {TaskCount}회 처치하기
+1715,약속된 땅 임프 정찰병 공략,임프 정찰병 {TaskCount}회 처치하기
+1716,약속된 땅 최면걸린 크림슨 바인드 공략,최면걸린 크림슨 바인드 {TaskCount}회 처치하기
+1717,약속된 땅 임프 정예병 공략,임프 정예병 {TaskCount}회 처치하기
+1718,약속된 땅 세뇌당한 크림슨 바인드 공략,세뇌당한 크림슨 바인드 {TaskCount}회 처치하기
+1719,약속된 땅 성난 보이드 하운드 공략,성난 보이드 하운드 {TaskCount}회 처치하기
+1720,약속된 땅 떠도는 크림슨 바인드 공략,@1214
+1721,약속된 땅 말룩 스나이퍼 정예병 공략,말룩 스나이퍼 정예병 {TaskCount}회 처치하기
+1722,약속된 땅 말룩 스나이퍼 근위병 공략,말룩 스나이퍼 근위병 {TaskCount}회 처치하기
+1723,약속된 땅 잔혹한 보이드 하운드 공략,잔혹한 보이드 하운드 {TaskCount}회 처치하기
+1724,약속된 땅 임프 지휘병 공략,임프 지휘병 {TaskCount}회 처치하기
+1725,약속된 땅 죽음의 보이드 하운드 공략,죽음의 보이드 하운드 {TaskCount}회 처치하기
+1726,약속된 땅 말룩 스나이퍼 부관 공략,말룩 스나이퍼 부관 {TaskCount}회 처치하기
+1727,@1712,@1712
+1728,@1713,@1713
+1729,@1714,@1714
+1730,@1715,@1715
+1731,@1716,@1716
+1732,@1717,@1717
+1733,@1718,@1718
+1734,@1719,@1719
+1735,@1720,@1214
+1736,@1721,@1721
+1737,@1722,@1722
+1738,@1723,@1723
+1739,@1724,@1724
+1740,@1725,@1725
+1741,@1726,@1726
+1742,고룡 산맥 어둠의 결사 기사단원 공략,어둠의 결사 기사단원 {TaskCount}회 처치하기
+1743,고룡 산맥 어둠의 결사 습격자 공략,어둠의 결사 습격자 {TaskCount}회 처치하기
+1744,고룡 산맥 서릿잎 만드라고라 공략,서릿잎 만드라고라 {TaskCount}회 처치하기
+1745,고룡 산맥 식인 설인 공략,식인 설인 {TaskCount}회 처치하기
+1746,고룡 산맥 서릿발 늑대 공략,서릿발 늑대 {TaskCount}회 처치하기
+1747,고룡 산맥 굶주린 식인 설인 공략,굶주린 식인 설인 {TaskCount}회 처치하기
+1748,고룡 산맥 고산지 만드라고라 공략,고산지 만드라고라 {TaskCount}회 처치하기
+1749,고룡 산맥 어둠의 결사 흑기사 공략,어둠의 결사 흑기사 {TaskCount}회 처치하기
+1750,고룡 산맥 굶주린 서릿발 늑대 공략,굶주린 서릿발 늑대 {TaskCount}회 처치하기
+1751,고룡 산맥 어둠의 결사 정찰대원 공략,어둠의 결사 정찰대원 {TaskCount}회 처치하기
+1752,@1742,@1742
+1753,@1743,@1743
+1754,@1744,@1744
+1755,@1745,@1745
+1756,@1746,@1746
+1757,@1747,@1747
+1758,@1748,@1748
+1759,@1749,@1749
+1760,@1750,@1750
+1761,@1751,@1751
+1762,고룡 산맥 분노한 식인 설인 공략,분노한 식인 설인 {TaskCount}회 처치하기
+1763,고룡 산맥 어둠의 결사 파괴자 공략,어둠의 결사 파괴자 {TaskCount}회 처치하기
+1764,고룡 산맥 지배된 지룡 정찰병 공략,지배된 지룡 정찰병 {TaskCount}회 처치하기
+1765,고룡 산맥 지배된 지룡 연락병 공략,지배된 지룡 연락병 {TaskCount}회 처치하기
+1766,고룡 산맥 지배된 어린 지룡 공략,지배된 어린 지룡 {TaskCount}회 처치하기
+1767,고룡 산맥 안타라스의 시선 공략,안타라스의 시선 {TaskCount}회 처치하기
+1768,고룡 산맥 지배된 어린 풍룡 공략,지배된 어린 풍룡 {TaskCount}회 처치하기
+1769,고룡 산맥 실렌의 시선 공략,실렌의 시선 {TaskCount}회 처치하기
+1770,고룡 산맥 고통받는 어린 지룡 공략,고통받는 어린 지룡 {TaskCount}회 처치하기
+1771,고룡 산맥 고통받는 어린 풍룡 공략,고통받는 어린 풍룡 {TaskCount}회 처치하기
+1772,고룡 산맥 지배된 왕좌 수호병 공략,지배된 왕좌 수호병 {TaskCount}회 처치하기
+1773,고룡 산맥 지배된 왕좌 마법병사 공략,지배된 왕좌 마법병사 {TaskCount}회 처치하기
+1774,@1762,@1762
+1775,@1763,@1763
+1776,@1764,@1764
+1777,@1765,@1765
+1778,@1766,@1766
+1779,@1767,@1767
+1780,@1768,@1768
+1781,@1769,@1769
+1782,@1770,@1770
+1783,@1771,@1771
+1784,@1772,@1772
+1785,@1773,@1773
+1786,고룡 산맥 분노한 어린 지룡 공략,분노한 어린 지룡 {TaskCount}회 처치하기
+1787,고룡 산맥 분노한 어린 풍룡 공략,분노한 어린 풍룡 {TaskCount}회 처치하기
+1788,고룡 산맥 분노한 왕좌 수호병 공략,분노한 왕좌 수호병 {TaskCount}회 처치하기
+1789,고룡 산맥 분노한 왕좌 마법병사 공략,분노한 왕좌 마법병사 {TaskCount}회 처치하기
+1790,고룡 산맥 말룩의 정찰병 공략,말룩의 정찰병 {TaskCount}회 처치하기
+1791,고룡 산맥 말룩의 학살마 공략,말룩의 학살마 {TaskCount}회 처치하기
+1792,고룡 산맥 말룩의 척후병 공략,말룩의 척후병 {TaskCount}회 처치하기
+1793,고룡 산맥 잠들지 못한 원정대 공략,잠들지 못한 원정대 {TaskCount}회 처치하기
+1794,고룡 산맥 말룩의 저격병 공략,말룩의 저격병 {TaskCount}회 처치하기
+1795,고룡 산맥 말룩의 잠입자 공략,말룩의 잠입자 {TaskCount}회 처치하기
+1796,고룡 산맥 잠들지 못한 마법사 공략,잠들지 못한 마법사 {TaskCount}회 처치하기
+1797,@1786,@1786
+1798,@1787,@1787
+1799,@1788,@1788
+1800,@1789,@1789
+1801,@1790,@1790
+1802,@1791,@1791
+1803,@1792,@1792
+1804,@1793,@1793
+1805,@1794,@1794
+1806,@1795,@1795
+1807,@1796,@1796
+1808,고룡 산맥 말룩의 사역마 공략,말룩의 사역마 {TaskCount}회 처치하기
+1809,고룡 산맥 말룩의 암살자 공략,말룩의 암살자 {TaskCount}회 처치하기
+1810,고룡 산맥 어둠의 결사 작전병 공략,어둠의 결사 작전병 {TaskCount}회 처치하기
+1811,고룡 산맥 어둠의 결사 선봉대원 공략,어둠의 결사 선봉대원 {TaskCount}회 처치하기
+1812,고룡 산맥 어둠의 결사 대마도사 공략,어둠의 결사 대마도사 {TaskCount}회 처치하기
+1813,고룡 산맥 어둠의 결사 근위대원 공략,어둠의 결사 근위대원 {TaskCount}회 처치하기
+1814,@1808,@1808
+1815,@1809,@1809
+1816,@1810,@1810
+1817,@1811,@1811
+1818,@1812,@1812
+1819,@1813,@1813
+1820,@1808,@1808
+1821,@1809,@1809
+1822,@1810,@1810
+1823,@1811,@1811
+1824,@1812,@1812
+1825,@1813,@1813
+1826,@1808,@1808
+1827,@1809,@1809
+1828,@1810,@1810
+1829,@1811,@1811
+1830,@1812,@1812
+1831,@1813,@1813

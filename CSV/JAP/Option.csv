@@ -1,0 +1,45 @@
+Id,Hidden,GroupId,UseType,StringKey,DefaultValueForAOS,DefaultValueForIOS,UserData,StartValue,IsPercentage,Description
+1,0,Dev,Quality,OPTION_DEV_RESOLUTION,-1,-1,,,0,게임 해상도를 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+2,0,Dev,Quality,OPTION_DEV_VIEW_DISTANCE,3,3,,,0,화면에서 보이는 거리를 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+3,0,Dev,Quality,OPTION_DEV_ANTI_ALIASING,0,0,,,0,"경계선을 부드럽게 처리합니다. 옵션을 낮추면 사물이 거칠게 묘사되지만, 성능이 높아질 수 있습니다."
+4,0,Dev,Quality,OPTION_DEV_POST_PROCESSING,1,1,,,0,텍스쳐 마감을 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+5,0,Dev,Quality,OPTION_DEV_SHADOWS_QUALITY,1,1,,,0,그림자 품질을 설정합니다. 옵션 성능이 높아질 수록 사실적인 그래픽이 출력됩니다.
+6,0,Dev,ToggleButton,OPTION_DEV_VSYNC,0,0,,,0,화면 수직동기화를 설정합니다. 옵션을 켜면 더욱 부드럽게 그래픽이 출력됩니다.
+7,0,Dev,Quality,OPTION_DEV_SHADOWS_RESOLUTION,1,1,,,0,그림자 품질을 설정합니다. 옵션 성능이 높아질 수록 사실적인 그래픽이 출력됩니다.
+8,0,Dev,Quality,OPTION_DEV_TEXTUES,-1,-1,,,0,텍스쳐 품질을 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+9,0,Dev,Quality,OPTION_DEV_TEXTURE_LOD_LEVEL,0,0,,,0,텍스쳐 LOD 레벨
+10,0,Dev,Quality,OPTION_DEV_RESOLUTION_RATIO,1,1,,,0,해상도 비율을 설정합니다.
+11,0,Dev,ToggleButton,OPTION_DEV_SLATE_SKIP_SECOND_PREPASS,0,0,,,0,슬레이트에서 Prepass를 한 번만 수행합니다.
+12,0,Dev,ToggleButton,OPTION_DEV_MY_SHADOW_ONLY,0,0,,,0,내 그림자만 보이기 여부를 설정합니다.
+13,0,Game,Quality,OPTION_GAME_FRAME_RATE,1,1,,,0,화면 재생 속도를 설정합니다.
+14,0,Game,Quality5,OPTION_GAME_GQ_APU_USAGE,1,1,,,0,APU 사용과 관련한 그래픽 품질을 설정합니다.
+15,0,Game,Quality5,OPTION_GAME_GQ_MEM_USAGE,1,1,,,0,메모리 사용과 관련한 그래픽 품질을 설정합니다.
+16,0,Game,Quality,OPTION_GAME_SOUND_CHANNEL_QUALITY,2,2,,,0,사운드 채널 품질을 설정합니다.
+17,0,Game,EffectVisibility,OPTION_GAME_EFFECT_VISIBILITY,2,2,2,,0,이펙트 표시 대상을 설정합니다.
+18,0,Game,Quality,OPTION_GAME_VISIBLE_PC_MAX_COUNT,3,3,,,0,화면에서 표시할 최대 인원을 결정합니다.
+19,0,Game,Quality,OPTION_GAME_VISIBLE_EQUIP,3,3,,,0,화면에서 표시될 장비들의 수준을 결정합니다.
+20,0,Game,EffectVisibility,OPTION_GAME_VISIBLE_CAPE,2,2,2,,0,망토 표시 대상을 설정합니다.
+21,0,Device,Slider,OPTION_DEVICE_SOUND_MASTER,75,75,100,,0,최대 음향 볼륨을 조절합니다.
+22,0,Device,Slider,OPTION_DEVICE_SOUND_BGM,75,75,100,,0,배경 음악 볼륨을 조절합니다.
+23,0,Device,Slider,OPTION_DEVICE_SOUND_EFFECT,75,75,100,,0,효과음 볼륨을 조절합니다.
+24,0,Device,Slider,OPTION_DEVICE_SOUND_VOICE,75,75,100,,0,성우 목소리 볼륨을 조절합니다.
+25,0,Device,ToggleButton,OPTION_DEVICE_VIBRATION,1,1,,,0,진동 피드백을 켜고 끕니다.
+26,0,Device,ToggleButton,OPTION_DEVICE_PUSH_PARTY_VIBRATION,1,1,,,0,게임에서 보내는 파티 초대 진동을 받습니다.
+27,0,Device,ToggleButton,OPTION_DEVICE_KEEP_SCREEN_AWAKE,1,1,,,0,휴대폰 자동 꺼짐을 조절합니다.
+28,0,Device,ToggleButton,OPTION_DEVICE_PUSH,1,1,10000,,0,게임 내의 모든 알림을 켜거나 끌 수 있습니다.
+29,0,Device,ToggleButton,OPTION_DEVICE_PUSH_GAME,1,1,,,0,게임에서 보내는 알림을 받습니다
+30,0,Device,ToggleButton,OPTION_DEVICE_PUSH_NOTICE,1,1,,,0,게임에서 보내는 공지 알림을 받습니다.
+31,0,Device,ToggleButton,OPTION_DEVICE_VOICE_MODULATION,0,0,,,0,음성 변조 기능 사용 여부를 설정합니다.
+32,0,Device,MultiToggleCheckBox,OPTION_DEVICE_VOICE_AUTO_PLAY,0,0,,,0,음성채팅 자동재생을 설정합니다
+39,0,Combat,Slider,OPTION_COMBAT_AUTO_POTION_HP,70,70,100,,1,HP포션을 자동으로 사용할 캐릭터의 HP를 설정합니다
+40,0,Combat,Slider,OPTION_COMBAT_AUTO_POTION_MP,70,70,100,,1,MP포션을 자동으로 사용할 캐릭터의 MP를 설정합니다.
+41,0,Combat,Slider,OPTION_COMBAT_AUTO_HEALING_HP,80,80,100,,1,HP가 몇% 이하로 떨어졌을 때 자동으로 힐링스킬을 사용할지를 설정합니다.
+42,0,Combat,GradeToggleButton,OPTION_COMBAT_POTION_HP_GRADE,1,1,,,0,자동으로 HP포션을 사용할 때 어떤 등급의 포션부터 사용할지 설정합니다.
+43,0,Combat,GradeToggleButton,OPTION_COMBAT_POTION_MP_GRADE,1,1,,,0,자동으로 MP포션을 사용할 때 어떤 등급의 포션부터 사용할지 설정합니다.
+44,0,Combat,ToggleButton,OPTION_COMBAT_BASICSKILL_VISIBILITY,1,1,,,0,내 일반 공격 범위를 표시합니다.
+45,0,Combat,CombatRadius,OPTION_COMBAT_AUTO_RADIUS,2,2,2,,0,자동 전투시 캐릭터가 이동하는 범위를 설정합니다.
+46,0,Combat,LootGrade,OPTION_COMBAT_LOOT_GRADE,1,1,,,0,습득할 장비 아이템의 최소 등급을 설정합니다.
+47,0,Combat,CheckBox,OPTION_COMBAT_EVADE_ON_ELITE,0,0,,,0,자동 전투 시에 엘리트급 이상 몬스터를 만나면 다른 곳으로 회피합니다
+48,0,Combat,CheckBox,OPTION_COMBAT_COUNTER_ATTACK,1,1,,,0,"해당 등급 이상의 아이템만 획득하며, 낮은 등급의 아이템은 획득하지 않습니다."
+60,0,Custom,Value,OPTION_CHARACTER_TITLE_ACQUIRE_ENABLE,1,1,1,,0,칭호 정렬 습득할 수 없는 칭호 감추기
+61,0,Custom,Value,OPTION_CHARACTER_TITLE_SORT_TYPE,1,1,1,,0,칭호 정렬 기본/미보유 타입

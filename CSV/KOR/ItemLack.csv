@@ -1,0 +1,88 @@
+Id,Moveable,MoveContentType,IconTexture,Text
+1,1,55,UI_Btn_Pet,사냥
+2,1,53,UI_Btn_Mission,퀘스트
+3,1,20,UI_Btn_MiscCraft,엘릭서 제작
+4,1,24,UI_Btn_Skill,스킬북 제작
+5,1,17,UI_Btn_Achievement,업적
+6,1,25,UI_Btn_RestReward,휴식 보상
+7,1,48,UI_Btn_Reward,즉시 달성
+8,1,27,UI_Btn_Shop,우정포인트 상점
+9,1,28,UI_Btn_Shop,소환 상점
+10,1,30,UI_Btn_Shop,소모품 상점
+11,1,31,UI_Btn_Shop,아데나 상점
+12,1,32,UI_Btn_Shop,토파즈 상점
+13,1,33,UI_Btn_Shop,패키지 상점
+14,1,34,UI_Btn_Shop,마일리지 상점
+15,1,36,UI_Btn_Shop,다이아 충전
+16,1,37,UI_Btn_Shop,매일 다이아
+17,1,38,UI_Btn_Shop,접속 꾸러미
+18,1,39,UI_Btn_Shop,성장 꾸러미
+19,1,6,UI_Btn_Dungeon,정예 던전
+20,1,7,UI_Btn_Dungeon,요일 던전
+21,1,9,UI_Btn_Dungeon,오만의 탑
+22,1,5,UI_Btn_Dungeon,채집 던전
+23,1,1,UI_Btn_PVP,결투장
+24,1,3,UI_Btn_Friend,친구
+25,1,40,UI_Btn_Guild,혈맹 상점
+26,1,41,UI_Btn_Guild,혈맹 선물 상점
+27,1,43,UI_Btn_Guild,혈맹 업적
+28,1,29,UI_Btn_Shop,블루다이아 상점
+29,1,77,UI_Btn_Guild,혈맹 기부
+30,1,2,UI_Btn_Guild,혈맹원 인사
+31,1,121,UI_Btn_Mission,오늘의 활동
+32,1,80,UI_Btn_BattleField,명예의 전장
+33,1,81,UI_Btn_BattleField,용맹의 전장
+34,1,82,UI_Btn_BattleField,고대의 전장
+35,1,99,UI_Btn_AgitQuest,아지트 퀘스트
+36,1,55,UI_Btn_Pet,"일반, 네임드"
+37,1,101,Icon_BossStatusBoard,월드보스
+38,1,100,Icon_BossStatusBoard,필드보스
+39,1,7,UI_Btn_Dungeon,요일 던전
+40,1,95,UI_Btn_Atelier,조합
+41,1,96,UI_Btn_Atelier,분해
+42,1,11,UI_Btn_Dungeon,장비 던전
+43,1,10,UI_Btn_Dungeon,아데나 던전
+44,1,91,UI_Btn_Dungeon,소환석 던전
+45,1,44,UI_Btn_Agit_Relic,아지트 유물
+46,0,55,UI_Btn_TreasureBox,보물 상자
+47,1,42,UI_Btn_Guild,점령 상점
+48,1,102,UI_Btn_CastleSiegeFestival,공성전 축제
+49,1,35,UI_Btn_Shop,스크롤 상점
+50,1,105,UI_Btn_Event,이벤트
+51,1,106,UI_Btn_Journey,여정 이벤트
+52,1,107,UI_Btn_Reward,웹 이벤트
+53,1,108,UI_Btn_ButtonConnectReward,접속 보상
+54,1,115,UI_Btn_Guild_Dungeon,도움 주기
+55,1,50,UI_Btn_Guild,공성전
+56,1,51,UI_Btn_Guild,요새전
+57,1,110,UI_Btn_MonsterBook,몬스터 분해
+58,1,21,UI_Btn_JewelCraft,집혼석
+59,1,97,UI_Btn_Atelier,교환
+60,1,52,UI_Btn_BattleField,자유 요새전
+61,1,14,UI_Btn_Party_Dungeon,시공의 균열
+62,1,114,UI_Btn_Shop,정복자의 전당
+63,1,15,UI_Btn_Guild_Dungeon,혈맹 던전
+64,1,122,UI_Btn_Costume,코스튬 상점
+65,0,99,UI_Btn_Agit_Fireplace,벽난로 - 픽시
+66,1,8,UI_Btn_Dungeon,경험치 던전
+67,1,49,UI_Btn_AuctionHouse,거래소
+68,0,55,UI_Btn_TreasureHunter,보물 파수꾼
+69,1,14,UI_Btn_AbyssMode_Dungeon,시공의 균열-악몽
+70,0,99,UI_Btn_Agit_Fireplace,벽난로-채집픽시
+71,0,99,UI_Btn_Agit_Fireplace,벽난로-광부픽시
+72,0,99,UI_Btn_Agit_Fireplace,벽난로-황금픽시
+73,1,148,UI_Btn_MonsterBook,몬스터 상점
+1001,1,22,UI_Btn_Skill,스킬설정
+1002,1,18,,룬 각인
+1003,1,93,UI_Btn_Pet,펫
+1004,1,56,UI_Btn_Atelier,장비 레벨업
+1005,1,57,UI_Btn_Atelier,장비 승급
+1006,1,58,UI_Btn_Atelier,장비 합성
+1007,1,59,UI_Btn_Atelier,장비 강화
+1008,1,60,UI_Btn_Atelier,장비 특성강화
+1009,1,61,UI_Btn_Atelier,장비 옵션변경
+1010,1,62,UI_Btn_Atelier,장비 초월
+1011,1,46,UI_Btn_Mission,일일퀘스트
+1012,1,47,UI_Btn_Mission,주간퀘스트
+1013,1,19,,몬스터 코어
+1014,1,119,,망토

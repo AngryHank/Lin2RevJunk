@@ -1,0 +1,2591 @@
+Id,Name,ControlText
+1202,Ruines elfiques 2,
+1203,@1202,
+1204,@1202,
+1205,@1202,
+1206,Nid de fourmis 2,
+1218,@1206,
+1207,Flèche de guidage vers la Tour d'ivoire 1,
+1208,Flèche de guidage vers la Tour d'ivoire 3,
+1209,Obstacle de la Tour d'ivoire 1,
+1210,Obstacle de la Tour d'ivoire 3,
+1211,Flèche de guidage vers l'étage supérieur de la Forêt des secrets,
+1212,Flèche de guidage 1 vers l'étage inférieur de la Forêt des secrets,
+1214,Gadget d'obstruction du site du massacre de la Forêt des secrets,
+1215,@1214,
+1216,Sanctuaire de Gran Kain : Laboratoire de la Tour d'ivoire,Absorption de l'énergie de Gran Kain...
+1217,Sanctuaire de Gran Kain : Site du massacre de la Forêt des secrets,@1216
+1219,Flèche de la Tour de Cruma 2,
+1220,Flèche de la Tour de Cruma 3,
+1221,Navire fantôme de Zaken,
+1222,@1221,
+211010101,Gadget d'obstruction exclusif de la Tour de Cruma,
+211010201,Gadget de sortie exclusif de la Tour de Cruma,Système de commandes en cours d'utilisation
+82601,Gadget d'entrée exclusif de la Tour de Cruma (quêtes),@211010201
+82701,Gadget d'entrée exclusif de la Tour de Cruma,@211010201
+211010301,Premier fichier de recherche du géant,Vérification des fichiers de recherche du géant...
+211010401,Deuxième fichier de recherche du géant,@211010301
+211010501,Troisième fichier de recherche du géant,@211010301
+211010601,Quatrième fichier de recherche du géant,@211010301
+211010701,Boîte du géant,Récupération de la boîte du géant...
+211010801,Boîte de monstre du géant vide,Vous ne voyez aucune boîte.
+211010901,Hardin tombé,Réveil d'Hardin
+211011001,Étage des cœurs,
+211011101,Dispositif de suppression de la barrière 1 - Activation,Manipulation du générateur...
+211011201,Dispositif de suppression de la barrière 1 - Désactivation,
+211011301,Dispositif de suppression de la barrière 2 - Activation,@211011101
+211011401,Dispositif de suppression de la barrière 2 - Désactivation,
+211011501,Cinquième fichier de recherche du géant,@211010301
+211011601,Sixième fichier de recherche du géant,@211010301
+211011701,Septième fichier de recherche du géant,@211010301
+211011801,Huitième fichier de recherche du géant,@211010301
+1958,Mur du sanctuaire,
+1959,@1958,
+1960,@1958,
+1961,@1958,
+1962,@1958,
+1963,@1958,
+1964,@1958,
+1965,@1958,
+1970,@1958,
+1971,@1958,
+1982,@1958,
+2014,@1958,
+2015,@1958,
+2016,@1958,
+2017,@1958,
+2021,@1958,
+2022,@1958,
+2023,@1958,
+2027,@1958,
+2029,@1958,
+2038,Herbe rouge,Extraction d'Herbe rouge...
+2039,Herbe bleue,Extraction d'Herbe bleue...
+2040,Herbe pourpre,Extraction d'Herbe pourpre...
+2041,Herbe jaune,Extraction d'Herbe jaune...
+2042,Herbe sans nom,Extraction d'herbe sans nom...
+2043,Grande Herbe rouge,Extraction de grande Herbe rouge...
+2044,Grande Herbe bleue,Extraction de grande Herbe bleue...
+2045,Grande Herbe pourpre,Extraction grande Herbe pourpre...
+2046,Grande Herbe jaune,Extraction de grande Herbe jaune...
+2047,Herbe sans nom,Extraction d'Herbe sans nom...
+2048,Augmentation de l'ATQ,Faible augmentation de l'ATQ
+2049,Augmentation de la VIT d'ATQ,Faible augmentation de la VIT d'ATQ
+2050,Augmentation de la DÉF,Faible augmentation de la DÉF
+2051,Augmentation de la vitesse,Faible augmentation de la vitesse
+2052,@2048,@2048
+2054,@2049,@2049
+2055,@2050,@2050
+2057,@2051,@2051
+2058,Augmentation des PV max.,Faible augmentation des PV max.
+2059,Augmentation des PM max.,Faible augmentation des PM max.
+2060,Cristal d'égide,
+2061,@2060,
+2062,@2060,
+2063,Mur invisible,
+2064,@2063,
+2065,@2063,
+2066,@2063,
+2067,Pont,
+2068,@2067,
+2069,Mur du coffre-fort de Kresous,
+2070,@2063,
+2071,Augmente les dégâts de compétence.,Augmente légèrement les dégâts de compétence.
+2072,Aura de dégâts de mêlée,Obtenir l'aura de dégâts de mêlée
+2073,Barrière de cristal aquatique,Immunité contre les dégâts de cristal aquatique
+2074,Groupe furieux,Augmente l'ATQ et la DÉF du groupe.
+2075,@2048,@2048
+2076,@2049,@2049
+2077,@2048,@2048
+2078,@2049,@2049
+2080,@2051,@2051
+3001,Récupération de PV,Récupération de PV
+3002,@2051,Augmentation de la vitesse
+3101,Statue de Freyja,Sculptage de la statue de Freyja...
+3102,@3001,@3001
+3103,@3001,@3001
+3104,@2051,@3002
+3105,@2051,@3002
+3106,Frise de Freyja,
+3107,@3106,
+3501,Sanctuaire de l'Arène impitoyable,Absorption de l'énergie du sanctuaire...
+7001,Flèche directionnelle du didacticiel : devant la porte du château,
+7002,Flèche directionnelle du didacticiel : dans votre château,
+7003,Flèche directionnelle du didacticiel : point de départ,
+7010,Gadget d'obstruction : Premier,
+7011,Gadget d'obstruction : 1re escorte/bataille,
+7012,Gadget d'obstruction : 2e escorte/bataille,
+7013,Gadget d'obstruction : jambe,
+7014,@7013,
+7015,@7013,
+7016,@7013,
+7017,Gadget d'obstruction : Marlow,
+7018,@7017,
+7019,Gadget d'obstruction : combat de la porte,
+7020,@7019,
+7021,Gadget d'obstruction : tour de contrôle,
+7022,@7021,
+30020101,Obstruction de donjon de clan : Ruines elfiques,
+30020301,Obstruction de donjon de clan : Nid de fourmis,
+30020302,@30020301,
+30020501,Donjon de clan : Support de Cœur de Cruma,
+30020502,Obstruction de donjon de clan : Cœur de Cruma,
+10101,Fragment de dolmen,Ramassage du fragment...
+10102,@10101,@10101
+10103,@10101,@10101
+10104,@10101,@10101
+10105,@10101,@10101
+10106,@10101,@10101
+10107,@10101,@10101
+10108,@10101,@10101
+10109,@10101,@10101
+10110,@10101,@10101
+10111,@10101,@10101
+10112,@10101,@10101
+10113,@10101,@10101
+10114,@10101,@10101
+10115,@10101,@10101
+10116,@10101,@10101
+10117,@10101,@10101
+10118,@10101,@10101
+10119,@10101,@10101
+10120,@10101,@10101
+10121,@10101,@10101
+10122,@10101,@10101
+10123,@10101,@10101
+10124,@10101,@10101
+10125,@10101,@10101
+10126,@10101,@10101
+10127,@10101,@10101
+10128,@10101,@10101
+10129,@10101,@10101
+10130,@10101,@10101
+10131,@10101,@10101
+10132,@10101,@10101
+10133,@10101,@10101
+10134,@10101,@10101
+10135,@10101,@10101
+10201,Rayon de lumière,
+10202,@10201,
+10301,Fournaise,Récupération de la viande...
+10401,Herbe à chat,Ramassage de l'herbe à chat...
+10402,@10401,@10401
+10403,@10401,@10401
+10404,@10401,@10401
+10405,@10401,@10401
+10406,@10401,@10401
+10407,@10401,@10401
+10408,@10401,@10401
+10409,@10401,@10401
+10410,@10401,@10401
+10411,@10401,@10401
+10412,@10401,@10401
+10413,@10401,@10401
+10414,@10401,@10401
+10415,@10401,@10401
+10416,@10401,@10401
+10417,@10401,@10401
+10418,@10401,@10401
+10419,@10401,@10401
+10420,@10401,@10401
+10421,@10401,@10401
+10422,@10401,@10401
+10423,@10401,@10401
+10501,Boîte sans relique,Étude de la boîte...
+10601,Cape insolite,Étude de la cape...
+10701,Sac de Feldheim,Étude du sac...
+10901,Archéologues piégés,Déverrouillage de la cage...
+12401,@10901,@10901
+12501,@10901,@10901
+11101,Barres en fer,
+11102,@11101,
+11103,@11101,
+11104,@11101,
+11201,Bois de construction,Extraction du bois...
+11202,@11201,@11201
+11203,@11201,@11201
+11204,@11201,@11201
+11205,@11201,@11201
+11206,@11201,@11201
+11207,@11201,@11201
+11208,@11201,@11201
+11209,@11201,@11201
+11210,@11201,@11201
+11211,@11201,@11201
+11212,@11201,@11201
+11301,Habitant piégé,@10901
+12601,@11301,@10901
+12701,@11301,@10901
+11401,Balise magique,Dissolution de la balise...
+11901,Couronne elfique,Prise de la couronne elfique...
+12001,Pierre de téléportation,Util. de la pierre de téléportation...
+12101,Ravitaillement,Prise du ravitaillement...
+12301,@11101,
+12302,@11101,
+12303,@11101,
+12304,@11101,
+12305,@11101,
+12801,Candidature de Ranger sanguinaire,Écriture de la candidature de Ranger...
+12901,Boîte d'armure,Prise de ravitaillement d'armure...
+13001,Tonneau nauséabond,Forçage du couvercle...
+13101,Prison vide,
+13102,@13101,
+13103,@13101,
+13201,@13101,
+13301,@13101,
+13401,@13101,
+13501,Mur invisible (Acte 5),
+13502,@13501,
+13601,Gadget de foule de l'acte 5,
+13701,Gadget de Maître de manœuvre de l'acte 5,
+19401,Gadget bloquant la route,
+19501,@19401,
+19502,@19401,
+19503,@19401,
+19504,@19401,
+19601,Purificateur,Mise à feu de la purification...
+19701,@12001,@12001
+19801,@19601,@19601
+19901,@12001,@12001
+20101,Sac abandonné,Étude du sac abandonné...
+20102,@20101,@20101
+20103,@20101,@20101
+20104,@20101,@20101
+20201,Feu de brasier,Allumage du feu...
+20301,Cape menaçante,@20201
+20401,@10201,
+20402,@10201,
+20501,Bois entassé,Vérification du bois...
+21901,@20501,@20501
+22001,@20501,@20501
+20601,Boîte suspecte,Étude de la boîte...
+20901,Effet de l'éclat,
+20902,@20901,
+20903,@20901,
+20904,@20901,
+20905,Feu,
+20906,@20905,
+20907,@20905,
+20908,@20905,
+20909,@20905,
+20910,@20905,
+20911,@20905,
+20912,@20905,
+20913,@20905,
+20914,@20905,
+20916,@20905,
+20917,@20905,
+20918,@20905,
+20919,@20905,
+20920,@20905,
+20921,@20905,
+21001,Pierre d'invocation maléfique,Dissolution de la pierre d'invocation...
+21101,@21001,@21001
+21201,Fleur elfique,Extraction de la fleur elfique...
+21202,@21201,@21201
+21203,@21201,@21201
+21204,@21201,@21201
+21205,@21201,@21201
+21206,@21201,@21201
+21207,@21201,@21201
+21208,@21201,@21201
+21209,@21201,@21201
+21210,@21201,@21201
+21301,Prison des archéologues,@10901
+21401,@21301,@10901
+21501,@21301,@10901
+21801,Cadavre de garde,Crémation du cadavre...
+21802,@21801,@21801
+21803,@21801,@21801
+21804,@21801,@21801
+21805,@21801,@21801
+21806,@21801,@21801
+21807,@21801,@21801
+21808,@21801,@21801
+21809,@21801,@21801
+21810,@21801,@21801
+29401,@11101,
+29402,@11101,
+29403,@11101,
+29404,@11101,
+29501,@11101,
+29502,@11101,
+29503,@11101,
+29504,@11101,
+29505,@11101,
+29506,@11101,
+29601,@19601,@19601
+29701,@12001,@12001
+29801,@19601,@19601
+29901,@12001,@12001
+30201,Boîte d'arme Ol Mahum,Recherche de l'épée d'Aymel...
+30202,@30201,@30201
+30203,@30201,@30201
+30204,@30201,@30201
+30301,Prime,Récupération de la prime...
+30302,@30301,@30301
+30303,@30301,@30301
+30304,@30301,@30301
+30305,@30301,@30301
+30306,@30301,@30301
+30307,@30301,@30301
+30308,@30301,@30301
+30401,Butin suspect,Étude la prime...
+30501,Bateau pirate,
+30601,Navire renversé,
+30701,Habitant captif,@10901
+32501,Bois,Récupération du bois...
+32502,@32501,@32501
+32503,@32501,@32501
+32504,@32501,@32501
+32701,Artefact sacré d'Einhasad,Récupération de l'artefact sacré...
+32801,Plante en décomposition,Étude de la plante en décomposition...
+32802,@32801,@32801
+32803,@32801,@32801
+32804,@32801,@32801
+32901,Vieux ordres,Lecture des ordres...
+33101,Chaudron du Sombre mystique,Étude du chaudron...
+33201,Tas de terre,Vidage du contenu du chaudron...
+33401,Porte des catacombes suspecte,Ouverture de la porte...
+33801,Colporteur captif,@10901
+34001,Aymel captif,@10901
+34201,Stratégie,
+34202,@34201,
+34203,@34201,
+34501,@2038,Extraction de l'herbe...
+34601,@2039,@34501
+34701,@2041,@34501
+34801,@2040,@34501
+34901,@12001,@12001
+35001,Cercle magique sinistre,
+35002,@35001,
+35101,Barres en acier des catacombes,
+35102,@35101,
+35201,Cadavre d'habitant,
+35202,@35201,
+35203,@35201,
+35204,@35201,
+35301,Cage,Ouverture de la porte de la cage...
+35401,Cage vide,
+35501,Page 84 du registre déchiré,Ramassage de la page 84 du registre déchiré...
+35601,Page 7 du registre déchiré,Ramassage de la page 7 du registre déchiré...
+35701,Page 31 du registre déchiré,Ramassage de la page 31 du registre déchiré...
+40101,Herbe de l'éveil,Extraction de l'herbe de l'éveil...
+40102,@40101,@40101
+40103,@40101,@40101
+40104,@40101,@40101
+40105,@40101,@40101
+40106,@40101,@40101
+40107,@40101,@40101
+40108,@40101,@40101
+40109,@40101,@40101
+40110,@40101,@40101
+40201,Cage de tourment,@10901
+40202,@40201,@10901
+40203,@40201,@10901
+40204,@40201,@10901
+40205,@40201,@10901
+40301,Corps du soldat,Récupération du cadavre...
+40302,@40301,@40301
+40303,@40301,@40301
+40304,@40301,@40301
+40305,@40301,@40301
+40306,@40301,@40301
+40307,@40301,@40301
+40308,@40301,@40301
+40309,@40301,@40301
+40401,Arme de soldat,Récupération de l'arme...
+40402,@40401,@40401
+40403,@40401,@40401
+40404,@40401,@40401
+40405,@40401,@40401
+40406,@40401,@40401
+40407,@40401,@40401
+40408,@40401,@40401
+40409,@40401,@40401
+40601,@21001,Destruction de la pierre d'invocation...
+40701,@40301,@40301
+40702,@40301,@40301
+40703,@40301,@40301
+40704,@40301,@40301
+40705,@40301,@40301
+40706,@40301,@40301
+40707,@40301,@40301
+40801,Cultures pillées,Récupération des cultures...
+40802,@40801,@40801
+40803,@40801,@40801
+40804,@40801,@40801
+40805,@40801,@40801
+40806,@40801,@40801
+40901,Tome de magie noire,Étude du tas de livres...
+41001,Feu de joie reptilien,Mise à feu du sang reptilien...
+41101,@41001,@41001
+41201,Vieil homme enlevé,@10901
+41301,Femme enlevée,@10901
+41401,Enfant enlevé,@10901
+41501,Totem reptilien,@20201
+41701,Soldats emprisonnés,@10901
+41801,Commandant emprisonné,@10901
+41901,@12901,Collecte de l'armure orc...
+41902,@12901,@41901
+41903,@12901,@41901
+41904,@12901,@41901
+41905,@12901,@41901
+41906,@12901,@41901
+42201,Citadin capturé,@10901
+42301,Garde capturé,@10901
+42401,@41501,@20201
+42501,@21001,
+42601,Totem reptilien en feu,
+43101,@42601,
+42701,@12001,@12001
+42801,Brasier du grand chaman,Mise à feu du sang des chefs...
+42901,@41701,@10901
+43201,@12001,@12001
+43301,Bouclier d'Elizabeth,
+43302,@43301,
+43303,@43301,
+43304,@43301,
+43401,Grande cage vide,
+43501,Petite cage vide,
+43601,@43401,
+43801,Cage du lieutenant,
+50101,Sang d'autrui,
+50102,@50101,
+50103,@50101,
+50104,@50101,
+50105,@50101,
+50106,@50101,
+50107,@50101,
+50301,Puits abandonné,Collecte de l'eau...
+50401,Soldat détenu,Ouverture de la prison...
+50501,Os mystérieux,
+50502,@50501,
+50503,@50501,
+50504,@50501,
+50505,@50501,
+50506,@50501,
+50507,@50501,
+50508,@50501,
+50509,@50501,
+50510,@50501,
+50511,@50501,
+50512,@13101,
+50513,@13101,
+50514,@13101,
+50515,@50501,
+50516,@50501,
+50517,@50501,
+50518,@50501,
+50519,@50501,
+50520,@50501,
+50521,@50501,
+50522,@50501,
+50523,@50501,
+50524,@50501,
+50525,@35301,
+50526,@35301,
+50527,@50501,
+50528,@50501,
+50529,@50501,
+50530,@50501,
+50531,@50501,
+50532,@50501,
+50533,@13101,
+50534,@13101,
+50535,@13101,
+50536,@50501,
+50537,@50501,
+50538,@50501,
+50539,@50501,
+50540,@50501,
+50541,@50501,
+50542,@50501,
+50543,@50501,
+50544,@50501,
+50545,@50501,
+50546,@50501,
+50547,@50501,
+50548,@50501,
+50601,@40301,@21801
+50602,@40301,@21801
+50603,@40301,@21801
+50604,@40301,@21801
+50605,@40301,@21801
+50606,@40301,@21801
+50607,@40301,@21801
+50608,@40301,@21801
+50609,@40301,@21801
+50610,@40301,@21801
+50611,@40301,@21801
+50612,@40301,@21801
+50613,@40301,@21801
+50614,@40301,@21801
+50615,@40301,@21801
+50616,@40301,@21801
+50617,@40301,@21801
+50618,@40301,@21801
+50619,@40301,@21801
+50620,@40301,@21801
+50621,@40301,@21801
+50622,@40301,@21801
+50623,@40301,@21801
+50624,@40301,@21801
+50701,Équipement d'autrui,Récupération de l'équipement...
+50702,@50701,@50701
+50703,@50701,@50701
+50704,@50701,@50701
+50801,Capitaine des rangers détenu,@10901
+50901,Cadavre de ranger,Récupération du souvenir...
+50902,@50901,@50901
+50903,@50901,@50901
+50904,@50901,@50901
+50905,@50901,@50901
+51001,Cristal elfique intact,Extraction du cristal...
+51002,@51001,@51001
+51003,@51001,@51001
+51004,@51001,@51001
+51005,@51001,@51001
+51006,@51001,@51001
+51007,@51001,@51001
+51008,@51001,@51001
+51009,@51001,@51001
+51010,@51001,@51001
+51011,@51001,@51001
+51012,@51001,@51001
+51013,@51001,@51001
+51014,@51001,@51001
+51015,@51001,@51001
+51101,Boîte de cristal,@51001
+51102,@51101,@51001
+51103,@51101,@51001
+51104,@51101,@51001
+51201,Cristal de l'elfe tombé,@51001
+51202,@51201,@51001
+51203,@51201,@51001
+51204,@51201,@51001
+51205,@51201,@51001
+51301,@51201,@51001
+51302,@51201,@51001
+51303,@51201,@51001
+51304,@51201,@51001
+51305,@51201,@51001
+51306,@51201,@51001
+51307,@51201,@51001
+51308,@51201,@51001
+51309,@51201,@51001
+51310,@51201,@51001
+51311,@51201,@51001
+51312,@51201,@51001
+51401,Homme mystérieux,Étude de l'homme...
+51501,Arbre rouge sang,Étude de l'arbre...
+51601,Équipement éparpillé,Vérification des livres...
+51602,@51601,@51601
+51603,@51601,@51601
+51604,@51601,@51601
+51605,@51601,@51601
+51606,@51601,@51601
+51607,@51601,@51601
+51608,@51601,@51601
+51609,@51601,@51601
+51610,@51601,@51601
+51611,@51601,@51601
+51701,@12001,Utilisation de la pierre de téléportation...
+51801,@50701,@50701
+51802,@50701,@50701
+51803,@50701,@50701
+51804,@50701,@50701
+51805,@50701,@50701
+51806,@50701,@50701
+51807,@50701,@50701
+51808,@50701,@50701
+51809,@50701,@50701
+51810,@50701,@50701
+51811,@50701,@50701
+51812,@50701,@50701
+51901,Boîte d'arme,Destruction de l'équipement...
+51902,@51901,@51901
+51903,@51901,@51901
+51904,@51901,@51901
+51905,@51901,@51901
+51906,@51901,@51901
+51907,@51901,@51901
+51908,@51901,@51901
+52001,@35301,@10901
+52002,@35301,@10901
+52003,@35301,@10901
+52004,@35301,@10901
+52005,@35301,@10901
+52006,@35301,@10901
+52007,@35301,@10901
+52008,@35301,@10901
+52009,@35301,@10901
+52010,@35301,@10901
+52011,@35301,@10901
+52012,@35301,@10901
+52013,@35301,@10901
+52101,@12001,@51701
+52201,@13101,Étude de la cage...
+52301,@13101,@52201
+52501,@13101,@52201
+52502,@13101,@52201
+52503,@13101,@52201
+52504,@13101,@52201
+52601,@13101,@52201
+52602,@13101,@52201
+52603,@13101,@52201
+52801,@33101,Destruction du chaudron...
+52901,@33101,@52801
+53001,@33101,@52801
+53101,Feu d'alarme orc,Destruction du feu d'alarme...
+53201,@51101,
+53202,@51101,
+53501,Pierre d'invocation de Vapar,
+53502,Cercle magique de Vapar,
+54001,Cercle magique de Hardin,
+54101,@10201,
+54201,Cercle magique de Mammon,
+54301,Bloquer,
+54302,@54301,
+54303,@54301,
+54304,@54301,
+54601,Disciples captifs,Libération des disciples...
+54801,Cercle magique de Qupown,
+54901,Valter tombé et cercle magique,
+55001,Trésor recherché par Dorothy,Ouverture de la boîte au trésor...
+55101,Citadin enlevé,Ouverture de la cage...
+55201,Biens récupérés sur Varot,Prise des affaires...
+55301,Cristal de l'elfe géant,Récupération du cristal elfique...
+55401,Relique elfique,Récupération de la relique...
+55501,Citadin emprisonné,@55101
+55601,Bloc de cage,
+55602,@55601,
+55603,@55601,
+55604,@55601,
+55605,@55601,
+55606,@55601,
+55607,@55601,
+60101,Trace du sorcier,Recherche de traces...
+60201,Sac de magie noire,Récupération des affaires...
+60401,Bois à brûler,Récupération du bois à brûler...
+60402,@60401,@60401
+60403,@60401,@60401
+60404,@60401,@60401
+60405,@60401,@60401
+60406,@60401,@60401
+60407,@60401,@60401
+60408,@60401,@60401
+60501,Œuf de basilic,Récupération de l'œuf...
+60502,@60501,@60501
+60503,@60501,@60501
+60504,@60501,@60501
+60505,@60501,@60501
+60506,@60501,@60501
+60507,@60501,@60501
+60508,@60501,@60501
+60509,@60501,@60501
+60510,@60501,@60501
+60701,Fragment de tablette,Récupération de la tablette...
+60702,@60701,@60701
+60703,@60701,@60701
+60704,@60701,@60701
+60705,@60701,@60701
+60706,@60701,@60701
+60801,Tablette incomplète,@60701
+60802,@60801,@60701
+60803,@60801,@60701
+60804,@60801,@60701
+60805,@60801,@60701
+60806,@60801,@60701
+60807,@60801,@60701
+60901,Corps du sorcier de la Tour d'ivoire,@40301
+61001,Cadavre d'Ol Mahum,@40301
+61002,@61001,@40301
+61003,@61001,@40301
+61004,@61001,@40301
+61005,@61001,@40301
+61006,@61001,@40301
+61007,@61001,@40301
+61008,@61001,@40301
+61101,Nourriture pillée,Récupération de la nourriture...
+61102,@61101,@61101
+61103,@61101,@61101
+61104,@61101,@61101
+61105,@61101,@61101
+61106,@61101,@61101
+61107,@61101,@61101
+61108,@61101,@61101
+61201,@12001,@51701
+61301,@60901,Étude...
+61401,Staris captif,Libération de Staris...
+61501,Chariot,
+61502,@61501,
+61601,@13101,
+61901,Tas de caisses,Fouille des affaires...
+62001,@61901,@61901
+62101,@61901,@61901
+62301,Chariot cassé,Réparation du chariot...
+62402,@61001,
+62403,Arme,
+62404,@61001,
+62405,@61001,
+62406,@61001,
+62407,@61001,
+62408,@61001,
+62409,@61001,
+62410,@61001,
+62411,@61001,
+62412,@61001,
+62413,@61001,
+62414,@61001,
+62415,@61001,
+62416,@62403,
+62417,@61001,
+62418,@62403,
+62419,@62403,
+62420,@62403,
+62421,@61001,
+62422,@61001,
+62423,@62403,
+62424,@62403,
+62425,@62403,
+62426,@62403,
+62427,@62403,
+62428,@62403,
+62429,@62403,
+62430,@62403,
+62431,@62403,
+62701,Roche fragmentée,
+62702,@62701,
+62703,@62701,
+62704,@62701,
+62706,@62701,
+62707,@62701,
+62708,@62701,
+62901,@60201,Fouille des affaires...
+63001,@60201,@62901
+63101,Cercle de magie noire,
+63201,@63101,
+63801,Enclos Ol Mahum,
+63901,@63801,
+64001,Enclos vide,Piège d'Ol Mahum...
+64101,@64001,@64001
+64201,@63801,
+64301,@63801,
+64401,Voyou Ol Mahum,
+64402,@64401,
+64403,@64401,
+64501,Cercle magique,Dissolution de la magie du cercle magique...
+64601,Soldat tombé,
+64602,Soldat tombé,
+64603,Soldat tombé,
+64701,Grotte de général fourmi,Étude de la grotte du général fourmi...
+64801,Prière de Shane,Création d'une inscription de prière...
+64901,Texte sacré de Shane,Prise du texte sacré...
+65001,@60501,@60501
+65101,Marchandises pour appât,Imitation de marchand...
+65201,@65101,@65101
+70101,Boîte d'arme volée,Récupération de la boîte d'arme...
+70102,@70101,@70101
+70103,@70101,@70101
+70104,@70101,@70101
+70105,@70101,@70101
+70201,Boîte d'arme orc,Mise à feu de la boîte d'arme...
+70202,@70201,@70201
+70203,@70201,@70201
+70204,@70201,@70201
+70205,@70201,@70201
+70206,@70201,@70201
+70207,@70201,@70201
+70301,Ravitaillement orc,Mise à feu du ravitaillement...
+70302,@70301,@70301
+70303,@70301,@70301
+70304,@70301,@70301
+70401,Lettre suspecte,Étude de la lettre suspecte...
+70501,Arbre érodé,Récupération de la sève...
+70601,@35301,@10901
+70701,@13101,
+70801,Ruines elfiques restantes,Étude des restes...
+70802,@70801,@70801
+70803,@70801,@70801
+70804,@70801,@70801
+70901,@70801,Nettoyage des ruines restantes...
+70902,@70801,@70901
+70903,@70801,@70901
+70904,@70801,@70901
+70905,@70801,@70901
+71001,Soldat estropié,Réveil du soldat...
+71101,Champignon antidote,Extraction des champignons...
+71102,@71101,@71101
+71103,@71101,@71101
+71104,@71101,@71101
+71105,@71101,@71101
+71106,@71101,@71101
+71201,@21001,
+71401,Sac d'œufs d'araignée,Destruction de l'œuf d'araignée...
+71402,@71401,@71401
+71403,@71401,@71401
+71404,@71401,@71401
+71405,@71401,@71401
+71406,@71401,@71401
+71407,@71401,@71401
+71501,Cercle de téléportation des Ruines elfiques,
+71601,Torche,
+71602,@71601,
+71603,@71601,
+71604,@71601,
+71701,Pierre de téléportation,Utilisation de la pierre de téléportation...
+71801,Pilier cassé,
+71802,@71801,
+71803,@71801,
+71804,@71801,
+71901,Sac de Leia,Fouille des affaires...
+80101,Relais,Allumage du feu...
+80201,@80101,@80101
+80601,Lumière de torche,@80101
+80701,@80601,@80101
+80301,Rapport de chercheur,Récupération du rapport de chercheur...
+80302,@80301,@80301
+80303,@80301,@80301
+80304,@80301,@80301
+80401,Baraquements,
+80501,Gerbe,Fouille de la gerbe...
+80901,Cristal du géant inférieur,Extraction du cristal du géant...
+80902,@80901,@80901
+80903,@80901,@80901
+80904,@80901,@80901
+80905,@80901,@80901
+80906,@80901,@80901
+80907,@80901,@80901
+80908,@80901,@80901
+80909,@80901,@80901
+80910,@80901,@80901
+80911,@80901,@80901
+80912,@80901,@80901
+81001,Fragment de relique du géant,Récupération du fragment de relique...
+81002,@81001,@81001
+81003,@81001,@81001
+81004,@81001,@81001
+81005,@81001,@81001
+81006,@81001,@81001
+81007,@81001,@81001
+81101,Trousse médicale,Récupération de la trousse médicale...
+81102,@81101,@81101
+81103,@81101,@81101
+81104,@81101,@81101
+81105,@81101,@81101
+81106,@81101,@81101
+81107,@81101,@81101
+81201,Fragment de relique,Récupération du fragment de relique...
+81202,@81201,@81201
+81203,@81201,@81201
+81204,@81201,@81201
+81205,@81201,@81201
+81206,@81201,@81201
+81207,@81201,@81201
+81301,Cristal du géant,Récupération du cristal du géant...
+81302,@81301,@81301
+81303,@81301,@81301
+81304,@81301,@81301
+81305,@81301,@81301
+81306,@81301,@81301
+81307,@81301,@81301
+81401,@81301,@81301
+81402,@81301,@81301
+81403,@81301,@81301
+81404,@81301,@81301
+81405,@81301,@81301
+81406,@81301,@81301
+81407,@81301,@81301
+81408,@81301,@81301
+81409,@81301,@81301
+81410,@81301,@81301
+81411,@81301,@81301
+81412,@81301,@81301
+81501,Champignon vénéneux,Extraction du champignon vénéneux...
+81502,@81501,@81501
+81503,@81501,@81501
+81504,@81501,@81501
+81505,@81501,@81501
+81506,@81501,@81501
+81507,@81501,@81501
+81601,@12001,Voyage vers la Tour de Cruma...
+81701,@12001,Sortie de la tour...
+81901,Boîte,Extinction du feu...
+82001,@81901,@81901
+82101,@81901,@81901
+82201,@81901,@81901
+82401,Cocon géant,Recherche de Hans...
+82501,Repaire de rôdeur des marécages,Sélection de la fosse...
+90201,Chariot de paille tanor,Mise à feu du chariot...
+90401,Cadavre de Tanor,@21801
+90402,@90401,@21801
+90403,@90401,@21801
+90404,@90401,@21801
+90405,@90401,@21801
+90406,@90401,@21801
+90407,@90401,@21801
+90408,@90401,@21801
+90409,@90401,@21801
+90410,@90401,@21801
+90411,@90401,@21801
+90412,@90401,@21801
+90413,@90401,@21801
+90414,@90401,@21801
+90415,@90401,@21801
+90416,@90401,@21801
+90501,Tas de nourriture Ol Mahum,@20201
+90601,Cage en acier retenant les Tanors,@10901
+90801,@10301,@20201
+90901,@90401,
+90902,@90401,
+90903,@90401,
+90904,@90401,
+90905,@90401,
+90906,@61001,
+90907,@61001,
+90908,@61001,
+90909,@61001,
+90910,@61001,
+90911,@90401,
+90912,@61001,
+90913,@90401,
+90914,@61001,
+90915,@90401,
+90916,@61001,
+90917,@90401,
+90918,@61001,
+91001,@62403,
+91002,@62403,
+91003,Masse,
+91004,@91003,
+91005,@62403,
+91006,@62403,
+91007,@62403,
+91008,@62403,
+91009,@62403,
+91010,@91003,
+91011,@91003,
+91012,Arc,
+91013,@91012,
+91014,@91012,
+91015,@91012,
+91016,@91012,
+91017,@91012,
+91018,@91012,
+91019,@91012,
+91020,@91012,
+91021,@91012,
+91022,@91003,
+91023,@91003,
+91024,@91003,
+91025,@91003,
+91026,@91003,
+91027,@91003,
+91028,@91003,
+91101,Feu du chariot de paille tanor,
+91201,Piège du roi léopard,Ouverture de la boîte...
+91301,Boîte de ravitaillement tanor,@20201
+91401,@91301,@20201
+91501,@91301,@20201
+91601,@90401,@40301
+91602,@90401,@40301
+91603,@90401,@40301
+91604,@90401,@40301
+91605,@90401,@40301
+91606,@90401,@40301
+91607,@90401,@40301
+91608,@90401,@40301
+91609,@90401,@40301
+91610,@90401,@40301
+91611,@90401,@40301
+91612,@90401,@40301
+91613,@90401,@40301
+91614,@90401,@40301
+91901,Bagages,Recherche d'affaires...
+92001,@90501,Mise à feu du tas de nourriture...
+92101,Tas de nourriture,@92001
+92401,Grande cage tanor,@10901
+92501,@13101,
+92502,@13101,
+92503,@13101,
+92601,@90401,@21801
+92602,@90401,@21801
+92603,@90401,@21801
+92604,@90401,@21801
+92605,@90401,@21801
+92701,@90401,@40301
+92702,@90401,@40301
+92703,@90401,@40301
+92704,@90401,@40301
+92705,@90401,@40301
+92706,@90401,@40301
+92801,@12001,@12001
+92901,@35301,@10901
+93101,Trace d'autrui,@61301
+93102,@93101,@61301
+93103,@93101,@61301
+93104,@93101,@61301
+93105,@93101,@61301
+93201,Feu de boîte de ravitaillement tanor,
+93301,@93201,
+93401,@93201,
+93501,Conversation entre Hardin et le chef,
+93601,@90601,@10901
+93701,@90601,@10901
+93801,Cage en acier qui retenait les Tanors,
+93901,@93801,
+94001,@93801,
+94101,@90501,
+94201,@90501,
+94301,Réserve en feu,
+100101,Fleur d'agonie,Extraction du bouquet rouge sang...
+100102,@100101,@100101
+100103,@100101,@100101
+100104,@100101,@100101
+100105,@100101,@100101
+100106,@100101,@100101
+100107,@100101,@100101
+100108,@100101,@100101
+100109,@100101,@100101
+100110,@100101,@100101
+100111,@100101,@100101
+100112,@100101,@100101
+100113,@100101,@100101
+100114,@100101,@100101
+100201,Arbre suspect,Étude de l'arbre suspect...
+100301,Cénotaphe,Offre de fleurs...
+100401,Mauvaise herbe corrosive,Ramassage de mauvaise herbe...
+100402,@100401,@100401
+100403,@100401,@100401
+100404,@100401,@100401
+100405,@100401,@100401
+100406,@100401,@100401
+100407,@100401,@100401
+100501,Mandragore sauvage,Extraction de la mandragore...
+100502,@100501,@100501
+100503,@100501,@100501
+100504,@100501,@100501
+100505,@100501,@100501
+100506,@100501,@100501
+100507,@100501,@100501
+100508,@100501,@100501
+100509,@100501,@100501
+100510,@100501,@100501
+100511,@100501,@100501
+100512,@100501,@100501
+100513,@100501,@100501
+100514,@100501,@100501
+100515,@100501,@100501
+100601,Mandragore sauvage géante,Extraction de la mandragore géante...
+100701,Herbe sanglante,Extraction de l'herbe rouge brillante...
+100702,@100701,@100701
+100703,@100701,@100701
+100704,@100701,@100701
+100705,@100701,@100701
+100706,@100701,@100701
+100707,@100701,@100701
+100708,@100701,@100701
+100709,@100701,@100701
+100801,Traces d'excavation,Étude des traces...
+100901,Saule dormant,
+100902,@100901,
+100903,@100901,
+100904,@100901,
+101001,Fournaise d'Einhasad,Mise à feu des débris malveillants...
+101101,Pierre d'âme,Destruction de la pierre d'âme...
+101201,@101101,@101101
+101301,@101101,@101101
+101401,Herbe,@34501
+101402,@101401,@34501
+101403,@101401,@34501
+101404,@101401,@34501
+101405,@101401,@34501
+101406,@101401,@34501
+101407,@101401,@34501
+101408,@101401,@34501
+101409,@101401,@34501
+101410,@101401,@34501
+101411,@101401,@34501
+101412,@101401,@34501
+101501,@101001,@101001
+101601,Vêtement tombé,@10601
+101701,@101001,@101001
+101801,@101001,@101001
+101901,@12001,@12001
+102001,@101001,@101001
+102101,Barrière d'Einhasad,
+102102,@102101,
+102103,@102101,
+102104,@102101,
+102201,@101101,Aspersion de la pierre d'âme avec du réactif...
+102301,@101101,@102201
+102401,Cercle de résurrection,
+102501,Marchand mort,
+102502,@102501,
+102503,@102501,
+102504,@102501,
+102505,@102501,
+102601,@21001,@21001
+102701,@101001,@101001
+102801,@102101,
+102802,@102101,
+102803,@102101,
+102804,@102101,
+102805,@102101,
+102806,@102101,
+102901,Registre de Roy,Manipulation du registre...
+103102,Ligne de niveau de Guillotine,
+103201,Guillotine_Incinérateur,
+103301,Guillotine_Cercle d'invocation démoniaque,
+103302,@103301,
+103303,@103301,
+103304,@103301,
+103401,Guillotine_Cercle magique de destruction de Pierre d'âme,
+103501,@12001,@12001
+103601,Affichage de la destruction de la Pierre d'âme de Guillotine,
+110101,Plante lumineuse bleue,Extraction de la plante de mana bleue...
+110102,@110101,Extraction de la plante...
+110103,@110101,@110102
+110104,@110101,@110102
+110105,@110101,@110102
+110106,@110101,@110102
+110107,@110101,@110102
+110108,@110101,@110102
+110201,Plante médicinale,@34501
+110202,@110201,@34501
+110203,@110201,@34501
+110204,@110201,@34501
+110205,@110201,@34501
+110206,@110201,@34501
+110207,@110201,@34501
+110208,@110201,@34501
+110209,@110201,@34501
+110210,@110201,@34501
+111201,Choses,Recherche de traces laissées par le frère d'Alice...
+111202,@111201,@111201
+111203,@111201,@111201
+111204,@111201,@111201
+111205,@111201,@111201
+111206,@111201,@111201
+111207,@111201,@111201
+111208,@111201,@111201
+111209,@111201,@111201
+111210,@111201,@111201
+111211,@111201,@111201
+111212,@111201,@111201
+111213,@111201,@111201
+111214,@111201,@111201
+111301,Mousse sur statue,Extraction de la mousse...
+111501,@12001,Téléportation...
+111601,Boîte mystérieuse,@20601
+111701,Documents,Étude des archives elfiques...
+111801,Élixir d'Eva,Collecte de l'élixir d'Eva...
+111901,@111601,@20601
+112001,@2040,@2040
+112002,@2040,@2040
+112003,@2040,@2040
+112004,@2040,@2040
+112005,@2040,@2040
+112006,@2040,@2040
+112007,@2040,@2040
+112008,@2040,@2040
+112009,@2040,@2040
+112010,@2040,@2040
+112011,@2040,@2040
+112012,@2040,@2040
+112013,@2040,@2040
+112014,@2040,@2040
+112101,Bois de l'arbre elfe,Insertion d'énergie dans l'arbre...
+112301,Boîte de ravitaillement de caravane,@20601
+112401,Testament des Seigneurs,Pise du testament des seigneurs...
+112501,Obstacle,
+112502,@112501,
+112503,@112501,
+112504,@112501,
+112505,@112501,
+112506,@112501,
+112507,@112501,
+112508,@112501,
+112509,@112501,
+112510,@112501,
+112511,@112501,
+112512,@112501,
+112513,@112501,
+112514,@112501,
+112515,@112501,
+112516,@112501,
+112517,@112501,
+112518,@112501,
+112519,@112501,
+112520,@112501,
+112521,@112501,
+112522,@112501,
+112523,@112501,
+112524,@112501,
+112525,@112501,
+112526,@112501,
+112527,@112501,
+112601,Cage en acier reptilienne,@10901
+112603,@112601,@10901
+112701,Œuf de wyrm,Vol de l'œuf de wyrm en secret...
+112702,@112701,@112701
+112703,@112701,@112701
+112704,@112701,@112701
+112705,@112701,@112701
+112706,@112701,@112701
+112707,@112701,@112701
+112708,@112701,@112701
+112801,Cape sans propriétaire,Étude de la cape tombée...
+113001,Marchandises pillées,@20601
+113101,Culture,Récolte des cultures...
+113102,@113101,@113101
+113103,@113101,@113101
+113104,@113101,@113101
+113105,@113101,@113101
+113106,@113101,@113101
+113201,Herbe de fleur des sables,Extraction de la plante sableuse...
+113202,@113201,@113201
+113203,@113201,@113201
+113204,@113201,@113201
+113205,@113201,@113201
+113206,@113201,@113201
+113207,@113201,@113201
+113208,@113201,@113201
+113301,Elfe pétrifié,Réveil du camarade...
+113401,@113301,@113301
+113501,@113301,@113301
+113601,Chute de pierres,
+113602,@113601,
+113603,@113601,
+113701,@12001,@12001
+113801,@100201,Étude de l'arbre...
+113901,@100201,@113801
+114001,@100201,@113801
+114101,Reine sanglante,
+114201,Missive démoniaque,Récupération...
+114301,Document administratif,Recherche du document...
+114401,@114301,@114301
+114501,@114301,@114301
+114601,@114301,@114301
+114701,@64501,
+114801,Cage de Pan le colporteur,@10901
+114901,Groupe du chancelier capturé,
+115001,@13101,
+115101,Champignon plat,Extraction du champignon plat...
+115201,@115101,@115101
+115301,@115101,@115101
+115401,@115101,@115101
+115501,@115101,@115101
+115601,Balu tombé,
+115602,Garde tombé,
+115603,@115602,
+115604,@115602,
+115605,@115602,
+115701,Cercle de téléportation de Theodore,
+115801,@111701,@111701
+115901,@111701,@111701
+116001,@12001,@12001
+116101,Alexander agenouillé,
+116201,@116101,
+116301,@116101,
+116401,Alexander fumant tombé,
+116501,Alexander muté tombé,
+116601,Abelino agenouillé,
+116701,@12001,@12001
+120101,@20101,Ouverture de l'inventaire...
+120201,Arme jetée,Vérification de l'arme...
+120301,Cape jetée,@10601
+120401,Trousse de premiers secours,Fouille dans la boîte...
+120501,Sac à dos d'archéologue,@120101
+120601,Cape d'archéologue,@10601
+120701,@120501,@120101
+120801,Cadavre d'archéologue,Crémation du cadavre...
+120802,@120801,@120801
+120803,@120801,@120801
+120901,Marchandises pillées,Étude de la pile d'objets...
+121001,Cage d'Anna,@55101
+121101,Cage d'Isaac,@55101
+121201,Cage de Hugh,@55101
+121301,@12001,
+121401,Cadavre de Lyle,Prise du croc de Lyle...
+121501,Marchandises Ol Mahum,@20201
+121502,@121501,@20201
+121601,Porridge de l'herboriste,Test pour déterminer si cela est mangeable...
+121701,@110201,@34501
+121702,@110201,@34501
+121703,@110201,@34501
+121704,@110201,@34501
+121705,@110201,@34501
+121706,@110201,@34501
+121707,@110201,@34501
+121708,@110201,@34501
+121709,@110201,@34501
+121710,@110201,@34501
+121711,@110201,@34501
+121903,Herbe de premiers secours,@34501
+121904,@121903,@34501
+121905,@121903,@34501
+121906,@121903,@34501
+121907,@121903,@34501
+121908,@121903,@34501
+121911,@121903,@34501
+122001,Tablette fragmentée,Association des fragments de tablette...
+122101,Cadavre de Gnosis,Crémation du cadavre...
+122201,Tablette de Gnosis,Création d'une inscription de tablette...
+122301,Tablette du géant,@122201
+122302,@122301,@122201
+122303,@122301,@122201
+122304,@122301,@122201
+122306,@122301,@122201
+122307,@122301,@122201
+122308,@122301,@122201
+122309,@122301,@122201
+122310,@122301,@122201
+122311,@122301,@122201
+122312,@122301,@122201
+122313,@122301,@122201
+122314,@122301,@122201
+122315,@122301,@122201
+122316,@122301,@122201
+122401,@110101,Extraction de l'échantillon de plante...
+122402,@110101,@122401
+122403,@110101,@122401
+122404,@110101,@122401
+122405,@110101,@122401
+122406,@110101,@122401
+122407,@110101,@122401
+122408,@110101,@122401
+122409,@110101,@122401
+122410,@110101,@122401
+122411,@110101,@122401
+122501,Fleur sauvage,Ramassage de la fleur...
+122502,@122501,@122501
+122504,@122501,@122501
+122506,@122501,@122501
+122507,@122501,@122501
+122508,@122501,@122501
+122601,@21801,@122101
+122602,@21801,@122101
+122603,@21801,@122101
+122604,@21801,@122101
+122701,Tombe de garde,Prière pour ceux qui sont partis...
+122801,Sac des marchands,@120101
+122901,@122801,@120101
+123001,@122301,@122201
+123101,@122301,@122201
+123201,@122301,@122201
+123301,@122301,@122201
+123401,Sceau du géant inférieur,Descellement...
+123501,Cadavre du géant inférieur,Récupération du noyau...
+123601,@123501,@123501
+123701,@123501,@123501
+123801,@101001,Piège du mort...
+123901,Brasier de la fournaise d'Einhasad,
+124001,Cadavre de bête servant d'appât,Piège des bêtes...
+124101,Boîte de nourriture Ol Mahum,Vol de la nourriture Ol Mahum...
+124201,Cercle magique liant Gnosis,
+130101,Boîte maudite,@20601
+130201,@35001,
+130301,Pierre mystérieuse,Étude de la pierre mystérieuse...
+130401,Pile de trésors,Tâtement de la pile de trésors...
+130501,Corps de Barrett,Crémation du cadavre...
+130502,@40301,@130501
+130503,@40301,@130501
+130504,@40301,@130501
+130505,@40301,@130501
+130601,Boîte détruite,Création de l'emplacement d'une tombe...
+130602,@130601,@130601
+130603,Fragment de pierre,@130601
+130604,@130603,@130601
+130701,Corps du soldat mystérieux,@122101
+130801,Tombeau d'Aiden,Prière pour l'âme d'Aiden...
+130901,@81101,Recherche des premiers secours...
+131001,@81101,@130901
+131101,@81101,@130901
+131201,Cercle magique de la confrérie près d'Ashear,
+131202,@131201,
+131203,@131201,
+131204,@131201,
+131401,Corps en feu d'Aiden,
+131601,@12001,@111501
+131701,Petit feu,
+131801,Feu de joie éteint,Allumage du feu de bois à brûler...
+132001,Leone,Prise du testament...
+132201,Sac à dos de l'aventurier,Fouille des affaires...
+132301,Cape de l'aventurier,Étude de la cape...
+132401,Armurerie,Étude de l'état de l'arme...
+132501,Journal de soldat,Étude du livre suspect...
+132601,Corps du Soldat du groupe d'exploration,Étude du cadavre...
+132701,@132601,
+132702,@132601,
+132801,Restes du Percepteur d'âmes,Sortie de l'abîme...
+132901,Cercle de téléportation d'âme,
+133001,@20601,Étude du contenu de la boîte...
+133101,Boîte à relique,Prise de la relique du géant inférieur...
+133201,@40301,Recherche de respiration...
+133301,@40301,@133201
+133401,@40301,@133201
+133501,Cercle de transmutation d'Ashear,
+133601,Coffret du navigateur,Recherche du journal dans le coffret...
+133701,Ashear l'ardent,
+133801,@132901,
+133901,Sceau en cours sur la relique,
+134001,@132501,@132501
+134101,Soldat captif,Sauvetage du soldat...
+134201,Coffre au trésor rouge,@91201
+134301,Coffre au trésor bleu,@91201
+134401,Coffre au trésor noir,@91201
+134501,@134101,@134101
+134502,@134101,@134101
+134601,Boîte noire suspecte,Recherche du squelette...
+134701,Tombe de Shamong,Recherche du collier...
+134702,Cercle magique de transformation de Nix,
+139901,Restes du Fort de l'agonie,
+139902,@139901,
+139903,@139901,
+139904,@139901,
+139905,@139901,
+139906,@139901,
+139907,@139901,
+139908,@139901,
+139909,@139901,
+139910,Barre en acier du Fort de l'agonie,
+139911,@139910,
+138001,Ligne de niveau de Zaken,
+4020101,@138001,
+140101,Conséquences du combat,Étude de l'arme jetée...
+140102,@140101,@140101
+140103,@140101,@140101
+140104,@140101,@140101
+140105,@140101,Étude de la tache de sang...
+140106,@140101,@140105
+140107,@140101,@140105
+140108,@140101,@140105
+140109,@140101,Étude du drapeau déchiré...
+140201,Cage retenant Jen,@55101
+142501,Cage vide qui retenait Jen,@55101
+140301,Champignon anesthésiant,Extraction du champignon paralysant...
+140302,@140301,@140301
+140303,@140301,@140301
+140304,@140301,@140301
+140401,Nourriture orc,Injection de poison...
+140501,Cage retenant Cara,@55101
+140901,Cage vide qui retenait Cara,@55101
+140601,@12001,Utilisation de la pierre de téléportation...
+140602,@12001,@140601
+140603,@12001,@140601
+140701,Délégation capturée,Dénouage de la corde...
+140801,Fleur spirituelle,Extraction de la fleur spirituelle...
+140802,@140801,@140801
+140803,@140801,@140801
+140804,@140801,@140801
+140805,@140801,@140801
+140806,@140801,@140801
+140807,@140801,@140801
+141001,@101401,@34501
+141002,@101401,@34501
+141003,@101401,@34501
+141004,@101401,@34501
+141005,@101401,@34501
+141101,Lampe elfique,Allumage de la lampe...
+141201,Feu lumineux elfique,
+141301,Cœur de Sahara,Enterrement du cœur de Sahara...
+141401,@141301,@141301
+141501,@141301,@141301
+141601,@141301,@141301
+141801,Première tablette,Révélation du code sur la tablette...
+141901,Deuxième tablette,@141801
+141902,Troisième tablette,@141801
+142001,Quatrième tablette,
+142101,Œuf de dragon,Récupération de l'œuf de dragon...
+142102,@142101,@142101
+142103,@142101,@142101
+142104,@142101,@142101
+142105,@142101,@142101
+142106,@142101,@142101
+142201,Feu de camp,Préparation culinaire sérieuse...
+142301,Os de dragon,Récupération de l'os de dragon...
+142302,@142301,@142301
+142303,@142301,@142301
+142304,@142301,@142301
+142305,@142301,@142301
+142401,@142101,Récupération de l'œuf de wyrm...
+142402,@142101,@142401
+142403,@142101,@142401
+142404,@142101,@142401
+142405,@142101,@142401
+142406,@142101,@142401
+142407,@142101,@142401
+142408,@142101,@142401
+142601,Trésor,Recherche de la gemme dimensionnelle...
+142602,@142601,@142601
+142603,@142601,@142601
+142801,@12001,@140601
+142901,@54301,
+142902,@54301,
+142903,@54301,
+142904,Bloc de lumière,
+142905,@142904,
+142906,@142904,
+142907,@142904,
+142908,@142904,
+142909,@142904,
+142910,@142904,
+142911,@142904,
+142912,@142904,
+142913,@142904,
+143101,Essence de l'Arbre protecteur,Acquisition d'essence...
+143201,Corps de Celin,Récupération du corps de Celin...
+143301,@12001,@140601
+143401,@12001,@140601
+143501,@143101,Imprégnation de l'essence dans l'Arbre protecteur...
+143701,Chuking,
+143801,@40301,Récupération du corps du soldat...
+143802,@40301,@143801
+143803,@40301,@143801
+143804,@40301,@143801
+143805,@40301,@143801
+143901,Tas de livres,Prise aléatoire...
+143902,@143901,@143901
+144001,Fleur éclose dans le cœur de Sahara,
+144101,@144001,
+144201,@144001,
+144301,@144001,
+144401,@112701,Destruction de l'œuf...
+144402,@112701,@144401
+144403,@112701,@144401
+144404,@112701,@144401
+144405,@112701,@144401
+144406,@112701,@144401
+144407,@112701,@144401
+144501,Œuf de wyrm abandonné,@144401
+144601,Héritage elfique,Prise de l'héritage...
+144602,@144601,@144601
+144603,@144601,@144601
+144604,@144601,@144601
+144605,@144601,@144601
+144606,@144601,@144601
+144701,Cadavre de wyrm,@20201
+144801,Cadavre de wyrm en feu,
+144901,Dard,Prise du dard...
+145001,Cadavre du Roi sanglant,
+150101,Q15013 : Herbe blanche,@34501
+150102,@150101,@34501
+150103,@150101,@34501
+150104,@150101,@34501
+150105,@150101,@34501
+150201,Q15015 : Œuf de Pédicule,@20201
+150301,Q15015 : Œuf de Pédicule : feu,
+150401,Q15019 : Cadavre pris dans une toile d'araignée,@133201
+150501,Q15021 : PNJ tristes,
+150601,Q15023 : Feu des baraquements du sud,Arrosage avec la bouteille d'eau...
+150701,Q15023 : Feu des baraquements de l'ouest,@150601
+150801,Q15023 : Feu de la réserve,@150601
+150901,Q15024 : Équipement utile,@50701
+150902,@150901,@50701
+150903,@150901,@50701
+150904,@150901,@50701
+150905,@150901,@50701
+151001,Q15029 : Nourriture de tourment,@20201
+151002,@151001,@20201
+151003,@151001,@20201
+151101,Q15030 : Baril orc pas encore allumé,@20201
+151201,Q15030 : Baril orc allumé,
+151301,Q15031 : Cage vide,Inspection de la cage...
+151401,Q15033 : Feu de camp,Cuisson de la viande...
+151501,Q15035 : Cage remplie de gens,@55101
+151601,Q15035 : Cage vide,
+151701,Q15037 : Herbe hémostatique,Extraction de l'herbe hémostatique...
+151702,@151701,@151701
+151703,@151701,@151701
+151704,@151701,@151701
+151801,Q15040 : Cage fleurie : Steiner,Arrachage des fourrés
+151901,Q15040 : Cage fleurie : Hunter,@151801
+152001,Q15041 : Cadavre de Piladesia,
+152101,Barreaux en acier trempé de la prison souterraine d'Oren : barreaux devant l'entrée,
+152102,@152101,
+152103,Barreaux en acier trempé de la prison souterraine d'Oren : barreaux au-dessus de l'entrée,
+152104,@152103,
+152105,@152103,
+152106,Barreaux en acier trempé de la prison souterraine d'Oren : sortie sous l'entrée,
+152107,@152106,
+152108,@152106,
+152109,Barreaux en acier trempé de la prison souterraine d'Oren : porte des escaliers sous l'entrée,
+152110,@152109,
+152111,Barreaux en acier trempé de la prison souterraine d'Oren : cage de Kate,
+152112,@152111,
+152113,@152111,
+152114,@152111,
+152115,@152111,
+152116,@152111,
+152117,@152111,
+152118,@152111,
+152119,@152111,
+152120,Barreaux en acier trempé de la prison souterraine d'Oren : cage d'Aymel,
+152121,@152120,
+152122,@152120,
+152123,@152120,
+152124,Barreaux en acier trempé de la prison souterraine d'Oren : au-dessus de la cage d'Aymel,
+152125,@152124,
+152126,Barreaux en acier trempé de la prison souterraine d'Oren : mur supérieur,
+152127,@152126,
+152128,@152126,
+152129,@152126,
+152130,@152126,
+152131,@152126,
+152132,@152126,
+152133,@152126,
+152134,Barreaux en acier trempé de la prison souterraine d'Oren : sortie,
+152135,Gadget d'environnement de la prison souterraine d'Oren : porte-documents,
+152136,@152135,
+152137,@152135,
+152138,@152135,
+152139,Gadget d'environnement de la prison souterraine d'Oren : bureau,
+152140,@152139,
+152141,@152139,
+152142,Gadget d'environnement de la prison souterraine d'Oren : boîte,
+152143,@152142,
+152144,@152142,
+152145,@152142,
+152146,@152142,
+152147,Gadget d'environnement de la prison souterraine d'Oren : baril orc,
+152148,@152147,
+152149,Gadget d'environnement de la prison souterraine d'Oren : chaise,
+152150,@152149,
+152151,@152149,
+152152,@152149,
+152153,@152149,
+152154,@152149,
+152155,@152149,
+152156,@152149,
+152157,@152149,
+152201,Prison souterraine d'Oren : entrée fermée,Crochetage de la serrure...
+152202,@152201,@152201
+152301,Prison souterraine d'Oren : entrée ouverte,
+152302,@152301,
+152401,Prison souterraine d'Oren : cage de Kate fermée,Ouverture de la porte de la cage...
+152501,Prison souterraine d'Oren : cage de Kate ouverte,
+152601,Prison souterraine d'Oren : cage d'Aymel fermée,@152401
+152701,Prison souterraine d'Oren : cage d'Aymel ouverte,
+152801,Prison souterraine d'Oren : tas de pierres,Vérification de l'état de la pierre...
+152901,Prison souterraine d'Oren : traces de déterrage,Inspection du sol...
+153001,Prison souterraine d'Oren : cage d'Aymel fermée : supérieur,@152401
+153002,@153001,@152401
+153003,@153001,@152401
+153101,Prison souterraine d'Oren : cage d'Aymel ouverte : supérieur,
+153102,@153101,
+153103,@153101,
+153201,Barreaux d'acier de la prison souterraine d'Oren : sortie,@152401
+153301,Boîte d'insignes de soldat d'Oren,Récupération de l'insigne...
+153401,Raihel tombé et garde,
+153501,Q15061 : Cage contenant Aisa,Arrachage des plantes grimpantes...
+153601,Q15063 : Cage contenant un garde,@153501
+153701,Q15066 : Boîte de ravitaillement d'Oren,Mise à feu du ravitaillement...
+153702,@153701,@153701
+153703,@153701,@153701
+153704,@153701,@153701
+153705,@153701,@153701
+153801,Q15067 : Cristal de magie noire,Destruction du cristal...
+153901,Q15073 : Cadavre de Shras,Ouverture du ventre de Shras...
+154001,Q15073 : Pierre de téléportation,Utilisation de la pierre de téléportation...
+154101,Q15075 : Christine utilisant de la magie d'invocation,
+154201,Q15079 : Nourriture et arme d'orc timak,@20201
+154202,@154201,@20201
+154203,@154201,@20201
+154204,@154201,@20201
+154205,@154201,@20201
+154301,Q15081 : Cage de Rakum,@10901
+154401,Q15081 : Cage vide de Rakum,
+154501,Q15083 : Réserve de nourriture d'orc timak,Embrasement de la réserve...
+154601,Q15085 : Cage vide de Caraku,
+154701,Q15085 : Cage de Caraku,@10901
+154801,Q15086 : Cage orc de Caraku,@10901
+154802,@154801,@10901
+154803,@154801,@10901
+154804,@154801,@10901
+154805,@154801,@10901
+154806,@154801,@10901
+154807,@154801,@10901
+154808,@154801,@10901
+154901,Q15091 : Cage orc de Caraku,@10901
+154902,@154901,@10901
+154903,@154901,@10901
+154904,@154901,@10901
+154905,@154901,@10901
+154906,@154901,@10901
+155001,Q15093 : Pierre de géant,Extraction du cristal de géant sur le cadavre...
+155101,Q15104 : Cage vide de Durzel,
+155201,Q15104 : Cage de Durzel,@152401
+155301,Q11015101 : Bois à brûler,Cassage des branches...
+155302,@155301,@155301
+155303,@155301,@155301
+155304,@155301,@155301
+155305,@155301,@155301
+155306,@155301,@155301
+155307,@155301,@155301
+155401,Q11015103 : Cape de Shayden,Récupération de la cape...
+155501,Q11015104 : Arme de tourment Soufflacéret,Vol de l'arme...
+155502,@155501,@155501
+155503,@155501,@155501
+155504,@155501,@155501
+155601,Q11015104 : Cage vide 1,
+155701,Q11015104 : Soldat détenu 1,Bris de la serrure de la cage...
+155801,Q11015104 : Cage vide 2,
+155901,Q11015104 : Soldat détenu 2,@155701
+156001,Q11015105 : Faux Francis,@122501
+156101,@156001,@122501
+156201,Q11015105 : Vrai Francis,@122501
+156301,Q11015106 : Œuf de reptilien intact,Vol de l'œuf...
+156401,Q11015108 : Bombe,@20201
+156501,Q11015108 Bombe allumée,
+156601,Q11015109 : Boîte d'arme,Recherche de la Masse de châtiment...
+156701,Q11015110 : Emblème de chef tanor,Inscription de l'emblème du défi...
+160101,Cadavre de faucheuse aveugle mutée,Récupération de cristal sombre...
+160102,@160101,@160101
+160103,@160101,@160101
+160104,@160101,@160101
+160201,Cadavre de saule corrompu,@160101
+160202,@160201,@160101
+160203,@160201,@160101
+160204,@160201,@160101
+160205,@160201,@160101
+160206,@160201,@160101
+160207,@160201,@160101
+160208,@160201,@160101
+160301,Cadavre de faucheur d'âmes,@160101
+160302,@160301,@160101
+160303,@160301,@160101
+160304,@160301,@160101
+160305,@160301,@160101
+160306,@160301,@160101
+160401,Cadavre de champignon ambulant géant,@160101
+160501,Fragment de cristal du dispositif de la barrière,Récupération du fragment de cristal...
+160502,@160501,@160501
+160503,@160501,@160501
+160504,@160501,@160501
+160505,@160501,@160501
+160506,@160501,@160501
+160507,@160501,@160501
+160508,@160501,@160501
+160509,@160501,@160501
+160601,PNJ mort 1,
+160602,PNJ mort 2,
+160701,Andre vaincu,Apport d'eau progressif...
+160801,Boîte de ravitaillement,Récupération d'eau et de nourriture...
+160901,Molly,
+161001,Le talisman du chaman,Destruction du talisman...
+161101,@161001,@161001
+161201,@161001,@161001
+161301,@161001,@161001
+161401,Chronique des sorciers,Vérification de l'archive...
+161501,@115701,
+161601,Cabas de Pan,Recherche d'un drapeau pliable...
+161701,Cadavre de Labaki,Annonce de la dignité du vainqueur...
+161801,Cadavre de Labaki avec un drapeau,
+161901,Cadavre d'Ukra,@161701
+162001,Cadavre d'Ukra avec un drapeau,
+162101,Fleurs balises,Extraction des fleurs balises...
+162102,@162101,@162101
+162103,@162101,@162101
+162104,@162101,@162101
+162105,@162101,@162101
+162201,Barrière du cercle magique,Insufflation de force dans le cercle magique...
+162301,Éclair de barrière du cercle magique,
+162401,Fleur à spores 1,Extraction de la fleur à spores...
+162501,Fleur à spores 2,@162401
+162601,Fleur à spores 3,@162401
+162701,Champignon parasite,Extraction du champignon...
+162702,@162701,@162701
+162703,@162701,@162701
+162704,@162701,@162701
+162801,Cristal couvert de spores,Épuration du mannequin à spores...
+162802,@162801,@162801
+162803,@162801,@162801
+162804,@162801,@162801
+162805,@162801,@162801
+162806,@162801,@162801
+162807,@162801,@162801
+162808,@162801,@162801
+162809,@162801,@162801
+162901,Premier dispositif (avant activation),Activation du dispositif...
+163001,Premier dispositif (après activation),
+163101,@163001,
+163201,Champignon grotesque,@162701
+163202,@163201,@162701
+163203,@163201,@162701
+163204,@163201,@162701
+163205,@163201,@162701
+163206,@163201,@162701
+163207,@163201,@162701
+163301,Oothèque d'araignée à spores,Extraction d'œufs d'araignée à spores...
+163302,@163301,@163301
+163303,@163301,@163301
+163304,@163301,@163301
+163305,@163301,@163301
+163306,@163301,@163301
+163401,Second dispositif (avant activation),@162901
+163501,Second dispositif (après activation),
+163601,@163401,
+163701,Balise effondrée,Étude de l'état de la balise...
+163801,@163701,@163701
+163901,Nourriture de marteleur,Prise de la nourriture...
+164001,Grand-père de Molly,Vérification de son état...
+164101,Dendrobium pourpre I,Extraction de la fleur...
+164201,@164101,@164101
+164301,Dendrobium pourpre II,@164101
+164401,@164301,@164101
+164501,Dendrobium pourpre III,@164101
+164601,@164501,@164101
+164701,@12001,@140601
+164801,@12001,@140601
+170101,Sac de bandit,Recherche d'une herbe...
+170201,Tente de bandit,@170101
+170301,Boîte de bandit,@170101
+170401,@12001,@71701
+170501,Cage d'Hamsen,@55101
+170601,Cage de Lonardo,@55101
+170701,Première bombe,Allumage du feu...
+170801,Premier allumage,
+170802,@170801,
+170803,@170801,
+170901,Deuxième bombe,@170701
+171001,Deuxième allumage,
+171002,@171001,
+171003,@171001,
+171004,@171001,
+171005,@171001,
+171006,@171001,
+171007,@171001,
+171008,@171001,
+171101,Troisième bombe,@170701
+171201,Troisième allumage,
+171202,@171201,
+171203,@171201,
+171204,@171201,
+171205,@171201,
+171301,Quatrième bombe,@170701
+171401,Quatrième allumage,
+171402,@171401,
+171403,@171401,
+171404,@171401,
+171405,@171401,
+171501,Quatrième allumage (instance),
+171502,@171501,
+171503,@171501,
+171504,@171501,
+171505,@171501,
+171601,Chariot,Ouverture de la porte du chariot...
+171701,@171601,Application de salive corrosive...
+171801,Chariot (non verrouillé),Destruction de la porte du chariot...
+171901,Méduse_Orc_Négociation,
+172001,@171901,
+172101,Méduse_Orc_L'orc s'en va après la négociation,
+172201,@171601,@171801
+172301,Sorcier tombé de la Tour d'ivoire,@164001
+172401,@35301,@55101
+172501,@35301,@55101
+172601,@35301,@55101
+172701,Parchemin de conception,Vérification des détails du parchemin...
+172801,Directives d'opération,Vérification des détails des directives...
+172901,Blizzard,
+173001,Directive d'officier de haut rang,@172801
+173101,Bombe,Remplissage de la bombe au sable...
+173102,@173101,@173101
+173103,@173101,@173101
+173201,Chariot,Sabotez la bombe.
+173202,@173201,@173201
+173301,Elizabeth,
+173302,Sorcier de la Tour d'ivoire,
+173401,@173301,
+173501,Laquais d'Elizabeth,
+173502,Laquais d'Elizabeth,
+173503,@173302,
+173601,@173302,
+173701,@81101,Recherche de médicaments...
+173801,Boule de cristal,Visionnage de la prédiction de la boule de cristal...
+173901,Sosa tombé,
+174001,@173901,
+174101,Sac exclusif du sorcier ancêtre,Inspection du sac...
+174201,Pierre de téléportation de la Tour d'ivoire,Activation de la pierre de téléportation...
+174301,Portail d'Elizabeth,
+174401,@12001,Progression vers l'étage inférieur...
+174501,Cœur de puissance condensé,Destruction du cœur de puissance...
+176101,Cœur de puissance condensé détruit 1,
+174601,Cœur de puissance condensé détruit 2,
+174701,Theodore,
+174801,@174701,
+175001,Cage de sorcier,@55101
+175101,Sorcier tombé,Ressaisissez-vous ! Est-ce que ça va ?
+175201,Pierre d'âme sombre suspecte,Investigation...
+175301,Pierre d'âme sombre destructrice,Destruction...
+175401,Chariot explosif,Déplacement de la bombe...
+175501,Encens des ténèbres,Scellage de mana capillaire...
+175601,Séchoir à sangsues,Placement de la sangsue sur le séchoir...
+175701,Le bâton du chaman,Inspection du bâton...
+175801,Épée d'Oel Mahum,Inspection de l'épée...
+175901,@175101,Secouage du sorcier...
+176001,@175601,Séchage...
+180101,@10301,Mise à feu de la poudre...
+180102,@10301,@180101
+180201,@81101,@81101
+180202,@81101,@81101
+180203,@81101,@81101
+180204,@81101,@81101
+180205,@81101,@81101
+180206,@81101,@81101
+180207,@81101,@81101
+180208,@81101,@81101
+180209,@81101,@81101
+180210,@81101,@81101
+180211,@81101,@81101
+180212,@81101,@81101
+180213,@81101,@81101
+180214,@81101,@81101
+180215,@81101,@81101
+180301,Drapeau d'Oren déchiré,Étude du drapeau...
+180401,Corps du soldat d'Oren,Crémation du cadavre...
+180402,@180401,@180401
+180403,@180401,@180401
+180404,@180401,@180401
+180405,@180401,@180401
+180406,@180401,@180401
+180407,@180401,@180401
+180408,@180401,@180401
+180409,@180401,@180401
+180410,@180401,@180401
+180411,@180401,@180401
+180412,@180401,@180401
+180501,Éclat de nébulite,Récupération de l'éclat de nébulite...
+180502,@180501,@180501
+180503,@180501,@180501
+180504,@180501,@180501
+180505,@180501,@180501
+180506,@180501,@180501
+180507,@180501,@180501
+180508,@180501,@180501
+180509,@180501,@180501
+180510,@180501,@180501
+180511,@180501,@180501
+180512,@180501,@180501
+180513,@180501,@180501
+180514,@180501,@180501
+180515,@180501,@180501
+180516,@180501,@180501
+180517,@180501,@180501
+180518,@180501,@180501
+180519,@180501,@180501
+180520,@180501,@180501
+180521,@180501,@180501
+180522,@180501,@180501
+180601,Gemme magique,Fermeture de la faille...
+180602,@180601,@180601
+180603,@180601,@180601
+180604,@180601,@180601
+180605,@180601,@180601
+180606,@180601,@180601
+180607,@180601,@180601
+180608,@180601,@180601
+180609,@180601,@180601
+180801,@21001,@40601
+10001801,Mur intérieur de la pierre d'invocation maléfique,
+910101,Porte principale,
+910102,Salle d'audience,
+910105,Porte du feu,
+910106,Porte de l'eau,
+910108,Artefact sacré,Marq. artefact sacré
+910109,Autel du feu,Marq. autel du feu
+910110,Autel de l'eau,Marq. autel de l'eau
+910111,Porte de l'autel du feu,
+910112,@910111,
+910113,Porte de l'autel de l'eau,
+910114,@910113,
+910115,Point de résurrection avant,
+910116,Point de résurrection arrière,
+910117,@910101,
+910118,@910102,
+910121,@910105,
+910122,@910106,
+910124,@910108,@910108
+910125,@910109,@910109
+910126,@910110,@910110
+910127,@910111,
+910128,@910111,
+910129,@910113,
+910130,@910113,
+910131,@910115,
+910132,@910116,
+910133,@910101,
+910134,@910102,
+910137,@910105,
+910138,@910106,
+910140,@910108,@910108
+910141,@910109,@910109
+910142,@910110,@910110
+910143,@910111,
+910144,@910111,
+910145,@910113,
+910146,@910113,
+910147,@910115,
+910148,@910116,
+910149,@910101,
+910150,@910102,
+910153,@910105,
+910154,@910106,
+910156,@910108,@910108
+910157,@910109,@910109
+910158,@910110,@910110
+910159,@910111,
+910160,@910111,
+910161,@910113,
+910162,@910113,
+910163,@910115,
+910164,@910116,
+910165,Préparez-vous au Siège de château,
+910166,@910165,
+910167,@910165,
+910168,@910165,
+910169,@910165,
+910170,@910165,
+910171,@910165,
+910172,@910165,
+910173,@910165,
+910174,@910165,
+910175,@910165,
+910176,@910165,
+910177,@910165,
+910178,@910165,
+910179,@910165,
+910180,@910165,
+910181,@910165,
+910182,@910165,
+910183,@910165,
+910184,@910165,
+920101,Artefact sacré de l'équipe bleue,@910108
+920102,Artefact sacré de l'équipe rouge,@910108
+920103,Porte Est de l'équipe bleue,
+920104,Porte Ouest de l'équipe bleue,
+920105,Porte Est de l'équipe rouge,
+920106,Porte Ouest de l'équipe rouge,
+920107,Autel de la terre,Marq. autel de la terre
+920108,Autel du vent,Marq. autel du vent
+920109,@920101,@910108
+920110,@920102,@910108
+920111,@920103,
+920112,@920104,
+920113,@920105,
+920114,@920106,
+920115,@920107,@920107
+920116,@920108,@920108
+920117,@920101,@910108
+920118,@920102,@910108
+920119,@920103,
+920120,@920104,
+920121,@920105,
+920122,@920106,
+920123,@920107,@920107
+920124,@920108,@920108
+920125,@920101,@910108
+920126,@920102,@910108
+920127,@920103,
+920128,@920104,
+920129,@920105,
+920130,@920106,
+920131,@920107,@920107
+920132,@920108,@920108
+920133,@920101,@910108
+920134,@920102,@910108
+920135,@920103,
+920136,@920104,
+920137,@920105,
+920138,@920106,
+920139,@920107,@920107
+920140,@920108,@920108
+920141,@920101,@910108
+920142,@920102,@910108
+920143,@920103,
+920144,@920104,
+920145,@920105,
+920146,@920106,
+920147,@920107,@920107
+920148,@920108,@920108
+920149,@920101,@910108
+920150,@920102,@910108
+920151,@920103,
+920152,@920104,
+920153,@920105,
+920154,@920106,
+920155,@920107,@920107
+920156,@920108,@920108
+920157,@920101,@910108
+920158,@920102,@910108
+920159,@920103,
+920160,@920104,
+920161,@920105,
+920162,@920106,
+920163,@920107,@920107
+920164,@920108,@920108
+920165,@920101,@910108
+920166,@920102,@910108
+920167,@920103,
+920168,@920104,
+920169,@920105,
+920170,@920106,
+920171,@920107,@920107
+920172,@920108,@920108
+920173,@920101,@910108
+920174,@920102,@910108
+920175,@920103,
+920176,@920104,
+920177,@920105,
+920178,@920106,
+920179,@920107,@920107
+920180,@920108,@920108
+920181,@920101,@910108
+920182,@920102,@910108
+920183,@920103,
+920184,@920104,
+920185,@920105,
+920186,@920106,
+920187,@920107,@920107
+920188,@920108,@920108
+920189,@920101,@910108
+920190,@920102,@910108
+920191,@920103,
+920192,@920104,
+920193,@920105,
+920194,@920106,
+920195,@920107,@920107
+920196,@920108,@920108
+920197,@920101,@910108
+920198,@920102,@910108
+920199,@920103,
+920200,@920104,
+920201,@920105,
+920202,@920106,
+920203,@920107,@920107
+920204,@920108,@920108
+920205,@920101,@910108
+920206,@920102,@910108
+920207,@920103,
+920208,@920104,
+920209,@920105,
+920210,@920106,
+920211,@920107,@920107
+920212,@920108,@920108
+920213,@920101,@910108
+920214,@920102,@910108
+920215,@920103,
+920216,@920104,
+920217,@920105,
+920218,@920106,
+920219,@920107,@920107
+920220,@920108,@920108
+920221,@920101,@910108
+920222,@920102,@910108
+920223,@920103,
+920224,@920104,
+920225,@920105,
+920226,@920106,
+920227,@920107,@920107
+920228,@920108,@920108
+920229,@920101,@910108
+920230,@920102,@910108
+920231,@920103,
+920232,@920104,
+920233,@920105,
+920234,@920106,
+920235,@920107,@920107
+920236,@920108,@920108
+920237,@920101,@910108
+920238,@920102,@910108
+920239,@920103,
+920240,@920104,
+920241,@920105,
+920242,@920106,
+920243,@920107,@920107
+920244,@920108,@920108
+920245,@920101,@910108
+920246,@920102,@910108
+920247,@920103,
+920248,@920104,
+920249,@920105,
+920250,@920106,
+920251,@920107,@920107
+920252,@920108,@920108
+920253,@920101,@910108
+920254,@920102,@910108
+920255,@920103,
+920256,@920104,
+920257,@920105,
+920258,@920106,
+920259,@920107,@920107
+920260,@920108,@920108
+920261,@920101,@910108
+920262,@920102,@910108
+920263,@920103,
+920264,@920104,
+920265,@920105,
+920266,@920106,
+920267,@920107,@920107
+920268,@920108,@920108
+920269,@920101,@910108
+920270,@920102,@910108
+920271,@920103,
+920272,@920104,
+920273,@920105,
+920274,@920106,
+920275,@920107,@920107
+920276,@920108,@920108
+920277,@920101,@910108
+920278,@920102,@910108
+920279,@920103,
+920280,@920104,
+920281,@920105,
+920282,@920106,
+920283,@920107,@920107
+920284,@920108,@920108
+920285,@920101,@910108
+920286,@920102,@910108
+920287,@920103,
+920288,@920104,
+920289,@920105,
+920290,@920106,
+920291,@920107,@920107
+920292,@920108,@920108
+920293,Préparez-vous au Siège de forteresse,
+920294,@920293,
+920295,@920293,
+920296,@920293,
+920297,@920293,
+920298,@920293,
+920299,@920293,
+920300,@920293,
+920301,@920293,
+920302,@920293,
+920303,@920293,
+920304,@920293,
+920305,@920293,
+920306,@920293,
+920307,@920293,
+920308,@920293,
+920309,@920293,
+920310,@920293,
+920311,@920293,
+920312,@920293,
+920313,@920293,
+920314,@920293,
+920315,@920293,
+920316,@920293,
+920317,@920293,
+920318,@920293,
+920319,@920293,
+920320,@920293,
+920321,@920293,
+920322,@920293,
+920323,@920293,
+920324,@920293,
+920325,@920293,
+920326,@920293,
+920327,@920293,
+920328,@920293,
+920329,@920293,
+920330,@920293,
+920331,@920293,
+920332,@920293,
+920333,@920293,
+920334,@920293,
+920335,@920293,
+920336,@920293,
+920337,@920293,
+920338,@920293,
+920339,@920293,
+920340,@920293,
+920341,@920293,
+920342,@920293,
+920343,@920293,
+920344,@920293,
+920345,@920293,
+920346,@920293,
+920347,@920293,
+920348,@920293,
+920349,@920293,
+920350,@920293,
+920351,@920293,
+920352,@920293,
+920353,@920293,
+920354,@920293,
+920355,@920293,
+920356,@920293,
+920357,@920293,
+920358,@920293,
+920359,@920293,
+920360,@920293,
+920361,@920293,
+920362,@920293,
+920363,@920293,
+920364,@920293,
+920365,@920293,
+920366,@920293,
+920367,@920293,
+920368,@920293,
+920369,@920293,
+920370,@920293,
+920371,@920293,
+920372,@920293,
+920373,@920293,
+920374,@920293,
+920375,@920293,
+920376,@920293,
+920377,@920293,
+920378,@920293,
+920379,@920293,
+920380,@920293,
+920381,@920293,
+920382,@920293,
+920383,@920293,
+920384,@920293,
+920385,@920293,
+920386,@920293,
+920387,@920293,
+920388,@920293,
+921101,@920101,@910108
+921102,@920102,@910108
+921103,@920103,
+921104,@920104,
+921105,@920105,
+921106,@920106,
+921107,@920107,@920107
+921108,@920108,@920108
+921109,@920293,
+921110,@920293,
+921111,@920293,
+921112,@920293,
+921113,Révision changement de classe (équipe bleue),Aller vers le changement de classe
+921114,Révision changement de classe (équipe rouge),@921113
+930101,Préparez-vous au Champ de bataille d'honneur 3v3,
+930201,@930101,
+940101,Petit Festin,Dîner au petit festin...
+940201,Festin moyen,Dîner au festin moyen...
+940301,Grand Festin,Dîner au grand festin...
+941101,Petit festin de luxe,Dîner au petit festin de luxe...
+941201,Festin moyen de luxe,Dîner au festin moyen de luxe...
+941301,Grand festin de luxe,Dîner au grand festin de luxe...
+942101,Petit festin somptueux,Dîner au petit festin somptueux...
+942201,Festin moyen somptueux,Dîner au festin moyen somptueux...
+942301,Grand festin somptueux,Dîner au grand festin somptueux...
+950201,2e porte d'extension de la salle du clan (milieu),
+950301,3e porte d'extension de la salle du clan (dessous),
+950302,3e porte d'extension de la salle du clan (dessus),
+950401,4e porte d'extension de la salle du clan (dessous),
+950402,4e porte d'extension de la salle du clan (dessus),
+999901,Tour du sanctuaire,Acquisition du buff de sanctuaire...
+2000001,Pierre d'invocation maléfique,Téléportation...
+2000101,Mur des ruines du géant inférieur,
+2000103,@2000101,
+2000104,Sortie des ruines du géant inférieur,Sortie du laboratoire...
+2000105,Flèche des ruines du géant inférieur,
+2000106,@2000101,
+2000107,@2000101,
+2000108,@2000101,
+2000109,@2000101,
+2000110,@2000101,
+2000111,@2000101,
+2000112,@2000101,
+2000201,@2000101,
+2000203,@2000101,
+2000204,@2000104,@2000104
+2000205,@2000105,
+2000206,@2000101,
+2000207,@2000101,
+2000208,@2000101,
+2000209,@2000101,
+2000210,@2000101,
+2000211,@2000101,
+2000212,@2000101,
+2000301,@2000101,
+2000303,@2000101,
+2000304,@2000104,@2000104
+2000305,@2000105,
+2000306,@2000101,
+2000307,@2000101,
+2000308,@2000101,
+2000309,@2000101,
+2000310,@2000101,
+2000311,@2000101,
+2000312,@2000101,
+1001,@2038,Test...
+1002,@2039,@1001
+1003,@2040,@1001
+1004,@2041,@1001
+100030101,Arbre maudit I,Mise à feu de l'arbre...
+100030201,@100030101,@100030101
+100030301,@100030101,@100030101
+100030401,@100030101,@100030101
+100030501,@100030101,@100030101
+100030601,@100030101,@100030101
+100030701,Marchandise volée,Recherche de la boîte...
+100030801,@20601,@100030701
+100040101,Sac de voyage,@62901
+100040201,Armes,Mise à feu de la boîte...
+100040301,@20601,@100030701
+100060101,Râtelier,Installation du casier...
+100060301,Enclos d'ourson,Libération des oursons...
+100060402,Enclos d'ours 2,
+100060403,Équipe Ours,
+100060501,@100060301,
+100060503,Enclos d'ours vide 2,
+100060504,@100060403,
+100060601,@100060301,
+100060603,@100060503,
+100060701,Ourson,Envoi de l'ourson noir chez Neuf...
+100060801,@100060701,@100060701
+100060901,@100060701,@100060701
+100070101,Ouvrier tombé,Recherche d'ouvrier...
+100070201,@100070101,
+100070202,@100070101,
+100070203,@100070101,
+100070301,Empreinte de pas,
+100070401,@100070301,Étude de l'empreinte de pas...
+100070501,Feu de joie,Étude du feu de joie...
+100070601,@100070301,@100070401
+100070602,@100070301,@100070401
+100070701,@62301,
+100070702,Suite,
+100070703,@100070702,
+100070704,Cultures,
+100070705,@100070704,
+100070706,@100070704,
+100070801,Tony,
+100070901,@64501,
+100070902,@64501,
+100070903,@64501,
+100070904,@64501,
+100071001,@64501,
+100071002,@64501,
+100071003,@64501,
+100071004,@64501,
+100080101,Cercle magique des arcanes,Invocation d'Arcane...
+100080201,@100080101,
+100080202,Psy,
+100080301,Cercle magique de Liam,Invocation de Liam...
+100080401,@100080301,
+100080501,Cercle magique de Ronde,Invocation de Ronde...
+100080601,@100080501,
+100080701,Fournaise sacrée,Purification de l'âme ténébreuse...
+100080801,@100080701,@100080701
+100090101,Appât de viande,Activation de l'appât...
+100090201,@100090101,@100090101
+100090301,Phellinus Linteus,Collecte du champignon...
+100090401,@100090101,@100090101
+100090501,@100090101,@100090101
+100090601,@100090301,@100090301
+100100101,Soldat de Dion mortellement blessé,Vérification de l'état du soldat...
+100100201,@10301,Mise à feu de la torche...
+100100301,Arbre I,@100030101
+100100401,Arbre II,@100030101
+100100501,Arbre III,@100030101
+100100601,Cercle magique de Tisseuse,
+100100701,Fleur de la tristesse,
+100100801,@100100701,
+100110101,Cercle magique désillusionnant I,Activation du cercle magique dissolvant les esprits...
+100110201,Cercle magique désillusionnant II,@100110101
+100110301,Cercle magique désillusionnant III,@100110101
+100110401,Cercle magique désillusionnant IV,@100110101
+100110501,@12001,@140601
+100110601,@12001,@140601
+100110701,@100070501,Mise à feu des cheveux...
+100110801,@100070501,@100110701
+100130101,Tas de ravitaillement,Récupération du ravitaillement...
+100130201,@100130101,@100130101
+100130301,@20601,@10501
+100130302,@20601,@10501
+100130401,@20601,@10501
+100130402,@20601,@10501
+100130501,Nesca,Vérification de l'état de Nesca...
+100130601,@100130501,
+100130701,Pile de trésors et Nero,
+100130801,@100130701,
+100140101,Œuf de basilic,Destruction de l'œuf...
+100140102,@100140101,@100140101
+100140103,@100140101,@100140101
+100140301,Squelette d'un dragon ancien,Récupération du squelette...
+100140401,@100140301,
+100140501,Chariot de Veren,
+100140601,@100140501,
+100140701,Marchandise de Veren,
+100140801,@100140701,
+100140901,@100140101,@100140101
+100141001,@100140101,@100140101
+100141101,@100140101,@100140101
+100161501,Fournaise purificatrice,Embrasement par le feu purificateur...
+100161601,Traces de golem ancien,Arrachage du cœur de mana obsidien
+100161701,Cristal d'activation,Éveil de la conscience de Jayhan
+100161801,Sac en cuir de Botang,Acquisition du sac de voyage...
+100161901,Sac de Yumaeri,Récupération du sac...
+100162001,Fournaise purificatrice rouge,@100161501
+100162101,Bagages de marchand,
+100162201,@100162101,
+100162301,@100162101,
+100162401,Pierre à proximité du cristal d'activation,
+100162501,@100162401,
+100162601,Cadavre de veilleur de barrière,Collecte de vigne magique...
+100162602,@100162601,@100162601
+100162603,@100162601,@100162601
+100162604,@100162601,@100162601
+100162605,@100162601,@100162601
+100170101,Cage des ténèbres,@152401
+100170201,Pierre d'âme sombre,Étude de la pierre d'âme...
+100170301,@100170201,@101101
+100170401,Lot d'argent de Dorothy,Fouille du lot d'argent de Dorothy...
+3010001,Entrée principale du bastion pirate,
+3010011,Prison de Tark,Ouverture de la porte de la prison...
+3010021,@13101,
+3010041,Taches de sang de vampire,Application des taches de sang de vampire...
+3010042,@3010041,@3010041
+3010043,@3010041,@3010041
+3010044,@3010041,@3010041
+3010051,@10301,Allumage d'une torche...
+3010061,Bave de sangsue,Combustion de la bave...
+3010071,Porte du boudoir de la comtesse,Ouverture de la porte à l'aide de la clé...
+3010081,Coffre au trésor : aléatoire,Ouverture du coffre au trésor...
+3010090,Coffre au trésor : défini,@3010081
+3010084,Journal de Trisha : page 1,Visualisation du contenu du livre...
+3010085,Journal de Trisha : page 2,@3010084
+3010086,Journal de Trisha : page 3,@3010084
+3010087,Journal de Trisha : page 4,@3010084
+3010088,Journal de Trisha : page 5,@3010084
+3010089,Journal de Trisha : page 6,@3010084
+3010091,Bureau du pirate,Recherche des clés de la prison...
+3010101,Tark blessé,
+3010111,Lettre de Trisha,Lecture de la lettre...
+3010112,Directives de Zaken,Lecture des directives...
+30000101,Sortie de la zone 1,
+30000201,Sortie de la zone 2,Armement de la bombe...
+30000202,@30000201,@30000201
+30000203,@30000201,@30000201
+30000301,Sortie de la zone 3,@30000201
+30000302,@30000301,
+30000303,@30000301,@30000201
+30000304,@30000301,
+30000401,Sortie de la zone 4,
+30000501,Porte de l'autel scellé,
+30000601,Prison de Laenis,@3010011
+30000701,@13101,
+30000801,Signal d'alarme occidental éteint,
+30000901,Signal d'alarme oriental éteint,
+30001001,Signal d'alarme occidental,Extinction du signal d'alarme...
+30001101,Signal d'alarme oriental,@30001001
+30001201,Barricade d'entrée du village,
+30001401,@3010090,@3010081
+30001402,@3010081,@3010081
+1040001,Boîte d'événement : Magnadin,Crochetage de la serrure...
+1040002,@1040001,Crochetage de la serrure...
+1040003,@1040001,Crochetage de la serrure...
+1040004,@1040001,Crochetage de la serrure...
+1040005,@1040001,Crochetage de la serrure...
+1040006,@1040001,Crochetage de la serrure...
+1040007,@1040001,Crochetage de la serrure...
+1040008,@1040001,Crochetage de la serrure...
+1040009,@1040001,Crochetage de la serrure...
+1040010,@1040001,Crochetage de la serrure...

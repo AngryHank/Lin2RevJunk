@@ -1,0 +1,129 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,لقد عاودت الاتصال بالخادم.,,
+3,تم إنشاء فريق.,,
+4,لقد انضممتَ إلى الفريق.,,
+5,انضم <FontGreen>[Name]</> إلى الفريق.,,
+6,لقد غادرتَ الفريق.,,
+7,غادر <FontGreen>[Name]</> الفريق.,,
+8,لقد تم طردك من الفريق.,,
+9,تم طرد <FontGreen>[Name]</> من الفريق.,,
+10,لقد أصبحتَ قائد الفريق.,,
+11,تم تعيين <FontGreen>[Name]</> قائدًا جديدًا للفريق.,,
+12,تم حل الفريق.,,
+13,"قام <FontGreen>[Name]</> بدعوتك للانضمام إلى فريقه.
+هل ترغب في الانضمام إلى الفريق؟ <FontRed>[Seconds]</> ثانية.",رفض,انضمام
+14,لقد رفضتَ الانضمام إلى الفريق.,,
+15,"طلب شخص الانضمام إلى فريقك.
+موافق؟ <FontRed>[Seconds]</>ثانية.",@13,قبول
+16,تم إلغاء الفريق التلقائي.,,
+17,"<FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+يريد <FontBlue>[Name]</> بدء المغامرة. هل أنت مستعد؟ <FontRed>[Seconds]</>ثانية",@13,قبول
+18,"<FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+ستدخل <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> في غضون <FontRed>[Seconds]</> ثوانٍ.
+استعد للمعركة.",,
+19,"<FontGreen>[WorldName]</>
+يرغب <FontBlue>[Name]</> في استدعائك.
+هل تقبل الاستدعاء؟ <FontRed>[Seconds]</> ثانية",عبر السير,عبر البوابة
+20,@19,إغلاق,إدخال
+21,"<FontGreen>[WorldName]</>
+هل ترغب في الذهاب إلى مكان تجمع الفريق؟ <FontRed>[Seconds]</> ثانية",@19,@19
+22,@21,@20,@20
+23,"تم إنشاء فريق <FontYellow>[Battlefield]</>.
+أدخل ساحة المعركة <FontBlue>بمفردك</> أو في <FontBlue>فريق ساحة المعركة</> مع لاعبين آخرين.",,
+24,تم الانضمام إلى فريق <FontYellow>[Battlefield]</>.,,
+25,انضم <FontGreen>[Name]</> إلى فريق <FontYellow>[Battlefield]</>.,,
+26,تم حل فريق <FontYellow>[Battlefield]</>.,,
+27,تمت مغادرة فريق <FontYellow>[Battlefield]</>.,,
+28,غادر <FontGreen>[Name]</> فريق <FontYellow>[Battlefield]</>.,,
+29,"قام <FontGreen>[Name]</> ([Power]) بدعوتك إلى فريق ساحة المعركة.
+هل ترغب في الانضمام إلى فريق <FontYellow>[Battlefield]</>؟ <FontRed>[Seconds]</> من الثواني",@13,@15
+30,"اكتملت مباريات <FontYellow>[BattlefieldType]</> 
+.الدخول إلى ساحة المعركة في غضون <FontRed>[Seconds]</> من الثواني. استعد للمعركة.",,
+31,طلب [Name] أن تكونوا أصدقاء.,الصديق,
+32,لقد أصبحت صديقًا للاعب [Name].,@31,
+33,<FontYellow>لقد قام رئيس القبيلة بتغيير شعارها.</>,,
+34,قام عضو القبيلة [Name] بتغيير اسمه المستعار: <FontGreen>[Name2]</>,,
+35,قام <FontGreen>[Param1]</> بتسجيل الدخول.,,
+36,تبرّع <FontGreen>[Name]</> بمبلغ <FontGreen>[Count] [AssetsType]</> لصالح أعضاء القبيلة.,,
+37,لقد انضم <FontGreen>[Param1]</> <FontBlue></> إلى القبيلة.,,
+38,لقد غادر <FontGreen>[Param1]</> <FontRed></>القبيلة.,,
+39,لقد تم طرد <FontGreen>[Name]</> <FontRed></> من القبيلة.,,
+40,لقد أرسلت قبيلة <FontBlue>[GuildName]</> دعوة.,@13,@17
+41,رفض <FontBlue>[Name]</> الدعوة.,,
+42,<FontYellow>يوجد طلب جديد للانضمام إلى القبيلة.</>,القبيلة,
+43,لقد انضممت إلى <FontBlue>[GuildName]</>.,@42,
+44,رفض <FontBlue>[GuildName]</><FontRed></> طلبك بالانضمام.,,
+45,غادر القبيلة.,,
+46,أصبحت فئة <FontGreen>[Param1]</> الآن <FontBlue>[Param2]</>,,
+47,تم تعيين <FontGreen>[Param1]</> رئيسًا جديدًا للقبيلة.,,
+48,تم تعيين <FontGreen>[Param1]</> رئيسًا جديدًا للقبيلة بسبب الغياب الطويل لرئيس القبيلة السابق وعدم حضوره.,,
+49,لقد منح [Param1] مكافأة إلى <FontGreen>[Param2]</>.,,
+50,لقد منح [Param1] <FontGreen> مكافآت </>إلى كل أعضاء القبيلة.,,
+51,لقد منح [Param1] مكافآت إلى إجمالي <FontGreen>[Param3] من الأعضاء</>، بمن فيهم [Param2].,,
+52,لقد وصلت هدية اقبيلة من <FontGreen>[Name]</>.,صندوق البريد,
+53,"طلبَ عضو القبيلة <FontGreen>[Name]</> الانتقام:
+[Name2] من قبيلة <FontRed>[GuildName]</>.",@20,@19
+54,"طلبَ عضو القبيلة <FontGreen>[Name]</> الانتقام:
+[Name] من قبيلة <FontRed>[GuildName]</>.",@20,@20
+55,"طلبَ عضو القبيلة <FontGreen>[Name]</> الانتقام:
+<FontRed>[Name2]</>",@20,@19
+56,"طلبَ عضو القبيلة <FontGreen>[Name]</> الانتقام:
+<FontRed>[Name]</>",@20,@20
+57,<FontBlue>أنشأت</> تحالفًا مع <FontBlue>[Param1]</>.,,
+58,لقد <FontRed> انتهي التحالف </> مع <FontBlue>[Param1]</>.,,
+59,<FontRed>أعلن</> الحرب ضد قبيلة <FontBlue>[Name]</>.,,
+60,<FontRed>رفض</> وقف إطلاق النار مع <FontBlue>[GuildName]</>.,,
+61,رفض <FontBlue>[GuildName]</><FontRed></> وقف إطلاق النار.,,
+62,<FontGreen>تم التفاوض</> على وقف إطلاق النار مع قبيلة <FontBlue>[Name]</>.,,
+63,<FontBlue>فاز</> في الحرب على <FontBlue>[Name]</>.,,
+64,<FontRed>هُزِم</> في الحرب على <FontBlue>[Name]</>.,,
+65,<FontYellow>وصلت القبيلة إلى المستوى [Param1]</>.,,
+66,<FontYellow>وصل دعم القبيلة [Name] إلى المستوى [param]</>.,,
+67,Lord [Name] has purchased <FontGreen>[Item]</> from <FontGreen>[ShopName]</>.,,
+68,<FontYellow>[Param1] تم الإخلاء بنجاح </>.,إنجاز القبيلة,
+69,"استدعى رئيس القبيلة من <FontGreen>[DungeonName]</>.
+موافق؟",@20,@20
+70,تمت إعادة تعيين <FontYellow>[GuildDungeonName]([Difficulty]).</>,سرداب القبيلة,
+71,تجديد سعر المزايدة <FontYellow>[Param1]!</>,حصار الحصن,
+72,@71,حصار القلعة,
+73,تمت زيادة سعر المزايدة <FontYellow>[Param1].</>,@71,
+74,@73,@72,
+75,"تم فتح حصار الحصن.
+هل ترغب في دخول <FontGreen>[FortressName]</>؟",@20,@20
+76,"تم فتح حصار القلعة.
+هل ترغب في دخول <FontGreen>[CastleName]</>؟",@20,@20
+77,<FontYellow>لقد صادر رئيس القبيلة ملكية [Name].</>,,
+78,اختار رئيس القبيلة<FontBlue>[Name]</> كـ <FontYellow>[CastleType]</>.,,
+79,<FontYellow>وصلت قاعة القبيلة إلى المستوى [Level].</>,,
+80,<FontYellow>وصلت بلورة الوحدة في قاعة القبيلة إلى المستوى [param].</>,,
+81,أجرى <FontGreen>[Name]</> مهمة في قاعة القبيلة لصالح القبيلة.,,
+82,لقد قام <FontGreen>[Name]</> بإعداد <FontBlue>وليمة</> في قاعة القبيلة.,@20,@20
+83,تم إرسال <FontYellow>[Value] كنز (كنوز) غامض إلى مخزن القبيلة.</>,,
+84,صنع [NAME] [COUNT]<FontGreen>[POTION_NAME]</>.,,
+85,<FontYellow>يشتعل موقد قاعة القبيلة ببهاء.</>,@20,@20
+86,<FontYellow>يتم إحماء موقد قاعة القبيلة وتجهيزه.</>,@20,@20
+87,<FontYellow>لقد تلاشى الدفء الصادر عن الموقد.</>,,
+88,<FontRed>طُرِدَ</> من القبيلة.,,
+89,"لقد بدأ حصار الحصن!
+هل ترغب في دخول <FontGreen>[FortressName]</>؟",@20,@20
+90,"لقد بدأ حصار القلعة!
+هل ترغب في دخول <FontGreen>[CastleName]</>؟",@20,@20
+91,"Location: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> would like to summon you.
+Go now? <FontRed>[Seconds]</> sec",@13,@17
+92,"Actions are limited due to not being in a party.
+Automatically exiting the Temporal Rift in 15 seconds.",Leave,
+93,<FontYellow>The item for [EventName] has expired.</>Removed from the inventory.,,
+94,"<FontYellow>تم إنشاء فريق</> الحصار المفتوح.
+اذهب <FontGreen>بمفردك</> أو ضمن <FontGreen>فريق</> في الحصار المفتوح.",,
+95,انضمَ إلى فريق <FontYellow>الحصار المفتوح</>.,,
+96,انضمَ <FontGreen>[Name]</> إلى <FontYellow>الحصار المفتوح</>.,,
+97,<FontYellow>حل فريق</> الحصار المفتوح.,,
+98,غادر <FontYellow>الحصار الفتوح</>.,,
+99,<FontGreen>[Name]</> غادر <FontYellow>فريق</> الحصار المفتوح.,,
+100,"قام <FontGreen>[Name]</> بدعوتك إلى فريق حصار مفتوح.
+هل ترغب في قبول <FontYellow>دعوة فريق</> الحصار المفتوح؟ <FontRed>[Seconds]</> ثانية.",@13,@15
+101,"لقد انتهت مباراة <FontYellow>الحصار المفتوح</>.
+دخول الحصار المفتوح في غضون <FontRed>[Seconds]</> ثانية. استعد للمعركة.",,
+1000,تسجيل الدخول.,,

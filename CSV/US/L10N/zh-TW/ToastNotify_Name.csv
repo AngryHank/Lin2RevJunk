@@ -1,0 +1,130 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,서버와의 연결이 끊어져 재접속되었습니다.,,
+3,파티가 생성되었습니다.,,
+4,파티에 가입되었습니다.,,
+5,<FontGreen>[Name]</>님이 파티에 참가하였습니다.,,
+6,파티에서 탈퇴했습니다.,,
+7,<FontGreen>[Name]</>님이 파티에서 탈퇴했습니다.,,
+8,파티에서 추방되었습니다.,,
+9,<FontGreen>[Name]</>님이 파티에서 추방되었습니다.,,
+10,해당 파티의 파티장이 되었습니다.,,
+11,<FontGreen>[Name]</>님에게 파티장이 위임되었습니다.,,
+12,파티가 해산되었습니다.,,
+13,"<FontGreen>[Name]</>님이 파티에 초대하였습니다.
+파티에 참여하시겠습니까? <FontRed>[Seconds]</>초",거절,참여
+14,파티 참가가 거절되었습니다.,,
+15,"파티 승인 요청이 있습니다.
+승인하시겠습니까? <FontRed>[Seconds]</>초",@13,승인
+16,자동파티가 취소 되었습니다.,,
+17,"장소 : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</>님이 모험을 시작하려 합니다.
+ 준비하시겠습니까? <FontRed>[Seconds]</>초",@13,수락
+18,"장소 : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+ <FontRed>[Seconds]</>초 후 <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+에 입장합니다. 전투에 준비하세요",,
+19,"장소 : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> 님께서 당신을 소집합니다.
+이동하시겠습니까? <FontRed>[Seconds]</>초",도보 이동,포탈 이동
+20,@19,닫기,입장
+21,"장소 : <FontGreen>[WorldName]</>
+파티 집결지로 이동하시겠습니까? <FontRed>[Seconds]</>초",@19,@19
+22,@21,@20,@20
+23,"<FontYellow>[Battlefield]</> 파티가 생성되었습니다.
+<FontGreen>혼자서</> 혹은 다른 플레이어와 <FontGreen>전장 파티</>를 구성하여 전장에 참여하세요.",,
+24,<FontYellow>[Battlefield]</> 파티에 합류하였습니다.,,
+25,<FontGreen>[Name]</> 님께서 <FontYellow>[Battlefield]</> 파티에 합류하였습니다.,,
+26,<FontYellow>[Battlefield]</> 파티가 해산되었습니다.,,
+27,<FontYellow>[Battlefield]</> 파티에서 탈퇴했습니다.,,
+28,<FontGreen>[Name]</> 님께서 <FontYellow>[Battlefield]</> 파티에서 탈퇴했습니다.,,
+29,"<FontGreen>[Name]</>([Power]) 님이 전장 파티에 초대하였습니다.
+<FontYellow>[Battlefield]</> 파티를 승인하시겠습니까 ? <FontRed>[Seconds]</>초",@13,@15
+30,"<FontYellow>[BattlefieldType]</> 매칭이 성사되었습니다.
+<FontRed>[Seconds]</>초 후 전장에 입장합니다. 전투를 준비하세요.",,
+31,[Name] 님께서 친구 맺기를 요청합니다.,친구,
+32,[Name] 님과 친구가 되었습니다.,@31,
+33,<FontYellow>군주님께서 혈맹 문장을 변경하였습니다.</>,,
+34,[Name] 혈맹원 닉네임 변경 : <FontGreen>[Name2]</>,,
+35,<FontGreen>[Param1]</> 님이 접속했습니다.,,
+36,"<FontGreen>[Name]</> 님께서 혈맹을 위해 <FontGreen>[Count] [AssetsType]{[AssetsType]|를,을}</> 기부했습니다.",,
+37,<FontGreen>[Param1]</> 님이 혈맹에 <FontBlue>가입</>하였습니다.,,
+38,<FontGreen>[Param1]</> 님이 혈맹을 <FontRed>탈퇴</>하였습니다.,,
+39,<FontGreen>[Name]</>님이 혈맹에서 <FontRed>추방</>되었습니다.,,
+40,<FontBlue>[GuildName]</> 혈맹에서 가입 초대하였습니다.,@13,@17
+41,<FontBlue>[Name]</> 플레이어가 가입 초대를 거부하였습니다.,,
+42,<FontYellow>혈맹에 가입 요청이 들어왔습니다.</>,혈맹,
+43,<FontBlue>[GuildName]</> 혈맹에 가입되었습니다.,@42,
+44,<FontBlue>[GuildName]</> 혈맹에 가입이 <FontRed>거부</>되었습니다.,,
+45,혈맹에서 탈퇴 되었습니다.,,
+46,"<FontGreen>[Param1]</> 님의 등급이 <FontBlue>[Param2]{[Param2]|가,이}</> 되었습니다.",,
+47,<FontGreen>[Param1]</> 님이 새로운 군주로 임명되었습니다.,,
+48,이전 군주의 장기 미접속으로 <FontGreen>[Param1]</> 님이 군주로 임명되었습니다.,,
+49,[Param1] 님이 <FontGreen>[Param2]</> 님에게 포상을 내렸습니다.,,
+50,[Param1] 님이 <FontGreen>모든 혈맹원</>에게 포상을 내렸습니다.,,
+51,[Param1] 님이 [Param2] 님을 포함하여 총 <FontGreen>[Param3]명</>에게 포상을 내렸습니다.,,
+52,<FontGreen>[Name]</> 혈맹원으로 부터 혈맹 선물이 도착했습니다.,편지함,
+53,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[GuildName] 혈맹의 [Name2]</>",@20,@19
+54,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[GuildName] 혈맹의 [Name]</>",@20,@20
+55,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[Name2]</>",@20,@19
+56,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[Name]</>",@20,@20
+57,<FontBlue>[Param1]</> 혈맹과 동맹을 <FontBlue>체결</>했습니다.,,
+58,<FontBlue>[Param1]</> 혈맹과의 동맹이 <FontRed>파기</> 되었습니다.,,
+59,<FontBlue>[Name]</> 혈맹과의 전쟁이 <FontRed>선포</>되었습니다.,,
+60,<FontBlue>[GuildName]</> 혈맹의 전쟁 종료 신청을 <FontRed>거절</>하였습니다.,,
+61,<FontBlue>[GuildName]</> 혈맹이 전쟁 종료 신청을 <FontRed>거절</>하였습니다.,,
+62,<FontBlue>[Name]</> 혈맹과의 전쟁이 <FontGreen>종전 합의</>되었습니다.,,
+63,<FontBlue>[Name]</> 혈맹과의 전쟁에서 <FontBlue>승리</>하였습니다.,,
+64,<FontBlue>[Name]</> 혈맹과의 전쟁에서 <FontRed>패배</>하였습니다.,,
+65,"<FontYellow>혈맹의 레벨이 [Param1]{[Param1]|가,이} 되었습니다.</>",,
+66,"<FontYellow>혈맹 버프 [Name]{[Name]|가,이} [param] 레벨이 되었습니다.</>",,
+67,"[Name] 군주님께서 <FontGreen>[ShopName]</>에서 <FontGreen>[Item]</>{[Item]|를,을} 구매했습니다.",,
+68,<FontYellow>[Param1] 공략에 성공했습니다.</>,혈맹 업적,
+69,"<FontGreen>[DungeonName]</> 던전에서 군주님이 소환하셨습니다.
+소환에 응하시겠습니까?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) 이 초기화되었습니다.</>,혈맹 던전,
+71,<FontYellow>[Param1]의 입찰액을 갱신하세요!</>,요새전,
+72,@71,공성전,
+73,<FontYellow>[Param1]의 입찰이 연장되었습니다.</>,@71,
+74,@73,@72,
+75,"요새전 입장 가능 시간입니다.
+<FontGreen>[FortressName]</>로 입장하시겠습니까?",@20,@20
+76,"공성전 입장 가능 시간입니다.
+<FontGreen>[CastleName]</>으로 입장하시겠습니까?",@20,@20
+77,<FontYellow>군주님께서 [Name]의 소유권을 포기하였습니다.</>,,
+78,군주님께서 <FontBlue>[Name]</>을 <FontYellow>[CastleType]</>으로 선택하였습니다.,,
+79,<FontYellow>아지트가 [Level]레벨이 되었습니다.</>,,
+80,<FontYellow>아지트 결속의 수정이 [param] 레벨로 성장했습니다.</>,,
+81,<FontGreen>[Name]</> 님께서 혈맹을 위해 아지트 혈맹 퀘스트를 수행했습니다.,,
+82,<FontGreen>[Name]</> 님께서 아지트에 <FontBlue>만찬</>을 차렸습니다.,@20,@20
+83,<FontYellow>신비로운 유물 [Value]개가 혈맹 창고로 지급되었습니다.</>,,
+84,[NAME]께서 <FontGreen>[POTION_NAME]</>을 [COUNT]개 제조했습니다.,,
+85,<FontYellow>아지트의 벽난로가 밝게 빛납니다.</>,@20,@20
+86,<FontYellow>아지트가 벽난로의 온기로 가득 차고 있습니다.</>,@20,@20
+87,<FontYellow>벽난로의 온기가 사라졌습니다.</>,,
+88,혈맹에서 <FontRed>추방</> 되었습니다.,,
+89,"요새전이 시작되었습니다!
+<FontGreen>[FortressName]</>로 입장하시겠습니까?",@20,@20
+90,"공성전이 시작되었습니다!
+<FontGreen>[CastleName]</>으로 입장하시겠습니까?",@20,@20
+91,"장소 : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> 님께서 당신을 소환합니다.
+이동하시겠습니까? <FontRed>[Seconds]</>초",@13,@17
+92,"파티가 없어 조작이 제한 되었습니다.
+15초 후에 자동으로 시공의 균열에서 나갑니다.",나가기,
+93,<FontYellow>[EventName] 관련 아이템의 사용기간이 만료되어</>인벤토리에서 삭제되었습니다.,,
+94,"<FontYellow>자유요새전</> 파티가 생성되었습니다.
+<FontGreen>혼자서</> 혹은 다른 플레이어와 <FontGreen>자유요새전 파티</>를 구성하여 자유요새전에 참여하세요.",,
+95,<FontYellow>자유요새전</> 파티에 합류하였습니다.,,
+96,<FontGreen>[Name]</> 님께서 <FontYellow>자유요새전</> 파티에 합류하였습니다.,,
+97,<FontYellow>자유요새전</> 파티가 해산되었습니다.,,
+98,<FontYellow>자유요새전</> 파티에서 탈퇴했습니다.,,
+99,<FontGreen>[Name]</> 님께서 <FontYellow>자유요새전</> 파티에서 탈퇴했습니다.,,
+100,"<FontGreen>[Name]</> 님이 자유요새전 파티에 초대하였습니다.
+<FontYellow>자유요새전</> 파티를 승인하시겠습니까 ? <FontRed>[Seconds]</>초",@13,@15
+101,"<FontYellow>자유요새전</> 매칭이 성사되었습니다.
+<FontRed>[Seconds]</>초 후 자유요새전에 입장합니다. 전투를 준비하세요.",,
+1000,접속 중입니다,,

@@ -1,0 +1,108 @@
+Index,Name
+1,Betäubt
+2,Brennen
+3,Seelenschuss-Test
+4,@2
+5,Gift
+6,@5
+7,Überhitzen
+8,@5
+9,Levelaufstiegseffekt
+10,Ja-Test
+11,Währung-Test
+12,LP-Test
+13,Manaschild-Test
+14,Nein-Test
+15,Fluch-Test
+16,Blutung-Test
+17,Brennen-Test
+18,Betäuben-Test
+19,Provokation-Test
+20,Absoluter Schild
+21,Unbesiegbarkeitsbuff
+22,Langlebigkeitsbuff
+23,Gerissenheitsbuff
+24,Honigdachsgeschwindigkeit
+25,Honigdachs-Entnahmegeschwindigkeit
+26,Honigdachs-Entnahmemenge
+27,Gartenwächter
+28,Seelenschuss-Starteffekt
+29,LP-Trank-Nutzungseffekt
+30,MP-Trank-Nutzungseffekt
+31,Klassentransfereffekt
+32,@31
+33,Feldzufluchtsbuff 1
+34,Feldzufluchtsbuff 2
+35,Feldzufluchtsbuff 3
+36,Feldzufluchtsbuff 4
+37,Feldzufluchtsbuff 5
+38,Varkaron-Schild
+39,Wütender Varkaron
+40,Wütender Varkaron (Waffe)
+41,"Fürstengunst-Buff 1 (LP, MP)"
+42,"Fürstengunst-Buff 2 (ERF, Kern)"
+43,"Fürstengunst-Buff 3 (Adena, Gegenstand)"
+44,Fürstengunst-Buff - Kamera
+45,Max. MP-Erhöhung
+46,Max. LP-Erhöhung
+47,VER Erhöhung
+48,Geschwindigkeitserhöhung
+49,ANG GES Erhöhung
+50,ANG Erhöhung
+51,Wütende Ameisenkönigin
+52,Ameisen-Zeitbombe 1
+53,Ameisen-Zeitbombe 2
+54,Ameisen-Zeitbombe 3
+55,Ameisen-Zeitbombe 4
+56,Ameisen-Zeitbombe 5
+57,Ameisen-Zeitbombe 6
+58,Cruma-Kern: Gift
+59,Cruma-Kern: Stille
+60,Cruma-Kern: Gedankenkontrolle
+61,Ameisenköniginnen-Barriere
+62,Kristall der Eintracht: Basis
+63,Kristall der Eintracht: Stufe 1
+64,Kristall der Eintracht: Stufe 2
+65,Kristall der Eintracht: Stufe 3
+66,Aufsteigen-/Absitzen-Effekt
+67,Marshas Fertigkeitseffekt
+68,Klanhallen-Trank-Nutzungseffekt
+69,Klanhallen-Trank: Moralerhöhung
+70,Klanhallen-Trank: Eissturm
+71,Klanhallen-Trank: LP-Regen.-Erhöhung
+72,Klanhallen-Trank: Antimagie
+73,Bindung
+74,Nahkampfschadensaura (Timer)
+75,Wasserkristall-Barriere
+76,Gruppe des Zorns
+77,Überwältigen
+78,Erhöhung des Fertigkeitenschadens
+79,@74
+80,@75
+81,@76
+82,@77
+83,Durchbohrte Wunde
+84,Marlox_Dämonen-Erschöpfung
+85,Held des Windaltars
+86,Held des Erdaltars
+87,Blutarmut
+88,Vampirisieren Stufe 1
+89,Vampirisieren Stufe 2
+90,Vampirisieren Stufe 3
+91,Vampirisieren Stufe 4
+92,Vampirisieren Stufe 5
+93,Vampirische Veränderung
+94,Ramog-Zündeln-Debuff
+95,Ramog-Explosion-Bereitschaft-Selbst-Debuff
+96,Feuerwerk-Effekt 1
+97,Feuerwerk-Effekt 2
+98,Feuerwerk-Effekt 3
+99,Feuerwerk-Effekt 4
+100,Starker LP-Entzug
+101,Umhang-Effekt: PVE-Angriff-Immunitätsbarriere
+102,Umhang-Effekt: PVP-Seltene-Fertigkeitsbarriere
+103,Wütender Zaken
+104,Verschobener Zaken
+105,Feldbelohnung
+106,Boss-Beitragsbelohnung
+107,Finaler Boss-Schaden

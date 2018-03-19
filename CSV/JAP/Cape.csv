@@ -1,0 +1,2 @@
+Id,CapeType,IconTexture,MaxLevel,OptionCount,AcquireLevel,AcquireCapeInfoId,AcquireCapeLevel,AcquireCondition,AcquireConditionValue,ActivateItem,ActivateItemValue,OptionChangeItem,OptionChangeCount,OptionChangeCashCost,ChangeOptionGroup,NoneOption
+770001,1,,1,1,10,,,0,,81300001,1,,,,,1

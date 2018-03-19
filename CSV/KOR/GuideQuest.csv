@@ -1,0 +1,400 @@
+Id,GuideQuestGroupId,Rank,RequiredId,Title,Desc,TaskType,TaskCount,RewardType,RewardItemInfoId,RewardCount,HelpURL
+1001,1,1,,에피소드 완료,에피소드 <RedBold>1-2</> 클리어하기,90,1,6,440001,20,http://guide.netmarble.com/lineageII/140
+1002,1,1,1001,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,2,490003,20,http://guide.netmarble.com/lineageII/141
+1003,1,1,1002,에피소드 완료,에피소드 <RedBold>1-5</> 클리어하기,90,1,2,490003,30,http://guide.netmarble.com/lineageII/142
+1004,1,1,1003,업적 점수,업적 점수 <RedBold>[Value]점</> 달성하기 ([Value1]/[Value2]),23,500,1,490002,10000,http://guide.netmarble.com/lineageII/143
+1005,1,1,1004,전투력,최대 전투력 <RedBold>[Value]</> 달성하기 ([Value1]/[Value2]),29,8000,6,480005,1,http://guide.netmarble.com/lineageII/144
+1006,1,1,1005,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,3,1,490002,10000,http://guide.netmarble.com/lineageII/145
+1007,1,1,1006,장비 획득,장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,20,6,911123,1,http://guide.netmarble.com/lineageII/146
+1008,1,1,1007,오만의 탑 도전,오만의 탑 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),92,3,6,440011,20,http://guide.netmarble.com/lineageII/147
+1009,1,1,1008,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 성공하기 ([Value1]/[Value2]),21,3,6,480004,1,http://guide.netmarble.com/lineageII/148
+1010,1,1,1009,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,490002,30000,http://guide.netmarble.com/lineageII/149
+1011,1,1,1010,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,5,6,490005,200,http://guide.netmarble.com/lineageII/150
+1012,1,1,1011,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,3,6,400001,1000,http://guide.netmarble.com/lineageII/151
+1013,1,1,1012,혈맹 상점,혈맹 버프 <RedBold>[Value]회</> 구입하기 ([Value1]/[Value2]),170,1,6,440001,20,http://guide.netmarble.com/lineageII/152
+1014,1,1,1013,정예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,1,490002,50000,http://guide.netmarble.com/lineageII/153
+1015,1,1,1014,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,6,910210,1,http://guide.netmarble.com/lineageII/154
+1016,1,1,1015,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,7,6,910211,1,http://guide.netmarble.com/lineageII/155
+1017,1,1,1016,에피소드 완료,에피소드 <RedBold>3-5</> 클리어하기,90,1,2,490003,150,http://guide.netmarble.com/lineageII/156
+1018,1,1,1017,오만의 탑,오만의 탑 <RedBold>[Value]층</> 클리어하기 ([Value1]/[Value2]),91,18,6,490008,1,http://guide.netmarble.com/lineageII/157
+1019,1,1,1018,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,2,490003,150,http://guide.netmarble.com/lineageII/158
+1020,1,1,1019,에피소드 완료,에피소드 <RedBold>4-5</> 클리어하기,90,1,6,490005,1000,http://guide.netmarble.com/lineageII/159
+1021,1,1,1020, 전직 완료,<RedBold>전직 완료</> 하기,15,1,6,910204,1,http://guide.netmarble.com/lineageII/160
+2001,2,1,,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,4,6,910226,3,http://guide.netmarble.com/lineageII#cont/499
+2002,2,1,2001,요일던전 클리어,요일던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),95,1,2,,300,http://guide.netmarble.com/lineageII#cont/500
+2003,2,1,2002,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,1,1,,200000,http://guide.netmarble.com/lineageII#cont/501
+2004,2,1,2003,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,30,6,510103,1,http://guide.netmarble.com/lineageII#cont/502
+2005,2,1,2004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),101,1,2,,300,http://guide.netmarble.com/lineageII#cont/503
+2006,2,1,2005,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,900011,1,http://guide.netmarble.com/lineageII#cont/504
+2007,2,1,2006,승급석 획득,승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,10,6,510103,1,http://guide.netmarble.com/lineageII#cont/505
+2008,2,1,2007,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,8,6,911141,2,http://guide.netmarble.com/lineageII#cont/506
+2009,2,1,2008,요일던전 클리어,요일던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),95,4,2,,500,http://guide.netmarble.com/lineageII#cont/528
+2010,2,1,2009,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,2,1,,300000,http://guide.netmarble.com/lineageII#cont/529
+2011,2,1,2010,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,100,6,510103,2,http://guide.netmarble.com/lineageII#cont/530
+2012,2,1,2011,장비던전 클리어,장비던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),101,4,2,,300,http://guide.netmarble.com/lineageII#cont/531
+2013,2,1,2012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,900011,2,http://guide.netmarble.com/lineageII#cont/532
+2014,2,1,2013,승급석 획득,승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,20,6,510103,2,http://guide.netmarble.com/lineageII#cont/573
+2015,2,1,2014,장비 분해,장비 <RedBold>[Value]개</> 분해하기 ([Value1]/[Value2]),71,12,6,911151,1,http://guide.netmarble.com/lineageII#cont/533
+2016,2,1,2015,요일던전 클리어,요일던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),95,6,2,,500,http://guide.netmarble.com/lineageII#cont/539
+2017,2,1,2016,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,3,1,,500000,http://guide.netmarble.com/lineageII#cont/540
+2018,2,1,2017,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,500,6,510103,4,http://guide.netmarble.com/lineageII#cont/541
+2019,2,1,2018,장비던전 클리어,장비던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),101,8,2,,500,http://guide.netmarble.com/lineageII#cont/542
+2020,2,1,2019,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,5,6,900011,3,http://guide.netmarble.com/lineageII#cont/547
+2021,2,1,2020,레시피 획득,레시피 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,3,6,911013,1,http://guide.netmarble.com/lineageII#cont/548
+3001,3,1,,레벨 달성,레벨 <RedBold>50</> 달성하기 ([Value1]/[Value2]),12,50,6,911006,3,http://guide.netmarble.com/lineageII#cont/507
+3002,3,1,3001,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),109,1,6,911005,1,http://guide.netmarble.com/lineageII#cont/508
+3003,3,1,3002,탑승펫 장비 장착,탑승펫에게 <RedBold>장비 장착</>시키기 ([Value1]/[Value2]),198,1,1,,50000,http://guide.netmarble.com/lineageII#cont/509
+3004,3,1,3003,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,3,6,911001,2,http://guide.netmarble.com/lineageII#cont/510
+3005,3,1,3004,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,1,6,910004,1,http://guide.netmarble.com/lineageII#cont/511
+3006,3,1,3005,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,1,6,470005,1,http://guide.netmarble.com/lineageII#cont/512
+3007,3,1,3006,탑승펫 레벨 달성,탑승펫 레벨 <RedBold>[Value]</> 달성하기 ([Value1]/[Value2]),196,10,6,911006,5,http://guide.netmarble.com/lineageII#cont/513
+3008,3,1,3007,탑승펫 승급,탑승펫 <RedBold>[Value]회</> 승급하기 ([Value1]/[Value2]),194,1,2,,500,http://guide.netmarble.com/lineageII#cont/514
+3009,3,1,3008,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),109,2,6,911005,3,http://guide.netmarble.com/lineageII#cont/515
+3010,3,1,3009,탑승펫 장비 획득,A등급 이상 탑승펫 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),195,2,1,,100000,http://guide.netmarble.com/lineageII#cont/516
+3011,3,1,3010,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,5,6,911002,2,http://guide.netmarble.com/lineageII#cont/517
+3012,3,1,3011,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,3,6,910004,2,http://guide.netmarble.com/lineageII#cont/518
+3013,3,1,3012,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,3,6,470004,1,http://guide.netmarble.com/lineageII#cont/519
+3014,3,1,3013,탑승펫 레벨 달성,탑승펫 레벨 <RedBold>[Value]</> 달성하기 ([Value1]/[Value2]),196,20,6,911009,1,http://guide.netmarble.com/lineageII#cont/520
+3015,3,1,3014,출전,<RedBold>사이닝레이디</> 출전하기 ([Value1]/[Value2]),197,1,2,,500,http://guide.netmarble.com/lineageII#cont/521
+3016,3,1,3015,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),109,4,6,911005,3,http://guide.netmarble.com/lineageII#cont/522
+3017,3,1,3016,탑승펫 장비 획득,S등급 이상 탑승펫 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),195,1,1,,200000,http://guide.netmarble.com/lineageII#cont/523
+3018,3,1,3017,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,10,6,911003,2,http://guide.netmarble.com/lineageII#cont/524
+3019,3,1,3018,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,8,6,900011,3,http://guide.netmarble.com/lineageII#cont/525
+3020,3,1,3019,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,10,2,,500,http://guide.netmarble.com/lineageII#cont/526
+3021,3,1,3020,탑승펫 장비 획득,R등급 이상 탑승펫 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),195,1,6,911008,1,http://guide.netmarble.com/lineageII#cont/527
+4001,4,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/933
+4002,4,1,4001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/934
+4003,4,1,4002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,2,6,490009,3,http://guide.netmarble.com/lineageII#cont/935
+4004,4,1,4003,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,910212,1,http://guide.netmarble.com/lineageII#cont/936
+4005,4,1,4004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,910218,3,http://guide.netmarble.com/lineageII#cont/937
+4006,4,1,4005,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910237,3,http://guide.netmarble.com/lineageII#cont/938
+4007,4,1,4006,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,910221,10,http://guide.netmarble.com/lineageII#cont/939
+4008,4,1,4007,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,490030,1,http://guide.netmarble.com/lineageII#cont/940
+4009,4,1,4008, 스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910219,3,http://guide.netmarble.com/lineageII#cont/941
+4010,4,1,4009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/942
+4011,4,1,4010,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,1,6,911151,1,http://guide.netmarble.com/lineageII#cont/943
+4012,4,1,4011,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490009,3,http://guide.netmarble.com/lineageII#cont/944
+4013,4,1,4012,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,1,2,,500,http://guide.netmarble.com/lineageII#cont/945
+4014,4,1,4013,아데나 던전,아데나 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),102,1,1,,200000,http://guide.netmarble.com/lineageII#cont/946
+4015,4,1,4014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,3,6,910213,1,http://guide.netmarble.com/lineageII#cont/947
+4016,4,1,4015,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,6,490009,3,http://guide.netmarble.com/lineageII#cont/948
+4017,4,1,4016,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,6,490030,1,http://guide.netmarble.com/lineageII#cont/949
+4018,4,1,4017,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,6,910205,1,http://guide.netmarble.com/lineageII#cont/950
+4019,4,1,4018,엘릭서 3회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,3,6,900008,2,http://guide.netmarble.com/lineageII#cont/951
+4020,4,1,4019,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,6,490009,3,http://guide.netmarble.com/lineageII#cont/952
+4021,4,1,4020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,911057,1,http://guide.netmarble.com/lineageII#cont/953
+5001,5,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/933
+5002,5,1,5001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/934
+5003,5,1,5002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,2,6,490009,3,http://guide.netmarble.com/lineageII#cont/935
+5004,5,1,5003,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,910212,1,http://guide.netmarble.com/lineageII#cont/936
+5005,5,1,5004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,910218,3,http://guide.netmarble.com/lineageII#cont/937
+5006,5,1,5005,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910237,3,http://guide.netmarble.com/lineageII#cont/938
+5007,5,1,5006,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,910221,10,http://guide.netmarble.com/lineageII#cont/939
+5008,5,1,5007,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,490030,1,http://guide.netmarble.com/lineageII#cont/940
+5009,5,1,5008, 스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910219,3,http://guide.netmarble.com/lineageII#cont/941
+5010,5,1,5009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/942
+5011,5,1,5010,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,1,6,911151,1,http://guide.netmarble.com/lineageII#cont/943
+5012,5,1,5011,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490009,3,http://guide.netmarble.com/lineageII#cont/944
+5013,5,1,5012,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,1,2,,500,http://guide.netmarble.com/lineageII#cont/945
+5014,5,1,5013,아데나 던전,아데나 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),102,1,1,,200000,http://guide.netmarble.com/lineageII#cont/946
+5015,5,1,5014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,3,6,910213,1,http://guide.netmarble.com/lineageII#cont/947
+5016,5,1,5015,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,6,490009,3,http://guide.netmarble.com/lineageII#cont/948
+5017,5,1,5016,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,6,490030,1,http://guide.netmarble.com/lineageII#cont/949
+5018,5,1,5017,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,6,910205,1,http://guide.netmarble.com/lineageII#cont/950
+5019,5,1,5018,엘릭서 3회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,3,6,900008,2,http://guide.netmarble.com/lineageII#cont/951
+5020,5,1,5019,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,6,490009,3,http://guide.netmarble.com/lineageII#cont/952
+5021,5,1,5020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,911057,1,http://guide.netmarble.com/lineageII#cont/953
+6001,6,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1099
+6002,6,1,6001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1100
+6003,6,1,6002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,2,6,490009,2,http://guide.netmarble.com/lineageII#cont/1101
+6004,6,1,6003,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,910212,1,http://guide.netmarble.com/lineageII#cont/1102
+6005,6,1,6004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,910218,3,http://guide.netmarble.com/lineageII#cont/1103
+6006,6,1,6005,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910237,3,http://guide.netmarble.com/lineageII#cont/1104
+6007,6,1,6006,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,910221,10,http://guide.netmarble.com/lineageII#cont/1105
+6008,6,1,6007,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,490030,1,http://guide.netmarble.com/lineageII#cont/1106
+6009,6,1,6008, 스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910219,2,http://guide.netmarble.com/lineageII#cont/1107
+6010,6,1,6009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/1108
+6011,6,1,6010,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,1,6,911151,1,http://guide.netmarble.com/lineageII#cont/1109
+6012,6,1,6011,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490009,2,http://guide.netmarble.com/lineageII#cont/1110
+6013,6,1,6012,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,1,2,,500,http://guide.netmarble.com/lineageII#cont/1111
+6014,6,1,6013,아데나 던전,아데나 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),102,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1112
+6015,6,1,6014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,3,6,910213,1,http://guide.netmarble.com/lineageII#cont/1113
+6016,6,1,6015,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,6,910004,2,http://guide.netmarble.com/lineageII#cont/1114
+6017,6,1,6016,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,6,490030,1,http://guide.netmarble.com/lineageII#cont/1115
+6018,6,1,6017,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,6,910205,1,http://guide.netmarble.com/lineageII#cont/1116
+6019,6,1,6018,엘릭서 3회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,3,6,900008,2,http://guide.netmarble.com/lineageII#cont/1117
+6020,6,1,6019,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,1,,100000,http://guide.netmarble.com/lineageII#cont/1118
+6021,6,1,6020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,911057,1,http://guide.netmarble.com/lineageII#cont/1119
+7001,7,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1036
+7002,7,1,7001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1037
+7003,7,1,7002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,5,http://guide.netmarble.com/lineageII#cont/1038
+7004,7,1,7003,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,919001,1,http://guide.netmarble.com/lineageII#cont/1039
+7005,7,1,7004,정예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,2,6,900012,5,http://guide.netmarble.com/lineageII#cont/1040
+7006,7,1,7005,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,7,1,,200000,http://guide.netmarble.com/lineageII#cont/1041
+7007,7,1,7006,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,910401,100,http://guide.netmarble.com/lineageII#cont/1042
+7008,7,1,7007, 몬스터 코어 등록,몬스터 코어 <RedBold>[Value]개</> 등록하기([Value1]/[Value2]),41,1,6,490009,5,http://guide.netmarble.com/lineageII#cont/1043
+7009,7,1,7008,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,919002,1,http://guide.netmarble.com/lineageII#cont/1044
+7010,7,1,7009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910237,3,http://guide.netmarble.com/lineageII#cont/1045
+7011,7,1,7010,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,910402,200,http://guide.netmarble.com/lineageII#cont/1046
+7012,7,1,7011,아데나 던전,아데나 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),102,1,6,919001,1,http://guide.netmarble.com/lineageII#cont/1047
+7013,7,1,7012,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,6,900012,5,http://guide.netmarble.com/lineageII#cont/1048
+7014,7,1,7013,엘릭서 4회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,4,6,910403,200,http://guide.netmarble.com/lineageII#cont/1049
+7015,7,1,7014,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1050
+7016,7,1,7015,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/1051
+7017,7,1,7016,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1052
+7018,7,1,7017, 스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910219,2,http://guide.netmarble.com/lineageII#cont/1053
+7019,7,1,7018,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,6,910404,200,http://guide.netmarble.com/lineageII#cont/1054
+7020,7,1,7019,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,490009,5,http://guide.netmarble.com/lineageII#cont/1055
+7021,7,1,7020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,910206,1,http://guide.netmarble.com/lineageII#cont/1056
+8001,8,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1036
+8002,8,1,8001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1037
+8003,8,1,8002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,5,http://guide.netmarble.com/lineageII#cont/1038
+8004,8,1,8003,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,919001,1,http://guide.netmarble.com/lineageII#cont/1039
+8005,8,1,8004,정예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,2,6,900012,5,http://guide.netmarble.com/lineageII#cont/1040
+8006,8,1,8005,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,7,1,,200000,http://guide.netmarble.com/lineageII#cont/1041
+8007,8,1,8006,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,910401,100,http://guide.netmarble.com/lineageII#cont/1042
+8008,8,1,8007, 몬스터 코어 등록,몬스터 코어 <RedBold>[Value]개</> 등록하기([Value1]/[Value2]),41,1,6,490009,5,http://guide.netmarble.com/lineageII#cont/1043
+8009,8,1,8008,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,919002,1,http://guide.netmarble.com/lineageII#cont/1044
+8010,8,1,8009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910237,3,http://guide.netmarble.com/lineageII#cont/1045
+8011,8,1,8010,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,910402,200,http://guide.netmarble.com/lineageII#cont/1046
+8012,8,1,8011,아데나 던전,아데나 던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),102,1,6,919001,1,http://guide.netmarble.com/lineageII#cont/1047
+8013,8,1,8012,채집 던전,채집 던전에서 약초 <RedBold>[Value2]회</> 채집하기 ([Value1]/[Value2]),97,30,6,900012,5,http://guide.netmarble.com/lineageII#cont/1048
+8014,8,1,8013,엘릭서 4회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,4,6,910403,200,http://guide.netmarble.com/lineageII#cont/1049
+8015,8,1,8014,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1050
+8016,8,1,8015,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/1051
+8017,8,1,8016,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1052
+8018,8,1,8017, 스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910219,2,http://guide.netmarble.com/lineageII#cont/1053
+8019,8,1,8018,장비 합성,장비 합성 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),58,2,6,910404,200,http://guide.netmarble.com/lineageII#cont/1054
+8020,8,1,8019,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,490009,5,http://guide.netmarble.com/lineageII#cont/1055
+8021,8,1,8020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,910206,1,http://guide.netmarble.com/lineageII#cont/1056
+9001,9,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1120
+9002,9,1,9001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1121
+9003,9,1,9002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,2,http://guide.netmarble.com/lineageII#cont/1122
+9004,9,1,9003,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,919001,1,http://guide.netmarble.com/lineageII#cont/1123
+9005,9,1,9004,정예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,2,6,900012,5,http://guide.netmarble.com/lineageII#cont/1124
+9006,9,1,9005,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,7,1,,200000,http://guide.netmarble.com/lineageII#cont/1125
+9007,9,1,9006,오만의 탑 소탕,오만의 탑 <RedBold>[Value]회</> 소탕하기 ([Value1]/[Value2]),93,1,6,910401,100,http://guide.netmarble.com/lineageII#cont/1126
+9008,9,1,9007, 몬스터 코어 등록,몬스터 코어 <RedBold>[Value]개</> 등록하기([Value1]/[Value2]),41,10,6,910004,2,http://guide.netmarble.com/lineageII#cont/1127
+9009,9,1,9008,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,1,6,490009,2,http://guide.netmarble.com/lineageII#cont/1128
+9010,9,1,9009,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,900012,5,http://guide.netmarble.com/lineageII#cont/1129
+9011,9,1,9010,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,910402,250,http://guide.netmarble.com/lineageII#cont/1130
+9012,9,1,9011,정예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,2,6,919001,1,http://guide.netmarble.com/lineageII#cont/1131
+9013,9,1,9012,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,900012,5,http://guide.netmarble.com/lineageII#cont/1132
+9014,9,1,9013,필드 보스 몬스터 처치,필드 보스 몬스터 <Redbold>[Value]개</> 처치하기([Value1]/[Value2]),80,1,6,910403,250,http://guide.netmarble.com/lineageII#cont/1133
+9015,9,1,9014,몬스터 코어 레벨업,몬스터 코어 <RedBold>2레벨 이상</> 달성하기([Value1]/[Value2]),241,2,6,910206,1,http://guide.netmarble.com/lineageII#cont/1134
+9016,9,1,9015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1135
+9017,9,1,9016,몬스터 코어 5개 획득,몬스터 코어 <RedBold>[Value]개</> 획득하기([Value1]/[Value2]),50,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1136
+9018,9,1,9017,스킬 레벨업,스킬 레벨업 <RedBold>[Value]회</> 진행하기 ([Value1]/[Value2]),240,1,6,910221,10,http://guide.netmarble.com/lineageII#cont/1137
+9019,9,1,9018,몬스터 코어 등록,몬스터 코어 <RedBold>[Value]개</> 등록하기([Value1]/[Value2]),41,10,6,910404,250,http://guide.netmarble.com/lineageII#cont/1138
+9020,9,1,9019,집혼석 승급,집혼석 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),242,1,6,910237,3,http://guide.netmarble.com/lineageII#cont/1139
+9021,9,1,9020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,911064,1,http://guide.netmarble.com/lineageII#cont/1140
+10001,10,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1057
+10002,10,1,10001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1058
+10003,10,1,10002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,5,http://guide.netmarble.com/lineageII#cont/1059
+10004,10,1,10003,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,2,6,911003,3,http://guide.netmarble.com/lineageII#cont/1060
+10005,10,1,10004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,911009,3,http://guide.netmarble.com/lineageII#cont/1061
+10006,10,1,10005,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,5,6,919001,1,http://guide.netmarble.com/lineageII#cont/1062
+10007,10,1,10006,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,490009,5,http://guide.netmarble.com/lineageII#cont/1063
+10008,10,1,10007,피의 증거 200개 획득,피의 증거 <RedBold>[Value]개</> 획득하기([Value1]/[Value2]),50,200,6,900012,5,http://guide.netmarble.com/lineageII#cont/1064
+10009,10,1,10008,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,481018,2,http://guide.netmarble.com/lineageII#cont/1065
+10010,10,1,10009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/1066
+10011,10,1,10010,엘릭서 4회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,4,6,911003,3,http://guide.netmarble.com/lineageII#cont/1067
+10012,10,1,10011,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,10,6,910237,3,http://guide.netmarble.com/lineageII#cont/1068
+10013,10,1,10012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,1,,300000,http://guide.netmarble.com/lineageII#cont/1069
+10014,10,1,10013,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,410004,5,http://guide.netmarble.com/lineageII#cont/1070
+10015,10,1,10014,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,2,6,490009,5,http://guide.netmarble.com/lineageII#cont/1071
+10016,10,1,10015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1072
+10017,10,1,10016,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,4,6,911008,2,http://guide.netmarble.com/lineageII#cont/1073
+10018,10,1,10017,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,20,6,910206,1,http://guide.netmarble.com/lineageII#cont/1074
+10019,10,1,10018,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,481017,2,http://guide.netmarble.com/lineageII#cont/1075
+10020,10,1,10019,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1076
+10021,10,1,10020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,919002,1,http://guide.netmarble.com/lineageII#cont/1077
+11001,11,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1057
+11002,11,1,11001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1058
+11003,11,1,11002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,5,http://guide.netmarble.com/lineageII#cont/1059
+11004,11,1,11003,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,2,6,911003,3,http://guide.netmarble.com/lineageII#cont/1060
+11005,11,1,11004,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,2,6,911009,3,http://guide.netmarble.com/lineageII#cont/1061
+11006,11,1,11005,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,5,6,919001,1,http://guide.netmarble.com/lineageII#cont/1062
+11007,11,1,11006,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,490009,5,http://guide.netmarble.com/lineageII#cont/1063
+11008,11,1,11007,피의 증거 200개 획득,피의 증거 <RedBold>[Value]개</> 획득하기([Value1]/[Value2]),50,200,6,900012,5,http://guide.netmarble.com/lineageII#cont/1064
+11009,11,1,11008,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,481018,2,http://guide.netmarble.com/lineageII#cont/1065
+11010,11,1,11009,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,910221,10,http://guide.netmarble.com/lineageII#cont/1066
+11011,11,1,11010,엘릭서 4회 제작,엘릭서 <RedBold>[Value]회</> 제작하기([Value1]/[Value2]),52,4,6,911003,3,http://guide.netmarble.com/lineageII#cont/1067
+11012,11,1,11011,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,10,6,910237,3,http://guide.netmarble.com/lineageII#cont/1068
+11013,11,1,11012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,1,,300000,http://guide.netmarble.com/lineageII#cont/1069
+11014,11,1,11013,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,410004,5,http://guide.netmarble.com/lineageII#cont/1070
+11015,11,1,11014,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,2,6,490009,5,http://guide.netmarble.com/lineageII#cont/1071
+11016,11,1,11015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1072
+11017,11,1,11016,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,4,6,911008,2,http://guide.netmarble.com/lineageII#cont/1073
+11018,11,1,11017,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,20,6,910206,1,http://guide.netmarble.com/lineageII#cont/1074
+11019,11,1,11018,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,481017,2,http://guide.netmarble.com/lineageII#cont/1075
+11020,11,1,11019,룬 각인,룬 각인 <RedBold>[Value]회</> 각인 시도하기 ([Value1]/[Value2]),20,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1076
+11021,11,1,11020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,919002,1,http://guide.netmarble.com/lineageII#cont/1077
+12001,12,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1141
+12002,12,1,12001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1142
+12003,12,1,12002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,2,http://guide.netmarble.com/lineageII#cont/1143
+12004,12,1,12003,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,2,6,911003,3,http://guide.netmarble.com/lineageII#cont/1144
+12005,12,1,12004,탑승펫 장비 획득,C등급 이상 탑승펫 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),195,5,6,911009,3,http://guide.netmarble.com/lineageII#cont/1145
+12006,12,1,12005,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,5,6,490030,2,http://guide.netmarble.com/lineageII#cont/1146
+12007,12,1,12006,장예 던전,정예 던전 퀘스트 <RedBold>[Value]개</> 완료하기 ([Value1]/[Value2]),100,1,6,900012,5,http://guide.netmarble.com/lineageII#cont/1147
+12008,12,1,12007,피의 증거 200개 획득,피의 증거 <RedBold>[Value]개</> 획득하기([Value1]/[Value2]),50,200,6,919001,1,http://guide.netmarble.com/lineageII#cont/1148
+12009,12,1,12008,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,7,6,481018,2,http://guide.netmarble.com/lineageII#cont/1149
+12010,12,1,12009,탑승펫 장비 획득,B등급 이상 탑승펫 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),195,3,6,910221,10,http://guide.netmarble.com/lineageII#cont/1150
+12011,12,1,12010,붉은 스타 스톤 30개 획득,붉은 스타 스톤 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,30,6,910206,1,http://guide.netmarble.com/lineageII#cont/1151
+12012,12,1,12011,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,10,6,910004,2,http://guide.netmarble.com/lineageII#cont/1152
+12013,12,1,12012,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,2,6,481017,1,http://guide.netmarble.com/lineageII#cont/1153
+12014,12,1,12013,탑승펫 장비 레벨업,탑승펫 <RedBold>장비 레벨업 [Value]회</> 시도하기 ([Value1]/[Value2]),190,10,6,410004,5,http://guide.netmarble.com/lineageII#cont/1154
+12015,12,1,12014,탑승펫 장비 강화,탑승펫 장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),191,2,6,490009,2,http://guide.netmarble.com/lineageII#cont/1155
+12016,12,1,12015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1156
+12017,12,1,12016,소환석 던전 클리어,소환석 던전 <RedBold>[Value]회</> 입장하기 ([Value1]/[Value2]),109,4,6,911008,3,http://guide.netmarble.com/lineageII#cont/1157
+12018,12,1,12017,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,20,6,910237,3,http://guide.netmarble.com/lineageII#cont/1158
+12019,12,1,12018,집혼석 레벨업,집혼석 레벨업에 재료 <RedBold>[Value]개</> 사용 하기([Value1]/[Value2]),63,10,6,481017,2,http://guide.netmarble.com/lineageII#cont/1159
+12020,12,1,12019,육성석 사용,탑승펫에게 육성석 <RedBold>[Value]회</> 사용하기 ([Value1]/[Value2]),193,10,1,,300000,http://guide.netmarble.com/lineageII#cont/1160
+12021,12,1,12020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,1,6,911064,1,http://guide.netmarble.com/lineageII#cont/1161
+13001,13,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1078
+13002,13,1,13001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1079
+13003,13,1,13002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,2,http://guide.netmarble.com/lineageII#cont/1080
+13004,13,1,13003,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911033,1,http://guide.netmarble.com/lineageII#cont/1081
+13005,13,1,13004,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1082
+13006,13,1,13005,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,911141,2,http://guide.netmarble.com/lineageII#cont/1083
+13007,13,1,13006,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,3,1,,300000,http://guide.netmarble.com/lineageII#cont/1084
+13008,13,1,13007,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,100,6,911021,1,http://guide.netmarble.com/lineageII#cont/1085
+13009,13,1,13008,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,3,6,911031,5,http://guide.netmarble.com/lineageII#cont/1086
+13010,13,1,13009,월드보스 죽음의 기요틴 1회 처치,월드보스 죽음의 기요틴 <RedBold>[Value]회</> 처치하기([Value1]/[Value2]),83,1,6,510103,5,http://guide.netmarble.com/lineageII#cont/1087
+13011,13,1,13010,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911151,1,http://guide.netmarble.com/lineageII#cont/1088
+13012,13,1,13011,명예의 전장,명예의 전장 <RedBold>[Value]회</> 참여하기([Value1]/[Value2]),243,3,6,910237,3,http://guide.netmarble.com/lineageII#cont/1089
+13013,13,1,13012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1090
+13014,13,1,13013,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490030,3,http://guide.netmarble.com/lineageII#cont/1091
+13015,13,1,13014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,4,6,911031,5,http://guide.netmarble.com/lineageII#cont/1092
+13016,13,1,13015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1093
+13017,13,1,13016,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,500,6,510103,5,http://guide.netmarble.com/lineageII#cont/1094
+13018,13,1,13017,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911021,1,http://guide.netmarble.com/lineageII#cont/1095
+13019,13,1,13018,레시피 획득,레시피 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,3,6,911013,1,http://guide.netmarble.com/lineageII#cont/1096
+13020,13,1,13019,에피소드 완료,에피소드 <RedBold>15-1</> 클리어하기,90,1,6,490009,2,http://guide.netmarble.com/lineageII#cont/1097
+13021,13,1,13020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,2,6,490038,1,http://guide.netmarble.com/lineageII#cont/1098
+14001,14,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1078
+14002,14,1,14001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1079
+14003,14,1,14002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,2,http://guide.netmarble.com/lineageII#cont/1080
+14004,14,1,14003,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911033,1,http://guide.netmarble.com/lineageII#cont/1081
+14005,14,1,14004,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1082
+14006,14,1,14005,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,911141,2,http://guide.netmarble.com/lineageII#cont/1083
+14007,14,1,14006,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,3,1,,300000,http://guide.netmarble.com/lineageII#cont/1084
+14008,14,1,14007,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,100,6,911021,1,http://guide.netmarble.com/lineageII#cont/1085
+14009,14,1,14008,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,3,6,911031,5,http://guide.netmarble.com/lineageII#cont/1086
+14010,14,1,14009,월드보스 죽음의 기요틴 1회 처치,월드보스 죽음의 기요틴 <RedBold>[Value]회</> 처치하기([Value1]/[Value2]),83,1,6,510103,5,http://guide.netmarble.com/lineageII#cont/1087
+14011,14,1,14010,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911151,1,http://guide.netmarble.com/lineageII#cont/1088
+14012,14,1,14011,명예의 전장,명예의 전장 <RedBold>[Value]회</> 참여하기([Value1]/[Value2]),243,3,6,910237,3,http://guide.netmarble.com/lineageII#cont/1089
+14013,14,1,14012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1090
+14014,14,1,14013,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490030,3,http://guide.netmarble.com/lineageII#cont/1091
+14015,14,1,14014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,4,6,911031,5,http://guide.netmarble.com/lineageII#cont/1092
+14016,14,1,14015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1093
+14017,14,1,14016,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,500,6,510103,5,http://guide.netmarble.com/lineageII#cont/1094
+14018,14,1,14017,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911021,1,http://guide.netmarble.com/lineageII#cont/1095
+14019,14,1,14018,레시피 획득,레시피 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,3,6,911013,1,http://guide.netmarble.com/lineageII#cont/1096
+14020,14,1,14019,에피소드 완료,에피소드 <RedBold>15-1</> 클리어하기,90,1,6,490009,2,http://guide.netmarble.com/lineageII#cont/1097
+14021,14,1,14020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,2,6,490038,1,http://guide.netmarble.com/lineageII#cont/1098
+15001,15,1,,일일임무,일일 퀘스트 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),130,3,2,,300,http://guide.netmarble.com/lineageII#cont/1167
+15002,15,1,15001,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,1,,200000,http://guide.netmarble.com/lineageII#cont/1168
+15003,15,1,15002,주간퀘스트 완료,주간퀘스트 <RedBold>[Value]번</> 클리어하기([Value1]/[Value2]),131,3,6,490009,2,http://guide.netmarble.com/lineageII#cont/1169
+15004,15,1,15003,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911033,1,http://guide.netmarble.com/lineageII#cont/1170
+15005,15,1,15004,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1171
+15006,15,1,15005,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,911141,2,http://guide.netmarble.com/lineageII#cont/1172
+15007,15,1,15006,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,3,1,,300000,http://guide.netmarble.com/lineageII#cont/1173
+15008,15,1,15007,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,100,6,911021,1,http://guide.netmarble.com/lineageII#cont/1174
+15009,15,1,15008,빛나는 승급석 획득,빛나는 승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,3,6,911031,5,http://guide.netmarble.com/lineageII#cont/1175
+15010,15,1,15009,월드보스 죽음의 기요틴 1회 처치,월드보스 죽음의 기요틴 <RedBold>[Value]회</> 처치하기([Value1]/[Value2]),83,1,6,510103,5,http://guide.netmarble.com/lineageII#cont/1176
+15011,15,1,15010,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911151,1,http://guide.netmarble.com/lineageII#cont/1177
+15012,15,1,15011,명예의 전장,명예의 전장 <RedBold>[Value]회</> 참여하기([Value1]/[Value2]),243,3,6,910237,3,http://guide.netmarble.com/lineageII#cont/1178
+15013,15,1,15012,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,2,6,910004,2,http://guide.netmarble.com/lineageII#cont/1179
+15014,15,1,15013,결투장,결투장 <RedBold>[Value]회</> 도전하기 ([Value1]/[Value2]),141,5,6,490030,3,http://guide.netmarble.com/lineageII#cont/1180
+15015,15,1,15014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 완료하기 ([Value1]/[Value2]),101,4,6,911031,5,http://guide.netmarble.com/lineageII#cont/1181
+15016,15,1,15015,혈맹 기부,혈맹에 <RedBold>[Value]회</> 기부하기 ([Value1]/[Value2]),163,2,2,,500,http://guide.netmarble.com/lineageII#cont/1182
+15017,15,1,15016,결정체 획득,결정체 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,500,6,510103,5,http://guide.netmarble.com/lineageII#cont/1183
+15018,15,1,15017,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,3,6,911021,1,http://guide.netmarble.com/lineageII#cont/1184
+15019,15,1,15018,레시피 획득,레시피 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,3,6,911013,1,http://guide.netmarble.com/lineageII#cont/1185
+15020,15,1,15019,에피소드 완료,에피소드 <RedBold>15-1</> 클리어하기,90,1,6,490009,2,http://guide.netmarble.com/lineageII#cont/1186
+15021,15,1,15020,혈맹던전,혈맹던전 <RedBold>[Value]회</> 완료하기([Value1]/[Value2]),116,2,6,490038,1,http://guide.netmarble.com/lineageII#cont/1187
+16001,16,1,,레벨 달성,레벨 <RedBold>10</> 달성하기 ([Value1]/[Value2]),12,10,1,,100000,http://guide.netmarble.com/lineageII#cont/1216
+16002,16,1,16001,레벨 달성,레벨 <RedBold>20</> 달성하기 ([Value1]/[Value2]),12,20,2,,1000,http://guide.netmarble.com/lineageII#cont/1217
+16003,16,1,16002, 전직 완료,<RedBold>전직 완료</> 하기,15,1,6,911084,1,http://guide.netmarble.com/lineageII#cont/1218
+16004,16,1,16003,레벨 달성,레벨 <RedBold>35</> 달성하기 ([Value1]/[Value2]),12,35,6,910004,5,http://guide.netmarble.com/lineageII#cont/1219
+16005,16,1,16004,레벨 달성,레벨 <RedBold>40</> 달성하기 ([Value1]/[Value2]),12,40,1,,100000,http://guide.netmarble.com/lineageII#cont/1220
+16006,16,1,16005,레벨 달성,레벨 <RedBold>45</> 달성하기 ([Value1]/[Value2]),12,45,6,910221,10,http://guide.netmarble.com/lineageII#cont/1221
+16007,16,1,16006,레벨 달성,레벨 <RedBold>50</> 달성하기 ([Value1]/[Value2]),12,50,6,910237,3,http://guide.netmarble.com/lineageII#cont/1222
+16008,16,1,16007,레벨 달성,레벨 <RedBold>55</> 달성하기 ([Value1]/[Value2]),12,55,1,,100000,http://guide.netmarble.com/lineageII#cont/1223
+16009,16,1,16008,레벨 달성,레벨 <RedBold>60</> 달성하기 ([Value1]/[Value2]),12,60,6,911042,1,http://guide.netmarble.com/lineageII#cont/1224
+16010,16,1,16009,레벨 달성,레벨 <RedBold>65</> 달성하기 ([Value1]/[Value2]),12,65,6,919001,1,http://guide.netmarble.com/lineageII#cont/1225
+16011,16,1,16010,레벨 달성,레벨 <RedBold>70</> 달성하기 ([Value1]/[Value2]),12,70,6,400000,1,http://guide.netmarble.com/lineageII#cont/1226
+16012,16,1,16011,레벨 달성,레벨 <RedBold>75</> 달성하기 ([Value1]/[Value2]),12,75,1,,100000,http://guide.netmarble.com/lineageII#cont/1227
+16013,16,1,16012,레벨 달성,레벨 <RedBold>80</> 달성하기 ([Value1]/[Value2]),12,80,2,,1000,http://guide.netmarble.com/lineageII#cont/1228
+16014,16,1,16013,레벨 달성,레벨 <RedBold>85</> 달성하기 ([Value1]/[Value2]),12,85,6,910213,1,http://guide.netmarble.com/lineageII#cont/1229
+16015,16,1,16014,레벨 달성,레벨 <RedBold>90</> 달성하기 ([Value1]/[Value2]),12,90,6,910206,1,http://guide.netmarble.com/lineageII#cont/1230
+16016,16,1,16015,레벨 달성,레벨 <RedBold>100</> 달성하기 ([Value1]/[Value2]),12,100,6,919005,1,http://guide.netmarble.com/lineageII#cont/1231
+16017,16,1,16016,레벨 달성,레벨 <RedBold>110</> 달성하기 ([Value1]/[Value2]),12,110,1,,100000,http://guide.netmarble.com/lineageII#cont/1232
+16018,16,1,16017,레벨 달성,레벨 <RedBold>120</> 달성하기 ([Value1]/[Value2]),12,120,6,461014,1,http://guide.netmarble.com/lineageII#cont/1233
+16019,16,1,16018,레벨 달성,레벨 <RedBold>130</> 달성하기 ([Value1]/[Value2]),12,130,6,400000,1,http://guide.netmarble.com/lineageII#cont/1234
+16020,16,1,16019,레벨 달성,레벨 <RedBold>140</> 달성하기 ([Value1]/[Value2]),12,140,6,910237,3,http://guide.netmarble.com/lineageII#cont/1235
+16021,16,1,16020,레벨 달성,레벨 <RedBold>150</> 달성하기 ([Value1]/[Value2]),12,150,2,,3000,http://guide.netmarble.com/lineageII#cont/1236
+17001,17,1,,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,1,6,910219,1,http://guide.netmarble.com/lineageII#cont/1590
+17002,17,1,17001,장비 획득,A등급 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),51,3,6,493009,1,http://guide.netmarble.com/lineageII#cont/1591
+17003,17,1,17002,장비 레벨업,장비 레벨업 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),57,5,6,493013,1,http://guide.netmarble.com/lineageII#cont/1592
+17004,17,1,17003,강화 주문서 획득,강화 주문서 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,5,6,493017,1,http://guide.netmarble.com/lineageII#cont/1593
+17005,17,1,17004,장비 강화,장비 <RedBold>[Value]회</> 강화하기 ([Value1]/[Value2]),53,3,6,493001,1,http://guide.netmarble.com/lineageII#cont/1594
+17006,17,1,17005,장비 특성 강화,장비 특성 강화 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),62,1,6,493025,1,http://guide.netmarble.com/lineageII#cont/1595
+17007,17,1,17006,승급석 획득,승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,20,6,493029,1,http://guide.netmarble.com/lineageII#cont/1596
+17008,17,1,17007,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,5,6,493005,1,http://guide.netmarble.com/lineageII#cont/1597
+17009,17,1,17008,장비 특성 강화,장비 특성 강화 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),62,3,6,490037,1,http://guide.netmarble.com/lineageII#cont/1598
+17010,17,1,17009,장비던전 클리어,장비던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),101,3,6,910219,3,http://guide.netmarble.com/lineageII#cont/1599
+17011,17,1,17010,장비 획득,S등급 장비 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),51,3,6,911041,1,http://guide.netmarble.com/lineageII#cont/1600
+17012,17,1,17011,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,7,6,493010,1,http://guide.netmarble.com/lineageII#cont/1601
+17013,17,1,17012,장비 특성 강화,장비 특성 강화 <RedBold>[Value]회</> 시도하기 ([Value1]/[Value2]),62,5,6,493014,1,http://guide.netmarble.com/lineageII#cont/1602
+17014,17,1,17013,요일던전 클리어,요일던전 <RedBold>[Value]번</> 클리어하기 ([Value1]/[Value2]),95,4,6,493018,1,http://guide.netmarble.com/lineageII#cont/1603
+17015,17,1,17014,장비던전 클리어,장비던전 <RedBold>[Value]회</> 클리어하기 ([Value1]/[Value2]),101,5,6,493002,1,http://guide.netmarble.com/lineageII#cont/1604
+17016,17,1,17015,특성 강화 성공,장비 특성 강화 <RedBold>[Value]회</> 성공하기 ([Value1]/[Value2]),79,1,6,493026,1,http://guide.netmarble.com/lineageII#cont/1605
+17017,17,1,17016,장비 분해,장비 <RedBold>[Value]회</> 분해하기 ([Value1]/[Value2]),71,10,6,493030,1,http://guide.netmarble.com/lineageII#cont/1606
+17018,17,1,17017,승급석 획득,승급석 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),72,30,6,493006,1,http://guide.netmarble.com/lineageII#cont/1607
+17019,17,1,17018,특성 강화 성공,장비 특성 강화 <RedBold>[Value]회</> 성공하기 ([Value1]/[Value2]),79,3,6,490037,1,http://guide.netmarble.com/lineageII#cont/1608
+17020,17,1,17019,장비 승급,장비 승급 <RedBold>[Value]회</> 시도하기([Value1]/[Value2]),61,10,6,911041,3,http://guide.netmarble.com/lineageII#cont/1609
+17021,17,1,17020,특성 강화 성공,장비 특성 강화 <RedBold>[Value]회</> 성공하기 ([Value1]/[Value2]),79,5,6,490077,1,http://guide.netmarble.com/lineageII#cont/1610
+18001,18,1,,레벨 달성,레벨 <RedBold>10</> 달성하기 ([Value1]/[Value2]),12,10,1,,100000,http://guide.netmarble.com/lineageII#cont/1216
+18002,18,1,18001,레벨 달성,레벨 <RedBold>20</> 달성하기 ([Value1]/[Value2]),12,20,2,,1000,http://guide.netmarble.com/lineageII#cont/1217
+18003,18,1,18002, 전직 완료,<RedBold>전직 완료</> 하기,15,1,6,911084,1,http://guide.netmarble.com/lineageII#cont/1218
+18004,18,1,18003,레벨 달성,레벨 <RedBold>35</> 달성하기 ([Value1]/[Value2]),12,35,6,910004,5,http://guide.netmarble.com/lineageII#cont/1219
+18005,18,1,18004,레벨 달성,레벨 <RedBold>40</> 달성하기 ([Value1]/[Value2]),12,40,1,,100000,http://guide.netmarble.com/lineageII#cont/1220
+18006,18,1,18005,레벨 달성,레벨 <RedBold>45</> 달성하기 ([Value1]/[Value2]),12,45,6,910221,10,http://guide.netmarble.com/lineageII#cont/1221
+18007,18,1,18006,레벨 달성,레벨 <RedBold>50</> 달성하기 ([Value1]/[Value2]),12,50,6,910237,3,http://guide.netmarble.com/lineageII#cont/1222
+18008,18,1,18007,레벨 달성,레벨 <RedBold>55</> 달성하기 ([Value1]/[Value2]),12,55,1,,100000,http://guide.netmarble.com/lineageII#cont/1223
+18009,18,1,18008,레벨 달성,레벨 <RedBold>60</> 달성하기 ([Value1]/[Value2]),12,60,6,911042,1,http://guide.netmarble.com/lineageII#cont/1224
+18010,18,1,18009,레벨 달성,레벨 <RedBold>65</> 달성하기 ([Value1]/[Value2]),12,65,6,919001,1,http://guide.netmarble.com/lineageII#cont/1225
+18011,18,1,18010,레벨 달성,레벨 <RedBold>70</> 달성하기 ([Value1]/[Value2]),12,70,6,400000,1,http://guide.netmarble.com/lineageII#cont/1226
+18012,18,1,18011,레벨 달성,레벨 <RedBold>75</> 달성하기 ([Value1]/[Value2]),12,75,1,,100000,http://guide.netmarble.com/lineageII#cont/1227
+18013,18,1,18012,레벨 달성,레벨 <RedBold>80</> 달성하기 ([Value1]/[Value2]),12,80,2,,1000,http://guide.netmarble.com/lineageII#cont/1228
+18014,18,1,18013,레벨 달성,레벨 <RedBold>85</> 달성하기 ([Value1]/[Value2]),12,85,6,910213,1,http://guide.netmarble.com/lineageII#cont/1229
+18015,18,1,18014,레벨 달성,레벨 <RedBold>90</> 달성하기 ([Value1]/[Value2]),12,90,6,910206,1,http://guide.netmarble.com/lineageII#cont/1230
+18016,18,1,18015,레벨 달성,레벨 <RedBold>100</> 달성하기 ([Value1]/[Value2]),12,100,6,919005,1,http://guide.netmarble.com/lineageII#cont/1231
+18017,18,1,18016,레벨 달성,레벨 <RedBold>110</> 달성하기 ([Value1]/[Value2]),12,110,1,,100000,http://guide.netmarble.com/lineageII#cont/1232
+18018,18,1,18017,레벨 달성,레벨 <RedBold>120</> 달성하기 ([Value1]/[Value2]),12,120,6,461014,1,http://guide.netmarble.com/lineageII#cont/1233
+18019,18,1,18018,레벨 달성,레벨 <RedBold>130</> 달성하기 ([Value1]/[Value2]),12,130,6,400000,1,http://guide.netmarble.com/lineageII#cont/1234
+18020,18,1,18019,레벨 달성,레벨 <RedBold>140</> 달성하기 ([Value1]/[Value2]),12,140,6,910237,3,http://guide.netmarble.com/lineageII#cont/1235
+18021,18,1,18020,레벨 달성,레벨 <RedBold>150</> 달성하기 ([Value1]/[Value2]),12,150,2,,3000,http://guide.netmarble.com/lineageII#cont/1236
+19001,19,1,,2차 전직,<RedBold>2차 전직</> 완료하기,15,2,6,1111111,5000,http://guide.netmarble.com/lineageII#cont/1928
+19002,19,1,19001,탈리스만 획득,탈리스만 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),50,30,6,489101,5,http://guide.netmarble.com/lineageII#cont/1929
+19003,19,1,19002,탈리스만 등록,도감에 탈리스만 <RedBold>[Value]개</> 등록하기 ([Value1]/[Value2]),255,30,6,489104,5,http://guide.netmarble.com/lineageII#cont/1930
+19004,19,1,19003,탈리스만 구매,코어상점에서 탈리스만 <RedBold>[Value]개</> 구매하기 ([Value1]/[Value2]),255,3,6,919289,5,http://guide.netmarble.com/lineageII#cont/1931
+19005,19,1,19004,특성 탈리스만 획득,특성 탈리스만 <RedBold>10개</> 획득하기 ([Value1]/[Value2]),72,10,6,919285,5,http://guide.netmarble.com/lineageII#cont/1932
+19006,19,1,19005,탈리스만 장착,탈리스만 <RedBold>[Value]개</> 장착하기 ([Value1]/[Value2]),255,3,6,489102,5,http://guide.netmarble.com/lineageII#cont/1933
+19007,19,1,19006,탈리스만 분해,탈리스만 <RedBold>[Value]개</> 분해하기 ([Value1]/[Value2]),71,30,6,489103,5,http://guide.netmarble.com/lineageII#cont/1934
+19008,19,1,19007,탈리스만 장착,탈리스만 <RedBold>[Value]개</> 장착하기 ([Value1]/[Value2]),255,4,6,919240,10,http://guide.netmarble.com/lineageII#cont/1935
+19009,19,1,19008,탈리스만 조합,조합을 이용해 탈리스만의 상자 <RedBold>[Value]개</> 획득하기 ([Value1]/[Value2]),255,10,6,489101,10,http://guide.netmarble.com/lineageII#cont/1936
+19010,19,1,19009,일반 조합식 획득,조합식 도감의 일반 등급 조합식 <RedBold>[Value]개</> 습득하기 ([Value1]/[Value2]),255,1,6,919283,3,http://guide.netmarble.com/lineageII#cont/1937
+19011,19,1,19010,조합효과 적용,<RedBold>[Value]개</>의 조합효과 적용받기 ([Value1]/[Value2]),255,1,6,489102,10,http://guide.netmarble.com/lineageII#cont/1938
+19012,19,1,19011,탈리스만 장착,탈리스만 <RedBold>[Value]개</> 장착하기 ([Value1]/[Value2]),255,5,6,919288,5,http://guide.netmarble.com/lineageII#cont/1939
+19013,19,1,19012,일반 도감 오픈,일반도감 <RedBold>3개를</> 1레벨 달성하기 ([Value1]/[Value2]),255,3,6,489104,10,http://guide.netmarble.com/lineageII#cont/1940
+19014,19,1,19013,고급 조합식 획득,조합식 도감의 고급 등급 조합식 <RedBold>[Value]개</> 습득하기 ([Value1]/[Value2]),255,1,6,919291,5,http://guide.netmarble.com/lineageII#cont/1941
+19015,19,1,19014,조합식 도감 레벨업,조합식 도감 <RedBold>2레벨</> 달성하기,255,1,6,1111111,5000,http://guide.netmarble.com/lineageII#cont/1942
+19016,19,1,19015,탈리스만 장착,탈리스만 <RedBold>[Value]개</> 장착하기 ([Value1]/[Value2]),255,6,6,919284,2,http://guide.netmarble.com/lineageII#cont/1943
+19017,19,1,19016,조합효과 적용,<RedBold>[Value]개</>의 조합효과를 동시에 적용받기 ([Value1]/[Value2]),255,2,6,489103,10,http://guide.netmarble.com/lineageII#cont/1944
+19018,19,1,19017,탈리스만 구매,명예의 주화 교환소에서 탈리스만 소환상자 <RedBold>[Value]개</> 구매하기 ([Value1]/[Value2]),255,3,6,919290,3,http://guide.netmarble.com/lineageII#cont/1945
+19019,19,1,19018,일반도감 완성,일반도감 1개를 <RedBold>5레벨</> 달성하기,255,1,6,1000203,3,http://guide.netmarble.com/lineageII#cont/1946
+19020,19,1,19019,탈리스만 장착,탈리스만 <RedBold>[Value]개</> 장착하기 ([Value1]/[Value2]),255,7,6,919286,3,http://guide.netmarble.com/lineageII#cont/1947
+19021,19,1,19020,조합효과 적용,<RedBold>[Value]개</>의 조합효과를 동시에 적용받기 ([Value1]/[Value2]),255,3,6,919287,3,http://guide.netmarble.com/lineageII#cont/1950

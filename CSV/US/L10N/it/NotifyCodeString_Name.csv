@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] si è unito al clan.
+2,[Param1] ha abbandonato il clan.
+3,La posiz. di [Param1]è diventata [Param2]{[Param2]|}.
+4,[Param1] è stato eletto nuovo leader del clan.
+5,Il livello del clan ha raggiunto [Param1]{[Param1]}.
+6,Ha formato un’alleanza con [Param1].
+7,L’alleanza con [Param1] è finita.
+8,[Param1] ha dato una ricompensa a [Param2].
+9,[Param1] ha dato ricompense al clan intero.
+10,È riuscito a conquistare [Param1].
+11,Rinnova il prezzo di offerta di [Param1]!
+12,Il prezzo d'offerta di [Param1] è stato esteso.
+13,Il QG d’Assedio di [Param1]è sotto attacco.
+14,Il QG dell’Assedio di [Param1]è distrutto.
+15,Buono Fest. scade prima dell'Assedio.
+16,[Time] [Param1] ha effettuato l’accesso.
+17,[Param1] è il nuovo Leader per assenza del capo.
+18,Il prossimo buff comparirà tra [Param1] sec.
+19,[Param1] ha sconfitto [Param2].
+20,La Squadra Blu ha acquisito [Param1]{[Param1]}.
+21,La Squadra Rossa ha acquisito [Param1]{[Param1]}.
+22,[Param1] ha raggiunto [Param2] uccisioni consecutive!
+23,[Param2] di [Param1] ha raggiunto [Param3] uccisioni!
+24,Campo di Batt. d’Onore aperto. Entra!
+25,Campo di Batt. d’Onore apre tra [Param1] min.
+26,Campo di Batt. Valoroso aperto. Entra!
+27,Campo di Batt. Valoroso apre tra [Param1] min.
+28,"[Param1] ha premiato [Param3], compreso [Param2]."

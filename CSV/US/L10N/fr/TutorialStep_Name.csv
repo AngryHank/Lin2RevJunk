@@ -1,0 +1,578 @@
+Id,NpcName,DialogMessage
+1001,,
+1002,,
+2001,,
+2002,,
+3001,,
+3002,"Psyché, gestionnaire du port","Bienvenue. Est-ce votre première visite de l'Île du discours ? 
+En touchant ici, vous ferez passer la quête en mode automatique."
+4001,,
+4002,"Douglas, Cpt des mercenaires",La quête auto. s'arrête une fois la quête terminée. Touchez pour entamer la prochaine quête.
+6001,@4002,Très bien. Vous avez ça dans le sang. Essayons une nouvelle quête.
+11001,Capitaine Harold,Vous pouvez retrouver tous vos objets dans l'inventaire.
+11002,,
+11003,@11001,L'Équip. auto. est un moyen simple et rapide d'équiper le meilleur équipement.
+11004,,
+11005,@11001,"Cette fonctionnalité est particulièrement utile pour les nouveaux aventuriers comme vous, alors n'hésitez pas."
+11006,,
+12001,Feldheim,Les <YellowBold>Traits d'âme</> permettent des attaques plus puissantes.
+12002,@12001,Vous devriez commencer par utiliser les Traits d'âme automatiquement !
+12003,@12001,Les Traits d'âme ne sont utilisés que <YellowBold>lorsque vous attaquez</>.
+12004,@12001,"Le reste du temps, ils sont conservés en sécurité."
+12005,@12001,Vous ne voulez pas les utiliser automatiquement ? Touchez à nouveau.
+12006,@12001,"<YellowBold>Les Traits d'âme sont disponibles au magasin</>, alors n'en tombez jamais à court !"
+12007,,
+13001,Niah,Parlons maintenant des donjons quotidiens.
+13002,@13001,Vous en trouverez l'entrée dans le menu Donjon.
+13003,@13001,Touchez ceci.
+13004,@13001,Vous voyez les différents donjons ?
+13005,@13001,"Si votre formation se passe bien, vous pourrez bientôt vous y frotter !"
+13006,@13001,"Pour le moment, jetons un œil au donjon quotidien."
+13007,@13001,"<YellowBold>Chaque jour, des monstres différents apparaissent</> dans les <YellowBold>donjons quotidiens</>."
+13008,@13001,Éliminez-les pour obtenir des <YellowBold>récompenses spéciales</> !
+13009,@13001,"Les monstres plus puissants accordent de meilleures récompenses, donc vous feriez mieux de gagner vous-même en puissance."
+13010,@13001,"Allez-y, entrez !"
+13011,,
+13012,,
+13013,,
+13014,@13001,Le Combat auto. est disponible en cas de besoin.
+13015,,
+13016,,
+13017,,
+13018,@13001,Ouah ! Vous avez éliminé un monstre sacrément puissant !
+13019,,
+13020,@13001,"Vous ne pouvez entrer que quelques fois par jour, mais ne vous en faites pas. Le nombre d'entrées est <YellowBold>réinitialisé quotidiennement</>."
+13021,,
+13022,,
+13023,@13001,"En cas d'échec, <YellowBold>l'entrée ne sera pas comptabilisée</>, donc n'hésitez pas à vous lancer des défis !"
+13024,@13001,Bel effort ! La prochaine fois sera peut-être la bonne !
+13025,,
+14001,Daniel l'archonte,L'heure est venue de consulter vos succès et d'obtenir des récompenses.
+14002,@14001,La première étape consiste à accéder aux Défis.
+14003,@14001,Cela vous mènera aux Succès.
+14004,@14001,Faites reconnaître vos <YellowBold>succès</> et recevez des <YellowBold>récompenses</> en échange.
+14005,@14001,Vous avez travaillé dur. Vous avez déjà accompli des <YellowBold>succès</>.
+14006,@14001,"Allez-y, récupérez cette récompense."
+14007,,
+14008,@14001,Bien joué. Vos hauts faits vous vaudront des <YellowBold>titres et capacités</>.
+14009,@14001,Pensez à venir régulièrement pour suivre leur avancement.
+14010,@14001,Continuez à travailler dur et vos efforts seront bientôt récompensés.
+14011,@14001,"Plus le niv. de succès est élevé, plus les capacités seront puissantes et vous recevrez des ravitaillements comme récomp. quotidiennes."
+14012,@14001,Ne négligez pas les <YellowBold>différents types de succès</> à accomplir.
+14013,,
+15001,Anaïs la marchande,Le magasin regorge d'objets utiles.
+15002,@15001,@13003
+15003,@15001,"Comme celui-ci. Souvenez-vous de son apparence, il vous servira plus tard !"
+15004,@15001,Qu'est-ce que vous attendez ? Ouvrez !
+15005,,
+15006,@15001,Ouah ! Quel équipement exceptionnel !
+15007,@15001,Savez-vous comment rendre l'équipement plus puissant ? Il faut le <YellowBold>développer</> !
+15008,@15001,"Vous recevez <YellowBold>une boîte d'équipement de haute qualité gratuite par jour</>, alors n'oubliez pas de passer par ici !"
+15009,,
+16001,Ferron le forgeron,Vous parlez à la bonne personne pour <YellowBold>développer</> votre équipement. Je suis le meilleur forgeron de l'Île du discours !
+16002,@16001,"Tenez, prenez cet équipement. Il devrait vous servir."
+16003,@16001,Jetons un œil à l'équipement que vous avez reçu.
+16004,@16001,Il devrait se trouver dans l'onglet Armure.
+16005,@16001,Sélectionnez l'équipement que je vous ai donné.
+16006,@16001,Vous pouvez développer de l'équipement à la Forge. Suivez-moi.
+16007,@16001,Il existe <YellowBold>différents moyens pour renforcer l'équipement</> à la Forge.
+16008,@16001,Sélectionnez le développement.
+16009,@16001,Le <YellowBold>développement</> utilise un autre équipement comme matériau pour <YellowBold>améliorer</> l'équipement primaire.
+16010,@16001,"En revanche, ce service présente un coût... Je vivrais sous un pont si je proposais mes services gratuitement !"
+16011,@16001,Utilisez ceci comme matériau. Disons que c'est un cadeau !
+16012,@16001,Et voilà ! Je peux le faire gratuitement pour cette fois. Ce sera notre petit secret !
+16013,@16001,Les matériaux disparaissent pendant la procédure.
+16014,,
+16015,@16001,"C'est terminé ! Voyons voir. Hé, c'est réussi !"
+16016,@16001,"Allez-y, équipez l'objet développé !"
+16017,@16001,C'est aussi simple que d'appuyer sur Équip. auto. !
+16018,,
+16019,@16001,Développer votre équipement est <YellowBold>le meilleur moyen pour améliorer vos capacités de combat</>. Développez-le si les ennemis sont trop forts.
+16020,,
+17001,Capitaine Austin,Eh bien ! Passons au développement de vos compétences.
+17002,@17001,"Avant tout chose, voyons les compétences que vous utilisez."
+17003,@17001,Étudions vos compétences.
+17004,@17001,"Ici, vous pouvez augmenter le <YellowBold>niveau de vos compétences</> et <YellowBold>changer l'emplacement du bouton des compétences</>."
+17005,@17001,"Pour augmenter le niveau de vos compétences, vous avez besoin de points de compétence."
+17006,@17001,Vous pouvez obtenir des PC en augmentant le niveau de votre personnage et en jouant en continu.
+17007,@17001,Très bien. Passons au <YellowBold>développement de vos compétences</>.
+17008,@17001,Hum. Cette compétence fera l'affaire.
+17009,@17001,"Vous voyez le bouton de développement ? Tentant, n'est-ce pas ?"
+17010,@17001,Vous pouvez utiliser des <YellowBold>PC</> pour <YellowBold>augmenter le niveau de vos compétences</>.
+17011,@17001,"Normalement, cela vous coûtera de l'Adena... Mais c'est pour mon compte cette fois, en remerciement pour votre aide précieuse."
+17012,@17001,Oh ! Une dernière chose !
+17013,@17001,"Vous voyez les compétences passives, ici ?"
+17014,@17001,Les <YellowBold>compétences passives</> peuvent elles aussi être développées. Essayons.
+17015,@17001,Commencez par sélectionner une compétence.
+17016,@17001,"Ensuite, dépensez des PC et des Adena pour en augmenter le niveau."
+17017,@17001,"Les effets des <YellowBold>compétences passives</> sont automatiquement activés et il est donc facile de les oublier, mais ils sont très importants pour gagner en puissance."
+17018,,
+18001,Russel,L'Arène est l'endroit idéal pour mettre vos compétences à l'épreuve.
+18002,@18001,Vous la trouverez sur le Champ de bataille !
+18003,@18001,Vous voyez l'entrée de l'Arène ? Préparez-vous !
+18004,@18001,Vous pouvez affronter d'autres aventuriers dans des <YellowBold>duels 1 contre 1</>. C'est excellent pour attester de vos compétences !
+18005,@18001,Sélectionnez l'un des quatre adversaires de la liste et battez-le ! Vous obtiendrez gloire et fortuen en combattant et en vainquant des adversaires plus puissants !
+18006,@18001,Les <YellowBold>récompenses hebdomadaires</> sont attribuées selon le classement de la semaine. Travaillez dur pour rester dans le haut du classement !
+18007,@18001,N'oubliez pas que les duels vont de pair avec l'honneur !
+18008,@18001,L'honneur est accordé aux gagnants comme aux perdants.
+18009,@18001,Accumulez de l'honneur pour vous élever dans le classement et obtenir des <YellowBold>récompenses de stats</> !
+18010,@18001,"Hum... D'ailleurs, vous n'avez aucun honneur pour le moment..."
+18011,@18001,Mais n'ayez crainte !
+18012,@18001,"En travaillant dur, vous gagnerez de l'honneur et de meilleures récompenses !"
+18013,@18001,Eh bien ? Vous avez la niaque ?
+18014,@18001,"Ne soyez pas si modeste, passons aux duels !"
+18015,@18001,"Sélectionnez Commencer. Il est impossible de savoir qui sera votre adversaire, mais je parie que vous sortirez victorieux !"
+18016,,
+18017,,
+18018,@18001,Je le savais ! Félicitations !
+18019,,
+18020,,
+18021,,
+18022,@18001,"Aïe... Ça s'est joué à peu de choses ! Eh bien, la prochaine fois sera sûrement la bonne !"
+18023,,
+19001,"Eugene, professeur académique",Laissez-moi vous montrer un autre moyen d'améliorer votre équipement.
+19002,@19001,"La fusion est une action très simple, mais efficace."
+19003,@19001,"Pour fusionner de l'équipement, vous aurez besoin de la Forge."
+19004,@19001,Vous pouvez fusionner de l'équipement ici.
+19005,@19001,Fusionnez deux pièces d'équipement de niv. 30 de même qualité et de même type pour obtenir une pièce d'équipement d'une qualité supérieure à celle du matériau utilisé.
+19006,@19001,"Les pièces d'équipement appartiennent soit à la catégorie des équipements cibles, soit à celle des équipements matériaux."
+19007,@19001,Vous pouvez consulter les détails de l'équipement cible ici.
+19008,@19001,"Ne perdons pas plus de temps, fusionnons. Utilisez ceci comme matériau de fusion."
+19009,,
+19010,@19001,Touchez ceci.
+19011,@19001,Prenez ceci comme équipement matériau.
+19012,,
+19013,@19001,Sélectionnez cet équipement matériau.
+19014,@19001,"Si le matériau est prêt, continuons."
+19015,@19001,Le temps presse. Dépêchons-nous.
+19016,,
+19017,@19001,C'est une réussite ! On dirait que les préparatifs sont terminés.
+19018,@19001,"N'oubliez pas d'équiper votre équipement ! Oh ! De plus, la fusion <YellowBold>produit un objet du même type que l'équipement matériau principal</>. Eh bien, bonne chance !"
+19019,,
+20001,Lieutenant Arthur,Vous voulez en savoir plus sur les clans ? Touchez menu principal.
+20002,@20001,"Touchez le bouton Clan, ici."
+20003,@20001,Vous devriez rejoindre un clan dont vous partagez les valeurs.
+20004,@20001,Vous constaterez qu'appartenir à un clan confère de nombreux avantages.
+20005,@20001,Oups ! Je vous incite à rejoindre un clan sans même vous expliquer ce dont il s'agit !
+20006,@20001,"Les aspects-clés des clans sont le <YellowBold>siège de château</> et le <YellowBold>siège de forteresse</>, où vous affronterez d'autres clans pour contrôler divers châteaux et forteresses."
+20007,@20001,"Bien entendu, tout clan voulant s'imposer doit être puissant."
+20008,@20001,Tous les citoyens d'Aden peuvent <YellowBold>parier sur les vainqueurs d'un Siège de château et gagner des prix</> pendant le <YellowBold>Festival du Siège de château</>.
+20009,@20001,"Et ce n'est pas tout ! Lorsque vous faites partie d'un clan, vous bénéficiez de nombreux avantages : <YellowBold>buffs, mag. de clan, quêtes de clan et récompenses</>."
+20010,@20001,Passons à la procédure pour <YellowBold>rejoindre un clan</>.
+20011,@20001,Voici comment rejoindre un clan.
+20012,@20001,"Vous pouvez choisir de suivre un chef de clan prometteur, et ensemble devenir un clan puissant !"
+20013,@20001,"Si l'un de ces chefs de clan vous inspire, touchez <YellowBold>Postuler</> !"
+20014,@20001,Je me demande quel clan vous allez rejoindre !
+20015,@20001,"À moins que vous ne préfériez voler de vos propres ailes, et devenir le chef d'un clan puissant !"
+20016,,
+21001,Theodore,Avez-vous entendu parler de la <YellowBold>Tour de l'insolence</> ? Tous les aventuriers d'Aden devraient y participer au moins une fois.
+21002,@21001,Eh bien. Découvrons la Tour de l'insolence.
+21003,@21001,Vous pouvez accéder à la Tour de l'Insolence depuis le menu Donjons.
+21004,@21001,Touchez ceci.
+21005,@21001,Apercevez-vous la tour infiniment haute ? Il s'agit de la Tour de l'insolence.
+21006,,
+21007,@21001,La <YellowBold>Tour de l'insolence</> a été construite par l'Empereur Baium d'Elmoreden pour défier les dieux.
+21008,@21001,"De colère, Einhasad a rempli de monstres cette tour autrefois appelée Tour de l'éternité."
+21009,@21001,"Plus vous vous élevez dans la tour, plus les monstres sont puissants et plus les trésors sont précieux."
+21010,@21001,"Ça attise votre curiosité ? Vous devriez pouvoir terminer le premier étage, à présent."
+21011,,
+21012,,
+21013,,
+21014,@21001,Pas mal.
+21015,,
+21016,@21001,Le <YellowBold>Pillage auto.</> permet d'obtenir des récompenses une fois par jour pour chaque étage déjà terminé.
+21017,@21001,"Ici, vous pouvez consulter la récompense du Pillage auto. de chaque étage."
+21018,@21001,Vous pouvez obtenir des <YellowBold>Fragments de rune</> avec le Pillage auto. Cette fonctionnalité est cruciale pour améliorer vos capacités de combat.
+21019,@21001,"La prochaine fois, je vous apprendrai d'autres choses."
+21020,,
+21021,,
+21022,@21001,Hum... On dirait que vos entraînements n'étaient pas assez poussés...
+21023,@21001,Retournez en arrière en touchant l'écran.
+21024,,
+22001,@21001,Je vais vous apprendre à utiliser les Fragments de rune pour gagner en puissance. Il s'agit du marquage de rune.
+22002,@21001,Le marquage de rune est un moyen d'améliorer directement votre personnage.
+22003,@21001,Utilisez ceci pour tester le marquage de rune par vous-même.
+22004,@21001,"Grâce au marquage de rune, vous vous appropriez <YellowBold>définitivement</> les capacités de la rune."
+22005,@21001,"Le marquage de rune nécessite des <YellowBold>Fragments de rune</>. En effet, ces éléments s'obtiennent grâce au Pillage auto. dans la Tour de l'insolence."
+22006,@21001,Nous allons procéder au marquage de rune le plus basique.
+22007,@21001,"Ici, vous pouvez consulter la liste des matériaux requis pour le marquage de rune."
+22008,@21001,"Allez, testez le marquage de rune."
+22009,,
+22010,@21001,"Puisqu'il s'agit de votre première fois, je vais vous fournir les matériaux requis."
+22011,@21001,Les préparatifs sont terminés. Essayez le marquage.
+22012,,
+22013,@21001,Avez-vous remarqué la grosse rune au milieu ? Il s'agit du <YellowBold>cœur runique</>.
+22014,@21001,Le niveau du <YellowBold>cœur runique</> augmente lorsque toutes les runes de chaque page sont marquées au même palier.
+22015,@21001,N'oubliez pas que les cœurs runiques accordent <YellowBold>bien plus de stats</> que les runes ordinaires.
+22016,@21001,"Comme vous l'aurez remarqué, ceci est le cœur runique."
+22017,@21001,Les cœurs runiques offrent de nombreuses stats utiles.
+22018,@21001,Enfin... Ces runes ne sont pas les seules à pouvoir être marquées.
+22019,@21001,Vous pouvez utiliser ceci pour déverrouiller d'autres pages de runes.
+22020,@21001,Vous pourrez marquer des <YellowBold>runes plus variées et plus puissantes en accédant à d'autres pages</>.
+22021,@21001,"Cependant, pour déverrouiller la page suivante, <YellowBold>toutes les runes d'une page doivent être marquées à un niveau supérieur au niv. 1</>."
+22022,@21001,Le marquage de rune accorde de puissantes capacités et demande de sérieux préparatifs.
+22023,@21001,Eh bien ! J'ai hâte de voir la puissance que le marquage de rune va vous accorder avec le temps.
+22024,,
+23001,,
+23002,@21001,Ouvrons l'inventaire.
+23003,@21001,Sélectionnez l'onglet Armure.
+23004,@21001,Équipez le couvre-chef que je vous ai donné.
+23005,@21001,"Vous savez qu'il faut toucher Équiper, n'est-ce pas ?"
+23006,@21001,En regardant le couvre-chef de plus près...
+23007,,
+23008,@21001,Vous trouverez l'emplacement où équiper des Cristaux d'âme.
+23009,@21001,"Les Cristaux d'âme sont des gemmes contenant des âmes de monstre. En les équipant, vous <YellowBold>appliquez des stats d'âme à l'équipement</>."
+23010,@21001,Les traits des Cristaux d'âme déterminent leurs stats. Les âmes plus puissantes accordent <YellowBold>des stats plus puissantes</>.
+23011,@21001,Vous pouvez utiliser des Cristaux d'âme comme matériaux pour en créer <YellowBold>de plus puissants</>.
+23012,@21001,Nous allons équiper des Cristaux d'âme sur de l'équipement.
+23013,@21001,Voici un Cristal d'âme obtenu en vainquant ce monstre.
+23014,@21001,Joli. Équipons-le.
+23015,@21001,"Bien joué. Ensuite, nous verrons comment <YellowBold>améliorer</> les Cristaux d'âme."
+23016,@21001,<YellowBold>Améliorer</> est le seul moyen <YellowBold>d'augmenter la qualité</> des Cristaux d'âme.
+23017,@21001,"Allez-y, touchez Améliorer."
+23018,@21001,Sélectionnez le Cristal d'âme que vous voulez améliorer.
+23019,@21001,Touchez Développer et voilà.
+23020,@21001,Puis touchez Améliorer pour laisser la magie faire son œuvre.
+23021,@21001,
+23022,@21001,Bien joué. Sortons d'ici.
+23023,@21001,"Si vous disposez d'un meilleur couvre-chef, équipez-le."
+23024,@21001,"Pour cela, il vous suffit de toucher Équip. auto."
+23025,@21001,Rappelez-vous que vous ne pouvez <YellowBold>améliorer</> les Cristaux d'âme que lorsque vous avez le nombre requis de Cristaux d'âme <YellowBold>de la même qualité et du même type</>.
+23026,@21001,C'est tout ce qu'il y a à savoir sur les Cristaux d'âme. Un Cristal d'âme peut faire la différence entre une victoire et une défaite. Utilisez-les à bon escient.
+23027,@21001,집혼석 하나의 차이가 전투의 승패를 바꾸는 결과를 만들어 내지. 잘 이용하도록 해라.
+24001,@12001,Vous pouvez accéder aux donjons élites depuis le menu Donjons.
+24002,@12001,J'imagine que vous savez comment vous y rendre.
+24003,@12001,Touchez ceci.
+24004,@12001,Là ! Vous voyez le donjon élite ? Sélectionnez-le.
+24005,,
+24006,@12001,"J'ai trouvé cet endroit quand j'étais archéologue...
+Les pires monstres d'Aden apparaissent ici."
+24007,@12001,"Vous pourriez rencontrer des monstres trop puissants pour vous. Combattez-les avec des <YellowBold>amis</>.Plus le risque est grand, plus les récompenses sont exceptionnelles."
+24008,@12001,Le seigneur publie les nouvelles missions des donjons élites quotidiennement.
+24009,@12001,Vous recevrez des récompenses supplémentaires chaque fois que vous terminerez 5 missions.
+24010,@12001,Vous pouvez obtenir quotidiennement de l'EXP supplémentaire par la même occasion.
+24011,@12001,S'aventurer dans les donjons élites en solitaire est très dangereux. Explorer en groupe confère une certaine sécurité.
+24012,,
+25001,@21001,Je vais vous apprendre à améliorer votre équipement.
+25002,@21001,"Vous vous souvenez comment accéder à la Forge, n'est-ce pas ?"
+25003,@21001,@21004
+25004,@21001,"Allez-y, touchez Améliorer."
+25005,@21001,Utilisez les Pierres d'amélioration pour <YellowBold>augmenter la qualité de l'équipement tout en conservant son apparence et ses stats</>.
+25006,@21001,"Pour améliorer de l'équipement, vous aurez besoin de <YellowBold>Pierres d'amélioration spécifiques à l'équipement</>."
+25007,@21001,"Par exemple, il vous faudra des <YellowBold>Pierres d'amélioration d'accessoire</> pour améliorer des accessoires."
+25008,@21001,Vous pouvez consulter le résultat attendu ici.
+25009,@21001,"Bon, améliorons des accessoires !"
+25010,,
+25011,@21001,Touchez cet anneau pour le placer dans l'emplacement d'amélioration.
+25012,@21001,Touchez ce bouton pour lancer l'amélioration.
+25013,,
+25014,@21001,C'est une réussite ! Félicitations.
+25015,@21001,Utilisez la fonctionnalité d'amélioration lorsque vous souhaitez <YellowBold>conserver les stats d'un équipement ou obtenir un équipement spécifique</>.
+25016,@21001,N'oubliez pas que les Pierres d'amélioration sont rares et difficiles à trouver.
+25017,,
+26001,Fée purifiante,Perfectionnez votre équipement à l'aide de parchemins.
+26002,@26001,Touchez un objet.
+26003,@26001,"Pour perfectionner de l'équipement, vous devez accéder à la Forge."
+26004,@26001,Touchez le bouton Perfectionner.
+26005,@26001,Vous avez besoin de <YellowBold>Parchemins de perfectionnement propres à certains équipements</> pour perfectionner des objets spécifiques.
+26006,@26001,Je vous le rappelle : les <YellowBold>Parchemins bénis</> peuvent perfectionner et accorder jusqu'à +3 à la fois.
+26007,@26001,Vous pouvez gagner des stats bonus supplémentaires en utilisant des pièces d'équipement présentant le même niveau de perfectionnement. L'équilibre peut s'avérer payant.
+26008,@26001,N'oubliez pas que le niveau max de perf. de l'équipement dépend de sa qualité.
+26009,@26001,Perfectionnons cette arme.
+26010,,
+26011,@26001,Les parchemins de perfectionnement sont stockés dans l'onglet Autre.
+26012,@26001,Sélectionnez un Parchemin : arme.
+26013,@26001,Attention... Tout perfectionnement peut échouer.
+26014,@26001,"Si tout est prêt, lancez le perfectionnement."
+26015,,
+26016,@26001,C'est une réussite ! J'espère que cela vous plaît.
+26017,@26001,"Faites attention. Un perfectionnement réussi peut augmenter les stats d'un équipement, mais un échec peut faire chuter son niveau de perfectionnement."
+26018,,
+27001,@12001,Je vais vous apprendre à utiliser le codex. Suivez-moi.
+27002,@12001,Vous pourrez trouver le codex dans le menu Défi.
+27003,@12001,Nous y voilà.
+27004,@12001,Vous pouvez enregistrer les cœurs obtenus sur les monstres dans le <YellowBold>codex</>. Récupérez des cœurs pour développer le codex et <YellowBold>augmenter vos stats</> !
+27005,@12001,Récupérer <YellowBold>tous les cœurs de monstre d'une région donnée</> fera <YellowBold>augmenter encore plus vos bonus de stats</>.
+27006,@12001,Je vais vous apprendre à <YellowBold>enregistrer des cœurs</>.
+27007,@12001,Éveil rouge est un monstre apparaissant sur l'Île du discours de l'Ouest. Sélectionnez-la.
+27008,@12001,Vous avez assez de cœurs pour terminer le codex. Bien. Fabriquez le codex !
+27009,,
+27010,@12001,"Bien joué. Facile, n'est-ce pas ?"
+27011,@12001,"Tous les monstres peuvent laisser des cœurs derrière eux, mais c'est plus rare dans le cas des monstres ordinaires."
+27012,@12001,<p>Concentrez-vous sur la chasse aux <YellowBold>monstres nommés</>. Ils laissent toujours des cœurs derrière eux.
+27013,,
+28001,@26001,Je vais vous apprendre une compétence rare en ma possession.
+28002,@26001,Elle devrait vous servir. Par ici...
+28003,@26001,"Ici, vous pouvez apprendre des compétences rares."
+28004,@26001,Sélectionnez le Parchemin oublié.
+28005,@26001,Les <YellowBold>compétences rares</> sont différentes des compétences ordinaires et <YellowBold>sont aussi efficaces que puissantes</>. Tout le monde peut les utiliser ; elles ne dépendent pas des classes.
+28006,@26001,"Mais, notez que les compétences rares ne peuvent pas être apprises normalement ou développées. Récupérez des <YellowBold>Pages de Parchemin oublié</> pour assembler un Parchemin oublié."
+28007,@26001,Sélectionnez la Page de compétence que je viens de vous donner.
+28008,@26001,Nous devons créer un Parchemin oublié.
+28009,,
+28010,@26001,Bien joué !
+28011,@26001,Vous pouvez utiliser votre <YellowBold>Parchemin oublié</> pour apprendre une compétence rare. Parcourez votre inventaire.
+28012,@26001,Allez-y...
+28013,@26001,Par ici.
+28014,@26001,Vite...
+28015,@26001,Ouvrez votre inventaire.
+28016,@26001,Voici le manuel.
+28017,@26001,Il s'agit du Parchemin oublié qui vient d'être créé.
+28018,@26001,Touchez Utiliser pour apprendre la compétence.
+28019,@26001,"Bien joué ! À présent, essayez d'enregistrer une compétence rare dans un emplacement."
+28020,@26001,Retournons à l'écran Gestion des compétences.
+28021,@26001,Ici.
+28022,@26001,Je pense que vous savez comment y accéder.
+28023,@26001,"Oui, c'est bien ça."
+28024,@26001,Il s'agit de la compétence rare que vous venez d'apprendre.
+28025,@26001,"Afin d'utiliser une compétence rare, vous devez l'enregistrer dans un emplacement pour compétence rare."
+28026,@26001,Touchez ici pour enregistrer une compétence.
+28027,@26001,"Bien joué. Vous pouvez obtenir des compétences rares sur des monstres puissants, comme les <YellowBold>boss de raid</>, ou auprès d'un comptoir d'échange."
+28028,@26001,Recourir à des compétences rares en combat devrait avoir un immense impact ! Essayez d'obtenir un maximum de compétences rares.
+28029,,
+29001,Aymel,Hum... Et dire que l'espace conçu par le Sombre mystique était relié au tunnel sous la Tour d'ivoire.
+29002,@29001,Le tunnel sous la Tour d'ivoire ? Il s'agit de l'endroit où vous pourrez récupérer des herbes spéciales servant à préparer des <YellowBold>élixirs</>.
+29003,@29001,"Vous voulez y retourner ? Eh bien, procédons ainsi pour le moment."
+29004,@29001,Vous pouvez y accéder depuis le menu Donjons.
+29005,@29001,Touchez ceci.
+29006,@29001,On parle également de donjon d'extraction.
+29007,,
+29008,@29001,Vous pouvez fusionner les herbes disponibles pour préparer des <YellowBold>élixirs</> augmentant vos stats de façon permanente.
+29009,@29001,"Cependant, vous ne pouvez pas rester très longtemps dans le tunnel à cause de la nébulite. Toute exposition prolongée rendrait fou n'importe quel être conscient."
+29010,@29001,"Par conséquent, le nombre d'Herbes que vous pouvez extraire par jour est limité."
+29011,,
+30001,@29001,"L'existence même des herbes magiques symbolise le soutien des dieux. Avec elles, nous pouvons préparer des <YellowBold>élixirs</>."
+30002,@29001,"Nous n'avons pas beaucoup de temps, alors écoutez bien."
+30003,@29001,Afin de préparer un élixir...
+30004,@29001,Accédez au menu Personnage...
+30005,@29001,Et touchez le bouton élixir.
+30006,@29001,"Ici, vous pouvez préparer des élixirs. Pour la fabrication, <YellowBold>4 herbes</> sont requises."
+30007,@29001,"Les effets diffèrent selon l'élixir, alors choisissez bien."
+30008,@29001,Préparons un élixir de PV.
+30009,@29001,Les matériaux sont prêts. Commençons !
+30010,,
+30011,@29001,Les élixirs <YellowBold>sont utilisés dès leur préparation</> ! Vous devriez déjà ressentir plus de force en vous !
+30012,@29001,"Vous pouvez également obtenir des matériaux pour élixirs dans les donjons quotidiens, sur les monstres ou au magasin."
+30013,@29001,"Récupérez <YellowBold>autant d'Herbes et d'Essences que possible</>, car elles sont essentielles pour gagner en puissance."
+30014,,
+31001,Neuf,"Je vais vous apprendre à chevaucher l'Ours noir !
+Regardez bien et vous chevaucherez en un rien de temps !"
+31002,@31001,Accédez au menu principal.
+31003,@31001,Touchez le menu Personnage.
+31004,@31001,Sélectionnez Monture.
+31005,@31001,"Voyez, Ours noir est sélectionné."
+31006,@31001,Touchez-le pour l'invoquer !
+31007,@31001,Assurez-vous qu'Ours noir rejoigne le combat afin de pouvoir le chevaucher.
+31008,@31001,"Sortons, pour que vous puissiez le chevaucher."
+31009,@31001,Touchez Chevaucher !
+31010,@31001,Il vous aime déjà ! Veillez à ce qu'Ours noir soit bien dressé !
+32001,Monta,"Kresous vit au Mont Eborga, donc faites attention. Sans parler des démons qui apparaissent dans les cercles d'invocation."
+32002,@32001,Feldheim pourrait être en danger à l'instant où je parle !
+32003,@32001,Accédez au cercle d'invocation par ici !
+32004,@32001,Touchez ceci.
+32005,@32001,Vite !
+32006,,
+32007,@32001,Oh ! Pensez à rassembler d'autres joueurs avant d'accéder à un cercle d'invocation. C'est très dangereux !
+32008,,
+101001,@3002,Touchez le bouton Menu principal.
+101002,@3002,"Ensuite, touchez le bouton Ami."
+101003,@3002,"Les aventures sont plus amusantes en bonne compagnie. Ici, vous pouvez ajouter des amis, vous saluer et recevoir des <YellowBold>points d'amitié</>."
+101004,@3002,Oh ! J'ai des amis à vous présenter !
+101005,@3002,Par ici. Touchez Amis recommandés !
+101006,@3002,Vous trouvez votre bonheur ?
+101007,@3002,"Se faire des amis présente de nombreux avantages ! Vous pourrez partir à l'aventure ensemble et partager une amitié ! En unissant vos forces, vous pourrez même vaincre des monstres puissants !"
+101008,,
+102001,@17001,C'est facile. Je vais vous expliquer !
+102002,@17001,Vous pouvez <YellowBold>créer un groupe</> et recruter d'autres joueurs.
+102003,@17001,La <YellowBold>recherche de groupe manuelle</> vous permet de chercher le groupe d'un autre joueur et de le rejoindre.
+102004,@17001,"En utilisant <YellowBold>Adhésion auto.</>, vous rejoindrez automatiquement un groupe correspondant à vos préférences."
+102005,,
+104001,Pan le colporteur,"Vous voulez en savoir plus sur le comptoir d'échange ? Touchez le bouton Menu principal, miaou."
+104002,@104001,"Miaou, touchez le bouton Comptoir d'échange."
+104003,@104001,"Vous avez sûrement des objets trop précieux pour être vendus au magasin, mais qui prennent la poussière dans votre inventaire ?"
+104004,@104001,"Au comptoir d'échange, vous pouvez vendre vos objets à bon prix ou acheter des biens à d'autres joueurs !"
+104005,@104001,Définissez les paramètres de votre recherche et la liste comportera toute une myriade d'objets qui pourraient vous plaire !
+104006,@104001,Vendez quelque chose pour tester par vous-même !
+104007,@104001,Par ici. Vous devriez utiliser ceci.
+104008,@104001,"Listez vos objets et leur prix de vente, nous nous occupons du reste ! Miaou, je vous préviens, il existe un prix de vente minimal."
+104009,@104001,"Attendez ! S'agit-il d'un objet de <YellowBold>qualité A</> ?
+<p>Le comptoir d'échange ne fonctionne que pour les objets de qualité <YellowBold>S</> ou supérieure..."
+104010,@104001,Ne le prenez pas mal ! Nous veillons à ce que nos marchandises répondent à l'attente de nos clients.
+104011,@104001,"Miaou, venez ici."
+104012,@104001,Regardez !
+104013,@104001,Utilisez ceci pour suivre vos enchères et vérifiez si les objets se vendent !
+104014,,
+112001,Étudiant académique,Passons en revue le fonctionnement des quêtes quotidiennes.
+112002,@112001,"Pour commencer, touchez Défis."
+112003,@112001,"Ensuite, touchez Quêtes."
+112004,@112001,"Maintenant, touchez Quêtes quotidiennes."
+112005,@112001,Vous pouvez recevoir et terminer jusqu'à <YellowBold>12</> quêtes par jour.
+112006,@112001,"Cependant, vous ne pouvez avoir que 3 quêtes actives à la fois."
+112007,@112001,Choisissez bien vos quêtes : la difficulté et les récompenses dépendent de leur rang.
+112008,@112001,"Ici, vous voyez ce qu'il faut faire pour terminer la quête."
+112009,@112001,Vous pouvez également consulter les récompenses de la quête.
+112010,@112001,Entamez une quête et voyez par vous-même !
+112011,@112001,Le contenu de la quête change.
+112012,@112001,"Vous pouvez terminer les quêtes entreprises, ou attendre qu'elles soient <YellowBold>automatiquement terminées, une fois le délai passé</>."
+112013,@112001,"Si vous n'aimez pas attendre, vous pouvez aussi <YellowBold>dépenser des Adena pour les terminer instantanément</>."
+112014,@112001,"Ici, vous pouvez consulter votre taux d'accomplissement de quête quotidienne et obtenir des récompenses supplémentaires."
+112015,@112001,"Ici, vous pouvez changer les quêtes en attente."
+112016,@112001,<YellowBold>Changer les quêtes</> judicieusement vous aidera à gagner en force.
+112017,@112001,Tirez-en profit dès maintenant ou vous risquez de le regretter plus tard !
+112018,,
+113001,@112001,Passons maintenant aux quêtes hebdomadaires !
+113002,@112001,@112002
+113003,@112001,"Ensuite, touchez Quêtes."
+113004,@112001,"À présent, touchez Quêtes hebdomadaires."
+113005,@112001,"Ici, vous pouvez entamer des quêtes à terminer en une semaine."
+113006,@112001,Vous pouvez terminer jusqu'à <YellowBold>15 quêtes par jour</>.
+113007,@112001,Vous devrez travailler dur sur vos quêtes pour décrocher les récompenses !
+113008,@112001,Vous pouvez consulter leur progression ici.
+113009,@112001,Entamez une quête ! Touchez le bouton Quête.
+113010,@112001,Terminez régulièrement des quêtes hebdomadaires pour décrocher des récompenses !
+113011,@112001,N'oubliez pas qu'il est essentiel d'accomplir des quêtes hebdomadaires <YellowBold>tous les jours</> !
+113012,,
+114001,@29001,Vous pouvez enfin faire des <YellowBold>dons de clan</> !
+114002,@29001,Les dons servent à faire fonctionner le clan !
+114003,@29001,Voyons comment effectuer des dons.
+114004,@29001,Accédons au menu Clan.
+114005,@29001,Touchez le bouton Donner.
+114006,@29001,"Vous pouvez effectuer des dons d'Adena,"
+114007,@29001,de Preuves de sang
+114008,@29001,et de Météorites rouges.
+114009,@29001,"Votre don aura plus d'effet s'il consiste en Preuves de sang ou Météorites rouges,"
+114010,@29001,mais acquérir ces dernières peut s'avérer complexe.
+114011,@29001,Je vais vous donner quelques Preuves de sang pour cette fois.
+114012,@29001,Essayez d'effectuer un don de Preuves de sang.
+114013,@29001,N'oubliez pas de récupérer les récompenses de don !
+114014,@29001,Les scores de contribution indiquent les membres du clan ayant le plus donné.
+114015,@29001,"Oh ! J'ai failli oublier de parler des <YellowBold>Pièces de clan</>. Chaque fois que vous réalisez un don, vous recevez des Pièces de clan. Vous pouvez ensuite les utiliser pour effectuer des achats au Magasin du Clan ou acheter des buffs de clan."
+114016,@29001,"Sortons d'ici, à présent."
+114017,@29001,Voici le Magasin du Clan dont je parlais.
+114018,@29001,"Il propose des objets améliorant le clan et utiles pour vous, alors ouvrez l'œil."
+114019,@29001,"Vous devrez remplir certaines conditions pour acheter des objets spécifiques, mais cela ne devrait pas être un problème pour vous."
+114020,,
+115001,@29001,Pardon ? Vous ne faites pas encore partie d'un <YellowBold>clan</> ?!
+115002,@29001,Laissez-moi vous rappeler comment rejoindre un clan.
+115003,@29001,@114004
+115004,@29001,Suivez-moi.
+115005,@29001,Touchez le dernier bouton.
+115006,@29001,Vous voyez tous ces clans ?
+115007,@29001,Il existe tant d'avantages à rejoindre un clan !
+115008,@29001,Je parie que vous ne le regretterez pas.
+115009,,
+116001,@29001,J'espère que vous vous habituez à votre clan.
+116002,@29001,L'heure est venue de vous apprendre quelque chose de nouveau.
+116003,@29001,Retournons au menu Clan.
+116004,@29001,@115004
+116005,@29001,Je veux vous montrer les succès de clan !
+116006,@29001,Tous les membres de clan contribuent aux succès de clan et l'intégralité du clan reçoit des récompenses lorsqu'ils sont accomplis !
+116007,@29001,Les récompenses individuelles sont envoyées à chaque membre.
+116008,@29001,<YellowBold>Les récompenses de clan sont envoyées vers le stockage du clan.</>
+116009,@29001,"Cependant, les récompenses ne sont disponibles que si les succès sont accomplis dans les délais, et tous les membres doivent donc unir leurs forces."
+116010,@29001,"Les succès demandent beaucoup de coopération, mais l'union fait la force !"
+116011,,
+117001,@29001,Appréciez-vous de faire partie d'un clan ?
+117002,@29001,J'ai une information vitale sur les clans.
+117003,@29001,@114004
+117004,@29001,Voici le donjon de clan.
+117005,@29001,Les joueurs appartenant au même clan peuvent accéder ensemble au donjon de clan et y défier de puissants boss.
+117006,@29001,"Les membres de clan peuvent travailler ensemble pour conquérir le donjon de clan, l'épreuve de clan ultime !"
+117007,@29001,"Le combat sera difficile, mais les récompenses en valent la peine !"
+117008,@29001,Défier le donjon de clan est une bonne chose pour le clan et vous permet d'améliorer vos capacités !
+117009,@29001,Coopérez avec d'autres membres et devenez imbattables !
+117010,,
+118001,@11001,Bienvenue. Vous pouvez consulter la <YellowBold>progression de la quête</> ici.
+118002,@11001,"Ici, vous pouvez voir les <YellowBold>quêtes en cours</>, les <GreenBold>quêtes terminées</> et les quêtes à accomplir."
+118003,@11001,Regardez ! Vous y trouvez même des <YellowBold>récompenses</> supplémentaires.
+118004,,
+119001,@18001,Vous vous intéressez à la fabrication ? <p> Ahahah ! C'est formidable !<p> La qualité UR ne s'obtient que par la fabrication ! Voici ce qu'il y a à savoir. Écoutez bien !
+119002,@18001,"Pour commencer, placez l'équipement à fabriquer ici."
+119003,@18001,Vous aurez besoin de la recette de l'équipement souhaité.
+119004,@18001,"Ensuite, il vous faut des minéraux et des bois rares."
+119005,@18001,"Où en étais-je... Ah, oui. Il vous faut des matériaux tels que des Pierres d'amélioration radieuses."
+119006,@18001,Mais aussi des débris que vous obtiendrez en recyclant armes ou armures.
+119007,@18001,"En réunissant ces quatre éléments, vous serez en mesure de fabriquer de l'équipement de qualité UR."
+119008,@18001,"Oh, j'ai failli oublier !<p>L'équipement de qualité UR peut être fabriqué qu'avec de l'équipement de qualité SR niveau 30 !<p>L'équipement de qualité UR maintient son perfectionnement, sa revalorisation, ses stats extra et ses détails d'attribut !<p>Les quatre matériaux peuvent tous perfectionner l'équipement. Pensez à perfectionner votre équipement dès que vous mettez la main sur l'un des matériaux. Vous apprécierez sûrement l'amélioration de votre équipement !<p>Bien sûr, un équipement de qualité UR fabriqué avec les quatre matériaux serait bien plus puissant ! Hahaha !"
+119009,,
+201001,@29001,Ouah ! Vous voulez effectuer un transfert de classe ? C'est incroyable !
+201002,@29001,J'ai un message pour vous. Cela concerne l'épreuve du transfert de classe.
+201003,@29001,Les Mercenaires Lumargent accordent de nouvelles classes aux aventuriers capables de réussir leur épreuve.
+201004,@29001,"En changeant de classe, vous pouvez apprendre d'autres <YellowBold>compétences</> et ainsi gagner en puissance."
+201005,,
+201006,@29001,"Regardez, voici la première épreuve."
+201007,@29001,"Pour réussir l'épreuve, vous devez vaincre 50 monstres."
+201008,@29001,Cela permettra de mesurer vos capacités de combat de base.
+201009,@29001,"J'ai confiance en vos talents, vous réussirez haut la main !"
+201010,@29001,La prochaine épreuve vous sera révélée si vous réussissez la première.
+201011,@29001,"Une fois les sept épreuves réussies, vous pourrez procéder à un transfert de classe."
+201012,@29001,"Ensuite, vous gagnerez encore en puissance !"
+201013,@29001,"Vous avez réussi, <YellowBold>[player]</> !"
+201014,@29001,"À notre prochaine rencontre, vous aurez encore gagné en puissance !"
+201015,,
+202001,Lonna,Je me disais que des Adena pourraient vous servir...
+202002,@202001,Je vais vous montrer le meilleur endroit où trouver des Adena.
+202003,@202001,C'est à l'intérieur de ce donjon !
+202004,@202001,Touchez ceci.
+202005,@202001,Touchez le bouton Donjon d'Adena.
+202006,,
+202007,@202001,"Ce donjon abrite Kresous, le dragon d'or."
+202008,@202001,Tuez Kresous pour piller sa réserve d'Adena !
+202009,@202001,"Les entrées dans le donjon d'Adena sont limitées à la journée, alors rentabilisez-les !"
+202010,@202001,J'ai hâte de vous écouter raconter votre victoire face au dragon !
+202011,,
+203001,Aida,Eh ! Envie de découvrir un endroit génial pour trouver de l'équipement ?
+203002,@203001,"Inutile de chercher plus loin, c'est bien dans ce donjon spécial !"
+203003,@203001,Touchez ceci.
+203004,@203001,Sélectionnez ici un Gardien du temple !
+203005,,
+203006,@203001,Protégez l'<YellowBold>Artefact sacré</> et vous trouverez tout l'<YellowBold>équipement</> dont vous avez besoin.
+203007,@203001,Il existe tout de même des conditions. Le Gardien du temple est réservé aux joueurs faisant partie d'un <YellowBold>groupe</> et vous ne pouvez y accéder que <YellowBold>quelques fois par jour</>.
+203008,,
+204001,Tiana,Tombez-vous à court de Parchemins pour perfectionner votre équipement ?
+204002,@204001,Je connais l'endroit qu'il vous faut !
+204003,@204001,Le donjon de Parchemin de perfectionnement.
+204004,,
+204005,@204001,"Descellez l'Artefact sacré et obtenez des Parchemins de perfectionnement ! Faites de votre mieux, car le <YellowBold>nombre d'entrées quotidiennes est limité</> !"
+204006,@204001,Perfectionner vos armes est le <YellowBold>moyen le plus simple et le plus efficace</> pour gagner en puissance !
+204007,,
+205001,@202001,Mon petit doigt me dit que vous avez besoin d'aide pour gagner en force.
+205002,@202001,Je vais vous montrer l'endroit idéal pour développer votre niveau !
+205003,@202001,Touchez ceci.
+205004,@202001,Épreuves d'expérience !
+205005,,
+205006,@202001,"Ici, vous pouvez obtenir de grandes quantités d'EXP... mais ne comptez pas trop dessus car <YellowBold>le nombre d'entrées par jour est limité</>."
+205007,@202001,Repoussez vos limites et gagnez en niveau ! Je parie que vous aurez pris du muscle à notre prochaine rencontre !
+205008,,
+207001,@18001,"Bienvenue. Depuis la nuit des temps, les Mercenaires Lumargent sont considérés comme un symbole de justice, mais ils sont aussi réputés pour leurs <YellowBold>capes</> au style raffiné et unique.<p>Il est grand temps que vous ayez votre propre cape. Ne vous en faites pas, je vais vous montrer comment faire !<p>Tout d'abord, il va vous falloir une broche pour votre cape. Tenez, prenez ça et obtenez une Cape de l'aventurier."
+207002,@18001,Appuyez sur Obtenir.
+207003,@18001,Appuyez sur Équiper.
+207004,@18001,La Cape de l'aventurier vous va à ravir ! Vous pouvez rendre votre cape encore plus élégante avec de la laine. Prenez cette bobine de fil.
+207005,@18001,Appuyez sur Développement.
+207006,@18001,"Appuyez sur Développement, juste ici."
+207007,,
+207008,@18001,Votre cape est déjà beaucoup plus jolie ! Qu'en pensez-vous ?
+207009,@18001,"Vous pouvez utiliser du Tissu magique pour modifier les stats extra de votre cape.<p>Continuez comme ça jusqu'à obtenir la stat extra que vous désirez.<p>C'est tout ce que j'ai à vous dire sur les capes. Et maintenant, à vous de fabriquer votre propre cape !"
+301001,@18001,"Ah, je vois que le perfectionnement a échoué."
+301002,@18001,L'échec de perfectionnement <YellowBold>+6 d'équipement de</>perfectionnement peut provoquer une<YellowBold>baisse du niveau</>de perfectionnement.
+301003,@18001,Mais notez que vous pouvez utiliser la <YellowBold>Protection de Maphr</> pour empêcher le niveau de perfectionnement de baisser.
+301004,@18001,"De plus, les équipements perfectionnés de <YellowBold>+7, +10 et +20</> ou supérieur ne chutent pas en-dessous de ces valeurs."
+301005,@18001,Il est recommandé de garder ceci à l'esprit lorsque vous perfectionnerez votre équipement dans le futur !
+301006,@18001,Je vais vous donner une Protection de Maphr à titre démonstratif.
+301007,@18001,"Touchez ""Divers""."
+301008,@18001,Vous voyez l'objet Protection de Maphr ?
+301009,@18001,La <YellowBold>Protection de Maphr</> est un objet de très grande valeur qui empêche les niveau de perfectionnement de diminuer après l'échec d'un perfectionnement.
+301010,@18001,"Allez-y, touchez ""Atelier"" !"
+301011,@18001,Collectez les fragments de Protection de Maphr à partir de l'Atelier pour créer une <YellowBold>Protection De Maphr</>.
+301012,,
+302001,@21001,"Avez-vous déjà entendu parler des <YellowBold>pierres d'invocation de monstre rare</> ? Non ? Eh bien, nous allons jeter un œil à l'utilisation des pierres d'invocation de monstre rare pour obtenir des cœurs de monstres."
+302002,@21001,Touchez l'inventaire.
+302003,@21001,Rendez-vous sur l'onglet Consommables.
+302004,@21001,"Ici, prenez une pierre d'invocation de monstre rare."
+302005,@21001,Essayez de toucher Utiliser.
+302006,@21001,Voyez-vous tous ces monstres rares ? Sélectionnez celui qui vous intrigue le plus.
+302007,@21001,"Il y a des cœurs de monstre pour chacun des monstres rares.
+<p>Assurez-vous de terminer les quêtes hebdomadaires pour accumuler ces pierres d'invocation de monstre rare."
+302008,@21001,Touchez Invoquer !
+302009,@21001,C'est ce bouton juste ici !
+302010,@21001,여기를 누르면 된다네!

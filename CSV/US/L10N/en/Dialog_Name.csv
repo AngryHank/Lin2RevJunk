@@ -109,6 +109,7 @@ Everyone, onto the castle!"
 The age of oppression is at its end!"
 67,,Along with your vile clan!
 68,,How amusing.
+69,,Do you know?
 70,,"Many fools have stood where
 you stand now and spoken
 those same words!"
@@ -4466,7 +4467,7 @@ intriguing recently.
 Do you know about
 the Blood King?"
 1025,@988,"The Blood King...
-The enemy of tree...!"
+The enemy of the Tree...!"
 1026,@104,"I heard he was
 an incredible Undead wizard
 back in the day."
@@ -6726,3 +6727,293 @@ Steal that!!!"
 4840,@2219,I find you calling me a thief quite ridiculous.
 4841,,You have been invited to join a new clan. Check the Clan Menu for details.
 4842,,Your journey isn’t over yet! Check the Journey Quest for details.
+4934,Zaken Pirates Hammerfist,The escapee! Catch him!
+4935,@934,There are others! Catch them as well!
+4843,@2648,"You guys are the Silverlight Mercenaries! Help me out, will you?"
+4844,@2648,Keys. You need keys! Check the desk over there!
+4845,@2648,"Actually, we didn’t tell you about the mission of our Advance Party."
+4846,@2648,"We’re looking for
+the missing countess of Giran,
+Trisha."
+4847,@2648,Typical pirates! They blocked the road!
+4848,@2648,Let’s talk after we clean up this trash pile.
+4849,@2648,Word is that she was recently seen at the harbor.
+4850,@2648,"So we followed that lead here, but only found her diary."
+4851,@2648,"Those darn pirates must have abducted her.
+They must be trying to eliminate anyone who might get in their way!"
+4852,@2648,"Darn it!
+For better or for worse,
+it’s just a Leech Egg!"
+4853,@2648,"Be careful of
+their mucus!"
+4854,@2648,"Ugh...
+Be careful!
+Leonard is no chump!"
+4855,Leonard,"I can already
+smell the sweet
+scent of blood!"
+4856,@4855,"How about I rip him to shreds
+and taste his blood?"
+4857,@2648,"Ugh... are you all okay?
+Come over here for a moment."
+4858,@2648,"Please...
+Bring the Baron and his soldiers
+here safely!"
+4859,Zaken Pirates Lookout,"Huh?
+How did they get here?!"
+4860,Douglas,"Search the ship
+thoroughly!"
+4861,@4860,"If you don’t want
+to be Kraken food,
+you better hurry it up!"
+4862,@4860,"If they come,
+I’ll call you.
+When I do, you better be quick!!"
+4863,@967,"5 minutes.
+Just hold on for 5 more minutes!
+Trisha!!!"
+4864,Trisha,"I’ll try,
+I’ll try my best.
+Zaken!"
+4865,@4864,"Scoundrels.
+You killed Leonard
+to get here, didn’t you?"
+4866,@4864,"You killed my Guardian Knight.
+I guess you’ll
+have to take his place!"
+4867,@4855,Did you think you could get away?
+4868,@4855,I wonder what color your blood is. Let’s see!
+4869,@4855,Argh... I... need blood!
+4892,@4864,Go away! Leave!
+4893,@4864,No!!! I... I can’t die yet!
+4894,@4864,"Die! All of you, die!"
+4895,@967,"We’ve arrived!
+Keep your hands off of Trisha! Scum!"
+4929,Zaken Pirates Boatswain,Intruder! Catch the intruder!
+4930,@4860,"They’re here!
+Hurry up!"
+4870,Ramog’s Guard Grenadier,"Intruders! Must destroy!
+Bombs! Must throw!"
+4871,Ramog’s Guard,"Oh, Great Ramog!
+Those who interrupt the ritual must die!"
+4872,Ramog’s Royal Guard,"Intruder! Intruder alert!
+Repeat! Intruders!"
+4873,Lunatic Self-destructing Soldier,"Persistent fools!
+I’ll self-destruct!
+We all die!"
+4874,Laenis,"Hello! Is anybody there?!
+I don’t care if you’re an orc,
+please just save me!"
+4875,@4874,"Be careful!
+That orc
+is a Guard Captain here!"
+4876,Boranta,"Why are you
+humans here?"
+4877,@4876,"Kill all those
+who cannot
+be sacrificed!"
+4878,@4874,"Hey there!
+Did you forget about me?
+Please get me out of here!"
+4879,@4874,"Paagrio’s strength
+is enough to
+rival the gods!"
+4880,@4874,"If these crazy orcs
+acquire that power...
+Oh no..."
+4881,@4874,"It’s a scary
+thought.
+We must stop them!"
+4882,@4874,"This way!
+We must hurry!"
+4883,@4874,"We can escape
+as soon as we get rid of this."
+4884,@4874,"If you follow this road
+a cave with an altar
+will appear!"
+4885,Ramog,"Humans!
+What is stupid Boranta
+doing?"
+4886,@4885,"No.
+It’s actually better.
+The power of Paagrio..."
+4887,@4885,"I’ll test this out
+on you.
+You should feel honored!"
+4888,@4876,"Now, it’s your turn!"
+4889,@4876,"If you get hit alone,
+it is going to hurt!"
+4890,@4876,Bug off!
+4891,@4876,Boom! Wahahaha!
+4896,@4876,@4888
+4897,@4885,@1420
+4898,@4885,This is Paagrio’s power!
+4899,@4885,Wahahaha!
+4900,@4885,Death will soon be upon you...!
+4901,@4885,Paagrio! Give me strength!
+4902,@4876,"You fools!
+What are my guards doing?!
+Help me!"
+4903,@4876,"Gahhh!
+Archers! Bring out all my archers!
+Eliminate these fools!"
+4904,@4876,"What... what the!
+Gahh! I fight to the death!
+Self-destructing soldiers, attack!"
+4905,@4876,"If only Ramog can acquire the power of Paagrio...!
+You would... ugh!"
+4906,@4885,"Don’t think this is over...!
+There will be even more orcs in the future...!
+When that day comes, you will fall. There will be no hope! Wahahaha!"
+4907,Defense Device,Intruder alert. Intruder alert.
+4908,@4907,Self-defense mechanisms activated. Self-defense mechanisms activated.
+4909,@4907,Intruder targeting configured. Eliminate all intruders.
+4910,@104,I knew they’d have crazy technology.
+4911,@104,It seems they have been researching and developing these weapons.
+4912,@104,A weapon that uses souls to increase strength and battle the gods...
+4913,@104,So much research and testing were required to create this ultimate weapon.
+4914,@104,How could they treat living humans as lab rats?
+4915,@104,Oh no! Hardin is in the midst of battle!
+4916,@431,Careful! They are stronger than they look!
+4922,@104,The barrier on the guard unit has been removed!
+4923,@104,We can attack now!
+4924,@4885,Can you dodge this?!
+4925,@4885,It won’t be easy this time around!
+4926,@4885,Oh Paagrio! Finish the job!
+4927,Leewen,"I’ve tried
+to infiltrate many times,"
+4928,@4927,"but I failed every time
+because of the signal fires
+somewhere inside the village."
+4931,@4870,"How dare you!
+If you go to the guard post
+Boranta will be mad!"
+4932,@4870,"If Captain Boranta
+is Mad!
+We all die!"
+4933,@4874,"God of light,
+Shower me with
+the power of purification!"
+4936,@4876,How dare you refuse the once-in-a-lifetime opportunity to be Ramog’s sacrifice!
+4937,@4876,You deserve to die!
+4938,@4876,Boom!
+4939,@4876,Not bad!
+4940,@4885,Now the ritual preparations are complete.
+4941,@4885,You damn shamans are always disagreeing with me!
+4942,@4885,Always complaining about awakening Paagrio’s power!
+4943,@4885,"Now, I’ll use your blood to awaken Paagrio’s power!"
+4944,@4885,I’ll drag you out!
+4945,@4885,"So, this is Paagrio’s power!"
+4946,@4885,This is the start of Ramog’s world!
+4947,@4855,W-what’s that?
+4948,@4855,"Guardian Knight, Leonard?!"
+4949,@4855,What brings you here?
+4950,@4855,This is nothing personal.
+4951,@4855,"I’ll need you to let go of your sword.
+I don’t want unnecessary attention brought upon this place!"
+4952,@4855,"Now, you’re next!"
+4953,Alert,Boss! Boss!!!
+4954,@4953,What is it?
+4955,@4953,Intruders! Intruder Alert!
+4956,@4953,What? You idiot! You took this long to tell me that?!
+4957,@4953,Boss!
+4958,@4953,"Everyone, get up!"
+4959,@4953,@2426
+4960,@4864,Zaken.
+4961,@4864,I’m terrified...
+4962,@4864,When are you coming back...?
+4963,@4864,"Trisha, I’m trying my best... Just a little bit more..."
+4964,@4864,"Oh, no! Damn them!"
+4965,@4864,"Well... I don’t have much of a choice... I’ll do my best to hold on until you come, Zaken."
+4966,@4864,The Lord of Giran?
+4967,@4864,"You may already know, but I have no intention of returning."
+4968,@4864,There is only one answer!
+4969,@4864,You will stay here. Forever!
+4970,Fairway,"Trisha, no!
+Zaken..."
+4971,@4970,It doesn’t matter where you go!
+4972,@4970,"I will find you, and I will kill you!"
+4973,@4885,"How dare you...!
+Don’t you dare attempt to stop me!"
+4974,Orc Shaman,"Paagrio’s power!
+It is not for
+a mere Orc to have!"
+4975,@4974,"This power
+is too strong
+for an Orc like you!"
+4976,@4885,"Fools.
+I will demolish
+your soul!"
+4977,@4885,"Arghh...
+My strength...
+You fools...!"
+4978,@4974,"You can’t have that power!
+Halt! Ramog!"
+4979,@4885,"Fools...!
+Do you hinder me
+even in death?!"
+4980,@4974,"The Nebulite Crystal!
+It must be destroyed!
+Hurry!"
+4981,@4885,@4976
+4982,@4885,"I’ll finish
+you off now!
+I’ll show you my true strength!"
+4983,,Command Rights are required to use Clan Voice Chat!
+4991,,Strengthen your Magical Monster attribute equipment and try again!
+4984,@967,Pay for your sins with your death!
+4985,@967,You’ll join her soon!
+4986,@967,The light is gone! There’s no hope for you now!
+4987,Zaken Blood Ranger,"Oh... Oh, no! The sun is being blocked!"
+4988,@4987,The sun is halfway gone!
+4989,@4987,We’re doomed! The sun is almost completely gone!
+5171,@2648,I don’t know what a Giran aristocrat is doing here.
+5172,@2648,Show some respect.
+5173,@2046,"Hey, you there! You’re smuggling, aren’t you?"
+5174,@2648,W-what? What are you talking about? I am an officer of the army!
+5175,@2046,We caught him red-handed! Arrest him!
+5176,Sir Alexander,... ...
+5177,@2648,What is this?
+5178,@2648,"Don’t worry, Alexander. I’m sure this is all just a misunderstanding."
+5179,@2046,I’ll send you to the gallows!
+5180,@5176,Let’s go!
+5181,@5176,So you’re Zaken! You... You’ve ruined everything!
+5182,@5176,You’ve ruined her chance to become Aden’s Archduchess...
+5183,@5176,You’ve ruined everything!
+5184,Phantom of Zaken,I heard enough about you from Trisha.
+5185,@5184,Do you remember abusing her when she was a child?
+5186,@5184,She shudders at a mere thought of you.
+5187,@5176,It’s a happy life compared to the one she would’ve suffered with you!
+5188,@5184,Don’t pretend you’re doing this for her! Hypocrite!
+5189,Abelino,"Watch out, Sir Alexander!"
+5190,@5176,Ugh... You! What have you done to me?!
+5191,@5184,I took over your body. You no longer have freedom.
+5192,@5184,I will take this hypocrite away.
+5193,@5184,Follow me to my flagship if you can!
+5194,@5176,S-save me! My body is... Moving on its own! Help!
+5195,@5189,Sir Alexander!
+5196,Pirate Zombie,Whoa...
+5197,@5189,It seems battle is inevitable thanks to Zaken’s minions.
+5198,@5189,That was just Zaken’s phantom. His body must be somewhere else.
+5199,@5189,I think he’s taken Sir Alexander hostage so that you’ll go to him.
+5200,@5189,"You must be wary of the area surrounding the flagship, that’s where Zaken is waiting."
+5201,@5189,"Zaken is able to create an Outworld, a world much like ours but also very different."
+5202,@5189,You must take care to avoid nighttime in his realm.
+5203,@5189,His power reaches its height at nightfall.
+5204,@5189,Then no one is able to stop him.
+5205,@5176,He’s... done something strange to me...
+5206,@5189,"Oh no, Sir Alexander!"
+5207,Mutated Sir Alexander,Grrr... Huh? What’s wrong with me?!
+5208,@5207,"What happened to me? Zaken, you bastard!!!"
+5209,@5189,"Calm yourself, please!"
+5210,@5189,It looks like the mutation has made him extremely aggressive! Watch out!
+5211,@5207,Hate... I hate you all! Look at me... It’s all your fault!
+5212,@5207,Gahhhhhhhhhhh!!!
+5213,@5189,"Please! Alexander, stop!"
+5214,Zaken’s Voice,Hahahahaha....!
+5215,@5189,What was that? Zaken? Where is he?
+5216,@5214,Kill... then kill again! Kill each other to survive!
+5217,@5214,"Even if you manage to withstand this hell, another one awaits!"
+5218,@5189,We’ve become mere entertainment for Zaken to enjoy...
+5219,@5189,Ugh... We can’t... go easy on this monster.
+5220,@5189,We must defeat Sir Alexander no matter what!

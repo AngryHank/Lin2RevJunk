@@ -1,0 +1,250 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,Kale Kuşatması Ödülü
+GuildWarehouseRecordSiegeWarBidding,Kale Kuşatması'nda Teklif ver
+GuildWarehouseRecordFortressWarReward,Şato Kuşatması Ödülü
+GuildWarehouseRecordFortressWarBidding,Şato Kuşatması Teklifi
+GuildWarehouseRecordCommission,Vergi Topla
+GuildWarehouseRecordMarketBuy,Dükkandan Al
+SystemMailName,Sistem
+SystemMessageKickOutFromGM,Sunucu sıfırlanıyor. Lütfen oyunu yeniden başlat.
+SystemMessageLogOut,Oyun şimdi sona erecek.
+CastleSiegeFestivalCouponResetNotify,Kuşatma Festivali Biletleri sıfırlanacak.
+MailTitleCheat,Hile
+MailTitleTutorialReward,Öğretici
+MailTitleGuideQuestReward,Kahramanın Yolculuğu Ödülü
+MailTitleShopGachaItem,Dükkan Çağrı Sandığı Eşyası
+MailTitleDungeonReward,Zindan Ödülü
+MailTitlePvpHonorPointReward,Arena Onur Ödülü
+MailTitlePvpFirstRankReward,Arena İlk Sıralama Başarım Ödülü
+MailTitlePvpRankingReward,Arena Sıralama Ödülü
+MailTitleCastleSiegeBegin,Kale Kuşatması Başlangıcı
+MailTitleCastleSiegeLoseReward,Kale Kuşatması Mağlubiyet Ödülü
+MailTitleCastleSiegeWinReward,Kale Kuşatması Zafer Ödülü
+MailTitleFortressSiegeLoseReward,Şato Kuşatması Mağlubiyet Ödülü
+MailTitleFortressSiegeWinReward,Şato Kuşatması Zafer Ödülü
+MailTitleFortressSiegeDrawReward,Şato Kuşatması Berabere Kalma Ödülü
+MailTitleAuctionHouseBuy,Pazardan Al
+MailTitleAuctionHouseSellFailed,Pazar Satışının Süresi Doldu
+MailTitleAuctionHouseSellingCancel,Pazar Satışı İptal Edildi
+MailTitleConnectDailyReward,Günlük Giriş Ödülü
+MailTitleConnectWeeklyReward,Haftalık Giriş Ödülü
+MailTitleConnectMonthlyReward,Aylık Giriş Ödülü
+MailTitleGuildAchievementReward,Klan Başarım Ödülü
+MailTitleGuildMarketBuy,Klan Dükkanından Al
+MailTitleGuildMarketGiftBuy,[Player] bir hediye gönderdi.
+MailTitleGuildWarehouseGrant,Klan Ödülü
+MailTitleAchievementReward,Başarım Ödülü
+MailTitlePeriodAchievementReward,Süreli Başarım Ödülü
+MailTitleFriendGreet,Arkadaş Selamla
+MailTitleBagIsFull,Envanter Dolu
+MailTitleDailyActivityReward,Günlük Aktivite Ödülü
+MailTitleInstantCompleteReward,Ödül Alım Eşyası
+MailTitleMissionDailyReward,Günlük Görev Ödülü
+MailTitleMissionWeeklyReward,Haftalık Görev Ödülü
+MailTitleShopReward,Yenileme/Harcama Ödülü
+MailTitleSupriseBox,Sürpriz Sandık Aç
+MailTitleEvent,Etkinlik Ödülü
+MailTitleEventDice,Zar Etkinliği Ödülü
+MailTitleEventDiceComplete,Zar Etkinliği Tur Tamamlama Ödülü
+MailTitleCastleSiegeFestivalWin,Kale Kuşatması Festivali Kazanan Klan Doğru Tahmin Edildi
+MailTitleCastleSiegeFestivalLose,Kale Kuşatması Festivali Kazanan Klan Tahmini Yanlış
+MailTitleItemEnchantFailReward,Güçlendirme Başarısız Ödülü
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,Öğretici ödülü olarak [Item] kazandın!
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,Eşya Dükkandaki Çağrı Sandığından alındı. (Envanter limitine ulaşıldı)
+MailContentDungeonReward,Zindan Ödülü olarak bir eşya alındı.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,Pazardan aldığın eşyalara bak.
+MailContentAuctionHouseSellFailed,Bu eşya pazarda satılamadı.
+MailContentAuctionHouseSellingCancel,Bu eşyanın pazardaki satışı iptal edildi.
+MailContentConnectDailyReward,Çevrimiçi olabilmek için [Item] öğesini satın aldı
+MailContentConnectWeeklyReward,[Day].gün için [Item] kazandın.
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,Klandan bir ödül al.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,[Count] Adena
+MailRewardDiamond,[Count] Elmas
+MailRewardCrystal,Hurda
+MailRewardExp,[Count] TP
+MailRewardQuestLimitTime,Görev Süre Sınırı
+MailRewardFriendshipPoint,[Count] Arkadaşlık Puanı
+MailRewardStatus,[Count] Değer
+MailRewardBloodCrystal,[Count] Kanlı Kristal
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,Kuşatma Festivali Bileti
+GuildWarehouseRecordGuildAchievement,Klan Başarımı
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,SP
+MailRewardTopaz,Topaz
+MailRewardMileage,Sadakat Puanı
+MailRewardGuildCoin,Klan Parası
+MailRewardAchievementPoint,Başarım Puanı
+MailRewardPvpHonorPoint,Onur Puanı
+MailRewardRunePiece,Run Parçası
+MailRewardPvpTicket,Arena Bileti
+MailTitleClassTransfer,Sınıf Geçişi
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,Canavar Albümü
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,İşte [GuildDungeonName] zindanına katılmama ödülün.
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,İşte [GuildDungeonName] zindanına katılma ödülün.
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,[GuildDungeonName] klan yardım ödülü gönderilecek.
+MailContentGuildDungeonHelpReward,[GuildDungeonName] yardımı ile taamlama ödülü gönderildi.
+MailTitleLevelUpGift,Karakter Güçlendirme Ödülü
+MailContentLevelUpGift,[Item]
+MailTitleReservedNickName,İşte yerini önceden ayırttığın için bir teşekkür ödülü!
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,Klan Meydanı Klan Görevi Ödülü
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,Hesap Bağlama Ödülü
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,Yadigar Değerlendirme Sonuçları
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,Kaydedilmiş Yadigarı Kurtar
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,Yenileyici Üret
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,Balıkçılık Albümü Ödülü
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,Şerefli Savaş Alanı Sezon Ödülü
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,Yiğitlik Meydanı Sezon Ödülü
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,Antik Savaş Alanı Sezon Ödülü
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,Klan Meydanı Görevleri
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,Yenileyici Malzemesi Kullan
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,Klan Yadigar Sandığı
+EquipDungeonHp80,Kutsal Kristal'in canı %80 kaldı.
+EquipDungeonHp60,Kutsal Kristal'in canı %60 kaldı.
+EquipDungeonHp40,Kutsal Kristal'in canı %40 kaldı.
+EquipDungeonHp20,Kutsal Kristal'in canı %20 kaldı.
+EquipDungeonHp0,Kutsal Kristal yok edildi.
+VarBerk30,Varkaron cinnet geçiriyor.
+QueenAntScout,Kraliçe Karınca'yı koruyan canavarlar ortaya çıktı.
+QueenBigAnt,Büyük Bakıcı Karınca çıktı!
+BigAntGiveHeal,"Büyük Bakıcı Karınca, Kraliçe Karınca'yı iyileştirir."
+KICKOUT_FOR_INSPECT,Sunucu bakımda olduğundan oyuna giremezsin.
+KICKOUT_FOR_ASSET_PATCH,Yeni dosyaları indirmek için ana ekrana dönülüyor.
+KICKOUT_PACKET_KEY_CHANGE,Uzun süre aktif olmadığın için bağlantın kesildi.
+KICKOUT_SPEED_CHECK,Bağlantın kesildi.
+CannotAcquireItemAnymore,Daha fazla alınamıyor.
+GuildMasterAutoEntrust,[Sistem] Bu klanda aktif üye yok.
+MailTitlePurchaseLimitOverReward,[TargetItem] Mükerrer Alım
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"Klan günlük görev limitine ulaştı.
+Saat 04:00'ten sonra tekrar dene."
+GuildJoinAcceptDailyJoinLimit,"Günlük maksimum onay sayısına ulaştın.
+Saat 04:00'ten sonra tekrar dene."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,"Cruma Çekirdeği, Gardiyan'ı çağırdı."
+DiceEventMaxCount,Zar Etkinliği maksimum sayısına ulaştın.
+PET_EQUIPMENT_ERROR_MESSAGE,"Binek ekipmanına Demirci'den ulaşamazsın.
+Lütfen Binek menüsünü kullan."
+MailTitleGuildCastleDailyReward,Kale Fethi Günlük Ödül
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,Pazar Satışı Ödemesi
+MailContentAuctionHouseSellCompleted,"Bu, Pazar satışının ödemesi."
+ConfineMessage,"Oyuna erişim <FontRed>[Day]</> günlüğüne yasaklı.
+Ayrıntılar için Topluluk Forumu bildirimlerine bakabilir ya da Müşteri Hizmetleri ile iletişime geçebilirsin.
+(Şu tarihten itibaren kullanılabilir: <FontRed>[ReuseMonth]/[ReuseDay]/[ReuseYear] [ReuseHour] sa [ReuseMin] dk.</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,Klan Meydanı giriş Ödülü
+EventDailyQuest,Günlük Görev Etkinliği
+EventDailyQuestReward,Günlük Görev Etkinliği Ödülü
+EventDailyQuestProgressReward,Günlük Görev Etkinliği İlerleme Ödülü
+ESportsMasterDiedNotify,"<FontYellow>[PlayerName]</>, <FontYellow>[GuildName]</> <FontWhite>Klanı'nın lideri</> <FontWhite>öldü.</>"
+ESportsMsgNotStartTime,Karşılaşma henüz başlamadığı için giremezsin.
+ESportsMsgNoMoreMatch,Eşleşme bulunamadı.
+ESportsMsgMatchInfo,"[MyServerName] sunucusundaki [MyGuildName] Klanı'nından [PlayerName], [Date] tarihinde [TargetServerName] sunucusundan [TargetGuildName] klanı ile karşılaşacak."
+ESportsMatchEnded,[MatchId] odasındaki karşılaşma sona erdi.
+ESportsMsgKickoutMatchEnded,"Karşılaşma sona erdi, ana ekrana geçilecek."
+AuctionHouseDisabledMessage,"Pazar şu an kullanılamıyor.
+Ayrıntılar için Topluluk Forumu bildirimlerine bakabilirsin."
+DayOfWeekMon,Pazartesi
+DayOfWeekTue,Salı
+DayOfWeekWed,Çarşamba
+DayOfWeekThu,Perşembe
+DayOfWeekFri,Cuma
+DayOfWeekSat,Cumartesi
+DayOfWeekSun,Pazar
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,İlk Feldheim’in Hazine Avı Ödülü
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,Feldheim’in Hazine Avı Toplam Ödülü
+MailTitleShopGuildReward,[Player] İsimli Oyuncunun [Name] Hediyesi
+MailContentRecommandationServerReward,Önerilen Sunucu Seçim Ödül Sandığı
+MailTitleRecommandationServerReward,Önerilen Sunucu Seçim Sandığı
+MailTitleGuildDonationReward,Klan Bağış Ödülü
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,"Bu ganimet, Zaman Yarığı [PartyDungeonName] konumunda keşfedildi."
+MailTitleServerTransferDailyDiamond,Günlük Elmas Paketi'nden toplu eksik eşya teslimatı
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,Zaman Yarığı Temizleme Ödülü
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,[NpcName] Fetih Ödülü
+MailContentBossReward,[NpcName] Mağlup edildikten sonra Envanterde yeterli alan yok. Ödül Posta Kutuna yollandı.
+MailTitleFreeFortressResultWinReward,Şato Fethi Zafer Ödülü
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,Şato Fethi Beraberlik Ödülü
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,Şato Fethi Yenilgi Ödülü
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,Şato Fethi Puan Ödülü
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,Ustalık Güçlendirme Ödülü
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,Ustalık Nişanı
+MailTitleFotressDailyReward,Şato Kuşatması Fetih Ödülü
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,Nero’nun Zar Oyunu
+MaileContentNerodiceEvent,Tebrikler! İşte Nero’nun Zar Oyunu'nun ödülü.
+MailTitleFortressSiegeSpotReward,Şato Fethi Ödülü
+MailContentFortressSiegeSpotReward,Bu bir Şato Fethi Konum Kazanma Ödülüdür.
+MaileTitleNerodiceEventFail,Nero’nun Zar Oyunu Teselli Ödülü
+MaileContentNerodiceEventFail,Nero’nun Zar Oyunu'nu kaybedenler için Teselli Ödülü.
+MailTitleAppstoreReward,Önder Sandığı
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Özel Hediye Sandığı
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,Şato Fethi sırasında eylemsizlik yüzünden bağlantın kesildi.
+SuspendAccount,"Erişiminiz, Kullanım Şartları gereğince engellenmiştir. (Yasadışı İşlem, vb.)
+Desteğe ihtiyacınız olursa lütfen Müşteri Destek Merkezi'miz ile bağlantıya geçin.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,"[MyServerName]-[MyGuildName], [PlayerName] isimli oyuncunun [TargetServerName]-[TargetGuildName] ile maçı Yarışma sunucusunda devam ediyor."
+MailTitleFacebookReward,Facebook Başarım Ödülü
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,Satın Alma Bonusu Kategori [CumulativeRewardCount] Ödülü
+MailContentCumulativePurchaseReward,@MailContentCheat

@@ -1,0 +1,93 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Preuve de patience,Tuez {TaskCount} monstre(s).,,
+1112,2. Rangement du jour,Terminez le donjon quotidien en mode Facile.,Aymel,"Ouah ! Vous avez déjà vaincu 50 monstres ? C'est incroyable !<p>Votre prochaine épreuve consiste à terminer un donjon quotidien facile !
+Ces boss ont la réputation d'être très forts.<p>Seuls les grands combattants peuvent les vaincre !
+Faites vos preuves !"
+1113,3. Préparatifs,Obtenez {TaskCount} objet(s) de qualité C.,@1112,"Avant vous, personne n'avait vaincu le boss des terres sacrées en si peu de temps ! Vous êtes un phénomène, vous savez ?<p>La prochaine épreuve consiste à... Hum... Enfin, ce n'est pas vraiment une épreuve. Vous devez récupérer des objets de qualité C.<p>Vous allez devoir développer votre équipement au fil des combats ! Pour cela, vous aurez besoin d'objets de qualité C. Récupérez-en et utilisez-les pour renforcer votre équipement ! Ils vous seront très utiles."
+1114,4. Approbation générale,Participez à au moins {TaskCount} duel(s).,@1112,"Alors ? Développer votre équipement avec des objets de qualité C vous a bien aidé, pas vrai ?<p>Revoyons vos capacités maintenant que vous avez développé votre équipement.<p>Oh, vous pensez combattre des monstres ? Bien essayé !
+Vous devez faire vos preuves face à d'autres joueurs !<p>Il serait dommage que vous perdiez dans l'Arène sans pouvoir vous défendre !<p>Hum, ça devrait faire l'affaire ! Un combat dans l'Arène.
+Un seul combat. Trop facile, pas vrai ?<p>Ne faites pas votre poule mouillée !
+À mes débuts, j'ai participé à 100 combats !
+Allez, à vous de jouer, maintenant !"
+1115,5. Preuve de qualification,Obtenez {TaskCount} Adena.,@1112,"Déjà ? Vous avez déjà combattu dans l'Arène ?<p>Eh bien, passons à la prochaine épreuve, dans ce cas.<p>Elle consiste à ramener 10 000 Adena.<p>Cette épreuve testera vos compétences de chasse et de gestion financière !
+Vous pourriez mourir à un moment crucial si vous gérez mal vos finances !<p>Rapportez donc 10 000 Adena !"
+1116,6. Percée,Réussissez {TaskCount} perfec. d'équip.,@1112,"Passons à la prochaine épreuve !<p>À présent, vous devez perfectionner votre équipement.<p>Pour les mercenaires, l'équipement est vital !
+Perfectionnez votre équipement sérieusement si vous voulez survire sur le champ de bataille !<p>Essayez de perfectionner un équipement !"
+1117,7. Reconnaissance,Tuez Kyrios {TaskCount} fois.,@1112,"Ouah, s'agit-il vraiment de la dernière épreuve ? Félicitations ! On dirait que la hiérarchie attend beaucoup de vous.<p>Face à vos capacités extraordinaires, nous avons décidé de vous intégrer aux Rangers sanguinaires contre Kyrios ! Kyrios est un horrible monstre qui tue des humains !<p>Seuls nos mercenaires les plus talentueux sont sélectionnés pour cette tâche. Quoi qu'il en soit, la hiérarchie veut que vous les rejoigniez !<p>C'est la première fois qu'une telle chose se produit ! Aucun doute, elle reconnaît vos capacités !<p>Surtout, Tuez-le puisque cette tâche remplace la dernière épreuve ! Ce ne sera pas facile, mais je vous souhaite bonne chance !<p>Oh, cet adversaire sera plus coriace que vous ne le pensez, alors n'y allez pas sans aide !"
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

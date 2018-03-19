@@ -1,0 +1,129 @@
+Type,Name
+0,Silaha Bağla
+1,F. Sldr.
+2,B. Sldr.
+3,F. Sldr. Artış Oranı
+4,B. Sldr. Artış Oranı
+5,Normal Saldırı Gücü
+6,Grup Üyesi Sldr. Artış Oranı
+7,Sldr. Hızı Artış Oranı
+8,Güçlendirme
+9,Kritik Hasar Artış Oranı
+14,Kritik Darbe Oranı Artışı
+15,Krit. Direnci Oranı Artışı
+16,F. Hasar
+17,B. Hasarı
+18,Svn. Yok Say
+19,Hedefin Can Azalması
+20,Hedefin Can Azalması (%)
+21,F. Svn.
+22,B. Svn.
+23,F. Svn. Artış Oranı
+24,B. Svn. Artış Oranı
+26,Kaçınma
+27,Kaçınma Oranı Artışı
+28,Kaçınma Oranı Artışı
+29,İsabet
+30,İsabet Oranı Artışı
+31,İsabet Oranı Artışı
+32,Hasar Artış Oranı
+33,F. Hasar Artış Oranı
+34,@IncreaseDamagePhyMul
+35,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı
+36,Svn. Yok Sayma Hasarı
+37,Hasar Azaltma Oranı
+38,F. Hasar Azaltma Oranı
+39,B. Hasarı Azaltma Oranı
+40,Sabit Hasar Azaltma
+41,Blok Şansı
+42,Yansıtma Hsr. Azaltma Oranı
+43,Süreli F. Hasar
+44,Süreli B. Hasarı
+45,Sldr. Temelli İyileştirme
+46,Süreli İyileştirme
+47,Arazi Etkisi
+48,Taarruz Artış Oranı
+49,CAN
+50,Maks Canının belirli bir yüzdesi kadar canını artırır.
+51,Can Yenileme
+52,Can Çalma
+53,Can Soğurma (düşmanlarından can çalan aktif yetenek)
+54,Can Soğurma (grubunun düşmanlardan can çalmasını sağlayan aktif yetenek)
+55,Yenilmez
+56,Görünmez
+57,Eşya Düşme Oranı Artışı
+58,Maks Can
+59,Maks Can Yenileme Oranı
+60,Maks Mana
+61,Maks Mana Artış Oranı
+62,Hız Artış Oranı
+63,MANA
+64,Maks Mananın belirli bir yüzdesi kadar mananı artırır.
+65,Gereken Mana Azalış Oranı
+66,Gereken Manayı Azaltma
+67,Mana Yenileme Oranı
+68,Tek Atma (Anında Öldürür)
+69,Menzilli
+70,Bekleme Süresi Azaltma
+71,Zeki (Yeteneklerin manası 1' düşer)
+72,Güç Şerbeti Saldırı Bonusu
+73,Dayanıklı (Alınan Tüm Hasar 1'e düşer)
+74,Sersemlet
+75,Küçümseme (aggroyu maksimuma çeker)
+76,Hedefe Kitlen
+77,Hedefe Hareket Et
+78,Hedefi Çek
+79,Çekme Direnci Oranı
+81,Düşürülme Direnci Oranı
+83,İksir
+84,Etkisi Yok
+85,Yenetek Seti Bilgi Tanımlayıcısı
+179,Alan Güçlendirmesi (Aura Totem)
+86,TP
+87,TP Kazanma Artış Oranı
+88,Adena
+89,Adena Kazanma Artış Oranı
+90,Bedava Elmas
+91,Satın Alınmış Elmaslar
+92,Klan Parası
+93,Run Parçası
+94,SP
+95,Oto-Temizleme
+96,Düşen Eşya
+97,Yavaşlatma Direnci Oranı
+98,Sersemletme ve Yere Yıkma Direnci Oranı
+99,Anormal Durum Direnci Oranı
+103,Yetenek Menzili Artışı
+104,Yetenek Vuruş Sayısı Artışı
+100,Kombo Bitiş Süresi Artışı
+101,Delme
+102,Direnç
+105,Toplama Hızı Artışı
+106,Toplama Sayısı Artışı
+10,Krit. Oranı
+11,Kritik Direnci
+12,Krit. Oran Artış Oranı
+13,Kritik Direnci Artış oranı
+125,Zihin Kontrolü
+133,Normal Saldırı Yetenek Hasar Artışı
+140,Yetenek Bekleme Süresini yüzdeli düşürür.
+146,Hedefin Manasını Düşürür
+147,Hedefin Manasını yüzdeli düşürür.
+148,SLDR'ye göre Mana yeniler.
+179,Grup boyutuna göre Svn. Artış Oranı
+151,Anormal Durumu Kaldırır
+152,Hedefteki Zayıflatmaları Kaldırır
+153,Belirli bir canın altında hasara karşı korunma
+136,Can Yenileme Artış Oranı
+163,Son Hsr. Artış Oranı
+164,Son Hsr. + Ek Hsr. Azaltma Oranı
+165,@NormalSkillDamageMul
+174,Normal İyileştirme Yeteneği İyileştirme Artışı
+171,Sersemletme ve Yere Yıkma Direnci Oranı Artışı
+170,Yavaşlatma Direnci Oranı Artışı
+169,Kritik Direnç Oranı Artışı
+131,Canavarlara Verilen Hasar Artışı
+132,Canavarlardan Alınan Hasar’ı Azaltma
+176,Canavarlara Verilen Normal Yetenek Hasarı Artışı
+177,@NormalSkillMonsterDamageMul
+160,Hasar Artma Oranı NPC Rütbesine ve Irka göre değişir

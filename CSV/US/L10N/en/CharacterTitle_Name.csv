@@ -55,3 +55,4 @@ Id,Name,Description,DescParam
 5100400,Enlightened One,"Gained when you reach rank #{DescParam} in the level rankings.
 (Held while you meet the set conditions.)",1
 30000000,Initial Pioneer,Limited-edition title available to players who have pre-registered.,
+30000010,Clan Patron,An honorary title granted to clan members who offer immense support to their clans.,

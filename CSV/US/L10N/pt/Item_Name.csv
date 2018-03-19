@@ -1,0 +1,2826 @@
+Id,Name,TypeDesc,LimitDesc,UsingDesc,ReplaceString1,ReplaceString2,Desc
+1021,악마의 영혼석: 자켄,Consumíveis,,"Obtenha de monstros do Sub-bosque da Floresta dos Segredos. Vincule 100 para ganhar o “Pergaminho Demoníaco: Zaken.”
+O “Pergaminho Demoníaco: Zaken” é um pergaminho de missão secundária útil ao chegar no nv. 230.",,,
+1022,악마의 스크롤: 자켄,@1021,,"Um pergaminho de missão secundária usado para ganhar fichas de batalha: Zaken.
+Use ficha de batalha: Zaken para entrar no Navio Pirata de Zaken.","Localização de destino: Domínio de Giran
+Restrição de Nv.: 230.",,
+1023,결전의 징표: 자켄,@1021,,"자켄을 처치하기로 맹세한 자의 징표입니다.
+자켄의 해적선에 입장 할 수 있습니다.",,,
+10001,Broto da primavera,Poção,,"Este broto contém energia da iminente primavera.
+Use para comprar itens no menu de eventos.",,,Aumenta em 2.000 a def. durante 10 min.
+10002,Baú de brotos,@1021,,"Esta caixa guarda brotos em segurança.
+Abra para adquirir 30 brotos.",,,Itens adquiridos após o uso não podem ser trocados.
+10003,Bilhete de conclusão bônus,Evento,,"Use este bilhete para conclusões adicionais após ter alcançado o limite de conclusão diária da Escola de Aymel.
+Use no menu de eventos.",,,
+10004,Bom trabalho,@10001,,"Que ótimo membro de clã!
+Use para comprar itens no menu de eventos.",,,Aumenta em 1.500 o atq. durante 10 min.
+10005,Caixa de selos de congratulação,@1021,,"Esta caixa guarda em segurança selos de congratulação.
+Abra para adquirir 30 selos de bom trabalho.",,,@10002
+10006,Melancia,@10001,,"Melancia refrescante, perfeita para matar sua sede.
+É enviada para a caixa de correio ao entrar na arena.",,,Aumenta em 3.000 os PV durante 10 min.
+10007,Uvas,@10001,,"Uvas deliciosas e suculentas.
+São enviadas para a sua caixa de correio na conclusão automática da Torre da Insolência.",,,Aumenta em 3% o dano crítico por 10 min.
+10008,Melão-oriental,@10001,,"Um delicioso melão oriental, cheio de vitamina C e ótimo para recuperar a fadiga.
+É enviado para a sua caixa de correio ao entrar na Círculo de Invocação.",,,@10001
+10009,Framboesas,@10001,,"Framboesas de verão são nutritivas e deliciosas. Experimente para ver!
+São enviadas para a sua caixa de correio ao concluir a masmorra diária.",,,@10004
+10010,Caixa de Frutas do Verão,@1021,,"Caixa de frutas sazonais de verão.
+Abra esta caixa para ganhar: melancia, uvas, melão oriental ou framboesas.
+Ganhe esta caixa de frutas ao extrair ervas na Masmorra de Extração.",,,
+10033,Agulha de pinheiro,@1021,,"피톤치드가 풍부하게 담겼으며, 솔향이 그윽한 솔잎입니다. 송편의 필수 재료입니다.",,,
+10034,천연 벌꿀,@1021,,미네랄과 비타민 등 영양이 풍부한 천연 벌꿀입니다. 꿀송편의 달콤함을 책임집니다,,,
+10035,유기농 쌀가루,@1021,,메뚜기와 함께 자라난 유기농 쌀을 방앗간에서 곱게 갈아 만든 쌀가루입니다. 송편의 필수 재료입니다.,,,
+10036,참깨,@1021,,꼬소함을 자랑하는 참깨입니다. 꿀송편에 들어가 달콤함과 고소함의 밸런스를 맞추어줍니다.,,,
+10037,가을밤,@1021,,잘 익은 가을 밤입니다. 맛도 영양도 일품입니다. 밤송편에 들어가는 주 재료 입니다. ,,,
+510107,Fogos de artifício noturnos,@1021,,Fogos de artifício que iluminam o céu à noite.,Acenda-os para ver lindos fogos de artifício.,,
+510108,Fogos de artifício de Prataluz,@1021,,Fogos de artifício que brilham como estrelas no céu.,@510107,,
+510109,Fogos de artifício da prosperidade,@1021,,Fogos de artifício que simbolizam o desejo de prosperidade.,@510107,,
+510110,Fogos de artifício do amor,@1021,,Fogos de artifício especiais que garantem o sucesso no pedido de casamento.,@510107,,
+510111,혈맹 이름 변경권,@1021,,혈맹 이름을 변경할 수 있습니다.,,,
+510112,할로윈 캔디 폭죽,@1021,,달콤한 캔디가 쏟아지는 할로윈 폭죽입니다.,@510107,,
+510113,해피 할로윈 폭죽,@1021,,행복한 할로윈을 기원하는 폭죽입니다.,@510107,,
+110010,Espada Longa do Samurai,Espada e escudo,,Esta arma aumenta o atq. e a def.,,,
+110011,@110010,@110010,,@110010,,,
+110012,@110010,@110010,,@110010,,,
+110013,@110010,@110010,,@110010,,,
+110014,@110010,@110010,,@110010,,,
+110015,@110010,@110010,,@110010,,,
+110016,@110010,@110010,,@110010,,,
+110020,Espada da Revolução,@110010,,@110010,,,
+110021,@110020,@110010,,@110010,,,
+110022,@110020,@110010,,@110010,,,
+110023,@110020,@110010,,@110010,,,
+110024,@110020,@110010,,@110010,,,
+110025,@110020,@110010,,@110010,,,
+110026,@110020,@110010,,@110010,,,
+110030,Espada de Dynasty,@110010,,@110010,,,
+110031,@110030,@110010,,@110010,,,
+110032,@110030,@110010,,@110010,,,
+110033,@110030,@110010,,@110010,,,
+110034,@110030,@110010,,@110010,,,
+110035,@110030,@110010,,@110010,,,
+110036,@110030,@110010,,@110010,,,
+110043,Espada de Dunamiss,@110010,,@110010,,,
+110044,@110043,@110010,,@110010,,,
+110045,@110043,@110010,,@110010,,,
+110046,@110043,@110010,,@110010,,,
+110053,Tempestário,@110010,,@110010,,,
+110054,Tempestário,@110010,,@110010,,,
+110055,Tempestário,@110010,,@110010,,,
+120010,Pelta,Lança,,Esta arma tem um grande raio de ataque.,,,
+120011,@120010,@120010,,@120010,,,
+120012,@120010,@120010,,@120010,,,
+120013,@120010,@120010,,@120010,,,
+120014,@120010,@120010,,@120010,,,
+120015,@120010,@120010,,@120010,,,
+120016,@120010,@120010,,@120010,,,
+120020,Escorpião,@120010,,@120010,,,
+120021,@120020,@120010,,@120010,,,
+120022,@120020,@120010,,@120010,,,
+120023,@120020,@120010,,@120010,,,
+120024,@120020,@120010,,@120010,,,
+120025,@120020,@120010,,@120010,,,
+120026,@120020,@120010,,@120010,,,
+120030,Machado Grande,@120010,,@120010,,,
+120031,@120030,@120010,,@120010,,,
+120032,@120030,@120010,,@120010,,,
+120033,@120030,@120010,,@120010,,,
+120034,@120030,@120010,,@120010,,,
+120035,@120030,@120010,,@120010,,,
+120036,@120030,@120010,,@120010,,,
+120043,Exídio,@120010,,@120010,,,
+120044,@120043,@120010,,@120010,,,
+120045,@120043,@120010,,@120010,,,
+120046,@120043,@120010,,@120010,,,
+120053,Glaive Órquica,@120010,,@120010,,,
+120054,Glaive Órquica,@120010,,@120010,,,
+120055,Glaive Órquica,@120010,,@120010,,,
+130010,Espada Longa Dupla do Samurai,Espadas duplas,,Esta arma possui várias combinações de ataque.,,,
+130011,@130010,@130010,,@130010,,,
+130012,@130010,@130010,,@130010,,,
+130013,@130010,@130010,,@130010,,,
+130014,@130010,@130010,,@130010,,,
+130015,@130010,@130010,,@130010,,,
+130016,@130010,@130010,,@130010,,,
+130020,Espada Dupla da Revolução,@130010,,@130010,,,
+130021,@130020,@130010,,@130010,,,
+130022,@130020,@130010,,@130010,,,
+130023,@130020,@130010,,@130010,,,
+130024,@130020,@130010,,@130010,,,
+130025,@130020,@130010,,@130010,,,
+130026,@130020,@130010,,@130010,,,
+130030,Espada Dupla de Dynasty,@130010,,@130010,,,
+130031,@130030,@130010,,@130010,,,
+130032,@130030,@130010,,@130010,,,
+130033,@130030,@130010,,@130010,,,
+130034,@130030,@130010,,@130010,,,
+130035,@130030,@130010,,@130010,,,
+130036,@130030,@130010,,@130010,,,
+130043,Espada Dupla de Dunamiss,@130010,,@130010,,,
+130044,@130043,@130010,,@130010,,,
+130045,@130043,@130010,,@130010,,,
+130046,@130043,@130010,,@130010,,,
+130053,Tempestários Duplos,@130010,,@130010,,,
+130054,Tempestários Duplos,@130010,,@130010,,,
+130055,Tempestários Duplos,@130010,,@130010,,,
+140010,Punhal da Perdição,Punhal,,Esta arma possui ataques rápidos.,,,
+140011,@140010,@140010,,@140010,,,
+140012,@140010,@140010,,@140010,,,
+140013,@140010,@140010,,@140010,,,
+140014,@140010,@140010,,@140010,,,
+140015,@140010,@140010,,@140010,,,
+140016,@140010,@140010,,@140010,,,
+140020,Gritador Sombrio,@140010,,@140010,,,
+140021,@140020,@140010,,@140010,,,
+140022,@140020,@140010,,@140010,,,
+140023,@140020,@140010,,@140010,,,
+140024,@140020,@140010,,@140010,,,
+140025,@140020,@140010,,@140010,,,
+140026,@140020,@140010,,@140010,,,
+140030,Punhal de Cristal,@140010,,@140010,,,
+140031,@140030,@140010,,@140010,,,
+140032,@140030,@140010,,@140010,,,
+140033,@140030,@140010,,@140010,,,
+140034,@140030,@140010,,@140010,,,
+140035,@140030,@140010,,@140010,,,
+140036,@140030,@140010,,@140010,,,
+140043,Cérbero,@140010,,@140010,,,
+140044,@140043,@140010,,@140010,,,
+140045,@140043,@140010,,@140010,,,
+140046,@140043,@140010,,@140010,,,
+140053,Punhal de Mithril,@140010,,@140010,,,
+140054,Punhal de Mithril,@140010,,@140010,,,
+140055,Punhal de Mithril,@140010,,@140010,,,
+150010,Arco de Gelo Cristalizado,Arco,,Esta arma tem um longo alcance.,,,
+150011,@150010,@150010,,@150010,,,
+150012,@150010,@150010,,@150010,,,
+150013,@150010,@150010,,@150010,,,
+150014,@150010,@150010,,@150010,,,
+150015,@150010,@150010,,@150010,,,
+150016,@150010,@150010,,@150010,,,
+150020,Besta Leve,@150010,,@150010,,,
+150021,@150020,@150010,,@150010,,,
+150022,@150020,@150010,,@150010,,,
+150023,@150020,@150010,,@150010,,,
+150024,@150020,@150010,,@150010,,,
+150025,@150020,@150010,,@150010,,,
+150026,@150020,@150010,,@150010,,,
+150030,Arco Longo de Akat,@150010,,@150010,,,
+150031,@150030,@150010,,@150010,,,
+150032,@150030,@150010,,@150010,,,
+150033,@150030,@150010,,@150010,,,
+150034,@150030,@150010,,@150010,,,
+150035,@150030,@150010,,@150010,,,
+150036,@150030,@150010,,@150010,,,
+150043,Upitear,@150010,,@150010,,,
+150044,@150043,@150010,,@150010,,,
+150045,@150043,@150010,,@150010,,,
+150046,@150043,@150010,,@150010,,,
+150053,Arco Élfico,@150010,,@150010,,,
+150054,Arco Élfico,@150010,,@150010,,,
+150055,Arco Élfico,@150010,,@150010,,,
+160010,Cajado do Demônio,Cajado,,Esta arma lança ataques mágicos poderosos.,,,
+160011,@160010,@160010,,@160010,,,
+160012,@160010,@160010,,@160010,,,
+160013,@160010,@160010,,@160010,,,
+160014,@160010,@160010,,@160010,,,
+160015,@160010,@160010,,@160010,,,
+160016,@160010,@160010,,@160010,,,
+160020,Cajado da Vida,@160010,,@160010,,,
+160021,@160020,@160010,,@160010,,,
+160022,@160020,@160010,,@160010,,,
+160023,@160020,@160010,,@160010,,,
+160024,@160020,@160010,,@160010,,,
+160025,@160020,@160010,,@160010,,,
+160026,@160020,@160010,,@160010,,,
+160030,Caveira de Dragão Flamejante,@160010,,@160010,,,
+160031,@160030,@160010,,@160010,,,
+160032,@160030,@160010,,@160010,,,
+160033,@160030,@160010,,@160010,,,
+160034,@160030,@160010,,@160010,,,
+160035,@160030,@160010,,@160010,,,
+160036,@160030,@160010,,@160010,,,
+160043,Abismo Sombrio,@160010,,@160010,,,
+160044,@160043,@160010,,@160010,,,
+160045,@160043,@160010,,@160010,,,
+160046,@160043,@160010,,@160010,,,
+160053,Galho da Árvore-Mãe,@160010,,@160010,,,
+160054,Galho da Árvore-Mãe,@160010,,@160010,,,
+160055,Galho da Árvore-Mãe,@160010,,@160010,,,
+170014,@110010,@160010,,@160010,,,
+210010,Acessório para Cabeça do Lobo Azul,Armadura pesada,,Esse equipamento aumenta sua def.,,,
+210011,@210010,@210010,,@210010,,,
+210012,@210010,@210010,,@210010,,,
+210013,@210010,@210010,,@210010,,,
+210014,@210010,@210010,,@210010,,,
+210015,@210010,@210010,,@210010,,,
+210016,@210010,@210010,,@210010,,,
+220010,Armadura do Lobo Azul,@210010,,@210010,,,
+220011,@220010,@210010,,@210010,,,
+220012,@220010,@210010,,@210010,,,
+220013,@220010,@210010,,@210010,,,
+220014,@220010,@210010,,@210010,,,
+220015,@220010,@210010,,@210010,,,
+220016,@220010,@210010,,@210010,,,
+230010,Luvas do Lobo Azul,@210010,,@210010,,,
+230011,@230010,@210010,,@210010,,,
+230012,@230010,@210010,,@210010,,,
+230013,@230010,@210010,,@210010,,,
+230014,@230010,@210010,,@210010,,,
+230015,@230010,@210010,,@210010,,,
+230016,@230010,@210010,,@210010,,,
+240010,Botas do Lobo Azul,@210010,,@210010,,,
+240011,@240010,@210010,,@210010,,,
+240012,@240010,@210010,,@210010,,,
+240013,@240010,@210010,,@210010,,,
+240014,@240010,@210010,,@210010,,,
+240015,@240010,@210010,,@210010,,,
+240016,@240010,@210010,,@210010,,,
+210020,Acessório para Cabeça de Trilheiro,Armadura leve,,@210010,,,
+210021,@210020,@210020,,@210010,,,
+210022,@210020,@210020,,@210010,,,
+210023,@210020,@210020,,@210010,,,
+210024,@210020,@210020,,@210010,,,
+210025,@210020,@210020,,@210010,,,
+210026,@210020,@210020,,@210010,,,
+220020,Armadura de Trilheiro,@210020,,@210010,,,
+220021,@220020,@210020,,@210010,,,
+220022,@220020,@210020,,@210010,,,
+220023,@220020,@210020,,@210010,,,
+220024,@220020,@210020,,@210010,,,
+220025,@220020,@210020,,@210010,,,
+220026,@220020,@210020,,@210010,,,
+230020,Luvas de Trilheiro,@210020,,@210010,,,
+230021,@230020,@210020,,@210010,,,
+230022,@230020,@210020,,@210010,,,
+230023,@230020,@210020,,@210010,,,
+230024,@230020,@210020,,@210010,,,
+230025,@230020,@210020,,@210010,,,
+230026,@230020,@210020,,@210010,,,
+240020,Botas de Trilheiro,@210020,,@210010,,,
+240021,@240020,@210020,,@210010,,,
+240022,@240020,@210020,,@210010,,,
+240023,@240020,@210020,,@210010,,,
+240024,@240020,@210020,,@210010,,,
+240025,@240020,@210020,,@210010,,,
+240026,@240020,@210020,,@210010,,,
+210030,Acessório para Cabeça de Dynasty,Manto,,@210010,,,
+210031,@210030,@210030,,@210010,,,
+210032,@210030,@210030,,@210010,,,
+210033,@210030,@210030,,@210010,,,
+210034,@210030,@210030,,@210010,,,
+210035,@210030,@210030,,@210010,,,
+210036,@210030,@210030,,@210010,,,
+220030,Armadura de Dynasty,@210030,,@210010,,,
+220031,@220030,@210030,,@210010,,,
+220032,@220030,@210030,,@210010,,,
+220033,@220030,@210030,,@210010,,,
+220034,@220030,@210030,,@210010,,,
+220035,@220030,@210030,,@210010,,,
+220036,@220030,@210030,,@210010,,,
+230030,Luvas de Dynasty,@210030,,@210010,,,
+230031,@230030,@210030,,@210010,,,
+230032,@230030,@210030,,@210010,,,
+230033,@230030,@210030,,@210010,,,
+230034,@230030,@210030,,@210010,,,
+230035,@230030,@210030,,@210010,,,
+230036,@230030,@210030,,@210010,,,
+240030,Botas de Dynasty,@210030,,@210010,,,
+240031,@240030,@210030,,@210010,,,
+240032,@240030,@210030,,@210010,,,
+240033,@240030,@210030,,@210010,,,
+240034,@240030,@210030,,@210010,,,
+240035,@240030,@210030,,@210010,,,
+240036,@240030,@210030,,@210010,,,
+210040,Acessório para Cabeça do Pesadelo,@210010,,@210010,,,
+210041,@210040,@210010,,@210010,,,
+210042,@210040,@210010,,@210010,,,
+210043,@210040,@210010,,@210010,,,
+210044,@210040,@210010,,@210010,,,
+210045,@210040,@210010,,@210010,,,
+210046,@210040,@210010,,@210010,,,
+220040,Armadura do Pesadelo,@210010,,@210010,,,
+220041,@220040,@210010,,@210010,,,
+220042,@220040,@210010,,@210010,,,
+220043,@220040,@210010,,@210010,,,
+220044,@220040,@210010,,@210010,,,
+220045,@220040,@210010,,@210010,,,
+220046,@220040,@210010,,@210010,,,
+230040,Luvas do Pesadelo,@210010,,@210010,,,
+230041,@230040,@210010,,@210010,,,
+230042,@230040,@210010,,@210010,,,
+230043,@230040,@210010,,@210010,,,
+230044,@230040,@210010,,@210010,,,
+230045,@230040,@210010,,@210010,,,
+230046,@230040,@210010,,@210010,,,
+240040,Botas do Pesadelo,@210010,,@210010,,,
+240041,@240040,@210010,,@210010,,,
+240042,@240040,@210010,,@210010,,,
+240043,@240040,@210010,,@210010,,,
+240044,@240040,@210010,,@210010,,,
+240045,@240040,@210010,,@210010,,,
+240046,@240040,@210010,,@210010,,,
+210050,Acessório para Cabeça de Avadon,@210020,,@210010,,,
+210051,@210050,@210020,,@210010,,,
+210052,@210050,@210020,,@210010,,,
+210053,@210050,@210020,,@210010,,,
+210054,@210050,@210020,,@210010,,,
+210055,@210050,@210020,,@210010,,,
+210056,@210050,@210020,,@210010,,,
+220050,Armadura de Avadon,@210020,,@210010,,,
+220051,@220050,@210020,,@210010,,,
+220052,@220050,@210020,,@210010,,,
+220053,@220050,@210020,,@210010,,,
+220054,@220050,@210020,,@210010,,,
+220055,@220050,@210020,,@210010,,,
+220056,@220050,@210020,,@210010,,,
+230050,Luvas de Avadon,@210020,,@210010,,,
+230051,@230050,@210020,,@210010,,,
+230052,@230050,@210020,,@210010,,,
+230053,@230050,@210020,,@210010,,,
+230054,@230050,@210020,,@210010,,,
+230055,@230050,@210020,,@210010,,,
+230056,@230050,@210020,,@210010,,,
+240050,Botas de Avadon,@210020,,@210010,,,
+240051,@240050,@210020,,@210010,,,
+240052,@240050,@210020,,@210010,,,
+240053,@240050,@210020,,@210010,,,
+240054,@240050,@210020,,@210010,,,
+240055,@240050,@210020,,@210010,,,
+240056,@240050,@210020,,@210010,,,
+210060,Acessório para Cabeça Majestoso,@210030,,@210010,,,
+210061,@210060,@210030,,@210010,,,
+210062,@210060,@210030,,@210010,,,
+210063,@210060,@210030,,@210010,,,
+210064,@210060,@210030,,@210010,,,
+210065,@210060,@210030,,@210010,,,
+210066,@210060,@210030,,@210010,,,
+220060,Armadura Majestosa,@210030,,@210010,,,
+220061,@220060,@210030,,@210010,,,
+220062,@220060,@210030,,@210010,,,
+220063,@220060,@210030,,@210010,,,
+220064,@220060,@210030,,@210010,,,
+220065,@220060,@210030,,@210010,,,
+220066,@220060,@210030,,@210010,,,
+230060,Luvas Majestosas,@210030,,@210010,,,
+230061,@230060,@210030,,@210010,,,
+230062,@230060,@210030,,@210010,,,
+230063,@230060,@210030,,@210010,,,
+230064,@230060,@210030,,@210010,,,
+230065,@230060,@210030,,@210010,,,
+230066,@230060,@210030,,@210010,,,
+240060,Botas Majestosas,@210030,,@210010,,,
+240061,@240060,@210030,,@210010,,,
+240062,@240060,@210030,,@210010,,,
+240063,@240060,@210030,,@210010,,,
+240064,@240060,@210030,,@210010,,,
+240065,@240060,@210030,,@210010,,,
+240066,@240060,@210030,,@210010,,,
+210073,Acessório para Cabeça de Dominus,@210010,,@210010,,,
+210074,@210073,@210010,,@210010,,,
+210075,@210073,@210010,,@210010,,,
+210076,@210073,@210010,,@210010,,,
+220073,Armadura de Dominus,@210010,,@210010,,,
+220074,@220073,@210010,,@210010,,,
+220075,@220073,@210010,,@210010,,,
+220076,@220073,@210010,,@210010,,,
+230073,Luvas de Dominus,@210010,,@210010,,,
+230074,@230073,@210010,,@210010,,,
+230075,@230073,@210010,,@210010,,,
+230076,@230073,@210010,,@210010,,,
+240073,Botas de Dominus,@210010,,@210010,,,
+240074,@240073,@210010,,@210010,,,
+240075,@240073,@210010,,@210010,,,
+240076,@240073,@210010,,@210010,,,
+210083,Acessório para Cabeça de Reggios,@210020,,@210010,,,
+210084,@210083,@210020,,@210010,,,
+210085,@210083,@210020,,@210010,,,
+210086,@210083,@210020,,@210010,,,
+220083,Armadura de Reggios,@210020,,@210010,,,
+220084,@220083,@210020,,@210010,,,
+220085,@220083,@210020,,@210010,,,
+220086,@220083,@210020,,@210010,,,
+230083,Luvas de Reggios,@210020,,@210010,,,
+230084,@230083,@210020,,@210010,,,
+230085,@230083,@210020,,@210010,,,
+230086,@230083,@210020,,@210010,,,
+240083,Botas de Reggios,@210020,,@210010,,,
+240084,@240083,@210020,,@210010,,,
+240085,@240083,@210020,,@210010,,,
+240086,@240083,@210020,,@210010,,,
+210093,Acessório para Cabeça de Optimus,@210030,,@210010,,,
+210094,@210093,@210030,,@210010,,,
+210095,@210093,@210030,,@210010,,,
+210096,@210093,@210030,,@210010,,,
+220093,Armadura de Optimus,@210030,,@210010,,,
+220094,@220093,@210030,,@210010,,,
+220095,@220093,@210030,,@210010,,,
+220096,@220093,@210030,,@210010,,,
+230093,Luvas de Optimus,@210030,,@210010,,,
+230094,@230093,@210030,,@210010,,,
+230095,@230093,@210030,,@210010,,,
+230096,@230093,@210030,,@210010,,,
+240093,Botas de Optimus,@210030,,@210010,,,
+240094,@240093,@210030,,@210010,,,
+240095,@240093,@210030,,@210010,,,
+240096,@240093,@210030,,@210010,,,
+210103,Elmo de Mithril,@210010,,@210010,,,
+210104,Elmo de Mithril,@210010,,@210010,,,
+210105,Elmo de Mithril,@210010,,@210010,,,
+220103,Armadura de Mithril,@210010,,@210010,,,
+220104,Armadura de Mithril,@210010,,@210010,,,
+220105,Armadura de Mithril,@210010,,@210010,,,
+230103,Luvas de Mithril,@210010,,@210010,,,
+230104,Luvas de Mithril,@210010,,@210010,,,
+230105,Luvas de Mithril,@210010,,@210010,,,
+240103,Botas de Mithril,@210010,,@210010,,,
+240104,Botas de Mithril,@210010,,@210010,,,
+240105,Botas de Mithril,@210010,,@210010,,,
+210113,Elmo de Cristal Sombrio,@210020,,@210010,,,
+210114,Elmo de Cristal Sombrio,@210020,,@210010,,,
+210115,Elmo de Cristal Sombrio,@210020,,@210010,,,
+220113,Armadura de Cristal Sombrio,@210020,,@210010,,,
+220114,Armadura de Cristal Sombrio,@210020,,@210010,,,
+220115,Armadura de Cristal Sombrio,@210020,,@210010,,,
+230113,Luvas de Cristal Sombrio,@210020,,@210010,,,
+230114,Luvas de Cristal Sombrio,@210020,,@210010,,,
+230115,Luvas de Cristal Sombrio,@210020,,@210010,,,
+240113,Botas de Cristal Sombrio,@210020,,@210010,,,
+240114,Botas de Cristal Sombrio,@210020,,@210010,,,
+240115,Botas de Cristal Sombrio,@210020,,@210010,,,
+210123,Elmo Divino,@210030,,@210010,,,
+210124,Elmo Divino,@210030,,@210010,,,
+210125,Elmo Divino,@210030,,@210010,,,
+220123,Armadura Divina,@210030,,@210010,,,
+220124,Armadura Divina,@210030,,@210010,,,
+220125,Armadura Divina,@210030,,@210010,,,
+230123,Luvas Divinas,@210030,,@210010,,,
+230124,Luvas Divinas,@210030,,@210010,,,
+230125,Luvas Divinas,@210030,,@210010,,,
+240123,Botas Divinas,@210030,,@210010,,,
+240124,Botas Divinas,@210030,,@210010,,,
+240125,Botas Divinas,@210030,,@210010,,,
+310001,Anel Élfico,Acessório,,Aumenta os atributos do personagem.,,,
+310002,@310001,@310001,,@310001,,,
+310003,@310001,@310001,,@310001,,,
+310004,@310001,@310001,,@310001,,,
+310005,@310001,@310001,,@310001,,,
+310006,@310001,@310001,,@310001,,,
+320001,Colar Élfico,@310001,Disp. após transf. de classe,@310001,,,
+320002,@320001,@310001,@320001,@310001,,,
+320003,@320001,@310001,@320001,@310001,,,
+320004,@320001,@310001,@320001,@310001,,,
+320005,@320001,@310001,@320001,@310001,,,
+320006,@320001,@310001,@320001,@310001,,,
+330001,Brincos Élficos,@310001,,@310001,,,
+330002,@330001,@310001,,@310001,,,
+330003,@330001,@310001,,@310001,,,
+330004,@330001,@310001,,@310001,,,
+330005,@330001,@310001,,@310001,,,
+330006,@330001,@310001,,@310001,,,
+310011,Anel de Pedra-da-lua,@310001,,@310001,,,
+310012,@310011,@310001,,@310001,,,
+310013,@310011,@310001,,@310001,,,
+310014,@310011,@310001,,@310001,,,
+310015,@310011,@310001,,@310001,,,
+310016,@310011,@310001,,@310001,,,
+320011,Colar de Pedra-da-lua,@310001,@320001,@310001,,,
+320012,@320011,@310001,@320001,@310001,,,
+320013,@320011,@310001,@320001,@310001,,,
+320014,@320011,@310001,@320001,@310001,,,
+320015,@320011,@310001,@320001,@310001,,,
+320016,@320011,@310001,@320001,@310001,,,
+330011,Brinco de Pedra-da-lua,@310001,,@310001,,,
+330012,@330011,@310001,,@310001,,,
+330013,@330011,@310001,,@310001,,,
+330014,@330011,@310001,,@310001,,,
+330015,@330011,@310001,,@310001,,,
+330016,@330011,@310001,,@310001,,,
+310021,Anel de Minério Negro,@310001,,@310001,,,
+310022,@310021,@310001,,@310001,,,
+310023,@310021,@310001,,@310001,,,
+310024,@310021,@310001,,@310001,,,
+310025,@310021,@310001,,@310001,,,
+310026,@310021,@310001,,@310001,,,
+320021,Colar de Minério Negro,@310001,@320001,@310001,,,
+320022,@320021,@310001,@320001,@310001,,,
+320023,@320021,@310001,@320001,@310001,,,
+320024,@320021,@310001,@320001,@310001,,,
+320025,@320021,@310001,@320001,@310001,,,
+320026,@320021,@310001,@320001,@310001,,,
+330021,Brinco de Minério Negro,@310001,,@310001,,,
+330022,@330021,@310001,,@310001,,,
+330023,@330021,@310001,,@310001,,,
+330024,@330021,@310001,,@310001,,,
+330025,@330021,@310001,,@310001,,,
+330026,@330021,@310001,,@310001,,,
+310031,Anel da Fênix,@310001,,@310001,,,
+310032,@310031,@310001,,@310001,,,
+310033,@310031,@310001,,@310001,,,
+310034,@310031,@310001,,@310001,,,
+310035,@310031,@310001,,@310001,,,
+310036,@310031,@310001,,@310001,,,
+320031,Colar da Fênix,@310001,@320001,@310001,,,
+320032,@320031,@310001,@320001,@310001,,,
+320033,@320031,@310001,@320001,@310001,,,
+320034,@320031,@310001,@320001,@310001,,,
+320035,@320031,@310001,@320001,@310001,,,
+320036,@320031,@310001,@320001,@310001,,,
+330031,Brinco da Fênix,@310001,,@310001,,,
+330032,@330031,@310001,,@310001,,,
+330033,@330031,@310001,,@310001,,,
+330034,@330031,@310001,,@310001,,,
+330035,@330031,@310001,,@310001,,,
+330036,@330031,@310001,,@310001,,,
+310041,Anel de Nassen,@310001,,@310001,,,
+310042,@310041,@310001,,@310001,,,
+310043,@310041,@310001,,@310001,,,
+310044,@310041,@310001,,@310001,,,
+310045,@310041,@310001,,@310001,,,
+310046,@310041,@310001,,@310001,,,
+320041,Colar de Nassen,@310001,@320001,@310001,,,
+320042,@320041,@310001,@320001,@310001,,,
+320043,@320041,@310001,@320001,@310001,,,
+320044,@320041,@310001,@320001,@310001,,,
+320045,@320041,@310001,@320001,@310001,,,
+320046,@320041,@310001,@320001,@310001,,,
+330041,Brinco de Nassen,@310001,,@310001,,,
+330042,@330041,@310001,,@310001,,,
+330043,@330041,@310001,,@310001,,,
+330044,@330041,@310001,,@310001,,,
+330045,@330041,@310001,,@310001,,,
+330046,@330041,@310001,,@310001,,,
+310051,Anel Arbóreo,@310001,,@310001,,,
+310052,@310051,@310001,,@310001,,,
+310053,@310051,@310001,,@310001,,,
+310054,@310051,@310001,,@310001,,,
+310055,@310051,@310001,,@310001,,,
+310056,@310051,@310001,,@310001,,,
+320051,Colar Arbóreo,@310001,@320001,@310001,,,
+320052,@320051,@310001,@320001,@310001,,,
+320053,@320051,@310001,@320001,@310001,,,
+320054,@320051,@310001,@320001,@310001,,,
+320055,@320051,@310001,@320001,@310001,,,
+320056,@320051,@310001,@320001,@310001,,,
+330051,Brinco Arbóreo,@310001,,@310001,,,
+330052,@330051,@310001,,@310001,,,
+330053,@330051,@310001,,@310001,,,
+330054,@330051,@310001,,@310001,,,
+330055,@330051,@310001,,@310001,,,
+330056,@330051,@310001,,@310001,,,
+310061,Anel do Herói,@310001,,@310001,,,
+310062,@310061,@310001,,@310001,,,
+310063,@310061,@310001,,@310001,,,
+310064,@310061,@310001,,@310001,,,
+310065,@310061,@310001,,@310001,,,
+310066,@310061,@310001,,@310001,,,
+320061,Colar do Herói,@310001,@320001,@310001,,,
+320062,@320061,@310001,@320001,@310001,,,
+320063,@320061,@310001,@320001,@310001,,,
+320064,@320061,@310001,@320001,@310001,,,
+320065,@320061,@310001,@320001,@310001,,,
+320066,@320061,@310001,@320001,@310001,,,
+330061,Brinco do Herói,@310001,,@310001,,,
+330062,@330061,@310001,,@310001,,,
+330063,@330061,@310001,,@310001,,,
+330064,@330061,@310001,,@310001,,,
+330065,@330061,@310001,,@310001,,,
+330066,@330061,@310001,,@310001,,,
+400000,Proteção de Maphr,Material,,"A proteção de Maphr, a deusa da terra, reside nessa gema.
+Esse item não permite que o nível de aprimoramento de seu equipamento caia ao falhar um novo aprimoramento.",,,
+400001,Disparo Anímico,@1021,,A luz de um espírito abriga essa arma e concede ataques poderosos ao inimigo por um curto período.,,,"Grau C: Grau 1 / B: Grau 1 / A: 2
+Grau S: Grau 2 / R: Grau 3 / SR: 3"
+400002,Prova de sangue,@400000,,Usado para aumentar o nível do clã.,,,
+400101,Areia do Esquecimento,@1021,,Os níveis de todas as habilidades aprendidas são redefinidos para 1 e o PH investido é reembolsado. 80% da adena utilizada para subir o nível das habilidades não é reembolsada.,,,
+410001,Pergaminho: Arma,Pergaminho,,Esse pergaminho aprimora {ReplaceString1} e aumenta os atributos.,Arma,,
+410002,Pergaminho: Armadura,@410001,,@410001,Armadura,,
+410003,Pergaminho: Acessório,@410001,,@410001,Acessório,,
+410004,Perg. de aprimoram. de eq. de montaria,@410001,,@410001,Equipamento de montaria,,
+410011,Pergaminho Abençoado: Arma,@410001,,"Esse pergaminho aprimora {ReplaceString1} e aumenta os atributos.
+Existe a chance de aumentar os valores em 2 ou mais.",@410001,,
+410012,Pergaminho Abençoado: Armadura,@410001,,@410011,@410002,,
+410013,Pergaminho Abençoado: Acessório,@410001,,@410011,@410003,,
+420001,Pedra de melhoria de arma,@400000,,Útil para melhorar {ReplaceString1}.,@410001,,
+420002,Pedra de melhoria de armadura,@400000,,@420001,@410002,,
+420003,Pedra de melhoria de acessório,@400000,,@420001,@410003,,
+440001,Poção de PV,@10001,,Restaura pequena quantidade de PV.,,,
+440002,Poção de PV Grande,@10001,,Restaura grande quantidade de PV.,,,
+440003,Poção de PV Pequena,@10001,,@440001,,,
+440004,Poção de PV Grande,@10001,,"Restaura grande quantidade de PV.
+O tempo de recarga é mais longo que as outras poções.",,,
+440011,Poção de PM,@10001,,Restaura pequena quantidade de PM.,,,
+440012,Poção de PM Grande,@10001,,Restaura grande quantidade de PM.,,,
+440013,Poção de PM Pequena,@10001,Restaura pequena quantidade de PM.,,,,
+440014,Poção de PM Grande,@10001,,"Restaura grande quantidade de PM.
+O tempo de recarga é mais longo que as outras poções.",,,
+449999,Pergaminho de Fuga,@410001,,Use para teletransportar.,,,
+430001,Cristal Anímico de Ataque,Cristal Anímico,,"É possível imbuir almas nas armas e luvas.
+Ao realizar essa ação, aumenta seu atq. f. e atq. m.
+Esse cristal contém almas de monstros.",,,
+430002,@430001,@430001,,@430001,,,
+430003,@430001,@430001,,@430001,,,
+430004,@430001,@430001,,@430001,,,
+430005,@430001,@430001,,@430001,,,
+430006,@430001,@430001,,@430001,,,
+430011,Cristal Anímico de Defesa,@430001,,"É possível imbuir almas nos acessórios para cabeça e armadura.
+Ao realizar essa ação, aumenta sua def. f. e def. m.
+Esse cristal contém almas de monstros.",,,
+430012,@430011,@430001,,@430011,,,
+430013,@430011,@430001,,@430011,,,
+430014,@430011,@430001,,@430011,,,
+430015,@430011,@430001,,@430011,,,
+430016,@430011,@430001,,@430011,,,
+430021,Cristal Anímico de Precisão,@430001,,"É possível imbuir almas nas botas e colares.
+Esse cristal contém almas de monstros.",,,
+430022,@430021,@430001,,@430021,,,
+430023,@430021,@430001,,@430021,,,
+430024,@430021,@430001,,@430021,,,
+430025,@430021,@430001,,@430021,,,
+430026,@430021,@430001,,@430021,,,
+430031,Cristal Anímico de Evasão,@430001,,@430021,,,
+430032,@430031,@430001,,@430021,,,
+430033,@430031,@430001,,@430021,,,
+430034,@430031,@430001,,@430021,,,
+430035,@430031,@430001,,@430021,,,
+430036,@430031,@430001,,@430021,,,
+430041,Cristal Anímico de Penetração,@430001,,"É possível imbuir almas nos anéis.
+Esse cristal contém almas de monstros.",,,
+430042,@430041,@430001,,@430041,,,
+430043,@430041,@430001,,@430041,,,
+430044,@430041,@430001,,@430041,,,
+430045,@430041,@430001,,@430041,,,
+430046,@430041,@430001,,@430041,,,
+430051,Cristal Anímico de Resiliência,@430001,,"É possível imbuir almas nos brincos.
+Esse cristal contém almas de monstros.",,,
+430052,@430051,@430001,,@430051,,,
+430053,@430051,@430001,,@430051,,,
+430054,@430051,@430001,,@430051,,,
+430055,@430051,@430001,,@430051,,,
+430056,@430051,@430001,,@430051,,,
+430061,Cristal Anímico de Taxa de Crítico,@430001,,"É possível imbuir almas nas armas e luvas.
+Esse cristal contém almas de monstros.",,,
+430062,@430061,@430001,,@430061,,,
+430063,@430061,@430001,,@430061,,,
+430064,@430061,@430001,,@430061,,,
+430065,@430061,@430001,,@430061,,,
+430066,@430061,@430001,,@430061,,,
+430071,Cristal Anímico de Resist. a Crítico,@430001,,@430051,,,
+430072,@430071,@430001,,@430051,,,
+430073,@430071,@430001,,@430051,,,
+430074,@430071,@430001,,@430051,,,
+430075,@430071,@430001,,@430051,,,
+430076,@430071,@430001,,@430051,,,
+430081,Cristal Anímico de PV,@430001,,"É possível imbuir almas nos acessórios para cabeça e armadura.
+Esse cristal contém almas de monstros.",,,
+430082,@430081,@430001,,@430081,,,
+430083,@430081,@430001,,@430081,,,
+430084,@430081,@430001,,@430081,,,
+430085,@430081,@430001,,@430081,,,
+430086,@430081,@430001,,@430081,,,
+450001,Erva vermelha,@400000,,Erva útil para fabricar elixir.,,,
+450002,Erva azul,@400000,,@450001,,,
+450003,Erva roxa,@400000,,@450001,,,
+450004,Erva amarela,@400000,,@450001,,,
+451001,Elixir de PV nv. 1,Elixir,,Esse elixir aumenta permanentemente seus PV.,,,
+451002,Elixir de PM nv. 1,@451001,,Esse elixir aumenta permanentemente seus PM.,,,
+451003,Elixir de Atq. nv. 1,@451001,,Esse elixir aumenta permanentemente seu atq. f. e atq. m.,,,
+451004,Elixir de Def. nv. 1,@451001,,Esse elixir aumenta permanentemente sua def. f. e def. m.,,,
+451005,Elixir de PV nv. 2,@451001,,@451001,,,
+451006,Elixir de PM nv. 2,@451001,,@451002,,,
+451007,Elixir de Atq. nv. 2,@451001,,@451003,,,
+451008,Elixir de Def. nv. 2,@451001,,@451004,,,
+451009,Elixir de PV nv. 3,@451001,,@451001,,,
+451010,Elixir de PM nv. 3,@451001,,@451002,,,
+451011,Elixir de Atq. nv. 3,@451001,,"Esse elixir aumenta permanentemente seu atq. f., atq. híbrido e atq. m.",,,
+451012,Elixir de Def. nv. 3,@451001,,@451004,,,
+451013,Elixir de PV nv. 4,@451001,,@451001,,,
+451014,Elixir de PM nv. 4,@451001,,@451002,,,
+451015,Elixir de Atq. nv. 4,@451001,,@451003,,,
+451016,Elixir de Def. nv. 4,@451001,,@451004,,,
+451017,Elixir de PV nv. 5,@451001,,@451001,,,
+451018,Elixir de PM nv. 5,@451001,,@451002,,,
+451019,Elixir de Atq. nv. 5,@451001,,@451003,,,
+451020,Elixir de Def. nv. 6,@451001,,@451004,,,
+451021,Elixir de PV nv. 6,@451001,,@451001,,,
+451022,Elixir de PM nv. 6,@451001,,@451002,,,
+451023,Elixir de Atq. nv. 6,@451001,,@451003,,,
+451024,Elixir de Def. nv. 6,@451001,,@451004,,,
+451025,Elixir de PV nv. 7,@451001,,@451001,,,
+451026,Elixir de PM nv. 7,@451001,,@451002,,,
+451027,Elixir de Atq. nv. 7,@451001,,@451003,,,
+451028,Elixir de Def. nv. 8,@451001,,@451004,,,
+451029,Elixir de PV nv. 8,@451001,,@451001,,,
+451030,Elixir de PM nv. 8,@451001,,@451002,,,
+451031,Elixir de Atq. nv. 8,@451001,,@451003,,,
+451032,Elixir de Def. nv. 8,@451001,,@451004,,,
+451033,Elixir de PV nv. 9,@451001,,@451001,,,
+451034,Elixir de PM nv. 9,@451001,,@451002,,,
+451035,Elixir de Atq. nv. 9,@451001,,@451003,,,
+451036,Elixir de Def. nv. 9,@451001,,@451004,,,
+452001,Essência de elixir de PV,@400000,,Essência útil para fabricar elixires de PV.,,,
+452002,Essência de elixir de PM,@400000,,Essência útil para fabricar elixires de PM.,,,
+452003,Essência de elixir de atq.,@400000,,Essência útil para fabricar elixires de atq.,,,
+452004,Essência de Elixir de Def.,@400000,,Essência útil para fabricar elixires de def.,,,
+460003,Página: Escudo Absoluto,@400000,,Material para fabricação [Pergaminho Esquecido: Escudo Absoluto].,,,
+461003,Pergaminho Esquecido: Escudo Absoluto,@400000,,Use para aprender e evoluir [Habilidade: Escudo Absoluto].,,,
+470001,Pedra de Avanço,@400000,,Use pedras de avanço para fortalecer suas montarias.,,,
+470003,Pedra de Evocação de Kukurin,Pedra de Evocação,,Use como material para ativar ou melhorar {ReplaceString1}.,Kukurin,,
+470004,Pedra de Evocação de Santo Argênteo,@470003,,Use como material para ativar ou melhorar {ReplaceString1}.,Santo de Prata,,
+470005,Pedra de Evocação de Urso-negro,@470003,,@470004,Urso-negro,,
+470006,Pedra de Evocação de Leão Jubado,@470003,,@470004,Leão com juba,,
+470007,Pedra de Evocação de Passolargo,@470003,,@470004,Passolargo,,
+470009,Pedra de Evocação de Besouro do Vapor,@470003,,Usado como material para ativar ou melhorar o Besouro do Vapor.,,,
+470010,할로윈매직스틱 마법구슬,@470003,,할로윈매직스틱을 활성화 시킬 때의 재료로 사용됩니다.,,,
+471002,Flauta de Contenção do Leão com Juba,@470003,,Material adicional para ativar Leão com juba.,,,
+471004,Flauta de Contenção do Besouro do Vapor,@470003,,Material adicional usado para ativar o Besouro do Vapor.,,,
+480103,Fragmento de Pedra de Evocação de Kukirin,Gema,,Vincule para criar uma pedra de evocação {ReplaceString1}.,@470003,,
+480104,Fragmento de Pedra de Evocação de Santo-argênteo,@480103,,@480103,@470004,,
+480105,Fragmento de Pedra de Evocação de Urso-negro,@480103,,@480103,@470005,,
+480106,Fragmento de Pedra de Evocação de Leão Jubado,@480103,,@480103,@470006,,
+480109,Fragmento de Pedra de Evocação do Besouro do Vapor,@480103,,Vincule para criar uma Pedra de Evocação de Besouro do Vapor.,,,
+490101,Visor de Aço,Acessório para cabeça da Montaria,,Visor bastante resistente para montarias.,,,
+490102,@490101,@490101,,@490101,,,
+490103,@490101,@490101,,@490101,,,
+490104,@490101,@490101,,@490101,,,
+490105,@490101,@490101,,@490101,,,
+490106,@490101,@490101,,@490101,,,
+490111,Sela de Aço,Sela da Montaria,,Sela dourada para montarias.,,,
+490112,@490111,@490111,,@490111,,,
+490113,@490111,@490111,,@490111,,,
+490114,@490111,@490111,,@490111,,,
+490115,@490111,@490111,,@490111,,,
+490116,@490111,@490111,,@490111,,,
+490121,Armadura de Aço,Armadura da Montaria,,Armadura bastante resistente para montarias.,,,
+490122,@490121,@490121,,@490121,,,
+490123,@490121,@490121,,@490121,,,
+490124,@490121,@490121,,@490121,,,
+490125,@490121,@490121,,@490121,,,
+490126,@490121,@490121,,@490121,,,
+490131,Botas de Aço,Botas da Montaria,,Botas bem resistentes para montarias.,,,
+490132,@490131,@490131,,@490131,,,
+490133,@490131,@490131,,@490131,,,
+490134,@490131,@490131,,@490131,,,
+490135,@490131,@490131,,@490131,,,
+490136,@490131,@490131,,@490131,,,
+490000,Megafone,@1021,@320001,Use para enviar mensagens no bate-papo mundial.,,,
+490001,Exp.,@1021,,Use para conseguir Exp.,,,
+490002,Adena,@1021,,Use para conseguir adena.,,,
+490003,Diamantes,@1021,,Use para conseguir diamantes.,,,
+490004,@490003,@1021,,@490003,,,
+490079,Diamante verde,@1021,,@490003,,,
+490005,Fragmento de runa,@400000,,Use para marcar runas.,,,
+490006,Moeda do clã,@1021,,Use essa moeda para comprar itens da loja do clã.,,,
+490007,Caixa de Exp. Pequena,@1021,,"Esta caixa contém exp.
+Use a caixa para ganhar uma pequena quantidade de exp.",,,
+490008,Caixa de Exp.,@1021,,"Esta caixa contém exp.
+Use a caixa para conseguir exp.",,,
+490009,Caixa de Exp. Grande,@1021,,"Esta caixa contém exp.
+Use a caixa para ganhar uma grande quantidade de exp.",,,
+490010,Caixa de Adena Pequena,@1021,,"Esta caixa pequena contém adena.
+Use para ganhar 1.000 de adena.",,,
+490011,Caixa de Adena,@1021,,"Esta caixa contém adena.
+Use para ganhar 10.000 de adena.",,,
+490012,Caixa de Adena Grande,@1021,,"Esta caixa grande contém adena.
+Use para ganhar 100.000 de adena.",,,
+490013,Caixa de Diamantes Pequena,@1021,,"Esta caixa pequena contém diamantes vermelhos.
+Use para ganhar 10 diamantes vermelhos.",,,
+490014,Caixa de Diamantes,@1021,,"Esta caixa contém diamantes vermelhos.
+Use para ganhar 100 diamantes vermelhos.",,,
+490015,Caixa de Diamantes Grande,@1021,,"Esta caixa grande contém diamantes vermelhos.
+Use para ganhar 1.000 diamantes vermelhos.",,,
+490016,@490013,@1021,,"Esta caixa pequena contém diamantes azuis.
+Use para ganhar 10 diamantes azuis.",,,
+490017,@490014,@1021,,"Esta caixa contém diamantes azuis.
+Use para ganhar 100 diamantes azuis.",,,
+490018,@490015,@1021,,"Esta caixa grande contém diamantes azuis.
+Use para ganhar 1.000 diamantes azuis.",,,
+490080,@490013,@1021,,"Esta caixinha contém diamantes verdes.
+Use para adquirir 10 diamantes verdes.",,,
+490081,@490014,@1021,,"Esta caixa contém diamantes verdes.
+Use para adquirir 100 diamantes verdes.",,,
+490082,@490015,@1021,,"Esta caixa grande contém diamantes verdes.
+Use para adquirir 1.000 diamantes verdes.",,,
+490083,Caixa com 100 Diamantes verdes,@1021,,"Esta caixinha contém diamantes verdes.
+Use para adquirir 100 diamantes verdes.",,,
+490084,Caixa com 1.000 Diamantes verdes,@1021,,"Esta caixa contém diamantes verdes.
+Use para adquirir 1.000 diamantes verdes.",,,
+490085,Caixa com 10.000 Diamantes verdes,@1021,,"Esta caixa grande contém diamantes verdes.
+Use para adquirir 10.000 diamantes verdes.",,,
+490019,Caixa de Fragmentos de Runa Pequena,@1021,,"Esta caixa pequena contém fragmentos de runa.
+Use para ganhar 100 fragmentos de runa.",,,@10002
+490020,Caixa de Fragmentos de Runa,@1021,,"Esta caixa contém fragmentos de runa.
+Use para ganhar 1.000 fragmentos de runa.",,,@10002
+490021,Caixa de Fragmentos de Runa Grande,@1021,,"Esta caixa grande contém fragmentos de runa.
+Use para ganhar 10.000 fragmentos de runa.",,,@10002
+490022,Caixa de Moedas do Clã Pequena,@1021,,"Esta caixa pequena contém moedas de clã.
+Use para ganhar 5 moedas de clã.",,,
+490023,Caixa de Moedas do Clã,@1021,,"Esta caixa contém moedas de clã.
+Use para ganhar 100 moedas de clã.",,,
+490024,Caixa de Moedas do Clã Grande,@1021,,"Esta caixa grande contém moedas de clã.
+Use para ganhar 500 moedas de clã.",,,
+490025,Conclusão Automática de Masmorra Elite,@1021,,Usa-se a conclusão automática para concluir instantaneamente as missões da Masmorra Elite.,,,
+490026,Pedra de Quebra de Limite,@1021,,"A energia de Einhasad reside nesta pedra.
+Use para quebrar o limite de equipamentos de grau {ReplaceString1}.",SR,,
+490027,Pedra de Atributo,@1021,,"A energia dos gigantes inferiores antigos reside nessa pedra.
+Use para fortalecer os atributos do equipamento.",,,
+490028,Bilhete de Masmorra Diária,@1021,,Use para entrar nas Masmorras Diárias.,,,
+490029,Bilhete de Raide do Clã,@1021,,Use para entrar nas Masmorras de Clã.,,,
+490050,Pacote de PH,@1021,,"Esta caixa contém PH.
+Use para ganhar 500 PH.",,,
+490030,Caixa de PH Pequena,@1021,,"Essa caixa pequena contém PH.
+Use para ganhar 100 PH.",,,
+490031,Caixa de PH,@1021,,"Esta caixa contém PH.
+Use para ganhar 500 PH.",,,
+490032,Caixa de PH Grande,@1021,,"Esta caixa grande contém PH.
+Use para ganhar 1.000 PH.",,,
+490033,PH,@1021,,"Esses pontos são usados para melhorar as habilidades.
+Use para adquirir PH.",,,
+490034,Pontos de amizade,@1021,,Use para ganhar pontos de amizade.,,,
+490035,Pontos de lealdade,@1021,,Use para ganhar pontos de lealdade.,,,
+490036,Topázio,@1021,,Use para conseguir topázio.,,,
+490037,@490027,@1021,,@490027,,,
+490038,@490027,@1021,,@490027,,,
+490059,Bilhete de festival de cerco,@1021,,Use para trocar por cupons do Festival de Cerco ao Castelo no período correto.,,,
+490060,Caixa de Diamantes de Imposto,@1021,,"As caixas pertencem aos cobradores de impostos de cada território.
+Use para ganhar 100 diamantes.",,,
+490061,Bilhete da arena,@1021,,Use para entrar na arena.,,,
+490062,Adena do clã,@1021,,Essa adena acumula-se no clã.,,,
+490064,Pontos de atividade,@1021,,São pontos de atividades disponíveis ao realizar atividades diárias.,,,
+490065,Pedra Estelar Vermelha do clã,@1021,,Essas pedras estelares vermelhas são acumuladas por clãs.,,,
+490067,Caixa de 500 Diamantes Vermelhos,@1021,,"Esta caixa contém diamantes vermelhos.
+Use para ganhar 500 diamantes vermelhos.",,,
+490068,Pontos de dados,@400000,,Pontos de dados,,,
+490069,@490068,@400000,,Pontos de Dados usados no Jogo de Dados de Nero.,,,
+490095,할로윈 주사위 포인트,@400000,,할로윈 주사위 게임에 사용할 수 있는 주사위 포인트입니다.,É possível obtê-los em Uldi e Skuldi.,,
+490073,Moeda de Honra,@1021,,Adquirível como recompensa de {ReplaceString1}.,Campo de batalha honorável,,
+490074,Moeda de Coragem,@1021,,@490073,Campo de batalha da coragem,,
+490075,Moeda Antiga,@1021,,@490073,Campo de batalha antigo,,
+490076,Bilhete para troca de nome de personagem,@1021,,"Use para trocar o nome do seu personagem.
+Desconecte-se após usá-lo para que o novo nome entre em efeito.",,,
+490077,@490027,@1021,,@490027,,,
+490078,@490026,@1021,,@490026,SR - UR,,
+490090,Conclusão automática da masmorra,@1021,,"Uma conclusão automática que você pode usar para concluir masmorras. Só se pode usar na Masmorra de Experiência, na Masmorra de Adena e na Masmorra diária.",,,
+491001,Caixa de Exp. Nv. {ReplaceString1},@1021,,@490008,1,,
+491002,@491001,@1021,,@490008,2,,
+491003,@491001,@1021,,@490008,3,,
+491004,@491001,@1021,,@490008,4,,
+491005,@491001,@1021,,@490008,5,,
+491006,@491001,@1021,,@490008,6,,
+491007,@491001,@1021,,@490008,7,,
+491008,@491001,@1021,,@490008,8,,
+491009,@491001,@1021,,@490008,9,,
+491010,@491001,@1021,,@490008,10,,
+491011,@491001,@1021,,@490008,11,,
+491012,@491001,@1021,,@490008,12,,
+491013,@491001,@1021,,@490008,13,,
+491014,@491001,@1021,,@490008,14,,
+491015,@491001,@1021,,@490008,15,,
+491016,@491001,@1021,,@490008,16,,
+491017,@491001,@1021,,@490008,17,,
+491018,@491001,@1021,,@490008,18,,
+491019,@491001,@1021,,@490008,19,,
+491020,@491001,@1021,,@490008,20,,
+491021,@491001,@1021,,@490008,21,,
+491022,@491001,@1021,,@490008,22,,
+491023,@491001,@1021,,@490008,23,,
+491024,@491001,@1021,,@490008,24,,
+491025,@491001,@1021,,@490008,25,,
+491026,@491001,@1021,,@490008,26,,
+491027,@491001,@1021,,@490008,27,,
+491028,@491001,@1021,,@490008,28,,
+491029,@491001,@1021,,@490008,29,,
+491030,@491001,@1021,,@490008,30,,
+491031,@491001,@1021,,@490008,31,,
+491032,@491001,@1021,,@490008,32,,
+491033,@491001,@1021,,@490008,33,,
+491034,@491001,@1021,,@490008,34,,
+491035,@491001,@1021,,@490008,35,,
+491036,@491001,@1021,,@490008,36,,
+491037,@491001,@1021,,@490008,37,,
+491038,@491001,@1021,,@490008,38,,
+491039,@491001,@1021,,@490008,39,,
+491040,@491001,@1021,,@490008,40,,
+491041,@491001,@1021,,@490008,41,,
+491042,@491001,@1021,,@490008,42,,
+491043,@491001,@1021,,@490008,43,,
+491044,@491001,@1021,,@490008,44,,
+491045,@491001,@1021,,@490008,45,,
+491046,@491001,@1021,,@490008,46,,
+491047,@491001,@1021,,@490008,47,,
+491048,@491001,@1021,,@490008,48,,
+491049,@491001,@1021,,@490008,49,,
+491050,@491001,@1021,,@490008,50,,
+491051,@491001,@1021,,@490008,51,,
+491052,@491001,@1021,,@490008,52,,
+491053,@491001,@1021,,@490008,53,,
+491054,@491001,@1021,,@490008,54,,
+491055,@491001,@1021,,@490008,55,,
+491056,@491001,@1021,,@490008,56,,
+491057,@491001,@1021,,@490008,57,,
+491058,@491001,@1021,,@490008,58,,
+491059,@491001,@1021,,@490008,59,,
+491060,@491001,@1021,,@490008,60,,
+491061,@491001,@1021,,@490008,61,,
+491062,@491001,@1021,,@490008,62,,
+491063,@491001,@1021,,@490008,63,,
+491064,@491001,@1021,,@490008,64,,
+491065,@491001,@1021,,@490008,65,,
+491066,@491001,@1021,,@490008,66,,
+491067,@491001,@1021,,@490008,67,,
+491068,@491001,@1021,,@490008,68,,
+491069,@491001,@1021,,@490008,69,,
+491070,@491001,@1021,,@490008,70,,
+491071,@491001,@1021,,@490008,71,,
+491072,@491001,@1021,,@490008,72,,
+491073,@491001,@1021,,@490008,73,,
+491074,@491001,@1021,,@490008,74,,
+491075,@491001,@1021,,@490008,75,,
+491076,@491001,@1021,,@490008,76,,
+491077,@491001,@1021,,@490008,77,,
+491078,@491001,@1021,,@490008,78,,
+491079,@491001,@1021,,@490008,79,,
+491080,@491001,@1021,,@490008,80,,
+491081,@491001,@1021,,@490008,81,,
+491082,@491001,@1021,,@490008,82,,
+491083,@491001,@1021,,@490008,83,,
+491084,@491001,@1021,,@490008,84,,
+491085,@491001,@1021,,@490008,85,,
+491086,@491001,@1021,,@490008,86,,
+491087,@491001,@1021,,@490008,87,,
+491088,@491001,@1021,,@490008,88,,
+491089,@491001,@1021,,@490008,89,,
+491090,@491001,@1021,,@490008,90,,
+491091,@491001,@1021,,@490008,91,,
+491092,@491001,@1021,,@490008,92,,
+491093,@491001,@1021,,@490008,93,,
+491094,@491001,@1021,,@490008,94,,
+491095,@491001,@1021,,@490008,95,,
+491096,@491001,@1021,,@490008,96,,
+491097,@491001,@1021,,@490008,97,,
+491098,@491001,@1021,,@490008,98,,
+491099,@491001,@1021,,@490008,99,,
+491100,@491001,@1021,,@490008,100,,
+491101,@491001,@1021,,@490008,101,,
+491102,@491001,@1021,,@490008,102,,
+491103,@491001,@1021,,@490008,103,,
+491104,@491001,@1021,,@490008,104,,
+491105,@491001,@1021,,@490008,105,,
+491106,@491001,@1021,,@490008,106,,
+491107,@491001,@1021,,@490008,107,,
+491108,@491001,@1021,,@490008,108,,
+491109,@491001,@1021,,@490008,109,,
+491110,@491001,@1021,,@490008,110,,
+491111,@491001,@1021,,@490008,111,,
+491112,@491001,@1021,,@490008,112,,
+491113,@491001,@1021,,@490008,113,,
+491114,@491001,@1021,,@490008,114,,
+491115,@491001,@1021,,@490008,115,,
+491116,@491001,@1021,,@490008,116,,
+491117,@491001,@1021,,@490008,117,,
+491118,@491001,@1021,,@490008,118,,
+491119,@491001,@1021,,@490008,119,,
+491120,@491001,@1021,,@490008,120,,
+491121,@491001,@1021,,@490008,121,,
+491122,@491001,@1021,,@490008,122,,
+491123,@491001,@1021,,@490008,123,,
+491124,@491001,@1021,,@490008,124,,
+491125,@491001,@1021,,@490008,125,,
+491126,@491001,@1021,,@490008,126,,
+491127,@491001,@1021,,@490008,127,,
+491128,@491001,@1021,,@490008,128,,
+491129,@491001,@1021,,@490008,129,,
+491130,@491001,@1021,,@490008,130,,
+491131,@491001,@1021,,@490008,131,,
+491132,@491001,@1021,,@490008,132,,
+491133,@491001,@1021,,@490008,133,,
+491134,@491001,@1021,,@490008,134,,
+491135,@491001,@1021,,@490008,135,,
+491136,@491001,@1021,,@490008,136,,
+491137,@491001,@1021,,@490008,137,,
+491138,@491001,@1021,,@490008,138,,
+491139,@491001,@1021,,@490008,139,,
+491140,@491001,@1021,,@490008,140,,
+491141,@491001,@1021,,@490008,141,,
+491142,@491001,@1021,,@490008,142,,
+491143,@491001,@1021,,@490008,143,,
+491144,@491001,@1021,,@490008,144,,
+491145,@491001,@1021,,@490008,145,,
+491146,@491001,@1021,,@490008,146,,
+491147,@491001,@1021,,@490008,147,,
+491148,@491001,@1021,,@490008,148,,
+491149,@491001,@1021,,@490008,149,,
+491150,@491001,@1021,,@490008,150,,
+491151,@491001,@1021,,@490008,151,,
+491152,@491001,@1021,,@490008,152,,
+491153,@491001,@1021,,@490008,153,,
+491154,@491001,@1021,,@490008,154,,
+491155,@491001,@1021,,@490008,155,,
+491156,@491001,@1021,,@490008,156,,
+491157,@491001,@1021,,@490008,157,,
+491158,@491001,@1021,,@490008,158,,
+491159,@491001,@1021,,@490008,159,,
+491160,@491001,@1021,,@490008,160,,
+491161,@491001,@1021,,@490008,161,,
+491162,@491001,@1021,,@490008,162,,
+491163,@491001,@1021,,@490008,163,,
+491164,@491001,@1021,,@490008,164,,
+491165,@491001,@1021,,@490008,165,,
+491166,@491001,@1021,,@490008,166,,
+491167,@491001,@1021,,@490008,167,,
+491168,@491001,@1021,,@490008,168,,
+491169,@491001,@1021,,@490008,169,,
+491170,@491001,@1021,,@490008,170,,
+491171,@491001,@1021,,@490008,171,,
+491172,@491001,@1021,,@490008,172,,
+491173,@491001,@1021,,@490008,173,,
+491174,@491001,@1021,,@490008,174,,
+491175,@491001,@1021,,@490008,175,,
+491176,@491001,@1021,,@490008,176,,
+491177,@491001,@1021,,@490008,177,,
+491178,@491001,@1021,,@490008,178,,
+491179,@491001,@1021,,@490008,179,,
+491180,@491001,@1021,,@490008,180,,
+491181,@491001,@1021,,@490008,181,,
+491182,@491001,@1021,,@490008,182,,
+491183,@491001,@1021,,@490008,183,,
+491184,@491001,@1021,,@490008,184,,
+491185,@491001,@1021,,@490008,185,,
+491186,@491001,@1021,,@490008,186,,
+491187,@491001,@1021,,@490008,187,,
+491188,@491001,@1021,,@490008,188,,
+491189,@491001,@1021,,@490008,189,,
+491190,@491001,@1021,,@490008,190,,
+491191,@491001,@1021,,@490008,191,,
+491192,@491001,@1021,,@490008,192,,
+491193,@491001,@1021,,@490008,193,,
+491194,@491001,@1021,,@490008,194,,
+491195,@491001,@1021,,@490008,195,,
+491196,@491001,@1021,,@490008,196,,
+491197,@491001,@1021,,@490008,197,,
+491198,@491001,@1021,,@490008,198,,
+491199,@491001,@1021,,@490008,199,,
+491200,@491001,@1021,,@490008,200,,
+491201,@491001,@1021,,@490008,201,,
+491202,@491001,@1021,,@490008,202,,
+491203,@491001,@1021,,@490008,203,,
+491204,@491001,@1021,,@490008,204,,
+491205,@491001,@1021,,@490008,205,,
+491206,@491001,@1021,,@490008,206,,
+491207,@491001,@1021,,@490008,207,,
+491208,@491001,@1021,,@490008,208,,
+491209,@491001,@1021,,@490008,209,,
+491210,@491001,@1021,,@490008,210,,
+491211,@491001,@1021,,@490008,211,,
+491212,@491001,@1021,,@490008,212,,
+491213,@491001,@1021,,@490008,213,,
+491214,@491001,@1021,,@490008,214,,
+491215,@491001,@1021,,@490008,215,,
+491216,@491001,@1021,,@490008,216,,
+491217,@491001,@1021,,@490008,217,,
+491218,@491001,@1021,,@490008,218,,
+491219,@491001,@1021,,@490008,219,,
+491220,@491001,@1021,,@490008,220,,
+491221,@491001,@1021,,@490008,221,,
+491222,@491001,@1021,,@490008,222,,
+491223,@491001,@1021,,@490008,223,,
+491224,@491001,@1021,,@490008,224,,
+491225,@491001,@1021,,@490008,225,,
+491226,@491001,@1021,,@490008,226,,
+491227,@491001,@1021,,@490008,227,,
+491228,@491001,@1021,,@490008,228,,
+491229,@491001,@1021,,@490008,229,,
+491230,@491001,@1021,,@490008,230,,
+491231,@491001,@1021,,@490008,231,,
+491232,@491001,@1021,,@490008,232,,
+491233,@491001,@1021,,@490008,233,,
+491234,@491001,@1021,,@490008,234,,
+491235,@491001,@1021,,@490008,235,,
+491236,@491001,@1021,,@490008,236,,
+491237,@491001,@1021,,@490008,237,,
+491238,@491001,@1021,,@490008,238,,
+491239,@491001,@1021,,@490008,239,,
+491240,@491001,@1021,,@490008,240,,
+491241,@491001,@1021,,@490008,241,,
+491242,@491001,@1021,,@490008,242,,
+491243,@491001,@1021,,@490008,243,,
+491244,@491001,@1021,,@490008,244,,
+491245,@491001,@1021,,@490008,245,,
+491246,@491001,@1021,,@490008,246,,
+491247,@491001,@1021,,@490008,247,,
+491248,@491001,@1021,,@490008,248,,
+491249,@491001,@1021,,@490008,249,,
+491250,@491001,@1021,,@490008,250,,
+491251,@491001,@1021,,@490008,251,,
+491252,@491001,@1021,,@490008,252,,
+491253,@491001,@1021,,@490008,253,,
+491254,@491001,@1021,,@490008,254,,
+491255,@491001,@1021,,@490008,255,,
+491256,@491001,@1021,,@490008,256,,
+491257,@491001,@1021,,@490008,257,,
+491258,@491001,@1021,,@490008,258,,
+491259,@491001,@1021,,@490008,259,,
+491260,@491001,@1021,,@490008,260,,
+491261,@491001,@1021,,@490008,261,,
+491262,@491001,@1021,,@490008,262,,
+491263,@491001,@1021,,@490008,263,,
+491264,@491001,@1021,,@490008,264,,
+491265,@491001,@1021,,@490008,265,,
+491266,@491001,@1021,,@490008,266,,
+491267,@491001,@1021,,@490008,267,,
+491268,@491001,@1021,,@490008,268,,
+491269,@491001,@1021,,@490008,269,,
+491270,@491001,@1021,,@490008,270,,
+491271,@491001,@1021,,@490008,271,,
+491272,@491001,@1021,,@490008,272,,
+491273,@491001,@1021,,@490008,273,,
+491274,@491001,@1021,,@490008,274,,
+491275,@491001,@1021,,@490008,275,,
+491276,@491001,@1021,,@490008,276,,
+491277,@491001,@1021,,@490008,277,,
+491278,@491001,@1021,,@490008,278,,
+491279,@491001,@1021,,@490008,279,,
+491280,@491001,@1021,,@490008,280,,
+491281,@491001,@1021,,@490008,281,,
+491282,@491001,@1021,,@490008,282,,
+491283,@491001,@1021,,@490008,283,,
+491284,@491001,@1021,,@490008,284,,
+491285,@491001,@1021,,@490008,285,,
+491286,@491001,@1021,,@490008,286,,
+491287,@491001,@1021,,@490008,287,,
+491288,@491001,@1021,,@490008,288,,
+491289,@491001,@1021,,@490008,289,,
+491290,@491001,@1021,,@490008,290,,
+491291,@491001,@1021,,@490008,291,,
+491292,@491001,@1021,,@490008,292,,
+491293,@491001,@1021,,@490008,293,,
+491294,@491001,@1021,,@490008,294,,
+491295,@491001,@1021,,@490008,295,,
+491296,@491001,@1021,,@490008,296,,
+491297,@491001,@1021,,@490008,297,,
+491298,@491001,@1021,,@490008,298,,
+491299,@491001,@1021,,@490008,299,,
+491300,@491001,@1021,,@490008,300,,
+491301,@491001,@1021,,@490008,301,,
+491302,@491001,@1021,,@490008,302,,
+491303,@491001,@1021,,@490008,303,,
+491304,@491001,@1021,,@490008,304,,
+491305,@491001,@1021,,@490008,305,,
+491306,@491001,@1021,,@490008,306,,
+491307,@491001,@1021,,@490008,307,,
+491308,@491001,@1021,,@490008,308,,
+491309,@491001,@1021,,@490008,309,,
+491310,@491001,@1021,,@490008,310,,
+491311,@491001,@1021,,@490008,311,,
+491312,@491001,@1021,,@490008,312,,
+491313,@491001,@1021,,@490008,313,,
+491314,@491001,@1021,,@490008,314,,
+491315,@491001,@1021,,@490008,315,,
+491316,@491001,@1021,,@490008,316,,
+491317,@491001,@1021,,@490008,317,,
+491318,@491001,@1021,,@490008,318,,
+491319,@491001,@1021,,@490008,319,,
+491320,@491001,@1021,,@490008,320,,
+491321,@491001,@1021,,@490008,321,,
+491322,@491001,@1021,,@490008,322,,
+491323,@491001,@1021,,@490008,323,,
+491324,@491001,@1021,,@490008,324,,
+491325,@491001,@1021,,@490008,325,,
+491326,@491001,@1021,,@490008,326,,
+491327,@491001,@1021,,@490008,327,,
+491328,@491001,@1021,,@490008,328,,
+491329,@491001,@1021,,@490008,329,,
+491330,@491001,@1021,,@490008,330,,
+491331,@491001,@1021,,@490008,331,,
+491332,@491001,@1021,,@490008,332,,
+491333,@491001,@1021,,@490008,333,,
+491334,@491001,@1021,,@490008,334,,
+491335,@491001,@1021,,@490008,335,,
+491336,@491001,@1021,,@490008,336,,
+491337,@491001,@1021,,@490008,337,,
+491338,@491001,@1021,,@490008,338,,
+491339,@491001,@1021,,@490008,339,,
+491340,@491001,@1021,,@490008,340,,
+491341,@491001,@1021,,@490008,341,,
+491342,@491001,@1021,,@490008,342,,
+491343,@491001,@1021,,@490008,343,,
+491344,@491001,@1021,,@490008,344,,
+491345,@491001,@1021,,@490008,345,,
+491346,@491001,@1021,,@490008,346,,
+491347,@491001,@1021,,@490008,347,,
+491348,@491001,@1021,,@490008,348,,
+491349,@491001,@1021,,@490008,349,,
+491350,@491001,@1021,,@490008,350,,
+491351,@491001,@1021,,@490008,351,,
+491352,@491001,@1021,,@490008,352,,
+491353,@491001,@1021,,@490008,353,,
+491354,@491001,@1021,,@490008,354,,
+491355,@491001,@1021,,@490008,355,,
+491356,@491001,@1021,,@490008,356,,
+491357,@491001,@1021,,@490008,357,,
+491358,@491001,@1021,,@490008,358,,
+491359,@491001,@1021,,@490008,359,,
+491360,@491001,@1021,,@490008,360,,
+491361,@491001,@1021,,@490008,361,,
+491362,@491001,@1021,,@490008,362,,
+491363,@491001,@1021,,@490008,363,,
+491364,@491001,@1021,,@490008,364,,
+491365,@491001,@1021,,@490008,365,,
+491366,@491001,@1021,,@490008,366,,
+491367,@491001,@1021,,@490008,367,,
+491368,@491001,@1021,,@490008,368,,
+491369,@491001,@1021,,@490008,369,,
+491370,@491001,@1021,,@490008,370,,
+491371,@491001,@1021,,@490008,371,,
+491372,@491001,@1021,,@490008,372,,
+491373,@491001,@1021,,@490008,373,,
+491374,@491001,@1021,,@490008,374,,
+491375,@491001,@1021,,@490008,375,,
+491376,@491001,@1021,,@490008,376,,
+491377,@491001,@1021,,@490008,377,,
+491378,@491001,@1021,,@490008,378,,
+491379,@491001,@1021,,@490008,379,,
+491380,@491001,@1021,,@490008,380,,
+491381,@491001,@1021,,@490008,381,,
+491382,@491001,@1021,,@490008,382,,
+491383,@491001,@1021,,@490008,383,,
+491384,@491001,@1021,,@490008,384,,
+491385,@491001,@1021,,@490008,385,,
+491386,@491001,@1021,,@490008,386,,
+491387,@491001,@1021,,@490008,387,,
+491388,@491001,@1021,,@490008,388,,
+491389,@491001,@1021,,@490008,389,,
+491390,@491001,@1021,,@490008,390,,
+491391,@491001,@1021,,@490008,391,,
+491392,@491001,@1021,,@490008,392,,
+491393,@491001,@1021,,@490008,393,,
+491394,@491001,@1021,,@490008,394,,
+491395,@491001,@1021,,@490008,395,,
+491396,@491001,@1021,,@490008,396,,
+491397,@491001,@1021,,@490008,397,,
+491398,@491001,@1021,,@490008,398,,
+491399,@491001,@1021,,@490008,399,,
+491400,@491001,@1021,,@490008,400,,
+491401,@491001,@1021,,@490008,401,,
+491402,@491001,@1021,,@490008,402,,
+491403,@491001,@1021,,@490008,403,,
+491404,@491001,@1021,,@490008,404,,
+491405,@491001,@1021,,@490008,405,,
+491406,@491001,@1021,,@490008,406,,
+491407,@491001,@1021,,@490008,407,,
+491408,@491001,@1021,,@490008,408,,
+491409,@491001,@1021,,@490008,409,,
+491410,@491001,@1021,,@490008,410,,
+491411,@491001,@1021,,@490008,411,,
+491412,@491001,@1021,,@490008,412,,
+491413,@491001,@1021,,@490008,413,,
+491414,@491001,@1021,,@490008,414,,
+491415,@491001,@1021,,@490008,415,,
+491416,@491001,@1021,,@490008,416,,
+491417,@491001,@1021,,@490008,417,,
+491418,@491001,@1021,,@490008,418,,
+491419,@491001,@1021,,@490008,419,,
+491420,@491001,@1021,,@490008,420,,
+491421,@491001,@1021,,@490008,421,,
+491422,@491001,@1021,,@490008,422,,
+470011,Núcleo de {ReplaceString1},Núcleo,,"Núcleos de monstros que contêm energia de {ReplaceString1}.
+Registre no Códice de Monstros para aumentar seus atributos.",Presa Negra,,
+470012,@470011,@470011,,@470011,Chifreprata,,
+470013,@470011,@470011,,@470011,Rainha Sylop,,
+470014,@470011,@470011,,@470011,Urca,,
+470015,@470011,@470011,,@470011,Kobaka,,
+470021,@470011,@470011,,@470011,Ferroada,,
+470022,@470011,@470011,,@470011,Alvorada Voraz,,
+470023,@470011,@470011,,@470011,Taarka,,
+470024,@470011,@470011,,@470011,Rei Nefasto,,
+470025,@470011,@470011,,@470011,Pastor de Espíritos,,
+470031,@470011,@470011,,@470011,Canino,,
+470032,@470011,@470011,,@470011,Freki,,
+470033,@470011,@470011,,@470011,Melville,,
+470034,@470011,@470011,,@470011,Moretti,,
+470035,@470011,@470011,,@470011,Olvar,,
+470036,@470011,@470011,,@470011,Alle,,
+470037,@470011,@470011,,@470011,Zodiac,,
+470041,@470011,@470011,,@470011,Manzorra,,
+470042,@470011,@470011,,@470011,Caveira da Perdição,,
+470043,@470011,@470011,,@470011,Kactoose,,
+470044,@470011,@470011,,@470011,Cotous,,
+470045,@470011,@470011,,@470011,Cox,,
+470046,@470011,@470011,,@470011,Turekka,,
+470047,@470011,@470011,,@470011,Barbaprata,,
+470051,@470011,@470011,,@470011,Asa Sombria,,
+470052,@470011,@470011,,@470011,Err. das Ruínas,,
+470053,@470011,@470011,,@470011,Dente-de-sabre,,
+470054,@470011,@470011,,@470011,Hucca,,
+470055,@470011,@470011,,@470011,Gnasher,,
+470056,@470011,@470011,,@470011,Troka,,
+470057,@470011,@470011,,@470011,Vapar,,
+470061,@470011,@470011,,@470011,Olho-da-areia,,
+470062,@470011,@470011,,@470011,Pedra Vermelha,,
+470063,@470011,@470011,,@470011,Apontador,,
+470064,@470011,@470011,,@470011,Grinder,,
+470065,@470011,@470011,,@470011,Espreitador-da-areia,,
+470066,@470011,@470011,,@470011,Haftz de Pedra,,
+470067,@470011,@470011,,@470011,Haftz da Areia,,
+470068,@470011,@470011,,@470011,Kazir,,
+470071,@470011,@470011,,@470011,Bulc,,
+470072,@470011,@470011,,@470011,Baroque,,
+470073,@470011,@470011,,@470011,Moke,,
+470074,@470011,@470011,,@470011,Tordo,,
+470075,@470011,@470011,,@470011,Krush,,
+470076,@470011,@470011,,@470011,Varash,,
+470077,@470011,@470011,,@470011,Screash,,
+470078,@470011,@470011,,@470011,Flagon,,
+470081,@470011,@470011,,@470011,Liam,,
+470082,@470011,@470011,,@470011,Ronde,,
+470083,@470011,@470011,,@470011,Morgan,,
+470084,@470011,@470011,,@470011,Zyrnna,,
+470085,@470011,@470011,,@470011,Arcane,,
+470086,@470011,@470011,,@470011,Sina,,
+470091,@470011,@470011,,@470011,Atacante do Pico,,
+470092,@470011,@470011,,@470011,Tartan,,
+470093,@470011,@470011,,@470011,Thaartan,,
+470094,@470011,@470011,,@470011,Tutan,,
+470095,@470011,@470011,,@470011,Ol B’Khan,,
+470096,@470011,@470011,,@470011,Amadeus,,
+470101,@470011,@470011,,@470011,Gritador,,
+470102,@470011,@470011,,@470011,Flora,,
+470103,@470011,@470011,,@470011,Jonadan,,
+470104,@470011,@470011,,@470011,Arvoroso Gritante,,
+470105,@470011,@470011,,@470011,Vaqueiro,,
+470106,@470011,@470011,,@470011,Costureira,,
+470107,@470011,@470011,,@470011,Balthazar,,
+470108,@470011,@470011,,@470011,Guillotine,,
+470111,@470011,@470011,,@470011,Ellen,,
+470112,@470011,@470011,,@470011,Vir,,
+470113,@470011,@470011,,@470011,Tess,,
+470114,@470011,@470011,,@470011,Rashkos,,
+470115,@470011,@470011,,@470011,Shakos,,
+470116,@470011,@470011,,@470011,Luce,,
+470117,@470011,@470011,,@470011,Thox,,
+470118,@470011,@470011,,@470011,Stenoa,,
+470121,@470011,@470011,,@470011,Lulani,,
+470122,@470011,@470011,,@470011,Alfonso,,
+470123,@470011,@470011,,@470011,Holst,,
+470124,@470011,@470011,,@470011,Medes,,
+470125,@470011,@470011,,@470011,Luka,,
+470126,@470011,@470011,,@470011,Hector,,
+470127,@470011,@470011,,@470011,Marsha,,
+470131,@470011,@470011,,@470011,Rua,,
+470132,@470011,@470011,,@470011,Ferroador,,
+470133,@470011,@470011,,@470011,Albert,,
+470134,@470011,@470011,,@470011,Jeff,,
+470135,@470011,@470011,,@470011,Zaken,,
+470141,@470011,@470011,,@470011,Gorokk,,
+470142,@470011,@470011,,@470011,Verock,,
+470143,@470011,@470011,,@470011,Jason,,
+470144,@470011,@470011,,@470011,Oomba,,
+470145,@470011,@470011,,@470011,Agarez,,
+470146,@470011,@470011,,@470011,Ravolas,,
+470147,@470011,@470011,,@470011,Wilhelm,,
+472001,@470011,@470011,,@470011,Asa do Horror,,
+472002,@470011,@470011,,@470011,Ryukaon,,
+472003,@470011,@470011,,@470011,Arachne,,
+472011,@470011,@470011,,@470011,Maniskull,,
+472012,@470011,@470011,,@470011,Felix,,
+472013,@470011,@470011,,@470011,Fitador da Morte,,
+472014,@470011,@470011,,@470011,Necross,,
+472015,@470011,@470011,,@470011,Varkaron,,
+472021,@470011,@470011,,@470011,Reaver,,
+472022,@470011,@470011,,@470011,Capataz do Formigueiro,,
+472031,@470011,@470011,,@470011,Capitão da Guarda Real do Formigueiro,,
+472032,@470011,@470011,,@470011,Guardião do Terreno de Desova,,
+472033,@470011,@470011,,@470011,Formiga Rainha,,
+472041,@470011,@470011,,@470011,Mystique,,
+472042,@470011,@470011,,@470011,Stelos,,
+472043,@470011,@470011,,@470011,Mestre Mordeo,,
+472044,@470011,@470011,,@470011,Serbo Prime,,
+472051,@470011,@470011,,@470011,Grizo,,
+472052,@470011,@470011,,@470011,Julius,,
+472053,@470011,@470011,,@470011,Magnus,,
+472054,@470011,@470011,,@470011,Núcleo de Cruma,,
+472061,@470011,@470011,,@470011,Mesheemp,,
+472062,@470011,@470011,,@470011,Corepio,,
+472063,@470011,@470011,,@470011,Preta,,
+472071,@470011,@470011,,@470011,Abutre,,
+472072,@470011,@470011,,@470011,Gargu,,
+472073,@470011,@470011,,@470011,Morfeu,,
+472081,@470011,@470011,,@470011,Caçacabeça,,
+472082,@470011,@470011,,@470011,Creatus,,
+472083,@470011,@470011,,@470011,Tempestade de areia,,
+473001,@470011,@470011,,@470011,Ramog,,
+473011,@470011,@470011,,@470011,Trisha,,
+900001,Caixa de Equipamento Exclusiva,@1021,,Use para conseguir equipamento aleatório.,,,@10002
+900002,Caixa de Equipamento Exclusivo Especial,@1021,,Use para adquirir uma arma ou armadura aleatória S - SR exclusiva.,,,@10002
+900003,Caixa de Arma de Alto Grau,@1021,,Use para conseguir um {ReplaceString2} {ReplaceString1} aleatório.,@410001,A-SR,@10002
+900004,Caixa de Armadura de Alto Grau,@1021,,@900003,@410002,@900003,@10002
+900005,Caixa de Acessório de Alto Grau,@1021,,@900003,@410003,@900003,@10002
+900006,Caixa de Material,@1021,,Obtenha aleatóriamente {ReplaceString1}.,Material,,@10002
+900007,Caixa de Material de Alto Grau,@1021,,@900006,Material de alto grau,,@10002
+900008,Caixa de Equipamento de Alto Grau,@1021,,@900003,Equipamentos,@900003,@10002
+900009,Caixa de Pedra de Melhoria,@1021,,Obtenha aleatóriamente {ReplaceString1}.,Pedra de melhoria,,@10002
+900010,Caixa de Pergaminho de Aprimoramento,@1021,,@900006,Pergaminho de Aprimoramento,,@10002
+900011,Caixa de Pergaminho Abençoado,@1021,,@900006,Pergaminho Abençoado,,@10002
+900012,Caixa de Cristal Anímico,@1021,,Obtenha aleatóriamente nív. {ReplaceString2} {ReplaceString1}.,Cristal Anímico,C-SR,@10002
+900013,Caixa de Cristal Anímico de Penetração,@1021,,@900012,Cristal Anímico de Penetração,S-SR,@10002
+900014,Caixa de Caixa de Cristal Anímico de Resiliência,@1021,,@900012,Cristal Anímico de Resiliência,@900013,@10002
+900017,Caixa de Material do Clã,@1021,,"Caixa de material emitida pelo clã.
+Obtenha aleatóriamente {ReplaceString1}.",@900007,,@10002
+900018,Caixa de Equipamento do Clã,@1021,,"Esta é uma caixa de equipamento do clã.
+Obtenha aleatoriamente {ReplaceString1} de {ReplaceString2}.",@900008,@900003,@10002
+900019,Caixa de Arma do Clã,@1021,,@900018,@410001,@900003,@10002
+900020,Caixa de Armadura do Clã,@1021,,@900018,@410002,@900003,@10002
+900021,Caixa de Acessório do Clã,@1021,,@900018,@410003,@900003,@10002
+900022,Caixa de Acessório Especial,@1021,,@900003,@410003,S - SR,@10002
+900023,Caixa de Arma Especial,@1021,,@900003,@410001,@900022,@10002
+900024,Caixa de Armadura Especial,@1021,,@900003,@410002,@900022,@10002
+900025,Caixa de Equipamento de Avanço,@1021,,Obtenha um equipamento aleatório C - A ou verniz B - A.,,,@10002
+910001,Caixa de Sorte,@1021,,"A sorte reside nessa caixa.
+Use para conseguir um item aleatório.",,,
+910002,Caixa-surpresa 1,@1021,,"O que será que tem dentro?!
+Use para conseguir um item aleatório.",,,@10002
+910003,Caixa-surpresa 2,@1021,,@910002,,,@10002
+999994,Espada Longa do Samurai (Exclusive do tutorial),@110010,,@110010,,,
+999995,Acessório para Cabeça do Lobo Azul (Exclusivo do tutorial),@210010,,@210010,,,
+999996,Armadura de Lobo Azul Carmesim (Exclusiva do tutorial),@210010,,@210010,,,
+999997,Luvas do Lobo Azul (Exclusivas do tutorial),@210010,,@210010,,,
+999998,Botas do Lobo Azul (Exclusivas do tutorial),@210010,,@210010,,,
+1114,Espada de Uma Mão,@110010,,,,,
+1116,@1114,@110010,,,,,
+1124,@1114,@110010,,,,,
+1126,@1114,@110010,,,,,
+1134,@1114,@110010,,,,,
+1136,@1114,@110010,,,,,
+1144,@1114,@110010,,,,,
+1146,@1114,@110010,,,,,
+1214,Lança,@120010,,,,,
+1216,@1214,@120010,,,,,
+1224,@1214,@120010,,,,,
+1226,@1214,@120010,,,,,
+1234,@1214,@120010,,,,,
+1236,@1214,@120010,,,,,
+1244,@1214,@120010,,,,,
+1246,@1214,@120010,,,,,
+1314,Espadas duplas,@130010,,,,,
+1316,@1314,@130010,,,,,
+1324,@1314,@130010,,,,,
+1326,@1314,@130010,,,,,
+1334,@1314,@130010,,,,,
+1336,@1314,@130010,,,,,
+1344,@1314,@130010,,,,,
+1346,@1314,@130010,,,,,
+1414,Punhal,@140010,,,,,
+1416,@1414,@140010,,,,,
+1424,@1414,@140010,,,,,
+1426,@1414,@140010,,,,,
+1434,@1414,@140010,,,,,
+1436,@1414,@140010,,,,,
+1444,@1414,@140010,,,,,
+1446,@1414,@140010,,,,,
+1514,Arco,@150010,,,,,
+1516,@1514,@150010,,,,,
+1524,@1514,@150010,,,,,
+1526,@1514,@150010,,,,,
+1534,@1514,@150010,,,,,
+1536,@1514,@150010,,,,,
+1544,@1514,@150010,,,,,
+1546,@1514,@150010,,,,,
+1614,Cajado,@160010,,,,,
+1616,@1614,@160010,,,,,
+1624,@1614,@160010,,,,,
+1626,@1614,@160010,,,,,
+1634,@1614,@160010,,,,,
+1636,@1614,@160010,,,,,
+1644,@1614,@160010,,,,,
+1646,@1614,@160010,,,,,
+2210,Armadura pesada,@210010,,,,,
+2220,Armadura leve,@210020,,,,,
+2230,Manto,@210030,,,,,
+3001,Cristal Anímico,@430001,,Dá a chance de obter cristais anímicos que você pode colocar nos encaixes de equipamento.,,,
+3002,Essência de Elixir,@451001,,Obtém essência de elixir que você pode usar para fabricar elixires.,,,
+3003,Erva,@1021,,Obtém ervas que você pode usar para fabricar elixires.,,,
+3004,@490002,Adena,,Obtém uma grande quantidade de Adena.,,,
+3005,@490001,Exp.,,Obtém uma grande quantidade de Exp.,,,
+910004,Conjunto de Pergaminho de Aprimoramento,@1021,,"Esta caixa contém pergaminhos de aprimoramento.
+Use para conseguir um pergaminho de aprimoramento de cada tipo.",,,@10002
+910005,Pergaminho Abençoado: Conjunto,@1021,,"Esta caixa contém Pergaminho Abençoado: Aprimorar.
+Use para conseguir um Pergaminho Abençoado de cada tipo: Aprimorar.",,,@10002
+910006,Conjunto de Pedra de Melhoria,@1021,,"Esta caixa contém pedras de melhoria.
+Use para conseguir uma pedra de melhoria de cada tipo.",,,@10002
+910007,Conjunto de Ervas,@1021,,"Esta caixa contém ervas necessárias para fabricar elixires.
+Use para conseguir uma erva de cada tipo.",,,@10002
+910008,Conjunto de Essência de Elixir,@1021,,"Esta caixa contém essências necessárias para fabricar elixires.
+Use para conseguir uma essência de elixir de cada tipo.",,,@10002
+910012,Bênção da Sentinela do Jardim,@1021,,Use para conseguir grande quantidade de ervas ou essências.,,,@10002
+910101,Caixa de Equipamento Grau {ReplaceString1},@1021,,Use para conseguir um item aleatório do equipamento de grau {ReplaceString1}.,C,,@10002
+910102,Caixa de Arma Grau {ReplaceString1},@1021,,Use para conseguir uma arma aleatória de grau {ReplaceString1}.,@910101,,@10002
+910103,Caixa de Armadura Grau {ReplaceString1},@1021,,Use para conseguir um item aleatório de armadura de grau {ReplaceString1}.,@910101,,@10002
+910104,Caixa de Acessório Grau {ReplaceString1},@1021,,Use para conseguir um acessório aleatório de grau {ReplaceString1}.,@910101,,@10002
+910111,@910101,@1021,,@910101,B,,@10002
+910112,@910102,@1021,,@910102,@910111,,@10002
+910113,@910103,@1021,,@910103,@910111,,@10002
+910114,@910104,@1021,,@910104,@910111,,@10002
+910121,@910101,@1021,,@910101,A,,@10002
+910122,@910102,@1021,,@910102,@910121,,@10002
+910123,@910103,@1021,,@910103,@910121,,@10002
+910124,@910104,@1021,,@910104,@910121,,@10002
+910131,@910101,@1021,,@910101,S,,@10002
+910132,@910102,@1021,,@910102,@910131,,@10002
+910133,@910103,@1021,,@910103,@910131,,@10002
+910134,@910104,@1021,,@910104,@910131,,@10002
+910141,@910101,@1021,,@910101,R,,@10002
+910142,@910102,@1021,,@910102,@910141,,@10002
+910143,@910103,@1021,,@910103,@910141,,@10002
+910144,@910104,@1021,,@910104,@910141,,@10002
+910151,@910101,@1021,,@910101,@490026,,@10002
+910152,@910102,@1021,,@910102,@490026,,@10002
+910153,@910103,@1021,,@910103,@490026,,@10002
+910154,@910104,@1021,,@910104,@490026,,@10002
+910161,@910101,@1021,,@910101,UR,,@10002
+910162,@910102,@1021,,@910102,@910161,,@10002
+910163,@910103,@1021,,@910103,@910161,,@10002
+910201,Caixa de Cristal Anímico Grau {ReplaceString1},@1021,,Ganhe um cristal anímico aleatório de grau {ReplaceString1}.,@910101,,@10002
+910202,@910201,@1021,,@910201,@910111,,@10002
+910203,@910201,@1021,,@910201,@910121,,@10002
+910204,@910201,@1021,,@910201,@910131,,@10002
+910205,@910201,@1021,,@910201,@910141,,@10002
+910206,@910201,@1021,,@910201,@490026,,@10002
+910207,@910201,@1021,,@910201,Grau A - SR,,@10002
+910009,Caixa de Adena Aleatória,@1021,,"Esta caixa contém adena.
+Adquira {ReplaceString1} de adena aleatoriamente.",1 - 1 milhão,,@10002
+910010,Caixa de Diamantes Aleatória,@1021,,"Esta caixa contém diamantes.
+Adquira {ReplaceString1} diamantes aleatoriamente.",1 - 5 mil,,@10002
+910011,Caixa de Runas Aleatória,@1021,,"Esta caixa contém fragmentos de runa.
+Adquira {ReplaceString1} fragmentos de runa aleatoriamente.",1 - 3 mil,,@10002
+910301,Caixa de Núcleo,@1021,,Use para ganhar um Núcleo de Monstro aleatório de grau {ReplaceString1}.,Grau C - A,,@10002
+910302,Caixa de Núcleo de Alto Grau,@1021,,@910301,Grau C - R,,@10002
+910307,Caixa de Ervas,@1021,,Use para ganhar um(a) {ReplaceString1} aleatório.,Erva,,@10002
+910308,Caixa de Essência de Elixir,@1021,,@910307,Essência de Elixir,,@10002
+910309,Caixa de Pedra Estelar Vermelha,@1021,,@900009,Pedra Estelar Vermelha,,@10002
+910310,Cruz do Arrependimento,@1021,,"Reduz o valor caótico de um personagem.
+Cada uso reduz em {ReplaceString2} o valor caótico, você pode usar este efeito {ReplaceString1} vezes por dia.",3,3,
+910311,Pena da Paz (grau mín.),@1021,,Protege do ataque de outros jogadores durante {ReplaceString1} minutos. É possível usar 3 vezes ao dia.,1,,
+910312,Pena da Paz (grau méd.),@1021,,@910311,2,,
+910313,Pena da Paz (grau máx.),@1021,,@910311,3,,
+910316,Cruz do arrependimento,@1021,,@910310,3,30,
+900015,Caixa de Duelo Rudimentar,@1021,,"Caixa disponível como recompensa diária da Arena.
+Use para adquirir aleatoriamente uma variedade de itens.",,,@10002
+900016,Caixa de Duelo Aprimorada,@1021,,@900015,,,@10002
+490039,Caixa de Adena de Masmorra Diária,@1021,,"Caixa de recompensa por concluir Masmorras Diárias.
+Use para ganhar {ReplaceString1} de adena.",10000,,
+490040,Caixa de Adena Pequena da Torre da Insolência,@1021,,"Caixa de recompensa por concluir os andares da Torre da Insolência.
+Use para ganhar {ReplaceString1} de adena.",1000,,
+490041,Caixa de Adena da Torre da Insolência,@1021,,@490040,10000,,
+490042,Caixa de Adena Grande da Torre da Insolência,@1021,,@490040,100000,,
+490043,Caixa de Exp. de Conquista Pequena,@1021,,"Esta caixa contém exp. de conquista.
+Use para ganhar {ReplaceString1} de exp. de conquista.",100,,
+490044,Caixa de Exp. de Conquista,@1021,,@490043,1000,,
+490045,Caixa de Exp. de Conquista Grande,@1021,,@490043,10000,,
+490046,Caixa de Pontos de Honra Pequena,@1021,,"Esta caixa contém pontos de honra.
+Use para ganhar {ReplaceString1} pontos de honra.",50,,
+490047,Caixa de Pontos de Honra,@1021,,@490046,500,,
+490048,Caixa de Pontos de Honra Grande,@1021,,@490046,5000,,
+490049,Pedra Estelar Vermelha,@480103,,Use para redefinir a Masmorra de Clã.,,,
+490066,Fragmento de Proteção de Maphr,@480103,,Combine fragmentos para ganhar a Proteção de Maphr.,,,
+911101,Caixa de Equipamento Exclusiva de Grau {ReplaceString1},@1021,,Use para ganhar um equipamento aleatório de grau {ReplaceString1} apropriado para sua classe.,@910101,,@10002
+911102,Caixa de Arma Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar uma arma aleatória de grau {ReplaceString1} apropriada para sua classe.,@910101,,@10002
+911103,Caixa de Armadura Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar uma armadura aleatória de grau {ReplaceString1} apropriado para sua classe.,@910101,,@10002
+911104,Caixa de Armadura Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar uma armadura aleatória de grau {ReplaceString1} apropriado para sua classe.,@910101,,@10002
+911105,Caixa de Acessório para Cabeça Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar um acessório para cabeça aleatório de grau {ReplaceString1} apropriado para sua classe.,@910101,,@10002
+911106,Caixa de Bota Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar um par de botas aleatório de grau {ReplaceString1} apropriada para sua classe.,@910101,,@10002
+911107,Caixa de Luva Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar um par de luvas aleatório de grau {ReplaceString1} apropriada para sua classe.,@910101,,@10002
+911111,@911101,@1021,,@911101,@910111,,@10002
+911112,@911102,@1021,,@911102,@910111,,@10002
+911113,@911103,@1021,,@911103,@910111,,@10002
+911114,@911104,@1021,,@911104,@910111,,@10002
+911115,@911105,@1021,,@911105,@910111,,@10002
+911116,@911106,@1021,,@911106,@910111,,@10002
+911117,@911107,@1021,,@911107,@910111,,@10002
+911121,@911101,@1021,,@911101,@910121,,@10002
+911122,@911102,@1021,,@911102,@910121,,@10002
+911123,@911103,@1021,,@911103,@910121,,@10002
+911124,@911104,@1021,,@911104,@910121,,@10002
+911125,@911105,@1021,,@911105,@910121,,@10002
+911126,@911106,@1021,,@911106,@910121,,@10002
+911127,@911107,@1021,,@911107,@910121,,@10002
+911131,@911101,@1021,,@911101,@910131,,@10002
+911132,@911102,@1021,,@911102,@910131,,@10002
+911133,@911103,@1021,,@911103,@910131,,@10002
+911134,@911104,@1021,,@911104,@910131,,@10002
+911135,@911105,@1021,,@911105,@910131,,@10002
+911136,@911106,@1021,,@911106,@910131,,@10002
+911137,@911107,@1021,,@911107,@910131,,@10002
+911141,@911101,@1021,,@911101,@910141,,@10002
+911142,@911102,@1021,,@911102,@910141,,@10002
+911143,@911103,@1021,,@911103,@910141,,@10002
+911144,@911104,@1021,,@911104,@910141,,@10002
+911145,@911105,@1021,,@911105,@910141,,@10002
+911146,@911106,@1021,,@911106,@910141,,@10002
+911147,@911107,@1021,,@911107,@910141,,@10002
+911151,@911101,@1021,,@911101,@490026,,@10002
+911152,@911102,@1021,,@911102,@490026,,@10002
+911153,@911103,@1021,,@911103,@490026,,@10002
+911154,@911104,@1021,,@911104,@490026,,@10002
+911155,@911105,@1021,,@911105,@490026,,@10002
+911156,@911106,@1021,,@911106,@490026,,@10002
+911157,@911107,@1021,,@911107,@490026,,@10002
+911026,@911101,@1021,,@911101,@910161,,@10002
+911027,@911102,@1021,,@911102,@910161,,@10002
+911028,@911103,@1021,,@911103,@910161,,@10002
+460006,Página: Flecha de Sangue,@400000,,Material para fabricação [{ReplaceString1}].,Pergaminho Esquecido: Flecha de Sangue,,
+460007,Página: Campo de Raios,@400000,,@460006,Pergaminho Esquecido: Campo de Raios,,
+460008,Página: Disparo de Míssil,@400000,,@460006,Pergaminho Esquecido: Disparo de míssil,,
+460009,Página: Golpe de Veneno,@400000,,Material para fabricação [{ReplaceString1}].,Pergaminho Esquecido: Golpe de Veneno,,
+460010,Página: Armadura de Gelo,@400000,,@460006,Pergaminho Esquecido: Armadura de Gelo,,
+460011,Página: Choque de Evasão,@400000,,@460006,Pergaminho Esquecido: Choque de evasão,,
+460012,Página: Escudo de Mana,@400000,,@460006,Pergaminho Esquecido: Escudo de Mana,,
+460013,Página: Golpe de Cura,@400000,,@460006,Pergaminho Esquecido: Golpe de cura,,
+460014,Página: Chuva de Meteoros,@400000,,@460009,Pergaminho Esquecido: Chuva de Meteoros,,
+460015,Página: Redução de tempo,@400000,,@460006,Pergaminho Esquecido: Redução de tempo,,
+460016,Página: Ataque de Veneno,@400000,,@460006,Pergaminho Esquecido: Ataque de Veneno,,
+460017,Página: Zona de Defesa,@400000,,@460009,Pergaminho Esquecido: Zona de Defesa,,
+461006,Pergaminho Esquecido: Flecha de Sangue,@1021,,Use para aprender e evoluir [{ReplaceString1}].,Habilidade Flecha de Sangue,,
+461007,Pergaminho Esquecido: Campo de Raios,@1021,,@461006,Habilidade Campo de Raios,,
+461008,Pergaminho Esquecido: Disparo de Míssil,@1021,,@461006,Habilidade Disparo de míssil,,
+461009,Pergaminho Esquecido: Golpe de Veneno,@1021,,@461006,Habilidade Golpe de Veneno,,
+461010,Pergaminho Esquecido: Armadura de Gelo,@1021,,@461006,Habilidade Armadura de Gelo,,
+461011,Pergaminho Esquecido: Choque de Evasão,@1021,,@461006,Habilidade Choque de evasão,,
+461012,Pergaminho Esquecido: Escudo de Mana,@1021,,@461006,Habilidade Escudo de Mana,,
+461013,Pergaminho Esquecido: Golpe de Cura,@1021,,@461006,Habilidade Golpe de cura,,
+461014,Pergaminho Esquecido: Chuva de Meteoros,@1021,,@461006,Habilidade Chuva de meteoros,,
+461015,Pergaminho Esquecido: Redução de tempo,@1021,,@461006,Habilidade Redução de Tempo,,
+461016,Pergaminho Esquecido: Ataque de Veneno,@1021,,@461006,Habilidade: Ataque de Veneno,,
+461017,Pergaminho Esquecido: Zona de Defesa,@1021,,@461006,Habilidade: Zona de Defesa,,
+911158,Saque de Pastor de Espíritos,Saque,,"Saque adquirido ao derrotar o Pastor de Espíritos, Guardião da Floresta Corrompida.
+Use para ver o que tem dentro.",,,@10002
+911159,Saque de Zodiac,@911158,,"Saque adquirido ao derrotar o Assassino Zodiac.
+Use para ver o que tem dentro.",,,@10002
+911160,Saque de Barbaprata,@911158,,"Saque adquirido ao derrotar Líder da Invasão Barbaprata.
+Use para ver o que tem dentro.",,,@10002
+911161,Saque de Vapar,@911158,,"Saque adquirido ao derrotar o Vapar Corrompido.
+Use para ver o que tem dentro.",,,@10002
+911162,Saque de Kazir,@911158,,"Saque adquirido ao derrotar o Kazir Ferroada Letal.
+Use para ver o que tem dentro.",,,@10002
+911163,Saque de Flagon,@911158,,"Saque adquirido ao derrotar o Dragão da Planície Flagon.
+Use para ver o que tem dentro.",,,@10002
+911164,Saque de Sina,@911158,,"Saque adquirido ao derrotar o Comandante do Pantanal Sina.
+Use para ver o que tem dentro.",,,@10002
+911165,Saque de Amadeus,@911158,,"Saque adquirido ao derrotar o Gigante Inferior Esquecido Amadeus.
+Use para ver o que tem dentro.",,,@10002
+911166,Saque de Stenoa,@911158,,"Saque adquirido ao derrotar a Rainha Górgona Stenoa.
+Use para ver o que tem dentro.",,,@10002
+911167,Saque de Marsha,@911158,,"Saque adquirido ao derrotar a Bruxa da Rota Comercial Marsha.
+Use para ver o que tem dentro.",,,@10002
+911168,Saque de Marlox,@911158,,"Saque adquirido ao derrotar o Guia da Escuridão Marlox.
+Use para ver o que tem dentro.",,,@10002
+911169,Coração Corrompido,@911158,,"Saque adquirido ao derrotar o Guardião do Vale Coração do Platô.
+Use para ver o que tem dentro.",,,@10002
+911170,Saque de Coveiro,@911158,,"Saque adquirido ao derrotar o Coletor Errante Coveiro.
+Use para ver o que tem dentro.",,,@10002
+911171,Saque de Zaken,@911158,,"Saque adquirido ao derrotar o Rei Pirata Zaken.
+Use para ver o que tem dentro.",,,@10002
+911172,Saque de Orfen,@911158,,"Saque adquirido ao derrotar a Rainha Esporo Orfen.
+Use para ver o que tem dentro.",,,@10002
+911173,Saque de Guillotine,@911158,,"Saque adquirido ao derrotar Guillotine da Morte, o Comandante do Forte da Agonia.
+Use para ver o que tem dentro.",,,@10002
+911174,Caixa de Verniz,@1021,,"Esta caixa contém verniz usado para fortalecer equipamentos.
+Use para ganhar um Verniz de Acessório, Verniz de Armadura ou Verniz de Arma C - S.",,,@10002
+911175,Caixa de Recompensa da Masmorra Elite,@1021,,"Caixa de recompensa por concluir Masmorras Elite.
+Use para ganhar recompensas aleatórias.",,,@10002
+480001,Verniz de Arma {ReplaceString1},@400000,,É possível usar esse item para aprimorar {ReplaceString2}.,@910101,Arma,
+480002,Verniz de Armadura {ReplaceString1},@400000,,@480001,@910101,Armadura,
+480003,Verniz de Acessório {ReplaceString1},@400000,,@480001,@910101,Acessório,
+480004,@480001,@400000,,@480001,@910111,@480001,
+480005,@480002,@400000,,@480001,@910111,@480002,
+480006,@480003,@400000,,@480001,@910111,@480003,
+480007,@480001,@400000,,@480001,@910121,@480001,
+480008,@480002,@400000,,@480001,@910121,@480002,
+480009,@480003,@400000,,@480001,@910121,@480003,
+480010,@480001,@400000,,@480001,@910131,@480001,
+480011,@480002,@400000,,@480001,@910131,@480002,
+480012,@480003,@400000,,@480001,@910131,@480003,
+480013,@480001,@400000,,@480001,@910141,@480001,
+480014,@480002,@400000,,@480001,@910141,@480002,
+480015,@480003,@400000,,@480001,@910141,@480003,
+480016,@480001,@400000,,@480001,@490026,@480001,
+480017,@480002,@400000,,@480001,@490026,@480002,
+480018,@480003,@400000,,@480001,@490026,@480003,
+480019,@480001,@400000,,@480001,@910161,@480001,
+480020,@480002,@400000,,@480001,@910161,@480002,
+480021,@480003,@400000,,@480001,@910161,@480003,
+481001,Verniz de acessório para cabeça de montaria de grau {ReplaceString1}.,@400000,,Use este item como material para evoluir {ReplaceString2}.,@910101,Acessório para cabeça da Montaria,
+481002,Verniz de armadura de montaria de grau {ReplaceString1}.,@400000,,@481001,@910101,Armadura da Montaria,
+481003,Verniz de botas de montaria de grau {ReplaceString1}.,@400000,,@481001,@910101,Botas da Montaria,
+481004,Verniz de sela de montaria de grau {ReplaceString1}.,@400000,,@481001,@910101,Sela da Montaria,
+481005,@481001,@400000,,@481001,@910111,@481001,
+481006,@481002,@400000,,@481001,@910111,@481002,
+481007,@481003,@400000,,@481001,@910111,@481003,
+481008,@481004,@400000,,@481001,@910111,@481004,
+481009,@481001,@400000,,@481001,@910121,@481001,
+481010,@481002,@400000,,@481001,@910121,@481002,
+481011,@481003,@400000,,@481001,@910121,@481003,
+481012,@481004,@400000,,@481001,@910121,@481004,
+481013,@481001,@400000,,@481001,@910131,@481001,
+481014,@481002,@400000,,@481001,@910131,@481002,
+481015,@481003,@400000,,@481001,@910131,@481003,
+481016,@481004,@400000,,@481001,@910131,@481004,
+481017,@481001,@400000,,@481001,@910141,@481001,
+481018,@481002,@400000,,@481001,@910141,@481002,
+481019,@481003,@400000,,@481001,@910141,@481003,
+481020,@481004,@400000,,@481001,@910141,@481004,
+481021,@481001,@400000,,@481001,@490026,@481001,
+481022,@481002,@400000,,@481001,@490026,@481002,
+481023,@481003,@400000,,@481001,@490026,@481003,
+481024,@481004,@400000,,@481001,@490026,@481004,
+911176,Caixa de Verniz Grau {ReplaceString1},@1021,,"Esta caixa contém verniz usado para fortalecer equipamentos. Use para ganhar um Verniz de Acessórios, Verniz de Armadura ou Verniz de Arma grau {ReplaceString1}.",@910101,,@10002
+911177,@911176,@1021,,@911176,@910111,,@10002
+911178,@911176,@1021,,@911176,@910121,,@10002
+911179,@911176,@1021,,@911176,@910131,,@10002
+911180,@911176,@1021,,@911176,@910141,,@10002
+911181,@911176,@1021,,@911176,@490026,,@10002
+911186,Caixa Sangrenta Pequena,@1021,,"Esta caixa contém a Prova de Sangue.
+Use para ganhar {ReplaceString1} Provas de Sangue.",10,,@10002
+911187,Caixa Sangrenta,@1021,,@911186,30,,@10002
+911188,Caixa Sangrenta Grande,@1021,,@911186,100,,@10002
+911189,Pacote Compacto de Poções de PV,@1021,,Use para ganhar {ReplaceString1} Poções de PV.,100,,@10002
+911190,Pacote Compacto de Poções de PM,@1021,,Use para ganhar {ReplaceString1} Poções de PM.,100,,@10002
+911191,Pacote Compacto de Disparo Anímico,@1021,,Use para ganhar {ReplaceString1} Disparos Anímicos.,500,,@10002
+911192,Pacote Compacto de Poções de PV-G,@1021,,@911189,200,,@10002
+911193,Pacote Compacto de Poções de PM-G,@1021,,@911190,200,,@10002
+911194,Pacote Compacto de Disparo Anímico-G,@1021,,@911191,1000,,@10002
+911195,Pacote Compacto de Poções de PV-XG,@1021,,@911189,500,,@10002
+911196,Pacote Compacto de Poções de PM-XG,@1021,,@911190,500,,@10002
+911197,Pacote Compacto de Disparo Anímico-XG,@1021,,@911191,1000,,@10002
+911198,Caixa de Equipamento Exclusiva de Alto Grau,@1021,,@911101,@910207,,@10002
+911199,Caixa de Verniz de Alto Grau,@1021,,@911176,Grau B - SR,,@10002
+911200,Caixa de Elixir de Transferência de Classe,@1021,,Essa é uma Caixa de Elixir comemorativa de transferência de classe. Use para ganhar 4 essências de elixir de cada tipo e 16 ervas.,,,@10002
+911202,Caixa de Arma [{ReplaceString1}],@1021,,Use esta caixa para ganhar uma arma exclusiva de {ReplaceString1}.,Paladino,,@10002
+911203,@911202,@1021,,@911202,Cavaleiro Templar,,@10002
+911204,@911202,@1021,,@911202,Cavaleiro de Shillien,,@10002
+911205,@911202,@1021,,@911202,Guardião,,@10002
+911206,@911202,@1021,,@911202,Senhor da Guerra,,@10002
+911207,@911202,@1021,,@911202,Dança-lâminas,,@10002
+911208,@911202,@1021,,@911202,Espadachim,,@10002
+911209,@911202,@1021,,@911202,Matador,,@10002
+911210,@911202,@1021,,@911202,Caça-tesouros,,@10002
+911211,@911202,@1021,,@911202,Caminhante das Planícies,,@10002
+911212,@911202,@1021,,@911202,Caminh. do Abismo,,@10002
+911213,@911202,@1021,,@911202,Carniceiro,,@10002
+911214,@911202,@1021,,@911202,Olho de Águia,,@10002
+911215,@911202,@1021,,@911202,Patrulheiro de Prata,,@10002
+911216,@911202,@1021,,@911202,Patrulh. Fantasma,,@10002
+911217,@911202,@1021,,@911202,Patrulheiro de Guerra,,@10002
+911218,@911202,@1021,,@911202,Feiticeiro,,@10002
+911219,@911202,@1021,,@911202,Canta-Magias,,@10002
+911220,@911202,@1021,,@911202,Uiva-Magias,,@10002
+911221,@911202,@1021,,@911202,Mago de Batalha,,@10002
+911222,@911202,@1021,,@911202,Bispo,,@10002
+911223,@911202,@1021,,@911202,Ancião,,@10002
+911224,@911202,@1021,,@911202,Ancião de Shillien,,@10002
+911225,@911202,@1021,,@911202,Sábio,,@10002
+911226,Caixa de Recompensa da Masmorra de Equipamentos ({ReplaceString1}),@1021,,Caixa de recompensa por concluir a Guardião do Templo na dificuldade {ReplaceString1}. Use para conseguir o equipamento {ReplaceString2}.,Fácil,B - A,@10002
+911227,@911226,@1021,,@911226,Normal,B - S,@10002
+911228,@911226,@1021,,@911226,Difícil,B - R,@10002
+911229,@911226,@1021,,@911226,Dificílimo,B - SR,@10002
+911236,@911226,@1021,,@911226,Inferno,@911229,@10002
+1000100,{ReplaceString1} - {ReplaceString2} Pedra de Evocação,@1021,,"Evoca: {ReplaceString2}
+
+Pedra de evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de teletransporte que permite entrar em uma área secreta com {ReplaceString2} de {ReplaceString1}.",Ilha Falante,Monstros raros,
+1000101,@1000100,@1021,,"Evoca: {ReplaceString2}
+
+Pedra de evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de teletransporte que permite entrar em uma área secreta com {ReplaceString2} do Território {ReplaceString1}.",Gludio,@1000100,
+1000102,@1000100,@1021,,@1000101,Dion,@1000100,
+1000103,@1000100,@1021,,@1000101,Giran,@1000100,
+1000104,@1000100,@1021,,@1000101,Oren,@1000100,
+1000201,Gludio - Pedra de Evocação de Chefe,@1021,,"Evoca: chefes
+
+Pedra de Evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de Teletransporte que permite a entrada numa área secreta com chefes da Ilha Falante e do Território de Gludio.",,,
+1000202,Dion - Pedra de Evocação de Chefe,@1021,,"Evoca: chefes
+
+Pedra de Evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de Teletransporte que permite a entrada numa área secreta com chefes do Território de Dion.",,,
+1000203,Giran - Pedra de Evocação de Chefe,@1021,,"Evoca: chefes
+
+Pedra de Evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de Teletransporte que permite a entrada numa área secreta com chefes do Território de Giran.",,,
+1000204,Oren - Pedra de Evocação de Chefe,@1021,,"Evoca: chefes
+
+Pedra de Evocação usada pela Irmandade Sombria para evocar monstros e ganhar energia sombria.
+
+Use para evocar uma Pedra de Teletransporte que permite a entrada numa área secreta com chefes do Território de Oren.",,,
+1000301,Pedra de Evocação de Chefe Mundial,@1021,,"Evoca: Chefe Mundial
+
+Pedra de evocação usada pela Irmandade Sombria para evocar monstros e adquirir energia sombria.
+
+Use para evocar uma pedra de teletransporte que permite entrar em uma área secreta com chefes mundiais de toda Aden.",,,
+911230,Caixa de Saque de {ReplaceString1},@1021,,"Saque adquirido ao derrotar {ReplaceString1}.
+Use para ver o que tem dentro.",@472015,,@10002
+911231,Caixa de Saque de Alto Grau de {ReplaceString1},@1021,,@911230,@472015,,@10002
+911232,@911230,@1021,,@911230,@472033,,@10002
+911233,@911231,@1021,,@911230,@472033,,@10002
+911234,@900001,@1021,,Use para ganhar um equipamento exclusivo aleatório.,,,@10002
+911235,Página de Pergaminho Esquecido Raro Aleatório,@1021,,Adquira 1 Página de Pergaminho Esquecido apropriada para sua classe.,,,@10002
+910304,Caixa de Núcleo (Ilha Falante Oriental),@1021,,Ganhe 1 Núcleo de Presa Negra e um Núcleo de Chifreprata.,,,@10002
+500301,Pergaminho de Missão [Nív. 20],Pergaminho de missão,,"Use esse pergaminho para iniciar uma missão secundária de grau S.
+
+Não é possível vincular grau S, é possível apenas adquiri-los de caixas de tesouro escondidas pelo mundo de Aden.",,,"Local-alvo: Estrada de Gludin
+Restrição de nv.: 20."
+500302,@500301,@500301,,"Use esse pergaminho para iniciar uma missão secundária de grau A.
+
+Vincule 5 pergaminhos de missão para adquirir 1 pergaminho de missão de grau superior. Funciona para pergaminhos de missão de no máximo grau A.
+
+É possível adquirir pergaminhos de missão de grau S de caixas de tesouro escondidas pelo mundo de Aden.",,,@500301
+500303,@500301,@500301,,"Use esse pergaminho para iniciar uma missão secundária de grau B.
+
+Vincule 5 pergaminhos de missão para adquirir 1 pergaminho de missão de grau superior. Funciona para pergaminhos de missão de no máximo grau A.
+
+É possível adquirir pergaminhos de missão de grau S de caixas de tesouro escondidas pelo mundo de Aden.",,,@500301
+500304,@500301,@500301,,"Use esse pergaminho para iniciar uma missão secundária de grau C.
+
+Vincule 5 pergaminhos de missão para adquirir 1 pergaminho de missão de grau superior. Funciona para pergaminhos de missão de no máximo grau A.
+
+É possível adquirir pergaminhos de missão de grau S de caixas de tesouro escondidas pelo mundo de Aden.",,,@500301
+500305,Livro secreto de grau B,@500301,,"Livro secreto da Caravana do Gato.
+Parece conter detalhes de comércio importantes.",,,"Localização do alvo: Estrada de Gludin
+Restrição de Nv.: 21."
+500306,Livro secreto de grau A,@500301,,@500305,,,@500305
+500307,Livro secreto de grau S,@500301,,@500305,,,@500305
+500401,Pergaminho de Missão [Nív. 30],@500301,,@500301,,,"Local-alvo: Planície de Gludio
+Restrição de nv.: 30."
+500402,@500401,@500301,,@500302,,,@500401
+500403,@500401,@500301,,@500303,,,@500401
+500404,@500401,@500301,,@500304,,,@500401
+500501,Pergaminho de Missão [Nív. 40],@500301,,@500301,,,"Local-alvo: Mansão Windawood
+Restrição de nv.: 40."
+500502,@500501,@500301,,@500302,,,@500501
+500503,@500501,@500301,,@500303,,,@500501
+500504,@500501,@500301,,@500304,,,@500501
+500601,Pergaminho de Missão [Nív. 50],@500301,,@500301,,,"Local-alvo: Deserto
+Restrição de nv.: 50."
+500602,@500601,@500301,,@500302,,,@500601
+500603,@500601,@500301,,@500303,,,@500601
+500604,@500601,@500301,,@500304,,,@500601
+500701,Pergaminho de Missão [Nív. 60],@500301,,@500301,,,"Local-alvo: Planície de Dion
+Restrição de nv.: 60."
+500702,@500701,@500301,,@500302,,,@500701
+500703,@500701,@500301,,@500303,,,@500701
+500704,@500701,@500301,,@500304,,,@500701
+500801,Pergaminho de Missão [Nív. 75],@500301,,@500301,,,"Local-alvo: Pântano de Cruma
+Restrição de nv.: 75."
+500802,@500801,@500301,,@500302,,,@500801
+500803,@500801,@500301,,@500303,,,@500801
+500804,@500801,@500301,,@500304,,,@500801
+500901,Pergaminho de Missão [Nív. 90],@500301,,@500301,,,"Local-alvo: Pico da Dissonância
+Restrição de nv.: 90."
+500902,@500901,@500301,,@500302,,,@500901
+500903,@500901,@500301,,@500303,,,@500901
+500904,@500901,@500301,,@500304,,,@500901
+501001,Pergaminho de Missão [Nív. 105],@500301,,@500301,,,"Local-alvo: Sacrários Uivantes
+Restrição de nv.: 105."
+501002,@501001,@500301,,@500302,,,@501001
+501003,@501001,@500301,,@500303,,,@501001
+501004,@501001,@500301,,@500304,,,@501001
+501101,Pergaminho de Missão [Nív. 120],@500301,,@500301,,,"Local-alvo: Domínio de Giran
+Restrição de nv.: 120."
+501102,@501101,@500301,,@500302,,,@501101
+501103,@501101,@500301,,@500303,,,@501101
+501104,@501101,@500301,,@500304,,,@501101
+501201,Pergaminho de Missão [Nív. 135],@500301,,@500301,,,"Local-alvo: Praias da Névoa Mortal
+Restrição de nv.: 135."
+501202,@501201,@500301,,@500302,,,@501201
+501203,@501201,@500301,,@500303,,,@501201
+501204,@501201,@500301,,@500304,,,@501201
+501301,Pergaminho de Missão [Nív. 150],@500301,,@500301,,,"Local-alvo: Ilha do Demônio
+Restrição de nv.: 150."
+501302,@501301,@500301,,@500302,,,@501301
+501303,@501301,@500301,,@500303,,,@501301
+501304,@501301,@500301,,@500304,,,@501301
+501401,Pergaminho de Missão [Nív. 160],@500301,,@500301,,,"Local-alvo: Necrópole Assombrada
+Restrição de nv.: 165."
+501402,@501401,@500301,,@500302,,,@501401
+501403,@501401,@500301,,@500303,,,@501401
+501404,@501401,@500301,,@500304,,,@501401
+501501,Pergaminho de Missão [Nív. 180],@500301,,@500301,,,"Localização do alvo: Platô do Vento Norte
+Restrição de Nv.: 180."
+501502,@501501,@500301,,@500302,,,@501501
+501503,@501501,@500301,,@500303,,,@501501
+501504,@501501,@500301,,@500304,,,@501501
+501601,Pergaminho de Missão [Nív. 200],@500301,,@500301,,,"Localização do alvo: Terras Eternas
+Restrição de Nv.: 200."
+501602,@501601,@500301,,@500302,,,@501601
+501603,@501601,@500301,,@500303,,,@501601
+501604,@501601,@500301,,@500304,,,@501601
+501701,Pergaminho de Missão [Nív. 230],@500301,,@500301,,,"Localização do alvo: Território Conquistado da Torre de Marfim
+Restrição de Nv.: 230."
+501702,@501701,@500301,,@500302,,,@501701
+501703,@501701,@500301,,@500303,,,@501701
+501704,@501701,@500301,,@500304,,,@501701
+600001,Número 0,@10003,,"Número {ReplaceString1}.
+
+Use no evento de vincular letra.",,,
+600002,Número 1,@10003,,@600001,1,,
+600003,Número 2,@10003,,@600001,2,,
+600004,Número 3,@10003,,@600001,3,,
+600005,Número 4,@10003,,@600001,4,,
+600006,Número 5,@10003,,@600001,5,,
+600007,Número 6,@10003,,@600001,6,,
+600008,Número 7,@10003,,@600001,7,,
+600009,Número 8,@10003,,@600001,8,,
+600010,Número 9,@10003,,@600001,9,,
+600011,Letra A,@10003,,@600001,@910121,,Adquirível ao derrotar monstros normais.
+600012,Letra B,@10003,,@600001,@910111,,Adquirível em Baús de Tesouro Prata.
+600013,Letra C,@10003,,@600001,@910101,,Pode ser obtido em Baús do Tesouro Dourado.
+600014,Letra D,@10003,,@600001,D,,Adquirível ao finalizar a Masmorra Diária.
+600015,Letra E,@10003,,@600001,E,,Adquirível em Baús de Tesouro Normais.
+600016,Letra F,@10003,,@600001,F,,
+600017,Letra G,@10003,,@600001,G,,
+600018,Letra H,@10003,,@600001,H,,@600011
+600019,Letra I,@10003,,@600001,I,,@600012
+600020,Letra J,@10003,,@600001,J,,
+600021,Letra K,@10003,,@600001,K,,
+600022,Letra L,@10003,,@600001,L,,Pode ser obtido ao colher uma erva no Poço de Extração.
+600023,Letra M,@10003,,@600001,M,,@600013
+600024,Letra N,@10003,,@600001,N,,@600015
+600025,Letra O,@10003,,@600001,O,,@600015
+600026,Letra P,@10003,,@600001,P,,@600011
+600027,Letra Q,@10003,,@600001,Q,,
+600028,Letra R,@10003,,@600001,@910141,,@600011
+600029,Letra S,@10003,,@600001,@910131,,@600011
+600030,Letra T,@10003,,@600001,T,,@600012
+600031,Letra U,@10003,,@600001,U,,Pode ser obtido ao realizar uma extração no Poço de Extração.
+600032,Letra V,@10003,,@600001,V,,
+600033,Letra W,@10003,,@600001,W,,@600015
+600034,Letra X,@10003,,@600001,X,,
+600035,Letra Y,@10003,,@600001,Y,,@600015
+600036,Letra Z,@10003,,@600001,Z,,
+910208,Caixa de Seleção de Pedras de Evocação de Chefe,@1021,,Use para selecionar e adquirir uma pedra de evocação de chefe.,,,@10002
+910209,Caixa de Seleção de Acessórios para Cabeça Exclusiva Grau A,@1021,,Use para selecionar e adquirir um acessório para cabeça exclusivo de grau A.,,,@10002
+910210,Caixa de Armadura Grau A - S,@1021,,Use para selecionar e adquirir um item de armadura de grau A - S.,,,@10002
+910211,Caixa de Verniz Grau A - S,@1021,,Use para selecionar e adquirir um verniz de grau A - S.,,,@10002
+910212,Caixa de seleção de equipamentos exclusiva grau R,@1021,,Use para selecionar e adquirir uma das armas e armaduras exclusivas de grau R listadas.,,,@10002
+910213,Caixa de seleção de Acessórios Grau {ReplaceString1},@1021,,Use para selecionar e adquirir um acessório de grau {ReplaceString1} da lista.,@910141,,@10002
+910214,Caixa de Seleção de Essências de Elixir,@1021,,Use para selecionar e adquirir uma essência de elixir.,,,@10002
+910215,Caixa de Seleção de Vernizes Grau {ReplaceString1},@1021,,Use para selecionar e adquirir um verniz de grau {ReplaceString1}.,@910101,,@10002
+910216,@910215,@1021,,@910215,@910111,,@10002
+910217,@910215,@1021,,@910215,@910121,,@10002
+910218,@910215,@1021,,@910215,@910131,,@10002
+910219,@910215,@1021,,@910215,@910141,,@10002
+910220,Caixa de Seleção de Pergaminhos de Aprimoramento,@1021,,Use para selecionar e adquirir um pergaminho de aprimoramento.,,,@10002
+910221,Seleção Pedra de melhoria,@1021,,Use para selecionar e adquirir uma pedra de melhoria.,,,@10002
+910314,Bênção de Einhasad (+100%),@1021,,Use para aumentar em 100% a exp. de caçada de campo e exp. de extração. (1 hora),,,
+910315,Bênção de Einhasad,@1021,,Use para aumentar em 200% a exp. de caçada de campo e exp. de extração. (1 hora),,,
+910222,Caixa de Página de Pergaminho Esquecido Aleatório,@1021,,"Use para ganhar uma Página de Pergaminho Esquecido de Golpe de Cura, Escudo Absoluto, Chuva de Meteoros ou Disparo de Míssil raro aleatório.",,,@10002
+910223,Caixa de Equipamento Exclusiva de Grau {ReplaceString1},@1021,,Ganhe uma armadura ou arma aleatória de grau {ReplaceString1}.,@910101,,@10002
+910224,@910223,@1021,,@910223,@910111,,@10002
+910225,@910223,@1021,,@910223,@910121,,@10002
+910226,@910223,@1021,,@910223,@910131,,@10002
+910227,@910223,@1021,,@910223,@910141,,@10002
+492001,Caixa de Adena de Nível Alcançado,@1021,,"Esta caixa pequena contém adena.
+Use para ganhar {ReplaceString1} de adena.",5000,,
+492002,@492001,@1021,,@492001,10000,,
+492003,@492001,@1021,,@492001,15000,,
+492004,@492001,@1021,,@492001,20000,,
+492005,@492001,@1021,,@492001,25000,,
+492006,@492001,@1021,,@492001,30000,,
+492007,@492001,@1021,,@492001,35000,,
+492008,@492001,@1021,,@492001,40000,,
+492009,@492001,@1021,,@492001,45000,,
+492011,Caixa de Diamantes de Nível Alcançado,@1021,,"Esta caixa contém diamantes vermelhos.
+Use para conseguir {ReplaceString1} diamantes vermelhos.",20,,
+492012,@492011,@1021,,@492011,40,,
+492013,@492011,@1021,,@492011,60,,
+492014,@492011,@1021,,@492011,80,,
+492015,@492011,@1021,,@492011,100,,
+492016,@492011,@1021,,@492011,120,,
+492017,@492011,@1021,,@492011,140,,
+492018,@492011,@1021,,@492011,160,,
+492019,@492011,@1021,,@492011,180,,
+492020,@492011,@1021,,@492011,200,,
+492101,@492011,@1021,,@492011,220,,
+492102,@492011,@1021,,@492011,240,,
+492103,@492011,@1021,,"Esta caixa contém diamantes verdes.
+Use para obter {ReplaceString1} diamantes verdes.",260,,
+492104,@492011,@1021,,@492103,280,,
+492105,@492011,@1021,,@492103,300,,
+492106,@492011,@1021,,@492103,320,,
+492107,@492011,@1021,,@492103,340,,
+492108,@492011,@1021,,@492103,360,,
+492021,Caixa de Conquista de Nível Alcançado,@1021,,@490043,500,,
+492022,@492021,@1021,,@490043,1000,,
+492023,@492021,@1021,,@490043,5000,,
+492024,@492021,@1021,,@490043,8000,,
+492031,Caixa de Honra de Nível Alcançado,@1021,,@490046,50,,
+492032,@492031,@1021,,@490046,150,,
+492033,@492031,@1021,,@490046,300,,
+492034,@492031,@1021,,@490046,500,,
+910228,@910201,@1021,,Use para ganhar um cristal anímico aleatório de grau {ReplaceString1}.,Grau A - S,,@10002
+910229,Caixa de Arma Exclusiva Grau {ReplaceString1},@1021,,@911102,@910228,,@10002
+910230,Caixa de Presente Festivo,@1021,,"Boas-vindas da temporada.
+Boas férias!",,,@10002
+910231,{ReplaceString1} Caixa de Adena,@1021,,"Esta caixa contém adena.
+Usada para obter {ReplaceString1} adena.",120000,,
+910232,@490014,@1021,,"Esta caixa contém diamantes vermelhos.
+Use para adquirir {ReplaceString1} Diamantes Vermelhos.",300,,
+910233,Caixa de Presente Surpresa,@1021,,"Caixa de presente de férias.
+Use para ganhar 50.000 de adena, 3 caixas de núcleo superior e 500 fragmentos de runa.",,,@10002
+910234,@910231,@1021,,@910231,50000,,
+910235,Bolsa da Sorte de Ano Novo,@1021,,Feliz ano novo! Esperamos que você continue bem!,,,@10002
+910236,Bolsa da Sorte Surpresa,@1021,,"Bolsa da sorte que contém presentes.
+Use para ganhar um dos itens seguintes: Caixa de Cristal Anímico A - SR, Pergaminho Abençoado: Aprimorar arma ou Verniz de Armadura Grau S.",,,@10002
+910237,Pergaminho Abençoado: Caixa de Seleção de Aprimoramentos,@1021,,Use para selecionar e ganha um dos itens seguintes: Pergaminho Abençoado: Aprimorar arma ou Pergaminho Abençoado: Aprimorar armadura ou Pergaminho Abençoado: Aprimorar Acessório.,,,@10002
+910238,Bolsa da Sorte,@400000,,"Esta é uma bolsa da sorte.
+Colete e troque essas bolsas por itens.
+Obtenha em masmorras diárias, Arena, por Doação de clã, Presença do clã, Conclusão automática da Torre da Insolência, Masmorras de exp. e Guardião do Templo.",,,
+910239,@910231,@1021,,@910231,30000,,
+910240,Caixa do Dia dos Namorados,@1021,,"Coisas boas acontecerão!
+Ah, você quer saber quais itens vêm junto?
+Use para ganhar a Caixa de Conjunto de Essência de Elixir, 10 Caixas de Núcleo de Monstro de Alto Grau, Caixa de Caixa de PH Pequena, Caixa de Fragmentos de Runa e Caixa de Seleção de Vernizes de Grau R.",,,@10002
+910243,Mais um dado!,@400000,,@910238,,,
+910245,Bala de Mel Orgânica,@10001,,"Bala feita por um especialista no uso de mel orgânico.
+Usada como material para o evento Produção de Balas.
+Use a caixa de balas de presente para obter esta bala.",,,@10004
+910246,Bala de Morango,@10001,,"Saborosa bala de morango.
+Usada para participar na Arena e obter de Masmorras de exp.",,,Aumenta em 3.000 os PV durante 10 min.
+910247,Bala de Chocolate,@10001,,"Deliciosa bala de chocolate.
+Usada para participar na Arena e obter de Masmorras de exp.",,,Aumenta em 3.000 os PM durante 10 min.
+910248,Bala de Uva,@10001,,"Bala de uva azedinha.
+Obtidas em Masmorras Elite e Masmorras de Extração e enviadas à sua caixa de correio.",,,@10001
+910249,Caixa de Presente de Balas Generosa,@1021,,Use para trocar por uma Caixa de Verniz de Grau S e 500 Disparos Anímicos.,,,@10002
+910250,Caixa de Presente de Balas Luxo,@1021,,"Ganhe um dos itens seguintes: 100.000 de adena, Cristal Anímico da Resiliência de Grau B, Cristal Anímico de Penetração de Grau B, Caixa de Pergaminho Abençoado e 30 Fragmentos de Proteção de Maphr.",,,@10002
+910251,Caixa de Balas de Presente,@1021,,"Adquira uma das seguintes: Bala de Mel Orgânica, Bala de Morango, Bala de Chocolate e Bala de Uva.",,,@10002
+910252,@910231,@1021,,@910231,100000,,
+910261,Chave de Caçada ao Tesouro de Feldheim,@1021,,"Use esta chave para a Caçada ao Tesouro de Feldheim.
+Use para abrir caixas no evento de Caçada ao Tesouro.",,,
+910262,@490002,@1021,,Use para ganhar {ReplaceString1} de adena.,1000,,
+910263,@910231,@1021,,@492001,5000,,
+910264,@910231,@1021,,@910231,10000,,
+910265,페르넬의 유적탐사 열쇠(UR편),@1021,,Uma chave usada na Exploração das Ruínas de Feldheim.,Pode ser usada na página de evento da Exploração das Ruínas de Feldheim.,,
+920201,Caixa de Fragmento de Monstro do Progresso Semanal,@1021,,"Esta caixa é disponível baseada no número de missões semanais concluídas.
+Use para conseguir fragmentos de Pedra de Evocação de monstros.",,,
+920202,@920201,@1021,,@920201,,,
+920203,@920201,@1021,,@920201,,,
+920204,@920201,@1021,,@920201,,,
+920205,@920201,@1021,,@920201,,,
+920206,@920201,@1021,,@920201,,,
+920207,@920201,@1021,,@920201,,,
+920208,@920201,@1021,,@920201,,,
+920209,@920201,@1021,,@920201,,,
+920210,@920201,@1021,,@920201,,,
+920211,@920201,@1021,,@920201,,,
+920212,@920201,@1021,,@920201,,,
+920213,@920201,@1021,,@920201,,,
+920214,@920201,@1021,,@920201,,,
+920215,@920201,@1021,,@920201,,,
+920216,@920201,@1021,,@920201,,,
+920217,@920201,@1021,,@920201,,,
+500001,Pão Fresco,@400000,,Use na Sede do Clã ao preparar banquetes.,,,
+500002,Hortaliças Frescas,@400000,,@500001,,,
+500003,Carne Suculenta,@400000,,@500001,,,
+500051,Cristal Flamejante,@400000,,Use na Sede do Clã para preparar poções.,,,
+500052,Cristal Gélido,@400000,,@500051,,,
+500053,Cristal de Vida,@400000,,@500051,,,
+500061,Cristal Flamej. do Clã,@400000,,@500051,,,
+500062,Cristal Gélido do Clã,@400000,,@500051,,,
+500063,Cristal Gélido do Clã,@400000,,@500051,,,
+500071,Reagente Mágico,@400000,,@500051,,,
+500081,Reagente Mág. do Clã,@400000,,@500051,,,
+500100,Chave Antiga,@400000,,Essa chave misteriosa avalia relíquias antigas.,,,
+500101,Relíquia de Varkaron (fácil),Relíquia,,"Este é um artefato adquirido que adquiriu {ReplaceString1}.
+Você pode ganhar recompensas se der emoção ao administrador de relíquias da sede do clã.",@472015,,
+500102,Relíquia de Varkaron (normal),@500101,,@500101,@472015,,
+500103,Relíquia de Varkaron (difícil),@500101,,@500101,@472015,,
+500104,Relíquia de Varkaron Avaliada (fácil),@500101,,"O guardião de relíquias da Sede do Clã avaliou essa relíquia.
+Confira as recompensas.",,,@10002
+500105,Relíquia de Varkaron Avaliada (normal),@500101,,@500104,,,@10002
+500106,Relíquia de Varkaron Avaliada (difícil),@500101,,@500104,,,@10002
+500107,Relíquia da Formiga Rainha (fácil),@500101,,"Este é um artefato adquirido que adquiriu {ReplaceString1}.
+Você pode ganhar recompensas se der emoção ao administrador de relíquias da sede do clã.",Formiga Rainha,,
+500108,Relíquia da Formiga Rainha (normal),@500101,,@500107,@500107,,
+500109,Relíquia da Formiga Rainha (difícil),@500101,,@500107,@500107,,
+500110,Relíquia da Formiga Rainha Avaliada (fácil),@500101,,@500104,,,@10002
+500111,Relíquia da Formiga Rainha Avaliada (normal),@500101,,@500104,,,@10002
+500112,Relíquia da Formiga Rainha Avaliada (difícil),@500101,,@500104,,,@10002
+500113,Relíquia do Núcleo de Cruma (fácil),@500101,,@500107,@472054,,
+500114,Relíquia do Núcleo de Cruma (normal),@500101,,@500107,@472054,,
+500115,Relíquia do Núcleo de Cruma (difícil),@500101,,@500107,@472054,,
+500116,Relíquia do Núcleo de Cruma Avaliada (fácil),@500101,,@500104,,,@10002
+500117,Relíquia do Núcleo de Cruma Avaliada (normal),@500101,,@500104,,,@10002
+500118,Relíquia do Núcleo de Cruma Avaliada (difícil),@500101,,@500104,,,@10002
+500119,Relíquia Velha,@500101,,"É uma relíquia muito antiga.
+Peça ao guardião de relíquias da Sede do Clã para avaliar essa relíquia e ganhar recompensas.",,,
+500120,Relíquia Radiante,@500101,,"Esta é uma relíquia reluzente.
+Peça ao Guardião de Relíquias da Sede do Clã que avalie esta relíquia para você adquirir recompensas.",,,
+500121,Relíquia Mística,@500101,,"É uma relíquia mística.
+Peça ao guardião de relíquias da Sede do Clã para avaliar essa relíquia e ganhar recompensas.",,,
+500122,Relíquia Velha Avaliada,@500101,,@500104,,,@10002
+500123,Relíquia Antiga Avaliada,@500101,,@500104,,,@10002
+500124,Relíquia Mística Avaliada,@500101,,@500104,,,@10002
+500125,Baú de Relíquias do Clã,@500101,,"Este Baú de Relíquias do Clã é resultado do trabalho duro dos seus companheiros.
+Abra-o para conferir as recompensas.",,,@10002
+500126,Relíquia esfarrapada,@500101,,"Esta á uma relíquia esfarrapada.
+Peça ao Guardião de Relíquias da Sede do Clã que avalie esta relíquia para você adquirir uma recompensa.",,,
+505001,Poção de Aumento de Atq. F.,@10001,,Aumenta em 10% o atq. f. por 5 min.,,,
+505002,Poção de Aumento de Atq. M.,@10001,,Aumenta em 10% o atq. m. por 5 min.,,,
+505003,Poção de Aumento de Def. F.,@10001,,Aumenta em 10% a def. f. por 5 min.,,,
+505004,Poção de Aumento de Def. M.,@10001,,Aumenta em 10% a def. m. por 5 min.,,,
+505005,Poção de Aumento de Velocidade,@10001,,Aumenta em 15% a velocidade por 30 s.,,,
+505006,Poção de Aum. de Vel. de Extração,@10001,,Aumenta em 50% a velocidade de extração por 3 min.,,,
+505007,Poção de Aumento de Vel. de Atq,@10001,,Aumenta em 20% a vel. de atq. por 30 s.,,,
+505008,Poção de Aumento da Tx. de Evasão,@10001,,Aumenta em 50% a taxa de evasão por 10 s.,,,
+505009,Poção de Aumento de Resiliência,@10001,,Aumenta em 10.000 a resiliência por 1 min.,,,
+505010,Poção de Aum. de dano em Ign. Def.,@10001,,Aumenta em 2.000 o dano de def. ignorada por 1 min.,,,
+505011,Poção de Redução de Dano Fixa,@10001,,Aumenta em 1.000 a redução de dano fixa por 1 min.,,,
+505012,Poção de Red. do T. de Rec. de Hab.,@10001,,Reduz em 30% o tempo de recarga de habilidade por 1 min.,,,
+505013,Poção de Aumento de Resiliência,@10001,,Aumenta em 10.000 a penetração por 1 min.,,,
+505014,Poção de Aum. de Dano a Chefes,@10001,,Aumenta em 15% o dano causado em chefes por 5 min.,,,
+505015,Poção de Red. de Dano de Chefes,@10001,,Reduz em 5% o dano vindo de chefes por 5 min.,,,
+505016,Poção de Aumento de Ganho de Núcleo,@10001,,"Aumenta a taxa de queda do Núcleo do Monstro em 25% por 1 hora.
+(exceto Masmorras de Elite)",,,
+505501,Poção de Aumento de Moral,@10001,,Aumenta em 30% a sua velocidade e a de seus membros de clã próximos por 30 s.,,,
+505502,Poção de Tempest. de Gelo,@10001,,Reduz em 50% a velocidade de inimigos próximos por 30 s.,,,
+505503,Poção de Destruição,@10001,,Aumenta em 50% o dano causado a estruturas atacantes por 1 min.,,,
+505504,Poção de Ampl. de R. de PV,@10001,,Aumenta em 50% a sua Regen. de PV e a de seus membros de clã próximos por 15 s.,,,
+505505,Poção de Berserker de Atq.,@10001,,Reduz em 60% a def. e aumenta em 20% o atq. por 30 s.,,,
+505506,Poção de Berserker de Def.,@10001,,Reduz em 15% o atq. e aumenta em 100% a def. por 30 s.,,,
+505507,Poção de Aprimor. da Mente,@10001,,Aumenta em 50% a taxa de resist. de status anormal por 10 s.,,,
+505508,Poção Antimagia,@10001,,Reduz em 20% a PM de inimigos próximos por 15 s.,,,
+520079,Caixa de Aventura do Mercenário,@1021,,Use para ganhar itens úteis em sua jornada como mercenário.,,,@10002
+520080,Caixa de Batalha do Mercenário,@1021,,@520079,,,@10002
+520081,Caixa de Evolução do Mercenário,@1021,,@520079,,,@10002
+520082,Caixa de Clã do Mercenário,@1021,,@520079,,,@10002
+520083,Caixa de Tesouro do Mercenário,@1021,,@520079,,,@10002
+520084,Caixa de Aprimoramento do Mercenário,@1021,,@520079,,,@10002
+505085,Poção do Clã Nv. 5: Bônus de Adena,@10001,,Aumenta a quantidade de Adena obtida em 50% por 1 hora. (Aplicável apenas a Caçada de Campo),,,
+505086,Nv.{ReplaceString1} Poção do Clã: Bônus de Caída de Núcleo,@10001,,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em {ReplaceString2}%.
+O efeito dura 1 hora.
+(Aplica-se somente a Caçada de Campo)",5,50,
+1001100,{ReplaceString1} - fragmento,@1021,,Combine {ReplaceString2} fragmentos para adquirir [{ReplaceString1}].,Ilha Falante - Pedra de Evocação de Monstros Raros,10,
+1001101,@1001100,@1021,,@1001100,Gludio - Pedra de Evocação de Monstros Raros,10,
+1001102,@1001100,@1021,,@1001100,Dion - Pedra de Evocação de Monstros Raros,10,
+1001103,@1001100,@1021,,@1001100,Giran - Pedra de Evocação de Monstros Raros,10,
+1001104,@1001100,@1021,,@1001100,Oren - Pedra de Evocação de Monstros Raros,10,
+1001201,Gludio - Fragmento de Pedra de Evocação de Chefe,@1021,,@1001100,Território Gludio - Pedra de Evocação de Chefe,20,
+1001202,Dion - Fragmento de Pedra de Evocação de Chefe,@1021,,@1001100,Território Dion - Pedra de Evocação de Chefe,20,
+1001203,Giran - Fragmento de Pedra de Evocação de Chefe,@1021,,@1001100,Território Giran - Pedra de Evocação de Chefe,20,
+1001204,Oren - Fragmento de Pedra de Evocação de Chefe,@1021,,@1001100,Território Oren - Pedra de Evocação de Chefe,20,
+10900001,Caixa de Equipamento de Grau A - S,@1021,,Use para conseguir um equipamento de grau A - S aleatório.,,,
+10900002,Caixa de Equipamento de Grau A - R,@1021,,Use para conseguir um equipamento de grau A - R aleatório.,,,
+10900003,Caixa de Equipamento de Grau A - SR,@1021,,Use para conseguir um equipamento de grau A - SR aleatório.,,,
+910241,Caixa de Saque do Núcleo de Cruma,@1021,,"Saque adquirido ao derrotar o Núcleo de Cruma.
+Use para ver o que tem dentro.",,,@10002
+910242,Caixa de Saque de Alto Grau do Núcleo de Cruma,@1021,,@910241,,,@10002
+910244,Caixa de Pergaminho Abençoado - Giran,@1021,,Use para conseguir um Pergaminho Abençoado aleatório.,,,@10002
+910253,Caixa de Material Especial,@1021,,Ganhe um material especial aleatório.,,,@10002
+910254,Caixa de Seleção de Arma Exclusiva Grau {ReplaceString1},@1021,,Use para selecionar e adquirir uma arma exclusiva de grau {ReplaceString1} da lista.,@910131,,@10002
+910255,Caixa de Seleção de Armadura Exclusiva Grau {ReplaceString1},@1021,,Use para selecionar e adquirir uma armadura exclusiva de grau {ReplaceString1} da lista.,@910131,,@10002
+910259,Caixa de Seleção de Equipamento Exclusiva Grau {ReplaceString1},@1021,,Use para selecionar e adquirir uma arma ou armadura de grau {ReplaceString1} da lista.,@910131,,@10002
+910256,Caixa de Item de Transferência de Classe,@1021,,Use para adquirir 1 Areia do Esquecimento e 200 PH.,,,@10002
+911001,Caixa de Pedra de Avanço Pequena,@1021,,Use para ganhar Pedras de Avanço.,,,@10002
+911002,Caixa de Pedra de Avanço Média,@1021,,@911001,,,@10002
+911003,Caixa de Pedra de Avanço Grande,@1021,,@911001,,,@10002
+911004,Caixa de Pedra de Avanço Extragrande,@1021,,@911001,,,@10002
+911005,Caixa de Fragmento de Pedra de Evocação,@1021,,Use para conseguir fragmentos de Pedra de Evocação de várias montarias aleatórias.,,,@10002
+910257,@910255,@1021,,@910255,@910141,,@10002
+910258,Caixa de Adena de apoio na Evolução de equipamento,@1021,,"Esta caixa contém adena útil para evoluir o equipamento.
+Use para ganhar 300.000 de adena.",,,
+911006,Caixa de Equipamento de Montaria,@1021,,Use para ganhar vários equipamentos de montaria.,,,@10002
+911007,Pedra de Pedra de Avanço,@1021,,@911001,,,@10002
+911008,Caixa de Seleção de Pedras de Evocação,@1021,,"Use para selecionar e ganha um dos itens seguintes: 10 Pedras de Evocação Urso-Negro, 7 Pedras de Evocação Santo de Prata ou 3 Pedras de Evocação Kukurin.",,,@10002
+911009,Caixa de Equipamento de Montaria,@1021,,Use para conseguir um Equipamento de Montaria grau A - SR.,,,@10002
+911010,Caixa de Equipamento de Montaria Grau A,@1021,,Use para conseguir um Equipamento de Montaria grau A.,,,@10002
+911011,Caixa de Armadura Rara Exclusiva Grau {ReplaceString1},@1021,,Use para ganhar uma armadura rara exclusiva de grau {ReplaceString1}.,@910131,,@10002
+911012,@910254,@1021,,@910254,@910141,,@10002
+711101,Liga de Durandil,@400000,,Use para melhorar {ReplaceString1} normais para o grau UR.,"Espada e escudo, lança e espadas duplas",,
+711102,Oricalco,@400000,,Use para melhorar {ReplaceString1} raras para o grau UR.,@711101,,
+712101,Minério de Ferro,@400000,,@711101,Punhal e arco,,
+712102,Aço,@400000,,@711102,@712101,,
+713101,Pau-ferro,@400000,,@711101,Cajado,,
+713102,Pau-ferro Superior,@400000,,@711102,@713101,,
+711201,Adamantita,@400000,,@711101,Armadura pesada,,
+711202,Adamântio,@400000,,@711102,@711201,,
+712201,Couro,@400000,,@711101,Armadura Leve,,
+712202,Couro Superior,@400000,,@711102,@712201,,
+713201,Fibra,@400000,,@711101,Manto,,
+713202,Fibra Sintética,@400000,,@711102,@713201,,
+701101,Receita - Esp. Samurai,@400000,,Esta é uma receita com instruções para melhorar {ReplaceString1} para o grau UR.,Espada Longa do Samurai,,
+701102,Receita - Esp. Revolução,@400000,,@701101,Espada da Revolução,,
+701103,Receita - Espada de Dynasty,@400000,,@701101,Espada de Dynasty,,
+701104,Receita - Espada da Dunamiss,@400000,,@701101,Espada de Dunamiss,,
+701105,Receita - Tempestário,@400000,,@701101,Tempestário,,
+701106,Receita - Espada da Ilusão,@400000,,@701101,Espada da Ilusão,,
+701107,Receita - Pelta,@400000,,@701101,Pelta,,
+701108,Receita - Escorpião,@400000,,@701101,Escorpião,,
+701109,Receita - Machado Grande,@400000,,@701101,Machado Grande,,
+701110,Receita - Exídio,@400000,,@701101,Exídio,,
+701111,Receita - Glaive Órquica,@400000,,@701101,Glaive Órquica,,
+701112,Receita - Talha-Corpo,@400000,,@701101,Talha-Corpo,,
+701113,Receita - Espada D. Samurai,@400000,,@701101,Espada Longa Dupla do Samurai,,
+701114,Receita - Espada Dupla Revolução,@400000,,@701101,Espada Dupla da Revolução,,
+701115,Receita - Espada Dupla de Dynasty,@400000,,@701101,Espada Dupla de Dynasty,,
+701116,Receita - Espada Dupla de Dunamiss,@400000,,@701101,Espada Dupla de Dunamiss,,
+701117,Receita - Espada de Tempestários Duplos,@400000,,@701101,Tempestários Duplos,,
+701118,Receita - Espada Dupla da Ilusão,@400000,,@701101,Espada Dupla da Ilusão,,
+702101,Receita - Punhal da Perdição,@400000,,@701101,Punhal da Perdição,,
+702102,Receita - Gritador Sombrio,@400000,,@701101,Gritador Sombrio,,
+702103,Receita - Punhal de Cristal,@400000,,@701101,Punhal de Cristal,,
+702104,Receita - Cérbero,@400000,,@701101,Cérbero,,
+702105,Receita - Punhal de Mithril,@400000,,@701101,Punhal de Mithril,,
+702106,Receita - Kris,@400000,,@701101,Kris,,
+702107,Receita - Arco de Gelo Cristalizado,@400000,,@701101,Arco de Gelo Cristalizado,,
+702108,Receita - Besta Leve,@400000,,@701101,Besta Leve,,
+702109,Receita - Arco Longo de Akat,@400000,,@701101,Arco Longo de Akat,,
+702110,Receita - Upitear,@400000,,@701101,Upitear,,
+702111,Receita - Arco Élfico,@400000,,@701101,Arco Élfico,,
+702112,Receita - Arco Elemental,@400000,,@701101,Arco Elemental,,
+703113,Receita - Cajado do Demônio,@400000,,@701101,Cajado do Demônio,,
+703114,Receita - Cajado da Vida,@400000,,@701101,Cajado da Vida,,
+703115,Receita - Caveira de Dragão Flamejante,@400000,,@701101,Caveira de Dragão Flamejante,,
+703116,Receita - Abismo Sombrio,@400000,,@701101,Abismo Sombrio,,
+703117,Receita - Galho da Árvore-Mãe,@400000,,@701101,Galho da Árvore-Mãe,,
+703118,Receita - Cajado dos Espíritos,@400000,,@701101,Cajado dos Espíritos,,
+701201,Receita - Acessório para Cabeça do Lobo Azul,@400000,,@701101,Acessório para Cabeça do Lobo Azul,,
+701202,Receita - Armadura do Lobo Azul,@400000,,@701101,Armadura do Lobo Azul,,
+701203,Receita - Luvas do Lobo Azul,@400000,,@701101,Luvas do Lobo Azul,,
+701204,Receita - Botas do Lobo Azul,@400000,,@701101,Botas do Lobo Azul,,
+701205,Receita - Acessório para Cabeça do Pesadelo,@400000,,@701101,Acessório para Cabeça do Pesadelo,,
+701206,Receita - Armadura do Pesadelo,@400000,,@701101,Armadura do Pesadelo,,
+701207,Receita - Luvas do Pesadelo,@400000,,@701101,Luvas do Pesadelo,,
+701208,Receita - Botas do Pesadelo,@400000,,@701101,Botas do Pesadelo,,
+701209,Receita - Acessório para Cabeça de Dominus,@400000,,@701101,Acessório para Cabeça de Dominus,,
+701210,Receita - Armadura de Dominus,@400000,,@701101,Armadura de Dominus,,
+701211,Receita - Luvas de Dominus,@400000,,@701101,Luvas de Dominus,,
+701212,Receita - Botas de Dominus,@400000,,@701101,Botas de Dominus,,
+701213,Receita - Elmo de Mithril,@400000,,@701101,Elmo de Mithril,,
+701214,Receita - Armadura de Mithril,@400000,,@701101,Armadura de Mithril,,
+701215,Receita - Luvas de Mithril,@400000,,@701101,Luvas de Mithril,,
+701216,Receita - Botas de Mithril,@400000,,@701101,Botas de Mithril,,
+702201,Receita - Acessório para Cabeça de Trilheiro,@400000,,@701101,Acessório para Cabeça de Trilheiro,,
+702202,Receita - Armadura de Trilheiro,@400000,,@701101,Armadura de Trilheiro,,
+702203,Receita - Luvas de Trilheiro,@400000,,@701101,Luvas de Trilheiro,,
+702204,Receita - Botas de Trilheiro,@400000,,@701101,Botas de Trilheiro,,
+702205,Receita - Acessório para Cabeça de Avadon,@400000,,@701101,Acessório para Cabeça de Avadon,,
+702206,Receita - Armadura de Avadon,@400000,,@701101,Armadura de Avadon,,
+702207,Receita - Luvas de Avadon,@400000,,@701101,Luvas de Avadon,,
+702208,Receita - Botas de Avadon,@400000,,@701101,Botas de Avadon,,
+702209,Receita - Acessório para Cabeça de Reggios,@400000,,@701101,Acessório para Cabeça de Reggios,,
+702210,Receita - Armadura de Reggios,@400000,,@701101,Armadura de Reggios,,
+702211,Receita - Luvas de Reggios,@400000,,@701101,Luvas de Reggios,,
+702212,Receita - Botas de Reggios,@400000,,@701101,Botas de Reggios,,
+702213,Receita - Elmo de Cristal Sombrio,@400000,,@701101,Elmo de Cristal Sombrio,,
+702214,Receita - Armadura de Cristal Sombrio,@400000,,@701101,Armadura de Cristal Sombrio,,
+702215,Receita - Luvas de Cristal Sombrio,@400000,,@701101,Luvas de Cristal Sombrio,,
+702216,Receita - Botas de Cristal Sombrio,@400000,,@701101,Botas de Cristal Sombrio,,
+703201,Receita - Acessório para Cabeça de Dynasty,@400000,,@701101,Acessório para Cabeça de Dynasty,,
+703202,Receita - Armadura de Dynasty,@400000,,@701101,Armadura de Dynasty,,
+703203,Receita - Luvas de Dynasty,@400000,,@701101,Luvas de Dynasty,,
+703204,Receita - Botas de Dynasty,@400000,,@701101,Botas de Dynasty,,
+703205,Receita - Acessório para Cabeça Majestoso,@400000,,@701101,Acessório para Cabeça Majestoso,,
+703206,Receita - Armadura Majestosa,@400000,,@701101,Armadura Majestosa,,
+703207,Receita - Luvas Majestosas,@400000,,@701101,Luvas Majestosas,,
+703208,Receita - Botas Majestosas,@400000,,@701101,Botas Majestosas,,
+703209,Receita - Acessório para Cabeça de Optimus,@400000,,@701101,Acessório para Cabeça de Optimus,,
+703210,Receita - Armadura de Optimus,@400000,,@701101,Armadura de Optimus,,
+703211,Receita - Luvas de Optimus,@400000,,@701101,Luvas de Optimus,,
+703212,Receita - Botas de Optimus,@400000,,@701101,Botas de Optimus,,
+703213,Receita - Elmo Divino,@400000,,@701101,Elmo Divino,,
+703214,Receita - Armadura Divina,@400000,,@701101,Armadura Divina,,
+703215,Receita - Luvas Divinas,@400000,,@701101,Luvas Divinas,,
+703216,Receita - Botas Divinas,@400000,,@701101,Botas Divinas,,
+510104,Sucata de arma,@400000,,Esta sucata foi reciclada de {ReplaceString1}. Use para fabricar e vincular equipamentos.,@410001,,
+510105,Sucata de armadura,@400000,,@510104,@410002,,
+510106,Sucata de acessório,@400000,,@510104,@410003,,
+420011,Pedra de Melhoria de Arma Radiante,@400000,,Esta pedra de melhoria é usada para produzir armas de grau UR. Recicle para obter 10 Pedras de Melhoria de Arma.,,,
+420012,Pedra de Melhoria de Armadura Radiante,@400000,,Esta pedra de melhoria é usada para produzir armaduras de grau UR. Recicle para obter 10 Pedras de Melhoria de Armadura.,,,
+420013,Pedra de Melhoria de Acessório Radiante,@400000,,Esta pedra de melhoria é usada para produzir acessórios de grau UR. Recicle para obter 10 Pedras de Melhoria de Acessório.,,,
+510001,Pergaminho de Alquimia - Pergaminho Abençoado: Arma,@400000,,O documento contém uma fórmula para vincular Pergaminho Abençoado: Arma. Combine 30 pergaminhos: Aprimorar Arma para receber um Pergaminho abençoado: Arma.,,,
+510002,Pergaminho de Alquimia - Pergaminho Abençoado: Armadura,@400000,,O documento contém uma fórmula para vincular Pergaminho Abençoado: Armadura. Combine 30 pergaminhos: Aprimorar Armadura para receber um Pergaminho abençoado: Armadura,,,
+510003,Pergaminho de Alquimia - Pergaminho Abençoado: Acessório,@400000,,O documento contém uma fórmula para vincular Pergaminho Abençoado: Aprimorar Acessório. Combine 30 pergaminhos: Aprimorar Acessório para receber um Pergaminho Abençoado: Acessório.,,,
+510004,Pergaminho de alquimia - Pedra de melhoria de arma radiante,@400000,,O documento contém uma fórmula para combinar pedras de melhoria de arma radiantes. Combine 10 Pedras de melhoria de arma para obter uma pedra de melhoria de arma radiante.,,,
+510005,Pergaminho de alquimia - Pedra de melhoria de armadura radiante,@400000,,O documento contém uma fórmula para combinar pedras de melhoria de armadura radiantes. Combine 10 pedras de melhoria de armadura para obter uma pedra de melhoria de armadura radiante.,,,
+510006,Pergaminho de alquimia - Pedra de melhoria de acessório radiante,@400000,,O documento contém uma fórmula para combinar pedras de melhoria de acessório radiantes. Combine 10 pedras de melhoria de acessório para obter uma pedra de melhoria de acessório radiante.,,,
+510007,Pergaminho de alquimia - Pedra de atributo de grau SR,@400000,,O documento contém a fórmula para fabricar pedras de atributo de grau SR. Combine pedras de atributo de grau R e Energias de atributo para adquirir pedras de atributo de grau SR.,,,
+510008,Pergaminho de alquimia - Pedra de atributo de grau R,@400000,,O documento contém a fórmula para fabricar pedras de atributo de grau R. Combine pedras de atributo de grau S e Energias de atributo para adquirir pedras de atributo de grau R.,,,
+510009,Pergaminho de alquimia - Pedra de atributo de grau S,@400000,,O documento contém a fórmula para fabricar Pedras de atributo de grau S. Combine energias de atributo para adquirir Pedras de atributo de grau UR.,,,
+510010,Pergaminho de alquimia - Pedra de quebra de limite de grau UR,@400000,,O documento contém a fórmula para fabricar pedras de quebra de limite de grau UR. Combine pedras de quebra de limite de grau SR e Energias de Quebra de limite para obter pedras de quebra de limite de grau UR.,,,
+510011,Pergaminho de alquimia - Pedra de quebra de limite de grau SR,@400000,,A fórmula para fabricar pedras de quebra de limite de grau SR está escrita neste documento. Combine energias de quebra de limite para obter Pedras de quebra de limite de grau SR.,,,
+510012,Pergaminho de alquimia - essência de elixir de atq.,@400000,,O documento contém fórmula para fabricar essências de elixir de atq. Combine ervas para obter essências de elixir de atq.,,,
+510013,Pergaminho de alquimia - essência de elixir de def.,@400000,,O documento contém a fórmula para fabricar essências de elixir de def. Combine ervas para obter essências de elixir de def.,,,
+510014,Pergaminho de alquimia - Essência de elixir de PV,@400000,,O documento contém a fórmula para fabricar essência de elixir de PV. Combine ervas para obter essências de elixir de PV.,,,
+510015,Pergaminho de alquimia - Essência de elixir de PM,@400000,,O documento contém a fórmula para fabricar essências de elixir de PM. Combine ervas para obter essências de elixir de PM.,,,
+510016,Pergaminho de alquimia - Pedra de atributo de grau UR,@400000,,O documento contém a fórmula para fabricar Pedras de atributo de grau UR. Combine pedras de atributo de grau SR e Energias de atributo ara obter Pedras de atributo de grau UR.,,,
+510101,Energia de atributo,@400000,,Este material é usado para transformar pedras de atributo. Combine 100 energias de atributo para adquirir uma pedra de atributo de grau S ou use-as com pedras de atributo para obter pedras de atributo de grau superior.,,,
+510102,Energia de quebra de limite,@400000,,Este material é usado para transformar Pedras de quebra de limite. Combine 100 energias de quebra de limite para obter uma pedra de quebra de limite de grau SR.,,,
+911025,Grade {ReplaceString1} Accessory Selection Box,@1021,,@910213,@490026,,@10002
+911029,Caixa de honra do dono,@1021,,Esta caixa é fornecida ao clã que domina o castelo. Use para adquirir itens aleatórios.,,,@10002
+911035,Caixa de seleção de equipamento raro e exclusivo de grau {ReplaceString1},@1021,,Use para selecionar e adquirir um equipamento raro e exclusivo de grau {ReplaceString1} da lista.,@910131,,@10002
+911036,Caixa de material do Maestro,@1021,,Use para adquirir um material de fabricação aleatório.,,,@10002
+911040,@910101,@1021,,Use para adquirir uma arma ou armadura {ReplaceString1} exclusiva aleatória.,S - SR,,@10002
+911041,@910215,@1021,,@910215,@490026,,@10002
+911042,@910213,@1021,,@910213,@910131,,@10002
+911047,Caixa de material de forja e fabricação.,@1021,,"Use para adquirir vários materiais de forja e fabricação, como receitas, sucatas, pergaminhos de alquimia e vernizes.",,,@10002
+911048,Caixa de material de luxo,@1021,,"Vários materiais de fortalecimento estão disponíveis, como cristais anímicos, pergaminhos de aprimoramento, materiais de elixir e proteções de Maphr!",,,@10002
+911049,Caixa de Pergaminho de Aprimoramento de Equipamento de Montaria e Arma,@1021,,Use para obter 5 Pergaminhos: Aprimorar Arma e 1 Pergaminho: Aprimorar Equipamento de Montaria.,,,@10002
+911050,Caixa de Pergaminho de Aprimoramento de Equipamento de Montaria e Armadura,@1021,,Use para obter 5 Pergaminhos: Aprimorar Armadura e 1 pergaminho: Aprimorar Equipamento de Montaria.,,,@10002
+911051,Caixa de Pergaminho de Aprimoramento de Equipamento de Montaria e Acessório,@1021,,Use para obter 5 Pergaminhos: Aprimorar Acessório e 1 Pergaminho: Aprimorar Equipamento de Montaria.,,,@10002
+911056,@910254,@1021,,Use para selecionar e adquirir uma arma de grau {ReplaceString1} da lista.,@490026,,@10002
+911057,@910259,@1021,,Use para selecionar e adquirir um equipamento de grau {ReplaceString1} da lista.,@490026,,@10002
+911058,Pergaminho de alquimia - Conjunto de pergaminhos abençoados:,@1021,,"Esta caixa contém Pergaminho de alquimia - Pergaminhos abençoados:
+Use para adquirir um Pergaminho de alquimia - Pergaminho abençoado de cada tipo:",,,@10002
+911059,Caixa de Pergaminho de missão de grau {ReplaceString1},@1021,,Use para receber um Pergaminho de missão de grau {ReplaceString1}.,@910131,,@10002
+911060,@911059,@1021,,@911059,@910121,,@10002
+911061,Caixa de poções da Sede do Clã,@1021,,Use para adquirir uma poção da Sede do Clã aleatória.,,,@10002
+911062,Pergaminho de alquimia - Caixa de pergaminho abençoado,@1021,,Use para adquirir um Pergaminho de alquimia - Pergaminho abençoado aleatório.,,,@10002
+911063,@910104,@1021,,Use para adquirir um acessório de grau {ReplaceString1} aleatório.,@911040,,@10002
+911064,Caixa de Seleção de Cristal Anímico Grau {ReplaceString1},@1021,,Use para adquirir um cristal anímico de grau {ReplaceString1} aleatório.,@490026,,@10002
+911065,Caixa de apoio de clã,@1021,,"Caixa de apoio adquirida do clã.
+Use para adquirir um material aleatório de alto grau.",,,@10002
+911066,Prêmio de 1º lugar ao servidor do TLR,@1021,,"Este item é dado ao servidor que ganhar o Torneio Revolution.
+Use para obter 2 Caixas de Seleção de Equipamento de Grau SR e 3 Caixas de Seleção de Pergaminhos Abençoados.",,,@10002
+911067,Prêmio de 2º lugar ao servidor do TLR,@1021,,"Este item é dado ao servidor que fica em segundo lugar no Torneio Revolution.
+Use para obter 1 Caixa de Seleção de Equipamento de Grau SR e 1 Caixa de Seleção de Pergaminhos Abençoados.",,,@10002
+911068,Prêmio de 3º e 4º lugar aos servidores do TLR,@1021,,"Este item é dado aos servidores que fica em terceiro e quarto lugares no Torneio Revolution.
+Use para obter 1 Caixa de Seleção de Equipamento de Grau SR e 50 mil de Adena.",,,@10002
+911070,Caixa de Seleção de Arma de Nível de Aprimoramento Raro +10 de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir uma Caixa de Arma de Aprimoramento Raro +10 de Grau {ReplaceString1}.,@910131,,@10002
+911071,Caixa +10 [{ReplaceString1}],@1021,,Use para conseguir {ReplaceString1} +10 de Grau S.,@701104,,@10002
+911072,@911071,@1021,,@911071,@701110,,@10002
+911073,@911071,@1021,,@911071,@701116,,@10002
+911074,@911071,@1021,,@911071,@702104,,@10002
+911075,@911071,@1021,,@911071,@702110,,@10002
+911076,@911071,@1021,,@911071,@703116,,@10002
+911083,Caixa de Equipamento de Montaria de Grau {ReplaceString1},@1021,,Use para ganhar um item de equipamento aleatório de montaria de grau {ReplaceString1}.,@910111,,@10002
+911084,Caixa de Seleção de Arma Rara de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir uma arma rara de grau {ReplaceString1} da lista.,@910131,,@10002
+911085,Caixa de Seleção de Ervas,@1021,,Use para selecionar e adquirir uma erva da lista.,,,@10002
+911086,Coração de Gratidão,@1021,,Estamos sempre trabalhando para criar a melhor experiência de jogo possível para você. Obrigado.,,,@10002
+1200001,Ficha de Vitória da Temporada {ReplaceString1} do TLR,@1021,,"Ficha dada ao vencedor da Temporada {ReplaceString1} do Torneio Revolution. Use para ativar o título ""Vencedor da Temporada {ReplaceString1} do TLR"".",1,,
+1200002,Ficha de Semifinalista da Temporada {ReplaceString1} do TLR.,@1021,,"Ficha dada aos semifinalistas da Temporada {ReplaceString1} do Torneio Revolution. Use para ativar o título ""Especialista da Temporada {ReplaceString1} do TLR"".",1,,
+1200003,Ficha de Participação da Temporada {ReplaceString1} do TLR.,@1021,,"Ficha dada ao vencedor da Temporada {ReplaceString1} do Torneio Revolution. Use para ativar o título ""Guerreiro da Temporada {ReplaceString1} do TLR"".",1,,
+1201001,창공의 은빛용병단 징표,@1021,,창공섬 마그나딘' 퀘스트를 완료한 용사에게 지급되는 징표 입니다. 사용 시 '창공의 은빛용병단' 칭호가 활성 됩니다.,,,
+1201002,명예의 전장 시즌1 우승자의 징표,@1021,,명예의 전장 시즌1 우승자에게 지급되는 징표 입니다. 사용 시 '명예의 챔피언' 칭호가 활성 됩니다.,,,
+1201101,명예의 전장 시즌2 루키의 징표,@1021,,명예의 전장 시즌2를 실버3 리그 이상으로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌2 슈퍼 루키' 칭호가 활성 됩니다.,,,
+1201201,명예의 전장 시즌2 근성의 징표,@1021,,명예의 전장 시즌2를 플레티넘3 리그 이상으로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌2 근성의 결투사' 칭호가 활성 됩니다.,,,
+1201301,명예의 전장 시즌2 용맹의 징표,@1021,,명예의 전장 시즌2를 마스터 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌2 용맹한 결투사' 칭호가 활성 됩니다.,,,
+1201401,명예의 전장 시즌2 야성의 징표,@1021,,명예의 전장 시즌2를 그랜드마스터 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌2 야성의 결투사' 칭호가 활성 됩니다.,,,
+1201501,명예의 전장 시즌2 대전사의 징표,@1021,,명예의 전장 시즌2를 레전드 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌2 거침없는 대전사' 칭호가 활성 됩니다.,,,
+911087,Pergaminho de alquimia - Caixa de Seleção de Pergaminhos Abençoados,@1021,,Use para selecionar e adquirir um Pergaminho de alquimia - Pergaminho abençoado.,,,@10002
+910401,Caixa de Seleção de Núcleos de Monstros {ReplaceString1},@1021,,Use para selecionar e adquirir um Núcleo de Monstro de {ReplaceString1}.,@1000100,,@10002
+910402,@910401,@1021,,@910401,@1000101,,@10002
+910403,@910401,@1021,,@910401,@1000102,,@10002
+910404,@910401,@1021,,@910401,@1000103,,@10002
+911088,Caixa de Evocação de Honra,@1021,,Caixa de Evocação de Honra,,,@10002
+911089,Caixa-surpresa de {ReplaceString1},@1021,,Caixa-surpresa de {ReplaceString1},@470025,,@10002
+911090,@911089,@1021,,@911089,@470037,,@10002
+911091,@911089,@1021,,@911089,@470047,,@10002
+911092,@911089,@1021,,@911089,@470057,,@10002
+911093,@911089,@1021,,@911089,@470068,,@10002
+911094,@911089,@1021,,@911089,@470078,,@10002
+911095,@911089,@1021,,@911089,@470086,,@10002
+911096,@911089,@1021,,@911089,@470096,,@10002
+911097,@911089,@1021,,@911089,@470118,,@10002
+911098,@911089,@1021,,@911089,@470127,,@10002
+911099,@911089,@1021,,@911089,Marlox,,@10002
+911100,Caixa de Recompensas do Servidor Recomendado,@1021,,A caixa de recompensas é dada ao primeiro personagem que você criou no servidor recomendado. Use para adquirir vários itens de fortalecimento.,,,@10002
+912001,Recompensa da temporada Campo de Batalha Honorável - Bronze,@1021,,"Use para conseguir 20 Diamantes Verdes, 48 Moedas de Honra e o Brinco do Herói de grau B.",,,@10002
+912002,Recompensa da temporada Campo de Batalha Honorável - Prata,@1021,,"Use para conseguir 50 Diamantes Verdes, 84 Moedas de Honra, o Brinco do Herói de grau B e 2 Proteções de Maphr.",,,@10002
+912003,Recompensa da temporada Campo de Batalha Honorável - Ouro,@1021,,"Use para conseguir 100 Diamantes Verdes, 120 Moedas de Honra, o Brinco do Herói de grau A e 4 Proteções de Maphr.",,,@10002
+912004,Recompensa da temporada Campo de Batalha Honorável - Platina,@1021,,"Use para conseguir 200 Diamantes Verdes, 180 Moedas de Honra, o Brinco do Herói de grau A, 4 Proteções de Maphr e 1 Receita não confirmada.",,,@10002
+912005,Recompensa da temporada Campo de Batalha Honorável - Diamante,@1021,,"Use para conseguir 300 Diamantes Verdes, 210 Moedas de Honra, o Brinco do Herói de grau S, 6 Proteções de Maphr e 2 Receitas não confirmadas.",,,@10002
+912006,Recompensa da temporada Campo de Batalha Honorável - Mestre,@1021,,"Use para conseguir 400 Diamantes Verdes, 240 Moedas de Honra, o Brinco do Herói de grau S, 6 Proteções de Maphr e 3 Receitas não confirmadas.",,,@10002
+912007,Recompensa da temporada Campo de Batalha Honorável - Grão-mestre,@1021,,"Use para conseguir 500 Diamantes Verdes, 270 Moedas de Honra, o Brinco do Herói de grau R, 8 Proteções de Maphr e 4 Receitas não confirmadas.",,,@10002
+912008,Recompensa da temporada Campo de Batalha Honorável - Lenda,@1021,,"Use para conseguir 700 Diamantes Verdes, 300 Moedas de Honra, o Brinco do Herói de grau SR, 10 Proteções de Maphr e 5 Receitas não confirmadas.",,,@10002
+912100,Caixa de Equipamento de Avanço de Clã,@1021,,Caixa de equipamento adquirida do clã. Use para adquirir um equipamento A - SR ou um Verniz R - SR.,,,@10002
+913001,Caixa de Seleção de Página de Pergaminho Esquecido,@1021,,Use para selecionar e adquirir uma Página de Pergaminho Esquecido da lista.,,,@10002
+912104,Caixa de Avanço Especial,@1021,,Equipamento (Grau R - SR) ou equipamento raro (Grau S - SR) possível!,,,@10002
+914001,Caixa de Fragmento de pedra de evocação de Alto Grau,@1021,,@911005,,,@10002
+915001,Caixa de Fortalecimento de Montaria,@1021,,"Use para ganhar um dos itens seguintes: equipamento de montaria (A - SR), Caixa de Pedra de Avanço (Pequena - Grande) ou fragmento de pedra de evocação de montaria (Urso-Negro, Santo de Prata, Kukurin e Leão com Juba).",,,@10002
+916001,Caixa de Página de Pergaminho Esquecido Aleatório de Alto Grau,@1021,,"Use para ganhar uma Página de Pergaminho Esquecido de Disparo de Míssil, Chuva de Meteoros, Escudo Absoluto, Golpe de Cura, Golpe de Veneno ou Zona de Defesa raro aleatório.",,,@10002
+917001,Caixa de Seleção de Página de Pergaminho Esquecido de Alto Grau,@1021,,@913001,,,@10002
+918001,Caixa de Seleção de Núcleos de Monstros por Região,@1021,,Use para selecionar e adquirir Caixas de Seleção de Núcleo de Monstro por região na lista.,,,@10002
+919001,@911064,@1021,,Use para selecionar e adquirir um Cristal Anímico de grau {ReplaceString1} da lista.,@910141,,@10002
+919002,Caixa de Equipamento Exclusiva de Grau {ReplaceString1} Rara,@1021,,Use para selecionar e adquirir um equipamento raro de grau {ReplaceString1} para a sua classe.,@910131,,@10002
+480031,Verniz de arma branco puro oxidado,@400000,,Este item está oxidado e não pode mais ser usado como verniz. Venda por uma pequena quantidade de Adena.,,,
+480032,Verniz de armadura branco puro oxidado,@400000,,@480031,,,
+480033,Verniz de acessório branco puro oxidado,@400000,,@480031,,,
+480034,Verniz de arma dourado oxidado,@400000,,@480031,,,
+480035,Verniz de armadura dourado oxidado,@400000,,@480031,,,
+480036,Verniz de acessório dourado oxidado,@400000,,@480031,,,
+10011,Ficha de Ouro da Ilha Falante!,@10003,,Uma ficha de ouro de {ReplaceString1}. Vincule-a às fichas de ouro de outros territórios na página Evento para conseguir um catalizador de vinculação de [Event].,@1000100,,[레볼루션 大보물시대 개막!] 이벤트 종료 시 사용할 수 없습니다.
+10012,Ficha de Ouro de Gludio,@10003,,@10011,@1000101,,@10011
+10013,Ficha de Ouro de Dion,@10003,,@10011,@1000102,,@10011
+10014,Ficha de Ouro de Giran,@10003,,@10011,@1000103,,@10011
+10015,Ficha da Ilha Falante Oriental,@10003,,Uma ficha de {ReplaceString1}. Vincule-a à Ficha da Ilha Falante e à Ficha de Dion na página Evento para conseguir um pó de verniz de [Event].,Ilha Falante Leste,,@10011
+10016,Ficha da Ilha Falante Ocidental,@10003,,@10015,Ilha Falante Oeste,,@10011
+10017,Ficha da Estrada de Gludin,@10003,,Uma ficha de {ReplaceString1}. Vincule-a à Ficha de Gludio e à Ficha de Giran na página Evento para conseguir um fragmento da receita de [Event].,Estrada de Gludin,,@10011
+10018,Ficha da Planície de Gludio,@10003,,@10017,Planície de Gludio,,@10011
+10019,Ficha da Mansão Windawood,@10003,,@10017,Mansão Windawood,,@10011
+10020,Ficha do Deserto,@10003,,@10017,Deserto,,@10011
+10021,Ficha da Planície de Dion,@10003,,@10015,Planície de Dion,,@10011
+10022,Ficha do Pântano de Cruma,@10003,,@10015,Pântano de Cruma,,@10011
+10023,Ficha do Pico da Dissonância,@10003,,@10015,Pico da Dissonância,,@10011
+10024,Ficha dos Sacrários Uivantes,@10003,,@10015,Sacrários Uivantes,,@10011
+10025,Ficha do Domínio de Giran,@10003,,@10017,Domínio de Giran,,@10011
+10026,Ficha das Praias da Névoa Mortal,@10003,,@10017,Praias da Névoa Mortal,,@10011
+10027,Ficha da Ilha do Demônio,@10003,,@10017,Ilha do Demônio,,@10011
+10028,Ficha da Necrópole Assombrada,@10003,,@10017,Necrópole Assombrada,,@10011
+10029,Pó de verniz de [Evento],@10003,,Consiga gastando as fichas da Ilha Falante e de Gludio na página Evento.,,,@10011
+10030,Catalizador de vinculação de [Evento],@10003,,"É um item que pode ser obtido ao consumir a ficha de ouro da Ilha, de Gludio, de Dion e a tartaruga mencionada na página Evento.",,,@10011
+10031,Fragmento de receita de [Evento],@10003,,Consiga gastando as fichas de Dion e de Giran na página Evento.,,,@10011
+10032,Bilhete de retirada de caixa de sorte,@10003,,Use o bilhete de retirada de caixa de sorte para participar do evento de Caixa de Sorte.,,,
+1300001,Broche da Capa de Aventureiro,Ativação da capa,,Use para ativar a Capa de Aventureiro.,,,
+1300002,Broche da Capa do Patr. Sangr.,@1300001,,Use para ativar a Capa do Patrulheiro Sangrento.,,,
+1300003,Broche da Capa do Jardim,@1300001,,Use para ativar a Capa do Jardim.,,,
+1300005,Broche da Capa Heroica,@1300001,,Use para ativar a Capa Heroica.,,,
+1300006,Broche da Capa da Destr. Verm.,@1300001,,Use para ativar a Capa da Destruição Vermelha. Recicle para ganhar 500 fragmentos da loucura.,,,
+1300007,Broche da Capa do Sangue Virt.,@1300001,,Use para ativar a Capa do Sangue Virtuoso. Recicle para ganhar 500 lágrimas de Trisha.,,,
+1301001,Fio de Capa,@400000,,Material necessário para evoluir as capas.,,,
+1301002,Fragmento da loucura,@400000,,Material necessário para evoluir a Capa da Destruição Vermelha. Use 1.000 fragmentos da loucura para fabricar um Broche da Capa da Destruição Vermelha.,,,
+1301003,Lágrima de Trisha,@400000,,Material necessário para evoluir a Capa do Sangue Virtuoso. Use 1.000 lágrimas de Trisha para fabricar um Broche da Capa do Sangue Virtuoso.,,,
+1302001,Fio Vermelho do Destino,@400000,,Material necessário para evoluir a Capa do Clã.,,,
+1303001,Tecido mágico,@400000,,Material necessário para alterar subatributos.,,,
+1303002,Tecido mágico da Destruição,@400000,,Material necessário para alterar subatributos na Capa da Destruição Vermelha.,,,
+1303003,Tecido mágico do Sangue Virtuoso,@400000,,Material necessário para alterar subatributos na Capa do Sangue Virtuoso.,,,
+1304001,Agulha mágica,@400000,,Material necessário para manter subatributos.,,,
+1305001,Pigmento da Capa de clã: Baixo grau,@400000,,Item necessário para alterar a cor da Capa de clã.,,,
+1305002,Pigmento da Capa de clã: Médio Grau,@400000,,@1305001,,,
+1305003,Pigmento da Capa de clã: Grau máximo,@400000,,@1305001,,,
+1305101,Tingimento de emblema da Capa de clã: Baixo grau,@400000,,Item necessário para alterar a cor do Emblema da Capa de clã.,,,
+1305102,Tingimento de emblema da Capa de clã: Médio Grau,@400000,,@1305101,,,
+1305103,Tingimento de emblema da Capa de clã: Grau máximo,@400000,,@1305101,,,
+1111111,Pó Anímico,@400000,,Obtido na reciclagem de núcleos. Você pode usá-lo na Loja de Núcleo.,,,
+490091,서버이전권,@1021,,[사용]을 누르면 서버이전을 진행합니다.,"2017년 10월 25일까지 사용 가능한 상품이며, 해당 일자 이후 상품은 소멸됩니다",,
+490092,은빛 용병단의 징표,@10003,,"은빛용병단의 위상을 높이거나, 그에 상응하는 일을 했을 때 받을 수 있는 징표.",[Cumprir solicitação] Toque no botão para cumprir a missão de evento.,,
+490093,[Evento] Mensagem de Hardin,@10003,,"Uma mensagem com uma missão de Hardin.
+Está danificada e difícil de ler.",Não pode mais ser usada.,,
+490100,[Simulado] Uso na Loja de Pontos,@10003,,Item não usado [Simulado],Item não usado [Simulado],,
+490200,Recompensa aleatória da Fenda Temporal,Recompensa aleatória,,Uma substância amorfa que existe na Fenda Temporal. Você que tem obter para descobrir o que é.,,,
+919014,Caixa de Sorte do 6º lugar,@1021,,A Caixa de Sorte do 6º lugar do evento de Caixa de Sorte.,"Use para ganhar um dos seguintes itens: Fragmento de Proteção de Maphr, Prova de sangue, Pedra Estelar Vermelha, Poção de PV grande, Poção de PM grande",,
+919015,Caixa de Sorte do 7º lugar,@1021,,A Caixa de Sorte do 7º lugar do evento de Caixa de Sorte.,"Use para ganhar um dos seguintes itens: Poção de PV, Poção de PM, Pergaminho de Fuga, Disparo Anímico, Pedra de Evocação de Monstro Raro",,
+919035,Caixa de Seleção de Cristal Anímico de Grau S,@1021,,Selecione e obtenha um Cristal anímico de Grau S.,,,
+491423,5레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 5레벨 이상의 용사만 사용할 수 있습니다.,,,
+491424,10레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 10레벨 이상의 용사만 사용할 수 있습니다.,,,
+491425,15레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 15레벨 이상의 용사만 사용할 수 있습니다.,,,
+491426,20레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 20레벨 이상의 용사만 사용할 수 있습니다.,,,
+491427,25레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 25레벨 이상의 용사만 사용할 수 있습니다.,,,
+491428,30레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 30레벨 이상의 용사만 사용할 수 있습니다.,,,
+491429,35레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 35레벨 이상의 용사만 사용할 수 있습니다.,,,
+491430,40레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 40레벨 이상의 용사만 사용할 수 있습니다.,,,
+491431,45레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 45레벨 이상의 용사만 사용할 수 있습니다.,,,
+491432,50레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 50레벨 이상의 용사만 사용할 수 있습니다.,,,
+491433,55레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 55레벨 이상의 용사만 사용할 수 있습니다.,,,
+491434,60레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 60레벨 이상의 용사만 사용할 수 있습니다.,,,
+491435,65레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 65레벨 이상의 용사만 사용할 수 있습니다.,,,
+491436,70레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 70레벨 이상의 용사만 사용할 수 있습니다.,,,
+491437,75레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 75레벨 이상의 용사만 사용할 수 있습니다.,,,
+491438,80레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 80레벨 이상의 용사만 사용할 수 있습니다.,,,
+491439,85레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 85레벨 이상의 용사만 사용할 수 있습니다.,,,
+491440,90레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 90레벨 이상의 용사만 사용할 수 있습니다.,,,
+491441,95레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 95레벨 이상의 용사만 사용할 수 있습니다.,,,
+491442,100레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. 100레벨 이상의 용사만 사용할 수 있습니다.,,,
+919036,Sucatas de Sangue,@1021,,Saque obtido por equipar uma Capa de Patrulheiro Sangrento. Use para ver detalhes.,,,
+919037,Presente do jardim,@1021,,Saque obtido por equipar uma Capa do Jardim. Use para ver detalhes.,,,
+491443,Exp. do Salto do Guerreiro Poção,@1021,,Use a Poção de Exp. para conseguir grande quantidade de Exp.,Obtenha a quantidade de exp. para evoluir um personagem do nv. 30 para o nv. 50.,,
+491444,Poção de honra do Salto do Guerreiro,@1021,,Use para ganhar 500 pontos de honra.,,,
+491445,Poção de conquista do Salto do Guerreiro,@1021,,Use para ganhar 5.000 de pontos de conquista.,,,
+919044,Pergaminho de bônus da Caçada,@10001,,"Um pergaminho de bônus que aprimora atributos de caça.
+Use para aplicar 15% de dano bônus ao dano final por 3 minutos quando atacar monstros de elite.",,,
+919045,Pergaminho de bônus da Coragem,@10001,,"Um pergaminho de bônus que aprimora atributos de bravura.
+Use para aplicar 15% de dano bônus ao dano final por 3 minutos quando atacar chefes.",,,
+919046,Pergaminho de bônus da Perfuração,@10001,,"Um pergaminho de bônus que aprimora atributos de perfuração.
+Use para aplicar 30% de dano bônus ao dano final por 3 minutos quando atacar monstros mágicos.",,,
+919054,3 Caixas de conclusões automáticas da masmorra,@1021,,Use para obter 3 conclusões automáticas de masmorra.,Só personagens abaixo do nv. 200 podem usar este item.,,
+919055,Caixa de Pergaminho de missão de grau A,@1021,,Use para conseguir pergaminhos de missão de grau A adequados para seu nível.,@919054,,
+919079,Caixa de Seleção de arma rara de grau SR,@1021,,Use para selecionar e obter uma arma de grau SR da lista.,Itens obtidos após o uso não podem ser trocados.,,
+919080,Caixa de Adena do Herói de Guerra,@1021,,Use para ganhar 50.000 de adena.,,,
+919081,Caixa de Saques do Herói de Guerra,@1021,,Use para conseguir um item aleatório.,,,
+919082,Poção de Pontos de Honra do Herói de Guerra,@1021,,Use para conseguir 25 pontos.,,,
+919083,Caixa de Moedas do Clã do Herói de Guerra,@1021,,Use para ganhar 25 moedas de clã.,,,
+919084,Caixa de Adena de 2M,@1021,,"Esta caixa grande contém adena.
+Use para ganhar 2.000.000 de adena.",,,
+30000000,Expansão de Espaço do Inventário,@1021,,"Expande os espaços do Inventário.
+(Até 500 espaços)",,,
+30001000,정복자의 징표,@1021,,"정복자 레벨이 상승하면 얻을 수 있는 재화입니다.
+정복자의 전당에서 아이템을 구매할 수 있습니다.",,,
+30001001,정복자의 징표 작은 상자,@1021,,사용 시 정복자의 징표 100개를 획득합니다.,,,
+919085,Caixa aleatória da Fenda Temporal,@1021,,"Esta é uma caixa de recompensa aleatória da Fenda Temporal.
+Use para ganhar uma recompensa aleatória da Fenda Temporal.",Itens obtidos após o uso não podem ser trocados.,,
+481108,R등급 집혼석 연마제,@400000,,집혼석 레벨 업 재료로 사용할 수 있는 아이템입니다.,,,
+919086,Bolsa de Pó Anímico,@1021,,Obtém aleatoriamente entre 100 e 1.000 de Pó Anímico.,,,
+919088,Caixa de 100 pontos de amizade,@1021,,Use para ganhar 100 pontos de amizade.,Só personagens abaixo do nv. 200 podem usar este item.,,
+919089,Caixa de 50 PH,@1021,,Use para ganhar 50 PH.,Só personagens abaixo do nv. 200 podem usar este item.,,
+919090,Caixa de 100 Pedras Estelares Vermelhas,@1021,,Use para ganhar 100 Pedras Estelares vermelhas.,,,
+1302005,Fio Prateado Dissonante,@400000,,Material necessário para evoluir a Capa da Dissonância.,,,
+1302006,Fio Dourado Revolucionário,@400000,,Material necessário para evoluir a Capa Revolucionária.,,,
+919120,Verniz de Arma Branco Puro,@400000,,É possível usar esse item para evoluir a sua arma. Gaste 1 de adena para usar.,,,
+919121,Verniz de Armadura Branco Puro,@400000,,É possível usar esse item para evoluir a sua armadura. Gaste 1 de adena para usar.,,,
+919122,Verniz de Acessório Branco Puro,@400000,,É possível usar esse item para evoluir seu acessório. Gaste 1 de adena para usar.,,,
+919123,Verniz de Arma Dourado,@400000,,Use este verniz de alto grau em uma arma de nv. 1 e grau SR para evoluí-la até o nv. 30. Gaste 1 de adena para usar.,,,
+919124,Verniz de Armadura Dourado,@400000,,Use este verniz de alto grau em uma armadura de nv. 1 e grau SR para evoluí-la ao nv. 30. Gaste 1 de adena para usar.,,,
+919125,Verniz de Acessório Dourado,@400000,,Use este verniz de alto grau em um acessório de nv. 1 e grau SR para evoluí-lo ao nv. 30. Gaste 1 de adena para usar.,,,
+919126,Verniz de arma branco puro grau A,@400000,,@919120,,,
+919127,Verniz de armadura branco puro grau A,@400000,,@919121,,,
+919128,Verniz de acessório branco puro grau A,@400000,,@919122,,,
+919129,Verniz de arma branco puro grau S,@400000,,@919120,,,
+919130,Verniz de armadura branco puro grau S,@400000,,@919121,,,
+919131,Verniz de acessório branco puro grau S,@400000,,@919122,,,
+919132,Verniz de arma branco puro grau R,@400000,,@919120,,,
+919133,Verniz de armadura branco puro grau R,@400000,,@919121,,,
+919134,Verniz de acessório branco puro grau R,@400000,,@919122,,,
+919135,Verniz de arma branco puro grau SR,@400000,,@919120,,,
+919136,Verniz de armadura branco puro grau SR,@400000,,@919121,,,
+919137,Verniz de acessório branco puro grau SR,@400000,,@919122,,,
+919138,Caixa de seleção de armadura exclusiva grau SR,@1021,,Use para selecionar e obter uma armadura exclusiva de grau S da lista.,Itens obtidos após o uso não podem ser trocados.,,
+919139,Caixa de material de poção de Sede do Clã,@1021,,Use para ganhar materiais aleatórios de poção de Sede do Clã.,Itens obtidos após o uso não podem ser trocados.,,
+919200,Presente de Celebração do 300º Dia,@1021,,"Use para ganhar 1 Proteção de Maphr, 2 Caixas de seleção de página do Pergaminho Esquecido e 3 Caixas de seleção do Pergaminho Abençoado.",Itens obtidos após o uso não podem ser trocados.,,
+493001,[Perfurante] Pedra de Atributo,@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Perfurante] que aumente o dano final causado a monstros mágicos.",,,
+493002,@493001,@1021,,@493001,,,
+493003,@493001,@1021,,@493001,,,
+493004,@493001,@1021,,@493001,,,
+493005,[Égide] Pedra de Atributo,@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Égide] que aumente o dano final causado a monstros mágicos.",,,
+493006,@493005,@1021,,@493005,,,
+493007,@493005,@1021,,@493005,,,
+493008,@493005,@1021,,@493005,,,
+493009,Pedra de Atributo [Massacre],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Massacre] que aumente o dano final causado a monstros normais.",,,
+493010,@493009,@1021,,@493009,,,
+493011,@493009,@1021,,@493009,,,
+493012,@493009,@1021,,@493009,,,
+493013,Pedra de Atributo [Caçada],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Caçada] que aumente o dano final causado a monstros elite.",,,
+493014,@493013,@1021,,@493013,,,
+493015,@493013,@1021,,@493013,,,
+493016,@493013,@1021,,@493013,,,
+493017,Pedra de Atributo [Bravura],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Bravura] que aumente o dano final causado a chefes.",,,
+493018,@493017,@1021,,@493017,,,
+493019,@493017,@1021,,@493017,,,
+493020,@493017,@1021,,@493017,,,
+493021,Pedra de Atributo [Aniquilar],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Aniquilar] que aumente o dano final causado a jogadores.",,,
+493022,@493021,@1021,,@493021,,,
+493023,@493021,@1021,,@493021,,,
+493024,@493021,@1021,,@493021,,,
+493025,Pedra de Atributo [Paciência],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Paciência] que aumente o dano final causado a monstros elite.",,,
+493026,@493025,@1021,,@493025,,,
+493027,@493025,@1021,,@493025,,,
+493028,@493025,@1021,,@493025,,,
+493029,Pedra de Atributo [Proteção],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Proteção] que aumente o dano final causado a chefes.",,,
+493030,@493029,@1021,,@493029,,,
+493031,@493029,@1021,,@493029,,,
+493032,@493029,@1021,,@493029,,,
+493033,Pedra de Atributo [Muro de ferro],@1021,,"A energia dos gigantes inferiores antigos reside nesta pedra.
+Use para aprimorar equipamentos de atributo [Muro de ferro] que aumente o dano final causado a jogadores.",,,
+493034,@493033,@1021,,@493033,,,
+493035,@493033,@1021,,@493033,,,
+493036,@493033,@1021,,@493033,,,
+919209,Caixa de Seleção de Tecido mágico especial,@1021,,Use para selecionar e obter 1 Tecido mágico da Destruição ou 1 Tecido mágico do Sangue Virtuoso.,Itens obtidos após o uso não podem ser trocados.,,
+919210,Caixa de 300 PH,@1021,,"Esta caixa grande contém PH.
+Use para ganhar 300 PH.",,,
+919211,Pena da Paz (15 min.),@1021,,Protege do ataque de outros jogadores durante 15 minutos. É possível usar 3 vezes ao dia.,,,
+32000000,Conclusão Automática de Masmorra de EXP,@1021,,Este bilhete é usado para concluir instantaneamente uma masmorra de EXP.,,,
+32000001,Conclusão Automática de Masmorra de Adena,@1021,,Este bilhete é usado para concluir instantaneamente uma masmorra de adena.,,,
+32000002,Conclusão Automática de Masmorra Diária,@1021,,Este bilhete é usado para concluir instantaneamente uma masmorra diária.,,,
+33000000,Cx. de Sel. de Concl. Automátic.,@1021,,Use para selecionar e adquirir 1 bilhete de conclusão automática.,,,
+30490083,Caixa de {ReplaceString1} Diamantes Vermelhos,@1021,,@910232,1200,,
+30490011,@910231,@1021,,"Caixa que contém um monte de adena.
+Use para adquirir {ReplaceString1} de adena.",100000,,
+34000000,Caixa Aleatória de Conclusão Automática,@1021,,Use para obter 1 bilhete de conclusão automática aleatório.,,,
+33000100,Caixa de Seleção de Equipamentos Exclusiva de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir 1 arma ou armadura de grau {ReplaceString1}.,@910111,,@10002
+35000001,Pacote Iniciante do Herói,@1021,,Caixa com {ReplaceString1} adquirida ao pré-registrar.,Item,,
+35000002,Caixa de Diamantes Vermelhos de Pré-registro,@1021,,Caixa com {ReplaceString1} adquirida ao pré-registrar.,Moeda,,
+35000003,Título Exclusivo,@1021,,Caixa com {ReplaceString1} adquirida ao pré-registrar.,Título,,
+34000100,@910201,@1021,,@910201,C - A,,
+32000010,Ficha de maestria,@1021,,"Moeda disponível ao melhorar a maestria.
+Use as fichas de maestria para adquirir itens da Loja de Maestria.",,,
+35000010,Caixa Pequena de Fichas de Maestria,@1021,,Caixa pequena que contém fichas de maestria.,,,
+35000020,Caixa de Título de Patrono do Clã,@1021,,Caixa de clã {ReplaceString1} concedida a quem ajuda o clã.,Patrono do Clã,,
+35000100,Caixa de Consumíveis de Recuperação,@1021,,Use para adquirir consumíveis de recuperação.,,,
+34000200,Caixa Aleatória de Equipamento Exclusivo Raro de Grau {ReplaceString1} ,@1021,,Use para selecionar e adquirir um equipamento raro {ReplaceString2} de grau {ReplaceString1} para a sua classe.,@910141,Aleatório,@10002
+33000200,Caixa de Seleção de Equipamento Exclusivo Raro de Grau {ReplaceString1},@1021,,Use para {ReplaceString2} e adquirir um equipamento raro de grau {ReplaceString1} para a sua classe.,@910141,Selecionar,@10002
+34000300,Caixa de Recompensas de Login,@1021,,"Um item dado por {ReplaceString1} m como recompensa de login.
+Adquirir {ReplaceString2} itens.",60,1,
+30919001,@911064,@1021,,Use para selecionar e adquirir um {ReplaceString2} de grau {ReplaceString1} da lista.,@910101,Cristal Anímico,
+30919002,@911064,@1021,,@30919001,@910111,@30919001,
+30919003,@911064,@1021,,@30919001,@910121,@30919001,
+30919004,@911064,@1021,,@30919001,@910131,@30919001,
+34000101,Caixa Aleatória de Cristal Anímico de Grau {ReplaceString1},@1021,,Use para ganhar um {ReplaceString2} aleatório de grau {ReplaceString1}.,B - S,@30919001,
+34000102,@34000101,@1021,,@34000101,A - S,@30919001,
+34000103,@34000101,@1021,,@34000101,A - R,@30919001,
+34000104,@34000101,@1021,,@34000101,A - SR,@30919001,
+34000105,@34000101,@1021,,@34000101,S - R,@30919001,
+34000106,@34000101,@1021,,@34000101,S - SR,@30919001,
+30481001,Caixa de Verniz de Equipamento de Montaria de Grau {ReplaceString1},@1021,,Use para adquirir um verniz de equipamento de montaria de grau {ReplaceString1}.,@910101,,
+30481002,@30481001,@1021,,@30481001,@910111,,
+30481003,@30481001,@1021,,@30481001,@910121,,
+30481004,@30481001,@1021,,@30481001,@910131,,
+30481005,@30481001,@1021,,@30481001,@910141,,
+30481006,@30481001,@1021,,@30481001,@490026,,
+34001000,Caixa Aleatória de Núcleo de Monstro {ReplaceString1},@1021,,{ReplaceString1} Adquira aleatoriamente 1 núcleo de monstro regional.,@10015,,
+34001001,@34001000,@1021,,@34001000,@10016,,
+34001002,@34001000,@1021,,@34001000,@10017,,
+34001003,@34001000,@1021,,@34001000,@10018,,
+34001004,@34001000,@1021,,@34001000,@10019,,
+34001005,@34001000,@1021,,@34001000,@10020,,
+34001006,@34001000,@1021,,@34001000,@10021,,
+34001007,@34001000,@1021,,@34001000,@10022,,
+34001008,@34001000,@1021,,@34001000,@10023,,
+34001009,@34001000,@1021,,@34001000,@10024,,
+34001010,@34001000,@1021,,@34001000,@10025,,
+34001011,@34001000,@1021,,@34001000,@10026,,
+34001012,@34001000,@1021,,@34001000,@10027,,
+34001013,@34001000,@1021,,@34001000,@10028,,
+30492001,@492001,@1021,,@492001,16000,,
+30492002,@492001,@1021,,@492001,18000,,
+30492003,@492001,@1021,,@492001,21000,,
+30492004,@492001,@1021,,@492001,22500,,
+30492005,@492001,@1021,,@492001,24000,,
+30492006,@492001,@1021,,@492001,27000,,
+30492007,@492001,@1021,,@492001,31500,,
+30492008,@492001,@1021,,@492001,36000,,
+30492009,@492001,@1021,,@492001,37500,,
+30492010,@492001,@1021,,@492001,43000,,
+30492011,@492001,@1021,,@492001,51000,,
+30492012,@492001,@1021,,@492001,54000,,
+30492013,@492001,@1021,,@492001,60000,,
+30492014,@492001,@1021,,@492001,64500,,
+30492015,@492001,@1021,,@492001,70000,,
+30492016,@492001,@1021,,@492001,76500,,
+30492017,@492001,@1021,,@492001,81000,,
+30492018,@492001,@1021,,@492001,90000,,
+30492019,@492001,@1021,,@492001,93000,,
+30492020,@492001,@1021,,@492001,105000,,
+30492021,@492001,@1021,,@492001,106000,,
+30492022,@492001,@1021,,@492001,120000,,
+30492023,@492001,@1021,,@492001,121500,,
+30492024,@492001,@1021,,@492001,135000,,
+30492025,@492001,@1021,,@492001,139500,,
+30492026,@492001,@1021,,@492001,159000,,
+30492027,@492001,@1021,,@492001,180000,,
+30492028,@492001,@1021,,@492001,202500,,
+30492101,@492011,@1021,,@492011,110,,
+30492102,@492011,@1021,,@492011,130,,
+30492103,@492011,@1021,,@492011,150,,
+30492104,@492011,@1021,,@492011,170,,
+30492105,@492011,@1021,,@492011,190,,
+30492106,@492011,@1021,,@492011,210,,
+30492107,@492011,@1021,,@492011,230,,
+30492108,@492011,@1021,,@492011,250,,
+30492109,@492011,@1021,,@492011,270,,
+30492110,@492011,@1021,,@492011,290,,
+30492111,@492011,@1021,,@492011,310,,
+30492201,@492021,@1021,,@490043,2000,,
+30492202,@492021,@1021,,@490043,3000,,
+30492203,@492021,@1021,,@490043,4000,,
+30492204,@492021,@1021,,@490043,6000,,
+30492301,@492031,@1021,,@490046,200,,
+30492302,@492031,@1021,,@490046,250,,
+30492303,@492031,@1021,,@490046,350,,
+30492304,@492031,@1021,,@490046,400,,
+30492305,@492031,@1021,,@490046,450,,
+35000101,Caixa de consumíveis,@1021,,Use para adquirir consumíveis.,,,
+33000300,Caixa Sortida de Brincos de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir um {ReplaceString2} de grau {ReplaceString1} da lista.,@910101,Brincos,@10002
+33000400,Caixa Sortida de Brincos de Grau {ReplaceString1},@1021,,@33000300,@910101,Anel,@10002
+34001100,Caixa de Material de Fortalecimento {ReplaceString1},@1021,,Use para conseguir um item {ReplaceString2} aleatório.,Baixo grau,Material,
+34001101,@34001100,@1021,,@34001100,Incomum,Material de alto grau,
+30471001,Flauta de Vinculação {ReplaceString1},@470003,,Material adicional usado para ativar {ReplaceString1}.,@470004,,
+30471002,@30471001,@470003,,@30471001,@470003,,
+34001200,Caixa de Material de Montaria,@1021,,"Use para ganhar um dos itens seguintes: Equipamento de Montaria (A - SR), Pedra de Avanço, Pergaminho: Aprimorar Equipamento de Montaria, Fragmento de Pedra de Evocação de Montaria (Urso-Negro, Santo de Prata, Kukurin).",,Material de Montaria,
+34001300,Caixa Aleatória de Brincos de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir um {ReplaceString2} de grau {ReplaceString1} aleatoriamente da lista.,@910111,@33000300,@10002
+34001400,Caixa Aleatória de Anel de Grau {ReplaceString1},@1021,,@34001300,@910111,@33000400,@10002
+30490067,Caixa do Diamantes Vermelhos,@1021,,"Esta caixa contém Diamantes Vermelhos.
+Use para adquirir 200 Diamantes Vermelhos.",,,
+39000000,Caixa do Fundador,@1021,,Use para adquirir 1 acessório especial e 400 diamantes vermelhos.,,,@10002
+39000001,Caixa de Presente Especial,@1021,,Use para adquirir 1 acessório especial e 200 diamantes vermelhos+50.000 de adena.,,,@10002
+34001500,Caixa de Material de Fortalecimento do Clã,@1021,,"Caixa de apoio adquirida do clã.
+Use para adquirir um material aleatório de alto grau.",,,@10002
+34001501,Caixa de Ev. Equip. Clã,@1021,,"Caixa de equipamento adquirida do clã.
+Use para conseguir um equipamento aleatório A - SR.",,,@10002
+34001600,Caixa de Fragmento de Pedra de Evocação de {ReplaceString1},@1021,,Use para adquirir um Fragmento de Pedra de Evocação Maligna de Monstro {ReplaceString1} aleatório.,Raro,,@10002
+34001601,@34001600,@1021,,@34001600,Chefe,,@10002
+34910211,Caixa de Verniz de Grau C - A,@1021,,Use para selecionar e adquirir um verniz de grau {ReplaceString1}.,@910301,,@10002
+34001700,@34001000,@1021,,@34001000,@1000100,,@10002
+34001701,@34001000,@1021,,@34001000,@1000101,,@10002
+34001702,@34001000,@1021,,@34001000,@1000102,,@10002
+30310071,Anel do Mercenário Eterno,@310001,,@310001,,,
+30310072,@30310071,@310001,,@310001,,,
+30310073,@30310071,@310001,,@310001,,,
+30310074,@30310071,@310001,,@310001,,,
+30310075,@30310071,@310001,,@310001,,,
+30310076,@30310071,@310001,,@310001,,,
+30310081,Brinco do Santo Glorioso,@310001,,@310001,,,
+30310082,@30310081,@310001,,@310001,,,
+30310083,@30310081,@310001,,@310001,,,
+30310084,@30310081,@310001,,@310001,,,
+30310085,@30310081,@310001,,@310001,,,
+30310086,@30310081,@310001,,@310001,,,
+30490012,@910231,@1021,,@30490011,50000,,
+34001602,Caixa de Pedra de Evocação {ReplaceString1},@1021,,Use para ganhar uma Pedra de Evocação de Monstro {ReplaceString1} aleatória.,@34001600,,@10002
+33000501,@920201,@1021,,"Esta caixa está disponível baseada no número de missões semanais concluídas.
+Use para conseguir fragmentos de Pedra de Evocação de monstros do território {ReplaceString1}.",Ilha Falante,,@10002
+33000502,@920201,@1021,,@33000501,Ilha Falante e Gludio,,@10002
+33000503,@920201,@1021,,@33000501,"Ilha Falante, Gludio e Dion",,@10002
+33000504,@920201,@1021,,@33000501,"Ilha Falante, Gludio, Dion e Giran",,@10002
+33000505,@920201,@1021,,@33000501,"Ilha Falante, Gludio, Dion, Giran e Oren",,@10002
+34001800,@34001000,@1021,,@34001000,Ruínas Élficas 1,,
+34001801,@34001000,@1021,,@34001000,Ruínas Élficas 2,,
+34001802,@34001000,@1021,,@34001000,Formigueiro 1,,
+34001803,@34001000,@1021,,@34001000,Formigueiro 2,,
+34001804,@34001000,@1021,,@34001000,Torre de Cruma 2,,
+34001805,@34001000,@1021,,@34001000,Torre de Cruma 3,,
+30490068,@30490067,@1021,,"Esta caixa contém Diamantes Vermelhos.
+Use para adquirir 400 Diamantes Vermelhos.",,,
+39000002,Meias de Presente de Férias,@10003,,Uma seleção de presentes repleta de alegria das férias! Use para adquirir uma variedade de recompensas.,,,
+39000003,Emblema de Árvore de Natal,@10003,,Um emblema com formato de Árvore de Natal.,,,Pode ser obtido em Baús do Tesouro.
+39000004,Emblema de Rudolph,@10003,,Um emblema com formato do Rudolph.,,,@39000003
+39000005,Emblema de Papai Noel.,@10003,,Um emblema com formato de Papai Noel.,,,@39000003
+30911049,Equipamento e Caixa de Pergaminho de Aprimoramento de Equipamento de Montaria,@1021,,"Use para ganhar um dos itens seguintes: Pergaminho de aprimoramento, Pergaminho de Aprimoramento de Equipamento de Montaria",,,@10002
+30911060,@911059,@1021,,@911059,@910111,,@10002
+34001603,Caixa de Seleção de Pedras de Evocação Maligna: {ReplaceString1},@1021,,Use para selecionar e conseguir uma Pedra de Evocação Maligna de Monstro: {ReplaceString1}.,@34001600,,@10002
+34001806,@34001000,@1021,,@34001000,Catacumbas da Torre de Marfim 1,,
+34001807,@34001000,@1021,,@34001000,Catacumbas da Torre de Marfim 2,,
+34001808,@34001000,@1021,,@34001000,Catacumbas da Torre de Marfim 3,,
+34001900,Baú de Tesouro de {ReplaceString1},@1021,,"Caixa de recompensa por conquistar a Fortaleza {ReplaceString1}.
+Use para obter um item aleatório.",@1000100,Ilha Falante,
+34001901,@34001900,@1021,,@34001900,@1000101,Gludio,
+34001902,@34001900,@1021,,@34001900,@1000102,Dion,
+33000101,@33000100,@1021,,@33000100,@910121,,@10002
+30911042,@910213,@1021,,@910213,@910121,,@10002
+35000004,Caixa de Conjunto de Conclusões Automáticas,@1021,,Use para obter 1 de cada conclusão automática.,,,
+35000005,Caixa de presente de Ano Novo,@1021,,Contém uma caixa de seleção de equipamentos exclusiva grau R e uma caixa de seleção de vernizes de grau S.,,,
+35000201,Conjunto de Verniz Grau {ReplaceString1},@1021,,"Esta caixa contém verniz usado para fortalecer equipamentos.
+Use para adquirir um Verniz de Grau {ReplaceString1} de cada tipo.",@910141,,@10002
+39000006,Chocolate comum,@1021,,"Utilizado no Evento de Chocolate do Dia dos Namorados.
+
+Aumenta em 3.000 os PM máx. durante 5 min.",,,Adquira ao derrotar todos os Monstros Escolhidos.
+39000007,Chocolate ao leite,@1021,,"Utilizado no Evento de Chocolate do Dia dos Namorados.
+
+Aumenta a defesa em 2.000 durante 5 min.",,,"Adquira ao derrotar Chefes de Campo.
+Aumente a taxa de queda de itens ao derrotar Chefes de Campo na
+Ilha Falante e no Território de Gludio."
+39000008,Chocolate amargo,@1021,,"Utilizado no Evento de Chocolate do Dia dos Namorados.
+
+Aumenta em 3.000 os PV máx. durante 5 min.",,,@39000007
+39000009,Chocolate branco,@1021,,"Utilizado no Evento de Chocolate do Dia dos Namorados.
+
+Aumenta em 1.500 o Atq. durante 5 min.",,,"Adquira ao derrotar Chefes de Campo.
+Aumente a taxa de queda de itens ao derrotar Chefes de Campo na
+Ilha Falante e no Território de Giran."
+39000010,Chocolate Amaretto,@1021,,"Utilizado no Evento de Chocolate do Dia dos Namorados.
+
+Aumenta em 3% o dano crítico por 5 min.",,,@39000009
+39000011,Caixa de chocolates dos namorados,@1021,,"Você pode adquirir 1 dos 5 tipos de chocolate.
+
+2 Chocolates Comuns
+1 Chocolate ao leite
+1 Chocolate amargo
+1 Chocolate branco
+1 Chocolate Amaretto",,,@10002
+39000012,Caixa de presentes do Dia dos Namorados,@1021,,"Adquira todos os 5 itens abaixo.
+
+1 Caixa de Pergaminho de missão de grau S
+1 Bênção de Einhasad de Grau S
+3 Caixas de Conjunto de Conclusão Automática
+10.000 de Adena
+1 Relíquia Antiga",,,@10002
+39000013,@39000011,@1021,,@39000011,,,@10002
+33000201,Caixa de Seleção de Armadura Rara Exclusiva de Grau {ReplaceString1},@1021,,Use para selecionar na lista e adquirir uma Armadura Rara Exclusiva de Grau {ReplaceString1}.,@910131,,@10002
+33000500,Caixa de Seleção de Pedras de Evocação de Alto Grau,@1021,,"Use para selecionar e ganhar um dos seguintes itens: 1 Pedra de Evocação de Urso-Negro, 1 Pedra de Evocação de Santo de Prata, 1 Pedra de Evocação de Kukurin ou 1 Pedra de Evocação de Leão com Juba",,,@10002
+34002000,Caixa de Assistência de Fortalecimento,@1021,,"Use para adquirir itens que podem auxiliar no fortalecimento do poder de combate.
+Adquira itens aleatoriamente relativos a cristais anímicos e montarias.",,,@10002
+33000600,Caixa de {ReplaceString2} de Fragmento de Pedra de Evocação de {ReplaceString1},@1021,,Use para {ReplaceString2} e adquira 1 fragmento de Pedra de Evocação de {ReplaceString1}.,Monstros raros,@33000200,
+33000610,@33000600,@1021,,@33000600,@34001601,@33000200,
+34003500,Caixa de Sorte de 5º Lugar,@1021,,Caixa de Sorte de 5º Lugar no Evento Caixa de Sorte.,,,
+34003600,@919014,@1021,,@919014,,,
+34003700,@919015,@1021,,@919015,,,
+34004000,@911083,@1021,,Use para adquirir um Equipamento de Montaria de Grau {ReplaceString1}.,@910228,,
+33001000,Caixa de Seleção de Armadura de Égide de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir da lista uma Armadura de Atributo de Égide exclusiva de Grau {ReplaceString1}.,@490026,,@10002
+33001001,@33001000,@1021,,@33001000,@910141,,@10002
+33001002,@33001000,@1021,,@33001000,@910131,,@10002
+33001100,Caixa de Seleção de Armadura de Paciência de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir da lista uma Armadura de Atributo de Paciência exclusiva de Grau {ReplaceString1}.,@490026,,@10002
+33001101,@33001100,@1021,,@33001100,@910141,,@10002
+33001102,@33001100,@1021,,@33001100,@910131,,@10002
+33001200,Caixa de Seleção de Armadura de Proteção de Grau {ReplaceString1},@1021,,Use para selecionar e adquirir da lista uma Armadura de Atributo de Proteção exclusiva de Grau {ReplaceString1}.,@490026,,@10002
+33001201,@33001200,@1021,,@33001200,@910141,,@10002
+33001202,@33001200,@1021,,@33001200,@910131,,@10002
+33002000,Caixa de Seleção de Material de Fortalecimento de Capa,@1021,,Use para selecionar e adquirir da lista um Material de Fortalecimento de Capa.,,,@10002
+34010000,Caixa de Fortalecimento de Arma,@1021,,"Use para ganhar aleatoriamente um dos itens seguintes:
+Pergaminho: Aprimorar Arma, Verniz de Arma, Pergaminho de Alquimia - Pergaminho Abençoado: Arma/Armadura/Acessório, Arma de Grau A-SR",,,
+34010001,Caixa de Fortalecimento de Armadura,@1021,,"Use para ganhar aleatoriamente um dos itens seguintes:
+Pergaminho: Aprimorar Armadura, Verniz de Armadura, Pergaminho de Alquimia - Pergaminho Abençoado: Arma/Armadura/Acessório, Armadura de Grau A-SR",,,
+34010002,@910253,@1021,,"Use para ganhar aleatoriamente um dos itens seguintes:
+Pergaminho Abençoado, Pergaminho de Aprimoramento, Proteção de Maphr, Fragmento de Proteção de Maphr, Essência de Elixir, Poções de PV/PM, Fio de Capa, Fragmento da Loucura, Lágrima de Trisha, Fragmento de Runa, Cristal Anímico",,,@10002
+34010003,Caixa de Material de Montaria de Alto Grau,@1021,,"Use para ganhar aleatoriamente um dos itens seguintes:
+Equipamento de Montaria de Grau A - SR, Pedra de Avanço, Trompa de Montaria, Pedra de Evocação de Montaria, Fragmentos de Pedra de Evocação de Montaria, Pergaminho: Aprimorar Equipamento de Montaria, Verniz de Equipamento de Montaria de Grau A - SR",,,
+34005000,Bolsa Especial de Comemoração de Atualização,@1021,,Adquira aleatoriamente de 1 a 10 Proteções de Maphr ou Pergaminhos Abençoados.,,,@10002
+33003000,@911084,@1021,,@911084,@910131,,@10002
+33003001,@911084,@1021,,@911084,@910131,,@10002
+33003002,@911084,@1021,,@911084,@910131,,@10002

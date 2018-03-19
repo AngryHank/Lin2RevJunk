@@ -1,0 +1,135 @@
+Id,ActName,ChapterName
+1,1. Östliche Sprechende Insel,Geburt des Helden
+2,@1,Dunkelheit
+3,@1,Erste Barriere
+4,@1,Niahs Freund
+5,@1,"Orkjäger, sammelt Euch!"
+6,@1,Schikane
+7,@1,Anfängerglück
+8,@1,Elfisches Diadem
+9,@1,Unsagbarer Vorfall
+10,@1,Zweite Barriere
+11,@1,Niahs Verschwinden
+12,2. Westliche Sprechende Insel,Archäologen-Spur
+13,@12,Suche läuft!
+14,@12,Gnadenlos
+15,@12,Menschenjagd
+16,@12,Dritte Barriere
+17,@12,Nicht aufgeben
+18,@12,Dieses Individuum
+19,3. Gludin-Straße,Notfall!
+20,@19,Gegenangriffsplan!
+21,@19,Dubioser Vorfall
+22,@19,Hinweise entdeckt!
+23,@19,Einsame Dame
+24,@19,Tragödie
+25,@19,Entführer besiegen
+26,@19,Freudige Gesichter
+27,@19,Gierig
+28,@19,Möhre und Stock
+29,4. Gludio-Ebenen,Profitiere immerzu
+30,@29,Geplünderte Stadt
+31,@29,Flucht!
+32,@29,2. Trupp in Gefahr
+33,@29,Division
+34,@29,Bekannte Dinge
+35,@29,Natürlich!
+36,@29,Prophezeites Ende
+37,@29,Keine Zeit!
+38,@29,Held von Gludio
+39,5. Windawood-Anwesen,Vermisste Soldaten
+40,@39,Rettungsplan!
+41,@39,Wiedervereint
+42,@39,Ruinen-Endkampf
+43,@39,Kampf um den Kristall
+44,@39,Mysteriöser Mann
+45,@39,Uralter Dämon
+46,@39,Windawood-Rache
+47,@39,Alarm! Rückschlag!
+48,@39,Letzter Kampf
+49,6. Einöde,"Elfenbeinturm-
+zauberer"
+50,@49,Armer Zauberer
+51,@49,Wahrheit aufdecken
+52,@49,Staris
+53,@49,Erinnerung an Tote
+54,@49,Wanderverkäufer
+55,@49,Auf halbem Weg
+56,@49,Ol Mahum-Streit
+57,@49,Rebellion bändigen
+58,@49,Private Umstände
+59,7. Dion-Ebenen,Ork-Hinterhalt
+60,@59,Verdächtiger Brief
+61,@59,Echsenmenschen
+62,@59,Mädchen mit Amnesie
+63,@59,An sicherem Ort
+64,@59,Elie finden
+65,@59,Grund des Wirrsals
+66,@59,Dion-Soldat kämpft
+67,@59,Dunkle Bruderschaft
+68,8. Cruma-Sumpf,Spinnen-Vermehrung
+69,@68,Freudiges Gesicht
+70,@68,Dunkle Bruderschaft des Sumpfes
+71,@68,In den Rücken!
+72,@68,Angegriffene Forscher
+73,@68,Schlüsselsuche
+74,@68,Zum Cruma-Turm
+75,@68,Falle
+76,@68,Verdächtige Katze
+77,9. Gipfel des Missklangs,Waldjäger
+78,@77,Ungebetener Gast
+79,@77,Tanor-Häuptling
+80,@77,@78
+81,@77,Tanor-Ehre
+82,@77,Echter Plan
+83,@77,Öffentlicher Feind
+84,@77,De facto Macht
+85,10. Kreischendes Heiligtum,Für Verstorbene
+86,@85,Endlose Herausforderung
+87,@85,Bekanntes Gesicht
+88,@85,"Objekt, das nicht sein sollte"
+89,@85,Naher Tod
+90,@85,Herzlose Falle
+91,@85,Vertrag
+92,@85,Einmal schlafen
+93,@85,Das Geschäft läuft weiter
+94,11. Giran-Reich,Das Geschäft beginnt mit dem Verkauf
+95,@94,Katzenrückzahlung
+96,@94,Bruder finden I
+97,@94,Bruder finden II
+98,@94,Gorgon-Königin
+99,@94,Büchse der Pandora
+100,@94,Vorzeit versiegelt
+101,@94,Verschleierung
+102,@94,Delegation hinfort
+103,@94,Delegation retten
+104,12. Tödliche Nebelküste,Pans Rache
+105,@104,Transporteinh. weg 
+106,@104,Wahrheit aufdecken
+107,@104,Reißaus
+108,@104,Umstrukturierung
+109,@104,Objektlieferung
+110,@104,Gnosis' Spur
+111,@104,Endloser Schlummer
+112,@104,Forschung geht weiter
+113,@104,Dunkler Hafen
+114,@104,Piratencrew lebt
+115,13. Teufelsinsel,Standort Vorausabt.
+116,@115,Seltsames Benehmen
+117,@115,Ort zur Rückkehr
+118,@115,Tragödie I
+119,@115,Piraten-Vergangenheit
+120,@115,Fredericks Ärger I
+121,@115,Tragödie II
+122,@115,Fredericks Ärger II
+123,@115,Traurige Neuigkeit
+124,14. Ruhelose Totenstadt,Oren-Deleg. retten
+125,@124,Noch nicht sterben
+126,@124,Schutzbaum
+127,@124,Geist der Vorzeit
+128,@124,Tote Erinnerungen
+129,@124,Nachricht an die Zukunft
+130,@124,Pan ist Pan
+131,@124,Wachmänner
+132,@124,Geisterschwert
+133,@124,Hoffnungsschimmer

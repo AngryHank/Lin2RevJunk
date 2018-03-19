@@ -1,0 +1,129 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,Sei stato riconnesso al server.,,
+3,È stato creato un gruppo.,,
+4,Ti sei unito al gruppo.,,
+5,<FontGreen>[Name]</> si è unito al gruppo.,,
+6,Hai abbandonato il gruppo.,,
+7,<FontGreen>[Name]</> ha abbandonato il gruppo.,,
+8,Sei stato cacciato dal gruppo.,,
+9,<FontGreen>[Name]</> è stato cacciato dal gruppo.,,
+10,Sei diventato il leader del gruppo.,,
+11,<FontGreen>[Name]</> è stato nominato nuovo leader del gruppo.,,
+12,Il gruppo si è sciolto.,,
+13,"<FontGreen>[Name]</> ti ha invitato al gruppo.
+Vuoi unirti? <FontRed>[Seconds]</> sec.",Rifiuta,Unisciti
+14,Hai rifiutato di unirti al gruppo.,,
+15,"Qualcuno ha richiesto di unirsi al tuo gruppo.
+Approvare? <FontRed>[Seconds]</> secondi",@13,Accetta
+16,Il Gruppo automatico è stato annullato.,,
+17,"Luogo: <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> vuole iniziare l’avventura. Sei pronto? <FontRed>[Seconds]</> sec.",@13,Accetta
+18,"Luogo: <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+Accesso a <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> in <FontRed>[Seconds]</> secondo/i.
+Preparati alla battaglia.",,
+19,"<FontGreen>[WorldName]</>
+<FontBlue>[Name]</> vuole convocarti.
+Accetti la convocazione? <FontRed>[Seconds]</> sec.",A Piedi,Portale
+20,@19,Chiudi,Accesso
+21,"Luogo: <FontGreen>[WorldName]
+</>Vuoi andare al luogo di incontro del gruppo? <FontRed>[Seconds]</> sec.",@19,@19
+22,@21,@20,@20
+23,"Il gruppo <FontYellow>[Battlefield]</> è stato creato.
+Accedi al Campo di Battaglia <FontBlue>da solo</> o in un <FontBlue>gruppo di battaglia</> insieme ad altri giocatori.",,
+24,Si è unito al gruppo <FontYellow>[Battlefield]</>.,,
+25,<FontGreen>[Name]</> si è unito al gruppo <FontYellow>[Battlefield]</>.,,
+26,Il gruppo <FontYellow>[Battlefield]</> si è sciolto.,,
+27,Ha abbandonato il gruppo <FontYellow>[Battlefield]</>.,,
+28,<FontGreen>[Name]</> ha abbandonato il <FontYellow>[Battlefield]</> gruppo.,,
+29,"<FontGreen>[Name]</> ([Power]) ti ha invitato al Gruppo del Campo di Battaglia.
+Vuoi unirti al gruppo <FontYellow>[Battlefield]</>? <FontRed>[Seconds]</> sec.",@13,@15
+30,"La creazione di <FontYellow>[BattlefieldType]</> è completa.
+Ingresso nel Campo di Battaglia tra <FontRed>[Seconds]</> secondi. Preparati per la battaglia.",,
+31,[Name] ti ha inviato una richiesta di amicizia.,Amico,
+32,Hai stretto amicizia con [Name].,@31,
+33,<FontYellow>Il Leader del Clan ha cambiato l’Emblema del Clan.</>,,
+34,Il Membro del clan [Name] ha cambiato Nickname: <FontGreen>[Name2]</>,,
+35,<FontGreen>[Param1]</> ha effettuato l’accesso.,,
+36,<FontGreen>[Name]</> ha donato <FontGreen>[Count][AssetsType]</> per i Membri del clan.,,
+37,<FontGreen>[Param1]</> si è <FontBlue> unito </> al clan.,,
+38,<FontGreen>[Param1]</> ha <FontRed>abbandonato</>il clan.,,
+39,<FontGreen>[Name]</>è stato <FontRed>cacciato</> dal clan.,,
+40,Il Clan <FontBlue>[GuildName]</> ha inviato un invito.,@13,@17
+41,<FontBlue>[Name]</>ha rifiutato l’invito.,,
+42,<FontYellow>C’è una nuova richiesta di unirsi al clan.</>,Clan,
+43,Ti sei unito a <FontBlue>[GuildName]</>.,@42,
+44,<FontBlue>[GuildName]</><FontRed>ha rifiutato</>la tua richiesta di unirti.,,
+45,Ha abbandonato il clan.,,
+46,La posizione di <FontGreen>[Param1]</> è diventata <FontBlue>[Param2]</>.,,
+47,<FontGreen>[Param1]</> è stato nominato nuovo leader del clan.,,
+48,<FontGreen>[Param1]</> è stato nominato il nuovo Leader del Clan a causa della precedente assenza prolungata del Leader del Clan e alla mancanza di partecipazione.,,
+49,[Param1] ha dato una ricompensa a <FontGreen>[Param2]</>.,,
+50,[Param1] ha dato <FontGreen> ricompense </> a tutti i membri del clan.,,
+51,"[Param1] ha dato ricompense a <FontGreen>[Param3] membri</>, incluso [Param2].",,
+52,Regalo del Clan è arrivato da <FontGreen>[Name]</>.,Casella di posta,
+53,"Il membro del clan<FontGreen>[Name]</> ha richiesto una vendetta:
+[Name2] del clan <FontRed>[GuildName]</>.",@20,@19
+54,"Il membro del clan<FontGreen>[Name]</> ha richiesto una vendetta:
+[Name] del clan <FontRed>[GuildName]</>.",@20,@20
+55,"Il membro del clan <FontGreen>[Name]</> ha richiesto una vendetta:
+<FontRed>[Name2]</>.",@20,@19
+56,"Il membro del clan <FontGreen>[Name]</> ha richiesto una vendetta:
+<FontRed>[Name]</>.",@20,@20
+57,<FontBlue>Ha formato</> un’alleanza con <FontBlue>[Param1]</>.,,
+58,L’alleanza con <FontBlue>[Param1]</> è <FontRed> terminata </>.,,
+59,<FontRed>Dichiarata</> guerra a <FontBlue>[Name]</>.,,
+60,<FontRed>Rifiutato</> il cessate il fuoco con <FontBlue>[GuildName]</>.,,
+61,<FontBlue>[GuildName]</>ha<FontRed> rifiutato </>il cessate il fuoco.,,
+62,<FontGreen>Negoziato</> il cessato il fuoco con <FontBlue>[Name]</>.,,
+63,<FontBlue>Vinta</> la guerra con <FontBlue>[Name]</>.,,
+64,<FontRed>Persa</> la guerra con <FontBlue>[Name]</>.,,
+65,<FontYellow>Il Clan ha raggiunto il Liv. [Param1]</>.,,
+66,<FontYellow>Il Buff del clan [Name] ha raggiunto il Liv. [param]</>.,,
+67,Lord [Name] ha acquistato <FontGreen>[Item]</> da <FontGreen>[ShopName]</>.,,
+68,<FontYellow>[Param1] Completata con successo.</>,Traguardo del Clan,
+69,"Il Leader del Clan ha chiamato da <FontGreen>[DungeonName]</>.
+Vuoi accettare?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) è stato azzerato.</>,Segreta del Clan,
+71,Rinnova il prezzo dell’offerta di <FontYellow>[Param1]!</>,Assedio della Fortezza,
+72,@71,Assedio del Castello,
+73,Il prezzo di offerta di <FontYellow>[Param1] è stato esteso.</>,@71,
+74,@73,@72,
+75,"È ora possibile accedere all’Assedio Fortezza.
+Vuoi accedere a <FontGreen>[FortressName]</>?",@20,@20
+76,"L’Assedio del Castello è aperto.
+Entri<FontGreen>[CastleName]</>?",@20,@20
+77,<FontYellow>Il Leader del Clan ha fortificato la proprietà di [Name].</>,,
+78,Il Leader del Clan ha selezionato <FontBlue>[Name]</> come <FontYellow>[CastleType]</>.,,
+79,<FontYellow>La Sala del Clan ha raggiunto il Liv.[Level].</>,,
+80,<FontYellow>Il Cristallo dell’Unità nella Sala del Clan ha raggiunto il Liv.[param].</>,,
+81,<FontGreen>[Name]</> ha completato una Quest Sala del Clan per il clan.,,
+82,<FontGreen>[Name]</> ha preparato <FontBlue>un banchetto</>nella Sala del Clan.,@20,@20
+83,<FontYellow>[Value] Reliquie mistiche inviate al Deposito del clan.</>,,
+84,[NAME] ha creato [COUNT] <FontGreen>[POTION_NAME]</>,,
+85,<FontYellow>Il Camino della Sala del Clan arde allegramente.</>,@20,@20
+86,<FontYellow>Il Camino della Sala del clan si sta riscaldando.</>,@20,@20
+87,<FontYellow>Il tepore del camino si è estinto.</>,,
+88,<FontRed>Cacciato</> dal clan.,,
+89,"L’Assedio della Fortezza è iniziato!
+Vuoi entrare qui: <FontGreen>[FortressName]</>?",@20,@20
+90,"L’Assedio del Castello è iniziato!
+Vuoi entrare qui: <FontGreen>[CastleName]</>?",@20,@20
+91,"Luogo: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> vuole evocarti.
+Vai ora? <FontRed>[Seconds]</> sec",@13,@17
+92,"Azioni limitate dalla mancata appartenenza a un gruppo.
+Abbandono automatico della Spaccatura temporale in 15 secondi.",Abbandona,
+93,<FontYellow>L’oggetto per [EventName] è scaduto.</>Rimuovi dall’Inventario.,,
+94,"Gruppo <FontYellow>Assedio aperto</> creato.
+Vai <FontGreen>da solo</> oppure entra a far parte di un <FontGreen>gruppo</> nell’Assedio aperto.",,
+95,Ora sei un membro di un gruppo <FontYellow>Assedio aperto</>.,,
+96,<FontGreen>[Name]</> si è unito all’<FontYellow>Assedio aperto</>.,,
+97,Gruppo <FontYellow>Assedio aperto</> sciolto.,,
+98,Hai abbandonato l’<FontYellow>Assedio aperto</>.,,
+99,<FontGreen>[Name]</> ha abbandonato il gruppo <FontYellow>Assedio aperto</>.,,
+100,"<FontGreen>[Name]</> ti ha invitato a un gruppo Assedio aperto.
+Vuoi accettare l’invito al gruppo <FontYellow>Assedio aperto</>? <FontRed>[Seconds]</> sec.",@13,@15
+101,"Abbinamento <FontYellow>Assedio aperto</> riuscito.
+Entrerai nell’Assedio aperto tra <FontRed>[Seconds]</> sec. Preparati alla battaglia.",,
+1000,Accesso in corso.,,

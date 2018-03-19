@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Aumento del tempo di Incisione del Sacro Artefatto,Aumenta di 1 secondo il tempo necessario per imprimere un Sacro Artefatto.
+1002,@1001,Aumenta di 2 secondi il tempo necessario per imprimere un Sacro Artefatto.
+1003,@1001,Aumenta di 3 secondi il tempo necessario per imprimere un Sacro Artefatto.
+1004,@1001,Aumenta di 4 secondi il tempo necessario per imprimere un Sacro Artefatto.
+1005,@1001,Aumenta di 5 secondi il tempo necessario per imprimere un Sacro Artefatto.
+2001,Aumento PS Torre Difensiva,Aumenta i PS della Torre Difensiva di 500.
+2002,@2001,Aumenta i PS della Torre Difensiva di 1.000.
+2003,@2001,Aumenta i PS della Torre Difensiva di 1.500.
+2004,@2001,Aumenta i PS della Torre Difensiva di 2.000.
+2005,@2001,Aumenta i PS della Torre Difensiva di 2.500.
+3001,Aumento Att. Trappola,"Aumenta Att. Trappola dell’1%.
+Le trappole infliggono % Danni ai PS Massimi del nemico."
+3002,@3001,"Aumenta Att. Trappola del 2%.
+Le trappole infliggono % Danni ai PS Massimi del nemico."
+3003,@3001,"Aumenta Att. Trappola del 3%.
+Le trappole infliggono % Danni ai PS Massimi del nemico."
+3004,@3001,"Aumenta Att. Trappola del 4%.
+Le trappole infliggono % Danni ai PS Massimi del nemico."
+3005,@3001,"Aumenta Att. Trappola del 5%.
+Le trappole infliggono % Danni ai PS Massimi del nemico."

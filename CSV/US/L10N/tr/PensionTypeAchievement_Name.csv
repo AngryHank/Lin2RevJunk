@@ -1,0 +1,72 @@
+Id,Title,Desc
+10031,Hemen Al,
+10032,Doğu Konuşkan Ada,Doğu Konuşkan Ada Hikayesini Tamamla
+10033,Batı Konuşkan Ada,Batı Konuşkan Ada Hikayesini Tamamla
+10034,Gludin Yolu,Gludin Yolu Hikayesini Tamamla
+10035,Gludio Ovası,Gludio Ovası Hikayesini Tamamla
+10036,Windawood Köşkü,Windawood Köşkü Hikayesini Tamamla
+10037,Çorak Diyar,Çorak Diyar Hikayesini Tamamla
+10038,Dion Ovası,Dion Ovası Hikayesini Tamamla
+10039,Cruma Bataklığı,Cruma Bataklığı Hikayesini Tamamla
+10040,Uyumsuzluk Zirvesi,Uyumsuzluk Zirvesi Hikayesini Tamamla
+10041,Uluyan Oyuk,Uluyan Oyuk Hikayesini Tamamla
+11041,@10031,
+11042,Giran Bölgesi,Giran Bölgesi Hikayesini Tamamla
+11043,Ölümcül Sis Kıyıları,Ölümcül Sis Kıyıları Hikayesini Tamamla
+11044,Şeytan Adası,Şeytan Adası Hikayesini Tamamla
+11045,Lanetli Mezarşehir,Lanetli Mezarşehir Hikayesini Tamamla
+13001,@10031,Hemen
+13002,Svy. 10 Hediyesi,Seviye 10'a ulaş.
+13003,Svy. 20 Hediyesi,Seviye 20'ye ulaş.
+13004,Svy. 30 Hediyesi,Seviye 30'a ulaş.
+13005,Svy. 45 Hediyesi,Seviye 45'e ulaş.
+13006,Svy. 70 Hediyesi,Seviye 70'e ulaş.
+14001,@10031,@13001
+14002,Svy. 80 Hediyesi,Seviye 80'e ulaş.
+14003,Svy. 90 Hediyesi,Seviye 90’a ulaş.
+14004,Svy. 100 Hediyesi,Seviye 100'e ulaş.
+14005,Svy. 110 Hediyesi,Seviye 110’a ulaş.
+14006,Svy. 120 Hediyesi,Seviye 120'ye ulaş.
+15001,@10031,@13001
+15002,Svy. 125 Hediyesi,Seviye 125'e ulaş.
+15003,Svy. 130 Hediyesi,Seviye 130'a ulaş.
+15004,Svy. 135 Hediyesi,Seviye 135'e ulaş.
+15005,Svy. 140 Hediyesi,Seviye 140'a ulaş.
+15006,Svy. 145 Hediyesi,Seviye 145'e ulaş.
+15007,Svy. 150 Hediyesi,Seviye 150'ye ulaş.
+15008,Svy. 155 Hediyesi,Seviye 155'e ulaş.
+15009,Svy. 160 Hediyesi,Seviye 160'a ulaş.
+15010,Svy. 165 Hediyesi,Seviye 165'e ulaş.
+15011,Svy. 170 Hediyesi,Seviye 170'e ulaş.
+15012,Svy. 175 Hediyesi,Seviye 175'e ulaş.
+15013,Svy. 180 Hediyesi,Seviye 180'e ulaş.
+10011,@10031,@13001
+10012,1. Giriş,1. Gün Girişi
+10013,2. Giriş,2. Gün Girişi
+10014,3. Giriş,3. Gün Girişi
+10015,4. Giriş,4. Gün Girişi
+10016,5. Giriş,5. Gün Girişi
+10017,6. Giriş,6. Gün Girişi
+10018,7. Giriş,7. Gün Girişi
+10021,@10031,
+10022,Derece SR Silah Al,Derece SR Silah Al
+10023,Derece SR Başlık Al,Derece SR Bir Başlık Parçası Al
+10024,Derece SR Zırh Al,Derece SR Bir Zırh Parçası Al
+10025,Derece SR Eldiven Al,Derece SR Eldiven Al
+10026,Derece SR Çizme Al,Derece SR Çizme Al
+10027,Derece SR Yüzük Al,Derece SR Yüzük Al
+10028,Derece SR Küpe Al,Derece SR Küpe Al
+10029,Derece SR Kolye Al,Derece SR Kolye Al
+1201,@10031,@13001
+1202,Svy. 190 Hediyesi,Seviye 190'a ulaş.
+1203,Svy. 200 Hediyesi,Seviye 200'e ulaş.
+1204,Svy. 210 Hediyesi,Seviye 210'a ulaş.
+1205,Svy. 220 Hediyesi,Seviye 220'ye ulaş.
+1206,Svy. 230 Hediyesi,Seviye 230'a ulaş.
+1207,Svy. 240 Hediyesi,Seviye 240'a ulaş.
+1208,Svy. 250 Hediyesi,Seviye 250'ye ulaş.
+1209,Svy. 260 Hediyesi,Seviye 260'a ulaş.
+12041,@10031,
+12042,Kuzey Yeli Platosu,Kuzey Yeli Platosu Hikayesi'ni tamamla.
+12043,Ebedi Topraklar,Ebedi Topraklar Hikayesi'ni tamamla.
+12044,Fethedilmiş Fildişi Kulesi Bölgesi,Fethedilmiş Fildişi Kulesi Bölgesi Hikayesi'ni tamamla.

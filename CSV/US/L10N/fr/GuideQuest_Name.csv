@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Épisode terminé,Terminez l'épisode <RedBold>1-2</>.
+31002,Développement de l'équipement,Tentez de développer l'équipement : <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31003,@31001,Terminez l'épisode <RedBold>1-5</>.
+31004,Puissance de combat,Atteignez une puissance de combat maximum de <RedBold>[Value]</>. ([Value1]/[Value2])
+31005,Arène,Défiez l'Arène <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31006,Obtenir de l'équipement,Obtenez <RedBold>[Value]</> équipement(s). ([Value1]/[Value2])
+31007,Développer une compétence,Développez une compétence <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Points de succès,Atteignez <RedBold>[Value]</> points de succès. ([Value1]/[Value2])
+31010,Enregistrement de clan,Enregistrez-vous dans le clan. <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31011,Don de clan,Donnez au clan <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31012,Magasin de clan,Achetez un buff de clan <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31013,Accéder à la Tour de l'insolence,Défiez la Tour de l'insolence <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31014,Effectuez un pillage auto. de la Tour de l'insolence.,Effectuez un pillage auto. de la Tour de l'insolence <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31015,Marquage de rune,Tentez un marquage de rune <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31016,Fusionner l'équipement,Tentez de fusionner de l'équipement <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31017,@31001,Terminez l'épisode <RedBold>1-11</>.
+31018,Améliorer l'équipement,Tentez d'améliorer de l'équipement <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31019,Mission quotidienne,Terminez <RedBold>[Value]</> quête(s) quotidienne(s). ([Value1]/[Value2])
+31020,@31015,Réussissez un marquage de rune <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Quête hebdomadaire terminée,Terminez la quête hebdomadaire <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31102,Perfectionner de l'équipement,Réussissez à perfectionner de l'équipement <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Donjons élites,Terminez <RedBold>[Value]</> quête(s) de donjon élite. ([Value1]/[Value2])
+31105,Vaincre des monstres dans les Ruines elfiques 1,Tuez <RedBold>[Value]</> monstres ([Value1]/[Value2]) dans les Ruines elfiques 1.
+31106,Obtenir un cœur de monstre,Obtenez <RedBold>[Value]</> cœur(s) de monstre. ([Value1]/[Value2])
+31107,Enregistrer des cœurs de monstre,Enregistrez <RedBold>[Value]</> cœur(s) de monstre. ([Value1]/[Value2])
+31108,Terminez le Gardien du temple,Terminez <RedBold>[Value]</> fois([Value1]/[Value2]) un Gardien du temple.
+31109,Tour de l'insolence,Terminez l'<RedBold>étage [Value]</> de la Tour de l'insolence. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,Terminez l'épisode <RedBold>3-5</>.
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Fosse d'extraction,Extrayez des herbes <RedBold>[Value2]</> fois dans la fosse d'extraction. ([Value1]/[Value2])
+31117,Préparation d'élixir,Préparez <RedBold>[Value]</> Élixir(s). ([Value1]/[Value2])
+31118,Améliorer un Cristal d'âme,Améliorez un cristal d'âme <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31119,@31001,Terminez l'épisode <RedBold>4-4</>.
+31120,Atteindre un niveau,<RedBold>Réussissez le</> niveau 31. ([Value1]/[Value2])
+31121,Transfert de classe terminé,Effectuez un <RedBold>transfert de classe</>.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Donjon quotidien terminé,Terminez le donjon quotidien <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Vaincre les monstres dans le Nid de fourmis 1,Vainquez <RedBold>[Value]</> monstres ([Value1]/[Value2]) dans le Nid de fourmis 1
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Chambre forte d'Adena,Terminez la chambre forte d'Adena <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,Atteignez le niv. <RedBold>50</>. ([Value1]/[Value2])
+31302,Terminez le Cercle d'invocation,Terminez le Cercle d'invocation <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31303,Équipement de monture,<RedBold>Équipez</> une monture. ([Value1]/[Value2])
+31304,Développer l'équipement de monture,Essayez de développer de l'<RedBold>équipement de monture [Value]</> fois. ([Value1]/[Value2])
+31305,Utiliser des Pierres d'évolution,Utilisez une Pierre d'évolution <RedBold>[Value]</> fois sur une monture. ([Value1]/[Value2])
+31306,Perfectionner l'équipement de monture,Perfectionnez l'équipement de monture <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31307,Atteindre l'objectif de niveau de monture,Atteignez le <RedBold>niv. [Value]</> de monture. ([Value1]/[Value2])
+31308,Améliorer une monture,Améliorez une monture <RedBold>[Value]</> fois. ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Obtenir de l'équipement de monture,Obtenez <RedBold>[Value]</> équipement(s) de monture de qualité A ou supérieure. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,Obtenez <RedBold>[Value]</> équipement(s) de monture de qualité S ou supérieure. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,Obtenez <RedBold>[Value]</> équipement(s) de monture de qualité R ou supérieure. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,Épreuves d'expérience,Terminez Épreuves d'expérience <RedBold>[Value]</> fois. ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,Birlik Kristali,Seviye: [CrystalLevel],"Tüm Klan üyelerine güçlendirme sağlayan
+mistik bir kristal."
+2,Görev Sorumlusu,Devam Eden Görevler: [ProgressQuestCount]. Tamamlanmış Görevler: [CompleteQuestCount].,"Çok kolay görevlerden imkansız görevlere kadar!
+Sorumlu benim. Sana yardımcı olmak için buradayım."
+3,Ziyafet Sorumlusu,Küçük Ziyafet: [SmallDinnerActivity]. Orta Ziyafet: [MiddleDinnerActivity]. Büyük Ziyafet: [BigDinnerActivity].,"Ne kadar fazla o kadar iyi!
+Şefe tüm iltifatlarımı ilet lütfen."
+4,Yadigar Sorumlusu,Değerlendirilen Yadigarlar: [ProgressArtifactCount] / Tamamlanmış: [CompleteArtifactCount],"Yadigarlarına değer biçmeme izin ver.
+Sana onların gerçek değerini söyleyeceğim."
+5,Yenileyici Sorumlusu,Üretilebilir kişisel yenileyiciler: [PotionAvaliableCount],"İstediğin zaman kullanabileceğin
+yenileyiciler üretebilirsin."
+6,Şömine,Çıra Miktarı: [WoodCount] / Şömine Durumu: [FirePlaceActivity],"Şöminenin ateşi yakıldığında
+tüm Klan üyeleri TP kazanır."
+7,Peri Yakala,Güncelleme yakında gelecek.,"Yaramaz periler etrafı dağıtıyor!
+Ödül için onları yakala."

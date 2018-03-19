@@ -1,0 +1,136 @@
+Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
+1,Île du discours de l'Est,Reconnaissance – {ReplaceString1},Île du discours de l'Est,Vainc. {ReplaceString2} mons.,Tuez {TaskCount} monstre(s) sur l'Île du discours de l'Est.
+2,Île du discours de l'Ouest,@1,Île du discours de l'Ouest,@1,Tuez {TaskCount} monstre(s) sur l'Île du discours de l'Ouest.
+3,Grand chemin de Gludin,@1,Grand chemin de Gludin,@1,Tuez {TaskCount} monstre(s) sur le Grand chemin de Gludin.
+4,Plaines de Gludio,@1,Plaines de Gludio,@1,Tuez {TaskCount} monstre(s) dans les Plaines de Gludio.
+5,Manoir de Windawood,@1,Manoir de Windawood,@1,Tuez {TaskCount} monstre(s) dans le Manoir de Windawood.
+6,Terres désolées,@1,Terres désolées,@1,Tuez {TaskCount} monstre(s) sur les Terres désolées.
+7,Plaines de Dion,@1,Plaines de Dion,@1,Tuez {TaskCount} monstre(s) dans les Plaines de Dion.
+8,Marais de Cruma,@1,Marais de Cruma,@1,Tuez {TaskCount} monstre(s) au Marais de Cruma.
+9,Sommet de la dissonance,@1,Sommet de la dissonance,@1,Tuez {TaskCount} monstre(s) au Sommet de la dissonance.
+10,Terres de clameur,@1,Terres de clameur,@1,Tuez {TaskCount} monstre(s) sur les Terres de clameur.
+11,Domaine de Giran,@1,Domaine de Giran,@1,Tuez {TaskCount} monstre(s) au Domaine de Giran.
+12,Rivages de brume mortelle,@1,Rivages de brume mortelle,@1,Tuez {TaskCount} monstre(s) sur les Rivages de brume mortelle.
+13,Île du diable,@1,Île du diable,@1,Tuez {TaskCount} monstre(s) sur l'Île du diable.
+14,@13,@1,@13,@1,@13
+15,Nécropole hantée,@1,Nécropole hantée,@1,Tuez {TaskCount} monstre(s) à la Nécropole hantée.
+16,@15,@1,@15,@1,@15
+101,Ruines elfiques 1,Pillage auto. – {ReplaceString1},Ruines elfiques 1,@1,Tuez {TaskCount} monstre(s) aux Ruines elfiques 1.
+102,Ruines elfiques 2,@101,Ruines elfiques 2,@1,Tuez {TaskCount} monstre(s) aux Ruines elfiques 2.
+103,Nid de fourmis 1,@101,Nid de fourmis 1,@1,Tuez {TaskCount} monstre(s) au Nid de fourmis 1.
+104,Nid de fourmis 2,@101,Nid de fourmis 2,@1,Tuez {TaskCount} monstre(s) au Nid de fourmis 2.
+105,Tour de Cruma 2,@101,Tour de Cruma 2,@1,Tuez {TaskCount} monstre(s) à la Tour de Cruma 2.
+106,Tour de Cruma 3,@101,Tour de Cruma 3,@1,Tuez {TaskCount} monstre(s) à la Tour de Cruma 3.
+107,Tour d'ivoire 1,@101,Tour d'ivoire 1,@1,Tuez {TaskCount} monstre(s) à la Tour d'ivoire 1.
+108,@107,@101,@107,@1,@107
+109,Tour d'ivoire 2,@101,Tour d'ivoire 2,@1,Tuez {TaskCount} monstre(s) à la Tour d'ivoire 2.
+110,@109,@101,@109,@1,@109
+111,Tour d'ivoire 3,@101,Tour d'ivoire 3,@1,Tuez {TaskCount} monstre(s) à la Tour d'ivoire 3.
+112,@111,@101,@111,@1,@111
+201,Sanctuaire des souvenirs oubliés,Exploration – {ReplaceString1},Donjon quotidien,@1,Tuez {TaskCount} monstre(s) dans le donjon quotidien.
+202,@201,@201,@201,@1,@201
+203,Donjon d'extraction,@201,Donjon d'extraction,@1,Tuez {TaskCount} monstre(s) dans le donjon d'extraction.
+204,@203,@201,@203,@1,@203
+205,Temple de l'eau,Protège {ReplaceString1},Gardien du temple,@1,Tuez  {TaskCount} monstre(s) dans le Gardien du temple.
+206,@205,@205,@205,@1,@205
+207,Coffre-fort de Kresous,Secousses – {ReplaceString1},Donjon d'Adena,@1,Tuez {TaskCount} monstre(s) dans le donjon d'Adena.
+208,@207,@207,@207,@1,@207
+209,Faille des Enfers,Conquête – {ReplaceString1},Épreuves d'expérience,@1,Tuez {TaskCount} monstre(s) dans les Épreuves d'expérience.
+210,@209,@209,@209,@1,@209
+211,Entrée scellée,@201,Cercle d'invocation,@1,Tuez {TaskCount} monstre(s) dans des cercles d'invocation.
+212,@211,@201,@211,@1,@211
+301,Pierre d'invocation maléfique (rare),Purifier {ReplaceString1},Pierre d'invocation de monstre rare,@1,Tuez {TaskCount} monstre(s) dans le donjon en utilisant une Pierre d'invocation de monstre rare.
+302,@301,@301,@301,@1,@301
+303,Pierre d'invocation maléfique (boss),@301,Pierre d'invocation de boss,@1,Tuez {TaskCount} monstre(s) dans le donjon en utilisant une Pierre d'invocation de boss.
+351,,Boucher,,AJ,Assassinez un autre joueur {TaskCount} fois.
+352,,@351,,@351,@351
+401,Berger des esprits,Vaincre : {ReplaceString1},@2,Vainc. {ReplaceString2} boss,Tuez le Berger des esprits de l'Île du discours de l'Ouest {TaskCount} fois.
+402,Zodiaque,@401,@3,@401,Tuez Zodiaque du Grand chemin de Gludin {TaskCount} fois.
+403,Barbe grise,@401,@4,@401,Tuez Barbe grise des Plaines de Gludio {TaskCount} fois.
+404,Vapar,@401,@5,@401,Tuez Vapar du Manoir de Windawood {TaskCount} fois.
+405,Kazir,@401,@6,@401,Tuez Kazir des Terres désolées {TaskCount} fois.
+406,Flagon,@401,@7,@401,"Tuez Flagon, le boss des Plaines de Dion {TaskCount} fois."
+407,Sina,@401,@8,@401,Tuez Sina du Marais de Cruma {TaskCount} fois.
+408,Amadeus,@401,@9,@401,Tuez Amadeus du Sommet de la dissonance {TaskCount} fois.
+409,Stenoa,@401,@11,@401,Tuez Stenoa du Domaine de Giran {TaskCount} fois.
+1001,,Journées chargées,Quêtes quotidiennes,Réal. {ReplaceString2},Terminez une quête quotidienne {TaskCount} fois.
+1002,,Semaines chargées,Quêtes hebdo.,@1001,Terminez une quête hebdomadaire {TaskCount} fois.
+1011,,Approvisionner Adena en parchemins,C,Terminez Parch. de quête qualité {ReplaceString2} ou sup.,Terminez Parch. de quête qualité C ou sup. {TaskCount} fois.
+1012,,@1011,B,@1011,Terminez Parch. de quête qualité B ou sup. {TaskCount} fois.
+1013,,@1011,A,@1011,Terminez Parch. de quête qualité A ou sup. {TaskCount} fois.
+1014,,@1011,S,@1011,Terminez Parch. de quête qualité S ou sup. {TaskCount} fois.
+1031,,Encore et encore,,Réaliser un combo,Réalisez {TaskCount} combo(s) avec des attaques successives.
+1032,,Frappe surpuissante,,Dég. max. en 1 frappe.,Infligez au minimum {TaskCount} 000 000 de dégâts en une seule frappe.
+1101,Monstre,Boucher – {ReplaceString1},Monstre normal,Vaincre : {ReplaceString2},Tuez {TaskCount} monstre(s).
+1102,Monstre élite,@1101,Monstre élite,@1101,Tuez {TaskCount} monstre(s) élite(s).
+1103,Boss,@1101,Boss,@1101,Tuez {TaskCount} boss.
+1104,,Amitié secrète de transfert de classe,Kyrios,@1101,Tuez Kyrios {TaskCount} fois.
+1105,,Factionnaire du jardin,Factionnaire du jardin,@1101,Tuez le factionnaire du jardin dans le donjon d'extraction {TaskCount} fois.
+1106,@203,{ReplaceString1} Mania,Mandragore,@1101,Tuez Mandagora {TaskCount} fois dans le donjon d'extraction.
+1107,Bronze,Donjon d'extraction – {ReplaceString1},Blaireau robuste vert,@1101,Tuez le blaireau robuste vert dans le donjon d'extraction {TaskCount} fois.
+1108,Argent,@1107,Blaireau robuste argenté,@1101,Tuez le blaireau robuste argenté dans le donjon d'extraction {TaskCount} fois.
+1109,Or,@1107,Blaireau robuste doré,@1101,Tuez le blaireau robuste doré dans le donjon d'extraction {TaskCount} fois.
+1151,Vaincre Varkaron,Se préparer pour : {ReplaceString1},Monstre du donjon de clan (Varkaron),@1101,Tuez {TaskCount} monstre(s) dans le donjon de clan (Varkaron).
+1152,Vaincre la Reine fourmi,@1151,Monstre du donjon de clan (Reine fourmi),@1101,Tuez {TaskCount} monstre(s) dans le donjon de clan (Reine fourmi).
+1153,Vaincre le Cœur de Cruma,@1151,Monstre du donjon de clan (Cœur de Cruma),@1101,Tuez {TaskCount} monstre(s) dans le donjon de clan (Cœur de Cruma).
+1201,Arène,Tour de {ReplaceString1},,Participer d. Arène,Participez {TaskCount} fois dans l'Arène.
+1202,@1201,@209,,Gagner dans l'Arène,Gagnez dans l'Arène {TaskCount} fois.
+1203,@1201,{ReplaceString1} série de victoires,,Gagn. cons. d. Arène,Gagnez {TaskCondition} matchs consécutifs dans l'Arène.
+1301,Donjon quotidien,@209,Difficile ou supérieur,Finir donj. quot. ({ReplaceString2}),Terminez le donjon quotidien (difficile ou supérieur) {TaskCount} fois.
+1303,,Vers le ciel,,Pillage auto. Tour insol.,Effectuez un pillage auto. de la Tour de l'insolence {TaskCount} fois.
+1304,,Roi des Herbes,,Cueill. herb. donj. extr.,Rassemblez {TaskCount} Herbe(s) dans le donjon d'extraction.
+1306,@207,Maître en {ReplaceString1},@1301,Finir donj. Adena ({ReplaceString2}) avec SS ou +,"Terminez le donjon d'Adena (difficile) {TaskCount} fois
+avec SS ou plus."
+1307,@207,@1106,,Acc. combo donj. Adena,Effectuez {TaskCondition} combos dans le donjon d'Adena.
+1308,@209,@209,@1301,Terminez les Épreuves d'expérience ({ReplaceString2}) avec SSS ou plus,"Terminez les Épreuves d'expérience (Difficile ou supérieur)
+{TaskCount} fois avec SSS."
+1401,Seigneur ténébreux,@401,Varkaron (facile),@1101,Tuez le Vestige de Varkaron (facile) {TaskCount} fois.
+1402,@1401,@401,Varkaron (Normal),@1101,Tuez le Vestige de Varkaron (normal) {TaskCount} fois.
+1403,@1401,@401,Varkaron (difficile),@1101,Tuez le Vestige de Varkaron (difficile) {TaskCount} fois.
+1411,Marraine de la colonie,@401,Reine fourmi (facile),@1101,Tuez la Grotte de la Reine fourmi (facile) {TaskCount} fois.
+1412,@1411,@401,Reine fourmi (normal),@1101,Tuez la Grotte de la Reine fourmi (normal) {TaskCount} fois.
+1413,@1411,@401,Reine fourmi (difficile),@1101,Tuez la Grotte de la Reine fourmi (difficile) {TaskCount} fois.
+1421,Contrôleur mental,@401,Cœur de Cruma (facile),@1101,Tuez la Salle du Cœur de Cruma (facile) {TaskCount} fois.
+1422,@1421,@401,Cœur de Cruma (normal),@1101,Tuez la Salle du Cœur de Cruma (normal) {TaskCount} fois.
+1423,@1421,@401,Cœur de Cruma (difficile),@1101,Tuez la Salle du Cœur de Cruma (difficile) {TaskCount} fois.
+1501,,J'aime le marquage de rune,,Tenter marquage rune,Tentez un marquage de rune {TaskCount} fois.
+1502,,Rien de mieux que le marquage de rune,,Réuss. marquage rune,Réussissez le marquage de rune {TaskCount} fois.
+1511,,Rien de mieux que les élixirs,,Préparer élixir,Préparez {TaskCount} élixir(s).
+1521,,Avare,Adena,Obt. : {ReplaceString2},Obtenez {TaskCount} Adena.
+1522,Clans,Pour {ReplaceString1},Preuve de sang,@1521,Obtenez {TaskCount} Preuve(s) de sang.
+1523,Donjon de clan,@1522,Météorite rouge,@1521,Obtenez {TaskCount} Pierre(s) d'étoile rouge(s).
+1524,Cœur de monstre,@1106,Cœur de monstre,@1521,Obtenez {TaskCount} cœur(s) de monstre.
+1525,Cristal d'âme,@1106,Cristal d'âme,@1521,Obtenez {TaskCount} cristal(aux) d'âme.
+1527,C,Folie d'objets de qualité {ReplaceString1},@1011,Obtenez obj. qual. {ReplaceString2},Obtenez {TaskCount} obj. qual. C.
+1528,B,@1527,@1012,@1527,Obtenez {TaskCount} obj. qual. B.
+1529,A,@1527,@1013,@1527,Obtenez {TaskCount} obj. qual. A.
+1530,Très haute qualité,Folie d'objets {ReplaceString1},@1014,Obt. obj. qual. {ReplaceString2} ou +,Obtenez {TaskCount} obj. qual. S ou sup.
+1551,Équipement,@1106,Équipement,Obt. obj. {ReplaceString2},Obtenez {TaskCount} objet(s) d'équipement.
+1552,Équip.,@1106,Équip.,@1551,Obtenez {TaskCount} objets d'équipement de monture.
+1601,,Bases du renforcement d'équipement,@1551,Tenter développ. {ReplaceString2},Tentez de développer de l'équipement au moins {TaskCount} fois.
+1602,,L'importance de l'équipement de monture,@1552,@1601,Tentez de développer de l'équipement de monture au moins {TaskCount} fois.
+1603,,Renforcer l'équipement,Améliorer,Tenter {ReplaceString2} sur équip.,Tentez d'améliorer de l'équipement {TaskCount} fois.
+1604,,Pour l'équipement souhaité,Fusionner,@1603,Tentez de fusionner de l'équipement au moins {TaskCount} fois.
+1605,,Un geste ferme pour améliorer,Perfectionner,@1603,Tentez de perfectionner de l'équipement au moins {TaskCount} fois.
+1606,,Garder la tête froide pour améliorer,Réussir un perfectionnement d'équipement,{ReplaceString2},Réussissez à perfectionner de l'équipement au moins {TaskCount} fois.
+1607,,Le perfectionnement d'attribut avant tout,Perfec. attribut,@1603,Tentez de perfectionner des attributs {TaskCount} fois.
+1608,,"Les stats extra, c'est extra",Modifier ,@1603,Tentez de modifier les stats extra {TaskCount} fois.
+1609,,Aucune limite,Revalorisation,@1603,Tentez de revaloriser de l'équipement {TaskCount} fois.
+1801,,"Plus fort, plus vite",Trait d'âme,Util. {ReplaceString2},Utilisez {TaskCount} Trait(s) d'âme.
+1802,Santé,@1522,Potion de PV,@1801,Utilisez {TaskCount} Potion(s) de PV.
+1803,@1802,@1522,Potion de PM,@1801,Utilisez {TaskCount} Potion(s) de PM.
+1804,Le monde d'Aden,La croissance de {ReplaceString1},@1521,@1801,Utilisez {TaskCount} Adena.
+1805,@1804,La progression de {ReplaceString1},Diamant rouge,@1801,Utilisez {TaskCount} Diamant(s) rouge(s).
+1806,@1804,La gloire de {ReplaceString1},Diamant bleu,@1801,Utilisez {TaskCount} Diamant(s) bleu(s).
+1807,,Savoir prendre des risques pour améliorer,@1605,@1603,Tentez de perfectionner de l'équipement {TaskCount} fois.
+1901,@1522,@1522,,Obt. pt contri. clan,Obtenez {TaskCount} point(s) de contribution au clan.
+1902,,Membre poli du clan,,Saluer memb. du clan,Saluez les membres du clan {TaskCount} fois.
+1903,,Grand donneur,,Don de clan,Donnez au clan {TaskCount} fois.
+1904,@1522,@1804,@1521,Donner au clan : {ReplaceString2},Donnez {TaskCount} Adena au clan.
+1905,@1522,@1805,@1522,@1904,Donnez {TaskCount} Preuve(s) de sang au clan.
+1906,@1522,@1806,@1523,@1904,Donnez {TaskCount} Pierre(s) d'étoile rouge(s) au clan.
+9015,,Un petit quelque chose,Petit Festin,Préparation de {ReplaceString2} dans la Salle du clan,Préparez {TaskCount} petit(s) festin(s) dans la Salle du clan.
+9016,,Talents de cuistot,Festin moyen,@9015,Préparez {TaskCount} festin(s) moyen(s) dans la Salle du clan.
+9017,,Chef étoilé,Grand Festin,@9015,Préparez {TaskCount} grand(s) festin(s) dans la Salle du clan.
+9018,,Charité bien ordonnée,,Préparation de potions individuelles dans la Salle du clan,Préparez {TaskCount} potions individuelles dans la Salle du clan.
+9019,,Une bonne dose de reliques,,Évaluation de relique dans la Salle du clan,Évaluez {TaskCount} reliques dans la Salle du clan.

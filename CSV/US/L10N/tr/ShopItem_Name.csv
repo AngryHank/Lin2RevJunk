@@ -1,0 +1,823 @@
+Id,Name,Desc,Desc2
+1001,20.000 Adena,20.000 Adena kazan.,
+1002,42.000 Adena,40.000 + 2.000 bonus Adena kazan.,
+1003,88.000 Adena,80.000 + 8.000 bonus Adena kazan.,
+1004,184.000 Adena,160.000 + 24.000 bonus Adena kazan.,
+1005,384.000 Adena,320.000 + 64.000 bonus Adena kazan.,
+1006,800.000 Adena,640.000 + 160.000 bonus Adena kazan.,
+3001,1 Özel Ekipman Sandığı,"(S - SR) ekipman kazan!
+Nadir Ekipman alınabilir!",
+3002,Kutsal Parşömen: Silah,"Kutsal Parşömen: Silah
+Bir silahı 1 - 3 seviye güçlendirir.",
+3003,Kutsal Parşömen: Zırh,"Kutsal Parşömen: Zırh
+Bir zırhı 1 - 3 seviye güçlendirir.",
+3004,Kutsal Parşömen: Aksesuar,"Kutsal Parşömen: Aksesuar
+Bir aksesuarı 1 - 3 seviye güçlendirir.",
+3005,Maphr’in Koruması,Güçlendirme başarısız olduğunda güçlendirme seviyesi kaybetmeden korur.,
+3006,Derece SR Limit Kırma Taşı,Derece SR bir ekipmanın limitini kırmak için kullanılır.,
+3007,Derece S Ek Özellik Taşı,Bir ekipman parçasının ek-özelliğini güçlendirmede kullan.,
+3008,Derece R Ek Özellik Taşı,@3007,
+3009,Derece SR Ek Özellik Taşı,@3007,
+3011,1 Özel Aksesuar Sandığı,Bir (A - SR) aksesuar al!,
+4001,20 Can Yenileyici,Küçük miktarda Can yenilemek için kullan.,
+4002,%10 indirim! 200 Can Yenileyici,@4001,
+4005,20 Mana Yenileyici,Küçük miktarda Mana yenilemek için kullan.,
+4006,%10 indirim! 200 Mana Yenileyici,@4005,
+4009,500 Güç Şerbeti,Silahı kutsayarak ruhani bir ışıkla hasarını artırır.,
+4010,%10 indirim! 5.000 Güç Şerbeti,@4009,
+4013,1 Megafon,Dünya sohbetine mesaj göndermek için kullanılan bir eşya.,
+4014,10 Megafon,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Pişmanlık Simgesi,"Kaotik Değeri 30 düşürmek için kullan.
+Pişmanlık Simgesi her gün sadece 3 kez kullanılabilir.",
+4101,50 Kaçış Parşömeni,Işınlanmayı kullan.,
+4105,Gecenin Havai Fişekleri,Geceleri ve hatta gündüz bile gökyüzünü aydınlatabilen havai fişekler.,
+4106,Ay Işığı Havai Fişekleri,Gök yüzünde yıldızlar gibi parlayan havai fişekler.,
+4107,Zenginlik Havai Fişekleri,Zenginlik özlemini simgeleyen havai fişekler.,
+4108,Aşk Havai Fişekleri,Tekliflerin kabul edilmesini sağlayan özel havai fişekler.,
+5002,1 Yüksek Dereceli Ekipman,"(A - SR) ekipman kazan!
+Nadir Ekipman alınabilir!",
+5003,10 Yüksek Dereceli Ekipman (+1 bonus),"(A - SR) ekipman kazan!
+En az 1x Derece S veya üzeri ekipman garanti!
+Nadir Ekipman alınabilir!",
+5014,@5002,"(A - SR) ekipman kazan!
+Nadir Ekipman ve Takas Edilebilen Ekipman alınabilir!",
+5015,@5003,"(A - SR) ekipman kazan!
+En az 1x Derece S veya üzeri ekipman garanti!
+Nadir Ekipman ve Takas Edilebilen Ekipman alınabilir!",
+5101,1 Silah Güçlendirme Sandığı,"(A - SR) silahlar ve Silah Seviye Seti alınabilir!
+Nadir Ekipman Düşürme Oranı arttı!
+Nadir Ekipman alınırken yalnızca Silah elde edilebilir.",
+5102,10 Silah Güçlendirme Sandığı (+1 bonus),@5101,
+5103,@5101,"(Derece A - Derece SR) Silahlar ve Silah Seviye Setleri mümkün!
+Simya Parşömeni - Kutsal Parşömen: Silah/Zırh/Aksesuar mümkün!",
+5104,@5102,"(Derece A - Derece SR) Silahlar ve Silah Seviye Setleri mümkün!
+Simya Parşömeni - Kutsal Parşömen: Silah/Zırh/Aksesuar mümkün!
+Derece S Kırmızı Silah garantisi için 7 kez satın al!",
+5201,1 Zırh Güçlendirme Sandığı,"(A-SR) Zırh ve Zırh Seviye Seti!
+Nadir Ekipman Düşürme Oranı arttı!
+Nadir ekipman olarak yalnızca Zırh alınabilir",
+5202,10 Zırh Güçlendirme Sandığı (+1 bonus),@5201,
+5301,10 Özel Malzeme Sandığı (+1 bonus),"Kutsal Parşömen, Maphr'in Koruması, Pelerin İpliği,
+Delilik Parçası, Trisha'nın Gözyaşları ve Ruh Kristali gibi Kuvvetlendirme malzemeleri
+mevcut!",
+10001,10 Can Yenileyici,@4001,
+10002,10 Mana Yenileyici,@4005,
+10003,250 Güç Şerbeti,@4009,
+10017,1 Ekipman Sandığı,A-derece ekipmana kadar alınabilir!,
+10020,Pişmanlık Simgesi,"Bir karakterin Kaotik Değerini düşürür.
+Her kullanımda Kaotik Değeri 3 azaltır ve günde 3 kez kullanılabilir.",
+10029,100 Kırmızı Yıldıztaşı,Klan Zindanı’nı sıfırlamak için kullan.,
+13000,(Svy. 20) Görev Parşömeni - Derece C,Bir (C Derece Yan Görev)’e katılmak için kullan.,
+13001,(Svy. 30) Görev Parşömeni - Derece C,@13000,
+13002,(Svy. 40) Görev Parşömeni - Derece C,@13000,
+13003,(Svy. 50) Görev Parşömeni - Derece C,@13000,
+13004,(Svy. 60) Görev Parşömeni - Derece C,@13000,
+13005,(Svy. 75) Görev Parşömeni - Derece C,@13000,
+13006,(Svy. 90) Görev Parşömeni - Derece C,@13000,
+13007,(Svy. 105) Görev Parşömeni - Derece C,@13000,
+13008,(Svy. 120) Görev Parşömeni - Derece C,@13000,
+13009,(Svy. 135) Görev Parşömeni - Derece C,@13000,
+13010,(Svy. 150) Görev Parşömeni - Derece C,@13000,
+13011,(Svy. 165) Görev Parşömeni - Derece C,@13000,
+13100,(Svy. 20) Görev Parşömeni - Derece A,Bir (A Derece Yan Görev)’e katılmak için kullan.,
+13101,(Svy. 30) Görev Parşömeni - Derece A,@13100,
+13102,(Svy. 40) Görev Parşömeni - Derece A,@13100,
+13103,(Svy. 50) Görev Parşömeni - Derece A,@13100,
+13104,(Svy. 60) Görev Parşömeni - Derece A,@13100,
+13105,(Svy. 75) Görev Parşömeni - Derece A,@13100,
+13106,(Svy. 90) Görev Parşömeni - Derece A,@13100,
+13107,(Svy. 105) Görev Parşömeni - Derece A,@13100,
+13108,(Svy. 120) Görev Parşömeni - Derece A,@13100,
+13109,(Svy. 135) Görev Parşömeni - Derece A,@13100,
+13110,(Svy. 150) Görev Parşömeni - Derece A,@13100,
+13111,(Svy. 165) Görev Parşömeni - Derece A,@13100,
+13200,(Svy. 20) Görev Parşömeni - Derece S,Bir (S Derece Yan Görev)’e katılmak için kullan.,
+13201,(Svy. 30) Görev Parşömeni - Derece S,@13200,
+13202,(Svy. 40) Görev Parşömeni - Derece S,@13200,
+13203,(Svy. 50) Görev Parşömeni - Derece S,@13200,
+13204,(Svy. 60) Görev Parşömeni - Derece S,@13200,
+13205,(Svy. 75) Görev Parşömeni - Derece S,@13200,
+13206,(Svy. 90) Görev Parşömeni - Derece S,@13200,
+13207,(Svy. 105) Görev Parşömeni - Derece S,@13200,
+13208,(Svy. 120) Görev Parşömeni - Derece S,@13200,
+13209,(Svy. 135) Görev Parşömeni - Derece S,@13200,
+13210,(Svy. 150) Görev Parşömeni - Derece S,@13200,
+13211,(Svy. 165) Görev Parşömeni - Derece S,@13200,
+30001000,60 + 60 Elmas,"60 Mavi Elmas
+60 Kırmızı Elmas",
+30001010,Sadece tek sefer! 90 + 90 Elmas,"90 Mavi Elmas
+90 Kırmızı Elmas
+2 Topaz",
+30001020,Sadece tek sefer! 160 + 160 Elmas,"160 Mavi Elmas
+160 Kırmızı Elmas
+4 Topaz",
+30001030,Sadece tek sefer! 340 + 340 Elmas,"340 Mavi Elmas
+340 Kırmızı Elmas
+8 Topaz",
+30001040,80 + 80 Elmas,"80 Mavi Elmas
+80 Kırmızı Elmas",
+30001050,700 Elmas (%20),"700 Mavi Elmas
+16 Topaz",
+30001060,1.080 Elmas (%20),"1.080 Mavi Elmas
+25 Topaz",
+30001070,1.900 Elmas (%10),"1.900 Mavi Elmas
+45 Topaz",
+30001080,1.900 Elmas (%20),@30001070,
+30001090,4.000 Elmas (%10),"4.000 Mavi Elmas
+100 Topaz",
+30001100,4.000 Elmas (%20),@30001090,
+30001110,4.000 Elmas (%30),@30001090,
+30001120,4.000 + 2.000 Elmas,"4.000 Mavi Elmas
+2.000 Kırmızı Elmas",
+30001130,1.080 + 540 Elmas,"1.080 Mavi Elmas
+540 Kırmızı Elmas",
+30001140,1.080 + 108 Elmas,"1.080 Mavi Elmas
+108 Kırmızı Elmas",
+30001150,1.080 + 216 Elmas,"1.080 Mavi Elmas
+216 Kırmızı Elmas",
+30001160,1.900 + 190 Elmas,"1.900 Mavi Elmas
+190 Kırmızı Elmas",
+30001170,1.900 + 380 Elmas,"1.900 Mavi Elmas
+380 Kırmızı Elmas",
+30001180,4.000 + 400 Elmas,"4.000 Mavi Elmas
+400 Kırmızı Elmas",
+30001190,4.000 + 800 Elmas,"4.000 Mavi Elmas
+800 Kırmızı Elmas",
+30001200,Sadece tek sefer! 30 + 60 Elmas,"30 Mavi Elmas
+60 Kırmızı Elmas
+1 Topaz",
+30002000,90 Elmas,"90 Mavi Elmas
+2 Topaz",
+30002010,160 Elmas,"160 Mavi Elmas
+4 + 8 Topaz",
+30002020,340 Elmas,"340 Mavi Elmas
+8 + 16 Topaz",
+30002030,700 Elmas,"700 Mavi Elmas
+16 + 32 Topaz",
+30002040,1080 Elmas,"1080 Mavi Elmas
+25 + 50 Topaz",
+30002050,1900 Elmas,"1900 Mavi Elmas
+45 + 90 Topaz",
+30002060,4000 Elmas,"4000 Mavi Elmas
+100 + 200 Topaz",
+30002070,60 Elmas,"60 Mavi Elmas
+1 Topaz",
+30002080,@30002010,"160 Mavi Elmas
+4 Topaz",
+30002090,@30002020,"340 Mavi Elmas
+8 Topaz",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Günlük Elmas I (28 Gün),"Anında 1.200 Kırmızı Elmas kazan!
+Her gün 120 Kırmızı Elmas!
+Her 8 günlük koleksiyondan sonra +10 Topaz!",Toplam 4.560 Kırmızı Elmas!
+30003100,Günlük Adena I (28 Gün),"Anında 50.000 Adena!
+Her gün 10.000 Adena!
+Her 8 koleksiyon için +40 Kırmızı Elmas!",Toplam 330.000 Adena!
+30003101,Günlük Adena II (28 Gün),"Anında 160.000 Adena!
+Günlük 30.000 Adena!
+Her 8 günlük koleksiyon için +80 Kırmızı Elmas!",Toplam 1.000.000 Adena!
+30004000,Derece S Nadir Seçkin Ekipman Sandığı,1 adet Derece S Nadir Seçkin Ekipman Sandığı elde et.,
+30004001,Yüksek Sınıf Aksesuar Sandığı,1 adet Yüksek Sınıf Aksesuar Sandığı elde et.,
+30004002,SR Limit Kırma Taşı,1 adet Derece SR Limit Kırma Taşı elde et.,
+30004003,R Ek Özellik Taşı,1 adet Derece R Ek Özellik Taşı elde et.,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Rastgele Kutsal Parşömen Sandığı,Bir adet rastgele Kutsal Parşömen elde etmek için kullan.,
+30004008,3x Rastgele Kutsal Parşömen Sandığı,@30004007,
+30004100,Gümüş Aziz Savaş Borusu,1 Gümüş Aziz Savaş Borusu elde et.,
+30004101,Kukarin Savaş Borusu,1 Kukarin Savaş Borusu elde et.,
+30004102,10 Limit Kırma Enerjisi,10 Limit Kırma Enerjisi elde et.,
+30004103,10 Ek Özellik Enerjisi,10 Ek Özellik Enerjisi elde et.,
+30004104,Simya Parşömeni - Derece S Ek Özellik Taşı,1 Simya Parşömeni - Derece S Ek Özellik Taşı elde et.,
+30004105,Simya Parşömeni - Derece R Ek Özellik Taşı,1 Simya Parşömeni - Derece R Ek Özellik Taşı elde et.,
+30004106,Simya Parşömeni - Derece SR Ek Özellik Taşı,1 Simya Parşömeni - Derece SR Ek Özellik Taşı elde et.,
+30004107,Simya Parşömeni - Derece SR Limit Kırma Taşı,1 Simya Parşömeni - Derece SR Limit Kırma Taşı elde et.,
+30004108,Simya Parşömeni - Kutsal Parşömen: Silah,1 Simya Parşömeni - Kutsal Parşömen: Silah elde et.,
+30004109,Simya Parşömeni - Kutsama Parşömeni: Zırh,1 Simya Parşömeni - Kutsal Parşömen: Zırh elde et.,
+30004110,Simya Parşömeni - Kutsama Parşömeni: Aksesuar,1 Simya Parşömeni - Kutsal Parşömen: Aksesuar elde et.,
+30004111,200 Siyah Ayı Çağırma Taşı Parçası,Siyah Ayı Çağırma Taşı üretmek için bağlama yap.,
+30004112,150 Gümüş Aziz Çağırma Taşı Parçası,Gümüş Aziz Çağırma Taşı üretmek için bağlama yap.,
+30004113,100 Kukarin Çağırma Taşı Parçası,Kukarin Çağırma Taşı üretmek için bağlama yap.,
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Siyah Ayı Çağırma Taşı Parçası,@30004111,
+30004120,5 Gümüş Aziz Çağırma Taşı Parçası,@30004112,
+30004121,5 Kukarin Çağırma Taşı Parçası,@30004113,
+30004122,Simya Parşömeni - Sldr. İksiri Özü,Sldr. İksiri Özü'nün nasıl elde edileceğini gösteren formül. Sldr. İksiri Özü elde etmek için bitkileri bağla.,
+30004123,Simya Parşömeni - Svn. İksiri Özü,Svn. İksiri Özü'nün nasıl elde edileceğini gösteren formül. Svn. İksiri Özü elde etmek için bitkileri bağla.,
+30004124,Simya Parşömeni - Can İksiri Özü,Can İksiri Özü'nün nasıl elde edileceğini gösteren formül. Can İksiri Özü elde etmek için bitkileri bağla.,
+30004125,Simya Parşömeni - Mana İksiri Özü,Mana İksiri Özü'nün nasıl elde edileceğini gösteren formül. Mana İksiri Özü elde etmek için bitkileri bağla.,
+30004126,50 Yükseltme Taşı,Bineği güçlendirmek için Yükseltme Taşı kullan.,
+30004200,Kutsal Parşömen Seçim Sandığı,1 adet Kutsal Parşömen Seçim Sandığı elde et.,
+30004201,3 Geliştirme Taşı Seçim Sandığı,Bir Geliştirme Taşı seçip almak için kullan.,
+30004202,3 Rastgele Geliştirme Taşı Sandığı,Rastgele bir Geliştirme Taşı elde etmek için kullan.,
+30004203,3 İksir Özü Seçim Sandığı,Bir İksir Özü seçip almak için kullan.,
+30004204,3 Rastgele İksir Özü Sandığı,Rastgele bir İksir Özü elde etmek için kullan,
+30004205,@3005,@3005,
+30004206,10 Güçlendirme Parşömeni Seçim Sandığı,Bir Güçlendirme Parşömeni seçip almak için kullan.,
+30004207,10 Rastgele Güçlendirme Parşömeni Sandığı,Bir adet Güçlendirme Parşömeni elde etmek için kullan.,
+30004208,10 Parşömen: Silah Güçlendirme,Silah güçlendirmek ve değerlerini arttırmak için kullan.,
+30004209,10 Parşömen: Zırh Güçlendirme,Zırh güçlendirmek ve değerlerini arttırmak için kullan.,
+30004210,10 Parşömen: Aksesuar Güçlendirme,Aksesuar güçlendirmek ve değerlerini arttırmak için kullan.,
+30004211,3 Can İksiri Özü,Bu öz Can İksiri üretiminde kullanılır.,
+30004212,3 Mana İksiri Özü,Bu öz Mana İksiri üretiminde kullanılır.,
+30004213,3 Sldr. İksiri Özü,Bu öz Sldr. İksiri üretiminde kullanılır.,
+30004214,3 Svn. İksiri Özü,Bu öz Svn. İksiri üretiminde kullanılır.,
+30004215,15 Silah Geliştirme Taşı,Bir silahı bir üst dereceye geliştirmek için kullan.,
+30004216,15 Zırh Geliştirme Taşı,Bir zırhı bir üst dereceye geliştirmek için kullan.,
+30004217,15 Aksesuar Geliştirme Taşı,Bir aksesuarı bir üst dereceye geliştirmek için kullan.,
+30004218,5x Derece S Seviye Seti Seçim Sandığı,Bir S-derece Seviye Seti seçip almak için kullan.,
+30004219,5 Rastgele Geliştirme Taşı Sandığı,@30004202,
+30004220,10 Geliştirme Taşı Seçim Sandığı,@30004201,
+30004221,@30004220,@30004201,
+30004222,5x Derece R Seviye Seti Seçim Sandığı,Bir R-derece Seviye Seti seçip almak için kullan.,
+30004223,5x Derece SR Seviye Seti Seçim Sandığı,Bir SR-derece Seviye Seti seçip almak için kullan.,
+30004224,10 Silah Geliştirme Taşı,@30004215,
+30004225,10 Zırh Geliştirme Taşı,@30004216,
+30004226,10 Aksesuar Geliştirme Taşı,@30004217,
+30004227,5 Güçlendirme Parşömeni Seçim Sandığı,@30004206,
+30004228,5 Parşömen: Silah Güçlendirme,@30004208,
+30004229,5 Parşömen: Zırh Güçlendirme,@30004209,
+30004230,5 Parşömen: Aksesuar Güçlendirme,@30004210,
+30004231,3 Kutsal Parşömen Seçim Sandığı,3 adet Kutsal Parşömen Seçim Sandığı elde et.,
+30004232,3 Kutsal Parşömen: Silah,@3002,
+30004233,3 Kutsal Parşömen: Zırh,@3003,
+30004234,3 Kutsal Parşömen: Aksesuar,@3004,
+30004235,@30004102,@30004102,
+30004236,20 Ek Özellik Enerjisi,20 Ek Özellik Enerjisi elde et.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Siyah Ayı Çağırma Taşı Parçası,@30004111,
+30004241,100 Gümüş Aziz Çağırma Taşı Parçası,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 Derece A Ruh Kristali Seçim Sandığı,Derece A Ruh Kristali Seçim Sandığı elde et.,
+30004301,Derece S Ruh Kristali Seçim Sandığı,Derece S Ruh Kristali Seçim Sandığı elde et.,
+30004302,Derece B-S Şanslı Ruh Kristali Sandığı,1 adet Derece B-S Şanslı Ruh Kristali Sandığı kazan.,
+30004303,Derece A Saldırı Ruh Kristali,"Silah ve eldivenlere ruh hapsedebilirsin.
+Bu şekilde F.Sldr ve B.Sldr’en artar.
+Bu kristalin içinde canavarların ruhları var.",
+30004304,Derece A Savunma Ruh Kristali,"Başlık ve zırhlara ruh hapsedebilirsin.
+Bu şekilde F.Svn ve B.Svn’nen artar.
+Bu kristalin içinde canavarların ruhları var.",
+30004305,Derece A Delme Ruh Kristali,"Yüzüklere ruh hapsedebilirsin.
+Bu kristalin içinde canavarların ruhları var.",
+30004306,Derece A Direnç Ruh Kristali,"Küpelere ruh hapsedebilirsin.
+Bu kristalin içinde canavarların ruhları var.",
+30004307,Derece A İsabet Ruh Kristali,"Çizme ve kolyelere ruh hapsedebilirsin.
+Bu kristalin içinde canavarların ruhları var.",
+30004308,Derece A Kaçınma Ruh Kristali,@30004307,
+30004309,Derece A Kritik Oranı Ruh Kristali,"Silah ve eldivenlere ruh hapsedebilirsin.
+Bu kristalin içinde canavarların ruhları var.",
+30004310,Derece A Kritik Direnci Ruh Kristali,@30004306,
+30004311,Derece A Can Ruh Kristali,"Başlık ve zırhlara ruh hapsedebilirsin.
+Bu kristalin içinde canavarların ruhları var.",
+30004312,3 Derece B Saldırı Ruh Kristali,@30004303,
+30004313,3 Derece B Savunma Ruh Kristali,@30004304,
+30004314,3 Derece B Delme Ruh Kristali,@30004305,
+30004315,3 Derece B Direnç Ruh Kristali,@30004306,
+30004316,3 Derece B İsabet Ruh Kristali,@30004307,
+30004317,3 Derece B Kaçınma Ruh Kristali,@30004307,
+30004318,3 Derece B Kritik Oranı Ruh Kristali,@30004309,
+30004319,3 Derece B Kritik Direnci Ruh Kristali,@30004306,
+30004320,3 Derece B Can Ruh Kristali,@30004311,
+30110000,Mega Başlangıç Paketi,"600 Mavi Elmas
+1.000 Can Yenileyici
+1.000 Mana Yenileyici
+5.000 Güç Şerbeti
+120 Ek Envanter Slotu",
+30110001,Mega Envanter Paketi,"1.500 Mavi Elmas
+1.000 Can Yenileyici
+1.000 Mana Yenileyici
+10.000 Güç Şerbeti
+100 Ek Envanter Slotu",
+30110011,Özel Nadir Yetenek Güçlendirme Paketi,"500.000 Adena
+3x Unutulmuş Parşömen Sayfası Seçim Sandığı
+3x Güçlendirme Parşömeni Paketi
+500 SP
+30 Kaçış Parşömeni",
+30110012,Özel Nadir Yetenek Güçlendirme Paketi (%10),@30110011,
+30110013,Özel Nadir Yetenek Güçlendirme Paketi (%20),@30110011,
+30110014,Nadir Skill Güç Paketi,"250.000 Adena
+2x Unutulmuş Parşömen Sayfası Seçim Sandığı
+5x Rastgele Güçlendirme Parşömeni Sandığı
+3x Küçük SP Sandığı
+20x Kaçış Parşömeni",
+30110015,Acemi Maceracı Paketi,"600 Mavi Elmas
+600 Kırmızı Elmas
+1x S Seçkin Silah Seçim Sandığı
+1.000 Run Parçası",
+30110016,Deneyimli Maceracı Paketi,"2.000 Mavi Elmas
+2.000 Kırmızı Elmas
+1 adet Derece R Ekipman Seçim Sandığı
+10 Geliştirme Taşı Seçim Sandığı
+10 Derece S Bakım Seti Seçim Sandığı",
+30110017,Uzman Maceracı Paketi,"2.000 Mavi Elmas
+2.000 Kırmızı Elmas
+1 adet Derece R Aksesuar Seçim Sandığı
+1 adet Derece R Ek Özellik Taşı",
+30120005,Run İşleme Özel Paketi,"150.000 Adena
+3.000 Run Parçası",
+30120007,SP Paketi,"360 Kırmızı Elmas
+SP Sandığı (500 Puan)",
+30120008,Büyük Sınıf SP Paketi,"1.200 Kırmızı Elmas
+100.000 Adena
+3 SP Sandığı (500 SP)",
+30120009,Aksesuar Çağırma Paketi,"2.500 Kırmızı Elmas
+50 Topaz
+150.000 Adena
+3 Yüksek Sınıf Aksesuar Sandığı",
+30120010,Özel İksir Paketi,"20 İksir Özü Sandığı
+40 Bitki Paketi",
+30120011,Özel Adena Paketi (Sınırlı Sürüm),1.000.000 Adena,
+30120012,Aksesuar Çağırma Paketi (%10),@30120009,
+30120013,Aksesuar Çağırma Paketi (%20),@30120009,
+30120014,Nadir Yetenek Paketi,"300 Kırmızı Elmas
+100.000 Adena
+1 Şanslı Unutulmuş Parşömen Sayfası Sandığı",
+30130000,Düşük Derece Güçlendirme Parşömeni Paketi,"300 Mavi Elmas
+20 Topaz
+3 Güçlendirme Parşömeni Paketi",
+30130001,Yüksek Derece Güçlendirme Parşömeni Paketi,"1.000 Kırmızı Elmas
+50 Topaz
+5 Güçlendirme Parşömeni Paketi
+1 Maphr’in Koruması",
+30130002,Özel Geliştirme Taşı Seçim Sandığı Paketi,"3.000 Kırmızı Elmas
+200,000 Adena
+40 Geliştirme Taşı Seçim Sandığı",
+30130003,Derece A Ekipman Kuvvetlendirme Paketi,"200.000 Adena
+10 Derece A Seviye Seti Seçim Sandığı",
+30130004,Derece S Ekipman Kuvvetlendirme Paketi,"300.000 Adena
+5 Derece S Seviye Seti Seçim Sandığı
+10 Derece A Seviye Seti Seçim Sandığı",
+30130005,Derece R Ekipman Kuvvetlendirme Paketi,"500.000 Adena
+3x Derece R Seviye Seti Seçim Sandığı
+10x Derece S Seviye Seti Seçim Sandığı",
+30130006,Kutsal Parşömen Paketi,"1200 Kırmızı Elmas
+20 Topaz
+5 Kutsal Parşömen Seçim Sandığı
+10 Kutsal Geliştirme Parşömeni",
+30130007,Ruh Kristali Paketi,"1.000 Kırmızı Elmas
+50.000 Adena
+7 A-S Şanslı Ruh Kristali Sandığı",
+30130008,Premium Ruh Kristali Paketi II,"1.000 Kırmızı Elmas
+100.000 Adena
+3 adet Derece S-R Şanslı Ruh Kristali Sandığı",
+30130009,Premium Ruh Kristali Paketi III,"2.000 Kırmızı Elmas
+200,000 Adena
+3 adet Derece S-SR Şanslı Ruh Kristali Sandığı",
+30130010,S Nadir Zırh Sandığı Paketi,"120 Kırmızı Elmas
+1x Derece S Nadir Zırh Sandığı",
+30130011,Kutsal Koruma Paketi,"500 Mavi Elmas
+500 Kırmızı Elmas
+5 Kutsal Parşömen Seçim Sandığı
+5 Maphr’in Koruması",
+30130012,SR Limit Kırma Paketi,"100.000 Adena
+1x Derece SR Limit Kırma Taşı",
+30130013,Yüksek Derece Güçlendirme Parşömeni Paketi %10,@30130001,
+30130014,Özel Geliştirme Taşı Paketi (%10),@30130002,
+30130015,Özel Geliştirme Taşı Paketi (%20),@30130002,
+30130016,Kutsal Parşömen Paketi (%10),@30130006,
+30130017,S Nadir Zırh Sandığı Paketi,"300 Kırmızı Elmas
+1x Derece S Nadir Seçkin Ekipman Sandığı",
+30130018,1 A Aksesuar Sandığı,"300 Kırmızı Elmas
+1 A Aksesuar Sandığı",
+30130019,Derece S Ekipman Sandığı Paketi,"1Derece S Seçkin Silah Sandığı
+1Derece S Seçkin Zırh Sandığı",
+30150000,Binek Güçlendirme Paketi I,"100.000 Adena
+40 Geliştirme Taşı
+10 adet Derece B Binek Ekipmanı Seviye Seti
+5 Binek Güçlendirme Parşömeni",
+30150001,Binek Güçlendirme Paketi II,"150.000 Adena
+80 Geliştirme Taşı
+10 A Binek Ekipmanı Seviye Seti
+5 Binek Güçlendirme Parşömeni",
+30150002,Binek Güçlendirme Paketi III,"300.000 Adena
+120 Geliştirme Taşı
+10 S Binek Ekipmanı Seviye Seti
+10 Binek Güçlendirme Parşömeni",
+30150003,Gümüş Aziz Çağırma Paketi,"1.000 Mavi Elmas
+1 Gümüş Aziz Savaş Borusu
+1 Gümüş Aziz Çağırma Taşı
+40 Geliştirme Taşı
+5 Binek Tılsımlama Parşömeni",
+30150004,Kukarin Çağırma Paketi,"1.500 Mavi Elmas
+1 Kukarin Savaş Borusu
+1 Kukarin Çağırma Taşı
+40 Geliştirme Taşı
+5 Binek Tılsımlama Parşömeni",
+30160000,Yol Arkadaşı I,"1.500’e kadar Kırmızı Elmas veya Derece A Seçkin Silah Şans Sandığı anında kazanabilirsin!
+8.500’e kadar Kırmızı Elmas, Derece A Seçkin Zırh Şans Sandığı ve/veya Derece C-B Ruh Kristali Seçim Sandığı kazan!",
+30160001,Yol Arkadaşı II,"1.500’e kadar Kırmızı Elmas veya Derece S Seçkin Silah Şans Sandığı anında kazanabilirsin!
+8.500’e kadar Kırmızı Elmas, Derece S Seçkin Zırh Şans Sandığı ve/veya Derece B-A Ruh Kristali Seçim Sandığı kazan!",
+30160002,Yol Arkadaşı III,"1.500’e kadar Kırmızı Elmas ve S Ek Özellik Taşı anında kazanılır! 
+8.500’e kadar Kırmızı Elmas, A Ruh Kristali Seçim Sandığı ve/veya S Ek Özellik Taşı kazan!",
+30170000,Geldim Gördüm Yendim I,"Hemen 1.000 Kırmızı Elmas kazan ve Dion bölümünden önce tamamladığın her hikaye için ek ödüller kazan!
+Alımdan önce tamamladığın hikayeler için bile ödül kazanırsın!",
+30170001,Geldim Gördüm Yendim II,"Hemen 2.000 Kırmızı Elmas + Maphr’in Koruması kazan ve Giran bölümünden önce tamamladığın her hikaye için ek ödüller kazan!
+Alımdan önce tamamladığın hikayeler için bile ödül kazanırsın!",
+39005000,1 Kuvvetlendirme Malzeme Sandığı (yüksek derece),"Bakım Setleri, Güçlendirme Parşömenleri, İksir Malzemeleri ve Maphr'ın Koruması gibi çeşitli güçlendirme malzemeleri alınabilir!",
+39005001,10 Kuvvetlendirme Malzeme Sandığı (Yüksek derece) (+1 bonus),@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"Bakım Setleri, Güçlendirme Parşömenleri, İksir Malzemeleri ve Maphr'ın Koruması gibi çeşitli güçlendirme malzemeleri alınabilir!
+Derece R ve daha yüksek Seviye Seti'ni 100% kazanma şansı!",
+39005004,1 Binek Malzeme Sandığı,"Binek Ekipmanı, Geliştirme Taşı, Çağırma Taşı ve
+Binek Ekipmanı Güçlendirme Parşömeni alınabilir!",
+39005005,10 Binek Malzeme Sandığı (+1 bonus),@39005004,
+39005010,1 Yüksek Dereceli Binek Malzeme Sandığı,"Binek Savaş Borusu, Çağırma Taşı, Çağırma Taşı Parçası,
+Binek Ekipmanı, Binek Güçlendirme Parşömeni ve Yükseltme Taşı mevcut!
+(Bozyele Savaş Borusu, Çağırma Taşı ve Çağırma Taşı Parçası dahil)",
+39005011,10 Yüksek Dereceli Binek Malzeme Sandığı (+1 bonus),@39005010,
+30014000,Oto-Temizleme Seçim Sandığı,1 Oto-Temizleme Bileti seçip almak için kullanılır.,
+30014001,@10029,@10029,
+30014002,10 SP,Bu puanlar yetenek geliştirmede kullanılır.,
+30014003,5 Maphr’in Koruması Parçası,Maphr’in Koruması’nı almak için parçaları birleştir.,
+30014004,Güçlendirme Parşömeni Seçim Sandığı,1 Güçlendirme Parşömeni Seçim Sandığı elde et.,
+30014005,Nadir Canavar Çağırma Taşı Sandığı,Rastgele bir Nadir Canavar Çağırma Taşı için kullan.,
+30014006,10 Baş Düşman Çağırma Taşı Parçası Sandığı,Rastgele bir Canavar Çağırma Taşı Parçası için kullan.,
+30014007,İksir Özü Seçim Sandığı,Bir İksir Özü seçip al.,
+30014008,C - A Ekipman Seviye Seti Sandığı,1 C - A Seviye Seti elde et,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,(Etkinlik) 340 Elmas,"340 Mavi Elmas
+Derece A Seviye Seti Seçim Sandığı x5",
+38000001,@30001050,"700 Mavi Elmas
+Güçlendirme Parşömeni Seçim
+Sandığı x10",
+38000002,@30001060,"1080 Elmas
+Geliştirme Taşı Seçim Sandığı x10",
+38000003,@30001110,"4000 Elmas
+Geliştirme Taşı Seçim Sandığı x30",
+30130020,Şato Fethi Güncellemesi için Hatıra Derece R Ekipman Kuvvetlendirme Paketi,"200.000 Adena
+2x Derece R Seviye Seti Seçim Sandığı
+5x Derece S Seviye Seti Seçim Sandığı",
+30130021,Şato Fethi Güncellemesi için Hatıra Güçlendirme Paketi,"1.000 Kırmızı Elmas
+50 Topaz
+5 Güçlendirme Parşömeni Paketi
+3 Maphr’in Koruması",
+30110018,Kategori 1 Paket,Kategori 1 Paket satın alındı.,
+30110019,Kategori 2 Paket,Kategori 2 Paket satın alındı.,
+30110020,Kategori 3 Paket,Kategori 3 Paket satın alındı.,
+30110021,Kategori 5 Paket,Kategori 5 Paket satın alındı.,
+30110022,Kategori 10 Paket,Kategori 10 Paket satın alındı.,
+30110023,Kategori 16 Paket,Kategori 16 Paket satın alındı.,
+30110024,Kategori 20 Paket,Kategori 20 Paket satın alındı.,
+30110025,Kategori 24 Paket,Kategori 24 Paket satın alındı.,
+30110026,Kategori 30 Paket,Kategori 30 Paket satın alındı.,
+30110027,Kategori 40 Paket,Kategori 40 Paket satın alındı.,
+30110028,Kategori 45 Paket,Kategori 45 Paket satın alındı.,
+30110029,Kategori 50 Paket,Kategori 50 Paket satın alındı.,
+30110030,Kategori 54 Paket,Kategori 54 Paket satın alındı.,
+30110031,Kategori 56 Paket,Kategori 56 Paket satın alındı.,
+30110032,Kategori 58 Paket,Kategori 58 Paket satın alındı.,
+30110033,Kategori 60 Paket,Kategori 60 Paket satın alındı.,
+5022,10 Yüksek Dereceli Güçlendirme Sandığı (+1 bonus),"Ruh Kristalleri, Kutsal Parşömenler, İksir özleri ve Maphr'ın Koruması gibi çeşitli güçlendirme malzemeleri alınabilir!",
+6002,Silah Geliştirme Taşı,"Bir silah geliştirmek
+için kullanılan bir eşya.",
+6003,Zırh Geliştirme Taşı,"Bir zırh geliştirmek
+için kullanılan bir eşya.",
+6004,Aksesuar Geliştirme Taşı,"Bir aksesuar geliştirmek
+için kullanılan bir eşya.",
+6005,Parşömen: Silah Güçlendirme,"Bir silahı güçlendirmek
+için kullanılan bir parşömen.",
+6006,Parşömen: Zırh Güçlendirme,"Bir zırh parçasını güçlendirmek
+için kullanılan bir parşömen.",
+6007,Parşömen: Aksesuar Güçlendirme,"Bir aksesuarı güçlendirmek
+için kullanılan bir parşömen.",
+6008,@3005,@3005,
+6015,Grup Baş Düşman Çağırma Taşı Seçim Sandığı,"Bir Baş Düşman Çağırma Taşı
+seçip almak için kullan.",
+6020,1 Özel Silah Sandığı,"Bir (S - SR) silah al!
+Nadir Ekipman alınabilir!",
+6021,1 Özel Zırh Sandığı,"Bir (S - SR) zırh parçası al!
+Nadir Ekipman alınabilir!",
+6022,1 Özel Yükseltme Sandığı,"(R - SR) ekipman veya (S - SR) Nadir Ekipman
+çıkabilir!",
+8002,Giriş Elması,"Anında 600 Kırmızı Elmas kazan.
+Toplam 2.000 Kırmızı Elmas ve her gün Runlar, Bitkiler, Parşömenler de cabası!",
+30004243,Einhasad’ın Kutsaması (+%200),Saha Av TP’sini ve Toplama TP’sini %200 arttırmak için kullan. (1 saat),
+30004244,1500 Güç Şerbeti,@4009,
+30004245,@10029,@10029,
+30004246,5 Kaçış Parşömeni,@4101,
+30004247,15 Megafon,@4013,
+30004248,50 Yeni Pişmiş Ekmek,Ziyafet hazırlarken Klan Meydanı’nda kullan.,
+30004249,50 Taze Sebzeler,@30004248,
+30004250,50 Löp Et,@30004248,
+30004251,Gümüşsakal Özü,"Canavar Özü’nde Gümüşsakal enerjisi vardır.
+Değerlerini arttırmak için Canavar Albümü’ne kaydet.",
+30004252,Küçük SP Sandığı,"Bu küçük sandık Sp içerir.
+100 SP elde etmek için kullan.",
+30004253,S Görev Parşömeni Kutusu,Derece S Görev Parşömeni elde etmek için kullan.,
+30004254,20 Büyük Can Yenileyici,Büyük miktarda Can yenilemek için kullan.,
+30004255,20 Büyük Mana Yenileyici,Büyük miktarda Mana yenilemek için kullan.,
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Bitki Paketi,"Bu sandık iksir üretimi için gereken bitkileri içerir.
+Her tür bitkiden birer tane elde etmek için kullan.",
+30004263,Derece A-S Şanslı Ruh Kristali Sandığı,1 adet Derece A-S Şanslı Ruh Kristali Sandığı kazan.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Binek Ekipmanı Güçlendirme Parşömeni,Bu parşömen Binek Ekipmanı güçlendirir ve değerlerini arttırır.,
+30004270,Derece S Aksesuar Seçim Sandığı,"Listeden, Derece S aksesuar seçip almak için kullanılır.",
+30004271,Unutulmuş Parşömen Sayfası Seçim Sandığı,Listeden bir Unutulmuş Parşömen Sayfası seçip almak için kullan.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Yılsonu güçlendirme Paketi,"<Pakette aşağıdaki eşyaların tümü bulunmaktadır!>
+500.000 Adena
+5x Derece R Seviye Seti Seçim Sandığı
+2x Derece SR Seviye Seti Seçim Sandığı
+15 Geliştirme Taşı Seçim Sandığı",
+30004275,2018 Özel Adena Paketi,"Gözlerinize inanamayacaksınız!
+2.018.000 Adena!",
+30005015,Sadece tek sefer! 10 Yüksek Dereceli Ekipman (+1 Derece R),"(A - SR) ekipman kazan!
+En az 1x Derece R veya üzeri ekipman garanti!",
+30005016,Tatil Nadir Ekipman Kutusu,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 Büyük Can Yenileyici,Büyük miktarda Can yenilemek için kullan.,
+30004282,100 Büyük Mana Yenileyici,Büyük miktarda Mana yenilemek için kullan.,
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,10 Ender Silah Kaptın Kaptın Kutusu (+1 bonus),"[Sınırlı Bir Süre İçin]
+Rastgele【A - SR】Ekipman Kazan
+1.200 Mavi Elmas da cabası
+Nadir Silah çıkma şansı daha yüksek!",
+39005007,10 Ender Zırh Kaptın Kaptın Kutusu (+1 bonus),"[Sınırlı Bir Süre İçin]
+Rastgele【A - SR】Ekipman Kazan
+1.200 Mavi Elmas da cabası
+Nadir Zırh çıkma şansı daha yüksek!",
+39005008,10 Baş Düşman Ek Özellik Ekipman Kaptın Kaptın Kutusu (+1),"[Sınırlı Bir Süre İçin] [A - SR] Silah ve Zırh kazanılabilir!
+Baş Düşmanlara karşı etkili Ek Özelliklere sahip ekipmanlar!",
+39005009,10 Elit Ek Özellik Ekipman Kaptın Kaptın Kutusu (+1),"[Sınırlı Bir Süre İçin] [A - SR] Silah ve Zırh kazanılabilir!
+Elit Canavarlara karşı etkili Ek Özelliklere sahip ekipmanlar!",
+39009000,@30110015,"1.000 Mavi Elmas
+1 S Nadir Zırh Sandığı
+1.000 Run Parçası
+[Satın Alınabilecek Seviye: 16]",
+39009001,@30110016,"3.500 Kırmızı Elmas
+1 R Seçkin Ekipman Seçim Sandığı
+1 SR Ek Özellik Taşı
+[Satın Alınabilecek Seviye: 44]",
+39009002,@30110017,"3.500 Kırmızı Elmas
+1 R Aksesuar Seçim Sandığı
+1 SR Limit Kırma Taşı
+[Satın Alınabilecek Seviye: 73]",
+39009003,Elit Maceracı Paketi,"2.000 Kırmızı Elmas
+1 SR Ek Özellik Taşı
+3 Maphr’in Koruması
+[Satın Alınabilecek Seviye: 121]",
+39009004,Asil Maceracı Paketi,"2.000 Kırmızı Elmas
+200.000 Adena
+1 SR Limit Kırma Taşı
+1 SR Ek Özellik Taşı
+[Satın Alınabilecek Seviye: 151]",
+39009005,Hafif Geliştirme Taşı Paketi,"250 Kırmızı Elmas
+25.000 Adena
+4 Geliştirme Taşı Seçim Sandığı",
+39009006,Geliştirme Taşı Paketi,"1.500 Kırmızı Elmas
+100.000 Adena
+20 Geliştirme Taşı Seçim Sandığı",
+39009007,Özel Geliştirme Taşı Paketi,"3.300 Kırmızı Elmas
+250.000 Adena
+40 Geliştirme Taşı Seçim Sandığı",
+39009008,Güçlendirme Paketi,"4 Güçlendirme Parşömeni: Silah
+4 Güçlendirme Parşömeni: Zırh
+4 Güçlendirme Parşömeni: Aksesuar
+1 Maphr’ın Koruması
+15 Topaz",
+39009009,Özel Güçlendirme Paketi,"15 Güçlendirme Parşömeni: Silah
+15 Güçlendirme Parşömeni: Zırh
+15 Güçlendirme Parşömeni: Aksesuar
+3 Maphr’in Koruması
+50 Topaz",
+39009010,Hafif Kutsal Parşömen Paketi,"150 Kırmızı Elmas
+1 Kutsal Parşömen: Güçlendirme Seçim Sandığı
+20 Maphr’ın Koruması Parçası",
+39009011,Kutsal Parşömen Paketi,"1.000 Kırmızı Elmas
+20 Topaz
+5 Kutsal Parşömen: Güçlendirme Seçim Sandığı
+1 Maphr’ın Koruması",
+39009012,Özel Kutsal Parşömen Paketi,"2.000 Kırmızı Elmas
+50 Topaz
+10 Kutsal Parşömen: Güçlendirme Seçim Sandığı
+2 Maphr’in Koruması",
+39009013,Binek Güçlendirme Paketi,"300.000 Adena
+120 Yükseltme Taşı
+10 S Binek Ekipmanı Seviye Seti
+1 Binek Güçlendirme Parşömeni",
+30004325,Hafif Güçlendirme Paketi,"50.000 Adena
+4 Güçlendirme Parşömeni: Silah
+4 Güçlendirme Parşömeni: Zırh
+4 Güçlendirme Parşömeni: Aksesuar
+20 Maphr’ın Koruması Parçası",
+30004326,Simya Parşömeni - Kutsal Parşömen: Silah,@30004108,
+30004327,Simya Parşömeni - Kutsama Parşömeni: Zırh,@30004109,
+30004328,Simya Parşömeni - Kutsama Parşömeni: Aksesuar,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,S Seviye Seti Seçim Sandığı,@30004218,
+30004334,R Seviye Seti Seçim Sandığı,@30004222,
+30004335,SR Seviye Seti Seçim Sandığı,@30004223,
+30004336,Geliştirme Taşı Seçim Sandığı,@30004201,
+30004337,Güçlendirme Parşömeni Seçim Sandığı,@30004206,
+30004338,@3005,@3005,
+30004339,Ek Özellik Enerjisi,Bir Ek Özellik Enerjisi Kazan.,
+30004340,Limit Kırma Enerjisi,Bir Limit Kırma Enerjisi Kazan.,
+30004341,Hafif Ruh Kristali Paketi,"100.000 Adena
+3 A Ruh Kristali Şanslı Sandığı",
+30004342,2 B Saldırı Ruh Kristali,@30004303,
+30004343,2 B Savunma Ruh Kristali,@30004304,
+30004344,2 B İsabet Ruh Kristali,@30004307,
+30004345,2 B Kaçınma Ruh Kristali,@30004307,
+30004346,2 B Kritik Oranı Ruh Kristali,@30004309,
+30004347,2 B Kritik Direnci Ruh Kristali,@30004306,
+30004348,2 B Can Ruh Kristali,@30004311,
+30004349,Hafif Binek Güçlendirme Paketi,"50.000 Adena
+25 Yükseltme Taşı
+2 S Binek Ekipmanı Seviye Seti
+2 Binek Güçlendirme Parşömeni",
+30004350,10 Siyah Ayı Çağırma Taşı Parçası,@30004111,
+30004351,10 Gümüş Aziz Çağırma Taşı Parçası,@30004112,
+30004352,10 Kukarin Çağırma Taşı Parçası,@30004113,
+30004353,10 Yükseltme Taşı,@30004126,
+30004354,A Çelik Vizör,Binekler için çok sağlam vizör.,
+30004355,A Çelik Eyer,Binekler için çok sağlam eyer.,
+30004356,A Çelik Zırh,Binekler için çok sağlam zırh.,
+30004357,A Çelik Çizme,Binekler için çok sağlam çizme.,
+30004358,500 Run Parçası,500 Run Parçası Kazan.,
+39009014,@39009010,"200 Kırmızı Elmas
+50.000 Adena
+1 Kutsal Parşömen: Güçlendirme Seçim Sandığı
+5 Güçlendirme Parşömeni Seçim Sandığı",
+39006001,100. Gün Kutlama Paketi I,"50 Kırmızı Elmas
+500 Güç Şerbeti
+50 Can Yenileyici
+50 Mana Yenileyici
+5 Rastgele Geliştirme Taşı Sandığı",
+39006002,100. Gün Kutlama Paketi II,"100 Mavi Elmas
+100 Kırmızı Yıldıztaşı
+100 Can Yenileyici
+100 Mana Yenileyici
+1 S Nadir Zırh Sandığı",
+39006101,100 Gün Kutlaması Nadir Silah Seçim Sandığı,Bir S Nadir Silah seçip almak için kullan.,
+39006102,@3008,@3007,
+39006003,Bozyele Özel Sınırlı Paketi,"1 Bozyele Çağırma Taşı
+1 Bozyele Savaş Borusu
+500 Yükseltme Taşı
+10 Binek Güçlendirme Parşömeni
+500.000 Adena",
+39006004,Bahar Özel Kuvvetlendirme Sınırlı Paketi,"100 Kırmızı Elmas
+1 SR Beyaz Zırh Seviye Seti
+1 SR Beyaz Silah Seviye Seti",
+3016,Bozyele Çağırma Taşı,1 Bozyele Çağırma Taşı,
+30150005,Özel Binek Güçlendirme Paketi,"1.000 Kırmızı Elmas
+200 Yükseltme Taşı
+20 S Binek Ekipmanı Seviye Seti Sandığı
+20 Binek Güçlendirme Parşömeni
+1 Binek Çağırma Taşı Seçim Sandığı",
+30130022,Özel Ruh Kristali Paketi,"2.000 Kırmızı Elmas
+200.000 Adena
+2 S Ruh Kristali Seçim Sandığı
+10 S - SR Şanslı Ruh Kristali Sandığı",
+39006103,100. Gün Kutlaması Nadir Zırh Seçim Sandığı,@39006101,
+30004359,@30004341,"200 Kırmızı Elmas
+2 A Ruh Kristali Seçim Sandığı",
+38000100,Hediye Kartı Ödülü A,"400 Kırmızı Elmas
+150.000 Adena
+3 Rastgele Güçlendirme Parşömeni Sandığı",
+38000200,Hediye Kartı Ödülü B,"800 Kırmızı Elmas
+500.000 Adena
+10 Rastgele Güçlendirme Parşömeni Sandığı",
+9667,Günlük Görev Avantajları (28 Gün),"1. Oto Görev Parşömeni Özelliği
+2. Oto Haftalık Görev Özelliği
+3. 3 S Görev Parşömeni Kutusu günlük verilir
+4. Satın Almada 1.200 Kırmızı Elmas",
+9668,Günlük Av Avantajları (28 Gün),"1. Oto Envanter Eşya Satış Özelliği
+2. +%20 Eşya Düşme Oranı Güçlendirmesi
+3. +%20 Toplanan Adena Güçlendirmesi
+4. Her gün 1 Zindan Oto-Temizleme verilir
+5. Her gün 20 Sadakat Puanı verilir
+6. Satın Almada 1.200 Kırmızı Elmas",
+30180001,Klan Yeteneği Destek Paketi,"[Bireysel Ödül]
+1.500 [Kırmızı Elmas]
+[Şanslı Unutulmuş Parşömen Sayfası Sandığı]
+[Unutulmuş Parşömen Sayfası Seçim Sandığı]
+[Klan Üyesi Ödülü]
+1 [Güç Şerbeti Sıkıştırılmış Paket]
+10 [SP]
+10 [Büyük Can Yenileyici]",
+30180002,Klan Güçlendirme Destek Paketi,"Bireysel Ödül:
+2.000 [Kırmızı Elmas]
+5 [Kutsal Parşömen Seçim Sandığı]
+3 [Maphr’in Koruması]
+Klan Üyesi Ödülü:
+2 [Güçlendirme Parşömeni Seçim Sandığı]
+5 [Maphr’in Koruması Parçası]",
+30150006,Bozyele Paketi,"1 [Bozyele Çağırma Taşı]
+1 [Bozyele Savaş Borusu]
+300 [Yükseltme Taşı]
+10 [Derece A - S Binek Ekipmanı Rastgele Sandığı]
+200.000 [Adena]",
+39006005,Nadir Kırmızı Ekipman Özel Paketi,"1 [Derece SR Aegis Zırh Seçim Sandığı]
+5 [Derece SR Zırh Seviye Seti]
+300.000 [Adena]
+5 [Kutsal Parşömen: Zırh]",
+39006006,Sabır Zırh Paketi,"1 [Derece SR Sabır Zırh Seçim Sandığı]
+1 [Derece R Ek Özellik Taşı]
+100.000 [Adena]
+2 [Kutsal Parşömen: Zırh]",
+39006007,Koruma Zırh Paketi,"1 [Derece SR Koruma Zırhı Seçim Sandığı]
+1 [Derece R Ek Özellik Taşı]
+100.000 [Adena]
+2 [Kutsal Parşömen: Zırh]",
+30130023,Kızıl Kolcu Pelerini Broş Paketi,"1 [Kızıl Kolcu Pelerini Broşu]
+100 [Pelerin İpliği]",
+30130024,Bahçe Pelerini Broş Paketi,"1 [Bahçe Pelerini Broşu]
+30 [Pelerin İpliği]",
+30130025,Özel Maphr’in Koruması Paketi,"10 [Maphr’in Koruması]
+10 [Güçlendirme Parşömeni Paketi]
+30 [Topaz]",
+30130026,Pelerin Güçlendirme Paketi,"100.000 [Adena]
+50 [Pelerin İpliği]
+5 [Delilik Parçası]
+5 [Trisha’nın Gözyaşı]
+10 [Topaz]",
+30130027,Özel Pelerin Güçlendirme Paketi,"200 [Pelerin İpliği]
+40 [Delilik Parçası]
+40 [Trisha’nın Gözyaşı]",
+30004360,Işık Pelerini Güçlendirme Paketi,"2 [Pelerin Güçlendirme Malzemesi Seçim Sandığı]
+50.000 [Adena]",
+30004361,Pelerin İpliği,Pelerinin seviyesini yükseltmek için gerekli malzeme.,
+30004362,Delilik Parçası,Kızıl Yıkım Pelerini'nin seviyesini yükseltmek için gerekli malzeme. Kızıl Yıkım Pelerini Broşu üretmek için 1.000 Delilik Parçası kullan.,
+30004363,Trisha’nın Gözyaşı,Erdemli Kan Pelerini'nin seviyesini yükseltmek için gerekli malzeme. Erdemli Kan Pelerini Broşu üretmek için Trisha'nın Gözyaşı'ndan 1.000 tane kullan.,
+30004364,Sihirli Kumaş,Altdeğerleri değiştirmek için gerekli malzeme.,
+30004365,Sihirli Yıkım Kumaşı,Kızıl Yıkım Pelerini'nin altdeğerlerini değiştirmek için gerekli malzeme.,
+30004366,Sihirli Erdem Kumaşı,Erdemli Kan Pelerini'nin altdeğerlerini değiştirmek için gerekli malzeme.,
+30004367,Sihirli İğne,Altdeğerleri korumak için gerekli malzeme.,
+3017,20 Delilik Parçası,@30004362,
+3018,20 Trisha’nın Gözyaşı,@30004363,
+6023,80 Pelerin İpliği,@30004361,
+39006008,Kırmızı Elmas Paketi,4.000 Kırmızı Elmas,
+39006009,Güncelleme Kutlaması Özel Paketi,"10 [Güncelleme Kutlaması Özel Paketi]
+(Rastgele 1-10 Maphr'in Koruması veya Kutsal Parşömen elde etmek için kullan.)
+1.000 Mavi Elmas",
+39006010,Güncelleme Kutlaması Özel Kesesi,"1 [Güncelleme Kutlaması Özel Kesesi]
+(Rastgele 1-10 Maphr'in Koruması veya Kutsal Parşömen elde etmek için kullan.)",
+39006011,Nadir Kırmızı Zırh Paketi,"1 [SR Aegis Zırh Seçim Sandığı]
+1 [SR Zırh Seviye Seti]
+100.000 Adena
+1 [Kutsal Parşömen: Zırh]",
+30014013,S Ekipman Seviye Seti Seçim Sandığı,Bir S-derece Seviye Seti seçip almak için kullan.,
+30014014,Güçlendirme Parşömeni Paketi,"Bu sandık Güçlendirme Parşömenleri içerir.
+Güçlendirme Parşömenleri'nden birer tane elde etmek için kullan.",
+30014015,@3005,"Maphr’in Koruması, diyarın tanrıçası, bu cevhertaşının içinde.
+Bu eşya ekipmanın güçlendirme seviyesini, güçlendirme başarısız olduğunda eşyanın güçlendirme seviyesini korur.",
+30014016,Baş Düşman Çağırma Taşı Seçim Sandığı,Bir Baş Düşman Çağırma Taşı seçip almak için kullan.,
+30014017,50 Pelerin İpliği,@30004361,
+30014018,@30004367,@30004364,
+30014019,Kutsal Parşömen Seçim Sandığı,"Şunlardan birini seçip almak için kullan: Kutsal Parşömen: Silah, Kutsal Parşömen: Zırh veya Kutsal Parşömen: Aksesuar.",
+30014020,@3008,@3007,
+30130028,S Mavi Nadir Zırh Paketi,@30130010,

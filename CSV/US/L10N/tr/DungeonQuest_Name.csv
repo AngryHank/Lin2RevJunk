@@ -1,0 +1,241 @@
+Id,Name,Desc
+1,Elf Harabeleri Dehliz 1’i fethet.,{TaskCount}x Likantrop yen.
+2,@1,@1
+3,@1,@1
+4,@1,{TaskCount}x Desmodus yen.
+5,@1,@4
+6,@1,@4
+7,@1,{TaskCount}x Korku Kanat yen.
+8,@1,{TaskCount}x Ryukaon yen.
+9,@1,{TaskCount}x Arachne yen.
+10,@1,{TaskCount} adet Canavar Özü al.
+11,@1,@10
+12,@1,{TaskCount} zindan canavarı yen.
+13,@1,@12
+14,Elf Harabeleri Dehliz 2’yi fethet.,{TaskCount}x Cani Spartoi yen.
+15,@14,{TaskCount}x Devriye Spartoi yen.
+16,@14,{TaskCount}x Yalnız Örümcek yen.
+17,@14,{TaskCount}x Yalnız Zehirli Örümcek yen.
+18,@14,{TaskCount}x Cani Avcı yen.
+19,@14,{TaskCount}x Saldırgan Spartoi yen.
+20,@14,@14
+21,@14,@15
+22,@14,@16
+23,@14,@17
+24,@14,@18
+25,@14,@19
+26,@14,{TaskCount}x Maniskull yen.
+27,@14,{TaskCount}x Felix yen.
+28,@14,{TaskCount}x Ölüm Saçan yen.
+29,@14,{TaskCount}x Necross yen.
+30,@14,@10
+31,@14,@10
+32,@14,@10
+33,@14,@12
+34,@14,@12
+35,@14,@12
+36,Karınca Yuvası Dehliz 1’i fethet.,{TaskCount} Asker Karınca Larvası yen.
+37,@36,{TaskCount} İşci Karınca Larvası yen.
+38,@36,{TaskCount}x İşci Karınca yen.
+39,@36,{TaskCount}x Asker Karınca yen.
+40,@36,@36
+41,@36,@37
+42,@36,@38
+43,@36,{TaskCount}x İstilacı yen.
+44,@36,{TaskCount} İşçibaşı Karınca yen.
+45,@36,@10
+46,@36,@10
+47,@36,@10
+48,@36,@12
+49,@36,@12
+50,@36,@12
+51,Karınca Yuvası Dehliz 2’yi fethet.,{TaskCount} Karınca Larvası yen.
+52,@51,{TaskCount}x Ustabaşı Karınca yen.
+53,@51,{TaskCount}x Acemi Karınca yen.
+54,@51,@51
+55,@51,@52
+56,@51,@53
+57,@51,{TaskCount}x Karınca Yuvası Muhafızı yen.
+58,@51,{TaskCount}x Yumurtlama Yeri Muhafızı yen.
+59,@51,@10
+60,@51,@10
+61,@51,@10
+62,@51,@12
+63,@51,@12
+64,@51,@12
+65,Cruma Kulesi Kat 2'yi fethet.,{TaskCount}x Mordeo'nun Yardakçısı yen.
+66,@65,{TaskCount}x Excuro yen.
+67,@65,{TaskCount}x Porta yen.
+68,@65,{TaskCount}x Yüce Excuro yen.
+69,@65,{TaskCount}x Modeo'nun Muhafızı yen.
+70,@65,{TaskCount}x Bağlı Porta yen.
+71,@65,{TaskCount}x Esrarlı Gözküre yen.
+72,@65,{TaskCount}x Stelos yen.
+73,@65,{TaskCount}x Efendi Mordeo yen.
+74,@65,{TaskCount}x Serbo Prime yen.
+75,@65,@10
+76,@65,@10
+77,@65,@10
+78,@65,@10
+79,@65,@10
+80,@65,@10
+81,@65,@12
+82,@65,@12
+83,@65,@12
+84,@65,@12
+85,@65,@12
+86,@65,@12
+87,Cruma Kulesi Kat 3'ü fethet.,{TaskCount}x Validus Muhafızı yen.
+88,@87,{TaskCount}x Validus Devriyesi yen.
+89,@87,{TaskCount}x Gustos Prime yen.
+90,@87,{TaskCount}x Kusion Susceptor yen.
+91,@87,{TaskCount}x Meforde yen.
+92,@87,@87
+93,@87,@88
+94,@87,@89
+95,@87,@90
+96,@87,@91
+97,@87,{TaskCount}x Greezo yen.
+98,@87,{TaskCount}x Julius yen.
+99,@87,{TaskCount}x Magnus yen.
+100,@87,@10
+101,@87,@10
+102,@87,@10
+103,@87,@12
+104,@87,@12
+105,@87,@12
+107,Fildişi Kulesi Dehliz 1'i fethet.,{TaskCount} Yeraltı Sülüğü yen.
+108,@107,{TaskCount}x Lekeli Gezgin Mantar yen.
+109,@107,@107
+110,@107,@108
+111,@107,{TaskCount}x Mesheemp yen.
+112,@107,{TaskCount}x Corepio yen.
+113,@107,{TaskCount}x Preta yen.
+114,@107,@10
+115,@107,@10
+116,@107,@10
+117,@107,@12
+118,@107,@12
+119,@107,@12
+120,Fildişi Kulesi Dehliz 2'yi fethet.,{TaskCount}x Bataklık Medusası yen.
+121,@120,{TaskCount}x Mağara Medusası yen.
+122,@120,{TaskCount}x Stakato Askeri yen.
+123,@120,{TaskCount}x Stakato Eri yen.
+124,@120,@120
+125,@120,@121
+126,@120,@122
+127,@120,@123
+128,@120,{TaskCount}x Vulture yen.
+129,@120,{TaskCount}x Gargu yen.
+130,@120,{TaskCount}x Morpheus yen.
+131,@120,@10
+132,@120,@10
+133,@120,@10
+134,@120,@12
+135,@120,@12
+136,Fildişi Kulesi Dehliz 3'ü fethet.,{TaskCount}x Muhafız İskelet yen.
+137,@136,{TaskCount}x Karanlık Hayalet Prima yen.
+138,@136,{TaskCount}x Siyah Prima yen.
+139,@136,@136
+140,@136,@137
+141,@136,@138
+142,@136,{TaskCount}x Kelle Kovalayan yen.
+143,@136,{TaskCount}x Creatus yen.
+144,@136,{TaskCount}x Kum Fırtınası yen.
+145,@136,@10
+146,@136,@10
+147,@136,@10
+148,@136,@12
+149,@136,@12
+150,Fildişi Kulesi Yer Altı Laboratuvarı'nı Fethet.,{TaskCount} Sapkın Kobay yen.
+151,@150,{TaskCount} Kontrol Edilemeyen Golem yen.
+152,@150,{TaskCount} Kobay Bağı yen.
+153,@150,{TaskCount} Arızalı Meka Golem yen.
+154,@150,{TaskCount} Huzursuz Çırak yen.
+155,@150,{TaskCount} Huzursuz Büyücü yen.
+156,@150,{TaskCount} Kara Kardeşlik Müfettişi yen.
+157,@150,{TaskCount} Kara Kardeşlik Muhafızı yen.
+158,@150,{TaskCount} Kara Kardeşlik Araştırmacısı yen.
+159,@150,{TaskCount} Sapkın Yardımcı yen.
+160,@150,{TaskCount} Yer Altı Basiliski yen.
+161,@150,{TaskCount} kez Adolf'u yen.
+162,@150,Genos'u {TaskCount} kez yen.
+163,@150,{TaskCount} kez Alexander'ı yen.
+164,@150,{TaskCount} kez Trasos'u yen.
+165,@150,{TaskCount} kez Barbara'yı yen.
+166,@150,{TaskCount} kez Amos'u yen.
+167,@150,{TaskCount} kez Enclema'yı yen.
+168,@150,{TaskCount} kez Kloud'u yen.
+169,@150,{TaskCount} kez Sophos'u yen.
+170,@150,{TaskCount} kez Edwin'i yen.
+171,@150,{TaskCount} kez Enas'ı yen.
+172,@150,@10
+173,@150,@10
+174,@150,@10
+175,@150,@10
+176,@150,@10
+177,@150,@10
+178,@150,@10
+179,@150,@10
+180,@150,@10
+181,@150,@10
+182,@150,@10
+184,@150,@12
+185,@150,@12
+186,@150,@12
+187,@150,@12
+188,@150,@12
+189,@150,@12
+190,@150,@12
+191,@150,@12
+192,@150,@12
+193,@150,@12
+194,@150,@12
+195,Sırların Ormanı Tepe Tacı'nı Fethet.,{TaskCount} Orman Grendeli yen.
+196,@195,{TaskCount} Toksik Atrox yen.
+197,@195,{TaskCount} Gizemli Gözcü yen.
+198,@195,{TaskCount} Orman Gözcüsü yen.
+199,@195,@195
+200,@195,@196
+201,@195,@197
+202,@195,@198
+203,@195,{TaskCount} kez Argos'u yen.
+204,@195,{TaskCount} kez Helissa'yı yen.
+205,@195,{TaskCount} kez Sling'i yen.
+206,@195,@10
+207,@195,@10
+208,@195,@10
+209,@195,@12
+210,@195,@12
+211,Sırların Ormanı Yeşillik Alanı'nı Fethet.,{TaskCount} Pan Savunucu yen.
+212,@211,{TaskCount} Keskin Peri yen.
+213,@211,{TaskCount} İntikamcı Peri yen.
+214,@211,{TaskCount} Gizemli Succubus yen.
+215,@211,@211
+216,@211,@212
+217,@211,@213
+218,@211,@214
+219,@211,{TaskCount} kez Vanuk'u yen.
+220,@211,{TaskCount} kez Cailyn'i yen.
+221,@211,{TaskCount} kez Veiloss'u yen.
+222,@211,@10
+223,@211,@10
+224,@211,@10
+225,@211,@12
+226,@211,@12
+227,Sırların Ormanı Katliam Alanı'nı Fethet,{TaskCount} Kaybolmuş Dövüşçü Kertenkeleadam yen.
+228,@227,{TaskCount} Kaybolmuş Savaşçı Kertenkeleadam yen.
+229,@227,{TaskCount} Adamyiyen Orman Örümceği yen.
+230,@227,{TaskCount} Öfkeli Söğüt Perisi yen.
+231,@227,{TaskCount} kez Intrepidez'i yen.
+232,@227,{TaskCount} kez Avetura'yı yen.
+233,@227,{TaskCount} kez Gari'yi yen.
+234,@227,{TaskCount} kez Alkaios'u yen.
+235,@227,@10
+236,@227,@10
+237,@227,@10
+238,@227,@10
+239,@227,@12
+240,@227,@12
+241,@227,@12
+242,@227,@12

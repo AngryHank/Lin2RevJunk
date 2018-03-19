@@ -1,0 +1,68 @@
+Id,ItemName,Desc1,Desc2
+4,Elixieressenz-Auswahlkiste,"Wird verwendet, um eine Elixieressenz auszuwählen und zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+5,Auto-Erledigen-Auswahlkiste,"Wird verwendet, um 1 Auto-Erledigen-Ticket auszuwählen und zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+10,"Beschwörungsstein-
+Fragmentkiste","Wird verwendet, um verschiedene zufällige Reitbegleiter-Beschwörungssteinfragmente zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+11,Aufwertungsrollenkiste,"Wird verwendet, um eine zufällige Aufwertungsrolle zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+12,Verbesserungsstein-Kiste,"Wird verwendet, um einen zufälligen Verbesserungsstein zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+26,ERF,"Wird verwendet, um ERF zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+27,Stärkere ERF,"Wird verwendet, um viel ERF zu erhalten.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+30,Schriftrolle des Entkommens,Wird zum Teleportieren verwendet.,Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+31,5 Maphrs Segen,Durch das Kombinieren von Fragmenten erhältst du Maphrs Segen.,Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+30000103,1 Klan-Ausrüstungskiste,"Verwende sie, um zufällige A-SR-Ausrüstung zu erhalten.",
+30000104,10 Klan-Ausrüstungskisten (+1 Bonus),"Verwende sie, um zufällige A-SR-Ausrüstung zu erhalten.",
+30000105,1 Klan-Aufwertungsschriftrollenkiste,@11,
+30000106,200 LP-Tränke,Stellt ein paar LP wieder her.,
+30000107,200 MP-Tränke,Stellt ein paar MP wieder her.,
+30000108,5.000 Seelenschüsse,"Erfüllt eine Waffe mit einer mysteriösen Macht, die den Schaden erhöht.",
+30000109,1 Reitbegleiter-Stärkungskiste,"Wird verwendet, um einen der folgenden Gegenstände zu erhalten: Reitbegleiter-Ausrüstung (A - SR), Fortschrittssteinkiste (Klein - Groß) oder Reitbegleiter-Beschwörungssteinfragment (Schwarzbär, Silberheiliger, Kukurin und Mähnenlöwe).",
+30000110,10 Reitbegleiter-Stärkungsk. (+1 Bonus),@30000109,
+201,Verlängerung der Reliktprägung Lv. 1,Erhöht die zum Prägen eines Relikts benötigte Zeit um 1 Sekunde.,
+202,Verlängerung der Reliktprägung Lv. 2,Erhöht die zum Prägen eines Relikts benötigte Zeit um 2 Sekunden.,
+203,Verlängerung der Reliktprägung Lv. 3,Erhöht die zum Prägen eines Relikts benötigte Zeit um 3 Sekunden.,
+204,Verlängerung der Reliktprägung Lv. 4,Erhöht die zum Prägen eines Relikts benötigte Zeit um 4 Sekunden.,
+205,Verlängerung der Reliktprägung Lv. 5,Erhöht die zum Prägen eines Relikts benötigte Zeit um 5 Sekunden.,
+206,Verteidigungsturm-Langlebig.-Erh. Lv. 1,,
+207,Verteidigungsturm-Langlebig.-Erh. Lv. 2,Erhöht die Verteidigungsturm-Langlebigkeit um 20.000.,
+208,Verteidigungsturm-Langlebig.-Erh. Lv. 3,Erhöht die Verteidigungsturm-Langlebigkeit um 30.000.,
+209,Verteidigungsturm-Langlebig.-Erh. Lv. 4,Erhöht die Verteidigungsturm-Langlebigkeit um 40.000.,
+210,Verteidigungsturm-Langlebig.-Erh. Lv. 5,Erhöht die Verteidigungsturm-Langlebigkeit um 50.000.,
+211,Fallen-ANG-Erhöhung Lv.1,"Erhöht Fallen-ANG um 1 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu.",
+212,Fallen-ANG-Erhöhung Lv.2,"Erhöht Fallen-ANG um 2 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu.",
+213,Fallen-ANG-Erhöhung Lv.3,"Erhöht Fallen-ANG um 3 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu.",
+214,Fallen-ANG-Erhöhung Lv.4,"Erhöht Fallen-ANG um 4 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu.",
+215,Fallen-ANG-Erhöhung Lv.5,"Erhöht Fallen-ANG um 5 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu.",
+301,Trank-Effizienzbuff,"Wird verwendet, um dem Klan 1 Stunde lang Fürstengunst zu gewähren.
++20 % Effizienz von LP- und MP-Tränken (außerhalb von Burg- und Festenbelagerungen).",
+302,ERF-/Kern-Jagd-Buff,"Wird verwendet, um dem Klan 1 Stunde lang Fürstengunst zu gewähren.
++20 % Monsterkernfundrate und ERF-Gewinn durch Jagd.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+303,Adena-/Gegenstands-Jagd-Buff,"Wird verwendet, um dem Klan 1 Stunde lang Fürstengunst zu gewähren.
++20 % Gegenstandsfundrate und Adena-Gewinn durch Jagd.",Zum Kauf verfügbar nach dem Erreichen von Klanlevel {RequiredGuildLevel}.
+158,1 LP-Elixieressenz,"Rote Essenz, die zur Herstellung von LP-Elixieren verwendet wird.","Zum Kauf verfügbar nach der Eroberung 
+einer Feste der Stufe C oder höher."
+159,1 MP-Elixieressenz,"Blaue Essenz, die zur Herstellung von MP-Elixieren verwendet wird.",@158
+160,1 ANG-Elixieressenz,"Blaue Essenz, die zur Herstellung von ANG-Elixieren verwendet wird.",@158
+161,1 VER-Elixieressenz,"Gelbe Essenz, die zur Herstellung von VER-Elixieren verwendet wird.",@158
+165,1 Waffen-Verbesserungsstein,"Wird verwendet, um eine Waffe auf ihre nächste Stufe zu bringen.",@158
+166,1 Rüstung-Verbesserungsstein,"Wird verwendet, um Rüstung auf ihre nächste Stufe zu bringen.",@158
+401,Klanumhang-Färbemittel: Niedrigstufig,Gegenstand zum Ändern der Farbe des Klanumhangs.,Zum Kauf verfügbar nach der Eroberung einer Feste.
+402,Klanumhang-Färbemittel: Mittelstufig,@401,"Zum Kauf verfügbar nach der Eroberung
+einer Feste der Stufe A oder höher."
+404,Klanumhang-Emblem-Färbemittel: Niedrigstufig,Gegenstand zum Ändern der Farbe des Klanumhang-Emblems.,@401
+405,Klanumhang-Emblem-Färbemittel: Mittelstufig,@404,@402
+810000001,Lv.5-Klan-Trank: Adena-Buff,Erhöht erhaltenes Adena 1 Stunde lang um 50 %. (Nur für Feldjagd),@158
+810000002,Ramponierte Relikttruhe,"Dies ist ein ramponiertes Relikt.
+Bitte den Relikthüter der Klanhalle, dieses Relikt zu schätzen, um eine Belohnung zu erhalten.",@158
+810000003,Lv.5-Klan-Trank: Kernfund-Buff,"Bei Benutzung wird die Monsterkernfundrate um 50 % erhöht.
+Der Effekt dauert 1 Stunde lang an.","Zum Kauf verfügbar nach der Eroberung 
+einer Feste der Stufe B oder höher."
+810000004,Maphrs Segen,Wird beim Aufwerten von Ausrüstung verwendet. Ein Fehlschlag verringert das Aufwertungslevel nicht.,"Zum Kauf verfügbar nach der Eroberung 
+einer Feste der Stufe A oder höher."
+810000005,Gesegnete Schriftrollenkiste,"Wird verwendet, um eine zufällige Gesegnete Schriftrolle zu erhalten.",@810000003
+810000006,Stufe S-Attributstein,"Wird verwendet, um ein Attribut eines Ausrüstungsteils aufzuwerten.",@810000003
+810000007,Stufe R-Attributstein,"Wird verwendet, um ein Attribut eines Ausrüstungsteils aufzuwerten.",@810000004

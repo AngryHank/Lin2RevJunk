@@ -1,0 +1,92 @@
+Type,Name
+0,ATQF
+1,ATQM
+2,Amplificación de ATQF
+3,Amplificación de ATQM
+4,Aumento de ATQ de ataque normal
+5,Amplificación de ATQ basada en miembros de equipo
+6,Amplificación de vel. de ATQ
+7,Poder de combate
+126,Aumento del enfriamiento
+9,Tasa de crít.
+10,Tasa de RES a críticos
+11,Amplificación de daño crítico
+12,Tasa de golpe crítico
+13,Resistencia a crít.
+14,Amplificación de tasa de crítico
+15,Amplificación de resistencia a críticos
+16,DEFF
+17,DEFM
+18,Amplificación de DEFF
+19,Amplificación de DEFM
+20,Evasión
+21,Amplificación de evasión
+22,Tasa de evasión
+23,Precisión
+24,Amplificación de precisión
+25,Tasa de precisión
+26,Tasa de aumento del daño
+27,Tasa de aumento de DAÑF
+28,@IncreaseDamagePhyMul
+29,Tasa de aumento de daño a objetivo ralentizado
+30,Ignorar daños DEF
+31,Tasa de reducción del daño
+32,Tasa de reducción de DAÑF
+33,Tasa de reducción de DAÑM
+34,Reduc. DAÑ fijo
+35,Tasa de bloqueo
+36,Tasa de reducción del daño de bloqueo
+37,Exp.
+38,Tasa de aumento de ganancia de experiencia
+39,Amplificación de agresión
+40,PV
+41,Regeneración de PV
+42,Succión de PV
+43,Aumento de la tasa de obtención de objetos
+44,PV máximos
+45,Amplificación de PV máximos
+46,PM máximos
+47,Amplificación de PM máximos
+48,PM
+49,Amplificación de coste de PM
+50,Tasa regen. de PM
+51,Velocidad
+52,Amplificación de velocidad
+53,Tasa de RES a ralentizar
+54,Tasa de RES a aturdir
+55,Tasa de RES a estado alterado
+56,Tasa de RES de tracción del objetivo
+126,Tasa de RES de revés
+58,Adena
+59,Tasa de aumento de ganancia de adenas
+60,Diamante gratis
+61,Diamante pagado
+62,Billete de misión
+63,Billete de autocompletado de conquista
+64,Fragmento de runa
+65,Punto de habilidad
+66,Puntos de amistad
+67,Topacio
+68,Puntos de lealtad
+69,Invencible
+70,Una muerte
+71,Inteligente
+72,Durable
+73,Exp. de clase
+74,Moneda del clan
+75,Punto de logro
+76,Billete de festival de asedio
+77,Billete de JcJ
+78,Puntuación de honor de JcJ
+79,Nivel
+80,Penetración
+81,Resistencia
+82,Aumento de AdE de habilidad
+83,Aumento de número de golpes de habilidad
+84,Aumento de velocidad de excavación
+85,Aumento de número de extracciones
+86,Tasa de escudo de maná (absorción de daño por maná)
+87,Bloquear MJ
+88,Aumento de tasa de obtención de corazones de monstruo
+89,@CombatPower
+90,Aumento de duración del combo

@@ -1,362 +1,445 @@
 Id,Nme,Desc
 1,Mission Basics,Defeat {TaskCount} Monster(s).
-2,Combo Expert!,Achieve {TaskCount} combo(s).
-3,Potion Chugger,Use {TaskCount} or more MP Potions.
+2,Elite Dungeon Professional,Enter Elite Dungeon {TaskCount} time(s).
 4,Supply Equipment,Acquire {TaskCount} equipment.
-5,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
-6,Only Challengers Gain,Enhance equipment successfully {TaskCount} time(s).
+5,Loot Collection,Acquire {TaskCount} Monster Core(s).
 7,Defeat Elite Dungeon Monsters!,Defeat {TaskCount} Elven Ruins 1 monster(s).
 8,@1,@1
-9,Collect Soul Crystals!,Acquire {TaskCount} Soul Crystal(s).
-10,Elite Dungeon Professional,Enter Elite Dungeon {TaskCount} time(s).
-11,@6,@6
-12,@1,@1
-13,@2,@2
-14,@3,Use {TaskCount} or more HP Potions.
-15,Reckless Gust of Victory,Accomplish {TaskCount} consecutive Arena duel victories.
-16,@1,@1
-17,Loot Collection,Acquire {TaskCount} Monster Core(s).
-18,Hone and Improve Defense!,Acquire {TaskCount} Scroll: Enhance Armor.
-19,Hone and Improve Attack!,Acquire {TaskCount} Scroll: Enhance Weapon.
-20,Unstoppable Growth!,Level up equipment {TaskCount} time(s).
+9,Importance of Managing Mana,Use {TaskCount} or more MP Potions.
+10,Collect Soul Crystals!,Acquire {TaskCount} Soul Crystal(s).
+11,Combo Expert!,Achieve {TaskCount} combo(s).
+13,@1,@1
+14,Supplying Consumables!,Purchase an item from the Common Shop {TaskCount} time(s).
+15,Potion Chugger,Use {TaskCount} or more HP Potions.
+16,@11,@11
+18,Reckless Gust of Victory,Accomplish {TaskCount} consecutive Arena duel victories.
+19,@1,@1
+20,"Quest Scrolls, Activate!",Complete a Grade A Quest Scroll {TaskCount} time(s).
 21,Combat Power Upgrade,Use {TaskCount} or more Soulshots.
-22,Superpower!,Accomplish {TaskCount} single hit damage.
-23,@15,@15
-24,@1,@1
-25,@2,@2
-26,@1,@1
-27,@2,@2
-28,@3,@3
-29,@4,@4
-30,@5,@5
-31,@6,@6
-32,@7,Defeat {TaskCount} Elven Ruins 2 monster(s).
-33,@1,@1
-34,@9,@9
-35,@10,@10
-36,@6,@6
+22,@11,@11
+23,Unstoppable Growth!,Level up equipment {TaskCount} time(s).
+24,For Skill Strengthening!,Acquire {TaskCount} SP.
+25,Superpower!,Accomplish {TaskCount} single hit damage.
+26,@18,@18
+28,@1,@1
+29,@11,@11
+30,@1,@1
+31,@2,@2
+33,@4,@4
+34,@5,@5
+36,@7,Defeat {TaskCount} Elven Ruins 2 monster(s).
 37,@1,@1
-38,@2,@2
-39,@3,@14
-40,@15,@15
-41,@1,@1
-42,@17,@17
-43,@18,@18
-44,@19,@19
-45,@20,@20
-46,@21,@21
-47,@22,@22
-48,@15,@15
-49,@1,@1
-50,@2,@2
-51,@1,@1
-52,@2,@2
-53,@3,@3
-54,@4,@4
-55,@5,@5
-56,@6,@6
-57,@7,Defeat {TaskCount} Ant Nest 1 monster(s).
-58,@1,@1
-59,@9,@9
-60,@10,@10
-61,@6,@6
-62,@1,@1
-63,@2,@2
-64,@3,@14
-65,@15,@15
+38,@9,@9
+39,@10,@10
+40,@11,@11
+42,@1,@1
+43,@14,@14
+44,@15,@15
+45,@11,@11
+47,@18,@18
+48,@1,@1
+49,@20,@20
+50,@21,@21
+51,@11,@11
+52,@23,@23
+53,@24,@24
+54,@25,@25
+55,@18,@18
+57,@1,@1
+58,@11,@11
+59,@1,@1
+60,@2,@2
+62,@4,@4
+63,@5,@5
+65,@7,Defeat {TaskCount} Ant Nest 1 monster(s).
 66,@1,@1
-67,@17,@17
-68,@18,@18
-69,@19,@19
-70,@20,@20
-71,@21,@21
-72,@22,@22
+67,@9,@9
+68,@10,@10
+69,@11,@11
+71,@1,@1
+72,@14,@14
 73,@15,@15
-74,@1,@1
-75,@2,@2
-76,@1,@1
-77,@2,@2
-78,@3,@3
-79,@4,@4
-80,@5,@5
-81,@6,@6
-82,@7,@57
-83,@1,@1
-84,@9,@9
-85,@10,@10
-86,@6,@6
-87,@1,@1
-88,@2,@2
-89,@3,@14
-90,Equipment Evolution,Change equipment substat {TaskCount} time(s).
-91,@15,@15
-92,@1,@1
-93,@17,@17
-94,@18,@18
-95,@19,@19
-96,@20,@20
-97,@21,@21
-98,@7,@57
-99,@15,@15
+74,@11,@11
+76,@18,@18
+77,@1,@1
+78,@20,@20
+79,@21,@21
+80,@11,@11
+81,@23,@23
+82,@24,@24
+83,@25,@25
+84,@18,@18
+85,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+86,@1,@1
+88,@1,@1
+89,@2,@2
+91,@4,@4
+92,@5,@5
+94,@7,@65
+95,@1,@1
+96,@9,@9
+97,@10,@10
+98,@11,@11
 100,@1,@1
-101,@2,@2
-102,@1,@1
-103,@2,@2
-104,@3,@3
-105,@4,@4
-106,@5,@5
-107,@6,@6
-108,@7,Defeat {TaskCount} Ant Nest 2 monster(s).
-109,@1,@1
-110,@9,@9
-111,@10,@10
-112,@6,@6
-113,@1,@1
-114,@2,@2
-115,@3,@14
-116,@90,@90
-117,@15,@15
-118,@1,@1
-119,@17,@17
-120,@18,@18
-121,@19,@19
-122,@20,@20
-123,@21,@21
-124,@7,@108
-125,@15,@15
-126,@1,@1
-127,@2,@2
-128,@1,@1
-129,@2,@2
-130,@3,@3
-131,@4,@4
-132,@5,@5
-133,@6,@6
-134,@7,Defeat {TaskCount} Cruma Tower Floor 2 monster(s).
+101,@14,@14
+102,@15,@15
+103,@11,@11
+105,@18,@18
+106,@1,@1
+107,@20,@20
+108,@21,@21
+109,@11,@11
+110,@23,@23
+111,@24,@24
+112,@7,@65
+113,@18,@18
+114,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+115,@1,@1
+117,@1,@1
+118,@2,@2
+120,@4,@4
+121,@5,@5
+123,@7,Defeat {TaskCount} Ant Nest 2 monster(s).
+124,@1,@1
+125,@9,@9
+126,@10,@10
+127,@11,@11
+129,@1,@1
+130,@14,@14
+131,@15,@15
+132,@11,@11
+134,@18,@18
 135,@1,@1
-136,@9,@9
-137,@10,@10
-138,@6,@6
-139,@1,@1
-140,@2,@2
-141,@3,@14
-142,@90,@90
-143,@15,@15
+136,@20,@20
+137,@21,@21
+138,@11,@11
+139,@23,@23
+140,@24,@24
+141,@7,@123
+142,@18,@18
+143,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
 144,@1,@1
-145,@17,@17
-146,@18,@18
-147,@19,@19
-148,@20,@20
-149,@21,@21
-150,@7,@134
-151,@15,@15
-152,@1,@1
-153,@2,@2
+146,@1,@1
+147,@2,@2
+149,@4,@4
+150,@5,@5
+151,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+152,Beefing up the Mount!,Acquire {TaskCount} Mount Equipment.
+153,@7,@123
 154,@1,@1
-155,@2,@2
-156,@3,@3
-157,@4,@4
-158,@5,@5
-159,@6,@6
-160,@7,Defeat {TaskCount} Cruma Tower Floor 3 monster(s).
-161,@1,@1
-162,@9,@9
-163,@10,@10
-164,@6,@6
+155,@9,@9
+156,@10,@10
+157,@11,@11
+158,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+159,@1,@1
+160,@14,@14
+161,@15,@15
+162,@11,@11
+164,@18,@18
 165,@1,@1
-166,@2,@2
-167,@3,@14
-168,@90,@90
-169,@15,@15
-170,@1,@1
-171,@17,@17
-172,@18,@18
-173,@19,@19
-174,@20,@20
-175,@21,@21
-176,@7,@160
-177,@15,@15
-178,@1,@1
-179,@2,@2
-180,@1,@1
-181,@2,@2
-182,@3,@3
-183,@4,@4
-184,@5,@5
-185,@6,@6
-186,@7,@160
-187,@1,@1
-188,@9,@9
-189,@10,@10
-190,@6,@6
-191,@1,@1
-192,@2,@2
-193,@3,@14
-194,@90,@90
-195,@15,@15
+166,@20,@20
+167,@21,@21
+168,@11,@11
+169,@152,Level Up Mount Equipment {TaskCount} time(s).
+170,@23,@23
+171,@24,@24
+172,@7,@123
+173,@18,@18
+174,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+175,@1,@1
+177,@1,@1
+178,@2,@2
+180,@4,@4
+181,@5,@5
+182,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+183,@152,@152
+184,@7,Defeat {TaskCount} Cruma Tower Floor 2 monster(s).
+185,@1,@1
+186,@9,@9
+187,@10,@10
+188,@11,@11
+189,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+190,@1,@1
+191,@14,@14
+192,@15,@15
+193,@11,@11
+195,@18,@18
 196,@1,@1
-197,@17,@17
-198,@18,@18
-199,@19,@19
-200,@20,@20
-201,@21,@21
-202,@7,@160
-203,@15,@15
-204,@1,@1
-205,@2,@2
+197,@20,@20
+198,@21,@21
+199,@11,@11
+200,@152,@169
+201,@23,@23
+202,@24,@24
+203,@7,@184
+204,@18,@18
+205,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
 206,@1,@1
-207,@2,@2
-208,@3,@3
-209,@4,@4
-210,@5,@5
-211,@6,@6
-212,@7,Defeat {TaskCount} Ivory Tower Catacomb 1 monster(s).
-213,@1,@1
-214,@9,@9
-215,@10,@10
-216,@6,@6
-217,@1,@1
-218,@2,@2
-219,@3,@14
-220,@90,@90
-221,@15,@15
-222,@1,@1
-223,@17,@17
-224,@18,@18
-225,@19,@19
-226,@20,@20
-227,@21,@21
-228,@7,@212
-229,@15,@15
-230,@1,@1
-231,@2,@2
-232,@1,@1
-233,@2,@2
-234,@3,@3
-235,@4,@4
-236,@5,@5
-237,@6,@6
-238,@7,Defeat {TaskCount} Ivory Tower Catacomb 2 monster(s).
+208,@1,@1
+209,@2,@2
+211,@4,@4
+212,@5,@5
+213,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+214,@152,@152
+215,@7,Defeat {TaskCount} Cruma Tower Floor 3 monster(s).
+216,@1,@1
+217,@9,@9
+218,@10,@10
+219,@11,@11
+220,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+221,@1,@1
+222,@14,@14
+223,@15,@15
+224,@11,@11
+226,@18,@18
+227,@1,@1
+228,@20,@20
+229,@21,@21
+230,@11,@11
+231,@152,@169
+232,@23,@23
+233,@24,@24
+234,@7,@215
+235,@18,@18
+236,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+237,@1,@1
 239,@1,@1
-240,@9,@9
-241,@10,@10
-242,@6,@6
-243,@1,@1
-244,@2,@2
-245,@3,@14
-246,@90,@90
-247,@15,@15
-248,@1,@1
-249,@17,@17
-250,@18,@18
-251,@19,@19
-252,@20,@20
-253,@21,@21
-254,@7,@238
-255,@15,@15
-256,@1,@1
-257,@2,@2
+240,@2,@2
+241,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+242,@4,@4
+243,@5,@5
+244,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+245,@152,@152
+246,@7,@215
+247,@1,@1
+248,@9,@9
+249,@10,@10
+250,@11,@11
+251,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+252,@1,@1
+253,@14,@14
+254,@15,@15
+255,@11,@11
+257,@18,@18
 258,@1,@1
-259,@2,@2
-260,@3,@3
-261,@4,@4
-262,@5,@5
-263,@6,@6
-264,@7,Defeat {TaskCount} Ivory Tower Catacomb 3 monster(s).
-265,@1,@1
-266,@9,@9
-267,@10,@10
-268,@6,@6
-269,@1,@1
-270,@2,@2
-271,@3,@14
-272,@90,@90
-273,@15,@15
-274,@1,@1
-275,@17,@17
-276,@18,@18
-277,@19,@19
-278,@20,@20
-279,@21,@21
-280,@7,@264
-281,@15,@15
-282,@1,@1
-283,@2,@2
-284,@1,@1
-285,@2,@2
-286,@3,@3
-287,@4,@4
-288,@5,@5
-289,@6,@6
-290,@7,Defeat {TaskCount} Forest of Secrets Canopy monster(s).
-291,@1,@1
-292,@9,@9
-293,@10,@10
-294,@6,@6
-295,@1,@1
-296,@2,@2
-297,@3,@14
-298,@90,@90
-299,@15,@15
-300,@1,@1
-301,@17,@17
-302,@18,@18
-303,@19,@19
-304,@20,@20
-305,@21,@21
-306,@7,@212
-307,@15,@15
-308,@1,@1
-309,@2,@2
-310,@1,@1
-311,@2,@2
-312,@3,@3
-313,@4,@4
-314,@5,@5
-315,@6,@6
-316,@7,Defeat {TaskCount} Forest of Secrets Understory monster(s).
-317,@1,@1
-318,@9,@9
-319,@10,@10
-320,@6,@6
-321,@1,@1
-322,@2,@2
-323,@3,@14
-324,@90,@90
-325,@15,@15
-326,@1,@1
-327,@17,@17
+259,@20,@20
+260,@21,@21
+261,@11,@11
+262,@152,@169
+263,@23,@23
+264,@24,@24
+265,@7,@215
+266,@18,@18
+267,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+268,@1,@1
+269,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+270,@1,@1
+271,@2,@2
+272,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+273,@4,@4
+274,@5,@5
+275,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+276,@152,@152
+277,@7,Defeat {TaskCount} Ivory Tower Catacomb 1 monster(s).
+278,@1,@1
+279,@9,@9
+280,@10,@10
+281,@11,@11
+282,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+283,@1,@1
+284,@14,@14
+285,@15,@15
+286,@11,@11
+288,@18,@18
+289,@1,@1
+290,@20,@20
+291,@21,@21
+292,@11,@11
+293,@152,@169
+294,@23,@23
+295,@24,@24
+296,@7,@277
+297,@18,@18
+298,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+299,@1,@1
+300,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+301,@1,@1
+302,@2,@2
+303,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+304,@4,@4
+305,@5,@5
+306,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+307,@152,@152
+308,@7,Defeat {TaskCount} Ivory Tower Catacomb 2 monster(s).
+309,@1,@1
+310,@9,@9
+311,@10,@10
+312,@11,@11
+313,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+314,@1,@1
+315,@14,@14
+316,@15,@15
+317,@11,@11
+319,@18,@18
+320,@1,@1
+321,@20,@20
+322,@21,@21
+323,@11,@11
+324,@152,@169
+325,@23,@23
+326,@24,@24
+327,@7,@308
 328,@18,@18
-329,@19,@19
-330,@20,@20
-331,@21,@21
-332,@7,@212
-333,@15,@15
-334,@1,@1
-335,@2,@2
-336,@1,@1
-337,@2,@2
-338,@3,@3
-339,@4,@4
-340,@5,@5
-341,@6,@6
-342,@7,Defeat {TaskCount} Ivory Tower Floor 1 monster(s).
-343,@1,@1
-344,@9,@9
-345,@10,@10
-346,@6,@6
-347,@1,@1
-348,@2,@2
-349,@3,@14
-350,@90,@90
-351,@15,@15
-352,@1,@1
-353,@17,@17
-354,@18,@18
-355,@19,@19
-356,@20,@20
-357,@21,@21
-358,@7,Defeat {TaskCount} Ivory Tower Floor 2 monster(s).
-359,@15,@15
-360,@1,@1
-361,@2,@2
+329,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+330,@1,@1
+331,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+332,@1,@1
+333,@2,@2
+334,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+335,@4,@4
+336,@5,@5
+337,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+338,@152,@152
+339,@7,Defeat {TaskCount} Ivory Tower Catacomb 3 monster(s).
+340,@1,@1
+341,@9,@9
+342,@10,@10
+343,@11,@11
+344,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+345,@1,@1
+346,@14,@14
+347,@15,@15
+348,@11,@11
+350,@18,@18
+351,@1,@1
+352,@20,@20
+353,@21,@21
+354,@11,@11
+355,@152,@169
+356,@23,@23
+357,@24,@24
+358,@7,@339
+359,@18,@18
+360,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+361,@1,@1
+362,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+363,@1,@1
+364,@2,@2
+365,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+366,@4,@4
+367,@5,@5
+368,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+369,@152,@152
+370,@7,Defeat {TaskCount} Forest of Secrets Canopy monster(s).
+371,@1,@1
+372,@9,@9
+373,@10,@10
+374,@11,@11
+375,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+376,@1,@1
+377,@14,@14
+378,@15,@15
+379,@11,@11
+381,@18,@18
+382,@1,@1
+383,@20,@20
+384,@21,@21
+385,@11,@11
+386,@152,@169
+387,@23,@23
+388,@24,@24
+389,@7,@370
+390,@18,@18
+391,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+392,@1,@1
+393,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+394,@1,@1
+395,@2,@2
+396,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+397,@4,@4
+398,@5,@5
+399,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+400,@152,@152
+401,@7,Defeat {TaskCount} Forest of Secrets Understory monster(s).
+402,@1,@1
+403,@9,@9
+404,@10,@10
+405,@11,@11
+406,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+407,@1,@1
+408,@14,@14
+409,@15,@15
+410,@11,@11
+412,@18,@18
+413,@1,@1
+414,@20,@20
+415,@21,@21
+416,@11,@11
+417,@152,@169
+418,@23,@23
+419,@24,@24
+420,@7,@401
+421,@18,@18
+422,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+423,@1,@1
+424,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+425,@1,@1
+426,@2,@2
+427,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+428,@4,@4
+429,@5,@5
+430,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+431,@152,@152
+432,@7,용의 동굴 지하 1층 몬스터 {TaskCount}마리 처치
+433,@1,@1
+434,@9,@9
+435,@10,@10
+436,@11,@11
+437,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+438,@1,@1
+439,@14,@14
+440,@15,@15
+441,@11,@11
+443,@18,@18
+444,@1,@1
+445,@20,@20
+446,@21,@21
+447,@11,@11
+448,@152,@169
+449,@23,@23
+450,@24,@24
+451,@7,@432
+452,@18,@18
+453,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+454,@1,@1
+455,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).
+456,@1,@1
+457,@2,@2
+458,Clan Hall Visitor,Enter Clan Hall {TaskCount} time(s).
+459,@4,@4
+460,@5,@5
+461,For Your Clan!,Acquire {TaskCount} Proof(s) of Blood.
+462,@152,@152
+463,@7,용의 동굴 지하 2층 몬스터 {TaskCount}마리 처치
+464,@1,@1
+465,@9,@9
+466,@10,@10
+467,@11,@11
+468,Firing up the Workshop!,Make {TaskCount} Bind attempt(s).
+469,@1,@1
+470,@14,@14
+471,@15,@15
+472,@11,@11
+474,@18,@18
+475,@1,@1
+476,@20,@20
+477,@21,@21
+478,@11,@11
+479,@152,@169
+480,@23,@23
+481,@24,@24
+482,@7,@463
+483,@18,@18
+484,Supplying Clan Relic Chests,Acquire {TaskCount} Clan Relic Chest(s).
+485,@1,@1
+486,Precious Help from Clans,Answer a Clan Help Request {TaskCount} time(s).

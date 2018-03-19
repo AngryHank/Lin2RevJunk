@@ -1,0 +1,401 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Ruines elfiques 1,,,"Gorgée d’énergie magique, cette académie a vu les humains apprendre la magie elfe et s’imposer sur le continent."
+201,Ruines elfiques 2,,,"À l'époque où les elfes dominaient le continent, seuls les humains aux talents exceptionnels avaient accès à cet étage."
+202,Nid de fourmis 1,,,Une grotte bondée de fourmis géantes ayant muté pour survivre sur les Terres désolées suite à l'énorme explosion de magie noire.
+203,Nid de fourmis 2,,,"Pour protéger leurs trésors, les fourmis ont créé ce labyrinthe, où elles sont les seules à pouvoir se repérer."
+204,Tour de Cruma 2,,,"Forteresse mobile et centre scientifique voué à la création d’une forme de vie par les géants, ce lieu protège le laboratoire."
+205,Tour de Cruma 3,,,"Reflet de la vocation de la tour, cet étage dispose de moult laboratoires et recèle l'énergie magique des géants."
+206,Tour d'ivoire 1,,,"D’abord frappé par une météorite de nébulite, ce lieu d’études magiques a fermé suite à l’affaire des sorciers effrénés."
+207,Tour d'ivoire 2,,,"À l'origine, cet endroit accueillait un laboratoire alchimique, mais il est maintenant envahi de champignons durs comme la pierre."
+208,Tour d'ivoire 3,,,"Où se trouve la nébulite, la météorite. Des monstres renforcés sous l'effet de la nébulite errent par ici."
+209,Laboratoire de la Tour d'ivoire,,,C'est à la fois le laboratoire d'un sorcier de la Tour d'ivoire obsédé par la nébulite et l'endroit où il fut scellé. Beaucoup de sujets rôdent par ici.
+210,Canopée de la Forêt des secrets,,,Voici l'endroit où vivaient les fées. Les monstres ont envahi cette zone après la fuite des fées pour éviter les combats.
+211,Sous-bois de la Forêt des secrets,,,"La Forêt des secrets est très dense, le soleil n'y pénètre pas et les monstres y ont élu domicile."
+212,Site du massacre de la Forêt des secrets,,,Voici où reposent les fées qui ont résisté à la chasse aux fées. Un sinistre brouillard rouge sang flotte en permanence.
+4000,Jardin d'écaille irisée (factice),,,
+9000,Épreuves d'expérience I,Pierre d'amélioration,Sert à obtenir 1 tirage de Pierre d'amélioration.,De nombreuses Pierres d'invocation maléfiques installées par la Sombre confrérie n'ont pas encore été découvertes. Pénétrez l'Extramonde pour vaincre les monstres et les retirer.
+9001,Épreuves d'expérience II,@9000,Sert à obtenir 2 tirages de Pierre d'amélioration.,@9000
+9002,Épreuves d'expérience III,@9000,Sert à obtenir 3 tirages de Pierre d'amélioration.,@9000
+9003,Épreuves d'expérience IV,@9000,Sert à obtenir 5 tirages de Pierre d'amélioration.,@9000
+9100,Épreuves d'expérience V,@9000,@9003,@9000
+9004,Donjon d'Adena I,@9000,@9000,"Shunaiman, l'empereur d'Elmoreden, utilisait ce lieu pour stocker l'or pour construire la Tour de l'insolence. Après sa mort, il s'est retrouvé occupé par Kresous, le dragon d'or."
+9005,Donjon d'Adena II,@9000,@9001,@9004
+9006,Donjon d'Adena III,@9000,@9002,@9004
+9009,Gardien du temple I,@9000,@9000,"Le temple elfique qui abrite le cristal aquatique béni par Eva. Hardin a ordonné aux Mercenaires Lumargent de protéger le temple, et ainsi le cristal contre la Sombre confrérie."
+9010,Gardien du temple II,@9000,@9001,@9009
+9011,Gardien du temple III,@9000,@9002,@9009
+9012,Gardien du temple IV,@9000,@9003,@9009
+9300,Gardien du temple V,@9000,@9003,@9009
+9013,Cercle d'invocation I,@9000,@9000,Protégez Feldheim tandis qu'il dissipe la magie de l'artefact sacré scellé et terminez le donjon pour obtenir la Pierre d'invocation.
+9014,Cercle d'invocation II,@9000,@9001,@9013
+9015,Cercle d'invocation III,@9000,@9002,@9013
+9016,Cercle d'invocation IV,@9000,@9003,@9013
+9017,Donjon de Pierre de raffinement I,@9000,@9000,Détruisez le portail interdimensionnel qui invoque les monstres et obtenez des récompenses.
+9018,Donjon de Pierre de raffinement II,@9000,@9001,@9017
+9019,Donjon de Pierre de raffinement III,@9000,@9002,@9017
+9020,Donjon de Pierre de raffinement IV,@9000,@9003,@9017
+11100,Sanctuaire antique I,Boîte de sélection de Pierre d'amélioration,Sert à obtenir 1 Boîte de sélection de Pierres d'amélioration.,
+11101,Sanctuaire antique II,@11100,Sert à obtenir 2 Boîtes de sélection de Pierres d'amélioration.,
+11102,Sanctuaire antique III,@11100,Sert à obtenir 3 Boîtes de sélection de Pierres d'amélioration.,
+11103,Sanctuaire antique IV,@11100,Sert à obtenir 4 Boîtes de sélection de Pierres d'amélioration.,
+11104,Sanctuaire antique V,Boîte de sélection de Pierre d'amélioration radieuse,Sert à obtenir 1 Boîte de sélection de Pierre d'amélioration radieuse.,
+11200,Sanctuaire des traqueurs I,Parchemin : arme,Sert à obtenir 1 Parchemin : arme.,
+11201,Sanctuaire des traqueurs II,@11200,Sert à obtenir 2 Parchemins : perfectionnement d'arme.,
+11202,Sanctuaire des traqueurs III,@11200,Sert à obtenir 3 Parchemins : perfectionnement d'arme.,
+11203,Sanctuaire des traqueurs IV,@11200,Sert à obtenir 4 Parchemins : perfectionnement d'arme.,
+11204,Sanctuaire des traqueurs V,Parchemin de perfectionnement d'équipement de monture et d'arme,"Sert à obtenir 5 Parchemins de perfectionnement d'arme et
+1 Parchemin de perfectionnement d'équipement de monture.",
+11300,Sanctuaire des guerriers I,Pierre d'amélioration d'arme,Sert à obtenir 1 Pierre d'amélioration d'arme.,
+11301,Sanctuaire des guerriers II,@11300,Sert à obtenir 2 Pierres d'amélioration d'arme.,
+11302,Sanctuaire des guerriers III,@11300,Sert à obtenir 3 Pierres d'amélioration d'arme.,
+11303,Sanctuaire des guerriers IV,@11300,Sert à obtenir 4 Pierres d'amélioration d'arme.,
+11304,Sanctuaire des guerriers V,Pierre d'amélioration d'arme radieuse,Sert à obtenir 1 Pierre d'amélioration d'arme radieuse.,
+11400,Sanctuaire bestial I,Parchemin : armure,Sert à obtenir 1 Parchemin : armure.,
+11401,Sanctuaire bestial II,@11400,Sert à obtenir 2 Parchemins : perfectionnement d'armure.,
+11402,Sanctuaire bestial III,@11400,Sert à obtenir 3 Parchemins : perfectionnement d'armure.,
+11403,Sanctuaire bestial IV,@11400,Sert à obtenir 4 Parchemins : perfectionnement d'armure.,
+11404,Sanctuaire bestial V,Parchemin de perfectionnement d'équipement de monture et d'armure,"Sert à obtenir 5 Parchemins de perfectionnement d'armure et
+1 Parchemin de perfectionnement d'équipement de monture.",
+11500,Sanctuaire monstrueux I,Pierre d'amélioration d'armure,Sert à obtenir 1 Pierre d'amélioration d'armure.,
+11501,Sanctuaire monstrueux II,@11500,Sert à obtenir 2 Pierres d'amélioration d'armure.,
+11502,Sanctuaire monstrueux III,@11500,Sert à obtenir 3 Pierres d'amélioration d'armure.,
+11503,Sanctuaire monstrueux IV,@11500,Sert à obtenir 4 Pierres d'amélioration d'armure.,
+11504,Sanctuaire monstrueux V,Pierre d'amélioration d'armure radieuse,Sert à obtenir 1 Pierre d'amélioration d'armure radieuse.,
+11600,Sanctuaire démoniaque I,Parchemin : accessoire,Sert à obtenir 1 Parchemin : accessoire.,
+11601,Sanctuaire démoniaque II,@11600,Sert à obtenir 2 Parchemins : perfectionnement d'accessoire.,
+11602,Sanctuaire démoniaque III,@11600,Sert à obtenir 3 Parchemins : perfectionnement d'accessoire.,
+11603,Sanctuaire démoniaque IV,@11600,Sert à obtenir 4 Parchemins : perfectionnement d'accessoire.,
+11604,Sanctuaire démoniaque V,Parchemin de perfectionnement d'équipement de monture et d'accessoire,"Sert à obtenir 5 Parchemins de perfectionnement d'accessoire et
+1 parchemin de perfectionnement d'équipement de monture.",
+11700,Sanctuaire des souvenirs I,Pierre d'amélioration d'accessoire,Sert à obtenir 1 Pierre d'amélioration d'accessoire.,
+11701,Sanctuaire des souvenirs II,@11700,Sert à obtenir 2 Pierres d'amélioration d'accessoire.,
+11702,Sanctuaire des souvenirs III,@11700,Sert à obtenir 3 Pierres d'amélioration d'accessoire.,
+11703,Sanctuaire des souvenirs IV,@11700,Sert à obtenir 4 Pierres d'amélioration d'accessoire.,
+11704,Sanctuaire des souvenirs V,Pierre d'amélioration d'accessoire radieux,Sert à obtenir 1 Pierre d'amélioration d'accessoire radieux.,
+12001,Tour de l'insolence Étage {IntParam},@9000,,
+12002,@12001,Parchemin de perfectionnement,,
+12003,@12001,Preuve de sang,,
+12004,@12001,Cristal d'âme,,
+12005,@12001,Adena,,
+12006,@12001,Ticket de tirage d'équipement,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Ruines du géant inférieur,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Donjon d'extraction,@12003,,Une mine secrète formée sous la Tour d'ivoire et qui abrite la nébulite de la météorite. De nombreuses Herbes aux pouvoirs mystérieux y poussent.
+60001,Didacticiel officiel,EXP,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Vestige de Varkaron,@12003,,"Les lames acérées de Varkaron
+infligeront des saignements importants."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Grotte de la Reine fourmi,@12003,,"Dans les profondeurs de sa grotte,
+la Reine fourmi maîtrise les poisons."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Salle du Cœur de Cruma,@12003,,"Le Cœur de Cruma est le cœur de la Tour de Cruma.
+Il protège le savoir des géants inférieurs qui est scellé dans la Tour de Cruma."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Cadeau divin,,,
+70004,@70003,,,
+100001,Autel de la folie,,,"Les sorciers de la <GreenBold>Tour d'ivoire</>
+cherchent à retrouver une partie des éclats volés.
+
+Lors de leur enquête,
+ils ont découvert que <BlueBold>Laenis</>, une sorcière
+de la <GreenBold>Tour d'ivoire</>, avait disparu.
+En suivant sa trace,
+ils sont tombés sur un village peuplé par les <RedBold>chamans orcs timak</>.
+
+Les sorciers en ont déduit que <BlueBold>Laenis</> s'était fait enlevée
+par les <RedBold>orcs</>
+et sont entrés dans le village pour la sauver.
+Mais ils ont été contraints de se replier face 
+à l'incroyable puissance des <RedBold>orcs</>.
+Les sorciers de la <GreenBold>Tour d'ivoire</> ont accéléré
+l'enquête sur les <RedBold>orcs</>, et ont recruté
+les <BlueBold>Mercenaires Lumargent</> pour les aider à sauver <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Boudoir de la comtesse du sang,,,"La soudaine disparition de la <RedBold>comtesse Trisha</>, autrefois chérie
+par le Seigneur de Giran,
+
+a profondément bousculé la noblesse de Giran.
+Ils savaient que si cette information venait à arriver sur les terres hostiles
+d'Oren, leur situation politique serait mise à mal.
+Le seigneur de Giran a secrètement déployé le <BlueBold>capitaine Tark</>
+à la tête d'un groupe de recherche pour la retrouver.
+
+Après avoir appris que la <RedBold>comtesse Trisha</> avait été vue pour la dernière fois avec
+son <RedBold>Chevalier Gardien</> au <GreenBold>port de Giran</>, le <BlueBold>capitaine Tark</> et
+son groupe de recherche se sont déguisés en Rangers sanguinaires
+et ont secrètement fouillé <GreenBold>l'Île du diable</>.
+Mais après s'être retrouvé dans de nombreuses situations périlleuses,
+le <BlueBold>capitaine Tark</> a été contraint de demander l'aide des
+<BlueBold>Mercenaires Lumargent</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

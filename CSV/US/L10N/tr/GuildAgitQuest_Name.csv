@@ -1,0 +1,136 @@
+Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
+1,Doğu Konuşkan Ada,{ReplaceString1} Keşif,Doğu Konuşkan Ada,{ReplaceString2} Canavar Yen,Doğu Konuşkan Ada'da {TaskCount} canavar yen.
+2,Batı Konuşkan Ada,@1,Batı Konuşkan Ada,@1,Batı Konuşkan Ada'da {TaskCount} canavar yen.
+3,Gludin Yolu,@1,Gludin Yolu,@1,Gludin Yolu'nda {TaskCount} canavar yen.
+4,Gludio Ovası,@1,Gludio Ovası,@1,Gludio Ovası'nda {TaskCount} canavar yen.
+5,Windawood Köşkü,@1,Windawood Köşkü,@1,Windawood Köşkü'nde {TaskCount} canavar yen.
+6,Çorak Diyar,@1,Çorak Diyar,@1,Çorak Diyar'da {TaskCount} canavar yen.
+7,Dion Ovası,@1,Dion Ovası,@1,Dion Ovası'nda {TaskCount} canavar yen.
+8,Cruma Bataklığı,@1,Cruma Bataklığı,@1,Cruma Bataklığı'nda {TaskCount} canavar yen.
+9,Uyumsuzluk Zirvesi,@1,Uyumsuzluk Zirvesi,@1,Uyumsuzluk Zirvesi'nde {TaskCount} canavar yen.
+10,Uluyan Oyuk,@1,Uluyan Oyuk,@1,Uluyan Oyuk'da {TaskCount} canavar yen.
+11,Giran Bölgesi,@1,Giran Bölgesi,@1,Giran Bölgesi'nde {TaskCount} canavar yen.
+12,Ölümcül Sis Kıyıları,@1,Ölümcül Sis Kıyıları,@1,Ölümcül Sis Kıyıları'nda {TaskCount} canavar yen.
+13,Şeytan Adası,@1,Şeytan Adası,@1,Şeytan Adası'nda {TaskCount} canavar yen.
+14,@13,@1,@13,@1,@13
+15,Lanetli Mezarşehir,@1,Lanetli Mezarşehir,@1,Lanetli Mezarşehir'de {TaskCount} canavar yen.
+16,@15,@1,@15,@1,@15
+101,Elf Harabeleri Kat 1,Oto-Temizleme {ReplaceString1},Elf Harabeleri Kat 1,@1,Elf Harabeleri Kat 1'de {TaskCount} canavar yen.
+102,Elf Harabeleri Kat 2,@101,Elf Harabeleri Kat 2,@1,Elf Harabeleri Kat 2'de {TaskCount} canavar yen.
+103,Karınca Yuvası Dehliz 1,@101,Karınca Yuvası Dehliz 1,@1,Karınca Yuvası Dehliz 1'de {TaskCount} canavar yen.
+104,Karınca Yuvası Dehliz 2,@101,Karınca Yuvası Dehliz 2,@1,Karınca Yuvası Dehliz 2'de {TaskCount} canavar yen.
+105,Cruma Kulesi Kat 2,@101,Cruma Kulesi Kat 2,@1,Cruma Kulesi Kat 2'de {TaskCount} canavar yen.
+106,Cruma Kulesi Kat 3,@101,Cruma Kulesi Kat 3,@1,Cruma Kulesi Kat 3'de {TaskCount} canavar yen.
+107,Fildişi Kulesi Dehliz 1,@101,Fildişi Kulesi Dehliz 1,@1,Fildişi Kulesi Dehliz 1'de {TaskCount} canavar yen.
+108,@107,@101,@107,@1,@107
+109,Fildişi Kulesi Dehliz 2,@101,Fildişi Kulesi Dehliz 2,@1,Fildişi Kulesi Dehliz 2'de {TaskCount} canavar yen.
+110,@109,@101,@109,@1,@109
+111,Fildişi Kulesi Dehliz 3,@101,Fildişi Kulesi Dehliz 3,@1,Fildişi Kulesi Dehliz 3'de {TaskCount} canavar yen.
+112,@111,@101,@111,@1,@111
+201,Kayıp Hatıralar Sığınağı,{ReplaceString1} Araştırma,Günlük Zindan,@1,Günlük Zindan'da {TaskCount} canavar yen.
+202,@201,@201,@201,@1,@201
+203,Botanik Zindanı,@201,Botanik Zindanı,@1,Botanik Zindanı'nda {TaskCount} canavar yen.
+204,@203,@201,@203,@1,@203
+205,Su Tapınağı,{ReplaceString1} Koru.,Ekipman Zindanı,@1,Ekipman Zindanı'nda {TaskCount} canavar yen.
+206,@205,@205,@205,@1,@205
+207,Kresous’un Kasası,{ReplaceString1} Salla,Adena Zindanı,@1,Adena Zindanı'nda {TaskCount} canavar yen.
+208,@207,@207,@207,@1,@207
+209,Yer Altı Yarığı,{ReplaceString1} Fetih,TP Zindanı,@1,TP Zindanı'nda {TaskCount} canavar yen.
+210,@209,@209,@209,@1,@209
+211,Mühürlü Giriş,@201,Binek Zindanı,@1,Çağırma Taşı zindanlarında {TaskCount} canavar yen.
+212,@211,@201,@211,@1,@211
+301,Kötülük Çağırma Taşı (Nadir),Arındırma {ReplaceString1},Nadir Canavar Çağırma Taşı,@1,Zindanda Nadir Canavar Çağırma Taşı kullanarak {TaskCount} canavar yen.
+302,@301,@301,@301,@1,@301
+303,Kötülük Çağırma Taşı (Baş Düşman),@301,Baş Düşman Çağırma Taşı,@1,Zindanda Baş Düşman Çağırma Taşı kullanarak {TaskCount} canavar yen.
+351,,Kasap,,Oyuncu Pk,{TaskCount} kez başka bir oyuncuyu saldır.
+352,,@351,,@351,@351
+401,Hayalet Çoban,{ReplaceString1} Yen,@2,{ReplaceString2} Saha Baş Düşmanını yen,Batı Konuşkan Ada'da {TaskCount} Hayalet Çoban yen.
+402,Zodyak,@401,@3,@401,Gludin Yolu'nda {TaskCount} Zodyak yen.
+403,Gümüşsakal,@401,@4,@401,Gludio Ovası'nda {TaskCount} Gümüşsakal yen.
+404,Vapar,@401,@5,@401,Windawood Köşkü'nde {TaskCount} Vapar yen.
+405,Kazir,@401,@6,@401,Çorak Diyar'da {TaskCount} Kazir yen.
+406,Flagon,@401,@7,@401,Dion Ovası Baş Düşmanı Flagon'u {TaskCount} kez yen.
+407,Sina,@401,@8,@401,Cruma Bataklığı'nda {TaskCount} Sina yen.
+408,Amadeus,@401,@9,@401,Uyumsuzluk Zirvesi'nde {TaskCount} Amadeus yen.
+409,Stenoa,@401,@11,@401,Giran Bölgesi'nde {TaskCount} Stenoa yen.
+1001,,"Yoğun, Her Gün Yoğun",Günlük Görevler,Yerine Getirilen {ReplaceString2},{TaskCount} Günlük Görev tamamla.
+1002,,"Yoğun, Her Hafta Yoğun",Haftalık Görevler,@1001,{TaskCount} Haftalık Görev tamamla.
+1011,,Parşömenlerden Adena Tedariği,C,Derece {ReplaceString2} veya üstü Görev Parşömeni Tamamla,C-derece veya üzeri Görev Parşömeni'ni {TaskCount} kez tamamla.
+1012,,@1011,B,@1011,B-derece veya üzeri Görev Parşömeni'ni {TaskCount} kez tamamla.
+1013,,@1011,A,@1011,A-derece veya üzeri Görev Parşömeni'ni {TaskCount} kez tamamla.
+1014,,@1011,S,@1011,S-derece veya üzeri Görev Parşömeni'ni {TaskCount} kez tamamla.
+1031,,Vur ve Tekrar Vur,,Kombo Başar,Peş peşe saldırılarla {TaskCount} komboya ulaş.
+1032,,Yıkıcı Saldırı,,Tek Saldırıdan Verdiğin Maks Hasar,Tek vuruşta {TaskCount}000000 veya üstü hasar ver.
+1101,Canavar,{ReplaceString1} Kasap,Normal Canavar,{ReplaceString2} Yen,{TaskCount} canavar yen.
+1102,Elit Canavar,@1101,Elit Canavar,@1101,{TaskCount} Elit canavar yen.
+1103,Baş Düşman,@1101,Baş Düşman,@1101,{TaskCount} Baş Düşman yen.
+1104,,Sınıf Geçişi Gizli Arkadaş,Kyrios,@1101,{TaskCount} Kyrios yen.
+1105,,Bahçe Nöbetçisi,Bahçe Nöbetçisi,@1101,Botanik Zindanı'nda {TaskCount} Bahçe Nöbetçisi yen.
+1106,@203,{ReplaceString1} Manya,Mandragora,@1101,Botanik Zindanı'nda {TaskCount} Mandagora yen.
+1107,Bronz,{ReplaceString1} Botanik Zindanı,Yeşil Gürbüz Ratel,@1101,Botanik Zindanı'nda {TaskCount} Yeşil Gürbüz Ratel yen.
+1108,Gümüş,@1107,Gümüş Gürbüz Ratel,@1101,Botanik Zindanı'nda {TaskCount} Gümüş Gürbüz Ratel yen.
+1109,Altın,@1107,Altın Gürbüz Ratel,@1101,Botanik Zindanı'nda {TaskCount} Altın Gürbüz Ratel yen.
+1151,Varkaron'u Yen,{ReplaceString1} için Hazırlan,Klan Zindanı Canavarı (Varkaron),@1101,Klan Zindanın'da {TaskCount} canavar yen. (Varkaron)
+1152,Kraliçe Karınca'yı Yen,@1151,Klan Zindanı Canavarı (Kraliçe Karınca),@1101,Klan Zindanın'da {TaskCount} canavar yen. (Kraliçe Karınca)
+1153,Cruma Çekirdeği'ni Yen,@1151,Klan Zindanı Canavarı (Cruma Çekirdeği),@1101,Klan Zindanın'da {TaskCount} canavar yen. (Cruma Çekirdeği)
+1201,Arena,{ReplaceString1} Tur,,Arenaya Katıl,{TaskCount} kez arenaya gir.
+1202,@1201,@209,,Arenada Kazan,{TaskCount} Arena maçı kazan.
+1203,@1201,{ReplaceString1} Galibiyet Serisi,,Arenada Art Arda Kazan,Arena'da peş peşe {TaskCondition} karşılaşma kazan.
+1301,Günlük Zindan,@209,Zor veya üstü,Günlük Zindan Tamamla ({ReplaceString2}),Günlük Zindanları {TaskCount} kez tamamla. (Zor veya üzeri)
+1303,,Gökyüzüne Doğru,,Kibir Kulesi Oto-Temizleme,Kibir Kulesi'ni {TaskCount} kez Oto-Temizle.
+1304,,Bitki Kralı,,Botanik Zindanı'nda Bitki Topla,Botanik Zindanı'nda {TaskCount} bitki topla.
+1306,@207,{ReplaceString1} Master,@1301,SS veya daha yüksek derece ile Adena Zindanı ({ReplaceString2}) Tamamla,"{TaskCount} Adena Zindanı Tamamla (Zor)
+SS veya daha İyi"
+1307,@207,@1106,,Adena Zindanı Kombo Başarımını Elde Et, Adena Zindanı'nda {TaskCondition} kombo yap.
+1308,@209,@209,@1301,SSS veya daha yüksek derece ile TP Zindanı ({ReplaceString2}) Tamamla,"TP Zindanı'nı Tamamla (Zor veya üzeri)
+{TaskCount} kez tamamla. (Zor veya üzeri)"
+1401,Karanlık Lord,@401,Varkaron (Kolay),@1101,{TaskCount} Varkaron'un İzi yen. (Kolay)
+1402,@1401,@401,Varkaron (Normal),@1101,{TaskCount} Varkaron'un İzi yen. (Normal)
+1403,@1401,@401,Varkaron (Zor),@1101,{TaskCount} Varkaron'un İzi yen. (Zor)
+1411,Koloni Ninesi,@401,Kraliçe Karınca (Kolay),@1101,Kraliçe Karınca'nın Mağarası'nı {TaskCount} kez tamamla. (Kolay)
+1412,@1411,@401,Kraliçe Karınca (Normal),@1101,Kraliçe Karınca'nın Mağarası'nı {TaskCount} kez tamamla. (Normal)
+1413,@1411,@401,Kraliçe Karınca (Zor),@1101,Kraliçe Karınca'nın Mağarası'nı {TaskCount} kez tamamla. (Zor)
+1421,Zihin Kontrolörü,@401,Cruma Çekirdeği (Kolay),@1101,Cruma Çekirdeği Odası'nı {TaskCount} kez tamamla. (Kolay)
+1422,@1421,@401,Cruma Çekirdeği (Normal),@1101,Cruma Çekirdeği Odası'nı {TaskCount} kez tamamla. (Normal)
+1423,@1421,@401,Cruma Çekirdeği (Zor),@1101,Cruma Çekirdeği Odası'nı {TaskCount} kez tamamla. (Zor)
+1501,,Run İşlemeyi Seviyorum,,Run İşleme Dene,{TaskCount} kez Run işleme dene.
+1502,,En İyisi Run İşleme,,Run İşleme Başarılı,Run İşlemede {TaskCount} kez başarılı ol.
+1511,,En İyisi İksirler,,İksir Üret,{TaskCount} İksir Üret
+1521,,Paragöz,Adena,{ReplaceString2} Al,{TaskCount} Adena al.
+1522,Klanlar,{ReplaceString1} İçin,Kan Nişanı,@1521,{TaskCount} Kan Nişanı al.
+1523,Klan Zindanı,@1522,Kırmızı Yıldıztaşı,@1521,{TaskCount} Kırmızı Yıldıztaşı al.
+1524,Canavar Özü,@1106,Canavar Özü,@1521,{TaskCount} Canavar Özü al.
+1525,Ruh Kristali,@1106,Ruh Kristali,@1521,{TaskCount} Ruh Kristali al.
+1527,C,Derece {ReplaceString1} Eşya Tutkusu,@1011,Derece {ReplaceString2} Eşya Al,{TaskCount} C-derece eşya edin.
+1528,B,@1527,@1012,@1527,{TaskCount} Derece B eşya al.
+1529,A,@1527,@1013,@1527,{TaskCount} Derece A eşya al.
+1530,Ekstra Yüksek-derece,{ReplaceString1} Eşya Tutkusu,@1014,Derece {ReplaceString2} veya üstü eşya kazan,{TaskCount} S-derece veya üzeri eşya edin.
+1551,Ekipman,@1106,Ekipman,{ReplaceString2} eşya kazan,{TaskCount} ekipman eşyası al.
+1552,Binek Ekipmanı,@1106,Binek Ekipmanı,@1551, {TaskCount} binek ekipmanı edin.
+1601,,Ekipman Kuvvetlendirmenin Temelleri,@1551,{ReplaceString2} seviye yükseltmeyi dene,Ekipman seviyesi yükseltmeyi {TaskCount} kez dene.
+1602,,Binek Ekipmanları Önemlidir,@1552,@1601,Binek ekipmanı seviyesi yükseltmeyi {TaskCount} kez dene.
+1603,,Ekipmanlar Nasıl Güçlendirilir,Geliştirme,Ekipman {ReplaceString2} dene,{TaskCount} kez ekipman geliştirmeyi dene.
+1604,,Hayallerindeki Ekipman İçin,Birleştirme,@1603,{TaskCount} kez Ekipman Birleştirme dene.
+1605,,Güvenilir Ellerle Güçlendirme,Güçlendir,@1603,{TaskCount} kez Ekipman Güçlendirme dene.
+1606,,Rahat Kafayla Güçlendirme,Ekipman Güçlendirme Başarılı,{ReplaceString2},{TaskCount} Başarılı Ekipman Güçlendirme.
+1607,,Hepsinden Önce Ek Özellik Güçlendirmesi,Ek Özellik Güçlendirme,@1603,{TaskCount} kez ek özellik güçlendirmeyi dene.
+1608,,Altdeğerler de Önemlidir,Altdeğer Değiştir,@1603,{TaskCount} kez altdeğer değiştirmeyi dene.
+1609,,Limit Yoktur,Limit Kırma,@1603,{TaskCount} kez limit kırmayı dene.
+1801,,"Daha güçlü, Daha hızlı",Güç Şerbeti,Kullan {ReplaceString2},{TaskCount} Güç Şerbeti kullan.
+1802,Can,@1522,Can Yenileyici,@1801,{TaskCount} Can Yenileyici kullan.
+1803,@1802,@1522,Mana Yenileyici,@1801,{TaskCount} Mana Yenileyici kullan.
+1804,Aden Dünyası,{ReplaceString1} Büyüyüşü,@1521,@1801,{TaskCount} Adena kullan.
+1805,@1804,{ReplaceString1} Gelişimi,Kırmızı Elmas,@1801,{TaskCount} Kırmızı Elmas kullan.
+1806,@1804,{ReplaceString1} Görkemi,Mavi Elmas,@1801,{TaskCount} Mavi Elmas kullan.
+1807,,İnce bir dokunuşla Güçlendirme,@1605,@1603,{TaskCount} kez ekipman güçlendirmeyi dene.
+1901,@1522,@1522,,Klan Katkı Puanı Al,{TaskCount} Klan Katkı Puanı'na Ulaş.
+1902,,Kibar Klan Üyesi,,Klan Üyelerini Selamla,Klan üyelerini {TaskCount} kez selamla.
+1903,,En Yüksek Bağışçı,,Klan Bağışı,Klana {TaskCount} kez bağış yap.
+1904,@1522,@1804,@1521,Klana {ReplaceString2} Bağış Yap,Klana {TaskCount} Adena bağışla.
+1905,@1522,@1805,@1522,@1904,Klana {TaskCount} Kan Nişanı bağışla.
+1906,@1522,@1806,@1523,@1904,Klana {TaskCount} Kırmızı Yıldıztaşı bağışla.
+9015,,Çok fazla değil ama tadını çıkar,Küçük Ziyafet,Klan Meydanı'nda {ReplaceString2} hazırla.,Klan Meydanı'nda {TaskCount} Küçük Ziyafet hazırla.
+9016,,Pişirme Yeteneklerini Göster,Orta Ziyafet,@9015,Klan Meydanı'nda {TaskCount} Orta Ziyafet hazırla.
+9017,,Bu akşam ziyafet var!,Büyük Ziyafet,@9015,Klan Meydanı'nda {TaskCount} Büyük Ziyafet hazırla.
+9018,,Kaplan Gücü,,Klan Meydanı'nda kişisel yenileyici hazırla.,Klan Meydanı'nda {TaskCount} kişisel yenileyici hazırla.
+9019,,Yadigar Kralı,,Klan Meydanı'nda yadigar değerlendirme,Klan Meydanı'nda {TaskCount} yadigar değerlendir.

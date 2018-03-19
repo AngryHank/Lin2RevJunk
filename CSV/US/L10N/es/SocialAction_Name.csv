@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Cargar,¡Cargad todos!,¡Cargad!,¡Cargad!,¡A la carga!
+2,Victoria,¡Solo conozco la victoria!,¡Por la victoria!,¡Solo conozco la victoria!,¡Por la victoria!
+3,Saludar,¿Cómo lo haces?,Hola.,¡Encantado!,¡Hola!
+4,Risa,"¡Ja, ja, ja!","¡Jo, jo, jo!","¡Ja, ja, ja, ja, ja!","¡Muaja, ja, ja!"
+5,Tristeza,*Llanto*,¡*Snif*!,*Snif*...,¡Buaaaaaa!
+6,Choca esos cinco,¡Choca esos cinco!,¡Choca esos cinco!,¡Choca esos cinco!,¡Choca esos cinco!
+7,Palmada,¡Impresionante!,¡Increíble!,Magnífico.,¡Vaya! ¡Impresionante!
+8,Consternado,No me lo puedo creer...,¿Cómo es posible?,¿Qué puñetas...?,Madre mía...
+9,Enfado,¡Me estoy enfadando!,¡Pfff!,¡Uooooooaaaaa!,¡Arrrrgh! ¡Estoy enfadado!
+1001,Invocar maligno,,,,
+1002,Ir a la aldea,,,,
+10001,Victoria de humanos en la arena,,,,
+10002,Derrota de humanos en la arena,,,,
+10003,Victoria de elfos en la arena,,,,
+10004,Derrota de elfos en la arena,,,,
+10005,Victoria de elfos oscuros en la arena,,,,
+10006,Derrota de elfos oscuros en la arena,,,,
+10007,Victoria de enanos en la arena,,,,
+10008,Derrota de enanos en la arena,,,,
+100001,Acción táctil #1,,,,
+100002,Acción táctil #2,,,,
+100003,Acción táctil #3,,,,
+100004,Acción táctil #4,,,,

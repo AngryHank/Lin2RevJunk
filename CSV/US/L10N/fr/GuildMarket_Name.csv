@@ -1,0 +1,63 @@
+Id,ItemName,Desc1,Desc2
+4,Boîte de sélection d'Essence d'Élixir,Sert à sélectionner et à obtenir une Essence d'Élixir.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+5,Boîte de sélection de pillage auto,Sert à sélectionner et à obtenir 1 ticket de pillage auto.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+10,Boîte de Fragment de Pierre d'invocation,Sert à acquérir différents fragments de Pierre d'invocation aléatoires de montures.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+11,Boîte de Parchemin de perfectionnement,Sert à obtenir un Parchemin de perfectionnement aléatoire.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+12,Boîte de Pierre d'amélioration,Sert à obtenir une Pierre d'amélioration aléatoire.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+26,EXP.,Sert à obtenir de l'EXP.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+27,EXP. supérieure,Sert à obtenir une grande quantité d'EXP.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+30,Parchemin d'évasion,Sert à se téléporter.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+31,5 Protections de Maphr,Liez des fragments pour obtenir la Protection de Maphr.,Disponible à partir du niveau de clan {RequiredGuildLevel}.
+30000103,1 boîte d'équipement de clan,Sert à obtenir de l'équipement A - SR aléatoire.,
+30000104,10 Boîtes équip. de clan (+1 bonus),Sert à obtenir de l'équipement A - SR aléatoire.,
+30000105,1 boîte de parchemin de perfectionnement de clan,@11,
+30000106,200 potions de PV,Restaure une petite quantité de PV.,
+30000107,200 potions de PM,Restaure une petite quantité de PM.,
+30000108,5 000 traits d'âme,Sert à imprégner une arme d'un mystérieux pouvoir augmentant les dégâts.,
+30000109,1 boîte de renforcement de monture,"Sert à obtenir une des options suivantes : Équipement de monture (A - SR), boîte de Pierre d'évolution (petite - grande) ou un fragment de Pierre d'invocation de monture (Ours noir, Saint argenté, Kukurin et le Lion velu).",
+30000110,10 Boîtes renf. de monture (+1 bonus),@30000109,
+201,Augm. délai marquage de relique niv. 1,Augmente la durée requise pour marquer une relique de 1 s.,
+202,Augm. délai marquage de relique niv. 2,Augmente la durée requise pour marquer une relique de 2 s.,
+203,Augm. délai marquage de relique niv. 3,Augmente la durée requise pour marquer une relique de 3 s.,
+204,Augm. délai marquage de relique niv. 4,Augmente la durée requise pour marquer une relique de 4 s.,
+205,Augm. délai marquage de relique niv. 5,Augmente la durée requise pour marquer une relique de 5 s.,
+206,Augm. dur. de la Tour de défense niv. 1,,
+207,Augm. dur. de la Tour de défense niv. 2,Augmente la durabilité de la Tour de défense de 20 000.,
+208,Augm. dur. de la Tour de défense niv. 3,Augmente la durabilité de la Tour de défense de 30 000.,
+209,Augm. dur. de la Tour de défense niv. 4,Augmente la durabilité de la Tour de défense de 40 000.,
+210,Augm. dur. de la Tour de défense niv. 5,Augmente la durabilité de la Tour de défense de 50 000.,
+211,Augmentation de l'ATQ du piège niv. 1,"Augmente l'ATQ du piège de 1 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi.",
+212,Augmentation de l'ATQ du piège niv. 2,"Augmente l'ATQ du piège de 2 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi.",
+213,Augmentation de l'ATQ du piège niv. 3,"Augmente l'ATQ du piège de 3 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi.",
+214,Augmentation de l'ATQ du piège niv. 4,"Augmente l'ATQ du piège de 4 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi.",
+215,Augmentation de l'ATQ du piège niv. 5,"Augmente l'ATQ du piège de 5 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi.",
+301,Buff d'efficacité de potion,"Sert à appliquer Faveur du seigneur au clan pendant 1 h.
++20 % pour l'efficacité des potions de PV et PM (hors Siège de château et Siège de forteresse).",
+302,Buff de gain de Cœur/EXP de chasse,"Sert à appliquer Faveur du seigneur au clan pendant 1 h.
++20 % pour l'EXP gagnée lors de la chasse et le taux d'apparition des Cœurs de monstre.",Disponible à partir du niveau de clan {RequiredGuildLevel}.
+303,Buff de gain d'objets/Adena de chasse,"Sert à appliquer Faveur du seigneur au clan pendant 1 h.
++20 % pour les Adena gagnées lors de la chasse et le taux d'apparition des objets.",Disponible à partir du niveau de clan {RequiredGuildLevel}.
+158,1 essence d'élixir de PV,Essence rouge servant à préparer des élixirs de PV.,Disponible après avoir conquis une forteresse de qualité C ou supérieure.
+159,1 essence d'élixir de PM,Essence bleue servant à préparer des élixirs de PM.,@158
+160,1 essence d'élixir d'ATQ,Essence pourpre servant à préparer des élixirs d'ATQ.,@158
+161,1 essence d'élixir de DÉF,Essence jaune servant à préparer des élixirs de DÉF.,@158
+165,1 Pierre d'amélioration d'arme,Sert à améliorer une arme à la qualité supérieure.,@158
+166,1 Pierre d'amélioration d'armure,Sert à améliorer une armure à la qualité supérieure.,@158
+401,Teinture de Cape de clan : faible qualité,Objet requis pour modifier la couleur de la Cape de clan.,Disponible après avoir conquis une forteresse.
+402,Teinture de Cape de clan : qualité moyenne,@401,Disponible après avoir conquis une forteresse de qualité A ou supérieure.
+404,Teinture d'emblème de la Cape de clan : faible qualité,Objet requis pour modifier l'emblème de la Cape de clan.,@401
+405,Teinture d'emblème de la Cape de clan : qualité moyenne,@404,@402
+810000001,Potion de clan niv. 5 : buff d'Adena,Augmente la quantité d'Adena obtenue de 50 % pendant 1 h. (Ne s'applique qu'à la chasse sur terrain),@158
+810000002,Coffre à relique détériorée,"Ceci est une relique détériorée.
+Demandez au Responsable des reliques de la Salle du clan d'évaluer cette relique pour obtenir une récompense.",@158
+810000003,Potion de clan niv. 5 : buff de Taux d'apparition des Cœurs,"Une fois utilisé, le taux d'apparition des Cœurs de monstre est augmenté de +50 %.
+L'effet dure 1 h.",Disponible après avoir conquis une forteresse de qualité B ou supérieure.
+810000004,Protection de Maphr,Sert à perfectionner de l'équipement. Un échec ne réduit pas la valeur de perfectionnement.,Disponible après avoir conquis une forteresse de qualité A ou supérieure.
+810000005,Boîte de Parchemin béni,Sert à obtenir un Parchemin béni aléatoire.,@810000003
+810000006,Pierre d'attribut de qualité S,Sert à perfectionner l'attribut d'un équipement.,@810000003
+810000007,Pierre d'attribut de qualité R,Sert à perfectionner l'attribut d'un équipement.,@810000004

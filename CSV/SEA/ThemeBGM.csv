@@ -118,3 +118,10 @@ Id,GroupId,ThemeBGM
 8101,81,/Game/Sound/BGM/Quest/Quest_Theme_Normal_01
 8201,82,/Game/Sound/BGM/Quest/Quest_Theme_Normal_02
 8301,83,/Game/Sound/BGM/Event/Event_Magnadin_March_01
+9001,84,/Game/Sound/BGM/Event/Event_Pixie_01
+9101,85,/Game/Sound/BGM/Quest/Quest_BGM_Battle_1
+9201,86,/Game/Sound/BGM/Quest/Quest_BGM_Battle_2
+9301,87,/Game/Sound/BGM/Quest/Quest_BGM_Combat_1
+9401,88,/Game/Sound/BGM/Event/Event_Dual_01
+9402,88,/Game/Sound/BGM/Event/Event_Dual_02
+9403,88,/Game/Sound/BGM/Event/Event_Dual_03

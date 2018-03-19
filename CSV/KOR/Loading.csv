@@ -1,0 +1,182 @@
+Id,GipType,ContentsLockKeyword,TipText,Texture
+1,3,,"<FontBlue>31레벨</>에 전직 퀘스트를 통해
+<FontBlue>전직</>할 수 있습니다.",LoadingImage/World_001.jpg
+2,3,,"<FontBlue>성을 점령한 혈맹</>은
+<FontBlue>진귀한 보상</>을 얻을 수 있습니다.",LoadingImage/World_002.jpg
+3,3,AUTO_COMBAT,"<FontBlue>공성전 축제 티켓</>으로
+<FontBlue>상품권을 획득</>할 수 있습니다.",LoadingImage/World_003.jpg
+4,3,,"일요일은 <FontBlue>공성전 축제!</>
+몬스터를 잡아 축제 티켓을 획득하세요!",LoadingImage/World_004.jpg
+5,3,,"<FontBlue>장착한 모든 장비</>를 <FontBlue>8강 이상</> 달성하면
+<FontBlue>동반 강화 효과</>가 발동됩니다.",LoadingImage/World_005.jpg
+6,3,,"<FontBlue>룬 각인</>을 통해 <FontBlue>능력치</>를
+<FontBlue>대폭 상승</>시킬 수 있습니다.",LoadingImage/World_006.jpg
+7,3,,"<FontBlue>몬스터 도감</>을 제작하면
+다양한 <FontBlue>캐릭터 능력치가 상승</>합니다.",LoadingImage/World_007.jpg
+8,3,,"<FontBlue>요새전 승리 혈맹</>은
+<FontBlue>지역 사냥에 유리한 버프</>를 얻습니다.",LoadingImage/World_008.jpg
+11,3,,"<FontBlue>필드 보스</>를 사냥하면
+<FontBlue>특별한 보상</>을 얻을 수 있습니다.",LoadingImage/World_011.jpg
+12,3,,<FontBlue>혈맹 주화</>는 <FontBlue>혈맹 활동</>으로 획득할 수 있습니다.,LoadingImage/World_012.jpg
+13,3,,<FontBlue>혈맹 주화</>를 얻어 <FontBlue>혈맹 버프</>를 구입해 보세요.,LoadingImage/World_013.jpg
+15,3,,최강 <FontYellow>UR 등급</> 장비를 제작해 보세요!,LoadingImage/World_015.jpg
+16,3,,"강화 등급을 지켜드립니다.
+<FontYellow>강화 배리어 시스템!</>",LoadingImage/World_016.jpg
+17,3,,"<FontGreen>그린 다이아</>를 사용해
+<FontYellow>거래소</>를 이용할 수 있습니다.",LoadingImage/World_017.jpg
+18,3,,"<FontYellow>공성전</>은 <FontYellow>오후 9시 30분</>부터
+<FontYellow>10시</>까지 진행됩니다.",LoadingImage/World_018.jpg
+19,3,,"<FontYellow>공용마을 마그나딘</>에서
+다양한 콘텐츠를 이용하세요!",LoadingImage/World_019.jpg
+20,3,,"<FontYellow>망토</>를 착용하면 화려함은 물론
+강력한 <FontGreen>착용 효과</>를 얻을 수 있습니다.",LoadingImage/World_020.jpg
+21,3,,"<FontYellow>대규모 공성전</>을 통해 성을 점령하여
+혈맹의 힘을 과시할 수 있습니다.",LoadingImage/World_021.jpg
+22,3,,"<FontYellow>요새전</>은 <FontYellow>오후 9시 30분</>부터
+<FontYellow>10시</>까지 진행됩니다.",LoadingImage/World_022.jpg
+23,3,,"힘을 합쳐 강력한 <FontYellow>월드 보스</>를 처치하세요!
+<FontYellow>특별한 보상</>을 획득할 수 있습니다.",LoadingImage/World_023.jpg
+24,3,,"<FontYellow>자유 요새전</>은 매주 금요일 오후
+<FontYellow>8시 30분</>에 시작됩니다.",LoadingImage/World_024.jpg
+25,3,,"<FontYellow>전투 덱 설정</>을 통해
+상황에 맞는 <FontGreen>효율적인 전투</>가 가능합니다.",LoadingImage/World_025.jpg
+26,3,,"<FontYellow>다양한 코스튬</>으로
+용사님의 개성을 뽐내주세요!",LoadingImage/World_026.jpg
+27,3,,"<FontYellow>다양한 탈리스만</>을 수집하여 장착하세요.
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/World_027.jpg
+28,3,,<FontYellow>탑승펫</>과 함께 <FontYellow>광활한 필드</>를 누비세요!,LoadingImage/World_028.jpg
+29,3,,"<FontYellow>특성 강화</>로 보다
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/World_029.jpg
+30,3,,"혈맹원들과 힘을 합쳐
+<FontYellow>혈맹 던전</>을 클리어하세요!",LoadingImage/World_030.jpg
+31,3,,"다양한 <FontYellow>혈맹 아지트 콘텐츠</>를
+이용해 보세요!",LoadingImage/World_031.jpg
+32,3,,"<FontYellow>250레벨</> 달성 후 <FontYellow>2차 전직</>을 진행하세요.
+최강의 <FontYellow>궁극스킬</>을 획득할 수 있습니다.",LoadingImage/World_032.jpg
+33,3,,"<FontYellow>마그나딘 훈련장 허수아비</>와 대전하여
+자신의 힘을 확인할 수 있습니다.",LoadingImage/World_033.jpg
+34,3,,"<FontYellow>강력한 특성 장비</>를 갖추고
+시공의 균열 <FontYellow>악몽모드</>에 도전하세요!",LoadingImage/World_034.jpg
+35,3,,"자유요새전은 <FontYellow>자유로운 클래스 변경</>과
+<FontYellow>스킬 설정</>이 가능합니다.",LoadingImage/World_035.jpg
+36,3,,"탈리스만을 수집하여
+<FontYellow>조합식 도감</>을 완성하세요!",LoadingImage/World_036.jpg
+37,3,,"혈맹 간의 <FontYellow>동맹</>을 결성하면
+다양한 <FontYellow>동맹 콘텐츠</>를 이용할 수 있습니다.",LoadingImage/World_037.jpg
+38,3,,"<FontYellow>장비 수집</> 누적효과로
+<FontYellow>전투력</>을 상승시킬 수 있습니다.",LoadingImage/World_038.jpg
+39,3,,"마그나딘 마을에서 <FontYellow>깃발전</>을 즐기세요!
+자유로운 <FontGreen>1vs1 결투</>가 가능합니다.",LoadingImage/World_039.jpg
+40,3,,탑승펫을 초월하여 더 강해진 모습으로 필드를 누비세요!,LoadingImage/World_040.jpg
+41,3,,동맹 혈맹의 용병을 지원 받아 요새전/공성전에서 승리하세요!,LoadingImage/World_041.jpg
+42,3,,동맹 혈맹에 용병을 보내면 피의 증거를 받을 수 있습니다!,LoadingImage/World_042.jpg
+43,3,,용족 몬스터 사냥에 특화된 용족 장비로 더 강한 용사님으로 거듭나세요!,LoadingImage/World_043.jpg
+44,3,,몬스터 카드 세트를 맞추면 추가 능력치를 얻을 수 있습니다.,LoadingImage/World_044.jpg
+45,3,,희귀 탈리스만을 수집하고 장착하여 더욱 특별한 힘을 얻으세요!,LoadingImage/World_045.jpg
+47,3,,망토를 초월하여 더 강해진 모습을 뽐내세요!,LoadingImage/World_047.jpg
+48,3,,"<FontYellow>3vs3 명예의 전장</>은
+<FontGreen>화요일,목요일,토요일</> 진행됩니다.",LoadingImage/BFieldOfHonor_001.jpg
+49,3,,최강 <FontYellow>UR 등급</> 장비를 제작해 보세요!,LoadingImage/BFieldOfHonor_002.jpg
+50,3,,"<FontYellow>다양한 탈리스만</>을 수집하여 장착하세요.
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/BFieldOfHonor_003.jpg
+51,3,,"탈리스만을 수집하여
+<FontYellow>조합식 도감</>을 완성하세요!",LoadingImage/BFieldOfHonor_004.jpg
+52,3,,희귀 탈리스만을 수집하고 장착하여 더욱 특별한 힘을 얻으세요!,LoadingImage/BFieldOfHonor_005.jpg
+53,3,,"<FontYellow>소환석 던전</>에서
+<FontGreen>탑승펫 성장 재료</>를 획득하세요!",LoadingImage/Summon_001.jpg
+54,3,,<FontYellow>탑승펫</>과 함께 <FontYellow>광활한 필드</>를 누비세요!,LoadingImage/Summon_002.jpg
+55,3,,탑승펫을 초월하여 더 강해진 모습으로 필드를 누비세요!,LoadingImage/Summon_003.jpg
+57,3,,"<FontYellow>망토</>를 착용하면 화려함은 물론
+강력한 <FontGreen>착용 효과</>를 얻을 수 있습니다.",LoadingImage/PartyDungeon_001.jpg
+58,3,,"<FontYellow>최강의 조합으로 파티를 구성</>한 후
+시공의 균열에 도전하세요!",LoadingImage/PartyDungeon_002.jpg
+59,3,,"<FontYellow>시공의 균열</>을 클리어 하면
+망토 재료를 획득할 수 있습니다.",LoadingImage/PartyDungeon_003.jpg
+60,3,,"<FontYellow>다양한 탈리스만</>을 수집하여 장착하세요.
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/PartyDungeon_004.jpg
+61,3,,"<FontYellow>특성 강화</>로 보다
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/PartyDungeon_005.jpg
+62,3,,"<FontYellow>강력한 특성 장비</>를 갖추고
+시공의 균열 <FontYellow>악몽모드</>에 도전하세요!",LoadingImage/PartyDungeon_006.jpg
+63,3,,"<FontYellow>창조의 신전</>은 매주
+<FontGreen>월, 수, 금, 일</> 입장가능 합니다.",LoadingImage/PartyDungeon_007.jpg
+64,3,,"<FontYellow>창조의 신전</>에 도전하여
+<FontGreen>하기오스의 망토</>를 획득하세요!",LoadingImage/PartyDungeon_008.jpg
+65,3,,망토를 초월하여 더 강해진 모습을 뽐내세요!,LoadingImage/PartyDungeon_009.jpg
+66,3,,"<FontYellow>공용마을 마그나딘</>에서
+다양한 콘텐츠를 이용하세요!",LoadingImage/GuildDungeon_001.jpg
+67,3,,"혈맹원들과 힘을 합쳐
+<FontYellow>혈맹 던전</>을 클리어하세요!",LoadingImage/GuildDungeon_002.jpg
+68,3,,"다양한 <FontYellow>혈맹 아지트 콘텐츠</>를
+이용해 보세요!",LoadingImage/GuildDungeon_003.jpg
+69,3,,"<FontYellow>마그나딘 훈련장 허수아비</>와 대전하여
+자신의 힘을 확인할 수 있습니다.",LoadingImage/GuildDungeon_004.jpg
+72,7,,"오만의 탑을 <FontBlue>더 높이 올라갈수록</>
+소탕 보상으로 <FontBlue>더 많은 룬 조각</>을 얻게 됩니다.",LoadingImage/InfinityDungeon_001.jpg
+73,7,,"<FontYellow>250레벨</> 달성 후 <FontYellow>2차 전직</>을 진행하세요.
+최강의 <FontYellow>궁극스킬</>을 획득할 수 있습니다.",LoadingImage/InfinityDungeon_002.jpg
+74,4,,<FontBlue>요일 던전</>은 <FontBlue>1일 1회 무료로 입장</>할 수 있습니다.,LoadingImage/DailyDungeon_001.jpg
+75,4,,"<FontGreen>그린 다이아</>를 사용해
+<FontYellow>거래소</>를 이용할 수 있습니다.",LoadingImage/DailyDungeon_002.jpg
+76,4,,"<FontYellow>특성 강화</>로 보다
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/DailyDungeon_003.jpg
+77,18,,"몬스터를 <FontBlue>더 많이 처치</>할수록
+더 많은 <FontBlue>추가 경험치</>를 얻을 수 있습니다.",LoadingImage/ExpDungeon_001.jpg
+78,18,,"<FontYellow>31레벨</>에 전직 퀘스트를 통해
+<FontGreen>전직</>할 수 있습니다.",LoadingImage/ExpDungeon_002.jpg
+79,18,,"<FontYellow>250레벨</> 달성 후 <FontYellow>2차 전직</>을 진행하세요.
+최강의 <FontYellow>궁극스킬</>을 획득할 수 있습니다.",LoadingImage/ExpDungeon_003.jpg
+80,11,,"자유요새전은 <FontYellow>자유로운 클래스 변경</>과
+<FontYellow>스킬 설정</>이 가능합니다.",LoadingImage/FreeFortress_001.jpg
+81,11,,최강 <FontYellow>UR 등급</> 장비를 제작해 보세요!,LoadingImage/FreeFortress_002.jpg
+82,11,,"<FontYellow>자유 요새전</>은 매주 금요일 오후
+<FontYellow>8시 30분</>에 시작됩니다.",LoadingImage/FreeFortress_003.jpg
+83,11,,"<FontYellow>전투 덱 설정</>을 통해
+상황에 맞는 <FontGreen>효율적인 전투</>가 가능합니다.",LoadingImage/FreeFortress_004.jpg
+85,17,,"장비 던전을 <FontBlue>높은 등급으로 클리어</>하면
+<FontBlue>더욱 좋은 장비</>를 얻을 수 있습니다.",LoadingImage/EquipmentDungeon_001.jpg
+86,17,,최강 <FontYellow>UR 등급</> 장비를 제작해 보세요!,LoadingImage/EquipmentDungeon_002.jpg
+87,17,,"<FontYellow>특성 강화</>로 보다
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/EquipmentDungeon_003.jpg
+88,17,,"<FontYellow>장비 수집</> 누적효과로
+<FontYellow>전투력</>을 상승시킬 수 있습니다.",LoadingImage/EquipmentDungeon_004.jpg
+90,8,,최강 <FontYellow>UR 등급</> 장비를 제작해 보세요!,LoadingImage/EliteDungeon_001.jpg
+91,8,,"<FontYellow>다양한 탈리스만</>을 수집하여 장착하세요.
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/EliteDungeon_002.jpg
+92,8,,"<FontYellow>특성 강화</>로 보다
+<FontGreen>특별한 힘</>을 얻을 수 있습니다.",LoadingImage/EliteDungeon_003.jpg
+93,8,,"탈리스만을 수집하여
+<FontYellow>조합식 도감</>을 완성하세요!",LoadingImage/EliteDungeon_004.jpg
+94,6,,"채집 중 깜짝 등장하는 <FontBlue>만드라고라</>를 잡으면
+<FontBlue>엘릭서 정수</>를 얻을 수 있습니다.",LoadingImage/CollectDungeon_001.jpg
+95,6,,"채집한 약초와 정수로 만든 <FontBlue>엘릭서</>를 <FontBlue>사용</>하면
+<FontBlue>능력치</>가 <FontBlue>영구적으로 상승</>합니다.",LoadingImage/CollectDungeon_002.jpg
+96,19,,"던전의 <FontBlue>드래곤을 공격</>하고
+<FontBlue>아데나를 차지</>하세요.",LoadingImage/AdenaDungeon_001.jpg
+97,20,,"혈맹원들과 힘을 합쳐
+<FontYellow>혈맹 던전</>을 클리어하세요!",LoadingImage/GuildAgit_001.jpg
+98,20,,"다양한 <FontYellow>혈맹 아지트 콘텐츠</>를
+이용해 보세요!",LoadingImage/GuildAgit_002.jpg
+99,20,,동맹 혈맹의 용병을 지원 받아 요새전/공성전에서 승리하세요!,LoadingImage/GuildAgit_003.jpg
+100,20,,동맹 혈맹에 용병을 보내면 피의 증거를 받을 수 있습니다!,LoadingImage/GuildAgit_004.jpg
+101,20,,척살 시스템으로 혈맹원의 원수를 대신 갚아주세요!,LoadingImage/GuildAgit_005.jpg
+102,13,,"<FontBlue>필드 보스</>를 사냥하면
+<FontBlue>특별한 보상</>을 얻을 수 있습니다.",LoadingImage/Manager_001.jpg
+103,13,,<FontBlue>혈맹 주화</>는 <FontBlue>혈맹 활동</>으로 획득할 수 있습니다.,LoadingImage/Manager_002.jpg
+104,13,,<FontBlue>혈맹 주화</>를 얻어 <FontBlue>혈맹 버프</>를 구입해 보세요.,LoadingImage/Manager_003.jpg
+105,14,,"<FontBlue>장착한 모든 장비</>를 <FontBlue>8강 이상</> 달성하면
+<FontBlue>동반 강화 효과</>가 발동됩니다.",LoadingImage/Manager_004.jpg
+106,15,,"<FontBlue>요새전 승리 혈맹</>은
+<FontBlue>지역 사냥에 유리한 버프</>를 얻습니다.",LoadingImage/Friday_001.jpg
+107,15,,"<FontYellow>요새전</>은 <FontYellow>오후 9시 30분</>부터
+<FontYellow>10시</>까지 진행됩니다.",LoadingImage/Friday_002.jpg
+108,16,,"<FontYellow>공성전</>은 <FontYellow>오후 9시 30분</>부터
+<FontYellow>10시</>까지 진행됩니다.",LoadingImage/Sunday_001.jpg
+109,16,,"일요일은 <FontBlue>공성전 축제!</>
+몬스터를 잡아 축제 티켓을 획득하세요!",LoadingImage/Sunday_002.jpg
+110,16,,"<FontBlue>공성전 축제 티켓</>으로
+<FontBlue>상품권을 획득</>할 수 있습니다.",LoadingImage/Sunday_003.jpg
+111,5,,"<FontBlue>결투장</>에서 <FontBlue>명예 등급</>을 올리면
+<FontBlue>추가 능력치</>를 받습니다.",LoadingImage/Pvp_001.jpg
+112,21,,"<FontYellow>난투장</>에서 자유롭게
+<FontGreen>PVP</>를 즐길 수 있습니다.",LoadingImage/Melee_001.jpg

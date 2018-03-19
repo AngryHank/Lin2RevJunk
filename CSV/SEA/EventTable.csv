@@ -12,4 +12,4 @@ EventId,TabNameKey,TitleNameKey,ViewStyle,TabType,BadgeType
 11,861000000011,861000000011,TableView,Compound,EventCompound
 12,861000000012,861000000012,TileView,Compound,EventCompound
 13,861000000013,861000000013,TileView,Compound,EventCompound
-14,861000000014,862000000014,TableView,CommonEvent2,EventCommonEvent2
+14,861000000014,862000000014,TableView,Compound,EventCompound

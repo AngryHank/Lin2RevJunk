@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Küçük Ziyafet,"Acemi Ziyafet Sorumlusu tarafından verilen Küçük Ziyafet.
+Svn. ve B. Svn. +500"
+2,Orta Ziyafet,"Acemi Ziyafet Sorumlusu tarafından verilen Orta Ziyafet.
+Can/Mana +1000"
+3,Büyük Ziyafet,"Acemi Ziyafet Sorumlusu tarafından verilen Büyük Ziyafet.
+Sldr. ve B. Sldr. +500"
+4,Şaşalı Küçük Ziyafet,"Kıdemli Ziyafet Sorumlusu tarafından verilen Küçük Ziyafet.
+Svn. ve B. Svn. +1200"
+5,Şaşalı Orta Ziyafet,"Kıdemli Ziyafet Sorumlusu tarafından verilen Orta Ziyafet.
+Can/Mana +2000"
+6,Şaşalı Büyük Ziyafet,"Kıdemli Ziyafet Sorumlusu tarafından verilen Büyük Ziyafet.
+Sldr. ve B. Sldr. +1200"
+7,Lüks Küçük Ziyafet,"Saygın Ziyafet Sorumlusu tarafından verilen Küçük Ziyafet.
+Svn. ve B. Svn. +2000, Krit. Oranı +500"
+8,Lüks Orta Ziyafet,"Saygın Ziyafet Sorumlusu tarafından verilen Orta Ziyafet.
+Can/Mana +3000, Krit. Oranı +500"
+9,Lüks Büyük Ziyafet,"Saygın Ziyafet Sorumlusu tarafından verilen Büyük Ziyafet.
+Sldr. ve B. Sldr. +2000, Krit. Oranı +500"

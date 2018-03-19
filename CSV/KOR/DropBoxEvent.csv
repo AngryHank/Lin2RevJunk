@@ -1,0 +1,2 @@
+Id,TabName,Name,Desc,EventStartTime,EventEndTime,RepeatPeriod,SpecificDate,SpawnType,EventStartMessage,EventEndMessage,RewardItem1,RewardItem2,RewardItem3,RewardItem4,RewardItem5
+401,은빛 용병단의 설날 선물,은빛 용병단의 설날 선물,설날 복주머니가 도착했습니다!,20:00:00,00:01:00,Daily,,1,대왕 복주머니가 도착했습니다! 모두 모여 대왕 복주머니를 열어보세요!,대왕 복주머니가 수거되었습니다.,,,,,

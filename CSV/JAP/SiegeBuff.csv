@@ -1,0 +1,9 @@
+Score,ScoreBuffID,Param1,GradeIcon
+0,,0,Icon_SiegeHeroRank_01
+5,200003,1,Icon_SiegeHeroRank_02
+15,200004,2,Icon_SiegeHeroRank_03
+30,200005,3,Icon_SiegeHeroRank_04
+60,200006,4,Icon_SiegeHeroRank_05
+90,200007,5,Icon_SiegeHeroRank_06
+125,200008,6,Icon_SiegeHeroRank_07
+150,200009,7,Icon_SiegeHeroRank_08

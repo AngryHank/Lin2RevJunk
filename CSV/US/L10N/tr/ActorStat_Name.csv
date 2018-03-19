@@ -1,0 +1,92 @@
+Type,Name
+0,F. Sldr.
+1,B. Sldr.
+2,F. Sldr. Artışı
+3,B. Sldr. Artışı
+4,Normal Vuruş Saldırı Artışı
+5,Grup Üyelerine Bağlı Olarak Saldırı Artışı
+6,Sldr. Hızı Artışı
+7,Savaş Gücü
+126,Bekleme Süresi Artışı
+9,Krit. Oranı
+10,Kritik Direnç Oranı
+11,Kritik Hasar Artışı
+12,Kritik Vuruş Oranı
+13,Kritik Direnci
+14,Kritik Oran Artışı
+15,Kritik Direnci Artışı
+16,F. Svn.
+17,B. Svn.
+18,F. Svn. Artışı
+19,B. Svn. Artışı
+20,Kaçınma
+21,Kaçınma Artışı
+22,Kaçınma Oranı
+23,İsabet
+24,İsabet Artışı
+25,İsabet Oranı
+26,Hasar Artma Oranı
+27,F. Hasar Artma Oranı
+28,@IncreaseDamagePhyMul
+29,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı
+30,Svn. Yok Sayma Hasarı
+31,Hasar Azaltma Oranı
+32,F. Hasar Azaltma Oranı
+33,B. Hasarı Azaltma Oranı
+34,Sabit Hasar Azaltma
+35,Yansıtma Oranı
+36,Yansıtma Hsr. Azaltma Oranı
+37,TP
+38,TP Kazanma Artış Oranı
+39,Taaruz Artışı
+40,CAN
+41,Can Yenileme
+42,Can Çalma
+43,Eşya Düşme Oranı Artışı
+44,Maks Can
+45,Maks Can Artışı
+46,Maks Mana
+47,Maks Mana Artışı
+48,MANA
+49,Mana Bedeli Artışı
+50,Mana Yenileme Oranı
+51,Hız
+52,Hız Artışı
+53,Yavaşlatma Direnci Oranı
+54,Sersemletme Direnci Oranı
+55,Anormal Durum Direnci Oranı
+56,Hedefi Çekme Direnci Oranı
+126,Düşürülme Direnci Oranı
+58,Adena
+59,Adena Kazanma Artış Oranı
+60,Bedava Elmas
+61,Satın Alınmış Elmaslar
+62,Görev Bileti
+63,Fetih Oto-Temizleme Bileti
+64,Run Parçası
+65,Yetenek Puanı
+66,Arkadaşlık Puanı
+67,Topaz
+68,Sadakat Puanı
+69,Yenilmez
+70,Tek Atma
+71,Zeki
+72,Dayanıklı
+73,Sınıf TP
+74,Klan Parası
+75,Başarım Puanı
+76,Kuşatma Festivali Bileti
+77,PvP Bileti
+78,PvP Onur Dükkanı
+79,Seviye
+80,Delme
+81,Direnç
+82,Yetenek Etki Alanı Artışı
+83,Yetenek Vuruş Sayısı Artışı
+84,Kazı Hızı Artışı
+85,Toplama Sayısı Artışı
+86,Mana Kalkanı Oranı (Mana ile Hasar Soğurma)
+87,PK Engelle
+88,Canavar Özü Düşme Oranı Artışı
+89,@CombatPower
+90,Kombo Süresi Artışı

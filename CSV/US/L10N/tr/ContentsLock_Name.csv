@@ -1,0 +1,101 @@
+Id,ContentsDesc,Name
+1,Pek çok açıdan ekipmanın etkinliğini arttır.,Demirci
+2,Güçlü saldırılar yapabilmek için silahındaki diğer ruhların gücünü kullan.,Güç Şerbeti
+3,,Zindan
+4,Bu zindanlarda haftanın her günü farklı baş düşmanlar ve ödüller bulabilirsin.,Günlük Zindan
+5,Ödül miktarı Aden’in ne kadarını keşfettiğine göre belirlenir.,Başarım
+6,,Arkadaş
+8,Her gün Derece A veya daha iyisi bir Yüksek Dereceli Ekipman kazan.,Yüksek Dereceli Ekipman Sandığı
+10,Aden’deki çeşitli maceracılara karşı gücünü sına.,Arena
+11,,Sıralama
+12,Daha yüksek dereceli bir ekipman kazanmak için iki ekipmanı birleştir.,Birleştirme
+13,Güçlendirme Parşömeni ile ekipmanının etkinliğini arttır.,Güçlendir
+14,,Klan
+15,Sınırlarını görmek için sonsuzluğa uzanan kuleye tırman.,Kibir Kulesi
+16,Kabiliyetlerini kalıcı arttırmak için run işle.,Run İşleme
+17,Ekipmanın görünüşünü ve altdeğerlerini koruyarak derecesini yükselt.,Geliştirme
+18,,Günlük Aktivite
+19,,Günlük Görevler
+20,,Haftalık Görevler
+21,Ruh dolu bir Cevhertaşı kullan ve bir özel yetenek kazan.,Ruh Kristali
+22,Zorlu olduğu kadar ödülü büyük olan zindanı dene.,Elit Zindan
+23,,Elf Harabeleri Kat 1
+24,Çeşitli ödüller kazanmak için canavarlardan Öz topla.,Canavar Albümü
+25,Bulunması zor olsa da güçlü yetenekleri kullanabilirsin.,Nadir Yetenek
+27,,Pazar
+28,Değerlerini kalıcı arttırmak için iksir kullan.,İksir
+29,İksir yapımında kullanılan bitkileri toplayabilirsin.,Botanik Zindanı
+30,Yakınlardaki düşmanları otomatik olarak bulup savaşır.,Oto-Savaş
+40,Bu bir başlık!,Unvan
+101,,Günlük Zindan (Normal)
+102,,Elf Harabeleri Kat 2
+103,,Sınıf Geçişi
+104,,Günlük Zindan (Zor)
+105,,Karınca Yuvası Dehliz 1
+106,,Karınca Yuvası Dehliz 2
+107,,Günlük Zindan (Çok Zor)
+108,,Cruma Kulesi Kat 2
+109,,Cruma Kulesi Kat 3
+110,,Fildişi Kulesi Dehliz 1
+111,,Fildişi Kulesi Dehliz 2
+112,Sürüyle canavarı yok et ve büyük miktarlarda TP kazan.,TP Zindanı
+113,Altınını koruyan ejderhayı yen ve büyük miktarda Adena kazan.,Adena Zindanı
+114,Tapınağı kötülüğün güçlerinden koru ve ekipman kazan.,Ekipman Zindanı
+115,,Çağırma Taşı Zindanı
+116,,Varkaron Klan Zindan
+117,,Kraliçe Karınca Klan Zindanı
+118,,Şato Kuşatması
+119,,Kale Kuşatması
+120,Yeteneklerin seviyelerini arttırarak etkilerini geliştir.,Yetenek Seviyesi Yükselt
+121,Canavarların koruduğu boyut kapısını yok et.,Saflaştırma Taşı Zindanı
+122,,Envanter
+123,,Cruma Çekirdeği
+126,,Klan Meydanı
+127,,Fildişi Kulesi Dehliz 3
+129,,Binek
+130,,Yiğitlik Meydanı
+131,,Antik Savaş Alanı
+132,,Sırların Ormanı Tepe Tacı
+133,,Fildişi Kulesi Yer Altı Laboratuvarı
+134,,Sırların Ormanı Yeşillik Alanı
+135,,Sırların Ormanı Katliam Alanı
+137,,Pelerin
+138,,Şato Fethi
+10000,Bu özelliği kullanamazsın.,Karakter
+10003,@10000,Sınıf
+10006,@10000,Atölye
+10007,@10000,Görev
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Etkinlik
+10013,@10000,Dinlenme Ödülü
+10014,@10000,Bağlı Kalma Ödülü
+10015,@10000,Kale Kuşatması Festivali
+10016,@10000,Web Etkinliği
+10017,@10000,Genel Dükkan
+10018,@10000,Elmas Dükkanı
+10019,@10000,Bereket Dükkanı
+10021,@10000,Savaş Alanı
+10022,@10000,@14
+10023,@10000,Klan Zindanı
+10029,@10000,Eşya Sat
+10030,@10000,Eşya Kullan
+10031,@10000,Eşyayı Hareket Ettir
+10032,@10000,"Unutulmuş 
+Parşömen"
+10034,@10000,Binek Ekipmanı Seviyesini Yükselt
+10035,@10000,Binek Çağır
+10036,@10000,Binek Seviyesini Yükselt
+10037,@10000,Altdeğer Detayları
+10038,@10000,Topluluk Forumu
+10039,@10000,Bineği Güçlendir
+20001,,Delilik Sunağı
+20002,,Kan Kontesi'nin Yatak Odası
+401,@10000,Ustalık Dükkanı
+10040,@10000,Altdeğer Hesabı
+301,,@122
+303,,@122
+30000,,Görev Parşömeni
+30102,Seçilmiş bölgeden canavarlar çağırıp özlerini ele geçirmek için kullanılır.,Gludio Bölgesi - Canavar Çağırma Taşı
+30103,Seçilmiş bölgeden canavarlar çağırıp özlerini ele geçirmek için kullanılır.,Dion Bölgesi - Canavar Çağırma Taşı
+30104,Seçilmiş bölgeden canavarlar çağırıp özlerini ele geçirmek için kullanılır.,Giran Bölgesi - Canavar Çağırma Taşı

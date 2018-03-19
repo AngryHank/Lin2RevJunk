@@ -1,0 +1,824 @@
+Id,Name,EffectTypeName,Desc
+1001,Derrubada comum,Derrubada,
+1002,@1001,@1001,Último ataque básico
+1003,@1001,@1001,
+1004,Invencibilidade comum,Invencível,Não há dano sofrido.
+1005,Bônus de proteção de reviver,@1004,"Não há dano sofrido. Ao atacar um inimigo, você desfaz o bônus de invencibilidade."
+1011,Atordoamento comum,Atordoamento,Atordoamento
+10111,Impacto de impulso: Derrubada,@1001,
+10122,Impulso de Poder: Lentidão,Lentidão,Velocidade -{1%}%
+11211,Batida,Aumento do ganho de agressividade,Ganho de agressividade +50%
+112124,Vingança,Alvo travado (PJ),Forçado a atacar
+112125,@112124,Redução do atq.,Atq. -{1}
+112126,@112124,Alvo travado (PNJ),
+11213,Majestade,"Majestade: Ampliação do nível de ameaça, ampliação def. f./def. m., redução da evasão","Def. +{2%}%, agressividade de todos os ataques +{1%}%, reflexo de dano: {1%}%"
+11221,Julgamento,Redução de defesa,
+11222,Tempestade retumbante,Atordoar,@1011
+112231,Ampla varredura,"Multigolpes: Amplificação dos golpes simultâneos, aumento da vel. de atq.","Inimigos atacam de uma vez +{1}, vel. de atq. +{2%}%"
+11231,Nuvem de areia,Cegueira,Taxa de precisão -{1%}%
+11232,Passo para trás: Atordoamento,@11222,@1011
+112331,Pressa,Pressa: amplificação da vel. atq.,Vel. Atq. +{1%}%
+112332,@112331,Pressa: Amplificação da evasão,Evasão +{1%}%
+11242,Chuva de flechas,Redução do atq. f.,Redução do atq.
+11243,Narceja,"Narceja: Alcance do ataque, atq., aumento da precisão, imobilidade",Atq.: {2%}%. Prc. +{3}. Aumenta o alcance de ataque. Reduz a velocidade.
+11244,Olho de Águia,"Olho de Águia: Aumento crítico, redução da def.",Crít. Taxa +{1} e dano +{2%}%
+11251,Tigela derretida,Dano ao longo do tempo,Dano ao longo do tempo
+112531,Ampliar Mana,Ampliar Mana: Amplificação do PM máx.,"Uso de PM +{1%}%, dano de habilidade +{2%}%"
+11261,Punição Divina: Atordoamento,@1001,
+11262,Restauração,CaLT,Cura ao longo do tempo
+12211,Tribunal,Alvo travado,Ganho de agressividade +30%
+12212,Graça de Eva,Redução da vel. de atq.,Reduz em 50% a regen. PV
+122131,Estância da Égide,Estância da Égide: Imunidade a dano temporário,Imunidade a dano
+122132,@122131,Estância da Égide: Aumento da velocidade,Velocidade +{1%}%
+12221,Disparo sônico,Disparo sônico: Redução da velocidade,Velocidade +{1%}%
+122231,Ritmo de combate,"Ritmo de Combate: Aumento de atq., def.","Atq. membros do grupo +{1}, def. +{3}"
+122241,Canção do caçador,Canção do caçador: Taxa de crít. do grupo,Taxa de crít. dos membros do grupo +{1%}%
+12231,Espinho triplo,Redução de velocidade,"Def. -{1%}%, vel. de atq. -{3%}% e velocidade -{4%}%."
+12232,Furacão de lâminas,@1011,@1011
+12233,Caminho das Planícies,"Caminho das Planícies: Vel. atq., amplificação de velocidade, taxa de absorção de pv",Atq. Vel: {1%}%. Velocidade +{2%}% Taxa de dreno de PV: {3%}%
+12241,Disparo letal,Aumento de taxa de crít.,
+12242,Disparo amplo duplo,Disparo Amplo Duplo: Redução de def.,Def. f. -{1%}%
+122431,Terceira visão,Terceira visão: Aumento de taxa de crít. grande,Taxa de crít. +{1}
+122441,Passo apertado,"Passo apertado: Aumento da velocidade grande, aumento da vel. de atq. pequeno","Velocidade +{1%}%, vel. de atq. +{2%}%"
+12251,Lança de Gelo: Congelamento,@11222,
+12252,Nevasca,@10122,@10122
+122521,@12252,@1011,@1011
+122614,Pesadelo,@10122,Velocidade -10%
+122615,Fogo sagrado,Aumento do dano sofrido,Dano sofrido +{1%}%
+12263,Cura maior,Cura,
+122631,Refresco da mente,Refresco da mente: Redução do tempo de recarga da grupo,Tempo de recarga da habilidade dos membros do grupo -{1#} s.
+12264,Defesa seguidora,"Bônus de grupo defensivo, f. e m.",Def. dos membros do grupo +{1%}%
+13211,Suga-vidas,Aumento da Def.,Def.: -{1%}%
+132125,Hidra da Corrente,@11222,@1011
+132126,@132125,Imune a empurrar e provocar,Efeito de foco da agressividade
+13213,Defesa definitiva,"Defesa definitiva: Grande def. f. e aumento de def. m., imobilidade",Def.: {1%}% + {3}. Reduz a velocidade dos inimigos.
+132132,@13213,Defesa definitiva: Desacelera o inimigo,Redução da velocidade
+13222,Tempestade de furacão,@10122,@10122
+132221,@13222,Aumento de velocidade,Velocidade +{1%}%
+132231,Dança do guerreiro,Dança do Guerreiro: Aumento de atq. f. do grupo,Atq. f. dos membros do grupo +{1}
+132241,Dança da fúria,Dança da Fúria: Aumento da vel. de atq. do grupo,Vel. de atq. dos membros do grupo +{1%}%
+13231,Ferroada,Bônus de dano de sangramento,Dano: {[Use34Param]1-1%}% do atq. +{1-1}
+13232,Chuva de Lâminas: Bônus de dano de sangramento,@13231,
+132322,Chuva de lâminas,@11222,@1011
+132331,Postura perversa,Postura perversa: Amplificação do dano crítico,Dano crít. +{1%}%
+132332,Acerto crítico de Postura Perversa,Postura perversa: Taxa de crít. 100%,Eficiência máx. da taxa de crít.
+13242,Tiro atordoante,@11222,
+13243,Fogo rápido,"Fogo rápido: Aumento da vel. de atq., redução do alcance de ataque",Vel. atq. +{1%}% e alcance de ataque -{2%} m.
+13244,Contra-ataque fatal,"Contra-ataque fatal: Aumento do atq. grande, redução da evasão","Atq. +{1}, evasão -{2%}%"
+13251,Sopro Sombrio,@10122,
+13252,Corrupção,"Redução da def., redução da velocidade","Def. -{1%}%, Velocidade -{3%}%"
+132531,Sabedoria fatal,Sabedoria fatal: Aumento de atq. m. grande,Atq. m. +{1}
+132623,Fúria sangrenta,@10122,@10122
+132624,Fúria Sangrenta: Aumento de dano,Aumento de atq.,
+132631,Potencializar,Potencializar: restrição do uso de PV,Evita que o PV fique abaixo de {1}
+132632,@132631,@132631,
+14211,Impulso,"Redução da def., alvo fixo",@13211
+14212,Terremoto,@1011,@1011
+14213,@14212,@112125,Atq. -20%
+14222,Ataque de pulo,@1001,
+14223,Anã Feroz,"Anã feroz: Aumento do atq., redução da def.","Atq. +{1}, Def. -{2%}%"
+14231,Ataque de lâminas,Redução da resist. a crítico.,Resist. a crítico -{1%}%
+14232,Estrela sônica,@12231,@10122
+142321,@14232,Silêncio,Silêncio
+142331,Busca de Adena,Busca de Adena: Aumento do ganho de adena,Adena ganha durante a batalha +{1%}% e velocidade +{2%}%.
+242331,@142331,Busca de Adena: Envenenamento e lentidão,Dano de envenenamento e velocidade -{2%}%
+14241,Disparo explosivo,@11251,@13231
+14242,Tiro de evasão,@12231,@10122
+142422,@14242,Aumento de alcance,Aumento de alcance
+14251,Espeto da terra,@1001,
+142531,Conflito interno,Conflito interno: Amplificação do ataque básico do grupo,Ataque básico dos membros do grupo +{1%}%
+14261,Proteção divina,Aumento da Def.,Def. dos membros do grupo +{1}
+14262,Estrondo divino,@11222,
+142631,Grande vitalidade,Grande vitalidade: Aumento do PV máx. do grupo,PV máx. dos membros do grupo +{1}
+20211,Aura de defesa,Aumento da Def.,@14261
+20221,Aura de ataque,Aumento de atq.,Atq. dos membros do grupo +{1}
+20231,Passo rápido,Aumento da velocidade,Velocidade dos membros do grupo +{1%}%
+20241,Orientação,Aumento da precisão,Precisão dos membros do grupo +{1}
+20251,Sussurro da morte,Aumento de dano crít.,Dano crít. dos membros do grupo +{1%}%
+20261,Ampliar PV,Aumento de PV máx.,@142631
+21221,Vingança,@20221,Atq. +{1}
+21231,Esgueirar,Redução T. Recarga Hab.,tempo de recarga de habilidade -{1}
+212311,@21231,Esgueirar-se: Aumento de atq.,@21221
+21241,Lentidão aprimorada,@10122,@10122
+21242,Lentidão aprimorada: Dano de Sangramento,@10122,Dano: {[Use34Param]1-1%}% de atq.
+21251,Fulgor,@11251,
+212512,@21251,@20221,@21221
+212611,Ligação divina,@20211,Def. +{1%}% por membro de grupo
+212621,Escudo de Mana,Escudo de Mana,"Esvazia o PM, em vez do PV, quando sofre dano."
+22211,Evasão do ancião,Aumento de evasão,Taxa de evasão +{1%}%
+22221,Espírito,Aumento de taxa de crít.,Taxa de crít. +{1%}%
+22231,Ira rápida,Vel. atq. aumento de velocidade,Vel. atq. +{[StackMul]1%}% e velocidade +{[StackMul]1%}%.
+22241,Rapidez,Aumento de dano crítico,@132221
+22261,@22211,@22211,Evasão +{1%}%
+23211,Dreno aprimorado,Efeito do dreno de PV,Absorve {1-1%}% do dano causado
+23221,Frenesi,@22241,@132331
+23231,Busca sangue,"Def., redução de resist. da taxa de crít.",Def. -{1%}% e resist. a crítico -{3%}%.
+23241,Sinal crítico,Aumento da taxa de precisão,Taxa de acel. +{1%}%
+23251,@23221,@22241,@132331
+23261,Agressão,@20221,Dreno de PV +{1%}%
+24211,Paciência,Bônus de aumento de atq.,@21221
+242121,Destreza com sorte,Destreza com sorte: Chance de reduzir o tempo de recarga quando o grupo for atacado,Tempo de recarga de habilidade -{1#}
+24221,Impacto de anseio,@24211,@21221
+242231,Berserker de sorte,Berserker de sorte: Chance de aumentar a vel. de atq. quando o grupo ataca.,Vel. de atq. +{1%}%
+24231,@22221,@22221,@22221
+242321,Fatal de Sorte,Fatalidade de sorte: Taxa de crít. aumentada,@122431
+24241,Acrobacia,Aumento de taxa de evasão,@22211
+242421,Passo apertado de sorte,Passo apertado de sorte: atordoamento,@1011
+2424211,@242421,Passo apertado de sorte: Redução do atq.,Atq.: -{1%}%
+24251,@23261,@20221,@21221
+24252,Defesa de sorte,Defesa de sorte: Chance de aumentar a def. f. e def. m. quando o grupo ataca.,Def. +{1}
+24261,Fortificar,Regen. de PV regen. PV,Regen. de PV +{1%}%
+30001,Escudo absoluto,"Redução do dano sofrido, resist. à incapacitação","Dano sofrido -{1%}% (curto), resist. a penalidade incapacitante +30%"
+30002,Passo Ligeiro,@132221,@132221
+30003,Imortal,@1004,
+30004,Flecha de Sangue: Dano ao longo do tempo,@13231,Dano de sangramento +{[Use34Param]1%}%
+30006,Disparo de Míssil: Atordoamento,@11222,@1011
+30008,Armadura de Gelo: Tudo,Armadura de Gelo,Lentidão
+30010,Escudo de Mana,Escudo de Mana,@212621
+30013,Redução de tempo,Redução de tempo de recarga,Reduz o tempo de recarga para a duração estabelecida
+30014,Golpe de Veneno,Redução de dano e velocidade,Dano -{1%}% e Velocidade -{2%}%
+300141,@30014,Dano de Veneno,Dano de veneno: {[Use34Param]1%}%
+30015,Zona de Defesa,Resistência a estado anormal,Resistência a estado anormal +{1%}%
+300151,@30015,Reduz o dano recebido,Dano recebido -{1%}% e dano de habilidade rara recebido é adicional -{2%}%
+31001,Armadura de Gelo: Lentidão,@10122,@30008
+35001,Maestria em Arma de Guerreiro,Maestria em Arma de Guerreiro,
+35002,Maestria em Armadura Pesada,Maestria em Armadura Pesada,
+35003,Maestria em Arma de Ladino,Maestria em Arma de Ladino,
+35004,Maestria em armadura leve,Maestria em armadura leve,
+35005,Maestria em Arma de Mago,Maestria em Arma de Mago,
+35006,Maestria em Manto,Maestria em Manto,
+35011,Maestria em Deflexão,Maestria em Deflexão,
+35021,Maestria de combate,Maestria de combate,
+35031,Melhorar Ataque Crítico,Melhorar Ataque Crítico,
+35111,@35011,@35011,
+35121,@22221,Espírito,
+35122,@35021,@35021,
+35131,Chance de Crítico,Chance de Crítico,
+35141,@22241,Rápido,
+35151,Símbolo Gelado,Símbolo Gelado,
+35161,@22211,Evasão do Ancião,
+35221,@35021,@35021,
+35231,Poder Crítico,Poder Crítico,
+35311,Perícia em Deflexão,Perícia em Deflexão,
+35321,@35021,@35021,
+35331,@22221,@35121,
+35332,Fatalidade de sorte,Fatalidade de sorte,
+35341,@24241,Acrobacia,
+40001,Bônus de tempo bônus de exp.,Aumento do ganho de exp.,Ganhe muita exp. no tempo bônus.
+40002,Bônus de tempo bônus de adena,Aumento do ganho de adena,Ganhe muita adena no tempo bônus.
+40003,Bônus de tempo de bônus de equipamento,Aumento da taxa de aquisição do equipamento,Aumenta muito a taxa de caída de equipamento no tempo de bônus.
+40004,Atq. f.,Atq. f.,
+40005,Atq. M.,Atq. M.,
+40006,Taxa de aumento de atq. f.,Taxa de aumento de atq. f.,
+40007,Taxa de aumento de atq. m.,Taxa de aumento de atq. m.,
+40008,Poder de ataque básico,Poder de ataque básico,
+40009,Taxa de aumento de atq. de membro do grupo,Taxa de aumento de atq. de membro do grupo,
+40010,Taxa de aumento de vel. de atq.,Taxa de aumento de vel. de atq.,
+40011,Taxa de aumento de dano crítico,Taxa de aumento de dano crítico,
+40012,Taxa de precisão de crítico,Taxa de precisão de crítico,
+40013,Taxa de resist. a crítico,Taxa de resist. a crítico,
+40014,Dano f.,Dano f.,
+40015,Dano m.,Dano m.,
+40016,Ignorar defesa,Ignorar defesa,
+40017,Redução de PV do alvo,Redução de PV do alvo,
+40018,Redução de PV do alvo (%),Redução de PV do alvo (%),
+40019,Def. f.,Def. f.,
+40020,Def. m.,Def. m.,
+40021,Taxa de aumento de def. f.,Taxa de aumento de def. f.,
+40022,Taxa de aumento de def. m.,Taxa de aumento de def. m.,
+40023,Evasão,Evasão,
+40024,Taxa de aumento de evasão,Taxa de aumento de evasão,
+40025,Taxa de evasão,Taxa de evasão,
+40026,Precisão,Precisão,
+40027,Taxa de aumento de precisão,Taxa de aumento de precisão,
+40028,Taxa de precisão,Taxa de precisão,
+40029,Taxa de aumento de dano,Taxa de aumento de dano,
+40030,Taxa de aumento de dano f.,Taxa de aumento de dano f.,
+40031,@40030,@40030,
+40032,Taxa de aumento de dano a alvo lento,Taxa de aumento de dano a alvo lento,
+40033,Ignorar dano de def.,Ignorar dano de def.,
+40034,Taxa de redução de dano,Taxa de redução de dano,
+40035,Taxa de redução de dano f.,Taxa de redução de dano f.,
+40036,Taxa de redução de dano m.,Taxa de redução de dano m.,
+40037,Redução de dano fixa,Redução de dano fixa,
+40038,Taxa de deflexão,Taxa de deflexão,
+40039,Taxa de redução de dano de deflexão,Taxa de redução de dano de deflexão,
+40040,Dano f. ao longo do tempo,Dano f. ao longo do tempo,
+40041,Dano m. ao longo do tempo,Dano m. ao longo do tempo,
+40042,Cura de PV com base no atq.,Cura de PV com base no atq.,
+40043,Cura ao longo do tempo,Cura ao longo do tempo,
+40044,Taxa de aumento de agressão,Taxa de aumento de agressão,
+40045,Regen. de PV,Regen. de PV,
+40046,Dreno de PV,Dreno de PV,
+40047,Absorção de PV (uma habilidade ativa que rouba PV do inimigo),Absorção de PV (uma habilidade ativa que rouba PV do inimigo),
+40048,Absorção de PV (Distribui o PV roubado entre você e os membros do seu grupo),Absorção de PV (Distribui o PV roubado entre você e os membros do seu grupo),
+40049,PV máx.,PV máx.,
+40050,Taxa de aumento de PV máx.,Taxa de aumento de PV máx.,
+40051,PM máx.,PM máx.,
+40052,Taxa de aumento de máx. de PM,Taxa de aumento de máx. de PM,
+40053,Taxa de aumento de velocidade,Taxa de aumento de velocidade,
+40054,Taxa de redução de custo de PM,Taxa de redução de custo de PM,
+40055,Diminuição de custo de PM,Diminuição de custo de PM,
+40056,Taxa de regen. de PM,Taxa de regen. de PM,
+40057,Tempo de recarga de habilidade,Tempo de recarga de habilidade,
+40058,Desdém (aumenta a agressividade ao máx.),Desdém (aumenta a agressividade ao máx.),
+40059,Travar alvo,Travar alvo,
+40060,Mover alvo,Mover alvo,
+40061,Atração de alvo,Atração de alvo,
+40062,Taxa de resist. à atração,Taxa de resist. à atração,
+40063,Taxa de resist. a repulsão,Taxa de resist. a repulsão,
+40064,Taxa de aumento de ganho de exp.,Taxa de aumento de ganho de exp.,
+40065,Taxa de aum. de ganho de adena,Taxa de aum. de ganho de adena,
+40066,Taxa de resist. a lentidão,Taxa de resist. a lentidão,
+40067,Taxa de resist. a atordoamento,Taxa de resist. a atordoamento,
+40068,Resist. a estado anormal,@30015,
+40069,Aumento de alcance de habilidade,Aumento de alcance de habilidade,
+40070,Aumento de contagem de acerto de habilidade,Aumento de contagem de acerto de habilidade,
+40071,Aumento de tempo de término de combinação,Aumento de tempo de término de combinação,
+40072,Penetração,Penetração,
+40073,Resiliência,Resiliência,
+40074,Taxa de crít.,Taxa de crít.,
+40075,Resist. a crítico,Resist. a crítico,
+40076,Taxa de aumento de taxa de crít.,Taxa de aumento de taxa de crít.,
+40077,Taxa de aumento de resist. a crítico,Taxa de aumento de resist. a crítico,
+50001,Chama,Monstro: Chama,
+50002,Arrepio,Monstro: Arrepio,
+50003,Cegueira,Monstro: Cegueira,
+50004,Maldição,Monstro: Maldição,
+50005,Atordoar,Monstro: Atordoamento,
+50006,Sangramento,"Monstro: Sangramento, redução da vel. de atq.",
+50007,Veneno,"Monstro: Envenenamento, redução de velocidade",
+50008,Enfraquecimento,Monstro: Enfraquecimento,
+50010,@50005,@50005,
+60099,@50006,Monstro de Ilha Falante: Sangramento,
+60103,Habilidade simulada,@132221,
+60115,Ídolo de Ouro,Queimadura,Causa dano ao longo de 5 s.
+60118,Marlow - Defesa Extrema,@13213,Aumenta muito a def.
+60136,Caçador Esqueleto (+ Atordoamento/Para Masmorra de Pergaminho de Aprimoramento),@50005,
+60137,Golem de Pedra (+ Atordoamento/Para Masmorra de Pergaminho de Aprimoramento),@50005,
+71023,Ruído Crítico,@10122,Velocidade -40%
+71452,@50006,Mordida da Morte do Rei Sangrento: Sangramento,
+71462,@50006,Arranhar Orbis: Sangramento,
+73013,Guillotine: Fúria,Raiva,
+73022,Crescente Sangrento: Redução de ataque,@112125,Reduz o atq.
+73031,Orfen: Enfraquecimento,Enfraquecimento de Orfen,Reduz a defesa
+73033,Ira de Orfen,Ira de Orfen,Aumento do atq. e vel. de atq.
+74011,Raiz da Morte: Derrubada,@1001,
+74022,Dreno de Sangue,Dreno de sangue: Cura ao longo do tempo (%),
+74032,Evocar Raio,Evocar Raio: Dano ao longo do tempo,
+74042,Maldição Infernal,Maldição infernal: Chama,
+74051,Poço de Veneno,Poço de Veneno: Dano ao longo do tempo,
+74062,@11222,Trovoada: Lentidão,
+74071,Charco da Malícia,Miasma: Dano ao longo do tempo,
+74072,Golpe de Cauda,Golpe de Cauda: Lentidão,@12221
+74082,Superaquecimento,Superaquecimento: Aumento de atq.,
+74083,@74082,Superaquecimento: Aumento da velocidade,
+74084,@74082,Superaquecimento: Redução da Def.,
+74085,@74082,@74082,
+74086,@74082,@74083,
+74087,@74082,@74084,
+74088,@74082,@74082,
+74089,@74082,@74083,
+74090,@74082,@74084,
+74091,@74082,@74082,
+74092,@74082,@74083,
+74093,@74082,@74084,
+50074,Esmagar: Redução do atq.,Esmagar: Redução de dano,Reduz em {1} o atq. para cada acúmulo de um efeito específico.
+74095,Olhar Petrificante,Olhar Petrificante: Aumento do dano sofrido,Aumenta em {1%}% o dano sofrido.
+74096,Golpe da Rainha,Golpe da Rainha: Cegueira,Reduz em {1} para cada acúmulo de precisão
+74097,Aprimoramento de Escala: Def. f.,Aprimoramento de Escala: Def. f.,Def. f. +{1%}%
+74098,Aprimoramento de Escala: Def. m.,Aprimoramento de Escala: Def. m.,Def. m. +{1%}%
+74111,Marca da Morte,Marca da Morte,
+74121,Lama escaldante,Lama escaldante: Aumento do dano sofrido,
+74122,Esmagamento ao Solo,Esmagamento ao Solo: Dano ao longo do tempo,
+74131,Olhar de Marsha (Velho),Olhar de Marsha: Dano ao longo do tempo,O dano é recebido durante 10 s enquanto afeta os aliados próximos.
+74132,Maldição da Medusa (Velha),Maldição da Medusa: Dano de área,Imobiliza por 5 s e depois causa uma explosão que gera um grande dano à área próxima.
+74134,@74132,Maldição da Medusa: Explosão,
+741341,Marsha: Tornado da Tentação,Marsha: Tornado da Tentação,Causa {1} de dano de sangramento durante 10 s.
+741342,@741341,@741341,@1011
+741351,Marsha: Vento Cortante,Marsha: Vento Cortante,Incapaz de usar habilidades por 5 s.
+7413511,@741351,Marsha: Vento Cortante (VE),@741351
+741352,@741351,@741351,@741351
+741353,@741351,@741351,@741351
+77001,@50001,@50001,
+77002,@50002,"Monstro: Congelamento, redução de velocidade",
+77003,@50003,@50003,
+77004,@50004,"Monstro: Maldição, redução da def.",
+77005,@50005,@50005,
+77006,@50006,"Monstro: Sangramento, redução do atq.",
+77007,@50007,@50007,
+77008,@50008,@50008,
+77010,@50005,@50005,
+77085,@73022,@112125,@73022
+801011,Aumento de atq.,Aumento de atq. m. e atq. f.,Atq. +50% for 30 s.
+801012,Aumento de atq. f.,Aumento de atq. f.,Atq. +30% for 30 s.
+801013,Aumento de atq. m.,Aumento de atq. m.,@801012
+801021,Aumento da vel. de atq.,Aumento da vel. de atq.,Vel. de Atq. +50% for 30 s.
+801022,@801021,@801021,Vel. de Atq. +20% for 30 s.
+801031,Aumento de def.,Aumento de def. m. e def. f.,Def. +300% for 30 s.
+801032,Aumento de def. f.,Aumento de def. f.,Def. +35% for 30 s.
+801033,Aumento de def. m.,Aumento de def. m.,@801032
+801041,Aumento de velocidade,Aumento de velocidade,Velocidade +30% for 30 s.
+801042,@801041,@801041,@801041
+80105,Aumento de PV máx.,Aumento de PV máx.,PV máx. +40% for 30 s.
+80106,Aumento de PM máx.,Aumento de PM máx.,PM máx. +40% for 30 s.
+801043,Aumenta o dano da habilidade,Aumenta o dano da habilidade,Aumenta dano de habilidade em 300% por 30 s.
+801044,Aura de Dano Corpo a Corpo (Temporizador),Aura de dano corpo a corpo,Causa 300 de dano fixo a inimigos próximos por 30 s.
+801045,Barreira de cristal aquático,Imunidade ao dano do cristal aquático,Cria uma barreira de imunidade a danos no Cristal Aquático por 30 s.
+801046,Grupo da Fúria (temporizador),Aumenta o atq. e a def. do grupo,Aumenta em 30% o atq. e def. dos aliados por 30 s.
+8010461,Grupo da Fúria,@801046,@801046
+801047,Avassalador,Aumento do atq. e vel. de atq.,Aumenta atq. e vel. de atq. por 30 s.
+801048,@801047,@801047,Aumenta atq. e vel. de atq. por 10 s.
+93506,Troglodita Berserker,Grande aumento de atq. e def. e pequeno aumento de vel. e de vel. de atq.,
+94409,Capataz Demônio Berserk,@93506,"Aumento da velocidade, vel. de atq., def. e atq."
+90001,Vida do clã,Aumento do PV,PV máx. +{1%}%
+90002,Alma do clã,Aumento do PM,PM máx. +{1%}%
+90003,Escudo do clã,Aumento da Def.,Def. +{1%}%
+90004,Poder do clã,Aumento de atq.,Atq. +{1%}%
+90005,Orientação do clã,Aumento da precisão,Taxa de precisão +{1%}%.
+90006,Evasão do clã,@22211,@22261
+90007,Movimento do clã,Aumento da velocidade,@132221
+90008,Golpe mortal do clã,@22241,@132331
+90009,Taxa de crít. do clã,Aumento de taxa de crít.,Taxa de crít. +{1%}%
+905001,Cristal da União nv. {TextParam1},Bônus de Cristal da União nv. {TextParam2},Imbui com o poder do Cristal da União da Sede do Clã.
+905002,@905001,@905001,@905001
+905003,@905001,@905001,@905001
+905004,@905001,@905001,@905001
+905005,@905001,@905001,@905001
+905006,@905001,@905001,@905001
+905007,@905001,@905001,@905001
+905008,@905001,@905001,@905001
+905009,@905001,@905001,@905001
+905010,@905001,@905001,@905001
+905101,Saciação do Banquete Pequeno,Aumento de def. m. e def. f.,Def. f. e Def. m. +500
+905102,Saciação do Banquete Médio,Aumento do PM e PV,Aumento de 1000 no PM/PV
+905103,Saciação do Banquete Grande,Aumento de atq. m. e atq. f.,"Atq. f., atq. m. +500"
+905104,Saciação do Banquete Extravagante Pequeno,@905101,Def. f. e Def. m. +1.200
+905105,Saciação do Banquete Extravagante Médio,@905102,Aumento de 2000 no PM/PV
+905106,Saciação do Banquete Extravagante Grande,@905103,"Atq. f., atq. m. +1.200"
+905107,Saciação do Banquete Pequeno Opulento,"Aumento da taxa de crít., def. m. e def. f.","Atq. f., atq. m. +2.000 e taxa de crít. +500"
+905108,Saciação do Banquete Médio Opulento,"Aumento da taxa de crít., PM e PV",PV e PM +3.000 e taxa de crít. +500
+905109,Saciação do Banquete Grande Opulento,"Aumento da taxa de crít., atq. m. e atq. f.","Atq. f., atq. m. +2.000 e taxa de crít. +500"
+905501,Poção de Aumento de Atq. F.,Aumento de atq. f.,Aumenta em 10% o atq. f.
+905502,Poção de Aumento de Atq. M.,Aumento de atq. m.,Aumenta em 10% o atq. m.
+905503,Poção de Aumento de Def. F.,Aumento de def. f.,Aumenta em 10% a def. f.
+905504,Poção de Aumento de Def. M.,Aumento de def. m.,Aumenta em 10% a def. m.
+905505,Poção de Aumento de Velocidade,Aumento da velocidade,Aumenta em 15% a velocidade.
+905506,Vel. de extração Poção de Aumento,Aumento da velocidade de extração,Aumenta rm 50% a velocidade de extração.
+905507,Poção de Aumento de Vel. Atq.,Aumento da vel. de ataque,Aumenta em [Param] a vel. atq.
+905508,Poção de Aumento da Tx. de Evasão,@24241,Aumenta em 50% a taxa de evasão.
+905509,Poção de Aumento de Resiliência,Aumento de resiliência,Aumenta em 10.000 a resiliência.
+905510,Poção de Aum. de dano em Ign. Def.,Ignorar aumento de dano de def.,Aumenta em 2.000 o dano de def. ignorar defesa em 2.000.
+905511,Poção de Redução de Dano Fixa,Aumenta a redução de dano fixa,Aumenta em 1.000 a redução de dano fixa.
+905512,Poção de Red. do T. de Rec. de Hab.,@21231,Reduz Habilidade Tempo de Recarga em 30%.
+905513,Poção de Aumento de Penetração,Aumento de Penetração,Aumenta em 10.000 a penetração.
+905514,Poção de Aum. de Dano a Chefes,Aumento de dano causado a chefes,Aumenta o dano causado a chefes em 15%.
+905515,Poção de Red. de Dano de Chefes,Redução de dano recebido de chefe,Reduz o dano recebido de chefes em 5%.
+905516,Poção de Aumento de Ganho de Núcleo,Aumento de taxa de caída de núcleo de monstro,Aumenta em 25% a taxa de caída de núcleo de monstro. (exceto masmorras Elite)
+905601,Poção de Aumento de Moral,Aumento de moral,Aumenta em 30% sua velocidade e a de membros do clã próximos.
+905602,Efeito de aumento de moral,Efeito de aumento de moral,Aumenta em 30% a velocidade dos membros do clã.
+905603,Poção de Tempest. de Gelo,Tempestade de Gelo,Reduz em 50% a velocidade de inimigos próximos.
+905604,Efeito de tempestade de gelo,Efeito de tempestade de gelo,Reduz em 50% a velocidade.
+905605,Poção de Destruição,Destruir Castelo,Aumenta em 50% de dano a estruturas atacantes.
+905606,Poção de Aumento de Regen. PV,Amplificação de Regen. PV,Aumenta a regen. PV em 50% e dos membros do clã próximos.
+905607,Amplificação de Regen. PV,Amplificação de Regen. PV,Aumenta em 50% a regen. de PV dos membros do clã.
+905608,Poção de Amplificação de Atq.,Amplificação de atq.,Reduz em 60% a def. e aumenta em 20% o atq.
+905609,Poção de Amplificação de Def.,Amplificação de Def.,Reduz em 15% o atq. e aumenta em 100% a def.
+905610,Poção de Aprimor. da Mente,Aprimoramento da mente,Aumenta em 50% a taxa de resistência a penalidade.
+905611,Poção Antimagia,Antimagia,Elimina 20% de PM dos inimigos próximos a cada segundo.
+905612,Efeito Antimagia,@905611,Elimina 20% de PM a cada segundo.
+906000,Proteção de Reviver no Campo de Batalha Honorável,Proteção de Reviver no Campo de Batalha Honorável,@1005
+906001,Campo de batalha honorável,Recuperação de PV,Curar PV dos aliados.
+906002,@906001,Efeito de recuperação de PV,@906001
+906003,@906001,@801041,Aumenta a velocidade dos aliados.
+906100,Proteção de Reviver no Campo de Batalha da Coragem,Proteção de Reviver no Campo de Batalha da Coragem,@1005
+906101,Campo de Batalha da Coragem,@906001,Curar PV dos aliados.
+906102,@906101,@801041,Aumenta a velocidade.
+906500,Proteção de reviver da arena de lutas,Proteção de reviver da arena de lutas,@1005
+906501,Santuário da arena de lutas,Santuário da arena de lutas,"Atq., def. vel. de atq. e velocidade +30%."
+11,Disparo Anímico,Disparo Anímico,Este é o Disparo Anímico.
+12,Repulsão Simulada,@1001,É para o teste de repulsão.
+100001,Bônus de invencibilidade,@1004,Este é o Bônus de invencibilidade.
+100002,Bônus de invisibilidade,Invisível,Este é o Bônus de invisibilidade.
+100003,Bônus de durabilidade,Durável,Este é o Bônus de durabilidade.
+100004,Bônus de Inteligência,Inteligente,Este é o Bônus de inteligência.
+100005,Bônus de um abate,Uma morte,Este é o bônus de um abate.
+100006,Energia de terra,@20221,"Proteção do Altar da Terra: atq. f. e atq. m. +10%, dano causado a Torres de Defesa +25%"
+100007,Energia de vento,@20221,"Proteção do Altar do Vento: atq. f. e atq. m. +10%, dano causado a Torres de Defesa +25%"
+100008,Proteção do Altar,@20221,O poder do altar amplifica e aumenta em 30% extras o atq. f. e atq. m.
+100011,Efeito de combinação nv. {TextParam1},Combinação {TextParam2},Este é o bônus de combinação 10. Ícones não exibidos.
+100012,@100011,@100011,Este é o bônus de combinação 20. Ícones não exibidos.
+100013,@100011,@100011,Este é o bônus de combinação 40. Ícones não exibidos.
+100014,@100011,@100011,Este é o bônus de combinação 60. Ícones não exibidos.
+100015,@100011,@100011,Este é o bônus de combinação 90. Ícones não exibidos.
+100016,@100011,@100011,Este é o bônus de combinação 120. Ícones não exibidos.
+100017,@100011,@100011,Este é o bônus de combinação 160. Ícones não exibidos.
+100018,@100011,@100011,Este é o bônus de combinação 200. Ícones não exibidos.
+100019,@100011,@100011,Este é o bônus de combinação 250. Ícones não exibidos.
+100020,@100011,@100011,Este é o bônus de combinação 300. Ícones não exibidos.
+100021,Peso na Consciência,"Atq., redução da def.",Você sente uma grande culpa não consegue mais juntar as forças.
+100031,Bônus de calibragem de JxJ,"Atq., aumento da def.",@100021
+100101,Herói do Altar da Terra,"Atq., dano a estruturas, PV máx., velocidade aumentada","Atq. f. e atq. m. +80%, dano causado a Torres de Defesa +50%, PV máx. +100%, velocidade +10%, resistência a atordoamento +30%"
+100102,Herói do Altar do Vento,@100101,@100101
+200000,Proteção,Proteção,@100001
+200001,Energia do Fogo,Aumento da vel. e da vel. atq.,A proteção do Altar do Fogo aumenta em 10% a velocidade e em 10% a vel. de atq.
+200002,Energia da Água,"Aumenta a velocidade, reduz o tempo de recarga de habilidade",A Proteção do Altar da Água aumenta em 10% a vel. e diminui em 15% o tempo de recarga de habilidade.
+200003,Herói de Cerco nv. {TextParam1},"Atq., def. +{TextParam2}",Atq. e Def. +1 %.
+200004,@200003,@200003,Atq. e Def. +2 %.
+200005,@200003,@200003,Atq. e Def. +3 %.
+200006,@200003,@200003,Atq. e Def. +4 %.
+200007,@200003,@200003,Atq. e Def. +5 %.
+200008,@200003,@200003,Atq. e Def. +6 %.
+200009,@200003,@200003,Atq. e Def. +7 %.
+200013,@200003,@200003,@200003
+200014,@200003,@200003,@200004
+200015,@200003,@200003,@200005
+200016,@200003,@200003,@200006
+200017,@200003,@200003,@200007
+200018,@200003,@200003,@200008
+200019,@200003,@200003,@200009
+300001,Grande Castelo,Aumento do ganho de exp.,"Exp. de monstros +50%.
+Só se aplica num território de castelo conquistado."
+300002,Castelo de Gludio,"Atq., def. +1,5%","Atq. e def. +1,5%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+300003,Castelo de Dion,Atq. e Def. +2 %.,"Atq. e def. +2%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+300004,Castelo de Giran,"Atq., def. +2,5%","Atq. e def. +2,5%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+300005,Castelo de Oren,Atq. e Def. +3 %.,"Atq. e def. +3%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+301001,Bênção de Fortaleza,Aumento de taxa de caída de núcleo de monstro,"Taxa de Queda de Núcleo de Monstro +10%
+Só se aplica na região da sua Fortaleza conquistada."
+301002,Fortaleza da Estrada de Gludin,Aumento do dano causado em monstros,Dano causado em monstros +5%
+301003,Fortaleza da Planície de Gludio,Redução de dano recebido de monstros,Dano recebido de monstros -2%
+301004,Fortaleza da Mansão Windawood,@301002,Dano causado a monstros +10%
+301005,Fortaleza do Deserto,@301003,Dano recebido de monstros -4%
+301006,Fortaleza da Planície de Dion,Aumento do dano causado a monstros de elite,Dano causado a monstros de elite +5%
+301007,Fortaleza do Pântano de Cruma,Redução do dano recebido de monstros de elite,Dano recebido de monstros de elite -2%
+301008,Fortaleza do Pico da Dissonância,@301006,Dano causado a monstros de elite +10%
+301009,Fortaleza dos Sacrários Uivantes,@301007,Dano recebido de monstros de elite -4%
+301010,Fortaleza do Domínio de Giran,Aumento do dano causado em chefes,Dano causado em chefes +5%
+301011,Fortaleza das Praias da Névoa Mortal,Redução do dano recebido de monstros chefes,Dano recebido de chefes -2%
+301012,Fortaleza da Ilha do Demônio,@301010,Dano causado a chefes +10%
+301013,Fortaleza da Necrópole Assombrada,@301011,Dano recebido de chefes -4%
+301014,Fortaleza do Vale do Dragão,Aumento do dano causado a jogador,"Dano causado a jogadores +2%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+301015,Fortaleza do Platô do Vento Norte,Redução do dano sofrido vindo de jogadores,"Dano recebido de jogadores -2%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+301016,Fortaleza das Terras Eternas,@301014,"Dano causado em jogadores +4%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+301017,Fortaleza da Torre de Marfim Conquistada,@301015,"Dano sofrido por jogadores -4%
+(exceto Cerco ao Castelo, Cerco à Fortaleza)"
+301018,Fortaleza da Ilha Falante,@132221,"Velocidade +2%
+(Exclui Cerco ao Castelo, Cerco à Fortaleza)"
+301030,Bônus C de Fortaleza Conquistada,"Aumento de velocidade, PM, PV","Velocidade, PM, PV +2%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+301031,Bônus B de Fortaleza Conquistada,@301030,@301030
+301032,Bônus A de Fortaleza Conquistada,@301030,"Velocidade, PM, PV +3%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+301033,Bônus S de Fortaleza Conquistada,@301030,"Velocidade, PM, PV +4%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+301034,Bônus R de Fortaleza Conquistada,@301030,"Velocidade, PM, PV +6%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+301035,Bônus SR de Fortaleza Conquistada,@301030,"Velocidade, PM, PV +8%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+301036,Bônus UR de Fortaleza Conquistada,@301030,"Velocidade, PM, PV +10%
+(Não inclui Cerco ao Castelo, Cerco à Fortaleza)"
+302001,Sabedoria do Senhor,Aumento da eficácia da poção de PV e PM,Eficácia da poção de PM e PV +20%. (Excluindo Cerco ao Castelo e Cerco à Fortaleza)
+302002,Glória do Senhor,"Ganho de exp. de derrota de monstros, aumento de taxa de caída de núcleo de monstro",Exp. de monstros e taxa de caída de núcleos +{0}%
+302003,Graça do Senhor,"Taxa de caída de item da derrota de monstros, aumento do ganho de adena",Adena de monstros e taxa de caída de item +{0}%.
+400001,Bônus do Santuário,"Aumento da velocidade, ganho de exp. e adena","Ganho de adena, ganho de exp. e aumento da velocidade"
+400002,Fúria do Grande Kain,"Aumento de atq., def. e vel. de atq.","Aumento de atq., def. e vel. de atq."
+500001,Fúria de Eldru,"Aumento da velocidade, vel. de atq., def. e atq.","Exibe raiva para inimigos fracos / Aumento da velocidade, vel. de atq., atq. duplo e def."
+510001,Bônus de diamante diário,@132221,Velocidade +8%
+510002,Bônus de Benefício da Caçada Diária,"Taxa de caída de item, ganho de adena +20%",Taxa de caída de item / ganho de adena +20%
+900001,Foco no Chefe de Torre da Insolência,Forte,Forte
+301,Bênção do Ratel Robusto {TextParam1},Velocidade,A bênção do ratel robusto aumenta a velocidade.
+302,@301,Velocidade de extração,A bênção do ratel robusto aumenta a velocidade de extração.
+303,@301,Quantidade de extração,A bênção do ratel robusto aumenta a quantidade de extração.
+304,Bênção da Sentinela do Jardim,Bônus da Sentinela do Jardim,Uma bênção da Sentinela do Jardim. Aumenta {0} vezes a quantidade de extração.
+305,Sentinela do Jardim,Sentinela do Jardim,A primeira habilidade que a Sentinela do Jardim usa quando surge.
+306,Efeito da Sentinela do Jardim,Efeito da Sentinela do Jardim,O efeito da habilidade que a Sentinela do Jardim usa regularmente.
+401,Fonte de Recuperação,Fonte de Recuperação,A primeira habilidade que a Fonte de Recuperação usa quando surge.
+402,Bônus da Fonte de Recuperação,Bônus da Fonte de Recuperação,O PV se recupera rapidamente quando perto da Fonte de Recuperação.
+403,Bônus de reviver do Cerco à Fortaleza,@1004,Aplica invencibilidade brevemente quando revive durante um Cerco à Fortaleza.
+451,Bônus de reviver do defensor do Cerco ao Castelo,@1004,Aplica Invencibilidade brevemente após ter revivido durante o Cerco ao Castelo.
+452,@451,@301,Permite velocidade mais rápida brevemente quando revive durante um Cerco ao Castelo.
+453,Bônus de reviver do atacante do Cerco ao Castelo,@1004,@451
+454,@453,@301,@452
+501,Bloquear PK,Bloquear PK,"Não sujeito a PK. (exceto Cerco à Fortaleza, Cerco ao Castelo, Campo de Batalha)"
+502,@501,@501,@501
+503,@501,@501,@501
+504,@501,@501,@501
+510,Bênção de Einhasad,Bênção de Einhasad,Aumenta em 100% a exp. de caça no campo e exp. de extração.
+511,@510,@510,Aumenta em 200% a exp. de caça no campo e exp. de extração.
+720212,Garra - Atordoamento,@11222,@1011
+1720212,@720212,@11222,@1011
+720222,Veneno Cuspido - Veneno,Veneno,Aplica veneno e recebe dano ao longo do tempo.
+1720222,@50007,@720222,Envenenamento causa dano ao longo do tempo.
+1720223,Poça de Veneno,Poça de Veneno,
+720232,Liberar Feromônio - redução de def. f.,Redução da def. f.,Reduz a def. f.
+720233,Liberar Feromônio - redução de def. m.,Redução da def. m.,Reduz a def. m.
+720234,Liberar Feromônio - redução de velocidade,@12231,Reduz a velocidade.
+1720232,@720232,@720232,@720232
+1720233,@720233,@720233,@720233
+1720234,@720234,@12231,@720234
+1720310,Bênção da Formiga Mentora Grande_1,@1004,
+1720311,Bênção da Formiga Mentora Grande_2,@1004,
+1720312,Bênção da Formiga Mentora Grande_3,@1004,
+1720316,Autoatordoamento,@11222,
+720241,Cavar - Invisibilidade,@100002,
+720242,Cavar - Invencibilidade,@1004,
+720243,Cavar - Atordoamento,@11222,
+720251,Berserk (Formiga Rainha),@905502,
+720282,Ataque básico + lentidão,Resist. a dano. crít. básico,@720234
+720301,Imunidade a ataques físicos por {TextParam1} s.,,
+721211,Aumenta a def. por {TextParam1} s.,,
+721222,Aumento de ataque da Formiga Rainha,@720222,@720222
+7212411,Bônus de Formiga (pelo tempo exibido),Autodestruição em:,
+721241,Bônus de formiga {TextParam1},,
+721242,@721241,,
+721243,@721241,,
+721244,@721241,,
+721245,@721241,,
+721246,@721241,,
+721301,@720243,@11222,
+721321,Vinculação,,Vincula e imobiliza.
+721332,Bônus de Formiga Mentora,,
+721341,Bônus ao lançador da Formiga Mentora,,
+17200022,@50007,,@1720222
+17200032,@1720223,@1720223,
+17200033,Rasteira,,
+17200052,@50005,,Não pode se mover.
+17200091,Berserk,,
+720312,Lâmina de Sangue: Sangramento,Sangramento,Causa dano ao longo do tempo de 30 s (acumulável).
+720321,Proteção de Sangue,Escudo,Um escudo que dura 10 s.
+720351,Berserker de Sangue,Berserk,Berserk
+720352,@720351,@720351,@720351
+720353,Berserker de Sangue (dificílimo),@720351,@720351
+720372,@50005,Varcarlo: Atordoamento,
+7203721,@50005,Varkaron (dificílimo) atordoamento,
+720361,Golpe de Sangue: Sangramento,Sangramento 2,@720312
+72038,Vórtice de Sangue Redução da Def.,@13211,Diminui a def. por 10 segundos (acumulável).
+172035,Clone de Varkaron: bônus de aprim. de atq.,Aprimoramento de atq.,Aprimoramento de atq.
+720391,Evocar clone: tempo de recarga,Recarga,Tempo de recarga simples
+720441,Veneno de Gravidade,Dano ao longo do tempo,Causa dano ao longo do tempo de 30 s.
+720451,Agitação de Núcleo,@720351,Alvoroço
+720461,Controle mental,Controle mental,Causa confusão e deixa incapaz de distinguir aliados e inimigos.
+720472,Esmagamento Contumaz (Atordoamento),@11222,@1011
+720482,Rugido do Guardião (Silêncio),@142321,Incapaz de usar habilidades
+720511,Evocação fácil {TextParam1},Teste do tempo de recarga,@720391
+720521,@720461,@720461,@720461
+720531,@720461,@720461,@720461
+720541,@720511,@720511,@720391
+720551,Evocação normal {TextParam1},@720511,@720391
+720561,@720551,@720511,@720391
+720571,@720551,@720511,@720391
+720581,Evocação difícil {TextParam1},@720511,@720391
+720591,@720581,@720511,@720391
+720601,@720581,@720511,@720391
+600,Controle mental (teste),@720461,Controle Mental (testando dados no momento)
+741141,Ruptura,@11222,Ruptura causa atordoamento.
+741171,Fadiga de Marlox,@11222,"Marlox aumenta a fatiga.
+O dano recebido por Marlox aumenta significativamente."
+741191,Bônus de Totem de Demônio (acumulável),Bônus acumulável,"Quando acumulado, aplica atordoamento."
+7411911,@741171,@11222,Marlox aumenta a fatiga.
+7411912,Marlox Forte (estado),Imunidade demoníaca,A imunidade demoníaca evita que você receba danos.
+601391,Apodrecimento,Redução de vel. atq.,Diminui a vel. atq.
+601402,Tonto,Redução da taxa de precisão de ataque,Reduz a taxa de precisão dos ataques.
+601412,@50006,@720312,Sofre dano de sangramento ao longo do tempo.
+601441,@50006,@720312,@601412
+601462,@50005,@11222,@1011
+601472,Derrubada,@1001,Caído
+601612,@601472,@1001,@601472
+601622,Lentidão,@10122,Redução de velocidade
+601642,@50007,Veneno,Causa dano de envenenamento ao longo do tempo.
+601,@50005,@1011,@1011
+910245,Bala de Mel Orgânica,,Atq. +1.500
+910246,Bala de Morango,,PV máx. +3.000
+910247,Bala de Chocolate,,PM máx. +3.000
+910248,Bala de Uva,,Def. +2.000
+910249,Broto da primavera,,@910248
+910250,Bom trabalho,,@910245
+910251,Uva,,Aumenta em 3% o dano crítico.
+910252,Melancia,,@910246
+910253,Melão-oriental,,@910248
+910254,Framboesa,,@910245
+910255,Chave de Caçada ao Tesouro de Feldheim,,@910246
+910256,Dados de animação do efeito do fogo de artifício 1 ,,Dados do efeito do fogo de artifício 1
+910257,Dados de animação do efeito do fogo de artifício 2,,Dados do efeito do fogo de artifício 2
+910258,Dados de animação do efeito do fogo de artifício 3,,Dados do efeito do fogo de artifício 3
+910259,Dados de animação do efeito do fogo de artifício 4,,Dados do efeito do fogo de artifício 4
+602,Bônus para mostrar chefe de campo.,Para mostrar chefe de campo.,Para mostrar chefe de campo.
+800000,Ícone de Alarme (Teste),Exibir ícone de alarme,Teste de exibição do ícone de alarme
+805004,@720312,@720312,@720312
+411005,Ferida de perfuração,Ferida de perfuração,Sangrar pela ferida reduz a def.
+411010,Anemia,@11222,
+411011,Dreno de PV forçado,Dreno de PV forçado,Leonard drena PV à força.
+411018,Vampirizar,Atq. aumenta e Def. reduz,O sangue transforma-se em sangue de vampiro e causa fúria.
+411019,Mudança vampírica,@720461,O sangue torna-se completamente vampírico e o sangue de um aliado torna-se o novo alvo.
+411036,Fúria do sangue I,,
+411037,Fúria do sangue II,,
+411038,Fúria do sangue III,,
+412005,@411005,@411005,@411005
+412010,@411010,@11222,
+412011,@411011,@411011,@411011
+412018,@411018,@411018,@411018
+412019,@411019,@720461,@411019
+412036,@411036,,
+412037,@411037,,
+412038,@411038,,
+413002,Sangue furioso,Atq. e Vel. Aumentam,
+413005,@411005,@411005,@411005
+413010,Leonard: Anemia,@11222,
+413011,@411011,@411011,@411011
+413013,Ácido corrosivo,Redução de dano ao longo do tempo e velocidade,O vômito grudento limita o movimento e derrete a pele.
+413016,Morcego: Invisível,,
+4130212,Recarregar sangue: Invencível,@1004,
+4130213,Recarregar sangue: Atordoamento,@11222,
+413018,@411018,@411018,@411018
+413019,@411019,@720461,@411019
+4130272,Brilho do Coágulo de sangue,,
+413034,Supersaturação do visgo,,
+413035,Invencibilidade do Fantasma de Zaken,@1004,@1004
+413036,@411036,,
+413037,@411037,,
+413038,@411038,,
+413041,Leonard: Inferno de sangue,@11222,
+414002,@413002,@413002,
+414005,@411005,@411005,@411005
+414010,@411010,@11222,
+414011,@411011,@411011,@411011
+414013,@413013,@413013,@413013
+414016,@413016,,
+414018,@411018,@411018,@411018
+414019,@411019,@720461,@411019
+414036,@411036,,
+414037,@411037,,
+414038,@411038,,
+414041,@413041,@11222,
+414043,Bônus de invisibilidade de Tark,@11222,
+414045,Ressonância Vampírica,,
+4010062,Esmagar pedra: Atordoamento,@11222,@1011
+4010202,Alvo identificado: Alvo,Alvo,Torna-se o alvo dos machados.
+401021,Brasa,,Explode após um curto período criando fogo no chão.
+401026,Ignição,Dano adicional (acumulável),Uma explosão de Ignição causará muito mais dano.
+401009,Berserk da Guarda real de Ramog,Animação,
+401010,Alma de xamã orc: Animação,,
+401011,Cristal de Nebulita: Atordoamento,@11222,
+401013,Temporizador de autodestruição,@7212411,
+401014,Bônus de animação de autodestruição 1,,
+401015,Bônus de animação de autodestruição 2,,
+4020012,Forte golpe: Derrubada,@1001,@601472
+4010351,Explosão em espera: Incapacitação,Por incapacitar Ramog,
+4020101,Explosão em espera: Incapacitação,@12231,
+4010361,Bônus de movimento de Paagrio,Móvel,
+4010222,@50001,Chama,
+401000,Poder do orc,Bônus da caixa de suprimentos orc,
+4011032,Alvo identificado: Atordoamento,@1001,
+4011042,@401021,Brasa,As brasas grudam no corpo e causam dano contínuo.
+4011022,Explosão abrasadora 1,@4011042,
+4011023,Explosão abrasadora 2,,
+4011092,Explosão abrasadora: Derrubada,@1001,
+4012022,@401026,,@401026
+4012051,Explosão em espera,,
+4012061,@4010361,,
+401217,Berserk em espera,,
+401218,Autoatordoamento de Ramog,,
+4012092,Brilho de Paagrio,,
+401211,Ramog - Berserk ,,
+9902011,Efeito da Capa - Ataque JxA desativa barreira: 1 vez,,
+9902012,Efeito da Capa - Ataque JxA desativa barreira: 2 vezes,,
+9902013,Efeito da Capa - Ataque JxA desativa barreira: 3 vezes,,
+9903011,Efeito de Capa - Barreira de habilidade rara de JxJ: 1 vez,,
+9903012,Efeito de Capa - Barreira de habilidade rara de JxJ: 2 vezes,,
+9903013,Efeito de Capa - Barreira de habilidade rara de JxJ: 3 vezes,,
+1000000,Dano de monstro de elite Aumentam,Dano de monstro de elite Aumentar bônus,15% de dano aumentado para monstros de elite
+1000001,Dano de chefe Aumentam,Dano de chefe Aumentar bônus,15% de dano aumentado para chefes
+1000002,Dano de monstro mágico Aumentam,Dano de monstro mágico Aumentar bônus,30% de dano aumentado para monstros mágicos
+420001,Paladino,,
+420002,Senhor da Guerra,,
+420003,Caça-tesouros,,
+420004,@11244,,
+420005,Feiticeiro,,
+420006,Bispo,,
+420007,Cavaleiro do Templo,,
+420008,Espadachim,,
+420009,Caminhante das Planícies,,
+420010,Patrulheiro de Prata,,
+420011,Canta-Magias,,
+420012,Ancião,,
+420013,Cavaleiro de Shillien,,
+420014,Dança-lâminas,,
+420015,Caminhante do Abismo,,
+420016,Patrulheiro Fantasma,,
+420017,Uiva-Magias,,
+420018,Ancião de Shillien,,
+420019,Guardião,,
+420020,Matador,,
+420021,Carniceiro,,
+420022,Patrulheiro de Guerra,,
+420023,Mago de Batalha,,
+420024,Sábio,,
+731211,자켄 밤 1단계,,
+731221,자켄 밤 2단계,,
+731231,자켄 밤 3단계,,
+731241,자켄 밤 4단계,,
+731251,자켄 밤 5단계,,
+731261,자켄 밤 6단계,,
+730223,Voltar,,
+730233,Animação de retorno,,
+731361,Soldado Pirata de Zaken,,
+731391,Capitão dos Piratas de Zaken,,Reduz muito a def.
+730271,Em espera,,Reduz a def. f. e a def. m.
+730281,Ocultar,,
+730222,Teletransporte + Vai para o primeiro barco,,
+730232,Teletransporte + Vai para o segundo barco,,
+731412,Gosma ambígua,,
+731461,Camundongo - invisível,,
+731471,Camundongo - retorno,,
+810000001,Poção do Clã Nv. 1: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 10%.
+O efeito dura 1 hora."
+810000002,Poção do Clã Nv. 2: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 20%.
+O efeito dura 1 hora."
+810000003,Poção do Clã Nv. 3: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 30%.
+O efeito dura 1 hora."
+810000004,Poção do Clã Nv. 4: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 40%.
+O efeito dura 1 hora."
+810000005,Poção do Clã Nv. 5: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 50%.
+O efeito dura 1 hora."
+810000006,Poção do Clã Nv. 6: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 60%.
+O efeito dura 1 hora."
+810000007,Poção do Clã Nv. 7: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 70%.
+O efeito dura 1 hora."
+810000008,Poção do Clã Nv. 8: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 80%.
+O efeito dura 1 hora."
+810000009,Poção do Clã Nv. 9: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 90%.
+O efeito dura 1 hora."
+810000010,Poção do Clã Nv. 10: Bônus de Adena,@40002,"Depois de usar, a quantidade de adena ganha aumenta em 100%.
+O efeito dura 1 hora."
+810000101,Poção do Clã Nv. 1: Bônus de caída de item,Taxa de caída de item aumentada,"Aumenta a taxa de caída de item em 10% ao ser usada.
+O efeito dura 1 hora."
+810000102,Poção do Clã Nv. 2: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 20% ao ser usada.
+O efeito dura 1 hora."
+810000103,Poção do Clã Nv. 3: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 30% ao ser usada.
+O efeito dura 1 hora."
+810000104,Poção do Clã Nv. 4: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 40% ao ser usada.
+O efeito dura 1 hora."
+810000105,Poção do Clã Nv. 5: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 50% ao ser usada.
+O efeito dura 1 hora."
+810000106,Poção do Clã Nv. 6: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 60% ao ser usada.
+O efeito dura 1 hora."
+810000107,Poção do Clã Nv. 7: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 70% ao ser usada.
+O efeito dura 1 hora."
+810000108,Poção do Clã Nv. 8: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 80% ao ser usada.
+O efeito dura 1 hora."
+810000109,Poção do Clã Nv. 9: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 90% ao ser usada.
+O efeito dura 1 hora."
+810000110,Poção do Clã Nv. 10: Bônus de caída de item,@810000101,"Aumenta a taxa de caída de item em 100% ao ser usada.
+O efeito dura 1 hora."
+810000201,Poção do Clã Nv. 1: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 10%.
+O efeito dura 1 hora."
+810000202,Poção do Clã Nv. 2: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 20%.
+O efeito dura 1 hora."
+810000203,Poção do Clã Nv. 3: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 30%.
+O efeito dura 1 hora."
+810000204,Poção do Clã Nv. 4: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 40%.
+O efeito dura 1 hora."
+810000205,Poção do Clã Nv. 5: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 50%.
+O efeito dura 1 hora."
+810000206,Poção do Clã Nv. 6: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 60%.
+O efeito dura 1 hora."
+810000207,Poção do Clã Nv. 7: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 70%.
+O efeito dura 1 hora."
+810000208,Poção do Clã Nv. 8: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 80%.
+O efeito dura 1 hora."
+810000209,Poção do Clã Nv. 9: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 90%.
+O efeito dura 1 hora."
+810000210,Poção do Clã Nv. 10: Bônus de caída de núcleo,@905516,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 100%.
+O efeito dura 1 hora."
+810000301,Poção do Clã Nv. 1: Exp. Bônus,Exp. aumentada,"Depois de usada, a quantidade de exp. obtida aumenta em 10%.
+O efeito dura 1 hora."
+810000302,Poção do Clã Nv. 2: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 20%.
+O efeito dura 1 hora."
+810000303,Poção do Clã Nv. 3: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 30%.
+O efeito dura 1 hora."
+810000304,Poção do Clã Nv. 4: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 40%.
+O efeito dura 1 hora."
+810000305,Poção do Clã Nv. 5: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 50%.
+O efeito dura 1 hora."
+810000306,Poção do Clã Nv. 6: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 60%.
+O efeito dura 1 hora."
+810000307,Poção do Clã Nv. 7: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 70%.
+O efeito dura 1 hora."
+810000308,Poção do Clã Nv. 8: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 80%.
+O efeito dura 1 hora."
+810000309,Poção do Clã Nv. 9: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 90%.
+O efeito dura 1 hora."
+810000310,Poção do Clã Nv. 10: Exp. Bônus,@810000301,"Depois de usada, a quantidade de exp. obtida aumenta em 100%.
+O efeito dura 1 hora."
+30910245,Chocolate Comum,,@910245
+30910246,Chocolate ao Leite,,@910246
+30910247,Chocolate Amargo,,@910247
+30910248,Chocolate Branco,,@910248
+30910251,Chocolate Amaretto,,@910251

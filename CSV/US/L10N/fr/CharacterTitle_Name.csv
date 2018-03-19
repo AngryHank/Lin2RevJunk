@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,L'aventure commence,Le premier titre donné à un héros lorsqu'il débute son aventure.,
+1000200,Meilleur donneur,"S'active après avoir complété le succès ""Ce qui est à moi est à nous (palier {DescParam})"".",10
+1000300,Bonne participation,"S'active après avoir complété le succès ""Toujours en tête (palier {DescParam})"".",10
+1000400,Meilleur ami,"S'active après avoir complété le succès ""Plaisir d'aider les amis (palier {DescParam})"".",10
+1000500,Top 1 %,"S'active après avoir complété le succès ""Pas besoin de monnaie (palier {DescParam})"".",10
+1000600,Chasseur de monstres,"S'active après avoir complété le succès ""Chasseur inconsidéré (palier {DescParam})"".",11
+1000800,Jeune concurrent,Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement d'Arène.,10000
+1000900,Disciple de puissance,Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement de puissance de combat.,10000
+1001000,Chercheur assistant,Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement de niveaux.,10000
+1001200,Maître de l'évolution,"S'active après avoir complété le succès ""Plus que de la nourriture (palier {DescParam})"".",10
+1001300,Chasseur d'âmes,"S'active après avoir complété le succès ""Des milliers d'étincelles (palier {DescParam})"".",10
+1001400,Gestionnaire de poche,"S'active après avoir complété le succès ""Avec un peu d'amour et de patience (palier {DescParam})"".",10
+1001500,Collectionneur,"S'active après avoir complété le succès ""Je ne suis pas un éboueur, mais... (palier {DescParam})"".",10
+1001600,Alchimiste,"S'active après avoir complété le succès ""Ce qui me fait briller (palier {DescParam})"".",10
+1001700,Duelliste,"S'active après avoir complété le succès ""Signe de victoire (palier {DescParam})"".",10
+1001800,Expert en dégaine,"S'active après avoir complété le succès ""Les compétences n'ont rien à voir avec la chance (palier {DescParam})"".",10
+1001900,Chasseur de cœur,"S'active après avoir complété le succès ""Obtention de butin (palier {DescParam})"".",10
+2000200,Concurrent expert,@1000800,5000
+2000300,Aventurier,@1000900,5000
+2000400,Chercheur d'élite,@1001000,5000
+2000600,Journal de monstre,"S'active après avoir complété le succès ""{DescParam})"".",Codex de la région des Terres de clameur
+2000700,Amateur de richesse,"S'active après avoir complété le succès ""Déjà vu ? (palier {DescParam})"".",10
+2000900,Petit chanceux,"S'active après avoir complété le succès ""Que la chance soit avec vous (palier {DescParam})"".",10
+2001000,Dresseur de monture,"S'active après avoir complété le succès ""Plus fort et plus brave (palier {DescParam})"".",10
+2001100,Protection d'esprit,"S'active après avoir complété le succès ""Obligation de combat (palier {DescParam})"".",10
+2001200,Enquêteur médical,"S'active après avoir complété le succès ""Sang différent (palier {DescParam})"".",10
+2001300,Sécurité avant tout,"S'active après avoir complété le succès ""Vers une voie plus sûre (palier {DescParam})"".",10
+2001400,Maître du camouflage,"S'active après avoir complété le succès ""Pas facile d'être lunatique (palier {DescParam})"".",10
+2001500,Maîtrise des armes,"S'active après avoir complété le succès ""Extrait des légendes (palier {DescParam})"".",10
+2001600,Maîtrise des armures,"S'active après avoir complété le succès ""Parchemin sorti des rêves (palier {DescParam})"".",10
+2001800,Combinateur,"S'active après avoir complété le succès ""Évolution infinie de l'équipement (palier {DescParam})"".",10
+2001900,Maîtrise des bijoux,"S'active après avoir complété le succès ""Parchemin trouvé (palier {DescParam})"".",10
+2002000,Pourfendeuse,"S'active après avoir complété le succès ""Monstre légendaire vaincu (palier {DescParam})"".",10
+2002100,Maître de l'amélioration,"S'active après avoir complété le succès ""Rien à voir (palier {DescParam})"".",10
+3000200,Concurrent vif,@1000800,100
+3000300,Conquérant incroyable,@1000900,100
+3000500,Chercheur intelligent,@1001000,100
+3000900,Spécialiste,"S'active après avoir complété le succès ""Fabriquer de l'équipement spécial (palier {DescParam})"".",10
+3001000,Revalorisateur,"S'active après avoir complété le succès ""Vous ne pouvez pas faire mieux ? (palier {DescParam})"".",10
+3100100,Commandant de la forteresse,"Obtenu si vous êtes {DescParam} du clan au pouvoir de la forteresse.
+(Titre porté en remplissant les conditions.)",Ancêtre
+3100200,Gardien de forteresse,@3100100,- Membres :
+4100100,Commandant de la forteresse,@3100100,Chef
+4101000,Les dix concurrents,"Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement d'Arène.
+(Titre porté en remplissant les conditions.)",10
+4101100,Les dix conquérants,"Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement des puissances de combat.
+(Titre porté en remplissant les conditions.)",10
+4101200,Chercheur renommé,"Obtenu lorsque vous atteignez le rang {DescParam} ou supérieur dans le classement des niveaux.
+(Titre porté en remplissant les conditions.)",10
+5100200,Roi du duel,"Obtenu lorsque vous atteignez le rang {DescParam} dans le classement d'Arène.
+(Titre porté en remplissant les conditions.)",1
+5100300,Je suis le plus fort,"Obtenu lorsque vous atteignez le rang {DescParam} dans le classement des puissances de combat.
+(Titre porté en remplissant les conditions.)",1
+5100400,L'illuminé,"Obtenu lorsque vous atteignez le rang {DescParam} dans le classement des niveaux.
+(Titre porté en remplissant les conditions.)",1
+30000000,Premier pionnier,Un titre en édition limitée est disponible pour les joueurs ayant complété leur préinscription.,
+30000010,Mécène du clan,Un titre honorifique accordé aux membres qui apportent un immense soutien à leur clan.,

@@ -1,0 +1,4 @@
+DiceEventId,EventName,DiceMissionGroupId,EventRewardGroupId,CompleteRewardId,CompleteRewardRepeatable,EventKeyItemId,DiceChargeTime,DiceChargeMaxCount,DiceMaxCount,DiceMaxCountTotal,ExchangePoint,DiceImage
+3,한여름 밤의 꿈,3,3,300,0,490068,0,3,99,250,100,UI_Bg_EventDiceBoard
+4,할로윈 기묘한 여행,4,4,400,0,490095,0,2,99,250,100,UI_Bg_EventDiceBoard
+5,봄날의 산책,5,5,500,0,490108,0,2,99,250,100,UI_Bg_EventDiceBoard

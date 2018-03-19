@@ -1,0 +1,43 @@
+Id,Adventure,Difficulty
+1,Todo,Todo
+2,Mazmorra de élite,Ruinas élficas 1
+3,@2,Ruinas élficas 2
+4,@2,Hormiguero 1
+5,@2,Hormiguero 2
+6,@2,Torre de Cruma 2
+7,@2,Torre de Cruma 3
+8,@2,Torre de marfil 1
+9,@2,Torre de marfil 2
+10,Mazmorra de extracción,Mazmorra de extracción
+11,Templo guardián,Fácil
+12,@11,Normal
+13,@11,Difícil
+14,@11,Muy difícil
+15,Círculo de invocación,@11
+16,@15,@12
+17,@15,@13
+101,Jefe de incursión,Pastor de espíritu
+102,@101,Zodiac
+103,@101,Kyrios
+104,@101,Barbaplateada
+105,@101,Vapar
+106,@101,Kazir
+107,@101,Flagon
+108,@101,Sina
+109,@101,Amadeus
+111,@101,Stenoa
+112,@101,Marsha
+118,@2,Torre de marfil 3
+124,Grieta Temporal,Altar de la locura: fácil
+125,@124,Altar de la locura: normal
+129,@124,Tocador de la Condesa de Sangre: fácil
+130,@124,Tocador de la Condesa de Sangre: normal
+140,Mazmorra de monstruo poco común,Isla Parlante
+141,@140,Gludio
+142,@140,Dion
+143,@140,Giran
+144,@140,Oren
+145,Mazmorra de piedra de invocación de jefe,@141
+146,@145,@142
+147,@145,@143
+148,@145,@144

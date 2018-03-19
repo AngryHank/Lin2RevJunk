@@ -1,0 +1,60 @@
+Id,Name
+11131,Dardo di energia
+11125,Doppio colpo
+11132,Attacco di Fiamma
+11133,Attacco di Vento
+12131,@11131
+12125,@11125
+12132,@11132
+12133,@11133
+13131,@11131
+13125,@11125
+13132,@11132
+13133,@11133
+14131,@11131
+14125,@11125
+14132,@11132
+14133,@11133
+11252,Cavità di Molten
+12221,Blaster sonica
+12222,Tempesta sonica
+12242,Doppio Colpo ampio
+12251,Lancia di ghiaccio
+13241,Pungiglione della morte
+30004,Freccia di Sangue
+30006,Dardo Missile
+31003,Grande Urto
+50001,Mostro: Palla di fuoco
+50002,Mostro: Asta di ghiaccio
+50003,Mostro: Magia della Terra
+50004,Mostro: Magia del vento
+50005,Mostro: Magia dell’oscurità
+50006,Mostro: Dardo di energia
+50007,Mostro: Doppio colpo
+60107,@11132
+60109,Colpo di potenza
+73022,Abilità di Zaken 2
+77085,Abilità Fantasma di Zaken (Boss Quest)
+74061,Onda Elettrica
+74101,MTG_DullahanBossSkill_01
+74111,MTG_DarkLordBossSkill_01
+74121,Fango ardente
+80001,Proiettile Torre Difensiva Aggressore
+1508031,@11133
+1512031,@11131
+1513021,@11131
+1513071,@11125
+1514051,@60109
+1518031,Dardo di ghiaccio
+1519021,@11131
+720441,Veleno di gravità
+601261,Fata
+601391,DragonPythonSkill_01
+601441,DarkAssociation_M_HighSkill_01
+731271,Libera - Fase 1
+731281,Libera - Fase 2
+731291,Libera - Fase 3
+731301,Libera - Fase 4
+731311,Libera - Fase 5
+731371,Mozzo dei Pirati di Zaken
+730311,Libera - Corpo Principale

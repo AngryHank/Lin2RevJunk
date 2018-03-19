@@ -1,0 +1,6 @@
+DiceEventId,DiceMissionGroupId,EventRewardGroupId,CompleteReward,DiceChargeTime,DiceChargeMaxCount,DiceMaxCount,ExchangePoint,DiceImage,CompleteRewardId,CompleteRewardRepeatable,DiceMaxCountTotal
+1,1,1,100,0,3,250,100,UI_Bg_EventDiceBoard,100,1,250
+2,2,2,0,0,2,99,100,UI_Bg_EventDiceBoard,200,0,250
+3,3,3,300,0,3,250,100,UI_Bg_EventDiceBoard,300,1,250
+4,4,4,400,0,3,250,100,UI_Bg_EventDiceBoard,400,0,250
+5,5,5,500,0,3,500,100,UI_Bg_EventDiceBoard,500,0,500

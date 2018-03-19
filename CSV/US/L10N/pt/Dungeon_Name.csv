@@ -1,0 +1,400 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Ruínas Élficas 1,,,"Um lugar repleto de energia mágica. Aqui é a academia onde o elfos ensinaram magia aos humanos, que construíram suas fundações e se tornaram os governantes."
+201,Ruínas Élficas 2,,,"Quando os elfos comandavam o continente, este andar só era aberto para os humanos com talento excepcional."
+202,Formigueiro 1,,,"Uma caverna cheia de formigas gigantes que se adaptaram e sobreviveram ao Deserto, criado pela gigantesca explosão de magia negra."
+203,Formigueiro 2,,,As formigas criaram um labirinto complicadíssimo para proteger seus bens precioso. Só as formigas conseguem andar nele.
+204,Torre de Cruma 2,,,Uma instalação científica e fortaleza ambulante usada pelos antigos gigantes para seus experimentos biológicos.
+205,Torre de Cruma 3,,,"Permanecendo fiel à função original da torre, este andar tem muitos laboratórios de pesquisa biológica. Ela é cheia de energia mágica dos gigantes."
+206,Torre de Marfim 1,,,"Formada quando o meteorito Nebulita caiu na terra. Era um laboratório com biblioteca, mas foi fechado depois do Incidente dos Bruxos furiosos."
+207,Torre de Marfim 2,,,"Havia um laboratório de alquimia aqui, mas agora está coberto de fungos duros como pedra que cresceram do chão."
+208,Complete Torre de Marfim 3,,,"Onde Nebulita, o meteorito, se encontra. Os monstros, fortalecidos pelo efeito da Nebulita, correm soltos."
+209,Laboratório da Catacumba da Torre de Marfim,,,Esse é tanto o laboratório de um bruxo louco por Nebulita da Torre de Marfim quanto o lugar onde ele foi selado. Muitos súditos vagam por aqui.
+210,Cobertura da Floresta dos Segredos,,,Era aqui que as fadas moravam. Os monstros tomaram esta área depois que as fadas emigraram fugindo das batalhas.
+211,Sub-bosque da Floresta dos Segredos,,,"A Floresta dos Segredos cresceu muito, impedindo a luz do sol de entrar, e foi profanada pelos monstros."
+212,Matadouro da Floresta dos Segredos,,,O local do descanso final das fadas que resistiram à Maldição Feérica. Paira uma névoa lúgubre e vermelho sangue eterna.
+4000,Jardim da Escama Iridescente (Boneco),,,
+9000,Masmorra de experiência I,Pedra de melhoria,Use para obter 1 Retirada de Pedra de melhoria.,Há muitas Pedras de Evocação Malignas inst. pela Irman. Sombria que ainda estão por serem descobertas. Você deve entrar no Mundo ext. e derrotar os monstros para removê-las.
+9001,Masmorra de Experiência II,@9000,Use para obter 2 Retiradas de Pedra de melhoria.,@9000
+9002,Masmorra de Experiência III,@9000,Use para obter 3 Retiradas de Pedra de melhoria.,@9000
+9003,Masmorra de Experiência IV,@9000,Use para obter 5 Retiradas de Pedra de melhoria.,@9000
+9100,Masmorra de exp. V,@9000,@9003,@9000
+9004,Masmorra de Adena I,@9000,@9000,"Shunaiman, o Imp. de Elmoreden, usou este lugar para construir a Torre da Insolência. Agora Kresous, o dragão do ouro, a ocupa."
+9005,Masmorra de Adena II,@9000,@9001,@9004
+9006,Masmorra de Adena III,@9000,@9002,@9004
+9009,Guardião do Templo I,@9000,@9000,O templo élfico que abriga o Cristal Aquático abençoado por Eva. Hardin ordenou aos Merc. Prataluz que guardassem o templo para proteger o Cristal Aquático da Irman. Sombria.
+9010,Guardião do Templo II,@9000,@9001,@9009
+9011,Guardião do Templo III,@9000,@9002,@9009
+9012,Guardião do Templo IV,@9000,@9003,@9009
+9300,Guardião do Templo V,@9000,@9003,@9009
+9013,Círculo de Invocação I,@9000,@9000,Proteja Feldheim enquanto ele remove a magia colocada no Artefato Sagrado selado e conclua a masmorra para pegar a Pedra de Evocação.
+9014,Círculo de Invocação II,@9000,@9001,@9013
+9015,Círculo de Invocação III,@9000,@9002,@9013
+9016,Círculo de Invocação IV,@9000,@9003,@9013
+9017,Masmorra de Pedra de Refino I,@9000,@9000,Destrua o portão dimensional que evoca os monstros e ganhe recompensas
+9018,Masmorra de Pedra de Refino II,@9000,@9001,@9017
+9019,Masmorra de Pedra de Refino III,@9000,@9002,@9017
+9020,Masmorra de Pedra de Refino IV,@9000,@9003,@9017
+11100,Santuário Antigo I,Seleção Pedra de melhoria,Use para obter 1 Aprimoramento da Caixa de Pedras.,
+11101,Santuário Antigo II,@11100,Use para obter 2 Aprimoramentos das Caixas de Pedras.,
+11102,Santuário Antigo III,@11100,Use para obter 3 Aprimoramentos das Caixas de Pedras.,
+11103,Santuário Antigo IV,@11100,Use para obter 4 Aprimoramentos das Caixas de Pedras.,
+11104,Santuário Antigo V,Caixa de seleção de pedra de melhoria radiante,Usa-se para adquirir 1 Caixa de seleção de pedra de melhoria radiante.,
+11200,Sant. Perseguidores I,Pergaminho: Arma,Use para obter 1 pergaminho: Arma.,
+11201,Sant. Perseguidores II,@11200,Use para obter 2 pergaminhos: Arma.,
+11202,Sant. Perseguidores III,@11200,Use para obter 3 pergaminhos: Arma.,
+11203,Sant. Perseguidores IV,@11200,Use para obter 4 pergaminhos: Arma.,
+11204,Sant. Perseguidores V,Pergaminho de Aprimoramento de Equipamento de Montaria e Arma,"Use para adquirir 5 Pergaminhos de Aprimoramento de Arma e
+1 Pergaminho de Aprimoramento de Equipamento de Montaria.",
+11300,Santuário dos Guerreiros I,Pedra de melhoria de arma,Use para adquirir 1 Pedra de melhoria de arma.,
+11301,Santuário dos Guerreiros II,@11300,Use para adquirir 2 Pedras de melhoria de arma.,
+11302,Santuário dos Guerreiros III,@11300,Use para adquirir 3 Pedras de melhoria de arma.,
+11303,Santuário dos Guerreiros IV,@11300,Use para adquirir 4 Pedras de melhoria de arma.,
+11304,Santuário dos Guerreiros V,Pedra de Melhoria de Arma Radiante,Use para adquirir 1 Pedras de melhoria de arma radiante.,
+11400,Santuário da Fera I,Pergaminho: Armadura,Use para obter 1 pergaminho: Armadura.,
+11401,Santuário da Fera II,@11400,Use para obter 2 pergaminhos: Armadura.,
+11402,Santuário da Fera III,@11400,Use para obter 3 pergaminhos: Armadura.,
+11403,Santuário da Fera IV,@11400,Use para obter 4 pergaminhos: Armadura.,
+11404,Santuário da Fera V,Pergaminho de Aprimoramento de Equipamento de Montaria e Armadura,"Use para adquirir 5 Pergaminhos de Aprimoramento de Armadura e
+1 Pergaminho de Aprimoramento de Equipamento de Montaria.",
+11500,Santuário do Monstro I,Pedra de melhoria de armadura,Use para adquirir 1,
+11501,Santuário do Monstro II,@11500,Use para adquirir 2,
+11502,Santuário do Monstro III,@11500,Use para adquirir 3,
+11503,Santuário do Monstro IV,@11500,Use para adquirir 4,
+11504,Santuário do Monstro V,Pedra de Melhoria de Armadura Radiante,Use para adquirir 1 Pedra de melhoria de armadura radiante.,
+11600,Santuário dos Demônios I,Pergaminho: Acessório,Use para obter 1 pergaminho: Acessório.,
+11601,Santuário dos Demônios II,@11600,Use para obter 2 pergaminhos: Acessório.,
+11602,Santuário dos Demônios III,@11600,Use para obter 3 pergaminhos: Acessório.,
+11603,Santuário dos Demônios IV,@11600,Use para obter 4 pergaminhos: Acessório.,
+11604,Santuário dos Demônios V,Pergaminho de Aprimoramento de Equipamento de Montaria e Acessório,"Use para adquirir 5 Pergaminhos de Aprimoramento de Acessório e
+1 Pergaminho de Aprimoramento de Equipamento de Montaria.",
+11700,Sant. das Lembranças I,Pedra de melhoria de acessório,Use para adquirir 1 Aprimoramento da Caixa de Acessórios.,
+11701,Sant. das Lembranças II,@11700,Use para adquirir 2 Aprimoramentos das Caixas de Acessórios.,
+11702,Sant. das Lembranças III,@11700,Use para adquirir 3 Aprimoramentos das Caixas de Acessórios.,
+11703,Sant. das Lembranças IV,@11700,Use para adquirir 4 Aprimoramentos das Caixas de Acessórios.,
+11704,Santuário das Lembranças V,Pedra de Melhoria de Acessório Radiante,Use para adquirir 1 Pedras de melhoria de acessório radiante.,
+12001,Torre da Insolência {IntParam}F,@9000,,
+12002,@12001,Pergaminho de Aprimoramento,,
+12003,@12001,Prova de sangue,,
+12004,@12001,Cristal Anímico,,
+12005,@12001,Adena,,
+12006,@12001,Bilhete de retirada de equipamento,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Ruínas do Gigante Inferior,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Masmorra de extração,@12003,,"Uma mina secreta feita embaixo da Torre de Marfim que guarda Nebulita, o meteorito. Aqui crescem muitas ervas com poderes misteriosos."
+60001,Tutorial Oficial,Exp.,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Vestígio de Varkaron,@12003,,"As lâminas afiadas de Varkaron
+causarão grande sangramento."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Caverna da Formiga Rainha,@12003,,"A Formiga Rainha, nas profundezas
+de sua caverna, é a mestra dos venenos."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Sala do núcleo de Cruma,@12003,,"O Núcleo de Cruma é o coração da Torre de Cruma.
+Ele guarda o conhecimento dos Gigantes inferiores selado na Torre de Cruma."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Presente de Deus,,,
+70004,@70003,,,
+100001,Altar da Loucura,,,"Os bruxos da <GreenBold>Torre de Marfim</>
+trabalham para encontrar os estilhaços que foram roubados.
+
+Em sua investigação
+descobriram que <BlueBold>Leanis</>, uma bruxa 
+da <GreenBold>Torre de Marfim</>, tinha desaparecido.
+Enquanto procuravam traços dela,
+depararam-se com uma aldeia onde viviam os <RedBold>Xamãs orcs de Timak</>.
+
+Os bruxos deduziram que <BlueBold>Leanis</> tinha sido raptada
+pelos <RedBold>orcs</>
+e entraram na aldeia para salvá-la.
+No entanto, foram forçados a se retirar após verem 
+ uma força que nunca tinham visto antes vinda dos <RedBold>orcs</>.
+Os bruxos da <GreenBold>Torre de Marfim</> intensificaram
+a investigação dos <RedBold>orcs</> e recrutaram
+os <BlueBold>Mercenários Prataluz</> para ajudá-los a resgatar <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Quarto da Condessa de Sangue,,,"A <RedBold>Condessa Trisha</>, muito amada pelo
+Senhor de Giran, desapareceu repentinamente,
+causando um rebuliço na nobreza de Giran.
+Eles sabiam que se essa informação vazasse para os inimigos
+em Oren, ficariam em uma posição desfavorável politicamente.
+Sabendo disso, o Senhor de Giran enviou secretamente o <BlueBold>Capitão Tark</>
+para liderar um grupo de busca.
+
+Após saber que a <RedBold>Condessa Trisha</> fora vista pela última vez com
+seu <RedBold>Cavaleiro Guardião</> no <GreenBold>Porto de Giran</>, o <BlueBold>Capitão Tark</> e
+seu grupo de busca se disfarçaram de Patrulheiros Sangrentos
+da <GreenBold>Ilha do Demônio</> e começaram a vasculhá-la secretamente.
+Porém, após muitas situação perigosas, o 
+<BlueBold>Capitão Tark</> foi forçado a pedir ajuda aos 
+<BlueBold>Mercenários Prataluz</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

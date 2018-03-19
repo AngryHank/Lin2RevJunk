@@ -1,0 +1,66 @@
+Id,Description
+1,Define a resolução do jogo. O jogo pode ter um desempenho melhor com configurações mais baixas.
+2,Define o alcance da visão. O jogo pode ter um desempenho melhor com configurações mais baixas.
+3,"Ajusta a intensidade de renderização das fronteiras. Os objetos ficarão imperfeitos em configurações baixas, mas o jogo terá um desempenho melhor."
+4,Define os detalhes de texturas. O jogo pode ter um desempenho melhor com configurações mais baixas.
+5,Define a qualidade das sombras. Os gráficos parecerão mais realistas com configurações mais altas.
+6,Define a sincronização vertical. Os gráficos parecerão mais delicados com configurações mais altas.
+7,@5
+8,Define a qualidade das texturas. O jogo pode ter um desempenho melhor com configurações mais baixas.
+9,Textura nível LOD
+10,Define a razão da resolução.
+11,Executa 1 pré-passagem dentro da imagem fixa.
+12,Define a visibilidade da sua sombra.
+13,Define a taxa de quadros do vídeo.
+14,Define a qualidade dos gráficos relacionada ao uso da APU.
+15,Define a qualidade dos gráficos relacionada ao uso da memória.
+16,Define a qualidade do canal do som.
+17,Define o efeito de exibição do destino.
+18,Configure se os rótulos de outros jogadores são exibidos.
+19,Define quantos jogadores serão exibidos na sua tela.
+20,Define qual a qualidade de exibição do equipamento na sua tela.
+21,Configure se as capas são exibidas.
+22,Configure o nível de transmissão de aprimoramento (sucesso ou falha de aprimoramento).
+23,Define o volume máximo.
+24,Define o volume do som de fundo.
+25,Define o volume dos efeitos sonoros.
+26,Define o volume da dublagem.
+27,Regula a intensidade das vibrações.
+28,Regula o recurso de ativação/desligamento automático do dispositivo móvel.
+29,Regula o recurso de reprodução automática de voz do bate-papo.
+30,É possível controlar todas as notificações no jogo.
+31,Recebe as notificações do jogo.
+32,Recebe os avisos do jogo.
+33,"Ao desativar este recurso, todas as notificações serão bloqueadas das 21h00 às 8h00."
+34,Desative esta opção para desativar todas as notificações de pop-up (exceto as notificações importantes).
+35,Desative esta opção para desativar as notificações pop-up 1:1 do bate-papo.
+36,Desative esta opção para desativar as notificações pop-up do bate-papo do clã.
+37,Desative esta opção para desativar as notificações pop-up do bate-papo do grupo.
+44,Define quando usar Poções de PV automaticamente.
+45,Define quando usar Poções de PM automaticamente.
+46,Define em porcentagem quando usar habilidades de cura automaticamente.
+47,Define qual ordem das poções de PV devem ser usadas automaticamente.
+48,Define qual ordem das poções de PM devem ser usadas automaticamente.
+49,Exibe o alcance do ataque normal.
+50,Define o alcance de movimento do seu personagem em uma batalha automática.
+51,Define o grau mínimo do equipamento a ser obtido.
+52,Mostra o alvo atual do alvo selecionado pelo jogador.
+53,Mostra o PV do alvo de várias maneiras.
+54,Fuja até estar em segurança quando encontrar monstros elite ou mais fortes em uma batalha automática.
+55,Você obterá itens com este grau específico. (Não obterá itens de grau menor.)
+56,
+57,
+58,
+59,Define a área de controles analógicos digitais para uma área fixa da tela.
+60,Traduz as mensagens de bate-papo para o idioma usado no jogo.
+61,Define quais idiomas deveriam ou não ser traduzidos no bate-papo.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

@@ -1,0 +1,445 @@
+Id,Nme,Desc
+1,Princípios básicos de tarefa,Derrote {TaskCount} monstro(s).
+2,Profissional da masmorra elite,Entrar na masmorra elite {TaskCount} vez(es).
+4,Equipamento de suprimento,Adquira {TaskCount} equipamento(s).
+5,Coleção de saques,Adquira {TaskCount} núcleo(s) de monstro.
+7,Derrote monstros da masmorra elite!,Derrote {TaskCount} monstro(s) nas Ruínas Élficas 1º Andar.
+8,@1,@1
+9,Importância da gestão de mana,Use {TaskCount} ou mais poções de PM.
+10,Colete Cristais anímicos!,Adquira {TaskCount} Cristal(is) Anímico(s).
+11,Especialista em combinação!,Faça {TaskCount} combinação(ões).
+13,@1,@1
+14,Abastecendo-se de consumíveis!,Compre um item da Loja Comum {TaskCount} vezes.
+15,Importância de administrar a condição,Use {TaskCount} ou mais poções de PV.
+16,@11,@11
+18,Rajada ousada de vitória,Obtenha {TaskCount} vitória(s) consecutiva(s) em duelo.
+19,@1,@1
+20,Pergaminhos de missão: ativar!,Conclua um pergaminho de missão de grau A {TaskCount} vezes.
+21,Melhoria do poder de combate,Use {TaskCount} ou mais Disparos Anímicos.
+22,@11,@11
+23,Evolução irrefreável!,Evoluir equipamento {TaskCount} vez(es).
+24,Para fortalecer a habilidade!,Adquira {TaskCount} PH.
+25,Superpoder!,Cause {TaskCount} de dano num único golpe.
+26,@18,@18
+28,@1,@1
+29,@11,@11
+30,@1,@1
+31,@2,@2
+33,@4,@4
+34,@5,@5
+36,@7,Derrote {TaskCount} monstro(s) nas Ruínas Élficas 2º Andar.
+37,@1,@1
+38,@9,@9
+39,@10,@10
+40,@11,@11
+42,@1,@1
+43,@14,@14
+44,@15,@15
+45,@11,@11
+47,@18,@18
+48,@1,@1
+49,@20,@20
+50,@21,@21
+51,@11,@11
+52,@23,@23
+53,@24,@24
+54,@25,@25
+55,@18,@18
+57,@1,@1
+58,@11,@11
+59,@1,@1
+60,@2,@2
+62,@4,@4
+63,@5,@5
+65,@7,Derrote {TaskCount} monstro(s) no Formigueiro Catacumba 1.
+66,@1,@1
+67,@9,@9
+68,@10,@10
+69,@11,@11
+71,@1,@1
+72,@14,@14
+73,@15,@15
+74,@11,@11
+76,@18,@18
+77,@1,@1
+78,@20,@20
+79,@21,@21
+80,@11,@11
+81,@23,@23
+82,@24,@24
+83,@25,@25
+84,@18,@18
+85,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+86,@1,@1
+88,@1,@1
+89,@2,@2
+91,@4,@4
+92,@5,@5
+94,@7,@65
+95,@1,@1
+96,@9,@9
+97,@10,@10
+98,@11,@11
+100,@1,@1
+101,@14,@14
+102,@15,@15
+103,@11,@11
+105,@18,@18
+106,@1,@1
+107,@20,@20
+108,@21,@21
+109,@11,@11
+110,@23,@23
+111,@24,@24
+112,@7,@65
+113,@18,@18
+114,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+115,@1,@1
+117,@1,@1
+118,@2,@2
+120,@4,@4
+121,@5,@5
+123,@7,Derrote {TaskCount} monstro(s) no Formigueiro Catacumba 2.
+124,@1,@1
+125,@9,@9
+126,@10,@10
+127,@11,@11
+129,@1,@1
+130,@14,@14
+131,@15,@15
+132,@11,@11
+134,@18,@18
+135,@1,@1
+136,@20,@20
+137,@21,@21
+138,@11,@11
+139,@23,@23
+140,@24,@24
+141,@7,@123
+142,@18,@18
+143,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+144,@1,@1
+146,@1,@1
+147,@2,@2
+149,@4,@4
+150,@5,@5
+151,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+152,Incremente a montaria!,Adquira {TaskCount} equipamentos de montaria.
+153,@7,@123
+154,@1,@1
+155,@9,@9
+156,@10,@10
+157,@11,@11
+158,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+159,@1,@1
+160,@14,@14
+161,@15,@15
+162,@11,@11
+164,@18,@18
+165,@1,@1
+166,@20,@20
+167,@21,@21
+168,@11,@11
+169,@152,Evolua o equipamento de montaria {TaskCount} vezes.
+170,@23,@23
+171,@24,@24
+172,@7,@123
+173,@18,@18
+174,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+175,@1,@1
+177,@1,@1
+178,@2,@2
+180,@4,@4
+181,@5,@5
+182,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+183,@152,@152
+184,@7,Derrote {TaskCount} monstro(s) na Torre de Cruma 2º Andar.
+185,@1,@1
+186,@9,@9
+187,@10,@10
+188,@11,@11
+189,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+190,@1,@1
+191,@14,@14
+192,@15,@15
+193,@11,@11
+195,@18,@18
+196,@1,@1
+197,@20,@20
+198,@21,@21
+199,@11,@11
+200,@152,@169
+201,@23,@23
+202,@24,@24
+203,@7,@184
+204,@18,@18
+205,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+206,@1,@1
+208,@1,@1
+209,@2,@2
+211,@4,@4
+212,@5,@5
+213,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+214,@152,@152
+215,@7,Derrote {TaskCount} monstro(s) na Torre de Cruma 3º Andar.
+216,@1,@1
+217,@9,@9
+218,@10,@10
+219,@11,@11
+220,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+221,@1,@1
+222,@14,@14
+223,@15,@15
+224,@11,@11
+226,@18,@18
+227,@1,@1
+228,@20,@20
+229,@21,@21
+230,@11,@11
+231,@152,@169
+232,@23,@23
+233,@24,@24
+234,@7,@215
+235,@18,@18
+236,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+237,@1,@1
+239,@1,@1
+240,@2,@2
+241,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+242,@4,@4
+243,@5,@5
+244,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+245,@152,@152
+246,@7,@215
+247,@1,@1
+248,@9,@9
+249,@10,@10
+250,@11,@11
+251,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+252,@1,@1
+253,@14,@14
+254,@15,@15
+255,@11,@11
+257,@18,@18
+258,@1,@1
+259,@20,@20
+260,@21,@21
+261,@11,@11
+262,@152,@169
+263,@23,@23
+264,@24,@24
+265,@7,@215
+266,@18,@18
+267,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+268,@1,@1
+269,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+270,@1,@1
+271,@2,@2
+272,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+273,@4,@4
+274,@5,@5
+275,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+276,@152,@152
+277,@7,Derrote {TaskCount} monstro(s) na Torre de Marfim Catacumba 1.
+278,@1,@1
+279,@9,@9
+280,@10,@10
+281,@11,@11
+282,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+283,@1,@1
+284,@14,@14
+285,@15,@15
+286,@11,@11
+288,@18,@18
+289,@1,@1
+290,@20,@20
+291,@21,@21
+292,@11,@11
+293,@152,@169
+294,@23,@23
+295,@24,@24
+296,@7,@277
+297,@18,@18
+298,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+299,@1,@1
+300,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+301,@1,@1
+302,@2,@2
+303,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+304,@4,@4
+305,@5,@5
+306,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+307,@152,@152
+308,@7,Derrote {TaskCount} monstros da Catacumba 2 da Torre de Marfim.
+309,@1,@1
+310,@9,@9
+311,@10,@10
+312,@11,@11
+313,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+314,@1,@1
+315,@14,@14
+316,@15,@15
+317,@11,@11
+319,@18,@18
+320,@1,@1
+321,@20,@20
+322,@21,@21
+323,@11,@11
+324,@152,@169
+325,@23,@23
+326,@24,@24
+327,@7,@308
+328,@18,@18
+329,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+330,@1,@1
+331,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+332,@1,@1
+333,@2,@2
+334,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+335,@4,@4
+336,@5,@5
+337,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+338,@152,@152
+339,@7,Derrote {TaskCount} monstros da Catacumba 3 da Torre de Marfim.
+340,@1,@1
+341,@9,@9
+342,@10,@10
+343,@11,@11
+344,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+345,@1,@1
+346,@14,@14
+347,@15,@15
+348,@11,@11
+350,@18,@18
+351,@1,@1
+352,@20,@20
+353,@21,@21
+354,@11,@11
+355,@152,@169
+356,@23,@23
+357,@24,@24
+358,@7,@339
+359,@18,@18
+360,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+361,@1,@1
+362,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+363,@1,@1
+364,@2,@2
+365,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+366,@4,@4
+367,@5,@5
+368,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+369,@152,@152
+370,@7,Derrote {TaskCount} monstros da Cobertura da Floresta dos Segredos.
+371,@1,@1
+372,@9,@9
+373,@10,@10
+374,@11,@11
+375,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+376,@1,@1
+377,@14,@14
+378,@15,@15
+379,@11,@11
+381,@18,@18
+382,@1,@1
+383,@20,@20
+384,@21,@21
+385,@11,@11
+386,@152,@169
+387,@23,@23
+388,@24,@24
+389,@7,@370
+390,@18,@18
+391,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+392,@1,@1
+393,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+394,@1,@1
+395,@2,@2
+396,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+397,@4,@4
+398,@5,@5
+399,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+400,@152,@152
+401,@7,Derrote {TaskCount} monstros no Sub-bosque da Floresta dos Segredos.
+402,@1,@1
+403,@9,@9
+404,@10,@10
+405,@11,@11
+406,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+407,@1,@1
+408,@14,@14
+409,@15,@15
+410,@11,@11
+412,@18,@18
+413,@1,@1
+414,@20,@20
+415,@21,@21
+416,@11,@11
+417,@152,@169
+418,@23,@23
+419,@24,@24
+420,@7,@401
+421,@18,@18
+422,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+423,@1,@1
+424,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+425,@1,@1
+426,@2,@2
+427,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+428,@4,@4
+429,@5,@5
+430,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+431,@152,@152
+432,@7,용의 동굴 지하 1층 몬스터 {TaskCount}마리 처치
+433,@1,@1
+434,@9,@9
+435,@10,@10
+436,@11,@11
+437,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+438,@1,@1
+439,@14,@14
+440,@15,@15
+441,@11,@11
+443,@18,@18
+444,@1,@1
+445,@20,@20
+446,@21,@21
+447,@11,@11
+448,@152,@169
+449,@23,@23
+450,@24,@24
+451,@7,@432
+452,@18,@18
+453,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+454,@1,@1
+455,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.
+456,@1,@1
+457,@2,@2
+458,Visitante da Sede do Clã,Entre na Sede do Clã {TaskCount} vezes.
+459,@4,@4
+460,@5,@5
+461,Por seu clã!,Adquira {TaskCount} Prova(s) de sangue.
+462,@152,@152
+463,@7,용의 동굴 지하 2층 몬스터 {TaskCount}마리 처치
+464,@1,@1
+465,@9,@9
+466,@10,@10
+467,@11,@11
+468,Disparando na oficina!,Faça {TaskCount} tentativas de vínculo.
+469,@1,@1
+470,@14,@14
+471,@15,@15
+472,@11,@11
+474,@18,@18
+475,@1,@1
+476,@20,@20
+477,@21,@21
+478,@11,@11
+479,@152,@169
+480,@23,@23
+481,@24,@24
+482,@7,@463
+483,@18,@18
+484,Fornecimento de baús de relíquias do clã,Adquira {TaskCount} Baús de Relíquias do Clã.
+485,@1,@1
+486,Preciosa ajuda dos clãs,Responda a um pedido de ajuda do clã {TaskCount} vezes.

@@ -10,5 +10,7 @@ Id,DungeonMenuType,DungeonType,IntParam,BackgroundImage,ContentShow,ContentsLock
 9,1,13,0,UI_Image_UpgradeStoneDungeon,0,REFINEMENT_DUNGEON
 10,2,5,1,UI_Image_GuildDungeon_01,1,GUILD_DUNGEON_1
 11,2,5,2,UI_Image_GuildDungeon_02,1,GUILD_DUNGEON_2
-12,2,5,3,UI_Image_GuildDungeon_03,0,GUILD_DUNGEON_3
+12,2,5,3,UI_Image_GuildDungeon_03,1,GUILD_DUNGEON_3
 13,2,5,4,UI_Image_GuildDungeon_04,0,GUILD_DUNGEON_4
+14,3,16,1,UI_Image_PartyDungeon_1,1,PARTY_DUNGEON_1
+15,3,16,2,UI_Image_PartyDungeon_2,1,PARTY_DUNGEON_2

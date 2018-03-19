@@ -1,0 +1,2146 @@
+Id,Name,Description,EffectDescription,SkillDialogue
+1101,Menschen-Schwert-Kombo 1,Ein Basisangriff mit Schwert und Schild.,,
+1102,Menschen-Schwert-Kombo 2,@1101,,
+1103,Menschen-Schwert-Kombo 3,@1101,,
+1104,Menschen-Schwert-Kombo 4,@1101,,
+1105,Menschen-Schwert-Kombo 5,@1101,,
+1106,Menschen-Schwert-Kombo 6,@1101,,
+1201,Elfen-Schwert-Kombo 1,@1101,,
+1202,Elfen-Schwert-Kombo 2,@1101,,
+1203,Elfen-Schwert-Kombo 3,@1101,,
+1204,Elfen-Schwert-Kombo 4,@1101,,
+1205,Elfen-Schwert-Kombo 5,@1101,,
+1206,Elfen-Schwert-Kombo 6,@1101,,
+1301,Dunkelelfen-Schwert-Kombo 1,@1101,,
+1302,Dunkelelfen-Schwert-Kombo 2,@1101,,
+1303,Dunkelelfen-Schwert-Kombo 3,@1101,,
+1304,Dunkelelfen-Schwert-Kombo 4,@1101,,
+1305,Dunkelelfen-Schwert-Kombo 5,@1101,,
+1306,Dunkelelfen-Schwert-Kombo 6,@1101,,
+1401,Zwergen-Schwert-Kombo 1,@1101,,
+1402,Zwergen-Schwert-Kombo 2,@1101,,
+1403,Zwergen-Schwert-Kombo 3,@1101,,
+1404,Zwergen-Schwert-Kombo 4,@1101,,
+1405,Zwergen-Schwert-Kombo 5,@1101,,
+1406,Zwergen-Schwert-Kombo 6,@1101,,
+2101,Menschen-Speer-Kombo 1,Ein Basisangriff mit dem Speer.,,
+2102,Menschen-Speer-Kombo 2,@2101,,
+2103,Menschen-Speer-Kombo 3,@2101,,
+2104,Menschen-Speer-Kombo 4,@2101,,
+2105,Menschen-Speer-Kombo 5,@2101,,
+2106,Menschen-Speer-Kombo 6,@2101,,
+2201,Elfen-Speer-Kombo 1,@2101,,
+2202,Elfen-Speer-Kombo 2,@2101,,
+2203,Elfen-Speer-Kombo 3,@2101,,
+2204,Elfen-Speer-Kombo 4,@2101,,
+2205,Elfen-Speer-Kombo 5,@2101,,
+2206,Elfen-Speer-Kombo 6,@2101,,
+2301,Dunkelelfen-Speer-Kombo 1,@2101,,
+2302,Dunkelelfen-Speer-Kombo 2,@2101,,
+2303,Dunkelelfen-Speer-Kombo 3,@2101,,
+2304,Dunkelelfen-Speer-Kombo 4,@2101,,
+2305,Dunkelelfen-Speer-Kombo 5,@2101,,
+2306,Dunkelelfen-Speer-Kombo 6,@2101,,
+2401,Zwergen-Speer-Kombo 1,@2101,,
+2402,Zwergen-Speer-Kombo 2,@2101,,
+2403,Zwergen-Speer-Kombo 3,@2101,,
+2404,Zwergen-Speer-Kombo 4,@2101,,
+2405,Zwergen-Speer-Kombo 5,@2101,,
+2406,Zwergen-Speer-Kombo 6,@2101,,
+3101,Menschen-Doppelschwert-Kombo 1,Ein Basisangriff mit Doppelschwertern.,,
+3102,Menschen-Doppelschwert-Kombo 2,@3101,,
+3103,Menschen-Doppelschwert-Kombo 3,@3101,,
+3104,Menschen-Doppelschwert-Kombo 4,@3101,,
+3105,Menschen-Doppelschwert-Kombo 5,@3101,,
+3106,Menschen-Doppelschwert-Kombo 6,@3101,,
+3107,Menschen-Doppelschwert-Kombo 7,@3101,,
+3108,Menschen-Doppelschwert-Kombo 8,@3101,,
+3201,Elfen-Doppelschwert-Kombo 1,@3101,,
+3202,Elfen-Doppelschwert-Kombo 2,@3101,,
+3203,Elfen-Doppelschwert-Kombo 3,@3101,,
+3204,Elfen-Doppelschwert-Kombo 4,@3101,,
+3205,Elfen-Doppelschwert-Kombo 5,@3101,,
+3206,Elfen-Doppelschwert-Kombo 6,@3101,,
+3207,Elfen-Doppelschwert-Kombo 7,@3101,,
+3208,Elfen-Doppelschwert-Kombo 8,@3101,,
+3301,Dunkelelfen-Doppelschwert-Kombo 1,@3101,,
+3302,Dunkelelfen-Doppelschwert-Kombo 2,@3101,,
+3303,Dunkelelfen-Doppelschwert-Kombo 3,@3101,,
+3304,Dunkelelfen-Doppelschwert-Kombo 4,@3101,,
+3305,Dunkelelfen-Doppelschwert-Kombo 5,@3101,,
+3306,Dunkelelfen-Doppelschwert-Kombo 6,@3101,,
+3307,Dunkelelfen-Doppelschwert-Kombo 7,@3101,,
+3308,Dunkelelfen-Doppelschwert-Kombo 8,@3101,,
+3401,Zwergen-Doppelschwert-Kombo 1,@3101,,
+3402,Zwergen-Doppelschwert-Kombo 2,@3101,,
+3403,Zwergen-Doppelschwert-Kombo 3,@3101,,
+3404,Zwergen-Doppelschwert-Kombo 4,@3101,,
+3405,Zwergen-Doppelschwert-Kombo 5,@3101,,
+3406,Zwergen-Doppelschwert-Kombo 6,@3101,,
+3407,Zwergen-Doppelschwert-Kombo 7,@3101,,
+3408,Zwergen-Doppelschwert-Kombo 8,@3101,,
+4101,Menschen-Dolch-Kombo 1,Ein Basisangriff mit dem Dolch.,,
+4102,Menschen-Dolch-Kombo 2,@4101,,
+4103,Menschen-Dolch-Kombo 3,@4101,,
+4104,Menschen-Dolch-Kombo 4,@4101,,
+4105,Menschen-Dolch-Kombo 5,@4101,,
+4106,Menschen-Dolch-Kombo 6,@4101,,
+4201,Elfen-Dolch-Kombo 1,@4101,,
+4202,Elfen-Dolch-Kombo 2,@4101,,
+4203,Elfen-Dolch-Kombo 3,@4101,,
+4204,Elfen-Dolch-Kombo 4,@4101,,
+4205,Elfen-Dolch-Kombo 5,@4101,,
+4206,Elfen-Dolch-Kombo 6,@4101,,
+4301,Dunkelelfen-Dolch-Kombo 1,@4101,,
+4302,Dunkelelfen-Dolch-Kombo 2,@4101,,
+4303,Dunkelelfen-Dolch-Kombo 3,@4101,,
+4304,Dunkelelfen-Dolch-Kombo 4,@4101,,
+4305,Dunkelelfen-Dolch-Kombo 5,@4101,,
+4306,Dunkelelfen-Dolch-Kombo 6,@4101,,
+4401,Zwergen-Dolch-Kombo 1,@4101,,
+4402,Zwergen-Dolch-Kombo 2,@4101,,
+4403,Zwergen-Dolch-Kombo 3,@4101,,
+4404,Zwergen-Dolch-Kombo 4,@4101,,
+4405,Zwergen-Dolch-Kombo 5,@4101,,
+4406,Zwergen-Dolch-Kombo 6,@4101,,
+5101,Menschen-Bogen-Kombo 1,Ein Basisangriff mit dem Bogen.,,
+5102,Menschen-Bogen-Kombo 2,@5101,,
+5103,Menschen-Bogen-Kombo 3,@5101,,
+5104,Menschen-Bogen-Kombo 4,@5101,,
+5201,Elfen-Bogen-Kombo 1,@5101,,
+5202,Elfen-Bogen-Kombo 2,@5101,,
+5203,Elfen-Bogen-Kombo 3,@5101,,
+5204,Elfen-Bogen-Kombo 4,@5101,,
+5301,Dunkelelfen-Bogen-Kombo 1,@5101,,
+5302,Dunkelelfen-Bogen-Kombo 2,@5101,,
+5303,Dunkelelfen-Bogen-Kombo 3,@5101,,
+5304,Dunkelelfen-Bogen-Kombo 4,@5101,,
+5401,Zwergen-Bogen-Kombo 1,@5101,,
+5402,Zwergen-Bogen-Kombo 2,@5101,,
+5403,Zwergen-Bogen-Kombo 3,@5101,,
+5404,Zwergen-Bogen-Kombo 4,@5101,,
+6101,Menschen-Stab-Kombo 1,Ein Basisangriff mit dem Stab.,,
+6102,Menschen-Stab-Kombo 2,@6101,,
+6103,Menschen-Stab-Kombo 3,@6101,,
+6104,Menschen-Stab-Kombo 4,@6101,,
+6201,Elfen-Stab-Kombo 1,@6101,,
+6202,Elfen-Stab-Kombo 2,@6101,,
+6203,Elfen-Stab-Kombo 3,@6101,,
+6204,Elfen-Stab-Kombo 4,@6101,,
+6301,Dunkelelfen-Stab-Kombo 1,@6101,,
+6302,Dunkelelfen-Stab-Kombo 2,@6101,,
+6303,Dunkelelfen-Stab-Kombo 3,@6101,,
+6304,Dunkelelfen-Stab-Kombo 4,@6101,,
+6401,Zwergen-Stab-Kombo 1,@6101,,
+6402,Zwergen-Stab-Kombo 2,@6101,,
+6403,Zwergen-Stab-Kombo 3,@6101,,
+6404,Zwergen-Stab-Kombo 4,@6101,,
+11111,Energie-Explosion,"<SkillTitle>[Jede Waffe]</>
+Erzeugt konzentrierte Energie voraus und lässt sie explodieren, um Gegnern Schaden zuzufügen.",Schaden: {[Use34Param]1%} % des ANG +{1},
+11112,Machtschlag,"<SkillTitle>[Schwert + Schild, Speer, Doppelschwerter]</>
+Schwingt die Waffe in weitem Bogen, um Schaden zuzufügen und Gegner niederzuschlagen.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Schlägt Ziele 2 Sek. lang nieder.",
+11113,Ansturmeffekt,"<SkillTitle>[Schwert + Schild, Speer, Doppelschwerter]</>
+Stürmt auf Gegner zu, fügt SCH zu und wirft sie um.",@11112,
+11121,@11111,@11111,@11111,
+11122,Todesschlag,"<SkillTitle>[Nur Dolch]</>
+Läd sich auf, greift dann mit voller Kraft an und schlägt den Gegner nieder.",@11112,
+11123,Machtstoß,"<SkillTitle>[Nur Dolch]</>
+Stürmt während des Angriffs durch die Gegner und betäubt sie kurz.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Betäubt Ziele 2 Sek. lang.",
+11124,Machtschuss,"<SkillTitle>[Nur Bogen]</>
+Feuert einen Pfeil ab, der dem Gegner Schaden zufügt und ihn niederwirft.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Schlägt Ziele 2 Sek. lang nieder.",
+11125,Doppelschuss,"<SkillTitle>[Nur Bogen]</>
+Feuert zwei Pfeile auf Gegner voraus und fügt ihnen großen Schaden zu.",Schaden: {[Use34Param]1-1%} % des ANG +{1-1} für jeden 2. Schuss.,
+11131,Energieblitz,"<SkillTitle>[Jede Waffe]</>
+Schleudert einen durchdr. Energieball, um entferntere Gegner voraus anzugreifen.",Schaden: {[Use34Param]1-1%} % des ANG +{1-1},
+11132,Flammenschlag,"<SkillTitle>[Nur Stab]</>
+Schleudert Flammenball, der massiven Explosions-SCH zufügt und Gegner niederwirft.",@11124,
+11133,Windstoß,"<SkillTitle>[Nur Stab]</>
+Lässt einen Windstoß los, der eine gerade Linie von Gegnern durchdringt und angreift.",@11131,
+12111,@11111,@11111,@11111,
+12112,@11112,@11112,@11112,
+12113,@11113,@11113,@11112,
+12121,@11111,@11111,@11111,
+12122,@11122,@11122,@11112,
+12123,@11123,@11123,@11123,
+12124,@11124,@11124,@11124,
+12125,@11125,@11125,@11125,
+12131,@11131,@11131,@11131,
+12132,@11132,@11132,@11124,
+12133,@11133,@11133,@11131,
+13111,@11111,@11111,@11111,
+13112,@11112,@11112,@11112,
+13113,@11113,@11113,@11112,
+13121,@11111,@11111,@11111,
+13122,@11122,@11122,@11112,
+13123,@11123,@11123,@11123,
+13124,@11124,@11124,@11124,
+13125,@11125,@11125,@11125,
+13131,@11131,@11131,@11131,
+13132,@11132,@11132,@11124,
+13133,@11133,@11133,@11131,
+14111,@11111,@11111,@11111,
+14112,@11112,@11112,@11112,
+14113,@11113,@11113,@11112,
+14121,@11111,@11111,@11111,
+14122,@11122,@11122,@11112,
+14123,@11123,@11123,@11123,
+14124,@11124,@11124,@11124,
+14125,@11125,@11125,@11125,
+14131,@11131,@11131,@11131,
+14132,@11132,@11132,@11124,
+14133,@11133,@11133,@11131,
+11211,Knall,"<SkillTitle>[Nur Schwert und Schild]</>
+Schwingt in weitem Bogen, um Gegnern Schaden zuzufügen und sie niederzuschlagen.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Schlägt das Ziel 2 Sek. lang nieder.
++50 % Aggro",
+11212,Rache,"<SkillTitle>[Nur Schwert und Schild]</>
+Ein Schrei, der nahe Gegner angreift, provoziert, und verhindert, ihre Fertigk. einzusetzen.","Schaden: Fügt {[Use34Param]1%} % des ANG +{1} zu. Verringert ANG der Ziele 8 Sek. lang um {4-1}.
+Monster-Provokation: Alle Angriffe werden 8 Sek. lang auf das Ziel fokussiert.
+Spieler-Provokation: Ziele können keine Fertigkeiten einsetzen und müssen Angriffe 4 Sek. lang auf dich fokussieren.",
+11213,Erhabenheit,"<SkillTitle>[Nur Schwert und Schild]</>
+Erhöht einen Moment lang VER und reflektiert einen Teil des erhaltenen Schadens.","+{1-2%} % VER
+Reflektiert {1-1%} % des erhaltenen Schadens
+Dauer: 15 Sek.",
+11221,Urteil,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Schwingt die Waffe in weitem Bogen, um Schaden zuzufügen und Gegner niederzuschlagen.",@11112,
+11222,Donnersturm,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Schlägt kraftvoll auf den Boden, fügt nahen Gegnern Schaden zu und betäubt sie.",@11123,
+11223,Weiter Schwung,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Erhöht ANG-GES sowie die Anzahl an Gegnern, die gleichzeitig getroffen werden.","+{1-1} gleichzeitige Ziele, +{1-2%} % ANG-GES
+Dauer: 15 Sek.",
+11231,Sandwolke,"<SkillTitle>[Nur Dolch]</>
+Schleudert lose Erde Richtung Gegner, was Schaden zufügt und ihre GEN verringert.","Schaden: {[Use34Param]1%} % des ANG + {1}.
+Verringert Genauigkeitsrate der Gegner 10 Sek. lang um {2%} %.",
+11232,Rückschritt,"<SkillTitle>[Nur Dolch]</>
+Teleportiert hinter einen Gegner, fügt nahen Gegnern Schaden zu und betäubt sie.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Betäubt Ziele 3 Sek. lang.",
+11233,Hast,"<SkillTitle>[Nur Dolch]</>
+Erhöht ANG-GES und Ausweichen einen Moment lang drastisch.","ANG GES +{1-1%}%
+Ausw. + {2-1%}%
+Dauer: 15 Sek.",
+11241,Mehrfachschuss,"<SkillTitle>[Nur Bogen]</>
+Durchdr. Pfeile die Gegnern in einem Kegelbereich Schaden zufügen und niederschlagen.",@11112,
+11242,Pfeilregen,"<SkillTitle>[Nur Bogen]</>
+Pfeile regnen in einem Kreis nieder, um Gegnern andauernden Schaden zuzufügen.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+ und {[Use34Param]1-2%} % des ANG +{1-2} für jeden 4. zusätzlichen Treffer.",
+11243,Scharfschuss,"<SkillTitle>[Nur Bogen]</>
+Erhöht mit Vorsicht ANG sowie Genauigkeitsrate und greift entferntere Gegner an.","Reichweite: 4m, {1-2%}% des ANG, GEN +{1-3}
+Verlangsamte Bewegung während der Dauer, Dauer: 15 Sek.",
+11244,Falkenauge,"<SkillTitle>[Nur Bogen]</>
+Aktiviert Falkenauge. Falkenauge erhöht Krit. Rate sowie Gegnern zugefügten Schaden.","Krit. Rate +{1-1} und ANG Schaden +{1-2%}%
+Dauer: 20 Sek.",
+11251,Vulkan,"<SkillTitle>[Nur Stab]</>
+Schafft eine mächtige Feuersäule, um Gegnern in ihrem Umfeld Schaden zuzufügen.",Schaden: {[Use34Param]1%} % des ANG +{1} für jeden 5. Treffer,
+11252,Feuerkessel,"<SkillTitle>[Nur Stab]</>
+Schleudert eine Flammenkugel, die Gegner durchdringt und am Ende ihrer Flugbahn explodiert.","Schaden: {[Use34Param]1-3%} % des ANG +{1-3}
+Explosionsschaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Schlägt Ziele 2 Sek. lang nieder.",
+11253,Mana-Schub,"<SkillTitle>[Nur Stab]</>
+Erhöht die MP für Fertigkeiten und verstärkt den Fertigkeits-ANG.","+{1-1%} % MP-Verbrauch
++{1-2%} % Fertigkeits-ANG
+Dauer: 90 Sek.",
+11261,Himmlische Strafe,"<SkillTitle>[Nur Stab]</>
+Erzeugt eine heilige Explosion, die Schaden zufügt und Gegner in ihrem Umkreis niederwirft.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Schlägt Ziele 2,5 Sek. lang nieder.",
+11262,Große Heilung,"<SkillTitle>[Nur Stab]</>
+Heilt dich und nahe Gruppenmitglieder mit heiligen Mächten, die LP und MP wiederherstellen.","LP Regen. Rate: {[Use34Param]1%}% of Atk. +{1}
+MP Regen. Rate: {[Use34Param]2%}% of Atk. +{2}",
+12211,Gericht,"<SkillTitle>[Nur Schwert und Schild]</>
+Ein weiter Schwung, der Gegnern Schaden zufügt, sie niederschlägt und provoziert, dich anzugreifen.","Schaden: {[Use34Param]1%} % des ANG +{1}.
++30 % Aggro
+Schlägt Gegner 2 Sek. lang nieder.",
+12212,Evas Anmut,"<SkillTitle>[Nur Schwert und Schild]</>
+Geweihter Bereich, der Gegnern Schaden zufügt und ihre LP-Regen. verringert.","Schaden: {[Use34Param]1%} % des ANG +{1} für jeden 6. Treffer.
+Verringert Regen. naher Gegner um 50 %.",
+12213,Aigis-Haltung,"<SkillTitle>[Nur Schwert und Schild]</>
+Macht für kurze Zeit unverwundbar und erhöht Geschwindigkeit.","Gewährt 5 Sek. lang Schadensimmunität.
++{2-1%} % Geschwindigkeit, 15 Sek. lang",
+12221,Schallsprenger,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Feuert Schwertaura, die fernen Gegnern SCH zuzufügt und GES verringert.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Verringert GES der Ziele 5 Sek. lang um {PhyBuff:12221-1%} %.",
+12222,Schallsturm,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Feuert Schwertaura, die explodiert, Gegnern SCH zufügt und niederwirft.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Schlägt Ziele 2,5 Sek. lang nieder.",
+12223,Kampfrhythmus,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Erhöht ANG und VER für dich und deine Gruppenmitglieder.","+{1-1} ANG
+ +{1-3} VER
+Dauer: 90 Sek.",
+12224,Lied des Jägers,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Erhöht Krit. Rate und Kritischen SCH für dich und deine Gruppenmitglieder.","Krit. Rate +{1-1%}%
+Krit. Schaden + {1-2%}%
+Dauer: 30 sec.",
+12231,Dreifach-Splitter,"<SkillTitle>[Nur Dolch]</>
+Greift 3x schnell an, fügt Gegner starken SCH zu und verringert deren VER, ANG-GES, und GES.","Schaden: {[Use34Param]1%} % des ANG +{1}.
+Verringert 5 Sek. lang VER der Gegner um {2-1%} %.
+Verringert 5 Sek. lang ANG-GES der Gegner um {2-3%} % und GES um {2-4%} %.",
+12232,Klingen-Wirbelsturm,"<SkillTitle>[Nur Dolch]</>
+Schleudert einen Angriffshagel, der Gegnern in diesem Bereich mehrmals SCH zufügt.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Betäubt Gegner 3 Sek. lang.",
+12233,Ebenenwanderung,"<SkillTitle>[Nur Dolch]</>
+Erhöht ANG-GES und GES stark. Auch LP-Entzugsrate ist erhöht.","Erhöht ANG-GES um {1-1%} % und Geschwindigkeit um {1-2%} %.
+Erhöht LP-Entzugsrate um {1-3%} %.
+Dauer: 20 Sek.",
+12241,Tödlicher Schuss,"<SkillTitle>[Nur Bogen]</>
+Feuert einen scharfen, durchdr. Pfeil, um SCH zuzufügen und zu betäuben.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Betäubt Ziele 2 Sek. lang.",
+12242,Doppelter Streuschuss,"<SkillTitle>[Nur Bogen]</>
+Feuert 2 pfeilförmige Energieblitze, um SCH zuzufügen und VER getroff. Gegner zu verringern.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1} für jeden 2. Schuss.
+Verringert VER der Ziele 10 Sek. lang um {PhyBuff:12242-1%} %.",
+12243,Geistiges Auge,"<SkillTitle>[Nur Bogen]</>
+Erhöht Krit. Rate stark.","+{1-1} Krit. Rate
+Dauer: 30 Sek.",
+12244,Doppelter Schnellschritt,"<SkillTitle>[Nur Bogen]</>
+Erhöht ANG-GES und Geschwindigkeit.","+{1-1%} % Geschwindigkeit, +{1-2%} % ANG-GES
+Dauer: 30 Sek.",
+12251,Eisspeer,"<SkillTitle>[Nur Stab]</>
+Schleudert Eisspeer, der großen SCH zufügt und getroffene Gegner verlangsamt.","Schaden: {[Use34Param]1-2%} % des ANG +{1-2}
+Verringert GES von Zielen 5 Sek. lang um {PhyBuff:12251-1%} %.",
+12252,Schneesturm,"<SkillTitle>[Nur Stab]</>
+Beschwört Schneesturm, der im Umkreis SCH zufügt und getroff. Gegner verlangsamt und betäubt.","Schaden: {[Use34Param]1%} % des ANG +{1} für jeden 5. Treffer
+Verringert Geschwindigkeit der Gegner 5 Sek. lang um {2-1%} %.
+Betäubt Gegner 2 Sekunden lang.",
+12261,Heiliges Feuer,"<SkillTitle>[Nur Stab]</>
+Säule heiliger Flammen fügt Gegnern SCH zu. Getroff. Gegner nehmen erhöhten SCH.","Schaden: {[Use34Param]1%} % des ANG +{1}
+plus {[Use34Param]2-1%} % des ANG +{2-1} für je 2 zusätzliche Treffer.
+Erhöht den Schaden, den Ziele erleiden, 7 Sek. lang um {3-1%} %.",
+12262,Wiederherstellung,"<SkillTitle>[Nur Stab]</>
+Verleiht einen Effekt, der dich und nahegelegene Verbündete kontinuierlich heilt.",Regen.-Rate: {[Use34Param]1-1%} % des ANG +{1-1} während 6 Sek.,
+12263,Mentale Erfrischung,"<SkillTitle>[Nur Stab]</>
+Entfernt Debuffs und verringert deine Fertigk.-Regen. und die nahegelegener Verbündeter.","-{1-1#} Sek. Fertigkeits-Abklingzeit.
+Dauer: 20 Sek.
+Entfernt Debuffs",
+12264,Folgeverteidigung,"<SkillTitle>[Nur Stab]</>
+Erhöht deine VER sowie die deiner Gruppenmitglieder.","+{1-1%} % VER
+Dauer: 40 Sek.",
+13211,Blutsauger,"<SkillTitle>[Nur Schwert und Schild]</>
+Schwingt die Waffe weit herum, greift Gegner an, entzieht LP und verringert VER.","Schaden: {[Use34Param]1%} % des ANG +{1}.
+Absorbiert LP im Wert von 30 % des zugefügten SCH.
+Verringert VER der Gegner um {2-1%} %.",
+13212,Ketten-Hydra,"<SkillTitle>[Nur Schwert und Schild]</>
+Zieht Gegner zu dir, fügt Schaden zu, betäubt sie und zwingt sie, dich anzugreifen.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Provokation: Angriffe fokussieren sich 8 Sek. lang auf dich.
+Betäubt Ziele 2,5 Sek. lang.",
+13213,Ultimative Verteidigung,"<SkillTitle>[Nur Schwert und Schild]</>
+Erhöht VER und verringert eine Zeit lang Geschwindigkeit angreifender Gegner.","VER: {1-1%} % +{1-3}.
+Verringert GES 5 Sek. lang um 50 %, während der Effekt aktiv ist.
+Dauer: 15 Sek.",
+13221,Kreisschlitzer,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Schwingt die Waffe in weitem Bogen, um Schaden zuzufügen und Gegner niederzuschlagen.",@11124,
+13222,Wirbelsturm,"<SkillTitle>[Nur Speer und Doppelschwert]</>
+Drehung, die umgebende Gegner angreift.
+Das beschädigte Ziel wird verlangsamt.
+Du kannst dich während dieser Fertigkeit schnell bewegen.","Schaden: {[Use34Param]1%} % des ANG + {1} pro 7 Treffer
+Geschwindigkeit des Ziels: 3 Sek. lang -{2-1%} %
+Geschwindigkeit: 7 Sek. lang +{3-1%} %",
+13223,Tanz des Kriegers,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Erhöht deinen P-ANG sowie den deiner Gruppenmitglieder.","+{1-1} P-ANG
+Dauer: 40 Sek.",
+13224,Tanz des Zorns,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Erhöht deine ANG-GES sowie die deiner Gruppenmitglieder.","+{1-1%} % ANG-GES
+Dauer: 40 Sek.",
+13231,Stich,"<SkillTitle>[Nur Dolch]</>
+Fügt SCH zu und lässt Gegner bluten. Ein Teil des SCH wird unter Ignorieren der VER zugefügt.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Ignoriert VER-Schaden: {2}
+Fügt Gegnern 3 Sek. lang zusätzlichen SCH zu.",
+13232,Messerregen,"<SkillTitle>[Nur Dolch]</>
+Greift nahe Gegner an, fügt ihnen Schaden zu, betäubt sie kurz und lässt sie bluten.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Fügt Zielen 3 Sek. lang zusätzlichen Schaden zu; betäubt Ziele 2 Sek. lang.",
+13233,Bösartige Haltung,"<SkillTitle>[Nur Dolch]</>
+Erhöht Kritischen Schaden stark. Erhöht außerdem Krit. Rate kurzzeitig auf Max.","+{1-1%} % Kritischer Schaden, Dauer: 20 Sek.
+Zusätzlicher Effekt: Krit. Rate 4 Sek. lang mit max. Wirksamkeit",
+13241,Todesstachel,"<SkillTitle>[Nur Bogen]</>
+Feuert einen heftigen Pfeil ab, der Gegner durchdringt und starken Schaden zufügt.",@11131,
+13242,Betäubungsschuss,"<SkillTitle>[Nur Bogen]</>
+Fügt Gegnern Schaden zu und betäubt sie kurzzeitig.",@11232,
+13243,Schnellfeuer,"<SkillTitle>[Nur Bogen]</>
+Ein Status, der die ANG-GES erhöht, aber dabei die Angriffsreichweite verringert.","ANG GES +{1-1%}%, ANG Reichw. - {1-2%}m
+Dauer: 15 sec.",
+13244,Fataler Konter,"<SkillTitle>[Nur Bogen]</>
+Vernachlässigt das Ausweichen und stärkt die Offensive. In diesem Status ist der ANG stark erhöht.","+{1-1} ANG, -{1-2%} % Ausweichen
+Dauer: 15 Sek.",
+13251,Dunkelatem,"<SkillTitle>[Nur Stab]</>
+Dunkelelementarangriff, währenddessen die Richtung geändert werden kann.",Schaden: {[Use34Param]1%} % des ANG +{1} für jeden 7. Treffer,
+13252,Korruption,"<SkillTitle>[Nur Stab]</>
+Verdirbt einen Bereich, um Gegnern SCH zuzufügen und ihre VER und GES zu verringern.","Schaden: {[Use34Param]1%} % des ANG +{1} für jeden 5. Treffer
+Verringert kurzzeitig VER und Geschwindigkeit der Ziele.",
+13253,Fatale Weisheit,"<SkillTitle>[Nur Stab]</>
+Erhöht M-ANG kurzzeitig bis zum Limit.","+{1-1} M-ANG
+Dauer: 15 Sek.",
+13261,Vampirische Berührung,"<SkillTitle>[Nur Stab]</>
+Ein lebensraub. Angriff, der Verbündete mit niedrigen LP am meisten heilt.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Regen.-Rate: 20-60 % des zugefügten Schadens, basierend auf den aktuellen LP des zu erholenden Ziels",
+13262,Blutige Wut,"<SkillTitle>[Nur Stab]</>
+Dunkelelementarschockwelle, die Gegnern SCH zufügt, sie verlangsamt und Buffs entfernt.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Verringert GES von Zielen 4 Sek. lang um {2%} %.
+Entfernt Buffs von Zielen.",
+13263,Ermächtigen,"<SkillTitle>[Nur Stab]</>
+LP-Regen., die verhindert, dass LP unter einen bestimmten Wert fallen, solange sie aktiv ist.","LP fallen nicht unter {1-1}
+Dauer: 5 Sek.
+Heilt LP um {2}",
+13264,Ermächtigen (Heilung),@13263,"+{1-1} M-ANG
+Dauer: 20 Sek.",
+14211,Stoß,"<SkillTitle>[Nur Schwert und Schild]</>
+Schwung, der den SCH der Gegner verringert und sie provoziert.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+Verringert VER von Zielen um {2-1%} %, Provokation: Angriffe fokussieren sich 8 Sek. lang auf dich.",
+14212,Erdbeben,"<SkillTitle>[Nur Schwert und Schild]</>
+Schlag, der Gegnern im Umkreis SCH zufügt, sie niederwirft, und ihren ANG verringert.","Schaden: {[Use34Param]1-1%} % des ANG +{1-1}
+8,5 Sek. lang -20 % ANG der Ziele.
+Betäubt Ziele 2,5 Sek. lang.",
+14221,Machthieb,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Greift voraus an, um Gegnern im Umkreis großen Schaden zuzufügen.",@11131,
+14222,Sprungangriff,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Springt, um nahe Gegner umzuwerfen und sie kurz handlungsunf. zu machen.",@12222,
+14223,Zorniger Zwerg,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Nutz die von Natur aus hohe VER für das Angreifen anstatt das Verteidigen.","+{1-1} ANG, -{1-2%} % VER
+Dauer: 15 Sek.",
+14231,Klingenansturm,"<SkillTitle>[Nur Dolch]</>
+Stürmt vorwärts, durchdringt Gegner und macht sie verletz. für krit. Angriffe.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Verringert Kritischen Widerstand von Zielen 10 Sek. lang um {2-1%} %.",
+14232,Schall-Stern,"<SkillTitle>[Nur Dolch]</>
+Sternenangriff, während welchem Gegner GES einbüßen und ihre Fertigk. nicht einsetzen können.","Schaden: {[Use34Param]1%} % des ANG + {1}
+.Verringert GES der Gegner 10 Sek. lang um {2-1%} %.
+Bringt Gegner 5 Sek. lang zum Schweigen.",
+14233,Adena-Suche,"<SkillTitle>[Nur Dolch]</>
+Erhöht GES, vergiftet und verlangsamt getroff. Gegner und hilft dir mehr Adena zu entdecken.","+{1-1%} % Adenagewinn, +{1-2%} GES.
+Vergiftet Gegner und verringert deren GES, solange die Fertigkeit aktiv ist.
+Dauer: 60 Sek.",
+14241,Salvenschuss,"<SkillTitle>[Nur Bogen]</>
+Feuert einen Feuerelementpfeil, der explodiert und dabei Schaden zufügt und Gegner niederschlägt.","Schaden: {[Use34Param]1%} % des ANG + {1}
+Fügt Zielen 4 Sek. lang {3-1} zusätzlichen Schaden zu.
+Schlägt Ziele 2,5 Sek. lang nieder.",
+14242,Ausweich-Schuss,"<SkillTitle>[Nur Bogen]</>
+Tritt 3m zurück und feuert 3 Pfeile, die explodieren, SCH zufügen und Gegner verlangsamen.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Verringert GES von Zielen 4 Sek. lang um {2-1%} %.
+Erhöht Angriffsreichweite 5 Sek. lang um {PhyBuff:142422-1%} m.",
+14251,Erdnadel,"<SkillTitle>[Nur Stab]</>
+Errichtet eine Steinsäule, um SCH zuzufügen und Gegner im Umfeld umzuwerfen.","Schaden: {[Use34Param]1%} % des ANG +{1}
+Schlägt Ziele 3 Sek. lang nieder.",
+14252,Tri-Scherbe,"<SkillTitle>[Nur Stab]</>
+Schleudert Erdelementarsplitter in 3 Richtungen, die Gegnern durchdr. SCH zufügen.",@11131,
+14253,Faustkämpfer,"<SkillTitle>[Nur Stab]</>
+Ruft alte Erinnerungen wach und erhöht den ANG der Basisangriffe deiner Gruppe.","+{1-1%} % Basis-ANG
+Dauer: 30 Sek.",
+14261,Himmlischer Schutz,"<SkillTitle>[Nur Stab]</>
+Heilt deine LP sowie die deiner Gruppenmitglieder und erhöht VER.","Regen.-Rate: {[Use34Param]1%} % des ANG +{1}
+Verringert VER der Gruppenmitglieder 10 Sek. lang um {2-1}.",
+14262,Himmlisches Klatschen,"<SkillTitle>[Nur Stab]</>
+Schlägt auf den Boden, um Schaden zuzufügen und Gegner im Umkreis zu betäuben.","Schaden: {[Use34Param]1%} % des ANG +{1}
+plus {[Use34Param]1-3%} % des ANG +{1-3} für je 4 zusätzliche Treffer; betäubt Ziele 2,5 Sek. lang.",
+14263,Große Vitalität,"<SkillTitle>[Nur Stab]</>
+Erhöht deine max. LP sowie die deiner Gruppenmitglieder.","+{1-1} Max. LP
+Dauer: 180 Sek.",
+21001,Menschen-Potenzial,Die feste Entschlossenheit der Menschen gibt ihnen höheren ANG gegen Gegner.,Boni auf P-ANG und Kritischen Widerstand,
+21111,Kriegerwaffen-Meister,"<SkillTitle>[Passiv]</>
+Erhöht ANG, wenn du Schwert und Schild, Speer oder Doppelschwerter ausgerüstet hast.",+{1} ANG,
+21112,Schwere Rüstung-Meister,"<SkillTitle>[Passiv]</>
+Verringert erlittenen Schaden, wenn Schwere Rüstung ausgerüstet ist. Dieser Effekt ist bis zu 4-mal stapelbar.","-{1%} % Schaden
+Wird mit jedem Ausrüstungsteil aufaddiert: Kopfschutz, Rüstung, Handschuhe, Stiefel.",
+21121,Schurkenwaffen-Meister,"<SkillTitle>[Passiv]</>
+Erhöht ANG, wenn ein Dolch oder Bogen ausgerüstet ist.",@21111,
+21122,Leichte Rüstung-Meister,"<SkillTitle>[Passiv]</>
+Erhöht Ausweichrate, wenn leichte Rüstung ausgerüstet ist. Dieser Effekt ist bis zu 4-mal stapelbar.","+{1%} % Ausweichrate
+Wird mit jedem Ausrüstungsteil aufaddiert: Kopfschutz, Rüstung, Handschuhe, Stiefel.",
+21131,Magierwaffen-Meister,"<SkillTitle>[Passiv]</>
+Erhöht ANG, wenn ein Stab ausgerüstet ist.",@21111,
+21132,Roben-Meister,"<SkillTitle>[Passiv]</>
+Erhöht Angriffsschaden, wenn eine Robe als Rüstung ausgerüstet ist. Dieser Effekt ist bis zu 4-mal stapelbar.","+{1%} % Schaden
+Wird mit jedem Ausrüstungsteil aufaddiert: Kopfschutz, Rüstung, Handschuhe, Stiefel.",
+22001,Elfen-Potenzial,Geschickte Bewegungen sorgen für ein besseres Ausweichen bei gegnerischen Angriffen.,"Boni auf Ausweichen, Geschwindigkeit und M-ANG",
+22111,@21111,@21111,@21111,
+22112,@21112,@21112,@21112,
+22121,@21121,@21121,@21111,
+22122,@21122,@21122,@21122,
+22131,@21131,@21131,@21111,
+22132,@21132,@21132,@21132,
+23001,Dunkelelfen-Potenzial,Das hervorragende Kampfgespür gewährt eine höhere Krit. Rate beim Angriff gegen Gegner.,Boni auf Genauigkeit und Krit. Rate,
+23111,@21111,@21111,@21111,
+23112,@21112,@21112,@21112,
+23121,@21121,@21121,@21111,
+23122,@21122,@21122,@21122,
+23131,@21131,@21131,@21111,
+23132,@21132,@21132,@21132,
+24001,Zwergen-Potenzial,Ihre Körper sind von den Himmeln gesegnet und verfügen über hohe LP.,Boni auf P-VER und max. LP,
+24111,@21111,@21111,@21111,
+24112,@21112,@21112,@21112,
+24121,@21121,@21121,@21111,
+24122,@21122,@21122,@21122,
+24131,@21131,@21131,@21111,
+24132,@21132,@21132,@21132,
+20211,Verteidigungsaura,"<SkillTitle>[Passiv]</>
+Erhöht deine VER sowie die deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1} VER,
+20212,Rechtschaffener Zorn,"<SkillTitle>[Passiv]</>
+Erhöht den Monstern zugefügten Schaden und verringert den von Monstern erlittenen Schaden. Erhöht das Aggressionslevel der Angriffe.","Erhöht ANG-Schaden um {2%} % und verringert durch Monster erlittenen Schaden um {3%} %.
+Erhöht Aggro-Gewinn um {1%} %.",
+20221,Angriffsaura,"<SkillTitle>[Passiv]</>
+Erhöht deinen ANG sowie den deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1} ANG der Gruppenmitglieder,
+20231,Schnellschritt,"<SkillTitle>[Passiv]</>
+Erhöht deine Geschwindigkeit sowie die deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1%} % Geschwindigkeit der Gruppenmitglieder,
+20241,Leitung,"<SkillTitle>[Passiv]</>
+Erhöht deine Genauigkeit sowie die deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1} Genauigkeit der Gruppenmitglieder,
+20251,Todesflüstern,"<SkillTitle>[Passiv]</>
+Erhöht deinen Kritischen Schaden sowie den deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1%} % Kritischer Schaden der Gruppenmitglieder,
+20261,LP-Schub,"<SkillTitle>[Passiv]</>
+Erhöht deine max. LP sowie die deiner Gruppenmitglieder. Dieser Effekt gilt für die gesamte Region.",+{1-1} Max. LP der Gruppenmitglieder,
+21211,Abwehr-Meister,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, erlittenen Schaden zu verringern, wenn du angegriffen wirst.","Schild-Verteidigung: {1%} %
+-{2%} % Erlittener Schaden bei Verteidigung mit dem Schild
++{3} VER",
+21221,Rache,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der ANG erhöht, wenn ein Krit.-ANG gelingt.","+{1-1} ANG
+Auslöse-Rate: 10 %, Dauer: 6 Sek.",
+21222,Kampfmeisterschaft,"<SkillTitle>[Passiv]</>
+Erhöht ANG noch weiter, wenn ein Speer oder Doppelschwerter ausgerüstet sind.",+{1%} % ANG,
+21231,Schleichen,"<SkillTitle>[Passiv]</>
+Chance auf Verringerung der Abklingzeit von Fertigkeiten nach dem Ausweichen, und erhöht ANG 3 Sekunden lang.","Verringert Fertigkeits-Abklingzeit um {1-1#} Sek.
+Erhöht ANG 3 Sek. lang um {2-1}.
+Auslöse-Rate: 10 %. Dauer: 6 Sek.",
+21232,Verbesserter Kritischer Angriff,"<SkillTitle>[Passiv]</>
+Erhöht Krit. Rate und Kritischen Schaden.","Erhöht Krit. Rate um {1%} %.
+Erhöht Kritischen Schaden um {2%} %",
+21241,Verbessertes Verlangsamen,"<SkillTitle>[Passiv]</>
+Verlangsamt den Gegner, wenn ein Krit.-ANG gelingt.","Gegnerische Geschwindigkeit -{1-1%} %
+Gegnerischer Blutungs-SCH: {[Use34Param]2-1%} %
+Auslöse-Rate: 10 %. Dauer: 3 Sek.",
+21251,Lodern,@21221,@21221,
+21261,Himmlische Verbindung,"<SkillTitle>[Passiv]</>
+Erhöht VER in einer Gruppe. Eine größere Anzahl an Gruppenmitgliedern verstärkt den Effekt.",+{1-1%} % VER pro Gruppenmitglied,
+21262,Manaschild,"<SkillTitle>[Passiv]</>
+Bei einem Treffer wird ein Teil des SCH stattdessen von den MP abgezogen.",{1-1%} % des SCH wird von MP abgezogen,
+22211,Altes meiden,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der die Ausweichrate erhöht, wenn du angegriffen wirst.","+{1-1%} % Ausweichrate
+Auslöse-Rate: 15 %, Dauer: 5 Sek.",
+22212,@21211,@21211,@21211,
+22221,Esprit,"<SkillTitle>[Passiv]</>
+Erhöht Krit. Rate fortwährend.",Krit. Rate +{1-1%}%,
+22222,@21222,@21222,@21222,
+22231,Schneller Zorn,"<SkillTitle>[Passiv]</>
+Während des Angriffs werden ANG-GES und Geschwindigkeit in Abhängigkeit von der Trefferanzahl erhöht.","Erhöht ANG-GES pro Angriff um {1-1%} %.
+Jeder Angriff erhöht die Bewegungs-GES um {1-2%} %.
+Dauer: 5 Sek.",
+22232,Kritische Chance,"<SkillTitle>[Passiv]</>
+Erhöht Krit. Rate.",+{1-1} Krit. Rate,
+22241,Flink,"<SkillTitle>[Passiv]</>
+Erhöht den Schaden von Basisangriffen.",+{1%} % Basis-ANG-SCH,
+22251,Frost-Siegel,"<SkillTitle>[Passiv]</>
+Erhöht den Schaden während Angriffen gegen Gegner, die unter die Bewegung beeinträchtigenden Effekten leiden.","+{1%} % ANG gegen Gegner, die unter die Bewegung beeinträchtigenden Effekten leiden",
+22252,Offensive Leichte Heilung,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, während des Angriffs LP wiederherzustellen.","Regen.-Rate: {1}
+Auslöse-Rate: 10 %",
+22261,@22211,"<SkillTitle>[Passiv]</>
+Erhöht Ausweichrate fortwährend.",+{1-1%} % Ausweichrate,
+23211,Aufgewerteter Entzug,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der LP absorbiert, wenn du angegriffen wirst.","LP-Entzug: {1-1%} % des zugefügten Schadens
+Auslöse-Rate: 15 %, Dauer: 6 Sek.",
+132132,Ultimative Verteidigung (Verlangsamen),"<SkillTitle>[Nur Schwert und Schild]</>
+Erhöht bei achtsamer Bewegung VER bis zum Limit.","VER: {1-1%} % +{1-3} Um 50 % verringerte Geschwindigkeit für 5 Sek., während der Effekt aktiv ist.
+Dauer: 15 Sek.",
+23221,Fieber,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der den Kritischen Schaden erhöht, wenn ein Krit.-ANG gelingt.","+{1-1%} % Kritischer Schaden
+Auslöse-Rate: 10 %, Dauer: 6 Sek.",
+23222,@21222,@21222,@21222,
+23231,Blutlust,"<SkillTitle>[Passiv]</>
+Beim Angriff gegen Gegner mit niedrigen LP werden deren VER und Kritischer Widerstand verringert.","Wenn LP des Gegners bei 50 % oder weniger sind.
+-{1-1%} % VER
+-{1-3%} % Widerstand gegen Krit. Rate Dauer: 3 Sek.",
+23232,Kritische Kraft,"<SkillTitle>[Passiv]</>
+Erhöht Kritischen Schaden. Erhöht ANG beim Angriff gegen blutende Gegner.","+{1-1%} % Kritischer Schaden.
++{2%} % ANG gegen blutende Gegner.",
+23241,Kritisches Zeichen,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der die Gen.-Rate erhöht, wenn ein Krit.-ANG gelingt.","+{1-1%} % Gen.-Rate
+Auslöse-Rate: 10 %, Dauer: 6 Sek.",
+23251,@23221,@23221,@23221,
+23252,@22252,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, LP wiederherzustellen, wenn ein Krit.-ANG gelingt.",@22252,
+23261,Aggression,"<SkillTitle>[Passiv]</>
+Verleiht einem Gruppenmitglied fortwährend eine kleine LP-Entzugsrate.",+{1-1%} % LP-Entzug,
+24211,Abwehr-Expertise,"<SkillTitle>[Passiv]</>
+Erhöht Max. LP. Gewährt außerdem eine feste Chance, erlittenen SCH zu verringern, wenn du angegriffen wirst.","+{3%} % max. LP. Schild-Verteidigung: {1%} %
+-{2%} % erlittener SCH bei Verteidigung mit dem Schild.
++{4} VER.",
+24212,Glückliches Geschick,"<SkillTitle>[Passiv]</>
+Diese Fertigkeit kann regelmäßig zweimal verwendet werden und erhöht die LP ein wenig.","Fertigkeit in einem leuchtenden Fertigkeitsslot einsetzen, um sie zwei Mal einzusetzen.
+Regen: {2}
+Abklingzeit: 15 Sek.",
+24221,Ersehnter Aufschlag,"<SkillTitle>[Passiv]</>
+Gewährt bei Treffern eine Chance, einen Buff zu erzeugen, der den ANG und die Anzahl angegriffener Gegner erhöht.","+{1-1} % ANG
+Erhöht Anzahl angegriffener Gegner um 1
+Auslöse-Rate: 10 %, Dauer: 6 Sek.",
+24222,@21222,@21222,@21222,
+24223,Glückliches Wüten,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, einen Buff zu erzeugen, der die ANG-GES deiner Gruppe erhöht, wenn ein Krit.-ANG gelingt.","+{1-1%} % ANG-GES
+Auslöse-Rate: 8 %, Dauer: 6,5 Sek.",
+24231,@22221,@22221,@22221,
+24232,Glücklicher Todesfall,"<SkillTitle>[Passiv]</>
+Erhöht Krit. Rate. Beim Angriff gegen Gegner mit verringerter Geschwindigkeit wird ihnen zusätzlicher Schaden zugefügt.","Krit. 
+Erhöht ANG gegen verlangsamte Gegner um {2%} %.",
+24233,Adena-Suche (Gift),"<SkillTitle>[Nur Dolch]</>
+Entdecke mehr Adena im Kampf. Erhöht Geschwindigkeit und vergiftet getroffene Gegner.","Erhöht Adenagewinn um {1-1%} % und Geschwindigkeit um {1-2%} %.
+Dauer: 60 Sek.",
+142422,@14242,@14242,"Schaden: {[Use34Param]1%} % des ANG + {1}
+Verringert Geschwindigkeit von Zielen 4 Sek. lang
+Erhöht Reichweite 5 Sek. lang",
+24241,Akrobatik,"<SkillTitle>[Passiv]</>
+Erhöht Ausweichrate und ANG-GES fortwährend.","+{1%} % Ausweichrate
++{2%} % ANG-GES",
+24242,Glücklicher Schnellschritt,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, bei einem direkten Treffer zu betäuben und ANG zu verringern.","10 % Chance, das Ziel bei einem direkten Treffer 0,5 Sek. lang zu betäuben, -{2-1%} % ANG",
+24251,@23261,@21221,"+{1-1%} % ANG
+Auslöse-Rate: 10 %, Dauer: 6 Sek.",
+24252,Glückliche Verteidigung,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, deine VER sowie die deiner Gruppenmitglieder zu erhöhen, wenn ein Krit.-ANG gelingt.","+{1-1} VER
+Auslöse-Rate: 15 %, Dauer: 6 Sek.",
+24261,Befestigen,"<SkillTitle>[Passiv]</>
+Erhöht die LP-Regen. eines Verbündeten.",+{1-1%} % LP-Regen.,
+24262,Glückliche Reine Heilung,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, deine LP sowie die deiner Gruppenmitglieder wiederherzustellen, wenn du angegriffen wirst.","Regen.: {1}
+Auslöse-Rate: 15 %",
+30001,Absoluter Schild,"<SkillTitle>[Jede Waffe]</>
+Ein Schutzzauber, der erlittenen Schaden verringert und Hinderungswiderstand erhöht.","+{1-1%} % VER
++{1-3%} % Hinderungswiderstand",
+30002,Flinker Schritt,"<SkillTitle>[Jede Waffe]</>
+Ermöglicht für einen kurzen Moment schnelles Bewegen.",+{1%} % Geschwindigkeit,
+30003,Unsterblich,"<SkillTitle>[Passiv]</>
+Gewährt eine Chance, bei tödlicher Verletzung mit 1 LP zu überleben.",Hä?,
+30004,Blutpfeil,"<SkillTitle>[Jede Waffe]</>
+Feuert eine Schwertaura voraus, die Bluten verursacht.",Schaden: {[Use34Param]1%} % des P-ANG,
+30005,Blitzfeld,"<SkillTitle>[Jede Waffe]</>
+Schafft voraus ein Gebiet, das Gegner schockiert.",Schaden: {[Use34Param]1%} % des M-ANG,
+30006,Rakete,"<SkillTitle>[Jede Waffe]</>
+Greift Gegner mit einer mächtigen Schockwelle an, die starken Schaden zufügt.",Schaden: {[Use34Param]1-1%} % des P-ANG + {[Use34Param]1-2%} % des M-ANG,
+30007,Giftschwarm,"<SkillTitle>[Jede Waffe]</>
+Schafft voraus ein Gebiet, das Gegner vergiftet. Die Geschwindigkeit von Gegnern in diesem Gebiet ist verringert.",@30005,
+30008,Frostrüstung,"<SkillTitle>[Jede Waffe]</>
+Erhöht VER eine Zeit lang und verlangsamt angegriffene Gegner.","Schaden: 1,5x ANG + {[Use34Param]1}
+Verringert ANG von Zielen 3 Sek. lang um {4-1}.",
+30009,Ausweich-Schock,"<SkillTitle>[Jede Waffe]</>
+Weicht nach hinten aus und sendet Schockwellen nach vorne.",@30004,
+30010,Manaschild,"<SkillTitle>[Jede Waffe]</>
+Bei einem Treffer wird ein Teil des Schadens von den MP statt den LP abgezogen.",Verbraucht MP entsprechend {2%} % des erlittenen Schadens.,
+30011,Heilender Schlag,"<SkillTitle>[Jede Waffe]</>
+Heilt deine LP leicht.",Regen.-Rate: {[Use34Param]1%} % des ANG,
+30012,Meteoritenregen,"<SkillTitle>[Jede Waffe]</>
+Lässt voraus einen Meteor fallen, der Feuerschaden verursacht.","Schaden: {[Use34Param]1-1%} % des P-ANG + {[Use34Param]1-2%} % des M-ANG.
+Schlägt Ziel nieder.
+Schaden über 3 Sek.",
+30013,Zeitverringerung,"<SkillTitle>[Jede Waffe]</>
+Verringert eine Zeit lang die Fertigkeits-Abklingzeit.",-{1#} Sek. Fertigkeits-Abklingzeit,
+30014,Giftschlag,"<SkillTitle>[Jede Waffe]</>
+Vergiftet Gegner und verringert eine Zeit lang dessen SCH und GES.","Schaden: {[Use34Param]1-1%} % des P-ANG + {[Use34Param]1-2%} % des M-ANG.
+5 Sek. lang zusätzlicher SCH.
+5 Sek. lang gegn. GES -{3-2%} %. Schaden: -{3-1%} %.",
+30015,Verteidigungszone,"<SkillTitle>[Jede Waffe]</>
+Schutzfläche, die den SCH von Verbündeten verringert und dem Nutzer kurz Immunität gewährt.","6 Sek. lang -{PhyBuff:300151-1%} % erl. SCH von Verbündeten.
+Erl. SCH von seltenen Fertigkeiten verringert sich zusätzlich um {PhyBuff:300151-2%} %.
+2 Sek. lang Debuff-Immunität.",
+31001,Frostrüstung (Test des Verlangsamungseffekts),Verlangsamt Passiv für Frostrüstung,Verringert Geschwindigkeit um {2-1} %,
+31002,Machthieb (alt),Greift Gegner voraus kraftvoll an.,Greift Gegner voraus kraftvoll an.,
+31003,Großer Knall (alt),@31002,@31002,
+31004,@14221,Machthieb,Führt einen mächtigen Angriff auf nahe Gegner aus.,
+31005,Großer Knall,Großer Knall,@31004,
+31006,@11222,Donnersturm,@31004,
+31007,Heiliges Feld,Fügt nahen Gegnern mächtigen Schaden zu.,@31004,
+31008,@30009,Feuert während des Ausweichens nach hinten eine Schockwelle nach vorne.,@30004,
+35001,@21111,@21111,,
+35002,@21112,@21112,,
+35003,@21121,@21121,,
+35004,@21122,@21122,,
+35005,@21131,@21131,,
+35006,@21132,@21132,,
+35011,@21211,@21211,,
+35021,@21222,@21222,,
+35031,@21232,@21232,,
+35111,@21211,@21211,,
+35121,@22221,@22221,,
+35122,@21222,@21222,,
+35131,@22232,@22232,,
+35141,@22241,@22241,,
+35151,@22251,@22251,,
+35161,@22211,@22261,,
+35221,@21222,@21222,,
+35231,@23232,@23232,,
+35311,@24211,@24211,,
+35321,@21222,@21222,,
+35331,@22221,@22221,,
+35332,Glücklicher Todesfall,@24232,,
+35341,@24241,@24241,,
+40001,P-ANG,P-ANG,Erhöht M-ANG um {1-1},
+40002,M-ANG,M-ANG,@40001,
+40003,P-ANG-Erhöhungsrate,P-ANG-Erhöhungsrate,@40001,
+40004,M-ANG-Erhöhungsrate,M-ANG-Erhöhungsrate,@40001,
+40005,Basisangriffskraft,Basisangriffskraft,@40001,
+40006,Gruppenmitglied-ANG-Erhöhungsrate,Gruppenmitglied-ANG-Erhöhungsrate,@40001,
+40007,ANG-GES-Erhöhungsrate,ANG-GES-Erhöhungsrate,@40001,
+40008,Krit.-SCH-Erhöhungsrate,Krit.-SCH-Erhöhungsrate,@40001,
+40009,Kritische Genauigkeitsrate,Kritische Genauigkeitsrate,@40001,
+40010,Kritische Widerstandsrate,Kritische Widerstandsrate,@40001,
+40011,P-SCH,P-SCH,@40001,
+40012,M-SCH,M-SCH,@40001,
+40013,VER-Ignorieren,VER-Ignorieren,@40001,
+40014,Ziel-LP-Verringerung,Ziel-LP-Verringerung,@40001,
+40015,Ziel-LP-Verringerung (%),Ziel-LP-Verringerung (%),@40001,
+40016,P-VER,P-VER,@40001,
+40017,M-VER,M-VER,@40001,
+40018,P-VER-Erhöhungsrate,P-VER-Erhöhungsrate,@40001,
+40019,M-VER-Erhöhungsrate,M-VER-Erhöhungsrate,@40001,
+40020,Ausweichen,Ausweichen,@40001,
+40021,Ausweichen-Erhöhungsrate,Ausweichen-Erhöhungsrate,@40001,
+40022,Ausweichrate,Ausweichrate,@40001,
+40023,Genauigkeit,Genauigkeit,@40001,
+40024,Genauigkeitserhöhungsrate,Genauigkeitserhöhungsrate,@40001,
+40025,Genauigkeitsrate,Genauigkeitsrate,@40001,
+40026,Schaden-Erhöhungsrate,Schaden-Erhöhungsrate,@40001,
+40027,P-SCH-Erhöhungsrate,P-SCH-Erhöhungsrate,@40001,
+40028,@40027,@40027,@40001,
+40029,Erhöhungsrate für Schaden an verlangsamtem Ziel,Erhöhungsrate für Schaden an verlangsamtem Ziel,@40001,
+40030,VER-SCH-Ignorieren,VER-SCH-Ignorieren,@40001,
+40031,Schaden-Verringerungsrate,Schaden-Verringerungsrate,@40001,
+40032,P-SCH-Verringerungsrate,P-SCH-Verringerungsrate,@40001,
+40033,M-SCH-Verringerungsrate,M-SCH-Verringerungsrate,@40001,
+40034,Festschadenverringerung,Festschadenverringerung,@40001,
+40035,Abwehrrate,Abwehrrate,@40001,
+40036,Abwehrschaden-Verringerungsrate,Abwehrschaden-Verringerungsrate,@40001,
+40037,P-SCH über Zeit,P-SCH über Zeit,@40001,
+40038,M-SCH über Zeit,M-SCH über Zeit,@40001,
+40039,LP basierend auf ANG heilen,LP basierend auf ANG heilen,@40001,
+40040,Heilung über Zeit,Heilung über Zeit,@40001,
+40041,Aggressions-Erhöhungsrate,Aggressions-Erhöhungsrate,@40001,
+40042,LP-Regen.,LP-Regen.,@40001,
+40043,LP-Entzug,LP-Entzug,@40001,
+40044,"LP-Absorption (Eine aktive Fertigkeit, die dem Gegner LP stiehlt.)","LP-Absorption (Eine aktive Fertigkeit, die dem Gegner LP stiehlt.)",@40001,
+40045,LP-Absorption (Verteilt gestohlene LP auf dich und deine Gruppenmitglieder.),LP-Absorption (Verteilt gestohlene LP auf dich und deine Gruppenmitglieder.),@40001,
+40046,Max. LP,Max. LP,@40001,
+40047,Max.-LP-Erhöhungsrate,Max.-LP-Erhöhungsrate,@40001,
+40048,Max. MP,Max. MP,@40001,
+40049,Max.-MP-Erhöhungsrate,Max.-MP-Erhöhungsrate,@40001,
+40050,Geschwindigkeits-Erhöhungsrate,Geschwindigkeits-Erhöhungsrate,@40001,
+40051,MP-Kostenverringerungsrate,MP-Kostenverringerungsrate,@40001,
+40052,MP-Kostenverringerung,MP-Kostenverringerung,@40001,
+40053,MP-Regen.-Rate,MP-Regen.-Rate,@40001,
+40054,Fertigkeits-Abklingzeit,Fertigkeits-Abklingzeit,@40001,
+40055,Spott (Erhöht Aggro auf Max.),Spott (Erhöht Aggro auf Max.),@40001,
+40056,Ziel erfassen,Ziel erfassen,@40001,
+40057,Ziel bewegen,Ziel bewegen,@40001,
+40058,Ziel ziehen,Ziel ziehen,@40001,
+40059,Zugwiderstandsrate,Zugwiderstandsrate,@40001,
+40060,Rückschlag-Widerstandsrate,Rückschlag-Widerstandsrate,@40001,
+40061,ERF-Gewinn-Erhöhungsrate,ERF-Gewinn-Erhöhungsrate,@40001,
+40062,Adenagewinn-Erhöhungsrate,Adenagewinn-Erhöhungsrate,@40001,
+40063,Verlangsamungswiderstandsrate,Verlangsamungswiderstandsrate,@40001,
+40064,Betäubungswiderstandsrate,Betäubungswiderstandsrate,@40001,
+40065,Abnormaler Status-Widerstand,Abnormaler Status-Widerstand,@40001,
+40066,Erhöhung der Fertigkeitsreichweite,Erhöhung der Fertigkeitsreichweite,@40001,
+40067,Erhöhung der Fertigkeits-Trefferzahl,Erhöhung der Fertigkeits-Trefferzahl,@40001,
+40068,Kombo-Endzeit-Erhöhung,Kombo-Endzeit-Erhöhung,@40001,
+40069,Durchdringung,Durchdringung,@40001,
+40070,Zähigkeit,Zähigkeit,@40001,
+40071,Krit. Rate,Krit. Rate,@40001,
+40072,Krit. Widerstand,Krit. Widerstand,@40001,
+40073,Erhöhung der Krit. Rate,Erhöhung der Krit. Rate,@40001,
+40074,Kritischer Widerstand-Erhöhungsrate,Kritischer Widerstand-Erhöhungsrate,@40001,
+50001,Antilope,Nahkampf-Monster,,
+50002,Breka-Ork,@50001,,
+50003,Breka-Ork-Kämpfer,@50001,,
+50004,Riesiger Kneifer,@50001,,
+50005,Rotbär,@50001,,
+50006,Wespe,@50001,,
+50007,Schreckgespenstkönig,@50001,,
+50008,Leto-Echsenmensch,@50001,,
+50009,Leto-Echsenmensch-Schamane,Windelementar-Fernangriff. Feuert ein Windgeschoss. Durchdringt Gegner.,,
+50010,Leto-Echsenmensch-Kämpfer,@50001,,
+50011,Maille-Echsenmensch-Schamane,Feuerelementar-Fernangriff. Feuert ein Flammengeschoss. Fügt DoT zu.,,
+50012,Maille-Echsenmensch-Kämpfer,@50001,,
+50013,Moor-Stakato-Soldat,@50001,,
+50014,Mystischer Weber,"Dunkelelementar-Fernangriff. Feuert ein dunkles Geschoss ab, und fügt Schaden zu. Fügt Fluch zu. Der DoT ist schwach, aber dauert lang an.",,
+50015,Giftige Spinne,@50001,,
+50016,Dunkelchor-Prima,@50001,,
+50017,Schnitter,@50001,,
+50018,Knochenverfolger,@50001,,
+50019,Vampirfledermaus,@50001,,
+50020,Windsus,@50001,,
+50021,Zombiefürst Crowl,@50001,,
+50022,Schwarzer Leopard,@50001,,
+50023,Tanor-Silenos-Kämpfer,@50001,,
+50024,Tanor-Silenos,@50001,,
+50025,Ol Mahum-Späher,@50001,,
+50026,Ol Mahum-Krieger,@50001,,
+50027,Tanor-Silenos-Schamane,@50009,,
+50028,Tanor-Silenos-Häuptling,@50001,,
+50029,Dunkelritter,@50001,,
+50030,Steingolem,@50001,,
+50031,@11243,@50001,,
+50032,Meforde,@50001,,
+50033,Premo,@50001,,
+50034,Rorka,@50001,,
+50035,Mandragora,@50001,,
+50036,Verderbensdiener,@50001,,
+50037,Gefesselte Seele,@50001,,
+50038,Nerkas,@50001,,
+50039,Guillotine des Todes,@50001,,
+50040,Schwarzer Wolf,@50001,,
+50041,Turek-Ork-Schütze,Ein Basisangriff von Fernkampf-Monstern mit Bögen.,,
+50042,Turek-Ork-Kriegshäuptling,@50001,,
+50043,Turek-Ork-Stürmer,@50001,,
+50044,Dungeon-Knochensoldat,@50001,,
+50045,Knochenmarodeur,@50041,,
+50046,Werwolf,@50001,,
+50047,Tepra-Skorpion,@50001,,
+50048,Tollwütiger Puma,@50001,,
+50049,Rotfuchs,@50001,,
+50050,Monsteraugen-Wachmann,@50001,,
+50051,Turek-Kriegshund,@50001,,
+50052,Ameisenlarve,@50001,,
+50053,Ameisensoldat,@50001,,
+50054,Ameise,@50001,,
+50055,Basilisk,@50001,,
+50056,Riesiger Egel,@50001,,
+50057,Sahara,@50001,,
+50058,Noble Ameise,@50001,,
+50060,Wiederbelebter Schemen,@50001,,
+50061,Unerbittlicher Schemen,@50001,,
+50062,Sukkubus,@50001,,
+50063,Breka-Ork-Kriegshäuptling,@50001,,
+50064,Breka-Ork-Schamane,@50009,,
+50065,Perum,@50001,,
+50066,Dunkelfürst,@50001,,
+50067,Piratenzombie,@50001,,
+50068,Suszeptor-Prime,@50001,,
+50069,Jämmerlicher Schrei,@50001,,
+50070,Kaim Vanul,@50001,,
+50071,Piratenzombienautiker,@50001,,
+50072,Piratenzombiekapitän,@50001,,
+50073,Zaken,@50001,,
+50074,Gorgon-Königin Stenoa,@50001,,
+50075,Medusa,@50001,,
+50076,Wyrm,@50001,,
+50077,Dullahan,@50001,,
+50078,Staubwind-Gargoyle,@50001,,
+50079,Grandis,@50001,,
+50080,Leto-Echsenmensch-Häuptling,@50001,,
+50081,Lindwurm,@50001,,
+50082,Sporenfungus,@50001,,
+50083,Richard,@50001,,
+50084,Orfen,@50001,,
+50085,Orfens Magd,@50001,,
+50086,Ketra-Ork-Sucher,@50041,,
+50087,Oel Mahum,@50001,,
+50088,Oel Mahum-Schamane,@50011,,
+50089,Oel Mahum-Kämpfer,@50001,,
+50090,Blutkönigin,@50001,,
+50091,Boreas,@50001,,
+50092,Höhlenhüter,@50001,,
+50093,Ol Mahum-Kriegshäuptling,@50001,,
+50094,Ol Mahum-Todesschütze,@50041,,
+50095,Maille-Echsenmensch-Späher,Ein Basisangriff von Fernkampf-Monstern mit Speeren.,,
+50096,Leto-Echsenmensch-Schütze,@50041,,
+50097,Sumpfkiller,@50001,,
+50098,Knochenspäher,@50041,,
+50099,Validus,@50001,,
+50100,Breka-Ork-Schütze,@50041,,
+50101,Dicor,@50001,,
+50102,Schwarze Weide,@50001,,
+50103,Dunkle Bruderschaft,@50014,,
+50104,Typheron,@50001,,
+50105,Weißer Wolf,@50001,,
+50106,Ketra-Ork-Ranger-Hauptmann,@50001,,
+50107,Weißer Ketra-Orkhauptmann,@50001,,
+50108,Balrog,@50001,,
+50109,Apostel,@50001,,
+50110,Tutorial Ritter 1,@50001,,
+50111,@50110,@50001,,
+50112,Tutorial Ritter 2,@50001,,
+50113,@50112,@50001,,
+50114,Tutorial Ritter 3,@50041,,
+50115,Tutorial Ritter 4,@50001,,
+50116,@50115,@50001,,
+50117,Tutorial Ritter 5,@50001,,
+50118,@50117,@50001,,
+50119,Tutorial Ritter 6,@50041,,
+50120,Tutorial Ritter 7,@50001,,
+50121,@50120,@50001,,
+50122,Feldboss_Westliche Sprechende Insel_Gefallener Geisterhirte,@50001,,
+50123,Feldboss_Gludin-Straße_Zodiac der Mörder,@50001,,
+50124,Feldboss_Gludio-Ebenen_Silberbart der Invasionsführer,@50001,,
+50125,Feldboss_Windawood-Anwesen_Vapar der Gefallene Wächter,@50001,,
+50126,Feldboss_Einöde_Shelop-Wachmann,@50001,,
+50127,Feldboss_Dion-Ebenen_Flagon,@50001,,
+50128,Feldboss_Cruma-Sumpf_Sina der Sumpfherrscher,@50001,,
+50129,Feldboss_Gipfel des Missklangs_Rorka der Vergessene,@50001,,
+50130,Feldboss_Giran-Reich_Stenoa die Gorgon-Königin,@50001,,
+50131,Feldboss_Tödliche Nebelküste_Bestatter,@50001,,
+50132,Feldboss_Ruhelose Totenstadt_Marlox,@50001,,
+50133,Feldboss_Nordwindplateau_Herz des Plateaus,@50001,,
+50134,Feldboss_Erobertes Gebiet des Elfenbeinturms_Marsha (Alt) die Dame des Untergrunds,@50001,,
+50140,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 1,@2101,,
+50141,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 2,@2101,,
+50142,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 3,@2101,,
+50143,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 4,@2101,,
+50144,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 5,@2101,,
+50145,Ritter der Revolutionsarmee (Mensch - Speer) Kombo 6,@2101,,
+50146,Schütze der Revolutionsarmee (Mensch - Bogen) Kombo 1,@5101,,
+50147,Schütze der Revolutionsarmee (Mensch - Bogen) Kombo 2,@5101,,
+50148,Schütze der Revolutionsarmee (Mensch - Bogen) Kombo 3,@5101,,
+50149,Schütze der Revolutionsarmee (Mensch - Bogen) Kombo 4,@5101,,
+50150,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 1,Ein Basisangriff mit dem Schwert.,,
+50151,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 2,@50150,,
+50152,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 3,@50150,,
+50153,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 4,@50150,,
+50154,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 5,@50150,,
+50155,Ritter der Revolutionsarmee (Mensch - Schwert) Kombo 6,@50150,,
+50156,Lucien-Stab Kombo 1,@6101,,
+50157,Lucien-Stab Kombo 2,@6101,,
+50158,Lucien-Stab Kombo 3,@6101,,
+50159,Lucien-Stab Kombo 4,@6101,,
+50160,Elpin-Bogen Kombo 1,@5101,,
+50161,Elpin-Bogen Kombo 2,@5101,,
+50162,Elpin-Bogen Kombo 3,@5101,,
+50163,Elpin-Bogen Kombo 4,@5101,,
+50164,Loyalisten-Ritter (Mensch - Speer) Kombo 1,@2101,,
+50165,Loyalisten-Ritter (Mensch - Speer) Kombo 2,@2101,,
+50166,Loyalisten-Ritter (Mensch - Speer) Kombo 3,@2101,,
+50167,Loyalisten-Ritter (Mensch - Speer) Kombo 4,@2101,,
+50168,Loyalisten-Ritter (Mensch - Speer) Kombo 5,@2101,,
+50169,Loyalisten-Ritter (Mensch - Speer) Kombo 6,@2101,,
+50170,Loyalisten-Schütze (Mensch - Bogen) Kombo 1,@5101,,
+50171,Loyalisten-Schütze (Mensch - Bogen) Kombo 2,@5101,,
+50172,Loyalisten-Schütze (Mensch - Bogen) Kombo 3,@5101,,
+50173,Loyalisten-Schütze (Mensch - Bogen) Kombo 4,@5101,,
+50174,Loyalisten-Ritter (Mensch - Schwert) Kombo 1,@50150,,
+50175,Loyalisten-Ritter (Mensch - Schwert) Kombo 2,@50150,,
+50176,Loyalisten-Ritter (Mensch - Schwert) Kombo 3,@50150,,
+50177,Loyalisten-Ritter (Mensch - Schwert) Kombo 4,@50150,,
+50178,Loyalisten-Ritter (Mensch - Schwert) Kombo 5,@50150,,
+50179,Loyalisten-Ritter (Mensch - Schwert) Kombo 6,@50150,,
+50180,Marlow-Speer Kombo 1,@2101,,
+50181,Marlow-Speer Kombo 2,@2101,,
+50182,Marlow-Speer Kombo 3,@2101,,
+50183,Marlow-Speer Kombo 4,@2101,,
+50184,Marlow-Speer Kombo 5,@2101,,
+50185,Marlow-Speer Kombo 6,@2101,,
+50186,Angriff auf Kontrollturm,,,
+50187,Adena-Dungeon-Boss - Normaler Angriff,"Ein goldener Drache mit Nahkampfangriffen, der den Adena-Dungeon beschützt.
+Benutzt seine riesigen Flügel, um mächtige Windstöße zu erzeugen.",,
+50188,Adena-Dungeon-Beschwörung-Monster - Normaler Angriff,Basisangriff von beschworenen Monstern des Adena-Dungeons.,,
+50189,Varkaron,Basisangriff von Klan-Dungeon-Boss Varcarlo.,,
+501891,Varkarons Schöpfung,Basisangriff von Varkarons (Klan-Dungeon-Boss) Schöpfung.,,
+50190,@50187,@50187,,
+50191,Krakia,,,
+50192,Nymphe Rose,,,
+50193,Nymphenkönigin Lara,,,
+50194,Kobold,"Flattert mit den Flügeln, hüpft und schlägt mit dem Schlüssel zu.",,
+50195,Goldmimik,Öffnet den Deckel und schlägt mit seiner Zunge zu.,,
+50196,Fee,,,
+50197,Pan,,,
+50198,Tanta-Echsenmensch-Berserker,,,
+50199,Tanta-Echsenmensch-Beschwörer,,,
+50200,Ketra-Ork,,,
+50201,Ketra-Ork-Kriegshäuptling,,,
+50202,Barka Silenos' Offizier,,,
+50203,Marsha,,,
+50204,DragonPython,,,
+50205,DragonBerserker,,,
+50206,Karinness,,,
+50207,DunklerBund_M_Hoch,,,
+50208,Grendel_Boss,,,
+50209,Leere-Hund,@50001,,
+50210,ArmoredGrandis,,,
+50211,EmbryonKnights,,,
+50212,Grendel,,,
+50213,Atrox,,,
+50214,Embryon,,,
+58001,Rüstungshändler_01,,,
+58002,Aimel,,,
+58003,Hardin,,,
+58004,HardinsFallower,,,
+58005,Fernel,,,
+58006,KatzeDieKatze_01,,,
+58011,Bewohner_02_Schwert,,,
+58012,Bewohner_02_Stab,,,
+58021,Bewohner_03,,,
+58022,Bewohner_03_Bogen,,,
+58023,Bewohner_03_Schwert,,,
+58024,Bewohner_03_Doppelschwert,,,
+58031,Bewohner_04_Schwert,,,
+58032,Bewohner_04_Bogen,,,
+58033,Bewohner_04_Schwert_2,,,
+58034,Bewohner_04_Schwert_3,,,
+58041,Bewohner_05_Dolch,,,
+58051,Adliger_02_Stab,,,
+58061,Adliger_03_Schwert,,,
+58071,Schüler_Dolch,,,
+58072,Schüler_Stab,,,
+58081,Teleporter_01_Stab,,,
+58091,Schmelzhändler_01_Schwert,,,
+58101,Magier_Stab,,,
+58111,Gegenstandshändler_01_Speer,,,
+58121,Offizier_Schwert,,,
+58131,Warenhaushüter_01_Schwert,,,
+58141,Tempelpriester_01,,,
+58151,Offizier_02_Speer,,,
+58152,Offizier_02_Speer_Fertigkeit1,,,
+58153,Offizier_02_Speer_Fertigkeit2,,,
+58161,Stadtwache_01_01_Speer,,,
+58162,Stadtwache_01_02_Speer,,,
+58163,Stadtwache_01_03_Speer,,,
+58164,Tsun,,,
+58165,BP_Wooldie,Normaler Angriff,,
+58166,BP_Scooldie,@58165,,
+60001,@50001,Mächtiger Schaden.,,
+60002,@50002,@60001,,
+60003,@50003,@60001,,
+60004,@50004,"Fügt einen schwachen, aber stapelbaren DoT zu.",,
+60005,@50005,Betäubt.,,
+60006,@50006,@60004,,
+60007,@50007,@60005,,
+60008,@50008,@60001,,
+60009,@50010,@60001,,
+60010,@50012,@60001,,
+60011,@50013,@60001,,
+60012,@50015,@60004,,
+60013,@50016,Fügt Schaden zu und stellt eigene LP wieder her.,,
+60014,@50017,@60013,,
+60015,@50018,@60005,,
+60016,@50019,Fügt DoT zu.,,
+60017,@50020,@60001,,
+60018,@50021,@60005,,
+60019,@50022,@60005,,
+60020,@50023,@60001,,
+60021,@50024,@60001,,
+60022,@50025,@60004,,
+60023,@50026,@60001,,
+60024,@50028,@60001,,
+60025,@50029,Verringert ANG und VER des Ziels.,,
+60026,@50030,@60001,,
+60027,@11243,@60025,,
+60028,@50032,@60025,,
+60029,@50033,@60005,,
+60030,@50034,@60001,,
+60031,@50035,@60004,,
+60032,@50036,@60001,,
+60033,@50037,@60001,,
+60034,@50038,@60001,,
+60035,@50040,@60016,,
+60036,@50042,@60001,,
+60037,@50043,@60001,,
+60038,@50044,@60005,,
+60039,@50046,@60016,,
+60040,@50047,@60004,,
+60041,@50048,@60005,,
+60042,@50049,@60016,,
+60043,@50050,@60025,,
+60044,@50051,@60016,,
+60045,@50053,@60004,,
+60046,@50054,@60004,,
+60047,@50055,@60005,,
+60048,@50056,@60013,,
+60049,@50057,@60005,,
+60050,@50058,@60016,,
+60051,@50060,@60001,,
+60052,@50061,@60004,,
+60053,@50062,@60025,,
+60054,@50063,@60001,,
+60055,@50065,@60001,,
+60056,@50066,"Schwacher, fortwährender Schaden.",,
+60057,@50067,@60001,,
+60058,@50068,@60001,,
+60059,@50069,@60001,,
+60060,@50070,@60001,,
+60061,@50071,@60001,,
+60062,@50072,@60013,,
+60063,@50074,@60001,,
+60064,@50075,@60004,,
+60065,@50076,@60016,,
+60066,@50077,@60013,,
+60067,@50078,@60001,,
+60068,@50079,@60005,,
+60069,@50080,@60001,,
+60070,@50081,@60016,,
+60071,@50082,@60004,,
+60072,@50083,@60001,,
+60073,@50085,@60004,,
+60074,@50087,@60001,,
+60075,@50089,@60001,,
+60076,@50090,@60025,,
+60077,@50091,@60025,,
+60078,@50092,@60001,,
+60079,@50093,@60001,,
+60080,@50097,@60001,,
+60081,@50098,@60013,,
+60082,@50099,@60001,,
+60083,@50101,@60001,,
+60084,@50102,@60001,,
+60085,@50106,@60001,,
+60086,@50107,@60001,,
+60087,@50108,@60001,,
+60088,@50110,@60001,,
+60089,@50112,@60001,,
+60090,@50114,@50041,,
+60091,@50115,@60001,,
+60092,@50117,@60001,,
+60093,@50119,@50041,,
+60094,@50120,@60001,,
+160018,@50021,@60005,,
+160032,@50036,@60001,,
+160033,@50037,@60001,,
+160056,@50066,@60056,,
+60095,@11222,"<SkillTitle>[Nur Speer und Doppelschwerter]</>
+Schlägt kraftvoll auf den Boden, fügt nahen Gegnern Schaden zu und verlangsamt sie.","Schaden: 100 % des ANG + {1}
+Verringert Geschwindigkeit und ANG-GES von Zielen 3 Sek. lang um {2-1%} %.",
+50135,Boreas der Sprechenden Insel - Normaler Angriff,Boreas' Basisangriff.,,
+60096,Gorsaur der Sprechenden Insel - Fertigkeit 1,,,
+60097,Gorsaur der Sprechenden Insel - Fertigkeit 2,,,
+50136,Orbis der Sprechenden Insel - Normaler Angriff,Orbis' Basisangriff.,,
+60098,Carpheous der Sprechenden Insel - Fertigkeit 1,,,
+60099,Carpheous der Sprechenden Insel - Fertigkeit 2,,,
+50137,Apostel der Sprechenden Insel - Normaler Angriff,Basisangriff des Apostels.,,
+60100,Orobas der Sprechenden Insel - Fertigkeit 1,,,
+50138,Archon Bau der Sprechenden Insel - Normaler Angriff,Archon Baus Basisangriff.,,
+60101,Archon Votis der Sprechenden Insel - Fertigkeit 1,,,
+60102,Archon Votis der Sprechenden Insel - Fertigkeit 2,,,
+60103,Fertigkeits-Attrappe,,,
+50139,Makkum der Sprechenden Insel - Normaler Angriff,Makkums Basisangriff.,,
+60104,Dexter der Sprechenden Insel 1,,,
+60105,Dexter der Sprechenden Insel 2,,,
+60106,Lucien - Große Heilung,"<SkillTitle>[Nur Stab]</>
+Heilt dich und umstehende Gruppenmitglieder mit heiligen Mächten, die LP wiederherstellen.",,
+60107,Lucien - Flammenschlag,"<SkillTitle>[Nur Stab]</>
+Schleudert einen Flammenball, der Gegnern massiven Explosionsschaden zufügt.",,
+60108,Elpin - Schall-Stern,"<SkillTitle>[Nur Dolch]</>
+Bewegt sich schnell im Muster eines Sternenumrisses und greift dabei Gegner an. Dann wird nahen Gegner erneut Schaden zugefügt. Verringert während des Bewegens erlittenen Schaden.",,
+60109,Elpin - Machtschuss,"<SkillTitle>[Nur Bogen]</>
+Feuert einen Pfeil ab, der Schaden zufügt und den Gegner sowie ihn umgebende Ziele kurzzeitig betäubt.",,
+60110,Marlow - Wirbelsturm,Exklusive Fertigkeit von Burgbelagerungs-Tutorial-Boss Marlow.,,
+60111,Marlow - Dunkelatem,@60110,,
+60112,Marlow - Erscheinungsblitzfeld,@60110,,
+60113,Orkanschlag,"Fügt Schaden zu und wirft Gegner voraus zu Boden.
+Schlägt mit den Flügeln und greift voraus an.",,
+60114,Grippiger Riss,"Schlägt auf den Boden, um eine Schockwelle um den Drachen auszusenden.",,
+60115,Goldener Feueratem,Speit zum Angriff Feuer voraus.,,
+60116,Marlow - Blitzfeld,@60110,,
+60117,Akt-8-Boss der Östlichen Sprechenden Insel - Höhlenhüter,@60001,,
+60118,Marlow - Ultimative Verteidigung,Erhöht VER stark.,,
+60121,@50078,Nahkampf-Monster (für Feld-Schatztruhen),,
+60122,@50078,Mächtiger Schaden (für Feld-Schatztruhen),,
+60123,@50192,,,
+60124,@50193,,,
+60125,@50193,,,
+60126,@50196,,,
+60127,@50197,,,
+60128,@50197,,,
+60129,@50198,,,
+60130,@50199,,,
+60131,@50200,,,
+60132,@50201,,,
+60135,@50201,,,
+60133,@50202,,,
+60134,@50202,,,
+60136,Knochenjäger (+ Betäuben/Für Aufwertungsrollen-Dungeon),Knochenjäger (+ Betäuben/Für Aufwertungsrollen-Dungeon),,
+60137,Steingolem (+ Betäuben/Für Aufwertungsrollen-Dungeon),Steingolem (+ Betäuben/Für Aufwertungsrollen-Dungeon),,
+60138,DrachenpythonBossFertigkeit_01,,,
+60139,DrachenpythonFertigkeit_01,,,
+60140,DrachenberserkerBossFertigkeit_01,,,
+60141,DrachenberserkerFertigkeit_01,,,
+60142,KarinnessFertigkeit_01,,,
+60143,KarinnessBossFertigkeit_01,,,
+60144,DunklerBund_M_HochFertigkeit_01,,,
+60145,DunklerBund_M_HochFertigkeit_02,,,
+60146,GrendelFertigkeit_01(Boss),,,
+60147,GrendelFertigkeit_02(Boss),,,
+60148,@50030,@50001,,
+60149,@50077,@50001,,
+60150,@50077,@60013,,
+60151,@50070,@50001,,
+60152,@50070,@60001,,
+60153,@50210,@60001,,
+60154,@50211,@60001,,
+60155,@50211,@60001,,
+60156,GrendelFertigkeit_01,@60001,,
+60157,AtroxFertigkeit_01,@60001,,
+60158,Embryon_Fertigkeit_Schwert_01,@60001,,
+60159,Embryon_Fertigkeit_Schwert_02,@60001,,
+60160,Leere-HundFertigkeit_01,@60001,,
+60161,Leere-HundFertigkeit_01(ERF-Dungeon - Hölle),Fügt Schaden zu und wirft zu Boden.,,
+60162,Goldener Feueratem (Hölle),@60115,,
+60163,ValidusFertigkeit_02(Tempelwächter - Hölle),Selbstzerstörung + Flächenschaden + Schaden,,
+60164,Ketra-Ork-Schütze(Beschwörungskreis - Sehr schwer),,,
+71011,Tagesdungeon - Makkum (Einfach),,,
+71012,@71011,"Schwingt zum Angriff die Fäuste in weitem Bogen.
+> Fügt Gegnern voraus Schaden zu.
++ fügt einen Betäubungseffekt zu.",,
+71013,@71011,"Stampft auf den Boden, um mit den Schockwellen anzugreifen.
+> Fügt nahen Gegnern mächtigen Schaden zu.",,
+71021,Tagesdungeon - Trikan (Einfach),,,
+71022,@71021,"Springt in die Luft und kracht dann für einen mächtigen Angriff auf den Boden.
+> Fügt nahen Gegnern sehr mächtigen Schaden zu.",,
+71023,@71021,"Erzeugt mit einem Schrei einen Schallwellenangriff.
+> Fügt nahen Gegnern schwachen SCH zu.
++ Verlangsamen",,
+71031,Tagesdungeon - Apostel (Einfach),,,
+71032,@71031,"Schwingt die Sense für einen Angriff mit mehreren Treffern vorwärts.
+> Fügt Gegnern voraus mächtigen Schaden zu.",,
+71033,@71031,"Beschwört dämonische Schergen in der Nähe.
+> Beschworene Monster unterscheiden sich je nach Schwierigkeitsgrad des Dungeons.
+> Schergen werden von der KI kontrolliert.",,
+71041,Tagesdungeon - Archon Bau (Einfach),,,
+71042,@71041,"Greift mit unterirdischen Waffen an.
+> Fügt Gegnern voraus mittelgroßen Schaden zu.
+> Ausgelegt, um schwer auszuweichen zu sein.",,
+71043,@71041,"Verwandelt die Waffe in eine Klinge und schwingt sie.
+> Fügt Gegnern voraus mächtigen Schaden zu.",,
+71051,Tagesdungeon - Blutkönig (Einfach),,,
+71052,@71051,"Der Kopf der Statue führt fortwährend Bissangriffe aus.
+> Fügt Gegnern voraus mächtigen Schaden zu.
++ Blutungs-DoT",,
+71053,@71051,"Beschwört untote Schergen in der Nähe.
+> Beschworene Monster unterscheiden sich je nach Schwierigkeitsgrad des Dungeons.
+> Schergen werden von der KI kontrolliert.",,
+71061,Tagesdungeon - Orbis (Einfach),,,
+71062,@71061,"Schwingt zum Angriff die vorderen Klauen in weitem Bogen.
+> Fügt nahen Gegnern schwachen Schaden zu.
++ Stapelbarer Blutungs-DoT",,
+71063,@71061,"Stürmt nach vorne und greift mit den Zähnen an.
+> Fügt Gegnern voraus mächtigen Schaden zu.
+> Wiederholt den Angriff 1-4 Mal in Richtung des Benutzers, je nach Schwierigkeitsgrad.",,
+71071,Tagesdungeon - Boreas (Einfach),,,
+71072,@71071,"Speit zum Angriff Feuer voraus.
+> Fügt Gegnern voraus mächtigen Schaden zu.
+> Speit 5 Sekunden lang fortwährend Feuer.",,
+71073,@71071,"Spuckt Flammenkugeln auf den Boden, die der Reihe nach explodieren.
+> Fügt Gegnern voraus mächtigen Schaden zu.
+> Die Flammen explodieren 3 Mal nacheinander.",,
+71111,Tagesdungeon - Makkum (Normal),,,
+71112,@71111,,,
+71113,@71111,,,
+71121,Tagesdungeon - Trikan (Normal),,,
+71122,@71121,,,
+71123,@71121,,,
+71131,Tagesdungeon - Apostel (Normal),,,
+71132,@71131,,,
+71133,@71131,,,
+71141,Tagesdungeon - Archon Bau (Normal),,,
+71142,@71141,,,
+71143,@71141,,,
+71151,Tagesdungeon - Blutkönig (Normal),,,
+71152,@71151,,,
+71153,@71151,,,
+71161,Tagesdungeon - Orbis (Normal),,,
+71162,@71161,,,
+71163,@71161,,,
+71171,Tagesdungeon - Boreas (Normal),,,
+71172,@71171,,,
+71173,@71171,,,
+71211,Tagesdungeon - Makkum (Schwer),,,
+71212,@71211,,,
+71213,@71211,,,
+71221,Tagesdungeon - Trikan (Schwer),,,
+71222,@71221,,,
+71223,@71221,,,
+71231,Tagesdungeon - Apostel (Schwer),,,
+71232,@71231,,,
+71233,@71231,,,
+71241,Tagesdungeon - Archon Bau (Schwer),,,
+71242,@71241,,,
+71243,@71241,,,
+71251,Tagesdungeon - Blutkönig (Schwer),,,
+71252,@71251,,,
+71253,@71251,,,
+71261,Tagesdungeon - Orbis (Schwer),,,
+71262,@71261,,,
+71263,@71261,,,
+71271,Tagesdungeon - Boreas (Schwer),,,
+71272,@71271,,,
+71273,@71271,,,
+71311,Tagesdungeon - Makkum (Sehr schwer),,,
+71312,@71311,,,
+71313,@71311,,,
+71321,Tagesdungeon - Trikan (Sehr schwer),,,
+71322,@71321,,,
+71323,@71321,,,
+71331,Tagesdungeon - Apostel (Sehr schwer),,,
+71332,@71331,,,
+71333,@71331,,,
+71341,Tagesdungeon - Archon Bau (Sehr schwer),,,
+71342,@71341,,,
+71343,@71341,,,
+71351,Tagesdungeon - Blutkönig (Sehr schwer),,,
+71352,@71351,,,
+71353,@71351,,,
+71361,Tagesdungeon - Orbis (Sehr schwer),,,
+71362,@71361,,,
+71363,@71361,,,
+71371,Tagesdungeon - Boreas (Sehr schwer),,,
+71372,@71371,,,
+71373,@71371,,,
+71411,Tagesdungeon - Makkum (Hölle),,,
+71412,@71411,,,
+71413,@71411,,,
+71421,Tagesdungeon - Trikan (Hölle),,,
+71422,@71421,,,
+71423,@71421,,,
+71431,Tagesdungeon - Apostel (Hölle),,,
+71432,@71431,,,
+71433,@71431,,,
+71441,Tagesdungeon - Archon Bau (Hölle),,,
+71442,@71441,,,
+71443,@71441,,,
+71451,Tagesdungeon - Blutkönig (Hölle),,,
+71452,@71451,,,
+71453,@71451,,,
+71461,Tagesdungeon - Orbis (Hölle),,,
+71462,@71461,,,
+71463,@71461,,,
+71471,Tagesdungeon - Boreas (Hölle),,,
+71472,@71471,,,
+71473,@71471,,,
+72011,Klan-Raid - Kaim Vanul,"Lässt 3 Sekunden lang einen Angriffshagel nach vorne los, der Gegnern im Bereich Schaden zufügt.",,
+50059,Ameisenkönigin,@50001,,
+500591,@50059,@50001,,
+72021,Sprung,Fernkampfschaden voraus,,Ameisenkönigin setzt Sprung ein.
+72022,Giftspucke,Fernkampfschaden voraus + Schaden über Zeit,,Ameisenkönigin setzt Giftspucke ein.
+72023,Pheromon freigeben,Circular AoE Dmg. + Def. Decrease + Speed Decrease,,Ameisenkönigin setzt ihre Pheromone frei.
+72024,Graben,Verstecken + Unbesiegbarkeit,,Ameisenkönigin verschwindet unter der Erde.
+72025,Wüten (Ameisenkönigin),Selbst-Buff,,Ameisenkönigin wütet.
+72026,Ameisen-Selbstzerstörung - Anzahl: 10,@60163,,
+72027,Ameisen-Selbstzerstörung - Anzahl: 20,@60163,,
+720271,Ameisen-Selbstzerstörung - Anzahl: 40,@60163,,
+72028,Verlangsamter Ameisensoldat - Normaler Angriff,Basisangriff + Verlangsamung,,
+72029,Noble Ameise - Flächenheilung,Heilung,,
+72030,P-ANG-Immunität (15 Sek.),P-ANG ,,
+72121,VER-Erhöhung (20 Sek.),VER-Erhöhung,,
+72122,Ameisenkönigin - Basisangriffsaufwertung,,,
+72123,Graben - Ende,,,Ameisenkönigin ist wiedererschienen.
+721241,Ameisen-Buff 0,,,
+72124,Ameisen-Buff 1,,,
+72125,Ameisen-Buff 2,,,
+72126,Ameisen-Buff 3,,,
+72127,Ameisen-Buff 4,,,
+72128,Ameisen-Buff 5,,,
+72129,Ameisen-Buff 6,,,
+172021,Sprung - Sehr schwer,SCH von vorn + Betäubung,,@72021
+172022,Giftspucke - Sprungverbindung,@72022,,@72022
+172023,Pheromon freigeben - Nahkampf,@72023,,@72023
+172024,Pheromon freigeben - Fernkampf,@72023,,@72023
+172025,Giftspucke - Frontal,@72022,,@72022
+172026,Giftspucke - Links,SCH nach links + SCH über Zeit,,@72022
+172027,Giftspucke - Rechts,SCH nach rechts + SCH über Zeit,,@72022
+172028,Giftsalve,Stapelnder Gift-SCH in runder Fläche.,,Ameisenkönigin benutzt Giftsalve.
+172029,Giftpfütze,"Gift in kleiner, runder Fläche.",,@72022
+1720310,Segen des Großen Ameisenpflegers_1,Unbesiegbar,,Barriere der Ameisenkönigin 1
+1720311,Segen des Großen Ameisenpflegers_2,@1720310,,Barriere der Ameisenkönigin 2
+1720312,Segen des Großen Ameisenpflegers_3,@1720310,,Barriere der Ameisenkönigin 3
+1720313,Segen des Großen Ameisenpflegers entfernen_1,Zauber aufheben,,Barriere entfernen 1
+1720314,Segen des Großen Ameisenpflegers entfernen_2,@1720313,,Barriere entfernen 2
+1720315,Segen des Großen Ameisenpflegers entfernen_3,@1720313,,Barriere entfernen 3
+1720316,Selbstbetäubung,Betäubt,,Selbstbetäubung
+1720317,Graben (kurze Betäubung),@72024,,@72024
+1720318,Tödliches Gift,AoE-Fläche,,Tödliches Gift freisetzen
+1720319,Pheromon freigeben - Nahkampf (Untergrund),@72023,,@72023
+1720320,Pheromon freigeben - Fernkampf (Untergrund),@72023,,@72023
+72130,Graben - Erst betäuben,Flächen-Betäubung,,
+72131,Ameisen-Selbstzerstörung - Anzahl: 5,@60163,,
+72132,Bindung,Flächenbindung,,Ameisenkönigin benutzt Binden.
+72133,Ameisenpfleger-Heilung,@72029,,
+72134,Ameisenpfleger-Heilung (Täuschung),@72029,,
+1720001,Ameisenkönigin (Basisangriff),@50001,,
+1720002,@72022,Frontal-SCH + Gift,,@72022
+1720003,@72021,Frontal-SCH + Niederschlagen + Giftpfütze + Gift,,@72021
+1720004,Ameisenzorn,Kreisförmiger Schaden = Gift,,Die Ameisenkönigin benutzt Zorn.
+1720005,@172023,Kreisförmiger Flächenschaden + Gift + Binden,,Die Ameisenkönigin versprüht in der Umgebung ihre Pheromone.
+1720006,@172024,Ringförmiger Flächenschaden + Gift + Binden,,Die Ameisenkönigin versprüht ihre Pheromone auf große Distanz.
+1720007,@1720318,Kreisförmige Etage,,
+1720008,Sprung II,@1720003,,
+1720009,Wüten,@72025,,Die Ameisenkönigin wütet.
+72031,Blutklinge,"Schwingt das Schwert, um Schaden zuzufügen.",,Varkaron setzt Blutklinge ein.
+720311,Blutklinge - Sehr schwer,@72031,,@72031
+72032,Blutschutz,Wirkt einen Schild auf sich selbst.,,Varkaron setzt Blutschild ein.
+72033,Blutecho,"Springt in die Luft und schlägt mit dem Schwert nach unten, um Schaden zuzufügen.",,Varkaron setzt Blutecho ein.
+72034,Blutangriff,Stürmt mit dem Schwert voraus nach vorne.,,
+72035,Blutberserker,Wüten,,
+720353,Blutberserker - Sehr schwer,@72035,,
+72036,Blutklinge (Aufgewertet),"Schwingt das Schwert, um Schaden zuzufügen und LP zu entziehen.",,@72031
+720361,Blutklinge (Aufgewertet) - Sehr schwer,@72036,,@72031
+72037,Blutecho (Aufgewertet),"Springt in die Luft und schlägt mit dem Schwert nach unten, um Schaden zuzufügen und zu betäuben.",,@72033
+720371,Blutecho (Aufgewertet) - Sehr schwer,@72037,,@72033
+72038,Blutwirbel,Greife Gegner beim Wirbeln an,,Varkaron setzt Blutwirbel ein.
+72039,Klonbeschwörung,Für Rotation der Abklingzeit.,,
+72040,Etage (Phase 1),Etagen-Fertigkeit,,Varkaron setzt Pfütze der Zerstörung ein.
+720401,Etage (Phase 2),@72040,,@72040
+720402,Etage (Phase 3),@72040,,@72040
+172031,@72031,@72031,,@72031
+172032,@72032,@72032,,@72032
+172033,@72033,@72033,,@72033
+172034,@72034,@72034,,
+172035,Buff,Buff-Fertigkeit,,Varkarons Schöpfung hat Varkaron aufgewertet.
+172036,Entfernt Buff,@172035,,
+172038,@72038,@72038,,@72038
+720411,Todes-Lazor (Einfach),Feuert einen Laserstrahl + explodiert bei Kontakt.,,
+720412,Todes-Lazor (Normal),@720411,,
+720413,Todes-Lazor (Schwer),@720411,,
+720414,Todes-Lazor (Event),@720411,,
+72042,Aufsteigender Funken,Flächenschaden mit großer Reichweite voraus,,Cruma-Kern setzt Aufsteigenden Funken ein.
+720431,Zeitschleife (Einfach),Stellt die LP des Kerns selbst wieder her.,,Cruma-Kern setzt Zeitschleife ein.
+720432,Zeitschleife (Normal),@720431,,@720431
+720433,Zeitschleife (Schwer),@720431,,@720431
+72044,Schwerkraftgift,Kugelexplosion + Schaden über Zeit,,Cruma-Kern setzt Schwerkraftgift ein.
+72045,Kerntoben,SCH):  ,,Cruma-Kern beginnt zu toben.
+72046,Gedankenstörer,Gedankenkontrolle in einem kleinen umgebenden Bereich.,,Cruma-Kern setzt Gedankenstörer ein.
+72047,Bohrhieb,SCH in der Nähe + Betäubung,,
+72048,Brüllen des Torwächters,SCH in der Nähe + Stille,,
+72051,Einfache Beschwörung 1,@72039,,Cruma-Kern beschwört Wächter.
+72052,@72046,@72046,,@72046
+72053,@72046,@72046,,@72046
+72054,Einfache Beschwörung 2,@72039,,@72051
+72055,Normale Beschwörung 1,@72039,,@72051
+72056,Normale Beschwörung 2,@72039,,@72051
+72057,Normale Beschwörung 3,@72039,,@72051
+72058,Schwierige Beschwörung 1,@72039,,@72051
+72059,Schwierige Beschwörung 2,@72039,,@72051
+72060,Schwierige Beschwörung 3,@72039,,@72051
+72061,Event-Beschwörung 1,@72039,,Bewachereinheit Alpha beschwört den Wächter.
+72062,Event-Beschwörung 2,@72039,,@72061
+73011,Nymphen-Schlitzer,"Fügt nahen Gegnern ""VER-ignorierenden Schaden"" zu.",,
+73012,Albtraum,Erschafft einen verfluchten Bereich um ein zufälliges Ziel.,,
+73013,Zorn,ANG + ANG-GES Erhöhung,,
+73041,Feld-Raid - Orfen 1,Verringert eigene VER,,
+73042,Feld-Raid - Orfen 2,"Löst 4 giftige Explosionen an zufälligen Orten in der Nähe aus.
+Gegner in der Nähe erleiden Schaden und DoT.",,
+73043,Feld Raid - Orfen 3,ANG- und ANG-GES-Erhöhung (Stapelbar),,
+74011,Feldboss_Westliche Sprechende Insel_Gefallener Geisterhirte_Fertigkeit 01,Alle Gegner im Gebiet erleiden Fest-SCH und werden niedergeschlagen.,,
+74012,Feldboss_Westliche Sprechende Insel_Gefallener Geisterhirte_Fertigkeit 02,Wählt zufällig einen Gegner in der Nähe und fügt ihm mächtigen Schaden zu.,,
+74021,Feldboss_Gludin-Straße_Zodiac der Mörder_Fertigkeit 01,Fügt einem Charakter vor dem Boss mächtigen Schaden und eine Statusveränderung zu (Blutung).,,
+74022,Feldboss_Gludin-Straße_Zodiac der Mörder_Fertigkeit 02,Stellt mit n% pro Sek. LP wieder her.,,
+74031,Feldboss_Gludio-Ebenen_Silberbart der Invasionsführer_Fertigkeit 01,Fügt Flächenschaden zu.,,
+74032,Feldboss_Gludio-Ebenen_Silberbart der Invasionsführer_Fertigkeit 02,Fügt einem Gegner Schaden über Zeit in Höhe eines Prozentsatzes seiner LP zu.,,
+74041,Feldboss_Windawood-Anwesen_Vapar der Gefallene Wächter_Fertigkeit 01,Fügt nahen Gegnern Flächenschaden zu.,,
+74042,Feldboss_Windawood-Anwesen_Vapar der Gefallene Wächter_Fertigkeit 02,"Fügt zufälligen Gegnern im Gebiet den Status ""Brennen"" zu.",,
+74051,Feldboss_Einöde_Shelop-Wachmann_Fertigkeit 01,Giftteppich,,
+74052,Feldboss_Einöde_Shelop-Wachmann_Fertigkeit 02,Schaden,,
+74061,Feldboss_Dion-Ebenen_Flagon_Fertigkeit 01,Schleudert Blitzkugeln auf 3 zufällige Ziele.,,
+74062,Feldboss_Dion-Ebenen_Flagon_Fertigkeit 02,Trifft 5 zufällige Ziele mit Blitzen.,,
+74071,Feldboss_Cruma-Sumpf_Sina der Sumpfherrscher_Fertigkeit 01,Legt unter 3 zufälligen Zielen einen Giftteppich aus.,,
+74072,Feldboss_Cruma-Sumpf_Sina der Sumpfherrscher_Fertigkeit 02,Greift nahe Gegner an und verlangsamt sie.,,
+74081,Feldboss_Gipfel des Missklangs_Rorka der Vergessene_Fertigkeit 01,Greift Gegner voraus an und schlägt sie nieder.,,
+74082,Feldboss_Gipfel des Missklangs_Rorka der Vergessene_Fertigkeit 02_01,Erhöhung eigener Werte,,
+74083,Feldboss_Gipfel des Missklangs_Rorka der Vergessene_Fertigkeit 02_02,@74082,,
+74084,Feldboss_Gipfel des Missklangs_Rorka der Vergessene_Fertigkeit 02_03,@74082,,
+74085,Feldboss_Gipfel des Missklangs_Rorka der Vergessene_Fertigkeit 02_Unbegrenzt,Erhöhung eigener Werte_bis zum Tod,,
+74091,Feldboss_Giran-Reich_Stenoa die Gorgon-Königin_Fertigkeit 01,Versteinert ein zufälliges Ziel.,,Stenoa setzt Versteinernden Blick ein.
+74092,Feldboss_Giran-Reich_Stenoa die Gorgon-Königin_Fertigkeit 02,Flächenschaden.,,Stenoa setzt Königinnenschlag ein.
+74093,Feldboss_Giran-Reich_Stenoa die Gorgon-Königin_Fertigkeit 03,P-VER-Buff,,Stenoa setzt Schuppenaufwertung ein und erhöht P-VER
+74094,Feldboss_Giran-Reich_Stenoa die Gorgon-Königin_Fertigkeit 04,M-VER-Buff,,Stenoa setzt Schuppenaufwertung ein und erhöht M-VER
+74101,Feldboss_Tödliche Nebelküste_Bestatter_Fertigkeit 01,"Schleudert Schwertenergie nach vorne, um Schaden zuzufügen.",,
+74102,Feldboss_Tödliche Nebelküste_Bestatter_Fertigkeit 02,Stürmt nach vorne und greift an.,,
+74111,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 01,Greift 2 zufällige Ziele an.,,
+74112,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 02,@74092,,
+74113,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 01_Steinschlag,Steinschlag,,
+74114,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 02_Teufelstritt,Teufelstritt,,
+74115,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 03_Todesflamme,Todesflamme,,
+74116,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 04_Dämonengebrüll,Dämonengebrüll,,Marlox benutzt Dämonengebrüll.
+74117,Feldboss_Ruhelose Totenstadt_Marlox_Fertigkeit 04_01_Erschöpfung,Erschöpfung,,
+74118,Feldboss_Ruhelose Totenstadt_Marlox_Normaler Angriff,Normaler Angriff,,
+74119,Feldboss_Ruhelose Totenstadt_Marlox_Dämonentotem-Buff (Stapelbar),Stapelbarer Buff,,
+74120,Feldboss_Ruhelose Totenstadt_Marlox_Dämonentotem (Feuerball),Feuerball,,
+741161,@74120,@74117,,
+74121,Feldboss_Nordwindplateau_Herz des Plateaus_Fertigkeit 01,@74092,,
+74122,Feldboss_Nordwindplateau_Herz des Plateaus_Fertigkeit 02,@74092,,
+74131,Feldboss_Erobertes Gebiet des Elfenbeinturms_Marsha (Alt) die Dame des Untergrunds_Fertigkeit 01,@74092,,
+74132,Feldboss_Erobertes Gebiet des Elfenbeinturms_Marsha (Alt) die Dame des Untergrunds_Fertigkeit 02,@74092,,
+74133,Feldboss_Erobertes Gebiet des Elfenbeinturms_Marsha (Alt) die Dame des Untergrunds_Fertigkeit 03,Legt unter dem Zauberwirker einen Giftteppich aus.,,
+74134,Marsha: Tornado der Versuchung,,,Marsha setzt Tornado der Versuchung ein.
+74135,Marsha: Klingenwind,,,Marsha setzt Klingenwind ein.
+74136,@74135,,,
+74137,Marsha: Beschwören,@72039,,Marsha beschwört Schergen.
+75016,@50016,@50001,,
+75017,@50017,@50001,,
+75018,@50018,@50001,,
+75019,@50209,@50001,,
+75029,@50029,@50001,,
+75038,@50038,@50001,,
+75044,@50044,@50001,,
+75045,@50045,Ein normales Fernkampf-Monster mit Bogen.,,
+75060,@50060,@50001,,
+75061,@50061,@50001,,
+75066,@50066,@50001,,
+75098,@50098,@75045,,
+76001,@50001,@50001,,
+76002,@50002,@50001,,
+76003,@50003,@50001,,
+76004,@50004,@50001,,
+76005,@50005,@50001,,
+76006,@50006,@50001,,
+76007,@50007,@50001,,
+76008,@50008,@50001,,
+76009,@50009,Eiselementar-Fernangriff. Feuert ein Eisgeschoss. Verlangsamt Gegner.,,
+76010,@50010,@50001,,
+76011,@50011,@50011,,
+76012,@50012,@50001,,
+76013,@50013,@50001,,
+76014,@50014,@50014,,
+76015,@50015,@50001,,
+76016,@50016,@50001,,
+76017,@50017,@50001,,
+76018,@50018,@50001,,
+76019,@50019,@50001,,
+76020,@50020,@50001,,
+76021,@50021,@50001,,
+76022,@50022,@50001,,
+76023,@50023,@50001,,
+76024,@50024,@50001,,
+76025,@50025,@50001,,
+76026,@50026,@50001,,
+76027,@50027,@50009,,
+76028,@50028,@50001,,
+76029,@50029,@50001,,
+76030,@50030,@50001,,
+76031,@11243,@50001,,
+76032,@50032,@50001,,
+76033,@50033,@50001,,
+76034,@50034,@50001,,
+76035,@50035,@50001,,
+76036,@50036,@50001,,
+76037,@50037,@50001,,
+76038,@50038,@50001,,
+76039,@50039,@50001,,
+76040,@50040,@50001,,
+76041,@50041,@50041,,
+76042,@50042,@50001,,
+76043,@50043,@50001,,
+76044,@50044,@50001,,
+76045,@50045,@50041,,
+76046,@50046,@50001,,
+76047,@50047,@50001,,
+76048,@50048,@50001,,
+76049,@50049,@50001,,
+76050,@50050,@50001,,
+76051,@50051,@50001,,
+76052,@50052,@50001,,
+76053,@50053,@50001,,
+76054,@50054,@50001,,
+76055,@50055,@50001,,
+76056,@50056,@50001,,
+76057,@50057,@50001,,
+76058,@50058,@50001,,
+76059,@50059,@50001,,
+76060,@50060,@50001,,
+76061,@50061,@50001,,
+76062,@50062,@50001,,
+76063,@50063,@50001,,
+76064,@50064,@50009,,
+76065,@50065,@50001,,
+76066,@50066,@50001,,
+76067,@50067,@50001,,
+76068,@50068,@50001,,
+76069,@50069,@50001,,
+76070,@50070,@50001,,
+76071,@50071,@50001,,
+76072,@50072,@50001,,
+76073,@50073,@50001,,
+76074,@50074,@50001,,
+76075,@50075,@50001,,
+76076,@50076,@50001,,
+76077,@50077,@50001,,
+76078,@50078,@50001,,
+76079,@50079,@50001,,
+76080,@50080,@50001,,
+76081,@50081,@50001,,
+76082,@50082,@50001,,
+76083,@50083,@50001,,
+76084,@50084,@50001,,
+76085,@50085,@50001,,
+76086,@50086,@50041,,
+76087,@50087,@50001,,
+76088,@50088,@50011,,
+76089,@50089,@50001,,
+76090,@50090,@50001,,
+76091,@50091,@50001,,
+76092,@50092,@50001,,
+76093,@50093,@50001,,
+76094,@50094,@50041,,
+76095,@50095,@50095,,
+76096,@50096,@50041,,
+76097,@50097,@50001,,
+76098,@50098,@50001,,
+76099,@50099,@50001,,
+76100,@50100,@50041,,
+76101,@50101,@50001,,
+76102,@50102,@50001,,
+76103,@50103,@50014,,
+76104,@50104,@50001,,
+76105,@50105,@50001,,
+77001,@50001,@60001,,
+77002,@50002,@60001,,
+77003,@50003,@60001,,
+77004,@50004,@60004,,
+77005,@50005,@60005,,
+77006,@50006,@60004,,
+77007,@50007,@60005,,
+77008,@50008,@60001,,
+77009,@50010,@60001,,
+77010,@50012,@60001,,
+77011,@50013,@60001,,
+77012,@50015,@60004,,
+77013,@50016,@60013,,
+77014,@50017,@60013,,
+77015,@50018,@60005,,
+77016,@50019,@60016,,
+77017,@50020,@60001,,
+77018,@50021,@60005,,
+77019,@50022,@60005,,
+77020,@50023,@60001,,
+77021,@50024,@60001,,
+77022,@50025,@60004,,
+77023,@50026,@60001,,
+77024,@50028,@60001,,
+77025,@50029,@60025,,
+77026,@50030,@60001,,
+77027,@11243,@60025,,
+77028,@50032,@60025,,
+77029,@50033,@60005,,
+77030,@50034,@60001,,
+77031,@50035,@60004,,
+77032,@50036,@60001,,
+77033,@50037,@60001,,
+77034,@50038,@60001,,
+77035,@50040,@60016,,
+77036,@50042,@60001,,
+77037,@50043,@60001,,
+77038,@50044,@60005,,
+77039,@50046,@60016,,
+77040,@50047,@60004,,
+77041,@50048,@60005,,
+77042,@50049,@60016,,
+77043,@50050,@60025,,
+77044,@50051,@60016,,
+77045,@50053,@60004,,
+77046,@50054,@60004,,
+77047,@50055,@60005,,
+77048,@50056,@60013,,
+77049,@50057,@60005,,
+77050,@50058,@60016,,
+77051,@50060,@60001,,
+77052,@50061,@60004,,
+77053,@50062,@60025,,
+77054,@50063,@60001,,
+77055,@50065,@60001,,
+77056,@50066,@60056,,
+77057,@50067,@60001,,
+77058,@50068,@60001,,
+77059,@50069,@60001,,
+77060,@50070,@60001,,
+77061,@50071,@60001,,
+77062,@50072,@60013,,
+77063,@50074,@60001,,
+77064,@50075,@60004,,
+77065,@50076,@60016,,
+77066,@50077,@60013,,
+77067,@50078,@60001,,
+77068,@50079,@60005,,
+77069,@50080,@60001,,
+77070,@50081,@60016,,
+77071,@50082,@60004,,
+77072,@50083,@60001,,
+77073,@50085,@60004,,
+77074,@50087,@60001,,
+77075,@50089,@60001,,
+77076,@50090,@60025,,
+77077,@50091,@60025,,
+77078,@50092,@60001,,
+77079,@50093,@60001,,
+77080,@50097,@60001,,
+77081,@50098,@60013,,
+77082,@50099,@60001,,
+77083,@50101,@60001,,
+77084,@50102,@60001,,
+77085,Feld-Raid - Zaken 1,Fügt nahen Gegnern Schaden zu.,,
+77086,Feld-Raid - Zaken 2,Feuert eine durchdringende Schwertaura auf einen zufälligen entfernten Gegner.,,
+77087,Feld-Raid - Zaken 3,Fügt nahen Gegnern Schaden zu und stellt LP wieder her.,,
+80001,Verteidigungsturm - Basisangriff,,,
+80002,Falle - Basic Attack,,,
+80003,Fallen-Angriff 1,,,
+80004,Fallen-Angriff 2,,,
+80005,Fallen-Angriff 3,,,
+80006,Fallen-Angriff 4,,,
+80007,Fallen-Angriff 5,,,
+80008,Festenverteidigungsturm - Basisangriff,,,
+80009,Belagerungslager - Basisangriff,,,
+90002,NPC - Basisangriff,,,
+90003,CrakiaKarcus-Angriff,,,
+100001,Klangesundheit,Erhöht max. LP 1 Stunde lang.,+{1-1%} % Max. LP,
+100002,Klanseele,Erhöht max. MP 1 Stunde lang.,+{1-1%} % Max. MP,
+100003,Klanschild,Erhöht VER 1 Stunde lang.,+{1-1%} % VER,
+100004,Klanmacht,Erhöht ANG 1 Stunde lang.,+{1-1%} % ANG,
+100005,Klanleitung,Erhöht Genauigkeit 1 Stunde lang.,+{1-1%} % Genauigkeit,
+100006,Klan-Ausweichen,Erhöht Ausweichen 1 Stunde lang.,+{1-1%} % Ausweichen,
+100007,Klanbewegung,Erhöht Geschwindigkeit 1 Stunde lang.,+{1-1%} % Geschwindigkeit,
+100008,Tödlicher Klanschlag,Erhöht Kritischen Schaden 1 Stunde lang.,+{1-1%} % Kritischer Schaden,
+100009,Klan-Krit.-Rate,Erhöht Krit. Rate 1 Stunde lang.,+{1-1%} % Krit. Rate,
+500001,Eldrus Wut,"Erhöht ANG, VER, Geschwindigkeit und ANG-GES 1 Stunde lang.",Angriff Verteidigung Geschwindigkeit ANG-GES,
+900001,Turm der Anmaßung - Boss-Anzeige,Std.,,
+905602,Moralerhöhungs-Effekt,Verlängerter Moralerhöhungstrank-Effekt.,,
+905604,Eissturm-Effekt,Verlängerter Eissturm-Trank-Effekt.,,
+905607,LP-Regen. Steigerungstrank,Verlängerter LP-Regen.- Steigerungstrank-Effekt.,,
+905612,Antimagie-Effekt,Verlängerter Antimagie-Trank-Effekt.,,
+906002,Ehrenhaftes Schlachtfeld,LP-Wiederherstellung,,
+301,Segen des Robusten Honigdachses,Geschwindigkeitserhöhung,,
+302,@301,Entnahme-Geschwindigkeitserhöhung,,
+303,@301,Entnahmemenge-Erhöhung,,
+304,Langlebiger Honigdachs,"Ein zahmes Monster. Wenn du es besiegst, gewährt es einen Buff.",,
+305,Gartenwächter,"Die erste Fertigkeit, die der Gartenwächter nach seinem Erscheinen einsetzt.",,
+306,Gartenwächter-Effekt,"Der Effekt der Fertigkeit, die der Gartenwächter regelmäßig einsetzt.",,
+401,Quelle der Erholung,"Die erste Fertigkeit, die die Quelle der Erholung nach ihrem Erscheinen einsetzt.",,
+402,Quelle der Erholung-Buff,"Die Fertigkeit, welche die Quelle der Erholung wiederholt einsetzt.",,
+451,Langlebiges Burgbelagerungs-Torhaus,Das Torhaus erleidet während einer Burgbelagerung immer nur 1 Schaden.,,
+601,Feldheim-Selbstbetäubung,Betäubt sich nach erhaltenem Treffer kurzzeitig.,Betäuben,
+602,Betäuben für Feldboss-Anzeige,Kurzzeitige Betäubung,,
+701,Feuerwerk-Effektanimationsdaten 1 ,Feuerwerk 1,,
+702,Feuerwerk-Effektanimationsdaten 2,Feuerwerk 2,,
+703,Feuerwerk-Effektanimationsdaten 3,Feuerwerk 3,,
+704,Feuerwerk-Effektanimationsdaten 4,Feuerwerk 4,,
+150001,BP_Aimel_Angriff_Schwert,,,
+150002,@150001,,,
+150003,@150001,,,
+150101,BP_Rüstungshändler_01_Angriff_Speer,,,
+150102,@150101,,,
+150103,@150101,,,
+150104,@150101,,,
+150201,BP_Stadtwache_01_Angriff_Speer,,,
+150202,@150201,,,
+150203,@150201,,,
+150301,BP_Fernel_Angriff_Doppelschwert,,,
+150302,@150301,,,
+150303,@150301,,,
+150401,BP_Hardin_Angriff_KeineWaffe,,,
+150402,@150401,,,
+150501,BP_HardinsAnhänger_Angriff_Stab,,,
+150502,@150501,,,
+150503,@150501,,,
+150601,BP_Gegenstandshändler_01_Angriff_Speer,,,
+150602,@150601,,,
+150603,@150601,,,
+150701,BP_Magier_Angriff_Stab,,,
+150702,@150701,,,
+150703,@150701,,,
+150801,BP_Adliger_02_Angriff_Stab,,,
+150802,@150801,,,
+150803,@150801,,,
+150901,BP_Adliger_03_Angriff_Schwert,,,
+150902,@150901,,,
+150903,@150901,,,
+151001,BP_Offizier_Angriff_Schwert,,,
+151002,@151001,,,
+151003,@151001,,,
+151101,BP_Offizier_02_Angriff_Speer,,,
+151102,@151101,,,
+151103,@151101,,,
+151201,BP_Bewohner_02_Angriff_Stab,,,
+151202,@151201,,,
+151203,@151201,,,
+151204,BP_Bewohner_02_Angriff_Schwert,,,
+151205,@151204,,,
+151206,@151204,,,
+151301,BP_Bewohner_03_Angriff_KeineWaffe,,,
+151302,@151301,,,
+151303,BP_Bewohner_03_Angriff_Schwert,,,
+151304,@151303,,,
+151305,@151303,,,
+151306,BP_Bewohner_03_Angriff_Bogen,,,
+151307,@151306,,,
+151308,BP_Bewohner_03_Angriff_Doppelschwert,,,
+151309,@151308,,,
+151310,@151308,,,
+151401,BP_Bewohner_04_Angriff_Schwert,,,
+151402,@151401,,,
+151403,@151401,,,
+151404,BP_Bewohner_04_Angriff_Bogen,,,
+151405,@151404,,,
+151501,BP_Bewohner_05_Angriff_Dolch,,,
+151502,@151501,,,
+151503,@151501,,,
+151601,BP_Schmelzhändler_Angriff_Schwert,,,
+151602,@151601,,,
+151603,@151601,,,
+151604,BP_Schmelzhändler_Angriff_Bogen,,,
+151605,@151604,,,
+151701,BP_Schüler_Angriff_Dolch,,,
+151702,@151701,,,
+151703,@151701,,,
+151704,BP_Schüler_Angriff_Stab,,,
+151705,@151704,,,
+151706,@151704,,,
+151801,BP_Teleportierer_01_Angriff_Stab,,,
+151802,@151801,,,
+151803,@151801,,,
+151901,BP_Tempel-Priester_01_Angriff_KeineWaffe,,,
+151902,@151901,,,
+152001,BP_Warenhaushüter_Angriff_Schwert,,,
+152002,@152001,,,
+152003,@152001,,,
+152101,BP_KatzeDieKatze_Angriff,,,
+152102,DarkAssociation,,,
+152103,Unbekannter_Mann,,,
+153001,BP_Dienstmädchen_01_Angriff_Doppelschwert,,,
+153002,@153001,,,
+153003,@153001,,,
+200001,Monster-SCH-Verringerung - Passiv,,,
+210001,Monster-SCH-Erhöhung - Passiv,,,
+8010441,Nahkampfschadensaura,,,
+8010461,Gruppe des Zorns,,,
+801047,Überwältigen,,,
+801048,@801047,,,
+93506,Wütendes Schreckgespenst,"Große ANG und VER Erhöhung, kleine GES und ANG-GES Erhöhung",,
+94409,Berserkerdämon-Kontraktor,@93506,,
+94407,Ketra-Ork-Sucher (für Beschwörungskreis),@50041,,
+805000,Boss-Etagen-Fertigkeit (Kreis) des Gruppen-Dungeons,"Fügt Schaden zu, während der Kreis größer wird.",,
+805001,Boss-Etagen-Fertigkeit (Fächer) des Gruppen-Dungeons,"Fügt Schaden zu, während der Fächer größer wird.",,
+805002,Boss-Etagen-Fertigkeit (Obb) des Gruppen-Dungeons,"Fügt Schaden zu, während die Reichweite nach vorn größer wird.",,
+805003,Boss-Etagen-Fertigkeit (Ring) des Gruppen-Dungeons,"Fügt Schaden zu, während die innere und äußere Reichweite des Ringes gleichzeitig zunimmt.",,
+805004,Blutklinge zum Testen,@72031,,@72031
+170001,Leonard,Basisangriff,,
+411001,Trisha,@170001,,
+411002,@170001,@170001,,
+411005,Ausschalten,"Sofortschaden über fächerförmiges Gebiet.
+Fügt [Blutung] zu",,
+411006,Tepes' Speer: Zeichen,"Sofortschaden über kreis- und ringförmiges Gebiet.
+Fügt [Blutung] zu",,
+411007,Tepes' Speer: Weiterverfolgung,"Sofortschaden über ringförmiges Gebiet.
+Fügt [Blutung] zu",,
+411008,Blutexplosion,"Trifft Gegner mit [Blutung].
+Sofortschaden auf Gegner mit [Blutung].
+Entfernt [Blutung] von getroffenen Gegnern.",,
+411009,Blutgerinnsel beschwören,Beschwört für Gegner mit [Blutung] ein Selbstzerstörungsmonster.,,
+411010,Blutarmut,"Fügt sich selbst [Betäubung] zu.
+Erhöht zugefügten Schaden.",,
+411011,Starker LP-Entzug,Fügt Gegnern [LP-Entzug] zu.,,
+411012,Selbstzerstörung,@60163,,
+411015,LP-Transfer,Stellt Trishas LP wieder her und entfernt Debuffs,,
+411016,Unsichtbarkeit,Verschwindet nach Heilung,,
+411017,Vampirfledermaushorde,"Geradliniger Sofortschaden.
+Entfernt [Vampirisieren]",,
+411018,Blutaustausch,"Sofortschaden über fächerförmiges Gebiet.
+Fügt [Vampirisieren] zu",,
+411019,Blutrotes Kreuz: 1,"Sofortschaden über kreuzförmiges Gebiet.
+Fügt [Vampirisieren] zu",,
+411020,Blutrotes Kreuz: 2,@411019,,
+411021,Blutaufladung,"Verschwindet.
+Beschwört 15 Vampirfledermäuse.",,
+411022,Verschmelzung,Erscheint,,
+411025,Klebrige Egel-Essenz,Erstellt ein Bodenobjekt in beliebiger Region.,,
+411028,Vampirische Verwandlung,[LP-Entzug]-Effekt entfernen.,,Verwandle dich mithilfe von Vampirblut und befreie dich von LP-Entzug.
+411036,Aufbringen Stufe 1,"Wüten, wenn nur 1 Fledermaus lebt",,
+411037,Aufbringen Stufe 2,"Wüten, wenn nur 2 Fledermäuse lebt",,
+411038,Aufbringen Stufe 3,"Wüten, wenn nur 3 Fledermäuse lebt",,
+411042,Tepes' Speer: Zeichen - Verbindung,@411006,,
+412005,@411005,@411005,,
+412006,@411006,@411006,,
+412007,@411007,@411007,,
+412008,@411008,@411008,,
+412009,@411009,@411009,,
+412010,@411010,@411010,,
+412011,@411011,@411011,,
+412012,@411012,@60163,,
+412015,@411015,@411015,,
+412016,@411016,@411016,,
+412017,@411017,@411017,,
+412018,@411018,@411018,,
+412019,@411019,@411019,,
+412020,@411020,@411019,,
+412021,@411021,@411021,,
+412022,@411022,@411022,,
+412025,@411025,@411025,,
+412028,@411028,@411028,,@411028
+412036,@411036,@411036,,
+412037,@411037,@411037,,
+412038,@411038,@411038,,
+412042,@411042,@411006,,
+413002,Aufgebrachtes Blut,Verleiht Verbündeten ANG- und ANG-GES-Erhöhungsbuffs,,
+413003,Overkill,Frontal-Schaden und Niederschlagen,,
+413005,@411005,@411005,,
+413006,@411006,@411006,,
+413007,@411007,@411007,,
+413008,@411008,@411008,,
+413009,@411009,@411009,,
+413010,@411010,@411010,,
+413011,@411011,@411011,,
+413012,@411012,Selbstzerstörung + Flächenschaden + Schaden + Boden,,
+413013,Giftige Nägel,"Sofortschaden über fächerförmiges Gebiet.
+Fügt [Ätzende Säure] zu",,
+413015,@411015,@411015,,
+413016,@411016,@411016,,
+413017,@411017,@411017,,
+413018,@411018,@411018,,
+413019,@411019,@411019,,
+413020,@411020,@411019,,
+413021,@411021,@411021,,
+413022,@411022,@411022,,
+413023,Blutschwall: Welle,Erstellt Bodenobjekt um sich selbst.,,
+413024,Blutschwall: Explosion,Ringförmige Explosion um sich selbst herum.,,
+413025,@411025,@411025,,
+413027,Blutgerinnsel-Glühen,Zeigt verbleibende Zeit für Blutgerinnsel-Explosion.,,
+413028,@411028,@411028,,@411028
+413029,Trisha-Debuff entfernen,Entfernt bei Tod 1 Stapel des Trisha-Debuffs.,,
+413030,Zakens Phantom: Unsichtbarkeit,Zakens Phantom beschwört Zaken,,
+413032,Blutgerinnsel - Basisangriff,,,
+413034,Egel-Übersättigung: Farbbuff,Egel-Farbbuff,,
+413035,Zakens Phantom: Unbesiegbar,Unbesiegbarkeitsbuff für Zakens Phantom,,
+413036,@411036,@411036,,
+413037,@411037,@411037,,
+413038,@411038,@411038,,
+413039,Schwelendes Blut,Bei Selbstzerstörung wird am Boden ein temporäres Objekt geschaffen,,
+413040,Zaken - Unsichtbarkeit,Nach Abschluss des Kampfes unsichtbar,,
+413041,Bluthölle: Blutarmut,5 % Verringerung der eig. LP,,
+413042,@411042,@411006,,
+414002,@413002,@413002,,
+414003,@413003,@413003,,
+414005,@411005,@411005,,
+414006,@411006,@411006,,
+414007,@411007,@411007,,
+414008,@411008,@411008,,
+414009,@411009,@411009,,
+414010,@411010,@411010,,
+414011,@411011,@411011,,
+414012,@411012,@413012,,
+414013,@413013,@413013,,
+414015,@411015,@411015,,
+414016,@411016,@411016,,
+414017,@411017,@411017,,
+414018,@411018,@411018,,
+414019,@411019,@411019,,
+414020,@411020,@411019,,
+414021,@411021,@411021,,
+414022,@411022,@411022,,
+414023,@413023,@413023,,
+414024,@413024,@413024,,
+414025,@411025,@411025,,
+414028,@411028,@411028,,@411028
+414036,@411036,@411036,,
+414037,@411037,@411037,,
+414038,@411038,@411038,,
+414039,@413039,@413039,,
+414041,@413041,@413041,,
+414042,@411042,@411006,,
+414043,Turners Unsichtbarkeitsbuff,,,
+414044,Zaken - Basisangriff für die Gräfin,Zaken tötet einen Charakter mit einem Angriff,,
+414045,Vampirische Resonanz,Wüten bei Erscheinen von Zaken,,
+401001,Königswache - Normaler Angriff,@74118,,
+401002,Wachhauptmann der Königswache - Normaler Angriff,@74118,,
+401003,Taktischer Schlitzer,Fächerförmiger Sofortschaden,,
+401004,Wache - Normaler Angriff,@74118,,
+401005,Golem - Normaler Angriff,@74118,,
+401006,Steinhieb,"Sofortschaden gegen 1 Ziel
+Chance auf [Betäubung]",,
+401007,Schütze - Normaler Angriff,Basis-Fernangriff,,
+401008,Bombenwurf,Flächenschaden gegen zufälligen Ort innerhalb der Reichweite,,
+401009,Bewacherwut,Wutbuff - zusätzliche Fertigkeiten,,
+401010,Ork-Schamanenseelen-Animation,Seelen-Animations-Fertigkeit,,
+401011,Nebulite-Kristall - Todesfertigkeit,"Fertigkeit, die das Ziel nach einiger Zeit tötet",,
+401012,Ramog - Wüten-Nebulite-Kristall,Verleiht Ramog fortwährendes Wüten,,
+401016,@411012,"Nähert sich einem Ziel und vernichtet sich selbst
+Fügt Schaden in kreisförmigem Gebiet zu",,
+401013,Selbstzerstörungs-Timer,Timer zur Anzeige eines Verbindungsfertigkeit-Buffs,,
+401014,Selbstzerstörung 1 Sek.,Zeitüberprüfungs-Fertigkeit,,
+401015,Selbstzerstörung 3 Sek.,@401014,,
+401019,Normaler Angriff,@74118,,
+401024,Feuerzone,Kontakt-Zielschaden,,Feuerzone erstellt.
+401025,@401019,@74118,,
+403002,Bewacherschuss,Linearschaden,,
+401101,Landhieb,Fächerförmiger Schaden,,Boranta verwendet Landhieb.
+401103,Ziel identifiziert,"Sofortschaden für einzelnes Ziel
+Verleiht [Ziel]-Effekt",,Boranta wählt ein Ziel.
+401104,Axtwurf,"Linearschaden
+Verwendet [Ziel] auf Ziel
+Verleiht 1 zufälligem Gegner [Glut] (Leicht)",,Boranta wirft eine Axt auf ein Ziel.
+401105,@401104,"Linearschaden
+Verwendet [Ziel] auf Ziel
+Verleiht 1 zufälligem Gegner [Glut] (Normal)",,@401104
+401106,@401104,"Linearschaden
+Verwendet [Ziel] auf Ziel
+Verleiht 1 zufälligem Gegner [Glut] (Schwer)",,@401104
+401107,@401104,@401106,,@401104
+401108,@401104,"Linearschaden
+Verwendet [Ziel] auf Ziel
+Verleiht 1 zufälligem Gegner [Glut] (Sehr schwer)",,@401104
+401113,@401104,@401108,,@401104
+401102,Glutexplosion 1,"GEHE zur kleinen, runden Fläche",,
+401109,Glutexplosion 2,@401102,,
+401110,Boranta-Scherge-Beschwörungsschrei Stufe 1,Basisangriff begleitet Schreien vor Beschwörung,,
+401111,Boranta-Scherge-Beschwörungsschrei Stufe 2,@401110,,
+401112,Boranta-Scherge-Beschwörungsschrei Stufe 3,@401110,,
+401201,Paagrio-Quest-Todes-Animation,Quest-Animation für Fertigkeit,,Die Macht der Fertigkeit läutert Paagrios Glut!
+401202,Wahnsinnige Klinge,,,
+401203,Niedergang,Niedergang für fortwährenden Gebrauch,,
+401204,In die Mitte bewegen (Explosion-Bereitschaft),,,Ramog bewegt sich in die Mitte
+401205,Explosion-Bereitschaft,,,
+401207,In die Mitte bewegen (Niedergang),,,@401204
+401210,Paagrios große Explosion,"Bei Berühren von Ramog wird weit verbreiteter Flächenschaden verursacht
+Zusätzlicher Schaden für Ziele mit [Niedergang]",,Paagrios Glut explodiert!
+401216,In die Mitte bewegen (Wüten),,,"Ramog bewegt sich, um Kraft zu sammeln."
+401217,Wüten-Bereitschaft,Bereitschaft zum Wüten nach der Bewegung in die Mitte,,Ramog strahlt Paagrios Energie aus!
+401218,Selbstbetäubung,Werde nach dem Zerstören des Nebulite-Kristalls betäubt,,Kraft verlässt Ramog.
+401211,Wütender Ramog,"Wüten, wenn LP unter 10 % fällt",,
+401212,@401203,Niedergang nach vorne zuerst aktiviert: Angriffsverzögerung ist lang,,
+401213,Niedergang: Konter,Niedergang nach hinten zuerst aktiviert: Angriffsverzögerung ist lang,,
+401214,Leichter Niedergang,Wiederkehrender Niedergang nach vorne zuerst aktiviert: Angriffsverzögerung ist lang,,
+401215,Leichter Niedergang: Konter,Wiederkehrender Niedergang nach hinten zuerst aktiviert: Angriffsverzögerung ist lang,,
+990001,Lv. 1 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990002,Lv. 2 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990003,Lv. 3 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990004,Lv. 4 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990005,Lv. 5 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990006,Lv. 6 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990007,Lv. 7 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990008,Lv. 8 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990009,Lv. 9 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990010,Lv. 10 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990011,Lv. 11 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990012,Lv. 12 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990013,Lv. 13 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990014,Lv. 14 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990015,Lv. 15 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990016,Lv. 16 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990017,Lv. 17 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990018,Lv. 18 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990019,Lv. 19 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990020,Lv. 20 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990021,Lv. 21 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990022,Lv. 22 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990023,Lv. 23 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990024,Lv. 24 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990025,Lv. 25 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990026,Lv. 26 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990027,Lv. 27 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990028,Lv. 28 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990029,Lv. 29 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990030,Lv. 30 Umhang-Effekt - Normale Fertigkeit zurückgesetzt,,,
+990101,Lv. 1 Umhang-Effekt - Nicht entschieden,,,
+990102,Lv. 2 Umhang-Effekt - Nicht entschieden,,,
+990103,Lv. 3 Umhang-Effekt - Nicht entschieden,,,
+990104,Lv. 4 Umhang-Effekt - Nicht entschieden,,,
+990105,Lv. 5 Umhang-Effekt - Nicht entschieden,,,
+990106,Lv. 6 Umhang-Effekt - Nicht entschieden,,,
+990107,Lv. 7 Umhang-Effekt - Nicht entschieden,,,
+990108,Lv. 8 Umhang-Effekt - Nicht entschieden,,,
+990109,Lv. 9 Umhang-Effekt - Nicht entschieden,,,
+990110,Lv. 10 Umhang-Effekt - Nicht entschieden,,,
+990111,Lv. 11 Umhang-Effekt - Nicht entschieden,,,
+990112,Lv. 12 Umhang-Effekt - Nicht entschieden,,,
+990113,Lv. 13 Umhang-Effekt - Nicht entschieden,,,
+990114,Lv. 14 Umhang-Effekt - Nicht entschieden,,,
+990115,Lv. 15 Umhang-Effekt - Nicht entschieden,,,
+990116,Lv. 16 Umhang-Effekt - Nicht entschieden,,,
+990117,Lv. 17 Umhang-Effekt - Nicht entschieden,,,
+990118,Lv. 18 Umhang-Effekt - Nicht entschieden,,,
+990119,Lv. 19 Umhang-Effekt - Nicht entschieden,,,
+990120,Lv. 20 Umhang-Effekt - Nicht entschieden,,,
+990121,Lv. 21 Umhang-Effekt - Nicht entschieden,,,
+990122,Lv. 22 Umhang-Effekt - Nicht entschieden,,,
+990123,Lv. 23 Umhang-Effekt - Nicht entschieden,,,
+990124,Lv. 24 Umhang-Effekt - Nicht entschieden,,,
+990125,Lv. 25 Umhang-Effekt - Nicht entschieden,,,
+990126,Lv. 26 Umhang-Effekt - Nicht entschieden,,,
+990127,Lv. 27 Umhang-Effekt - Nicht entschieden,,,
+990128,Lv. 28 Umhang-Effekt - Nicht entschieden,,,
+990129,Lv. 29 Umhang-Effekt - Nicht entschieden,,,
+990130,Lv. 30 Umhang-Effekt - Nicht entschieden,,,
+990201,Lv. 1 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990202,Lv. 2 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990203,Lv. 3 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990204,Lv. 4 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990205,Lv. 5 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990206,Lv. 6 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990207,Lv. 7 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990208,Lv. 8 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990209,Lv. 9 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990210,Lv. 10 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990211,Lv. 11 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990212,Lv. 12 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990213,Lv. 13 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990214,Lv. 14 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990215,Lv. 15 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990216,Lv. 16 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990217,Lv. 17 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990218,Lv. 18 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990219,Lv. 19 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990220,Lv. 20 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990221,Lv. 21 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990222,Lv. 22 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990223,Lv. 23 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990224,Lv. 24 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990225,Lv. 25 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990226,Lv. 26 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990227,Lv. 27 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990228,Lv. 28 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990229,Lv. 29 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990230,Lv. 30 Umhang-Effekt - PVE-Angriff-Deaktivierungsbarriere,,,
+990301,Lv. 1 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990302,Lv. 2 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990303,Lv. 3 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990304,Lv. 4 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990305,Lv. 5 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990306,Lv. 6 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990307,Lv. 7 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990308,Lv. 8 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990309,Lv. 9 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990310,Lv. 10 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990311,Lv. 11 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990312,Lv. 12 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990313,Lv. 13 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990314,Lv. 14 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990315,Lv. 15 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990316,Lv. 16 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990317,Lv. 17 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990318,Lv. 18 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990319,Lv. 19 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990320,Lv. 20 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990321,Lv. 21 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990322,Lv. 22 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990323,Lv. 23 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990324,Lv. 24 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990325,Lv. 25 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990326,Lv. 26 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990327,Lv. 27 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990328,Lv. 28 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990329,Lv. 29 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+990330,Lv. 30 Umhang-Effekt - PVP-Seltene-Fertigkeitsbarriere,,,
+500661,@50066,Event-Nutzungs-Kern - Monsterbeschwörung,,
+500291,@50029,@500661,,
+501911,@50191,@500661,,
+73020,@50073,@50001,,
+73021,Welle,,,
+73022,Einladen,,,
+73023,@73022,,,
+73024,Rückkehr,,,
+73025,Gehbewegung,Gehbewegung,,
+73026,Leben-Entzug,Leben-Entzug,,
+73027,Bewegen,Bewegen,,
+73028,Verstecken,Verstecken,,
+73029,Begib dich zum ersten Boot,,,
+73030,Begib dich zum zweiten Boot,,,
+73031,Freisetzen - Hauptkörper,,,
+73127,Freisetzen - Abschnitt 1,,,
+73128,Freisetzen - Abschnitt 2,,,
+73129,Freisetzen - Abschnitt 3,,,
+73130,Freisetzen - Abschnitt 4,,,
+73131,Freisetzen - Abschnitt 5,,,
+73132,Phantom-Selbstmord,Selbstmord,,
+73121,밤 1단계,,,
+73122,밤 2단계,,,
+73123,밤 3단계,,,
+73124,밤 4단계,,,
+73125,밤 5단계,,,
+73126,밤 6단계,,,
+73134,Kanone abfeuern (Animation),,,
+73135,Kanone abfeuern (Real),,,
+73136,자켄 해적단 전투원,,,
+73137,자켄 해적단 갑판원,,,
+73138,자켄 해적단 항해사,,,
+73139,자켄 해적단 선장,,,
+73140,자켄 해적단 전투원(장판),,,
+73141,정체 불명의 촉수 공격 01,,,
+73142,정체 불명의 촉수 공격 02,,,
+73143,정체 불명의 촉수 공격 03,,,
+73144,정체 불명의 촉수 공격 04,,,
+73145,정체 불명의 촉수 스폰 어택,,,
+73146,Maus - Unsichtbar,,,
+73147,Maus - Rückkehr,,,

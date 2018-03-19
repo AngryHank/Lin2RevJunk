@@ -80,6 +80,7 @@ Entering battlefield in <FontRed>[Seconds]</> sec. Prepare for battle.",,
 64,<FontRed>Lost</>the war with <FontBlue>[Name]</>.,,
 65,<FontYellow>Clan reached Lv. [Param1]</>.,,
 66,<FontYellow>Clan buff [Name] reached Lv. [param]</>.,,
+67,Lord [Name] has purchased <FontGreen>[Item]</> from <FontGreen>[ShopName]</>.,,
 68,<FontYellow>[Param1] Successfully cleared.</>,Clan Achievement,
 69,"Clan Leader has called from <FontGreen>[DungeonName]</>.
 Accept?",@20,@20
@@ -108,6 +109,12 @@ Enter <FontGreen>[CastleName]</>?",@20,@20
 Enter <FontGreen>[FortressName]</>?",@20,@20
 90,"The Castle Siege has begun!
 Enter <FontGreen>[CastleName]</>?",@20,@20
+91,"Location: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> would like to summon you.
+Go now? <FontRed>[Seconds]</> sec",@13,@17
+92,"Actions are limited due to not being in a party.
+Automatically exiting the Temporal Rift in 15 seconds.",Leave,
+93,<FontYellow>The item for [EventName] has expired.</>Removed from the inventory.,,
 94,"<FontYellow>Open Siege</> party created.
 Go <FontGreen>alone</> or team up with a <FontGreen>party</> in the Open Siege.",,
 95,Joined a <FontYellow>Open Siege</> party.,,

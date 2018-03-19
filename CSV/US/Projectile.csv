@@ -51,3 +51,10 @@ Id,MoveType,MoveSpeed,Distance,Count,HitCount,ExplosionCollisionUnitType,Explosi
 601261,2,1000,1000,1,10,0,"""radius"": 100",BP_PROJ_Windstrike,Socket_Center
 601391,2,800,1000,1,10,0,"""radius"": 100",BP_PROJ_Dark,Socket_Center
 601441,2,500,1000,1,10,0,"""radius"": 200",BP_PROJ_BloodArrow,Bip01
+731271,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731281,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731291,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731301,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731311,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center
+731371,2,1500,800,1,10,0,"""radius"": 200",BP_PROJ_DoubleShot,Socket_Center
+730311,2,600,3000,9,100,0,"""radius"": 30",BP_PROJ_Zaken,Socket_Center

@@ -1,0 +1,852 @@
+Key,Value
+1,Die Paketversion stimmt nicht mit der des Servers überein. App neustarten.
+2,Spiel für Update neustarten.
+3,Serverfehler (DB)
+4,Serverfehler (LUA)
+5,Exceltabellenfehler
+6,Serverfehler (Parameter)
+7,Serverfehler (Logik)
+8,Serverfehler
+9,Du bist nicht eingeloggt.
+10,Du bist bereits eingeloggt.
+11,"Es gibt keine Ziele, die du hinauswerfen könntest."
+12,Unzulässige Authentifikation.
+13,Unzulässige Charakterkennung.
+14,Unzulässige Klasseninformation.
+15,Unzulässiges Geschlecht.
+16,Unzulässiger Name.
+17,Unzulässige NPC-Information.
+18,Unzulässige Spielerkennung.
+19,Unzulässige Rasseninformation.
+20,Unzulässige Fertigkeit.
+21,Unzulässiges Fertigkeitsziel.
+22,"Clan Leader has called from <FontGreen>[DungeonName]</>.
+Accept?"
+23,Du kannst nicht länger eintreten.
+24,Es gibt keine Gerätebekennung.
+25,Dieser Name wird bereits verwendet.
+26,Fertigkeit wird gerade verwendet.
+27,Du kannst dich nicht bewegen.
+28,Du bist nicht tot.
+29,Nicht genug MP.
+30,Nicht genug Adena.
+31,Du hast keinen Spieler ausgewählt.
+32,Nicht genug Diamanten.
+33,Charakterlevel ist zu niedrig.
+34,Klassentransfer zur gleichen Kennung nicht möglich.
+35,Transfer in diese Klasse nicht möglich.
+36,"Klassentransfer nicht möglich, dein Level ist zu niedrig."
+37,Unzulässiger Sicherheitscode.
+38,Unzulässige Spielerkennung.
+39,Unzulässige Kennung des Buff-Effekts.
+40,Unzulässige Kennung der Ladeninformation.
+41,Paket-Hash falsch. Dein Spiel läuft möglicherweise nicht richtig.
+42,Unzulässige Kennung des Fertigkeitseffekts.
+43,Unzulässige Erfolgskennung.
+44,Ungültiges Runenlevel.
+45,Nicht genug Runenfragmente.
+46,Ungültige Runeninformation.
+47,Levelaufstieg der Rune fehlgeschlagen.
+48,Rune ist bereits auf max. Level.
+49,Level der vorherigen Rune ist zu niedrig.
+50,Dies übersteigt die maximale Adena-Kapazität.
+51,Dies übersteigt die maximale Topas-Kapazität.
+52,Dies übersteigt die maximale Diamanten-Kapazität.
+53,@NotEnoughFreeDiamondStorage
+54,Nicht genug Topase.
+55,Nicht genug Treuepunkte für Ziehung.
+56,Zurzeit tot.
+57,"Nur 4-16 Zeichen erlaubt.
+(2-8 für Koreanisch oder Chinesisch)"
+58,"Leerzeichen sind nicht möglich.
+Anderen Namen eingeben."
+59,Nicht genug FP.
+60,Deine Adena-Kapazität ist voll.
+61,Deine Kapazität für Klanmünzen hat den Maximalwert erreicht.
+62,Fülle erst die vorherige Runenseite.
+63,Nicht genug Freundschaftspunkte.
+64,Ungültiger Belohnungstyp.
+65,Zurzeit betäubt.
+66,Kampf ist im Gange.
+67,Diese Klasse kann während der Charaktererstellung nicht ausgewählt werden.
+68,Treuepunkte-Kapazität überschritten.
+69,In der Warteschlange.
+70,Du kannst keine Objekte benutzen.
+71,Du kannst den entsprechenden Sicherheitscode zurzeit nicht benutzen.
+72,"Dieser Inhalt ist nicht zugänglich.
+Du kannst nicht eintreten."
+73,Unzulässiger Basisklassenwert.
+74,"Dieser Charakter ist ein Klanführer.
+Der Charakter, der Klanführer ist, kann gelöscht werden, nachdem er die Führerschaft übertragen oder den Klan verlassen hat."
+75,Nicht genug Blaue Diamanten.
+76,Nicht genug Rote Diamanten.
+77,Nicht auswählbares Ziel.
+78,Chatten ist momentan nicht möglich.
+79,"Eintreten nicht möglich, die Anzahl teilnehmender Spieler ist beschränkt."
+80,Nicht genug Klan-Rotsternsteine.
+81,Nach Klassentransfer verfügbar.
+82,"Dieser Spitzname wurde vorab registriert.
+Durchlaufe die Verifizierungsschritte, wenn du dich vorab registriert hast."
+83,Ungültiger Spitzname.
+84,Dieser Spieler wurde gelöscht.
+85,Verborgene Welt.
+86,Leerer Accountwert.
+87,Leerer Token-Wert.
+100,Deine Verbindung wurde aufgrund von Server-Wartungsarbeiten unterbrochen.
+101,"Warten auf Wiederbelebung.
+Wiederbelebung noch nicht möglich."
+102,Kanal ist voll.
+103,Zeitwechselbeschränkung.
+201,Erfolg kann nicht abgeschlossen werden.
+202,Es gibt keine Erfolge.
+203,Du hast die Erfolgslevel-Belohnung bereits eingesammelt.
+251,Ungültige Chatnachricht.
+252,Unzulässige Chatnachrichtkennung.
+253,Unzulässige Kennung zusätzlicher Chatinformation.
+254,Falscher Chat-Typ.
+255,Abklingzeitbeschränkung.
+256,Bereits in der Chat-Sperrliste.
+257,Nicht in der Chat-Sperrliste.
+258,In Chat-Sperrliste eingetragen.
+259,Der Empfänger hat dich blockiert.
+301,Das ist die Abklingzeit der Fertigkeit.
+302,Ersten Account erstellen.
+303,Prüfen der vorher eingesetzten Fertigkeit fehlgeschlagen.
+370,Unzulässige Check-in-Information.
+371,Unzulässige Check-in-Informationskennung.
+372,Unzulässige Check-in-Belohnungskennung.
+373,Du hast bereits eingecheckt.
+374,Du hast die Belohnung bereits eingesammelt.
+375,Keine wöchentliche Check-in-Belohnungsperiode aktiv.
+401,Unzulässige Gegenstandskennung.
+402,@InvalidItemInfoId
+403,Dieser Gegenstand kann nicht aufgewertet werden.
+404,Nicht genug Altmaterial.
+405,Nicht genug Gegenstände.
+406,Kombinieren und Verbessern sind beide ab Lv. 5 verfügbar.
+407,Nicht genug Aufwertungsrollen.
+408,Weiteres Aufwerten unmöglich.
+409,Aufwerten der Ausrüstung fehlgeschlagen.
+410,"Ausrüstung wurde versiegelt.
+Versiegelte Ausrüstung kann nicht aufgewertet werden."
+411,Nur versiegelte Ausrüstung kann gelöst werden.
+412,Diese Ausrüstung ist bereits ausgerüstet.
+413,Diese Ausrüstung ist nicht ausgerüstet.
+414,Nicht genug Slots im Inventar.
+415,Ausgerüstete Ausrüstung kann nicht verwendet werden.
+-1,Das Siegel diese Ausrüstung kann nicht gelöst werden.
+417,Diese Ausrüstung kann nicht verbessert werden.
+418,Diese Ausrüstung kann nicht weiter verbessert werden.
+419,Diese Ausrüstung kann nicht mehr kombiniert werden.
+420,Favorisierte Gegenstände können nicht verwendet werden.
+421,"Die zu kombinierenden Materialien sind von unterschiedlichem Typ.
+Du kannst nur Ausrüstung des gleichen Typs kombinieren."
+422,"Die zu kombinierenden Materialien haben unterschiedliche Stufen.
+Du kannst nur Ausrüstung der gleichen Stufe kombinieren."
+423,Unzulässiger Subwert-Index.
+424,Gegenstand nicht verwendbar.
+425,Diese Ausrüstung kann nicht mehr verzaubert werden.
+426,Dies ist keine Ausrüstung.
+427,Nicht genug Materialien zum Verbessern.
+428,Dein Inventar kann nicht weiter erweitert werden.
+429,Unzulässige Materialgegenstandskennung.
+430,Dies ist keine Aufwertungsrolle.
+431,Gegenstandsinformationskennungen stimmen nicht überein.
+432,Limit-Break für diesen Gegenstand nicht möglich.
+433,Limit-Break für diesen Gegenstand nicht mehr möglich.
+434,Dies ist kein Seelenkristall.
+435,Unzulässiger Gegenstandsslot-Index.
+436,Dieser Typ Seelenkristall ist bereits ausgerüstet.
+437,Gegenstand ist bereits auf max. Level.
+438,Dieser Gegenstand hat keine Subwerte.
+439,Dieser Gegenstand hat keine Attribute.
+440,Attribute stimmen nicht überein.
+441,Aufwerten des Gegenstandsattributs fehlgeschlagen.
+442,Es können keine Elixiere mehr verwendet werden.
+443,Unzulässiger Typ oder unzulässige Gruppe der Gegenstandsherstellung.
+444,Nicht genug Materialien zum Herstellen des Gegenstands.
+445,Nicht genug Kristalle des Aigis.
+446,Unzulässiger Ausrüstungstyp.
+447,Unzulässiger Deck-Index.
+448,Dieses Ausrüstungsdeck wird bereits verwendet.
+449,Server unterscheidet sich vom Deck.
+450,Herstellen des Gegenstands wegen fehlender Slots im Inventar fehlgeschlagen.
+451,Tabelleninformationen können nicht genutzt werden.
+452,Dieser Monsterkodex ist bereits vollständig.
+453,Du hast keine ungebundenen Monsterkerne in deinem Inventar.
+454,Unzulässige Gruppenkennung.
+455,Diese Monsterkodex-Gruppe ist bereits vollständig.
+456,Es gibt keine zu bearbeitenden Monsterkodizes.
+457,Unzulässiger Pausenbelohnungstyp.
+458,Nicht genug Pausenpunkte.
+459,Typ zusätzlich genutzter Währung unterscheidet sich.
+460,Unzulässiger Typ Subwert für den Gegenstand Vergessene Schriftrolle.
+461,Keine Vergessene Schriftrolle.
+462,Kann Vergessene Schriftrolle nicht verwenden.
+463,Fertigkeit ist bereits auf max. Level.
+464,Unzulässige Materialmenge.
+465,Dies ist ein anderer Typ Aufwertungsrolle.
+466,"Kann nicht verwendet werden, deine LP sind voll."
+467,"Kann nicht verwendet werden, deine MP sind voll."
+468,Herstellung nicht weiter möglich.
+469,Nicht genug Schriftrollen des Entkommens.
+470,Überraschungskiste ist leer.
+471,Es sind keine Seelenkristalle ausgerüstet.
+472,Dieses Elixier kann nicht verwendet werden.
+473,Ausrüstungsattribut ist bereits auf max. Level.
+474,Dies ist kein Gegenstand vom Typ Megafon.
+475,Unzulässiger Typ Seelenkristalleffekt.
+476,Unzulässige Kennung der Gegenstandsfundinformation.
+477,Du hast die täglich zulässige Menge erreicht.
+478,Kann nicht während der Abklingzeit verwendet werden.
+479,"Diese Ausrüstung kannst du nicht ausrüsten, sie ist nicht für deine Klasse."
+480,Im Teleport.
+481,Waffen werden nicht entfernt. Ersetze sie durch eine andere Waffe.
+482,Max. Level bereits erreicht.
+483,Dieser Typ Seelenschuss ist bereits aktiviert.
+484,In der Arena.
+485,Böser Beschwörungsstein kann hier nicht beschworen werden.
+486,"Kann nicht länger verwendet werden, Chaoswert hat 0 erreicht."
+487,Mehr können nicht aufgenommen werden.
+488,"Überschreitet die maximale Menge, die auf einmal verkauft werden kann."
+489,Unzulässiger Subwert-Slot.
+490,Dieser Gegenstand kann nicht mit Ausrüstung hergestellt werden.
+491,Gegenstandslevel zum Herstellen von Ausrüstung ist zu niedrig.
+492,Gegenstandsstufe zum Herstellen von Ausrüstung ist zu niedrig.
+493,Dieser Gegenstand kann nicht verkauft werden.
+501,Nachrichtenempfang nicht möglich.
+502,"Dein Briefkasten ist voll.
+Hole die Belohnung aus deinem Briefkasten,
+dann versuche es erneut."
+503,"Belohnungen konnten nicht erhalten werden, dein Briefkasten ist voll.
+Schaffe Platz in deinem Briefkasten und versuche es dann erneut."
+511,Nicht genug tägliche Aktivitätspunkte.
+512,Unzulässig Kennung der täglichen Aktivitäten-Belohnung.
+513,Unzulässige Gruppenkennung der täglichen Aktivitäten-Belohnung.
+514,"Es gibt keine Belohnungen, die du erhalten kannst."
+521,"Unzulässige Kennung der Information zu ""jetzt abschließen""."
+522,"Dies ist keine Kennung der Information zu ""jetzt abschließen""."
+523,"Unzulässige Gruppenkennung der Belohnung für ""jetzt abschließen""."
+531,Unzulässiger Typ Questanfrage.
+532,Unzulässiger Typ Questanfrage-Information.
+533,Quest kann im Moment nicht begonnen werden.
+534,Kann im Moment nicht abgeschlossen werden.
+535,Zurzeit hast du keine laufende Quest.
+536,Diese Quest ist bereits abgeschlossen.
+537,"Es gibt keine Tagesquests, die du erneuern kannst."
+538,Zurzeit hast du keine laufende Wochenquest.
+539,@NoMoreDailyActivityRewardGet
+540,Eine andere Wochenquest ist bereits im Gange.
+541,Du hast deine Tagesquests für heute aufgebraucht.
+601,Unzulässige Kennung der Gebietsinformation.
+602,Unzulässige Kennung der Ortsinformation.
+603,Unzulässige Kennung der Regionsinformation.
+604,Unzulässiger Kennung der Questinformation.
+605,Quest ist bereits im Gange.
+606,Quest ist nicht im Gange.
+607,Quest kann nicht abgeschlossen werden.
+608,Die vorausgesetzte Quest wurde nicht abgeschlossen.
+609,Nicht genug Quest-Tickets.
+610,Anzahl abgeschlossener Quests ist nicht hoch genug.
+611,Es gibt keine Queständerungen.
+612,Region wurde nicht erledigt.
+613,Ort der Region wurde nicht erledigt.
+614,Quest fehlgeschlagen.
+615,Quest nicht fehlgeschlagen.
+616,Du kannst dich während dieser Quest nicht wiederbeleben.
+617,Unzulässige Objektkennung.
+618,Entfernung ist zu groß.
+619,Es gibt keine NPCs.
+620,Unzul. Queststatus.
+621,Quest wurde bereits abgeschlossen.
+622,Nicht genug Quest-Auto-Erledigen.
+623,Unzulässige Information zur Eroberungsquestbelohnung.
+624,Nicht genug Sterne zum Erledigen der Eroberung.
+625,Wurde nicht ein Mal abgeschlossen.
+626,Dies ist keine Eroberungsquest.
+627,Quest-Tickets haben bereits den max. Wert.
+628,Anzahl an Aufladungen der Quest-Tickets hat bereits den max. Wert.
+629,"Du musst mindestens 3 Sterne erhalten, um Auto-Erledigen in diesem Abschnitt nutzen zu können."
+630,Keine Objektinteraktionen übrig.
+631,Mit diesem Objekt wurde bereits interagiert.
+632,Unzulässige Quest-Akt-Nummer.
+633,Quest-Akt noch nicht abgeschlossen.
+634,Belohnung für das Abschließen des Quest-Akts bereits erhalten.
+635,Belohnung für das Abschließen des Quest-Akt-Fortschritts bereits erhalten.
+636,Nicht genug Questschriftrollen.
+637,Nicht genug Zurücksetzungen für Questschriftrolle.
+701,"Fertigkeit ist auf max. Level.
+Lass deinen Charakter im Level aufsteigen und versuche es erneut."
+702,Unzulässige Fertigkeitsdeck-Kennung.
+703,Wechsel des Fertigkeitsdecks fehlgeschlagen.
+704,Fertigkeit kann mit dieser Waffe nicht verwendet werden.
+801,Dieser Spieler ist bereits ein Freund.
+802,Du hast bereits eine Anfrage gesendet.
+803,Keine Freundschaftsanfrage erhalten.
+804,Kein Freund.
+805,Spieler nicht gefunden.
+806,Deine Freundesliste ist voll.
+807,Deine Slots für erhaltene Freundschaftsanfragen sind voll.
+808,Du kannst dich nicht selbst grüßen.
+809,Du hast bereits gegrüßt.
+810,Du kannst dir selbst keine Anfrage senden.
+811,Erstellen einer Liste empfohlener Freunde fehlgeschlagen.
+812,"Kein Freund.
+1:1-Chat ist nur zwischen befreundeten Spielern verfügbar."
+813,Du hast keine Grüße von Freunden.
+814,Dieser Spieler hat das Freundetutorial noch nicht abgeschlossen.
+815,Freundschaftsanfrage wurde angenommen.
+816,Du hast das tägliche Limit für Grüße erreicht.
+817,"Du hast keine Freunde, die du grüßen kannst."
+818,Die Freundesliste dieses Spielers ist voll.
+819,Du hast bereits zu viele Freundschaftsanfragen gesendet.
+847,Nur der Gruppenführer kann den Zutritt anfragen.
+848,Du nimmst bereits an einem Dungeon teil.
+849,Aktion kann in einer Gruppe nicht durchgeführt werden.
+850,Du hast diesen Spieler bereits eingeladen.
+851,Diese Gruppe existiert nicht.
+852,Du wurdest nicht in eine Gruppe eingeladen.
+853,Du bist bereits in einer Gruppe.
+854,Du bist in keiner Gruppe.
+855,Der Gruppenführer ist offline.
+856,Da kannst du nicht hingehen.
+857,Du bist bereits der Gruppenführer.
+858,Du hast nicht die Autorität.
+859,Das kannst du nicht tun.
+860,Gruppe ist voll.
+861,Nicht online.
+862,Keine Anfrage zum Gruppenbeitritt gestellt.
+863,"Ziel ist in einer Region, in die du nicht gelangen kannst oder aus dem es nicht beschworen werden kann."
+864,Nicht in einem Raum.
+865,Das ist hier nicht möglich.
+866,Während einer Burgbelagerung/Festenbelagerung kann keine Gruppe gebildet werden.
+867,Nicht genug Gruppenmitglieder.
+868,Nur der Gruppenführer kann auflösen.
+869,Dieser Spieler hat das Gruppentutorial noch nicht abgeschlossen.
+870,Suche läuft bereits.
+871,"In einer Region, in der die Schnellsuche nicht verwendet werden kann."
+872,In einem instanziierten Dungeon nicht möglich.
+873,Keine Gruppe.
+874,Nicht möglich.
+875,Nicht in der Warteschlange für einen Gruppen-Dungeon.
+876,Gruppenmitglied nicht gefunden.
+877,Nicht genug Gruppenmitglieder.
+878,"Nicht möglich, während nach einer Gruppenzusammenstellung gesucht wird."
+879,Bereits für den Gruppen-Sprachchat registriert.
+880,Nicht für den Sprachchat registriert.
+881,Apollo-Sprachfehler.
+882,Gruppenquest wird nicht geteilt.
+883,Das Level eines Spielers ist zu niedrig.
+884,Rekrutierung bereits im Gange.
+885,Ein Mitglied befindet sich in einer nicht zugänglichen Region.
+886,Ein Gruppenmitglied hat nicht genügend Dungeon-Zutritte übrig.
+887,Ein Gruppenmitglied erfüllt die Bedingungen zum Betreten des Dungeons nicht.
+888,"Nicht möglich, während die Gruppe voll ist."
+889,"Nicht möglich, während ein Gruppenmitglied eingeladen wird."
+890,Anfrage möglich nach [Time].
+891,Du hast dieser Gruppe bereits eine Beitrittsanfrage gesendet.
+892,Der Gruppenführer ist in der Nähe.
+893,Unmöglich für eines der Gruppenmitglieder.
+894,Gruppenbeitritt nicht möglich.
+901,"Diese Kennung gehört entweder zu einem Klan, der nicht existiert, oder zu einem ganz anderen Klan."
+902,Länge des Klannamens ist unzulässig.
+903,Es gibt bereits einen Klan mit diesem Namen.
+904,Bereits in einem Klan.
+905,Noch nicht in einem Klan.
+906,Du hast nicht die Klan-Autorität.
+907,Dieser Klan ist nicht öffentlich.
+908,Beitrittsanfrage bereits gestellt.
+909,Klan-Beitrittsanfrage noch nicht gestellt.
+910,Du kannst kein weiteres Klanmitglied mehr annehmen.
+911,Gilt nur für niedrigrangige Klanmitglieder.
+912,Diese Währung kann nicht gespendet werden.
+913,Unzulässige Spendenanzahl.
+914,Stimme für die Absetzung bereits abgegeben.
+915,Du hast für den Klan bereits eingecheckt.
+916,Kein weiteren Klangrüße mehr möglich.
+917,Du hast diesen Spieler bereits gegrüßt.
+918,Nicht genug Klanmünzen.
+919,Unzulässige Klan-Buff-Kennung.
+920,Du hast diesen Klan-Buff bereits.
+921,Unzulässige Kennung der Burginformation.
+922,Nicht genug Klan-Adena.
+923,Mehr können nicht aufgenommen werden.
+924,Unzulässige Kennung der Klanemblem-Information.
+925,Dieser Klanrang kann keinen weiteren Mitgliedern gewährt werden.
+926,Kein Klan.
+927,Bereits verbündet.
+928,Allianzanfrage bereits gesendet.
+929,Du wurdest nicht in einen Klan eingeladen.
+930,Kein verbündeter Klan.
+931,Es können keine weiteren Allianzen mehr eingegangen werden.
+932,Dieser Klan kann keine weiteren Allianzen mehr eingehen.
+933,Klanführer kann den Klan nicht verlassen.
+934,Es können keine weiteren feindlichen Klans mehr registriert werden.
+935,Bereits ein feindlicher Klan.
+936,Kein feindlicher Klan.
+937,Krieg gegen einen feindlichen Klan ist nicht verfügbar.
+938,Feindlicher Klan kann nicht gelöscht werden.
+939,Ein Kampf gegen einen feindlichen Klan kann nicht aufgegeben werden.
+940,Keine Klan-Buffs.
+941,Mit einem feindlichen Klan kann keine Allianz eingegangen werden.
+942,Mit einem Allianz-Klan kann keine Feindseligkeit eingegangen werden.
+943,"Der Preis, den du eingibst, muss höher als das Minimalgebot sein."
+944,"Du kannst diese Funktion nicht verwenden, das Klanlevel ist zu niedrig."
+945,"Der gegnerische Klan kann nicht als feindlich festgelegt werden, da sein Level zu niedrig ist."
+946,"Das Level der Beitrittsbeschränkung wurde angehoben.
+Beitrittsanfrage nicht möglich."
+947,"Beitritt erfordert jetzt Zustimmung.
+Beitrittsanfrage nicht möglich."
+948,Du hast das tägliche Limit für Spenden erreicht.
+949,Nicht genug Blutzeugnisse.
+950,Maximale tägliche Menge gekauft.
+951,Du kannst keine weiteren Beitrittsanfragen mehr annehmen.
+952,Unzulässiger Klanname.
+953,Leerzeichen im Klannamen sind nicht möglich.
+954,"Alle Klanmitglieder müssen den Klan verlassen, damit er aufgelöst werden kann."
+955,"Wegen einer Strafe dafür, dass du einen Klan verlassen und neu betreten hast, kannst du nicht an Klan-Aktivitäten teilnehmen."
+956,Bereits ein Klanmitglied.
+957,@GuildJoined
+958,Alle feindlichen Klans sind registriert.
+959,Nicht der Klanführer.
+960,Maximale wöchentliche Menge gekauft.
+961,Maximale monatliche Menge gekauft.
+962,Hochrangige Mitglieder können nicht hinausgeworfen werden.
+963,Dieser Spieler hat das Klantutorial noch nicht abgeschlossen.
+964,Es können keine weiteren feindlichen Klans mehr registriert werden.
+965,"Kauf nicht möglich, nicht genug Klan-Blutzeugnisse."
+966,"Beitreten, Verlassen, das Übertragen der Klanführerrolle
+oder die Auflösung des Klans ist während einer Burgbelagerung nicht möglich."
+967,"Beitreten, Verlassen, das Übertragen der Klanführerrolle
+oder die Auflösung des Klans ist während einer Festenbelagerung nicht möglich."
+968,Dieser Klan-Dungeon ist nicht verfügbar.
+969,Du bist kein berechtigtes Klanmitglied.
+970,Dieser Klan-Dungeon wurde bereits erledigt.
+971,Das Limit für das Zurücksetzen wurde erreicht.
+972,Dieser Klan-Dungeon wurde noch nicht erledigt.
+973,Nicht genug Rotsternsteine.
+974,Keine Klan-Check-in-Belohnung verfügbar.
+975,Kein Klan-Check-in verfügbar.
+976,Du hast die Klan-Check-in-Belohnung bereits eingefordert.
+977,Dieses Klanmitglied hat sich schon lange nicht mehr eingeloggt.
+978,Klan existiert nicht oder Klan ist nicht registriert.
+1001,Unzulässige Portalkennung.
+1002,Kontrolle nicht möglich.
+1101,Gebot auf Burgbelagerung fehlgeschlagen.
+1102,Abbruch des Gebots auf Burgbelagerung fehlgeschlagen.
+1103,Unzulässig Burgbelagerung.
+1104,Keine Information zu Burgbelagerungsgebot.
+1105,Nicht genug Burgbelagerungsfest-Coupons.
+1106,Keine Burgbelagerungsfest-Gutscheine.
+1107,Nicht genug Währung zum Bieten.
+1108,Nicht die Zeit zum Bieten.
+1109,Höheres Angebot bereits abgegeben.
+1110,Unzulässiger Burgbelagerungsfest-Slot.
+1111,"Nur Klans, die erfolgreich geboten haben, können teilnehmen."
+1112,Gutscheinbelohnung kann zurzeit nicht erhalten werden.
+1113,Burgbelagerung ist nicht im Gange.
+1114,Ein Gebot über die gleiche Menge ist nicht möglich.
+1115,Aus dieser Welt kannst du nicht zur Burgbelagerung.
+1116,Es gibt keinen besiegten Klan.
+1117,Es gibt keine Burgbelagerungschronik.
+1118,Burgbelagerungsfest ist derzeit nicht aktiv.
+1119,"Kauf nicht möglich, da kein Klan eine Burg erobert oder auf eine Burg geboten hat."
+1151,Bieten fehlgeschlagen.
+1152,Abbrechen des Gebots fehlgeschlagen.
+1153,Unzulässige Festenbelagerungs-Registrierung.
+1154,Keine Information zu Festenbelagerungsgebot.
+1155,Unzulässige Gebietsinformation.
+1156,Unzulässige Kennung der Festeninformation.
+1157,"Klans, die Burgen besitzen, können nicht bieten."
+1158,Festenbelagerung ist nicht im Gange.
+1159,Dieser Klan hat nicht an der Festenbelagerung teilgenommen.
+1160,"Kauf nur möglich für Klans, die Burgen erobert haben."
+1161,"Kauf nur möglich für Klans, die Festen erobert haben."
+1162,"Klans, die Festen besitzen, können nicht bieten."
+1190,"Nur Klanmitglieder, die an einer Burgbelagerung oder
+Festenbelagerung teilnehmen, können sich registrieren."
+1201,Unzulässiger Preis.
+1202,@InvalidName
+1203,"Keine Gegenstände vorhanden, die verwendet werden können."
+1204,Unzul. Status.
+1205,Muss ein ausgerüsteter Gegenstand sein.
+1206,Dies ist der Verkäufer.
+1207,Keine Suchergebnisse.
+1208,Dieser Typ kann nicht registriert werden.
+1209,Bereits ausverkauft.
+1210,Zulässige Anzahl an Registrierungen überschritten.
+1211,Gegenstandsstufe falsch.
+1212,Kein relevanter Name und keine relevante Kategorie.
+1213,Kein relevanter Name und keine relevante Stufe.
+1214,Nicht genug Adena zur Registrierung beim Handelsposten.
+1215,Deine Handelsposten-Favoritenliste ist voll.
+1216,Identischer favorisierter Gegenstand.
+1217,Keine favorisierten Gegenstände.
+1218,Gegenstand kann nicht registriert werden.
+1219,Seelenkristall ist ausgerüstet.
+1220,Die maximale Anzahl an registrierbaren Gegenständen wurde erreicht.
+1221,Nicht genug Handelsposten
+1222,Teile des Gegenstands wurden verkauft.
+1301,Unzulässige Gegenstandskennung.
+1302,Unzulässiger Kaufgegenstand.
+1303,Unzulässiger Währungstyp.
+1304,Gegenstand kann nicht registriert werden.
+1305,Du kannst den ersten Kaufgegenstand nicht erwerben.
+1306,Kauf während Abklingzeit nicht möglich.
+1307,Erlaubte tägliche Kaufmenge überschritten.
+1308,Erlaubte wöchentliche Kaufmenge überschritten.
+1309,Erlaubte monatliche Kaufmenge überschritten.
+1310,Nicht die Zeit zum Einkaufen.
+1332,Verkauf dieses Gegenstands wurde beendet.
+1311,Dieser Gegenstand kann nicht kostenlos erhalten werden.
+1312,Der gleiche Typ Monatspäckchen wird bereits verwendet.
+1313,Du hast die Monatspäckchenbelohnung nicht oft genug erhalten.
+1314,Ungültige Anfrage.
+1315,Reitertyp des gekauften Gegenstands ist falsch.
+1316,Es wird bereits ein Annuitätsgegenstand verwendet.
+1317,Unzulässige Kennung der Ladenbelohnungs-Information.
+1318,Keine laufendes Ladenbonus-Event.
+1319,Unzulässige Bezeichnung des Ladenbelohnungstyps.
+1320,"Es gibt keine Belohnungen, die du erhalten kannst."
+1321,Event-Periode wurde erneuert.
+1322,Kein zurückkehrender Spieler.
+1323,Kein neuer Spieler.
+1324,Die Verkaufsperiode ist beendet.
+1325,Ausverkauft.
+1326,Bedingungen für den Kauf wurden nicht erfüllt.
+1327,Kauf fehlgeschlagen.
+1328,Unzulässiger Belohnungstyp für Annuitätsgegenstand.
+1329,Anfrage an den Kundensupport.
+1330,Unzulässige Kennung der Pop-up-Information.
+1331,Limitierter Gegenstand wurde ausverkauft.
+1401,Unzulässige Dungeon-Kennung.
+1402,Es sind keine Dungeon-Zutritte übrig.
+1403,Freier Zutritt zu den Tagesdungeons ist nur an speziellen Tagen verfügbar.
+1404,Dungeon nicht erledigt.
+1405,Du bist nicht in einem Dungeon.
+1406,"Du kannst den Turm der Anmaßung nicht betreten, weil
+du keine Zutritte mehr übrig hast."
+1407,Dungeon wurde noch nicht erledigt.
+1408,"Es gibt keine Möglichkeit, Auto-Erledigen für Dungeons einzusetzen."
+1409,Tagesdungeons können nicht kostenlos betreten werden.
+1410,Es kann nicht weiter entnommen werden.
+1411,Unzulässige Dungeon-Quest-Information.
+1412,Dungeon-Quest wurde noch nicht abgeschlossen.
+1413,Du hast die Belohnung für das Erledigen dieses Dungeons bereits erhalten.
+1414,"Nicht genug Dungeon-Questpunkte, um Belohnungen zu erhalten."
+1415,Es ist noch Zeit für die Dungeon-Bonuszeit übrig.
+1416,Nicht genug Aufladungen für Dungeon-Bonuszeit.
+1417,Auto-Erledigen ist nach dem ersten Erledigen von Elite-Dungeon-Quests verfügbar.
+1418,Es sind keine Tagesdungeon-Zutritte übrig.
+1419,"Auto-Erledigen ist nicht verfügbar, der Rang, auf dem der Dungeon abgeschlossen wurde, ist zu niedrig. Steigere den Rang und versuche es erneut."
+1420,Du kannst aus der aktuellen Welt nicht in einen Dungeon.
+1421,"Es gibt noch Möglichkeiten, Tagesdungeons zu betreten."
+1422,Du kannst diesen Tagesdungeon nicht länger betreten.
+1423,Es sind keine Dungeon-Zutritte übrig.
+1424,Du kannst diesen Dungeon nicht betreten.
+1425,Es sind Dungeon-Zutritte übrig.
+1426,"Alle Möglichkeiten, Aufladungen zu erkaufen, sind bereits verbraucht."
+1501,Unzul. PvP-Status.
+1502,Dein Rang hat sich geändert.
+1503,Der Rang des Ziels hat sich geändert.
+1504,Der Status des Ziels ist: kampfbereit.
+1505,Du wurdest im PvP angegriffen.
+1506,Nicht genug Tickets für PvP.
+1507,Du bist nicht in der Arena.
+1508,PvP-Start wurde nicht bestätigt.
+1509,Kein PK-Status.
+1510,Bandenliste ist voll.
+1511,Nicht in Bandenliste gefunden.
+1512,Dieser Spieler ist bereits registriert.
+1513,Waffe nicht ausgerüstet.
+1514,Belohnung bereits erhalten.
+1515,Kein Arena-Rang.
+1516,Kein Arenabelohnung.
+1517,Du kannst keine weiteren PvP-Tickets kaufen.
+1518,Unzulässiges Duellziel.
+1551,Klassentransfer-Quest ist bereits im Gange.
+1552,Klassentransfer-Quest ist noch im Gange.
+1553,Es ist noch eine Klassentransfer-Belohnung übrig.
+1554,Kann nicht abgeschlossen werden.
+1555,Belohnungen können nicht erhalten werden.
+1556,Unzulässige Kennung der Klassentransfer-Quest.
+1601,Quest bereits abgeschlossen.
+1602,@NotCompeletableStateMissionRequest
+1603,@InvalidQuestInfoId
+1604,Unzulässige Kennung der Questbelohnung.
+1701,Unzulässige Tutorialkennung.
+1702,Tutorialdurchlauf fehlgeschlagen.
+1703,Unzulässiger Tutorialabschnitt.
+1704,@TutorialWorldAcquireFailed
+1705,Tutorialabschnitt wurde abgeschlossen.
+1706,Du hast das Tutorialmaterial bereits erhalten.
+1707,Tutorial hat noch nicht begonnen.
+1708,Pflichttutorial ist im Gange.
+1709,Tutorial wurde bereits abgeschlossen.
+1710,Du hast die Belohnung bereits erhalten.
+1711,Tutorialspieler - Spielt nur das Tutorial.
+1712,Dies ist kein Tutorialspieler.
+1713,Kann nicht übersprungen werden.
+1714,Tutorial kann in Dungeons nicht gespielt werden.
+1801,Redis-Serverfehler.
+1802,Unzulässige Kennung der Ranglisteninformation.
+1803,Keine Ranglistendaten.
+1804,Unzulässige Seite.
+1850,Sprachchat wurde nicht zurückgesetzt.
+1851,Reaktionszeit des Sprachchat-Server hat sich geändert.
+1901,Du hast das Limit für Burgbelagerungsfest-Coupons erreicht.
+1902,Du hast das Limit für FP erreicht.
+1903,Du hast das Limit für Arenatickets erreicht.
+1904,Du hast das Limit für Rote Diamanten erreicht.
+1905,Du hast das Limit für Blaue Diamanten erreicht.
+1906,Du hast das Limit für Treuepunkte erreicht.
+1907,Du hast das Limit für Freundschaftspunkte erreicht.
+1908,Du hast das Limit für Topase erreicht.
+1909,Du hast das Limit für Klanmünzen erreicht.
+1910,Du hast das Limit für Adena erreicht.
+2001,Unzulässiger Event-Typ.
+2002,Das Event ist zurzeit nicht im Gange.
+2003,Du hast die Event-Belohnungen bereits erhalten.
+2004,Unzulässige Event-Bedingungen.
+2005,Du erfüllst die Event-Bedingungen nicht.
+2006,Du hast die maximale Anzahl an Event-Belohnungen bereits erhalten.
+3000,NetmarbleS In-App-Käufe - Ziel zum Erhalt des Geschenks hat das Limit überschritten.
+3001,NetmarbleS In-App-Käufe - Geschenklimit überschritten.
+3002,NetmarbleS In-App-Käufe - Zahlungslimit überschritten.
+3003,NetmarbleS In-App-Käufe - Fehler.
+3004,NetmarbleS In-App-Käufe - Kein registrierter Gegenstand.
+3005,NetmarbleS In-App-Käufe - Keine Antwort vom Server. Versuche es erneut.
+3006,NetmarbleS In-App-Käufe - Server-Wartung im Gange.
+3007,Gegenstands-Nutzungsfehler.
+3008,Gegenstandsverkaufsperiode beendet.
+3009,Dieser Gegenstand ist nicht vorrätig.
+3101,Bestätigung der Pre-Registrierung fehlgeschlagen.
+3102,Verifizierung der Vorab-Registrierung fehlgeschlagen.
+4001,Spieler hat diese Region noch nicht betreten.
+9000,Paket wird gelöscht werden.
+9001,Bald verfügbar
+9002,Überschritten.
+981,Nicht genug Klanhallen-ERF für Levelaufstieg.
+980,"Die Klanhalle dieses Klans ist geschlossen.
+Du kannst die Klanhalle nur betreten, wenn die Türen offen sind."
+990,Dieser Klan hat keine Klanhalle gekauft.
+991,Du bist bereits in der Klanhalle.
+5600,"Du kannst Spieler innerhalb von 200 Punkten Abstand
+zur Punktezahl des Schlachtfeldgruppenführers einladen."
+5601,Dieser Spieler ist bereits in einer Schlachtfeldgruppe.
+498,"Du kannst keinen Seelenschuss kaufen,
+während deine Seelenschüsse aktiv sind."
+992,Dieses Mitglied hat das Limit für Preise erreicht.
+993,"Es gibt keine Klanmitglieder, die du belohnen kannst."
+92,"Die Barriere wurde geschlossen, die Beschwörungszeit ist zu Ende.
+Der Kampf um diesen Dungeon ist vorüber."
+5602,"Zurzeit ist keine Saison.
+Deine Punktzahl wird angerechnet, sobald die reguläre Saison beginnt."
+999,"Die Klanhalle kann nicht aufgelöst werden, es befindet sich ein Spieler darin."
+1013,"Du kannst die Position des Klanführers nur an einen Spieler abgeben, der seit mindestens 7 Tagen Mitglied ist."
+979,Du hast die Klanhalle bereits gekauft.
+982,Nicht genug Fragmente des Kristalls der Eintracht für den Levelaufstieg.
+1004,"Klanhallen-Solo-Quests werden täglich zurückgesetzt
+und es ist täglich nur eine verfügbar."
+983,"Es gibt kein Limit, wie viele Klanhallen-Quests du täglich abschließen kannst,
+aber es können nur 3 gleichzeitig erledigt werden."
+984,Die Klanhallen-Quest ist bereits im Gange.
+985,Ein anderes Klanmitglied arbeitet bereits an dieser Quest.
+986,Diese Quest wurde bereits abgeschlossen.
+987,Diese Quest ist zur Zeit nicht im Gange.
+988,Diese Quest kann derzeit nicht abgeschlossen werden.
+989,"Lass die Klanhalle im Level aufsteigen, um
+den Kristall der Eintracht zu stärken."
+994,"Zum Benutzen muss du einen höherstufigen
+Hüter anheuern."
+995,Ein anderes Relikt wurde bereits registriert.
+996,Es gibt keine registrierten Relikte.
+997,"Es ist mehr Zeit nötig, um das Relikt zu schätzen."
+998,Nicht genug Klanrelikt-Truhen-Punkte.
+1000,"Ein gleichwertiges oder besseres Festmahl
+wurde bereits vorbereitet."
+1010,Der Hüter ist bereits mit einer Aufgabe beschäftigt.
+1011,Dies ist ein unbekannter Typ Hüter.
+1012,Hüter kann nicht auf die gewählte Stufe verbessert werden.
+1021,Kein Kampf gegen feindlichen Klan.
+1022,Ende des Kampfes gegen feindlichen Klan wird bereits verhandelt.
+1023,Ende des Kampfes gegen feindlichen Klan wird nicht verhandelt.
+1024,Nicht genug Klanmitglieder für einen Kampf.
+1025,Nicht genug feindliche Klanmitglieder für einen Kampf.
+93,Kanal kann im Kampf nicht geändert werden.
+500,"Verlasse die Geplänkel-Arena, um dich zu bewegen."
+97,Nicht genug Ehrenmünzen.
+98,Nicht genug Couragemünzen.
+99,Nicht genug Uralte Münzen.
+1911,Limit für Ehrenmünzen erreicht.
+1912,Limit für Couragemünzen erreicht.
+1913,Limit für Uralte Münzen erreicht.
+895,"Schlachtfeld kann nicht betreten werden, wenn es vorbereitet wird."
+1014,"Nicht genug Anzündholz, um ein Feuer in der Feuerstelle zu entfachen."
+1015,Herstelllimit erreicht.
+1051,Dieser Gegenstand kann nicht als Preis vergeben werden.
+400,Es sind keine FP verfügbar.
+5300,Unzulässige Reitbegleiter-Kennung.
+5301,Unzulässige Kennung der Reitbegleiter-Information.
+5302,Kein Reitbegleiter ausgerüstet.
+5303,Du möchtest auf einen identischen Reitbegleiter aufsitzen.
+5304,Dieser Gegenstand gehört einem anderen Reitbegleiter.
+5305,Limit für die Nutzung dieses Reitbegleiter-Gegenstands erreicht.
+5306,Reitbegleiter-Information stimmt nicht überein.
+5307,"Reitbegleiter kann nicht aktiviert werden, dein Level ist zu niedrig."
+5308,Kein Reitbegleiter aktiv.
+5309,Stufe des Reitbegleiters ist zu niedrig.
+5310,Die Bedingungen zum Aktivieren dieses Reitbegleiters sind nicht erfüllt.
+5311,Dies ist kein Reitbegleiter-Gegenstand.
+5312,Unzulässiger Slot zum Ausrüsten dieses Reitbegleiter-Gegenstands.
+5313,"Nicht genug Materialien, um den Reitbegleiter im Level aufsteigen zu lassen."
+5314,Du kannst hier nicht auf einen Reitbegleiter aufsitzen.
+5315,Level des Reitbegleiters ist zu niedrig.
+6500,Limit für Bindungen erreicht.
+896,"Du hast ungültige Zeichen verwendet.
+(Du kannst keine Sonderzeichen oder Slangworte verwenden.)"
+898,"Einschließlich Leerzeichen können nur 2-16 Zeichen
+(2-12 für Koreanisch oder Chinesisch)
+verwendet werden."
+897,Du kannst nur ein Leerzeichen auf einmal haben.
+5400,Dies ist zurzeit nicht verfügbar.
+1121,"Du kannst das Belagerungshauptquartier nicht betreten, weil es zerstört wurde."
+899,"Du kannst einer Gruppe von Klanmitgliedern nur während einer Festenbelagerung oder Burgbelagerung beitreten
+oder sie in deine Gruppe einladen."
+6600,"Dies ist zurzeit nicht verfügbar. Du kannst den Namen nur im Feld ändern, und nicht, wenn du Mitglied einer Gruppe bist."
+1055,Die Antwort vom Netmarble-Server ist zurzeit verzögert. Bitte versuche es erneut.
+900,Du kannst an deiner derzeitigen Position keine Einladungen schicken/erhalten.
+5603,Suchen von Gruppenmitgliedern ist während des Platzierungszeitraums nicht verfügbar.
+5604,"Du kannst keiner Gruppe von Spielern beitreten, die derzeit an Platzierungstests teilnehmen."
+7100,Stufe UR kann nicht als Attribut-Material verwendet werden.
+107,"Du kannst nicht eintreten, solange du tot bist.
+Bitte versuche es nach der Wiederbelebung erneut."
+1056,Dein Level ist niedriger als das benötigte Zutrittslevel.
+1057,Deine aktuelle Kampfkraft ist niedriger als die benötigte Kampfkraft für den Zutritt.
+1058,Du hast nicht genug Klanhilfe-Zutritte.
+1059,"Du hast die maximale Anzahl an Spielern erreicht, die an der Klan-Dungeon-Hilfe teilnehmen können."
+1060,"Du kannst einen Dungeon nicht mit [Beitreten] betreten, wenn du bereits an einem Dungeon teilnimmst."
+1061,Du bist außerhalb des unterstützten Levelbereichs für den Klan-Dungeon.
+1062,Du bist außerhalb des unterstützten Kampfkraftbereichs für den Klan-Dungeon.
+1063,Du bist außerhalb des Spielerzahlbereichs für Klan-Dungeon-Hilfsrekruten.
+1064,Der Ruf nach Klan-Dungeon-Hilfe wurde zurückgestellt.
+108,Du hast die maximale Anzahl an sofortigen Wiederbelebungen erreicht.
+109,Zu voll zum Betreten.
+110,Nicht genug Grüne Diamanten.
+111,@NotEnoughFreeDiamondStorage
+112,Nicht genug Blaue Diamanten oder Grüne Diamanten.
+1914,Du hast das Limit für Grüne Diamanten erreicht.
+1065,Boss des Klan-Dungeons wurde besiegt.
+638,"Du hast bereits eine Sondermission.
+Du musst zuerst laufende Sondermissionen abschließen."
+1066,@PartyInvalidName
+1067,"Es gibt keine Ziele, an denen du Rache üben könntest."
+1068,Spieler ist nicht im Raum.
+1069,"Hier ist es nicht möglich, eine Rache zu unterstützen."
+1605,Es gibt keine Reisequestbelohnung.
+5101,"Dieser Titel wurde aktiviert,
+also kannst du keine Gegenst. nutzen."
+113,@PartyInvalidName
+1005,Dieser Spieler hat bereits eine Klaneinladung erhalten.
+1006,Klaneinladung fehlgeschlagen. Max. Anzahl Klaneinladungen verschickt.
+1007,Dieser Spieler hat die Klaneinladung abgelehnt.
+1008,Klaneinladung an diesen Spieler unmöglich.
+114,"Einschließlich Leerzeichen können nur 2-25 Zeichen
+(2-20 für Koreanisch oder Chinesisch)
+verwendet werden."
+1026,Klaneinladungs-Werbung wird bald verfügbar sein.
+1334,"Dieser Kauf ist nur Klanangehörigen verfügbar.
+Versuche es erneut, sobald du einem Klan beigetreten bist."
+1009,@PartyInvalidName
+1018,@PartyInvalidNameSpace
+1019,@PartyInvalidNameLength
+5607,Saison-Belohnung bereits abgeholt.
+6203,Nicht genug Öffnungen mit Adena. Es können täglich nur 2 mit Adena geöffnet werden.
+8600,Unzulässige Minispiel-Kennung
+8601,Keine Belohnungen verbleibend
+8602,Nicht in Minispiel-Welt
+8603,Minispiel ist nicht zugänglich
+1027,Keine Klanhallen-Quests verbleibend.
+1430,"Einem Gruppenmitglied wurde eine Strafe fürs Verlassen auferlegt.
+Zutritt nicht möglich."
+1431,"Du hast vor Kurzem einen Zeit-Rift frühzeitig verlassen.
+Dir ist der Zutritt für bestimmte Zeit verwehrt."
+2211,Dieser Umhang wurde bereits erhalten.
+2212,Unzulässiger Umhangstyp.
+2213,Umhang nicht gefunden.
+2214,Dir fehlt der für die Umhangsaktivierung nötige Umhang.
+2215,Umhangslevel zu niedrig für Umhangsaktivierung.
+2216,Daten zu Umhangskampfdeck unzulässig.
+2217,Daten zu Umhangskampfdeck können nicht abgerufen werden.
+2218,Umhang ist auf max. Level.
+2219,Umhang nicht aktiviert.
+2220,Daten zu Umhangsfarbe unzulässig.
+2221,Daten zu Umhangstyp unzulässig.
+2222,Daten zu Umhangs-Subwertsperre unzulässig.
+2223,Nur Klanführer können das Level von Klanumhängen erhöhen oder ihre Farbe ändern.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
+122,Enthält verbotene Worte.
+123,@PartyInvalidNameSpace
+7103,Nutzungslevel des Gegenstands ist auf Max.
+1432,"Aufladen nicht möglich, wenn die Belohnungen auf Max. sind."
+1433,Alle Belohnungsaufladungen aufgebraucht.
+-1,Max. mögliche Zurücksetzungen auf der Schatztafel erreicht. Zurücksetzen nicht möglich.
+6201,Für die Zurücksetzung auf die nächste Schatztafel musst du mindestens 20 Zellen öffnen.
+6202,Insgesamt nicht genug Schätze geöffnet.
+1333,Liga-Stufe zu niedrig für Kauf.
+1434,"Zutritt nicht möglich, da der Rift geschlossen ist."
+2201,Dieses Event kann nicht gefunden werden.
+2202,Bald verfügbar.
+2203,Dieses Event ist beendet.
+2204,Alle Ziehungsbelohnungen wurden aufgebraucht.
+2205,Nicht genug Tickets.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Charaktername existiert bereits
+7300,Zeichenbegrenzung
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Zeitlich begrenzte Gegenstände nicht verwendbar.
+1350,Beitrittsanfrage für die Offene Belagerung bereits gestellt.
+1351,"Ein Spieler ist schon bereit, um der Offenen Belagerung beizutreten."
+1352,Kann keinen Spieler finden.
+1353,Ein Spieler befindet sich bereits in deiner Gruppe.
+1354,Diese Gruppe für Offene Belagerung kann nicht gefunden werden.
+1355,Maximale Anzahl an Gruppenmitgliedern erreicht.
+1356,Spieler gehört derzeit einer Gruppe in einer Offenen Belagerung an.
+1357,Keine angeschlossene Gruppe.
+1358,Nicht der Gruppenführer.
+1359,Du kannst dich nicht selbst hinauswerfen.
+1360,Dieser Spieler kann nicht gefunden werden.
+1361,Diese Aktion kann nicht vom Gruppenführer ausgeführt werden.
+1362,Diese Aktion kann während der Vorbereitung nicht ausgeführt werden.
+1363,Derzeit nicht möglich.
+1364,"Wähle eine Klasse, um die Vorbereitungen abzuschließen."
+1365,Ein Gruppenmitglied ist nicht bereit.
+1366,Bereit!
+1367,Noch nicht bereit.
+1368,Diese Aktion kann noch nicht ausgeführt werden.
+1369,Vorherige Teilnahmechronik ermittelt.
+1370,Betreten des Dungeons wird vorbereitet.
+1371,Ein Spieler bereitet sich auf das Betreten des Dungeons vor.
+1372,"Diese Aktion ist nicht verfügbar, wenn ein Spieler an einer Offenen Belagerung teilnehmen möchte."
+1373,Ein Spieler nimmt derzeit an einer Offenen Belagerung teil.
+1374,Du kannst einer Offenen Belagerung von diesem Ort nicht beitreten.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,"Für den Zusehermodus ist der Zutritt eines Mitglieds eines Klans nötig, der an einer Festenbelagerung (oder Burgbelagerung) teilnimmt."
+1442,Dieser Gegenstand steht nicht mehr zum Verkauf bereit.
+7700,Nicht genug Meisterschaftstoken.
+1191,현재 관전 인원수가 최대 입니다.
+2008,Du hast den letzten Abschnitt bereits erreicht. Überprüfe das Event erneut.
+1339,Kauf erst nach Eroberung einer Feste mit angemessener Stufe möglich.
+2009,Maximale Anzahl an Würfelspielen erreicht.
+-1,Attrappe
+7550,"Du kannst den Gegenstand nicht erhalten, weil die Zeit abgelaufen ist."
+1120,Aufgeben nicht möglich.
+2250,Aktuelle KK geringer als das empfohlene Minimum für die ausgewählte Region. Teilnahme nicht möglich.
+2251,Spieler passt derzeit nicht.
+2252,Es gibt keine Infos zum Monster-Beschwörungsstein.
+2253,Derzeit nicht in einem Dungeon.
+2254,Gruppenführer ausgestiegen. Dungeon wird verlassen.
+2255,Aktion kann in einem Monster-Dungeon nicht abgeschlossen werden.

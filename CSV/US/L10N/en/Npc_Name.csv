@@ -49,6 +49,112 @@ Id,Title,Name
 303,,Gold Robust Ratel
 304,,Mandragora
 305,,Garden Sentry
+401,계정 창고지기,Nigel
+402,Silverlight Mercenaries,Aymel
+403,@205,@205
+404,,Silverlight Mercenary
+405,,마그나딘 경비병
+406,Master Blacksmith,Mobart
+407,,Spectator
+408,,@407
+409,Scroll Merchant,Wayless
+410,,Novice Wizard
+411,Librarian,Farjane
+412,,Reader
+413,,@412
+414,Baker,Bremen
+415,,Baker’s Child
+416,,Hungry Child
+417,,Bored Child
+418,Weapon Merchant,Pondiac
+419,,Adventurer
+420,,@419
+421,Fishing Merchant,Tegma
+422,,Fisherman
+423,,Wizard
+424,Pet Caretaker,Cuvi
+425,,Young Noblewoman
+426,,Curious Child
+427,,Romi
+428,,Julie
+429,,Old Man
+430,,Excited Child
+431,,Kid
+432,,Black Bear Cub
+433,,Explorer
+434,Barbecue Merchant,Maduka
+435,,Leah
+436,,Mio
+437,,Mercenary Officer
+438,,Worker
+439,Minstrel,Asiren
+440,Teleporter,@409
+441,Silverlight Mercenaries Leader,Hardin
+442,@402,Theodore
+443,Peddling Caravan Leader,Felicia
+444,@402,Russel
+445,Guide,Chau
+446,@445,Lyncia
+447,@445,Seikan
+448,Personal Storage Keeper,Gattuso
+449,미용사,Katrina
+450,Merrymaker,Lena
+451,Red Envelope,Ada
+452,Teleporter,Agatha
+453,@452,Catherine
+454,@452,Grace
+455,@452,Hanna
+456,Clan Keeper,Hubert
+457,Fortress Keeper,James
+458,Castle Siege Keeper,Harry
+459,Clan Hall Keeper,Jasmine
+460,Clan Auctioneer,Courtney
+461,Auctioneer,Dario
+462,@401,Dixie
+463,캐릭터 창고지기,Edith
+464,Battlefield Keeper,Dustin
+550,,Silverlight Mercenary
+551,,@550
+552,,Silverlight Mercenary Officer
+553,,Silverlight Mercenary Scholar
+554,,@553
+555,,@553
+556,,Caravan Member
+557,,@556
+558,,@556
+559,,Gludio Envoy
+560,,@559
+561,,@559
+562,,Dion Envoy
+563,,@562
+564,,@562
+565,,Giran Envoy
+566,,@565
+567,,@565
+568,,Oren Envoy
+569,,@568
+570,,@568
+571,,Innadril Envoy
+572,,@571
+573,,@571
+574,,Aden Envoy
+575,,@574
+576,,@574
+577,,Elmor Envoy
+578,,@577
+579,,@577
+580,,Gracia Envoy
+581,,@580
+582,,@580
+583,,Elven Envoy
+584,,@583
+585,,@583
+586,,Dark Elven Envoy
+587,,Member’s Family
+588,,@587
+589,,@587
+590,,@587
+591,,@587
 1001,For testing skill,Growler
 1101,For balancing battle,Lvl. 1 Growler
 1102,@1101,Lvl. 2 Growler
@@ -798,11 +904,11 @@ Id,Title,Name
 3144,,ArmoredGrandis
 3145,,EmbryonKnights
 3146,,Leonard
-10000,Silverlight Mercenaries Leader,Hardin
-10001,Silverlight Mercenaries,Theodore
+10000,@441,@441
+10001,@402,@442
 10002,Itinerant Vendor,Smiley
 10003,Smiley’s Carrier,Bambam
-10004,,Adventurer
+10004,,@419
 10005,,Guard
 10006,,@10005
 10007,,Guard Captain
@@ -818,37 +924,37 @@ Id,Title,Name
 10017,,@10012
 10018,,@10012
 10019,,@10012
-10020,,@10004
-10021,,@10004
+10020,,@419
+10021,,@419
 10022,,@10013
-10023,,@10004
+10023,,@419
 10024,,@10013
-10025,,@10004
+10025,,@419
 10026,,@10012
-10027,,@10004
-10028,,@10004
+10027,,@419
+10028,,@419
 10029,,@10012
 10030,,@10012
 10031,,@10012
 10032,,@10012
 10033,,@10012
-10034,,@10004
-10035,,@10004
-10036,,@10004
+10034,,@419
+10035,,@419
+10036,,@419
 10037,,@10012
-10038,,@10004
+10038,,@419
 10039,,@10012
-10040,,@10004
+10040,,@419
 10041,,@10012
 10042,,@10012
 10043,,@10012
-10044,,@10004
+10044,,@419
 10045,,@10012
 10046,,@10012
 10047,,@10012
 10048,,@10012
-10049,,@10004
-10050,,@10004
+10049,,@419
+10050,,@419
 10051,,@10012
 10052,,Priest
 10053,,@10052
@@ -878,7 +984,7 @@ Id,Title,Name
 10101,,Paws
 10102,,Sailor
 10103,,Blood Ranger
-10104,Auctioneer,Isaac
+10104,@461,Isaac
 10105,Port Master,Psyche
 10107,,@10102
 10108,,Navigator
@@ -892,10 +998,10 @@ Id,Title,Name
 10116,,@10113
 10117,Talking Island Archon,Daniel
 10118,@10114,Kynell
-10119,Clan Keeper,Krius
+10119,@456,Krius
 10120,Blacksmith,Veren
 10121,Soulshot Merchant,Roarke
-10122,Fishing Merchant,Dekkan
+10122,@421,Dekkan
 10123,Equipment Merchant,@10101
 10124,,Mercenary
 10125,Storage Keeper,Penzel
@@ -920,50 +1026,50 @@ Id,Title,Name
 10160,Wagon Merchant,Helia
 10161,,Town Guard
 10162,Mystic’s Pawn,Skeleton Soldier
-10163,@10001,Russel
+10163,@402,@444
 10164,Blood Ranger Captain,Austin
 10165,Blood Ranger Lieutenant,Arthur
 10166,Drillmaster,Albert the Giant
 10167,Academy Professor,Eugene
-10168,@10122,Tau
+10168,@421,Tau
 10169,,Jupie
 10170,,Orc Butcher
 10171,@10120,Leo
 10173,@10167,@10167
 10175,,Einhovant Mystic
 10176,@10153,@202
-10177,@10001,@10001
+10177,@402,@442
 10178,,@10103
 10184,@10153,@202
 10185,,@10103
-10186,@10001,@10163
+10186,@402,@444
 10187,,@10103
 10188,@10120,Ferron
 10189,@10144,@10144
 10190,,Orc Kidnapper
 10191,,Archaeologist
 10202,,Ticket Inspector
-10203,@10001,@10001
-10208,@10001,@10001
+10203,@402,@442
+10208,@402,@442
 10209,,@10103
 10210,Ranger Captain,Arnold
 10215,Ruins Keeper,Cecile
 10217,,Elizabeth
 10218,@10150,Canaria
-10219,@10001,@10163
+10219,@402,@444
 10220,,@202
-10221,@10150,Hanna
+10221,@10150,@455
 10223,,@10154
 10224,,@10154
 10225,@10150,@10218
-10226,@10150,@10221
+10226,@10150,@455
 10227,Ranger Lieutenant,Andy
 10230,@10153,@202
 10231,@10150,@10151
 10232,@10215,@10215
 10233,,@10103
 10234,@10215,@10215
-10235,@10001,@10001
+10235,@402,@442
 10236,Dark Brotherhood High Priest,Ethan
 10237,Ethan’s Pawn,@10162
 10238,@10210,@10210
@@ -980,24 +1086,24 @@ Id,Title,Name
 10312,Wizard,Luna
 10313,@10002,Abel
 10315,@10311,Picas
-10316,Castle Siege Keeper,Caiman
+10316,@458,Caiman
 10317,@10114,Kristina
-10318,@10119,Kyzel
+10318,@456,Kyzel
 10319,@10120,Gairan
 10320,@10121,Gauss
-10321,@10122,Dumel
+10321,@421,Dumel
 10322,@10123,Faust
 10323,@10115,Aruman
 10324,@10125,Prima
 10325,,Gludin Guard
 10326,Gludio Cardinal,Nestor
 10327,,Galatea
-10328,,@10004
-10329,,@10004
+10328,,@419
+10329,,@419
 10330,,Harvey
 10331,,Athena
-10332,,@10004
-10333,,@10004
+10332,,@419
+10333,,@419
 10334,,Aren
 10335,,Kris
 10336,,Erica Ken Weber
@@ -1011,14 +1117,14 @@ Id,Title,Name
 10344,Farm Siege Keeper,Hamel
 10345,,Augel
 10346,,Helena
-10347,@10001,@10163
+10347,@402,@444
 10348,,Eleanor
 10349,,Dark Mystic
 10350,,Byron
 10352,Eleanor’s Younger Sibling,Elos
 10353,@10164,Jackson
 10355,@205,@205
-10357,@10001,Aymel
+10357,@402,@402
 10358,,George
 10359,,John
 10360,,Thomas
@@ -1026,9 +1132,9 @@ Id,Title,Name
 10362,,Martin
 10363,,Gludin Soldier
 10364,,Charles
-10365,@10001,@10163
-10367,@10001,@10357
-10368,@10001,@10357
+10365,@402,@444
+10367,@402,@402
+10368,@402,@402
 10369,@205,@205
 10370,,@10350
 10371,,Blood Ranger
@@ -1039,7 +1145,7 @@ Id,Title,Name
 10376,,@10374
 10377,,@10374
 10378,,@10364
-10379,@10001,@10357
+10379,@402,@402
 10380,Ghost Ship First Mate,Billy
 10381,,@3064
 10382,,@3061
@@ -1055,31 +1161,31 @@ Id,Title,Name
 10392,Stranded Soldier,Bhan
 10393,Bhan's Comrade,Bolt
 10394,Gludio Town Crier,Zarin
-10395,@10001,@10357
+10395,@402,@402
 10396,,Einhasad Priest
 10397,,@10396
 10398,,@10396
 10399,,@10396
 10402,,Gludio Archon
-10403,@10001,@10357
+10403,@402,@402
 10404,,Monster Exterminator
 10405,,@10404
 10407,,Injured Soldier
-10408,,@10004
-10409,,@10004
-10410,,@10004
-10411,,@10004
-10412,,@10004
-10413,,@10004
-10414,,@10004
-10415,@10316,Damion
+10408,,@419
+10409,,@419
+10410,,@419
+10411,,@419
+10412,,@419
+10413,,@419
+10414,,@419
+10415,@458,Damion
 10416,@10114,Ilya
 10418,@10120,Mirio
 10419,@10121,Micia
-10420,@10122,Orpheus
+10420,@421,Orpheus
 10421,@10123,Kyritos
 10422,@10115,Asnath
-10423,@10104,Nebulus
+10423,@461,Nebulus
 10424,,Gludio Guard
 10426,,Lyra
 10427,,Helix
@@ -1088,7 +1194,7 @@ Id,Title,Name
 10430,,Kyliana
 10431,@10123,Gabi
 10432,@10115,Kachu
-10433,@10001,@10001
+10433,@402,@442
 10437,@205,@205
 10438,,Horen
 10439,,@10438
@@ -1110,11 +1216,11 @@ Id,Title,Name
 10456,@10447,@10103
 10457,@10447,@10103
 10458,@10236,Polemus
-10459,@10001,@10163
-10460,@10001,@10163
+10459,@402,@444
+10460,@402,@444
 10461,,Captured Guard
 10462,Western Blood Ranger Captain,Amos
-10463,@10001,@10357
+10463,@402,@402
 10464,,Militiaman
 10465,,West Blood Ranger
 10466,,Frantic Soldier
@@ -1125,16 +1231,16 @@ Id,Title,Name
 10471,@10447,@10447
 10472,,@10448
 10473,@10462,@10462
-10474,@10001,@10357
-10475,@10001,Lonna
+10474,@402,@402
+10475,@402,Lonna
 10476,,@10445
 10477,,@10465
-10478,@10001,@10001
-10479,@10001,@10357
-10480,@10001,@10163
+10478,@402,@442
+10479,@402,@402
+10480,@402,@444
 10483,@10443,@10443
-10484,@10001,@10357
-10486,@10001,@10357
+10484,@402,@402
+10486,@402,@402
 10487,Chancellor's Escort,Palmon
 10488,@10462,Alban
 10489,@10387,@10387
@@ -1152,7 +1258,7 @@ Id,Title,Name
 10502,Exhausted Soldier,Emil
 10503,,@3012
 10504,,Southern Troop Commandant
-10505,@10001,@10163
+10505,@402,@444
 10507,,Blood Ranger Soldier
 10508,Magitechie,Angie
 10509,Security Lieutenant,Reinheim
@@ -1165,7 +1271,7 @@ Id,Title,Name
 10516,,Scouting Party Member
 10517,Special Force Platoon 2 Leader,Miles
 10519,Ranger Soldier,Latos
-10521,@10000,@10000
+10521,@441,@441
 10522,Magic Leader,Aurora
 10523,,Escort Soldier
 10524,,@10507
@@ -1177,12 +1283,12 @@ Id,Title,Name
 10530,@10522,@10522
 10531,@10210,@10511
 10532,,Reinforcement
-10533,@10000,@10000
+10533,@441,@441
 10534,,@10407
 10535,@10502,@10502
 10537,,@10510
 10538,Insane,@10508
-10540,@10000,@10000
+10540,@441,@441
 10541,Under Control,Valter
 10543,,@10507
 10544,@10508,@10508
@@ -1192,12 +1298,12 @@ Id,Title,Name
 10549,Cat Follower,Leopold
 10550,Female Follower,Vicky
 10551,@10519,@10519
-10552,@10001,@10163
+10552,@402,@444
 10553,,@10507
 10554,,Korum
 10555,,@10554
-10556,,@10004
-10557,,@10004
+10556,,@419
+10557,,@419
 10577,,Kidnapped Townsfolk
 10578,,@10577
 10579,,@10577
@@ -1213,7 +1319,7 @@ Id,Title,Name
 10589,High Priest of Gran Kain,Psy
 10597,@10588,@10588
 10598,@10588,@10588
-10601,@10001,@10001
+10601,@402,@442
 10602,Ivory Tower Wizard,Edina
 10603,@10602,Emon
 10604,,Western Adventurer
@@ -1224,17 +1330,17 @@ Id,Title,Name
 10609,,@10607
 10610,@10002,Monta
 10611,,Staris's Minion
-10612,@10001,@10163
+10612,@402,@444
 10613,,Astrologer Tiana
 10614,,Merchant
 10615,@10602,@10602
 10616,,@10613
-10617,@10001,@10163
+10617,@402,@444
 10619,@10602,@10603
 10621,,Old Man who Almost Died
 10622,,@10606
 10623,@10602,@10603
-10626,@10001,@10001
+10626,@402,@442
 10627,,@10606
 10628,,@10613
 10629,,@10613
@@ -1245,25 +1351,25 @@ Id,Title,Name
 10635,,Red-Hair Ol Mahum Chief
 10637,,@10611
 10638,@10631,@10631
-10639,,@10004
-10640,,@10004
-10641,,@10004
-10642,,@10004
-10643,,@10004
+10639,,@419
+10640,,@419
+10641,,@419
+10642,,@419
+10643,,@419
 10646,@10002,Charlie
 10647,@10002,Tom
 10648,@10002,Aria
 10649,@10002,Peter
 10670,Black Bear Keeper,Nine
 10671,,Black Bear
-10672,,Black Bear Cub
+10672,,@432
 10673,,@10671
-10674,,@10672
+10674,,@432
 10675,,Basilisk Meat
 10676,Team Bear,Ribero
 10677,@10676,Sabero
 10678,@10676,Mia
-10679,,@10672
+10679,,@432
 10680,,Fallen Scout
 10681,@10584,@10584
 10682,@10150,@10586
@@ -1286,15 +1392,15 @@ Id,Title,Name
 10709,Dion Archon,Clark
 10711,,Paul
 10712,,@10711
-10714,@10316,Jurio
+10714,@458,Jurio
 10715,@10114,Ralfina
-10716,@10119,Huck
+10716,@456,Huck
 10717,@10120,Sara
 10718,@10121,Gus
-10719,@10122,Alf
+10719,@421,Alf
 10720,@10123,Morrison
 10721,@10115,Rody
-10722,@10104,Reuel
+10722,@461,Reuel
 10724,,Dion Guard
 10725,Dion Cardinal,Kazimoo
 10726,,Phoebe
@@ -1305,7 +1411,7 @@ Id,Title,Name
 10731,,@10730
 10732,,Marina
 10733,,@10732
-10736,@10001,@10001
+10736,@402,@442
 10737,@10164,Mahert
 10738,,Blood Ranger
 10739,@10165,Vacen
@@ -1321,7 +1427,7 @@ Id,Title,Name
 10749,@10165,@10739
 10750,,Wounded Soldier
 10751,@10740,@10740
-10752,@10001,@10001
+10752,@402,@442
 10753,@10631,Vascilious
 10754,,Rescued Townsperson
 10755,,Escort Soldier
@@ -1351,17 +1457,17 @@ Id,Title,Name
 10784,Dion Invasion Leader,Morgoh
 10785,,Breka Destroyer
 10786,,Breka Giant Archer
-10787,,@10004
-10788,,@10004
-10789,,@10004
-10790,,@10004
-10791,,@10004
-10792,,@10004
-10793,,@10004
+10787,,@419
+10788,,@419
+10789,,@419
+10790,,@419
+10791,,@419
+10792,,@419
+10793,,@419
 10801,,@10744
 10802,,Laris
 10803,,Horace
-10804,@10001,@10001
+10804,@402,@442
 10805,@10153,@202
 10806,@10150,@10151
 10807,@10150,@10607
@@ -1372,7 +1478,7 @@ Id,Title,Name
 10812,Head Researcher,Oden
 10813,Researcher,Bruin
 10814,,Guard Phard
-10815,@10001,@10357
+10815,@402,@402
 10816,@10468,@10217
 10818,,@10744
 10819,Dark Brotherhood,High Priest
@@ -1384,8 +1490,8 @@ Id,Title,Name
 10829,,@10828
 10830,,@10802
 10832,,@10813
-10834,@10001,@10001
-10836,@10001,@10357
+10834,@402,@442
+10836,@402,@402
 10837,@205,Fallen Pan
 10838,,Hans
 10839,,Guard
@@ -1415,24 +1521,28 @@ Id,Title,Name
 10864,@10776,@10776
 10865,@10863,@10776
 10866,@10849,@10778
-10871,,@10004
-10873,,@10004
+10871,,@419
+10873,,@419
+10874,@10153,@202
+10875,@441,@441
+10876,@10153,@202
+10877,@441,@441
 10901,@205,@205
 10902,,Vague
-10903,@10001,@10001
-10904,@10000,@10000
-10906,@10001,Durzel
+10903,@402,@442
+10904,@441,@441
+10906,@402,Durzel
 10907,@10468,@10217
 10908,,@10902
-10909,@10000,@10000
-10910,@10001,@10001
+10909,@441,@441
+10910,@402,@442
 10911,,@10839
-10913,@10001,@10906
+10913,@402,@10906
 10915,,Borys
-10916,@10001,@10906
+10916,@402,@10906
 10917,,@10902
 10918,,@10915
-10920,@10001,@10906
+10920,@402,@10906
 10921,@10776,@10776
 10922,High Priest of Maphr,Bartum
 10923,@10772,@10772
@@ -1450,19 +1560,19 @@ Id,Title,Name
 10935,Kankoon's  Warrior,Jangdo
 10936,Kankoon's  Counselor,Zawar
 10937,@10930,@10922
-11001,@10001,@10001
-11002,@10001,@10001
+11001,@402,@442
+11002,@402,@442
 11003,East Gate Guard,Balu
-11004,@10001,@10541
+11004,@402,@10541
 11005,Dark Brotherhood Necromancer,Diabolos
 11006,@205,@205
-11007,@10000,@10000
-11008,@10001,@10906
-11009,@10001,@10541
+11007,@441,@441
+11008,@402,@10906
+11009,@402,@10541
 11010,,Injured Merchant
 11011,Lord of Keep of Agony,Guillotine
 11012,@205,@205
-11013,@10000,@10000
+11013,@441,@441
 11014,Army of Agony Captain,Mania
 11015,,Host Zombie Lord Crowl
 11016,,Tortured Royal Knight
@@ -1483,7 +1593,7 @@ Id,Title,Name
 11031,Earnestly Seeking One,Cowboy
 11033,,@3031
 11034,@11019,@11019
-11035,@10000,@10000
+11035,@441,@441
 11036,Guillotine’s Blood Rangers,Blood Ranger Captain
 11037,@11036,@10103
 11101,@205,@205
@@ -1493,14 +1603,14 @@ Id,Title,Name
 11106,,@10305
 11107,,Botanist
 11108,Giran Archon,Ervin
-11109,@10316,Mael
+11109,@458,Mael
 11110,@10114,Anora
-11111,@10119,@10149
+11111,@456,@10149
 11113,@10121,Mato
-11114,@10122,Muse
+11114,@421,Muse
 11115,@10123,Mischa
 11116,@10115,Shannon
-11117,@10104,Rael
+11117,@461,Rael
 11118,Giran Guard Captain,Lucius
 11119,,Giran Guard
 11120,Giran Cardinal,Krovis
@@ -1509,31 +1619,42 @@ Id,Title,Name
 11123,,Vaster
 11124,,Medlam
 11125,,Artemis
-11128,@10000,@10000
+11128,@441,@441
 11129,,Alice
-11130,@10001,@10357
+11130,@402,@402
 11131,,@11129
 11132,,Vehin
-11133,@10001,@10001
-11134,@10001,@10163
+11133,@402,@442
+11134,@402,@444
 11136,Seed of Owen,Linfield
 11137,@11136,@11136
 11138,@11136,@11136
 11140,Security Captain,Vishnua
 11141,Dark Magic Researcher,Thox
+11142,,Tark
+11143,,@11142
+11144,,Alexander
+11145,@10390,Abelino
+11146,,@11119
+11147,,@11119
+11148,,@11119
+11149,,@11142
+11150,,@11144
+11170,@10390,@11145
+11171,@10390,Abelino’s Corpse
 11151,,@11129
-11152,@10001,@10357
-11153,@10000,@10000
+11152,@402,@402
+11153,@441,@441
 11154,@205,@205
 11155,Tax Officer,Meldon
 11156,,@11132
 11157,,@11119
 11158,,@11129
 11159,,Vehin's Comrade
-11160,@10001,@10001
-11161,,@10001
-11163,@10001,@10163
-11164,@10001,@10357
+11160,@402,@442
+11161,,@442
+11163,@402,@444
+11164,@402,@402
 11165,,Innadril Chancellor
 11167,,Chancellor's Attendant
 11168,,Chancellor's Carrier
@@ -1553,8 +1674,8 @@ Id,Title,Name
 11195,@11191,Rancho
 11196,Botanist,@11019
 11202,@10153,@202
-11204,@10001,@10001
-11205,@10001,@10001
+11204,@402,@442
+11205,@402,@442
 11206,,Stranded Merchant
 11207,,@11206
 11208,,Merchant of the East
@@ -1594,8 +1715,8 @@ Id,Title,Name
 11249,,Aiden
 11250,,@11249
 11251,Official Giran Army Captain,Frederick
-11253,@10001,@10357
-11254,@10001,@10357
+11253,@402,@402
+11254,@402,@402
 11255,Scholar of Cruma Tower,Gnosis
 11256,@11255,@11255
 11257,Giran Port Master,Benjamin
@@ -1629,11 +1750,11 @@ Id,Title,Name
 11285,@11255,@11255
 11301,@11251,@11251
 11302,@11251,@11251
-11303,@10001,@10001
-11304,@10001,@10001
+11303,@402,@442
+11304,@402,@442
 11305,,West Gate Guard
-11306,@10001,@10357
-11307,@10001,@10357
+11306,@402,@402
+11307,@402,@402
 11308,,@11249
 11309,,@11249
 11310,,@10005
@@ -1649,10 +1770,10 @@ Id,Title,Name
 11320,,@10005
 11321,@11251,@11251
 11322,,@11246
-11323,@10001,@10001
+11323,@402,@442
 11324,,Zaken’s Patrol Unit
 11325,Third Mate Navigator,Railey
-11326,@10001,@10357
+11326,@402,@402
 11327,Sharp Blade,Kirion
 11350,@10819,Executor
 11351,@10468,@10217
@@ -1667,19 +1788,19 @@ Id,Title,Name
 11361,@10150,@10586
 11362,@11268,@10717
 11363,Cursed Commander,Ditch
-11364,Stranded Advance Party Captain,Tark
+11364,Stranded Advance Party Captain,@11142
 11366,@10150,@10586
 11367,,Manipulated Guard
 11368,@10819,@11350
 11369,Awakened,Ancient Demon
 11370,,Advance Party Soldier
-11401,,@10001
-11402,,@10000
+11401,,@442
+11402,,@441
 11404,@10123,Putine
 11406,@10121,Juan
 11407,,@10071
 11408,,@10071
-11409,@10001,@10001
+11409,@402,@442
 11410,Peace Envoy,Jen
 11411,Cardinal,Caranese
 11412,Protection Tree Elf,Cara
@@ -1688,8 +1809,8 @@ Id,Title,Name
 11415,@11413,Adams
 11416,,Ravine Breka Warchief
 11417,,Ravine Breka High Warchief
-11418,@11412,Wizard
-11419,@11412,@11418
+11418,@11412,@423
+11419,@11412,@423
 11420,@205,Vanquished Pan
 11421,Elder,Rowen
 11422,@205,@205
@@ -1727,7 +1848,7 @@ Id,Title,Name
 11454,,Cardinal's Carrier
 11455,Dragon Knight,Quesnel
 11456,,@3011
-11461,@10001,@10001
+11461,@402,@442
 11464,@11410,@11410
 11465,@11411,@11411
 11466,@11412,@11412
@@ -1741,7 +1862,7 @@ Id,Title,Name
 11477,Valley Hunter,Hammon
 11478,@10153,@202
 11479,@10150,@10151
-11481,@10001,@10001
+11481,@402,@442
 11484,@11410,@11410
 11486,@11412,@11412
 11489,@11413,@11413
@@ -1754,12 +1875,12 @@ Id,Title,Name
 11499,@11410,@11410
 11500,Honor Fighter,Vartis
 11501,Oren Archon,Ramone
-11502,@10316,Dewyl
+11502,@458,Dewyl
 11503,@10114,@10306
-11504,@10119,Sereos
+11504,@456,Sereos
 11505,@10120,Runan
 11506,@10121,Lowe
-11507,@10122,Gale
+11507,@421,Gale
 11508,@10123,Arkham
 11509,@10115,Rhias
 11510,@10125,Boadeu
@@ -1776,22 +1897,22 @@ Id,Title,Name
 11521,@205,@205
 11522,@205,@205
 11523,Outlaw Hunter,@10359
-11524,@10001,@10906
-11525,@10001,@10906
-11526,@10001,@10906
+11524,@402,@10906
+11525,@402,@10906
+11526,@402,@10906
 11527,@10068,@10906
-11528,@10001,@10906
+11528,@402,@10906
 11529,,Town Chief Ariana
 11530,,@11529
-11531,@10001,@10357
-11532,@10001,@10357
+11531,@402,@402
+11532,@402,@402
 11533,@10934,Hamgalalte
-11534,@10001,@10357
-11535,@10001,@10163
-11536,@10001,@10163
-11537,@10001,@10163
-11538,@10001,@10163
-11539,@10001,@10163
+11534,@402,@402
+11535,@402,@444
+11536,@402,@444
+11537,@402,@444
+11538,@402,@444
+11539,@402,@444
 11540,,Hunter Manny
 11541,,Hunter Eture
 11542,Oren Royal Knight,Steiner
@@ -1810,9 +1931,9 @@ Id,Title,Name
 11555,@11553,@11553
 11556,Oren Lord,David
 11557,@11556,@11556
-11558,@10001,@10001
+11558,@402,@442
 11559,,Tanor Fighter
-11560,@10001,@10001
+11560,@402,@442
 11561,Mutated Timak Orc,Rakum
 11562,@11561,@11561
 11563,@11561,@11561
@@ -1864,32 +1985,32 @@ Id,Title,Name
 11602,Wounded,@205
 11603,,@3012
 11604,@11625,Deathfire
-11605,@10001,@10357
-11606,@10001,@10357
+11605,@402,@402
+11606,@402,@402
 11607,@205,@205
-11631,@10001,@10357
-11632,@10000,@10000
+11631,@402,@402
+11632,@441,@441
 11633,@10602,@10603
 11634,@205,@205
 11635,,@3012
-11636,@10001,@10001
+11636,@402,@442
 11637,,Andre
 11638,,Molly
-11639,@10001,@10163
+11639,@402,@444
 11640,@10819,Gelan
 11641,,Cusher
 11642,,Jenis
 11643,,Dennis
 11644,,Hanshen
-11661,@10001,@10357
-11662,@10000,@10000
+11661,@402,@402
+11662,@441,@441
 11663,@10602,@10603
 11664,@205,@205
 11665,,@3012
-11666,@10001,@10001
+11666,@402,@442
 11667,,@11637
 11668,,@11638
-11669,@10001,@10163
+11669,@402,@444
 11670,@10819,@11640
 11671,,@11641
 11672,,@11642
@@ -1907,35 +2028,35 @@ Id,Title,Name
 11621,@11196,@11019
 11622,Tyron’s Retinue,Claire
 11675,Oren Crier,Galina
-11701,@10001,@10001
-11702,@10001,@10163
+11701,@402,@442
+11702,@402,@444
 11703,@10602,@10602
 11704,@10602,Lonardo
 11705,@10602,Hamsen
-11706,@10001,@10541
+11706,@402,@10541
 11707,@10602,Bayona
 11708,,Ivory Tower Wizard
 11709,,@10217
 11710,,@11638
-11711,Silverlight Mercenaries Captain,@10000
-11712,,Ivory Tower Wizard 4
+11711,Silverlight Mercenaries Captain,@441
+11712,,@11708
 11713,,@3012
 11714,Ivory Tower High Wizard,Emerson
 11715,@11714,Sosa
 11716,@11714,Vanuel
 11717,,Gillium
-11731,@10001,@10001
-11732,@10001,@10163
+11731,@402,@442
+11732,@402,@444
 11733,@10602,@10602
 11734,@10602,@11704
 11735,@10602,@11705
-11736,@10001,@10541
+11736,@402,@10541
 11737,@10602,@11707
 11738,,@11708
 11739,,@10217
 11740,,@11638
-11741,@11711,@10000
-11742,,@11712
+11741,@11711,@441
+11742,,@11708
 11743,,@3012
 11744,@11714,@11714
 11745,@11714,@11715
@@ -1988,12 +2109,12 @@ Id,Title,Name
 11753,@10602,@11752
 11754,@10493,@10493
 11801,,Dragon Valley Merchant
-11802,@10001,@10001
-11803,@10000,@10000
+11802,@402,@442
+11803,@441,@441
 11804,@10468,@10217
-11805,@10001,@10357
-11806,@10001,@10163
-11808,@10001,@10001
+11805,@402,@402
+11806,@402,@444
+11808,@402,@442
 20101,,Prairie Vampire Bat
 20102,,@3103
 20103,,Prairie Antelope
@@ -2026,7 +2147,6 @@ Id,Title,Name
 20148,,Walking Fungus
 20149,,Elusive Premo
 20150,,@3050
-20180,Treasure Sentry,Gold Gargoyle
 20181,Dark Marauder,Black Fang
 20182,Blood Hooves,Silverhorn
 20183,Spider Queen,Queen Sylop
@@ -2057,7 +2177,6 @@ Id,Title,Name
 20244,,Stout Golem
 20257,,Relic Werewolf
 20258,,@3073
-20280,@20180,@20180
 20281,Grassland’s Danger,Sting
 20282,Quick Feet,Red Rouse
 20283,Landing Captain,Taarka
@@ -2105,7 +2224,6 @@ Id,Title,Name
 20376,,@10349
 20378,,Bugbear Subject
 20379,,Grandis Subject
-20380,@20180,@20180
 20381,Fierce Animal,Canine
 20382,Cruel Tooth,Freki
 20383,Restless One,Melville
@@ -2155,7 +2273,6 @@ Id,Title,Name
 20471,Skeleton Collector,Kyrios
 20478,,@20446
 20479,,@20447
-20480,@20180,@20180
 20481,Starved Instinct,Bighand
 20482,Soul Plunderer,Doom Skull
 20483,Human Collector,Kactoose
@@ -2206,7 +2323,6 @@ Id,Title,Name
 20558,,@3095
 20559,,@20357
 20560,,@20442
-20580,@20180,@20180
 20581,Ruin Herald,Shadow Wing
 20582,Ruin Visiter,Ruins Wanderer
 20583,Fallen,Sabretooth
@@ -2246,7 +2362,6 @@ Id,Title,Name
 20656,@10631,@10631
 20657,@10631,@10631
 20662,,@3012
-20680,@20180,@20180
 20681,Wasteland Watcher,Sand Eye
 20682,Wasteland Herald,Red Lock
 20683,,Pointer
@@ -2299,7 +2414,6 @@ Id,Title,Name
 20771,,@3094
 20772,,Relic Wraith
 20773,,Rabid Wasp
-20780,@20180,@20180
 20781,Logging Captain,Bulc
 20782,Scout,Baroque
 20783,Provoker,Moke
@@ -2334,7 +2448,6 @@ Id,Title,Name
 20855,,Marsh Stakato Hassassin
 20857,,Destructive Killer
 20858,,Insane Killer
-20880,@20180,@20180
 20881,Lost Soldier,Liam
 20882,Wandering Arrow,Ronde
 20883,Silent Assassination,Morgan
@@ -2388,7 +2501,6 @@ Id,Title,Name
 20971,,@11559
 20972,,@20952
 20973,,Kankoon's Sentinel
-20980,@20180,@20180
 20981,@20785,Summit Attacker
 20982,@10144,Tartan
 20983,Tanor Vanguard,Thaartan
@@ -2427,7 +2539,6 @@ Id,Title,Name
 21036,,Resurrected Merchant
 21038,,@3021
 21039,,@3079
-21080,@20180,@20180
 21081,Screaming Plant,Screamer
 21082,Spirit Dyed in Darkness,Flora
 21083,Surrendered Page,Jonadan
@@ -2491,7 +2602,6 @@ Id,Title,Name
 21173,@11141,@11141
 21174,@21168,@21112
 21175,@21168,@21138
-21180,@20180,@20180
 21181,@21160,@21160
 21182,Stenoa’s Herald,Vir
 21183,Drill Sergeant,Tess
@@ -2500,6 +2610,9 @@ Id,Title,Name
 21186,Chief’s Eye,Luce
 21187,@11141,@11141
 21198,Gorgon Queen,Stenoa
+21188,Zaken Pirates,@3064
+21189,@21188,Zaken’s Tracker
+21190,@21188,Pirate Zombie Sniper
 21201,,Savage Red Bear
 21202,,Starving Cougar
 21203,,Ol Mahum Bandits Worker
@@ -2537,7 +2650,6 @@ Id,Title,Name
 21263,,Anguished Lesser Giant
 21264,,Grandis Tyrant
 21265,,Giant Dead
-21280,@20180,@20180
 21281,@21184,Lulani
 21282,One-Eyed,Alfonso
 21283,Suffering One,Holst
@@ -2579,11 +2691,36 @@ Id,Title,Name
 21337,,@3083
 21338,,Zaken’s Marksman
 21339,,@3064
-21380,@20180,@20180
+21351,@21188,Zaken Pirates Soldier
+21352,@21188,@21307
+21353,@21188,@21309
+21354,@21188,Zaken Pirates Captain
+21355,@21188,Zaken Pirates Artilleryman
+21356,@21188,@21355
+21357,@21188,@21355
+21358,@21188,@21355
+21359,@21188,@21355
+21360,@21188,@21355
+21361,@21188,@21355
+21362,@21188,@21355
+21363,@21188,@21355
+21364,@21188,@21355
+21365,,@11352
+21366,,@11352
+21367,,@11352
+21368,,@11352
+21369,,@11352
+21370,Deep Sea Creature,Mysterious Tentacle
+21371,,Mouse
+21372,@21188,@21351
+21373,@21188,@21307
+21374,@21188,@21309
+21375,@21188,@21354
 21381,Seductive Gaze,Rua
 21382,Awakened Terror Thorn,Bornesting
 21383,Commander,Albert
 21384,First Mate,Jeff
+21399,Devil's Isle Master,@3109
 21401,,Ravine Breka Supplier
 21402,,Ravine Breka Scout
 21403,,Ravine Breka Priest
@@ -2621,7 +2758,6 @@ Id,Title,Name
 21442,,Cager’s Henchman
 21443,,Alert Wyrm
 21444,,Veremus’s Child
-21480,@20180,@20180
 21481,Breka Chief,Gorokk
 21482,Dragon Researcher,Verock
 21483,Unwavering Will,Jason
@@ -2629,6 +2765,7 @@ Id,Title,Name
 21485,Wind of Death,Agarez
 21486,Murderer,Ravolas
 21487,Gluttonous,Wilhelm
+21498,Usher of Darkness,Marlox
 21499,,Demonic Totem
 21501,,Grendel
 21502,,Plateau Windsus
@@ -2664,7 +2801,6 @@ Id,Title,Name
 21536,Sentry Captain,Cheat
 21537,Training Captain,Charto
 21538,,Young Lizardman
-21580,@20180,@20180
 21581,Frightening Strike,Bear Grylle
 21582,Razorwind Butcher,Gaytin
 21583,Unbreakable Horn,Silenos
@@ -2710,7 +2846,6 @@ Id,Title,Name
 21636,,Vile Nymph
 21637,,Vile Pan Luem
 21651,,Altered Blind Reaper
-21680,@20180,@20180
 21681,Contractor,Larva
 21682,Barrier Undoer,Reba
 21683,Proliferating Sickness,Host Fungus
@@ -2766,7 +2901,6 @@ Id,Title,Name
 21745,,Premo the Lunatic
 21746,,Premo the Tainted
 21747,,Obsidian Gargoyle
-21780,@20180,@20180
 21781,Treasure Plunderer,Tarba
 21782,Vanguard Captain,Marata
 21783,Destroyer,Kreta
@@ -2807,7 +2941,6 @@ Id,Title,Name
 30005,@30003,Subterranean Pincher
 30006,,Drill Bat
 30007,,Lycan
-30080,@20180,@20180
 30081,Giant Wings,Horror Wing
 30082,Wolf King,Ryukaon
 30083,Underground Queen,Arachne
@@ -2823,7 +2956,6 @@ Id,Title,Name
 30110,,Hermit Fang Spider
 30111,@30003,@30106
 30112,@30003,@30107
-30180,@20180,@20180
 30181,Mad,Maniskull
 30182,Ruins Watcher,Felix
 30183,@20484,Death Gazer
@@ -2834,7 +2966,6 @@ Id,Title,Name
 30204,@30003,Ant Captain
 30205,@30003,Ant Patrol
 30206,,Worker Ant Larva
-30280,@20180,@20180
 30281,To be King,Reaver
 30282,Under Queen’s Control,Ant Nest Foreman
 30301,,@3001
@@ -2843,7 +2974,6 @@ Id,Title,Name
 30304,@30003,Ant Soldier Royal Guard
 30305,@30003,@3054
 30306,@30003,Noble Ant Leader
-30380,@20180,@20180
 30381,@30282,Ant Nest Royal Guard Captain
 30382,@30282,Spawning Ground Keeper
 30401,,Mordeo's Minion
@@ -2857,7 +2987,6 @@ Id,Title,Name
 30409,@30003,@3084
 30410,@30003,@30408
 30411,@30003,@3084
-30480,@20180,@20180
 30481,Soul Devourer,Mystique
 30482,Magic Golem,Stelos
 30483,@20484,Master Mordeo
@@ -2873,12 +3002,9 @@ Id,Title,Name
 30509,@30003,@30505
 30510,,Susceptor
 30511,@30003,@30504
-30580,@20180,@20180
 30581,Subject of Terror,Greezo
 30582,Tower’s Terror,Julius
 30583,Cruma Watcher,Magnus
-30680,@20180,@20180
-30780,@20180,@20180
 30611,,@21738
 30612,,@21739
 30613,,@21740
@@ -2906,7 +3032,6 @@ Id,Title,Name
 30815,@30003,@21020
 30817,@30003,Dark General
 30819,@30003,Cave Sahara
-30880,@20180,@20180
 30891,@21684,Skullchaser
 30892,Deathly,Creatus
 30893,@30792,Sandstorm
@@ -2920,7 +3045,6 @@ Id,Title,Name
 30908,@30003,Secretive Grendel
 30909,@30003,Pan Direum
 30910,@30003,Pan Dryed
-30980,@20180,@20180
 30991,Fierce Front Paw,Argos
 30992,Secretive Killer,Helissa
 30993,Terrifying Spiderweb,Sling
@@ -2934,7 +3058,6 @@ Id,Title,Name
 31008,@30003,Nightmare Medusa
 31009,@30003,Poison Serpent
 31010,@30003,Venom Serpent
-31080,@20180,@20180
 31091,Guardian of the Forest,Vanuk
 31092,Sweet Whispers,Cailyn
 31093,Sharp Fang,Veiloss
@@ -2949,10 +3072,9 @@ Id,Title,Name
 31109,@30003,Dark Brotherhood Researcher
 31110,@30003,Twisted Assistant
 31111,@30003,Underground Basilisk
-31180,@20180,@20180
 31181,The Lucky One,Adolf
 31182,Sentry of the Sealer,Genos
-31183,Initial Test Volunteer,Alexander
+31183,Initial Test Volunteer,@11144
 31184,@31182,Trasos
 31185,Innocent Woman,Barbara
 31186,Seal Party Advance Captain,@10462
@@ -2971,7 +3093,6 @@ Id,Title,Name
 31208,@30003,298 Normal
 31209,@30003,306 Normal
 31210,@30003,314 Normal
-31280,@20180,@20180
 31281,Leto Pioneer,Intrepidez
 31282,Leto Adventurer,Avetura
 31283,Corpse Cleaner,Gari
@@ -2985,11 +3106,106 @@ Id,Title,Name
 39011,,Pan Fighter
 39012,,Nymph Fleur
 39013,,Nymph Queen Lara
+40001,,Ramog’s Guard
+40002,,Ramog’s Guard Captain
+40003,,Ramog’s Royal Guard
+40004,,Tainted Golem
+40005,,Ramog’s Guard Archer
+40006,,Ramog’s Guard Grenadier
+40007,,@40001
+40008,,@40002
+40009,,@40004
+40010,,@40005
+40011,,Lunatic Self-destructing Soldier
+40012,,@40011
+40013,,Paagrio’s Ember
+40014,Sadistic Guard Captain,Boranta
+40015,Mad Orc,Ramog
+40016,@10602,Leewen
+40017,@10602,Laenis
+40018,@10602,@40017
+40019,@10602,@40016
+40020,,Orc Shaman Soul
+40084,,Nebulite Crystal
+40085,,@40001
+40086,,@40005
+40021,,@40001
+40022,,@40002
+40023,,@40003
+40024,,@40004
+40025,,@40005
+40026,,@40006
+40027,,@40001
+40028,,@40002
+40029,,@40004
+40030,,@40005
+40031,,@40011
+40032,,@40011
+40033,,@40013
+40034,@40014,@40014
+40035,@40015,@40015
+40036,@10602,@40016
+40037,@10602,@40017
+40038,@10602,@40017
+40039,@10602,@40016
+40040,,@40020
+40083,,@40084
+40087,,@40001
+40088,,@40005
+40041,,@40001
+40042,,@40002
+40043,,@40003
+40044,,@40004
+40045,,@40005
+40046,,@40006
+40047,,@40001
+40048,,@40002
+40049,,@40004
+40050,,@40005
+40051,,@40011
+40052,,@40011
+40053,,@40013
+40054,@40014,@40014
+40055,@40015,@40015
+40056,@10602,@40016
+40057,@10602,@40017
+40058,@10602,@40017
+40059,@10602,@40016
+40060,,@40020
+40082,,@40084
+40089,,@40001
+40090,,@40005
+40061,,@40001
+40062,,@40002
+40063,,@40003
+40064,,@40004
+40065,,@40005
+40066,,@40006
+40067,,@40001
+40068,,@40002
+40069,,@40004
+40070,,@40005
+40071,,@40011
+40072,,@40011
+40073,,@40013
+40074,@40014,@40014
+40075,@40015,@40015
+40076,@10602,@40016
+40077,@10602,@40017
+40078,@10602,@40017
+40079,@10602,@40016
+40080,,@40020
+40081,,@40084
+40091,,@40001
+40092,,@40005
+40099,,Ramog’s Energy
+40098,,Exploding Paagrio’s Ember
 40101,,@21305
 40102,,Zaken Pirates Hammerfist
 40103,,@21306
 40104,,@21312
 40105,,Vampiric Leech
+40118,,Supersaturated Maggot
 40106,,Maggot Zombie
 40117,,Maggot
 40107,Underboss,@10149
@@ -2999,15 +3215,15 @@ Id,Title,Name
 40111,@11352,@3109
 40112,Guardian Knight,Leonard
 40113,Countess of Blood,Trisha
-40114,@11317,@11364
-40115,@11317,@11364
-40116,@11317,@11364
+40114,@11317,@11142
+40115,@11317,@11142
+40116,@11317,@11142
 40121,,@21305
 40122,,@40102
 40123,,@21306
 40124,,@21312
 40125,,@40105
-40126,,Supersaturated Maggot
+40126,,@40118
 40127,,@40106
 40128,,@40117
 40129,@40107,@10149
@@ -3017,15 +3233,15 @@ Id,Title,Name
 40133,@11352,@3109
 40134,@40112,@40112
 40135,@40113,@40113
-40136,@11317,@11364
-40137,@11317,@11364
-40138,@11317,@11364
+40136,@11317,@11142
+40137,@11317,@11142
+40138,@11317,@11142
 40141,,@21305
 40142,,@40102
 40143,,@21306
 40144,,@21312
 40145,,@40105
-40146,,@40126
+40146,,@40118
 40147,,@40106
 40148,,@40117
 40149,@40107,@10149
@@ -3035,61 +3251,30 @@ Id,Title,Name
 40153,@11352,@3109
 40154,@40112,@40112
 40155,@40113,@40113
-40156,@11317,@11364
-40157,@11317,@11364
-40158,@11317,@11364
-40159,,Tark’s Advance Party Member
-40201,,Timak Orc Warrior
-40202,,Timak Orc General
-40203,,Timak Orc Guard
-40204,,Tainted Golem
-40205,,Timak Orc Ranger
-40206,,Timak Orc Grenadier
-40207,,@40201
-40208,,@40202
-40209,,@40204
-40210,,Timak Orc Self-destructing Soldier
-40211,,@40210
-40212,,Paagrio’s Ember
-40213,Sadistic Guard Captain,Boranta
-40214,Mad Orc,Ramog
-40215,@10602,Leewen
-40216,@10602,Laenis
-40217,@10602,@40216
-40221,,@40201
-40222,,@40202
-40223,,@40203
-40224,,@40204
-40225,,@40205
-40226,,@40206
-40227,,@40201
-40228,,@40202
-40229,,@40204
-40230,,@40210
-40231,,@40210
-40232,,@40212
-40233,@40213,@40213
-40234,@40214,@40214
-40235,@10602,@40215
-40236,@10602,@40216
-40237,@10602,@40216
-40241,,@40201
-40242,,@40202
-40243,,@40203
-40244,,@40204
-40245,,@40205
-40246,,@40206
-40247,,@40201
-40248,,@40202
-40249,,@40204
-40250,,@40210
-40251,,@40210
-40252,,@40212
-40253,@40213,@40213
-40254,@40214,@40214
-40255,@10602,@40215
-40256,@10602,@40216
-40257,@10602,@40216
+40156,@11317,@11142
+40157,@11317,@11142
+40158,@11317,@11142
+40159,,Giran Advance Party Member
+40160,Giran Advance Party,Turner
+40161,,Pile of Trash
+40171,,@21305
+40172,,@40102
+40173,,@21306
+40174,,@21312
+40175,,@40105
+40188,,@40118
+40176,,@40106
+40177,,@40117
+40178,@40107,@10149
+40179,,@40108
+40180,,@40109
+40181,@11352,@11352
+40182,@11352,@3109
+40183,@40112,@40112
+40184,@40113,@40113
+40185,@11317,@11142
+40186,@11317,@11142
+40187,@11317,@11142
 60012,,Mercenary Knight
 60013,,Mercenary Archer
 60014,,@60012
@@ -4259,7 +4444,7 @@ Id,Title,Name
 110333,@110001,Sandstorm
 110334,@110001,@31181
 110335,@110001,@31182
-110336,@110001,@31183
+110336,@110001,@11144
 110337,@110001,@31184
 110338,@110001,@31185
 110339,@110001,@10462
@@ -4312,7 +4497,7 @@ Id,Title,Name
 120203,@110001,@20998
 120301,@110001,@21198
 120302,@110001,@21298
-120303,@110001,Marlox
+120303,@110001,@21498
 120401,@110001,@21598
 120402,@110001,@3072
 120403,@110001,@21698
@@ -5071,6 +5256,22 @@ Id,Title,Name
 2208025,,@20835
 2208026,,@20835
 2208027,,@20835
+2208028,,Defense System
+2208029,,@2208028
+2208030,,Giant’s Box Guardian
+2208031,,@2208028
+2208032,,@2208028
+2208033,,@2208028
+2208034,,@2208030
+2208035,,@2208028
+2208036,,@2208028
+2208037,,@2208028
+2208038,,@2208030
+2208039,,@2208028
+2208040,,@2208028
+2208041,,@2208028
+2208042,,@2208030
+2208043,,@2208028
 220901,,@20901
 220902,,@20902
 220903,,@20928
@@ -5356,6 +5557,17 @@ Id,Title,Name
 2211028,,@21129
 2211029,,Snipe Leader’s Minion
 2211030,Leader,@21129
+2211041,@21188,@3064
+2211042,@21188,@21189
+2211043,@21188,@3064
+2211044,,@11352
+2211045,,@11352
+2211046,@21188,Pirate Boatswain
+2211047,@21188,Pirate Zombie Sniper
+2211048,,Mutated Sir Alexander
+2211049,,@2211048
+2211050,,@11119
+2211051,,@11352
 221201,@10819,@11244
 221202,,@21208
 221203,@11241,@11241
@@ -6080,6 +6292,10 @@ Id,Title,Name
 302202,,@3015
 302203,,@3013
 302204,,@302004
+302301,,Guard Unit Alpha
+302302,,@3015
+302303,,@3013
+302304,,@302004
 999991,,Grade C Black Bear
 999992,,Grade B Black Bear
 999993,,Grade A Black Bear

@@ -1,0 +1,100 @@
+Id,ContentsDesc,Name
+1,Mach deine Ausrüstung durch verschiedene Mittel effektiver.,Schmiede
+2,"Erfülle deine Waffe mit der Macht anderer Seelen, um starke Angriffe auszuführen.",Seelenschuss
+3,,Dungeon
+4,An jedem Tag der Woche kannst du andere Bosse und Belohnungen in diesen Dungeons vorfinden.,Tagesdungeon
+5,"Die Menge der Belohnung erhöht sich abhängig davon, wie viel von Aden du erforschst.",Erfolg
+6,,Freund
+8,Acquire a Grade A or better High-grade Equipment every day.,Hochstufige Ausrüstungskiste
+10,Miss deine Kräfte mit verschiedenen Abenteurern in Aden.,Arena
+11,,Rangliste
+12,"Kombiniere zwei Ausrüstungsteile, um ein Teil einer höheren Stufe zu erhalten.",Kombinieren
+13,"Mach deine Ausrüstung effektiver, indem du Aufwertungsrollen benutzt.",Aufwerten
+14,,Klan
+15,"Erklimme einen unendlich hohen Turm, um deine Grenzen zu testen.",Turm der Anmaßung
+16,"Präge Runen, um deine Fähigkeiten dauerhaft aufzuwerten.",Runenprägung
+17,"Erhöhe die Stufe deiner Ausrüstung, ohne ihre Ästhetik und ihre Subwerte zu verlieren.",Verbessern
+18,,Tagesaktivitäten
+19,,Tagesquests
+20,,Wochenquests
+21,Bette einen seelenerfüllten Edelstein ein und erhalte eine spezielle Fähigkeit.,Seelenkristall
+22,Stelle dich einem sehr gefährlichen aber auch äußerst lohnenswerten Dungeon.,Elite-Dungeon
+23,,Elfenruinen 1
+24,"Sammle die Kerne von Monstern, um verschiedene Belohnungen zu erhalten.",Monsterkodex
+25,"Auch wenn sie schwierig zu bekommen sind, kannst du machtvolle Fertigkeiten einsetzen.",Seltene Fertigkeit
+27,,Handelsposten
+28,"Trinke Elixiere, um deine Fähigkeiten dauerhaft aufzuwerten.",Elixier
+29,"Hier kannst du Kräuter entnehmen, die zur Herstellung von Elixieren verwendet werden.",Entnahme-Dungeon
+30,"Finde automatisch Gegner in deiner Nähe, gegen die du kämpfen kannst.",Auto-Kampf
+40,Das ist ein Titel.,Titel
+101,,Tagesdungeon (Normal)
+102,,Elfenruinen 2
+103,,Klassentransfer
+104,,Tagesdungeon (Schwer)
+105,,Ameisennest 1
+106,,Ameisennest 2
+107,,Tagesdungeon (Sehr schwer)
+108,,Cruma-Turm 2
+109,,Cruma-Turm 3
+110,,Elfenbeinturm 1
+111,,Elfenbeinturm 1
+112,Besiege Horden von Monstern und sammle Unmengen von ERF.,ERF-Dungeon
+113,"Besiege den Drachen, der sein Gold beschützt und sammle Unmengen von Adena.",Adena-Dungeon
+114,Beschütze den Tempel vor den Kräften des Bösen und erhalte Ausrüstung.,Tempelwächter
+115,,Beschwörungskreis
+116,,Varkaron-Klan-Dungeon
+117,,Ameisenkönigin-Klan-Dungeon
+118,,Festenbelagerung
+119,,Burgbelagerung
+120,"Erhöhe Fertigkeitslevel, um ihre Effekte zu verbessern.",Fertigkeit im Level aufsteigen lassen
+121,"Zerstöre das Dimensionstor, das von Monstern verteidigt wird.",Veredelungsstein-Dungeon
+122,,Inventar
+123,,Cruma-Kern
+126,,Klanhalle
+127,,Elfenbeinturm 3
+129,,Reitbegleiter
+130,,Courage-Schlachtfeld
+131,,Uraltes Schlachtfeld
+132,,Krone des Geheimniswaldes
+133,,Elfenbeinturm-Labor
+134,,Unterholz des Geheimniswaldes
+135,,Ort des Massakers im Geheimniswald
+137,,Umhang
+138,,Offene Belagerung
+10000,Du kannst diese Funktion nicht nutzen.,Charakter
+10003,@10000,Klasse
+10006,@10000,Werkstatt
+10007,@10000,Quest
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Event
+10013,@10000,Pausenbonus
+10014,@10000,Login-Bonus
+10015,@10000,Burgbelagerungsfest
+10016,@10000,Web-Event
+10017,@10000,Hauptladen
+10018,@10000,Diamant-Laden
+10019,@10000,Sammlungsladen
+10021,@10000,Schlachtfeld
+10022,@10000,@14
+10023,@10000,Klan-Dungeon
+10029,@10000,Gegenstand verkaufen
+10030,@10000,Gegenstand nutzen
+10031,@10000,Gegenstand bewegen
+10032,@10000,Schriftrolle
+10034,@10000,Reitbegleiterausrüstung im Level aufsteigen lassen
+10035,@10000,Reitbegleiter beschwören
+10036,@10000,Reitbegleiter im Level aufsteigen lassen
+10037,@10000,Subwert-Details
+10038,@10000,Community-Forum
+10039,@10000,Reitbegleiter aufwerten
+20001,,Altar des Wahnsinns
+20002,,Schlafzimmer der Blutgräfin
+401,@10000,Meistersch.-Laden
+10040,@10000,Subwert-Account
+301,,@122
+303,,@122
+30000,,Questschriftrolle
+30102,"Wird verwendet, um Monster aus gewählten Gebieten zu beschwören und deren Kerne zu erhalten.",Gludio-Gebiet - Monster-Beschwörungsstein
+30103,"Wird verwendet, um Monster aus gewählten Gebieten zu beschwören und deren Kerne zu erhalten.",Dion-Gebiet - Monster-Beschwörungsstein
+30104,"Wird verwendet, um Monster aus gewählten Gebieten zu beschwören und deren Kerne zu erhalten.",Giran-Gebiet - Monster-Beschwörungsstein

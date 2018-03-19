@@ -1,0 +1,9 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,結束のクリスタル,レベル： [CrystalLevel],"すべての血盟員に強化効果を与える
+神秘なクリスタル"
+2,クエスト管理人,進行中のクエスト：[ProgressQuestCount]件、クリアしたクエスト：[CompleteQuestCount]件,"簡単なクエストから難しいクエストまで！
+クエストを紹介してくれる管理人です"
+3,晩餐管理人,"晩餐（小）：[SmallDinnerActivity]
+晩餐（中）：[MiddleDinnerActivity]
+晩餐（大）：[BigDinnerActivity]","血盟員と一緒に頂く晩餐を
+用意してくれる調理師です"

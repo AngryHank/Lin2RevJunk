@@ -1,0 +1,1832 @@
+Id,Nme,Desc
+1,Besiege Ork-Arbeiter der Westlichen Sprechenden Insel.,Besiege Ork-Arbeiter {TaskCount} Mal.
+2,Besiege Walddornen-Dicor der Westlichen Sprechenden Insel.,Besiege Walddornen-Dicor {TaskCount} Mal.
+3,Besiege Verhungernden Rotfuchs der Westlichen Sprechenden Insel.,Besiege Verhungernden Rotfuchs {TaskCount} Mal.
+4,Besiege Waldwespe der Westlichen Sprechenden Insel.,Besiege Waldwespe {TaskCount} Mal.
+5,@1,@1
+6,@2,@2
+7,@3,@3
+8,@1,@1
+9,@2,@2
+10,@3,@3
+11,@4,@4
+12,@1,@1
+13,@2,@2
+14,@3,@3
+15,@1,@1
+16,@2,@2
+17,@3,@3
+18,@4,@4
+19,@1,@1
+20,@2,@2
+21,@3,@3
+22,@1,@1
+23,@2,@2
+24,@3,@3
+25,@4,@4
+26,@1,@1
+27,@2,@2
+28,@3,@3
+29,@2,@2
+30,@3,@3
+31,Besiege Knochensoldat der Westlichen Sprechenden Insel.,Besiege Knochensoldat {TaskCount} Mal.
+32,Besiege Knochenschützen der Westlichen Sprechenden Insel.,Besiege Knochenschützen {TaskCount} Mal.
+33,@31,@31
+34,@32,@32
+35,@31,@31
+36,@32,@32
+37,@31,@31
+38,@32,@32
+39,@31,@31
+40,@32,@32
+41,@31,@31
+42,@32,@32
+43,@31,@31
+44,@32,@32
+45,@31,@31
+46,@32,@32
+47,@31,@31
+48,@32,@32
+49,@31,@31
+50,@32,@32
+51,@31,@31
+52,@32,@32
+53,@31,@31
+54,@32,@32
+55,@31,@31
+56,@32,@32
+57,@31,@31
+58,@32,@32
+59,@31,@31
+60,@32,@32
+61,@31,@31
+62,@32,@32
+63,Besiege Tollwütigen Werwolf der Gludin-Straße.,Besiege Tollwütigen Werwolf {TaskCount} Mal.
+64,@63,@63
+65,@63,@63
+66,@63,@63
+67,@63,@63
+68,@63,@63
+69,Besiege Ol Mahum-Späher der Gludin-Straße.,Besiege Ol Mahum-Späher {TaskCount} Mal.
+70,@69,@69
+71,@69,@69
+72,@69,@69
+73,@69,@69
+74,@69,@69
+75,Besiege Ebenenpuma der Gludin-Straße.,Besiege Ebenenpuma {TaskCount} Mal.
+76,Besiege Weber der Gludin-Straße.,Besiege Weber {TaskCount} Mal.
+77,@75,@75
+78,@76,@76
+79,@75,@75
+80,@76,@76
+81,@75,@75
+82,@76,@76
+83,@75,@75
+84,@76,@76
+85,@75,@75
+86,@76,@76
+87,@63,@63
+88,@63,@63
+89,@63,@63
+90,@69,@69
+91,@69,@69
+92,@69,@69
+93,Besiege Grausamen Knochensoldaten der Gludin-Straße.,Besiege Grausamen Knochensoldaten {TaskCount} Mal.
+94,Besiege Grabfledermaus der Gludin-Straße.,Besiege Grabfledermaus {TaskCount} Mal.
+95,@93,@93
+96,@94,@94
+97,@93,@93
+98,@94,@94
+99,@93,@93
+100,@94,@94
+101,@93,@93
+102,@94,@94
+103,@93,@93
+104,@94,@94
+105,@93,@93
+106,@94,@94
+107,@93,@93
+108,@94,@94
+109,@93,@93
+110,@94,@94
+111,@93,@93
+112,@94,@94
+113,@93,@93
+114,@94,@94
+115,@93,@93
+116,@94,@94
+117,Besiege Grausamen Knochenschützen der Gludin-Straße.,Besiege Grausamen Knochenschützen {TaskCount} Mal.
+118,@117,@117
+119,@93,@93
+120,@94,@94
+121,@117,@117
+122,@117,@117
+123,Besiege Ol Mahum-Vorarbeiter der Gludin-Straße.,Besiege Ol Mahum-Vorarbeiter {TaskCount} Mal.
+124,Besiege Ol Mahum-Halsabschneider der Gludin-Straße.,Besiege Ol Mahum-Halsabschneider {TaskCount} Mal.
+125,@123,@123
+126,@124,@124
+127,@123,@123
+128,@124,@124
+129,@123,@123
+130,@124,@124
+131,@123,@123
+132,@124,@124
+133,@123,@123
+134,@124,@124
+135,@123,@123
+136,@124,@124
+137,@123,@123
+138,@124,@124
+139,@123,@123
+140,@124,@124
+141,@123,@123
+142,@124,@124
+143,@123,@123
+144,@124,@124
+145,Besiege Ol Mahum-Todesschützen der Gludin-Straße.,Besiege Ol Mahum-Todesschützen {TaskCount} Mal.
+146,@145,@145
+147,@123,@123
+148,@124,@124
+149,@123,@123
+150,@124,@124
+151,@145,@145
+152,@145,@145
+153,Besiege Rotfuchs der Gludio-Ebenen.,Besiege Rotfuchs {TaskCount} Mal.
+154,Besiege Rasenden Schwarzen Wolf der Gludio-Ebenen.,Besiege Rasenden Schwarzen Wolf {TaskCount} Mal.
+155,Besiege Antilope der Gludio-Ebenen.,Besiege Antilope {TaskCount} Mal.
+156,@153,@153
+157,@154,@154
+158,@155,@155
+159,@153,@153
+160,@154,@154
+161,@155,@155
+162,@153,@153
+163,@154,@154
+164,@155,@155
+165,Besiege Maille-Echsenmensch-Zielsucher der Gludio-Ebenen.,Besiege Maille-Echsenmensch-Zielsucher {TaskCount} Mal.
+166,Besiege Tollwütigen Schwarzen Wolf der Gludio-Ebenen.,Besiege Tollwütigen Schwarzen Wolf {TaskCount} Mal.
+167,Besiege Kneifer der Gludio-Ebenen.,Besiege {TaskCount} Kneifer.
+168,@165,@165
+169,@166,@166
+170,@167,@167
+171,@165,@165
+172,@166,@166
+173,@167,@167
+174,@165,@165
+175,@166,@166
+176,@167,@167
+177,Besiege Schreckgespenst-Räuber der Gludio-Ebenen.,Besiege Schreckgespenst-Räuber {TaskCount} Mal.
+178,@177,@177
+179,@177,@177
+180,@177,@177
+181,@177,@177
+182,@177,@177
+183,@165,@165
+184,@166,@166
+185,@153,@153
+186,@154,@154
+187,@155,@155
+188,@167,@167
+189,Besiege Dunkelweber der Gludio-Ebenen.,Besiege Dunkelweber {TaskCount} Mal.
+190,@177,@177
+191,Besiege Schreckgespenst-Schlachter der Gludio-Ebenen.,Besiege Schreckgespenst-Schlachter {TaskCount} Mal.
+192,@165,@165
+193,@166,@166
+194,@153,@153
+195,@154,@154
+196,@155,@155
+197,@167,@167
+198,@189,@189
+199,@177,@177
+200,@191,@191
+201,@154,@154
+202,@155,@155
+203,@167,@167
+204,@189,@189
+205,@177,@177
+206,@191,@191
+207,@154,@154
+208,@155,@155
+209,@167,@167
+210,@189,@189
+211,@177,@177
+212,@191,@191
+213,Besiege Maille-Echsenmensch-Schamane der Gludio-Ebenen.,Besiege Maille-Echsenmensch-Schamanen {TaskCount} Mal.
+214,Besiege Maille-Echsenmensch-Meisterschützen der Gludio-Ebenen.,Besiege Maille-Echsenmensch-Meisterschütze {TaskCount} Mal.
+215,Besiege Maille-Echsenmensch-Bewacher der Gludio-Ebenen.,Besiege Maille-Echsenmensch-Bewacher {TaskCount} Mal.
+216,Besiege Maille-Echsenmensch-Späher der Gludio-Ebenen.,Besiege Maille-Echsenmensch-Späher {TaskCount} Mal.
+217,@213,@213
+218,@214,@214
+219,@215,@215
+220,@216,@216
+221,@213,@213
+222,@214,@214
+223,@215,@215
+224,@216,@216
+225,@213,@213
+226,@214,@214
+227,@215,@215
+228,@216,@216
+229,@215,@215
+230,@216,@216
+231,@215,@215
+232,@216,@216
+233,@213,@213
+234,@214,@214
+235,@215,@215
+236,@216,@216
+237,@213,@213
+238,@214,@214
+239,@215,@215
+240,@216,@216
+241,@215,@215
+242,@216,@216
+243,Besiege Verfluchten Jäger des Windawood-Anwesens.,Besiege Verfluchten Jäger {TaskCount} Mal.
+244,Besiege Mysteriöses Subjekt des Windawood-Anwesens.,Besiege Mysteriöses Subjekt {TaskCount} Mal.
+245,Besiege Grotesken Werwolf des Windawood-Anwesens.,Besiege Grotesken Werwolf {TaskCount} Mal.
+246,Besiege Vampirfledermaus des Windawood-Anwesens.,Besiege Vampirfledermaus {TaskCount} Mal.
+247,Besiege Knochenkrieger des Windawood-Anwesens.,Besiege Knochenkrieger {TaskCount} Mal.
+248,Besiege Knochenbogenschütze des Windawood-Anwesens.,Besiege Knochenbogenschütze {TaskCount} Mal.
+249,Besiege Verhungernden Hund des Windawood-Anwesens.,Besiege Verhungernden Hund {TaskCount} Mal.
+250,@247,@247
+251,Besiege Seelenschlitzer des Windawood-Anwesens.,Besiege Seelenschlitzer {TaskCount} Mal.
+252,@243,@243
+253,@244,@244
+254,@245,@245
+255,@246,@246
+256,@247,@247
+257,@248,@248
+258,@249,@249
+259,@247,@247
+260,@251,@251
+261,@243,@243
+262,@244,@244
+263,@245,@245
+264,@246,@246
+265,@247,@247
+266,@248,@248
+267,@249,@249
+268,@247,@247
+269,@251,@251
+270,@249,@249
+271,@247,@247
+272,@251,@251
+273,Besiege Rachsüchtigen Prima des Windawood-Anwesens.,Besiege Rachsüchtigen Prima {TaskCount} Mal.
+274,Besiege Ol Mahum-Kristalldieb des Windawood-Anwesens.,Besiege Ol Mahum-Kristalldieb {TaskCount} Mal.
+275,Besiege Ol Mahum-Ranger des Windawood-Anwesens.,Besiege Ol Mahum-Ranger {TaskCount} Mal.
+276,Besiege Ol Mahum-Vorhut des Windawood-Anwesens.,Besiege Ol Mahum-Vorhut {TaskCount} Mal.
+277,Besiege Ol Mahum-Bewacher des Windawood-Anwesens.,Besiege Ol Mahum-Bewacher {TaskCount} Mal.
+278,Besiege Giftige Spinne des Windawood-Anwesens.,Besiege Giftige Spinne {TaskCount} Mal.
+279,Besiege Grimmiger Puma des Windawood-Anwesens.,Besiege Grimmigen Puma {TaskCount} Mal.
+280,@273,@273
+281,@274,@274
+282,@275,@275
+283,@276,@276
+284,@277,@277
+285,@278,@278
+286,@279,@279
+287,@273,@273
+288,@274,@274
+289,@275,@275
+290,@276,@276
+291,@277,@277
+292,@278,@278
+293,@279,@279
+294,@273,@273
+295,@274,@274
+296,@275,@275
+297,@276,@276
+298,@277,@277
+299,@278,@278
+300,@279,@279
+301,@278,@278
+302,@279,@279
+303,Besiege Gefallenen Snipe des Windawood-Anwesens.,Besiege Gefallenen Snipe {TaskCount} Mal.
+304,Besiege Puma des Windawood-Anwesens.,Besiege Puma {TaskCount} Mal.
+305,Besiege Gludio-Bär des Windawood-Anwesens.,Besiege Gludio-Bär {TaskCount} Mal.
+306,Besiege Turek-Orksoldaten-Rekrut des Windawood-Anwesens.,Besiege Turek-Orksoldaten-Rekruten {TaskCount} Mal.
+307,Besiege Turek-Ork-Stürmer des Windawood-Anwesens.,Besiege Turek-Ork-Stürmer {TaskCount} Mal.
+308,Besiege Turek-Ork-Bewacher des Windawood-Anwesens.,Besiege Turek-Ork-Bewacher {TaskCount} Mal.
+309,Besiege Turek-Ork-Todesschütze des Windawood-Anwesens.,Besiege Turek-Ork-Todesschützen {TaskCount} Mal.
+310,Besiege Wilden Turek-Kriegshund des Windawood-Anwesens.,Besiege Wilden Turek-Kriegshund {TaskCount} Mal.
+311,Besiege Turek-Ork-Decanus des Windawood-Anwesens.,Besiege Turek-Ork-Decanus {TaskCount} Mal.
+312,@303,@303
+313,@304,@304
+314,@305,@305
+315,@306,@306
+316,@307,@307
+317,@308,@308
+318,@309,@309
+319,@310,@310
+320,@311,@311
+321,@303,@303
+322,@304,@304
+323,@305,@305
+324,@306,@306
+325,@307,@307
+326,@308,@308
+327,@309,@309
+328,@310,@310
+329,@311,@311
+330,@309,@309
+331,@310,@310
+332,@311,@311
+333,Besiege Turek-Ork-Altarbewacher des Windawood-Anwesens.,Besiege Turek-Ork-Altarbewacher {TaskCount} Mal.
+334,Besiege Turek-Ork-Späher des Windawood-Anwesens.,Besiege Turek-Ork-Späher {TaskCount} Mal.
+335,Besiege Turek-Ork-Schützen des Windawood-Anwesens.,Besiege Turek-Ork-Schützen {TaskCount} Mal.
+336,Besiege Turek-Ork-Eskorte des Windawood-Anwesens.,Besiege Turek-Ork-Eskorte {TaskCount} Mal.
+337,Besiege Turek-Ork-Elitesoldat des Windawood-Anwesens.,Besiege Turek-Ork-Elitesoldaten {TaskCount} Mal.
+338,@333,@333
+339,@334,@334
+340,@335,@335
+341,@336,@336
+342,@337,@337
+343,@333,@333
+344,@334,@334
+345,@335,@335
+346,@336,@336
+347,@337,@337
+348,@333,@333
+349,@334,@334
+350,@335,@335
+351,@336,@336
+352,@337,@337
+353,@333,@333
+354,@334,@334
+355,@337,@337
+356,@333,@333
+357,@334,@334
+358,@335,@335
+359,@336,@336
+360,@337,@337
+361,@333,@333
+362,@334,@334
+363,Besiege Ol Mahum-Träger der Einöde.,Besiege Ol Mahum-Träger {TaskCount} Mal.
+364,Besiege Werwolf der Einöde.,Besiege Werwolf {TaskCount} Mal.
+365,Besiege Talwachmann der Einöde.,Besiege Talwachmann {TaskCount} Mal.
+366,Besiege Monsteraugen-Aufspürer der Einöde.,Besiege Monsteraugen-Aufspürer {TaskCount} Mal.
+367,Besiege Sahara der Einöde.,Besiege Sahara {TaskCount} Mal.
+368,Besiege Knochensucher der Einöde.,Besiege Knochensucher {TaskCount} Mal.
+369,Besiege Einöde-Basilisk der Einöde.,Besiege Einöde-Basilisken {TaskCount} Mal.
+370,Besiege Gepanzerte Mutantenameise der Einöde.,Besiege Gepanzerte Mutantenameise {TaskCount} Mal.
+371,Besiege Gepanzerte Mutantenameisenkrieger der Einöde.,Besiege Gepanzerten Mutantenameisenkrieger {TaskCount} Mal.
+372,Besiege Knochenaufspürer der Einöde.,Besiege Knochenaufspürer {TaskCount} Mal.
+373,@363,@363
+374,@364,@364
+375,@365,@365
+376,@366,@366
+377,@367,@367
+378,@368,@368
+379,@369,@369
+380,@370,@370
+381,@371,@371
+382,@372,@372
+383,@363,@363
+384,@364,@364
+385,@365,@365
+386,@369,@369
+387,@370,@370
+388,@371,@371
+389,@372,@372
+390,@363,@363
+391,@364,@364
+392,@365,@365
+393,Besiege Erodierten Sahara der Einöde.,Besiege Erodierten Sahara {TaskCount} Mal.
+394,Besiege Riesigen Egel der Einöde.,Besiege Riesigen Egel {TaskCount} Mal.
+395,Besiege Gepanzerten Mutantenameisenarbeiter der Einöde.,Besiege Gepanzerten Mutantenameisenarbeiter {TaskCount} Mal.
+396,Besiege Gepanzerten Mutantenameisenpagen der Einöde.,Besiege Gepanzerten Mutantenameisenpagen {TaskCount} Mal.
+397,Besiege Ol Mahum-Räuberbewacher der Einöde.,Besiege Ol Mahum-Räuberbewacher {TaskCount} Mal.
+398,Ol Mahum-Schlepper der Einöde.,Besiege Ol Mahum-Schlepper {TaskCount} Mal.
+399,Besiege Manaegel der Einöde.,Besiege Manaegel {TaskCount} Mal.
+400,Besiege Wüstenknochenwache der Einöde.,Besiege Wüstenknochenwache {TaskCount} Mal.
+401,Besiege Wüstenknochensucher der Einöde.,Besiege Wüstenknochensucher {TaskCount} Mal.
+402,Besiege Gepanzerten Mutantenameisensoldat der Einöde.,Besiege Gepanzerten Mutantenameisensoldaten {TaskCount} Mal.
+403,Besiege Sahara der Wüste der Einöde.,Besiege Sahara der Wüste {TaskCount} Mal.
+404,Besiege Grausteingolem der Einöde.,Besiege Grausteingolem {TaskCount} Mal.
+405,Besiege Ol Mahum-Räuber der Einöde.,Besiege Ol Mahum-Räuber {TaskCount} Mal.
+406,@393,@393
+407,@394,@394
+408,@395,@395
+409,@396,@396
+410,@397,@397
+411,@398,@398
+412,@399,@399
+413,@400,@400
+414,@401,@401
+415,@402,@402
+416,@403,@403
+417,@404,@404
+418,@405,@405
+419,@402,@402
+420,@403,@403
+421,@404,@404
+422,@405,@405
+423,@403,@403
+424,@404,@404
+425,@397,@397
+426,@398,@398
+427,@405,@405
+428,Besiege Ol Mahum-Räuberkämpfer der Einöde.,Besiege Ol Mahum-Räuberkämpfer {TaskCount} Mal.
+429,Besiege Ol Mahum-Räuber-Ranger der Einöde.,Besiege Ol Mahum-Räuber-Ranger {TaskCount} Mal.
+430,@403,@403
+431,@403,@403
+432,@404,@404
+433,@397,@397
+434,@398,@398
+435,@405,@405
+436,@428,@428
+437,@429,@429
+438,@403,@403
+439,@403,@403
+440,@404,@404
+441,@397,@397
+442,@398,@398
+443,@405,@405
+444,@428,@428
+445,@429,@429
+446,@403,@403
+447,@397,@397
+448,@398,@398
+449,@405,@405
+450,@428,@428
+451,@429,@429
+452,@403,@403
+453,Besiege Breka-Ork-Späher der Dion-Ebenen.,Besiege Breka-Ork-Späher {TaskCount} Mal.
+454,Besiege Breka-Ork-Kämpfer der Dion-Ebenen.,Besiege Breka-Ork-Kämpfer {TaskCount} Mal.
+455,Besiege Breka-Ork-Bewacher der Dion-Ebenen.,Besiege Breka-Ork-Bewacher {TaskCount} Mal.
+456,Breka-Ork-Eskorte der Dion-Ebenen.,Besiege Breka-Ork-Eskorte {TaskCount} Mal.
+457,Besiege Aufgebrachte Wespe der Dion-Ebenen.,Besiege Aufgebrachte Wespe {TaskCount} Mal.
+458,Besiege Wespe der Dion-Ebenen.,Besiege Wespe {TaskCount} Mal.
+459,Besiege Breka-Ork-Lieferanten der Dion-Ebenen.,Besiege Breka-Ork-Lieferant {TaskCount} Mal.
+460,Besiege Breka-Ork-Ranger der Dion-Ebenen.,Besiege Breka-Ork-Ranger {TaskCount} Mal.
+461,Besiege Leto-Echsenmensch der Dion-Ebenen.,Besiege Leto-Echsenmenschen {TaskCount} Mal.
+462,Besiege Leto-Echsenmensch-Kämpfer der Dion-Ebenen.,Besiege Leto-Echsenmensch-Kämpfer {TaskCount} Mal.
+463,Besiege Leto-Echsenmensch-Schützen der Dion-Ebenen.,Besiege Leto-Echsenmensch-Schützen {TaskCount} Mal.
+464,Besiege Leto-Echsenmensch-Räuber der Dion-Ebenen.,Besiege Leto-Echsenmensch-Räuber {TaskCount} Mal.
+465,@453,@453
+466,@454,@454
+467,@455,@455
+468,@456,@456
+469,@457,@457
+470,@458,@458
+471,@459,@459
+472,@460,@460
+473,@461,@461
+474,@462,@462
+475,@463,@463
+476,@464,@464
+477,@459,@459
+478,@460,@460
+479,@461,@461
+480,@462,@462
+481,@463,@463
+482,@464,@464
+483,Besiege Leto-Echsenmensch-Schamanen der Dion-Ebenen.,Besiege Leto-Echsenmensch-Schamanen {TaskCount} Mal.
+484,Besiege Leto-Echsenmensch-Bewacher der Dion-Ebenen.,Besiege Leto-Echsenmensch-Bewacher {TaskCount} Mal.
+485,Besiege Gereizte Wespe der Dion-Ebenen.,Besiege Gereizte Wespe {TaskCount} Mal.
+486,Besiege Prärie-Antilope der Dion-Ebenen.,Besiege Prärie-Antilope {TaskCount} Mal.
+487,Besiege Leto-Echsenmensch-Erbeuter der Dion-Ebenen.,Besiege Leto-Echsenmensch-Erbeuter {TaskCount} Mal.
+488,@484,@484
+489,Besiege Leto-Echsenmensch-Eskorte der Dion-Ebenen.,Besiege Leto-Echsenmensch-Eskorte {TaskCount} Mal.
+490,Besiege Prärie-Windsus der Dion-Ebenen.,Besiege Prärie-Windsus {TaskCount} Mal.
+491,@483,@483
+492,@484,@484
+493,@485,@485
+494,@486,@486
+495,@487,@487
+496,@484,@484
+497,@489,@489
+498,@490,@490
+499,@483,@483
+500,@484,@484
+501,@485,@485
+502,@486,@486
+503,@487,@487
+504,@484,@484
+505,@489,@489
+506,@490,@490
+507,Besiege Elfische Antilope der Dion-Ebenen.,Besiege Elfische Antilope {TaskCount} Mal.
+508,@487,@487
+509,@484,@484
+510,@489,@489
+511,@490,@490
+512,@507,@507
+513,Besiege Breka-Ork-Eindringling der Dion-Ebenen.,Besiege Breka-Ork-Eindringling {TaskCount} Mal.
+514,Besiege Antilopen-Ältesten der Dion-Ebenen.,Besiege Antilopen-Ältesten {TaskCount} Mal.
+515,Besiege Garstige Vampirfledermaus der Dion-Ebenen.,Besiege Garstige Vampirfledermaus {TaskCount} Mal.
+516,Besiege Riesige Dornspinne der Dion-Ebenen.,Besiege Riesige Dornspinne {TaskCount} Mal.
+517,Besiege Vampirfledermaus der Dion-Ebenen.,Besiege Vampirfledermaus {TaskCount} Mal.
+518,Besiege Tullan-Schreckgespenst der Dion-Ebenen.,Besiege Tullan-Schreckgespenst {TaskCount} Mal.
+519,Besiege Grimmigen Rotbär der Dion-Ebenen.,Besiege Grimmigen Rotbären {TaskCount} Mal.
+520,Besiege Prärie-Klingenspinne der Dion-Ebenen.,Besiege Prärie-Klingenspinne {TaskCount} Mal.
+521,Besiege Klingenkneifer der Dion-Ebenen.,Besiege Klingenkneifer {TaskCount} Mal.
+522,Besiege Rotbären der Dion-Ebenen.,Besiege Rotbären {TaskCount} Mal.
+523,Besiege Schreckgespenst der Dion-Ebenen.,Besiege Schreckgespenst {TaskCount} Mal.
+524,Besiege Elfischen Windsus der Dion-Ebenen.,Besiege Elfischen Windsus {TaskCount} Mal.
+525,Besiege Elfischen Rotbären der Dion-Ebenen.,Besiege Elfischen Rotbär {TaskCount} Mal.
+526,Besiege Breka-Ork-Stürmer der Dion-Ebenen.,Besiege Breka-Ork-Stürmer {TaskCount} Mal.
+527,Besiege Blutwespe der Dion-Ebenen.,Besiege Blutwespe {TaskCount} Mal.
+528,@513,@513
+529,@514,@514
+530,@515,@515
+531,@516,@516
+532,@517,@517
+533,@518,@518
+534,@519,@519
+535,@520,@520
+536,@521,@521
+537,@522,@522
+538,@523,@523
+539,@524,@524
+540,@525,@525
+541,@526,@526
+542,@527,@527
+543,Besiege Schwarze Tigerspinne des Cruma-Sumpfes.,Besiege Schwarze Tigerspinne {TaskCount} Mal.
+544,Besiege Horrornebel-Schnitter des Cruma-Sumpfes.,Besiege Horrornebel-Schnitter {TaskCount} Mal.
+545,Besiege Horrorschnitter des Cruma-Sumpfes.,Besiege Horrorschnitter {TaskCount} Mal.
+546,Besiege Giftige Sumpfspinne des Cruma-Sumpfes.,Besiege Giftige Sumpfspinne {TaskCount} Mal.
+547,Besiege Sumpffledermaus des Cruma-Sumpfes.,Besiege Sumpffledermaus {TaskCount} Mal.
+548,Besiege Verfluchten Seher des Cruma-Sumpfes.,Besiege Verfluchten Seher {TaskCount} Mal.
+549,@543,@543
+550,@544,@544
+551,@545,@545
+552,@546,@546
+553,@547,@547
+554,@548,@548
+555,@543,@543
+556,@544,@544
+557,@545,@545
+558,@546,@546
+559,@547,@547
+560,@548,@548
+561,@543,@543
+562,@544,@544
+563,@545,@545
+564,@546,@546
+565,@547,@547
+566,@548,@548
+567,@543,@543
+568,@544,@544
+569,@545,@545
+570,@546,@546
+571,@547,@547
+572,@548,@548
+573,Besiege Maille-Echsenmensch-Vorhut des Cruma-Sumpfes.,Besiege Maille-Echsenmensch-Vorhut {TaskCount} Mal.
+574,Besiege Knochenspäher des Cruma-Sumpfes.,Besiege Knochenspäher {TaskCount} Mal.
+575,Besiege Knochenverfolger des Cruma-Sumpfes.,Besiege Knochenverfolger {TaskCount} Mal.
+576,Besiege Maille-Echsenmensch-Schamane des Cruma-Sumpfes.,@213
+577,Besiege Maille-Echsenmensch-Verfolger des Cruma-Sumpfes.,Besiege Maille-Echsenmensch-Verfolger {TaskCount} Mal.
+578,Besiege Maille-Echsenmensch-Patrouille des Cruma-Sumpfes.,Besiege Maille-Echsenmensch-Patrouille {TaskCount} Mal.
+579,Besiege Sumpfghul des Cruma-Sumpfes.,Besiege Sumpfghul {TaskCount} Mal.
+580,@573,@573
+581,@574,@574
+582,@575,@575
+583,@576,@213
+584,@577,@577
+585,@578,@578
+586,@579,@579
+587,@573,@573
+588,@574,@574
+589,@575,@575
+590,@576,@213
+591,@577,@577
+592,@578,@578
+593,@579,@579
+594,@576,@213
+595,@577,@577
+596,@578,@578
+597,@577,@577
+598,@578,@578
+599,@579,@579
+600,@576,@213
+601,@577,@577
+602,@578,@578
+603,Besiege Sumpfattentäter des Cruma-Sumpfes.,Besiege Sumpfattentäter {TaskCount} Mal.
+604,Besiege Sumpfkiller des Cruma-Sumpfes.,Besiege Sumpfkiller {TaskCount} Mal.
+605,Besiege Moor-Stakato-Gesandten des Cruma-Sumpfes.,Besiege Moor-Stakato-Gesandten {TaskCount} Mal.
+606,Besiege Sumpfhassassin des Cruma-Sumpfes.,Besiege Sumpfhassassinen {TaskCount} Mal.
+607,Besiege Moor-Stakato-Sklaven des Cruma-Sumpfes.,Besiege Moor-Stakato-Sklaven {TaskCount} Mal.
+608,Besiege Moor-Stakato-Hassassin des Cruma-Sumpfes.,Besiege Moor-Stakato-Hassassinen {TaskCount} Mal.
+609,Besiege Zerstörerischen Killer des Cruma-Sumpfes.,Besiege Zerstörerischen Killer {TaskCount} Mal.
+610,Besiege Sumpfkiller des Cruma-Sumpfes.,@604
+611,@603,@603
+612,@604,@604
+613,@605,@605
+614,@606,@606
+615,@607,@607
+616,@608,@608
+617,@609,@609
+618,@610,@604
+619,@603,@603
+620,@604,@604
+621,@605,@605
+622,@606,@606
+623,@607,@607
+624,@608,@608
+625,@609,@609
+626,@610,@604
+627,Besiege Irren Killer des Cruma-Sumpfes.,Besiege Irren Killer {TaskCount} Mal.
+628,Besiege Schattenchor-Prima des Cruma-Sumpfes.,Besiege Schattenchor-Prima {TaskCount} Mal.
+629,@609,@609
+630,@610,@604
+631,@627,@627
+632,@628,@628
+633,Besiege Aufgebrachten Grizzlybären des Gipfels des Missklangs.,Besiege Aufgebrachten Grizzlybären {TaskCount} Mal.
+634,Besiege Rotschwanzfuchs des Gipfels des Missklangs.,Besiege Rotschwanzfuchs {TaskCount} Mal.
+635,Besiege Schwarzen Leoparden des Gipfels des Missklangs.,Besiege Schwarzen Leoparden {TaskCount} Mal.
+636,Besiege Waldzahnspinne des Gipfels des Missklangs.,Besiege Waldzahnspinne {TaskCount} Mal.
+637,Besiege Tanor-Wache des Gipfels des Missklangs.,Besiege Tanor-Wache {TaskCount} Mal.
+638,Besiege Tanor-Stürmer des Gipfels des Missklangs.,Besiege Tanor-Stürmer {TaskCount} Mal.
+639,Besiege Tanor-Kämpfer des Gipfels des Missklangs.,Besiege Tanor-Kämpfer {TaskCount} Mal.
+640,Besiege Tanor-Wachposten des Gipfels des Missklangs.,Besiege Tanor-Wachposten {TaskCount} Mal.
+641,Besiege Tanor-Späher des Gipfels des Missklangs.,Besiege Tanor-Späher {TaskCount} Mal.
+642,Besiege Tanor- Ritterrekruten des Gipfels des Missklangs.,Besiege Tanor-Ritterrekruten {TaskCount} Mal.
+643,Besiege Tanor-Lieferanten des Gipfels des Missklangs.,Besiege Tanor-Lieferanten {TaskCount} Mal.
+644,Besiege Tanor-Schamanen des Gipfels des Missklangs.,Besiege Tanor-Schamanen {TaskCount} Mal.
+645,Besiege Auslaugende Wespe des Gipfels des Missklangs.,Besiege Auslaugende Wespe {TaskCount} Mal.
+646,@633,@633
+647,@634,@634
+648,@635,@635
+649,@636,@636
+650,@637,@637
+651,@638,@638
+652,@639,@639
+653,@640,@640
+654,@641,@641
+655,@642,@642
+656,@643,@643
+657,@644,@644
+658,@645,@645
+659,@642,@642
+660,@643,@643
+661,@644,@644
+662,@645,@645
+663,Besiege Giftige Moorspinne des Gipfels des Missklangs.,Besiege Giftige Moorspinne {TaskCount} Mal.
+664,Besiege Ol Mahum-Patrouille des Gipfels des Missklangs..,Besiege Ol Mahum-Patrouille {TaskCount} Mal.
+665,Besiege Ol Mahum-Späher des Gipfels des Missklangs.,@69
+666,Besiege Schattenwespe des Gipfels des Missklangs.,Besiege Schattenwespe {TaskCount} Mal.
+667,@642,@642
+668,Besiege Tanor-Priester des Gipfels des Missklangs.,Besiege Tanor-Priester {TaskCount} Mal.
+669,Besiege Kankoons Elitesoldaten des Gipfels des Missklangs.,Besiege Kankoons Elitesoldaten {TaskCount} Mal.
+670,Besiege Kankoons Wachposten des Gipfels des Missklangs.,Besiege Kankoons Wachposten {TaskCount} Mal.
+671,Besiege Kankoons Priester des Gipfels des Missklangs.,Besiege Kankoons Priester {TaskCount} Mal.
+672,@639,@639
+673,@663,@663
+674,@664,@664
+675,@665,@69
+676,@666,@666
+677,@642,@642
+678,@668,@668
+679,@669,@669
+680,@670,@670
+681,@671,@671
+682,@639,@639
+683,@663,@663
+684,@664,@664
+685,@665,@69
+686,@666,@666
+687,@642,@642
+688,@668,@668
+689,@669,@669
+690,@670,@670
+691,@671,@671
+692,@639,@639
+693,Besiege Ol Mahum-Offizier des Gipfels des Missklangs.,Besiege Ol Mahum-Offizier {TaskCount} Mal.
+694,Besiege Ol Mahum-Lieferanten des Gipfels des Missklangs.,Besiege Ol Mahum-Lieferanten {TaskCount} Mal.
+695,Besiege Moor-Premo des Gipfels des Missklangs.,Besiege Moor-Premo {TaskCount} Mal.
+696,Besiege Ol Mahum-Wachposten des Gipfels des Missklangs.,Besiege Ol Mahum-Wachposten {TaskCount} Mal.
+697,Besiege Ol Mahum-Rekruten des Gipfels des Missklangs.,Besiege Ol Mahum-Rekruten {TaskCount} Mal.
+698,Besiege Ol Mahum-Stürmer des Gipfels des Missklangs.,Besiege Ol Mahum-Stürmer {TaskCount} Mal.
+699,Besiege Ol Mahum-Scharfschützen des Gipfels des Missklangs.,Besiege Ol Mahum-Scharfschützen {TaskCount} Mal.
+700,Besiege Ol Mahum-Kommandanten des Gipfels des Missklangs.,Besiege Ol Mahum-Kommandanten {TaskCount} Mal.
+701,Besiege Wandelnden Fungus des Gipfels des Missklangs.,Besiege Wandelnden Fungus {TaskCount} Mal.
+702,@693,@693
+703,@694,@694
+704,@695,@695
+705,@696,@696
+706,@697,@697
+707,@698,@698
+708,@699,@699
+709,@700,@700
+710,@701,@701
+711,@693,@693
+712,@694,@694
+713,@695,@695
+714,@696,@696
+715,@697,@697
+716,@698,@698
+717,@699,@699
+718,@700,@700
+719,@701,@701
+720,@699,@699
+721,@700,@700
+722,@701,@701
+723,Besiege Dicor des Kummers des Kreischenden Heiligtums.,Besiege Dicor des Kummers {TaskCount} Mal.
+724,Besiege Wehklagende Mandragora des Kreischenden Heiligtums,Besiege Wehklagende Mandragora {TaskCount} Mal.
+725,Besiege Gefolterte Mandragora des Kreischenden Heiligtums.,Besiege Gefolterte Mandragora {TaskCount} Mal.
+726,Besiege Dicor der Verzweiflung des Kreischenden Heiligtums.,Besiege Dicor der Verzweiflung {TaskCount} Mal.
+727,Besiege Erzürnte Mandragora des Kreischenden Heiligtums.,Besiege Erzürnte Mandragora {TaskCount} Mal.
+728,@723,@723
+729,@724,@724
+730,@725,@725
+731,@726,@726
+732,@727,@727
+733,@723,@723
+734,@724,@724
+735,@725,@725
+736,@726,@726
+737,@727,@727
+738,@723,@723
+739,@724,@724
+740,@725,@725
+741,@726,@726
+742,@727,@727
+743,@723,@723
+744,@724,@724
+745,@727,@727
+746,@723,@723
+747,@724,@724
+748,@725,@725
+749,@726,@726
+750,@727,@727
+751,@723,@723
+752,@724,@724
+753,Besiege Erschöpften Verderbensdiener des Kreischenden Heiligtums.,Besiege Erschöpften Verderbensdiener {TaskCount} Mal.
+754,Besiege Rachsüchtigen Killer des Kreischenden Heiligtums.,Besiege Rachsüchtigen Killer {TaskCount} Mal.
+755,Besiege Wahnsinnigen Schnitter des Kreischenden Heiligtums.,Besiege Wahnsinnigen Schnitter {TaskCount} Mal.
+756,Besiege Schwarze Weide des Kreischenden Heiligtums.,Besiege Schwarze Weide {TaskCount} Mal.
+757,Besiege Entstellten Killer des Kreischenden Heiligtums.,Besiege Entstellten Killer {TaskCount} Mal.
+758,@753,@753
+759,@754,@754
+760,@755,@755
+761,@756,@756
+762,@757,@757
+763,@753,@753
+764,@754,@754
+765,@755,@755
+766,@756,@756
+767,@757,@757
+768,@753,@753
+769,@754,@754
+770,@755,@755
+771,@756,@756
+772,@757,@757
+773,@753,@753
+774,@754,@754
+775,@755,@755
+776,@756,@756
+777,@757,@757
+778,@753,@753
+779,@754,@754
+780,@755,@755
+781,@756,@756
+782,@757,@757
+783,Besiege Verderbensdiener des Kreischenden Heiligtums.,Besiege Verderbensdiener {TaskCount} Mal.
+784,Besiege Rastlosen Geist des Kreischenden Heiligtums.,Besiege Rastlosen Geist {TaskCount} Mal.
+785,Besiege Unschuldigen Geist des Kreischenden Heiligtums.,Besiege Unschuldigen Geist {TaskCount} Mal.
+786,Besiege Todesschnitter des Kreischenden Heiligtums.,Besiege Todesschnitter {TaskCount} Mal.
+787,Besiege Unheilvolle Weide des Kreischenden Heiligtums.,Besiege Unheilvolle Weide {TaskCount} Mal.
+788,Besiege Blutdürstigen Schemen des Kreischenden Heiligtums.,Besiege Blutdürstigen Schemen {TaskCount} Mal.
+789,Besiege Wiederbelebten Schemen des Kreischenden Heiligtums.,Besiege Wiederbelebten Schemen {TaskCount} Mal.
+790,Besiege Wiederbelebten Händler des Kreischenden Heiligtums.,Besiege Wiederbelebten Händler {TaskCount} Mal.
+791,@783,@783
+792,@784,@784
+793,@785,@785
+794,@786,@786
+795,@787,@787
+796,@788,@788
+797,@789,@789
+798,@790,@790
+799,@783,@783
+800,@784,@784
+801,@785,@785
+802,@786,@786
+803,@787,@787
+804,@788,@788
+805,@789,@789
+806,@790,@790
+807,@783,@783
+808,@784,@784
+809,@785,@785
+810,@786,@786
+811,@787,@787
+812,@788,@788
+813,Besiege Knochenstürmer des Kreischenden Heiligtums.,Besiege Knochenstürmer {TaskCount} Mal.
+814,Besiege Knochenmeisterschützen des Kreischenden Heiligtums.,Besiege Knochenmeisterschütze {TaskCount} Mal.
+815,@813,@813
+816,@814,@814
+817,@813,@813
+818,@814,@814
+819,@813,@813
+820,@814,@814
+821,@813,@813
+822,@814,@814
+823,@813,@813
+824,@814,@814
+825,@813,@813
+826,@814,@814
+827,@813,@813
+828,@814,@814
+829,@813,@813
+830,@814,@814
+831,@813,@813
+832,@814,@814
+833,@813,@813
+834,@814,@814
+835,@813,@813
+836,@814,@814
+837,@813,@813
+838,@814,@814
+839,@813,@813
+840,@814,@814
+841,@813,@813
+842,@814,@814
+843,@813,@813
+844,@814,@814
+845,Besiege Nerkas-Nekromant des Kreischenden Heiligtums.,Besiege Nerkas-Nekromant {TaskCount} Mal.
+846,Besiege Nerkas-Seelenernter des Kreischenden Heiligtums.,Besiege Nerkas-Seelenernter {TaskCount} Mal.
+847,Besiege Zombiefürst des Kreischenden Heiligtums.,Besiege Zombiefürst {TaskCount} Mal.
+848,Besiege Unerbittlichen Schemen des Kreischenden Heiligtums.,Besiege Unerbittlichen Schemen {TaskCount} Mal.
+849,Besiege Gefolterten Schemen des Kreischenden Heiligtums.,Besiege Gefolterten Schemen {TaskCount} Mal.
+850,Besiege Wehklagende Dicor des Kreischenden Heiligtums.,Besiege Wehklagende Dicor {TaskCount} Mal.
+851,Besiege Gefesselte Seele des Kreischenden Heiligtums.,Besiege Gefesselte Seele {TaskCount} Mal.
+852,Besiege Schreckensdiener des Kreischenden Heiligtums.,Besiege Schreckensdiener {TaskCount} Mal.
+853,@845,@845
+854,@846,@846
+855,@847,@847
+856,@848,@848
+857,@849,@849
+858,@850,@850
+859,@851,@851
+860,@852,@852
+861,@845,@845
+862,@846,@846
+863,@847,@847
+864,@848,@848
+865,@849,@849
+866,@850,@850
+867,@851,@851
+868,@852,@852
+869,@845,@845
+870,@846,@846
+871,@847,@847
+872,@848,@848
+873,@849,@849
+874,@850,@850
+875,Besiege Ruinen-Dicor des Giran-Reiches.,Besiege Ruinen-Dicor {TaskCount} Mal.
+876,Besiege Ruinen-Snipe des Giran-Reiches.,Besiege Ruinen-Snipe {TaskCount} Mal.
+877,Besiege Hungrigen Rotbären des Giran-Reiches.,Besiege Hungrigen Rotbären {TaskCount} Mal.
+878,Besiege Wilden Rotbären des Giran-Reiches.,Besiege Wilden Rotbären {TaskCount} Mal.
+879,Besiege Berg-Puma des Giran-Reiches.,Besiege Berg-Puma {TaskCount} Mal.
+880,Besiege Kräftigen Puma des Giran-Reiches.,Besiege Kräftigen Puma {TaskCount} Mal.
+881,@875,@875
+882,@876,@876
+883,@877,@877
+884,@878,@878
+885,@879,@879
+886,@880,@880
+887,@875,@875
+888,@876,@876
+889,@877,@877
+890,@878,@878
+891,@879,@879
+892,@880,@880
+893,@875,@875
+894,@876,@876
+895,@877,@877
+896,@878,@878
+897,@879,@879
+898,@880,@880
+899,@875,@875
+900,@876,@876
+901,@877,@877
+902,@878,@878
+903,@879,@879
+904,@880,@880
+905,Besiege Weidende Antilope des Giran-Reiches.,Besiege Weidende Antilope {TaskCount} Mal.
+906,Besiege Weidenden Windsus des Giran-Reiches.,Besiege Weidenden Windsus {TaskCount} Mal.
+907,Besiege Medusa des Giran-Reiches.,Besiege Medusa {TaskCount} Mal.
+908,Besiege Wyrm des Giran-Reiches.,Besiege Wyrm {TaskCount} Mal.
+909,Besiege Schreckgespenst des Giran-Reiches.,@523
+910,Besiege Wyrm-Wärter des Giran-Reiches.,Besiege Wyrm-Wärter {TaskCount} Mal.
+911,Besiege Steingolem des Giran-Reichs.,Besiege Steingolem {TaskCount} Mal.
+912,@905,@905
+913,@906,@906
+914,@907,@907
+915,@908,@908
+916,@909,@523
+917,@910,@910
+918,@911,@911
+919,@905,@905
+920,@906,@906
+921,@907,@907
+922,@908,@908
+923,@909,@523
+924,@910,@910
+925,@911,@911
+926,@905,@905
+927,@906,@906
+928,@907,@907
+929,@908,@908
+930,@909,@523
+931,@910,@910
+932,@911,@911
+933,@910,@910
+934,@911,@911
+935,Besiege Dicor des Waldes des Giran-Reiches.,Besiege Dicor des Waldes {TaskCount} Mal.
+936,Besiege Dicor der Halluzination des Giran-Reiches.,Besiege Dicor der Halluzination {TaskCount} Mal.
+937,Besiege Sukkubus des Giran-Reiches.,Besiege Sukkubus {TaskCount} Mal.
+938,Besiege Waldwerwolf des Giran-Reiches.,Besiege Waldwerwolf {TaskCount} Mal.
+939,Besiege Verführerischen Sukkubus des Giran-Reiches.,Besiege Verführerischen Sukkubus {TaskCount} Mal.
+940,Besiege Flinken Snipe des Giran-Reiches.,Besiege Flinken Snipe {TaskCount} Mal.
+941,Besiege Dicor-Ältesten des Giran-Reiches.,Besiege Dicor-Älteste {TaskCount} Mal.
+942,@935,@935
+943,@936,@936
+944,@937,@937
+945,@938,@938
+946,@939,@939
+947,@940,@940
+948,@941,@941
+949,@935,@935
+950,@936,@936
+951,@937,@937
+952,@938,@938
+953,@939,@939
+954,@940,@940
+955,@941,@941
+956,@935,@935
+957,@936,@936
+958,@937,@937
+959,@938,@938
+960,@939,@939
+961,@940,@940
+962,@941,@941
+963,@935,@935
+964,@936,@936
+965,@937,@937
+966,@938,@938
+967,@939,@939
+968,@940,@940
+969,@941,@941
+970,Besiege Langk-Echsenmensch-Wachposten des Giran-Reiches.,Besiege Langk-Echsenmensch-Wachposten {TaskCount} Mal.
+971,Besiege Langk-Echsenmensch-Späher des Giran-Reiches.,Besiege Langk-Echsenmensch-Späher {TaskCount} Mal.
+972,Besiege Langk-Echsenmensch-Krieger des Giran-Reiches.,Besiege Langk-Echsenmensch-Krieger {TaskCount} Mal.
+973,Besiege Langk-Echsenmensch-Kämpfer des Giran-Reiches.,Besiege Langk-Echsenmensch-Kämpfer {TaskCount} Mal.
+974,Besiege Langk-Echsenmensch-Ranger des Giran-Reiches.,Besiege Langk-Echsenmensch-Ranger {TaskCount} Mal.
+975,Besiege Langk-Echsenmensch-Rekruten des Giran-Reiches.,Besiege Langk-Echsenmensch-Rekruten {TaskCount} Mal.
+976,Besiege Langk-Echsenmensch-Schamanen des Giran-Reiches.,Besiege Langk-Echsenmensch-Schamanen {TaskCount} Mal.
+977,Besiege Langk-Echsenmensch-Soldaten des Giran-Reiches.,Besiege Langk-Echsenmensch-Soldaten {TaskCount} Mal.
+978,Besiege Langk-Echsenmensch-Schamanenältesten des Giran-Reiches.,Besiege Langk-Echsenmensch-Schamanenältesten {TaskCount} Mal.
+979,Besiege Langk-Echsenmensch-Stürmer des Giran-Reiches.,Besiege Langk-Echsenmensch-Stürmer {TaskCount} Mal.
+980,@970,@970
+981,@971,@971
+982,@972,@972
+983,@973,@973
+984,@974,@974
+985,@975,@975
+986,@976,@976
+987,@977,@977
+988,@978,@978
+989,@979,@979
+990,@970,@970
+991,@971,@971
+992,@972,@972
+993,@973,@973
+994,@974,@974
+995,@975,@975
+996,@976,@976
+997,@977,@977
+998,@978,@978
+999,@979,@979
+1000,Besiege Verhungernden Puma der Tödlichen Nebelküste.,Besiege Verhungernden Puma {TaskCount} Mal.
+1001,Besiege Ol Mahum-Banditenerbeuter der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenerbeuter {TaskCount} Mal.
+1002,Besiege Ol Mahum-Banditenarbeiter der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenarbeiter {TaskCount} Mal.
+1003,Besiege Brutalen Rotbären der Tödlichen Nebelküste.,Besiege Brutalen Rotbären {TaskCount} Mal.
+1004,Besiege Unersättlichen Puma der Tödlichen Nebelküste.,Besiege Unersättlichen Puma {TaskCount} Mal.
+1005,Besiege Ol Mahum-Banditenspäher der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenspäher {TaskCount} Mal.
+1006,Besiege Ol Mahum-Banditenwachposten der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenwachposten {TaskCount} Mal.
+1007,Besiege Ol Mahum-Banditenkrieger der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenkrieger {TaskCount} Mal.
+1008,Besiege Ol Mahum-Banditenlieferanten der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenlieferanten {TaskCount} Mal.
+1009,Besiege Ol Mahum-Banditengroßmeisterschützen der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditengroßmeisterschützen {TaskCount} Mal.
+1010,Besiege Ol Mahum-Banditenkommandanten der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenkommandanten {TaskCount} Mal.
+1011,Besiege Ol Mahum-Banditenschützen der Tödlichen Nebelküste.,Besiege Ol Mahum-Banditenschützen {TaskCount} Mal.
+1012,Besiege Hungrigen Rotbären der Tödlichen Nebelküste.,@877
+1013,Besiege Tollwütigen Küstenpuma der Tödlichen Nebelküste.,Besiege Tollwütigen Küstenpuma {TaskCount} Mal.
+1014,@1000,@1000
+1015,@1001,@1001
+1016,@1002,@1002
+1017,@1003,@1003
+1018,@1004,@1004
+1019,@1005,@1005
+1020,@1006,@1006
+1021,@1007,@1007
+1022,@1008,@1008
+1023,@1009,@1009
+1024,@1010,@1010
+1025,@1011,@1011
+1026,@1012,@877
+1027,@1013,@1013
+1028,@1012,@877
+1029,@1013,@1013
+1030,Besiege Wandernden Toten der Tödlichen Nebelküste.,Besiege Wandernden Toten {TaskCount} Mal.
+1031,Besiege Schiffbrüchigen Piratenzombie der Tödlichen Nebelküste.,Besiege Schiffbrüchigen Piratenzombie {TaskCount} Mal.
+1032,Besiege Jämmerlichen Schrei der Tödlichen Nebelküste.,Besiege Jämmerlichen Schrei {TaskCount} Mal.
+1033,Besiege Riesigen Toten der Tödlichen Nebelküste.,Besiege Riesigen Toten {TaskCount} Mal.
+1034,Besiege Todesflieger der Tödlichen Nebelküste.,Besiege Todesflieger {TaskCount} Mal.
+1035,Besiege Grandis-Zerstörer der Tödlichen Nebelküste.,Besiege Grandis-Zerstörer {TaskCount} Mal.
+1036,Besiege Schreckgespenst-Kämpfer der Tödlichen Nebelküste.,Besiege Schreckgespenst-Kämpfer {TaskCount} Mal.
+1037,Besiege Kleinriesen-Schöpfung der Tödlichen Nebelküste.,Besiege Kleinriesen-Schöpfung {TaskCount} Mal.
+1038,Besiege Verrückten Kleinriesen der Tödlichen Nebelküste.,Besiege Verrückten Kleinriesen {TaskCount} Mal.
+1039,Besiege Degenerierten Kleinriesen der Tödlichen Nebelküste.,Besiege Degenerierten Kleinriesen {TaskCount} Mal.
+1040,@1030,@1030
+1041,@1031,@1031
+1042,@1032,@1032
+1043,@1033,@1033
+1044,@1034,@1034
+1045,@1035,@1035
+1046,@1036,@1036
+1047,@1037,@1037
+1048,@1038,@1038
+1049,@1039,@1039
+1050,@1030,@1030
+1051,@1031,@1031
+1052,@1032,@1032
+1053,@1033,@1033
+1054,@1034,@1034
+1055,@1035,@1035
+1056,@1036,@1036
+1057,@1037,@1037
+1058,@1038,@1038
+1059,@1039,@1039
+1060,Besiege Vergessenen Kleinriesen der Tödlichen Nebelküste.,Besiege Vergessenen Kleinriesen {TaskCount} Mal.
+1061,Besiege Gepeinigten Kleinriesen der Tödlichen Nebelküste.,Besiege Gepeinigten Kleinriesen {TaskCount} Mal.
+1062,Besiege Grandis-Reißer der Tödlichen Nebelküste.,Besiege Grandis-Reißer {TaskCount} Mal.
+1063,Besiege Schöpfung des Kleinriesen der Tödlichen Nebelküste.,Besiege Schöpfung des Kleinriesen {TaskCount} Mal.
+1064,Besiege Schreckgespenst-Krieger der Tödlichen Nebelküste.,Besiege Schreckgespenst-Krieger {TaskCount} Mal.
+1065,Besiege Grandis-Tyrann der Tödlichen Nebelküste.,Besiege Grandis-Tyrann {TaskCount} Mal.
+1066,Besiege Infanterie der Zaken-Piraten der Tödlichen Nebelküste.,Besiege Infanterie der Zaken-Piraten {TaskCount} Mal.
+1067,Besiege Todesschützen der Zaken-Piraten der Tödlichen Nebelküste.,Besiege Todesschützen der Zaken-Piraten {TaskCount} Mal.
+1068,Besiege Vorhut der Zaken-Piraten der Tödlichen Nebelküste.,Besiege Vorhut der Zaken-Piraten {TaskCount} Mal.
+1069,Besiege Schrei der Verzweiflung der Tödlichen Nebelküste.,Besiege Schrei der Verzweiflung {TaskCount} Mal.
+1070,@1060,@1060
+1071,@1061,@1061
+1072,@1062,@1062
+1073,@1060,@1060
+1074,@1061,@1061
+1075,@1062,@1062
+1076,@1063,@1063
+1077,@1064,@1064
+1078,@1065,@1065
+1079,@1066,@1066
+1080,@1067,@1067
+1081,@1068,@1068
+1082,@1069,@1069
+1083,@1060,@1060
+1084,@1061,@1061
+1085,@1062,@1062
+1086,@1069,@1069
+1087,@1060,@1060
+1088,@1061,@1061
+1089,@1062,@1062
+1090,Besiege Dunkelsukkubus der Teufelsinsel.,Besiege Dunkelsukkubus {TaskCount} Mal.
+1091,Besiege Höllenchor-Prima der Teufelsinsel.,Besiege Höllenchor-Prima {TaskCount} Mal.
+1092,Besiege Teufelsfels-Skorpion der Teufelsinsel.,Besiege Teufelsfels-Skorpion {TaskCount} Mal.
+1093,Besiege Tödlichen Dunkelsukkubus der Teufelsinsel.,Besiege Tödlichen Dunkelsukkubus {TaskCount} Mal.
+1094,Besiege Verhungernden Dschungel-Premo der Teufelsinsel.,Besiege Verhungernden Dschungel-Premo {TaskCount} Mal.
+1095,Besiege Halsabschneider der Zaken-Piraten der Teufelsinsel.,Besiege Halsabschneider der Zaken-Piraten {TaskCount} Mal.
+1096,Besiege Rachsüchtigen Toten der Teufelsinsel.,Besiege Rachsüchtigen Toten {TaskCount} Mal.
+1097,Besiege Ausguck der Zaken-Piraten der Teufelsinsel.,Besiege Ausguck der Zaken-Piraten {TaskCount} Mal.
+1098,Besiege Patrouille der Zaken-Piraten der Teufelsinsel.,Besiege Patrouille der Zaken-Piraten {TaskCount} Mal.
+1099,Besiege Scharfschützen der Zaken-Piraten der Teufelsinsel.,Besiege Scharfschützen der Zaken-Piraten {TaskCount} Mal.
+1100,@1090,@1090
+1101,@1091,@1091
+1102,@1092,@1092
+1103,@1093,@1093
+1104,@1094,@1094
+1105,@1095,@1095
+1106,@1096,@1096
+1107,@1097,@1097
+1108,@1098,@1098
+1109,@1099,@1099
+1110,@1090,@1090
+1111,@1091,@1091
+1112,@1092,@1092
+1113,@1093,@1093
+1114,@1094,@1094
+1115,@1095,@1095
+1116,@1096,@1096
+1117,@1097,@1097
+1118,@1098,@1098
+1119,@1099,@1099
+1120,Besiege Deckarbeiter der Zaken-Piraten der Teufelsinsel.,Besiege Deckarbeiter der Zaken-Piraten {TaskCount} Mal.
+1121,Besiege Unerbittlichen Toten der Teufelsinsel.,Besiege Unerbittlichen Toten {TaskCount} Mal.
+1122,Besiege Höhlenskorpion der Teufelsinsel.,Besiege Höhlenskorpion {TaskCount} Mal.
+1123,Besiege Zakens Meisterschützen der Teufelsinsel.,Besiege Zakens Meisterschützen {TaskCount} Mal.
+1124,Besiege Piratenzombie der Teufelsinsel.,Besiege Piratenzombie {TaskCount} Mal.
+1125,Besiege Zakens Königswache der Teufelsinsel.,Besiege Zakens Königswache {TaskCount} Mal.
+1126,Besiege Nautiker der Zaken-Piraten der Teufelsinsel.,Besiege Nautiker der Zaken-Piraten {TaskCount} Mal.
+1127,Besiege Bootsmann der Zaken-Piraten der Teufelsinsel.,Besiege Bootsmann der Zaken-Piraten {TaskCount} Mal.
+1128,Besiege Zakens Wachmann der Teufelsinsel.,Besiege Zakens Wachmann {TaskCount} Mal.
+1129,Besiege Steuermann der Zaken-Piraten der Teufelsinsel.,Besiege Steuermann der Zaken-Piraten {TaskCount} Mal.
+1130,@1120,@1120
+1131,@1121,@1121
+1132,@1122,@1122
+1133,@1123,@1123
+1134,@1124,@1124
+1135,@1125,@1125
+1136,@1126,@1126
+1137,@1127,@1127
+1138,@1128,@1128
+1139,@1129,@1129
+1140,@1120,@1120
+1141,@1121,@1121
+1142,@1122,@1122
+1143,@1123,@1123
+1144,@1124,@1124
+1145,@1125,@1125
+1146,@1126,@1126
+1147,@1127,@1127
+1148,@1128,@1128
+1149,@1129,@1129
+1150,Besiege Schlucht-Breka-Späher der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Späher {TaskCount} Mal.
+1151,Besiege Schlucht-Breka-Wachposten der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Wachposten {TaskCount} Mal.
+1152,Besiege Schlucht-Breka-Lieferant der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Lieferant {TaskCount} Mal.
+1153,Besiege Schlucht-Breka-Kämpfer der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Kämpfer {TaskCount} Mal.
+1154,Besiege Schlucht-Breka-Schamane der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Schamanen {TaskCount} Mal.
+1155,@1150,@1150
+1156,@1151,@1151
+1157,@1152,@1152
+1158,@1153,@1153
+1159,@1154,@1154
+1160,@1150,@1150
+1161,@1151,@1151
+1162,@1152,@1152
+1163,@1153,@1153
+1164,@1154,@1154
+1165,@1150,@1150
+1166,@1151,@1151
+1167,@1152,@1152
+1168,@1153,@1153
+1169,@1154,@1154
+1170,@1150,@1150
+1171,@1151,@1151
+1172,@1152,@1152
+1173,@1153,@1153
+1174,@1154,@1154
+1175,@1150,@1150
+1176,@1151,@1151
+1177,@1152,@1152
+1178,@1153,@1153
+1179,@1154,@1154
+1180,Besiege Schlucht-Breka-Patrouille der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Patrouille {TaskCount} Mal.
+1181,Besiege Schlucht-Breka-Kriegshäuptling der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Kriegshäuptling {TaskCount} Mal.
+1182,Besiege Schlucht-Breka-Priester der Ruhelosen Totenstadt.,Besiege Schlucht-Breka-Priester {TaskCount} Mal.
+1183,Besiege Seelenaufspürer-Prima der Ruhelosen Totenstadt.,Besiege Seelenaufspürer-Prima {TaskCount} Mal.
+1184,Besiege Schlucht-Windsus der Ruhelosen Totenstadt.,Besiege Schlucht-Windsus {TaskCount} Mal.
+1185,Besiege Steingolem der Ruhelosen Totenstadt.,@911
+1186,Besiege Wächterbasilisk der Ruhelosen Totenstadt.,Besiege Wächterbasilisk {TaskCount} Mal.
+1187,Besiege Schnitter der Ruhelosen Totenstadt.,Besiege Schnitter {TaskCount} Mal.
+1188,@1180,@1180
+1189,@1181,@1181
+1190,@1182,@1182
+1191,@1183,@1183
+1192,@1184,@1184
+1193,@1185,@911
+1194,@1186,@1186
+1195,@1187,@1187
+1196,@1180,@1180
+1197,@1181,@1181
+1198,@1182,@1182
+1199,@1183,@1183
+1200,@1184,@1184
+1201,@1185,@911
+1202,@1186,@1186
+1203,@1187,@1187
+1204,@1182,@1182
+1205,@1183,@1183
+1206,@1184,@1184
+1207,@1185,@911
+1208,@1186,@1186
+1209,@1187,@1187
+1210,Besiege Seelenfresser-Prima der Ruhelosen Totenstadt.,Besiege Seelenfresser-Prima {TaskCount} Mal.
+1211,Besiege Sahara des Ödlands der Ruhelosen Totenstadt.,Besiege Sahara des Ödlands {TaskCount} Mal.
+1212,Besiege Zwielicht-Sahara der Ruhelosen Totenstadt.,Besiege Zwielicht-Sahara {TaskCount} Mal.
+1213,Besiege Bernstein-Basilisk der Ruhelosen Totenstadt.,Besiege Bernstein-Basilisk {TaskCount} Mal.
+1214,Besiege Wandernde Gefesselte Seele der Ruhelosen Totenstadt.,Besiege Wandernde Gefesselte Seele {TaskCount} Mal.
+1215,Besiege Dullahan der Ruhelosen Totenstadt.,Besiege Dullahan {TaskCount} Mal.
+1216,Besiege Grandis-Knochenbrecher der Ruhelosen Totenstadt.,Besiege Grandis-Knochenbrecher {TaskCount} Mal.
+1217,Besiege Staubwind-Gargoyle der Ruhelosen Totenstadt.,Besiege Staubwind-Gargoyle {TaskCount} Mal.
+1218,Besiege Furchtsames Monsterauge der Ruhelosen Totenstadt.,Besiege Furchtsames Monsterauge {TaskCount} Mal.
+1219,Besiege Mahlstrom-Staubwind der Ruhelosen Totenstadt.,Besiege Mahlstrom-Staubwind {TaskCount} Mal.
+1220,Besiege Wyrm-Wächter der Ruhelosen Totenstadt.,Besiege Wyrm-Wächter {TaskCount} Mal.
+1221,Besiege Tödliches Monsterauge der Ruhelosen Totenstadt.,Besiege Tödliches Monsterauge {TaskCount} Mal.
+1222,Besiege Aufmerksamen Wyrm der Ruhelosen Totenstadt.,Besiege Aufmerksamen Wyrm {TaskCount} Mal.
+1223,Besiege Wyrm-Baby der Ruhelosen Totenstadt.,Besiege Wyrm-Baby {TaskCount} Mal.
+1224,Besiege Cagers Handlanger der Ruhelosen Totenstadt.,Besiege Cagers Handlanger {TaskCount} Mal.
+1225,@1210,@1210
+1226,@1211,@1211
+1227,@1212,@1212
+1228,@1213,@1213
+1229,@1214,@1214
+1230,@1215,@1215
+1231,@1216,@1216
+1232,@1217,@1217
+1233,@1218,@1218
+1234,@1219,@1219
+1235,@1220,@1220
+1236,@1221,@1221
+1237,@1222,@1222
+1238,@1223,@1223
+1239,@1224,@1224
+1240,Besiege Wyrm-Wächter der Ruhelosen Totenstadt.,@1220
+1241,Besiege Tödliches Monsterauge der Ruhelosen Totenstadt.,@1221
+1242,Besiege Aufmerksamen Wyrm der Ruhelosen Totenstadt.,@1222
+1243,Besiege Wyrm-Baby der Ruhelosen Totenstadt.,@1223
+1244,Besiege Cagers Handlanger der Ruhelosen Totenstadt.,@1224
+1245,Besiege Todesbinder der Ruhelosen Totenstadt.,Besiege Todesbinder {TaskCount} Mal.
+1246,Besiege Veremus' Kind der Ruhelosen Totenstadt.,Besiege Veremus' Kind {TaskCount} Mal.
+1247,Besiege Grandis-Drachenschlächter der Ruhelosen Totenstadt.,Besiege Grandis-Drachenschlächter {TaskCount} Mal.
+1248,Besiege Todes-Dullahan der Ruhelosen Totenstadt.,Besiege Todes-Dullahan {TaskCount} Mal.
+1249,@1240,@1220
+1250,@1241,@1221
+1251,@1242,@1222
+1252,@1243,@1223
+1253,@1244,@1224
+1254,@1245,@1245
+1255,@1246,@1246
+1256,@1247,@1247
+1257,@1248,@1248
+1258,@1240,@1220
+1259,@1241,@1221
+1260,@1242,@1222
+1261,@1243,@1223
+1262,@1244,@1224
+1263,@1245,@1245
+1264,@1246,@1246
+1265,@1247,@1247
+1266,@1248,@1248
+1267,@1246,@1246
+1268,@1247,@1247
+1269,@1248,@1248
+1270,Besiege Grendel des Nordwindplateaus.,Besiege Grendel {TaskCount} Mal.
+1271,Besiege Plateau-Windsus des Nordwindplateaus.,Besiege Plateau-Windsus {TaskCount} Mal.
+1272,Besiege Verhungernden Grendel des Nordwindplateaus.,Besiege Verhungernden Grendel {TaskCount} Mal.
+1273,Besiege Schluchtkneifer des Nordwindplateaus.,Besiege Schluchtkneifer {TaskCount} Mal.
+1274,Besiege Menschenfresser Atrox des Nordwindplateaus.,Besiege Atrox {TaskCount} Mal.
+1275,Besiege Klingenwind-Schreckgespenst-Tyrann des Nordwindplateaus.,Besiege Klingenwind-Schreckgespenst-Tyrann {TaskCount} Mal.
+1276,Besiege Klingenwind-Schreckgespenst-Arbeiter des Nordwindplateaus.,Besiege Klingenwind-Schreckgespenst-Arbeiter {TaskCount} Mal.
+1277,Besiege Klingenwind-Schreckgespenst-Verschlinger des Nordwindplateaus.,Besiege Klingenwind-Schreckgespenst-Verschlinger {TaskCount} Mal.
+1278,Besiege Klingenwind-Schreckgespenst-Kämpfer des Nordwindplateaus.,Besiege Klingenwind-Schreckgespenst-Kämpfer {TaskCount} Mal.
+1279,@1270,@1270
+1280,@1271,@1271
+1281,@1272,@1272
+1282,@1273,@1273
+1283,@1274,@1274
+1284,@1275,@1275
+1285,@1276,@1276
+1286,@1277,@1277
+1287,@1278,@1278
+1288,@1270,@1270
+1289,@1271,@1271
+1290,@1272,@1272
+1291,@1273,@1273
+1292,@1274,@1274
+1293,@1275,@1275
+1294,@1276,@1276
+1295,@1277,@1277
+1296,@1278,@1278
+1297,@1276,@1276
+1298,@1277,@1277
+1299,@1278,@1278
+1300,Besiege Grausame Nymphe Rose des Nordwindplateaus.,Besiege Grausame Nymphe Rose {TaskCount} Mal.
+1301,Besiege Plateau-Atrox des Nordwindplateaus.,Besiege Atrox {TaskCount} Mal.
+1302,Besiege Leto-Echsenmensch-Bewacher des Nordwindplateaus.,@484
+1303,Besiege Leto-Echsenmensch-Wache des Nordwindplateaus.,Besiege Leto-Echsenmensch-Wache {TaskCount} Mal.
+1304,Besiege Leto-Echsenmensch-Schamanen des Nordwindplateaus.,@483
+1305,Besiege Leto-Echsenmensch-Eindringling des Nordwindplateaus.,Besiege Leto-Echsenmensch-Eindringling {TaskCount} Mal.
+1306,Besiege Leto-Echsenmensch-Priester des Nordwindplateaus.,Besiege Leto-Echsenmensch-Priester {TaskCount} Mal.
+1307,Besiege Leto-Echsenmensch-Wächter des Nordwindplateaus.,Besiege Leto-Echsenmensch-Wächter {TaskCount} Mal.
+1308,@1300,@1300
+1309,@1301,@1301
+1310,@1302,@484
+1311,@1303,@1303
+1312,@1304,@483
+1313,@1305,@1305
+1314,@1306,@1306
+1315,@1307,@1307
+1316,@1300,@1300
+1317,@1301,@1301
+1318,@1302,@484
+1319,@1303,@1303
+1320,@1304,@483
+1321,@1305,@1305
+1322,@1306,@1306
+1323,@1307,@1307
+1324,@1300,@1300
+1325,@1301,@1301
+1326,@1302,@484
+1327,@1303,@1303
+1328,@1304,@483
+1329,@1305,@1305
+1330,@1306,@1306
+1331,@1307,@1307
+1332,Besiege Timak-Ork-Wache des Nordwindplateaus.,Besiege Timak-Ork-Wache {TaskCount} Mal.
+1333,Besiege Kazans Bewacher des Nordwindplateaus.,Besiege Kazans Bewacher {TaskCount} Mal.
+1334,Besiege Kazans Sucher des Nordwindplateaus.,Besiege Kazans Sucher {TaskCount} Mal.
+1335,Besiege Kazans Sklavenvorarbeiter des Nordwindplateaus.,Besiege Kazans Sklavenvorarbeiter {TaskCount} Mal.
+1336,Besiege Timak-Ork-Elitesoldat des Nordwindplateaus.,Besiege Timak-Ork-Elitesoldat {TaskCount} Mal.
+1337,Besiege Tanor-Rächer des Nordwindplateaus.,Besiege Tanor-Rächer {TaskCount} Mal.
+1338,Besiege Tanor-Rekrut des Nordwindplateaus.,Besiege Tanor-Rekruten {TaskCount} Mal.
+1339,Besiege Tanor-Stammesführer-Königswache des Nordwindplateaus.,Besiege Tanor-Stammesführer-Königswache {TaskCount} Mal.
+1340,Besiege Tanor-Zauberer des Nordwindplateaus.,Besiege Tanor-Zauberer {TaskCount} Mal.
+1341,Besiege Tanor-Stammeswächter des Nordwindplateaus.,Besiege Tanor-Stammeswächter {TaskCount} Mal.
+1342,@1332,@1332
+1343,@1333,@1333
+1344,@1334,@1334
+1345,@1335,@1335
+1346,@1336,@1336
+1347,@1337,@1337
+1348,@1338,@1338
+1349,@1339,@1339
+1350,@1340,@1340
+1351,@1341,@1341
+1352,@1332,@1332
+1353,@1333,@1333
+1354,@1334,@1334
+1355,@1335,@1335
+1356,@1336,@1336
+1357,@1337,@1337
+1358,@1338,@1338
+1359,@1339,@1339
+1360,@1340,@1340
+1361,@1341,@1341
+1362,Besiege Blinden Schnitter der Ewigen Lande.,Besiege Blinden Schnitter {TaskCount} Mal.
+1363,Besiege Verdorbene Weide der Ewigen Lande.,Besiege Verdorbene Weide {TaskCount} Mal.
+1364,Besiege Seelenernter der Ewigen Lande.,Besiege Seelenernter {TaskCount} Mal.
+1365,Besiege Wandelnden Fungus der Ewigen Lande.,@701
+1366,Besiege Gepanzerten Heuler der Ewigen Lande.,Besiege Gepanzerten Heuler {TaskCount} Mal.
+1367,Besiege Seelensammler der Ewigen Lande.,Besiege Seelensammler {TaskCount} Mal.
+1368,Besiege Barrieren-Wachmann der Ewigen Lande.,Besiege Barrieren-Wachmann {TaskCount} Mal.
+1369,Besiege Sadistischen Grandis-Zerstörer der Ewigen Lande.,Besiege Sadistischen Grandis-Zerstörer {TaskCount} Mal.
+1370,@1362,@1362
+1371,@1363,@1363
+1372,@1364,@1364
+1373,@1365,@701
+1374,@1366,@1366
+1375,@1367,@1367
+1376,@1368,@1368
+1377,@1369,@1369
+1378,@1362,@1362
+1379,@1363,@1363
+1380,@1364,@1364
+1381,@1365,@701
+1382,@1366,@1366
+1383,@1367,@1367
+1384,@1368,@1368
+1385,@1369,@1369
+1386,@1362,@1362
+1387,@1363,@1363
+1388,@1364,@1364
+1389,@1365,@701
+1390,@1366,@1366
+1391,@1367,@1367
+1392,@1368,@1368
+1393,@1369,@1369
+1394,Besiege Oel Mahum-Schamanen der Ewigen Lande.,Besiege Oel Mahum-Schamanen {TaskCount} Mal.
+1395,Besiege Oel Mahum-Erbeuter der Ewigen Lande.,Besiege Oel Mahum-Erbeuter {TaskCount} Mal.
+1396,Besiege Oel Mahum-Reißer der Ewigen Lande.,Besiege Oel Mahum-Reißer {TaskCount} Mal.
+1397,Besiege Oel Mahum-Arbeiter der Ewigen Lande.,Besiege Oel Mahum-Arbeiter {TaskCount} Mal.
+1398,Besiege Oel Mahum-Kämpfer der Ewigen Lande.,Besiege Oel Mahum-Kämpfer {TaskCount} Mal.
+1399,Besiege Oel Mahum-Zerstörer der Ewigen Lande.,Besiege Oel Mahum-Zerstörer {TaskCount} Mal.
+1400,Besiege Grandis-Zerstörer der Ewigen Lande.,@1035
+1401,Besiege die Dunkle Bruderschaft der Ewigen Lande.,Besiege die Dunkle Bruderschaft {TaskCount} Mal.
+1402,@1394,@1394
+1403,@1395,@1395
+1404,@1396,@1396
+1405,@1397,@1397
+1406,@1398,@1398
+1407,@1399,@1399
+1408,@1400,@1035
+1409,@1401,@1401
+1410,@1394,@1394
+1411,@1395,@1395
+1412,@1396,@1396
+1413,@1397,@1397
+1414,@1398,@1398
+1415,@1399,@1399
+1416,@1400,@1035
+1417,@1401,@1401
+1418,@1396,@1396
+1419,@1397,@1397
+1420,@1398,@1398
+1421,@1399,@1399
+1422,@1400,@1035
+1423,@1401,@1401
+1424,Besiege Sporenfungus der Ewigen Lande.,Besiege Sporenfungus {TaskCount} Mal.
+1425,Besiege Sporenfledermaus der Ewigen Lande.,Besiege Sporenfledermaus {TaskCount} Mal.
+1426,Besiege Parasitären Zombie der Ewigen Lande.,Besiege Parasitären Zombie {TaskCount} Mal.
+1427,Besiege Wyrm der Ewigen Lande.,@908
+1428,Besiege Folgen der Gier der Ewigen Lande.,Besiege Folgen der Gier {TaskCount} Mal.
+1429,Besiege Seelenverschlinger der Ewigen Lande.,Besiege Seelenverschlinger {TaskCount} Mal.
+1430,Besiege Sporenspinne der Ewigen Lande.,Besiege Sporenspinne {TaskCount} Mal.
+1431,Besiege Wasserseher der Ewigen Lande.,Besiege Wasserseher {TaskCount} Mal.
+1432,Besiege Obsidiangolem der Ewigen Lande.,Besiege Obsidiangolem {TaskCount} Mal.
+1433,Besiege Pan Luem der Ewigen Lande.,Besiege Pan Luem {TaskCount} Mal.
+1434,Besiege Verdorbenen Sporenfungus der Ewigen Lande.,Besiege Verdorbenen Sporenfungus {TaskCount} Mal.
+1435,@1424,@1424
+1436,@1425,@1425
+1437,@1426,@1426
+1438,@1427,@908
+1439,@1428,@1428
+1440,@1429,@1429
+1441,@1430,@1430
+1442,@1431,@1431
+1443,@1432,@1432
+1444,@1433,@1433
+1445,@1434,@1434
+1446,@1424,@1424
+1447,@1425,@1425
+1448,@1426,@1426
+1449,@1427,@908
+1450,@1428,@1428
+1451,@1429,@1429
+1452,@1430,@1430
+1453,@1431,@1431
+1454,@1432,@1432
+1455,@1433,@1433
+1456,@1434,@1434
+1457,Besiege Wilde Nymphe der Ewigen Lande.,Besiege Wilde Nymphe {TaskCount} Mal.
+1458,Besiege Albtraumgeister der Ewigen Lande.,Besiege Albtraumgeister {TaskCount} Mal.
+1459,Besiege Seelenschlitzer der Ewigen Lande.,@251
+1460,Besiege Vampirfledermaus der Ewigen Lande.,@517
+1461,Besiege Verderbensdiener der Ewigen Lande.,@783
+1462,Besiege Nymphe Rose der Ewigen Lande.,Besiege Nymphe Rose {TaskCount} Mal.
+1463,Besiege Niederträchtige Nymphe der Ewigen Lande.,Besiege Niederträchtige Nymphe {TaskCount} Mal.
+1464,Besiege Niederträchtigen Pan Luem der Ewigen Lande.,Besiege Niederträchtigen Pan Luem {TaskCount} Mal.
+1465,@1457,@1457
+1466,@1458,@1458
+1467,@1459,@251
+1468,@1460,@517
+1469,@1461,@783
+1470,@1462,@1462
+1471,@1463,@1463
+1472,@1464,@1464
+1473,@1457,@1457
+1474,@1458,@1458
+1475,@1459,@251
+1476,@1460,@517
+1477,@1461,@783
+1478,@1462,@1462
+1479,@1463,@1463
+1480,@1464,@1464
+1481,@1457,@1457
+1482,@1458,@1458
+1483,@1459,@251
+1484,@1460,@517
+1485,@1461,@783
+1486,@1462,@1462
+1487,@1463,@1463
+1488,@1464,@1464
+1489,Besiege Grendel des Eroberten Gebiets des Elfenbeinturms.,@1270
+1490,Besiege Banditenanfänger des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenanfänger {TaskCount} Mal.
+1491,Besiege Banditenspäher des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenspäher {TaskCount} Mal.
+1492,Besiege Banditenräuber des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenräuber {TaskCount} Mal.
+1493,Besiege Banditen-Halsabschneider des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditen-Halsabschneider {TaskCount} Mal.
+1494,Besiege Banditen-Plünderer des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditen-Plünderer {TaskCount} Mal.
+1495,Besiege Banditenschamane des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenschamane {TaskCount} Mal.
+1496,Besiege Banditenkrieger des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenkrieger {TaskCount} Mal.
+1497,Besiege Banditenkämpfer des Eroberten Gebiets des Elfenbeinturms.,Besiege Banditenkämpfer {TaskCount} Mal.
+1498,Besiege Grimmigen Grendel des Eroberten Gebiets des Elfenbeinturms.,Besiege Grimmigen Grendel {TaskCount} Mal.
+1499,Besiege Hohen Banditenschamanen des Eroberten Gebiets des Elfenbeinturms.,Besiege Hohen Banditenschamanen {TaskCount} Mal.
+1500,@1489,@1270
+1501,@1490,@1490
+1502,@1491,@1491
+1503,@1492,@1492
+1504,@1493,@1493
+1505,@1494,@1494
+1506,@1495,@1495
+1507,@1496,@1496
+1508,@1497,@1497
+1509,@1498,@1498
+1510,@1499,@1499
+1511,@1489,@1270
+1512,@1490,@1490
+1513,@1491,@1491
+1514,@1492,@1492
+1515,@1493,@1493
+1516,@1494,@1494
+1517,@1495,@1495
+1518,@1496,@1496
+1519,@1497,@1497
+1520,@1498,@1498
+1521,@1499,@1499
+1522,Besiege Wald-Wyrm des Eroberten Gebiets des Elfenbeinturms.,Besiege Wald-Wyrm {TaskCount} Mal.
+1523,Besiege Dunkelhexe des Eroberten Gebiets des Elfenbeinturms.,Besiege Dunkelhexe {TaskCount} Mal.
+1524,Besiege Timak-Ork-Schützen des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Schützen {TaskCount} Mal.
+1525,Besiege Timak-Ork-Kämpfer des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Kämpfer {TaskCount} Mal.
+1526,Besiege Timak-Ork-Sucher des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Sucher {TaskCount} Mal.
+1527,Besiege Atrox des Eroberten Gebiets des Elfenbeinturms.,Besiege Atrox {TaskCount} Mal.
+1528,Besiege Riesigen Egel des Eroberten Gebiets des Elfenbeinturms.,@394
+1529,Besiege Timak-Ork-Krieger des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Krieger {TaskCount} Mal.
+1530,Besiege Timak-Ork-Wache des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Wache {TaskCount} Mal.
+1531,@1522,@1522
+1532,@1523,@1523
+1533,@1524,@1524
+1534,@1525,@1525
+1535,@1526,@1526
+1536,@1527,@1527
+1537,@1528,@394
+1538,@1529,@1529
+1539,@1530,@1530
+1540,@1522,@1522
+1541,@1523,@1523
+1542,@1524,@1524
+1543,@1525,@1525
+1544,@1526,@1526
+1545,@1527,@1527
+1546,@1528,@394
+1547,@1529,@1529
+1548,@1530,@1530
+1549,@1528,@394
+1550,@1529,@1529
+1551,@1530,@1530
+1552,Besiege Weißen Timak-Ork-Hauptmann des Eroberten Gebiets des Elfenbeinturms.,Besiege Weißen Timak-Ork-Hauptmann {TaskCount} Mal.
+1553,Besiege Timak-Ork-Offizier des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Offizier {TaskCount} Mal.
+1554,Besiege Timak-Ork-Berserker des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Berserker {TaskCount} Mal.
+1555,Besiege Timak-Ork-Elite-Ranger des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Elite-Ranger {TaskCount} Mal.
+1556,Besiege Timak-Ork-Elitesoldat des Eroberten Gebiets des Elfenbeinturms.,@1336
+1557,Besiege Timak-Ork-Stammesführer des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Stammesführer {TaskCount} Mal.
+1558,Besiege Timak-Ork-Schützen des Eroberten Gebiets des Elfenbeinturms.,Besiege Timak-Ork-Schützen {TaskCount} Mal.
+1559,@1552,@1552
+1560,@1553,@1553
+1561,@1554,@1554
+1562,@1555,@1555
+1563,@1556,@1336
+1564,@1557,@1557
+1565,@1558,@1558
+1566,@1552,@1552
+1567,@1553,@1553
+1568,@1554,@1554
+1569,@1555,@1555
+1570,@1556,@1336
+1571,@1557,@1557
+1572,@1558,@1558
+1573,@1552,@1552
+1574,@1553,@1553
+1575,@1554,@1554
+1576,@1555,@1555
+1577,@1556,@1336
+1578,@1557,@1557
+1579,@1558,@1558
+1580,@1557,@1557
+1581,@1558,@1558
+1582,Besiege Gargoyle des Eroberten Gebiets des Elfenbeinturms.,Besiege Elfenbeinturm-Gargoyle {TaskCount} Mal.
+1583,Besiege Elfenbeinturm-Wächtergolem des Eroberten Gebiets des Elfenbeinturms.,Besiege Elfenbeinturm-Wächtergolem {TaskCount} Mal.
+1584,Besiege Gefallenen Ritter des Eroberten Gebiets des Elfenbeinturms.,Besiege Gefallenen Ritter {TaskCount} Mal.
+1585,Besiege Leere-Hund des Eroberten Gebiets des Elfenbeinturms.,Besiege Leere-Hund {TaskCount} Mal.
+1586,Besiege Eisernen Gargoyle des Eroberten Gebiets des Elfenbeinturms.,Besiege Eisernen Gargoyle {TaskCount} Mal.
+1587,@1582,@1582
+1588,@1583,@1583
+1589,@1584,@1584
+1590,@1585,@1585
+1591,@1586,@1586
+1592,@1582,@1582
+1593,@1583,@1583
+1594,@1584,@1584
+1595,@1585,@1585
+1596,@1586,@1586
+1597,@1582,@1582
+1598,@1583,@1583
+1599,@1584,@1584
+1600,@1585,@1585
+1601,@1586,@1586
+1602,@1582,@1582
+1603,@1583,@1583
+1604,@1584,@1584
+1605,@1585,@1585
+1606,@1586,@1586
+1607,@1582,@1582
+1608,@1583,@1583
+1609,@1584,@1584
+1610,@1585,@1585
+1611,@1586,@1586
+1612,Besiege Grimmigen Leere-Hund des Eroberten Gebiets des Elfenbeinturms.,Besiege Grimmigen Leere-Hund {TaskCount} Mal.
+1613,Besiege Gestörten Wächter des Eroberten Gebiets des Elfenbeinturms.,Besiege Gestörten Wächter {TaskCount} Mal.
+1614,Besiege Dunkelritter des Eroberten Gebiets des Elfenbeinturms.,Besiege Dunkelritter {TaskCount} Mal.
+1615,Besiege Hohepriester der Dunklen Bruderschaft des Eroberten Gebiets des Elfenbeinturms.,Besiege Hohepriester der Dunklen Bruderschaft {TaskCount} Mal.
+1616,Besiege Embrions Knappen des Eroberten Gebiets des Elfenbeinturms.,Besiege Embrions Knappen {TaskCount} Mal.
+1617,@1612,@1612
+1618,@1613,@1613
+1619,@1614,@1614
+1620,@1615,@1615
+1621,@1616,@1616
+1622,@1612,@1612
+1623,@1613,@1613
+1624,@1614,@1614
+1625,@1615,@1615
+1626,@1616,@1616
+1627,@1612,@1612
+1628,@1613,@1613
+1629,@1614,@1614
+1630,@1615,@1615
+1631,@1616,@1616
+1632,@1612,@1612
+1633,@1613,@1613
+1634,@1614,@1614
+1635,@1615,@1615
+1636,@1616,@1616
+1637,@1612,@1612
+1638,@1613,@1613
+1639,@1614,@1614
+1640,@1615,@1615
+1641,@1616,@1616
+1642,용의 계곡 어둠의 기사 공략,@1614
+1643,용의 계곡 어둠의 군주 공략,어둠의 군주 {TaskCount}회 처치하기
+1644,용의 계곡 네르카스 공략,네르카스 {TaskCount}회 처치하기
+1645,용의 계곡 드레이크 공략,드레이크 {TaskCount}회 처치하기
+1646,용의 계곡 어둠의 결사 공략,@1401
+1647,용의 계곡 보이드 데몬 공략,보이드 데몬 {TaskCount}회 처치하기
+1648,용의 계곡 블러디 퀸 공략,블러디 퀸 {TaskCount}회 처치하기
+1649,@1642,@1614
+1650,@1643,@1643
+1651,@1644,@1644
+1652,@1645,@1645
+1653,@1646,@1401
+1654,@1647,@1647
+1655,@1648,@1648
+1656,용의 계곡 어둠의 결사 고위사제 공략,@1615
+1657,용의 계곡 엠브리온의 기사단원 공략,@1616
+1658,용의 계곡 포악한 어둠의 군주 공략,포악한 어둠의 군주 {TaskCount}회 처치하기
+1659,@1656,@1615
+1660,@1657,@1616
+1661,@1658,@1658
+1662,약속된 땅 케이브 키퍼 정찰병 공략,케이브 키퍼 정찰병 {TaskCount}회 처치하기
+1663,약속된 땅 말룩 헌터 정찰병 공략,말룩 헌터 정찰병 {TaskCount}회 처치하기
+1664,약속된 땅 블러디 퀸 정찰병 공략,블러디 퀸 정찰병 {TaskCount}회 처치하기
+1665,약속된 땅 유혹의 서큐버스 공략,유혹의 서큐버스 {TaskCount}회 처치하기
+1666,약속된 땅 현혹된 미믹 공략,현혹된 미믹 {TaskCount}회 처치하기
+1667,약속된 땅 난폭해진 미믹 공략,난폭해진 미믹 {TaskCount}회 처치하기
+1668,약속된 땅 현혹의 서큐버스 공략,현혹의 서큐버스 {TaskCount}회 처치하기
+1669,약속된 땅 케이브 키퍼 정예병 공략,케이브 키퍼 정예병 {TaskCount}회 처치하기
+1670,약속된 땅 말룩 헌터 정예병 공략,말룩 헌터 정예병 {TaskCount}회 처치하기
+1671,약속된 땅 케이브 키퍼 감시병 공략,케이브 키퍼 감시병 {TaskCount}회 처치하기
+1672,약속된 땅 말룩 헌터 감시병 공략,말룩 헌터 감시병 {TaskCount}회 처치하기
+1673,약속된 땅 파괴의 서큐버스 공략,파괴의 서큐버스 {TaskCount}회 처치하기
+1674,약속된 땅 블러디 퀸 정예병 공략,블러디 퀸 정예병 {TaskCount}회 처치하기
+1675,약속된 땅 지옥의 서큐버스 공략,지옥의 서큐버스 {TaskCount}회 처치하기
+1676,약속된 땅 블러디 퀸 감시병 공략,블러디 퀸 감시병 {TaskCount}회 처치하기
+1677,@1662,@1662
+1678,@1663,@1663
+1679,@1664,@1664
+1680,@1665,@1665
+1681,@1666,@1666
+1682,@1667,@1667
+1683,@1668,@1668
+1684,@1669,@1669
+1685,@1670,@1670
+1686,@1671,@1671
+1687,@1672,@1672
+1688,@1673,@1673
+1689,@1674,@1674
+1690,@1675,@1675
+1691,@1676,@1676
+1692,약속된 땅 케이브 키퍼 근위병 공략,케이브 키퍼 근위병 {TaskCount}회 처치하기
+1693,약속된 땅 최면에 걸린 미믹 공략,최면에 걸린 미믹 {TaskCount}회 처치하기
+1694,약속된 땅 말룩 헌터 근위병 공략,말룩 헌터 근위병 {TaskCount}회 처치하기
+1695,약속된 땅 사악해진 미믹 공략,사악해진 미믹 {TaskCount}회 처치하기
+1696,약속된 땅 블러디 퀸 근위병 공략,블러디 퀸 근위병 {TaskCount}회 처치하기
+1697,약속된 땅 임프 감시병 공략,임프 감시병 {TaskCount}회 처치하기
+1698,약속된 땅 말룩 스나이퍼 감시병 공략,말룩 스나이퍼 감시병 {TaskCount}회 처치하기
+1699,약속된 땅 난폭한 보이드 하운드 공략,난폭한 보이드 하운드 {TaskCount}회 처치하기
+1700,약속된 땅 말룩 스나이퍼 정찰병 공략,말룩 스나이퍼 정찰병 {TaskCount}회 처치하기
+1701,약속된 땅 지배당한 크림슨 바인드 공략,지배당한 크림슨 바인드 {TaskCount}회 처치하기
+1702,@1692,@1692
+1703,@1693,@1693
+1704,@1694,@1694
+1705,@1695,@1695
+1706,@1696,@1696
+1707,@1697,@1697
+1708,@1698,@1698
+1709,@1699,@1699
+1710,@1700,@1700
+1711,@1701,@1701
+1712,약속된 땅 날뛰는 미믹 공략,날뛰는 미믹 {TaskCount}회 처치하기
+1713,약속된 땅 정신 나간 미믹 공략,정신 나간 미믹 {TaskCount}회 처치하기
+1714,약속된 땅 순종적인 크림슨 바인드 공략,순종적인 크림슨 바인드 {TaskCount}회 처치하기
+1715,약속된 땅 임프 정찰병 공략,임프 정찰병 {TaskCount}회 처치하기
+1716,약속된 땅 최면걸린 크림슨 바인드 공략,최면걸린 크림슨 바인드 {TaskCount}회 처치하기
+1717,약속된 땅 임프 정예병 공략,임프 정예병 {TaskCount}회 처치하기
+1718,약속된 땅 세뇌당한 크림슨 바인드 공략,세뇌당한 크림슨 바인드 {TaskCount}회 처치하기
+1719,약속된 땅 성난 보이드 하운드 공략,성난 보이드 하운드 {TaskCount}회 처치하기
+1720,약속된 땅 떠도는 크림슨 바인드 공략,@1214
+1721,약속된 땅 말룩 스나이퍼 정예병 공략,말룩 스나이퍼 정예병 {TaskCount}회 처치하기
+1722,약속된 땅 말룩 스나이퍼 근위병 공략,말룩 스나이퍼 근위병 {TaskCount}회 처치하기
+1723,약속된 땅 잔혹한 보이드 하운드 공략,잔혹한 보이드 하운드 {TaskCount}회 처치하기
+1724,약속된 땅 임프 지휘병 공략,임프 지휘병 {TaskCount}회 처치하기
+1725,약속된 땅 죽음의 보이드 하운드 공략,죽음의 보이드 하운드 {TaskCount}회 처치하기
+1726,약속된 땅 말룩 스나이퍼 부관 공략,말룩 스나이퍼 부관 {TaskCount}회 처치하기
+1727,@1712,@1712
+1728,@1713,@1713
+1729,@1714,@1714
+1730,@1715,@1715
+1731,@1716,@1716
+1732,@1717,@1717
+1733,@1718,@1718
+1734,@1719,@1719
+1735,@1720,@1214
+1736,@1721,@1721
+1737,@1722,@1722
+1738,@1723,@1723
+1739,@1724,@1724
+1740,@1725,@1725
+1741,@1726,@1726
+1742,고룡 산맥 어둠의 결사 기사단원 공략,어둠의 결사 기사단원 {TaskCount}회 처치하기
+1743,고룡 산맥 어둠의 결사 습격자 공략,어둠의 결사 습격자 {TaskCount}회 처치하기
+1744,고룡 산맥 서릿잎 만드라고라 공략,서릿잎 만드라고라 {TaskCount}회 처치하기
+1745,고룡 산맥 식인 설인 공략,식인 설인 {TaskCount}회 처치하기
+1746,고룡 산맥 서릿발 늑대 공략,서릿발 늑대 {TaskCount}회 처치하기
+1747,고룡 산맥 굶주린 식인 설인 공략,굶주린 식인 설인 {TaskCount}회 처치하기
+1748,고룡 산맥 고산지 만드라고라 공략,고산지 만드라고라 {TaskCount}회 처치하기
+1749,고룡 산맥 어둠의 결사 흑기사 공략,어둠의 결사 흑기사 {TaskCount}회 처치하기
+1750,고룡 산맥 굶주린 서릿발 늑대 공략,굶주린 서릿발 늑대 {TaskCount}회 처치하기
+1751,고룡 산맥 어둠의 결사 정찰대원 공략,어둠의 결사 정찰대원 {TaskCount}회 처치하기
+1752,@1742,@1742
+1753,@1743,@1743
+1754,@1744,@1744
+1755,@1745,@1745
+1756,@1746,@1746
+1757,@1747,@1747
+1758,@1748,@1748
+1759,@1749,@1749
+1760,@1750,@1750
+1761,@1751,@1751
+1762,고룡 산맥 분노한 식인 설인 공략,분노한 식인 설인 {TaskCount}회 처치하기
+1763,고룡 산맥 어둠의 결사 파괴자 공략,어둠의 결사 파괴자 {TaskCount}회 처치하기
+1764,고룡 산맥 지배된 지룡 정찰병 공략,지배된 지룡 정찰병 {TaskCount}회 처치하기
+1765,고룡 산맥 지배된 지룡 연락병 공략,지배된 지룡 연락병 {TaskCount}회 처치하기
+1766,고룡 산맥 지배된 어린 지룡 공략,지배된 어린 지룡 {TaskCount}회 처치하기
+1767,고룡 산맥 안타라스의 시선 공략,안타라스의 시선 {TaskCount}회 처치하기
+1768,고룡 산맥 지배된 어린 풍룡 공략,지배된 어린 풍룡 {TaskCount}회 처치하기
+1769,고룡 산맥 실렌의 시선 공략,실렌의 시선 {TaskCount}회 처치하기
+1770,고룡 산맥 고통받는 어린 지룡 공략,고통받는 어린 지룡 {TaskCount}회 처치하기
+1771,고룡 산맥 고통받는 어린 풍룡 공략,고통받는 어린 풍룡 {TaskCount}회 처치하기
+1772,고룡 산맥 지배된 왕좌 수호병 공략,지배된 왕좌 수호병 {TaskCount}회 처치하기
+1773,고룡 산맥 지배된 왕좌 마법병사 공략,지배된 왕좌 마법병사 {TaskCount}회 처치하기
+1774,@1762,@1762
+1775,@1763,@1763
+1776,@1764,@1764
+1777,@1765,@1765
+1778,@1766,@1766
+1779,@1767,@1767
+1780,@1768,@1768
+1781,@1769,@1769
+1782,@1770,@1770
+1783,@1771,@1771
+1784,@1772,@1772
+1785,@1773,@1773
+1786,고룡 산맥 분노한 어린 지룡 공략,분노한 어린 지룡 {TaskCount}회 처치하기
+1787,고룡 산맥 분노한 어린 풍룡 공략,분노한 어린 풍룡 {TaskCount}회 처치하기
+1788,고룡 산맥 분노한 왕좌 수호병 공략,분노한 왕좌 수호병 {TaskCount}회 처치하기
+1789,고룡 산맥 분노한 왕좌 마법병사 공략,분노한 왕좌 마법병사 {TaskCount}회 처치하기
+1790,고룡 산맥 말룩의 정찰병 공략,말룩의 정찰병 {TaskCount}회 처치하기
+1791,고룡 산맥 말룩의 학살마 공략,말룩의 학살마 {TaskCount}회 처치하기
+1792,고룡 산맥 말룩의 척후병 공략,말룩의 척후병 {TaskCount}회 처치하기
+1793,고룡 산맥 잠들지 못한 원정대 공략,잠들지 못한 원정대 {TaskCount}회 처치하기
+1794,고룡 산맥 말룩의 저격병 공략,말룩의 저격병 {TaskCount}회 처치하기
+1795,고룡 산맥 말룩의 잠입자 공략,말룩의 잠입자 {TaskCount}회 처치하기
+1796,고룡 산맥 잠들지 못한 마법사 공략,잠들지 못한 마법사 {TaskCount}회 처치하기
+1797,@1786,@1786
+1798,@1787,@1787
+1799,@1788,@1788
+1800,@1789,@1789
+1801,@1790,@1790
+1802,@1791,@1791
+1803,@1792,@1792
+1804,@1793,@1793
+1805,@1794,@1794
+1806,@1795,@1795
+1807,@1796,@1796
+1808,고룡 산맥 말룩의 사역마 공략,말룩의 사역마 {TaskCount}회 처치하기
+1809,고룡 산맥 말룩의 암살자 공략,말룩의 암살자 {TaskCount}회 처치하기
+1810,고룡 산맥 어둠의 결사 작전병 공략,어둠의 결사 작전병 {TaskCount}회 처치하기
+1811,고룡 산맥 어둠의 결사 선봉대원 공략,어둠의 결사 선봉대원 {TaskCount}회 처치하기
+1812,고룡 산맥 어둠의 결사 대마도사 공략,어둠의 결사 대마도사 {TaskCount}회 처치하기
+1813,고룡 산맥 어둠의 결사 근위대원 공략,어둠의 결사 근위대원 {TaskCount}회 처치하기
+1814,@1808,@1808
+1815,@1809,@1809
+1816,@1810,@1810
+1817,@1811,@1811
+1818,@1812,@1812
+1819,@1813,@1813
+1820,@1808,@1808
+1821,@1809,@1809
+1822,@1810,@1810
+1823,@1811,@1811
+1824,@1812,@1812
+1825,@1813,@1813
+1826,@1808,@1808
+1827,@1809,@1809
+1828,@1810,@1810
+1829,@1811,@1811
+1830,@1812,@1812
+1831,@1813,@1813

@@ -1,0 +1,712 @@
+Id,NpcName,Message
+101,Aymel,"Willkommen! Wie läuft dein Training?<p>Alleine zu trainieren kann langweilig sein und man weiß oft nicht, wo man anfangen soll. In Aden schließen sich Abenteurer in Gruppen, sogenannten Klans, zusammen.<p>Reise an der Seite anderer Abenteurer, spende an deinen Klan und gehe im Klanladen einkaufen! Also, wie wär's?"
+102,@101,Ihr habt Stufe B erreicht! 
+103,Russel,Ihr seht ein wenig zu entspannt aus. An die Arbeit und erreicht mein Level! Haha!
+104,@101,"Ihr habt Stufe A erreicht! Jetzt seid Ihr auf Augenhöhe mit diesem Trottel! Nicht aufhören, weiter so!"
+105,@101,"Ihr habt Stufe S erreicht! Sieht so aus, als sei Eure Rivalität mit dem Volltrottel die perfekte Motivation gewesen!"
+106,@103,Was?! Ihr habt schon Stufe S erreicht? Ich werde Euch einholen! Ihr werdet schon sehen!
+107,@101," Es gilt noch, Stufe SR zu erreichen!"
+108,Theodore,"Ihr seid erst auf Stufe R, also macht nur weiter so."
+109,@101,"Ihr habt Stufe SR erreicht! Ihr habt diesen Trottel Russel weit hinter Euch gelassen!<p>Jetzt müsst Ihr Theodore einholen, der Stufe UR ist! Nur noch ein bisschen!"
+110,@101,"Jetzt seid Ihr bei Stufe UR!<p>Seid Ihr sicher, dass Ihr Euch nicht zu viel zumutet? Nun, Theodore ist schon fertig und ist gegangen. Dieser Trottel liegt immer noch weit zurück, also gibt es keinen Grund zur Eile."
+111,@101,"Ihr habt Stufe UR erreicht! Warum versucht Ihr nicht, noch einmal von vorn anzufangen?"
+112,@101,"Wow! Lange nicht gesehen! Ihr seid viel stärker geworden, seit wir uns das letzte Mal gesehen haben.<p>Aber es reicht noch nicht. Theodore ist schon viel stärker als Ihr. <p>Aber macht euch keine Sorgen! Ich habe eine weitere Ausbildungsanleitug für Euch erstellt. Sie ist allerdings etwas schwieriger als die letzte! Also fallt nicht zurück!<p>Zerbrecht Euch nicht zu sehr den Kopf! Ihr werdet das großartig machen!"
+113,@101,"Großartig, es sieht so aus, als ob Ihr gut vorankommt! Ihr habt Stufe B ziemlich schnell erreicht!<p>Russel! Wie weit bist du jetzt, Russel?"
+114,@103,Ich bin schon auf Stufe A! Diesmal werde ich nicht verlieren!
+115,@101,@104
+116,@101,"Ihr habt Stufe S erreicht! Es sieht so aus, als sei Eure Rivalität mit diesem Volltrottel die perfekte Motivation gewesen!"
+117,@103,Was?! Ihr habt schon Stufe S erreicht? Ich bin erst auf Stufe A ...<p>Ahh! Ist das nicht auch letztes Mal passiert ...?
+118,@101,@107
+119,@108,@108
+120,@101,"Glückwunsch zum Erreichen der Stufe SR! Jetzt kann dieser Vollidiot Russel nicht mal mehr davon träumen, Euch einzuholen!<p>"
+100011,,Willkommen auf der Sprechenden Insel.
+100021,,"Die Sprechende Insel ist der perfekte Ort, um stärker zu werden!"
+100041,,Ab hier müsst Ihr Euch vor Monstern in Acht nehmen!
+101171,,Wir sorgen für die Sicherheit auf der Sprechenden Insel!
+101181,,Ein weiterer erfolgreicher Tag des Geschäftemachens!
+101191,,Gute Ausrüstung rettet Euch das Leben!
+101201,,Hört her! Eine Versteigerung von Gludio-Besonderheiten beginnt in Kürze!
+101211,,Kauft Eure Tickets nach Gludio bei mir!
+101231,,Seht Euch den Siegesobelisken auf der Sprechenden Insel an!
+101241,,"Ein Hafen ist nur dann ein Hafen, wenn es darin vor Leuten wimmelt!"
+101261,,In letzter Zeit sind Touristen in Heerscharen zur Sprechenden Insel gereist.
+101301,,"Orks? Wie meint Ihr das, Orks?!"
+101311,,"Das Schiff nach Gludio legt bald ab, also geht schnell an Bord."
+101331,,Habt Ihr diese Touristen gesehen? Die eine oder andere war nach meinem Geschmack!
+101341,,"Ah, ein perfekter Tag, um die Segel zu setzen!"
+101381,,Vorsicht vor den Orks!!!
+101391,,Bleibt wachsam!!!
+101441,,@101391
+101451,,Wir müssen die Stellung halten!!
+101461,,@101381
+101471,,@101391
+101501,,"Hehe. Ich frage mich, ob ich aus der Armee entlassen werde ..."
+101541,,Hier gibt es Besonderheiten der Sprechenden Insel! Wir haben goldenen Pelz!
+101542,,So etwas kann es nur hier auf der Sprechenden Insel geben.
+101543,,Für eine richtige Tour über die Sprechende Insel braucht Ihr so etwas hier.
+101544,,"Willkommen, willkommen!"
+101545,,Fehlt es Euch nicht an Tränken?
+101551,,Hehe. Unser kleiner Schatz ist schon 3 Jahre alt!
+101571,,"Abenteurer sind Narren, die ihr Leben für Geld riskieren ..."
+101611,,Auf der Sprechenden Insel ist das Angeln eine Freude. Dieser Fisch ist riesig!
+101621,,"Glaubt Ihr, dass wirklich Orks im Norden der Stadt aufgetaucht sind?"
+101771,,Ohrringe! Ohrringe mit guten Werten!
+101811,,"Nutzt diesen Ort, um in andere Regionen zu gelangen."
+101821,,Tretet einem Klan bei! Kameraden sind eine große Unterstützung!
+101831,,"Wertet Eure Ausrüstung auf, um kurzen Prozess mit Euren Gegnern zu machen!!"
+101841,,Ich verkaufen Seelenschüsse. Sie fügen Monstern mehr Schaden zu!
+101911,,Wir kümmern uns schon um die Orks.
+101921,,Wir halten die Sicherheit der Stadt aufrecht.
+101931,,Die Stadt der Sprechenden Insel ist jetzt sicher.
+101941,,Willkommen in unserer Stadt!
+101961,,Hier gehen ein paar sehr merkwürdige Dinge vor sich ...
+101971,,"Je schneller Ihr die Insel verlassen könnt, desto besser."
+101981,,"Ich hab gehört, da sind mehr als 10.000 Orks im Norden."
+102011,,Im Norden sind Orks aufgetaucht!
+102221,,Keine Sorge! Ihr werdet heil aus dem Dienst entlassen.
+102501,,Verdammte Orks! Ich werde meine Kameraden rächen!
+102511,,Wir dürfen diesen Kampf nicht verlieren. Meine Familie versteckt sich in der Stadt.
+102551,,Dieser Angriff durch die Orks kam direkt vor meiner Entlassung ...
+102561,,"Wenn wir gegen diese Orks verlieren, erreichen sie die Stadt."
+103001,,"Noch halten wir die Orks mit Magie in Schach, aber ..."
+103011,,Ich bin erschöpft ...
+103021,,Orks? Die machen mir keine Angst!
+111671,,Bitte schließt Euch den Blut-Rangern an!
+111691,,"Seid Ihr hier, um Euch dem Jagdtrupp anzuschließen?"
+111851,,"Ich werde zusehen und gucken, ob etwas Komisches passiert!"
+111861,,"Es gibt keinen Grund, nachsichtig zu werden!"
+111891,,Erledigt sie mit einem Hieb!
+111971,,Erteilt diesen Orks eine Lektion!
+111981,,D-danke! Das war so gruselig!
+210011,,"Seelenschüsse sind genau das, was Ihr braucht, um gegen Golems zu kämpfen!"
+280811,,T-tötet mich ...
+280821,,Schmerzen ... Beendet es ...
+300171,,"Ich hätte ja gekämpft, wenn ich meinen Stab gehabt hätte!"
+300181,,Ihr habt vorhin geheult und Euch versteckt!
+304081,,"Einhasad hat mir gesagt, dass sie Euch her senden würde."
+304111,,"Ich habe Eure unglaubliche Leistung gesehen! Vielen, vielen Dank!"
+305851,,Was ist hier los?! Die Ära der Piraten ist doch längst vorbei!
+307781,,"Ahh ... Ich wusste, ich hätte nicht herkommen sollen ..."
+307791,,Ihr! Beruhigt Euch!
+309371,,Tickets zum Hafen der Sprechenden Insel gibt es in dieser Richtung.
+309391,,Wollt Ihr Euch nicht als Soldat Gludins verdingen?
+309411,,La-di-da ... Wo können meine Freunde nur hin sein ...
+309441,,"Nächstes Mal bin ich der Held, und nicht Ihr!"
+309451,,"Willkommen, dies ist die Gludin-Hafenstadt."
+309791,,"Ihr seid es also, den Einhasad geschickt hat."
+309801,,"Nutzt diesen Ort, um zu reisen, wohin Ihr wollt."
+309811,,"Registriert Euch hier, um an der Burgbelagerung teilzunehmen."
+309831,,"Seelenschüsse zu verkaufen, ist mein Hobby."
+309841,,"Lagert Gegenstände ein, wenn Euer Inventar voll ist."
+309851,,Huch! Schon wieder ausgerutscht!
+309861,,"Meine Güte, ist das laut hier. Ich möchte nur in Ruhe leben und angeln."
+309871,,"Ich werde Eure Rechnung etwas zusammenstreichen, schließlich seid Ihr der Held unserer Stadt!"
+309891,,"Es ist unsere Aufgabe, diesen Ort zu beschützen."
+309901,,*Seufz* ... Wann ist unsere Schicht endlich zu Ende ...
+309921,,@309891
+309951,,Ein Mitglied der Silberlicht-Söldner!!! Willkommen!
+309961,,"Der Angriff, der vor Kurzem stattfand, wurde von einem Silberlicht-Söldner vereitelt."
+309971,,"Ach, wirklich? Dieser Söldner war so cool!"
+310331,,Hoch leben die Silberlicht-Söldner!
+310341,,Auf keinen Fall gehe ich auf eine Insel. Ich gehöre in die Stadt.
+310441,,Hallo!
+318221,,"Ah, die guten alten Zeiten, als wir noch auf Schiffen reisten!"
+318231,,Danke! Dank Euch sind meine Passagiere in Sicherheit!
+318241,,"Ihr habt diese Piraten besiegt, stimmt's? Das ist unglaublich!"
+322561,,Vorsicht. Ab hier gibt es Ol Mahum.
+322611,,Schließt Ihr Euch der Jagd nach Ol Mahum an?
+322701,,Die Sicherheit der Geisel hat für uns oberste Priorität. Klar?
+322711,,"Seid Ihr verrückt? Ich, ich würde nicht auf den Friedhof gehen!"
+322981,,"Ihr braucht Tränke, wenn Ihr Ol Mahum jagen wollt!"
+392751,,"Hey, Ihr! Unternehmt etwas!"
+392781,,Da ist man den ganzen Weg hierhergekommen und dann so ein Ärger.
+350151,,"Seid nicht so knauserig! Gebt mir mehr, Ihr Geizhals!"
+350152,,Ihr Schwindler-Katze!
+350161,,"Es geht nichts über Seelenschüsse, wenn man Untote jagt!"
+350162,,"Hey Ihr, Abenteurer! Ihr solltet Euch ein paar Tränke kaufen."
+350163,,"Die Vorbereitung ist entscheidend für den Kampf! Also, Ihr solltet etwas kaufen, und zwar ..."
+350181,,"Mann, Mann, diese Untoten sind schlecht fürs Geschäft ..."
+350182,,"Hey! Macht Euch einen Sarg, wo Ihr schon mal hier seid! Ha!"
+350191,,Habt Ihr denn keine Angst?
+350192,,"Ihr solltet auf der Hut sein, hier tauchen Geister auf. Haha."
+350201,,Wirklich! Ich habe wirklich einen Geist gesehen! Glaubt mir!
+350202,,Da war definitiv ein blonder weiblicher Elfengeist!
+350211,,"Hört auf, Märchen zu erzählen, Ihr Lügner!"
+350212,,"Sagt etwas, dem man glauben kann! Mann."
+350221,,Ernsthaft? Ihr habt wirklich einen Chaotischen gesehen?
+350222,,"Ihr lügt nicht, oder? Ihr seid auch ein möglicher Verdächtiger!"
+350231,,"Ich sage die Wahrheit! Was an mir sagt Euch, dass ich eine Wirre wäre?"
+350232,,"Ich wette, selbst die Person da drüben ist stärker als Ihr!"
+350241,,"Seid vorsichtig, wenn Ihr von Gludio aus aufbrecht. Dort gibt es Wirre."
+350242,,"Seid Ihr hier, um den Vorfall zu untersuchen?"
+350261,,"Seht Euch diesen Kerl an! Es heißt, er wäre ein Silberlicht-Söldner."
+350262,,Hätte ich den Silberlicht-Söldnern bloß beitreten können ...
+350281,,"Ich wurde beauftragt, dieses Verschwinden zu untersuchen ..."
+350282,,Gibt es denn keine einfachen Aufgaben ...?
+350311,,"Wie man es von einer Hafenstadt erwartet, brodelt es hier vor Energie!"
+350312,,Gibt es nichts zu sehen?
+350321,,Beeilt Euch! Lasst uns auch da drüben hingehen!
+350322,,Wow! Wie geräumig!
+350331,,Puh. Könnt Ihr nicht etwas langsamer gehen?
+350332,,"Bitte geht langsamer, ja? Mir tun die Beine weh."
+309911,,Ich überlasse Euch das hier zu einem fantastischen Preis!
+309912,,Eher werde ich zu einer Sphinx-Katze!
+309931,,Es gibt eine Menge Gesetzlose. Seid vorsichtig.
+309932,,"Ihr habt keine geschmuggelte Waren bei Euch, oder etwa doch?"
+401151,,"Verdammt ... Wartet's nur ab, ich werde gewiss überleben."
+401152,,Ich werde überleben und meine Familie wiedersehen.
+410421,,Ist Euch zufällig ein Echsenmensch gefolgt?
+410422,,Der Weg durch das Verwüstete Ackerland ist beeindruckend!
+410331,,"Seid Ihr der Söldner, der Monster jagt? Gönnt Euch eine Verschnaufpause!"
+410332,,"Mein Schwert ist ideal, um diese Echsen aufzuschlitzen!"
+400131,,Wollt Ihr Euch nicht der Jagdgruppe anschließen?
+400132,,"Hat doch keinen Sinn, dazusitzen und nichts zu tun! Los, los, schließt Euch uns an!"
+409511,,Nur Narren halten Schreckgespenster für dumm!
+409512,,Die Sicherheit der verschwundenen Mitglieder hat für uns höchste Priorität.
+410391,,"Die Monster sind in der Nähe ... Ich hoffe, alles wird gut."
+410392,,"Oh, Einhasad ... Beschützt Gludio ..."
+410521,,"Ah ... Ich frage mich, wann ich nach Hause gehen kann ..."
+410522,,Wie viele Monster müssen wir denn noch töten?
+410541,,"Es fühlt sich an, als gäbe es kein Ende ..."
+410542,,Mutter ... Ich möchte meine Mutter sehen ...
+410571,,"Hier ist es gefährlich. Kehrt um, wenn Ihr kein Kämpfer seid."
+410572,,"Meldet Euch beim Hauptmann, um Euch der Jagdgruppe anzuschließen."
+418501,,Macht keinen Lärm in der Stadt.
+418502,,"Tretet der Jagdgruppe bei, wenn Ihr Arbeit sucht."
+418561,,"Wir müssen verhindern, dass die Echsenmenschen weiter herkommen!"
+418562,,Die verdammten Echsen suchen ständig nach neuen Gelegenheiten.
+400401,,"Ich kann nicht glauben, dass diese verdammten Echsen über unsere Stadt hergefallen sind ...!"
+400402,,Warum sendet der Herrscher keine Verstärkung?
+450471,,Hmm ... Sollte ich mich der Jagd auf Monster anschließen?
+450472,,Wird das nicht schwierig mit unserem Level?
+450481,,"Versuchen wir es einfach! Ich glaub nicht, dass wir sterben werden."
+450482,,Wir machen Schaschlik aus diesen Schreckgespenstern!
+450491,,"Ich habe gehört, Sir Vaughn wird die Operation leiten."
+450492,,Die Wiederbelebung von Windawood dürfte bald stattfinden ...
+450501,,Windawood muss möglichst schnell befreit werden.
+450502,,"Die Tragödien um Windawood müssen ein Ende finden. Ts, ts."
+450531,,"Ich hab gehört, der Angriff auf die Burg von Gludio beginnt bald?!"
+450532,,"Ah, ich würde gerne einmal an einer Burgbelagerung teilnehmen!"
+450541,,Ich würde meine Gegner mit einem tödlichen Schlag niedermähen!
+450542,,"Buuuh! Es wird eine Burgbelagerung geben, ohne mich ...!"
+450551,,"Ihr rekrutiert wohl Teilnehmer für die Burgbelagerung in Gludio, was ...?"
+450552,,"Eine Elfe, die ein Königreich der Menschen regiert. Klingt doch gar nicht so schlecht!"
+450561,,Kommt nicht auf komische Ideen und bewerbt Euch beim Klan der Burg!
+450562,,Ich werde ganz bestimmt ein wundervoller Ritter des Klans der Burg werden!
+499711,,"Diese Seelenschüsse sind toll, um Echsenmenschen zu jagen!"
+506751,,"Wir treffen die Vorbereitungen, bleibt in Formation!"
+506752,,Habt Ihr vielleicht noch verstreute Soldaten gesehen?
+508741,,Sind die Ol Mahum verrückt geworden?
+508742,,Warum haben Banditen auf einmal Interesse an Kristallen?
+512641,,"Ich kann nicht glauben, dass die Untoten plötzlich wild werden!"
+512642,,"Konzentriert Euch und achtet darauf, zusammenzubleiben!"
+514601,,Windawoods Rettung ist fast abgeschlossen! Vorwärts!
+514602,,"Es wird Zeit, die Orks aus unserer Heimat zu vertreiben!"
+550011,,Das schöne Windawood ist in ein solches Chaos gefallen ...
+550012,,Ihr verdammten Orks. Ich werde Rache nehmen!
+550021,,Die Bäume sind alle gestorben ...
+550022,,Ich habe Schreie aus der Umgebung gehört ...
+550031,,"Kauft einige Tränke, bevor Ihr Euch zu den Orks aufmacht."
+550032,,"Das sind nicht genug Seelenschüsse, um mit den Orks zurechtzukommen."
+607241,,"Oh ... Oh, äh ... Einige Gegenstände fehlen wohl."
+607251,,Wann soll ich all das bewegen ...
+607261,,Warum? Ist etwas passiert?
+607521,,Im Dienst! Keine Probleme!
+607541,,@607521
+607551,,K-könntet Ihr meinen Posten übernehmen ...
+612811,,Wann treffen die Händlervorräte ein ...?
+612812,,"Hmm, unsere Waren gehen zur Neige."
+630251,,Ihr seid bedenklich schlecht vorbereitet. Kauft einige Tränke!
+630252,,"Diese Seelenschüsse sind unschlagbar, wenn Ihr auf Ameisen trefft."
+650061,,Argh ... diese verdammten Ameisen!
+650062,,Wie kann es zu der Entstehung einer solchen Ameise kommen?
+650071,,In dem unterirdischen Ameisennest gibt es eine riesige Königin.
+650072,,"Die Ameisenkönigin? Ich frage mich, wie schön sie ist!"
+650081,,"Ich höre, die Elfenbeinturmzauberer sind auf mysteriöse Art ums Leben gekommen?"
+650082,,Wer hätte die Elfenbeinturmzauberer töten können?
+650121,,"Im Süden liegt das Dion-Gebiet. Ihr werdet nicht gesucht, oder?"
+650122,,"Vergesst nicht, Euch zu identifizieren, bevor Ihr nach Dion reist."
+650181,,"Sie erlauben mir nicht, in das Dion-Gebiet zu reisen!"
+650182,,Ich habe diese Wüste so satt!
+650191,,"Habt Ihr keinen Durst? Hier, ein Trank!"
+650192,,Nehmt etwas vom Lagerplatz mit!
+650231,,"Seid vorsichtig. Ich habe gehört, Kazir würde gleich da vorne erscheinen!"
+650232,,Ich habe von Kazir gehört! Er ist der Jäger in dieser Wüste.
+699711,,"Ihr braucht Tränke, um die raue Einöde zu durchqueren!"
+706031,,"Hey, Ihr! Euer Schwert ist rostig!"
+706041,,Wir lagern Eure Gegenstände sicher!
+706051,,Ich sollte jetzt keine Gegenstände verkaufen ...
+706061,,Habt Ihr das Kind von vorhin gesehen?
+706071,,"Sagt einfach Bescheid, wenn Ihr Hilfe braucht!"
+706101,,"Hahaha. Ich frage mich, ob Gus das Geschäft gut im Griff hat."
+706111,,Ich werde wohl wieder Ärger von Sara kriegen!
+706121,,"Oh, ein Kind. Braucht Ihr keine Droge, die Euch größer werden lässt?"
+706122,,"Wenn Ihr das hier esst, werdet Ihr so groß wie ein Schreckgespenst!"
+706131,,"Wuuuh! Aber warum seid Ihr so klein, Herr Katze?"
+706132,,"Ah, was für ein Lügner! So eine Droge gibt es doch gar nicht!"
+706141,,"Ich kann nicht nach draußen gehen, wegen der Monster."
+706151,,Ah ... Ich muss Kräuter sammeln ...
+706171,,Werden wir heute auch was trinken?
+706181,,Toll! Wir sehen uns nach unserer Schicht!
+706191,,Willkommen. Dies ist Dion-Stadt.
+706201,,Überlasst die Sicherheit ruhig uns!
+706211,,Habt Ihr das Mädchen gerade gesehen?
+706221,,"Natürlich! Sie schien mysteriös, findet Ihr nicht?"
+706231,,"Es heißt, die Spinnen fressen Menschen!"
+706241,,"Es heißt, im Norden gibt es tonnenweise Spinnen!"
+799711,,Ah! Das ist gefährlich! Kauft diese Seelenschüsse!
+780471,,Aha! Da drüben!
+780481,,Dieses Mal lasse ich Euch nicht damit davonkommen!
+780491,,Holt den Schlüssel!
+780911,,Ihr könnt nicht vor uns weglaufen!!!
+780921,,Hinterher! Los!
+780951,,Sterbt! Sterbt!
+780981,,Dieser Zauber wird Euch allen den Garaus machen.
+781001,,Schnappt sie Euch!
+781021,,Fangt sie lebend!
+720091,,Ihr werdet diesen Ort nicht lebend verlassen!
+750051,,"Ach, Mann. Ich sage die Wahrheit!"
+750052,,Ich persönlich habe dem Orkhauptmann den Kopf eingeschlagen!
+750061,,Orks haben es bis zur Burg von Dion geschafft?
+750062,,Wir müssen uns beeilen und die Burg von Dion unterstützen. Sie ist in Gefahr!
+750081,,Pfft! Ihr habt den Orkhauptmann besiegt? Ihr und welche Armee?
+750082,,Eure Lügen sind einfach zu unglaublich! Hahaha!
+750501,,"Seid vorsichtig, das Agrargebiet ist voller Echsenmenschen."
+750502,,"Wir haben dafür gesorgt, dass die Echsenmenschen nirgendwo mehr hingehen können."
+750521,,Der Cruma-Turm strahlt Energie aus.
+750522,,"Der Cruma-Turm ... Das ist eine Herausforderung, der ich mich gerne stellen würde!"
+750531,,Der Turm der Kleinriesen? Ich möchte seine Geheimnisse enthüllen!
+750532,,"Ich hab gehört, die Dunkle Bruderschaft hat es auf den Cruma-Turm abgesehen ..."
+750551,,"Hehe. Fangt mich, wenn Ihr könnt!"
+750552,,Wagen kommt vorbei! Tuut tuuut.
+750561,,Der Angriff auf die Burg von Dion macht mich rasend!
+750562,,"Ich frage mich, wer der Herrscher des Dion-Gebiets werden wird!"
+750601,,"Ach, ich wäre gerne in einem Klan, der so cool ist wie der Klan der Burg!"
+750602,,"Hmm. Sollte ich versuchen, in den Klan der Burg aufgenommen zu werden?"
+750591,,"Wir zeigen nicht genug Leidenschaft, um es zu schaffen ... *schnüff* ..."
+750592,,"W-wenn Ihr es macht, mache ich es auch!"
+750621,,Sie sind auf der Suche nach Klans für die Dion-Burgbelagerung!
+750622,,Ist keine einfache Aufgabe zu haben? Wie eine Katze einzufangen ...?
+750651,,Pssst! Die Katze hat uns noch nicht entdeckt! Schnappt sie Euch!
+750652,,Lasst uns ein oder zwei von diesen räudigen Katzen da nehmen!
+750661,,Jetzt! Er wird von dem Kind abgelenkt!
+750662,,Möchtet Ihr beitreten? Ich werdet auch mitschuldig sein.
+750681,,Seht! Diese Schwindler-Katze wird noch mehr Leute übers Ohr hauen.
+750682,,Wollt Ihr auch diesem Kind zu viel berechnen? Mann!
+800381,,"Seid ihr gekommen, um Euch den Cruma-Turm anzusehen?"
+800382,,Der Turm der Kleinriesen. Der ärgert mich enorm!
+803881,,"Hmm ... Es ist kühl, wie man es von einem Sumpf erwarten würde."
+803882,,Könnt Ihr kein größeres Feuer machen?
+804101,,"Eins, zwei ... hä? Anscheinend fehlen ein paar."
+804102,,"Ich kann nicht glauben, dass ich in meinem Alter Waren kontrolliere!"
+804131,,Willkommen im Forschungslager der Feldheim-Ausgrabungseinheit!
+804132,,Habt Ihr vielleicht Vorräte mitgebracht?
+850641,,Wird meine Magie denn nicht stärker?
+850642,,"Ich hab gehört, es gibt massenweise magische Lebensformen in Cruma!"
+850661,,Uff ... Warum muss immer ich die Dokumente sortieren?
+850662,,Ihr solltet das regelmäßig tun. Seht euch dieses Chaos an!
+850671,,"Seid vorsichtig, wenn ihr weitergeht, da liegen eine Menge Leichen rum!"
+850672,,"Wenn Ihr auf jemanden trefft, der den Kontakt zu uns verloren hat, bringt ihn her!"
+899711,,Was braucht es an diesem gefährlichen Ort? Diesen Trank!
+998711,,Beim Geschäftemachen spielt die Rasse keine Rolle!
+1019911,,"Kauft mehr Seelenschüsse für das Kreischende Heiligtum, okay?"
+1050001,,"Hey, wollt Ihr uns nicht bei der Operation helfen?"
+1050002,,Dies ist kein guter Ort für ein Abenteuer.
+1050021,,Uff ... mir tun die Knochen weh.
+1050022,,Trefft Ihr angemessene Vorbereitungen für eine Begegnung mit den Untoten?
+1050031,,Möge Einhasads Segen mit Euch sein.
+1050032,,"Ich bete darum, dass Ihr ihnen Frieden schenkt."
+1050061,,"Es ist gefährlich, den Ofen zu verlassen."
+1050062,,"Wir sind hergekommen, um die Armee der Qualen zu beobachten."
+1050051,,"Es macht mich traurig, sie anzusehen."
+1050052,,"Seid vorsichtig, damit Ihr nicht endet wie sie."
+1050201,,Seid Ihr ein Abenteurer? Giran ist zurzeit abgeriegelt.
+1050202,,"Giran ist abgeriegelt, bis es sich im Kreischende Heiligtum beruhigt hat."
+1050231,,Ihr könnt im Moment nicht nach Giran.
+1050232,,Der Herrscher hat jeglichen Zugang verboten.
+1106931,,"Hallo, Schönheit! Braucht Ihr Waffen?"
+1106932,,So ein schönes Kleid. Nehmt Euch vor der Sammlung der Gorgon in Acht!
+1106933,,"Kommt! Eure Taschen sind so voll, kauft Euch etwas Ausrüstung!"
+1191421,,Wer seid Ihr? Habt Ihr irgendetwas Verdächtiges gesehen?
+1191422,,Hat es etwas mit diesem Vorfall zu tun?
+1191431,,Habt Ihr einen Spion aus Oren gesehen?
+1191461,,"Ich bin mir sicher, dass diese verdammten Leute aus Oren einen Spion geschickt haben."
+1150411,,Willkommen in Giran-Stadt!
+1150412,,"Willkommen in Giran, dem Wirtschaftszentrum!"
+1117001,,"Bleibt wachsam, es sind so viele Leute unterwegs!"
+1117002,,"Geht nicht mit Fremden mit, auch nicht, wenn sie Euch Essen anbieten."
+1117003,,Könnt Ihr Euch noch an Euren Heimweg erinnern?
+1117021,,Kommt doch für einen Moment auf ein Glas leckeren Rum herein!
+1117022,,"Hey, Ihr kühner Abenteurer. Kommt einen Moment herein."
+1117023,,Seid ihr nicht müde von der Reise? Kommt herein und erholt Euch!
+1170041,,Was wollt Ihr? Seid Ihr auf ein Tänzchen aus?
+1170042,,"Dreht um, bevor Ihr verletzt werdet, okay?"
+1170043,,Was guckt Ihr? Verschwindet!
+1170081,,"Habt Ihr auch gehört, dass sich die Beziehung zwischen Giran und Oren verschlechtert?"
+1170082,,"Ich bin besorgt ... Ihr denkt doch nicht, dass es Krieg geben wird, oder?"
+1170083,,Ich möchte Oren wirklich einmal besuchen ...
+1170091,,"Abenteuer und sowas ... Die Kinder heutzutage, ts, ts ..."
+1170092,,"Ich muss Verbindungen knüpfen, wenn die Gesandten kommen."
+1170111,,Kommt rein und gönnt Euch einen Teller heiße Suppe!
+1170112,,Seid Ihr von außerhalb? Kommt und verbringt die Nacht hier!
+1170113,,Ihr seht erschöpft aus. Kommt und ruht Euch aus.
+1170121,,Wollt Ihr nicht diesen einen Ring kaufen?
+1170122,,Den findet Ihr sonst nirgends!
+1170123,,Für günstige 10 Millionen Adena! Ein Schnäppchen!
+1170151,,"Zählt nach, damit es auch wirklich der richtige Betrag ist."
+1170152,,"Bleibt wachsam, der Händler wird bald hier sein."
+1170153,,Wir handeln mit seltenen magischen Materialien. Passt gut auf.
+1170161,,"Hm ... Sollen wir mal probieren, um zu sehen, ob es schmeckt?"
+1170162,,Da fehlt was ... Vielleicht ein wenig von diesem magischen MNG?
+1170163,,"Hey, was guckt Ihr so? Wollt Ihr unsere Geheimnisse stehlen?"
+1170181,,Gemüse! Kauft günstig etwas Gemüse!
+1170182,,"Das kommt aus Dion, vorbei am Kreischenden Heiligtum!"
+1170183,,Probiert mal! Der Geschmack der Ebenen!
+1170221,,"Ich sage Euch, Mischa hat mich angesehen!"
+1170222,,"Ich bin sicher, dass sich Gerard für mich interessiert!"
+1170223,,Was soll ich tun ...? Sollte ich ein Gespräch beginnen?
+1170241,,Was? Noch nie 'ne Katze gesehen?
+1170242,,"Ihr holt Euch 'ne Tracht Prügel, wenn Ihr mich unterschätzt, Flegel!"
+1170243,,"Bleibt nur hier, wenn Ihr einen Schlag abbekommen wollt."
+1170311,,Soll ich mich der Gorgon-Jagd anschließen? Ich könnte einige Erfahrung sammeln ...
+1170312,,Ich möchte nicht zu Medusas Spielzeug werden ...
+1170313,,"Ich bin zu jung und zu schön, um zu sterben ... Jagen oder nicht jagen ...!"
+1170291,,Was ist so gruselig an dieser Hexe Medusa?
+1170292,,Schließen wir uns der Jagd an! Was kann denn schon passieren?
+1170293,,So eine Gelegenheit hat man nicht alle Tage!
+1160101,,Hier drinnen treiben sich Schläger rum. Geht bloß nicht rein.
+1160102,,Noch etwas weiter drinnen wird es gefährlich. Geht zurück.
+1160161,,"Seid Ihr bereit, Euch auf den Weg zum Gorgon-Blumengarten zu machen?"
+1160162,,"Reicht Euer Testament ein, sobald Ihr es gemacht habt."
+1160163,,Seht Medusa niemals in die Augen. Klar?
+1170341,,Trinkt dies. Es macht immun gegen Medusas Blick!
+1170342,,"Angst davor, nach Oren zu gehen? Kauft dieses Tarnungsmittel!"
+1170343,,Mit der Hilfe dieses Fluoroskops könnt Ihr Spione fangen und ein Vermögen machen!
+1170371,,"Hey, seid Ihr ein Silberlicht-Söldner? Ich beneide Euch."
+1170372,,Jeder Abenteurer möchte den Silberlicht-Söldnern beitreten.
+1170373,,"Ich werde ein Zauberer, wie Lucien von den Silberlicht-Söldnern."
+1170381,,"Hübsch, nicht? Zieht nicht das Gras raus, das tut ihm weh."
+1170382,,"Dies ist der Platz von Einhasad. Lass uns später beten, okay?"
+1170383,,"Wir sollten leise sein, es sind viele Leute hier."
+1170501,,Einhasad wird auf Euch aufpassen.
+1170502,,Einhasads Liebe ist bedingungslos und sie erwartet nichts.
+1170503,,Liebt Eure Nachbarn wie Ihr Einhasad liebt.
+1170531,,Pst. Seid leise. Der Priester spricht.
+1170532,,"O Einhasad, bitte lass meinen Bruder heil zurückkehren ..."
+1170533,,"Segnet die, die auf der Gordon-Jagd sind ..."
+1170561,,Bitte ... Macht diese Welt zu einer Welt ohne Krieg ...
+1170562,,Segnet das Land Giran ...
+1170601,,Wow! Ich kann Opas Boot sehen!
+1170602,,Wuuuh! Vögel!
+1170603,,"Iiek! Kommt her, Vögelchen! Kommt, spielt mit mir!"
+1200011,,"Seid Ihr ... gekommen, um uns zu retten?"
+1200031,,Miau ... Hätte ich den Landweg nehmen sollen ...
+1200041,,Willkommen im Unterschlupf!
+1200061,,"Es heißt, im Giran-Hafen herrscht das totale Chaos!"
+1200071,,"Bei dieser ganzen Aufregung ist es schwer, Geschäfte zu machen ..."
+1200081,,Die Ruine der Kleinriesen! Ist das nicht aufregend?!
+1200091,,"Das ist alles so hektisch. Könntet Ihr aufhören, mir im Weg rumzustehen?"
+1200111,,"Das ist ein Kristall, den wir aus Cruma mitgebracht haben!"
+1200281,,Kein einziger Pirat sollte gehen dürfen!
+1200301,,Wir sorgen für die Sicherheit der Flüchtlinge.
+1200351,,Gibt es keine Hilfslieferungen für die Händler?
+1211311,,Mit dem Hafen in diesem Zustand ist unser Schicksal besiegelt!
+1399711,,Diese Seelenschüsse werden mit diesen schrecklichen Piraten fertig!
+1430361,,Kann ich dieses struppige Ding streicheln?
+1430401,,Worum geht es?
+1430421,,Hallo.
+1430431,,"Wenn man diesen Baum fällen würde, könnte man ihn zu einem guten Preis verkaufen."
+1430491,,Warum sind die Untoten hier?
+1430511,,"Es wäre schön gewesen, wenn das struppige Ding mitgekommen wäre."
+1430541,,"Wow, ich sehe das struppige Ding wieder."
+1430571,,"Habt Ihr von einer Fee gehört, die auf der Sprechenden Insel lebt?"
+1430591,,@1430571
+1430611,,"Hm ... nach dem, was auf dieser Steintafel steht ..."
+1430631,,Zwergenkind ist klein.
+1430651,,Dieses Mal ist es auch in einer uralten Elfensprache.
+1430661,,Wir haben es geschafft.
+1430671,,Miau ... blub blub ... Miau ...
+1430681,,Jetzt bin ich voll.
+1430691,,"Beschützt mich, während ich diese Steintafel entziffere."
+1430811,,"Gut gemacht, Cara."
+1550061,,Coocoo! Coocoo!
+1550071,,Coocoo! Sucht weiter!
+1550091,,Grunz! Grunz! Schnüff schnüff.
+1550131,,Coocoo ist sicher nach Hause zurückgekehrt.
+1550132,,Ich will Coocoo sehen.
+1550181,,"Etwas Merkwürdiges wächst auf meinem Rücken, miau ..."
+1550182,,Ist es nicht schon tot ...?
+1550191,,Argh ... Verdammte Schluchtspinnen!
+1550192,,Was ist der Status dieser Person?
+1550241,,W-Was soll all dieser Tumult?
+1550242,,"Die Schreckgespenster suchen nach mir, als ob ich ein Imbiss wäre ..."
+1550281,,Wir müssen die Frauen und Kinder beschützen!
+1550282,,"Sorgt dafür, dass diese Schweine nicht zu nahe kommen!"
+1550481,,Argh ... Meine Wunde tut weh ...
+1550482,,Das war mein Fehler. Ich habe nicht aufgepasst.
+1550491,,"Russel! Idiot! Ich hab Euch schon mal gesagt, dass Ihr vorsichtig sein sollt!"
+1550492,,Seid Ihr verletzt?
+1571621,,"Ihr plant, aus dem Käfig zu entkommen?"
+1571622,,Richtet sie jetzt hin!
+1558351,,"Ihr plant, zu entkommen? Ihr werdet Eure Entscheidung bereuen. Kekeke ..."
+1558352,,"Wow, Ihr seid recht mutig! Nun ja, Ihr werdet bald wieder hier sein. Hahaha. Für jemanden"
+1558381,,"He, Wache! Wann bekomme ich mein Essen?"
+1558382,,"Ich war ein ernstzunehmender Gegner, als ich noch in Freiheit war!"
+1551881,,Musstet Ihr ... Musstet Ihr wirklich alles anzünden?!!!
+1551882,,Caraku ... Wir müssen Caraku finden!
+1551961,,Kazan ist verloren!
+1551962,,Ich werde diesem Verräter eigenhändig das Genick brechen!
+1552081,,Argh! Ich bin so wütend! Warum spricht der Tanor nicht?
+1552082,,"Wo ist Russel, dieser Narr?"
+1552091,,"Ich hoffe, Durzel geht es gut. Piratenschiff? Hmm."
+1552092,,Habt Ihr Aymel gesehen? Geht es dem Wildfang gut?
+1552191,,Wo in aller Welt ist Durzel?
+1552192,,Ich spüre eine drohende Energie ...
+1566401,,Echte Jäger sind nicht nachlässig bei ihren Vorbereitungen!
+1566402,,Da! Sie scheinen Seelenschüsse zu brauchen!
+1565341,,"Ich habe gehört, die Burg von Oren sei ziemlich in Aufruhr ..."
+1565342,,"Man sagt, dass Abenteurer in der Burg von Oren beschuldigt wurden, Spione aus Giran zu sein!"
+1565381,,"Es heißt, der Geheimniswald sei irgendwo in dieser Schlucht!"
+1565382,,"Und sobald man den Geheimniswald durchquert hat, kommt man anscheinend zur Feenschlucht."
+1565531,,"Es heißt, dass das Herz des Plateaus am längsten in der Schlucht war."
+1565532,,Sollen wir Leute versammeln und uns zum Herz des Plateaus aufmachen?
+1565371,,Wir müssen vorsichtig sein; Giran und Oren stehen nicht gut zueinander.
+1565372,,"Seid vorsichtig in der Burg von Oren, wenn ihr aus Giran kommt!"
+1565441,,"Ich frage mich, was aus dem Kerl geworden ist, der einen Grendel fangen wollte ..."
+1565442,,"Kann ... es sein, dass er von Poricule gefangen genommen wurde?"
+1569071,,"Shayden, Ihr seid ein Narr!"
+1569072,,Was für einen Unsinn gebt Ihr da von Euch? Schreckgespenster haben eine Schürze gestohlen?
+1569011,,Hmm. Dieser Grendel-Fleischeintopf macht sich ganz gut!
+1569012,,Wir müssen uns mit den Vorbereitungen beeilen ... der Fürst wird schon warten ...
+1569101,,"So wie es aussieht, werden wir Schwierigkeiten haben, unsere Mission zu beenden ..."
+1569102,,"So können wir nicht zurückgehen. Gibt es denn niemanden, den wir um Hilfe bitten können?"
+1569061,,Habt Ihr einen riesigen Windsus gesehen?
+1569062,,Nehmt Euch in dieser Gegend vor Banditen in Acht!
+1569041,,Ach je. Wir werden Euch wiedersehen!
+1569042,,"Mmm ... die freie Natur! Die Zutaten, die man hier findet, müssen ausgezeichnet sein!"
+1569311,,Da sind so viele Spinnen!
+1569312,,"Soll ich die Nymphen bitten, mir ein Blütenblatt zu geben?"
+1569221,,Habt Ihr vielleicht eine riesige weiße Blume gesehen?
+1569222,,Die Nymphen in der Gegend sind ziemlich aggressiv. Lasst Euch nicht von ihrer Schönheit verführen.
+1565601,,Macht keinen Lärm.
+1565602,,Seid Ihr aus Giran? Wurdet Ihr untersucht?
+1565981,,"Bereitet Euch gut vor. Wir wissen nicht, wann Leute aus Giran hierherkommen."
+1565982,,Was stimmt nicht mit der Balliste?
+1565791,,Seht doch nicht jetzt schon so müde aus! Konzentriert Euch!
+1565792,,"Wir fangen noch einmal von vorn an und machen weiter, bis unsere Aktionen synchron sind."
+1565661,,Dieser überspannte Wachhauptmann ist mal wieder am Werk ...
+1565662,,"Mir tun nur diejenigen leid, die unter ihnen trainieren."
+1565561,,"Lasst Euch untersuchen, wenn Ihr die Burg betretet."
+1565562,,"Irgendwelche faulen Tricks, und Ihr kommt direkt ins Gefängnis, also passt auf."
+1566081,,"Sagt die Wahrheit! Wir wurden informiert, also versucht gar nicht erst, Euch rauszureden!"
+1566082,,"Es wird Euch nichts nutzen, Euch dumm zu stellen. Verdammter Giran-Spion!"
+1566181,,"Ich habe gehört, ein paar Spione aus Giran wurden verhaftet!"
+1566182,,"Oh je, was für eine furchteinflößende Welt, in der wir leben ... Ich frage mich, wann sich unsere Beziehungen zu Giran verbessern werden ..."
+1566021,,Bleibt wachsam.
+1566022,,Diese verdammten Spione sind überall!
+1566351,,Es ist gefährlich im Westen! Seid vorsichtig!
+1566352,,Irgendetwas ist anders an den Echsenmenschen hier ...
+1566061,,"Versuchen die Elfenbeinturmzauberer, uns aus dem Weg zu gehen?"
+1566062,,"Alles würde in Ordnung kommen, wenn der Elfenbeinturm sich uns anschließen würden. Ts ts."
+1566111,,Wir sind alle Kinder von Einhasad.
+1566112,,"Einhasad wird sicherlich zornig sein, wenn wir uns im Kampf gegenseitig töten."
+1566141,,Bitte ... lasst keinen Krieg ausbrechen ...
+1566142,,Lasst in diesem Land Frieden herrschen ...
+1566091,,"Sagt den Wachen Bescheid, wenn Ihr irgendwelche verdächtigen Leute sehen solltet, in Ordnung?"
+1566092,,"Verlasst nicht die Burg, okay?"
+1566361,,Sprecht für alle Klan-Aufgaben mit Sereos.
+1566362,,"Bitte meldet uns jeden, der ein Spion sein könnte."
+1566341,,Ah! So ein schönes Wetter!
+1566342,,"Ihr seid der Fänger, sobald Ihr die Markierung am Boden verlasst!"
+1565231,,Große Köder! Holt Euch Euren Großen Köder!
+1565232,,Diese Angelrute wurde von Einhasad selbst gesegnet!
+1566291,,Was guckt Ihr? Verschwindet!
+1566292,,Argh! Pfui!
+1566381,,Seufz ... Warum ist die Welt so furchteinflößend?
+1566382,,"Ich habe gehört, dass das Nachbarmädchen ebenfalls des Spionierens beschuldigt wurde ..."
+1565971,,Nehmt Euch vor Echsenmenschen und Orks in Acht!
+1565972,,"Wenn die Situation zu gefährlich wird, bittet um Hilfe von der Burg."
+1569231,,"Ich frage mich, wie wir das Ei stehlen können, ohne dass es jemand bemerkt ...?"
+1569232,,Wollt Ihr vielleicht ein Geschäft mit Echsenmenschen-Eiern starten?
+1569251,,Woah! Was für eine Überraschung! Was macht Ihr hier?
+1569252,,Dieser Renner. Ich werde ihm meine wahren Fähigkeiten zeigen!
+1569253,,Mein Umhang ... Er war nagelneu ...
+1569321,,"Seid Ihr auch gekommen, um die Orks zu jagen?"
+1569322,,Wir sehen uns wieder!
+1569323,,"Seid Ihr bereit, ein paar Orks zu jagen?"
+1569261,,"Oh, was führt Euch hierher?"
+1569262,,"Seid ihr gekommen, um mir wieder mal zu helfen?"
+1569271,,"Verkauft mir den Streitkolben der Strafe, wenn Ihr ihn finden solltet!"
+1569272,,"Habt Ihr das Korsett dieses Tanor-Anführers gesehen? Mir scheint, das wird einen guten Preis erzielen."
+1569301,,Lange nicht gesehen!
+1569302,,"Wie wär's, wenn wir alle versuchen, Tanor-Häuptling zu werden?"
+1610011,,Fehlt es Euch an Wiederherstellungstränken? Sie sind gerade günstig im Angebot!
+7920011,,"Wollt Ihr von der Anfrage hören, die der Klan erhalten hat?"
+7920012,,"Wenn das Klanhallen-Level steigt, könnt ihr mehr Platz nutzen!"
+7920021,,Habt Ihr von Varkarons uraltem Relikt gehört?
+7920022,,"Bringt mir alle interessanten Relikte, die Ihr findet!"
+7920023,,"Ich werde schon ganz zappelig, wenn ich nur an Relikte denke! Haha!"
+7920041,,Verwendet keine Tränke von schlechter Qualität. Ich kann Euch helfen!
+7920042,,Meine Tränke sind definitiv die besten in ganz Aden!
+7920043,,Ein einziger Trank und Ihr fühlt Euch stark wie ein Schreckgespenst!
+7920031,,Wuuuh! Die Landschaft ist unglaublich!
+7920032,,Wie kann ein Blumenstrauß nur so rot sein?
+7920033,,Die Dienstmädchen sind so hübsch!
+7920061,,"Wenn Euer Magen knurrt, kommt zu mir!"
+7920062,,Ich koche jeden Tag Essen aus frischen Zutaten!
+7920063,,Wollt Ihr als Erstes mein neues Gericht probieren?
+7920081,,"Vergesst nicht, mich einmal am Tag zu besuchen!"
+7920082,,"Ich habe tägliche Geschenke für Euch, miau!"
+7920083,,"Wenn Euer Klanhallen-Level steigt, werde ich bessere Geschenke für Euch haben!"
+7920181,,Ist sie nicht wunderschön? So rot wie die Lippen einer Dame!
+7920182,,Überlasst die Pflege des Blumengartens nur mir.
+7920183,,Braucht Ihr Blumen? Für wen sind sie? Hehe!
+7920191,,Habt Ihr diese Woche alle Klanhallen-Quests erledigt?
+7920192,,"Findet Ihr mich so hübsch? Bitte versucht, nicht zu starren."
+7920193,,Ich mag die Wärme der Feuerstelle der Klanhalle.
+7920194,,Unser Klan ist der Beste in Aden!
+7920111,,Willkommen in unserer Klanhalle!
+7920112,,"Willkommen! Der Tag ist perfekt, um den Garten zu genießen."
+7920113,,Ich habe schon auf Eure Ankunft gewartet! Willkommen!
+7920131,,Schande ... wo kann ich es nur hingetan haben?
+7920132,,Der Hüter wartet sicher schon ...
+7920133,,Hmm ... hier hab ich es liegenlassen. Wo kann es hin sein?
+7921011,,@7920011
+7921012,,Die erste Erweiterung der Klanhalle wurde abgeschlossen.
+7921013,,@7920012
+7921021,,@7920021
+7921022,,@7920022
+7921023,,@7920023
+7921041,,@7920041
+7921042,,@7920042
+7921043,,@7920043
+7921031,,@7920031
+7921032,,@7920032
+7921033,,@7920033
+7921061,,@7920061
+7921062,,@7920062
+7921063,,@7920063
+7921081,,@7920081
+7921082,,@7920082
+7921083,,"Ich gebe Euch ein besseres Geschenk, da Euer Klanhallen-Level gestiegen ist!"
+7921181,,@7920181
+7921182,,@7920182
+7921183,,@7920183
+7921191,,@7920191
+7921192,,@7920192
+7921193,,@7920193
+7921194,,@7920194
+7921111,,@7920111
+7921112,,@7920112
+7921113,,@7920113
+7921131,,@7920131
+7921132,,@7920132
+7921133,,@7920133
+7922011,,@7920011
+7922012,,Die zweite Erweiterung der Klanhalle wurde abgeschlossen.
+7922013,,@7920012
+7922021,,@7920021
+7922022,,@7920022
+7922023,,@7920023
+7922041,,@7920041
+7922042,,@7920042
+7922043,,@7920043
+7922031,,@7920031
+7922032,,@7920032
+7922033,,@7920033
+7922061,,@7920061
+7922062,,@7920062
+7922063,,@7920063
+7922081,,@7920081
+7922082,,@7920082
+7922083,,@7921083
+7922181,,@7920181
+7922182,,@7920182
+7922183,,@7920183
+7922191,,@7920191
+7922192,,@7920192
+7922193,,@7920193
+7922194,,@7920194
+7922111,,@7920111
+7922112,,@7920112
+7922113,,@7920113
+7922131,,@7920131
+7922132,,@7920132
+7922133,,@7920133
+7923011,,@7920011
+7923012,,Alle Bereiche der Klanhalle wurden erweitert. Was für ein Anblick!
+7923013,,@7920012
+7923021,,@7920021
+7923022,,@7920022
+7923023,,@7920023
+7923041,,@7920041
+7923042,,@7920042
+7923043,,@7920043
+7923031,,@7920031
+7923032,,@7920032
+7923033,,@7920033
+7923061,,@7920061
+7923062,,@7920062
+7923063,,@7920063
+7923081,,@7920081
+7923082,,@7920082
+7923083,,@7921083
+7923181,,@7920181
+7923182,,@7920182
+7923183,,@7920183
+7923191,,@7920191
+7923192,,@7920192
+7923193,,@7920193
+7923194,,@7920194
+7923111,,@7920111
+7923112,,@7920112
+7923113,,@7920113
+7923131,,@7920131
+7923132,,@7920132
+7923133,,@7920133
+1085041,,Gefahrenzone! Kehrt um!
+1085051,,Die Guillotine-Festung liegt voraus.
+1085011,,Wir machen uns besser bereit!
+1085031,,Wir sollen uns dieser Armee des Todes stellen ...?
+650521,,"Ihr alle! Wagt es nicht, herauszukommen!"
+650401,,Krrr!
+650402,,Krrr! Krrr!
+650403,,Krrrr!
+1601631,,"Ich bin mir sicher, das wird einen guten Preis erzielen."
+1602611,,"Oh, oh! Was machen wir jetzt?"
+30001011,,Willkommen im Feenwald.
+30001021,,Ich kann wegen dieser seltsamen Monster nicht nach Hause. Bitte helft.
+21000011,,은빛 용병단에 어울리는 은빛 무기들입니다!
+21000012,,당신에게 곧 다가올지도 모르는 시련에 대비하세요!
+21000021,,이곳엔 특별한 장비가 많군.
+21000022,,은빛 용병단은 이런 장비를 하고 싸운단 말인가? 대단하군.
+21000031,,하늘에서는 뭘 낚을 수 있을까…?
+21000032,,"어차피 강에서도 아무 것도 못 낚는데, 하늘에라도 낚싯대를 던져볼까?"
+21000041,,천공섬 마그나딘까지 먼 여행길 오시느라 출출하시죠~?
+21000042,,잘 구워진 마그나딘 특제 호밀빵이 있습니다~ 어서 오세요~
+21000051,,마그나딘이 일반인에게 공개된 기념으로 특별 주문서를 판매합니다!
+21000052,,아직 일반인에게는 공개되지 않은 특별한 주문서입니다!
+21000061,,은빛 용병단의 눈부신 업적이 기록된 책입니다!
+21000062,,이 책을 집필하기 위해 수많은 은빛 용병단과 함께 했답니다.
+21000071,,자! 빨리 일해요 일! 하딘님께서 나머지 구역을 공개하기 전에 끝내야 합니다!
+21000072,,여기 상업 지구 외에도 마그나딘은 엄청나게 넓다고요!
+21000081,,천공에 빛나는 영혼… 은빛으로 날개짓하네~
+21000082,,그 찬란한 빛 아래… 스며든 온기 속에~ 새로운 희망이 잉태하네~
+21000091,,너무 뛰어다니지 말거라~ 그러다 다쳐~
+21000092,,"후후, 보고만 있어도 정말 귀여운 손녀랍니다."
+21000101,,천공섬~ 마그나딘~
+21000102,,하늘을~ 난다~ 마그나딘~
+21000111,,천공섬이라니… 너무 낭만적이에요!
+21000112,,"우리, 여기서 결혼식도 올릴 거죠?"
+21000121,,"글쎄, 이 마그나딘은 거인의 힘으로 떠 있는 거래!"
+21000122,,굉장하지 않아? 거인의 힘으로 하늘에 떠 있다니….
+21000131,,진짜? 거인의 힘으로? 대단하다!
+21000132,,거인은 도대체 어떻게 생겼을까?
+21000141,,이 거대한 도시가 떠오를 정도의 힘이라니….
+21000142,,도대체 거인들은 어떤 문명을 가지고 있었을까요?
+21000151,,"대륙… 아니지, 천공 최고의 펫을 구경하세요!"
+21000152,,그 어디서도 보지 못한 당신만을 위한 펫이 기다리고 있습니다!
+210000011,,자네 짐이 너무 무거워 보이는군!
+210000012,,물건 좀 맡기고 가지 그러나!
+210002401,,거기 너! 그러다 어깨 내려앉겠다옹! 이리 맡기고 가라옹!
+210002402,,쓸데없이 무슨 짐이 그리 많냐옹? 여기에 맡기라옹~

@@ -1,7 +1,0 @@
-﻿TaskCondition,TaskType,Order,StayTime,BackGroundResource,VisualEffectId,Sound
-1,0,1,4,BP_AcquireItemDirectionBronze,105,UI_Reward_Item
-2,0,2,4,BP_AcquireItemDirectionSilver,105,UI_Reward_Item
-3,0,3,4,BP_AcquireItemDirectionGold,105,UI_Reward_Item
-4,0,7,4,BP_FieldBossContributionReward,106,UI_Reward_Boss
-5,0,10,4,BP_WorldBossContributionReward,106,UI_Reward_Boss
-6,0,5,4,BP_FinalAttackDirection,107,UI_Reward_Boss

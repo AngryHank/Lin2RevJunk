@@ -37,7 +37,7 @@ Id,GuideQuestGroupId,Rank,RequiredId,TaskType,TaskCount,RewardType,RewardItemInf
 31115,32,1,31114,91,15,6,490033,50,http://guide.netmarble.com/lin2ws#cont/1447
 31116,32,1,31115,97,10,6,1001100,10,http://guide.netmarble.com/lin2ws#cont/1447
 31117,32,1,31116,52,1,6,30919001,3,http://guide.netmarble.com/lin2ws#cont/1447
-31118,32,1,31117,71,1,1,490002,20000,http://guide.netmarble.com/lin2ws#cont/1447
+31118,32,1,31117,242,1,1,490002,20000,http://guide.netmarble.com/lin2ws#cont/1447
 31119,32,1,31118,90,1,6,420003,5,http://guide.netmarble.com/lin2ws#cont/1447
 31120,32,1,31119,12,31,6,910220,1,http://guide.netmarble.com/lin2ws#cont/1447
 31121,32,1,31120,15,1,6,910204,1,http://guide.netmarble.com/lin2ws#cont/1447
@@ -61,7 +61,7 @@ Id,GuideQuestGroupId,Rank,RequiredId,TaskType,TaskCount,RewardType,RewardItemInf
 31218,33,1,31217,21,10,1,490002,30000,http://guide.netmarble.com/lin2ws#cont/1468
 31219,33,1,31218,81,100,6,1000101,1,http://guide.netmarble.com/lin2ws#cont/1468
 31220,33,1,31219,53,3,6,910227,1,http://guide.netmarble.com/lin2ws#cont/1468
-31221,33,1,31220,71,3,6,910144,1,http://guide.netmarble.com/lin2ws#cont/1468
+31221,33,1,31220,242,3,6,910144,1,http://guide.netmarble.com/lin2ws#cont/1468
 31301,34,1,,12,50,6,911006,3,http://guide.netmarble.com/lin2ws#cont/1698
 31302,34,1,31301,109,1,6,911005,1,http://guide.netmarble.com/lin2ws#cont/1698
 31303,34,1,31302,198,1,1,490002,50000,http://guide.netmarble.com/lin2ws#cont/1698

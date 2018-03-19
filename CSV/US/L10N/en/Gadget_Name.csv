@@ -4,6 +4,7 @@ Id,Name,ControlText
 1204,@1202,
 1205,@1202,
 1206,Ant Nest 2,
+1218,@1206,
 1207,Ivory Tower Floor 1 Guide Arrow,
 1208,Ivory Tower Floor 3 Guide Arrow,
 1209,Ivory Tower Floor 1 Obstacle,
@@ -14,6 +15,30 @@ Id,Name,ControlText
 1215,@1214,
 1216,Gran Kain’s Sanctuary: Ivory Tower Catacomb Laboratory,Absorbing Gran Kain’s energy...
 1217,Gran Kain’s Sanctuary: Forest of Secrets Slaughter Site,@1216
+1219,Cruma Tower 2nd floor Arrow,
+1220,Cruma Tower 3rd floor Arrow,
+1221,Zaken's Ghost Ship,
+1222,@1221,
+211010101,Event-exclusive Cruma Tower Blockade Gadget,
+211010201,Event-exclusive Cruma Tower Exit Gadget,Control System in use
+82601,Event-exclusive Cruma Tower Entrance Gadget (Quests),@211010201
+82701,Event-exclusive Cruma Tower Entrance Gadget,@211010201
+211010301,Giant’s First Research File,Checking Giant’s Research Files...
+211010401,Giant’s Second Research File,@211010301
+211010501,Giant’s Third Research File,@211010301
+211010601,Giant’s Fourth Research File,@211010301
+211010701,Giant’s Box,Retrieving Giant’s Box...
+211010801,Empty Giant’s Monster Box,You do not spot any boxes.
+211010901,Fallen Hardin,Waking Hardin...
+211011001,Core Floor,
+211011101,Barrier Removal Device 1 - Activation,Tinkering with the power device...
+211011201,Barrier Removal Device 1 - Deactivation,
+211011301,Barrier Removal Device 2 - Activation,@211011101
+211011401,Barrier Removal Device 2 - Deactivation,
+211011501,Giant’s Fifth Research File,@211010301
+211011601,Giant’s Sixth Research File,@211010301
+211011701,Giant’s Seventh Research File,@211010301
+211011801,Giant’s Eighth Research File,@211010301
 1958,Sanctuary Wall,
 1959,@1958,
 1960,@1958,
@@ -1260,6 +1285,14 @@ Id,Name,ControlText
 115701,Theodore Teleportation Circle,
 115801,@111701,@111701
 115901,@111701,@111701
+116001,@12001,@12001
+116101,Kneeling Alexander,
+116201,@116101,
+116301,@116101,
+116401,Fallen Black Smoke Alexander,
+116501,Fallen Mutated Alexander,
+116601,Kneeling Abelino,
+116701,@12001,@12001
 120101,@20101,Opening inventory...
 120201,Discarded Weapon,Checking weapon...
 120301,Discarded Cloak,@10601
@@ -1419,6 +1452,8 @@ Id,Name,ControlText
 139909,@139901,
 139910,Keep of Agony Steel Bar,
 139911,@139910,
+138001,Zaken Level Line,
+4020101,@138001,
 140101,Aftermath of Battle,Investigating discarded weapon...
 140102,@140101,@140101
 140103,@140101,@140101
@@ -1483,7 +1518,7 @@ Id,Name,ControlText
 142406,@142101,@142401
 142407,@142101,@142401
 142408,@142101,@142401
-142601,Treasure,Searching for Gemstone of Dimensions...
+142601,Treasure,Searching for Gemstone...
 142602,@142601,@142601
 142603,@142601,@142601
 142801,@12001,@140601
@@ -1504,7 +1539,7 @@ Id,Name,ControlText
 143201,Celin's Body,Collecting Celin's Body...
 143301,@12001,@140601
 143401,@12001,@140601
-143501,@143101,Imbuing essence into protection tree...
+143501,@143101,Imbuing essence...
 143701,Chuking,
 143801,@40301,Collecting soldier's body...
 143802,@40301,@143801
@@ -2503,3 +2538,54 @@ Id,Name,ControlText
 100170201,Dark Soulstone,Investigating Soulstone...
 100170301,@100170201,@101101
 100170401,Dorothy’s Money Bundle,Searching Dorothy’s Money Bundle
+3010001,Pirate Stronghold Main Entrance,
+3010011,Tark’s Prison,Opening the prison door...
+3010021,@13101,
+3010041,Vampire Bloodstain,Applying Vampire Bloodstains to the body...
+3010042,@3010041,@3010041
+3010043,@3010041,@3010041
+3010044,@3010041,@3010041
+3010051,@10301,Lighting a stick on fire...
+3010061,Leech Phlegm,Lighting phlegm on fire...
+3010071,Countess’s Boudoir Door,Opening the door with a key...
+3010081,Treasure Chest: Random,Opening Treasure Chest...
+3010090,Treasure Chest: Fixed,@3010081
+3010084,Trisha’s Diary: Page 1,Viewing contents of the book...
+3010085,Trisha’s Diary: Page 2,@3010084
+3010086,Trisha’s Diary: Page 3,@3010084
+3010087,Trisha’s Diary: Page 4,@3010084
+3010088,Trisha’s Diary: Page 5,@3010084
+3010089,Trisha’s Diary: Page 6,@3010084
+3010091,Pirate’s Desk,Searching for the prison keys...
+3010101,Injured Tark,
+3010111,Trisha’s Letter,Reading the letter...
+3010112,Zaken’s Directive,Reading the directive...
+30000101,Area 1 Exit,
+30000201,Area 2 Exit,Arming the bomb...
+30000202,@30000201,@30000201
+30000203,@30000201,@30000201
+30000301,Area 3 Exit,@30000201
+30000302,@30000301,
+30000303,@30000301,@30000201
+30000304,@30000301,
+30000401,Area 4 Exit,
+30000501,Sealed Altar Door,
+30000601,Laenis’s Prison,@3010011
+30000701,@13101,
+30000801,Extinguished West Signal Fire,
+30000901,Extinguished East Signal Fire,
+30001001,West Signal Fire,Extinguishing the Signal Fire...
+30001101,East Signal Fire,@30001001
+30001201,Village Entrance Barricade,
+30001401,@3010090,@3010081
+30001402,@3010081,@3010081
+1040001,Event Box: Magnadin,Picking lock...
+1040002,@1040001,Picking lock...
+1040003,@1040001,Picking lock...
+1040004,@1040001,Picking lock...
+1040005,@1040001,Picking lock...
+1040006,@1040001,Picking lock...
+1040007,@1040001,Picking lock...
+1040008,@1040001,Picking lock...
+1040009,@1040001,Picking lock...
+1040010,@1040001,Picking lock...

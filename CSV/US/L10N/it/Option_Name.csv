@@ -1,0 +1,66 @@
+Id,Description
+1,Imposta la risoluzione del gioco. Il gioco potrebbe funzionare meglio con impostazioni più basse.
+2,Imposta il campo visibile. Il gioco potrebbe funzionare meglio con impostazioni più basse.
+3,Regola il modo in cui vengono resi i bordi facilmente. Gli oggetti appariranno più grezzi con impostazioni più basse ma il gioco potrebbe funzionare meglio.
+4,Imposta dettagli trama. Il gioco potrebbe funzionare meglio con impostazioni più basse.
+5,Imposta qualità ombra. La grafica apparirà più realistica con impostazioni più alte.
+6,Imposta la sincronizzazione verticale. La grafica apparirà più realistica con impostazioni più alte.
+7,@5
+8,Imposta dettagli trama. Il gioco potrebbe funzionare meglio con impostazioni più basse.
+9,Texture Livello LOD
+10,Imposta il rapporto di risoluzione.
+11,Esegue un prepass nella Lista.
+12,Imposta la visibilità della tua ombra.
+13,Imposta i fotogrammi video.
+14,Imposta la qualità della grafica relativa all’utilizzo APU.
+15,Imposta la qualità della grafica relativa all’utilizzo della memoria.
+16,Imposta la qualità del canale audio.
+17,Imposta il target di visualizzazione effetto.
+18,Imposta se mostrare i nomi degli altri giocatori.
+19,Imposta il numero massimo di giocatori visualizzati sul tuo schermo.
+20,Imposta l’equipaggiamento visualizzato sul tuo schermo.
+21,Imposta se mostrare i mantelli.
+22,"Imposta il Livello di Trasmissione Potenziamenti (potenziamento avvenuto, potenziamento fallito)."
+23,Imposta il volume del suono generale.
+24,Imposta il volume del suono di sfondo.
+25,Imposta il volume degli effetti sonori.
+26,Imposta il volume della voce degli attori.
+27,Attiva feedback vibrazione.
+28,Consente di attivare la funzione automatica di attivazione/disattivazione del tuo dispositivo.
+29,Attiva la funzione di riproduzione automatica della chat vocale.
+30,Puoi attivare tutte le notifiche del gioco.
+31,Ricevi le notifiche del gioco.
+32,Ricevi le notifiche di avviso di gioco.
+33,Disattivandolo blocca tutte le notifiche tra le 21:00 e le 8:00.
+34,Disattiva questa opzione per disabilitare le notifiche pop-up (ad eccezione delle notifiche con alta priorità).
+35,Disattiva questa opzione per disabilitare le notifiche pop-up di chat 1:1.
+36,Disattiva questa opzione per disabilitare le notifiche pop-up di chat del clan.
+37,Disattiva questa opzione per disabilitare le notifiche pop-up di chat del gruppo.
+44,Imposta i PS in cui usare Pozioni PS automaticamente.
+45,Imposta i PM in cui usare Pozioni PM automaticamente.
+46,Imposta la percentuale di PS in cui usare abilità di guarigione automaticamente.
+47,Imposta l’ordine di pozioni da usare quando si usano Pozioni PS automaticamente.
+48,Imposta l’ordine di pozioni da usare quando si usano Pozioni PM automaticamente.
+49,Visualizza Campo d’Attacco Normale
+50,Imposta il campo in cui il personaggio si sposta durante la Battaglia automatica.
+51,Imposta il grado minimo per acquisire equipaggiamento.
+52,Mostra il bersaglio attuale o il bersaglio scelto dal giocatore.
+53,Mostra i PS del bersaglio in vari modi.
+54,Mettiti in salvo quando incontri Mostri Élite o più grandi mentre sei in Battaglia automatica.
+55,Acquisisci oggetti di almeno questo grado. (Non otterrai oggetti di grado più basso.)
+56,
+57,
+58,
+59,Imposta l’area di controllo dei comandi digitali-analogici ad un’area fissa dello schermo.
+60,Traduce i messaggi della chat nella lingua usata nel gioco.
+61,Imposta quali lingue verranno o non verranno tradotte nella chat.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

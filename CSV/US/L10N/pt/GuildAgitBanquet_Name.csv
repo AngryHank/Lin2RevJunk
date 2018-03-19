@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Banquete pequeno,"Um Banquete Pequeno feito por um Guardião do Banquete Novato.
+Def. e Def. M. +500"
+2,Banquete médio,"Um Banquete Médio feito por um Guardião do Banquete Novato.
+PV/PM +1000"
+3,Banquete grande,"Um Banquete Grande feito por um Guardião do Banquete Novato.
+Atq. e Atq. M. +500"
+4,Banquete extravagante pequeno,"Um Banquete Pequeno feito por um Guardião do Banquete Veterano.
+Def. e Def. M. +1200"
+5,Banquete extravagante médio,"Um Banquete Médio feito por um Guardião do Banquete Veterano.
+PV/PM +2000"
+6,Banquete extravagante grande,"Um Banquete Grande feito por um Guardião do Banquete Veterano.
+Atq. e Atq. M. +1200"
+7,Banquete de luxo pequeno,"Um Banquete Pequeno feito por um Guardião do Banquete Honorável.
+Def. e Def. M. +2000, Taxa de crít. +500"
+8,Banquete de luxo médio,"Um Banquete Médio feito por um Guardião do Banquete Honorável.
+PV/PM +3000, Taxa de crít. +500"
+9,Banquete de luxo grande,"Um Banquete Grande feito por um Guardião do Banquete Honorável.
+Atq. e Atq. M. +2000, Taxa de crít. +500"

@@ -1,0 +1,108 @@
+Index,Name
+1,Sersemlet
+2,Yakma
+3,Güç Şerbeti Testi
+4,@2
+5,Zehirleme
+6,@5
+7,Aşırı Isınma
+8,@5
+9,Seviye Yükseltme Etkisi
+10,Evet Testi
+11,Birim Testi
+12,Can Testi
+13,Mana Kalkanı Testi
+14,Hayır Testi
+15,Lanet Testi
+16,Kan Testi
+17,Yakma Testi
+18,Sersemletme Testi
+19,Kışkırtma Testi
+20,Mutlak Kalkan
+21,Ölümsüzlük Güçlendirmesi
+22,Dayanıklılık Güçlendirmesi
+23,Zeka Güçlendirmesi
+24,Ratel Hızı
+25,Ratel Toplama Hızı
+26,Ratel Toplama Miktarı
+27,Bahçe Nöbetçisi
+28,Güç Şerbeti Başlangıç Etkisi
+29,Can Yenileyici Kullanım Etkisi
+30,Mana Yenileyici Kullanım Etkisi
+31,Sınıf Geçişi Etkisi
+32,@31
+33,Tapınak Alanı Güçlendirmesi 1
+34,Tapınak Alanı Güçlendirmesi 2
+35,Tapınak Alanı Güçlendirmesi 3
+36,Tapınak Alanı Güçlendirmesi 4
+37,Tapınak Alanı Güçlendirmesi 5
+38,Varkaron Kalkanı
+39,Cani Varkaron
+40,Cani Varkaron (Silah)
+41,"Lord’un Takdiri Güçlendirmesi 1 (Can, Mana)"
+42,"Lord’un Takdiri Güçlendirmesi 2 (TP, Öz)"
+43,"Lord’un Takdiri Güçlendirmesi 3 (Adena, Eşya)"
+44,Lord’un Takdiri Güçlendirmesi Kamera
+45,Maks Mana Artışı
+46,Maks Can Artışı
+47,Svn. Artışı
+48,Hız Artışı
+49,Sldr. Hızı Artışı
+50,Sldr. Artışı
+51,Cani Kraliçe Karınca
+52,Karınca Zaman Bombası 1
+53,Karınca Zaman Bombası 2
+54,Karınca Zaman Bombası 3
+55,Karınca Zaman Bombası 4
+56,Karınca Zaman Bombası 5
+57,Karınca Zaman Bombası 6
+58,Cruma Çekirdeği: Zehirleme
+59,Cruma Çekirdeği: Sessizlik
+60,Cruma Çekirdeği: Zihin Kontrolü
+61,Kraliçe Karınca Bariyeri
+62,Birlik Kristali: Temel
+63,Birlik Kristali: Kategori 1
+64,Birlik Kristali: Kategori 2
+65,Birlik Kristali: Kategori 3
+66,Binme/İnme Etkisi
+67,Marsha’nın Yetenek Etkisi
+68,Klan Meydanı Yenileyici Kullanım Etkisi
+69,Klan Meydanı Yenileyici: Moral Arttırıcı
+70,Klan Meydanı Yenileyici: Buz Fırtınası
+71,Klan Meydanı Yenileyici: Can Yenilemesini Arttırıcı
+72,Klan Meydanı Yenileyici: Anti-Büyü
+73,Bağlama
+74,Yakın Dövüş Hasar Aurası (Zamanlı)
+75,Su Kristali Bariyeri
+76,Öfke Grubu
+77,Alaşağı Etme
+78,Yetenek Hasarı Artışı
+79,@74
+80,@75
+81,@76
+82,@77
+83,Delme Hasarı
+84,Marlox'un İblisi Bitkinliği
+85,Rüzgar Sunağı Kahramanı
+86,Toprak Sunağı Kahramanı
+87,Anemi
+88,Vampirleşme Kategori 1
+89,Vampirleşme Kategori 2
+90,Vampirleşme Kategori 3
+91,Vampirleşme Kategori 4
+92,Vampirleşme Kategori 5
+93,Vampirsel Değişim
+94,Ramog_Ateşleme Zayıflatması
+95,Ramog_Patlama Hazır Kişisel Zayıflatma
+96,Havai Fişek Etkisi 1
+97,Havai Fişek Etkisi 2
+98,Havai Fişek Etkisi 3
+99,Havai Fişek Etkisi 4
+100,Zorla Can Çalma
+101,Pelerin Etkisi: PVE saldırısına Dirençli Bariyer
+102,Pelerin Etkisi - PVP Nadir Yetenek Bariyeri
+103,Zaken Cinneti
+104,Zaken Değişimi
+105,Alan Ödülü
+106,Baş Düşman Katkı Ödülü
+107,Baş Düşman Son Hasarı

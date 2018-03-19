@@ -1,0 +1,45 @@
+Id,Description
+1,Añade [Param] daño de bonificación al daño final al atacar a monstruos normales
+2,Añade [Param] daño de bonificación al daño final al atacar a monstruos de élite
+3,Añade [Param] daño de bonificación al daño final al atacar a jefes
+4,Añade [Param] daño de bonificación al daño final al atacar a jugadores
+5,Reduce el daño final de monstruos normales en [Param]
+6,Reduce el daño final de monstruos de élite en [Param]
+7,Reduce el daño final de jefes en [Param]
+8,Reduce el daño final de jugadores en [Param]
+9,Aumenta la amplificación de la tasa de resistencia a aturdimiento y derribo en [Param]
+10,DEFM +[Param]
+11,Aumenta la amplificación de la tasa de resistencia a lentitud en [Param]
+12,Aumenta la tasa de críticos Amplificación de la tasa de resistencia en [Param]
+13,Velocidad +[Param]
+14,Aumenta la duración del combo en [Param] segundos
+15,Añade [Param] daño de bonificación al usar habilidades de ataque normales
+16,Añade [Param] daño de bonificación al daño final al atacar a monstruos mágicos
+17,Reduce el daño final de monstruos mágicos en [Param]
+19,Añade [Param] daño de bonificación a monstruos al usar habilidades de ataque normales
+20,Añade [Param] recuperación de bonificación al usar habilidades de recuperación normales
+101,[Param] daño bonif. contra monst. normales
+102,@101
+103,@101
+104,[Param] daño bonif. contra jefes
+105,@104
+106,@104
+107,Daño de otros jugadores -[Param]
+108,@107
+109,[Param] daño bonif. contra otros jugadores
+110,@109
+111,Daños de monstruos normales -[Param]
+112,@111
+113,[Param] daño bonif. contra monst. élite
+114,@113
+115,Daños de monstruos élite -[Param]
+116,@115
+117,Daño de jefes -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] daño bonif. contra estructuras de asedio al castillo.
+204,@113
+205,@104
+206,Añade [Param] daño de bonificación al atacar a monstruos mágicos
+301,Aumenta la vel. de ATQ un [Param] en el campo de batalla.

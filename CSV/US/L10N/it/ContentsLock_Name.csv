@@ -1,0 +1,100 @@
+Id,ContentsDesc,Name
+1,Migliora l’efficacia del tuo equipaggiamento in vari modi.,Fucina
+2,Inserisci il potere di altre anime nella tua arma per effettuare potenti attacchi.,Colpo d’Anima
+3,,Segreta
+4,Puoi trovare vari boss e ricompense in queste segrete ogni giorno della settimana.,Segreta giornaliera
+5,La quantità di ricompense aumenta in base alla quantità di superficie di Aden che esplori.,Traguardo
+6,,Amico
+8,Acquisisci un Equipaggiamento di Grado A o un altro migliore di grado alto ogni giorno.,Scatola Equipaggiamento di grado alto
+10,Metti alla prova la tua potenza contro vari avventurieri di Aden.,Arena
+11,,Classifica
+12,Combina due equipaggiamenti per acquisirne uno di grado più elevato.,Combina
+13,Migliora l’efficacia del tuo equipaggiamento usando le Pergamene di Potenziamento.,Potenzia
+14,,Clan
+15,Scala una torre infinitamente alta per mettere alla prova i tuoi limiti.,Torre dell’Insolenza
+16,Imprimi rune per potenziare le tue abilità permanentemente.,Incisione Rune
+17,Aumenta il grado dell’equipaggiamento preservandone l’estetica e le sottostatistiche.,Upgrade
+18,,Attività giornaliere
+19,,Quest giornaliere
+20,,Quest settimanali
+21,Incastona una gemma ripiena d’anima e acquisisci un’abilità speciale.,Cristallo dell’Anima
+22,Mettiti alla prova in una segreta estremamente pericolosa ma che da grandi soddisfazioni.,Segreta Élite
+23,,Rovine Elfiche 1
+24,Raccogli Essenze dai mostri per acquisire varie ricompense.,Codex dei Mostri
+25,"Per quanto siano difficili da acquisire, puoi usare abilità potenti.",Abilità rara
+27,,Mercato
+28,Bevi gli Elisir per potenziare le tue abilità permanentemente.,Elisir
+29,Puoi estrarre erbe usate per creare Elisir qui.,Segreta di Estrazione
+30,Trova automaticamente nemici intorno a te contro cui combattere.,Battaglia automatica
+40,Questo è il titolo.,Titolo
+101,,Segreta giornaliera (normale)
+102,,Rovine Elfiche 2
+103,,Passaggio di Classe
+104,,Segreta giornaliera (Difficile)
+105,,Nido di Formiche 1
+106,,Nido di Formiche 2
+107,,Segreta giornaliera (Molto difficile)
+108,,Torre di Cruma 2
+109,,Torre di Cruma 3
+110,,Torre d’Avorio 1
+111,,Torre d’Avorio 2
+112,Sconfiggi orde di mostri e raccogli enormi quantità di Esp.,Segreta Esp.
+113,Sconfiggi il drago che protegge l’oro e raccogli enormi quantità di Adena.,Segreta di Adena
+114,Difendi il tempio dalle forze del male e ricevi equipaggiamento.,Tempio Guardiano
+115,,Cerchio di Evocazione
+116,,Segreta del clan di Varkaron
+117,,Segreta del Clan della Formica Regina
+118,,Assedio della Fortezza
+119,,Assedio del Castello
+120,Aumenta i livelli abilità per migliorarne gli effetti.,Aumento di livello Abilità
+121,Distruggi la porta dimensionale difesa dai mostri.,Segreta Lavorazione Pietre
+122,,Inventario
+123,,Essenza di Cruma
+126,,Sala del Clan
+127,,Completa Torre d’Avorio 3
+129,,Cavalcature
+130,,Campo di Battaglia Valoroso
+131,,Antico Campo di Battaglia
+132,,Volta della Foresta dei Segreti
+133,,Laboratorio Catacomba della Torre d’Avorio
+134,,Sottobosco della Foresta dei Segreti
+135,,Macello della Foresta dei Segreti
+137,,Mantello
+138,,Assedio aperto
+10000,Non puoi usare questa funzionalità.,Personaggio
+10003,@10000,Classe
+10006,@10000,Officina
+10007,@10000,Quest
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Evento
+10013,@10000,Ricompensa di Sospensione
+10014,@10000,Ricompensa d’accesso
+10015,@10000,Festival Assedio del Castello
+10016,@10000,Evento web
+10017,@10000,Negozio comune
+10018,@10000,Negozio di Diamanti
+10019,@10000,Negozio di Raccolta
+10021,@10000,Campo di Battaglia
+10022,@10000,@14
+10023,@10000,Segreta del Clan
+10029,@10000,Vendi oggetto
+10030,@10000,Usa oggetto
+10031,@10000,Sposta oggetto
+10032,@10000,Pergamena
+10034,@10000,Aumenta di livello l’Equipaggiamento Cavalcatura
+10035,@10000,Evoca Cavalcatura
+10036,@10000,Aumenta di livello la Cavalcatura
+10037,@10000,Dettagli sottostatistiche
+10038,@10000,Forum della community
+10039,@10000,Potenzia Cavalcatura
+20001,,Altare della Follia
+20002,,Camera della Contessa di Sangue
+401,@10000,Negozio di Padronanza
+10040,@10000,Sottostatistiche Account
+301,,@122
+303,,@122
+30000,,Pergamene della Quest
+30102,Usa per evocare i mostri del territorio selezionato e ottenerne l’Essenza.,Territorio di Gludio - Pietra di evocazione Mostro
+30103,Usa per evocare i mostri del territorio selezionato e ottenerne l’Essenza.,Territorio di Dion - Pietra di evocazione Mostro
+30104,Usa per evocare i mostri del territorio selezionato e ottenerne l’Essenza.,Territorio di Giran - Pietra di evocazione Mostro

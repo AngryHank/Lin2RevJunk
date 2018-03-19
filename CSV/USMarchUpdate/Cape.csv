@@ -1,7 +1,0 @@
-﻿Id,Name,CapeType,Description,IconTexture,MaxLevel,OptionCount,AcquireLevel,AcquireCapeInfoId,AcquireCapeLevel,AcquireCondition,AcquireConditionValue,ActivateItem,ActivateItemValue,OptionChangeItem,OptionChangeCount,OptionChangeCashCost,ChangeOptionGroup
-70001,결의의 망토,1,혈맹망토,,30,3,75,,,7,,,,,,,
-71001,모험가의 망토,0,착용효과 - EXP증가,,30,3,75,,,0,,1300001,1,1303001,1,,71001101
-71002,토벌의 망토,0,착용효과 - 피의마물 처치시 아이템 드랍,,30,3,75,,,0,,1300002,1,1303001,1,,71002101
-71003,정원의 망토,0,착용효과 - 채집시 처치시 아이템 드랍,,30,4,75,,,0,,1300003,1,1303001,1,,71003101
-71006,붉은 파멸의 망토,0,착용효과 - PVE에서 스킬 배리어,,30,5,75,,,0,,1300006,1,1303002,1,,71006101
-71007,고결한 피의 망토,0,착용효과 - PVP에서 스킬 배리어,,30,5,75,,,0,,1300007,1,1303003,1,,71007101

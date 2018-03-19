@@ -1,0 +1,134 @@
+Id,ActName,ChapterName
+1,1. Isola Parlante Est,Nascita di un Eroe
+2,@1,L’Oscurità affiora
+3,@1,La prima barriera
+4,@1,Amico di Niah
+5,@1,Raduno Cacc. di Orchi
+6,@1,Offuscamento
+7,@1,Fortuna sfacciata
+8,@1,Diadema elfico
+9,@1,Episodio incredibile
+10,@1,La 2° barriera
+11,@1,Sparizione di Niah
+12,2. Isola Parlante Ovest,Tracce archeologi
+13,@12,Ricerca in corso!
+14,@12,Senza pietà
+15,@12,Caccia all’uomo
+16,@12,La 3° barriera
+17,@12,Non lasciar andare
+18,@12,Quell’individuo
+19,3. Strada Gludin,Emergenza!
+20,@19,Via al contrattacco!
+21,@19,Incidente sospetto
+22,@19,Prove scoperte!
+23,@19,Signora solitaria
+24,@19,Tragedia
+25,@19,Morte al sequestrat.
+26,@19,Volti cordiali
+27,@19,Avidità
+28,@19,Bastone e carota
+29,4. Piane di Gludio,Incassa finché puoi
+30,@29,Villaggio derubato
+31,@29,Scappa!
+32,@29,"2° plotone, pericolo"
+33,@29,Divisione
+34,@29,Cose familiari
+35,@29,Certo!
+36,@29,Finale previsto
+37,@29,Non c’è tempo!
+38,@29,Eroe di Gludio
+39,5. Maniero Windawood,Soldati dispersi
+40,@39,Salvataggio!
+41,@39,Ricongiungimento
+42,@39,Battaglia decisiva
+43,@39,Lotta del Cristallo
+44,@39,Uomo Misterioso
+45,@39,Demone Antico
+46,@39,Vendicare Windawood
+47,@39,Suono del contratt.
+48,@39,Battaglia finale
+49,6. Terra Incolta,Stregone Torre Avorio
+50,@49,Povero Stregone
+51,@49,Svela la verità
+52,@49,Staris
+53,@49,In memoria dei morti
+54,@49,Ambulanti insoliti
+55,@49,A metà strada
+56,@49,Disputa Ol Mahum
+57,@49,Fermare ribellione
+58,@49,Momenti personali
+59,7. Piane di Dion,Imboscata di Orchi
+60,@59,Lettera sospetta
+61,@59,Inv. Uomini Lucertola
+62,@59,Ragazza con amnesia
+63,@59,Un luogo sicuro
+64,@59,Alla ricerca di Elie
+65,@59,Motivo di confusione
+66,@59,Scontro Soldato Dion
+67,@59,Bersaglio Confr. Oscura
+68,8. Palude di Cruma,Ragni in aumento
+69,@68,Volto cordiale
+70,@68,Confr. Oscura palude
+71,@68,Tradimento!
+72,@68,Ricercatori attaccati
+73,@68,Ricerca della chiave
+74,@68,Alla Torre di Cruma
+75,@68,Trappola
+76,@68,Gatto sospettoso
+77,9. Sommità della Dissonanza,Cacc. della foresta
+78,@77,Ospite indesiderato
+79,@77,Al Capo Tanor
+80,@77,@78
+81,@77,Tanor d’Onore
+82,@77,Piano autentico
+83,@77,Nemico pubblico
+84,@77,Potere De Facto
+85,10. Santi Urlanti,Per chi non c'è più
+86,@85,Sfida infinita
+87,@85,Volto familiare
+88,@85,Non dovrebbe esserci
+89,@85,La morte è vicina
+90,@85,Trappola crudele
+91,@85,Contratto
+92,@85,Dormi ancora
+93,@85,Gli affari procedono
+94,11. Dominio di Giran,Si inizia a vendere
+95,@94,Ricompensa del gatto
+96,@94,Ricerca Fratello I
+97,@94,Ricerca Fratello II
+98,@94,Regina Gorgone
+99,@94,Scatola di Pandora
+100,@94,Passato sigillato
+101,@94,Occultamento
+102,@94,Delegazione scomparsa
+103,@94,Salva la delegazione
+104,12. Rive della Nebbia Mortale,La vendetta di Pan
+105,@104,U. trasporto svanita
+106,@104,Svela la verità
+107,@104,Fuga realistica
+108,@104,Riorganizzazione
+109,@104,Consegna oggetto
+110,@104,La traccia di Gnosis
+111,@104,Torpore eterno
+112,@104,La ricerca continua
+113,@104,Porto oscuro
+114,@104,Ciurma resuscitata
+115,13. Isola del Diavolo,Reparto Avanguardia
+116,@115,Strano comportamento
+117,@115,Luogo in cui tornare
+118,@115,Tragedia I
+119,@115,Passato della Ciurma
+120,@115,Ira di Frederick I
+121,@115,Tragedia II
+122,@115,Ira di Frederick II
+123,@115,Tristi notizie
+124,14. Necropoli Infestata,Salva deleg. Oren
+125,@124,Non si può morire!
+126,@124,Albero Protettivo
+127,@124,Fantasma del passato
+128,@124,Ricordi morti
+129,@124,Nota per il futuro
+130,@124,Pan è Pan
+131,@124,Sorveglianti
+132,@124,Spada dello spirito
+133,@124,Speranza affiorata

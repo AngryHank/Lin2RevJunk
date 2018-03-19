@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,凝聚水晶,水晶等级 : [CrystalLevel],"提供增益效果给所有血盟成员的
+神秘的水晶。"
+2,任务管理者,正在进行的任务：[ProgressQuestCount]个/已完成的任务：[CompleteQuestCount]个,"从简单的任务到困难的任务!
+介绍任务管理人。"
+3,宴会管理员,小型晚宴：[SmallDinnerActivity]/中型晚宴：[MiddleDinnerActivity]/大型晚宴：[BigDinnerActivity],"一起同乐!
+请感谢厨师。"
+4,遗物管理者,鉴定中的遗物 : [ProgressArtifactCount]  /  鉴定完成遗物 : [CompleteArtifactCount],"让我鉴定神秘的遗物
+我会告诉你它真正的价值。"
+5,药水管理者,可制作个人药水 : [PotionAvaliableCount],随时随地都可制作的有用药水
+6,壁炉,持有的木材: [WoodCount]  /  壁炉状态 : [FirePlaceActivity],"当壁炉点火时，
+可以跟据点的血盟成员
+一起获得经验值。"
+7,捕捉菲斯,即将更新。,"会出现弄乱据点的精灵!
+抓住他们获得奖励吧。"

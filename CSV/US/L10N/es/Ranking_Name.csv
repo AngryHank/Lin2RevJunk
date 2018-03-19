@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Poder de combate,Rango de poder de combate,Poder de combate
+1,Nivel,Rango de nivel de personaje,Nivel
+2,ATQF,Rango de ATQF máx.,ATQF
+3,DEFF,Rango de DEFF máx.,DEFF
+4,ATQM,Rango de ATQM máx.,ATQM
+5,DEFM,Rango de DEFM máx.,DEFM
+6,PV,Rango de PV máximos,PV
+7,Impronta de runas,Rango de número de impronta de runas exitosas,Recuento
+8,Elixir,Rango de uso de elixir,Número
+9,Códice de monstruo,Rango de códice de monstruo completado,Completado
+10,Nivel total,Rango total de nivel de personaje de servidor,@1
+12,Puntos de honor,Rango de puntos de honor totales,Puntos
+13,Número total,Rango de número de arenas totales,@7
+14,Victorias totales,Rango de número de victorias en arena totales,Victorias
+15,Racha de victorias,Rango de racha de victorias máx.,@7
+18,Contribución semanal,Rango de contribución de clan semanal personal,Pt. con.
+19,Contribución total,Rango de contribución de clan total personal,@18
+20,Contribución a asedios,Rango de contribución de asedio total personal,Contribución
+21,Contr. asedio fortaleza,Rango de contribución personal a Asedio a la fort.  ,@20
+22,Logros de héroe,Rango de puntos por logro de héroe,@12
+27,Conexión,Rango de días totales de conexión,Número de días
+28,Precio máximo de comercio,Rango de comercio de precio máx.,Precio de comercio
+29,Número de comercios,Rango número de comercios máx.,@7
+30,Número de mejoras,Rango de número de mejoras máx.,@7
+31,Conjunto mejorado,Rango de conjuntos mejorados máx.,Número de aplicación
+32,Número de combinaciones,Rango de número de combinaciones máx.,@7
+33,Número de aumentos,Rango de número de aumentos máx.,@7
+34,Superaciones de límite,Rango de número de superaciones de límite máx.,@7
+35,Torre de la insolencia,Rango de planta más alta en Torre de insolencia,Número de planta
+48,Reputación del clan,Rango de reputación del clan,@12
+49,P. comb. clan,Rango de poder de combate del clan,@1001
+1000,Arena de escaramuza,Rango de arena de escaramuza,@12
+4000,Batalla de honor,Rango de batalla de honor general,@12
+4001,@4000,Rango de batalla de honor (Bronce) 3,@12
+4002,@4000,Rango de batalla de honor (Bronce) 2,@12
+4003,@4000,Rango de batalla de honor (Bronce) 1,@12
+4004,@4000,Rango de batalla de honor (Plata) 3,@12
+4005,@4000,Rango de batalla de honor (Plata) 2,@12
+4006,@4000,Rango de batalla de honor (Plata) 1,@12
+4007,@4000,Rango de batalla de honor (Oro) 3,@12
+4008,@4000,Rango de batalla de honor (Oro) 2,@12
+4009,@4000,Rango de batalla de honor (Oro) 1,@12
+4010,@4000,Rango de batalla de honor (Platino) 3,@12
+4011,@4000,Rango de batalla de honor (Platino) 2,@12
+4012,@4000,Rango de batalla de honor (Platino) 1,@12
+4013,@4000,Rango de batalla de honor (Diamante) 3,@12
+4014,@4000,Rango de batalla de honor (Diamante) 2,@12
+4015,@4000,Rango de batalla de honor (Diamante) 1,@12
+4016,@4000,Rango de batalla de honor (Maestro),@12
+4017,@4000,Rango de batalla de honor (Gran maestro),@12
+4018,@4000,Rango de batalla de honor (Leyenda),@12

@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Episódio concluído,Conclua os episódios <RedBold>1-2</>.
+31002,Evolução de equipamento,Tente evoluir os equipamentos <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31003,@31001,Conclua os episódios <RedBold>1-5</>.
+31004,PC,Chegue a <RedBold>[Value]</> de Poder de combate máximo. ([Value1]/[Value2])
+31005,Arena,Desafie a Arena <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31006,Adquira equipamentos,Adquira <RedBold>[Value]</> equipamentos. ([Value1]/[Value2])
+31007,Evoluir habilidade,Evolua habilidades <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Pontos de Conquista,Consiga <RedBold>[Value]</> Pontos de Conquista. ([Value1]/[Value2])
+31010,Presença no clã,Conecte-se ao clã <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31011,Doação de clã,Doe ao clã <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31012,Loja do clã,Comprar bônus de clã <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31013,Entre na Torre da Insolência,Desafie a Torre da Insolência <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31014,Conclusão automática da Torre da Insolência.,Conclua automaticamente a Torre da Insolência <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31015,Marcação de runa,Tente fazer uma marcação de runa <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31016,Combinação de equipamentos,Tente combinar equipamentos <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31017,@31001,Conclua os episódios <RedBold>1-11</>.
+31018,Melhorar equipamento,Tente melhorar equipamentos <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31019,Tarefa diária,Conclua <RedBold>[Value]</> missões diárias. ([Value1]/[Value2])
+31020,@31015,Marque runas com êxito <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Missão semanal concluída,Conclua a Missão Semanal <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31102,Aprimorando equipamentos,Aprimore equipamentos <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Masmorras Elite,Conclua <RedBold>[Value]</> missões de Masmorra Elite. ([Value1]/[Value2])
+31105,Derrote monstros nas Ruínas Élficas 1,Derrote <RedBold>[Value]</> monstros ([Value1]/[Value2]) nas Ruínas Élficas 1
+31106,Adquira núcleo de monstro,Adquira <RedBold>[Value]</> Núcleos de Monstros. ([Value1]/[Value2])
+31107,Registrar núcleos de monstros,Registre <RedBold>[Value]</> Núcleos de Monstros. ([Value1]/[Value2])
+31108,Conclua o Guardião do Templo,Conclua o Guardião do Templo <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31109,Torre da Insolência,Conclua o <RedBold>piso[Value]</> da Torre da Insolência. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,Conclua os episódios <RedBold>3-5</>.
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Poço de Extração,Extraia ervas <RedBold>[Value2]</> vez(es) na Masmorra de Extração. ([Value1]/[Value2])
+31117,Fabricação de elixir,Fabrique um elixir <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31118,Melhorar cristal anímico,Tente melhorar um cristal anímico <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31119,@31001,Conclua os episódios <RedBold>4-4</>.
+31120,Chegue ao nível,<RedBold>Conquista</> o nível 31 ([Value1]/[Value2])
+31121,Transferência de classe concluída,Faça uma <RedBold>Transferência de classe</>.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Masmorra diária concluída,Conclua a masmorra diária <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Derrote os monstros do Formigueiro 1,Derrote <RedBold>[Value]</> monstros ([Value1]/[Value2]) no Formigueiro 1.
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Cofre de adena,Conclua o Cofre de Adena <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,Chegue ao nv. <RedBold>50</>. ([Value1]/[Value2])
+31302,Conclua o Círculo de Invocação,Conclua o Círculo de Invocação <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31303,Equipamento de montaria,Coloque <RedBold>equipamentos na</> montaria. ([Value1]/[Value2])
+31304,Evoluir equipamento de montaria,Tente <RedBold>evoluir o equipamento de montaria [Value]</> vez(es). ([Value1]/[Value2])
+31305,Usar Pedra de Avanço,Use a Pedra de Avanço <RedBold>[Value]</> vez(es) na montaria. ([Value1]/[Value2])
+31306,Aprimorar equipamento de montaria,Aprimore equipamentos de montaria <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31307,Chegar ao nível objetivo da montaria,Chegar ao <RedBold>nível [Value]</> da montaria. ([Value1]/[Value2])
+31308,Melhorar montaria,Melhore a montaria <RedBold>[Value]</> vez(es). ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Adquirir equipamentos de montaria,Adquira <RedBold>[Value]</> equipamentos de montaria grau A ou superior. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,Adquira <RedBold>[Value]</> equipamentos de montaria grau S ou superior. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,Adquira <RedBold>[Value]</> equipamentos de montaria grau R ou superior. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,Provações da experiência,Conclua Provações da Experiência <RedBold>[Value]</> vez(es). ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

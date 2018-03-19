@@ -1,0 +1,241 @@
+Id,Name,Desc
+1,Conquérez les Ruines elfiques 1.,Tuez {TaskCount} lycanthrope(s).
+2,@1,@1
+3,@1,@1
+4,@1,Tuez {TaskCount} desmodus.
+5,@1,@4
+6,@1,@4
+7,@1,Tuez l'aile horrifiante {TaskCount} fois.
+8,@1,Tuez Ryukaon {TaskCount} fois.
+9,@1,Tuez l'arachnée {TaskCount} fois.
+10,@1,Obtenez {TaskCount} cœur(s) de monstre.
+11,@1,@10
+12,@1,Tuez {TaskCount} monstre(s) de donjon.
+13,@1,@12
+14,Conquérez les Ruines elfiques 2.,Tuez {TaskCount} berserker(s) spartoi(s).
+15,@14,Tuez {TaskCount} patrouille(s) spartoi(s).
+16,@14,Tuez {TaskCount} pinceur(s) ermite(s).
+17,@14,Tuez {TaskCount} araignée(s) ermite(s) à crochets.
+18,@14,Tuez {TaskCount} nemrod(s) spartoi(s).
+19,@14,Tuez {TaskCount} attaquant(s) spartoi(s).
+20,@14,@14
+21,@14,@15
+22,@14,@16
+23,@14,@17
+24,@14,@18
+25,@14,@19
+26,@14,Tuez Maniacrâne {TaskCount} fois.
+27,@14,Tuez Felix {TaskCount} fois.
+28,@14,Tuez le contemplateur de la mort {TaskCount} fois.
+29,@14,Vaincre Necross {TaskCount} fois
+30,@14,@10
+31,@14,@10
+32,@14,@10
+33,@14,@12
+34,@14,@12
+35,@14,@12
+36,Conquérez le Nid de fourmis 1.,Tuez {TaskCount} larve(s) soldat(s) fourmi(s).
+37,@36,Tuez {TaskCount} larve(s) de fourmi ouvrière.
+38,@36,Tuez {TaskCount} fourmi(s) ouvrière(s).
+39,@36,Tuez {TaskCount} soldat(s) fourmi(s).
+40,@36,@36
+41,@36,@37
+42,@36,@38
+43,@36,Tuez le saccageur {TaskCount} fois.
+44,@36,Tuez le contremaître du nid de fourmis {TaskCount} fois.
+45,@36,@10
+46,@36,@10
+47,@36,@10
+48,@36,@12
+49,@36,@12
+50,@36,@12
+51,Conquérez le Nid de fourmis 2.,Tuez {TaskCount} larve(s) de fourmi.
+52,@51,Tuez {TaskCount} fourmi(s) superviseuse(s) ouvrière(s).
+53,@51,Tuez {TaskCount} recrue(s) militaire(s) fourmi(s).
+54,@51,@51
+55,@51,@52
+56,@51,@53
+57,@51,Tuez le capitaine de la garde royale du Nid de fourmis {TaskCount} fois.
+58,@51,Tuez le responsable du terrain d'apparition {TaskCount} fois.
+59,@51,@10
+60,@51,@10
+61,@51,@10
+62,@51,@12
+63,@51,@12
+64,@51,@12
+65,Conquérez la Tour de Cruma 2.,Tuez {TaskCount} sbire(s) de Mordeo.
+66,@65,Tuez {TaskCount} Excuro(s).
+67,@65,Tuez {TaskCount} Porta(s).
+68,@65,Tuez {TaskCount} grand(s) Excuro(s).
+69,@65,Tuez {TaskCount} garde(s) de Mordeo.
+70,@65,Tuez {TaskCount} Porta(s) lié(s).
+71,@65,Tuez Mystique {TaskCount} fois.
+72,@65,Tuez Stelos {TaskCount} fois.
+73,@65,Tuez Maître Mordeo {TaskCount} fois.
+74,@65,Tuez le Serbo prime {TaskCount} fois.
+75,@65,@10
+76,@65,@10
+77,@65,@10
+78,@65,@10
+79,@65,@10
+80,@65,@10
+81,@65,@12
+82,@65,@12
+83,@65,@12
+84,@65,@12
+85,@65,@12
+86,@65,@12
+87,Conquérez la Tour de Cruma 3.,Tuez {TaskCount} garde(s) validus.
+88,@87,Tuez {TaskCount} patrouille(s) validus.
+89,@87,Tuez {TaskCount} parasiteur(s) gustos.
+90,@87,Tuez {TaskCount} parasiteur(s) kusion(s).
+91,@87,Tuez {TaskCount} Meforde(s).
+92,@87,@87
+93,@87,@88
+94,@87,@89
+95,@87,@90
+96,@87,@91
+97,@87,Tuez Greezo {TaskCount} fois.
+98,@87,Tuez Julius {TaskCount} fois.
+99,@87,Tuez Magnus {TaskCount} fois.
+100,@87,@10
+101,@87,@10
+102,@87,@10
+103,@87,@12
+104,@87,@12
+105,@87,@12
+107,Conquérez la Tour d'ivoire 1.,Tuez le Dicor épineux {TaskCount} fois.
+108,@107,Tuez le champignon ambulant infecté {TaskCount} fois.
+109,@107,@107
+110,@107,@108
+111,@107,Tuez Mesheemp {TaskCount} fois.
+112,@107,Tuez Corepio {TaskCount} fois.
+113,@107,Tuez Preta {TaskCount} fois.
+114,@107,@10
+115,@107,@10
+116,@107,@10
+117,@107,@12
+118,@107,@12
+119,@107,@12
+120,Conquérez la Tour d'ivoire 2.,Tuez la méduse des marais {TaskCount} fois.
+121,@120,Tuez la méduse des grottes {TaskCount} fois.
+122,@120,Tuez le soldat stakato {TaskCount} fois.
+123,@120,Tuez le troupier stakato {TaskCount} fois.
+124,@120,@120
+125,@120,@121
+126,@120,@122
+127,@120,@123
+128,@120,Tuez le vautour {TaskCount} fois.
+129,@120,Tuez Gargu {TaskCount} fois.
+130,@120,Tuez Morpheus {TaskCount} fois.
+131,@120,@10
+132,@120,@10
+133,@120,@10
+134,@120,@12
+135,@120,@12
+136,Conquérez la Tour d'ivoire 3.,Tuez le troupier squelette {TaskCount} fois.
+137,@136,Tuez le Prima du Chœur sombre {TaskCount} fois.
+138,@136,Tuez le Prima ténébreux du Chœur sombre {TaskCount} fois.
+139,@136,@136
+140,@136,@137
+141,@136,@138
+142,@136,Tuez le traqueur squelette {TaskCount} fois.
+143,@136,Tuez le Créatus {TaskCount} fois.
+144,@136,Tuez Tempête de sable {TaskCount} fois.
+145,@136,@10
+146,@136,@10
+147,@136,@10
+148,@136,@12
+149,@136,@12
+150,Conquérez le laboratoire de la Tour d'ivoire.,Tuez {TaskCount} sujet(s) tordu(s).
+151,@150,Tuez {TaskCount} golem(s) incontrôlable(s).
+152,@150,Tuez {TaskCount} sujet(s) lié(s).
+153,@150,Tuez {TaskCount} mécagolem(s) déréglé(s).
+154,@150,Tuez {TaskCount} apprenti(s) agité(s).
+155,@150,Tuez {TaskCount} sorcier(s) agité(s).
+156,@150,Tuez {TaskCount} enquêteur(s) de la Sombre confrérie.
+157,@150,Tuez {TaskCount} gardien(s) de la Sombre confrérie.
+158,@150,Tuez {TaskCount} chercheur(s) de la Sombre confrérie.
+159,@150,Tuez {TaskCount} assistant(s) tordu(s).
+160,@150,Tuez {TaskCount} basilic(s) du monde souterrain.
+161,@150,Tuez Adolf {TaskCount} fois.
+162,@150,Tuez Genos {TaskCount} fois.
+163,@150,Tuez Alexander {TaskCount} fois.
+164,@150,Tuez Trasos {TaskCount} fois.
+165,@150,Tuez Barbara {TaskCount} fois.
+166,@150,Tuez Amos {TaskCount} fois.
+167,@150,Tuez Enclema {TaskCount} fois.
+168,@150,Tuez Kloud {TaskCount} fois.
+169,@150,Tuez Sophos {TaskCount} fois.
+170,@150,Tuez Edwin {TaskCount} fois.
+171,@150,Tuez Enas {TaskCount} fois.
+172,@150,@10
+173,@150,@10
+174,@150,@10
+175,@150,@10
+176,@150,@10
+177,@150,@10
+178,@150,@10
+179,@150,@10
+180,@150,@10
+181,@150,@10
+182,@150,@10
+184,@150,@12
+185,@150,@12
+186,@150,@12
+187,@150,@12
+188,@150,@12
+189,@150,@12
+190,@150,@12
+191,@150,@12
+192,@150,@12
+193,@150,@12
+194,@150,@12
+195,Conquérez la canopée de la Forêt des secrets.,Tuez {TaskCount} Grendel de la forêt.
+196,@195,Tuez {TaskCount} Atrox toxique(s).
+197,@195,Tuez {TaskCount} contrôleur(s) insondable(s).
+198,@195,Tuez {TaskCount} contrôleur(s) de la forêt.
+199,@195,@195
+200,@195,@196
+201,@195,@197
+202,@195,@198
+203,@195,Tuez Argos {TaskCount} fois.
+204,@195,Tuez Helissa {TaskCount} fois.
+205,@195,Tuez Sling {TaskCount} fois.
+206,@195,@10
+207,@195,@10
+208,@195,@10
+209,@195,@12
+210,@195,@12
+211,Conquérez les sous-bois de la Forêt des secrets.,Tuez {TaskCount} défenseur(s) de Pan.
+212,@211,Tuez {TaskCount} nymphe(s) pourfendeuse(s).
+213,@211,Tuez {TaskCount} nymphe(s) vengeresse(s).
+214,@211,Tuez {TaskCount} succube(s) insondable(s).
+215,@211,@211
+216,@211,@212
+217,@211,@213
+218,@211,@214
+219,@211,Tuez Vanuk {TaskCount} fois.
+220,@211,Tuez Cailyn {TaskCount} fois.
+221,@211,Tuez Veiloss {TaskCount} fois.
+222,@211,@10
+223,@211,@10
+224,@211,@10
+225,@211,@12
+226,@211,@12
+227,Conquérez le site du massacre de la Forêt des secrets.,Tuez {TaskCount} combattant(s) reptilien(s) perdu(s).
+228,@227,Tuez {TaskCount} guerrier(s) reptilien(s) perdu(s).
+229,@227,Tuez {TaskCount} araignée(s) de la forêt mangeuse(s) d'hommes.
+230,@227,Tuez {TaskCount} saule(s) féérique(s) furieux.
+231,@227,Tuez Intrepidez {TaskCount} fois.
+232,@227,Tuez Avetura {TaskCount} fois.
+233,@227,Tuez Gari {TaskCount} fois.
+234,@227,Tuez Alkaios {TaskCount} fois.
+235,@227,@10
+236,@227,@10
+237,@227,@10
+238,@227,@10
+239,@227,@12
+240,@227,@12
+241,@227,@12
+242,@227,@12

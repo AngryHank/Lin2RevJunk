@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Aventurero,"Novato con potencial por descubrir. Puedes hacer la transferencia a Guerrero, Pícaro o Místico."
+2,Guerrero,Luchador que ataca cuerpo a cuerpo.
+3,Pícaro,Gran habilidad con la daga y el arco.
+4,Místico,Atacante que usa la magia para atacar a los enemigos.
+5,Paladín,Tanque con mucha DEF y habilidades para la defensa.
+6,Caudillo,Atacante que causa daño continuo a los enemigos.
+7,Cazatesoros,Lanza ataques consecutivos y aturde a los enemigos.
+8,Ojo de halcón,Ataca a distancia con AdE y ralentiza a los enemigos.
+9,Hechicero,Atacante que inflige daño de fuego duradero.
+10,Obispo,Sanador que cura a los aliados y aturde a los enemigos.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Cab. templario,Tanque ofensivo que realiza amplios ataques AdE.
+36,Trovador de esp.,Atacante experto en ataques a media distancia.
+37,Camin. llanuras,Atacante con mucha velocidad de ataque.
+38,Ranger de plata,Atacante a distancia que ataca a los enemigos rápido.
+39,Trovador hechiz.,Personaje de apoyo que ataca a los enemigos o los congela.
+40,Anciano,Sanador que cura gran cantidad de PV a los aliados.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Caballero shillien,Tanque ofensivo que absorbe los PV de los enemigos.
+66,Bailarín de esp.,Atacante con ATQ muy alto.
+67,Camin. abismo,Atacante que causa daño de sangre con una velocidad de ataque muy alta.
+68,Ranger fantasma,"Atacante con una velocidad de ataque lenta, pero con ataques poderosos."
+69,Aullahechizos,Atacante que maldice a los enemigos y causa daño AdE duradero.
+70,Anciano shillien,"Sanador, aum. el poder de combate y cura a los miembros del equipo."
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Guardián,Mago y tanque que ataca con AdE y controla a las masas.
+96,Asesino,@68
+97,Saqueador,Aplasta a los enemigos con una rápida vel. de movimiento.
+98,Ranger de guerra,"Inflige daño a distancia, usa trampas y habilidades de evasión."
+99,Mago de combate,Causa gran daño con habilidades de lanzamiento rápido en áreas pequeñas.
+100,Sabio,Personaje de apoyo que aumenta la DEF de los miembros del equipo.

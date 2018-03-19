@@ -63,3 +63,6 @@ Id,Moveable,MoveContentType,IconTexture,TextKey
 64,1,Costume,UI_Btn_Costume,731000005960
 66,1,ExpDungeon,UI_Btn_Dungeon,191000000205
 67,1,AuctionHouse,UI_Btn_AuctionHouse,191000000104
+68,0,Hunting,UI_Btn_TreasureHunter,731000006708
+69,1,PartyDungeon,UI_Btn_AbyssMode_Dungeon,51000000069
+1001,1,ChargeEventShopChargeTotal,UI_Btn_Event,1201000000008

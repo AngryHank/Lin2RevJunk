@@ -1,0 +1,66 @@
+Id,Description
+1,Oyunun çözünürlüğünü ayarlar. Oyun düşük ayarlarda daha akıcı çalışabilir.
+2,Görüş mesafesini ayarlar. Oyun düşük ayarlarda daha akıcı çalışabilir.
+3,Görsellerin kenarlarının ne incelikte gösterileceğini ayarlar. Düşük ayarda objeler daha kaba gözükür ama oyun akıcı çalışır.
+4,Doku detayını ayarlar. Oyun düşük ayarlarda daha akıcı çalışabilir.
+5,Gölge kalitesini ayarlar. Ayar yükseltildiğinde daha gerçekçi gözükür.
+6,Dikey senkronizasyonu ayarlar. Ayar yükseltildiğinde grafikler daha güzel görünür.
+7,@5
+8,Doku kalitesini ayarlar. Oyun düşük ayarlarda daha akıcı çalışabilir.
+9,Doku Detay Seviyesi
+10,Çözünürlüğü ayarlar.
+11,Kaynakta 1 ön onay çalıştırır.
+12,Gölgenin görünürlüğünü ayarlar.
+13,Videonun kare sayısını ayarlar.
+14,Grafiklerin şarj kullanımını ayarlar.
+15,Grafiklerin bellek kullanımını ayarlar.
+16,Ses kanalı kalitesini ayarlar.
+17,Efekt hedefini seçer.
+18,Diğer oyuncuların isimlerinin görünüp görünmeyeceğini ayarla.
+19,Ekranda gösterilecek maksimum oyuncu sayısını belirler.
+20,Ekranda gösterilecek ekipmanı belirler.
+21,Pelerinlerin görünüp görünmeyeceğini ayarla.
+22,"Güçlendirme Yayını (Güçlendirme Başarılı, Güçlendirme Başarısız) Seviyesini Ayarla."
+23,Ana ses düzeyini belirler.
+24,Arka plan ses düzeyini belirler.
+25,Ses efektlerinin ses düzeyini belirler.
+26,Seslendirmenin ses düzeyini belirler.
+27,Titreşimi açar veya kapatır.
+28,Cihazın otomatik kapatmasını açar veya kapatır.
+29,Ses kayıtlarını otomatik çalmayı açar/kapatır.
+30,Tüm oyun bildirimleri açabilir veya kapatabilirsin.
+31,Oyun bildirimlerini al.
+32,Uyarı bildirimlerini al.
+33,Bu ayarı kapattığında 21:00 ile 08:00 arası bildirimler engellenir.
+34,Kapattığında bildirim almazsın (yüksek öncelikli bildirimler hariç)
+35,1'e1 Sohbet bildirimlerini engellemek için kapat.
+36,Klan Sohbeti bildirimlerini engellemek için kapat.
+37,Grup Sohbeti bildirimlerini engellemek için kapat.
+44,Otomatik Can Yenileyici kullanımı için Can miltarı belirler.
+45,Otomatik Mana Yenileyici kullanımı için Mana miltarı belirler.
+46,Otomatik Can Yenileyici kullanımı için Can yüzdesi belirler.
+47,Can Yenileyici kullanırken hangi sırayla kullanılacağını belirler.
+48,Mana Yenileyici kullanırken hangi sırayla kullanılacağını belirler.
+49,Normal saldırı menzilini gösterir.
+50,Oto-Savaş sırasında karakterinin ne kadar ilerleyeceğini belirler.
+51,Alınacak ekipmanın minimum derecesini belirler.
+52,Oyuncunun seçtiği hedefin hedefini gösterir.
+53,Hedefin Canını farklı şekillerde gösterir.
+54,Oto-Savaş sırasında Elit veya daha güçlü düşmanla karşılaşınca güvenli bir yere kaç.
+55,En az bu derecede olan eşyaları alacaksınız. (Daha düşük derecedeki eşyalar alınmayacak.)
+56,
+57,
+58,
+59,Dijital Analog kontrollerini ekranın belirlenen alanına sabitler.
+60,Sohbet mesajlarını oyun diline çevirir.
+61,Sohbette hangi dillerin çevrileceğini seçer.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

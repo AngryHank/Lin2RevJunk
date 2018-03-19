@@ -1,0 +1,25 @@
+Id,Name,EffectTypeName,Desc
+1,LP-Elixier,Max. LP-Erhöhung,"Ein Elixier, das die max. LP erhöht."
+2,@1,@1,@1
+3,@1,@1,@1
+4,@1,@1,@1
+5,@1,@1,@1
+6,@1,@1,@1
+10,MP-Elixier,Max. MP-Erhöhung,"Ein Elixier, das die max. MP erhöht."
+11,@10,@10,@10
+12,@10,@10,@10
+13,@10,@10,@10
+14,@10,@10,@10
+15,@10,@10,@10
+19,ANG-Elixier,ANG-Erhöhung,"Ein Elixier, das den ANG erhöht."
+20,@19,@19,@19
+21,@19,@19,@19
+22,@19,@19,@19
+23,@19,@19,@19
+24,@19,@19,@19
+28,VER-Elixier,VER-Erhöhung,"Ein Elixier, das die VER erhöht."
+29,@28,@28,@28
+30,@28,@28,@28
+31,@28,@28,@28
+32,@28,@28,@28
+33,@28,@28,@28

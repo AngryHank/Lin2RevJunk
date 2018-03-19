@@ -1,0 +1,129 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,Você foi reconectado ao servidor.,,
+3,Um grupo foi criado.,,
+4,Você entrou no grupo.,,
+5,<FontGreen>[Name]</> entrou no grupo.,,
+6,Você saiu do grupo.,,
+7,<FontGreen>[Name]</> saiu do grupo.,,
+8,Você foi expulso do grupo.,,
+9,<FontGreen>[Name]</> foi expulso do grupo.,,
+10,Você se tornou o líder do grupo.,,
+11,<FontGreen>[Name]</> agora é o líder do grupo.,,
+12,O grupo foi desfeito.,,
+13,"<FontGreen>[Name]</> convidou você para o grupo.
+Entrar para o grupo? <FontRed>[Seconds]</> s",Recusar,Entrar
+14,Você se recusou a juntar-se ao grupo.,,
+15,"Alguém solicitou para entrar no seu grupo.
+Aprovar? <FontRed>[Seconds]</> s",@13,Aceitar
+16,O grupo automático foi cancelado.,,
+17,"Localização: <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> quer começar a aventura. Quer se preparar? <FontRed>[Seconds]</>s",@13,Aceitar
+18,"Localização: <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+Você entrará na <FontGreen>[DungeonName]</> <FontRed>([Difficulty]) </>em <FontRed>[Seconds]</> segundos.
+Prepare-se para a batalha.",,
+19,"Localização: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> quer convocar você.
+Aceitar a convocação? <FontRed>[Seconds]</> s",Andando,Pelo portal
+20,@19,Fechar,Entrar
+21,"Localização: <FontGreen>[WorldName]</>
+Ir para o local de reunião do grupo? <FontRed>[Seconds]</> s",@19,@19
+22,@21,@20,@20
+23,"O grupo do<FontYellow>[Battlefield]</> foi criado.
+Entre no campo de batalha por <FontBlue>conta própria</> ou em um <FontBlue>grupo de campo de batalha</> com outros jogadores.",,
+24,Entrou no grupo de <FontYellow>[Battlefield]</>.,,
+25,<FontGreen>[Name]</> entrou no grupo de <FontYellow>[Battlefield]</>.,,
+26,O grupo de <FontYellow>[Battlefield]</> foi desfeito.,,
+27,Saiu do grupo de <FontYellow>[Battlefield]</>.,,
+28,<FontGreen>[Name]</> saiu do grupo de <FontYellow>[Battlefield]</>.,,
+29,"<FontGreen>[Name]</>([Power]) convidou você para o grupo de campo de batalha.
+Entrar para o grupo de <FontYellow>[Battlefield]</>? <FontRed>[Seconds]</> s",@13,@15
+30,"A criação de <FontYellow>[BattlefieldType]</> está concluída.
+Entrando no campo de batalha em <FontRed>[Seconds]</> s. Prepare-se para a batalha.",,
+31,[Name] quer ser seu amigo.,Amigo,
+32,Você e [Name] agora são amigos.,@31,
+33,<FontYellow>O líder do clã mudou o emblema do clã.</>,,
+34,O membro do clã [Name] mudou o apelido: <FontGreen>[Name2]</>,,
+35,<FontGreen>[Param1]</> conectou-se.,,
+36,<FontGreen>[Name]</> doou <FontGreen>[Count] [AssetsType]</> para os membros do clã.,,
+37,<FontGreen>[Param1]</> <FontBlue>entrou</> para o clã.,,
+38,<FontGreen>[Param1]</> <FontRed>saiu</> do clã.,,
+39,<FontRed>Expulsaram</> <FontGreen>[Name]</> do clã.,,
+40,O clã <FontBlue>[GuildName]</> enviou um convite.,@13,@17
+41,<FontBlue>[Name]</> recusou o convite.,,
+42,<FontYellow>Há um novo convite para entrar no clã.</>,Clã,
+43,Você entrou para o clã <FontBlue>[GuildName]</>.,@42,
+44,<FontBlue>[GuildName]</> <FontRed>recusou</> o seu convite.,,
+45,Saiu do clã.,,
+46,<FontGreen>[Param1]</> agora é <FontBlue>[Param2]</>,,
+47,<FontGreen>[Param1]</> foi nomeado o novo líder do clã.,,
+48,Nomearam <FontGreen>[Param1]</> como líder do clã devido à longa ausência do líder anterior.,,
+49,[Param1] deu uma recompensa a <FontGreen>[Param2]</>.,,
+50,[Param1] deu recompensas a <FontGreen>todos os membros do clã</>.,,
+51,"[Param1] deu recompensas a [Param2], inclusive os <FontGreen>[Param3] membros</>.",,
+52,<FontGreen>[Name]</> deu um presente ao clã.,Notícias,
+53,"Um membro do clã, <FontGreen>[Name]</>, fez um pedido de vingança.
+Contra: [Name2] do clã <FontRed>[GuildName]</>.",@20,@19
+54,"Um membro do clã, <FontGreen>[Name]</>, fez um pedido de vingança.
+Contra: [Name] do clã <FontRed>[GuildName]</>.",@20,@20
+55,"Um membro do clã, <FontGreen>[Name]</>, fez um pedido de vingança.
+Contra: <FontRed>[Name2]</>",@20,@19
+56,"Um membro do clã, <FontGreen>[Name]</>, fez um pedido de vingança.
+Contra: [Name] do clã <FontRed>[GuildName]</>.",@20,@20
+57,<FontBlue>Formou</> uma aliança com <FontBlue>[Param1]</>.,,
+58,A aliança com <FontBlue>[Param1]</> <FontRed>terminou</>.,,
+59,<FontRed>Declarou</> guerra contra <FontBlue>[Name]</>.,,
+60,<FontRed>Recusou</> findar a guerra com <FontBlue>[GuildName]</>.,,
+61,<FontBlue>[GuildName]</><FontRed>recusou</> findar a guerra.,,
+62,<FontGreen>Concordou</> em findar a guerra com <FontBlue>[Name]</>.,,
+63,<FontBlue>Ganhou</> a batalha com <FontBlue>[Name]</>.,,
+64,<FontRed>Perdeu</> a batalha com <FontBlue>[Name]</>.,,
+65,<FontYellow> O Clã chegou ao nível [Param1]</>.,,
+66,<FontYellow>O bônus do clã [Name] chegou ao nível. [param]</>.,,
+67,O senhor [Name] comprou <FontGreen>[Item]</> de <FontGreen>[ShopName]</>.,,
+68,<FontYellow>[Param1] concluído.</>,Conquista do clã,
+69,"O líder do clã convocou você da <FontGreen>[DungeonName]</>
+Aceitar?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) foi redefinido.</>,Masmorra de clã,
+71,Renove o valor do lance de <FontYellow>[Param1]!</>,Cerco à Fortaleza,
+72,@71,Cerco ao Castelo,
+73,O valor do lance de <FontYellow>[Param1] aumentou.</>,@71,
+74,@73,@72,
+75,"O Cerco Aberto abriu.
+Entrar em <FontGreen>[FortressName]</>?",@20,@20
+76,"O Cerco ao Castelo abriu.
+Entrar em <FontGreen>[CastleName]</>?",@20,@20
+77,<FontYellow>O líder do clã desistiu da propriedade de [Name].</>,,
+78,Líder do clã selecionou <FontBlue>[Name]</> como <FontYellow>[CastleType]</>.,,
+79,<FontYellow>A Sede do Clã chegou ao nível [Level].</>,,
+80,<FontYellow>O Cristal da União na Sede do Clã chegou ao nível [param].</>,,
+81,<FontGreen>[Name]</> cumpriu uma Missão da Sede do Clã para o clã.,,
+82,<FontGreen>[Name]</> preparou um <FontBlue>banquete</> na Sede do Clã.,@20,@20
+83,<FontYellow>[Value] Relíquia(s) Mística(s) enviada(s) para o depósito do clã</>.,,
+84,[NAME] fabricou [COUNT]<FontGreen>[POTION_NAME]</>.,,
+85,<FontYellow>A Lareira da Sede do Clã queima vividamente.</>,@20,@20
+86,<FontYellow>A Lareira da Sede do Clã está aquecendo.</>,@20,@20
+87,<FontYellow>O calor da lareira desapareceu.</>,,
+88,<FontRed>Expulso</> do clã.,,
+89,"O Cerco à Fortaleza começou!
+Entrar em <FontGreen>[FortressName]</>?",@20,@20
+90,"O Cerco ao Castelo começou!
+Entrar em <FontGreen>[CastleName]</>?",@20,@20
+91,"Localização: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> gostaria de convocar você.
+Ir agora? <FontRed>[Seconds]</> s",@13,@17
+92,"As ações estão limitadas por você não estar em um grupo.
+Saindo automaticamente da Fenda Temporal em 15 segundos.",Sair,
+93,<FontYellow>O item para [EventName] expirou.</>Removido do inventário.,,
+94,"O grupo de <FontYellow>Cerco Aberto</> foi criado.
+Vá <FontGreen>sozinho</> ou em <FontGreen>grupo</> ao Cerco Aberto.",,
+95,Entrou em um grupo de <FontYellow>Cerco Aberto</>.,,
+96,<FontGreen>[Name]</> se juntou ao <FontYellow>Cerco Aberto</>.,,
+97,O grupo de <FontYellow>Cerco Aberto</> se desfez.,,
+98,Saiu do <FontYellow>Cerco Aberto</>.,,
+99,<FontGreen>[Name]</> saiu do grupo de <FontYellow>Cerco Aberto</>.,,
+100,"<FontGreen>[Name]</> convidou você para um grupo de Cerco Aberto.
+Aceitar o convite para o grupo de <FontYellow>Cerco Aberto</>? <FontRed>[Seconds]</> s.",@13,@15
+101,"A partida de <FontYellow>Cerco Aberto</> foi estabelecida.
+Entrando no Cerco Aberto em <FontRed>[Seconds]</> s. Prepare-se para a batalha.",,
+1000,Conectando.,,

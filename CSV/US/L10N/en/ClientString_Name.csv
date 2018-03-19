@@ -228,6 +228,10 @@ AUCTION_SUB_GROUP_PetFood,Advancement Stone
 AUCTION_SUB_GROUP_PetSummonStone,Summoning Stone
 AUCTION_SUB_GROUP_PetEquipmentEnchantMaterial,@AUCTION_GROUP_ENCHANT
 AUCTION_SUB_GROUP_PetEtc,@AUCTION_GROUP_ETC
+AUCTION_SUB_GROUP_WEAPONMATERIAL,Weapon Varnish
+AUCTION_SUB_GROUP_ARMORMATERIAL,Armor Varnish
+AUCTION_SUB_GROUP_ACCESSORYMATERIAL,Accessory Varnish
+AUCTION_SUB_GROUP_BUFFSCROLL,Buff Scroll
 AUCTION_TRADE_CONTENTS,Transaction Status
 AUCTION_TRADE_TIME,Transaction Period
 AUTO_COMBAT_RADIUS_MAX,No Limit
@@ -236,7 +240,7 @@ AUTO_COMBAT_RADIUS_MEDIUM,Close
 AUTO_COMBAT_RADIUS_MIN,Melee
 AUTOPANEL_HP_POTION,HP Potion
 AUTOPANEL_MP_POTION,MP Potion
-AUTOPANEL_QUEST,Auto-Progress
+AUTOPANEL_QUEST,Auto Progression
 AUTOPANEL_SOULSHOT,@AUCTION_HOUSE_TYPE_SOUL_SHOT
 BIDDING_MAXVALUE_NOTIFY,The bid price is higher than the amount of currency you own.
 BIDDING_MINVALUE_NOTIFY,You must enter a price higher than the minimum bid price.
@@ -290,9 +294,14 @@ CAHT_PROMOTE_ADMISSION,Join Party
 CHAT_PROMOTE_PARTY_DUNGEON, Recruiting party members for <FontParty>[AdventureName]</> <FontRed>([Difficulty])</>. <FontYellow>[PartyName]</>
 CHAT_PROMOTE_PARTY_BOSSRAID, Recruiting party members to help defeat <FontRed>[NpcName]</>. <FontYellow>[PartyName]</>
 CHAT_PROMOTE_PARTY_GATHERING, Recruiting party members to help extract in <FontParty>[DungeonName]</>. <FontYellow>[PartyName]</>
+CHAT_PROMOTE_PARTY_PARTYDUNGEON,Recruiting party members for Temporal Rift <FontYellow>[DungeonName]</><FontRed>([Difficulty])</>.
+CHAT_PROMOTE_PARTY,Recruiting party members for <FontYellow>[PartyName]</>.
+CAHT_PROMOTE_GUILD,<FontGuild>[GuildName]</> is recruiting clan members.
+CHAT_PROMOTE_BOSS_SUMMONS,[Name]’s Boss <FontBlue>[BossName]</> Summon Battle
+CHAT_PROMOTE_GUILD_DUNGEON,Conquest Support Request for <FontParty>[GUILDNAME]</> Clan Dungeon <FontYellow>[DungeonName]</><FontRed> ([Difficulty])</>
+CHAT_PROMOTE_GUILD_SEARCH,Hoping to join <FontYellow>[PromoteMessage]</ clan.
 CHAT_NEED_SELECT,Select Quick Chat to use it.
 CHAT_GUILDNOTICE_EMPTY,There is no Clan Notice.
-CAHT_PROMOTE_GUILD,<FontGuild>[GuildName]</> is recruiting clan members.
 CHAT_BLOCK_ME,"[NAME]
 has been blocked."
 CHAT_BLOCK_YOU,"It’s not possible to
@@ -382,12 +391,13 @@ CHARACTERSELECT_LEVEL,Level [Level]
 CHARACTERSELECT_LEVEL_CLASS,Level [Level] / [Class]
 CHAT_CHANNEL,Channel - [ID]
 CHAT_COOLTIME_WARNING,You cannot send messages too often. Try again in [Sec] sec.
+CHAT_SPAM_MSG_WARNING,Chatting has been restricted due to repetitive messages. Wait [Sec] seconds and send again.
+CHAT_LOCAL_LEVEL_LIMIT,Territory Chat is available at Level [Level].
 CHAT_HINT_MEGAPHONE,You do not own a Megaphone.
 CHAT_HINT_NORMAL,Enter what you want to say.
 CHAT_MAXLENGTH,Chat messages cannot exceed [Size] characters.
 CHAT_NO_FRIENDS,Make a friend.
 CHAT_NO_SELECT_FRIEND,You did not select a friend.
-CHAT_PROMOTE_PARTY,<FontYellow>[PartyName]</> Recruiting party members.
 CHAT_TYPE_FRIEND,Friend
 CHAT_TYPE_GUILD,Clan
 CHAT_TYPE_LOCAL,Local
@@ -399,6 +409,7 @@ CHATTYPE_FRIEND,1:1
 CHATTYPE_GUILD,@CHAT_TYPE_GUILD
 CHATTYPE_LOCAL,@CHAT_TYPE_LOCAL
 CHATTYPE_PARTY,@CHAT_TYPE_PARTY
+CHATTYPE_ALERT,<FontRed>[Alert]</>
 CHATTYPE_PROMOTE,Public
 CHATTYPE_TEXT_STYLE,[[TypeName]]
 CHATTYPE_WORLD,@CHAT_TYPE_WORLD
@@ -429,6 +440,7 @@ COMMON_AVAILABLE,Available
 COMMON_AVAILABLE_TO_ENTER,Available to Enter
 COMMON_BATTLEDECK_TITLE,Battle Deck Settings
 COMMON_BEFORE,◀
+COMMON_BIND,Bind
 COMMON_BIDDING,Bidding
 COMMON_GACHATICKET,Box Ticket
 COMMON_FESTIVAL_COUPON,Castle Siege Festival Coupon
@@ -449,6 +461,8 @@ COMMON_CASH_SHOP_TITLE,Confirm Purchase
 COMMON_CASTLE_ATTACK,Attacker
 COMMON_CASTLE_DEFENSE,Defender
 COMMON_CHANGE,Exchange
+COMMON_CHANGE_DO,Exchange
+COMMON_CHARGE_REWARD_COUNT,Recharge Reward Count
 COMMON_CLASSTRANSFER,Class Transfer
 COMMON_ACTIVATE,Activate
 COMMON_DEACTIVATE,Deactivate
@@ -467,7 +481,6 @@ COMMON_COUNT_EXP,[Count] Exp.
 COMMON_COUNT_LOWER_SYMBOL,x[Count]
 COMMON_COUNT_MAX,[Count]/[MaxCount]
 COMMON_COUNT_UPPPER_SYMBOL,x[Count]
-COMMON_COUNT_MASTERYCOIN,[Count] Mastery Token
 COMMON_CRYSTAL,@AUCTION_SUB_GROUP_UpgradeCrystal
 COMMON_CURRENT_POSITION,Current Location
 COMMON_CUSTOMER_CENTER,Help Desk
@@ -497,6 +510,7 @@ COMMON_ELF,Elf
 COMMON_ENCHANT,Enchant
 COMMON_ENCHANT_VALUE,+[Value]
 COMMON_ENTER,Enter
+COMMON_EQUIPMENT_GETTABLE,@AUCTION_HOUSE_LOG_GAIN
 COMMON_EQUIPMENT_EQUIP,Equip
 COMMON_EQUIPMENT_EQUIP_WITH_COUNT,Equip ([Count])
 COMMON_EQUIPMENT_UNEQUIP,Remove
@@ -564,9 +578,10 @@ COMMON_NO,No
 COMMON_NO_GUILD_HOLD,Not owned by any clan
 COMMON_NO_LONGER_SELECTED,Cannot select any more.
 COMMON_NO_LONGER_SELECTED_LEVEL_LIMIT,Cannot select any more. The material(s) you selected are enough to reach [Level].
-COMMON_NO_LONGER_SELECTED_MATERIAL_LIMIT,You selected 10 materials and cannot select more.
+COMMON_NO_LONGER_SELECTED_MATERIAL_LIMIT,You selected 40 materials and cannot select more.
 COMMON_NOT_DURATION_EVENT,This event is not currently in progress.
 COMMON_NOT_ENOUGH_LEVEL,The level is too low.
+COMMON_NOT_USE,Unused
 COMMON_OFF,OFF
 COMMON_OFFLINE,@COMMON_OFF
 COMMON_ON,ON
@@ -623,6 +638,7 @@ COMMON_SPOT_REVIVE,Spot Revival
 COMMON_START,Begin to Master
 COMMON_SUCCEED,Successful Mastery
 COMMON_SUNDAY,Sunday
+COMMON_SWAP,Instant Exchange
 COMMON_TAX_RATE,Tax Rate
 COMMON_THURSDAY,Thursday
 COMMON_TIME_BEFORE,before
@@ -656,6 +672,8 @@ COMMON_WENDESDAY,Wednesday
 COMMON_WIN,Victory
 COMMON_YES,Yes
 COMMON_ABANDON_GUILD_CHAR_NAME,Players who have left
+COMMON_ACCOUNTSTORAGE,계정창고
+COMMON_PLAYERSTORAGE,개인창고
 COMPOUND,Combine
 COMPOUND_ADD_ITESELECT,Select the second item to combine.
 COMPOUND_ALERT,"Combine [ITEM1] and [ITEM2]?
@@ -770,6 +788,7 @@ EFFECT_TARGET_TELEPORT,Move Target
 EFFECT_VISIBILITY_ALL_OFF,Turn All Off
 EFFECT_VISIBILITY_ALL_ON,Show All
 EFFECT_VISIBILITY_ONLY_MINE,Show Only Me
+EFFECT_VISIBILITY_ONLY_NAME,View Name
 EFFECT_WEAPON_ATTACK_POWER_MUL,Atk. Increase Rate
 ELITE_DUNGEON,Elite Dungeon
 ELITE_DUNGEON_HOTTIME_CHARGE1,[Can recharge up to [Count] min per day.]
@@ -815,6 +834,7 @@ EQUIP_UPGRADE_SUCCESS_RATE,Enhancement Success Rate
 EQUIPMENT_ABILITY_ALREADY_MAX_LV,"This equipment’s attributes are fully enhanced.
 They cannot be enhanced any further."
 EQUIPMENT_ABILITY_DAMAGE,Attribute Damage +
+EQUIPMENT_ABILITY_HEAL,Attribute Regen Rate +
 EQUIPMENT_ABILITY_DEFENCE,Attribute Defense -
 EQUIPMENT_ABILITY_UP_CANT,This equipment does not have any attributes.
 EQUIPMENT_ABILITY_UP_FAIL,Attribute Enhancement Failed
@@ -943,18 +963,25 @@ GUILD_CONFIRM_JOIN,Private
 GUILD_CREATE,Create Clan
 GUILD_CREATE_NOT_ENOUGH_LEVEL,Unable to create a clan. (Lv. [Value] required)
 GUILD_DISBAND,The clan has been disbanded.
+GUILD_DISBANDED_DESC,Your Clan has auto-disbanded because there aren’t any active members.
 GUILD_DISBANDMENT,Disband Clan
+GUILD_DISBAND_INFO,Clans and their assets cannot be recovered.
 GUILD_DISBANDMENT_WARNING,"A disbanded clan cannot be recovered.
 Are you sure you want to disband?"
 GUILD_DISBANDMENT_WARNING_PENALTY,"A disbanded clan cannot be recovered.
 Are you sure you want to disband?
 
 <FontRed>[TimeValue] re-joining penalty</> occurs after disbanding."
+GUILD_DISBANDMENT_WARNING_PENALTY_EVENT,"A disbanded clan cannot be recovered.
+Are you sure you want to disband?
+
+<FontYellow>You can rejoin without huge penalties during the event.</>"
 GUILD_DONATE,Donate
 GUILD_DONATION_TITLE_ADENA,Donate Adena
 GUILD_DONATION_TITLE_BLOODCRISTAL,Donate Proof of Blood
 GUILD_DUNGEON,Clan Dungeon
 GUILD_DUNGEON_SUPPORT_BOARD,Help Request Status Board
+GUILD_EMBLEMNAME_CHANGE,Change Emblem/Clan Name
 GUILD_EMBLEM_CHANGE,Change Emblem
 GUILD_EMBLEM_NAME,[SymbolName] of [BackgroundName]
 GUILD_ENEMY_TARGET_INVALID,"You cannot declare Hostility with that clan, and it will be excluded from your search. (Your own clan or allied clan)"
@@ -997,6 +1024,10 @@ A <FontRed>[TimeValue] re-joining penalty</> will occur after you leave the clan
 
 The number of penalty days increase as you repeatedly re-join clans.
 This penalty resets <FontYellow>30 days after joining a clan</>."
+GUILD_LEAVE_WARNING_PENALTY_EVENT,"Would you like to leave the clan?
+Leaving will trigger a <FontRed>rejoin penalty of [TimeValue]</>.
+
+<FontYellow>You can rejoin without huge penalties during the event.</>"
 GUILD_LEVEL,Clan Level
 GUILD_LEVEL_FUNCTION_KEY_1,Members
 GUILD_LEVEL_FUNCTION_KEY_2,Storage
@@ -1044,6 +1075,7 @@ GUILD_RECEIVE_GREET_NOBODY,You have no greetings from clan members to acknowledg
 GUILD_RELATION_ALLIANCE_INVITE,Suggest Alliance
 GUILD_RELATION_ALLIANCE_INVITE_CANCEL,Cancel Alliance Suggestion
 GUILD_RELATIONSHIP,Clan Alliance/Hostility
+GUILD_REVIVE_DESC,The clan has been activated. Grow your clan through steady participation.
 GUILD_ROYAL_GUARD_LEADERS,[Index]. Captain Increased [Value1] ▶ [Value2]
 GUILD_ROYAL_GUARD_MEMBERS,[Index]. Sergeant Increased [Value1] ▶ [Value2]
 GUILD_SEND_PRIZE,Send Prize
@@ -1095,6 +1127,7 @@ INVENTORY,Inventory
 INVENTORY_COMPOSITION_AND_UPGRADE_LEVEL_CHECK,Combine and Upgrade are both available from level [Level].
 INVENTORY_ENCHANT_COUNT,Enchant Count: [Count]
 INVENTORY_EXPANDED,Your inventory has been expanded to [Count] slots.
+INVENTORY_EXPANDED_STORAGE,Your [StorageName] has been expanded to [Count] slots.
 INVENTORY_EXPANSION_DESC,Can expand up to [Count] slots.
 INVENTORY_FULL,Inventory is full.
 INVENTORY_GAIN_CRYSTAL,Acquired Scraps
@@ -1102,6 +1135,8 @@ INVENTORY_GAIN_GOLD,Acquired Adena
 INVENTORY_INPUT_SALE_COUNT,Enter the number you want to sell.
 INVENTORY_INVALID_COUNT,That is an invalid number.
 INVENTORY_LOOTED,Acquired [Name].
+INVENTORY_MOVE_ITEMS,Move Item
+INVENTORY_MOVE_COUNT,Quantity
 INVENTORY_NO_SELECTED_ITEM,No items were selected.
 INVENTORY_NOT_USABLE,This item cannot be used.
 INVENTORY_SALE_ITEMS,Sale Items
@@ -1131,6 +1166,8 @@ and the target equipment will become unable to be traded.
 
 Are you sure you want to proceed?"
 ITEM_GRADE_SELECT,Grade
+ITEM_BIND_SELECT,Select Tradeable Material
+ITEM_BIND_SELECT_GUIDE,Tradeable materials aren’t sold
 ITEMICON_LIMIT_BREAK_UPGRADE_LEVEL,MAX +[UpgradeLevel]
 ITEMICON_MAX_UPGRADE_LEVEL,MAX
 ITEMINFO_LIKE,@COMMON_FAVORITE
@@ -1182,6 +1219,7 @@ MONSTER_BOOK_REGISTRATION,Register
 MONSTER_BOOK_MAKE_ALL_COMPLETED,Craft All has been completed.
 MONSTER_BOOK_MOVE,Location
 MONSTER_BOOK_ONLY_FOR_GUILD_RAID,This Core can only be acquired through clan raids.
+MONSTER_BOOK_ONLY_FOR_SPATIOTEMPORAL,This core can only be acquired in Temporal Rift Dungeons.
 MONSTER_BOOK_ONLY_FOR_SLAUGHTER,This Core can only be acquired through the [Param] Blood Ranger Quest.
 MONSTER_BOOK_SAVED_CORE,Registered [Param] core(s).
 MONSTER_BOOK_ZONE_COMPLETE_REWARD,Progress
@@ -1210,13 +1248,14 @@ OPTION_COMBAT_AUTO_HEALING_HP,Auto Healing HP Value
 OPTION_COMBAT_AUTO_RADIUS,Auto-Battle Radius
 OPTION_COMBAT_AUTO_USE_COMMON_SKILL,Toggle Normal Skills during Auto-Battle
 OPTION_COMBAT_AUTO_USE_UNIQUE_SKILL,Toggle Rare Skills during Auto-Battle
-OPTION_COMBAT_COUNTER_ATTACK,Automatically Counterattack When Attacked
+OPTION_COMBAT_COUNTER_ATTACK,Automatically attack player who has attacked you
 OPTION_COMBAT_EVADE_ON_ELITE,Avoid Battle Against Elite or Stronger Monsters
 OPTION_COMBAT_LOOT_GRADE,Auto Loot Minimum Grade
+OPTION_COMBAT_TARGET_OF_TARGET,Show target of target
+OPTION_COMBAT_TARGET_HP_DISPLAY_MODE,Target’s HP Display Mode
 OPTION_COMBAT_POTION_HP_GRADE,HP Potion Usage Grade
 OPTION_COMBAT_BASICSKILL_VISIBILITY,Normal Attack Range
 OPTION_COMBAT_POTION_MP_GRADE,MP Potion Usage Grade
-OPTION_COMBAT_JOYSTICK_FIXED_MODE,Fixed Digital Analog Mode
 OPTION_DEV_ANTI_ALIASING,Anti-aliasing
 OPTION_DEV_POST_PROCESSING,Post-processing
 OPTION_DEV_RESOLUTION,Resolution
@@ -1241,6 +1280,9 @@ OPTION_GAME_GQ_MEM_USAGE,Resolution Quality
 OPTION_GAME_SOUND_CHANNEL_QUALITY,Sound Channel Quality
 OPTION_GAME_VISIBLE_PC_MAX_COUNT,Show Max Member Count
 OPTION_GAME_VISIBLE_EQUIP,Show Equipment
+OPTION_GAME_OTHER_FLOATING,Show Other Players’ Name Tag
+OPTION_GAME_ITEM_ENCHANT_MESSAGE,Show Enhancement Message
+OPTION_GAME_VISIBLE_CAPE,Show Cloak
 OPTION_SETTING,@COMMON_SETTING
 OPTION_DEVICE_VOICE_AUTO_PLAY,Auto-Play Voice Messages
 OPTION_ACCOUNT_COMPENSATION_BUTTON,Claim Link Account Reward
@@ -1309,6 +1351,7 @@ PARTY_CALL_MOVE,"<FontGreen>[WorldName]</>
 Accept the summon? <FontRed>[Seconds]</> sec"
 PARTY_SPOT_MOVE_ASK,"<FontGreen>[WorldName]</>
 Go to where the party is gathering? <FontRed>[Seconds]</> sec"
+PARTY_NAME_ERROR,Enter the party name.
 PATCH_FAILED,File download failed.
 PATCH_FAILED_CONNECT,Failed to Connect to the Patch Server
 PATCH_FAILED_PAK_FILE_LOAD,Files were corrupted. The download will restart.
@@ -1336,8 +1379,9 @@ PATCH_VERSION_CHECKING,Checking if any files were patched.
 PATCH_REQUIRED_SIZE,"[Download]MB of storage space is needed for the download, and [Total]MB of storage space is needed to download and install."
 PATCH_DELETE_TEMP,Organizing files...
 PK_HARASSMENT,You bullied a weakling!
-PK_NOT_PERMITTED_AREA,- PK is <blue>unavailable</> in this region.
-PK_PERMITTED_AREA,- PK is <red>available</> in this region.
+PK_NOT_PERMITTED_AREA,<FontWhite>- PK is </><FontBlue>not permitted</> <FontWhite>in this area.</>
+PK_PERMITTED_AREA,<FontWhite>- PK is </><FontRed>permitted</> <FontWhite>in this area.</> (Chaotic Value will rise.)
+PK_PERMITTED_FREE_AREA,<FontWhite>- PK is </><FontRed>permitted</> <FontWhite>in this area.</> (Chaotic Value doesn’t rise.)
 PLAY_RECORD_ARENA_WIN_COUNT,Total Win Count
 PLAY_RECORD_ARENA_WIN_STREAK,Longest Win Streak
 PLAY_RECORD_ATTENDANCE,Highest Consecutive Check-ins
@@ -1372,7 +1416,7 @@ PVP_BATTLE_LOG,Battle Log
 PVP_CURRENT_RANK,Current Rank
 PVP_DAILY_HONOR_POINT,Daily Honor Points
 PVP_DETAIL_VIEW,Details
-PVP_ENTER_NOT_ENOUGH_LEVEL,"Change: You cannot enter the Arena.
+PVP_ENTER_NOT_ENOUGH_LEVEL,"You cannot enter the Arena.
 (Available to players Lv. [Value] or higher
 who have completed
 <FontBlue>[Name]</>.)"
@@ -1541,6 +1585,8 @@ SHOP_NOBUY_LIMITED_MONTHLY,This month’s offers have sold out.
 SHOP_NOBUY_LIMITED_NONE,@SHOP_NOBUY_LIMITED
 SHOP_NOBUY_LIMITED_PERIOD,The limited-time offers have sold out.
 SHOP_NOBUY_LIMITED_WEEKLY,This week’s offers have sold out.
+SHOP_NOBUY_LIMITED_DAILYBENEFIT,You cannot purchase duplicate Daily Benefits.
+SHOP_NOBUY_LIMITED_ANNUITY,You cannot purchase duplicate Pension Items.
 SHOP_NOT_ENOUGH_ASSET,Not enough [Param] to make the purchase.
 SHOP_NOT_FULL_ASSET,Cannot purchase any more [Param].
 SHOP_PER_DAY,Once every [D] days
@@ -1551,6 +1597,8 @@ SHOP_REMAIN_DIAMOND,Unclaimed: [Count]
 SHOP_REWARD_INIT,Acquired every day after [H]!
 SHOP_SELL_PERIOD,Sale Period: [M]/[D]
 SHOP_TOPAZ_REWARD_DESC,[Count] Topaz(es) for every [D] Daily Rewards!
+SHOP_SOLDOUT,"The limited quantity has been sold out.
+(Available for purchase after <RedBold>[Day]</> day(s).)"
 SIEGE_LEAVE_CONFIRM,"[Type] is not over yet.
 Leave [Type]?"
 SIEGE_STATE_BIDDING,Remaining Bid Time:
@@ -1563,12 +1611,18 @@ SIEGEWAR_ATTACKER_WIN,Attacker [Number] was victorious.
 SIEGEWAR_DEFENDER_WIN,Siege Defender has won.
 SIEGEWAR_DESTROYED,[Name] was destroyed.
 SIEGEWAR_EVENT_ALTAR,[Name] belongs to clan [GuildName] for the next 3 minutes!
+FREESIEGE_EVENT_ALTAR,[Name] belongs to clan [TeamName] for the next 3 minutes!
 SIEGEWAR_EVENT_ALTAR_ACTIVE,[Name] was reset!
 SIEGEWAR_EVENT_ALTAR_START,Clan [GuildName] is imprinting the [Name].
 SIEGEWAR_EVENT_HOLY_ARTIFACT_CANCEL,Clan [GuildName] failed to imprint on the Holy Artifact.
 SIEGEWAR_EVENT_HOLY_ARTIFACT_ING,<FontRed>[RemainTime] sec</> remaining until clan [GuildName] imprints successfully!
 SIEGEWAR_EVENT_HOLY_ARTIFACT_START,Clan [GuildName] began to imprint on the Holy Artifact.
 SIEGEWAR_EVENT_PLAYER_PROMOTE,[Name] of clan [GuildName] has become <FontYellow>[GradeName]</>!
+FREESIEGE_EVENT_ALTAR_START,[TeamName] is imprinting the [Name].
+FREESIEGE_EVENT_HOLY_ARTIFACT_CANCEL,[TeamName] failed to imprint the Holy Artifact.
+FREESIEGE_EVENT_HOLY_ARTIFACT_ING,<FontRed>[RemainTime] sec</> remaining until [TeamName] imprints successfully!
+FREESIEGE_EVENT_HOLY_ARTIFACT_START,[TeamName] has begun imprinting the Holy Artifact.
+FREESIEGE_EVENT_PLAYER_PROMOTE,[Name] of [TeamName] has become <FontYellow>[GradeName]</>{[GradeName]}!
 SIEGEWAR_GUARD_TOWER_OCCUPIED,The Control Tower has been conquered.
 SIEGEWAR_LOSE,You lost.
 SIEGEWAR_OFFENSE_TOWER_DESTROYED,The Siege Headquarters was destroyed.
@@ -1653,6 +1707,7 @@ STAT_DETAIL_SUBCHAR_BONUS,Sub Character Effect
 STAT_DETAIL_SYNCHRO_ENCHANT,Enhanced Set
 STAT_DETAIL_PET,@AUCTION_GROUP_PET
 STAT_DETAIL_CHARACTER_TITLE,Title
+STAT_DETAIL_CAPE,@EQUIPMENT_CAPE
 STAT_DODGE_RATE,@EFFECT_DODGE_RATE
 STAT_DODGE_VALUE,@AUCTION_SUB_GROUP_DODGE
 STAT_EXP,Exp.
@@ -1923,9 +1978,10 @@ COMMON_COMPLETED_ACQUISITION,Acquired
 COMMON_COMPLETED_ALL,Completed All
 COMMON_COMPLETION_ABILITY,Complete Stats
 COMMON_CONGRATULATION,Congratulations!
-COMMON_CONTRIBUTION_POINT,@GUILD_WEEKLY_CONTRIBUTION_POINT
+COMMON_CONTRIBUTION_POINT,@COMMON_WEEKLY
 COMMON_COOLTIME,Cooldown
 COMMON_CRAFTING,Craft
+COMMON_UR_CRAFTING,UR 제작
 COMMON_CURRENT_LEVEL,Current Level
 COMMON_CURRENT_RANKING,Current Rank
 COMMON_CURRENT_RUNE_LEVEL,Current Rune
@@ -1947,6 +2003,7 @@ COMMON_EQUIP_PROMOTION,Upgrade
 COMMON_EQUIPMENT_ABILITY,Attributes:
 COMMON_ETC,@AUCTION_GROUP_ETC
 COMMON_EXP,@STAT_EXP
+COMMON_EXP_INCREASE_BONUS,EXP +[EXP](+[EXP2])
 COMMON_EXP_INCREASE,Exp. +[EXP]
 COMMON_EXPANSION,Expand
 COMMON_FORTRESS,@FORTRESS_SIEGE
@@ -1969,6 +2026,7 @@ COMMON_IMMEDIATELY,Now
 COMMON_IMMEDIATELY_COMPLETED,Complete
 COMMON_IMMEDIATELY_CONNECTED,Connect Now
 COMMON_IMMEDIATELY_MOVE,Go Now
+COMMON_IMMEDIATELY_SWEEP,Instant Clear
 COMMON_INVITE,@COMMON_INVITATION
 COMMON_KICKOUT,Kick
 COMMON_LEARN_LEVEL,Learned at Level
@@ -1994,6 +2052,7 @@ COMMON_POSSESSION,Owned
 COMMON_NO_POSSESSION,Not owned
 COMMON_NORMAL_ENCHANT,Enhance
 COMMON_NOTICE,@COMMON_ALARM
+COMMON_NOTICE2,Notice
 COMMON_OK,OK
 COMMON_ONE_MORE_TIME,One More Time
 COMMON_PACKAGE,Bundle
@@ -2208,6 +2267,7 @@ EXPANSION_NEED_MONEY,"[9999] more [재화이름]
 is required to expand your inventory."
 EXPANSION_SLOT,New Slots
 EXPANSION_SLOT_CHECK,Purchase additional slots?
+EXPANSION_STORAGE_SLOT_CHECK,Purchase additional [StorageName] slots?
 FAVORITE_CLEAR,Stop Watching
 FAVORITE_REGISTER,Watch
 FEVER_TEXT,FEVER
@@ -2231,6 +2291,11 @@ FORTRESS_SIEGE_GUIDE,@FORTRESS_DESC
 FORTRESS_SIEGE_STARTTIME_LABEL,Fortress Siege Start
 FORTRESS_SIEGE_STRUCTURE,Fortress Layout
 FORTRESS_STORE,Conquer Shop
+FORTRESS_PLAY_RECORD_HERO_SCORE,Total Hero Points
+FORTRESS_HEROIC_LEVEL,@STAT_DETAIL_HEROIC_LEVEL
+FORTRESS_SCORE_1ST_CONDITION,No. 1 Score Requirement
+FREE_FORTRESS_DESC,"An epic battle fought on equal footing!!
+30 vs 30 real-time Open Siege."
 FREE_DIAMOND,Free Diamond
 FREE_MISSION_REFRESH_NOTICE,(Free: 3 times)
 FRIEND_FACEBOOK,Facebook Friends
@@ -2482,7 +2547,7 @@ HERB_DESC,[Herb Description]
 HERB_NAME,[Herb Name]
 HONOR_POINT_COUNT,@COUNT
 HOSTILITY,Hostility
-HOSTILITY_DESCRIPTION,Attack all players other than party members/friends/clan members
+HOSTILITY_DESCRIPTION,Attack all players other than Friends/Clan Members/Allied Clan Members
 IMMEDIATELY_GET_REWARD,Instant Claim Reward
 INCREASE_BONUS_PERCENT,Bonus Chance Increase
 INPUT_ITEM_NAME,Enter the item name.
@@ -2495,6 +2560,7 @@ INSTANT_COMPLETE_BTN,@INSTANT_COMPLETE
 INSTANT_CONTENTS_NAME,[Title Name]
 INSTANT_REWARD_ALL,Reward 100%
 INVEN_FULL_NOTICE,Your inventory is full. Try expanding your inventory.
+INVEN_STORAGE_FULL_NOTICE,[StorageName] is full. Purchase more slots.
 INVITE_PROGRESS,Inviting
 ITEM_ABILITY_DESC,@EQUIPMENT_ABILITY_UP_DESC
 ITEM_CATEGORY,[Item Category]
@@ -2562,7 +2628,7 @@ MONSTER_NAME,[Monster Name]
 MONSTER_TEXT,Monster
 MONTHLY_ACCESS_REWARD,Monthly Login
 MURDER,Bloodthirst
-MURDER_DESCRIPTION,Attack all players other than party members
+MURDER_DESCRIPTION,Attack all players
 MY_BATTLE_POINT,My CP
 MY_CORRENT_LEVEL,My Current Level
 MY_MESSAGE,[My Message]
@@ -2626,6 +2692,7 @@ POPUP_INVEN_NOTICE,[Pop Up Message]
 POPUP_MESSAGE,[Pop Up Message]
 PORTAL_AVAILABLE_LV,Movement Possible Level Lv.
 PORTAL_MOVE_BTN,Teleport
+PORTAL_MOVE_TOMONSTER,Travel to Boss
 PORTAL_MOVE_MESSAGE,Go to [포탈이름]?
 PORTAL_MOVE_SELECT,Select Portal to Go to
 PORTAL_NOT_ENOUGH_LV,"Your level is not high enough
@@ -2644,7 +2711,7 @@ PVP_HONOR_RANK_LEVELUP,Honor Rank Increased
 PVP_LOSE_MESSAGE,You Lose
 PVP_RANK_LEVEL,Rank
 PVP_WIN_MESSAGE,You Win
-QUANTITY,Quantity
+QUANTITY,@INVENTORY_MOVE_COUNT
 QUEST_AVAILABLE_LEVEL,Quest Available Level
 QUEST_ENCOURAGE_LEVEL_UP,Reach level <YellowBold>[Level]</>
 QUEST_COMPLETD_STATE,[Quest Completed Status]
@@ -2802,6 +2869,8 @@ STAT_PHYSICAL_ATTACKPOWER,P. Atk.
 STAT_PHYSICAL_DEFENSEPOWER,P. Def.
 STATUS_NAME,@STAT_NAME
 STATUS_SOUL_CRYSTAL,[Soul Crystal Stat]
+STORAGE_CANNOTMOVE_ITEM_ALL,Only [Count] items were moved because the [StorageName] is full. Make room in the [StorageName] before you retry with the remaining items.
+STORAGE_CANNOTMOVE_ITEM_ALL2,Only [Count] items were moved because the Inventory is full. Make room in the Inventory before you retry with the remaining items.
 SUB_ACHIEVEMENT,@ACHIEVEMENT
 SUB_ACTIVITY,Activity
 SUB_CHARACTER,@STAT_DETAIL_CHARACTER
@@ -2822,10 +2891,17 @@ SUB_SLAUGHTER,Blood Ranger
 SUB_SMITHY,@EQUIPMENT_ENHANCEMENT
 SUB_SOULCRYSTAL,@AUCTION_GROUP_SOULSTONE
 SUB_JOURNEY,Journey Event
+SUB_DUNGEON,Normal Dungeon
+SUB_PARTYDUNGEON,Temporal Rift
+SUB_CAPE,@EQUIPMENT_CAPE
+SUB_EVENTGACHA,Lucky Box
 SURPRISE_EVENT,Surprise Box
 SURPRISE_EVENT_DESCRIPTION,There’s a chance for monsters to drop Surprise Boxes when you kill them.
 SWEEP,Auto-Clear Reward
 SWEEP_REWARD,@SWEEP
+SWEEP_REWARD_GUIDE,Auto-Clear is available for a dungeon after it has been cleared once.
+SWEEP_REWARD_OPEN_GUIDE,@SWEEP_REWARD_GUIDE
+SWEEP_REWARD_OPEN_GUIDE_RANK,Auto-Clear is available after clearing a dungeon with [Rank] or higher.
 SYSTEM_MESSAGE,[System Message]
 TAKE_POSSIBLE_MONSTERCORE,Acquirable Monster Cores
 TALK_INPUT_NOTICE,@CHAT_HINT_NORMAL
@@ -2930,9 +3006,9 @@ GUILD_SHOP_PURCHASE_RESTRICT_FOR_MASTER,"Can only be purchased by the clan leade
 and the buff will be applied to all clan members."
 ITEM_LACK_HUNTING,Can be acquired as Field Battle Loot.
 ITEM_LACK_QUEST,Can be acquired as a quest reward.
-ITEM_URCRAFTING_POPUP_GUIDE,Increased Combat Power Upon Completion
+ITEM_URCRAFTING_POPUP_GUIDE,Combat Power Increases after Application
 ITEM_URCRAFTING_POPUP_ACQUIREBUTTON,Where to Acquire
-ITEM_URCRAFTING_POPUP_OKBUTTON,Apply
+ITEM_URCRAFTING_POPUP_OKBUTTON,Insert Materials
 ITEM_URCRAFTING_EMPTY_GUIDE1,Select the equipment to craft.
 ITEM_URCRAFTING_EMPTY_GUIDE2,"You can only craft weapons and armor
 of Grade SR and Lv. 30 and higher."
@@ -2941,11 +3017,13 @@ All equipment stats besides level will be preserved after Upgrading.
 However, Exp. used for Transcend level will be transferred."
 ITEM_URCRAFTING_GUIDE2,"Equipment stats increase at each tier
 and fulfilling crafting increases the stats greatly."
+ITEM_URCRAFTING_GUIDE3,Crafting will be available when all 4 crafting materials have been inserted.
 ITEM_URCRAFTING_OKBUTTON,Craft
 ITEM_CRAFTING_PERIOD_DAILY,Daily Limit
 ITEM_CRAFTING_PERIOD_WEEKLY,Weekly Limit
 ITEM_CRAFTING_PERIOD_MONTHLY,Monthly Limit
 ITEM_CRAFTING_SHOW_CRAFTING_ITEM,View only craftable items
+ITEM_URCRAFTING_PREVIEW,View Stat Increase
 ITEM_MIX_WARNING,Includes items of Grade S or higher. Proceed to bind?
 ITEM_CRAFTING_EMPTY_GUIDE,Select the item to bind.
 ITEM_DISASSEMBLE_GUIDE1,Select the item from your inventory to salvage.
@@ -3019,7 +3097,7 @@ ADENA_DUNGEON,Adena Vault
 EQUIP_DUNGEON,Temple Guardian
 ENCHANT_SCROLL_DUNGEON,Enhance Scroll Dungeon
 SUMMON_STONE_DUNGEON,Summoning Circle
-SUMMON_DUNGEON,Evil Summoning Stone Dungeon
+SUMMON_DUNGEON,Monster Dungeon
 MONSTER_SPAWN_ALARM,[Name] has appeared!!! Defeat the monster to obtain rare items.
 PURCHASE_CASE_INVENTORY_FULL,"Your inventory is full, so the items will be sent to your Mailbox."
 NPC_RACE_TYPE_HUMAN,Human
@@ -3097,6 +3175,15 @@ HOT_TIME_MOUNT,Bonus Time
 DAILY_RECEIVE_TOPAZ_COUNT,10 Topazes for every 8 daily rewards!
 DAILY_RECEIVE,Daily Reward
 ADENA_DUNGEON_TIP,Tip. Defeat the boss once to enable Auto-Clear.
+DUNGEON_SWEEP_TIP,The Auto-Clear reward is same as the reward you received for your best dungeon attempt.
+DUNGEON_SWEEP_ERROR_01,There is no record of having cleared the dungeon.
+DUNGEON_SWEEP_ERROR_02,You have reached the daily Auto-Clear limit.
+DUNGEON_SWEEP_ERROR_03,Not enough Auto-Clears.
+DUNGEON_SWEEP_CLEAR,Auto-Clear Complete
+SWEEP_TICKET_POSSESSION,Auto-Clear Owned:
+SWEEP_AVAILABLE_COUNT,Auto-Clear Available:
+POSSIBLE_SWEEP_COUNT,Auto-Clear Available: [Count]
+FREE_SWEEP_ENTER,Free Auto-Clear
 COMMON_DESCENDING,Descending
 COMMON_ASCENDING,Ascending
 COMMON_IMMEDIATELY_ENTER,Enter Now
@@ -3264,105 +3351,12 @@ COMMON_TAX,@COMMON_TAX_RATE
 MVP_INFORMATION,MVP Info
 REWARD_INFORMATION,Reward Info
 FORTRESS_SIEGE_HOLY_ARTIFACT_GUIDE,The clan that imprints on the enemy’s Holy Artifact conquers the fortress. Only the clan leader can imprint.
+FREESIEGE_SIEGE_HOLY_ARTIFACT_GUIDE,"The clan that imprints the opponent’s Fortress first, wins."
 FORTRESS_SIEGE_TAB_TALKINGISLAND,Talking Island
 FORTRESS_SIEGE_TAB_GLUDIO,Gludio
 FORTRESS_SIEGE_TAB_DION,Dion
 FORTRESS_SIEGE_TAB_GIRAN,Giran
 FORTRESS_SIEGE_TAB_OREN,Oren
-BLUE_TEAM,Blue Team
-BROADCAST_FREEFORTRESS_BEFORE_START_15MIN,Open Siege begins in 15 minutes. Participation requests currently available.
-BROADCAST_FREEFORTRESS_BEFORE_START_30MIN,Open Siege begins in 30 minutes. You may now request to participate.
-BROADCAST_FREEFORTRESS_BEFORE_START_5MIN,Open Siege begins in 5 minutes. Participation requests currently available.
-BROADCAST_FREEFORTRESS_END,Open Siege has ended.
-BROADCAST_FREEFORTRESS_START,Open Siege has begun! You can still participate.
-BROADCAST_FREEFORTRESS_START_LATER_10MIN,Open Siege in progress. You can still participate.
-BROADCAST_FREEFORTRESS_START_LATER_20MIN,@BROADCAST_FREEFORTRESS_START_LATER_10MIN
-FREEFORTRESS_ALTAR_ALL_OCCUPIED,"[TeamName] has imprinted all the altars, amplifying the power of the altars."
-FREESIEGE_APPLY_TEAM_LEADER,Volunteer to be Team Leader.
-FREESIEGE_CARVING_SUCCESS, has successfully imprinted a Holy Artifact!
-FREESIEGE_CHARACTER_SELECT_OK,Character Change Complete
-FREESIEGE_CHARACTER_SELECT_WAIT_TIME,Change Cooldown [MM:SS]
-FREESIEGE_CLASS_CHANGE,Change Class
-FREESIEGE_CLASS_CHANGE_PROGRESSBAR,Go to Change Class
-FREESIEGE_CLASS_PREVIEW,Class Appearance
-FREESIEGE_CONTRUBUTION_REWARD,Contribution
-FREESIEGE_DEATH_TITLE,Killed by [Name] of [TeamName].
-FREESIEGE_ENTER,Enter Open Siege
-FREESIEGE_ENTERANCE,@FREESIEGE_ENTER
-FREESIEGE_ENTERANCE_CANCEL,Cancel request
-FREESIEGE_ENTERANCE_ERROR,Cannot enter an Open Siege from this area.
-FREESIEGE_ENTERANCE_MIDDLEWAY,Participate midway
-FREESIEGE_ENTERANCE_PLAYING,@QUEST_STATE_PROGRESSING
-FREESIEGE_ENTERANCE_POPUP_TITLE,Ready to enter Open Siege
-FREESIEGE_ENTERANCE_POSSIBLE,Available for entrance request
-FREESIEGE_ENTERANCE_READY,Request Complete
-FREESIEGE_EVENT_ALTAR,[Name] belongs to clan [TeamName] for the next 3 minutes!
-FREESIEGE_EVENT_ALTAR_START,[TeamName] is imprinting the [Name].
-FREESIEGE_EVENT_HOLY_ARTIFACT_CANCEL,[TeamName] failed to imprint the Holy Artifact.
-FREESIEGE_EVENT_HOLY_ARTIFACT_ING,<FontRed>[RemainTime] sec</> remaining until [TeamName] imprints successfully!
-FREESIEGE_EVENT_HOLY_ARTIFACT_START,[TeamName] has begun imprinting the Holy Artifact.
-FREESIEGE_EVENT_PLAYER_PROMOTE,[Name] of [TeamName] has become <FontYellow>[GradeName]</>{[GradeName]}!
-FREESIEGE_EXIT_DESC,It is impossible to enter an Open Siege once the entrance count has already been reduced.
-FREESIEGE_EXIT_TITLE,Join an Open Siege?
-FREESIEGE_FIGHT_RECORD,Battle Log
-FREESIEGE_FINAL_SCORE,[Value] points
-FREESIEGE_FINAL_SCORE_DESC,Final Points
-FREESIEGE_INVITE_PARTYMEMBER_EMPTY,No party members available for invite.
-FREESIEGE_KILL_DEATH,[Value] killed/ [Value] deaths
-FREESIEGE_KILL_DEATH_DESC,K/D
-FREESIEGE_LAST_SELECT_CLASS,Final Class Selection
-FREESIEGE_ACCRUE_RECORD,Total Battle Record
-FREESIEGE_CLOSE,Open Siege has ended
-FREESIEGE_FIRST_PLAY_CLASS_INFO,No battle record
-FREESIEGE_LOBBY_TIP_LIST,"1. Select your desired class to participate.
-2. All characters will have equal stats.
-3. All players can use Holy Artifact Imprinting, a requirement for victory.
-4. Complete sub-missions to acquire better rewards."
-FREESIEGE_MATCHING_WAIT,Request complete. Matching...
-FREESIEGE_MISSION_SCORE,Mission Score
-FREESIEGE_PLAY_TIME,Time:
-FREESIEGE_PLAY_TIME_DESC,[Time1] - [Time2] Available
-FREESIEGE_PLAYER_CARVING,Imprinting
-FREESIEGE_PLUS_SCORE,+[Count] point(s)
-FREESIEGE_RARE_PET_NAME,Steam Beetle
-FREESIEGE_RARE_PET_TIP,Complete achievements fighting in Open Sieges to get a special rare mount and summoning stones.
-FREESIEGE_RARE_PET_TITLE,Achievement Reward
-FREESIEGE_RESULT_TITLE_DRAW,@COMMON_DRAW
-FREESIEGE_RESULT_TITLE_LOSE,@COMMON_LOST
-FREESIEGE_RESULT_TITLE_WIN,@COMMON_WIN
-FREESIEGE_SCOREBOARD,Open Siege Status
-FREESIEGE_READY_OK,Complete
-FREESIEGE_READY_WAIT,Preparing...
-FREESIEGE_RECORD,Overall Record
-FREESIEGE_REMAIN_TIME,[Hour]:[Minute]:[Second] remaining
-FREESIEGE_RESULT_REWARD,Result
-FREESIEGE_RESULT_SCORE,Score
-FREESIEGE_REWARD_CHECK,View Reward
-FREESIEGE_REWARD_TITLE,@INSTANT_AVAILABLE_REWARD_LIST
-FREESIEGE_SELECT_CLASS,Select Class
-FREESIEGE_SIEGE_HOLY_ARTIFACT_GUIDE,"The clan that imprints the opponent’s Fortress first, wins."
-FREESIEGE_SKILL_CHANGE_AFTER,Skill Settings
-FREESIEGE_SKILL_CHANGE_BEFORE,Skill Settings
-FREESIEGE_TEAM_MEMBER,Team Member
-FREESIEGE_SKILL_REGISTER,Registered Skill
-FREESIEGE_SKILL_SETTING_CHANGE,Change Skill Setting
-FREESIEGE_SKILL_SETTING_CONDITION,Skill setting changes are available after reaching Lv. 31.
-FREESIEGE_SKILL_SETTING_OK,Skill Setting Complete
-FREESIEGE_SKILL_UNIQUESKILL_CONDITION,Rare Skill (Lv.100)
-FREESIEGE_START_DAY,[Day] Weekly
-FREESIEGE_SUBMISSION_COMPLETE,Sub-mission complete! [Count] point(s) acquired!
-FREESIEGE_SUBMISSION_TITLE,Sub-Mission
-FREE_FORTRESS_DESC,"An epic battle fought on equal footing!!
-30 vs 30 real-time Open Siege."
-FREESIEGE_TITLE,Open Siege
-FREESIEGE_TITLE_30,30 vs 30 Open Siege
-FREESIEGE_TITLE_DESC,This is a 30 vs 30 open siege fought in real-time. Anyone can participate. Experience an epic battle with your team.
-FREESIEGE_TITLE_TIP,Fight alone or with a party in Open Siege. Any character or class can be selected and all characters will fight with equal stats.
-FREESIEGE_TRY_COUNT,[Count]
-FREESIEGE_WIN_RATE,Win Rate
-FREESIEGE_WIN_TIE_LOSE,[WinCount]W [TieCount]D [LoseCount]L
-LOCAL_PUSH_FREESIEGE_RECRUIT_OPEN,Open Siege participation requests now available.
-RED_TEAM,Red Team
 GUILD_INVITE_ACCEPT_NOTIFY,[Name] joined the clan.
 GUILD_INVITE_PENALTY,This player can be invited after [TimeValue].
 NOW_GUILD_MEMBER_NUMBER,Current Clan Members
@@ -3450,6 +3444,7 @@ Acquire from the 5 vs 5 Courageous Battlefield."
 ASSETS_ANCIENTCOIN,"Use at Honor Coin Trader.
 Acquire from the 20 vs 20 Ancient Battlefield."
 ASSETS_GREENDIAMOND,Used to purchase items in the Trading Post. Available as a level up reward and through playing the game.
+ASSETS_SOULPOWDER,Exchange Monster Cores to acquire this currency. Other cores are available in the Core Exchange Shop.
 OPTION_DEVICE_PUSH_NIGHT,Night Notification (21:00-08:00)
 OPTION_DEVICE_PUSH_GUILDMAIL,Clan Mail Notification
 OPTION_DEVICE_PUSH_FREE_GACHA,Free Box Notification
@@ -3611,6 +3606,8 @@ BROADCAST_BATTLEFIELD_BEFORE_START,[BattlefieldName] starts in [Param1] min. Pre
 BROADCAST_BATTLEFIELD_START,[BattlefieldName] has opened. Join the fight!
 BROADCAST_BATTLEFIELD_DAILY_END_RANK,Today’s [BattlefieldName] Rank 1 is [Name]!
 BROADCAST_BATTLEFIELD_DAILY_END_RANK_GUILD,Today’s [BattlefieldName] Rank 1 is [Name] of clan [GuildName]!
+BROADCAST_EVENTGACHA_RANK,[Name] has won the #[Rank] prize in the Lucky Box Event.
+BROADCAST_EVENTGACHA_RANK_GUILD,[Name] of [GuildName] has won the #[Rank] prize in the Lucky Box Event.
 SOULCRYSTAL_LEVELUP_GUIDE,Select the Soul Crystal to Level Up.
 SOULCRYSTAL_LIST_GUIDE,You have no Soul Crystals.
 SOULCRYSTAL_CHOICE_GUIDE,Select the equipment piece to equip the Soul Crystal.
@@ -4026,6 +4023,18 @@ QUEST_ACTION_17137_1,The crystal seems to be related to the defense system on th
 QUEST_ACTION_17137_2,You don’t feel any Mana from the crystal.
 QUEST_ACTION_17137_3,The defense system doesn’t seem like it will activate.
 QUEST_ACTION_11017306_1,Received a small soul collector from Kutcher.
+QUEST_ACTION_11008901_1,Acquired the Giants’ Human Experiment Research Materials.
+QUEST_ACTION_11008901_2,Acquired the Giants’ Animal Enhancement Research Materials.
+QUEST_ACTION_11008901_3,Acquired the Giants’ Soul Enhancement Research Materials.
+QUEST_ACTION_11008901_4,Acquired the Giants’ Kamael Research Materials.
+QUEST_ACTION_11008901_5,Acquired the Giant’s Box.
+QUEST_ACTION_11008901_6,Power Unit has stopped.
+QUEST_ACTION_11008901_7,Acquired Guard Unit Alpha’s Mana Device.
+QUEST_ACTION_11011120_42,Sir Alexander and Abelino seem critically wounded.
+QUEST_ACTION_11011120_45,Abelino used last remaining strength to transport you.
+QUEST_ACTION_11011120_46,@QUEST_ACTION_11011120_45
+QUEST_ACTION_11018101_3,Found a uniquely marked bracelet.
+QUEST_ACTION_11018102_5,Found a directive sealed with wax!
 QUEST_PARAM_36_1,You received Veda’s bill collection list.
 QUEST_PARAM_36_2,You received a green diamond as payment from Gairan.
 QUEST_PARAM_36_3,You received Adena as payment from Patton.
@@ -4073,7 +4082,7 @@ QUEST_PARAM_1007515_3,The layer of skin has been damaged.
 QUEST_PARAM_1008504_3,It reeks of alcohol.
 QUEST_PARAM_1008511_3,The poison sac has burst.
 QUEST_PARAM_1009202_3,You do not have any tributes.
-QUEST_PARAM_1009203_9,You do not have any shamanic talismans.
+QUEST_PARAM_1009203_9,Didn't find any Talismans.
 QUEST_PARAM_11012103_3,This creature does not have a spell stone.
 QUEST_PARAM_11012104_3,The nucleus was destroyed in battle.
 QUEST_PARAM_11012107_3,Teeth were broken in battle.
@@ -4188,7 +4197,7 @@ AGIT_QUEST_COMPLETE_BROADCAST,[Name] has done a Clan Hall Quest for the clan.
 AGIT_QUEST_REWARD_TITLE,Clan Hall Quest Complete
 AGIT_QUEST_LIST_PLAYER,Solo Quest List
 AGIT_QUEST_LIST_GUILD,Clan Quest List
-AGIT_QUEST_LIST_GUILD_FULL,Clan Quest Total List
+AGIT_QUEST_LIST_GUILD_FULL,Clan Quest List
 AGIT_QUEST_TIP_PLYAER,Solo Quests reset daily and only one is available each day.
 AGIT_QUEST_TIP_GUILD,"Anyone can contribute to Clan Quests, and up to 3 can be worked on at once."
 AGIT_QUEST_START,Perform
@@ -4281,11 +4290,13 @@ CHARACTER_CLASS_TREE_TEXT,See Class Tree
 COMMON_HELP_POPUP,View Help
 CANT_DUNGEON_ENTER_DEAD,You cannot enter the dungeon while your character is dead.
 CANT_AGIT_ENTER_DEAD,You cannot enter the Clan Hall while your character is dead.
+CANT_TOWN_ENTER_DEAD,You cannot enter the town while your character is dead.
 CANCEL_DUNGEON_ENTER_MEMBER_DEAD,A party member is dead and the dungeon entry was canceled as a result.
 CHARACTER_DEAD,Dead Character
 GATHERING_INTERRUPTED,Another player is already extracting.
 COMBO_ADD_REWARD,Treasure chest Reward
 FORTRESS_ALTAR_ALL_OCCUPIED,"[GuildName] has imprinted on all the altars, amplifying the power of the altars."
+FREEFORTRESS_ALTAR_ALL_OCCUPIED,"[TeamName] has imprinted all the altars, amplifying the power of the altars."
 MAIL_COUNT,Owned Mail
 MAIL_FULL_CLOSE_ALARM,Your Mailbox is almost full. You cannot receive new mail until you clear some space.
 MAIL_ALL_COUNT,Mail Count
@@ -4305,7 +4316,7 @@ PACKAGE_CANCEL_ALERT,You can only buy this in this window and will be unable to 
 PORTAL_SCROLL_MESSAGE_WEEKLYMISSION,Moving to the specified region.
 PVP_ATTENDTICKET_BUY_OVER,You’ve reached your maximum entry count for the Arena.
 GUILD_BUFF_RESET_TIP,The clan buff can last up to 1 hour.
-PARTY_DUNGEON_ERROR_MESSAGE,You cannot do that inside a party dungeon.
+PARTY_DUNGEON_ERROR_MESSAGE,You cannot do that inside a Temporal Rift.
 ATTENDANCE_BEGINNER,New Players
 ATTENDANCE_RETURNER,Returning
 HELP_NOTIFY,Visit the official community for detailed information.
@@ -4315,8 +4326,8 @@ GUILD_EMBLEM_NOT_CHANGED,Please select an emblem and a border.
 GUILD_EMBLEM_CHANGE_CONFIRM,Change emblem by using [Cost] Diamond(s)?
 INDISPENSABLE_BATTLE_POINT,@RECOMMEND_BATTLE_POINT
 SOUL_CRYSTAL_EQUIP_SAMECOLOR,Equip a Soul Crystal that matches the color of the slot.
-OPTION_GRADE_TOGGLE_LOWER,Grade (High)
-OPTION_GRADE_TOGGLE_UPPER,Grade (Low)
+OPTION_GRADE_TOGGLE_LOWER,Grade (Low)
+OPTION_GRADE_TOGGLE_UPPER,Grade (High)
 ALERT_CASTLESIEGEFESTIVALCOUPON_OVERFLOW,Max capacity of Castle Siege Festival Coupons reached
 ALERT_SKILL_POINT_OVERFLOW,Max capacity of Skill Points reached
 ALERT_PVP_TICKET_OVERFLOW,Max capacity of Arena Tickets reached
@@ -4483,13 +4494,13 @@ GUILD_AGIT_DINNER_ORDER_ANOTHER_USER,[Name] has prepared a Clan Hall feast.
 GUILD_AGIT_DINNER_GADGET_COUNT_STRING,[Count] servings
 GUILD_AGIT_GADGET_FLOATING_NAME,Prepared by [Name]
 GUILD_AGIT_AUTO_EMPLOY_TIP,The Clan Hall Keeper is reset every week.
-CHAOTIC_STAT_DESCRIPTION,- Your Chaotic Value is <RedFont>[Value]</>.
+CHAOTIC_STAT_DESCRIPTION,<FontWhite>- Chaotic Value is </> <FontRed>[Value]</> <FontWhite>.</> (Drops for every [Value2] Monsters slain)
 CHAOTIC_STAT_GUIDE,Hunt [Value] monsters to decrease the Chaotic Value by 1.
 LOW_MEMORY_ALERT_BY_OPTION_CHANGE,"You do not have enough memory on your device for this option,
 which may cause unwanted results.
 Are you sure you want to proceed?"
-COMMON_COUNTER,Counterattack
-COMMON_COUNTER_DESCRIPTION,Retaliate against the player who attacked you first
+COMMON_COUNTER,@COMMON_DEFENSE
+COMMON_COUNTER_DESCRIPTION,"Peace Mode, but retaliate against the player who attacked you first"
 STARGRADE_TUTORIAL,"May there be glory in your journey, warrior! Please rate us since you just got such an amazing equipment!"
 STARGRADE_EQUIP_RGRADE,"You acquired a powerful equipment that suits you well, warrior! Give us a star rating that’s as amazing as your new equipment!"
 COMMON_BATTLEFIELD_3V3,Honorable Battlefield
@@ -4700,7 +4711,7 @@ MELEE_ENTER_DESC1,Enter the Scrimmage Arena?
 MELEE_ENTER_DESC2,"<FontYellow>PK</> based on the <FontYellow>PK Mode</> settings.
 Your <FontRed>Chaotic Value</> will not increase."
 WORLDBOSS_EXIST,World Boss Exists or Not
-WORLDBOSS_ENTER,World Boss Enters
+WORLDBOSS_ENTER,World Boss Entrance
 COMMON_ENTER_NUMBER,Party Size
 GUILD_DODGE,@AUCTION_SUB_GROUP_DODGE
 GUILD_FORCE_DECLARATION,Attack Regardless
@@ -4733,10 +4744,10 @@ WORLD_BOSS_ENTER_FAIL_NOT_REMAIN_TICKET,Insufficient [BossName] tickets. Unable 
 WORLD_BOSS_ENTER_FAIL_BOSS_DIE,[BossName] has been defeated. You cannot enter at this time.
 WORLD_BOSS_ENTER_FAIL_PLAYER_FULL,Reached the limit for participants. Try entering next time.
 WORLD_BOSS_ENTER_FAIL_BOSS_REVIVING,[BossName] is preparing to revive. Please wait a minute.
-WORLD_BOSS_ENTER_BOSS_EXIST,You can feel [BossName]’s bloodthirst.
+WORLD_BOSS_ENTER_BOSS_EXIST,[BossName] awaits you.
 WORLD_BOSS_ENTER_BOSS_NOT_EXIST,The World Boss doesn’t exist right now.
 WORLD_BOSS_KICKOUT,You are forcefully moved to the field because of [BossName]’s powerful energy.
-COMMON_MONSTER_EXIST,Exists
+COMMON_MONSTER_EXIST,Alive
 AGIT_QUEST_MASTER_COMPLETE,Immediately Completed by Leader
 PVP_MY_HONOR_RANK,My Honor Rank
 PVP_MY_HONOR_RANK_GUIDE,Earn bonus stats from your Honor Rank.
@@ -4779,9 +4790,10 @@ COMPLETE_ALLREWARD,Use Perfect Claim All?
 GET_RESTREWARD,Get double Recess rewards?
 SHOP_PURCHASE_DIA_NOTICE,Blue Diamonds are used.
 USEDIA_INVENTORY_EXPANDED,Expand inventory?
+USEDIA_STORAGE_EXPANDED,Expand [StorageName]?
 CHANGE_OPTION,Change substats?
 COMPLETE_RELIC,Complete Appraisal Now?
-WORLDBOSS_ENTER_TIP,You <RedBold>cannot enter</> the world for <RedBold>30 minutes before the World Boss appears</> because of the boss reset.
+WORLDBOSS_ENTER_TIP,You <RedBold>cannot enter</> until <RedBold>30 minutes before appearance</> due to boss reset.
 COMMON_MONSTER_DESPAWN,[MonsterName] has disappeared.
 ROLL_DICE,You can roll the dice.
 ROLL_DICE_REWARD_IN_ORDER,This Week’s Lap Completion Reward
@@ -4793,7 +4805,7 @@ PET_EQUIPMENT_HELMET,@AUCTION_SUB_GROUP_HELMET
 PET_EQUIPMENT_SADDLE,Saddle
 PET_EQUIPMENT_ARMOR,@AUCTION_HOUSE_TYPE_ARMOR
 PET_EQUIPMENT_HOOF,@AUCTION_SUB_GROUP_BOOTS
-ENCHANT_FAIL_REWARD_GUIDE,[VALUE] Maphr's Protection Fragments were sent to the Mailbox as consolation.
+ENCHANT_FAIL_REWARD_GUIDE,Enhancement failed. Consolation items have been sent to your Mailbox.
 AGIT_PLAYER_COUNT,Current Clan Hall Members: [VALUE]
 EQUIPMENT_ENCHANT_GUIDE_ON_EVENT,"A piece of equipment’s functions improve as the enhancement level increases.
 Receive Maphr's Protection Fragments when your enhancement fails."
@@ -4957,7 +4969,7 @@ COMBINATION_RECIPE02,Armor Recipe
 COMBINATION_RECIPE03,Accessory Recipe
 EQUIP_ENCHANT_PENALTY_GUIDE,"Equipment will not lose levels on failure at level +7, +10, and +20."
 EQUIP_ENCHANT_BARRIER_NOTICE,<FontYellow>Unsuccessful enhances do not reduce enhancement levels.</>
-EQUIP_ENCHANT_PROTECTIONJEWEL_NOTICE,Unsuccessful enhances do not reduce enhancement levels so there is no need to use Maphr’s Protection.
+EQUIP_ENCHANT_PROTECTIONJEWEL_NOTICE,Unsuccessful enhance attempts do not reduce enhancement levels.
 ITEMCRAFTRESULT_298,@AUCTION_SUB_GROUP_PROTECTIONJEWEL
 ITEMCRAFTRESULT_304,[Lv. 20] Quest Scroll
 ITEMCRAFTRESULT_307,@ITEMCRAFTRESULT_304
@@ -5025,7 +5037,7 @@ GUILD_PRIZE_SELECTED_NONE,"No clan member selected.
 (You can select one or more members to send rewards to.)"
 GUILD_PRIZE_COUNT,Reward Count
 GUILD_PRIZE_SELECTED_COUNT,[Count_1] ([Count_2] X [Count_3] Member(s))
-ITEMWORKSHOP,Workshop
+ITEMWORKSHOP,@QUESTSCROLL_WORKSHOP
 GETITEM_CASE_INVENTORY_FULL,"Your inventory is full, so the items will be sent to your Mailbox."
 CHARACTERTITLE_EQUIPPED_NONE,Title Unequipped
 CHARACTERTITLE_ACHIEVEMENT,Title Acquired
@@ -5355,7 +5367,6 @@ CHAT_LISTEN_ON_GUIDE,Listen to Chat Voice function has been turned on.
 CHAT_LISTEN_OFF_GUIDE,Listen to Chat Voice function has been turned off.
 PRIZE_SELECT_COUNT_FULL,You cannot select a player who has reached the weekly prize limit.
 FORUM_LOADING_DELAY,WebView connection is unstable. Try again later.
-CHAT_PROMOTE_BOSS_SUMMONS,[Name]’s Boss <FontBlue>[BossName]</> Summon Battle
 GUILD_WAR_END_OFFER,Request Termination of War Agreement
 GUILD_WAR_END_OFFER_PROGRESS,Termination of War Agreement In Progress
 GUILD_WAR_END_OFFER_ACCEPT,Accept Termination of War Agreement
@@ -5364,8 +5375,8 @@ CHARACTER_TITLE_UNEQUIP,Remove Title
 CHARACTER_TITLE_ACHIEVE,Acquire Title
 CHARACTER_TITLE_NOT_EQUIPED,There is no title equipped.
 CHARACTER_TITLE_LOSTED,You can no longer keep the “[TitleName]” title.
-GOOGLECONNECT,Logged into Google
-GOOGLEDISCONNECT,Log into Google
+GOOGLECONNECT,Google Play Connected
+GOOGLEDISCONNECT,Connect to Google Play
 GUILD_ATTEND_TODAY_COUNT,Today’s Participation Status
 GUILD_ATTEND_GUIDE1,"Hello and welcome!
 We’ve enjoyed greater profits thanks to ""[CharacterName]"" clan members!
@@ -5379,7 +5390,7 @@ Go on then! Tap Receive Gift!"
 GUILD_ATTEND_GUIDE_DONE,"Well? Do you like it?
 Raise the Total Contribution Points and Clan Hall level to get better gifts! See you again tomorrow!"
 GUILD_ATTEND_NPC_NAME,Peddler Pan
-GUILD_ATTEND_CHECK,Clan Hall General Merchant
+GUILD_ATTEND_CHECK,Clan Hall Merchant
 GUILD_ATTEND_TITLE,Peddler Pan’s Gift
 GUILD_ATTEND_REWARD_LIST,Pan’s Gift Level
 GUILD_ATTEND_OK,Receive Gift
@@ -5425,7 +5436,6 @@ CHAT_RECORD_GUIDE1,Tap and hold the Record button to record your voice.
 CHAT_RECORD_GUIDE2,Your voice message is sent immediately when you release the button.
 CHAT_RECORD_GUIDE3,Slide the Record button up to cancel recording.
 COMMON_BATTLEDECK_OPTION_NOTICE1,Auto Loot
-CHAT_PROMOTE_GUILD_DUNGEON,Conquest Support Request for <FontParty>[GUILDNAME]</> Clan Dungeon <FontYellow>[DungeonName]</><FontRed> ([Difficulty])</>
 GUILD_DUNGEON_HELP_OFF,Send a Help Request
 GUILD_DUNGEON_HELP_ON,Asking for Help Request
 BATTLEFIELD_COMING_END_NOTICE,[Name] regular season will soon end.
@@ -5519,7 +5529,7 @@ DUNGEON_WAVE_PROGRESS_END_2,You can leave using the Leave button.
 COMMON_DISTANCE,Distance Remaining: [Value]m
 COMMON_DISTANCE_LONG_GUIDE,The target location is in another territory. We recommend using a Portal.
 PORTAL_FREEMOVE_BTN,Move for Free
-PORTAL_FREE_MOVE_MESSAGE,Moving to this location for free.
+PORTAL_FREE_MOVE_MESSAGE,Traveling to this location for free.
 GREENDIAQUEST_USE_OVERLAP,There is already a quest in progress.
 OPTION_ALARM_TOAST_FRIEND,1:1 Chat Pop-up Notification
 OPTION_ALARM_TOAST_GUILD,Clan Chat Pop-up Notification
@@ -5543,11 +5553,14 @@ EVENT_CHARGE_RESET_TREASUREBOARD_GUIDE3,Reset becomes available after opening [C
 EVENT_TREASUREBOARD_ADDITION_USE_TITLE,Open Treasure Chest
 EVENT_TREASUREBOARD_ADDITION_USE,Open this slot with Adena?
 EVENT_TREASUREBOARD_RESET_GUIDE,Rest with [CurrencyType]?
-EVENT_TREASUREBOARD_TITLE,Feldheim’s Treasure Hunt
+EVENT_TREASUREBOARD_TITLE,Treasure Hunt
+EVENT_TREASUREBOARD_REWARD_GUIDE,미확인 결정체는 1 칸에 20 개씩 획득합니다.
 EVENT_ADDITION_USE_ADENA,Open with Adena
 REDUCE_ADENA,Adena Cost
 BATTLEDECK_SKILL_AUTO_ON,Selected skill will be used automatically.
 BATTLEDECK_SKILL_AUTO_OFF,Selected skill will not be used automatically.
+BATTLEDECK_SKILL_DESC1,Use Auto-Skill
+BATTLEDECK_SKILL_DESC2,Mark a skill to use the skill automatically.
 PK_PERMITTED_AREA_CHAOTIC_GUIDE1,Your Chaotic Value will not rise with PK.
 PK_PERMITTED_AREA_CHAOTIC_GUIDE2,Your Chaotic Value will rise with PK.
 GUILD_DUNGEON_HELP_INFO,Help Request Details
@@ -5573,7 +5586,6 @@ GUILD_INVITATION_BLOCK_CHECK,Block Clan Invitation
 GUILD_INVITATION_ACCEPT,Accept
 GUILD_INVITATION_DENY,Reject
 GUILD_INVITATION_PROMOTE,Advertise
-CHAT_PROMOTE_GUILD_SEARCH,Hoping to join <FontYellow>[PromoteMessage]</ clan.
 DUNGEON_NAME_1,Dungeon Name
 COMMON_DIFFICULTY,Difficulty
 REQUIRED_COMBAT,Required CP
@@ -5615,9 +5627,7 @@ GUILD_JOIN_REQUESTING_COUNT,Players Currently Invited
 GUILD_JOIN_REQUESTING_LIST_OPEN,Invitation Status
 COMMON_INVITATION_CANCEL,Cancel Invitation
 GUILD_JOIN_REQUESTING_LIST,Clan Invitation List
-EVENT_TREASUREHUNT_TIP,"You can open with Adena if you have insufficient Keys.
-The number of times you can open with Adena resets daily. You can reset the Treasure Board when you open 20 or more.
-The board will reset automatically without costing any points if all slots are opened."
+EVENT_TREASUREHUNT_TIP,You can open with Adena if you have insufficient Keys. The number of times you can open with Adena resets daily. You can reset the Treasure Board when you open 20 or more. The board will reset automatically without costing any points if all slots are opened.
 HAVE_EVENT_KEY,Keys Owned
 OPEN_TOTAL_COUNT,Total Open Count
 EVENT_LIST_TITLE,Revolution News
@@ -5637,6 +5647,75 @@ DECK_CHANGE,Change Deck
 DISABLE_AUTO_COMBAT,Auto-Battle is unavailable here.
 CANNOT_EVENT_JOURNEY,There is no journey available.
 REMAINING_TIME_TEXT,Remaining Time:
+WAITING_TIME_DESC_2,[Time] seconds left...
+REQUEST_HELP_COMPLETE,Help Request Complete
+OPTION_ALARM_TOAST,"Alarm Notifications
+(non-critical)"
+SHOP_DIA_REWARD_DESC2,@SHOP_DIA_REWARD_DESC
+CANNOT_EVENT_JOURNY_NEXT_STEP,Event time has expired and you cannot proceed.
+HERO_DUNGEON_QUEST_CONTESSA_01,Tark is in a cage at the edge of a cliff.
+HERO_DUNGEON_QUEST_CONTESSA_02,Found the keys hidden behind the documents.
+HERO_DUNGEON_QUEST_CONTESSA_03,"Angry Leeches saw their eggs disturbed, and are rushing in!"
+HERO_DUNGEON_QUEST_CONTESSA_04,Leech slime is blocking the road!
+HERO_DUNGEON_QUEST_CONTESSA_05,Obtained the keys from Douglas.
+HERO_DUNGEON_QUEST_CONTESSA_06,Turner seems to have passed away.
+HERO_DUNGEON_QUEST_CONTESSA_07,"Blood traces, which are signs of vampires, help disable the life drain."
+HERO_DUNGEON_QUEST_CONTESSA_10,"Day 4 of the 7th month, Year 24. Dear Diary, how long will these dull days last?"
+HERO_DUNGEON_QUEST_CONTESSA_11,"Day 10 of the 8th month, Year 24. Fate has brought me someone! I’ve never felt this way before..."
+HERO_DUNGEON_QUEST_CONTESSA_12,"Day 15 of the 10th month, Year 24. Day and night, two different lives. I can’t forsake either..."
+HERO_DUNGEON_QUEST_CONTESSA_13,"Day 4 of the 1st month, Year 25. Nothing from him since he left for the Devil's Isle... I wonder how he’s doing..."
+HERO_DUNGEON_QUEST_CONTESSA_14,"Day 2 of the 2nd month, Year 25. This life... At least I know that Leonard understands me."
+HERO_DUNGEON_QUEST_CONTESSA_15,"Day 9 of the 2nd month, Year 25. That’s it. I’m going to live my life with him regardless of what fate awaits us!"
+HERO_DUNGEON_QUEST_CONTESSA_16,"Leonard, I’m leaving. I won’t force you to come with me. - Trisha"
+HERO_DUNGEON_QUEST_CONTESSA_17,They’re dangerous. Protect Trisha until I arrive. - Zaken
+MONSTERBOOK_COLLECTING,Codex Collection
+MONSTERBOOK_SET,Set Effect
+MONSTERBOOK_CORE_BREAK,Salvage Core
+MONSTERBOOK_CORE_SHOP,Core Shop
+AUTO_DISASSEMBLE_TITLE,@ITEM_DISASSEMBLE_GUIDE1
+MONSTERCORE_BREAK_COUNT,Available count
+MONSTERBOOK_SET_TIP1,Fill all slots with cores to enjoy set effects.
+MONSTERBOOK_SET_TIP2,Only cores completed within the codex collection can be equipped.
+MONSTERBOOK_CORE_SHOP_REFRESH,Time Until Next Refresh:
+MONSTERBOOK_SET_APPLY,In Effect
+NOW_REFRESH,Refresh Now
+MONSTERBOOK_SET_C,Grade C:
+MONSTERBOOK_SET_B,Grade B:
+MONSTERBOOK_SET_A,Grade A:
+MONSTERBOOK_SET_S,Grade S:
+MONSTERBOOK_SET_R,Grade R:
+MONSTERBOOK_SET_POPUP,Select Core
+HERO_DUNGEON_QUEST_MADNESS_01,The Orcs here seem particularly dangerous.
+HERO_DUNGEON_QUEST_MADNESS_02,Be careful of the grenadier’s bombs.
+DUNGEON_ALERT_NPCSPAWN,<FontRed>[NPCName]</> has appeared! Be careful!
+DUNGEON_ALERT_NPCUSESKILL,<FontRed>[NPCName]</> uses <FontRed>[SkillName]</>.
+DUNGEON_ALERT_NPCGETBUFF,<FontRed>[NPCName]</> has acquired <FontBlue>[BuffName]</>.
+DUNGEON_ALERT_NPCLOSTBUFF,<FontRed>[NPCName]</> has lost <FontBlue>[BuffName]</>.
+DUNGEON_ALERT_PARTYGETBUFF,<FontBlue>[Name]</> has acquired <FontBlue>[SkillName]</>.
+DUNGEON_ALERT_PCGETBUFF,@DUNGEON_ALERT_PARTYGETBUFF
+DUNGEON_ALERT_PARTYLOSTBUFF,<FontBlue>[Name]</> has stopped using <FontBlue>[SkillName]</>.
+DUNGEON_ALERT_PCLOSTBUFF,@DUNGEON_ALERT_PARTYLOSTBUFF
+DUNGEON_ALERT_NPCHPRATE,<FontRed>[NPCName]</> HP: <FontRed>[HPRate]%</>
+DUNGEON_ALERT_BATTLETIME,Battle Elapsed Time: <FontRed>[BattleTime] seconds</>
+DUNGEON_ALERT_BEDROOMOFCONTESSA_ZAKEN_WARNING,<FontRed>1 minute</> until <FontRed>Zaken</> arrives.
+DUNGEON_ALERT_BEDROOMOFCONTESSA_ZAKEN_ALLIVE,<FontRed>Zaken</> has arrived.
+DUNGEON_ALERT_BEDROOMOFCONTESSA_LEONARD_ANEMIA,<FontRed>Leonard</> has become <FontRed>anemic</>. He is starting <FontRed>HP Drain</>!
+DUNGEON_ALERT_BEDROOMOFCONTESSA_LEONARD_BLOODYHELL,<FontRed>Leonard</> uses his blood to summon a <FontRed>Blood Clot</>!
+DUNGEON_ALERT_BEDROOMOFCONTESSA_VAMPIRETRANS_PARTY,<FontBlue>[Name]</> has become a <FontRed>vampire</>.
+DUNGEON_ALERT_BEDROOMOFCONTESSA_VAMPIRETRANS_SELF,Finished becoming a <FontRed>vampire</>.
+DUNGEON_ALERT_QUEENANT_BERSERKER,Queen Ant is berserk.
+PARTY_DUNGEON_FINISHTIME,Until [M]/[D] [H]:[m]
+PARTY_DUNGEON_TITLE,@SUB_PARTYDUNGEON
+PARTY_DUNGEON_TAB_01,Dungeon Details
+PARTY_DUNGEON_TAB_02,Leader
+PARTY_DUNGEON_TIP1,"When fighting monsters, use weapons with the <FontYellow>Pierce</> and the <FontYellow>Aegis</> attributes."
+PARTY_DUNGEON_TIP2,Equipping armor is recommended.
+PARTY_DUNGEON_HELPLIST_TITLE,Party Recruitment
+PARTY_DUNGEON_HELPLIST_REWARD_POSSIBLE,@COMMON_AVAILABLE
+PARTY_DUNGEON_HELPLIST_REWARD_IMPOSSIBLE,Unavailable
+PARTY_DUNGEON_SCENE_SKIP_NOTI,Awaiting other players.
+PARTY_DUNGEON_REWARD_TIP,"Rewards can no longer be acquired once the reward limit has been reached.
+The reward count resets daily."
 FRIEND_TAB_SOCIAL,Facebook
 FRIEND_SOCIAL_LOGIN_BUTTON_NAME,Log into Facebook
 FRIEND_SOCIAL_LOGIN_BUTTON_DESC,Log into Facebook and invite your friends.
@@ -5651,19 +5730,659 @@ INVITE_SOCIAL_FRIEND,Upload Post
 BATTLEFIELD_OPEN_TIME,Battlefield Opening Time: [Time]
 BATTLEFIELD_CLOSE_TIME,Battlefield Closing Time: [Time]
 BATTLEFIELD_CLOSE,Unavailable
+BLACKSMITH_UR_GUIDE,"SR 등급은 UR 제작으로
+등급을 올릴 수 있습니다."
+SERVER_TRANSFER_CHARACTERFULL_TITLE,캐릭터 이전 제한 알림
+SERVER_TRANSFER_CHARACTERFULL_DESC1,"이전을 원하는 서버에 다른 캐릭터가 존재합니다. 
+캐릭터 정리 후 다시 이용해 주세요."
+SERVER_TRANSFER_OVERLAPNICKNAME_TITLE,캐릭터 닉네임 중복 안내
+SERVER_TRANSFER_OVERLAPNICKNAME_DESC1,이전을 원하는 서버에 일부 캐릭터의 닉네임이 중복됩니다. 
+SERVER_TRANSFER_OVERLAPNICKNAME_DESC2,"중복된 이름의 캐릭터에 한해
+서버 이전 시 캐릭터 닉네임은 임의로 변경되며,
+캐릭터 닉네임이 중복되는 캐릭터의 가방으로 
+<fontyellow>닉네임 변경권</>이 별도 지급됩니다."
+SERVER_TRANSFER_REGISTFINISH_TITLE,서버 이전 신청 완료
+SERVER_TRANSFER_REGISTFINISH_DESC1,서버 이전 신청 접수가 정상적으로 완료되었습니다.
+SERVER_TRANSFER_REGISTFINISH_DESC2,"최종 서버 이전까지 최대 <fontyellow>1</> 시간이 소요될 수 있으며,
+서버 이전이 완료될 때까지 게임 이용이 어려운 점 참고 바랍니다."
+SERVER_TRANSFER_CONFIRM_TITLE,서버 이전 내용 확인
+SERVER_TRANSFER_CONFIRM_DESC1,아래와 같은 내용으로 서버 이전이 진행됩니다. 
+SERVER_TRANSFER_GUILDERROR_TITLE,혈맹 가입 상태 알림
+SERVER_TRANSFER_GUILDERROR_DESC1,"혈맹에 가입되어 있는 경우, 서버 이전 신청이 불가능합니다.
+혈맹 탈퇴 또는 해산 후 다시 이용 부탁드립니다."
+SERVER_TRANSFER_FINISH_TITLE,서버 이전 완료
+SERVER_TRANSFER_FINISH_DESC1,서버 이전이 완료되었습니다.
+SERVER_TRANSFER_FINISH_DESC2,"새로운 여정으로의 출발을 위해
+지금 타이틀 화면으로 이동합니다."
+SERVER_TRANSFER_PROGRESS_DESC1,"서버 이전 신청 접수가 정상적으로 완료되었습니다.
+'최종 서버 이전까지 최대 1시간이 소요될 수 있으며,
+서버 이전이 완료될 때까지 게임 이용이 어려운 점 참고 바랍니다.
+
+기타 문의 사항은 아래 고객 센터를 이용 부탁드립니다."
+SERVER_TRANSFER_PROGRESS_DESC2,"최종 서버 이전까지 최대 [10분] 시간이 소요될 수 있으며,
+서버 이전이 완료될 때까지 게임 이용이 어려운 점 참고 바랍니다."
+SERVER_TRANSFER_PROGRESS_DESC3,기타 문의 사항은 아래 고객 센터를 이용 부탁드립니다.
+SERVER_OLD_NAME ,(전 서버: [ServerName])
+SERVER_TRANSFER_TERM,"1. 각 서버별 이동가능 인구가 제한되어 있어 많은 인원이 특정 서버로 몰리는 경우,
+    또는 많은 인원이 서버를 이탈하는 경우 해당하는 서버로 '캐릭터 서버 이전' 
+    신청이 불가능할 수 있습니다.
+2. 서버 이전 신청 후 최종 이전까지 최대 1시간이 소요될 수 있으며, 
+   서버 이전이 완료될 때까지 게임 이용이 어렵습니다.
+3. 캐릭터명이 중복될 경우, 서버 이전 시 임의의 문자가 캐릭터명 뒤에 
+   추가됩니다. (서버 이전 후 캐릭터명이 중복되는 캐릭터에게 '캐릭터명 
+   변경권'을 우편으로 지급합니다.) 
+4. 서버 이전 신청이 접수된 이후에는 결제 취소 및 환불이 불가합니다.
+5. 혈맹에 가입되어 있는 경우 이전이 불가합니다.
+6. 이전할 계정 창고에 보관된 아이템이 있는 경우 이전이 불가합니다. 이전될 서버에
+   확장된 계정 창고가 있는 경우, 확장비용을 레드다이아로 되돌려 드립니다. 
+7. 기존에 등록된 친구 목록 및 내가 친구로 등록된 목록이 모두 삭제됩니다.
+8. 서버 이전 후 결투장 순위는 초기화됩니다.
+9. 거래소에 등록된 물품 및 판매 완료된 물품은 편지함으로 이동됩니다."
+SERVER_TRANSFER_AGREEMENT_TITLE,캐릭터 서버 이전 관련 주의사항
+COMMON_ALL_AGREEMENT,Agree to All.
+GUILD_NAME_CHANGE,혈맹 이름 변경
+GUILD_NAME_CHANGE_CONFIRM,혈맹 이름을 [Name]으로 변경하시겠습니까?
+SERVER_OLD_NAME2,(구)[ServerName]
+SOCIAL_ACTION_MESSAGE_LENGTH_LIMIT,A Social Action message can consist of [Min] - [Max] letters.
+SOCIAL_ACTION_SAVE_COMPLETE,Social Action message applied.
+TARGET_DISPLAY_MODE_HP,Absolute Value
+TARGET_DISPLAY_MODE_RATIO,Percentage
+TARGET_DISPLAY_MODE_ALL,@EFFECT_VISIBILITY_ALL_ON
+NPC_GRADE_SMALL,@TITLE_GRADE_01
+NPC_GRADE_MIDDLE,@TITLE_GRADE_01
+NPC_GRADE_LARGE,@TITLE_GRADE_01
+NPC_GRADE_ELITE,Elite
+NPC_GRADE_HERO,@AGIT_BOSS
+NPC_GRADE_STRUCTURE,Building
+SUCCESS_CHANGE_GUILDNAME,혈맹 이름이 변경되었습니다.
+CHARACTER_BONUS_DESC,Owned Character Effect applies to a maximum of 4 characters.
+CHARACTERSELECT_TAB_CHARACTER,@STAT_DETAIL_CHARACTER
+CHARACTERSELECT_TAB_TOBEDELETECHARACTER,Character to be Deleted
+CHARACTERSELECT_TOBEDELETE,To be Deleted
+TO_BE_DELETED_CHARACTER_DESC,"“생성된 캐릭터가 4개가 넘으면, 낮은 레벨의 
+캐릭터는 삭제될 수 있습니다.
+삭제 예정 캐릭터의 레벨이 올라가면, 레벨 순서에 따라 삭제 대상이 변경될 수 있습니다.”"
+TO_BE_DELETED_CHARACTER_DAY,A notification regarding the date of deletion will be sent at a future date
+PARTY_DUNGEON_RESTRICT_MESSAGE,Temporal Rift Status Board is unavailable at this time.
+COMMON_LACK_MESSAGE2,Not enough <FontYellow>[Name]</>(s).
+CONDITION_HAS_GUILD,In a Clan or not
+CONDITION_HAS_FORTRESS,Owns a specific Fortress
+CONDITION_HAS_CASTLE,Owns a specific Castle
+CONDITION_ACTIVATE_ITEM,Own [Count] or more [Name]
+CONDITION_ACTIVATE_ITEM_SIMPLE,[Count] [Name]
+CONDITION_CHARACTER_LEVEL,@PET_CONDITION_CHARACTER_LEVEL
+CONDITION_HEROIC_LEVEL,Reach Achievement Level [Count]
+CONDITION_INFINITY_DUNGEONCLEAR,Reach Tower of Insolence Floor [Count]
+CONDITION_CAPE_LEVEL,Reach [Name] Cloak Level [Count]
+SOULCRYSTAL_EXTRACTEVENT_RATIO,"[DiscountValue]% discount on cost of removing Soul Crystals
+during the event period."
+SOULCRYSTAL_EXTRACTEVENT_FREE,No cost for removing Soul Crystals during the event period.
+WAR_LOG_TITLE,Detailed Battle Record
+WAR_LOG_DETAIL,Detailed Record
+WAR_LOG_MYGUILDMEMBER,My Clan Member Ranking
+COMMON_ASSISTANCE,Assist
+COMMON_KILL2,Kill
+COMMON_DEATH2,Death
+GUILD_WAR_ACTIVITY_NOTICE,There is no Ranking record.
+COMMON_PLAYER,Player
+WAR_DURATION,Battle Period
+CAPE_TITLE,@EQUIPMENT_CAPE
+CAPE_LOCK_PRIVATE,"Personal cloaks, once acquired, are granted random effects. Acquired cloaks can be improved through leveling and continuous changing of effects."
+CAPE_LOCK_GUILD,"Clan cloaks, once acquired, can have their colors changed by Clan Leaders. They can also be improved through leveling."
+CAPE_PREVIEW,Previewing...
+CAPE_INDIVIDUAL_TITLE,Personal Cloak
+CAPE_GUILD_TITLE,Clan Cloak
+CAPE_MAGICAL_CLOTH,Magic Fabric
+CAPE_LEVELUP_RESULT,Cloak Level Up Result
+CAPE_GUILD_COLOR_CHANGE,Change Clan Cloak Color
+CAPE_TEXT_COLOR_CHANGE,Change Emblem Color
+CAPE_COLOR_CHANGE,Change Cloak Color
+CAPE_GUILD_CAPE_CHANGE,Change Clan Cloak
+CAPE_GUILD_CAPE_COLOR_CHANGE_DESC,Change the Clan Cloak to the color selected below?
+CAPE_LACK_GUIDE_DESC,Available when one of the above fortresses is conquered.
+CAPE_LACK_GUIDE_TITLE,Cloak Acquisition Guide
+CAPE_ALL_LOCKED_OPTION,All cloak substat changes have been locked.
+CAPE_BEFORE_GET_GUIDE,"Substats can be activated just by acquiring cloaks.
+Cloaks do not need to be equipped."
+CAPE_ITEM_LACK,Not enough <FontYellow>[ItemName]</>.
+CAPE_COLOR_NOTCHANGED,No change history.
+CAPE_COLOR_NOTENOUGH_GUILDLEVEL,Clan level too low.
+CAPE_GUIDE_TEXT_FORTRESS,Available when one of the above fortresses is conquered.
+CAPE_GUIDE_TEXT_CASTLE,Available when one of the above castles is conquered.
+CAPE_GUILD_COLORCHANGE_GUIDE,Dyes can be purchased from the Clan Shop Conquer section.
+HERO_DUNGEON_QUEST_MADNESS_03,Defensive wall has been destroyed by a bomb. (Bomb Count: 0/2)
+HERO_DUNGEON_QUEST_MADNESS_04,Extinguished the Signal Fire.
+HERO_DUNGEON_QUEST_MADNESS_05,Find and extinguish the Signal Fire. Be careful of the guard.
+HERO_DUNGEON_QUEST_MADNESS_06,Picked up the cage keys Boranta dropped.
+HERO_DUNGEON_QUEST_MADNESS_07,The crazy self-destructing soldier is roaming the cave. Be careful.
+MONSTER_CORE_BREAK_ADD_LABEL,Register Core to Salvage
+MONSTER_CORE_BREAK_COUNT,Salvage Count
+MONSTER_CORE_BREAK_ADD_BUTTON,@COMMON_CORE_COUNT
+COMMON_CUSTOM,Edit
+COMMON_CUSTOM_DESCRIPTION,Attack only selected targets.
+PK_MODE_MONSTER,@MONSTER_TEXT
+PK_MODE_GUILD,@CHAT_TYPE_GUILD
+PK_MODE_ALLIIANCE,Ally Clan
+PK_MODE_FRIEND,@CHAT_TYPE_FRIEND
+PK_MODE_ETC_USER,Other Players
+PK_MODE_CAO,"<FontRed>Chaotic</> (Attack Chaotic targets, even if they are clan members.)"
+PK_MODE_TIP,"Parties cannot be attacked under any circumstances.
+Hostile clans can be attacked <FontRed>regardless</> of the PK mode."
+DUNGEON_ALERT_ALTEROFMADNESS_FIRESEED_PARTY,<FontBlue>[Name]</> has <FontRed>[BuffName]</>.
+DUNGEON_ALERT_ALTEROFMADNESS_FIRESEED_SELF,<FontRed>Fire</>! It’s going to explode soon!
+DUNGEON_ALERT_ALTEROFMADNESS_IGNITION_PARTY,<FontBlue>[Name]</> has <FontRed>[BuffName]</>! Be careful!
+DUNGEON_ALERT_ALTEROFMADNESS_IGNITION_SELF,<FontRed>[BuffName]</> is in effect! Be careful!
+EVENTGACHA_REMAINS,Remaining Count: <BlueBold>[Count]</>
+EVENTGACHA_REWARD,Rank [Rank] reward! Acquired [Reward]!!
+EVENTGACHA_READY,An incredible gift is being prepared!
+EVENTGACHA_END,The event has ended.
+EVENTGACHA_RESET_TIME,Items will reset every <Blue>[ResetTime]</> min.
+EVENTGACHA_EVENT_COUNT,Event Count: <Blue>[Count]</>
+EVENTGACHA_EVENT_MAX_COUNT,<Blue> / [MaxCount]</>
+EVENTGACHA_RANK,@GUILD_RANK
+EVENTGACHA_PERIOD,[yyyy-mm-dd]
+EVENTPERIOD_ACHIEVEMENT,@EVENTGACHA_PERIOD
+MONSTERBOOK_SELECT_NONBINDCORE,"Unbound core selected.
+Continue?"
+MONSTERBOOK_SELECT_REGISTCORE,Caution! Cores that can be registered are currently selected.
+MONSTERBOOK_BREAK_SELECTCORE,Salvage the [Count] selected core(s)?
+PARTYDUNGEON_TIMEATTACK,Master Time
+PARTYDUNGEON_APPEAR_MONSTER,@SPAWN_MOSTER
+PARTYDUNGEON_POSSIBLE_COUNT_TODAY,Daily Count Available
+PARTYDUNGEON_JOIN,Join Dungeon
+PARTYDUNGEON_DIFFICULTY_EASY,@COMMON_DIFFICULTY_EASY
+PARTYDUNGEON_DIFFICULTY_HARD,@COMMON_DIFFICULTY_HARD
+PARTYDUNGEON_DIFFICULTY_NORMAL,@COMMON_DIFFICULTY_NORMAL
+PARTYDUNGEON_POSSIBLE,@COMMON_AVAILABLE
+PARTYDUNGEON_IMPOSSIBLE,@PARTY_DUNGEON_HELPLIST_REWARD_IMPOSSIBLE
+PARTYDUNGEON_DUNGEON_NAME,@DUNGEON_NAME_1
+PARTYDUNGEON_DESC,"When fighting <FontRed>Magical</> monsters, equipping <FontYellow>Pierce</> attribute weapons and <FontYellow>Aegis</> attribute armor is recommended."
+PARTYDUNGEON_DIFFICULTY,@COMMON_DIFFICULTY
+PARTYDUNGEON_COMBAT,@STAT_COMBAT_POWER
+PARTYDUNGEON_LEVEL,@COMMON_LEVEL
+PARTYDUNGEON_DEGREE_OF_PROGRESS,Progress
+PARTYDUNGEON_REGISTER_ORDER,Order of Registration
+PARTYDUNGEON_CHECK_GET_REWARD,Rewards Status
+PARTYDUNGEON_SHOW_TO_ENTER,Only View Available Dungeons
+PARTYDUNGEON_LIST_REFRESH,Refresh
+PARTYDUNGEON_OPEN_DUNGEON_COUNT,Available Dungeons
+PARTYDUNGEON_EMPTY,There is no Temporal Rift available.
+PARTYDUNGEON_START_DESC,[TaskName] has started.
+PARTYDUNGEON_FAILD_DESC,Failed to complete [TaskName].
+PARTYDUNGEON_PROGRESS,Total Progress
+PARTYDUNGEON_OPENTIME,Dungeon Open Time
+PARTYDUNGEON_POSSIBLE_REWARD_COUNT_TODAY,Daily Reward Claim Count Available
+PARTYDUNGEON_MAIN_REWARD,Special Reward
+PARTYDUNGEON_RECRUIT_LIST,Party Recruit List
+PARTYDUNGEON_SHORTCUT,Go Now
+PARTYDUNGEON_JOIN2,Enter a Temporal Rift
+PARTYDUNGEON_NAME,@DUNGEON_NAME_1
+PARTYDUNGEON_REQUIRE_LEVEL,@REQUIRED_LEVEL_1
+PARTYDUNGEON_REQUIRE_COMBAT,@REQUIRED_COMBAT
+PARTYDUNGEON_PERSONAL,@COMMON_MEMBERS
+PARTYDUNGEON_CONTRIBUTE,Battle Contribution
+PARTYDUNGEON_CLASS,@TITLE_CHARACTER_CLASS
+PARTYDUNGEON_PARTY_INFO,Participating Party Details
+PARTYDUNGEON_PARTY_INFO_TIP,Only displays the records of players who participated in the last Temporal Rift task.
+PARTYDUNGEON_BOARD_TITLE,Temporal Rift Status Board
+PARTYDUNGEON_HELP_CANCEL,Cancel the ongoing recruitment of Temporal Rift party members?
+PARTYDUNGEON_HELP_CANCEL_SYSTEM,Recruitment of Temporal Rift party members has been canceled.
+PARTYDUNGEON_HELP_IN_ERROR,You have already entered this Temporal Rift.
+PARTYDUNGEON_HELP_COOLDOWN,Temporal Rift party recruitment is available in [n] sec.
+PARTYDUNGEON_DISSOLVE_PARTY,"Upon disbanding the party, everyone will leave the Temporal Rift.
+Continue?"
+PARTYDUNGEON_RECRUIT,Recruit Party Members
+PARTYDUNGEON_RECRUIT_OFF,Recruit Party Members
+PARTYDUNGEON_RECRUIT_ON,Recruiting party members...
+PARTYDUNGEON_RECRUIT_SETTING_CHANGE,"Cancel the ongoing party recruitment
+or recruit another party with the standard restrictions."
+PARTYDUNGEON_RECRUIT_STOP,Canceling recruitment of party members...
+PARTYDUNGEON_RECRUIT_RETRY,Recruit Again
+PARTYDUNGEON_CHARGE_TITLE,Recharge the number of reward claims?
+PARTYDUNGEON_CHARGE_COUNT,Today’s Available Recharges: [Count1]
+PARTYDUNGEON_CHARGE_FAIL,Insufficient recharges.
+PARTYDUNGEON_CHARGE_SUCCESS,Reward claims have been recharged.
+PARTYDUNGEON_UNABLE_TO_ENTER_GUIDE,"You are unable to enter for awhile
+because of your recent act of leaving abruptly.
+You will be able to Enter In: <FontYellow>[Time]</>"
+PARTYDUNGEON_CANT_ENTRANCE,@BATTLEFIELD_CLOSE
+PARTYDUNGEON_LEAVE_POPUP,"Leaving now would incur a penalty.
+Continue?"
+PARTYDUNGEON_RESULT_NOREWARD,You cannot claim the reward because you have expended your total reward claims.
+PARTYDUNGEON_POPUP_NOREWARD,"You cannot claim the reward.
+Recharge your reward claims?"
+PARTYDUNGEON_REWARD_FIXED,Fixed Reward
+PARTYDUNGEON_REWARD_RANDOM,Random Reward
+PARTYDUNGEON_CHARGE_FULL,Recharge is unavailable if there are reward claims remaining.
+PARTYDUNGEON_SCHEDULE_END_NOTICE,@BATTLE_FIELD_SEASON_END_NOTICE
+PARTYDUNGEON_POPUP_NOTHINGOPEN,There are currently no Temporal Rifts available.
+PARTYDUNGEON_POPUP_CLOSED,Cannot enter because the Rift is closed.
+PARTYDUNGEON_POPUP_EXIT,"This is unavailable while the Temporal Rift is in progress.
+Try again after closing the Temporal Rift."
+TOWN_ENTER_PROGRESS,Traveling to town...
+STORAGE_UNABLE,[StorageName] is available for players of Level 50 and above.
+ATTENDANCE_NEWSERVER,New Server
+AUTO_SELL_SELECT,Auto-Sell
+AUTO_SELL_TIP,"When toggled on, acquired items will be automatically sold every 30 seconds."
+COMMON_HOLD_EFFECT,Substat
+COMMON_KEEP_EFFECT,Retain Effect
+COMMON_HOLD_EFFECT_CHANGE,Substat Change 
+COMMON_HOLD_EFFECT_PREVIEW,Preview Substat Change 
+COMMON_HOLD_MATERIAL,Owned Materials
+COMMON_LOCK_MATERIAL_NAME,Locked Material Name
+COMMON_HOLD_EFFECT_DESC,"When substats are changed, all substats will be changed randomly."
+COMMON_LOCK_MATERIAL_DESC,"When lock materials are used, the effect will not be changed."
+COMMON_EFFECT_LOCK_VOLUME,([VALUE] Effect(s) locked)
+COMMON_ACQUIRE,Acquire
+COMMON_HOLD_GOODS,Owned Currency
+COMMON_PUT_ON_EFFECT,Equipped Effect
+COMMON_LEVELUP_MAX,Max Level Up
+COMMON_LEVELUP_MATERIAL_ERROR,Not Enough Level Up Material
+COMMON_HOLD_EFFECT_COUNT,Substat Count:
+COMMON_ACQUIRE_CONDITION,Requirements
+COMMON_COLOR_CHANGE,Change color
+GUILD_HOLD_MATERIAL,Clan materials owned
+COMMON_CHANGE_POINT_NO,No changes
+SERVER_CHANGE_WARNING,[주의]
+SERVER_CHANGE_DESC1,선택한 서버로 캐릭터 서버 이전을 신청합니다.
+SERVER_CHANGE_DESC2,선택이 완료되면 이전할 서버를 변경할 수 없습니다.
+GUILD_NAME_REGISTER,Register Clan Name
+ACCOUNT_DEPOT_TITLE,계정 창고
+CORE_LUMP_SELECT,Select All Cores
+CORE_SELECT_DEAL_IMPOSSIBILITY,Select Untradeable Cores
+CORE_SELECT_DEAL_POSSIBILITY,Select Tradeable Cores
+CORE_INCLUDE_DEAL_POSSIBILITY,Tradeable Cores Included
+CORE_SELECT_REGISTER_COMPLETE,Select only registered cores
+COMMON_REAL_TIME_TITLE,Real-time
+EVENT_SOULCRYSTAL_EXTRACTION,집혼석 추출 비용 이벤트 중
+INFO_MONSTER_TYPE,Monster Type
+INFO_MONSTER_GRADE,Monster Grade
+INFO_MONSTER_GET_CORE,Possible Cores
+AUTO_SELL_USE,@COMMON_USE
+AUTO_SELL_NOT_USE,Don’t Use
+COMMON_AUTO_SELL_TIP,*Periodically sells acquired items automatically.
+DUNGEON_ALERT_ALTEROFMADNESS_TARGETING,<FontBlue>[Name]</> has become the <FontRed>target</>. Unite and soften the damage!
+HERO_DUNGEON_QUEST_MADNESS_08,We’ve hit a roadblock. If only we had explosives...
+HERO_DUNGEON_QUEST_MADNESS_09,Acquired bombs from the fallen grenadiers. (Bomb Count: 2/2)
+HERO_DUNGEON_QUEST_MADNESS_10,The bombs have demolished the barricade. (Bomb Count: 1/2)
+HERO_DUNGEON_QUEST_MADNESS_11,Paagrio’s strength is increasing!!
+QUEST_TYPE_STORAGE,창고
+TARGET_CHANGE_SERVER,이전 서버 변경
+CONTINUE_BUY,Continue Purchase
+CONTINUE_CHANGE_SERVER,서버 이전 계속하기
+OLD_SERVER_NAME,(이전 서버 : [Name])
+NEED_TO_BUY_MONTHLYITEM,"<YellowBold>매일 사냥 혜택</> 상품을 구입하시면
+<YellowBold>자동 판매</> 기능을 사용할수 있습니다.
+상점으로 이동 하시겠습니까?"
+NEED_TO_BUY_MONTHLYITEM_QUEST,"<YellowBold>매일 퀘스트 혜택</> 상품을 구입하시면 
+<YellowBold>자동 퀘스트</> 기능을 사용할수 있습니다.
+상점으로 이동 하시겠습니까?"
+EVENTGACHA_EMPTY,There are no events in progress.
+DAYILY_BANEFIT_TITLE,Daily Benefits Shop
+PACKAGE_SHOP_TITLE,Bundle Shop
+ALLIANCE_CREATE,Create Alliance
+ALLIANCE_CREATE_DESC,Enjoy the world of Aden with the Alliance of your choosing!
+ALLIANCE_CREATE_CONDITION,Alliance Creation Requirements
+ALLIANCE_CREATE_CONDITION_ERROR,"Requirements to create the alliance not met.
+1. Reach Leader Level 5 
+2. No Alliance deserter penalty (disband)"
+ALLIANCE_JOIN,Join Alliance
+ALLIANCE_JOIN_DESC,Join an Alliance and enjoy the variety of Alliance content!
+ALLIANCE_NAME_REGISTER,Enter an Alliance name.
+ALLIANCE_INTRODUCE_REGISTER,Enter an Alliance introduction.
+ALLIANCE_INTEREST_SELECT,Choose an Alliance Interest from below.
+ALLIANCE_INTRODUCE_REGISTER_FIX,Edit Alliance Introduction
+ALLIANCE_DISPERSE_DAY_LIMIT,"If an ally clan is not found within [Day] day(s), the alliance will automatically disband."
+ALLIANCE_CREATE_COST_ERROR,Not enough Proofs of Blood.
+ALLIANCE_FRIENDLY,Friendship
+ALLIANCE_CORE,Core Work
+ALLIANCE_BOSS,@AGIT_BOSS
+ALLIANCE_PK,PK
+ALLIANCE_HOSTILITYWAR,Hostile War
+ALLIANCE_BATTLEFIELD,@COMMON_BATTLEFIELD
+ALLIANCE_FORTRESS,@FORTRESS_SIEGE
+ALLIANCE_CASTLESIEGE,@CASTLE_SIEGE
+ALLIANCE_LOGO,Alliance Emblem
+ALLIANCE_BELONG_GUILD,Affiliated Alliance
+ALLIANCE_MEMBERS,@COMMON_MEMBERS
+ALLIANCE_INTEREST,Interests
+ALLIANCE_INTRODUCE,Alliance Introduction
+ALLIANCE_NAME_SEARCH,Search by Alliance Name
+ALLIANCE_JOIN_REQUEST,Request to Join
+ALLIANCE_INFO,Alliance Info
+ALLIANCE_MEMBERS_PEOPLE,Alliance Member
+ALLIANCE_ADMIN,Manage Alliance
+ALLIANCE_NOTICE,Alliance Notice
+ALLIANCE_LEAVE,Leave Alliance
+ALLIANCE_LEAVE_DESC,"Leave Alliance?
+
+After leaving an alliance, you cannot join another alliance for a short period of time."
+ALLIANCE_NOTICE_FIX,Edit Alliance Notice
+ALLIANCE_INTRODUCE_FIX,Edit Alliance Introduction
+AUTOQUEST_SCROLL_USE_COUNT,Available Scrolls
+AUTOQUEST_WEEKQUEST_COUNT,Available Weekly Quests
+AUTOQUEST_EXP,@COMMON_GAIN_EXP
+AUTOQUEST_ADENA,@INVENTORY_GAIN_GOLD
+AUTOQUEST_REWARD_ITEM,Quest Reward Item
+AUTOQUEST_CANCEL,Cancel Auto-Quest
+AUTOQUEST_SELECTSCROLL_USE,Auto-Quest
+ALLIANCE_MASTER,Alliance Representative
+ALLIANCE_MEMBERS_LONG,Alliance Member
+ALLIANCE_CREATE_DAY,Alliance Creation Date
+ALLIANCE_INVITE,Extend Alliance Invite
+ALLIANCE_WAIT_AGREE,Alliance Acceptance on standby
+ALLIANCE_ANNULMENT,@GUILD_ALLIANCE_BREAK
+ALLIANCE_ANNULMENT_DESC,Are you sure you wish to break the alliance?
+ALLIANCE_GUILD_LOCK,Locked
+ALLIANCE_PENALTY_TIME,Leaver (Kicked) Penalty Time
+ALLIANCE_AGIT_ENTERANCE,@GUILD_AGIT_ENTER
+ALLIANCE_LOGO_REGISTER,Register Alliance Emblem
+ALLIANCE_LOGO_REGISTER_DESC1,- 문장 이미지는 256*128 사이즈로 제작해야 합니다.
+ALLIANCE_LOGO_REGISTER_DESC2,- 이미지 파일은 TGA 파일만 등록할 수 있습니다.
+ALLIANCE_LOGO_REGISTER_DESC3,- 등록하신 문장은 매주 월요일 04시에 적용됩니다.
+ALLIANCE_LOGO_REGISTER_DESC4,"비방, 음란물 등 타인에게 불쾌감을 주는 문장 등록 시, 삭제 조치가 되고 불이익을 받으실 수 있습니다."
+ALLIANCE_REGISTER,@COMMON_CORE_COUNT
+ALLIANCE_LOGO_REGISTER_UPLOAD,"동맹 문장을 업로드 하시겠습니까?
+등록 후에는 일정 재화를 사용해야지만, 문장을 변경할 수 있습니다."
+ALLIANCE_REGISTER_IMAGE,문장 이미지를 먼저 등록해주세요.
+ALLIANCE_REGISTER_FILE_KB,"파일 용량이 초과되었습니다.
+[Kb]Kb까지 등록할 수 있습니다."
+ALLIANCE_CHARACTER_INFO,Character Info
+ALLIANCE_WEEK_CONTRIBUTION,Weekly Contribution Points
+ALLIANCE_MEMO,Memo
+ALLIANCE_ONLINE,Online
+ALLIANCE_GUILD_MEMBER_SEARCH,Search Alliance Members
+ALLIANCE_AUTO_REJECT_DESC,"If there is no response within [Day] day(s), it will be rejected automatically."
+ALLIANCE_GUILD_NAME_SEARCH,Search Clan Name to invite
+COMMON_TIME_AGO,[Time] remaining
+ALLIANCE_COUNT_MAX,[COUNT]/[MAXCOUNT] members
+ALLIANCE_GUILD_MASTER,Clan Representative
+ALLIANCE_CONCLUSION,Accept Alliance
+ALLIANCE_GUILD_SLOT_MAX_ERROR,The Alliance is full and cannot accept any more clans.
+AUTOQUEST_SUB_TITLE,자동 서브 퀘스트
+AUTOQUEST_SCROLL_TITLE,자동 주간 퀘스트
+GUILD_WAR_END,War Complete
+AUTOQUEST_COMPLETE,자동 퀘스트 진행 완료
+AUTOQUEST_CANCEL_GUIDE,"자동 수행을 취소 하시겠습니까?
+취소 후, 다시 자동 수행을 하실 수 있습니다."
+AUTOQUEST_SELECTSCROLL_ENABLE,"You have reached
+the daily limit."
+AUTOQUEST_SELECTSCROLL_FULL,Only up to 3 can be selected.
+CANT_IN_PARTYDUNGEON,Cannot be used while in the Temporal Rift.
+PARTY_DUNGEON_OPENTIME,"Opens on [M]/[D], [H]:[m]"
+TUTORIAL_CHARACTER_NAME,Valdir
+OFFICIAL_COMMUNITY,Official Community
+ITEM_PERIOD,Available until [Time]
+PERIOD_EXPIRED_ITEM,The usage period has expired.
+PERIOD_EXPIRED_ITEM_DESC,"The limited-time item, [ItemName] has expired and has been deleted."
+TUTORIAL_CANT_START_IN_DUNGEON,Tutorials cannot be started in this area.
+SERVER_TRANSFER_WAREHOUSENOTEMPTY,"현재 서버의 계정 창고에 아이템이 있는 경우,
+서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+SHOP_PRODUCT_DETAIL_DEFAULT,Bundle Item Details
+SHOP_PRODUCT_DETAIL_GUILD,Clan Members’ Items Details
+SHOP_PRODUCT_DETAIL_SHOPPER,Buyers’ Items Details
+EVENT_DICE_POINT_INFO_TITLE,Dice Points Info
+EVENT_DICE_POINT_INFO_DESC,Dice Points can be acquired from the content listed below (including the amount earned).
+EVENT_DICE_GET_POINT_DESC,"1. Extracting in the Extraction Pit (10P)
+2. When hunting Skuldi (100P at a 100% chance)
+3. When hunting Uldi (150P at a 92% chance)"
+SERVER_TRANSFER_WAREHOUSENOTEMPTY_TITLE,계정 창고 상태 알림
+CHANGABLE_OPTION_LIST,Changeable Substats
+CHANGABLE_OPTION_LIST_GUIDE,The above substats will be randomly selected.
+LARGEROOM_GUILD_VOICE_CHATTING,혈맹 음성 채팅
+LARGEROOM_ENTERANCE_DESC,에 입장했습니다.
+LARGEROOM_GUILD_VOICE_CHATTING_DESC,지휘 권한이 있으면 혈맹원에게 음성을 전달할 수 있습니다.
+LARGEROOM_GUILD_VOICE_CHATTING_MINIDIALOG,"음성 채팅을 하기 위해선, 지휘 권한이 있어야해요!"
+LARGEROOM_COMMAND,지휘 권한
+GUILD_MEMBER_LIST,Clan Member List
+LARGEROOM_GUILD_VOICE_CHATTING_COMMAND_DESC,"군주, 부군주 외 3명에게 지휘 권한을 부여할 수 있습니다.
+<ChatBlue>지휘 권한</>을 가진 유저는 <ChatBlue>혈맹 음성 채팅</>을 사용할 수 있습니다."
+LARGEROOM_COMMAND_SETTING,지휘 권한 설정
+LARGEROOM_GUILD_COMMAND_ERROR,존재하지 않는 혈맹원입니다.
+LARGEROOM_GUILD_ASSIGN,"지휘 권한이 <FontYellow>부여</>되었습니다.
+혈맹 음성 채팅을 사용할 수 있습니다."
+LARGEROOM_GUILD_RELIEVE,"지휘 권한이 <FontRed>해제</>되었습니다.
+혈맹 음성 채팅을 사용할 수 없습니다."
+DIRECTION_FINALATTACK,Final Attack!
+BOSS_CLEAR_CONTRIBUTION_PERCENT,: [Value]% Contribution
+BOSS_CLEAR_FINALATTACK_PERCENT,[Value] Damage
+BOSS_CLEAR,Conquered
+BOSS_CLEAR_GET_REWARD,Acquired Conquer Reward!
+BOSS_CLEAR_MY_REWARD,My Rewards
+BOSS_CLEAR_CONTRIBUTION_TOP_REWARD,Contribution Rank 1 Reward
+BOSS_CLEAR_FINALATTACK_REWARD,Final Damage Reward
+CHARACTER_TITLE_SORT,Title Sorting Selection
+CHARACTER_TITLE_SORT_HIDDEN,Hide Unavailable Titles
+FREESIEGE_TITLE_30,30 vs 30 Open Siege
+FREESIEGE_TITLE_DESC,This is a 30 vs 30 open siege fought in real-time. Anyone can participate. Experience an epic battle with your team.
+FREESIEGE_TITLE_TIP,Fight alone or with a party in Open Siege. Any character or class can be selected and all characters will fight with equal stats.
+FREESIEGE_REWARD_CHECK,View Reward
+FREESIEGE_FIGHT_RECORD,Battle Log
+FREESIEGE_LAST_SELECT_CLASS,Final Class Selection
+FREESIEGE_KILL_DEATH,[Value] killed/ [Value] deaths
+FREESIEGE_TRY_COUNT,[Count]
+FREESIEGE_WIN_TIE_LOSE,[WinCount]W [TieCount]D [LoseCount]L
+FREESIEGE_REMAIN_TIME,[Hour]:[Minute]:[Second] remaining
+FREESIEGE_TITLE,Open Siege
+FREESIEGE_KILL_DEATH_DESC,K/D
+FREESIEGE_RECORD,Overall Record
+FREESIEGE_WIN_RATE,Win Rate
+FREESIEGE_PLAY_TIME,Time:
+FREESIEGE_ENTER,Enter Open Siege
+FREESIEGE_START_DAY,[Day] Weekly
+FREESIEGE_PLAY_TIME_DESC,[Time1] - [Time2] Available
+SWAP_RECIPE,레시피 교환
+SWAP_RECIPE_SELECT_GUIDE,교환할 레시피를 선택해주세요.
+SWAP_RECIPE_OWN_LIST,보유 레시피 목록
+SWAP_RECIPE_NO_POSSESSION,교환할 수 있는 레시피가 없습니다.
+SWAP_RECIPE_SELECT_TIP,보유 레시피 중 1개를 선택하여 교환할 수 있습니다.
+EQUIPMENTCRAFT_RECIPE,제작 재료 교환
+EQUIPMENTCRAFT_RECIPE_SELECT_GUIDE,교환할 제작 재료를 선택해주세요.
+EQUIPMENTCRAFT_RECIPE_OWN_LIST,보유 제작 재료 목록
+EQUIPMENTCRAFT_RECIPE_NO_POSSESSION,교환할 수 있는 제작 재료가 없습니다.
+EQUIPMENTCRAFT_RECIPE_SELECT_TIP,보유 제작 재료 중 1개를 선택하여 교환할 수 있습니다.
+FREESIEGE_PLUS_SCORE,+[Count] point(s)
+FREESIEGE_ENTERANCE_POSSIBLE,Available for entrance request
+FREESIEGE_ENTERANCE_PLAYING,@QUEST_STATE_PROGRESSING
+FREESIEGE_ENTERANCE_READY,Request Complete
+FREESIEGE_ENTERANCE_ERROR,Cannot enter an Open Siege from this area.
+FREESIEGE_EXIT_TITLE,Join an Open Siege?
+FREESIEGE_EXIT_DESC,It is impossible to enter an Open Siege once the entrance count has already been reduced.
+FREESIEGE_SUBMISSION_COMPLETE,Sub-mission complete! [Count] point(s) acquired!
+FREESIEGE_SUBMISSION_TITLE,Sub-Mission
+FREESIEGE_DEATH_TITLE,Killed by [Name] of [TeamName].
+FREESIEGE_CLASS_CHANGE,Change Class
+FREESIEGE_PLAYER_CARVING,Imprinting
+FREESIEGE_SKILL_SETTING_OK,Skill Setting Complete
+FREESIEGE_SKILL_SETTING_CONDITION,Skill setting changes are available after reaching Lv. 31.
+FREESIEGE_SKILL_UNIQUESKILL_CONDITION,Rare Skill (Lv.100)
+FREESIEGE_SKILL_REGISTER,Registered Skill
+FREESIEGE_FINAL_SCORE,[Value] points
+FREESIEGE_FINAL_SCORE_DESC,Final Points
+FREESIEGE_CARVING_SUCCESS, has successfully imprinted a Holy Artifact!
+FREESIEGE_SELECT_CLASS,Select Class
+FREESIEGE_SELECTING,Selecting
+FREESIEGE_READY_WAIT,Preparing...
+FREESIEGE_READY_OK,Complete
+FREESIEGE_ENTERANCE_POPUP_TITLE,Ready to enter Open Siege
+FREESIEGE_APPLY_TEAM_LEADER,Volunteer to be Team Leader.
+FREESIEGE_MATCHING_WAIT,Request complete. Matching...
+FREESIEGE_ENTERANCE,@FREESIEGE_ENTER
+FREESIEGE_ENTERANCE_CANCEL,Cancel request
+FREESIEGE_ENTERANCE_MIDDLEWAY,Participate midway
+FREESIEGE_INVITE_PARTYMEMBER_EMPTY,No party members available for invite.
+FREESIEGE_MISSION_SCORE,Mission Score
+FREESIEGE_RESULT_REWARD,Result
+FREESIEGE_CONTRUBUTION_REWARD,Contribution
+FREESIEGE_REWARD_TITLE,@INSTANT_AVAILABLE_REWARD_LIST
+FREESIEGE_CLASS_PREVIEW,Class Appearance
+FREESIEGE_SKILL_SETTING_CHANGE,Change Skill Setting
+FREESIEGE_CHARACTER_SELECT_OK,Character Change Complete
+FREESIEGE_CHARACTER_SELECT_WAIT_TIME,Change Cooldown [MM:SS]
+FREESIEGE_CLASS_CHANGE_PROGRESSBAR,Go to Change Class
+MOVE_YOUR_OBSERVE,Move to the selected location?
+MOVE_OBSERVE,@COMMON_MOVETO
+ITEM_SWAP_WARNING,"Includes items of Grade S or higher.
+Proceed to exchange?"
+ITEM_SWAP_LIKE_WARNING,"There is a Favorite item selected.
+Item will disappear after it is exchanged.
+Proceed?"
+ITEM_SWAP_RESULT,교환 결과
+ITEM_SWAP_SELECT_MATERIAL,교환 재료 선택
+ITEM_SWAP_CONDITION_1,미확인 일반 레시피 10개로 교환
+ITEM_SWAP_CONDITION_2,미확인 희귀 레시피 3개로 교환
+ITEM_SWAP_CONDITION_3,미확인 일반 레시피 3개로 교환
+ITEM_SWAP_SELECT_GUIDE_1,상자로 교환할 재료 레시피를 선택해주세요.
+ITEM_SWAP_SELECT_GUIDE_2,아래 재료를 상자로 교환하시겠습니까?
+ITEM_SWAP_COMPLETE,교환 완료
+ITEM_SWAP_COMPLETE_GUIDE_1,Tap Use Now to also use other boxes of the same type in your Inventory.
+COMMON_USE_INSTANT,Use Now
+ITEM_DISASSEMBLE_PREVIEW,Preview Salvage Results
+ITEM_DISASSEMBLE_EMPTY_GUIDE,Select the item from your bag to salvage.
+ITEM_DISASSEMBLE_PREVIEW_GUIDE,There is a chance to get one of the items above.
+COMMON_NO_REWARD_DESC,Reward not acquired.
+APPOLO_VOICE_SELECT_COMMAND_USER,Select and add the clan members that will be granted Command Rights.
+COMMONSIEGE_INDIVIDUALNOTICE_USERKILL ,<FontRed>Defeated</> an enemy!
+COMMONSIEGE_INDIVIDUALNOTICE_5COUNT_USERKILL,[killCount] consecutive <FontRed>kills!</>
+COMMONSIEGE_INDIVIDUALNOTICE_DESTROYSUCCESS,Defense Tower destroyed<FontBlue>successfully!</>
+COMMONSIEGE_INDIVIDUALNOTICE_ALTARSUCCESS,[AltarName] <FontBlue>imprinted!</>
+COMMONSIEGE_INDIVIDUALNOTICE_SIEGEBUFF,[SiegeBuff] <FontBlue>achieved!</>
+FORTRESS_OCCUPATION_REWARD,Conquer Rewards
+FORTRESS_OCCUPATION_REWARD_INFO,[Name] Conquer Reward Info
+FORTRESS_OCCUPATION_GRADE,Conquer Grade : <FontBlue>[Grade]</>
+FORTRESS_OCCUPATION_WEEK,Fortress Conquer : <FontBlue>Week [Week]</>
+FORTRESS_OCCUPATION_PERIOD,Reward Period : <FontBlue>[DateDisplay1] - [DateDisplay2]</>
+PURCHASE_RESTRICTION_GRADE,Available for purchase upon conquering a fortress of grade [VALUE] or higher.
+FORTRESS_OCCUPATION_REWARD_LIST,Conquer Daily Rewards
+FORTRESS_OCCUPATION_BUFF_INFO,Conquer Buff
+FORTRESS_OCCUPATION_SHOP_INFO,Conquer Shop
+FORTRESS_OCCUPATION_WEEKLY_REWARD,Week [VALUE] Reward
+FORTRESS_OCCUPATION_REWARD_DAY,Day [VALUE]
+FORTRESS_OCCUPATION_GRADE_BUFF,Grade [VALUE] Buff
+FORTRESS_OCCUPATION_SHOP_LIST,Shop List for items available for purchase after conquering a Grade [VALUE] Fortress.
+FORTRESS_SPOT_WIN_REWARD,Grade [VALUE] Spot Win Reward
+FORTRESS_SPOT_GUILD_REWARD,@GUILD_REWARD
+FORTRESS_SPOT_GUILDMEMBER_REWARD,Clan Member Reward
+FORTRESS_SPOT_REWARD_NOTIFY,Note: Reward only given to clan members who participate in a Clan Siege.
+FORTRESS_GRADE,[Grade]
+FORTRESS_GRADE_BUFF_NAME,@FB_USER_NAME
+FORTRESS_GRADE_BUFF_DESC,[Desc]
+FORTRESS_SHOP_ITEM,[ItemName]
+DROP_BOX_GAIN_MSG,<FontRed>Acquire '[Name]' ([Count]/[TotalCount])</>
+FREESIEGE_RESULT_SCORE,Score
+FREESIEGE_RESULT_TITLE_WIN,@COMMON_WIN
+FREESIEGE_RESULT_TITLE_DRAW,@COMMON_DRAW
+FREESIEGE_RESULT_TITLE_LOSE,@COMMON_LOST
+CAPE_MAXLEVEL,Reach Max Level
+MONSTER_CORE_REGISTER_QUANTITY,Registration Count
+MONSTER_CORE_REGISTER_MSG,Register all Territories’ Monster Cores?
+MONSTER_CORE_REGISTER_ALL,Register All Territories
+EVENT_NERO_DICE_POINT_INFO_TITLE,@EVENT_DICE_POINT_INFO_TITLE
+EVENT_NERO_DICE_POINT_INFO_DESC,You can acquire Dice Points in the Consumables Shop or from the content below.
+EVENT_NERO_DICE_GET_POINT_DESC,"1. Clear Weekly Quest (40P)
+2. Clear Clan Hall Quest (50P)
+3. Temple Guardian (50P)
+4. Complete Honorable Battlefield (30P)
+5. Participate in Open Siege (300P)
+6. Make a purchase in the Daily Limited Shop for 10,000 Adena"
+EVENT_NERO_DICE_REWARD,Reward for Rank [Rank]
+EVENT_NERO_DICE_OWN_POINT,Points Owned
+EVENT_NERO_DICE_EVEN_NUMBER,Even Number
+EVENT_NERO_DICE_ODD_NUMBER,Odd Number
+EVENT_NERO_DICE_CONTINUE,Continue
+EVENT_NERO_DICE_NEED_POINT,([Value]P)
+EVENT_NERO_DICE_REWARD_INITIAILZATION_DESC,Receive the Reward and reset the game?
+OBSERVER_END,관전 종료
+OBSERVER_LOCATION_MOVE,관전위치 이동
+OBSERVER_SCOREBOARD,전투 현황
+FREESIEGE_LOBBY_TIP_LIST,"1. Select your desired class to participate.
+2. All characters will have equal stats.
+3. All players can use Holy Artifact Imprinting, a requirement for victory.
+4. Complete sub-missions to acquire better rewards."
+FREESIEGE_RARE_PET_TIP,Complete achievements fighting in Open Sieges to get a special rare mount and summoning stones.
+FREESIEGE_RARE_PET_NAME,Steam Beetle
+FREESIEGE_RARE_PET_TITLE,Achievement Reward
+RED_TEAM,Red Team
+BLUE_TEAM,Blue Team
+SPECTATE_BUTTON_COUNT,관전하기([Count]/[TotalCount])
+FREESIEGE_TEAM_MEMBER,Team Member
+FREESIEGE_SCOREBOARD,Open Siege Status
+LOCAL_PUSH_FREESIEGE_RECRUIT_OPEN,Open Siege participation requests now available.
+BROADCAST_FREEFORTRESS_BEFORE_START_30MIN,Open Siege begins in 30 minutes. You may now request to participate.
+BROADCAST_FREEFORTRESS_BEFORE_START_15MIN,Open Siege begins in 15 minutes. Participation requests currently available.
+BROADCAST_FREEFORTRESS_BEFORE_START_5MIN,Open Siege begins in 5 minutes. Participation requests currently available.
+BROADCAST_FREEFORTRESS_START,Open Siege has begun! You can still participate.
+BROADCAST_FREEFORTRESS_START_LATER_10MIN,Open Siege in progress. You can still participate.
+BROADCAST_FREEFORTRESS_START_LATER_20MIN,@BROADCAST_FREEFORTRESS_START_LATER_10MIN
+BROADCAST_FREEFORTRESS_END,Open Siege has ended.
+AUTOSELL_GUIDE,"The “Auto-Loot Minimum Grade” currently set in
+your character deck is [[Grade]].
+This grade can be changed in
+[Settings - Battle] or
+[Inventory - Battle Deck Settings]."
+EVENT_NERO_DICE_REWARD_CONDITION,Rewards can be seen after tapping the start button!
+FREESIEGE_ACCRUE_RECORD,Total Battle Record
+MONTHLYITEM_HUNTING_TITLE,매일 사냥 혜택
+INVENTORY_AUTO_ARRANGEMENT_TAB,Inventory Auto-organization Status
+AUTO_SELL_TAB,@COMMON_AUTOFILTER_SELL
+AUTO_QUEST_OPTION_TITLE,자동 퀘스트 설정
+SELECT_MOVE_PORTAL,@PORTAL_MOVE_SELECT
+USE_SCROLL_TO_MOVE,Use a Scroll of Escape to Teleport
+MINIMUM_DISTANCE_TO_USE,Minimum Distance for Usage
+SELECT_USE_REVIVE,Select to use Revive
+USE_AUTO_REVIVE,"자동 퀘스트 중 사망 시, 자동 부활"
+SELECT_USE_REPEAT_REVIVE,부활 반복 선택
+ONCE_REVIVE,"미사용 시 스팟 부활 1회 진행하며, 2회 이상 사망 시 자동 퀘스트는 종료됩니다."
+COMMON_COUNT_MASTERYCOIN,[Count] Mastery Token
+STAT_MASTERY_LEVEL,Mastery
+MASTERY_LEVELUP,Increase Mastery
+ASSETS_MASTERYCOIN,"Use to purchase various items from the Mastery Shop.
+Available whenever Mastery increases."
+SUB_MASTERY_SHOP,Mastery
+COMMON_MASTERYCOIN,Mastery Token
+PURCHASE_RESTRICTION_MASTERY_LEVEL,Can only be purchased by players with a Mastery between [VALUE1] - [VALUE2]
+BOSS_CLEAR_FINALATTACK_REWARD_DESC,Did not acquire the Final Damage Reward.
+TIME_SHOP,Limited
+PURCHASE_RESTRICTION_TIME,The sale period has ended.
+SHOP_ITEM_EXPIRE_TIME,This item is no longer being sold.
+SETTING_AUTO_LOOT_VALUE_DESC1,Auto-Loot Minimum Grade for the current character:
+SETTING_AUTO_LOOT_VALUE_DESC2,입니다
+EVENT_NERO_DICE_REMAIN_PLAY,Max Available Event Participations: [Count] / [MaxCount]
+FREESIEGE_FIRST_PLAY_CLASS_INFO,No battle record
+FREESIEGE_CLOSE,Open Siege has ended
+AUTOQUEST_CONFIRM,"Use the <YellowBold>Daily Quest benefits</>
+to automatically run [Quest].
+Do you want to do your quests automatically?"
+COMMON_COUNT_SKILLPOINT,[Count] SP
+EVENT_GACHA_REMAIN_TIME,Time Remaining until Refresh:
+EVENT_NERO_DICE_CAT_DESC,Meow
+AUTOQUEST_USESCROLLFAIL,Not enough Scroll of Escapes. You will begin to walk to your selected location.
+USE,@COMMON_USE
+NOT_USE,@COMMON_NOT_USE
+DONT_MOVE_AUTO_QUEST,자동 퀘스트 중에서는 이동 기능을 사용할 수 없습니다.
+SHOP_LIMIT_TIMER,Closes in [Time]
+SHOP_LIMIT_TIMER_BEYOND_24,[Value]d left
+APPSTOREKIT_PURCHASE_NOTICE,Apple StoreKit Product Purchase is in progress. Log in with the character that you wish to use to receive your purchased goods.
+NERO_DICE_EVENT_FAIL_TITLE,Flop!
+NERO_DICE_EVENT_FAIL_DESC,"You got a “Flop”, meow!
+You have to go back to the beginning!"
+TIME_SHOP_TAB_TITLE,Daily Limited Shop
+SHOP_REWARD_TAB_TITLE,Recharge Event
+ITEMCRAFT_SWAPITEM_1,Exchange for <FontYellow>[Name]</>
+ITEMCRAFT_SWAPITEM_2,"<FontRed>[Warning]</>
+<FontYellow>Rare recipes (or materials)</> will be used as material for this exchange. Proceed?
+
+(Once exchanged, the selected rare recipe (or material) will be removed.)"
+OBSERVEMODE_NAME_ON,Show Name
+OBSERVEMODE_NAME_OFF,Hide Name
+COMMON_DRAW_NO_WINNER,No Winning Clan
+CHARGEEVENT_SHOP,@SHOP_REWARD_TAB_TITLE
+CHARGEEVENT_CHARGEAMOUNT,Total Accumulated Recharges:
+CHARGEEVENT_TIP,@SHOP_EVENT_TIME_WARNING
+FREESIEGE_SKILL_CHANGE_BEFORE,Skill Settings
+FREESIEGE_SKILL_CHANGE_AFTER,Skill Settings
 ERIKAGUIDE_WAITINGTEXT,The guide is loading. Please wait.
-DUNGEON_SWEEP_TIP,The Auto-Clear reward is same as the reward you received for your best dungeon attempt.
-SWEEP_REWARD_GUIDE,Auto-Clear is available for a dungeon after it has been cleared once.
-SWEEP_REWARD_OPEN_GUIDE,@SWEEP_REWARD_GUIDE
-SWEEP_REWARD_OPEN_GUIDE_RANK,Auto-Clear is available after clearing a dungeon with [Rank] or higher.
-DUNGEON_SWEEP_ERROR_01,There is no record of having cleared the dungeon.
-DUNGEON_SWEEP_ERROR_02,You have reached the daily Auto-Clear limit.
-DUNGEON_SWEEP_ERROR_03,Not enough Auto-Clears.
-DUNGEON_SWEEP_CLEAR,Auto-Clear Complete
-SWEEP_TICKET_POSSESSION,Auto-Clear Owned:
-SWEEP_AVAILABLE_COUNT,Auto-Clear Available:
-POSSIBLE_SWEEP_COUNT,Auto-Clear Available: [Count]
-FREE_SWEEP_ENTER,Free Auto-Clear
 ACCMULATION_STAT_MAX_HP,Total Max HP
 ACCMULATION_STAT_MAX_MP,Total Max MP
 ACCMULATION_STAT_ATTACK_POWER,Total Atk.
@@ -5686,16 +6405,6 @@ SERVER_REGION_NAME_AMERICA_EAST,"North America I"
 SERVER_REGION_NAME_AMERICA_WEST,"North America II"
 SERVER_REGION_NAME_EUROPE,Europe
 SERVER_REGION_NAME_OCEANIA,Oceania
-AUCTION_SUB_GROUP_ACCESSORYMATERIAL,Accessory Varnish
-AUCTION_SUB_GROUP_ARMORMATERIAL,Armor Varnish
-AUCTION_SUB_GROUP_WEAPONMATERIAL,Weapon Varnish
-CANNOT_EVENT_JOURNY_NEXT_STEP,Event time has expired and you cannot proceed.
-OPTION_ALARM_TOAST,"Alarm Notifications
-(non-critical)"
-REQUEST_HELP_COMPLETE,Help Request Complete
-SHOP_DIA_REWARD_DESC2,@SHOP_DIA_REWARD_DESC
-WAITING_TIME_DESC_2,[Time] seconds left...
-EVENT_GUILD_ENTRANCE_REWARD,"Complete an achievement by joining a clan, and get diamonds as a reward!"
 EVENT_GUILD_ENTRANCE_REWARD_COUNT,100
 FACEBOOK_LANDING_MESSAGE,"[FB_NICK] is playing
 Lineage2 Revolution
@@ -5704,15 +6413,12 @@ with the name
 
 Tap to join your friend
 playing Lineage2 Revolution!"
-TUTORIAL_CHARACTER_NAME,Valdir
-SHOP_LIMIT_TIMER,Closes in [Time]
-SHOP_LIMIT_TIMER_BEYOND_24,[Value]d left
 SHOP_PRODUCT_DETAIL,Item Details
 EPISODE_CLEAR,Episode Cleared
 CHAT_OUTPUT,Output
 CHAT_SPEECHBUBBLE,Speech Bubble
 GUILD_INVITATION_PROMOTE_INPUT,Enter Introduction
-SKILL_AUTO_USE,Use Auto-Skills
+SKILL_AUTO_USE,@BATTLEDECK_SKILL_DESC1
 SKILL_AUTO_USE_DESC,Check each Skill to auto-use.
 COMMON_CLEAR_REWARD,Reward
 COMMON_PATCH_RESET,Reset Game
@@ -5729,16 +6435,11 @@ CHAT_TITEL_PROMOTE,Publicity Chat
 CHAT_TITEL_WORLD,World Chat
 CHAT_TITEL_MANAGEMENT,Blocked List
 CHAT_TITEL_TARGET_FRIEND,- 1:1 Chat
-COMMON_CHAT_VOICE_REALTIME,Voice Chat
+COMMON_CHAT_VOICE_REALTIME,@COMMON_REAL_TIME_TITLE
 CHARACTERTITLE_GIVE_NOT_STAT_GUIDE,Honor Titles do not provide stats.
 GUILD_PERSONAL_REWARD,Indiv. Reward
 GUILD_ALLIANCE_COUNT_EMPTY,No Alliance Formed
 GUILD_ENENY_ATTACK_TIP,Attacks can be made against hostile clans <RED>regardless</> of PK mode.
-STAT_MASTERY_LEVEL,Mastery
-MASTERY_LEVELUP,Increase Mastery
-ASSETS_MASTERYCOIN,"Use to purchase various items from the Mastery Shop.
-Available whenever Mastery increases."
-SUB_MASTERY_SHOP,Mastery
 COMMON_PK_PROTECT,Block PK
 UPGRADE_SOULCRYSTAL_OPEN_LIMIT_GRADE,Equipment grade available starting at Grade SR.
 COMMON_CONFINE_CHAT,Block Chat
@@ -5758,7 +6459,7 @@ RUNE_MAIN_LEVELUP,Level Up Core Rune
 COMMON_AUTO_USE,Auto-Use
 EQUIP_LIMIT_BREAK_TIP,"Material equipment must be the same type as the target equipment
 and must be at max enhancement."
-COMMON_UPGRADE_STAT_VIEW,View Stat Increase
+COMMON_UPGRADE_STAT_VIEW,@ITEM_URCRAFTING_PREVIEW
 COMMON_BOSS_NAME,Boss Name
 WORLDBOSS_EXIST_DESCRITION,Not even a trace remains.
 CHAT_NOT_READING,Unread Chat Messages
@@ -5777,8 +6478,8 @@ COMMON_SELECT_COUNT,Select Quantity
 PARTY_NAME,Party Name
 COMMMON_COUNT,@FREESIEGE_TRY_COUNT
 COMMON_TEXT_SECOND_TITLE,Subtitle
-SUB_PACKAGE_SHOP,Bundle
-SUB_DAILY_SHOP,Daily Benefits
+SUB_PACKAGE_SHOP,@PACKAGE_SHOP_TITLE
+SUB_DAILY_SHOP,@DAYILY_BANEFIT_TITLE
 QUEST_POPUP_LIMIT_LEVEL,Level Restriction
 COMMON_AGIT_PIXIE,Pixie
 COMMON_DATE_COUNT,[D] [H]:[m]
@@ -5816,17 +6517,9 @@ E_TRANSLATION_API,Failed to translate. (API error)
 E_TRANSLATION_NETWORK,Failed to translate. (Network error)
 E_TRANSLATION_SERVER,Failed to translate. (Server error)
 E_TRANSLATION_CLIENT,Failed to translate. (Data error)
-TIME_SHOP,Limited
-COMMON_COUNT_SKILLPOINT,[Count] SP
-PURCHASE_RESTRICTION_TIME,The sale period has ended.
-SHOP_ITEM_EXPIRE_TIME,This item is no longer being sold.
-PARTY_NAME_ERROR,Enter the party name.
-COMMON_EXP_INCREASE_BONUS,EXP +[EXP](+[EXP2])
-TOTAL_HEROIC_POINT,Total Hero Points
-TOP_RANK_NEED_POINT,No. 1 Score Requirement
-COMMON_MASTERYCOIN,Mastery Token
+TOTAL_HEROIC_POINT,@FORTRESS_PLAY_RECORD_HERO_SCORE
+TOP_RANK_NEED_POINT,@FORTRESS_SCORE_1ST_CONDITION
 AUCTION_TOTAL_AMOUNT,Total
-PURCHASE_RESTRICTION_MASTERY_LEVEL,Can only be purchased by players with a Mastery between [VALUE1] - [VALUE2]
 EVENT_AIMEL_SCHOOL,Aymel’s School
 EVENT_AIMEL_SCHOOL_TICKET,Tickets Owned
 OPTION_TLANSLATION_SYSTEM,Translate Chat
@@ -5835,8 +6528,6 @@ GUILD_NO_ENTRY,There are no clans.
 CASTLE_SIEGE_FESTIVAL_TICKET_NAME,Castle Siege Festival Exchange Ticket
 COMMOM_EXCHANGE_TICKET,Exchange Ticket
 COMMOM_EXCHANGE_AGAIN,Exchange Again
-PACKAGE_SHOP_TITLE,@SUB_PACKAGE_SHOP
-DAYILY_BANEFIT_TITLE,@SUB_DAILY_SHOP
 CHARACTER_INFO_SEARCH_ERROR,Character does not exist.
 PING_LOCATION_CHECK,Tap the desired location and send out a ping.
 COMMON_DESTROYED,Destroyed.
@@ -5870,28 +6561,25 @@ SKILL_RESET_POPUP_TEXT1,Refund Currency
 TRANSLATION_NOT_USABLE,Translation option can’t be used
 EQUIPMENT_COMPOSITION_SELECT_NOTICE1,"Combine two max level equipment pieces to acquire equipment of a higher grade.
 
-<FontGreen>There is a chance of obtaining a rare equipment.</>"
+<FontGreen>There is a chance of obtaining a rare equipment when combining equipment of Grade A or better.</>"
 FRIEND_WALL_MESSAGE_FACEBOOK,[Nickname] is waiting for you to join them in [Servername]. Join forces with your friends and emerge victorious in Lineage 2: Revolution!
 FACEBOOK_COMPLETED_WRITING_MESSAGE,"Your post has been published.
 Check it out on your Facebook page."
-APPSTOREKIT_PURCHASE_NOTICE,Apple StoreKit Product Purchase is in progress. Log in with the character that you wish to use to receive your purchased goods.
-SHOP_NOBUY_LIMITED_DAILYBENEFIT,You cannot purchase duplicate Daily Benefits.
-SHOP_NOBUY_LIMITED_ANNUITY,You cannot purchase duplicate Pension Items.
 COMMON_MOTION,MOTION
 COMMON_STYLE,STYLE
 POST_TO_FACEBOOK,Post to Facebook
 RESERVED_GUILD_NAME_AUTH,@RESERVED_NICKNAME_AUTH
 RESERVED_GUILD_NAME_AUTH_CODE_INPUT_NOTICE,Enter the issued password.
-TIME_SHOP_PREPARATION,The Product is being prepared.
+TIME_SHOP_PREPARATION,"Thanks for stopping by!
+Unfortunately, nothing is available yet.
+Make sure to check the timer and visit again!"
 TIME_SHOP_REMAINING,Please check the remaining time.
-PENDING,Pending
+PENDING,Upcoming
 COMMON_DIFFICULTY_ABBREVIATION,Diff
 STAT_COMBAT_POWER_ABBREVIATION,CP
 COMMON_LEVEL_ABBREVIATION,Lv.
 COMMON_MEMBERS_ABBREVIATION,Mem
 GUILDDUNGEON_SORT_ENROLL_TIME1,Reg
-COMMON_NOTICE2,Notice
-COMMON_IMMEDIATELY_SWEEP,Instant Clear
 SHOP_LIST_EMPTY,This package is purchasable at Level 20.
 EVENTDAILYQUEST_FINISH,"Congratulations!
 You’ve completed all of the available events."
@@ -5900,45 +6588,18 @@ Press the Leave button to exit."
 SUMMON_DUNGEON_MONSTER_WAVE,Monster Wave ([Count1]/[Count2])
 SUMMON_MENU_MONSTERBOOK_COMPLETENESS,Codex Progress
 SUMMON_MENU_MONSTERBOOK_STATUS,Codex Stats
-EQUIPMENT_COMPOSITION_RESULT_NOTICE,"<FontGreen>There is a chance of obtaining a rare equipment.</>
-Equipment used in combining will be consumed."
+EQUIPMENT_COMPOSITION_RESULT_NOTICE,"<FontGreen>There is a chance of obtaining a rare equipment when combining equipment of Grade A or better.</>
+Equipment used when combining will be consumed."
 ALREADY_OTHER_CONTROL,Already engaged in another action.
-COMMONSIEGE_INDIVIDUALNOTICE_USERKILL ,<FontRed>Defeated</> an enemy!
-COMMONSIEGE_INDIVIDUALNOTICE_5COUNT_USERKILL,[killCount] consecutive <FontRed>kills!</>
-COMMONSIEGE_INDIVIDUALNOTICE_DESTROYSUCCESS,Defense Tower destroyed<FontBlue>successfully!</>
-COMMONSIEGE_INDIVIDUALNOTICE_ALTARSUCCESS,[AltarName] <FontBlue>imprinted!</>
-COMMONSIEGE_INDIVIDUALNOTICE_SIEGEBUFF,[SiegeBuff] <FontBlue>achieved!</>
-FORTRESS_OCCUPATION_REWARD,Conquer Rewards
-FORTRESS_OCCUPATION_REWARD_INFO,[Name] Conquer Reward Info
-FORTRESS_OCCUPATION_GRADE,Conquer Grade : <FontBlue>[Grade]</>
-FORTRESS_OCCUPATION_WEEK,Fortress Conquer : <FontBlue>Week [Week]</>
-FORTRESS_OCCUPATION_PERIOD,Reward Period : <FontBlue>[DateDisplay1] - [DateDisplay2]</>
-PURCHASE_RESTRICTION_GRADE,Available for purchase upon conquering a fortress of grade [VALUE] or higher.
-FORTRESS_OCCUPATION_REWARD_LIST,Conquer Daily Rewards
-FORTRESS_OCCUPATION_BUFF_INFO,Conquer Buff
-FORTRESS_OCCUPATION_SHOP_INFO,Conquer Shop
-FORTRESS_OCCUPATION_WEEKLY_REWARD,Week [VALUE] Reward
-FORTRESS_OCCUPATION_REWARD_DAY,Day [VALUE]
-FORTRESS_OCCUPATION_GRADE_BUFF,Grade [VALUE] Buff
-FORTRESS_OCCUPATION_SHOP_LIST,Shop List for items available for purchase after conquering a Grade [VALUE] Fortress.
-FORTRESS_SPOT_WIN_REWARD,Grade [VALUE] Spot Win Reward
-FORTRESS_SPOT_GUILD_REWARD,@GUILD_REWARD
-FORTRESS_SPOT_GUILDMEMBER_REWARD,Clan Member Reward
-FORTRESS_SPOT_REWARD_NOTIFY,Note: Reward only given to clan members who participate in a Clan Siege.
-FORTRESS_GRADE,[Grade]
-FORTRESS_GRADE_BUFF_NAME,@FB_USER_NAME
-FORTRESS_GRADE_BUFF_DESC,[Desc]
-FORTRESS_SHOP_ITEM,[ItemName]
-DROP_BOX_GAIN_MSG,<FontRed>Acquire '[Name]' ([Count]/[TotalCount])</>
 SHOP_LIMIT_TIMER_OPEN,Open after [Time].
 SHOP_LIMIT_TIMER_BEYOND_24_OPEN,Open after [Value] days.
 QUEST_RESET_COUNT_GUIDE_SUB,[Sub Quest] Reset Counts
 HOST_SUMMONGEM,Host
 TITLE_SUMMONGEM_DUNGEON,Monster Summoning Stone
 SELECT_SUMMONGEM,Select a Monster Summoning Stone.
-RESERVE_LIST_SUMMONGEM,Reserve to use Monster Summoning Stone ([Value1]/[Value2]).
+RESERVE_LIST_SUMMONGEM,Monster Summon Settings
 POPUP_NO_SUMMONGEM_SELECTED,You must select a Monster Summoning Stone to continue.
-DESC_JOIN_SUMMONGEM,Add text for the explanation on the lower right.
+DESC_JOIN_SUMMONGEM,"*A maximum of 5 monster summons can be set. If the continuous setting is selected, the next Rare monster will be summoned at the conclusion of the previous battle."
 MONSTER_LIST_SUMMONGEM,Monster List
 SELECT_SUMMONGEM_MONSTER,@BOSS_SUMMONS_CHOICE
 POPUP_JOIN_SUMMONGEM,"[ItemName]
@@ -5946,15 +6607,15 @@ Request to join the party?"
 POPUP_HOST_SUMMONGEM,Create a room in this order?
 POPUP_HOST_SOLO_SUMMONGEM,"Requested to enter the dungeon by yourself.
 Playing with a <FontGreen>party</> is recommended."
-COMPLETED_SUMMONGEM_DUNGEON,Completed Monster Summoning Stone Dungeon
-NEXT_SUMMONGEM_DUNGEON,Next Monster Summoning Stone Dungeon
+COMPLETED_SUMMONGEM_DUNGEON,Completed Monster Dungeon
+NEXT_SUMMONGEM_DUNGEON,Next Monster Dungeon
 PARTICIPATION_STATUS_NEXT_DUNGEON,Confirm to enter the next dungeon
-COUNTDOWN_DESC_SUMMONGEM_DUNGEON,"Next Monster Summoning Stone Dungeon will begin after [Value] sec.
+COUNTDOWN_DESC_SUMMONGEM_DUNGEON,"Next Monster Dungeon will begin after [Value] sec.
 If you don’t respond within the time limit, then you will enter automatically."
 BUTTON_JOIN_NEXT_DUNGEON,Enter the next dungeon
-POPUP_QUIT_SUMMONGEM_DUNGEON,Leave without entering the next Monster Summoning Stone Dungeon?
+POPUP_QUIT_SUMMONGEM_DUNGEON,Leave without entering the next Monster Dungeon?
 POPUP_RESERVEEXIT_SUMMONGEM_DUNGEON,"Choose to leave?
-Once you choose, you will not enter the next Monster Summoning Stone Dungeon.
+Once you choose, you will not enter the next Monster Dungeon.
 You can cancel your choice."
 POPUP_RESERVEEXIT_CANCLE_SUMMONGEM_DUNGEON,Cancel choice to leave?
 POPUP_REVOLUTION_NEWS,Official Forum
@@ -5962,3 +6623,80 @@ JOIN_UPDATE_CDN_BUTTON_1,Download CDN
 JOIN_UPDATE_CDN_BUTTON_2,@CANCEL
 JOIN_UPDATE_CDN_WARNING,The patch download will be canceled and the game will close. Proceed?
 CHAT_TITEL_TEAM,Team Chat
+OPTION_COMBAT_JOYSTICK_FIXED_MODE,Fixed Digital Analog Mode
+EVENT_GUILD_ENTRANCE_REWARD,"Complete an achievement by joining a clan, and get diamonds as a reward!"
+SUB_MONSTERGEM,@TITLE_SUMMONGEM_DUNGEON
+SUMMONGEM_NORMAL,Rare Monsters
+SUMMONGEM_BOSS,Boss
+SUMMONGEM_TAB_TALKINGISLAND,@FORTRESS_SIEGE_TAB_TALKINGISLAND
+SUMMONGEM_TAB_GLUDIO,@FORTRESS_SIEGE_TAB_GLUDIO
+SUMMONGEM_TAB_DION,@FORTRESS_SIEGE_TAB_DION
+SUMMONGEM_TAB_GIRAN,@FORTRESS_SIEGE_TAB_GIRAN
+SUMMONGEM_TAB_OREN,@FORTRESS_SIEGE_TAB_OREN
+POSSESSION_SUMMONGEM,Owned Summoning Stones: [Count]
+BUTTON_JOIN_SUMMONGEM,Join
+BUTTON_CREATE_SUMMONGEM,Summon
+ADD_LIST_SUMMONGEM,Add to Summon List
+AUTO_SEARCH_MEMBER,Auto-Recruit Party Members
+INFO_SEARCH_PARTY_MEMBER,Current Party Recruitment Status
+DESC_PARTY_SUMMONGEM,*A maximum of 5 party members can be recruited. Pressing ‘Start’ will enter the Summoning Stone Dungeon with the current number of members even if there are slots remaining.
+CANCLE_SEARCH_MEMBER,Cancel Recruitment
+E_ADD_LIST_SUMMONGEM_FULL,A maximum of 5 Summons can be set.
+E_JOIN_SUMMONGEM_PARTY,Cannot join the Monster Dungeon while in a Party.
+POPUP_TITLE_JOIN_SUMMONGEM,Join Monster Dungeon
+GUIDE_JOIN_SUMMONGEM_1,"Join another player’s Monster Dungeon without using Summoning Stones.
+
+Only the selected region’s Summoning Stones will be searched for, and a maximum of 5 consecutive participations are allowed based on the player’s settings."
+GUIDE_JOIN_SUMMONGEM_2,The set monster summon will be canceled.
+E_CREATE_SUMMONGEM_ENTER,The creator does not own enough Summoning Stones. Cannot proceed with the summon.
+NEXT_SUMMONGEM_MONSTER,Next Monster to Summon
+GUIDE_NEXT_SUMMON_MONSTER,The next Monster Dungeon begins in <FontGreen>[Time]</> sec.
+PLAYED_SUMMON_MONSTER,Joined Monster Summons
+TRY_MATCHING_PARTY,Party matching...
+TRY_MATCHING_OTHER_AREA,Matching for other territory summons...
+AUTO_SEARCH_PARTY_MEMBER,Use Auto-Recruit for Party Members
+GUIDE_REVISION_GRADE,[Value] piece(s) of equipment of Grade [Grade] or greater guaranteed
+TITLE_CUMULATIVE_REWARD,Purchase Bonus
+DESC_CUMULATIVE_REWARD,"Tiered Rewards will be given based on purchases made, and will be delivered to the Mailbox."
+NOTICE_CLOSE_CUMULATIVE_REWARD,Ends in [Time]
+COMMON_STEP,Tier [Value]
+REMAIN_PURCHASE_COUNT,Remaining Purchase Count: [Count]
+COMMON_BONUS,Bonus
+SHOP_PRODUCT_DETAIL_EVENT,Item Event
+LEVELUPGUIDE_NOT_HAVE_CONTENT,"In need of more adventure?
+Go to the Elite Dungeon."
+COMMON_SHORTCUT,@PARTYDUNGEON_SHORTCUT
+WEEKLY_REWARD_FINISH,<FontBlue>[COUNT]</> Completions
+WEEKLY_REWARD_CONTINUE,"Progress will reset to Day 1 if a Check In is missed.
+Receving the Day 7 reward will reset progress back to Day 1."
+LEVELLIMIT_DESC,Remaining: [Count]/[MaxCount]
+LEVELLIMIT_CHARGE_DESC,Paid Recharge Count: [Count]/[MaxCount]
+LEVELLIMIT_GAINEXP,Available Exp.: [Count]
+SUMMONGEM_JOIN_AREA,Participation Area
+DEMO_SHOP_TOPAZ_REWARD_DESC,The Topaz bonus does not apply during the benefit period of the demonstration item.
+LEVELLIMIT_GAINEXP_NONE,Exp. Available
+E_NOTENOUGH_SUMMONGEM_ENTER,Not enough Summoning Stones.
+E_SOLT_EMPTY_MONSTER,Select the monsters to be summoned.
+AUTO_SEARCH_MEMBER_ON,@PARTYDUNGEON_RECRUIT_ON
+PARTYDUNGEON_PENALTY,Leaver Penalty
+FACEBOOKCONNECT,Facebook Connected
+FACEBOOKDISCONNECT,Connect to Facebook
+DAILYBENEFIT_EVENT_TITLE,Daily Benefits Demonstration Event Info
+DAILYBENEFIT_EVENT_DESC,"Find out more info in the Shop -> Daily Benefits tab.
+If the benefits are already in use, additional rewards can be obtained during the event."
+START_EVENT_FIXED_CHARGE_GOODS,The <FontYellow>[Day]</> Day <FontYellow>[Name]</> has been applied.
+BUY_FIXED_CHARGE_GOODS,"The duration for <YellowBold>[Name]</>
+has ended.
+Go to the Daily Benefits Shop to <YellowBold>Purchase</>?"
+MONTHLYITEM_HUNTING_SUM1,Number of Items Sold
+MONTHLYITEM_HUNTING_SUM2,Adena Acquired
+MONTHLYITEM_HUNTING_SUM2_DESC,The total number of items sold and amount of Adena acquired will reset after confirmation.
+GUILD_DISBAND_TITLE1,Auto Clan Disband
+GUILD_DISBAND_TITLE2,Activate Clan
+EVENT_CHARGE_RESET_REMAIN,Reset Count
+COMMON_TOTAL_REWARD,All Rewards
+CAPE_COLOR_DESC,Only the clan leader can change patterns and colors.
+CHATTYPE_ALERT_RED,[Alert]
+SHOP_MOVETO_CHECK_MESSAGE,Go directly to the item in shop?
+COMMON_RETAIN,Retain
+COMMON_END,End

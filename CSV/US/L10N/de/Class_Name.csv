@@ -1,0 +1,43 @@
+Id,Name,Desc
+1,Abenteurer,"Anfänger mit ungenutztem Potenzial. Kann zu Krieger, Schurke oder Mystiker transferiert werden."
+2,Krieger,"Kämpfer, der im Nahkampf angreift."
+3,Schurke,Geschickt im Umgang mit Dolch und Bogen.
+4,Mystiker,"Schadensausteiler, der Magie einsetzt, um Gegner anzugreifen."
+5,Paladin,"Tank, besitzt hohe VER und defensive Fertigk."
+6,Warlord,Schwächt Gegner während er angreift.
+7,Schatzjäger,Betäubt und setzt aufeinanderf. Attacken ein.
+8,Falkenauge,"Langstr., verlangsamt und verursacht Flächensch."
+9,Hexenmeister,Verursacht anhaltenden Flammenschaden.
+10,Bischof,"Heiler, der Verbündete heilt und Gegner betäubt."
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Tempelritter,"Offensiver Tank, setzt weitl. Flächenangr. ein."
+36,Schwertsänger,Auf Angr. mit mittlerer Reichw. spezialisiert.
+37,Ebenengänger,Besitzt eine sehr hohe ANG-GES.
+38,Silber-Ranger,"Langstr., greift sehr schnell an."
+39,Zaubersänger,"Unterst., greift Gegner an oder friert sie ein."
+40,Ältester,Stellt große LP-Heilungen für Verbündete bereit.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Shillien-Ritter,"Offensiver Tank, absorbiert LP um anzugreifen."
+66,Klingentänzer,"Schadensausteiler, der einen hohen ANG besitzt."
+67,Höllengänger,"Verursacht dank hoher ANG-GES Blutungsschaden.
+"
+68,Phantom-Ranger,"Besitzt langs. ANG-GES, aber mächtige Angr."
+69,Zauberwüter,"Verflucht Gegner, verursacht anhalt. Flächensch.
+"
+70,Shillien-Ältester,Heilt und erhöht die Kampfk. von Gruppenmitgl.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Wächter,"Magie-Tank, der Flächenkontrolleffekte einsetzt."
+96,Schlächter,@68
+97,Streuner,Zerschmettert Gegner mit hoher Bewegungs-GES.
+98,Kriegs-Ranger,"Langstr., setzt Fallen und Ausw.-Fertigk. ein."
+99,Kampfmagier,Setzt Fertigk. schnell in engen Bereichen ein.
+100,Weiser,"Unterstützender Schadensausteiler, der die VER von Gruppenmitgliedern erhöht."

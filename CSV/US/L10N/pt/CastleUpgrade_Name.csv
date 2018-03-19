@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Aumento de tempo de marcação do Artefato Sagrado,Aumenta em 1 segundo o tempo para marcar um Artefato Sagrado.
+1002,@1001,Aumenta em 2 segundos o tempo para marcar um Artefato Sagrado.
+1003,@1001,Aumenta em 3 segundos o tempo para marcar um Artefato Sagrado.
+1004,@1001,Aumenta em 4 segundos o tempo para marcar um Artefato Sagrado.
+1005,@1001,Aumenta em 5 segundos o tempo para marcar um Artefato Sagrado.
+2001,Aumento do PV da Torre de Defesa,Aumenta em 500 o PV da Torre de Defesa.
+2002,@2001,Aumenta em 1.000 o PV da Torre de Defesa.
+2003,@2001,Aumenta em 1.500 o PV da Torre de Defesa.
+2004,@2001,Aumenta em 2.000 o PV da Torre de Defesa.
+2005,@2001,Aumenta em 2.500 o PV da Torre de Defesa.
+3001,Aumento de atq. da armadilha,"Aumenta em 1% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo."
+3002,@3001,"Aumenta em 2% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo."
+3003,@3001,"Aumenta em 3% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo."
+3004,@3001,"Aumenta em 4% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo."
+3005,@3001,"Aumenta em 5% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo."

@@ -72,6 +72,7 @@ Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
 1109,Gold,@1107,Gold Robust Ratel,@1101,Defeat Gold Robust Ratel at the Extraction Pit {TaskCount} time(s).
 1151,Defeat Varkaron,Prepare to {ReplaceString1},Monster in Clan Dungeon (Varkaron),@1101,Defeat {TaskCount} monster(s) in the Clan Dungeon (Varkaron).
 1152,Defeat Queen Ant,@1151,Monster in Clan Dungeon (Queen Ant),@1101,Defeat {TaskCount} monster(s) in the Clan Dungeon (Queen Ant).
+1153,Defeat Cruma Core,@1151,Monster in Clan Dungeon (Cruma Core),@1101,Defeat {TaskCount} monster(s) in the Clan Dungeon (Cruma Core).
 1201,Arena,{ReplaceString1} Tour,,Participate in Arena,Participate in the Arena {TaskCount} time(s).
 1202,@1201,@209,,Win in the Arena,Win in the Arena {TaskCount} time(s).
 1203,@1201,{ReplaceString1} Win Streak,,Win Consecutively in the Arena,Win {TaskCondition} consecutive matches in the Arena.
@@ -89,6 +90,9 @@ with SS or higher."
 1411,Godmother of Colony,@401,Queen Ant (Easy),@1101,Defeat Queen Ant’s Cave (Easy) {TaskCount} time(s).
 1412,@1411,@401,Queen Ant (Normal),@1101,Defeat Queen Ant’s Cave (Normal) {TaskCount} time(s).
 1413,@1411,@401,Queen Ant (Hard),@1101,Defeat Queen Ant’s Cave (Hard) {TaskCount} time(s).
+1421,Mind Controller,@401,Cruma Core (Easy),@1101,Defeat Cruma Core Room (Easy) {TaskCount} time(s).
+1422,@1421,@401,Cruma Core (Normal),@1101,Defeat Cruma Core Room (Normal) {TaskCount} time(s).
+1423,@1421,@401,Cruma Core (Hard),@1101,Defeat Cruma Core Room (Hard) {TaskCount} time(s).
 1501,,I Like Rune Imprinting,,Attempt Rune Imprinting,Attempt to imprint runes {TaskCount} time(s).
 1502,,Rune Imprinting is the Best,,Imprint Rune Successfully,Succeed in rune imprinting {TaskCount} time(s).
 1511,,Elixirs are the Best,,Craft Elixir,Craft {TaskCount} elixir(s).

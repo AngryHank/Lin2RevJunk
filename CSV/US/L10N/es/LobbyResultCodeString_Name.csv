@@ -1,0 +1,43 @@
+Key,Value
+10001,La versión de paquete no es compatible con el servidor. Reinicia la aplicación.
+10002,Reinicia el juego para actualizar.
+10003,Error del servidor (DB)
+10004,Error del servidor (LUA)
+10005,Error de tabla de Excel
+10006,Error del servidor (Parámetro)
+10007,Error del servidor (Lógica)
+10008,Error del servidor
+10009,No has iniciado sesión.
+10010,Ya has iniciado sesión.
+10011,No hay objetivos que expulsar.
+10012,Autenticación incorrecta
+10013,Identificador de personaje incorrecto
+10014,Información de clase incorrecta
+10015,Género incorrecto
+10016,Nombre incorrecto
+10017,Información de PNJ incorrecta
+10018,Identificador de jugador incorrecto
+10019,Información de raza incorrecta
+10020,Habilidad incorrecta
+10021,Objetivo de habilidad incorrecto
+10022,Estado incorrecto
+10023,Información de región incorrecta
+10024,El identificador del dispositivo está vacío.
+10025,El nombre ya está en uso.
+10026,La habilidad está en el casting.
+10027,Estás aturdido.
+10028,No estás muerto.
+10029,No tienes suficientes PM
+10030,La sesión se ha desconectado.
+10031,GameToken no está actualizado.
+10032,"Error de protocolo.
+Se necesita la última actualización."
+10033,Error del sistema
+10034,Error de formato de GameToken
+10035,No se encuentra GameToken.
+10036,Mantenimiento en curso.
+10037,La cuenta está vacía.
+10038,Próximamente.
+10039,"No puedes entrar a este servidor porque la creación de personaje está restringida. Usa otro servidor, por favor."
+10040,Netmarble Security ha fallado
+10100,Este jugador ha abandonado.

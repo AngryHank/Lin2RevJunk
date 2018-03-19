@@ -1,0 +1,60 @@
+Id,Name
+11131,Flecha de energia
+11125,Disparo duplo
+11132,Golpe de fogo
+11133,Golpe de vento
+12131,@11131
+12125,@11125
+12132,@11132
+12133,@11133
+13131,@11131
+13125,@11125
+13132,@11132
+13133,@11133
+14131,@11131
+14125,@11125
+14132,@11132
+14133,@11133
+11252,Tigela derretida
+12221,Disparo sônico
+12222,Tempestade sônica
+12242,Disparo amplo duplo
+12251,Lança de gelo
+13241,Ferroada mortal
+30004,Flecha de Sangue
+30006,Disparo de míssil
+31003,Grande batida
+50001,Monstro: Bola de fogo
+50002,Monstro: Pelta de gelo
+50003,Monstro: Magia da terra
+50004,Monstro: Magia do vento
+50005,Monstro: Magia negra
+50006,Monstro: Flecha de energia
+50007,Monstro: Disparo duplo
+60107,@11132
+60109,Disparo de poder
+73022,Habilidade de Zaken 2
+77085,Habilidade Fantasma de Zaken (Missão de chefe)
+74061,Onda elétrica
+74101,MTG_DullahanBossSkill_01
+74111,MTG_DarkLordBossSkill_01
+74121,Lama escaldante
+80001,Projétil de ataque à Torre de Defesa
+1508031,@11133
+1512031,@11131
+1513021,@11131
+1513071,@11125
+1514051,@60109
+1518031,Flecha de gelo
+1519021,@11131
+720441,Veneno de Gravidade
+601261,Fada
+601391,DragonPythonSkill_01
+601441,DarkAssociation_M_HighSkill_01
+731271,Liberar - Estágio 1
+731281,Liberar - Estágio 2
+731291,Liberar - Estágio 3
+731301,Liberar - Estágio 4
+731311,Liberar - Estágio 5
+731371,Ajudante de convés dos Piratas de Zaken
+730311,Liberar - Corpo principal

@@ -1,5 +1,5 @@
 Id,MissionType,RequireCompleteCount,QuestActChapterProgress,RewardType,RewardItemInfoId,RewardCount,RewardIcon
-1,0,6,,6,33000000,1,Icon_Box_SweepTicket
+1,0,6,,6,34000000,3,Icon_Box_SweepTicket
 2,0,12,,6,911060,1,Icon_Box_QuestScroll_01
 4,1,10,1,6,33000501,4,Icon_SummonGem_02
 4,1,10,12,6,33000501,4,Icon_SummonGem_02

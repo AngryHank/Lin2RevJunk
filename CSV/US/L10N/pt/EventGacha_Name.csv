@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Caixa de Sorte,"▶ Um evento no qual todos os jogadores no servidor entram no desafio de uma vez só.
+▶ Novas recompensas disponíveis a cada rotação do evento.
+▶ É possível obter os bilhetes para participar do evento em Caixas de evocação, disponíveis na Loja.",Você pode acessar o evento após o nv. 10.,Parabéns! [Player] ganhou o prêmio nº [Rank] no Evento da Caixa de Sorte.

@@ -1,0 +1,847 @@
+Key,Value
+1,La version du paquet ne coïncide pas avec le serveur. Relancez l'application.
+2,Relancez le jeu pour effectuer la mise à jour.
+3,Erreur serveur (base de données)
+4,Erreur serveur (LUA)
+5,Erreur du tableau Excel
+6,Erreur serveur (paramètre)
+7,Erreur serveur (logique)
+8,Erreur serveur
+9,Vous n'avez pas réussi à vous connecter.
+10,Vous êtes déjà connecté(e).
+11,Aucune cible à exclure.
+12,Authentification incorrecte
+13,Identifiant de personnage incorrect
+14,Infos de la classe incorrectes
+15,Sexe incorrect
+16,Nom incorrect
+17,Infos du PNJ incorrectes
+18,Identifiant joueur incorrect
+19,Infos de la race incorrectes
+20,Compétence incorrecte
+21,Cible de la compétence incorrecte
+22,État incorrect
+23,Vous ne pouvez plus entrer.
+24,Aucun identifiant d'appareil.
+25,Ce nom est déjà utilisé.
+26,Cette compétence est déjà utilisée.
+27,Vous ne pouvez pas vous déplacer.
+28,Vous n'avez pas péri.
+29,PM insuffisants
+30,Adena insuffisante
+31,Vous n'avez pas sélectionné de joueur.
+32,Diamants insuffisants.
+33,Le niveau du personnage est trop bas.
+34,Impossible d'effectuer un transfert de classe vers le même identifiant.
+35,Impossible d'effectuer un transfert vers cette classe.
+36,Votre niveau est trop bas pour effectuer un transfert de classe.
+37,Code de sécurité incorrect.
+38,Identifiant joueur incorrect.
+39,Identifiant d'effet de buff incorrect.
+40,Identifiant d'infos du magasin incorrect.
+41,Les éléments du paquet ne coïncident pas. Le jeu pourrait ne pas fonctionner correctement.
+42,Identifiant d'effet de compétence incorrect.
+43,Identifiant de succès incorrect.
+44,Niveau de rune non valide.
+45,Fragments de runes insuffisants.
+46,Infos de rune non valides.
+47,Échec de développement de rune.
+48,La rune est déjà au niveau max.
+49,Le niveau de la rune précédente est trop bas.
+50,Capacité max. d'Adena dépassée.
+51,Capacité max. de Topazes dépassée.
+52,Capacité max. de Diamants dépassée.
+53,@NotEnoughFreeDiamondStorage
+54,Topazes insuffisantes.
+55,Points de loyauté de tirage insuffisants.
+56,Vous avez péri.
+57,"Le nom doit faire entre 4 et 16 caractères.
+(2 à 8 si le coréen/chinois est inclus)"
+58,"Vous ne pouvez pas entrer d'espaces.
+Veuillez saisir un autre nom."
+59,PC insuffisants.
+60,Capacité max. d'Adena atteinte.
+61,Capacité max. de Pièces de clan atteinte.
+62,Remplissez davantage la page de runes précédente.
+63,Points d'amitié insuffisants.
+64,Type de récompense non valide.
+65,Actuellement étourdi(e).
+66,Le combat est en cours.
+67,Cette classe ne peut pas être sélectionnée pendant la création de personnage.
+68,Capacité de points de loyauté dépassée.
+69,Dans la file d'attente.
+70,Vous ne pouvez pas utiliser de gadgets.
+71,Vous ne pouvez pas utiliser le code de sécurité approprié pour l'instant.
+72,"Ce contenu est restreint.
+Accès impossible."
+73,Valeur de classe de base incorrecte.
+74,"Ce personnage est un chef de clan.
+Ce personnage pourra être supprimé quand vous aurez nommé un autre chef de clan ou quitté votre clan."
+75,Diamants bleus insuffisants.
+76,Diamants rouges insuffisants.
+77,Cible restreinte.
+78,La discussion est actuellement interdite.
+79,Accès impossible en raison de la restriction du nombre de participants.
+80,Météorites rouges de clan insuffisantes.
+81,Disponible après transfert de classe.
+82,"Ce pseudo a été réservé.
+Effectuez les étapes de vérification si vous vous êtes préinscrit(e)."
+83,Pseudo non valide.
+84,Ce joueur a été supprimé.
+85,Monde caché.
+86,Valeur de compte vide.
+87,Valeur de jeton vide.
+100,Vous avez été déconnecté(e) en raison d'une maintenance du serveur.
+101,"En attente de résurrection.
+Vous ne pouvez pas encore ressusciter."
+102,Le canal est plein.
+103,Restriction de changement d'heure.
+201,Le succès ne peut pas être terminé.
+202,Aucun succès.
+203,Vous avez déjà récupéré la récompense de niveau de succès.
+251,Message de discussion non valide.
+252,Identifiant de message de discussion incorrect.
+253,Identifiant d'infos supplémentaires de discussion incorrect.
+254,Type de discussion incorrect.
+255,Restriction de temps de recharge.
+256,Déjà dans la liste noire de la discussion.
+257,Absent de la liste noire de la discussion.
+258,Inscrit dans la liste noire de la discussion.
+259,Le destinataire vous a bloqué(e).
+301,Voici le temps de recharge de la compétence.
+302,Création du premier compte
+303,Compétence précédemment utilisée introuvable.
+370,Infos d'enregistrement incorrectes.
+371,Identifiant d'infos d'enregistrement incorrectes.
+372,Identifiant de récompense d'enregistrement incorrect.
+373,Vous vous êtes déjà enregistré(e).
+374,Vous avez déjà récupéré la récompense.
+375,Aucune période de récompense d'enregistrement hebdomadaire active.
+401,Identifiant d'objet incorrect.
+402,@InvalidItemInfoId
+403,Cet objet ne peut pas être perfectionné.
+404,Débris insuffisants.
+405,Pas assez d'objets.
+406,Fusions et améliorations disponibles à partir du niv. 5.
+407,Parchemins de perfectionnement insuffisants.
+408,"Perfectionnement impossible, à présent."
+409,Échec de perfectionnement de l'équipement.
+410,"L'équipement a été scellé.
+L'équipement scellé ne peut pas être perfectionné."
+411,Seul l'équipement scellé peut être descellé.
+412,Cet objet est déjà équipé.
+413,Cet objet n'est pas équipé.
+414,Pas assez de place dans l'inventaire.
+415,L'objet équipé ne peut pas être utilisé.
+-1,Cet équipement ne peut pas être descellé.
+417,Cet équipement ne peut pas être amélioré.
+418,Cet équipement ne peut plus être amélioré.
+419,Cet équipement ne peut plus être fusionné.
+420,Impossible d'utiliser les objets dans les favoris.
+421,"Les matériaux à fusionner sont de types différents.
+Vous pouvez seulement fusionner des équipements du même type."
+422,"Les matériaux à fusionner sont de qualités différentes.
+Vous pouvez seulement fusionner des équipements de même qualité."
+423,Index de stat extra incorrect.
+424,Cet objet est inutilisable.
+425,Cet équipement ne peut plus être enchanté.
+426,Ceci n'est pas un équipement.
+427,Matériaux insuffisants pour effectuer l'amélioration.
+428,Impossible d'agrandir davantage l'inventaire.
+429,Identifiant de matériau incorrect.
+430,Ceci n'est pas un Parchemin de perfectionnement.
+431,L'identifiant d'infos d'objet est différent.
+432,Revalorisation de l'objet impossible.
+433,Il n'est plus possible de revaloriser cet objet.
+434,Ceci n'est pas un Cristal d'âme.
+435,Index d'emplacement d'objet insuffisant.
+436,Un Cristal d'âme de ce type est déjà équipé.
+437,L'objet est déjà au niveau max.
+438,Cet objet ne dispose d'aucunes stats extra.
+439,Cet objet ne dispose d'aucun attribut.
+440,Les attributs ne coïncident pas.
+441,Échec de perfectionnement de l'attribut d'objet.
+442,Impossible d'utiliser plus d'élixirs.
+443,Groupe ou type de fabrication d'objet incorrect.
+444,Matériaux insuffisants pour fabriquer l'objet.
+445,Cristaux d'égide insuffisants.
+446,Type d'équipement incorrect.
+447,Index de deck incorrect.
+448,Ce deck d'équipement est déjà utilisé.
+449,Le serveur est différent du deck.
+450,Échec de création de l'objet. Espace dans l'inventaire insuffisant.
+451,Impossible d'utiliser les infos du tableau.
+452,Ce codex de monstres a déjà été terminé.
+453,Vous n'avez aucun cœur de monstre non lié dans votre inventaire.
+454,Identifiant de groupe incorrect.
+455,Ce groupe de codex de monstres a déjà été complété.
+456,Il n'y a aucun codex de monstres à remplir.
+457,Type de récompense de halte incorrect.
+458,Points de halte insuffisants.
+459,Le type de monnaie utilisée est différent.
+460,Type de stat extra de Parchemin oublié incorrect.
+461,Ceci n'est pas un Parchemin oublié.
+462,Impossible d'utiliser des Parchemins oubliés.
+463,La compétence est déjà au niveau max.
+464,Nombre incorrect de matériaux.
+465,Le type de Parchemin de perfectionnement est différent.
+466,Impossible d'utiliser l'objet. Vos PV sont au max.
+467,Impossible d'utiliser l'objet. Vos PM sont au max.
+468,"Fabrication impossible, à présent."
+469,Parchemins d'évasion insuffisants.
+470,La Boîte surprise est vide.
+471,Aucun Cristal d'âme équipé.
+472,L'élixir ne peut pas être utilisé.
+473,Le niveau d'attribut de l'équipement est au max.
+474,Cet objet n'est pas de type Mégaphone.
+475,Type d'effet de Cristal d'âme incorrect.
+476,Identifiant d'infos de butin d'objets incorrect.
+477,Vous avez atteint le seuil quotidien max. autorisé.
+478,Utilisation impossible pendant le temps de recharge.
+479,Votre classe ne vous permet pas d'équiper cet objet.
+480,Téléportation.
+481,Les armes ne peuvent pas être retirées. Replacez-les par d'autres armes.
+482,Niveau max. déjà atteint.
+483,Un Trait d'âme du même type est déjà activé.
+484,Dans l'Arène.
+485,Impossible d'invoquer une Pierre d'invocation maléfique ici.
+486,Utilisation impossible. La valeur chaotique a atteint 0.
+487,"Obtention impossible, à présent."
+488,Vous ne pouvez pas vendre autant d'objets en une seule fois.
+489,Emplacement de stat extra incorrect.
+490,Cet objet ne peut pas être fabriqué avec de l'équipement.
+491,Le niveau de l'objet est trop bas pour fabriquer de l'équipement.
+492,La qualité de l'objet est trop basse pour fabriquer de l'équipement.
+493,Cet objet ne peut pas être vendu.
+501,Impossible de recevoir du courrier.
+502,"Votre messagerie est pleine.
+Récupérez la récompense dans votre messagerie,
+puis réessayez."
+503,"Impossible de récupérer les récompenses, votre messagerie est pleine.
+Réessayez après avoir fait de la place dans votre messagerie."
+511,Points d'activités quotidiennes insuffisants.
+512,Identifiant de récompense d'activités quotidiennes incorrect.
+513,Identifiant de groupe de récompense d'activités quotidiennes incorrect.
+514,Aucune récompense disponible.
+521,Identifiant d'infos de fin immédiate incorrectes.
+522,Ceci n'est pas un identifiant d'infos de fin immédiate.
+523,Identifiant de groupe d'infos de fin immédiate incorrect.
+531,Type de demande de quête incorrect.
+532,Type d'infos de demande de quête incorrect.
+533,Impossible de commencer la quête pour l'instant.
+534,Impossible de terminer ceci pour l'instant.
+535,Il n'y a aucune quête en cours.
+536,Cette quête a déjà été terminée.
+537,Vous ne pouvez renouveler aucune quête quotidienne.
+538,Il n'y a aucune quête hebdomadaire en cours.
+539,@NoMoreDailyActivityRewardGet
+540,Une autre quête hebdomadaire est en cours.
+541,Vous avez étendu le nombre de quêtes quotidiennes pour aujourd'hui.
+601,Identifiant d'infos de territoire incorrect.
+602,Identifiant d'infos de lieu incorrect.
+603,Identifiant d'infos de région incorrect.
+604,Identifiant d'infos de quête incorrect.
+605,La quête est déjà en cours.
+606,La quête n'est pas en cours.
+607,La quête ne peut pas être terminée.
+608,La quête prérequise n'a pas été terminée.
+609,Tickets de quête insuffisants.
+610,Nombre d'accomplissements de quête insuffisant.
+611,La quête ne comporte pas de changements.
+612,La région n'a pas été terminée.
+613,Le lieu n'a pas été terminé.
+614,La quête a échoué.
+615,Vous n'avez pas échoué.
+616,Vous ne pouvez pas ressusciter pendant cette quête.
+617,Identifiant de gadget incorrect.
+618,La distance est trop grande.
+619,Aucun PNJ.
+620,État de quête incorrect.
+621,La quête a déjà été terminée.
+622,Pillages auto. de quête insuffisants.
+623,Infos de récompense de quête de conquête incorrectes.
+624,Étoiles insuffisantes pour terminer la conquête.
+625,La quête n'a jamais été terminée.
+626,Ce n'est pas une quête de conquête.
+627,Le Ticket de quête a déjà atteint la valeur max.
+628,Le nombre de recharges de Tickets de quête a déjà atteint le seuil max.
+629,Vous devez obtenir au moins 3 étoiles pour pouvoir utiliser le pillage auto. dans cette étape.
+630,Seuil max. des actions atteint.
+631,Gadget déjà contrôlé.
+632,Nombre d'acte de quête incorrect.
+633,Loi de quête pas encore terminée.
+634,Récompense de loi de quête déjà obtenue.
+635,Récompense de progression de loi de quête déjà obtenue.
+636,Nombre de Parchemins de quête insuffisant.
+637,Nombre de réinitialisations de Parchemins de quête insuffisant.
+701,"La compétence est au niveau max.
+Réessayez après avoir augmenté le niveau de votre personnage."
+702,Identifiant de deck de compétences incorrect.
+703,Échec de modification du deck de compétences.
+704,La compétence ne peut pas être utilisée avec cette arme.
+801,Vous êtes déjà ami(e) avec ce joueur.
+802,Vous avez déjà envoyé une demande.
+803,Aucune demande d'amitié reçue.
+804,Le joueur n'est pas un ami.
+805,Joueur introuvable.
+806,Votre liste d'amis est pleine.
+807,Vous avez atteint le seuil max. de demandes d'amitié reçues.
+808,Vous ne pouvez pas vous saluer vous-même.
+809,Salutations déjà envoyées.
+810,Vous ne pouvez pas vous envoyer la demande.
+811,Échec de la création d'une liste d'amis recommandés.
+812,"Le joueur n'est pas un ami.
+La discussion privée est seulement disponible entre deux joueurs amis."
+813,Vous n'avez reçu aucune salutation de la part de vos amis.
+814,Ce joueur n'a pas encore terminé le didacticiel sur les amis.
+815,La demande d'amitié a été acceptée.
+816,Vous avez atteint le seuil max. de salutations par jour.
+817,Vous n'avez aucun ami à saluer.
+818,La liste d'amis du joueur est pleine.
+819,Vous avez déjà envoyé trop de demandes d'amitié.
+847,Seul le chef de groupe peut demander l'entrée
+848,Déjà dans un donjon.
+849,Impossible quand vous êtes dans un groupe.
+850,Vous avez déjà invité ce joueur.
+851,Ce groupe n'existe pas.
+852,Vous n'avez pas reçu d'invitation pour rejoindre un groupe.
+853,Ce joueur est déjà dans un groupe.
+854,Vous n'appartenez à aucun groupe.
+855,Le chef de groupe est hors ligne.
+856,Vous ne pouvez pas vous rendre ici.
+857,Vous êtes déjà chef de groupe.
+858,Vous n'avez pas la permission de faire ceci.
+859,Impossible de vous cibler vous-même.
+860,Le groupe est complet.
+861,Hors ligne.
+862,Vous n'avez pas demandé à rejoindre un groupe.
+863,La cible se trouve dans une région inaccessible ou de laquelle elle ne peut pas être invoquée.
+864,Vous n'êtes pas dans une pièce.
+865,Action impossible ici.
+866,Impossible de créer un groupe pendant un Siège de château ou de forteresse.
+867,Nombre de membres de groupe insuffisant.
+868,Seul le chef de groupe peut dissoudre le groupe.
+869,Cet utilisateur n'a pas encore terminé le didacticiel sur les groupes.
+870,Déjà en cours d'association.
+871,La recherche rapide ne peut pas être utilisée dans cette région.
+872,Impossible d'effectuer cette action dans une instance de donjon.
+873,Ceci n'est pas un groupe.
+874,Action impossible.
+875,Vous n'êtes pas dans la file d'attente d'un donjon de groupe.
+876,Membre du groupe introuvable.
+877,Nombre de membres de groupe insuffisant.
+878,Action impossible en attente de création de groupe.
+879,Vous êtes déjà dans la discussion vocale du groupe.
+880,Vous n'êtes pas dans la discussion vocale.
+881,Erreur de voix Apollo.
+882,La quête de groupe n'est pas partagée.
+883,Le niveau d'un joueur est trop bas.
+884,Recrutement déjà en cours.
+885,Un membre se trouve dans une région inaccessible.
+886,Un membre du groupe n'a pas assez de nombre d'entrées restantes.
+887,Un membre du groupe ne remplit pas les conditions requises pour accéder au donjon.
+888,Action impossible quand le groupe est complet.
+889,Action impossible durant l'invitation d'un membre de groupe.
+890,Demande possible après [Time].
+891,Vous avez déjà demandé à rejoindre ce groupe.
+892,Le chef de groupe est près de vous.
+893,Un membre du groupe ne peut pas effectuer cette action.
+894,Impossible de rejoindre ce groupe.
+901,Cet identifiant correspond à un clan qui n'existe pas ou à un clan différent.
+902,La longueur du nom du clan est incorrecte.
+903,Un autre clan porte déjà ce nom.
+904,Déjà dans un clan.
+905,Vous n'êtes pas encore dans un clan.
+906,Vous n'avez pas la permission de faire ceci dans votre clan.
+907,Ce clan n'est pas visible.
+908,Demande d'adhésion déjà envoyée.
+909,Vous n'avez pas encore demandé à rejoindre un clan.
+910,Vous ne pouvez plus accepter de membres de clan.
+911,Seulement applicable aux membres de clan de faible rang.
+912,Cette monnaie ne peut pas être donnée.
+913,Nombre incorrect de dons.
+914,Vous avez déjà lancé un vote de destitution.
+915,Déjà enregistré(e) dans le clan.
+916,Impossible de saluer davantage le clan.
+917,Ce joueur a déjà été salué.
+918,Pièces de clan insuffisantes.
+919,Identifiant de buff de clan insuffisant.
+920,Vous disposez déjà de ce buff de clan.
+921,Identifiant d'infos de château incorrect.
+922,Adena de clan insuffisante.
+923,"Obtention impossible, à présent."
+924,Identifiant d'infos d'emblème de clan incorrect.
+925,Vous ne pouvez pas attribuer ce rang de clan à d'autres joueurs.
+926,Aucun clan.
+927,Alliance déjà effective.
+928,Demande d'alliance déjà envoyée.
+929,Vous n'avez pas reçu d'invitation dans un clan.
+930,Ce clan n'est pas un clan allié.
+931,"Formation de nouvelles alliances impossible, à présent."
+932,Ce clan ne peut plus former d'alliances.
+933,Le chef de clan ne peut pas quitter le clan.
+934,Vous ne pouvez plus déclarer de clans hostiles.
+935,Ce clan est déjà hostile.
+936,Ce clan n'est pas un clan hostile.
+937,La guerre contre un clan hostile n'est pas disponible.
+938,Impossible de supprimer un clan hostile.
+939,Impossible de capituler durant un combat hostile.
+940,Aucun buff de clan.
+941,Impossible de former une alliance avec des clans hostiles.
+942,Impossible de déclarer des clans alliés comme hostiles.
+943,Vous devez saisir un montant supérieur au prix d'enchère minimum.
+944,Impossible d'utiliser cette fonctionnalité. Le niveau de clan est trop bas.
+945,Impossible de déclarer le clan hostile car son niveau est trop bas.
+946,"Le niveau de restriction d'adhésion a augmenté.
+Impossible d'envoyer une demande d'adhésion."
+947,"Type d'adhésion modifié. Les demandes doivent maintenant être acceptées.
+Impossible d'envoyer une demande d'adhésion."
+948,Vous avez atteint le seuil de dons quotidiens.
+949,Preuves de sang insuffisantes.
+950,Seuil max. d'achats par jour atteint.
+951,Vous ne pouvez plus accepter de demandes d'adhésion.
+952,Nom de clan incorrect.
+953,Vous ne pouvez pas saisir d'espaces dans les noms de clan.
+954,Tous les membres de clans doivent quitter le clan pour le dissoudre.
+955,"Impossible de participer aux activités de clan, car vous subissez des pénalités après avoir quitté et rejoint un clan."
+956,Déjà un membre de clan.
+957,@GuildJoined
+958,Tous les clans hostiles ont été déclarés.
+959,Vous n'êtes pas le chef de clan.
+960,Seuil max. d'achats par semaine atteint.
+961,Seuil max. d'achats par mois atteint.
+962,Impossible d'exclure les membres de haut rang.
+963,Cet utilisateur n'a pas encore terminé le didacticiel sur les clans.
+964,Impossible de déclarer de nouveaux clans hostiles.
+965,Achat impossible. Preuves de sang de clan insuffisantes.
+966,"Impossible de rejoindre, quitter, nommer un autre chef de clan
+ou de dissoudre le clan pendant un Siège de château."
+967,"Impossible de rejoindre, quitter, nommer un autre chef de clan
+ou de dissoudre le clan pendant un Siège de forteresse."
+968,Donjon de clan indisponible.
+969,Vous n'êtes pas un membre de clan éligible.
+970,Ce donjon de clan a déjà été terminé.
+971,Seuil de réinitialisation atteint.
+972,Ce donjon de clan n'a pas encore été terminé.
+973,Météorites rouges insuffisantes.
+974,Aucune récompense d'enregistrement de clan disponible.
+975,Aucun enregistrement de clan disponible.
+976,Vous avez déjà obtenu la récompense d'enregistrement de clan.
+977,Le membre de ce clan ne s'est pas connecté depuis un certain temps.
+978,Le clan n'existe pas ou n'est pas enregistré.
+1001,Identifiant de portail incorrect.
+1002,Contrôle impossible.
+1101,Échec de placement de l'enchère pour le Siège de château.
+1102,Échec d'annulation de l'enchère pour le Siège de château.
+1103,Siège de château incorrect.
+1104,Aucune info sur l'enchère du Siège de château.
+1105,Coupons de festival du Siège de château insuffisants.
+1106,Bons de festival du Siège de château insuffisants.
+1107,Fonds insuffisants pour placer l'enchère.
+1108,Ce n'est pas le moment de placer une enchère.
+1109,Vous avez déjà augmenté votre enchère.
+1110,Emplacement de festival du Siège de château incorrect.
+1111,Seuls les clans ayant remporté l'enchère peuvent entrer.
+1112,Impossible d'obtenir la récompense de Bon pour l'instant.
+1113,Pas de Siège de château en cours.
+1114,Impossible de placer une enchère du même montant.
+1115,Vous ne pouvez pas vous rendre au Siège de château depuis ce monde.
+1116,Aucun clan conquis.
+1117,Aucun historique de Siège de château.
+1118,Le festival du Siège de château n'est pas actif.
+1119,Achat impossible. Aucun clan n'a conquis ou placé une enchère sur le château.
+1151,Échec de placement de l'enchère.
+1152,Échec d'annulation de l'enchère.
+1153,Inscription au Siège de forteresse incorrecte.
+1154,Aucune info sur l'enchère du Siège de forteresse.
+1155,Informations de territoire incorrectes.
+1156,Identifiant d'informations de forteresse incorrect.
+1157,Les clans possédant des châteaux ne peuvent pas placer d'enchère.
+1158,Pas de Siège de forteresse en cours.
+1159,Ce clan n'a pas participé au Siège de forteresse.
+1160,Seuls les clans qui ont conquis des châteaux peuvent acheter ceci.
+1161,Seuls les clans qui ont conquis des forteresses peuvent acheter ceci.
+1162,Les clans possédant des forteresses ne peuvent pas placer d'enchère.
+1190,"Seuls les membres de clan qui accèdent à un Siège de château ou
+de forteresse peuvent s'inscrire."
+1201,Prix incorrect.
+1202,@InvalidName
+1203,Aucun objet utilisable.
+1204,État incorrect.
+1205,Ceci doit être un objet de liaison.
+1206,Voici l'agent de commerce.
+1207,Aucun résultat de recherche.
+1208,Ce type ne peut pas être enregistré.
+1209,Produit épuisé.
+1210,Seuil d'enregistrements autorisés dépassé.
+1211,La qualité de l'objet ne coïncide pas.
+1212,Aucune catégorie ou nom pertinent.
+1213,Aucune qualité ou nom pertinent.
+1214,Adena insuffisante pour la mise en vente au Comptoir d'échange.
+1215,La liste des favoris de votre Comptoir d'échange est pleine.
+1216,Objet identique dans les favoris.
+1217,Aucun objet dans les favoris.
+1218,Cet objet ne peut pas être enregistré.
+1219,Le Cristal d'âme est équipé.
+1220,Nombre maximum d'objets pouvant être enregistrés atteint.
+1221,Quantité de Comptoir d'échange insuffisante
+1222,Certaines parties de cet objet ont été vendues.
+1301,Identifiant d'objet incorrect.
+1302,Objet d'achat incorrect.
+1303,Type de monnaie incorrect.
+1304,Type de tirage incorrect.
+1305,Vous ne pouvez pas acheter l'objet d'achat initial.
+1306,Achat impossible pendant le temps de recharge.
+1307,Seuil d'achats quotidiens autorisés dépassé.
+1308,Seuil d'achats hebdomadaires autorisés dépassé.
+1309,Seuil d'achats mensuels autorisés dépassé.
+1310,Ce n'est pas le moment d'acheter.
+1332,La vente de cet objet est terminée.
+1311,Cet objet ne peut pas être acheté gratuitement.
+1312,Vous utilisez déjà le même type de pack mensuel.
+1313,Vous n'avez pas obtenu la récompense de pack mensuel assez de fois.
+1314,Requête non valide.
+1315,Le type de l'objet acheté ne coïncide pas.
+1316,Vous utilisez déjà un objet d'annuité.
+1317,Identifiant d'infos de récompense du magasin incorrect.
+1318,Ce n'est pas la période de l'événement de bonus du Magasin.
+1319,Type de récompense du magasin incorrect.
+1320,Aucune récompense disponible.
+1321,La période d'événement a été étendue.
+1322,Pas de joueur faisant son retour.
+1323,Pas de nouveau joueur.
+1324,La période de vente est terminée.
+1325,Le produit est épuisé.
+1326,Les conditions d'achat n'ont pas été remplies.
+1327,L'achat a échoué.
+1328,Type de récompense d'objet de revenu incorrect.
+1329,Demandez de l'assistance.
+1330,Identifiant d'information de fenêtre dynamique incorrect.
+1331,Le produit limité est épuisé.
+1401,Identifiant de donjon incorrect.
+1402,Il ne vous reste plus d'entrées de donjons.
+1403,Vous ne pouvez accéder gratuitement aux donjons quotidiens que certains jours.
+1404,Vous n'avez pas réussi à terminer le donjon.
+1405,Vous n'êtes pas dans un donjon.
+1406,"Vous ne pouvez pas accéder à la Tour de l'insolence car
+vous avez atteint le nombre d'entrées autorisées."
+1407,Le donjon n'a pas encore été terminé.
+1408,Vous ne pouvez pas effectuer un pillage auto. de donjon.
+1409,Vous ne pouvez pas accéder aux donjons quotidiens gratuitement.
+1410,"Extraction impossible, à présent."
+1411,Infos de quête de donjon incorrectes.
+1412,La quête de donjon n'a pas encore été terminée.
+1413,Vous avez déjà obtenu la récompense pour avoir terminé ce donjon.
+1414,Points de quête de donjon insuffisants pour obtenir des récompenses.
+1415,Il vous reste encore du temps pour le Bonus de temps de donjon.
+1416,Nombre de recharges pour le bonus temporaire de donjon insuffisant.
+1417,Le pillage auto. est disponible après avoir terminé les quêtes de donjon élite initiales.
+1418,Il ne vous reste plus d'entrées de donjons quotidiens.
+1419,Le pillage auto. n'est pas disponible car votre rang de pillage de donjon est trop bas. Augmentez-le et réessayez.
+1420,Vous ne pouvez pas vous rendre au donjon depuis ce monde.
+1421,Vous avez encore la possibilité d'accéder aux donjons quotidiens.
+1422,Vous ne pouvez plus accéder à ce donjon quotidien.
+1423,Il ne vous reste plus d'entrées de donjons.
+1424,Impossible d'accéder à ce donjon.
+1425,Il vous reste des entrées de donjon.
+1426,Vous avez déjà effectué toutes les recharges possibles.
+1501,État JcJ incorrect.
+1502,Votre rang a été modifié.
+1503,Le rang de la cible a été modifié.
+1504,La cible est prête à combattre.
+1505,Vous avez été attaqué(e) en JcJ.
+1506,Tickets insuffisants pour accéder au JcJ.
+1507,Vous n'êtes pas dans l'Arène.
+1508,Le début du JcJ n'a pas été confirmé.
+1509,Pas d'état d'AJ.
+1510,La liste de coalition est pleine.
+1511,Introuvable dans la liste de coalition.
+1512,Cet utilisateur est déjà enregistré.
+1513,Arme non équipée.
+1514,Récompense déjà obtenue.
+1515,Pas de rang d'Arène.
+1516,Pas de récompense d'Arène.
+1517,Impossible d'acheter de nouveaux Tickets JcJ.
+1518,Cible du duel incorrecte.
+1551,La quête de transfert de classe est déjà en cours.
+1552,La quête de transfert de classe est toujours en cours.
+1553,Il vous reste une récompense de transfert de classe.
+1554,Impossible de terminer ceci.
+1555,Obtention de récompenses impossible.
+1556,Identifiant de quête de transfert de classe incorrect.
+1601,Quête déjà terminée.
+1602,@NotCompeletableStateMissionRequest
+1603,@InvalidQuestInfoId
+1604,Identifiant de récompense de quête incorrect.
+1701,Identifiant de didacticiel incorrect.
+1702,Échec de lancement du didacticiel.
+1703,Étape du didacticiel incorrecte.
+1704,@TutorialWorldAcquireFailed
+1705,L'étape du didacticiel a été terminée.
+1706,Vous avez déjà obtenu le matériau du didacticiel.
+1707,Le didacticiel n'a pas encore commencé.
+1708,Didacticiel obligatoire en cours.
+1709,Le didacticiel a déjà été terminé.
+1710,Vous avez déjà obtenu la récompense.
+1711,Joueur du didacticiel - Seulement dans le didacticiel
+1712,Ce n'est pas un joueur du didacticiel.
+1713,Impossible de passer.
+1714,Impossible de lancer le didacticiel en donjon.
+1801,Erreur de serveur Redis.
+1802,Identifiant d'infos de classement incorrect.
+1803,Aucune donnée de classement.
+1804,Page incorrecte.
+1850,La discussion vocale n'a pas été réinitialisée.
+1851,Temps de réponse avec le serveur de la discussion vocale dépassé.
+1901,Vous avez atteint la limite de Coupons du festival du Siège de château.
+1902,Vous avez atteint la limite de PC.
+1903,Vous avez atteint la limite de Tickets d'Arène.
+1904,Vous avez atteint la limite de Diamants rouges.
+1905,Vous avez atteint la limite de Diamants bleus.
+1906,Vous avez atteint la limite de points de loyauté.
+1907,Vous avez atteint la limite de points d'amitié.
+1908,Vous avez atteint la limite de Topazes.
+1909,Vous avez atteint la limite de Pièces de clan.
+1910,Vous avez atteint la limite d'Adena.
+2001,Type d'événement incorrect.
+2002,L'événement n'est pas en cours.
+2003,Vous avez déjà obtenu les récompenses d'événement.
+2004,Conditions d'événement incorrectes.
+2005,Vous ne remplissez pas les conditions d'événement.
+2006,Vous avez déjà obtenu le nombre max. de récompenses d'événement.
+3000,Achat intégré NetmarbleS - Le nombre de cadeaux à envoyer a dépassé la limite.
+3001,Achat intégré NetmarbleS - Limite de cadeaux dépassée.
+3002,Achat intégré NetmarbleS - Limite de paiement dépassée.
+3003,Achat intégré NetmarbleS - Erreur.
+3004,Achat intégré NetmarbleS - Objet non enregistré.
+3005,Achats intégrés NetmarbleS - Aucune réponse du serveur. Réessayez.
+3006,Achats intégrés NetmarbleS - Maintenance du serveur en cours.
+3007,Erreur lors du paramétrage de l'objet.
+3008,La période de vente de l'objet est terminée.
+3009,Objet en rupture de stock.
+3101,Échec de confirmation de la préinscription.
+3102,Échec de vérification de la préinscription.
+4001,Le joueur n'a pas encore accédé à cette région.
+9000,Paquet à supprimer.
+9001,Prochainement
+9002,Dépassé.
+981,EXP de Salle du clan insuffisante pour le développement.
+980,"La Salle du clan de ce clan est fermée.
+Vous ne pouvez entrer que si les portes de la Salle du clan sont ouvertes."
+990,Ce clan n'a pas acheté de Salle du clan.
+991,Vous êtes déjà dans la Salle du clan.
+5600,"Vous pouvez inviter des joueurs ayant jusqu'à 200 points
+de différence avec le chef de groupe de champ de bataille."
+5601,Ce joueur est déjà dans un groupe de champ de bataille.
+498,"Vous ne pouvez pas acheter de Traits d'âme
+quand vous possédez des Traits d'âme actifs."
+992,Ce membre a atteint le seuil max. de prix autorisé.
+993,Aucun membre de clan à récompenser.
+92,"La barrière s'est fermée car la durée d'invocation est terminée.
+Le combat pour ce donjon est terminé."
+5602,"Nous sommes actuellement en période d'intersaison.
+Votre score sera actualisé quand la saison débutera."
+999,La Salle du clan ne peut pas être supprimée car un joueur s'y trouve.
+1013,Vous ne pouvez nommer chef de clan qu'un joueur qui a été membre depuis 7 jours ou plus.
+979,Vous avez déjà acheté la Salle du clan.
+982,Fragments de Cristal d'unité insuffisants pour le développement.
+1004,"Les quêtes solo de la Salle du clan se réinitialisent chaque jour
+et une seule est disponible par jour."
+983,"Vous pouvez faire autant de quêtes de Salle du clan que vous le désirez quotidiennement,
+mais vous ne pouvez en réaliser que 3 simultanément."
+984,Cette quête de Salle du clan est déjà en cours.
+985,Un autre membre de clan est déjà sur cette quête.
+986,Cette quête a déjà été terminée.
+987,Cette quête n'est pas en cours.
+988,Cette quête ne peut pas être terminée pour l'instant.
+989,"Développez la Salle du clan
+pour renforcer le Cristal d'unité."
+994,"Engagez un Responsable
+de rang supérieur pour l'utiliser."
+995,Une autre relique a déjà été enregistrée.
+996,Aucune relique enregistrée.
+997,Il faut plus de temps pour estimer la relique.
+998,Points de coffre à relique du clan insuffisants.
+1000,"Un festin équivalent ou de meilleure qualité
+a déjà été préparé."
+1010,Ce responsable est déjà sur une autre tâche.
+1011,Type de responsable inconnu.
+1012,Vous ne pouvez pas améliorer le responsable au rang choisi.
+1021,N'est pas en combat contre un clan hostile.
+1022,Négocie déjà l'arrêt des combats contre le clan hostile.
+1023,Ne négocie pas l'arrêt des combats contre le clan hostile.
+1024,Membres de clan insuffisants pour entrer en combat.
+1025,Membres de clan hostile insuffisants pour entrer en combat.
+93,Impossible de changer de canal en combat.
+500,Quittez l'Arène impitoyable pour vous déplacer.
+97,Pièces d'honneur insuffisantes.
+98,Pièces de bravoure insuffisantes.
+99,Pièces antiques insuffisantes.
+1911,Limite de Pièces d'honneur atteinte.
+1912,Limite de Pièces de bravoure atteinte.
+1913,Limite de Pièces antiques atteinte.
+895,Impossible d'entrer pendant que le Champ de bataille est en préparation.
+1014,Pas assez de petit bois pour allumer un feu dans le Foyer.
+1015,Limite de fabrication atteinte.
+1051,Cet objet ne peut pas être offert comme prix.
+400,Pas de PC disponibles.
+5300,Identifiant de monture incorrect.
+5301,Identifiant d'infos de monture incorrect.
+5302,Aucune monture équipée.
+5303,Vous cherchez à monter une monture identique.
+5304,Voici une autre monture.
+5305,Limite d'utilisation de la monture atteinte.
+5306,Les infos de la monture de coïncident pas.
+5307,Activation de la monture impossible car votre niveau est trop bas.
+5308,Aucune monture activée.
+5309,Le rang de la monture est trop faible.
+5310,Les conditions d'activation de la monture ne sont pas respectées.
+5311,Ceci n'est pas une monture.
+5312,Emplacement incorrect pour équiper la monture.
+5313,Matériaux de développement de monture insuffisants.
+5314,Vous ne pouvez pas utiliser de monture ici.
+5315,Le niveau de la monture est trop bas.
+6500,Nombre de liens maximum atteint.
+896,"Vous avez inclus des caractères non valides
+(caractères spéciaux et registre familier non autorisés)."
+898,"En incluant les espaces, de 2 à 16 caractères (2 à 12 si le coréen ou le chinois est inclus) peuvent être utilisés."
+897,Vous ne pouvez avoir qu'une seule espace à la fois.
+5400,Actuellement indisponible.
+1121,Impossible d'entrer dans le QG du siège car il a été détruit.
+899,"Vous ne pouvez rejoindre un groupe de membres de clan qu'en Siège de forteresse et Siège de château,
+ou en les invitant dans votre groupe."
+6600,Actuellement indisponible. Vous pouvez changer le nom uniquement lorsque vous êtes sur le terrain et pas dans un groupe.
+1055,La réponse du serveur Netmarble se fait attendre. Veuillez réessayer.
+900,Impossible d'envoyer/recevoir des invitations depuis votre position actuelle.
+5603,Impossible de créer un groupe pendant la période de placement.
+5604,Vous ne pouvez pas rejoindre un groupe comportant des joueurs qui effectuent des tests de placement.
+7100,Les objets de qualité UR ne peuvent pas être utilisés comme matériaux d'attribut.
+107,"Vous ne pouvez pas y accéder en étant mort.
+Veuillez réessayer après votre résurrection."
+1056,Votre niveau est inférieur au niveau requis pour participer.
+1057,Votre puissance de combat est inférieure à la puissance de combat requise pour participer.
+1058,Votre nombre d'entrées d'aide de clan est insuffisant.
+1059,Nombre maximum de joueurs pouvant participer à une aide de donjon de clan atteint.
+1060,Vous ne pouvez pas entrer dans un donjon avec [Rejoindre] si vous êtes déjà en donjon.
+1061,Votre niveau ne correspond pas aux prérequis de soutien de donjon de clan.
+1062,Votre puissance de combat ne correspond pas aux prérequis de soutien de donjon de clan.
+1063,Le nombre de joueurs recrutés ne correspond pas aux prérequis d'aide de donjon de clan.
+1064,La demande d'aide de donjon de clan a été interrompue.
+108,Nombre maximum de résurrections instantanées atteint.
+109,Entrée impossible en raison d'une surcharge.
+110,Diamants verts insuffisants.
+111,@NotEnoughFreeDiamondStorage
+112,Diamants bleus ou verts insuffisants.
+1914,Vous avez atteint la limite de Diamants verts.
+1065,Le boss de donjon de clan a été vaincu.
+638,"Vous avez déjà une mission spéciale.
+Vous devez d'abord terminer les missions spéciales en cours."
+1066,@PartyInvalidName
+1067,Il n’y a aucune cible sur lesquelles exercer une vengeance.
+1068,Le joueur n'est pas présent dans la salle.
+1069,Soutenir une vengeance n’est pas possible ici.
+1605,Il n’y a aucune récompense de quête de voyage.
+5101,"Ce titre a été activé,
+vous ne pouvez donc pas utiliser cet objet."
+113,@PartyInvalidName
+1005,Ce joueur a déjà été invité dans le clan.
+1006,Échec de l'invitation dans le clan. Nombre maximal d'invitations atteint.
+1007,Ce joueur a refusé l'invitation à rejoindre le clan.
+1008,Ce joueur ne peut pas être invité dans le clan.
+114,"En incluant les espaces, de 2 à 25 caractères (2 à 20 si le coréen ou le chinois est inclus) peuvent être utilisés."
+1026,L'annonce d'invitation au Clan sera bientôt disponible.
+1334,"Cet achat est uniquement disponible pour les joueurs qui font partie d’un clan.
+Veuillez réessayer après avoir rejoint un clan."
+1009,@PartyInvalidName
+1018,@PartyInvalidNameSpace
+1019,@PartyInvalidNameLength
+5607,Récompense de saison déjà réclamée.
+6203,Nombre insuffisant d'ouvertures à l'aide d'Adena. Vous ne pouvez en ouvrir que 2 par jour avec de l'Adena.
+8600,Identifiant de mini-jeu incorrect
+8601,Aucune récompense restante
+8602,Pas dans le mini-jeu
+8603,Impossible d'accéder au mini-jeu
+1027,Aucune quête de Salle du clan restante.
+1430,"Un membre du groupe a une pénalité d'abandon.
+Accès impossible."
+1431,"Vous avez récemment quitté une faille temporelle.
+Vous ne pouvez pas entrer pendant une certaine durée."
+2211,Vous avez déjà obtenu cette cape.
+2212,Type de cape incorrect.
+2213,Cape introuvable.
+2214,Vous ne possédez pas la cape nécessaire à l'activation.
+2215,Niveau de la cape trop bas pour l'activation.
+2216,Données de combat du deck de capes incorrectes.
+2217,Données de combat du deck de capes introuvables.
+2218,La cape est au niveau max.
+2219,Cape non activée.
+2220,Données de couleur de cape incorrectes.
+2221,Données de type de cape incorrectes.
+2222,Données de verrouillage de stats extra de cape incorrectes.
+2223,Seuls les chefs de clan peuvent développer ou modifier la couleur des capes de clan.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
+122,Présence de mots interdits.
+123,@PartyInvalidNameSpace
+7103,Niveau d'utilisation de l'objet au max.
+1432,Recharge impossible lorsque le nombre de récompenses est au max.
+1433,Vous avez utilisé toutes vos recharges de la récompense.
+-1,Nombre max. de réinitialisations sur le tableau des trésors atteint. Réinitialisation impossible.
+6201,Vous devez ouvrir au moins 20 cases pour réinitialiser le prochain tableau des trésors.
+6202,Nombre de trésors ouverts insuffisant.
+1333,Votre palier de ligue est trop bas.
+1434,"Vous ne pouvez pas entrer, la faille est fermée."
+2201,Événement introuvable.
+2202,Prochainement.
+2203,L'événement a pris fin.
+2204,Toutes les récompenses de tirage ont été utilisées.
+2205,Tickets insuffisants.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Nom de personnage en doublon
+7300,Limite de personnages
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Les objets à durée limitée ne peuvent pas être utilisés.
+1350,Demande d'adhésion au Siège ouvert déjà envoyée.
+1351,Un joueur est déjà en attente pour accéder au Siège ouvert.
+1352,Impossible de trouver le joueur.
+1353,Le joueur est déjà dans votre groupe.
+1354,Ce groupe de Siège ouvert est impossible à trouver.
+1355,Nombre maximal de membres atteint dans le groupe.
+1356,Le joueur fait actuellement partie d'un groupe de Siège ouvert.
+1357,Pas de groupe affilié.
+1358,Pas le chef de groupe.
+1359,Vous ne pouvez pas vous exclure.
+1360,Impossible de trouver ce joueur.
+1361,Cette action ne peut pas être effectuée par le chef de groupe.
+1362,Cette action ne peut pas être effectuée pendant la préparation.
+1363,Impossible actuellement.
+1364,Sélectionnez une classe pour terminer les préparations.
+1365,Un membre du groupe n'est pas prêt.
+1366,Prêt !
+1367,Pas encore prêt.
+1368,Cette action ne peut pas être effectuée pour le moment.
+1369,Historique de participation précédente identifié.
+1370,Préparation pour entrer dans le donjon.
+1371,Un joueur se prépare à entrer dans le donjon.
+1372,Action impossible lorsqu'un joueur demande à participer à un Siège ouvert.
+1373,Un joueur participe actuellement à un Siège ouvert.
+1374,Vous ne pouvez pas accéder à un Siège ouvert à partir d'ici.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,Un membre du clan participant à un Siège de forteresse (ou Siège de château) doit d'abord y entrer pour permettre le mode spectateur.
+1442,L'objet n'est plus disponible à la vente.
+7700,Pas assez de jetons de maitrise.
+1191,현재 관전 인원수가 최대 입니다.
+2008,Vous avez déjà atteint la dernière section. Vérifiez à nouveau l'événement.
+1339,L'achat requiert d'abord la conquête d'une forteresse de qualité appropriée.
+2009,Nombre maximal de parties de dés atteint.
+-1,Valeur factice
+7550,"Impossible de récupérer l'objet, car le délai a expiré."
+1120,Impossible de déclarer forfait.
+2250,PUIC actuelle inférieure au minimum recommandé pour cette région. Ne peut pas participer.
+2251,Le joueur ne correspond pas.
+2252,Pas d’info sur la Pierre d'invocation de monstre.
+2253,Vous n’êtes pas dans un Donjon.
+2254,Le chef du groupe est parti. Vous quittez le Donjon.
+2255,Impossible quand vous êtes dans un Donjon de monstre.

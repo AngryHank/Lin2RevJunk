@@ -1,0 +1,13 @@
+Id,GroupId,Name,ItemAbilityId,TabIndex,Icon,RewardType1,RewardIndex1,RewardQuantity1,RewardIcon1,RewardType2,RewardIndex2,RewardQuantity2,RewardIcon2,EffectType1,EffectParam1,EffectType2,EffectParam2,EffectType3,EffectParam3,EffectType4,EffectParam4,EffectType5,EffectParam5
+1001,"102,103,104,105",학살 특성 수집,1,1,Ability_Icon_Genocide,6,1210101,1,CharacterTitle_Ability_Genocide,31,,,,1,401,2,401,21,462,22,462,253,
+1002,"202,203,204,205",사냥 특성 수집,2,1,Ability_Icon_Hunting,6,1210102,1,CharacterTitle_Ability_Hunting,31,,,,1,401,2,401,21,462,22,462,253,
+1003,"302,303,304,305",용맹 특성 수집,3,1,Ability_Icon_Courage,6,1210103,1,CharacterTitle_Ability_Courage,31,,,,1,401,2,401,21,462,22,462,253,
+1004,"402,403,404,405",척살 특성 수집,4,1,Ability_Icon_Stab,6,1210104,1,CharacterTitle_Ability_Stab,31,,,,1,401,2,401,21,462,22,462,253,
+1005,"502,503,504,505",번뜩임 특성 수집,15,1,Ability_Icon_Sparkle,6,1210106,1,CharacterTitle_Ability_Detection,31,,,,1,401,2,401,21,462,22,462,253,
+1006,"602,603,604,605",간파 특성 수집,16,1,Ability_Icon_Detection,6,1210105,1,CharacterTitle_Ability_Sparkle,31,,,,1,401,2,401,21,462,22,462,253,
+1007,"702,703,704,705",용격 특성 수집,18,1,Ability_Icon_DragonAttack,6,1210107,1,CharacterTitle_Ability_DragonAttack,31,,,,1,401,2,401,21,462,22,462,253,
+1051,"2102,2103,2104,2105,2202,2203,2204,2205,2302,2303,2304,2305,2402,2403,2404,2405",인내 특성 수집,6,2,Ability_Icon_Patience,6,1210201,1,CharacterTitle_Ability_Patience,31,,,,1,1048,2,1048,21,1206,22,1206,253,
+1052,"3102,3103,3104,3105,3202,3203,3204,3205,3302,3303,3304,3305,3402,3403,3404,3405",가호 특성 수집,7,2,Ability_Icon_Blessing,6,1210202,1,CharacterTitle_Ability_Blessing,31,,,,1,1048,2,1048,21,1206,22,1206,253,
+1053,"4102,4103,4104,4105,4202,4203,4204,4205,4302,4303,4304,4305,4402,4403,4404,4405",철벽 특성 수집,8,2,Ability_Icon_Impregnable,6,1210203,1,CharacterTitle_Ability_Impregnable,31,,,,1,1048,2,1048,21,1206,22,1206,253,
+1054,"5102,5103,5104,5105,5202,5203,5204,5205,5302,5303,5304,5305,5402,5403,5404,5405",수호 특성 수집,17,2,Ability_Icon_Guard,6,1210204,1,CharacterTitle_Ability_Guard,31,,,,1,1048,2,1048,21,1206,22,1206,253,
+1055,"6102,6103,6104,6105,6202,6203,6204,6205,6302,6303,6304,6305,6402,6403,6404,6405",용린 특성 수집,19,2,Ability_Icon_DragonDefence,6,1210205,1,CharacterTitle_Ability_DragonDefence,31,,,,1,1048,2,1048,21,1206,22,1206,253,

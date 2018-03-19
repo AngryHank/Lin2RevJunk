@@ -1,0 +1,52 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Capitaine de la garde sadique : Boranta,"Puisque des humains avaient tué toute sa famille,
+il crut que seul le pouvoir
+pouvait sauver les orcs.
+
+Un jour, lorsqu'un orc inconnu du nom de <RedBold>Ramog</>
+obtint un pouvoir sans pareil
+et devint le nouveau <RedBold>chef orc timak</>,
+il ne rêva plus que d'une chose : devenir comme lui
+et le suivre.
+
+Il jura qu'un jour, il deviendrait un
+orc aussi puissant que <RedBold>Ramog</>. C'était son seul
+et unique but dans la vie. Afin de réaliser son rêve,
+il prit la tête de la destruction du <GreenBold>village chaman des</>
+<GreenBold>orcs timaks</>.",Créature magique,Boranta reçut le pouvoir des fragments de nébulite de Ramog. Il maîtrise le feu grâce à sa nouvelle force.
+2,Orc furieux : Ramog,"Par pure coïncidence, des fragments de nébulite sont à présent
+logés dans son cœur.
+À quelques jours de sa mort, il fut sauvé par une
+<RedBold>ombre mystérieuse</>.
+
+Lorsqu'il ouvrit les yeux, il réalisa qu'il possédait
+désormais une force à la fois incroyable et terrifiante.
+Il se fit appeler <RedBold>Ramog</> le guerrier
+et tua tous les orcs qui se dressaient sur son chemin.
+Il devint ensuite le nouveau chef de la tribu des
+<RedBold>orcs timaks</>.
+
+Dans sa quête de puissance incessante, il se mit à la
+recherche du pouvoir de <RedBold>Paagrio</>, le dieu des orcs.
+Il attaqua finalement le <GreenBold>village chaman</>
+<GreenBold>des orcs timaks</> où se situait
+l'<GreenBold>autel de Paagrio</>.
+
+Les chamans qui tentèrent de l'arrêter furent
+écrasés.
+À présent, le rituel visant à obtenir le pouvoir de <RedBold>Paagrio</> est
+quasiment accompli.",@1,Le cœur de Ramog est criblé de fragments de nébulite. Il peut manipuler une magie encore plus puissante que n'importe quel orc avant lui.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Chevalier Gardien : Léonard,"Autrefois, il était le <RedBold>Chevalier Gardien</> de la <RedBold>comtesse Trisha</>.
+Bien que son âme soit incorruptible,
+il est entièrement dévoué à la <RedBold>comtesse Trisha</>.
+Il la servira, quelles que soient
+ses décisions.",@1,"La magie a transformé Léonard. Il diffère des vampires ordinaires, car il possède des capacités magiques."
+10,Comtesse du sang : Trisha,"<RedBold>Trisha</> vient d'une des familles d'aristocrates de Giran.
+Elle ne pensait qu'à échapper à sa vie barbante,
+ce qui la poussa à poursuivre un amour interdit.
+Cet amour était si intense qu'elle abandonna entièrement son ancienne vie pour s'y consacrer.",@1,"Trisha, qui fut transformée par un géant inférieur, tout comme son amant, n'a rien à voir avec un vampire ordinaire : elle possède des capacités magiques."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

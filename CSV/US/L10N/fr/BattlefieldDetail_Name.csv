@@ -1,0 +1,43 @@
+Id,LeagueName
+400,Hors classement
+401,{LeagueStep} de bronze
+402,@401
+403,@401
+404,{LeagueStep} d'argent
+405,@404
+406,@404
+407,{LeagueStep} d'or
+408,@407
+409,@407
+410,Platine {LeagueStep}
+411,@410
+412,@410
+413,Diamant {LeagueStep}
+414,@413
+415,@413
+416,Maîtriser
+417,Grand maître 
+418,Légende
+500,@400
+501,@401
+502,@401
+503,@401
+504,@404
+505,@404
+506,@404
+507,@407
+508,@407
+509,@407
+510,@410
+511,@410
+512,@410
+513,@413
+514,@413
+515,@413
+516,Maître {LeagueStep}
+517,@516
+518,@516
+519,Grand maître {LeagueStep}
+520,@519
+521,@519
+522,@418

@@ -1,0 +1,25 @@
+ID,BuffInfo,GradeName
+1,Keine,Krieger
+2,+1 % ANG/VER,Ritter
+3,+2 % ANG/VER,Höchststufiger Ritter
+4,+3 % ANG/VER,Hauptmann der Ritter
+5,+4 % ANG/VER,Ritter
+6,+5 % ANG/VER,Kommandant
+7,+6 % ANG/VER,General
+8,+7 % ANG/VER,Held
+9,@1,@1
+10,@2,@2
+11,@3,@3
+12,@4,@4
+13,@5,@5
+14,@6,@6
+15,@7,@7
+16,@8,@8
+17,@1,@1
+18,@2,@2
+19,@3,@3
+20,@4,@4
+21,@5,@5
+22,@6,@6
+23,@7,@7
+24,@8,@8

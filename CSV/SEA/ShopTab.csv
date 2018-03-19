@@ -39,6 +39,7 @@ Order,Type,ShopType,ShopId,Display,NameKey,IconTexture,BadgeType,IsAnnuity,Butto
 4009,AnnuityScenario4,SlideShop,,1,21000000027,,SlideShopAnnuityScenario4,1,0,0,,
 4010,AnnuityGrowUp5,SlideShop,,1,22000002000,,DiamondShopAnnuityGrowup5,1,0,0,,
 4011,AnnuityScenario5,SlideShop,,1,21000000029,,SlideShopAnnuityScenario5,1,0,0,,
+4012,AnnuityGrowUp6,SlideShop,,1,22000004012,,DiamondShopAnnuityGrowup6,1,0,0,,
 5001,Package1,PackageShop,,1,21000003300,,,0,0,0,,
 5002,Package2,PackageShop,,1,21000003400,,,0,0,0,,
 5003,Package3,PackageShop,,1,21000003500,,,0,0,0,,
@@ -47,7 +48,7 @@ Order,Type,ShopType,ShopId,Display,NameKey,IconTexture,BadgeType,IsAnnuity,Butto
 5006,Package6,PackageShop,,1,21000003800,,,0,0,0,,
 5007,Package7,PackageShop,,1,21000003900,,,0,0,0,,
 6000,MasteryCoin,MasteryShop,,1,21000004000,,,0,0,0,,
-7001,ChargeTotal,ChargeComsumeEvent,,1,21000000013,,,0,0,0,,
+7001,ChargeTotal,ChargeComsumeEvent,,1,21000000013,,,0,0,0,,PlayerBeginner
 7002,ChargeDaily,ChargeComsumeEvent,,0,21000000014,,,0,0,0,,
 7003,ConsumeTotal,ChargeComsumeEvent,,0,21000000015,,,0,0,0,,
 7004,ConsumeDaily,ChargeComsumeEvent,,0,21000000016,,,0,0,0,,

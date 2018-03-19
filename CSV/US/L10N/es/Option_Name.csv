@@ -1,0 +1,66 @@
+Id,Description
+1,Ajusta la resolución del juego. Puede que el juego vaya más fluido si bajas los ajustes.
+2,Ajusta el alcance de visibilidad. Puede que el juego vaya más fluido si bajas los ajustes.
+3,"Ajusta la suavidad de los bordes. Los objetos se verán peor en los ajustes más bajos, pero puede que el juego vaya más fluido."
+4,Ajusta el nivel de detalle de las texturas. Puede que el juego vaya más fluido si bajas los ajustes.
+5,Ajusta la calidad de las sombras. Los gráficos serán más realistas cuanto más altos sean los ajustes.
+6,Ajusta la sincronización vertical. Los gráficos serán más realistas cuanto más altos sean los ajustes.
+7,@5
+8,Ajusta la calidad de las texturas. Puede que el juego vaya más fluido si bajas los ajustes.
+9,Nivel de detalle de las texturas.
+10,Ajusta la relación de aspecto de la resolución.
+11,Ejecuta 1 paso previo dentro de Slate.
+12,Ajusta la visibilidad de tu sombra.
+13,Ajusta el número de fotogramas por segundo en los vídeos.
+14,Ajusta la calidad de los gráficos en relación al uso de APU.
+15,Ajusta la calidad de los gráficos en relación a la memoria utilizada.
+16,Ajusta la calidad del canal de sonido.
+17,Ajusta qué efectos especiales son visibles.
+18,Configura la opción de mostrar los nombres de los demás jugadores.
+19,Ajusta el número máximo de jugadores visibles en tu pantalla.
+20,Ajusta el equipamiento para que sea visible en tu pantalla.
+21,Configura la opción de mostrar las capas.
+22,Configura el nivel de anuncio de mejora (éxito o fallo).
+23,Ajusta el volumen general.
+24,Ajusta el volumen del sonido de fondo.
+25,Ajusta el volumen de los efectos de sonido.
+26,Ajusta el volumen de las voces.
+27,Activa o desactiva la vibración.
+28,Activa o desactiva la función de apagado/encendido automático de tu dispositivo móvil.
+29,Activa o desactiva la reproducción automática del chat de voz.
+30,Puedes activar o desactivar todas las notificaciones del juego.
+31,Recibir notificaciones del juego.
+32,Recibir notificaciones de aviso del juego.
+33,Desactivar esta opción bloquea todas las notificaciones entre las 9 pm y las 8 am.
+34,Desactiva esta opción para desactivar las notificaciones emergentes (excepto las de alta prioridad).
+35,Desactiva esta opción para desactivar las notificaciones del chat individual.
+36,Desactiva esta opción para desactivar las notificaciones del chat de clan.
+37,Desactiva esta opción para desactivar las notificaciones del chat de equipo.
+44,Ajusta los PV a los que se utilizan pociones de PV de manera automática.
+45,Ajusta los PM a los que se utilizan pociones de PM de manera automática.
+46,Ajusta el porcentaje de PV al que se utilizan habilidades curativas de manera automática.
+47,Ajusta el orden de las pociones de PV que se utilizarán de manera automática.
+48,Ajusta el orden de las pociones de PM que se utilizarán de manera automática.
+49,Muestra el alcance del ataque normal.
+50,Ajusta el rango de movimiento de tu personaje durante la batalla automática.
+51,Ajusta el grado mínimo que debe tener el equipamiento para obtenerlo.
+52,Muestra el objetivo actual del objetivo seleccionado por el jugador.
+53,Muestra los PV del objetivo de varias formas.
+54,Huye cuando encuentres monstruos de Élite o superiores durante la batalla automática.
+55,Obtendrás objetos que tengan al menos este grado. (No se obtendrán objetos de menor grado).
+56,
+57,
+58,
+59,Configura la zona de control de los controles digitales analógicos en una zona fija de la pantalla.
+60,Traduce los mensajes del chat al idioma utilizado en el juego.
+61,Determina qué idiomas deben o no deben traducirse en el chat.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

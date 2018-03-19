@@ -1,0 +1,45 @@
+Id,Description
+1,Aggiunge [Param] punti danno bonus nel danno finale attaccando Mostri normali
+2,Aggiunge [Param] punti danno bonus nel danno finale attaccando Mostri Élite
+3,Aggiunge [Param] punti danno bonus nel danno finale attaccando Boss
+4,Aggiunge [Param] punti danno bonus nel danno finale attaccando Giocatori
+5,Diminuisce il danno finale da Mostri normali del [Param]
+6,Diminuisce il danno finale da Mostri Élite del [Param]
+7,Diminuisce il danno finale da Boss del [Param]
+8,Diminuisce il danno finale da Giocatori del [Param]
+9,Aumenta l’amplificazione del Livello di Resistenza di Stordimento e Abbattimento del [Param]
+10,Dif. M. +[Param]
+11,Aumenta l’amplificazione del Livello di Resistenza di Lentezza del [Param]
+12,Aumenta il Livello Amplificazione del Livello di Resistenza del [Param]
+13,Velocità +[Param]
+14,Aumenta Durata combo di [Param] secondi
+15,Aggiunge [Param] punti danno bonus usando abilità d’attacco normali
+16,Aggiunge [Param] punti danno bonus nel danno finale attaccando Mostri magici
+17,Diminuisce il danno finale da Mostri magici del [Param]
+19,Aggiunge [Param] punti danno bonus ai Mostri usando abilità d’attacco normali
+20,Aggiunge [Param] recupero bonus usando abilità di recupero normali
+101,[Param] punti danno bonus vs Mostri normali
+102,@101
+103,@101
+104,[Param] punti danno bonus vs Boss
+105,@104
+106,@104
+107,Danni da altri giocatori -[Param]
+108,@107
+109,[Param] punti danno bonus vs altri giocatori
+110,@109
+111,Danni da Mostri normali -[Param]
+112,@111
+113,[Param] punti danno bonus vs Mostri Élite
+114,@113
+115,Danni da Mostri Élite -[Param]
+116,@115
+117,Danni da Boss -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] Dan. bonus contro Edificio dell’Assedio del Castello
+204,@113
+205,@104
+206,Aggiunge [Param] punti danno bonus attaccando Mostri magici
+301,Aumenta Vel. Att. di [Param] sul campo di battaglia.

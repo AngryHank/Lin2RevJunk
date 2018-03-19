@@ -1,0 +1,45 @@
+Id,Description
+1,Adiciona [Param] de dano bônus ao dano final quando estiver atacando monstros normais
+2,Adiciona [Param] de dano bônus ao dano final quando estiver atacando monstros de elite
+3,Adiciona [Param] de dano bônus ao dano final quando estiver atacando chefes
+4,Adiciona [Param] de dano bônus ao dano final quando estiver atacando jogadores
+5,Reduz em [Param] o dano final dos monstros normais
+6,Reduz em [Param] o dano final dos monstros de elite
+7,Reduz em [Param] o dano final dos chefes
+8,Reduz em [Param] o dano final dos jogadores
+9,Aumenta em [Param] a amplificação da taxa de resistência a atordoamento e derrubada
+10,Def. m. +[Param]
+11,Aumenta em [Param] a amplificação da taxa de resistência a lentidão
+12,Aumenta o crít. Amplificação em [Param] da taxa de resistência
+13,Velocidade +[Param]
+14,Aumenta em [Param] segundos a duração da combinação
+15,Adiciona [Param] de dano bônus quando usar habilidades de ataque normal
+16,Adiciona [Param] de dano bônus ao dano final quando estiver atacando monstros mágicos
+17,Reduz em [Param] o dano final dos monstros mágicos
+19,Adiciona [Param] de dano bônus a monstros quando usar habilidades de ataque normal
+20,Adiciona [Param] de bônus de recuperação quando estiver usando habilidades de ataque normal
+101,Dano bônus de [Param] x monstros normais
+102,@101
+103,@101
+104,Dano bônus de [Param] x chefes
+105,@104
+106,@104
+107,Dano de outros jogadores -[Param]
+108,@107
+109,Dano bônus de [Param] x outros jogadores
+110,@109
+111,Dano de monstros normais -[Param]
+112,@111
+113,Dano bônus de [Param] x monstros elite
+114,@113
+115,Dano de monstros de elite -[Param]
+116,@115
+117,Dano de chefes -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] Dano bônus x Construção do Cerco ao Castelo
+204,@113
+205,@104
+206,Adiciona [Param] de dano bônus quando estiver atacando monstros mágicos
+301,Aumenta em [Param] a vel. de atq. no campo de batalha.

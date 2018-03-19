@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Aumento del tiempo de impronta de artefacto sagrado,Aumenta 1 segundo el tiempo necesario para grabar un artefacto sagrado.
+1002,@1001,Aumenta 2 segundos el tiempo necesario para grabar un artefacto sagrado.
+1003,@1001,Aumenta 3 segundos el tiempo necesario para grabar un artefacto sagrado.
+1004,@1001,Aumenta 4 segundos el tiempo necesario para grabar un artefacto sagrado.
+1005,@1001,Aumenta 5 segundos el tiempo necesario para grabar un artefacto sagrado.
+2001,Aumento de PV de la torre defensiva,Aumenta los PV de la torre defensiva en 500.
+2002,@2001,Aumenta los PV de la torre defensiva en 1000.
+2003,@2001,Aumenta los PV de la torre defensiva en 1500.
+2004,@2001,Aumenta los PV de la torre defensiva en 2000.
+2005,@2001,Aumenta los PV de la torre defensiva en 2500.
+3001,Aumento de ATQ de la trampa,"Aumenta el ATQ de la trampa en un 1 %.
+Las trampas infligen % de daño a los PV máximos del enemigo."
+3002,@3001,"Aumenta el ATQ de la trampa en un 2 %.
+Las trampas infligen % de daño a los PV máximos del enemigo."
+3003,@3001,"Aumenta el ATQ de la trampa en un 3 %.
+Las trampas infligen % de daño a los PV máximos del enemigo."
+3004,@3001,"Aumenta el ATQ de la trampa en un 4 %.
+Las trampas infligen % de daño a los PV máximos del enemigo."
+3005,@3001,"Aumenta el ATQ de la trampa en un 5 %.
+Las trampas infligen % de daño a los PV máximos del enemigo."

@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Kleines Festmahl,"Ein Kleines Festmahl, zubereitet von einem Grünschnabel-Festmahlhüter.
+VER und M-VER +500"
+2,Mittleres Festmahl,"Ein Mittleres Festmahl, zubereitet von einem Grünschnabel-Festmahlhüter.
+LP/MP +1.000"
+3,Großes Festmahl,"Ein Großes Festmahl, zubereitet von einem Grünschnabel-Festmahlhüter.
+ANG und M-ANG +500"
+4,Extravagantes Kleines Festmahl,"Ein Kleines Festmahl, zubereitet von einem Veteranen-Festmahlhüter.
+VER und M-VER +1.200"
+5,Extravagantes Mittleres Festmahl,"Ein Mittleres Festmahl, zubereitet von einem Veteranen-Festmahlhüter.
+LP/MP +2.000"
+6,Extravagantes Großes Festmahl,"Ein Großes Festmahl, zubereitet von einem Veteranen-Festmahlhüter.
+ANG und M-ANG +1.200"
+7,Luxuriöses Kleines Festmahl,"Ein Kleines Festmahl, zubereitet von einem Angesehenen Festmahlhüter.
+VER und M-VER +2.000, Krit. Rate +500"
+8,Luxuriöses Mittleres Festmahl,"Ein Mittleres Festmahl, zubereitet von einem Angesehenen Festmahlhüter.
+LP/MP +3.000, Krit. Rate +500"
+9,Luxuriöses Großes Festmahl,"Ein Großes Festmahl, zubereitet von einem Angesehenen Festmahlhüter.
+ANG und M-ANG +2.000, Krit. Rate +500"

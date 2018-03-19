@@ -1,0 +1,16 @@
+Id,NoOutput,RequiredLevel,Name,Desc,Keyword,BpName,ControlPath
+1,,,"포션(정령탄) 간편 구입, 교체 기능","물약을 길게 누르면, 20개 구입/ 200개 구입/ 일반물약 <-> 고급물약 교체 메뉴를 이용 가능합니다. ",,BP_PotionUI,HelpGuidePotion
+2,1,,(비사용) 혈맹 권한 설정,혈맹원의 권한을 상세 설정할 수 있습니다.,,,
+3,,,레볼루션의 모든 것 게시판 바로가기,캐릭터 육성에 도움이 되는 엄선된 정보를 얻을 수 있습니다.,,BP_CharacterPromoteUI,HelpGuideCharacterPromote
+4,,,획득처 안내,"성장 재료별 획득처를 확인하고, 획득처로 바로 이동할 수 있습니다.",,BP_MainMenuUI,HelpGuideLack
+5,1,,(비사용) 벽난로,"벽난로를 켤 때 픽시를 소환하여, 보상을 얻을 수 있습니다.",,,
+6,,,탑승과 지원 분리,이동 시 탑승할 펫과 능력치를 적용받을 펫을 각각 선택할 수 있습니다.,Pet,BP_RidingPetUI,HelpGuidePetRide
+7,,,특성 대항력 정보,"장착 중인 장비(무기,방어구)의 특성 레벨과 전투력을 수치화한 특성 대항력을 확인할 수 있습니다.",,BP_CharacterInfoUI,HelpGuideAbilityScore
+8,1,,(비사용) 충전 소비 상점,다이아 충전 및 소비량에따라 이용하는 상점입니다.,,BP_ItemAbilityTemplate,HelpGuideItemAbility
+9,,,전투 덱 이름 설정 기능,"덱 별로 이름을 설정 할 수 있습니다. <한글, 영어, 숫자, 혼용 2~8글자(띄어쓰기 포함)>",,BP_BattleDeckInfoUI,HelpGuideBattleDeck
+10,,10,핫타임 ON/OFF 기능,"[시작]을 누르면 핫타임이 적용됩니다. [체크박스]를 선택하면, 자동으로 적용됩니다.",,BP_HotTimePanelUI,HelpGuideHottime
+11,,,망토 최대 레벨 효과보기,망토를 초월하여 최대레벨까지 진행하였을 때 효과를 미리 볼 수 있습니다.,,BP_CapeLevelUpPopup,HelpGuideLevelPreview
+12,,,탈리스만 랭킹,탈리스만을 사용하는 유저들의 전투력 랭킹을 볼 수 있습니다.,,BP_MainMenuUI,HelpGuideTalismanRanking
+13,,10,최근 사용 장비 보기,대장간에서 최근 사용 장비를 최대 10개 불러옵니다. 불러온 장비를 선택할 수 있습니다.,,BP_EquipmentEnhancementUI,HelpGuideLevelup
+14,,,통계 예측,"통계 예측 정보는 예측 값이므로, 최종 결과와 다를 수 있습니다.",,BP_GameUI,HelpGuideBattleStats
+15,,,척살 시스템,척살 시스템이 추가되었습니다. 혈맹원들에게 척살요청하여 피의 복수를 시작하세요!,,BP_GuildUI,HelpGuideStab

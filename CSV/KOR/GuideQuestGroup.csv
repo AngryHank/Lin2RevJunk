@@ -1,0 +1,20 @@
+Id,EventGroupID,TargetUserLevel_Low,TargetUserLevel_High,Name,BackGroundTexture,BadgeType,EventCheck
+1,1,1,999,용병단의 여정,UI_Image_JourneyEvent,211,0
+2,2,80,999,장비 제작의 여정,UI_Image_JourneyEvent2,212,0
+3,3,50,999,탑승펫의 여정,UI_Image_JourneyEvent3,213,0
+4,4,30,80,성장의 여정,UI_Image_JourneyEvent4,214,1
+5,4,30,80,성장의 여정,UI_Image_JourneyEvent4,214,1
+6,4,30,80,성장의 여정,UI_Image_JourneyEvent4,214,1
+7,4,81,120,성장의 여정,UI_Image_JourneyEvent4,214,1
+8,4,81,120,성장의 여정,UI_Image_JourneyEvent4,214,1
+9,4,81,120,성장의 여정,UI_Image_JourneyEvent4,214,1
+10,4,121,179,성장의 여정,UI_Image_JourneyEvent4,214,1
+11,4,121,179,성장의 여정,UI_Image_JourneyEvent4,214,1
+12,4,121,179,성장의 여정,UI_Image_JourneyEvent4,214,1
+13,4,180,260,성장의 여정,UI_Image_JourneyEvent4,214,1
+14,4,180,260,성장의 여정,UI_Image_JourneyEvent4,214,1
+15,4,180,260,성장의 여정,UI_Image_JourneyEvent4,214,1
+16,5,1,260,그랑카인의 여정,UI_Image_JourneyEvent5,216,1
+17,6,1,320,특성의 여정,UI_Image_JourneyEvent6,214,1
+18,7,1,260,데컨의 여정,UI_Image_JourneyEvent5,216,1
+19,8,271,999,탈리스만의 여정,UI_Image_JourneyEvent7,219,0

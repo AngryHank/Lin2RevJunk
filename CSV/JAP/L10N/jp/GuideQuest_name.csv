@@ -1,0 +1,49 @@
+Id,Title,RankTitle,Desc
+1001,エピソードクリア,傭兵隊の旅,エピソード<RedBold>1-2</>クリア
+1002,装備レベルアップ,,装備レベルアップ<RedBold>[Value]回</>試す（[Value1]/[Value2]）
+1003,エピソードクリア,,エピソード<RedBold>1-5</>クリア
+1004,功績ポイント,,功績ポイント<RedBold>[Value]ポイント</>達成（[Value1]/[Value2]）
+1005,戦闘力,,最大戦闘力<RedBold>[Value]</>達成（[Value1]/[Value2]）
+1006,決闘場,,決闘場<RedBold>[Value]回</>チャレンジ（[Value1]/[Value2]）
+1007,装備レベルアップ,,装備レベルアップ<RedBold>[Value]回</>試す（[Value1]/[Value2]）
+1008,装備獲得,,装備<RedBold>[Value]個</>獲得（[Value1]/[Value2]）
+1009,傲慢の塔へチャレンジ,,傲慢の塔<RedBold>[Value]回</>チャレンジ（[Value1]/[Value2]）
+1010,ルーン刻印,,ルーンの刻印<RedBold>[Value]回</>成功（[Value1]/[Value2]）
+1011,曜日ダンジョンクリア,,曜日ダンジョン<RedBold>[Value]回</>クリア（[Value1]/[Value2]）
+1012,血盟寄付,,血盟<RedBold>[Value]回</>寄付（[Value1]/[Value2]）
+2001,血盟ショップ,転職への道,血盟強化効果<RedBold>[Value]回</>購入（[Value1]/[Value2]）
+2002,エリートダンジョン,,エリートダンジョンクエスト<RedBold>[Value]件</>クリア（[Value1]/[Value2]）
+2003,装備合成,,装備合成<RedBold>[Value]回</>試す（[Value1]/[Value2]）
+2004,ソウルストーンのランクアップ,,ソウルストーンを<RedBold>[Value]回</>ランクアップしよう([Value1] / [Value2])
+2005,エピソードクリア,,エピソード<RedBold>3-5</>クリア
+2006,傲慢の塔クリア,,傲慢の塔<RedBold>[Value]階</>クリア（[Value1]/[Value2]）
+2007,装備強化,,装備強化<RedBold>[Value]回</>試す([Value1] / [Value2])
+2008,採集ダンジョン,,採集ダンジョンで薬草<RedBold>[Value2]回</>採集（[Value1]/[Value2]）
+2009,エリクサー製作,,エリクサー<RedBold>[Value]個</>製作([Value1] / [Value2])
+2010,エピソードクリア,,エピソード<RedBold>4-5</>クリア
+2011,転職完了,,<RedBold>転職完了</>
+2012,共有する,,SNSでリネレボをシェア
+3001,ソウルストーンのランクアップ,中級冒険家,ソウルストーンを<RedBold>[Value]回</>ランクアップしよう([Value1] / [Value2])
+3002,アデナダンジョン,,アデナダンジョン<RedBold>[Value]回</>クリア
+3003,装備ランクアップ,,装備<RedBold>[Value]回</>ランクアップ([Value1] / [Value2])
+3004,経験値ダンジョン,,経験値ダンジョン<RedBold>[Value]回</>クリア([Value1] / [Value2])
+3005,装飾品のレベルアップ,,装飾品<RedBold>[Value]回</>レベルアップ([Value1] / [Value2])
+3006,ソウルストーンのランクアップ,,ソウルストーンを<RedBold>[Value]回</>ランクアップしよう([Value1] / [Value2])
+3007,アリの巣地下2階,,アリの巣地下2階のモンスター<RedBold>[Value]</>体討伐([Value1] / [Value2])
+3008,装備ダンジョン,,装備ダンジョン<RedBold>[Value]回</>クリア([Value1] / [Value2])
+3009,傲慢の塔クリア,,傲慢の塔<RedBold>[Value]階</>クリア（[Value1]/[Value2]）
+3010,ルーン刻印,,ルーンの刻印<RedBold>[Value]回</>成功（[Value1]/[Value2]）
+3011,装備獲得,,URランクの装備<RedBold>[Value]個</>獲得([Value1] / [Value2])
+3012,共有する,,SNSでリネレボをシェア
+4001,騎乗ペット獲得,騎乗ペットとは？,<RedBold>騎乗ペット</>獲得
+4002,召喚石ダンジョン,,<RedBold>召喚石ダンジョン</>クリア（[Value1] / [Value2]）
+4003,スキルアップグレード,,スキルレベル<RedBold>10</>達成
+4004,騎乗ペットレベルアップ,,騎乗ペットレベルアップ<RedBold>10回</>試す([Value1] / [Value2])
+4005,ウィークリークエスト,,ウィークリークエスト<RedBold>7回</>クリア([Value1] / [Value2])
+4006,パーティフィールドボス討伐,,パーティでフィールドボス<RedBold>1回</>討伐([Value1] / [Value2])しよう
+4007,騎乗ペット昇級,,騎乗ペットのランク<RedBold>HN</>達成
+4008,モンスターコア,,エリア1つの図鑑完成度を<RedBold>60%</>にする
+4009,騎乗ペット装備,,騎乗ペット装備<RedBold>HR</>を獲得
+4010,功績クリア,,功績<RedBold>ステップ15</>達成
+4011,騎乗ペットランク,,騎乗ペットのランク<RedBold>HR</>達成
+4012,共有する,,SNSでリネレボをシェア

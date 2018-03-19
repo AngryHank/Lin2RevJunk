@@ -1,0 +1,43 @@
+Key,Value
+10001,A versão do pacote não corresponde ao servidor. Execute o aplicativo novamente.
+10002,Replay o jogo para atualizações.
+10003,Erro do servidor (DB)
+10004,Erro de servidor (LUA)
+10005,Erro de tabela do Excel
+10006,Erro de servidor (parâmetro)
+10007,Erro de servidor (lógica)
+10008,Erro de servidor
+10009,Você não está logado.
+10010,Você já está conectado.
+10011,Sem alvos para chutar.
+10012,Autenticação inválida
+10013,Identificador de caractere incorreta
+10014,Informações de classe incorretas
+10015,Gênero incorreto
+10016,Nome incorreto
+10017,Informações NPC incorretas
+10018,Identificador de jogador incorretas
+10019,Informação de corrida inexacta
+10020,Habilidade incorreta
+10021,Objetivo de habilidade errado
+10022,Estado incorreto
+10023,Informação geográfica inexacta
+10024,O identificador do dispositivo está vazio
+10025,O nome já está em uso.
+10026,Habilidade está em casting.
+10027,Está atordoado.
+10028,Você não está morto.
+10029,Não há MP suficiente
+10030,A sessão foi desconectada.
+10031,GameToken não está atualizado.
+10032,"Erro de protocolo
+Você precisa da atualização mais recente da versão."
+10033,Erro no sistema
+10034,Erro no formato GameToken
+10035,GameToken não existe.
+10036,Em manutenção
+10037,A conta está vazia.
+10038,Ainda está em preparação.
+10039,Você não pode entrar no servidor com criação de caracteres limitada neste momento. Use outro servidor.
+10040,Falha de segurança do Netmarble S
+10100,Você é um usuário inscrito.

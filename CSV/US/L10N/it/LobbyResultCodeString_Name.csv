@@ -1,0 +1,43 @@
+Key,Value
+10001,La versione del pacchetto non è compatibile con il server. Riavvia l'app.
+10002,Riavvia il gioco per effettuare l'aggiornamento.
+10003,Errore Server (DB)
+10004,Errore Server (LUA)
+10005,Errore tabella di Excel
+10006,Errore Server (Parametro)
+10007,Errore Server (Logico)
+10008,Errore Server
+10009,Non hai effettuato l'accesso.
+10010,Hai già effettuato l'accesso.
+10011,Non ci sono obiettivi da scacciare.
+10012,Autenticazione non corretta
+10013,Identificatore personaggio non corretto
+10014,Informazioni classe non corrette
+10015,Genere non corretto
+10016,Nome non corretto
+10017,Informazioni PNG non corrette
+10018,Identificatore del giocatore non corretto
+10019,Informazioni sulla razza non corrette
+10020,Abilità non corretta
+10021,Bersaglio dell’abilità non corretto
+10022,Status non corretto
+10023,Informazioni sulla regione non corrette
+10024,L'identificatore dispositivo è vuoto.
+10025,Il nome è già in uso.
+10026,L'abilità sta nel casting.
+10027,Attualmente stordito.
+10028,Non sei morto.
+10029,PM insufficienti
+10030,Sessione disconnessa.
+10031,TokenPartita non aggiornato.
+10032,"Errore Protocollo.
+È richiesto l'ultimo aggiornamento."
+10033,Errore Sistema
+10034,Errore formato TokenPartita
+10035,TokenPartita non esiste.
+10036,Manutenzione in corso.
+10037,Account vuoto.
+10038,Presto disponibile.
+10039,Non puoi accedere a questo server perché la creazione dei personaggi è limitata. Ti invitiamo a utilizzare un altro server.
+10040,Controllo sicurezza Netmarble fallito
+10100,Questo giocatore è uscito.

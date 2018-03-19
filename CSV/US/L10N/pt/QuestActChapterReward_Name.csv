@@ -1,0 +1,134 @@
+Id,ActName,ChapterName
+1,1. Ilha Falante Oriental,Nasc. de um Herói
+2,@1,Escur. Emergente
+3,@1,A Prim. Barreira
+4,@1,Amigo de Niah
+5,@1,"Juntos, Caç. Orcs!"
+6,@1,Trote ou Névoa???
+7,@1,Sorte de Princip.
+8,@1,Grinalda élfica
+9,@1,Incidente Inacred.
+10,@1,A segunda barreira
+11,@1,Desaparec. de Niah
+12,2. Ilha Falante Ocidental,Rastros dos Arqu.
+13,@12,Busca em Andamen.!
+14,@12,Implacável
+15,@12,Caçada
+16,@12,A Terc. Barreira
+17,@12,Não posso deixar
+18,@12,Aquele indivíduo
+19,3. Estrada de Gludin,Situação de Emergência!
+20,@19,Contra-ataque!
+21,@19,Inv. Incid. Susp.
+22,@19,Descoberta!
+23,@19,Mulher solitária
+24,@19,Tragédia
+25,@19,Exterm. Sequestr.!
+26,@19,Rostos agradáveis
+27,@19,Ganancioso
+28,@19,Morde e sopra
+29,4. Planície de Gludio,Lucre enq. Pode
+30,@29,Cidade invadida
+31,@29,Fuja!
+32,@29,Seg. P. em Perigo
+33,@29,Divisão
+34,@29,Coisas familiares
+35,@29,Claro!
+36,@29,Fim esperado
+37,@29,Não há tempo!
+38,@29,Herói de Gludio
+39,5. Mansão Windawood,Soldados Desapare.
+40,@39,Plano de resgate!
+41,@39,Reunir
+42,@39,Bat. Decis. Ruína
+43,@39,Luta pelo cristal
+44,@39,Homem misterioso
+45,@39,Demônio antigo
+46,@39,Bat. V. Windawood
+47,@39,Sino Contra-ataq.
+48,@39,Batalha final
+49,6. Deserto,Brux. T. Marfim
+50,@49,Pobre bruxo
+51,@49,A Verdade
+52,@49,Staris
+53,@49,Em Mem. aos Mortos
+54,@49,Vend. Incomuns
+55,@49,O meio do caminho
+56,@49,Disputa de Ol Mahum
+57,@49,Reprimir Rebelião
+58,@49,Circunst. indiv.
+59,7. Planície de Dion,Emboscada
+60,@59,Carta Suspeita
+61,@59,Inv. Homem-lagarto
+62,@59,Garota com Amnésia
+63,@59,Um Lugar Seguro
+64,@59,Em busca de Elie
+65,@59,Razão para Confusão
+66,@59,Luta do sold. Dion
+67,@59,Alvo Irm. Sombria
+68,8. Pântano de Cruma,Aranhas em Prolif.
+69,@68,Agradável
+70,@68,Irma. Somb. Pânt.
+71,@68,Ating. nas Costas!
+72,@68,Pesquis. Atacados
+73,@68,Em Busca da Chave
+74,@68,Pra Torre de Cruma
+75,@68,Armadilha
+76,@68,Gato suspeito
+77,9. Pico da Dissonância,Caç. da Floresta
+78,@77,Convid. Indesejado
+79,@77,O Chefe Tanor
+80,@77,@78
+81,@77,Honorável Tanor
+82,@77,Plano autêntico
+83,@77,Inimigo
+84,@77,Poder de fato
+85,10. Sacrários Uivantes,Para Aqueles que se Foram
+86,@85,Desafio infinito
+87,@85,Rosto familiar
+88,@85,Algo que Não Deveria Ser
+89,@85,Galopante
+90,@85,Armadilha cruel
+91,@85,Contrato
+92,@85,Durma mais
+93,@85,Negócios Continuam
+94,11. Domínio de Giran,Negócios e Vendas
+95,@94,Retrib. de um Gato
+96,@94,Encontrando o irmão I
+97,@94,Encontr. Irmão II
+98,@94,Rainha Górgona
+99,@94,Caixa de Pandora
+100,@94,Pas. Lacrado
+101,@94,Encobrimento
+102,@94,Delegação Desapar.
+103,@94,Resg. da Delegação
+104,12. Praias da Névoa Mortal,Vingança de Pan
+105,@104,Unidade de Transporte Desaparecida
+106,@104,A Verdade
+107,@104,Desertor Realista
+108,@104,Reorganização
+109,@104,Entrega do objeto
+110,@104,Rasto de gnose
+111,@104,Sono eterno
+112,@104,A busca continua
+113,@104,Porto sombrio
+114,@104,Tripulação Pirata
+115,13. Ilha do Demônio,Grupo Vanguarda
+116,@115,Comport. Bizarro
+117,@115,Lugar para Voltar
+118,@115,Tragédia I
+119,@115,Passado T. Pirata
+120,@115,Fúria Frederick I
+121,@115,Tragédia II
+122,@115,Fúria Frederick II
+123,@115,Más notícias
+124,14. Necrópole Assombrada,Resgate de Oren
+125,@124,Não Morra Ainda!
+126,@124,Árvore de proteção
+127,@124,Fantasma do Pass.
+128,@124,Memórias mortas
+129,@124,Mens. para Futuro
+130,@124,Pan é Pan
+131,@124,Vigias
+132,@124,Espada do espírito
+133,@124,Surge a Esperança

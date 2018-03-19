@@ -1,0 +1,712 @@
+Id,NpcName,Message
+101,Aymel,"Boas-vindas! Como está o treinamento?<p>Treinar sozinho é chato e você nem deve saber por onde começar. Em Aden, aventureiros se juntam em grupos chamados Clãs.<p>Viaje com outros aventureiros, faça doações ao clã e compre na Loja do Clã! Que tal?"
+102,@101,"Você chegou ao Grau B! Claro que você sabe que só está começando, certo?<p>Aquele idiota, Russel, já alcançou o Grau A!"
+103,Russel,Você está ficando para trás. Volte ao trabalho e chegue ao meu nível! Hahaha! Achei
+104,@101,"Você chegou ao grau A! Agora você está em pé de igualdade com aquele cabeça oca! Não pare, siga em frente!"
+105,@101,Você chegou ao grau S! Parece que sua rivalidade com o cabeça oca foi o estímulo perfeito!
+106,@103,O quê?! Você já chegou ao Grau S? Eu ainda estou no Grau A...<p>Espere! Vou te alcançar! Você vai ver!
+107,@101,Você alcançou o Grau R!<p>Não se gabe. Você ainda precisa chegar no Grau SR!
+108,Theodore,"Você só está no grau R, então continue trabalhando duro!"
+109,@101,"Você chegou ao grau SR! Você ultrapassou o estúpido do Russel!<p>Agora você tem que alcançar o Theodore, que é Grau UR! É só mais um pouquinho!"
+110,@101,"Agora você é Grau UR!<p>Tem certeza de que não está exigindo demais de si mesmo? Bem, Theodore já era. Aquele estúpido está muito atrás de você, não tenha pressa."
+111,@101,Você chegou ao Grau UR! Você foi o segundo mais rápido depois de Theodore!<p>é impressionante considerando que aquele idiota e os outros estão quase desistindo<p>Agora você precisa aguardar os outros terminarem. Por que não tenta recomeçar?
+112,@101,Puxa! Há quanto tempo! Você ficou muito mais forte desde a última vez que nos encontramos.<p>Mas ainda não é suficiente. Theodore já está mais forte do que você.<p>Mas não se preocupe! Criei outro manual de treinamento para você. Só que é um pouco mais difícil que o último! Portanto não fique para trás!<p>Não se preocupe tanto! Você se sairá muito bem!
+113,@101,"Ótimo, parece que você está progredindo! Você chegou ao grau B bem rápido!<p>Russel! Cadê você agora, Russel?"
+114,@103,Já estou no grau A! Não perderei desta vez!
+115,@101,@104
+116,@101,Você chegou ao grau S! Parece que sua rivalidade com o cabeça oca foi o estímulo perfeito!
+117,@103,O quê?! Você já chegou ao grau S? Ainda estou no grau A...<p>Ahh! Isso também não aconteceu da última vez...?
+118,@101,@107
+119,@108,@108
+120,@101,Parabéns por chegar ao grau SR! Agora aquele cabeça de bagre do Russel não vai nem sonhar em alcançar você!<p>
+100011,,Boas-vindas à Ilha Falante.
+100021,,A Ilha Falante é o melhor lugar para se fortalecer!
+100041,,Cuidado com os monstros daqui para frente!
+101171,,Nós apoiamos a segurança da Ilha Falante!
+101181,,Mais um bom dia de comércio!
+101191,,Um bom equipamento pode salvar a sua vida!
+101201,,Ouçam! Em breve terá início um leilão de especialidades de Gludio!
+101211,,Compre bilhetes para Gludio comigo!
+101231,,Veja o Obelisco da Vitória na Ilha Falante!
+101241,,Um porto só é um porto se está cheio de pessoas!
+101261,,Os turistas têm vindo recentemente para a Ilha Falante.
+101301,,Orcs? Como assim: orcs?!
+101311,,"O navio para Gludio parte em breve, então embarque logo."
+101331,,Viu aqueles turistas? Tem uns que fazem o meu tipo!
+101341,,"Ah, um dia perfeito para navegar!"
+101381,,Cuidado com os Orcs!!!
+101391,,Não baixe a guarda!!!
+101441,,@101391
+101451,,Temos que proteger aqui!!
+101461,,@101381
+101471,,@101391
+101501,,Hehe. Será que me dispensarão do exército?...
+101541,,Aqui estão as especialidades da Ilha Falante! Temos pele dourada!
+101542,,Só existe aqui na Ilha Falante.
+101543,,Você precisa ter um desses para dizer que esteve na Ilha Falante.
+101544,,"Boas-vindas, boas-vindas!"
+101545,,Você não estaria precisando de poções?
+101551,,Hehe. Nossa criança já está com 3 anos!
+101571,,Os aventureiros arriscam a vida imprudentemente só por causa de dinheiro...
+101611,,Pescar na Ilha Falante é incrível - olha o tamanho deste peixe!
+101621,,Será que é verdade que os orcs apareceram no norte da cidade?
+101771,,Brincos! Brincos com ótimos atributos!
+101811,,Use este lugar para ir a outras regiões.
+101821,,Entrar para um clã! Companheiros são uma fonte excelente de ajuda!
+101831,,Aprimore o equipamento para derrotar os inimigos mais facilmente!
+101841,,Eu vendo Disparos Anímicos que causam mais danos em monstros!
+101911,,Nós vamos cuidar dos orcs.
+101921,,Nós fazemos a segurança da cidade.
+101931,,A Cidade de Ilha Falante agora está segura.
+101941,,Boas-vindas à nossa cidade!
+101961,,Há coisas estanhas acontecendo por aqui...
+101971,,"Quanto mais rápido sair da ilha, melhor."
+101981,,Dizem que há mais de 10.000 orcs ao norte.
+102011,,Apareceram orcs ao norte!!
+102221,,Não se preocupe! Dispensaremos você do serviço em segurança.
+102501,,Malditos orcs! Eu vingarei meus companheiros!
+102511,,Não podemos perder esta batalha! Minha família está escondida na cidade.
+102551,,Os orcs atacaram bem na hora em que eu ia ser dispensado...
+102561,,"Se os orcs nos vencerem, chegarão à cidade."
+103001,,"Por enquanto estamos mantendo os orcs afastados com magia, mas..."
+103011,,Argh... Estou exausto.
+103021,,Orcs? Eles não me metem medo!
+111671,,"Por favor, aliste-se na tropa de caça da Ilha Falante!"
+111691,,Você veio para se juntar à tropa de caça?
+111851,,Vou vigiar para ver se algo engraçado acontece!
+111861,,Não precisa ter pena!
+111891,,Corte-os com um só golpe!
+111971,,Ensine uma lição aos orcs!
+111981,,O-obrigado! Eu estava com tanto medo!
+210011,,É de Disparos Anímicos que você precisa para combater golens!
+280811,,Mate-me...
+280821,,Que dor... Acabe logo com isso...
+300171,,"Eu teria lutado, se estivesse com meu cajado!"
+300181,,Mais cedo você estava chorando e se escondendo!
+304081,,Einhasad me disse que ela enviaria você.
+304111,,Eu vi seu desempenho incrível! Muito obrigado!
+305851,,O que é isso?! Nem estamos na era dos piratas!
+307781,,Ahh... Eu sabia que não devia ter vindo...
+307791,,Você! Calma!
+309371,,Bilhete para o Porto da Ilha Falante é por aqui.
+309391,,Você não vai se alistar nos soldados de Gludin?
+309411,,Pois sim... Onde estarão meus amigos?
+309441,,Da próxima vez o herói serei eu!
+309451,,"Boas-vindas, este é o Porto de Gludin."
+309791,,Então foi você quem Einhasad enviou.
+309801,,Use este lugar para ir aonde quiser.
+309811,,Registre-se aqui para participar do Cerco ao Castelo.
+309831,,Vender Disparos Anímicos é meu hobby.
+309841,,"Armazene os itens, se seu inventário estiver cheio."
+309851,,Opa! Escorreguei de novo!
+309861,,"Meu deus, que barulheira! Eu só quero viver quieto e pescar."
+309871,,"Vou descontar da sua conta, já que é o herói da cidade!"
+309891,,Nossa função é proteger este lugar.
+309901,,*Suspiro*... Quando termina o nosso turno?
+309921,,@309891
+309951,,Um membro dos Mercenários Prataluz!!! Boas-vindas!
+309961,,A emboscada recente foi frustrada por um Mercenário Prataluz.
+309971,,Sério? O mercenário era demais!
+310331,,Um brinde aos Mercenários Prataluz!
+310341,,Sem chance de eu ir para uma ilha. Eu sou uma pessoa da cidade.
+310441,,Olá!
+318221,,"Ah, bons tempos em que viajávamos de barco!"
+318231,,Agradeço! Meus passageiros estão seguros graças a você!
+318241,,"Você derrotou os piratas, não? Isso é incrível!"
+322561,,Cuidado. Daqui para frente haverá Ol Mahums.
+322611,,Você se alistou para caçar Ol Mahums?
+322701,,A segurança do refém é nossa prioridade. Entendeu?
+322711,,Está maluco? Eu não entraria no cemitério!
+322981,,Você precisa de poções para caçar Ol Mahums!
+392751,,"Ei, você! Faça alguma coisa!"
+392781,,É muita chateação após ter vindo até aqui.
+350151,,"Não seja sovina - dê-me mais, seu avarento!"
+350152,,Seu gato astucioso!
+350161,,Nada detém os Disparos Anímicos ao caçar Mortos-vivos!
+350162,,"Ei, você, aventureiro! Você devia comprar poções."
+350163,,A preparação é tudo numa batalha! Então você devia comprar poções...
+350181,,"Nossa, os Mortos-vivos dificultam os meus negócios..."
+350182,,Ei! Aproveite que está aqui e faça um caixão para você! Rá!
+350191,,Não está com medo?
+350192,,"Tome cuidado, aqui há fantasmas. Haha."
+350201,,Sério! Eu vi um fantasma! Pode acreditar!
+350202,,Era uma elfa loura!
+350211,,Pare com suas mentiras!
+350212,,Diga algo de verdade! Nossa.
+350221,,Sério? Você viu mesmo um Caótico?
+350222,,"Você está falando a verdade, não está? Você também é suspeita!"
+350231,,Estou dizendo a verdade! E se dissesse que eu sou um Caótico?!
+350232,,Até aquela pessoa ali é mais forte que você!
+350241,,"A partir de Gludio, tome cuidado - haverá Caóticos."
+350242,,Você veio investigar o incidente?
+350261,,Veja aquele cara ali! Dizem que ele é um Mercenário Prataluz.
+350262,,Se eu conseguisse entrar para os Mercenários Prataluz...
+350281,,Solicitaram-me para investigar o desaparecimento...
+350282,,Não há nenhuma tarefa mais fácil?
+350311,,"Como esperado de uma cidade portuária, está transbordando de energia!"
+350312,,Não há nada para ver?
+350321,,Depressa! Vamos para lá também!
+350322,,Puxa! Que espaçoso!
+350331,,Ufa. Você não pode ir um pouco mais devagar?
+350332,,"Mais devagar, sim? Minhas pernas doem."
+309911,,Vou fazer um preço bom para você!
+309912,,Mas não antes de virar um gato pelado!
+309931,,Há vários foras-da-lei. Cuidado.
+309932,,"Você não teria nenhuma mercadoria de contrabando, teria?"
+401151,,"Maldição... Observe, eu certamente sobreviverei."
+401152,,Eu sobreviverei e verei minha família de novo.
+410421,,Algum homem-lagarto seguiu você?
+410422,,É imprescindível passar pela Fazenda Devastada!
+410331,,Você é o mercenário que caça os monstros? Retome o fôlego!
+410332,,A minha espada é ideal para cortar os lagartos!
+400131,,Não vai entrar para o grupo de caça?
+400132,,Não fique aí sem fazer nada! Junte-se a nós!
+409511,,Só os tolos subestimam os trogloditas!
+409512,,A segurança dos membros desaparecidos é nossa prioridade.
+410391,,Os monstros estão perto... Espero que esteja tudo bem.
+410392,,"Ah, Einhasad... Proteja Gludio..."
+410521,,Ah... Quando poderei voltar para casa?
+410522,,Quantos monstros ainda teremos que matar?
+410541,,Parece que não tem fim...
+410542,,Mãe... Quero a minha mãe...
+410571,,Aqui é perigoso. Dê a volta se você não é combatente.
+410572,,Fale com o capitão para se juntar ao grupo de caça.
+418501,,Não faça barulho na cidade.
+418502,,"Entre para o grupo de caça, se precisar de emprego."
+418561,,Não podemos deixar os homens-lagartos virem para cá!
+418562,,"Lagartos malditos, sempre procurando oportunidades."
+400401,,Não acredito que aqueles lagartos malditos saquearam a nossa cidade!
+400402,,Porque o governante não manda reforços?
+450471,,Hmm... Devo entrar para caçar monstros?
+450472,,Não teremos dificuldades no nosso nível?
+450481,,Vamos com tudo! Duvido que vamos morrer.
+450482,,Vamos transformar os trogloditas em carne moída!
+450491,,Dizem que o Senhor Vaughn comanda a operação de recuperação.
+450492,,O ressurgimento de Windawood acontecerá em breve...
+450501,,Temos que recuperar Windawood rápido.
+450502,,As tragédias de Windawood têm que acabar rápido. Tsc tsc
+450531,,"Dizem que o ataque ao Castelo de Gludio iniciará em breve, é verdade?"
+450532,,Eu ia adorar participar de um Cerco ao Castelo!
+450541,,Eu cortaria meus inimigos com um só golpe!
+450542,,Uuu! Haverá um Cerco ao Castelo e eu não participarei!
+450551,,"Recrutando participantes para o Cerco ao Castelo de Gludio, hein?"
+450552,,"Uma elfa comandando um reino humano, não soa tão mal!"
+450561,,Não vá tendo ideias de se inscrever para o clã do castelo!
+450562,,Certamente eu seria um lindo Cavaleiro do clã do castelo!
+499711,,Os Disparos Anímicos são a melhor coisa para caçar homem-lagarto!
+506751,,Mantenha a formação enquanto fazemos os preparativos!
+506752,,Por acaso você viu mais soldados dispersos?
+508741,,Será que os Ol Mahums enlouqueceram?
+508742,,Por que os bandidos estão interessados nos cristais?
+512641,,Não acredito que os mortos-vivos estão se alvoroçando!
+512642,,Fiquem atentos para não nos dispersarmos!
+514601,,A recuperação de Windawood está quase concluída! Avante!
+514602,,Hora de expulsarmos os orcs do nosso lar!
+550011,,A linda Windawood está em total desordem...
+550012,,Malditos orcs. Eu terei a minha vingança!
+550021,,Todas as árvores estão mortas...
+550022,,Ouvi gritos dos arredores...
+550031,,Compre algumas poções antes de se encontrar com os orcs.
+550032,,Você tem Disparos Anímicos insuficientes para lidar com os orcs.
+607241,,Uh... Oh-oh... Parece que faltam alguns itens.
+607251,,Quando moverei tudo isso...
+607261,,Por quê? O que aconteceu?
+607521,,Em serviço! Sem problemas!
+607541,,@607521
+607551,,Você ficaria no meu lugar?
+612811,,Quando os mercadores virão?
+612812,,"Hm, estamos ficando sem mercadorias."
+630251,,Você está lamentavelmente despreparado. Compre algumas poções!
+630252,,Os Disparos Anímicos são a melhor coisa contra as formigas.
+650061,,Ai... malditas formigas!
+650062,,O que teria sido a causa de seu surgimento?
+650071,,Há uma Rainha enorme em um Formigueiro subterrâneo.
+650072,,Formiga Rainha? Ela deve ser linda!
+650081,,Dizem que os bruxos da Torre de Marfim tiveram uma morte misteriosa.
+650082,,Quem teria matado os bruxos da Torre de Marfim?
+650121,,"Ao sul há o Território de Dion. Você não é procurado, ou é?"
+650122,,Assegure-se de se identificar antes de ir para Dion.
+650181,,Não estão me deixando entrar no Território de Dion!
+650182,,Estou farto deste deserto!
+650191,,Você não está com sede? Compre algumas poções!
+650192,,Leve algo do Acampamento consigo!
+650231,,Cuidado. Dizem que Kazir aparecerá logo à frente!
+650232,,Já ouvi falar de Kazir! É o predador do deserto?
+699711,,Você precisará de poções para atravessar o Deserto impiedoso!
+706031,,"Ei, você! A sua espada está enferrujada!"
+706041,,Nós guardamos os seus itens em segurança!
+706051,,Eu não devia vender itens no momento...
+706061,,Você viu aquela criança?
+706071,,Só me chamar que eu venho!
+706101,,"Hohoho. Como será que Gus está se saindo, tocando os negócios?"
+706111,,Parece que fui repreendido por Sara de novo!
+706121,,"Ah, uma criança. Você não precisa de um remédio para crescer?"
+706122,,Você vai ser forte como um troglodita se comer isso!
+706131,,"Epa! Mas por que você é tão pequeno, Sr. Gato?"
+706132,,"Ah, que mentira! Não existe remédio assim!"
+706141,,Não posso ir lá fora por causa dos monstros.
+706151,,Ah... Tenho que colher ervas...
+706171,,Beberemos hoje também?
+706181,,Ótimo! Nos veremos quando terminarmos nosso turno!
+706191,,Boas-vindas. Esta é a cidade de Dion.
+706201,,Deixe a segurança conosco!
+706211,,Você viu aquela garota?
+706221,,"Claro! Misteriosa, não?"
+706231,,Dizem que as aranhas estão comendo os humanos!
+706241,,Dizem que há milhares de aranhas ao norte!
+799711,,Ah! Que perigo! Compre estes Disparos Anímicos!
+780471,,Ahha! Ali!
+780481,,Não o deixarei escapar desta vez!
+780491,,Pegue a chave!
+780911,,Você não pode fugir de nós!!!
+780921,,Atrás deles! Vá!
+780951,,Morra! Morra!
+780981,,Este feitiço vai te engolir inteiro.
+781001,,Peguem-nos!
+781021,,Capturem-nos vivos!
+720091,,Você não sairá daqui com vida!
+750051,,"Ah, pára. Estou dizendo a verdade!"
+750052,,Eu bati na cabeça do Capitão orc pessoalmente!
+750061,,Os orcs chegaram até o Castelo de Dion?
+750062,,Precisamos correr e apoiar o Castelo de Dion - ele está em perigo!
+750081,,Pfft! Você derrotou o Capitão orc? Mas em qual exército você está?
+750082,,Suas mentiras são tão incríveis! Hahaha!
+750501,,"Cuidado, a Área Agrícola está cheia de homens-lagartos."
+750502,,Tivemos certeza dos homens-lagartos e não podíamos ir a lugar nenhum.
+750521,,A Torre de Cruma está emitindo energia.
+750522,,Torre de Cruma... Definitivamente quero desafiá-la!
+750531,,A torre dos Gigantes inferiores? Eu quero descobrir seus segredos!
+750532,,Ouvi dizer que a Irmandade Sombria está atrás da Torre de Cruma...
+750551,,Hehe. Apanhe-me se for capaz!
+750552,,Carroça passando! Fon fon.
+750561,,O ataque ao Castelo de Dion faz meu sangue ferver!
+750562,,Quem será o próximo governante do Território de Dion?
+750601,,"Ah, quisera eu estar num clã tão legal quando o clã do castelo!"
+750602,,Hmm. Será que eu me inscrevo para entrar no clã do castelo?
+750591,,Nós não temos paixão suficiente para tal... *xuif*...
+750592,,"Se você fizer, eu farei também!"
+750621,,Estão procurando clãs para o Cerco ao Castelo de Dion!
+750622,,Falta de tarefas simples? Tais como capturar um gato...?
+750651,,Shhh! O gato ainda não avistou! Pegue-o!
+750652,,Vamos pegar um ou dois gatos sarnentos!
+750661,,Agora! Ele está distraído com a criança!
+750662,,Quer se juntar? Eu serei cúmplice também.
+750681,,Veja! Aquele gato astuto vai enganar mais gente.
+750682,,Você quer enganar aquela criança também? Silêncio!
+800381,,Você veio ver a Torre de Cruma?
+800382,,A torre dos Gigantes inferiores - está me irritando!
+803881,,"Hmm... É gelado, como se espera de um pântano."
+803882,,Você conseguiria acender um fogo mais forte?
+804101,,"Um, dois... oi? Parece que faltam alguns."
+804102,,Não acredito que estou investigando mercadorias na minha idade!
+804131,,Boas-vindas ao campo de pesquisa da Unidade de Escavação de Feldheim!
+804132,,Por acaso você teria trazido suprimentos?
+850641,,A minha magia não vai ficar mais forte?
+850642,,Dizem que há várias formas de vida mágica em Cruma!
+850661,,Ai... Por que sou eu quem sempre organiza os documentos?
+850662,,Você devia organizá-los regularmente. Olha essa bagunça!
+850671,,Cuidado ao avançar - há um monte de cadáveres!
+850672,,"Se encontrar alguém de quem perdemos contato, traga para cá!"
+899711,,O que precisamos num lugar perigoso como este? Desta poção!
+998711,,A raça não é um fator que se leva em conta ao fazer negócios!
+1019911,,"Compre mais Disparos Anímicos para os Sacrários Uivantes, ok?"
+1050001,,"Ei, você não ajudar na operação?"
+1050002,,Aqui é um bom lugar para aventuras.
+1050021,,Ai... Até meus ossos doem.
+1050022,,Você está se preparando para os mortos-vivos?
+1050031,,Que a Bênção de Einhasad esteja convosco.
+1050032,,Eu rezo para que você dê-lhes o descanso.
+1050061,,É perigoso sair da Fornalha.
+1050062,,Viemos observar o Exército da Agonia.
+1050051,,Olhá-los está me deixando triste.
+1050052,,"Cuidado, se não quiser terminar como eles."
+1050201,,Você é um aventureiro? Giran está selada no momento.
+1050202,,Giran ficará selada até os Sacrários Uivantes se calarem.
+1050231,,Não é possível ir a Giran no momento.
+1050232,,O governante disse que a entrada está proibida.
+1106931,,Olha que lindo! Preciso de armas?
+1106932,,"Com um vestido lindo desses, cuidado com as coleções da Górgona!"
+1106933,,"Venha! Com esses bolsos tão cheios, compre algum equipamento!"
+1191421,,Quem é você? Viu alguém suspeito?
+1191422,,Está relacionado com este incidente?
+1191431,,Você viu algum espião de Oren?
+1191461,,Tenho certeza que alguém de Oren enviou um espião.
+1150411,,Boas-vindas à Cidade de Giran!
+1150412,,"Boas-vindas a Giran, o centro de comércio!"
+1117001,,Não baixe a guarda com tanta gente em volta!
+1117002,,"Não vá atrás de estranhos, mesmo que ofereçam comida."
+1117003,,Você lembra o caminho de volta para casa?
+1117021,,Entre um instante e prove uma dose de rum!
+1117022,,"Ei, você, aventureiro. Entre por um instante."
+1117023,,Não está cansado de viajar? Entre e descanse!
+1170041,,O que você quer? Quer tentar uma vez?
+1170042,,"Dê a volta antes de se ferir, ok?"
+1170043,,O que está olhando? Sai fora!
+1170081,,Ficou sabendo que a relação entre Giran e Oren piorou?
+1170082,,Estou ansioso... Você acha que haverá guerra?
+1170083,,Eu queria visitar Oren...
+1170091,,"Aventuras e tal... Os garotos de hoje em dia, tsc tsc..."
+1170092,,"Quando o enviado chegar, terei que fazer contatos."
+1170111,,Entre e tome um pouco de sopa quente!
+1170112,,Você é de fora da cidade? Passe uma noite aqui!
+1170113,,Você parece exausto. Entre e descanse.
+1170121,,Você não vai comprar este anel?
+1170122,,Você não o encontrará em mais nenhum lugar!
+1170123,,Pelo preço módico de 10 milhões de Adena! Que roubo!
+1170151,,Conte para ver se a quantidade está certa.
+1170152,,"Não baixe a guarda, o comerciante chegará em breve."
+1170153,,Estamos querendo material mágico raro - analise com cuidado.
+1170161,,Mm... Podemos experimentar para ver se está bem cozido?
+1170162,,Está faltando algo... Que tal um pouco de glutamato mágico?
+1170163,,"Ei, o que está olhando? Roubando nossos segredos?!"
+1170181,,Hortaliças! Compre hortaliças na xepa.
+1170182,,Consegui isso em Dion e passei pelos Sacrários Uivantes!
+1170183,,Prove! Um pouco da Planície!
+1170221,,Eu disse que Mischa olhou para mim!
+1170222,,Tenho certeza que Gerard tem interesse em mim!
+1170223,,O que devo fazer? Devo puxar conversa?
+1170241,,O quê? Primeira vez que vê um gato?
+1170242,,Você levará uma surra que me subestimar!
+1170243,,"Se quiser apanhar, fique por perto."
+1170311,,Devo entrar para caçada à Górgona? Seria uma boa experiência...
+1170312,,Não quero virar brinquedo de Medusa...
+1170313,,Sou muito jovem e bonito para morrer... Caçar ou não caçar...
+1170291,,O que tem de tão assustador sobre a bruxa Medusa?
+1170292,,Vamos nos juntar à caçada! Qual a pior coisa que poderia acontecer?
+1170293,,Esta não é uma oportunidade comum!
+1160101,,Os bandidos se encontram aqui. Não entre nunca.
+1160102,,É muito perigoso. Dê a volta.
+1160161,,Vamos para o Jardim da Górgona?
+1160162,,Entregue seu testamento quando terminar de preenchê-lo.
+1160163,,Nunca olhe Medusa nos olhos. Entendeu?
+1170341,,Beba isso - você ficará imune ao olhar da Medusa!
+1170342,,Com medo de ir a Oren? Compre este disfarce!
+1170343,,Este fluoroscópio ajudar a pegar espiões e ganhar recompensas!
+1170371,,"Ei, você é um Mercenário Prataluz? Que inveja."
+1170372,,É o sonho de todo aventureiro entrar para os Mercenários Prataluz.
+1170373,,Eu serei um bruxo como Lucien dos Mercenários Prataluz.
+1170381,,"Legal, né? Não corte a grama, vai machucá-la."
+1170382,,"Esta é a Praça Einhasad. Vamos rezar depois, ok?"
+1170383,,"Vamos fazer silêncio, pois há muitas pessoas, ok?"
+1170501,,Einhasad vai cuidar de você.
+1170502,,Einhasad ama incondicionalmente e não espera nada em troca.
+1170503,,Ame o próximo como se ele fosse Einhasad.
+1170531,,Shh! Silêncio. O sacerdote está falando.
+1170532,,"Oh, Einhasad, eu rezo pelo retorno do meu irmão em segurança..."
+1170533,,Que suas bênçãos caiam sobre os que caçam a Górgona...
+1170561,,Por favor... Faça deste um mundo pacífico...
+1170562,,Abençoe esta terra de Giran...
+1170601,,Puxa! Vejo o barco de vovô!
+1170602,,Epa! Pássaros!
+1170603,,"Ai! Venham, passarinhos! Venham brincar comigo!"
+1200011,,Você veio... para nos salvar?
+1200031,,Miau... Eu deveria ter ido por terra...
+1200041,,Boas-vindas à Cidade Abrigo!
+1200061,,Dizem que o Porto de Giran está um caos completo!
+1200071,,Toda essa comoção está dificultando os negócios...
+1200081,,A ruína dos Gigantes inferiores! Isso não te deixa animado?!
+1200091,,É tão agitado. Quer parar de entrar no caminho?
+1200111,,Este é um cristal que trouxemos de Cruma!
+1200281,,Não é permitido nenhum pirata sair!
+1200301,,Manteremos os refugiados em segurança.
+1200351,,Não há nenhum bem primário à venda?
+1211311,,"Com o porto deste jeito, estamos condenados!"
+1399711,,Esses Disparos Anímicos vão cuidar dos piratas!
+1430361,,Posso passar a mão nessa coisa peluda?
+1430401,,Sobre o quê é isso?
+1430421,,"Olá, estranho."
+1430431,,"Se você cortar esta árvore, conseguirá um bom preço por ela."
+1430491,,Por que há mortos-vivos aqui?
+1430511,,Ia ser legal se essa coisa peluda vier junto.
+1430541,,"Puxa, encontrei a coisa peluda de novo."
+1430571,,Você ouviu falar de uma fada que mora na Ilha Falante?
+1430591,,@1430571
+1430611,,Hm... pelo que diz nesta tabuleta de pedra...
+1430631,,As crianças anãs são pequenas.
+1430651,,Está em uma língua elfa antiga desta vez.
+1430661,,Conseguimos.
+1430671,,Miau... blub blub... Miau...
+1430681,,Estou satisfeito.
+1430691,,Proteja-me enquanto eu decodifico a tabuleta de pedra.
+1430811,,"Muito bem, Cara."
+1550061,,Cuco! Cuco!
+1550071,,Cuco! Continue procurando!
+1550091,,Oinc! Oinc! Sniff sniff.
+1550131,,O cuco chegou em casa são e salvo.
+1550132,,Quero ver o cuco.
+1550181,,"Tem uma coisa estranha crescendo nas minhas costas, miau..."
+1550182,,Já não está morto...?
+1550191,,Ah... Malditas aranhas da ravina!
+1550192,,Qual é o estado daquela pessoa?
+1550241,,O... o que é essa balbúrdia sobre...
+1550242,,Os trogloditas estão me procurando como se eu fosse comida...
+1550281,,Temos que proteger as mulheres e as crianças!
+1550282,,Não deixe aqueles porcos se aproximarem!
+1550481,,Ah... Minha ferida está doendo...
+1550482,,O erro foi meu. Fui descuidado.
+1550491,,"Russel, seu idiota! Eu disse para tomar cuidado!"
+1550492,,Está ferido?
+1571621,,Planeja escapar da jaula?
+1571622,,Execute-os agora!
+1558351,,Você planeja escapar? Vai se arrepender dessa decisão. Kekeke...
+1558352,,"Puxa, você tem raça! Bem, logo vai voltar para cá. Hahaha. O que você"
+1558381,,"Ei, guarda! Quando meu rango vai chegar?"
+1558382,,Eu era bem temível quando estava livre!
+1551881,,Você... Você precisava mesmo colocar fogo em tudo?
+1551882,,Caraku... Temos que encontrar o Caraku.
+1551961,,O Kazan já era!
+1551962,,Eu mesmo vou quebrar o pescoço desse traidor!
+1552081,,Argh! Estou tão incomodado! Por que o Tanor não diz nada?
+1552082,,Onde está aquele idiota do Russel?
+1552091,,Espero que o Durzel esteja bem. difícil... Hmm...
+1552092,,Você viu o Aymel? Aquele traquinas está bem?
+1552191,,Onde diabos o Durzel está?
+1552192,,Estou tendo um mau pressentimento...
+1566401,,Caçadores de verdade não são negligentes com os preparativos!
+1566402,,Ali! Acho que eles precisam de uns disparos anímicos!
+1565341,,Ouvi dizer que está um tumulto só no Castelo de Oren...
+1565342,,Parece que aventureiros no Castelo de Oren estão sendo acusados de ser espiões de Giran!
+1565381,,Dizem que a Floresta dos Segredos está em algum lugar desta Ravina!
+1565382,,"E, quando você passa pela Floresta dos Segredos, dizem que é possível chegar à Ravina das Fadas!"
+1565531,,Dizem que o Coração do Platô é o que está nesta ravina há mais tempo.
+1565532,,Quer juntar um grupo e tentar a sorte no Coração do Platô?
+1565371,,"Precisamos tomar cuidado, já que Giran e Oren não estão se dando bem!"
+1565372,,Tenha cuidado no Castelo de Oren se você for de Giran!
+1565441,,Onde será que está aquele cara que foi atrás do grendel...
+1565442,,Será... que ele foi capturado por Poricule?
+1569071,,"Shayden, seu tolo!"
+1569072,,Que idiotice você está espalhando? Trogloditas de avental?
+1569011,,Hmm. Essa sopa de carne de grendel está muito boa!
+1569012,,Precisamos nos preparar rapidamente... o Senhor estará aguardando...
+1569101,,"Do jeito que a coisa está, será difícil completar nossa tarefa..."
+1569102,,Não podemos voltar assim. Não podemos pedir ajuda a ninguém?
+1569061,,Você viu um Windsus gigante?
+1569062,,"Cuidado, pois há bandidos por aqui!"
+1569041,,"Ah, minha nossa. Você de novo!"
+1569042,,Mmm... o ar livre! Os ingredientes daqui devem ser maravilhosos!
+1569311,,Há tantas aranhas!
+1569312,,Devo pedir às Ninfas que me deem uma pétala de flor?
+1569221,,Talvez você tenha visto uma flor branca gigante?
+1569222,,As Ninfas daqui são bem agressivas. Não seja seduzido pela beleza delas.
+1565601,,Não cause um tumulto.
+1565602,,Você é de Giran? Já foi revistado?
+1565981,,Prepare-se bem. Não sabemos quando pessoas de Giran virão.
+1565982,,O que está errado com essa balista?
+1565791,,Você já está tão cansado assim? Foco!
+1565792,,Vamos começar do começo e repetir tudo até que nossas ações estejam sincronizadas.
+1565661,,Aquele Capitão da Guarda rígido está de volta...
+1565662,,Só me sinto mal pelos que são treinados por eles.
+1565561,,Siga para a revista quando entrar no castelo.
+1565562,,"Qualquer brincadeirinha e você vai direto para a prisão, então tenha cuidado."
+1566081,,"Diga a verdade! Fomos informados, então não tente se safar com historinhas!"
+1566082,,Não adianta se fingir de besta. Seu maldito espião de Giran!
+1566181,,Ouvi dizer que alguns espiões de Giran foram presos!
+1566182,,"Puxa, vivemos num mundo tão assustador... Quando será que nossa relação com Giran vai melhorar...?"
+1566021,,Não baixe a guarda.
+1566022,,Esses malditos idiotas estão por todo lado!
+1566351,,O lado oeste é perigoso. \nCuidado!
+1566352,,Tem algo diferente nos homens-lagartos daqui...
+1566061,,Os Bruxos da Torre de Marfim planejam nos rejeitar?
+1566062,,"Tudo seria resolvido se a Torre de Marfim se juntasse a nós. Tsc, tsc."
+1566111,,Somos todos filhos de Einhasad.
+1566112,,Einhasad certamente ficará brava se morrermos lutando.
+1566141,,Por favor... que não haja guerra...
+1566142,,Que haja paz nessas terras...
+1566091,,"Lembre-se de informar ao guarda sobre pessoas suspeitas que você notar, está bem?"
+1566092,,"Não saia do castelo, está bem?"
+1566361,,Vá falar com Sereos sobre tarefas do clã.
+1566362,,Reporte qualquer um que você suspeitar ser um espião.
+1566341,,Ah! O clima está tão agradável!
+1566342,,Você será o pegador se pisar fora da marca no chão!
+1565231,,A Grande Isca! Pegue sua Grande Isca!
+1565232,,A vara de pescar foi abençoada pela própria Einhasad!
+1566291,,O que você está olhando? Sai pra lá!
+1566292,,Argh! Ptuu!
+1566381,,Ah... Por que o mundo é tão assustador?
+1566382,,Ouvi dizer que a vizinha também foi acusada de ser espiã.
+1565971,,Cuidado com os homens-lagartos e os orcs.
+1565972,,Peça ajuda do castelo se a situação ficar perigosa.
+1569231,,Como vamos pegar o ovo sem ninguém perceber...?
+1569232,,Você quer começar um negócio de venda ilegal de ovos de homens-lagartos?
+1569251,,Ufa! Que surpresa! \nO que está\nfazendo aqui?
+1569252,,Aquele Renner. Vou mostrar a ele do que sou capaz!
+1569253,,Minha capa... Era novinha em folha...
+1569321,,Você também veio caçar orcs?
+1569322,,Aqui estamos novamente!
+1569323,,Está pronto para caçar uns orcs?
+1569261,,Por que está aqui?
+1569262,,Veio me ajudar a escapar de novo?
+1569271,,Venda-me a Maça da Punição se quiser descobrir!
+1569272,,Você viu o colete do líder de Tanor? Deve dar uma boa grana.
+1569301,,Há quanto tempo!
+1569302,,Que tal se tentarmos nos tornar Chefes de Tanor?
+1610011,,Está sem poção de recuperação? Estão na promoção!
+7920011,,Gostaria de ouvir a solicitação que o clã recebeu?
+7920012,,Você poderá usar mais espaços quando o nível da Sede do Clã aumentar!
+7920021,,Ouviu falar da antiga relíquia de Varkaron?
+7920022,,Traga todas as relíquias interessantes que encontrar!
+7920023,,Só de pensar nas relíquias já me anima! Haha!
+7920041,,"Não use essas poções de baixa qualidade, deixe comigo!"
+7920042,,"As minhas poções são as melhores de Aden, sem dúvida!"
+7920043,,Uma só poção já deixa forte como um troglodita!
+7920031,,Epa! A paisagem é incrível!
+7920032,,Como um buquê de flores pode ser tão vermelho?
+7920033,,As moças são tão lindas!
+7920061,,"Se sua barriga roncar, procure-me!"
+7920062,,Eu faço comida diariamente com ingredientes frescos!
+7920063,,Quer testar uma receita nova minha?
+7920081,,Lembre-se de vir me ver uma vez por dia!
+7920082,,"Terei presentes para você todos os dias, miau!"
+7920083,,Terei presentes melhores quando o nível da Sede do Clã aumentar!
+7920181,,Não é muito lindo? São vermelhas como os lábios de uma mulher!
+7920182,,Deixe que eu cuido do jardim.
+7920183,,Você precisa de alguma flor? Para quem são? Hehe!
+7920191,,Você completou todas as missões da Sede do Clã desta semana?
+7920192,,Você me acha tão bonita assim? Tente não ficar encarando.
+7920193,,Eu adoro o calor da lareira da Sede do Clã.
+7920194,,Nosso clã é o melhor de Aden!
+7920111,,Boas-vindas à Sede do Clã!!
+7920112,,Boas-vindas! Que dia perfeito para curtir o jardim.
+7920113,,Estava esperando você chegar! Boas-vindas!
+7920131,,Eca... Onde eu coloquei?
+7920132,,O guardião estará esperando...
+7920133,,Hmm... Deixei aqui. Onde foi parar?
+7921011,,@7920011
+7921012,,A expansão da Sede do Clã Principal foi concluída.
+7921013,,@7920012
+7921021,,@7920021
+7921022,,@7920022
+7921023,,@7920023
+7921041,,@7920041
+7921042,,@7920042
+7921043,,@7920043
+7921031,,@7920031
+7921032,,@7920032
+7921033,,@7920033
+7921061,,@7920061
+7921062,,@7920062
+7921063,,@7920063
+7921081,,@7920081
+7921082,,@7920082
+7921083,,"Vou lhe dar presentes melhores, pois o nível da Sede do Clã aumentou!"
+7921181,,@7920181
+7921182,,@7920182
+7921183,,@7920183
+7921191,,@7920191
+7921192,,@7920192
+7921193,,@7920193
+7921194,,@7920194
+7921111,,@7920111
+7921112,,@7920112
+7921113,,@7920113
+7921131,,@7920131
+7921132,,@7920132
+7921133,,@7920133
+7922011,,@7920011
+7922012,,A expansão da Sede do Clã Secundário foi concluída.
+7922013,,@7920012
+7922021,,@7920021
+7922022,,@7920022
+7922023,,@7920023
+7922041,,@7920041
+7922042,,@7920042
+7922043,,@7920043
+7922031,,@7920031
+7922032,,@7920032
+7922033,,@7920033
+7922061,,@7920061
+7922062,,@7920062
+7922063,,@7920063
+7922081,,@7920081
+7922082,,@7920082
+7922083,,@7921083
+7922181,,@7920181
+7922182,,@7920182
+7922183,,@7920183
+7922191,,@7920191
+7922192,,@7920192
+7922193,,@7920193
+7922194,,@7920194
+7922111,,@7920111
+7922112,,@7920112
+7922113,,@7920113
+7922131,,@7920131
+7922132,,@7920132
+7922133,,@7920133
+7923011,,@7920011
+7923012,,Todas as áreas da Sede do Clã expandiram. Que bela vista!
+7923013,,@7920012
+7923021,,@7920021
+7923022,,@7920022
+7923023,,@7920023
+7923041,,@7920041
+7923042,,@7920042
+7923043,,@7920043
+7923031,,@7920031
+7923032,,@7920032
+7923033,,@7920033
+7923061,,@7920061
+7923062,,@7920062
+7923063,,@7920063
+7923081,,@7920081
+7923082,,@7920082
+7923083,,@7921083
+7923181,,@7920181
+7923182,,@7920182
+7923183,,@7920183
+7923191,,@7920191
+7923192,,@7920192
+7923193,,@7920193
+7923194,,@7920194
+7923111,,@7920111
+7923112,,@7920112
+7923113,,@7920113
+7923131,,@7920131
+7923132,,@7920132
+7923133,,@7920133
+1085041,,Zona de perigo! Meia volta!
+1085051,,Mais à frente está o Forte de Guillotine.
+1085011,,Melhor se segurarem!
+1085031,,Temos que encarar aquele exército mortal...?
+650521,,Todos vocês! Não se atrevam a sair!
+650401,,Krrr!
+650402,,Krrr! Krrr!
+650403,,Krrrr!
+1601631,,Tenho certeza que dará uma boa grana.
+1602611,,Opa...! O que nós faremos?
+30001011,,Boas-vindas à Floresta das Fadas!
+30001021,,"Não posso ir para casa por causa desses monstros esquisitos. Por favor, ajude."
+21000011,,은빛 용병단에 어울리는 은빛 무기들입니다!
+21000012,,당신에게 곧 다가올지도 모르는 시련에 대비하세요!
+21000021,,이곳엔 특별한 장비가 많군.
+21000022,,은빛 용병단은 이런 장비를 하고 싸운단 말인가? 대단하군.
+21000031,,하늘에서는 뭘 낚을 수 있을까…?
+21000032,,"어차피 강에서도 아무 것도 못 낚는데, 하늘에라도 낚싯대를 던져볼까?"
+21000041,,천공섬 마그나딘까지 먼 여행길 오시느라 출출하시죠~?
+21000042,,잘 구워진 마그나딘 특제 호밀빵이 있습니다~ 어서 오세요~
+21000051,,마그나딘이 일반인에게 공개된 기념으로 특별 주문서를 판매합니다!
+21000052,,아직 일반인에게는 공개되지 않은 특별한 주문서입니다!
+21000061,,은빛 용병단의 눈부신 업적이 기록된 책입니다!
+21000062,,이 책을 집필하기 위해 수많은 은빛 용병단과 함께 했답니다.
+21000071,,자! 빨리 일해요 일! 하딘님께서 나머지 구역을 공개하기 전에 끝내야 합니다!
+21000072,,여기 상업 지구 외에도 마그나딘은 엄청나게 넓다고요!
+21000081,,천공에 빛나는 영혼… 은빛으로 날개짓하네~
+21000082,,그 찬란한 빛 아래… 스며든 온기 속에~ 새로운 희망이 잉태하네~
+21000091,,너무 뛰어다니지 말거라~ 그러다 다쳐~
+21000092,,"후후, 보고만 있어도 정말 귀여운 손녀랍니다."
+21000101,,천공섬~ 마그나딘~
+21000102,,하늘을~ 난다~ 마그나딘~
+21000111,,천공섬이라니… 너무 낭만적이에요!
+21000112,,"우리, 여기서 결혼식도 올릴 거죠?"
+21000121,,"글쎄, 이 마그나딘은 거인의 힘으로 떠 있는 거래!"
+21000122,,굉장하지 않아? 거인의 힘으로 하늘에 떠 있다니….
+21000131,,진짜? 거인의 힘으로? 대단하다!
+21000132,,거인은 도대체 어떻게 생겼을까?
+21000141,,이 거대한 도시가 떠오를 정도의 힘이라니….
+21000142,,도대체 거인들은 어떤 문명을 가지고 있었을까요?
+21000151,,"대륙… 아니지, 천공 최고의 펫을 구경하세요!"
+21000152,,그 어디서도 보지 못한 당신만을 위한 펫이 기다리고 있습니다!
+210000011,,자네 짐이 너무 무거워 보이는군!
+210000012,,물건 좀 맡기고 가지 그러나!
+210002401,,거기 너! 그러다 어깨 내려앉겠다옹! 이리 맡기고 가라옹!
+210002402,,쓸데없이 무슨 짐이 그리 많냐옹? 여기에 맡기라옹~

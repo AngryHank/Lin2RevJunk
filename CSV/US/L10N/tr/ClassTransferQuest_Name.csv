@@ -1,0 +1,93 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Sabrın Kanıtı,{TaskCount} canavar yen.,,
+1112,2. Günün Özeti,Günlük Zindanı Kolay Seviyede Tamamla.,Aymel,"Vay! Şimdiden 50 canavar öldürdün mü? İnanılmazsın!<p>Sıradaki testin Günlük Zindan (Kolay) tamamlamak!
+Baş düşmanlar çok güçlüdür. <p> Sadece gerçek savaşçılar onları yenebilir!
+Git ve kendini ispatla!"
+1113,3. Planlanmış Tavır,{TaskCount} Derece C eşya bul.,@1112,"Kutsal topraklarda Baş Düşmanı bu kadar hızlı yenebilen biri olmamıştı! Gerçekten iyisin. Biliyorsun, değil mi?<p>Sıradaki test... Hım... Aslında test sayılmaz. Derece C eşya toplaman gerek. <p> Dövüştükçe ekipmanlarına seviye atlatman gerek! Şu an ihtiyacın olanlar Derece C. Bu eşyaları topla ve ekipmanlarına seviye atlatmak için kullan! Gerçekten işine yarayacaktır!"
+1114,4. Herkesin Onayı,{TaskCount} veya daha fazla düelloya katıl.,@1112,"Nasıl ama? Ekipmanlarına C-derece eşyalarla seviye atlattırmak işini kolaylaştırdı, değil mi?<p> Ekipmanlarına seviye atlattırdığına göre artık yeteneklerine bakabiliriz.<p>Canavarlarla savaşacağını mı sanıyorsun? Çok yanılıyorsun.
+Yeteneklerini diğer oyunculara karşı göstermelisin!<p>Arena'da doğru düzgün savaşamadan kaybedersen çok yazık olur!<p>Hımm, bu işe yarar! Arenada düello!
+Bir kez Arenaya gir... kolay, değil mi?<p> Bebeklik yapma!
+Bir çaylakken 100 dövüşe katılmıştım!
+Hadi bakalım. Sıra sende!"
+1115,5. Kanıt,{TaskCount} Adena al.,@1112,"Ne? Arena'da dövüştün mü?<p>O zaman sıradaki teste geçebiliriz.<p>Sıradaki testte 10.000 Adena kazanman gerekiyor.<p>Avlanma ve mali yönetim yeteneklerini test edeceğiz!
+Mali ihtiyaçlarını karşılayamazsan zor anlar yaşayabilirsin!<p> Hadi bakalım, git de 10.000 Adena kazan!"
+1116,6. Dönüm Noktası,Ekipman güçlendirmede {TaskCount} kez başarılı ol.,@1112,"Sıradaki test!<p>Şimdi ekipmanını güçlendirmen gerekecek.<p>Bir lejyoner için ekipmanı, hayatı kadar önemlidir!
+Savaş alanında hayatta kalmak istiyorsan ekipmanını özenle güçlendir!<p> Bir parça ekipmanını güçlendirmeyi dene!"
+1117,7. Onay,{TaskCount} kez Koleksiyoncu Kyrios'u yen.,@1112,"Vay, son teste geldik mi? Tebrikler! Senden beklentileri boşa değilmiş.<p>Sıradışı yeteneklerin sayesinde seni Kyrios Kızıl Kolcu grubuna almaya karar verdik! Kyrios, insanları öldüren iğrenç bir yaratık!<p>Sadece en iyi lejyonerlerimizi bu grubu aldık. Bu yüzden seni de bu grupta istiyorlar!<p> İlk defa böyle bir şey olduğunu görüyorum! Bu, yeteneklerinin farkında oldukları gösterir!<p>Onu kesinlikle yenmen gerek. Bunun son testin yerine geçebileceğini söylediler! Zor olacak ama sana iyi şanslar dilerim!<p>Oh, bu arada beklediğinden daha zor olabilir. Yanına yoldaşlarını alman iyi olacaktır!"
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

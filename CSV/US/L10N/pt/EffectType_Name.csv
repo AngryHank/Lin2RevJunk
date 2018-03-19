@@ -1,0 +1,129 @@
+Type,Name
+0,Incorporado à arma
+1,Atq. f.
+2,Atq. M.
+3,Taxa de aumento de atq. f.
+4,Taxa de aumento de atq. m.
+5,Poder de ataque básico
+6,Taxa de aumento de atq. de membro do grupo
+7,Taxa de aumento de vel. de atq.
+8,Bônus
+9,Taxa de aumento de dano crítico
+14,Aumento da taxa de precisão crít.
+15,Aumento de taxa de crít.
+16,Dano f.
+17,Dano m.
+18,Ignorar defesa
+19,Redução de PV do alvo
+20,Redução de PV do alvo (%)
+21,Def. f.
+22,Def. m.
+23,Taxa de aumento de def. f.
+24,Taxa de aumento de def. m.
+26,Evasão
+27,Taxa de aumento de evasão
+28,Aumento de taxa de evasão
+29,Precisão
+30,Taxa de aumento de precisão
+31,Aumento da taxa de precisão
+32,Taxa de aumento de dano
+33,Taxa de aumento de dano f.
+34,@IncreaseDamagePhyMul
+35,Taxa de aumento de dano a alvo lento
+36,Ignorar dano de def.
+37,Taxa de redução de dano
+38,Taxa de redução de dano f.
+39,Taxa de redução de dano m.
+40,Redução de dano fixa
+41,Chance de deflexão
+42,Taxa de redução de dano de deflexão
+43,Dano f. ao longo do tempo
+44,Dano m. ao longo do tempo
+45,Cura de PV com base no atq.
+46,Cura ao longo do tempo
+47,Efeito do terreno
+48,Taxa de aumento de agressão
+49,PV
+50,Aumenta PV com base na porcentagem do PV máx.
+51,Regen. de PV
+52,Dreno de PV
+53,Absorção de PV (uma habilidade ativa que rouba PV do inimigo)
+54,Absorção de PV (Distribui o PV roubado entre você e os membros do seu grupo)
+55,Invencível
+56,Invisível
+57,Aumento da taxa de caída de item
+58,PV máx.
+59,Taxa de aumento de PV máx.
+60,PM máx.
+61,Taxa de aumento de máx. de PM
+62,Taxa de aumento de velocidade
+63,PM
+64,Aumentar PM com base na porcentagem do PM máx.
+65,Taxa de redução de custo de PM
+66,Diminuição de custo de PM
+67,Taxa de regen. de PM
+68,Uma morte (morte instantânea)
+69,Projétil
+70,Redução de tempo de recarga da habilidade
+71,Inteligente (o custo de PM de todas as habilidades é 1)
+72,Bônus de ataque de disparo anímico
+73,Durável (todo o dano sofrido é igual a 1)
+74,Atordoar
+75,Desdém (aumenta a agressividade ao máx.)
+76,Travar alvo
+77,Mover alvo
+78,Atração de alvo
+79,Taxa de resist. à atração
+81,Taxa de resist. a repulsão
+83,Elixir
+84,Nenhum efeito
+85,Identificador de informação de tabela de habilidade
+179,Bônus de DA (Totem de Aura)
+86,Exp.
+87,Taxa de aumento de ganho de exp.
+88,Adena
+89,Taxa de aum. de ganho de adena
+90,Diamante grátis
+91,Diamante pago
+92,Moeda do clã
+93,Fragmento de runa
+94,PH
+95,Conclusão automática
+96,Caída de item
+97,Taxa de resist. a lentidão
+98,Taxa de resistência a atordoamento e derrubada
+99,Taxa de res. a estado anormal
+103,Aumento de alcance de habilidade
+104,Aumento de contagem de acerto de habilidade
+100,Aumento de tempo de término de combinação
+101,Penetração
+102,Resiliência
+105,Aumento da velocidade de extração
+106,Aumento da contagem de extração
+10,Taxa de crít.
+11,Resist. a crítico
+12,Taxa de aumento de taxa de crít.
+13,Taxa de aumento de resist. a crítico
+125,Controle mental
+133,Aumento de dano de habilidade de ataque normal
+140,Reduz em % o tempo de recarga de habilidade.
+146,Reduz a PM do alvo
+147,Reduz em % a PM do alvo.
+148,Restaura a PM proporcional ao atq.
+179,Def. Aumenta a taxa proporcional ao tamanho do grupo
+151,Remove estado anormal
+152,Remove bônus do alvo
+153,Imune a dano abaixo de determinada PV
+136,Regen. de PV de regen. de PV
+163,Redução de regen. de PV
+164,Dano final + taxa de redução de dano adicional
+165,@NormalSkillDamageMul
+174,Aumento da habilidade de cura da cura normal
+171,Amplificação da taxa de resistência a atordoamento e derrubada
+170,Amplificação da taxa de resistência a lentidão
+169,Taxa Amplificação da taxa de resistência
+131,Dano causado em monstros aumenta
+132,Dano recebido de monstros reduz
+176,O dano de habilidade normal a monstros aumenta
+177,@NormalSkillMonsterDamageMul
+160,Taxa de aumento de dano baseada na raça e na classificação do PNJ

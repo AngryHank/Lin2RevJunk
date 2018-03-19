@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Festín pequeño,"Un pequeño festín preparado por un Protector de festines novato.
+DEF y DEFM +500"
+2,Festín normal,"Un festín mediano preparado por un Protector de festines novato.
+PV/PM +1000"
+3,Festín grande,"Un festín grande preparado por un Protector de festines novato.
+ATQ y ATQM +500"
+4,Festín pequeño elegante,"Un pequeño festín preparado por un Protector de festines veterano.
+DEF y DEFM +1200"
+5,Festín normal elegante,"Un festín mediano preparado por un Protector de festines veterano.
+PV/PM +2000"
+6,Festín grande elegante,"Un festín grande preparado por un Protector de festines veterano.
+ATQ y ATQM +1200"
+7,Festín pequeño lujoso,"Un pequeño festín preparado por un Protector de festines reputado.
+DEF y DEFM +2000, Tasa de crít. +500"
+8,Festín normal lujoso,"Un festín mediano preparado por un Protector de festines reputado.
+PV/PM +3000 Tasa de crít. +500"
+9,Festín grande lujoso,"Un festín grande preparado por un Protector de festines reputado.
+ATQ y ATQM +2000, Tasa de crít. +500"

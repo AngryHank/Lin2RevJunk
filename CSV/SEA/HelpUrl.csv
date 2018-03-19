@@ -19,7 +19,7 @@ GuildQuest,http://guide.netmarble.com/revolutionthm#cont/696,132962,696
 GuildRelationShip,http://guide.netmarble.com/revolutionthm#cont/696,132962,696
 GuildShop,http://guide.netmarble.com/revolutionthm#cont/696,132962,696
 Achievement,http://guide.netmarble.com/revolutionthm#cont/726,132943,726
-ElixirCraft,http://guide.netmarble.com/revolutionthm#cont/633,132958,633
+ElixirCraft,http://cpdev-guide.netmarble.com/revolutionthm#cont/1389,132958,633
 Friend,http://guide.netmarble.com/revolutionthm#cont/687,132963,687
 CastleSiege,http://guide.netmarble.com/revolutionthm#cont/697,133089,697
 CastleSiegeFestival,http://guide.netmarble.com/revolutionthm#cont/699,133093,699
@@ -139,7 +139,7 @@ CommonEvent2,http://guide.netmarble.com/revolutionthm#cont/1781,994120,739
 CommonEvent3,,1341408,
 CommonEvent4,,994120,
 CommonEvent5,,994120,
-DiceEvent,http://guide.netmarble.com/revolutionthm#cont/798,1053374,
+DiceEvent,http://guide.netmarble.com/revolutionthm#cont/797,1053374,
 Pet,http://guide.netmarble.com/revolutionthm#cont/649,1325569,649
 SummonStoneDungeon,http://guide.netmarble.com/revolutionthm#cont/660,1325575,660
 GuildAgit,http://guide.netmarble.com/revolutionthm#cont/648,1325578,651
@@ -176,7 +176,7 @@ GuildInvite,,,
 DiamondShopFlatRateAdena2,,,
 Storage,,,
 FlatRateAuto,,,
-MasteryShop,,,
+MasteryShop,http://guide.netmarble.com/revolutionthm#cont/2074,,
 FreeFortressSiege,http://guide.netmarble.com/revolutionthm#cont/1506,,
 EventJourney5001,http://guide.netmarble.com/revolutionthm#cont/1574,,861
 EventJourney5002,http://guide.netmarble.com/revolutionthm#cont/1575,,862
@@ -201,7 +201,13 @@ DailyBenefitShop,http://guide.netmarble.com/revolutionthm#cont/1805,,
 PackageShop,http://guide.netmarble.com/revolutionthm#cont/1806,,
 TimeShop,http://guide.netmarble.com/revolutionthm#cont/1808,,
 NeroDiceEvent,http://guide.netmarble.com/revolutionthm#cont/797,,
-EventTargetAttendance,http://guide.netmarble.com/revolutionthm#cont/1920,,
+EventTargetAttendance,http://guide.netmarble.com/revolutionthm#cont/1921,,
 EventTargetBenefit,http://guide.netmarble.com/revolutionthm#cont/1921,,
-EventTargetShop,http://guide.netmarble.com/revolutionthm#cont/1923,,
+EventTargetShop,http://guide.netmarble.com/revolutionthm#cont/1921,,
 EventGacha_Hongbao,http://guide.netmarble.com/revolutionthm#cont/1924,,
+EventTargetAnnuityShop,http://guide.netmarble.com/revolutionthm#cont/1921,,
+EventDailyQuest9,http://guide.netmarble.com/revolutionthm#cont/2098,,
+EventDailyQuest10,http://guide.netmarble.com/revolutionthm#cont/2098,,
+Talisman,http://guide.netmarble.com/revolutionthm#cont/2075,,
+Class2ndTransferQuest,http://guide.netmarble.com/revolutionthm#cont/2077,,
+Avento,http://guide.netmarble.com/revolutionthm#cont/2086,,

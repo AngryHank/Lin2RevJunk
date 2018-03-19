@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,Crystal of Unity,Level: [CrystalLevel],"A mystical crystal that provides
+a buff to all clan members."
+2,Quest Keeper,Quests In Progress: [ProgressQuestCount]. Quests Completed: [CompleteQuestCount].,"From easy quests to the near-impossible!
+I’m the Keeper, and I’m here to help."
+3,Feast Keeper,Small Feast: [SmallDinnerActivity]. Medium Feast: [MiddleDinnerActivity]. Large Feast: [BigDinnerActivity].,"The more the merrier!
+Please send all compliments to the chef."
+4,Relic Keeper,Relics under Appraisal: [ProgressArtifactCount] / Complete: [CompleteArtifactCount],"Let me appraise your relics.
+I’ll tell you their true worth."
+5,Potion Keeper,Craftable Personal Potions: [PotionAvaliableCount],"You can craft potions that can be used
+whenever you wish."
+6,Fireplace,Kindling Owned: [WoodCount] / Fireplace Status: [FirePlaceActivity],"Light the fire in the fireplace and
+everyone in the Clan Hall will gain Exp."
+7,Catch Pixies,Update coming soon.,"Mischievous pixies are making a mess!
+Catch them for a reward."

@@ -1,0 +1,125 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,Du wurdest erneut mit dem Server verbunden.,,
+3,Eine Gruppe wurde erstellt.,,
+4,Gruppenbeitritt erfolgt.,,
+5,<FontGreen>[Name]</> ist der Gruppe beigetreten.,,
+6,Du hast die Gruppe verlassen.,,
+7,<FontGreen>[Name]</> hat die Gruppe verlassen.,,
+8,Du wurdest aus der Gruppe geworfen.,,
+9,<FontGreen>[Name]</> wurde aus der Gruppe geworfen.,,
+10,Du bist zum Anführer der Gruppe geworden.,,
+11,<FontGreen>[Name]</> wurde zum Gruppenführer ernannt.,,
+12,Die Gruppe wurde aufgelöst.,,
+13,"Gruppeneinladung von <FontGreen>[Name]</>.
+Gruppe beitreten? <FontRed>[Seconds]</> Sek",Ablehnen,Beitreten
+14,Gruppenbeitritt abgelehnt.,,
+15,"Jemand möchte deiner Gruppe beitreten.
+Möchtest du zustimmen? <FontRed>[Seconds]</> Sek.",@13,Annehmen
+16,Auto-Gruppe wurde abgebrochen.,,
+17,"Ort : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> möchte das Abenteuer beginnen. Bereit machen? <FontRed>[Seconds]</> Sek",@13,Annehmen
+18,"Ort : <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+Du betrittst <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> in <FontRed>[Seconds]</> Sekunden.
+Mach dich bereit.",,
+19,"Ort : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> möchte dich beschwören.
+Beschwörung annehmen? <FontRed>[Seconds]</> Sek",Zu Fuß,Über Portal
+20,@19,Schließen,Betreten
+21,"Ort : <FontGreen>[WorldName]</>
+Zur Gruppenversammlung bewegen? <FontRed>[Seconds]</> Sek",@19,@19
+22,@21,@20,@20
+23,"<FontYellow>[Battlefield]</>-Gruppe wurde erstellt.
+Betritt das Schlachtfeld <FontBlue>alleine</> oder in einer <FontBlue>Schlachtfeldgruppe</> mit anderen Spielern.",,
+24,<FontYellow>[Battlefield]</>-Gruppe beigetreten.,,
+25,<FontGreen>[Name]</> ist der <FontYellow>[Battlefield]</>-Gruppe beigetreten.,,
+26,Die <FontYellow>[Battlefield]</>-Gruppe wurde aufgelöst.,,
+27,<FontYellow>[Battlefield]</>-Gruppe verlassen.,,
+28,<FontGreen>[Name]</> hat die <FontYellow>[Battlefield]</>-Gruppe verlassen.,,
+29,"Schlachtfeldgruppeneinladung von <FontGreen>[Name]</>([Power]).
+<FontYellow>[Battlefield]</>-Gruppe beitreten? <FontRed>[Seconds]</> Sek",@13,@15
+30,"<FontYellow>[BattlefieldType]</> Suche abgeschlossen.
+Betritt Schlachtfeld in <FontRed>[Seconds]</> Sek. Mach dich bereit.",,
+31,[Name] hat eine Freundschaftsanfrage gesendet.,Freund,
+32,Du hast dich mit [Name] angefreundet.,@31,
+33,<FontYellow>Der Klanführer hat das Klanemblem geändert.</>,,
+34,Klanmitglied [Name] hat seinen Spitznamen zu <FontGreen>[Name2]</> geändert.,,
+35,<FontGreen>[Param1]</> hat sich eingeloggt.,,
+36,<FontGreen>[Name]</> hat <FontGreen>[Count] [AssetsType]</> für Klanmitglieder gespendet.,,
+37,<FontGreen>[Param1]</> ist dem Klan <FontBlue>beigetreten</>.,,
+38,<FontGreen>[Param1]</> hat den Klan <FontRed>verlassen</>.,,
+39,<FontGreen>[Name]</> wurde aus dem Klan <FontRed>geworfen</>.,,
+40,Beitrittsanfrage von Klan <FontBlue>[GuildName]</>.,@13,@17
+41,<FontBlue>[Name]</> hat die Einladung abgelehnt.,,
+42,<FontYellow>Es gibt eine neue Beitrittsanfrage für den Klan.</>,Klan,
+43,Du bist <FontBlue>[GuildName]</> beigetreten.,@42,
+44,<FontBlue>[GuildName]</> hat deine Beitrittsanfrage <FontRed>abgelehnt</>.,,
+45,Klan verlassen.,,
+46,<FontGreen>[Param1]</> hat jetzt den Rang <FontBlue>[Param2]</>.,,
+47,<FontGreen>[Param1]</> wurde zum neuen Klanführer ernannt.,,
+48,Aufgrund der langen Inaktivität des bisherigen Klanführers wurde <FontGreen>[Param1]</> zum neuen Klanführer ernannt.,,
+49,<FontGreen>[Param2]</> hat von [Param1] eine Belohnung erhalten.,,
+50,<FontGreen>Alle Klanmitglieder</> haben von [Param1] eine Belohnung erhalten.,,
+51,"Insgesamt <FontGreen>[Param3] Mitglieder</>, inkl. [Param2], haben von [Param1] Belohnungen erhalten.",,
+52,Klangeschenk von <FontGreen>[Name]</> erhalten.,Briefkasten,
+53,Klanmitglied <FontGreen>[Name]</> dürstet nach Rache an: [Name2] vom Klan <FontRed>[GuildName]</>.,@20,@19
+54,Klanmitglied <FontGreen>[Name]</> dürstet nach Rache an: [Name] vom Klan <FontRed>[GuildName]</>.,@20,@20
+55,Klanmitglied <FontGreen>[Name]</> dürstet nach Rache an: <FontRed>[Name2]</>.,@20,@19
+56,Klanmitglied <FontGreen>[Name]</> dürstet nach Rache an: <FontRed>[Name]</>.,@20,@20
+57,Eine Allianz mit <FontBlue>[Param1]</> eingegangen.,,
+58,Deine Allianz mit <FontBlue>[Param1]</> wurde <FontRed>beendet</>.,,
+59,<FontBlue>[Name]</> wurde der Krieg <FontRed>erklärt</>.,,
+60,Kriegsende mit <FontBlue>[GuildName]</> <FontRed>abgelehnt</>.,,
+61,<FontBlue>[GuildName]</> hat ein Kriegsende <FontRed>abgelehnt</>.,,
+62,Kriegsende mit <FontBlue>[Name]</> <FontGreen>verhandelt</>.,,
+63,Kampf mit <FontBlue>[Name]</> <FontBlue>gewonnen</>.,,
+64,Kampf mit <FontBlue>[Name]</> <FontRed>verloren</>.,,
+65,<FontYellow>Klanlevel [Param1] erreicht.</>,,
+66,<FontYellow>Klan-Buff [Name] hat Lv. [param] erreicht.</>,,
+67,Fürst [Name] hat dies in <FontGreen>[ShopName]</> gekauft: <FontGreen>[Item]</>.,,
+68,<FontYellow>[Param1] erfolgreich erledigt.</>,Klanerfolg,
+69,"Klanführer ruft aus <FontGreen>[DungeonName]</>.
+Annehmen?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) wurde zurückgesetzt.</>,Klan-Dungeon,
+71,Gebot erhöhen für: <FontYellow>[Param1]!</>,Festenbelagerung,
+72,@71,Burgbelagerung,
+73,Gebot wurde erweitert für: <FontYellow>[Param1].</>,@71,
+74,@73,@72,
+75,"Offene Belagerung wurde geöffnet.
+<FontGreen>[FortressName]</> betreten?",@20,@20
+76,"Burgbelagerung wurde geöffnet.
+<FontGreen>[CastleName]</> betreten?",@20,@20
+77,<FontYellow>Klanführer hat das Eigentum an [Name] aufgegeben.</>,,
+78,Klanführer hat <FontBlue>[Name]</> als <FontYellow>[CastleType]</> gewählt.,,
+79,<FontYellow>Klanhalle hat Lv. [Level] erreicht.</>,,
+80,<FontYellow>Kristall der Eintracht in Klanhalle hat Lv. [param] erreicht.</>,,
+81,<FontGreen>[Name]</> hat eine Klanhallen-Quest für den Klan abgeschlossen.,,
+82,<FontGreen>[Name]</> hat ein <FontBlue>Festmahl</> in der Klanhalle vorbereitet.,@20,@20
+83,<FontYellow>[Value]Mystisches Relikt wurde ans Klanlager gesendet</>.,,
+84,[NAME] hat [COUNT]<FontGreen>[POTION_NAME]</> hergestellt.,,
+85,<FontYellow>Die Feuerstelle der Klanhalle brennt hell.</>,@20,@20
+86,<FontYellow>Die Feuerstelle der Klanhalle wird wärmer.</>,@20,@20
+87,<FontYellow>Die Feuerstelle ist erkaltet.</>,,
+88,Aus dem Klan <FontRed>geworfen</>.,,
+89,"Die Festenbelagerung hat begonnen!
+<FontGreen>[FortressName]</> betreten?",@20,@20
+90,"Die Burgbelagerung hat begonnen!
+<FontGreen>[CastleName]</> betreten?",@20,@20
+91,"Ort: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> möchte dich beschwören.
+Jetzt gehen? <FontRed>[Seconds]</> Sek.",@13,@17
+92,"Aktionen sind eingeschränkt, da du keiner Gruppe angehörst.
+Du wirst den Zeit-Rift in 15 Sekunden automatisch verlassen.",Verlassen,
+93,<FontYellow>Der Gegenstand für [EventName] ist abgelaufen</> und wurde aus dem Inventar entfernt.,,
+94,"Gruppe für <FontYellow>Offene Belagerung</> erstellt.
+Kämpfe <FontGreen>alleine</> oder in einer <FontGreen>Gruppe</> in der Offenen Belagerung.",,
+95,Einer Gruppe für <FontYellow>Offene Belagerung</> beigetreten.,,
+96,<FontGreen>[Name]</> ist der <FontYellow>Offenen Belagerung</> beigetreten.,,
+97,Gruppe für <FontYellow>Offene Belagerung</> aufgelöst.,,
+98,<FontYellow>Offene Belagerung</> verlassen.,,
+99,<FontGreen>[Name]</> hat die Gruppe für <FontYellow>Offene Belagerung</> verlassen.,,
+100,"<FontGreen>[Name]</> hat dich in eine Gruppe für Offene Belagerung eingeladen.
+Die Einladung in die Gruppe für <FontYellow>Offene Belagerung</> annehmen? <FontRed>[Seconds]</> Sek.",@13,@15
+101,"<FontYellow>Offene Belagerung</> - Suche erfolgreich.
+Beitritt zur Offenen Belagerung in <FontRed>[Seconds]</> Sek. Mach dich zum Kampf bereit.",,
+1000,Du wirst eingeloggt.,,

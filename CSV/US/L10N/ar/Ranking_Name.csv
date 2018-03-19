@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Combat Power,Combat Power Rank,Combat Power
+1,Level,Character Level Rank,Level
+2,P. Atk.,Max P. Atk. Rank,P. Atk.
+3,P. Def.,Max P. Def. Rank,P. Def.
+4,M. Atk.,Max M. Atk. Rank,M. Atk.
+5,M. Def.,Max M. Def. Rank,M. Def.
+6,HP,Max HP Rank,HP
+7,Runes,Rune Imprinting Success Count Rank,Count
+8,Elixir,Elixir Usage Rank,Number
+9,Monster Codex,Completed Monster Codex Rank,Completed
+10,Total Level,Server Character Level Total Rank,@1
+12,Honor Points,Total Honor Points Rank,Score
+13,Total Count,Total Arena Count Rank,@7
+14,Total Wins,Total Arena Win Count Rank,Wins
+15,Win Streak,Max Win Streak Rank,@7
+18,Weekly Contribution,Personal Weekly Clan Contribution Rank,Contribution Points
+19,Total Contribution,Personal Total Contribution Rank,@18
+20,Siege Contribution,Personal Total Siege Contribution Rank,Contribution
+21,Fortress Siege Contribution,Personal Total Fortress Siege Contribution Rank,@20
+22,Hero Achievements,Hero Achievement Points Rank,@12
+27,Check In,Total Days Checked In Rank,No. of Days
+28,Max Price Trade,Max Price Trade Rank,Trade Price
+29,Trade Count,Max Trade Count Rank,@7
+30,Enhancement Count,Max Enhance Count Rank,@7
+31,Enhanced Set,Max Enhanced Set Rank,Enhance Count
+32,Combining Count,Max Combining Count Rank,@7
+33,Upgrade Count,Max Upgrade Count Rank,@7
+34,Limit Break Count,Max Limit Break Count Rank,@7
+35,Tower of Insolence,Tower of Insolence Highest Floor Rank,Highest Floor
+48,Reputation,Reputation Rank,@12
+49,Combat Power,Combat Power Rank,@1001
+1000,Scrimmage Arena,Scrimmage Arena Rank,@12
+4000,Honorable Battlefield,Overall Honorable Battlefield Rank,@12
+4001,@4000,Honorable Battlefield (Bronze) Rank 3,@12
+4002,@4000,Honorable Battlefield (Bronze) Rank 2,@12
+4003,@4000,Honorable Battlefield (Bronze) Rank 1,@12
+4004,@4000,Honorable Battlefield (Silver) Rank 3,@12
+4005,@4000,Honorable Battlefield (Silver) Rank 2,@12
+4006,@4000,Honorable Battlefield (Silver) Rank 1,@12
+4007,@4000,Honorable Battlefield (Gold) Rank 3,@12
+4008,@4000,Honorable Battlefield (Gold) Rank 2,@12
+4009,@4000,Honorable Battlefield (Gold) Rank 1,@12
+4010,@4000,Honorable Battlefield (Platinum) Rank 3,@12
+4011,@4000,Honorable Battlefield (Platinum) Rank 2,@12
+4012,@4000,Honorable Battlefield (Platinum) Rank 1,@12
+4013,@4000,Honorable Battlefield (Diamond) Rank 3,@12
+4014,@4000,Honorable Battlefield (Diamond) Rank 2,@12
+4015,@4000,Honorable Battlefield (Diamond) Rank 1,@12
+4016,@4000,Honorable Battlefield (Master) Rank,@12
+4017,@4000,Honorable Battlefield (Grand Master) Rank,@12
+4018,@4000,Honorable Battlefield (Legend) Rank,@12

@@ -1,0 +1,6 @@
+Grade,Name,FirePlace,AgitCall,AgitOpen,AgitExpel,AgitBuy,AgitManager,AgitCrystal,AgitPotion,AgitQuestComplete,JoinRequestOptionChange,Advertisement,NoticeChange,IntroductionChange,JoinRequestAcceptance,MemberGradeChange,Expulsion,Invitation,UseAdditionalBuff,Impeachment,FortressWarRegistration,CastleWarRegistration,Grant,SkillUpgrade,Alliance,EnemyGuild,EmblemChange,CastleSiegeAlarm,GuildDungeonReset,GuildDungeonPromote,GuildCapeAdmin,IconPath,Achievement,MenuCustom,AllianceMercenary,StabEnrollable
+0,기사단원,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Icon_Guild_Membership_01,0,0,0,0
+1,기사단장,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Icon_Guild_Membership_02,0,0,0,0
+2,근위대장,1,1,1,1,0,0,0,0,0,1,1,1,1,1,0,0,1,1,0,0,0,0,1,0,1,0,1,0,0,0,Icon_Guild_Membership_03,0,0,0,0
+3,부군주,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,Icon_Guild_Membership_04,1,0,1,1
+4,군주,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,Icon_Guild_Membership_05,1,1,1,1

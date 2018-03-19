@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Small Feast,"A Small Feast cooked up by a Rookie Feast Keeper.
+Def. and M. Def. +500"
+2,Medium Feast,"A Medium Feast cooked up by a Rookie Feast Keeper.
+HP/MP +1000"
+3,Large Feast,"A Large Feast cooked up by a Rookie Feast Keeper.
+Atk. and M. Atk. +500"
+4,Fancy Small Feast,"A Small Feast cooked up by a Veteran Feast Keeper.
+Def. and M. Def. +1200"
+5,Fancy Medium Feast,"A Medium Feast cooked up by a Veteran Feast Keeper.
+HP/MP +2000"
+6,Fancy Large Feast,"A Large Feast cooked up by a Veteran Feast Keeper.
+Atk. and M. Atk. +1200"
+7,Luxurious Small Feast,"A Small Feast cooked up by a Reputable Feast Keeper.
+Def. and M. Def. +2000, Crit. Rate +500"
+8,Luxurious Medium Feast,"A Medium Feast cooked up by a Reputable Feast Keeper.
+HP/MP +3000, Crit. Rate +500"
+9,Luxurious Large Feast,"A Large Feast cooked up by a Reputable Feast Keeper.
+Atk. and M. Atk. +2000, Crit. Rate +500"

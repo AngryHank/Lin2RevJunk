@@ -1,0 +1,185 @@
+ID,SkillName,SkillDesc
+1,Ziel identifiziert,"Wählt unter den Spielern in der Nähe ein <YellowBold>Ziel</>
+aus. Da dies eine sehr schnelle Fertigkeit ist,
+können Ziele in Reichweite ihr nicht
+ausweichen.
+
+Das Ziel wird <YellowBold>betäubt</> und kann sich nicht
+länger bewegen."
+2,Axtwurf,"Wirft eine Axt auf ein Ziel und fügt <YellowBold>Festschaden</>
+zu. <YellowBold>Der zugefügte Schaden wird auf alle
+Ziele verteilt,</> die von der Axt getroffen
+wurden. Von der Axt getroffene Ziele werden
+von <YellowBold>Glut</> betroffen.
+
+<YellowBold>Glut</> wird nach einer gewissen Zeit explodieren
+und die betroffenen Ziele <YellowBold>Niederschlagen</>.
+<YellowBold>Flammen</> werden unter den Zielen entstehen
+und zusätzlichen Schaden zufügen."
+3,Bruch,"Fügt allen Zielen innerhalb der <YellowBold>vorderen Reichweite</>
+Schaden zu."
+4,Wahnsinnige Klinge,"Fügt allen vorderen Zielen fächerförmigen
+Schaden zu. Angegriffene Ziele werden
+von <YellowBold>Zündeln</> betroffen.
+
+Von <YellowBold>Zündeln</> betroffene Ziele erleiden
+<YellowBold>zusätzlichen Schaden pro 1 Stapelung von
+Zündeln</> wenn <RedBold>Paagrios Glut</> <YellowBold>explodiert</>.
+Zündeln ist bis zu 5 Mal stapelbar."
+5,Niedergang,"<RedBold>Ramog</> bewegt sich ins Zentrum und verteilt
+Flächenschaden in einem <YellowBold>Umkreis von 270 Grad</>.
+Bei Benutzung wird diese Fähigkeit <YellowBold>4 Mal in
+Folge</> aktiviert. Bei jeder Aktivierung
+ändert sich die Richtung. Durch
+Niedergang verletzte Ziele werden von <YellowBold>Zündeln</> betroffen.
+
+<YellowBold>Entzündete</> Ziele erleiden <YellowBold>zusätzlichen
+Schaden pro 1 Stapelung von Zündeln,</> wenn
+<RedBold>Paagrios Glut</> <YellowBold>explodiert</>.
+Zündeln ist bis zu 5 Mal stapelbar."
+6,Explosion vorbereiten,"<RedBold>Ramog</> bewegt sich ins Zentrum
+und beschwört <RedBold>Paagrios Glut</>.
+
+Die beschworene <RedBold>Paagrios Glut</> bewegt sich
+auf <RedBold>Ramog</> zu und verursacht eine gewaltige
+Explosion, wenn sie mit <RedBold>Ramog</> in Kontakt
+kommt, was alles und jedem auf dem
+Bildschirm Schaden zufügt.
+
+Von <YellowBold>Zündeln</> betroffene Ziele <YellowBold>erleiden
+Schaden im Verhältnis zu ihrer individuellen
+Stapelung von Zündeln</>."
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Wirft eine Axt auf ein Ziel und fügt <YellowBold>Festschaden</> zu.
+<YellowBold>Der zugefügte Schaden wird auf alle Ziele verteilt,</>
+die von der Axt getroffen wurden.
+Von der Axt getroffene Ziele werden von <YellowBold>Glut</> betroffen.
+
+<YellowBold>Glut</> wird nach einer gewissen Zeit explodieren
+und die betroffenen Ziele <YellowBold>Niederschlagen</>.
+<YellowBold>Flammen</> werden unter den Zielen entstehen
+und zusätzlichen Schaden zufügen.
+
+<YellowBold>- Es besteht eine kleine Chance,</>
+dass er seine Axt <YellowBold>2 Mal in Folge</> werfen wird."
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> bewegt sich ins Zentrum
+und verteilt Flächenschaden in einem <YellowBold>Umkreis von 270 Grad</>.
+Bei Benutzung wird diese Fähigkeit <YellowBold>4 Mal in Folge</> aktiviert.
+Bei jeder Aktivierung ändert sich die Richtung.
+Durch Niedergang verletzte Ziele werden von <YellowBold>Zündeln</> betroffen.
+
+<YellowBold>Entzündete</> Ziele
+erleiden <YellowBold>zusätzlichen Schaden pro 1 Stapelung von Zündeln</>,
+wenn <RedBold>Paagrios Glut</> <YellowBold>explodiert</>.
+Zündeln ist bis zu 5 Mal stapelbar.
+
+<YellowBold>- In Abhängigkeit von Ramogs Gesundheit</>
+<YellowBold>erfolgen seine Angriffe in einer größeren Vielzahl von Winkeln.</>"
+18,@6,"<RedBold>Ramog</> bewegt sich ins Zentrum
+und beschwört <RedBold>Paagrios Glut</>.
+
+Die beschworene <RedBold>Paagrios Glut</> bewegt sich auf <RedBold>Ramog</> zu und verursacht
+eine gewaltige Explosion, wenn sie mit <RedBold>Ramog</> in Kontakt kommt,
+was dem gesamten Bildschirm vernichtenden Schaden zufügt.
+
+Von <YellowBold>Zündeln</> betroffene Ziele
+<YellowBold>erleiden außerdem Schaden im Verhältnis zu ihrer individuellen Stapelung von Zündeln</>.
+
+<YellowBold>- 2 Paagrios Glut werden beschworen.</>"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Stichwunde,"Zerfetzt das Fleisch des Gegners mit einem
+Schwert und <YellowBold>schwächt seine VER</>.
+Bis zu 3 Mal stapelbar."
+26,Blutexplosion,"<YellowBold> Beschwört Blutgerinnsel </> aus dem Blut, das
+aus der <YellowBold>Durchbohrte Wunde</> des Gegners
+fließt. Die beschworenen <RedBold>Blutgerinnsel</>
+visieren Gegner in der Nähe an und lösen
+<YellowBold>Selbstzerstörung</> aus."
+27,Blutarmut,"In längeren Kämpfen werden Vampire, die im
+Kampf Blutmagie einsetzen, <YellowBold>verwundbar</> und
+erleiden <YellowBold>zusätzlichen Schaden</>."
+28,Starker LP-Entzug,"<YellowBold>Blutarmut</> ermöglicht die <YellowBold>starke Blutentnahme</>
+von nahen Gegnern. Die einzige
+Möglichkeit, dem zu entgehen, ist das
+Auftragen von <YellowBold>Vampirblut</>, um die
+<YellowBold>Blutmagie zu täuschen.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Zerfetzt das Fleisch des Gegners mit einem Schwert und <YellowBold>schwächt seine Verteidigung</>.
+
+<YellowBold>- Kann jetzt bis zu 5 Mal gestapelt werden.</>"
+34,@26,"Entzieht der <YellowBold>Durchbohrte Wunde</> eines Gegners Blut, um <YellowBold>Blutgerinnsel zu beschwören</>.
+Das beschworene <RedBold>Blutgerinnsel</> spürt Gegner in der Nähe auf und löst <YellowBold>Selbstzerstörung</> aus.
+
+<YellowBold>- Zerstört sich selbst und lässt Schwelendes Blut entstehen.</>
+<YellowBold>- Kontakt mit Schwelendem Blut verursacht Schaden.</>"
+35,@27,@27
+36,@28,@28
+37,Bluthölle,"Wenn <YellowBold>die LP 50 % erreichen</>, wird Leonard verzweifelt.
+In diesem Zustand wird er <YellowBold>viele Blutgerinsel beschwören</> und einen Kamikaze-Angriff unternehmen."
+38,@25,"Zerfetzt das Fleisch des Gegners mit einem Schwert und <YellowBold>schwächt seine Verteidigung</>.
+
+<YellowBold>- Kann bis zu 5 Mal gestapelt werden.</>"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirisieren,"Setzt Blutmagie ein, um den Gegner in einen
+Vampir zu verwandeln. Das Ziel verwandelt
+sich in <YellowBold>3 Abschnitten</> und <YellowBold>erhöht ANG</> mit
+jedem Abschnitt, während sich <YellowBold>VER verringert</>."
+44,Vampirische Veränderung,"Wird das Ziel <YellowBold>3 Mal</> <YellowBold>Vampirisieren</>
+ausgesetzt, wird es vorübergehend zu einem
+Vampir und <YellowBold>greift Teammitglieder an</>."
+45,Blutaufladung,"In längeren Kämpfen müssen Vampire, die
+Blut für ihre Magie benötigen,<YellowBold>als
+Fledermaus
+fliehen</>, um Blut aufzuladen. <RedBold>Fledermäuse</>
+werden sich zu den Leichen von Soldaten der
+<BlueBold>Giran-Vorausabteilung</> bewegen und
+<YellowBold>3 Mal Lebens-Entzug</> einsetzen."
+46,Blutwut,"<RedBold>Fledermäuse</> bringen das gewonnene Blut zu
+Trisha. <RedBold>Trisha</> <YellowBold>erhält Gesundheit</> in
+Abhängigkeit von der Anzahl der
+erfolgreichen Fledermäuse und gewinnt
+<YellowBold>vorübergehende Stärke</> hinzu."
+47,Zakens Ankunft,"<YellowBold>Nach 5 Minuten des Kampfes</> ist die
+Beschwörungsmagie vollständig und <YellowBold>Zaken
+erscheint</>. Zaken wird <YellowBold>alle Abenteurer
+vernichten</>, die Trisha bedrohen."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"Wird das Ziel <YellowBold>3 Mal</> Wird das Ziel <YellowBold>3 Mal</> <YellowBold>Vampirisieren</>
+ausgesetzt, wird es vorübergehend zu einem
+Vampir und
+<YellowBold>greift Teammitglieder an</>."
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Blutschwall,"Trisha, mit dem Rücken zur Wand,
+ruft eine gigantische <YellowBold>Blutwelle</> herbei."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

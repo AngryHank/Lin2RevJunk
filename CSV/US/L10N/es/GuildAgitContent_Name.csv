@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,Cristal de unidad,Nivel: [CrystalLevel],"Un cristal místico que otorga
+un potenciador a todos los miembros del clan."
+2,Protector de misiones,Misiones en curso:  [ProgressQuestCount]. Misiones completadas: [CompleteQuestCount].,"¡Desde misiones fáciles a casi imposibles!
+Yo soy el Protector, y estoy aquí para ayudar."
+3,Protector de festines,Festín pequeño: [SmallDinnerActivity]. Festín normal: [MiddleDinnerActivity]. Festín grande: [BigDinnerActivity].,"¡Cuantos más, mejor!
+Felicita al chef."
+4,Protector de reliquias,Reliquias en valoración: [ProgressArtifactCount] / Completadas: [CompleteArtifactCount],"Déjame evaluar tus reliquias.
+Te diré cuál es su verdadero valor."
+5,Protector de pociones,Pociones personales confeccionables: [PotionAvaliableCount],"Puedes crear pociones que se pueden usar
+cuando desees."
+6,Chimenea,Madera: [WoodCount] / Estado de la chimenea: [FirePlaceActivity],"Enciende la hoguera en la chimenea y
+todo el que se encuentre en la sala del clan ganará experiencia."
+7,Cazar hadas,Actualización próxima.,"¡Las traviesas hadas están poniendo todo patas arriba!
+Cázalas para obtener una recompensa."

@@ -1,0 +1,101 @@
+Id,ContentsDesc,Name
+1,Améliorez l'efficacité de votre équipement de différentes façons.,Forge
+2,Imprégnez votre arme du pouvoir d'autres âmes pour effectuer des attaques puissantes.,Trait d'âme
+3,,Donjon
+4,"Dans ces donjons, vous trouverez des récompenses et boss différents chaque jour de la semaine.",Donjon quotidien
+5,"Plus vous explorez Aden, plus les récompenses augmentent.",Succès
+6,,Ami
+8,Obtenez un équipement de qualité A ou supérieure chaque jour.,Boîte d'équipement de haute qualité
+10,Mettez votre puissance à l'épreuve face à différents aventuriers d'Aden.,Arène
+11,,Classement
+12,Fusionnez deux équipements pour acquérir un équipement de meilleure qualité.,Fusionner
+13,Améliorez l'efficacité de votre équipement à l'aide de Parchemins de perfectionnement.,Perfectionner
+14,,Clan
+15,Parcourez une tour infinie pour tester vos limites.,Tour de l'insolence
+16,Imprégnez des runes pour perfectionner vos capacités de façon permanente.,Marquage de rune
+17,Augmentez la qualité de l'équipement tout en préservant son apparence et ses stats extra.,Améliorer
+18,,Activités quot.
+19,,Quêtes quotidiennes
+20,,Quêtes hebdo.
+21,Sertissez une gemme d'âme et obtenez une capacité spéciale.,Cristal d'âme
+22,"Relevez le défi d'un donjon extrêmement dangereux, mais tout aussi enrichissant.",Donjon élite
+23,,Ruines elfiques 1
+24,Récupérez des cœurs de monstre pour obtenir différentes récompenses.,Codex monstres
+25,"Les compétences sont difficiles à obtenir, mais elles sont parfois très puissantes.",Compétence rare
+27,,Comptoir échan.
+28,Buvez des élixirs pour perfectionner vos capacités de façon permanente.,Élixir
+29,"Ici, vous pouvez extraire des herbes servant à préparer des élixirs.",Donjon d'extraction
+30,Trouvez automatiquement des ennemis à affronter autour de vous.,Combat auto
+40,Ceci est un titre.,Titre
+101,,Donjon quotidien (normal)
+102,,Ruines elfiques 2
+103,,Transfert de classe
+104,,Donjon quotidien (difficile)
+105,,Nid de fourmis 1
+106,,Nid de fourmis 2
+107,,Donjon quotidien (extrême)
+108,,Tour de Cruma 2
+109,,Tour de Cruma 3
+110,,Tour d'ivoire 1
+111,,Tour d'ivoire 2
+112,Tuez des hordes de monstres et récupérez quantité d'EXP.,Épreuves d'expérience
+113,Tuez le dragon qui protège son or et récupérez quantité d'Adena.,Donjon Adena
+114,Défendez le temple contre les forces maléfiques et recevez de l'équipement.,Gardien du temple
+115,,Cercle d'invocation
+116,,Donjon de clan de Varkaron
+117,,Donjon de clan de la reine fourmi
+118,,Siège de forteresse
+119,,Siège de château
+120,Augmentez le niveau de vos compétences pour améliorer leurs effets.,Développer une compétence
+121,Détruisez le portail interdimensionnel défendu par les monstres.,Donjon de Pierre de raffinement
+122,,Inventaire
+123,,Cœur de Cruma
+126,,Salle du clan
+127,,Tour d'ivoire 3
+129,,Monture
+130,,Champ de bataille des braves
+131,,Champ de bataille antique
+132,,Canopée de la Forêt des secrets
+133,,Laboratoire de la Tour d'ivoire
+134,,Sous-bois de la Forêt des secrets
+135,,Site du massacre de la Forêt des secrets
+137,,Cape
+138,,Siège ouvert
+10000,Vous ne pouvez pas utiliser cette fonctionnalité.,Personnage
+10003,@10000,Classe
+10006,@10000,Atelier
+10007,@10000,Quête
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Événement
+10013,@10000,Récomp. halte
+10014,@10000,Récomp. connexion
+10015,@10000,Festival du Siège de château
+10016,@10000,Événement Web
+10017,@10000,Magasin général
+10018,@10000,Magasin de diamant
+10019,@10000,Collection
+10021,@10000,Champ de bat.
+10022,@10000,@14
+10023,@10000,Donjon de clan
+10029,@10000,Vendre l'objet
+10030,@10000,Utiliser l'objet
+10031,@10000,Déplacer l'objet
+10032,@10000,"Parchemin
+oublié"
+10034,@10000,Développer l'équipement de monture
+10035,@10000,Invo. Monture
+10036,@10000,Développer monture
+10037,@10000,Détails des stats extra
+10038,@10000,Forum de la communauté
+10039,@10000,Perfectionner monture
+20001,,Autel de la folie
+20002,,Boudoir de la comtesse du sang
+401,@10000,Maîtrise
+10040,@10000,Compte des stats extra
+301,,@122
+303,,@122
+30000,,Parchemin de quête
+30102,Utiliser pour invoquer des monstres depuis le territoire sélectionné et obtenir leurs cœurs.,Territoire de Gludio - Pierre d'invocation de monstre
+30103,Utiliser pour invoquer des monstres depuis le territoire sélectionné et obtenir leurs cœurs.,Territoire de Dion - Pierre d'invocation de monstre
+30104,Utiliser pour invoquer des monstres depuis le territoire sélectionné et obtenir leurs cœurs.,Territoire de Giran - Pierre d'invocation de monstre

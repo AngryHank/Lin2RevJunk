@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Carica,"Caricate, tutti quanti!",Caricate!,Alla carica!,Carichiamo!
+2,Vittoria,Io conosco solo la vittoria!,Per la vittoria!,Io conosco solo la vittoria!,Per la vittoria!
+3,Saluta,Come va?,Ciao.,Piacere di conoscerti!,Ehilà!
+4,Risata,Ahahahah!,Ohohoh!,Ahahahahaha!,Wahahaha!!!
+5,Tristezza,*Sob*...,*Tira su col naso*!,*Tira su col naso*...,Bwaaaah!
+6,Dai un cinque,Dammi un cinque!,Dammi un cinque!,Dammi un cinque!,Dammi un cinque!
+7,Batti le mani,Fantastico!,Incredibile!,Incredibile.,Wow! Grandioso!
+8,Turbato,Non riesco a crederci...,Com’è possibile...?,Cosa diavolo...,"Oh, mio dio..."
+9,Rabbia,Mi sto arrabbiando!,Umpf!,Uaaaaaah!,Urrrrgh! Mi sto arrabbiando!
+1001,Evoca il male,,,,
+1002,Vai al villaggio,,,,
+10001,Vittoria Umano Arena,,,,
+10002,Sconfitta Umano Arena,,,,
+10003,Vittoria Elfo Arena,,,,
+10004,Sconfitta Elfo Arena,,,,
+10005,Vittoria Elfo Oscuro Arena,,,,
+10006,Sconfitta Elfo Oscuro Arena,,,,
+10007,Vittoria Nano Arena,,,,
+10008,Sconfitta Nano Arena,,,,
+100001,Tocco d’Azione #1,,,,
+100002,Tocco d’Azione #2,,,,
+100003,Tocco d’Azione #3,,,,
+100004,Tocco d’Azione #4,,,,

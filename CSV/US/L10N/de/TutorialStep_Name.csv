@@ -1,0 +1,577 @@
+Id,NpcName,DialogMessage
+1001,,
+1002,,
+2001,,
+2002,,
+3001,,
+3002,Hafenmeisterin Psyche,"Willkommen. Seid Ihr das erste Mal auf der Sprechenden Insel? Wenn Ihr hier drückt, werden Quests automatisiert."
+4001,,
+4002,Söldnerhauptmann Douglas,Die automatisierte Quest stoppt bei Abschluss. Tippen startet die nächste Quest.
+6001,@4002,Okay. Ihr habt Talent. Versuchen wir es mit noch einer Quest.
+11001,Wachhauptmann Harold,Ihr findet alle Eure Gegenstände in Eurem Inventar.
+11002,,
+11003,@11001,Mit Auto-Ausrüsten könnt Ihr schnell und einfach die beste Ausrüstung anlegen.
+11004,,
+11005,@11001,"Es ist eine nützliche Funktion für neue Abenteurer wie Euch, also vergesst sie nicht."
+11006,,
+12001,Feldheim,<YellowBold>Seelenschüsse</> ermöglichen stärkere Angriffe.
+12002,@12001,Ihr solltet Seelenschüsse zunächst automatisch einsetzen!
+12003,@12001,"Seelenschüsse werden nur dann verwendet, <YellowBold>wenn Ihr angreift</>."
+12004,@12001,Zu allen anderen Zeiten werden sie nicht angerührt.
+12005,@12001,Ihr möchtet sie nicht automatisch benutzen? Dann tippt einfach nochmal.
+12006,@12001,"<YellowBold>Seelenschüsse erhaltet Ihr im Laden</>, also legt Euch einen Vorrat zu!"
+12007,,
+13001,Niah,Sehen wir uns nun die Tagesdungeons an.
+13002,@13001,Den Zugang findet Ihr im Dungeons-Menü.
+13003,@13001,Tippt dies an.
+13004,@13001,Seht Ihr all die Dungeons?
+13005,@13001,"Wenn Ihr weiter übt, werdet Ihr sie Euch bald vornehmen können!"
+13006,@13001,Sehen wir uns jetzt erst mal den Tagesdungeon an.
+13007,@13001,In <YellowBold>Tagesdungeons</> <YellowBold>erscheinen jeden Tag andere Monster</>.
+13008,@13001,"Besiegt sie, um <YellowBold>besondere Belohnungen</> zu erhalten!"
+13009,@13001,"Stärkere Monster geben Euch bessere Belohnungen, also arbeitet daran, selbst auch stärker zu werden."
+13010,@13001,"Los, geht mal rein!"
+13011,,
+13012,,
+13013,,
+13014,@13001,"Ihr könnt Auto-Kampf nutzen, wenn Ihr Hilfe braucht."
+13015,,
+13016,,
+13017,,
+13018,@13001,Wow! Da habt Ihr aber ein wirklich starkes Monster erledigt!
+13019,,
+13020,@13001,"Ihr habt nur ein paar Zutritte am Tag, aber macht Euch keine Sorgen! Die Zutritte werden <YellowBold>täglich zurückgesetzt</>."
+13021,,
+13022,,
+13023,@13001,"<YellowBold>Es zählt nicht als Zutritt</>, wenn Ihr es nicht schafft, also traut Euch ruhig!"
+13024,@13001,Ihr habt Euch richtig bemüht. Nächstes Mal klappt es!
+13025,,
+14001,Archon Daniel,"Zeit, einen Blick auf Eure Erfolge zu werfen und Eure Belohnungen einzufordern."
+14002,@14001,Zuerst wählt Ihr die Herausforderungen.
+14003,@14001,Dann geht Ihr zu den Erfolgen.
+14004,@14001,Lasst Eure <YellowBold>Erfolge</> anerkennen und erhaltet <YellowBold>Belohnungen</> dafür.
+14005,@14001,"Wie es aussieht, habt Ihr hart gearbeitet. Ihr habt schon einige <YellowBold>Erfolge</> abgeschlossen."
+14006,@14001,"Los, holt Euch die Belohnung."
+14007,,
+14008,@14001,Gut gemacht. Ihr werdet <YellowBold>Titel und Fähigkeiten</> für Eure verdienstvollen Taten erhalten.
+14009,@14001,"Schaut also öfter mal rein, um auf dem Laufenden zu bleiben."
+14010,@14001,Arbeitet hart und Ihr werdet schnell für Eure Bemühungen belohnt werden.
+14011,@14001,"Je höher Euer Erfolgslevel ist, desto stärker werden Eure Fähigkeiten - und Ihr bekommt Vorratsgegenstände als tägliche Belohnung."
+14012,@14001,"Achtet darauf, dass es <YellowBold>verschiedene Arten von Erfolgen</> gibt und vernachlässigt keine davon."
+14013,,
+15001,Händlerin Anais,Im Laden gibt es jede Menge hilfreiche Dinge.
+15002,@15001,@13003
+15003,@15001,"Zum Beispiel das hier. Merkt Euch, wie es aussieht - Ihr werdet es später gut gebrauchen können!"
+15004,@15001,Worauf wartet Ihr noch? Macht es auf!
+15005,,
+15006,@15001,Wow! Das ist ein tolles Ausrüstungsteil!
+15007,@15001,"Wisst Ihr schon, wie Ihr Ausrüstung stärker machen könnt? Indem Ihr ihr <YellowBold>Level erhöht</>!"
+15008,@15001,"Ihr erhaltet <YellowBold>täglich eine kostenlose Hochstufige Ausrüstungskiste</>, vergesst also nicht, vorbeizukommen!"
+15009,,
+16001,"Ferron, der Schmied","Wenn Ihr Ausrüstung im <YellowBold>Level erhöhen</> wollt, seid Ihr bei mir richtig. Ich bin der beste Schmied auf der Sprechenden Insel!"
+16002,@16001,"Hier, nehmt diese Ausrüstung. Sie sollte sich als nützlich erweisen."
+16003,@16001,"Sehen wir uns die Ausrüstung an, die Ihr erhalten habt."
+16004,@16001,"Ihr findet sie im Reiter ""Rüstung""."
+16005,@16001,"Wählt dort die Ausrüstung aus, die ich Euch gegeben habe."
+16006,@16001,Ihr könnt das Level von Ausrüstungsteilen in der Schmiede erhöhen. Folgt mir.
+16007,@16001,"Es gibt in der Schmiede <YellowBold>verschiedene Methoden, Eure Ausrüstung stärker zu machen</>."
+16008,@16001,"Wählt ""Levelaufstieg""."
+16009,@16001,"Beim <YellowBold>Levelaufstieg</> wird andere Ausrüstung als Material genutzt, um die Ausrüstung, die Ihr hauptsächlich benutzt, zu <YellowBold>verbessern</>."
+16010,@16001,"Also, es wird eine kleine Gebühr für diese Dienstleistung fällig ... Wenn ich das kostenlos täte, hätte ich kein Dach mehr über dem Kopf, hehe!"
+16011,@16001,Nehmt das hier als Material. Ein kleines Geschenk von mir.
+16012,@16001,Also los! Dieses Mal kann ich das kostenlos für Euch machen. Das bleibt aber unser Geheimnis!
+16013,@16001,Die Materialien werden während des Vorgangs verbraucht.
+16014,,
+16015,@16001,"Und fertig! Sehen wir mal. Hey, das war ein voller Erfolg!"
+16016,@16001,"Los, rüstet sie aus, jetzt wo sie ein höheres Level hat!"
+16017,@16001,Einfach Auto-Ausrüsten antippen!
+16018,,
+16019,@16001,"Eure Ausrüstung im Level aufsteigen zu lassen, <YellowBold> verbessert Eure Kampffähigkeiten</>. Wenn Ihr auf zu starke Gegner trefft, versucht es mit einem Levelaufstieg Eurer Ausrüstung."
+16020,,
+17001,Blut-Ranger-Hptm. Austin,Nun gut! Kommen wir jetzt zum Levelaufstieg Eurer Fertigkeiten.
+17002,@17001,"Bevor wir anfangen, müssen wir wissen, welche Fertigkeiten Ihr einsetzt."
+17003,@17001,Sehen wir uns Eure Fertigkeiten einmal an.
+17004,@17001,Hier könnt Ihr Eure <YellowBold>Fertigkeitslevel</> erhöhen und <YellowBold>die Schaltflächen der Fertigkeiten verschieben</>.
+17005,@17001,"Um Eure Fertigkeiten im Level aufsteigen zu lassen, braucht Ihr Fertigkeitspunkte."
+17006,@17001,"Ihr erhaltet FP, indem Ihr Euer Level erhöht und regelmäßig spielt."
+17007,@17001,Okay. Lasst uns <YellowBold>das Level Eurer Fertigkeiten erhöhen</>.
+17008,@17001,Hmm. Diese Fertigkeit nehmen wir.
+17009,@17001,"Seht Ihr die Schaltfläche ""Levelaufstieg""? Sieht verlockend aus, nicht?"
+17010,@17001,"Ihr könnt <YellowBold>FP</> einsetzen, um <YellowBold>Fertigkeitslevel zu erhöhen</>."
+17011,@17001,"Das würde Euch normalerweise einige Adena kosten ... Aber dieses Mal komme ich Euch entgegen, da Ihr in letzter Zeit so hilfreich gewesen seid."
+17012,@17001,Oh! Noch eine Sache!
+17013,@17001,Seht Ihr die passiven Fertigkeiten hier?
+17014,@17001,<YellowBold>Passive Fertigkeiten</> könnt Ihr ebenso im Level aufsteigen lassen. Probieren wir es aus.
+17015,@17001,Wählt zuerst eine Fertigkeit aus.
+17016,@17001,"Dann könnt Ihr FP und Adena ausgeben, um das Level zu erhöhen."
+17017,@17001,"Effekte <YellowBold>passiver Fertigkeiten</> werden automatisch aktiviert, deswegen kann man sie leicht übersehen. Ihr dürft sie jedoch nicht vergessen, wenn Ihr stärker werden wollt."
+17018,,
+18001,Russel,"Die Arena ist der beste Ort, um Eure Fertigkeiten zu testen."
+18002,@18001,Ihr findet sie auf dem Schlachtfeld!
+18003,@18001,Seht Ihr den Arena-Eingang? Macht Euch bereit!
+18004,@18001,"Ihr könnt in <YellowBold>""1 gegen 1""-Duellen</> gegen andere Abenteurer kämpfen. Eine tolle Möglichkeit, Eure Fertigkeiten zu zeigen!"
+18005,@18001,"Wählt einen der 4 Gegner auf der Liste und besiegt ihn! Ihr könnt weiterkommen, indem Ihr stärkere Gegner bekämpft und besiegt!"
+18006,@18001,"Basierend auf Eurem wöchentlichen Rang erhaltet Ihr <YellowBold>wöchentliche Belohnungen</>. Arbeitet hart, um immer auf den vorderen Plätzen zu landen!"
+18007,@18001,"Vergesst nicht, das Duelle und Ehre Hand in Hand gehen!"
+18008,@18001,Sowohl Gewinner als auch Verlierer erhalten Ehre.
+18009,@18001,"Sammle Ehre an, um einen höheren Rang zu erreichen und <YellowBold>Werte-Belohnungen</> zu erhalten!"
+18010,@18001,Hmm ... im Moment verfügt Ihr über keine nennenswerte Ehre ...
+18011,@18001,Aber das lässt sich leicht ändern!
+18012,@18001,Mit genügend Einsatz werdet Ihr mehr Ehre verdienen und bessere Belohnungen erhalten!
+18013,@18001,Und? Fühlt Ihr Euch motiviert?
+18014,@18001,Seid nicht so zurückhaltend - auf ins Duell!
+18015,@18001,"Wählt ""Start"". Man weiß nie, welchen Gegner man bekommt, aber ich bin sicher, Ihr werdet ihn zu Brei schlagen!"
+18016,,
+18017,,
+18018,@18001,"Ich wusste, Ihr würdet gewinnen! Glückwunsch!"
+18019,,
+18020,,
+18021,,
+18022,@18001,"Autsch ... Das war knapp! Na ja, es gibt immer einen nächsten Versuch!"
+18023,,
+19001,Akademieprofessor Eugene,"Erlaubt mir, Euch eine weitere Möglichkeit, Eure Ausrüstung zu verbessern, zu zeigen."
+19002,@19001,"Das Kombinieren ist eine ziemlich einfache, aber wirkungsvolle Methode."
+19003,@19001,"Ihr braucht die Schmiede, um Ausrüstung zu kombinieren."
+19004,@19001,Hier könnt Ihr Ausrüstung kombinieren.
+19005,@19001,"Wenn Ihr zwei Lv. 30-Ausrüstungsteile gleicher Stufe und gleichen Typs kombiniert, erhaltet Ihr ein Ausrüstungsteil mit einer oder mehreren Stufen besser als das verwendete Material."
+19006,@19001,Ausrüstung unterteilt sich in Zielausrüstung und Materialausrüstung.
+19007,@19001,Hier könnt Ihr Euch die Details der Zielausrüstung ansehen.
+19008,@19001,Lasst uns keine Zeit verschwenden - kombinieren wir. Verwendet dies als Kombinationsmaterial.
+19009,,
+19010,@19001,Tippt dies an.
+19011,@19001,Nehmt das hier und verwendet es als Materialausrüstung.
+19012,,
+19013,@19001,Wählt diese Materialausrüstung.
+19014,@19001,"Ist das Material bereit, kann das Kombinieren losgehen."
+19015,@19001,Wir haben keine Zeit. Beeilt Euch.
+19016,,
+19017,@19001,Erfolg! Anscheinend sind die Vorbereitungen abgeschlossen.
+19018,@19001,"Vergesst nicht, Eure Ausrüstung anzulegen! Das Kombinieren erzeugt <YellowBold>den gleichen Typ wie die Materialausrüstung</>. Nun denn, viel Glück!"
+19019,,
+20001,Blut-Ranger-Lt. Arthur,Wollt Ihr etwas über Klans erfahren? Tippt das Hauptmenü an.
+20002,@20001,"Tippt hier auf ""Klan""."
+20003,@20001,"Es wäre gut für Euch, Euch einem Klan anzuschließen, der zu Euch passt."
+20004,@20001,"Wie Ihr sehen werdet, hat eine Mitgliedschaft viele Vorteile."
+20005,@20001,"Huch! Da schlage ich Euch vor, einem Klan beizutreten, ohne überhaupt zu erklären, was Klans sind!"
+20006,@20001,Das Wichtigste der Klans sind die <YellowBold>Burgbelagerung</> und die <YellowBold>Festenbelagerung</>. Ihr könnt gegen andere Klans um verschiedene Burgen und Festen kämpfen.
+20007,@20001,"Und natürlich können Klans nicht bestehen, wenn sie nicht über ausreichend Macht verfügen."
+20008,@20001,Alle Bürger Adens können während des <YellowBold>Burgbelagerungfests</> <YellowBold>auf den Gewinner einer Burgbelagerung wetten und Preise gewinnen</>.
+20009,@20001,"Und das ist noch nicht alles! Wenn Ihr in einem Klan seid, könnt Ihr Vorteile erlangen, und zwar durch <YellowBold>Buffs, den Klanladen, Klan-Quests und Belohnungen</>."
+20010,@20001,"Sehen wir uns an, <YellowBold>wie man einem Klan beitritt</>."
+20011,@20001,So könnt Ihr einem Klan beitreten.
+20012,@20001,"Jeder kann sich einen Klanführer aussuchen, an den er glaubt und mit dem zusammen er es an die Spitze schaffen will!"
+20013,@20001,"Wenn Euch einer dieser Klanführer anspricht, tippt auf <YellowBold>Bewerben</>!"
+20014,@20001,"Ich bin gespannt, welchen Klan Ihr Euch aussucht!"
+20015,@20001,"Oder vielleicht versucht Ihr es auf eigene Faust und werdet selbst Führer eines neuen, mächtigen Klans!"
+20016,,
+21001,Theodore,Habt Ihr schon vom <YellowBold>Turm der Anmaßung</> gehört? Jeder Abenteurer in Aden sollte ihn zumindest ein Mal betreten haben.
+21002,@21001,Na gut. Sehen wir uns den Turm der Anmaßung jetzt einmal an.
+21003,@21001,Ihr könnt den Turm der Anmaßung über das Dungeons-Menü betreten.
+21004,@21001,Tippt dies an.
+21005,@21001,Seht Ihr diesen unendlich hohen Turm? Das ist der Turm der Anmaßung.
+21006,,
+21007,@21001,<YellowBold>Der Turm der Anmaßung</> wurde vom Kaiser Baium von Elmoreden in Missachtung der Götter gebaut.
+21008,@21001,"Damals hieß er Turm der Ewigkeit, doch die Göttin Einhasad, rasend vor Wut, füllte ihn mit Monstern."
+21009,@21001,"Je höher Ihr den Turm hinaufsteigt, desto stärker werden die Monster, die Euch begegnen, und desto bessere Schätze werdet Ihr finden."
+21010,@21001,Neugierig? Im Moment solltet Ihr zumindest die erste Etage schaffen können.
+21011,,
+21012,,
+21013,,
+21014,@21001,Gar nicht mal so übel.
+21015,,
+21016,@21001,Mit <YellowBold>Auto-Erledigen</> erhaltet Ihr für jede bereits erledigte Etage einmal täglich zusätz. Belohnungen.
+21017,@21001,Hier könnt Ihr Euch die Auto-Erledigen-Belohnung für jede Etage ansehen.
+21018,@21001,Durch die Verwendung von Auto-Erledigen könnt Ihr <YellowBold>Runenfragmente</> erhalten. Stellt Euch das als Schlüssel zur Verbesserung Eurer Kampffähigkeiten vor.
+21019,@21001,"Wenn wir uns wiedersehen, erzähle ich Euch mehr."
+21020,,
+21021,,
+21022,@21001,"Hmm ... Wie es aussieht, habt Ihr noch nicht genug geübt ..."
+21023,@21001,"Tippt den Bildschirm an, um zurückzukehren."
+21024,,
+22001,@21001,"Ihr könnt die Runenfragmente nutzen, um stärker zu werden. Dies nennt man Runenprägung."
+22002,@21001,Mithilfe der Runenprägung könnt Ihr Euch direkt verbessern.
+22003,@21001,Nutzt das hier und probiert die Runenprägung selbst aus.
+22004,@21001,Durch die Runenprägung behaltet Ihr die Fähigkeiten jeder Rune <YellowBold>dauerhaft</>.
+22005,@21001,"Für die Runenprägung braucht Ihr <YellowBold>Runenfragmente</>. Ja, diese Dinger, die Ihr durch Auto-Erledigen im Turm der Anmaßung erhalten habt."
+22006,@21001,Wir werden mit der einfachsten Art der Runenprägung anfangen.
+22007,@21001,"Hier könnt Ihr nachsehen, welche Materialien Ihr für das Runenprägen benötigt."
+22008,@21001,Jetzt versucht das Runenprägen einmal.
+22009,,
+22010,@21001,"Da dies Eure erste Prägung ist, werde ich Euch die nötigen Materialien zur Verfügung stellen."
+22011,@21001,Die Vorbereitungen sind abgeschlossen. Testet das Prägen.
+22012,,
+22013,@21001,Habt Ihr die große Rune in der Mitte bemerkt? Das ist die <YellowBold>Basis-Rune</>.
+22014,@21001,"Das Level der <YellowBold>Basis-Rune</> erhöht sich, wenn alle Runen einer Seite auf die gleiche Ebene geprägt sind."
+22015,@21001,"Denkt daran, Basis-Runen gewähren <YellowBold>viel mehr Werte </>als gewöhnliche Runen."
+22016,@21001,"Wie Ihr bemerkt habt, ist dies die Basis-Rune."
+22017,@21001,"Basis-Runen gewähren viele Werte, auf die Ihr Euch freuen könnt."
+22018,@21001,"Und zum Schluss ... Das sind nicht alle Runen, die Ihr prägen könnt."
+22019,@21001,"Dies könnt Ihr benutzen, um mehr Runenseiten freizuschalten."
+22020,@21001,"Ihr könnt <YellowBold>vielfältigere und mächtigere Runen prägen, wenn Ihr Zugang zu weiteren Runenseiten erhaltet</>."
+22021,@21001,"Allerdings müssen <YellowBold>alle Runen auf einer Seite auf ein höheres Level als 1 geprägt sein</>, um die nächste Runenseite freizuschalten."
+22022,@21001,"Runenprägung gewährt Euch mächtige Fähigkeiten, deswegen benötigt sie adäquate Vorbereitungen."
+22023,@21001,"Nun gut! Ich freue mich schon darauf, zu sehen, wie stark Ihr durch die Macht der Runenprägung geworden seid."
+22024,,
+23001,,
+23002,@21001,Lasst uns das Inventar öffnen.
+23003,@21001,"Wählt den Reiter ""Rüstung"" aus."
+23004,@21001,"Rüstet den Kopfschutz aus, den ich Euch gab."
+23005,@21001,"Ihr denkt dran, ""Ausrüsten"" anzutippen, richtig?"
+23006,@21001,"Wenn ihr den Kopfschutz, den ihr gerade ausgerüstet habt, genau betrachtet ..."
+23007,,
+23008,@21001,Könnt ihr den Slot zum Ausrüsten von Seelenkristallen finden.
+23009,@21001,"Seelenkristalle sind Edelsteine, die Monsterseelen enthalten. Beim Ausrüsten werden <YellowBold>die Seelenwerte auf Ausrüstung aufgebracht</>."
+23010,@21001,Die Art des Seelenkristalls bestimmt seine Werte. Stärkere Seelen gewähren <YellowBold>mächtigere Werte</>.
+23011,@21001,"Ihr könnt Seelenkristalle als Material benutzen, um <YellowBold>mächtigere Kristalle zu erschaffen</>."
+23012,@21001,Wir fügen dieser Ausrüstung Seelenkristalle hinzu.
+23013,@21001,Hier ist ein Seelenkristall für das Besiegen dieses Monsters.
+23014,@21001,Cool. Lasst ihn uns ausrüsten.
+23015,@21001,"Gut gemacht. Als Nächstes sehen wir uns an, wie man Seelenkristalle <YellowBold>verbessert</>."
+23016,@21001,"<YellowBold>Verbesserungen</> sind die einzige Möglichkeit, <YellowBold>die Stufen von Seelenkristallen zu verbessern</>."
+23017,@21001,"Tippt auf ""Verbessern""."
+23018,@21001,"Tippt auf den Seelenkristall, der verbessert werden soll."
+23019,@21001,"Tippt ""Levelaufstieg"" an, und es kann losgehen."
+23020,@21001,"Tippt anschließend auf ""Verbessern""."
+23021,@21001,
+23022,@21001,Gut gemacht. Verschwinden wir von hier.
+23023,@21001,"Wenn Ihr einen besseren Kopfschutz habt, rüstet ihn aus."
+23024,@21001,"Tippt einfach auf ""Auto-Ausrüsten""."
+23025,@21001,"Nicht vergessen: Seelenkristalle können nur <YellowBold>verbessert</> werden, wenn die benötigte Menge an Seelenkristallen <YellowBold>mit der gleichen Stufe und dem gleichen Typ</> vorliegen."
+23026,@21001,Das ist alles über Seelenkristalle. Ein Seelenkristall kann den Unterschied zwischen Sieg und Niederlage ausmachen. Verwendet sie weise.
+23027,@21001,집혼석 하나의 차이가 전투의 승패를 바꾸는 결과를 만들어 내지. 잘 이용하도록 해라.
+24001,@12001,Ihr könnt Elite-Dungeons über das Dungeons-Menü betreten.
+24002,@12001,"Ich bin sicher, Ihr wisst, wie Ihr dahin findet."
+24003,@12001,Tippt dies an.
+24004,@12001,Da! Seht Ihr den Elite-Dungeon? Wählt ihn aus.
+24005,,
+24006,@12001,"Ich bin während meiner Zeit als Archäologe über diesen Ort gestolpert ...
+Die fiesesten Monster von ganz Aden tauchen hier auf."
+24007,@12001,"Ihr könnt sogar auf Monster treffen, die Ihr alleine nicht besiegen könnt. Ihr solltet einige <YellowBold>vertraute Freunde</> mitnehmen. Je größer das Risiko, desto größer die Belohnungen."
+24008,@12001,Der Fürst veröffentlicht jeden Tag neue Missionen für die Elite-Dungeons.
+24009,@12001,"Jedes Mal, wenn Ihr 5 Missionen abschließt, erhaltet Ihr zusätzliche Belohnungen."
+24010,@12001,Ihr könnt jeden Tag während dieser Zeit zusätzliche ERF erhalten.
+24011,@12001,"Es ist gefährlich, sich Elite-Dungeons alleine zu stellen. Eine Gruppe bedeutet eine gewisse Sicherheit."
+24012,,
+25001,@21001,"Ich werde Euch zeigen, wie Ihr Ausrüstung verbessern könnt."
+25002,@21001,"Ihr wisst doch noch, wie Ihr zur Schmiede kommt, oder?"
+25003,@21001,@21004
+25004,@21001,"Tippt auf ""Verbessern""."
+25005,@21001,Mit Verbesserungssteinen könnt Ihr <YellowBold>bei gleichem Aussehen und gleichen Werten die Stufe Eurer Ausrüstung erhöhen</>.
+25006,@21001,"Um Ausrüstung zu verbessern, braucht Ihr <YellowBold>Verbesserungssteine, die den Ausrüstungsteilen entsprechen</>."
+25007,@21001,"Ihr braucht also zum Beispiel <YellowBold>Accessoire-Verbesserungssteine</>, um Accessoires zu verbessern."
+25008,@21001,"Seht hier nach, welches Verbesserungsergebnis Ihr erwarten könnt."
+25009,@21001,"Also, lasst uns ein paar Accessoires verbessern!"
+25010,,
+25011,@21001,"Tippt diesen Ring an, um ihn im Verbesserungsslot zu platzieren."
+25012,@21001,"Tippt auf diese Schaltfläche, um mit der Verbesserung zu beginnen."
+25013,,
+25014,@21001,Es hat funktioniert! Glückwunsch.
+25015,@21001,"Benutzt die Verbesserungsfunktion, wenn Ihr <YellowBold>die Werte eines liebgewonnenen Ausrüstungsteils beibehalten oder es an ein Ausrüstungsset anpassen</> wollt."
+25016,@21001,"Bedenkt immer, dass Verbesserungssteine selten und schwierig zu bekommen sind."
+25017,,
+26001,Fee der Läuterung,Wertet Ausrüstung mithilfe von Schriftrollen auf.
+26002,@26001,Tippt einen Gegenstand an.
+26003,@26001,"Ihr müsst zur Schmiede gehen, um Ausrüstung aufzuwerten."
+26004,@26001,"Tippt auf ""Aufwerten""."
+26005,@26001,"Ihr braucht <YellowBold>ausrüstungsspezifische Aufwertungsrollen</>, um bestimmte Typen von Ausrüstung aufzuwerten."
+26006,@26001,"Denkt dran, <YellowBold>Gesegnete Schriftrollen</> können um bis zu +3 auf einmal aufwerten."
+26007,@26001,"Ihr erhaltet zusätzliche Bonuswerte, wenn mehrere Eurer Ausrüstungsteile das gleiche Aufwertungslevel haben. Es zahlt sich aus, alles gleichmäßig zu machen."
+26008,@26001,"Und vergesst nicht, Ausrüstung hat ein maximales Aufwertungslevel, abhängig von ihrer Stufe."
+26009,@26001,Lasst uns diese Waffe aufwerten.
+26010,,
+26011,@26001,"Aufwertungsschriftrollen findet Ihr im Reiter ""Anderes""."
+26012,@26001,Wählt eine Schriftrolle: Waffe
+26013,@26001,Ganz ruhig ... beim Aufwerten gibt es die Möglichkeit eines Fehlschlags.
+26014,@26001,"Wenn Ihr soweit seid, startet das Aufwerten."
+26015,,
+26016,@26001,"Erfolg! Ich hoffe, es gefällt Euch."
+26017,@26001,"Seid vorsichtig. Erfolgreiches Aufwerten kann die Werte eines Ausrüstungsteils erhöhen, aber ein Fehlschlag kann dazu führen, dass das Aufwertungslevel sinkt."
+26018,,
+27001,@12001,"Ich bringe Euch bei, wie man den Kodex benutzt. Folgt mir."
+27002,@12001,"Ihr findet den Kodex im Menü ""Herausforderung""."
+27003,@12001,Los geht's.
+27004,@12001,"Ihr könnt Kerne, die Ihr von Monstern erhalten habt, im <YellowBold>Kodex</> registrieren. Sammelt Kerne, um den Kodex im Level aufsteigen zu lassen und <YellowBold>Eure Werte zu erhöhen</>!"
+27005,@12001,"Wenn Ihr <YellowBold>alle Monsterkerne in einer bestimmten Region</> einsammelt, <YellowBold>erhöht sich Euer Wertebonus noch weiter</>."
+27006,@12001,"Ich zeige Euch, <YellowBold>wie man Kerne registriert</>."
+27007,@12001,Rotrute ist ein Monster auf der Westlichen Sprechenden Insel. Wählt es aus.
+27008,@12001,"Das sind genug Kerne, um den Kodex zu vervollständigen. Gut. Erstellt den Kodex!"
+27009,,
+27010,@12001,"Gut gemacht. Das ist einfach, oder?"
+27011,@12001,"Ihr könnt von allen Monstern Kerne erbeuten, aber normale Monster lassen nur selten welche fallen."
+27012,@12001,<p>Konzentriert Euch bei der Jagd auf <YellowBold>Benannte Monster</>. Die lassen garantiert Kerne fallen.
+27013,,
+28001,@26001,"Ich werde Euch eine seltene Fertigkeit lehren, die ich beherrsche."
+28002,@26001,Sie sollte sich als nützlich erweisen. Hier lang ...
+28003,@26001,Hier könnt Ihr seltene Fertigkeiten lernen.
+28004,@26001,Wählt die Vergessene Schriftrolle.
+28005,@26001,"<YellowBold>Seltene Fertigkeiten</> unterscheiden sich von normalen Fertigkeiten und sind <YellowBold>sowohl effizient als auch stark</>. Jeder kann sie benutzen, egal welcher Klasse er angehört."
+28006,@26001,"Aber man kann seltene Fertigkeiten nicht gewöhnlich lernen oder im Level erhöhen. Ihr müsst <YellowBold>Vergessene Schriftrollenseiten</> sammeln, um die Schriftrolle zu vervollständigen."
+28007,@26001,"Wählt die Fertigkeitenseite, die ich Euch gerade gegeben habe."
+28008,@26001,Wir müssen eine Vergessene Schriftrolle herstellen.
+28009,,
+28010,@26001,Bravo!
+28011,@26001,"Ihr könnt Eure <YellowBold>Vergessene Schriftrolle</> nutzen, um eine seltene Fertigkeit zu erlernen. Seht in Euer Inventar."
+28012,@26001,Weiter ...
+28013,@26001,Hier lang.
+28014,@26001,Schnell ...
+28015,@26001,Öffnet Euer Inventar.
+28016,@26001,Hier ist die Anleitung.
+28017,@26001,"Dies ist die Vergessene Schriftrolle, die wir gerade erstellt haben."
+28018,@26001,"Tippt auf ""Benutzen"", um die Fertigkeit zu erlernen."
+28019,@26001,"Gut gemacht! Versucht jetzt, eine seltene Fertigkeit auf einem Slot zu registrieren."
+28020,@26001,Okay. Gehen wir zurück zum Bildschirm der Fertigkeitenverwaltung.
+28021,@26001,Hier.
+28022,@26001,"Ich nehme an, Ihr wisst, was zu tun ist."
+28023,@26001,"Ja, genau so."
+28024,@26001,"Das ist die seltene Fertigkeit, die Ihr gerade gelernt habt."
+28025,@26001,"Ihr müsst eine seltene Fertigkeit in einem Slot für seltene Fertigkeiten registrieren, um sie benutzen zu können."
+28026,@26001,"Tippt hier, um eine Fertigkeit zu registrieren."
+28027,@26001,Gut gemacht. Ihr könnt andere seltene Fertigkeiten von mächtigen Monstern wie <YellowBold>Raidbossen</> und im Handelsposten erhalten.
+28028,@26001,"Seltene Fertigkeiten im Kampf einzusetzen, dürfte zu enormen Ergebnissen führen! Versucht, so viele seltene Fertigkeiten zu sammeln, wie Ihr nur könnt."
+28029,,
+29001,Aymel,"Hmm ... die Vorstellung, dass der Raum, den die Dunkelmystiker erschaffen haben, mit dem Tunnel unter dem Elfenbeinturm verbunden ist ..."
+29002,@29001,"Der Tunnel unter dem Elfenbeinturm? Dort könnt Ihr besondere Kräuter sammeln, die für das Herstellen von <YellowBold>Elixieren</> verwendet werden."
+29003,@29001,"Ihr wollt da noch einmal hingehen? Nun, wie wäre es erstmal hiermit."
+29004,@29001,Ihr kommt über das Dungeons-Menü dorthin.
+29005,@29001,Tippt dies an.
+29006,@29001,Man nennt ihn auch Entnahme-Dungeon.
+29007,,
+29008,@29001,"Ihr könnt die verfügbaren Kräuter binden, um <YellowBold>Elixiere</> herzustellen, die Eure Werte dauerhaft erhöhen."
+29009,@29001,"Allerdings könnt Ihr Euch wegen des Nebulite im Tunnel nicht lange dort aufhalten. Jedes fühlende Wesen, das sich dem länger aussetzt, wird wahnsinnig."
+29010,@29001,Deswegen könnt Ihr nur eine bestimme Anzahl Kräuter pro Tag entnehmen.
+29011,,
+30001,@29001,"Dass es magische Kräuter gibt, heißt, die Götter sind auf unserer Seite. Wir können damit <YellowBold>Elixiere</> herstellen."
+30002,@29001,"Wir haben nicht viel Zeit, also hört genau zu."
+30003,@29001,Um ein Elixier herzustellen ...
+30004,@29001,Geht zum Charaktermenü ...
+30005,@29001,"Und tippt auf ""Elixier""."
+30006,@29001,Hier könnt Ihr Elixiere herstellen. Zur Herstellung benötigt Ihr <YellowBold>4 Kräuter</>.
+30007,@29001,"Verschiedene Elixiere haben verschiedene Effekte, also wählt mit Bedacht."
+30008,@29001,Lasst uns ein LP-Elixier herstellen.
+30009,@29001,Die Materialien sind bereit. Es kann losgehen!
+30010,,
+30011,@29001,Elixiere <YellowBold>werden im Moment ihrer Herstellung benutzt</>! Ihr solltet Euch schon stärker fühlen!
+30012,@29001,"Materialien für Elixiere erhaltet Ihr auch in Tagesdungeons, von Monstern und im Laden."
+30013,@29001,"Sammelt so viele <YellowBold>Kräuter und Essenzen</> wie möglich; Ihr braucht sie, um stärker zu werden."
+30014,,
+31001,Nine,"Lass mich Euch zeigen, wie man den Schwarzbären reitet!
+Passt gut auf, und Ihr werdet im Handumdrehen zum Reiter!"
+31002,@31001,Geht jetzt zum Hauptmenü.
+31003,@31001,Tippt auf das Charaktermenü.
+31004,@31001,"Wählt ""Reitbegleiter""."
+31005,@31001,"Seht Ihr, wie man den Schwarzbären auswählt?"
+31006,@31001,"Tippt ihn an, um ihn zu beschwören!"
+31007,@31001,"Um aufzusteigen, achtet darauf, dass der beschworene Schwarzbär dem Kampf beitritt."
+31008,@31001,"Gehen wir raus, damit Ihr aufsteigen könnt."
+31009,@31001,"Tippt auf ""Aufsteigen""!"
+31010,@31001,Das Kerlchen hängt wohl schon richtig an Euch! Bitte kümmert Euch gut um den Schwarzbären!
+32001,Monta,"Seid vorsichtig am Berg Eborga, Kresous lebt da. Ganz davon zu schweigen, dass Dämonen in Beschwörungskreisen auftauchen."
+32002,@32001,Feldheim könnte genau jetzt in Schwierigkeiten stecken!
+32003,@32001,Betretet den Beschwörungskreis hierdurch!
+32004,@32001,Tippt dies an.
+32005,@32001,Schnell!
+32006,,
+32007,@32001,"Oh! Schart bitte andere Spieler um Euch, ehe Ihr einen Beschwörungskreis betretet. Die sind gefährlich!"
+32008,,
+101001,@3002,Tippt auf das Hauptmenü.
+101002,@3002,"Jetzt tippt auf ""Freund""."
+101003,@3002,"Hier könnt Ihr Freunde hinzufügen und einander grüßen, um <YellowBold>Freundschaftspunkte</> zu senden und zu empfangen."
+101004,@3002,"Oh! Ich habe ein paar Freunde, die ich Euch vorstellen möchte!"
+101005,@3002,"Hier drüben. Tippt auf ""Empfohlen""!"
+101006,@3002,"Seht Ihr jemanden, der Euch zusagt?"
+101007,@3002,Freundschaften zu schließen hat Vorteile! Ihr könnt zu Abenteuern aufbrechen und Eure Freundschaft pflegen! Zusammen könnt Ihr riesige Monster besiegen!
+101008,,
+102001,@17001,Das ist ganz einfach. Ich zeige es Euch!
+102002,@17001,Ihr könnt eine <YellowBold>Gruppe erstellen</> und andere Spieler rekrutieren.
+102003,@17001,"Die <YellowBold>manuelle Gruppensuche</> erlaubt es Euch, die Gruppe eines anderen Spielers zu suchen und ihr beizutreten."
+102004,@17001,"Mit <YellowBold>Auto-Beitritt</> schließt Ihr Euch automatisch einer Gruppe an, die Euren Präferenzen entspricht."
+102005,,
+104001,Krämer Pan,"Wollt Ihr etwas über den Handelsposten lernen? Tippt auf das Hauptmenü, miau."
+104002,@104001,"Miau, tippt auf ""Handelsposten""."
+104003,@104001,"Ihr habt doch sicher ein paar Gegenstände, die zu gut für den Laden sind, aber in Eurem Inventar vergammeln!"
+104004,@104001,Im Handelsposten könnt Ihr mit überzähligen Gegenständen ein gutes Geschäft machen oder seltene Waren von anderen Spieler kaufen!
+104005,@104001,"Wählt Eure Suchkriterien und findet unter Myriaden von Gegenständen, was Euch gefällt!"
+104006,@104001,"Probiert es aus, miau, verkauft etwas!"
+104007,@104001,Hier drüben. Das hier solltet Ihr benutzen.
+104008,@104001,"Wählt einfach Euren Gegenstand und Verkaufspreis und wir kümmern uns um den Rest! Miau, ich muss Euch warnen. Es gibt ein Limit, wie preisgünstig Ihr Eure Dinge anbieten könnt."
+104009,@104001,"Wartet mal! Ist das ein <YellowBold>Stufe A</>-Gegenstand?
+<p>Im Handelsposten geht es nur um Gegenstände der Stufe <YellowBold>S</> oder höher ..."
+104010,@104001,"Nehmt das nicht persönlich, schnurr! Wir müssen sicherstellen, dass unser Bestand die Qualität bietet, die unsere Kunden von uns erwarten."
+104011,@104001,"Miau, dann kommt mal rüber."
+104012,@104001,Seht Euch das an!
+104013,@104001,"Benutzt dies, um eure Gebote im Auge zu behalten und zu überprüfen, ob eure Gegenstände verkauft sind."
+104014,,
+112001,Akademiestudent,"Lasst uns ansehen, wie Tagesquests funktionieren."
+112002,@112001,"Tippt ""Herausforderungen"" an, um zu beginnen."
+112003,@112001,"Als Nächstes tippt auf ""Quests""."
+112004,@112001,"Tippt jetzt auf ""Tagesquests""."
+112005,@112001,Ihr könnt bis zu <YellowBold>12</> Quests pro Tag erhalten und abschließen.
+112006,@112001,Allerdings könnt Ihr nur bis zu 3 Quests auf einmal aktiv haben.
+112007,@112001,Wählt Eure Quests weise. Die Schwierigkeit und die Belohnungen hängen von der Quest-Stufe ab.
+112008,@112001,"Hier könnt Ihr sehen, wie Ihr die Quest erfüllen könnt."
+112009,@112001,Ihr könnt Euch auch die Quest-Belohnungen ansehen.
+112010,@112001,Lasst uns eine Quest beginnen und es selbst ausprobieren!
+112011,@112001,"Seht, wie sich der Quest-Inhalt verändert."
+112012,@112001,"Ihr könnt Quests, die Ihr angenommen habt, beenden, oder <YellowBold>sie werden automatisch abgeschlossen, sobald eine gewisse Zeit verstrichen ist</>."
+112013,@112001,"Oder, falls Ihr ungeduldig seid, könnt Ihr <YellowBold>Adena ausgeben, um Quests sofort abzuschließen</>."
+112014,@112001,Hier könnt Ihr die Abschlussrate Eurer Tagesquest ansehen und zusätzliche Belohnungen erhalten.
+112015,@112001,Hier könnt Ihr alle inaktiven Quests ändern.
+112016,@112001,"Effektiv <YellowBold>Quests zu wechseln</> sollte sich als hilfreich dabei erweisen, stärker zu werden."
+112017,@112001,Nutzt dies jetzt aus oder ihr werdet es später vielleicht bereuen!
+112018,,
+113001,@112001,Sehen wir uns jetzt Wochenquests an!
+113002,@112001,@112002
+113003,@112001,"Als Nächstes tippt auf ""Quests""."
+113004,@112001,"Jetzt tippt auf ""Wochenquests""."
+113005,@112001,"Hier könnt Ihr Quests annehmen, die Ihr im Laufe einer Woche abschließen könnt."
+113006,@112001,Ihr könnt bis zu <YellowBold>15 Quests täglich</> abschließen.
+113007,@112001,"Ihr müsst kontinuierlich an Euren Quests arbeiten, wenn Ihr die Belohnungen einheimsen wollt."
+113008,@112001,Ihr könnt Euch die Details der laufenden Quests hier ansehen.
+113009,@112001,"Beginnen wir eine Quest! Tippt auf ""Quest beginnen""."
+113010,@112001,Schließt regelmäßig Wochenquests ab und holt Euch die Belohnungen!
+113011,@112001,"Denkt daran, das Wichtigste an Wochenquests ist, <YellowBold>jeden Tag an ihnen zu arbeiten</>!"
+113012,,
+114001,@29001,Ihr seid nun endlich zu <YellowBold>Klan-Spenden</> berechtigt!
+114002,@29001,"Spenden helfen dabei, den Klan am Laufen zu halten!"
+114003,@29001,"Sehen wir uns, an wie man spendet."
+114004,@29001,Gehen wir in das Klanmenü.
+114005,@29001,"Tippt auf ""Spenden""."
+114006,@29001,"Ihr könnt Adena spenden,"
+114007,@29001,Blutzeugnis
+114008,@29001,und Rotsternsteine.
+114009,@29001,"Ihr könnt noch mehr bewirken, wenn Ihr Blutzeugnis oder Rotsternsteine spendet,"
+114010,@29001,"aber diese zu erhalten, kann ein wenig schwierig sein."
+114011,@29001,Ich teile dieses Mal ein wenig Blutzeugnis mit Euch.
+114012,@29001,"Versucht, ein wenig Blutzeugnis zu spenden."
+114013,@29001,"Stellt sicher, Eure Spendenbelohnung einzusammeln!"
+114014,@29001,"Die Beitragspunktzahl zeigt, welche Klanmitglieder am meisten gespendet haben."
+114015,@29001,"Fast hätte ich die <YellowBold>Klanmünzen</> vergessen. Bei jeder Spende erhaltet Ihr Klanmünzen. Die könnt Ihr benutzen, um im Klanladen einzukaufen oder Euch Klan-Buffs zu kaufen."
+114016,@29001,"So, jetzt aber raus hier."
+114017,@29001,"Das ist der Klanladen, den ich vorhin erwähnt habe."
+114018,@29001,"Hier gibt es Gegenstände, um den Klan zu verbessern, und Gegenstände, die Euch selbst nutzen, also seht euch einmal um."
+114019,@29001,"Manche Gegenstände könnt Ihr nur kaufen, nachdem Ihr bestimme Bedingungen erfüllt habt, aber ich bin mir sicher, das wird Euch keine Probleme bereiten."
+114020,,
+115001,@29001,Was? Ihr seid noch nicht in einem <YellowBold>Klan</>?!
+115002,@29001,"Ich werde Euch noch einmal zeigen, wie man einem Klan beitritt."
+115003,@29001,@114004
+115004,@29001,Folgt mir.
+115005,@29001,Tippt auf die letzte Schaltfläche.
+115006,@29001,Seht Ihr all die Klans?
+115007,@29001,"Es hat so viele Vorteile, einem Klan beizutreten!"
+115008,@29001,"Ich bin sicher, Ihr werdet es nicht bedauern."
+115009,,
+116001,@29001,"Ich hoffe, Ihr lebt Euch in Eurem Klan gut ein."
+116002,@29001,"Es ist an der Zeit, dass ich Euch etwas Neues beibringe."
+116003,@29001,Kehren wir zum Klanmenü zurück.
+116004,@29001,@115004
+116005,@29001,Ich möchte Euch die Klanerfolge zeigen!
+116006,@29001,"Alle Klanmitglieder tragen zu Klanerfolgen bei und der gesamte Klan erhält Belohnungen, wenn diese erreicht werden!"
+116007,@29001,Persönliche Belohnungen werden an jedes Mitglied einzeln gesendet.
+116008,@29001,<YellowBold>Klan-Belohnungen werden an das Klanlager gesendet</>.
+116009,@29001,"Dennoch, Belohnungen sind nur verfügbar, wenn Erfolge rechtzeitig abgeschlossen werden, also wird der ganze Klan zusammenarbeiten müssen."
+116010,@29001,"Erfolge erfordern ein großes Maß an Kooperation, aber Zusammenarbeit wird auch deinen Klan näher zusammenbringen!"
+116011,,
+117001,@29001,"Wie gefällt es Euch, in einem Klan zu sein?"
+117002,@29001,"Es gibt etwas sehr Wichtiges, das ich Euch über Klans sagen muss."
+117003,@29001,@114004
+117004,@29001,Das ist ein Klan-Dungeon.
+117005,@29001,Spieler aus demselben Klan können den Klan-Dungeon zusammen betreten und mächtige Bosse herausfordern.
+117006,@29001,"Klanmitglieder müssen zusammenarbeiten, um den Klan-Dungeon zu erobern. Das ist die ultimative Probe der Stärke eines Klans!"
+117007,@29001,"Es wird ein harter Kampf, aber die Belohnungen sind es wert!"
+117008,@29001,"Sich am Klan-Dungeon zu versuchen, ist gut für den Klan, und um Eure eigenen Fähigkeiten zu verbessern!"
+117009,@29001,Arbeitet mit Klanmitgliedern zusammen und Ihr werdet unaufhaltbar sein!
+117010,,
+118001,@11001,Willkommen. Hier könnt ihr Euren <YellowBold>Questfortschritt</> überprüfen.
+118002,@11001,"Hier könnt Ihr <YellowBold>laufende Quests</>, <GreenBold>abgeschlossene Quests</> und noch zu erledigende Quests auf einmal ansehen."
+118003,@11001,Seht! Ihr könnt sogar zusätzliche <YellowBold>Belohnungen</> ansehen.
+118004,,
+119001,@18001,"Entwickelt Ihr endlich ein Interesse dafür, Dinge herzustellen?<p>Hahaha!!! Da bin ich aber froh!!!<p> Wie Ihr wisst, kann Stufe UR nur durch Herstellen errungen werden. Ich erzähle Euch etwas darüber, also hört genau zu!"
+119002,@18001,"Als Erstes müsst Ihr die Ausrüstung, die ihr herstellen wollt, hier platzieren."
+119003,@18001,"Ihr benötigt die Anleitung für die Ausrüstung, die Ihr herstellen wollt!"
+119004,@18001,Als Nächstes braucht Ihr seltene Mineralien oder Holz!
+119005,@18001,"Was kam nochmal als Nächstes ... Oh, ja! Ihr braucht Materialien wie Leuchtende Verbesserungssteine!"
+119006,@18001,"Und dann braucht Ihr noch Altmaterialien, die bei der Verwertung von Waffen oder Rüstung abfallen!"
+119007,@18001,"Solange Ihr diese vier Dinge besitzt, könnt Ihr Ausrüstung der Stufe UR herstellen!"
+119008,@18001,"Oh! Das hätte ich fast vergessen!<p>Ihr könnt nur Ausrüstung der Stufe UR herstellen, indem Ihr Ausrüstung der Stufe SR mit Level 30 verwendet.<p>Ausrüstung der Stufe UR behält Aufwertungen, Limit-Break, Subwerte und Attributdetails bei!<p>Die vier Materialien können allesamt Ausrüstung aufwerten. Stellt sicher, dass Ihr Eure Ausrüstung aufwertet, wann immer Ihr einen Materialtyp einsammelt.<p>Ausrüstung der Stufe UR, die mit allen vier Materialtypen hergestellt wurde, wird bei Weitem robuster! Haha!"
+119009,,
+201001,@29001,Woah! Seid Ihr bereit für einen Klassentransfer? Das ist unglaublich!
+201002,@29001,Ich habe eine Nachricht für Euch bezüglich der Klassentransferprüfung.
+201003,@29001,"Die Silberlicht-Söldner gewähren jedem, der stark genug ist, ihre Prüfung zu bestehen, neue Klassen."
+201004,@29001,"Ihr könnt <YellowBold>neue Fertigkeiten</> erlernen, wenn Ihr Klassen transferiert, die Euch erlauben, noch stärker zu werden."
+201005,,
+201006,@29001,"Seht, dies ist die erste Prüfung."
+201007,@29001,"Um die erste Prüfung zu bestehen, müsst Ihr 50 Monster besiegen."
+201008,@29001,Das wird Eure grundlegenden Kampffähigkeiten auf die Probe stellen.
+201009,@29001,"Ich bin überzeugt, dass Ihr mit Bravour bestehen werdet!"
+201010,@29001,"Die nächste Prüfung wird enthüllt, sobald Ihr die erste bestanden habt."
+201011,@29001,"Sobald Ihr alle sieben Prüfungen bestanden habt, werdet Ihr in der Lage sein, Klassen zu transferieren."
+201012,@29001,Und dann ... werdet Ihr sogar noch stärker!!!
+201013,@29001,"Ihr packt das, <YellowBold>[player]</>!"
+201014,@29001,"Ich sehe Euer neues, stärkeres Ich beim nächsten Mal!"
+201015,,
+202001,Lonna,"Ich dachte, Ihr könntet nun ein wenig mehr Adena gebrauchen ..."
+202002,@202001,"Hier, ich zeige Euch den besten Ort, um Adena zu finden."
+202003,@202001,"Es ist hier, in diesem Dungeon!"
+202004,@202001,Tippt dies an.
+202005,@202001,"Tippt auf ""Adena-Dungeon""."
+202006,,
+202007,@202001,"Das ist die Heimat von Kresous, dem Golddrachen."
+202008,@202001,Besiegt Kresous und plündert sein Adena-Versteck!
+202009,@202001,"Es gibt ein tägliches Zutrittslimit für den Adena-Dungeon, also macht das Beste aus jedem Versuch!"
+202010,@202001,"Ich freue mich schon, von Eurem Sieg über den Drachen zu hören!"
+202011,,
+203001,Aida,"Hey! Habt Ihr Interesse an einem guten Ort, um Ausrüstung zu finden?"
+203002,@203001,"Sucht nicht länger, hier ist er: dieser besondere Dungeon!"
+203003,@203001,Tippt dies an.
+203004,@203001,Wählt hier den Tempelwächter aus!
+203005,,
+203006,@203001,"Beschützt das <YellowBold>Heilige Artefakt</> und Ihr werdet bestimmt alle <YellowBold>Ausrüstung</> finden, die Ihr braucht."
+203007,@203001,"Es gibt nur einen Haken. Der Tempelwächter steht nur Spielern offen, die in <YellowBold>einer Gruppe</> sind, und Ihr könnt ihn nur <YellowBold>ein paar Mal täglich</> betreten."
+203008,,
+204001,Tiana,"Gehen Euch vielleicht die Schriftrollen aus, um Ausrüstung aufzuwerten?"
+204002,@204001,"Ich weiß, wo Ihr hingehen solltet!"
+204003,@204001,In den Aufwertungsrollen-Dungeon.
+204004,,
+204005,@204001,"Löst das Siegel des Heiligen Artefakts und erhaltet Aufwertungsrollen! Gebt alles, denn es gibt ein <YellowBold>tägliches Zutrittslimit</>!"
+204006,@204001,"Eure Waffen aufzuwerten, ist die <YellowBold>einfachste und mächtigste</> Art, stärker zu werden!"
+204007,,
+205001,@202001,"Ein kleines Vögelchen hat mir gezwitschert, dass Ihr Hilfe dabei brauchen könntet, stärker zu werden."
+205002,@202001,"Ich zeige Euch einen guten Ort, um im Level aufzusteigen!"
+205003,@202001,Tippt dies an.
+205004,@202001,Der ERF-Dungeon!
+205005,,
+205006,@202001,"Hier könnt Ihr große Mengen ERF auf einmal erhalten ... aber verlasst Euch nicht zu sehr darauf, es gibt ein <YellowBold>tägliches Zutrittslimit</>."
+205007,@202001,"Stellt Euch der Herausforderung und Euer Level wird sich im Handumdrehen erhöhen! Ich wette, Ihr werdet richtig durchtrainiert sein, wenn wir uns wiedersehen!"
+205008,,
+207001,@18001,"Willkommen. Die Silberlicht-Söldner werden seit langer Zeit als Symbol für Gerechtigkeit angesehen, doch bekannt sind sie für ihre stilvollen und einzigartigen <YellowBold>Umhänge</>.<p>Es ist wohl an der Zeit, dass Ihr Euren eigenen Umhang erhaltet. Keine Sorge, ich bringe Euch bei, wie Ihr das tut!<p>Zuerst braucht Ihr eine Brosche für den Umhang. Hier, nehmt das und erhaltet einen Abenteurer-Umhang."
+207002,@18001,Tippt auf „Erhalten“.
+207003,@18001,Tippt auf „Ausrüsten“.
+207004,@18001,Der Abenteurer-Umhang steht Euch fantastisch! Mit Garn könnt Ihr Eurem Umhang Flair verleihen. Hier ist etwas Garn für Euch.
+207005,@18001,Tippt auf „Levelaufstieg“.
+207006,@18001,"Tippt auf „Levelaufstieg“, genau da."
+207007,,
+207008,@18001,Euer Umhang sieht jetzt schon besser aus! Wie gefällt er Euch?
+207009,@18001,"Ihr könnt Magischen Stoff benutzen, um die Subwerte des Umhangs zu ändern.<p>Wiederholt diesen Vorgang, bis Ihr den gewünschten Subwert erhaltet.<p>Das ist alles, was ich Euch zu Umhängen erzählen muss. Jetzt liegt es an Euch, Euren eigenen, einzigartigen Umhang zu erschaffen!"
+301001,@18001,Ah. Die Aufwertung ist wohl gescheitert?
+301002,@18001,Gescheitertes Aufwerten von Ausrüstung mit <YellowBold>+6 Aufwertung</> kann zu einem sinkenden <YellowBold>Aufwertungslevel</> führen.
+301003,@18001,"Aber beachtet, dass Ihr <YellowBold>Maphrs Segen</> benutzen könnt, damit das Aufwertungslevel nicht weiter sinkt."
+301004,@18001,"Außerdem sinkt Ausrüstung, die auf <YellowBold>+7, +10 und +20</> oder höher aufgewertet wurde, nicht unter diese Werte herab."
+301005,@18001,"Behaltet diese Dinge im Hinterkopf, wenn Ihr in Zukunft Ausrüstung aufwertet!"
+301006,@18001,Ich werde es Euch an einem Exemplar von Maphrs Segen vorführen.
+301007,@18001,"Tippt auf ""Sonstiges""."
+301008,@18001,"Seht Ihr den Gegenstand ""Maphrs Segen""?"
+301009,@18001,"<YellowBold>Maphrs Segen</> ist ein wertvoller Gegenstand, der verhindert, dass Aufwertungslevel nach gescheiterter Aufwertung an Wert verlieren."
+301010,@18001,"Na los, tippt auf ""Werkstatt""!"
+301011,@18001,"Sammelt ""Maphrs Segen""-Fragmente in der Werkstatt, um <YellowBold>Maphrs Segen</> herzustellen."
+301012,,
+302001,@21001,"Schon mal was von <YellowBold>Beschwörungssteinen für seltene Monster</> gehört? Nein? Na gut, schauen wir mal, wie man mit diesen Beschwörungssteinen Monsterkerne erhalten kann."
+302002,@21001,"Tippt auf ""Inventar""."
+302003,@21001,"Wählt die ""Verbrauchsgüter""-Registerkarte."
+302004,@21001,"Hier, nehmt einen Beschwörungsstein für seltene Monster."
+302005,@21001,"Tippt nun auf ""Benutzen""."
+302006,@21001,"Seht Ihr all diese seltenen Monster? Wählt das aus, welches Euch am besten gefällt."
+302007,@21001,"Für jedes seltene Monster gibt es Monsterkerne.
+<p>Schließt Wochenquests ab, um diese Beschwörungssteine für seltene Monster zu sammeln."
+302008,@21001,"Tippt auf ""Beschwörung""!"
+302009,@21001,Die Schaltfläche genau vor Euch!
+302010,@21001,여기를 누르면 된다네!

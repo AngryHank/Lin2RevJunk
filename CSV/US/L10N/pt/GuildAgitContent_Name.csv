@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,Cristal da União,Nível: [CrystalLevel],"Cristal místico que concede
+um bônus a todos os membros do clã."
+2,Guardião de Missões,Missões em andamento: [ProgressQuestCount]. Missões cumpridas: [CompleteQuestCount].,"De missões fáceis até quase impossíveis!
+Sou um guardião e estou aqui para ajudar."
+3,Guardião do Banquete,Banquete pequeno: [SmallDinnerActivity]. Banquete médio: [MiddleDinnerActivity]. Banquete grande: [BigDinnerActivity].,"Quanto mais, melhor!
+Mande todos os cumprimentos ao chefe."
+4,Guardião de Relíquias,Relíquias sob avaliação: [ProgressArtifactCount] / Concluídas: [CompleteArtifactCount],"Deixe-me avaliar suas relíquias.
+Eu lhe contarei a verdade sobre elas."
+5,Guardião de Poções,Poções pessoais fabricáveis: [PotionAvaliableCount],"Você pode fabricar poções e usá-las
+quando desejar."
+6,Lareira,Calor em posse: [WoodCount] / Estado da lareira: [FirePlaceActivity],"Acenda a lareira
+e todos na Sede do Clã ganharão Exp."
+7,Capturar fadinhas,Atualização em breve.,"As fadinhas travessas estão fazendo uma baderna!
+Capture-as para ganhar uma recompensa."

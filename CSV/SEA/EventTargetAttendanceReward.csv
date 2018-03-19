@@ -30,11 +30,11 @@ Group2,Day,RewardType1,RewardItemInfoId1,RewardCount1,RewardIcon1,RewardType2,Re
 121,9,Item,490090,3,Icon_DailyDungeonSweepTicket,,,,,,,,
 121,10,Item,490090,3,Icon_DailyDungeonSweepTicket,,,,,,,,
 102,1,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
-102,2,,,,,,,,,,,,
-102,3,,,,,,,,,,,,
-102,4,,,,,,,,,,,,
-102,5,,,,,,,,,,,,
-102,6,,,,,,,,,,,,
+102,2,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
+102,3,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
+102,4,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
+102,5,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
+102,6,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
 102,7,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
 102,8,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
 102,9,FreeDiamond,,100,Icon_Asset_Diamond_02,,,,,,,,
@@ -59,3 +59,10 @@ Group2,Day,RewardType1,RewardItemInfoId1,RewardCount1,RewardIcon1,RewardType2,Re
 201,8,Adena,,10000,Icon_Box_Adena_03,Item,490090,3,Icon_DailyDungeonSweepTicket,FreeDiamond,,100,Icon_Asset_Diamond_02
 201,9,Adena,,10000,Icon_Box_Adena_03,Item,490090,3,Icon_DailyDungeonSweepTicket,FreeDiamond,,100,Icon_Asset_Diamond_02
 201,10,Adena,,10000,Icon_Box_Adena_03,Item,490090,3,Icon_DailyDungeonSweepTicket,FreeDiamond,,100,Icon_Asset_Diamond_02
+16,1,Item,110900003,1,Icon_GachaItem_EquipmentA,,,,,,,,
+16,2,Item,900010,5,Icon_Gacha_EnchantScroll,,,,,,,,
+16,3,Item,910259,1,Icon_Shop_Gacha_Equipment_01,,,,,,,,
+16,4,Item,490011,5,Icon_Box_Adena_03,,,,,,,,
+16,5,Item,910124,1,Icon_GachaItem_AccA,,,,,,,,
+16,6,Item,520085,10,Icon_Box_Legion2,,,,,,,,
+16,7,Item,910134,1,Icon_GachaItem_AccS,,,,,,,,

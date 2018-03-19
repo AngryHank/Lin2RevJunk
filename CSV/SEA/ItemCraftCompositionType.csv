@@ -1,0 +1,16 @@
+Id,CompositionTypeName,DisplayOrder
+Combination_ETC,기타,10000
+Combination_QuestScroll,퀘스트 스크롤,100
+Combination_BossTicket,월드보스 입장권,150
+Combination_EnchantMaterial,강화주문서,200
+Combination_Recipe,레시피,300
+Combination_Warrior,전사 레시피,350
+Combination_SummonGem,마물 소환석,400
+Combination_VehiclePet,탑승 펫,500
+Combination_Cape,망토,600
+Combination_Talisman,탈리스만,700
+Combination_UpgradeMaterial,승급석,800
+Combination_StoneForAbility,특성의 돌,900
+Combination_StoneForLimitBreak,초월의 돌,1000
+Combination_Elixir,엘릭서,1100
+Combination_Potion,소모품,1200

@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] entrou para o clã.
+2,[Param1] saiu do clã.
+3,[Param1] agora é: [Param2]{[Param2]|}.
+4,[Param1] agora é líder do clã.
+5,O clã chegou ao nível [Param1]{[Param1]}.
+6,Aliança formada com [Param1].
+7,Aliança com [Param1] terminou.
+8,[Param1] recompensou [Param2].
+9,[Param1] recompensou todos os membros do clã.
+10,Conquista de [Param1] bem-sucedida.
+11,Renove o preço do lance de [Param1]!
+12,O preço do lance de [Param1] foi aumentado.
+13,Quartel de Cerco de [Param1] está sob ataque.
+14,Quartel de Cerco de [Param1] foi destruído.
+15,Bilhetes para o Festival serão redefinidos quando começar o Cerco ao Castelo. Corra para adquirir um vale.
+16,[Time] [Param1] conectou-se.
+17,[Param1] foi nomeado como novo líder do cla devido a longa ausência e falta de comparecimento do antecessor.
+18,O próximo bônus aparecerá em [Param1] s.
+19,[Param1] derrotou [Param2].
+20,A equipe azul obteve [Param1]{[Param1]}.
+21,A equipe vermelha obteve [Param1]{[Param1]}.
+22,[Param1] obteve [Param2] abates consecutivos!
+23,[Param2] ([Param1]) obteve [Param3] abates seguidos!
+24,O Campo de Batalha Honorável abriu!
+25,O CBH começa em [Param1] min(s). Prepare-se!
+26,O Campo de Batalha da Coragem abriu!
+27,O CBC começa em [Param1] min(s). Prepare-se!
+28,"[Param1] recompensou [Param3] jogador(es), inclusive [Param2]."

@@ -1,0 +1,16 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,凝聚水晶,水晶等級 : [CrystalLevel],"提供增益效果給所有血盟成員的
+神祕的水晶。"
+2,任務管理者,진행중인 퀘스트 : [ProgressQuestCount]개  /  완료한 퀘스트 : [CompleteQuestCount]개,"從簡單的任務到困難的任務!
+介紹任務管理人。"
+3,宴會管理員,소형만찬 : [SmallDinnerActivity]  /  중형만찬 : [MiddleDinnerActivity]  /  대형만찬 : [BigDinnerActivity],"一起同樂!
+請感謝廚師。"
+4,遺物管理者,감정 중인 유물 : [ProgressArtifactCount]  /  감정 완료 유물 : [CompleteArtifactCount],"讓我鑑定神秘的遺物
+我會告訴你它真正的價值。"
+5,藥水管理者,제조 가능한 개인 물약 : [PotionAvaliableCount],"언제 어디서나 도움이 되는
+유용한 물약을 제조할 수 있습니다"
+6,壁爐,보유한 장작 : [WoodCount]  /  벽난로 상태 : [FirePlaceActivity],"當壁爐點火時，
+可以跟據點的血盟成員
+一起獲得經驗值。"
+7,捕捉菲斯,即將更新。,"會出現弄亂據點的精靈!
+抓住他們獲得獎勵吧。"

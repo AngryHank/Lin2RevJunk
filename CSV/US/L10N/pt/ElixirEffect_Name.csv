@@ -1,0 +1,25 @@
+Id,Name,EffectTypeName,Desc
+1,Elixir de PV,Aumento de PV máx.,Elixir que aumenta o PV máx.
+2,@1,@1,@1
+3,@1,@1,@1
+4,@1,@1,@1
+5,@1,@1,@1
+6,@1,@1,@1
+10,Elixir de PM,Aumento de PM máx.,Elixir que aumenta o PM máx.
+11,@10,@10,@10
+12,@10,@10,@10
+13,@10,@10,@10
+14,@10,@10,@10
+15,@10,@10,@10
+19,Elixir de Atq.,Aumento de Def.,Elixir que aumenta o Atq.
+20,@19,@19,@19
+21,@19,@19,@19
+22,@19,@19,@19
+23,@19,@19,@19
+24,@19,@19,@19
+28,Elixir de Def.,Aumento de Def.,Elixir que aumenta a Def.
+29,@28,@28,@28
+30,@28,@28,@28
+31,@28,@28,@28
+32,@28,@28,@28
+33,@28,@28,@28

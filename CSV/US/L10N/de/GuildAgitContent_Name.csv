@@ -1,0 +1,15 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,Kristall der Eintracht,Level: [CrystalLevel],"Ein mystischer Kristall, der
+allen Klanmitgliedern einen Buff verleiht."
+2,Questhüter,Laufende Quests: [ProgressQuestCount]. Abgeschlossene Quests: [CompleteQuestCount].,"Von einfachen bis nahezu unmöglichen Quests!
+Ich bin der Hüter. Es ist meine Aufgabe, zu helfen."
+3,Festmahlhüter,Kleines Festmahl: [SmallDinnerActivity]. Mittleres Festmahl: [MiddleDinnerActivity]. Großes Festmahl: [BigDinnerActivity].,"Je mehr, desto besser!
+Bitte alle Komplimente an den Koch."
+4,Relikthüter,Zu bewertende Relikte: [ProgressArtifactCount] / Abgeschlossen: [CompleteArtifactCount],"Lass mich deine Relikte schätzen.
+Ich werde dir den wahren Wert nennen."
+5,Trankhüter,Herstellbare Persönliche Tränke: [PotionAvaliableCount],"Du kannst Tränke herstellen, die verwendet werden können,
+wann immer du möchtest."
+6,Feuerstelle,Anzündholz im Besitz: [WoodCount] / Feuerstelle Status: [FirePlaceActivity],"Zünde das Feuer in der Feuerstelle an,
+damit jeder in der Klanhalle ERF erhält."
+7,Fange Pixies,Update ist bald verfügbar.,"Freche Pixies machen Ärger!
+Fang sie ein und erhalte eine Belohnung."

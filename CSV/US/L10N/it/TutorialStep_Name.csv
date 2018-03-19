@@ -1,0 +1,577 @@
+Id,NpcName,DialogMessage
+1001,,
+1002,,
+2001,,
+2002,,
+3001,,
+3002,Psyche Capitano del Porto,"Benvenuto. Prima volta sull’Isola Parlante? Ottimo! Se premi qui, verranno attivate le quest automatiche."
+4001,,
+4002,Douglas Capo dei Mercenari,Una quest automatica si ferma non appena la quest è completa. Tocca per iniziare la prossima quest.
+6001,@4002,Ok. Hai un talento naturale. Proviamo un’altra quest.
+11001,Harold Capitano della Guardia,Puoi trovare tutti i tuoi oggetti nell’Inventario.
+11002,,
+11003,@11001,L’Equip. Auto. è un modo facile e veloce di equipaggiare i tuoi oggetti migliori.
+11004,,
+11005,@11001,"Questa è una funzionalità utile per i nuovi avventurieri come te, per cui fanne buon uso."
+11006,,
+12001,Feldheim,<YellowBold>I Colpi d’Anima</> permettono di effettuare attacchi più forti.
+12002,@12001,Dovresti iniziare usandoli automaticamente!
+12003,@12001,I Colpi d’Anima sono usati solo <YellowBold>quando attacchi</>.
+12004,@12001,Rimarranno con te al sicuro per tutto il tempo.
+12005,@12001,"Non vuoi usarli automaticamente? In questo caso, tocca di nuovo."
+12006,@12001,"<YellowBold>I Colpi d’Anima sono disponibili nel Negozio</>, per cui mantieniti ben rifornito!"
+12007,,
+13001,Niah,Scopriamo le Segrete giornaliere.
+13002,@13001,Puoi trovare l’ingresso nel menu Segreta.
+13003,@13001,Tocca qui.
+13004,@13001,Vedi tutte le diverse Segrete?
+13005,@13001,"Se continui il tuo addestramento, presto sarai in grado di affrontarle!"
+13006,@13001,Per adesso diamo un’occhiata alla Segreta giornaliera.
+13007,@13001,"Nelle <YellowBold>Segrete giornaliere</>, <YellowBold>ogni giorno compaiono mostri diversi</>."
+13008,@13001,Sconfiggili per acquisire <YellowBold>ricompense speciali</>!
+13009,@13001,"I mostri più forti rilasciano ricompense migliori, quindi lavora sul diventare più forte."
+13010,@13001,"Avanti, entra!"
+13011,,
+13012,,
+13013,,
+13014,@13001,"Se hai bisogno d’aiuto, è disponibile la Battaglia automatica."
+13015,,
+13016,,
+13017,,
+13018,@13001,Wow! Quello che hai abbattuto era un mostro potente!
+13019,,
+13020,@13001,"Puoi entrare solo alcune volte al giorno, ma non preoccuparti! Il totale <YellowBold>si azzera ogni giorno</>."
+13021,,
+13022,,
+13023,@13001,Se fallisci <YellowBold>non conterà come ingresso</> quindi non avere paura di metterti alla prova!
+13024,@13001,Era molto impegnativo. Andrà meglio la prossima volta!
+13025,,
+14001,Arconte Daniel,È tempo di dare un’occhiata ai tuoi traguardi e richiedere le ricompense.
+14002,@14001,Il primo passo è accedere alle Sfide.
+14003,@14001,Questo ti condurrà ai Traguardi.
+14004,@14001,Ottieni il riconoscimento dei tuoi <YellowBold>Traguardi</> e ricevi <YellowBold>ricompense</> per averli raggiunti.
+14005,@14001,"Hai lavorato sodo, a quanto pare. Hai già completato alcuni <YellowBold>traguardi</>."
+14006,@14001,Richiedi pure questa ricompensa.
+14007,,
+14008,@14001,Ben fatto. Acquisirai <YellowBold>titoli e abilità</> in base alle tue azioni meritevoli.
+14009,@14001,Quindi fai un salto ogni tanto per tenerti aggiornato.
+14010,@14001,Continua a lavorare duramente e i tuoi sforzi saranno presto ricompensati.
+14011,@14001,"Più alto è il livello Traguardi, più forti sono le abilità, e riceverai oggetti come ricompense giornaliere."
+14012,@14001,Tieni conto dei <YellowBold>diversi tipi di traguardo</> da completare e non ignorarne nessuno.
+14013,,
+15001,Anais Mercante,Il Negozio è pieno di rifornimenti utili.
+15002,@15001,@13003
+15003,@15001,Come questo qui. Ricordane l’aspetto: ti tornerà utile in seguito!
+15004,@15001,Cosa stai aspettando? Aprilo!
+15005,,
+15006,@15001,Wow! È un fantastico elemento dell’equipaggiamento!
+15007,@15001,Sai come rafforzare l’equipaggiamento? Devi <YellowBold>aumentarlo di livello</>!
+15008,@15001,"Otterrai <YellowBold>una Scatola Equipaggiamento di grado alto ogni giorno</>, per cui non dimenticarti di fare un salto!"
+15009,,
+16001,Ferron il Fabbro,"Se vuoi <YellowBold>aumentare di livello</> l’equipaggiamento, sei dalla persona giusta. Sono il miglior fabbro dell’Isola Parlante!"
+16002,@16001,"Ecco, prendi questo equipaggiamento. Dovrebbe esserti utile."
+16003,@16001,Diamo un’occhiata all’equipaggiamento che hai ricevuto.
+16004,@16001,Dovrebbe essere nel riquadro armatura.
+16005,@16001,Seleziona pure l’equipaggiamento che ti ho dato.
+16006,@16001,Puoi aumentare di livello l’equipaggiamento alla Fucina. Seguimi.
+16007,@16001,Ci sono <YellowBold>vari modi di rafforzare l’equipaggiamento</> usando la Fucina.
+16008,@16001,Seleziona Aumento di livello.
+16009,@16001,<YellowBold>Aumento di livello</> usa dell’altro equipaggiamento per <YellowBold>migliorare</> l’equipaggiamento primario.
+16010,@16001,"C’è una piccola tassa per il servizio... Vivrei per strada se lo facessi gratis, eh!"
+16011,@16001,Usalo come materiale. Consideriamolo un regalo!
+16012,@16001,"Bene, siamo pronti! Posso farlo gratis solo questa volta. Che rimanga un segreto tra di noi!"
+16013,@16001,I materiali scompariranno durante il processo.
+16014,,
+16015,@16001,"Finito! Diamo un’occhiata. Ehi, è fantastico!"
+16016,@16001,Equipaggialo pure ora che è aumentato di livello!
+16017,@16001,"È facilissimo, devi solo toccare su Equip. Auto.!"
+16018,,
+16019,@16001,Aumentare di livello l’equipaggiamento <YellowBold>è il modo più facile di migliorare le abilità in battaglia</>. Provalo se i nemici sono troppo forti.
+16020,,
+17001,"Austin, Cap. Ranger di Sangue",Ottimo! Procediamo all’aumento di livello delle tue abilità.
+17002,@17001,"Prima di iniziare, dobbiamo vedere che abilità usi."
+17003,@17001,Diamo un’occhiata alle tue abilità.
+17004,@17001,"Ecco, puoi aumentare i tuoi <YellowBold>livelli abilità</> e <YellowBold>cambiare la posizione dei pulsanti abilità</>."
+17005,@17001,Ti serviranno Punti Abilità per aumentare il livello delle tue abilità.
+17006,@17001,Puoi acquisire PA aumentando il livello del tuo personaggio e giocando regolarmente.
+17007,@17001,Ok. <YellowBold>Aumentiamo di livello le tue abilità</>.
+17008,@17001,Mmm. Questa abilità andrà bene.
+17009,@17001,"Vedi il pulsante di aumento di livello? È invitante, no?"
+17010,@17001,Puoi usare <YellowBold>PA</> per <YellowBold>aumentare i livelli delle abilità</>.
+17011,@17001,"Questo dovrebbe costare un po’ di Adena... Ma ti darò una mano, visto che di recente sei stato molto d’aiuto."
+17012,@17001,Oh! E un’altra cosa!
+17013,@17001,Vedi queste abilità passive?
+17014,@17001,<YellowBold>Le abilità passive</> possono essere aumentate di livello nello stesso modo. Proviamo.
+17015,@17001,"Per prima cosa, seleziona un’abilità."
+17016,@17001,Poi puoi usare PA e Adena per aumentarne il livello.
+17017,@17001,"Gli effetti<YellowBold>dell’abilità passiva</> sono attivati automaticamente. È facile che passino inosservati, ma è bene ricordarsene se vuoi diventare più forte."
+17018,,
+18001,Russel,L’Arena è il posto migliore per mettere alla prova le tue abilità.
+18002,@18001,Puoi trovarla sul Campo di battaglia!
+18003,@18001,Vedi l’ingresso dell’Arena? Preparati!
+18004,@18001,Puoi combattere <YellowBold>duelli 1 vs 1</> contro altri avventurieri. È un ottimo posto per provare le tue abilità!
+18005,@18001,Seleziona uno dei 4 avversari dalla lista e sconfiggilo! Puoi salire a livelli più alti combattendo e sconfiggendo avversari più forti!
+18006,@18001,Ci sono <YellowBold>Ricompense settimanali</> in base alla tua classifica settimanale. Lavora sodo per posizionarti sempre in alto!
+18007,@18001,Non dimenticare che i duelli sono strettamente legati all’Onore!
+18008,@18001,Sia i vincitori che i perdenti ottengono Onore.
+18009,@18001,Accumula Onore per raggiungere posizioni più alte e acquisire <YellowBold>Ricompense statistiche</>!
+18010,@18001,Mmm... non hai un livello di Onore degno di nota al momento...
+18011,@18001,Ma è facile rimediare!
+18012,@18001,"Con un po’ di dedizione, otterrai più Onore e ricompense migliori!"
+18013,@18001,Beh? Ti senti entusiasta?
+18014,@18001,Metti da parte la modestia: mettiamoci subito a duellare!
+18015,@18001,"Seleziona Inizio. Non c’è modo di sapere come sarà il tuo avversario, ma sono sicuro che lo farai a pezzi!"
+18016,,
+18017,,
+18018,@18001,Sapevo che avresti vinto! Complimenti!
+18019,,
+18020,,
+18021,,
+18022,@18001,"Ahi... Per un pelo! Beh, c’è sempre la prossima volta!"
+18023,,
+19001,Eugene Professore Accademico,Concedimi di insegnarti un altro modo di migliorare l’equipaggiamento.
+19002,@19001,"Combinare è relativamente semplice, ma funziona."
+19003,@19001,Dovrai usare la Fucina per combinare l’equipaggiamento.
+19004,@19001,Puoi combinare l’equipaggiamento qui.
+19005,@19001,Combina due <YellowBold>elementi dell’equipaggiamento Liv. 30</> dello stesso grado e tipo per acquisire un elemento di grado superiore rispetto al materiale usato.
+19006,@19001,L’equipaggiamento si suddivide in equipaggiamento obiettivo ed equipaggiamento materiale.
+19007,@19001,Da’ un’occhiata ai dettagli dell’equipaggiamento obiettivo qui.
+19008,@19001,Non perdiamo altro tempo: è ora di combinare. Usalo come materiale da combinare.
+19009,,
+19010,@19001,Tocca qui.
+19011,@19001,Prendi questo e usalo come equipaggiamento materiale.
+19012,,
+19013,@19001,Seleziona questo equipaggiamento materiale.
+19014,@19001,"Se il materiale è pronto, combiniamolo."
+19015,@19001,Non c’è tempo. Sbrigati.
+19016,,
+19017,@19001,Grandioso! Sembra che i preparativi siano terminati.
+19018,@19001,"Non dimenticare di equipaggiarli! Tieni a mente che combinare <YellowBold>produce equipaggiamento dello stesso tipo di quello del materiale principale</>! Bene, buona fortuna!"
+19019,,
+20001,"Arthur, Ten. Ranger di Sangue",Vuoi sapere dei clan? Tocca sul menu principale.
+20002,@20001,Tocca il pulsante Clan qui.
+20003,@20001,Faresti bene a unirti a un clan che condivida i tuoi valori.
+20004,@20001,Scoprirai che essere membri comporta tanti vantaggi.
+20005,@20001,"Oops! Eccomi qui, a consigliarti di unirti a un clan senza nemmeno spiegarti cosa sono i clan!"
+20006,@20001,"Gli aspetti principali dei clan sono <YellowBold>l’Assedio del Castello</> e <YellowBold>l’Assedio della Fortezza</>, dove puoi scontrarti con altri clan per il controllo di vari castelli e fortezze."
+20007,@20001,E ovviamente i clan non possono essere competitivi senza un potere significativo.
+20008,@20001,Tutti i cittadini di Aden possono <YellowBold>scommettere sui vincitori di un Assedio del Castello e vincere premi</> durante il <YellowBold>Festival Assedio del Castello.</>
+20009,@20001,"E non è tutto! Quando fai parte di un clan, puoi ottenere dei vantaggi dai <YellowBold>buff, dal negozio del clan, dalle quest e dalle ricompense</>."
+20010,@20001,Vediamo <YellowBold>come ci si unisce a un clan</>.
+20011,@20001,È così che ci si unisce a un clan.
+20012,@20001,Chiunque può scegliere il leader di un clan in cui crede e lavorare insieme per raggiungere il massimo!
+20013,@20001,"Se ti piace l’aspetto di uno di questi leader, tocca su <YellowBold>Applica</>!"
+20014,@20001,Ho proprio voglia di vedere a che clan ti unirai!
+20015,@20001,"O magari inizierai per conto tuo, per poi diventare leader di un nuovo potente clan!"
+20016,,
+21001,Theodore,Hai sentito parlare della <YellowBold>Torre dell’Insolenza</>? Ogni avventuriero ad Aden dovrebbe entrarci almeno una volta.
+21002,@21001,Bene allora. Proviamo la Torre dell’Insolenza adesso.
+21003,@21001,Puoi entrare nella Torre dell’Insolenza tramite il menu Segreta.
+21004,@21001,Tocca qui.
+21005,@21001,Vedi la torre infinitamente alta? Quella è la Torre dell’Insolenza.
+21006,,
+21007,@21001,<YellowBold>La Torre dell’Insolenza</> è stata costruita dall’Imperatore Baium di Elmoreden in segno di sfida agli Dei.
+21008,@21001,"Un tempo era chiamata Torre dell’Eternità, ma il dio Einhasad, in preda all’ira, la riempì di mostri."
+21009,@21001,"Più in alto sali nella torre, più forti sono i mostri che incontri e migliori i tesori che puoi trovare."
+21010,@21001,"La cosa ti incuriosisce? Al momento, dovresti essere in grado di completare almeno il primo piano."
+21011,,
+21012,,
+21013,,
+21014,@21001,Niente male.
+21015,,
+21016,@21001,"Per ogni piano che hai già completato, puoi acquisire ricompense aggiuntive una volta al giorno usando <YellowBold>Completamento automatico</>."
+21017,@21001,Qui puoi controllare la ricompensa di Completamento automatico per ogni piano.
+21018,@21001,Puoi acquisire <YellowBold>Frammenti di Runa</> usando Completamento automatico. Immaginala come un modo per migliorare le tue abilità di combattimento.
+21019,@21001,La prossima volta che ci vediamo ti insegnerò qualcos’altro.
+21020,,
+21021,,
+21022,@21001,Mmm... Sembra che il tuo allenamento non sia stato sufficiente...
+21023,@21001,Torniamo indietro toccando lo schermo.
+21024,,
+22001,@21001,Ti insegnerò come usare i Frammenti di Runa per diventare più forte. Questo processo si chiama Incisione delle Rune.
+22002,@21001,L’Incisione delle Rune è un modo per migliorare direttamente il tuo personaggio.
+22003,@21001,Usala per provare a imprimere le Rune.
+22004,@21001,"Tramite l’Incisione delle Rune, le abilità di ogni runa diventano tue <YellowBold>in modo permanente</>."
+22005,@21001,"Per l’Incisione delle Rune sono necessari <YellowBold>Frammenti di Runa</>. Proprio così, quelle cose che hai acquisito completando automaticamente la Torre dell’Insolenza."
+22006,@21001,Porteremo a termine il tipo più basilare di Incisione delle Rune.
+22007,@21001,Puoi dare un’occhiata qui per vedere i materiali richiesti per imprimere le Rune.
+22008,@21001,Ora prova a imprimere le Rune.
+22009,,
+22010,@21001,"Dato che è la tua prima volta, ti fornirò i materiali necessari."
+22011,@21001,I preparativi sono terminati. Prova a imprimere.
+22012,,
+22013,@21001,Hai notato la grande runa al centro? Quella è la <YellowBold>Runa essenziale</>.
+22014,@21001,Il livello della <YellowBold>Runa essenziale</> aumenta quando tutte le Rune su ogni pagina sono impresse nello stesso rango.
+22015,@21001,"Ricorda, le Rune essenziali garantiscono <YellowBold>molte più statistiche</> delle Rune comuni."
+22016,@21001,"Come hai notato, questa è la Runa essenziale."
+22017,@21001,Le Rune essenziali garantiscono molte statistiche a cui puoi aspirare.
+22018,@21001,E per finire... Queste non sono tutte le Rune che si possono imprimere.
+22019,@21001,Puoi usare questo per sbloccare altre pagine di Rune.
+22020,@21001,Puoi imprimere <YellowBold>Rune più diversificate e potenti man mano che ottieni accesso a più pagine</>.
+22021,@21001,Tuttavia <YellowBold>tutte le Rune su una pagina devono essere impresse a un livello più alto rispetto al Liv. 1</> per poter sbloccare la pagina successiva.
+22022,@21001,"L’Incisione delle Rune tira fuori potenti abilità, per cui richiede preparativi adeguati."
+22023,@21001,Ottimo! Non vedo l’ora di vedere quanto diventerai forte grazie al potere dell’Incisione delle Rune.
+22024,,
+23001,,
+23002,@21001,Apriamo l’Inventario.
+23003,@21001,Seleziona il riquadro dell’armatura.
+23004,@21001,Equipaggia la protezione per la testa che ti ho dato.
+23005,@21001,"Sai che devi toccare su equipaggia, giusto?"
+23006,@21001,Se controlli attentamente la protezione per la testa che hai appena equipaggiato...
+23007,,
+23008,@21001,Troverai lo slot per equipaggiare Cristalli dell’Anima.
+23009,@21001,I Cristalli dell’Anima sono gemme che contengono le anime dei mostri. Equipaggiarli ha come effetto <YellowBold>l’applicazione delle statistiche dell’anima all’equipaggiamento</>.
+23010,@21001,Le caratteristiche dei Cristalli dell’Anima ne determinano le statistiche. Anime più forti forniscono <YellowBold>statistiche più potenti</>.
+23011,@21001,Puoi usare i Cristalli dell’Anima come materiale per crearne <YellowBold>altri più potenti</>.
+23012,@21001,Equipaggeremo i Cristalli dell’Anima su questo equipaggiamento.
+23013,@21001,Ecco un Cristallo dell’Anima acquisito sconfiggendo quel mostro.
+23014,@21001,Bene. Equipaggiamolo.
+23015,@21001,Ben fatto. Ora esamineremo l’<YellowBold>upgrade</> dei Cristalli dell’Anima.
+23016,@21001,<YellowBold>Effettuare l’upgrade</> è l’unico modo di <YellowBold>aumentare il grado</> dei Cristalli dell’Anima.
+23017,@21001,Tocca ‘Effettua l’upgrade’.
+23018,@21001,Tocca il Cristallo dell’Anima su cui vuoi effettuare l'upgrade.
+23019,@21001,Tocca su aumento di livello ed è tutto pronto.
+23020,@21001,"Poi, tocca ‘Effettua l’upgrade’ per compiere la magia."
+23021,@21001,
+23022,@21001,Ben fatto. Andiamocene da qui.
+23023,@21001,"Se hai una protezione per la testa migliore, equipaggia quella."
+23024,@21001,Tocca per equipaggiare automaticamente.
+23025,@21001,Ricorda che puoi solo <YellowBold>effettuare l’upgrade</> dei Cristalli dell’Anima quando possiedi la quantità necessaria di Cristalli dell’Anima dello <YellowBold>stesso grado e tipo</>.
+23026,@21001,Questo è tutto sui Cristalli dell’Anima. Un Cristallo dell’Anima potrebbe fare la differenza tra la vittoria e la sconfitta. Usali saggiamente.
+23027,@21001,집혼석 하나의 차이가 전투의 승패를 바꾸는 결과를 만들어 내지. 잘 이용하도록 해라.
+24001,@12001,Puoi entrare nelle Segrete Élite dal menu Segreta.
+24002,@12001,Confido nel fatto che tu sappia come arrivarci.
+24003,@12001,Tocca qui.
+24004,@12001,Laggiù! Vedi la Segreta Élite? Selezionala.
+24005,,
+24006,@12001,"Mi sono imbattuto in questo posto quando ero un archeologo...
+I mostri più abietti di Aden appaiono qui."
+24007,@12001,"Potresti incontrare dei mostri che non puoi sconfiggere da solo - dovresti portare con te qualche <YellowBold>amico fidato</>. Più alto è il rischio, più grandi sono le ricompense."
+24008,@12001,Il Signore assegnerà nuove missioni Segreta Élite ogni giorno.
+24009,@12001,Riceverai ricompense aggiuntive ogni volta che completi 5 missioni.
+24010,@12001,Puoi acquisire Esp. aggiuntiva ogni giorno durante questo periodo.
+24011,@12001,È pericoloso avventurarsi da soli nelle Segrete Élite. Avere un gruppo ed essere in tanti è più sicuro.
+24012,,
+25001,@21001,Ti insegnerò come fare l’upgrade dell’equipaggiamento.
+25002,@21001,"Ti ricordi come arrivare alla Fucina, giusto?"
+25003,@21001,@21004
+25004,@21001,Tocca su upgrade.
+25005,@21001,Usa le Pietre Upgrade <YellowBold>per aumentare il grado dell’equipaggiamento mantenendone comunque l’aspetto e le statistiche.</>
+25006,@21001,"Per effettuare l’upgrade dell’equipaggiamento, ti servono <YellowBold>Pietre Upgrade specifiche per le singole parti dell’equipaggiamento</>."
+25007,@21001,Per esempio ti servono <YellowBold>Pietre Upgrade Accessorio</> per effettuare l’upgrade di accessori.
+25008,@21001,Da’ un’occhiata qui per vedere il risultato dell’upgrade previsto.
+25009,@21001,"Bene, effettuiamo l’upgrade di qualche accessorio!"
+25010,,
+25011,@21001,Tocca quest’anello per posizionarlo nello slot upgrade.
+25012,@21001,Tocca questo pulsante per iniziare l’upgrade.
+25013,,
+25014,@21001,Ottimo! Complimenti.
+25015,@21001,Usa la funzionalità upgrade se vuoi <YellowBold>mantenere le statistiche di un elemento dell’equipaggiamento che preferisci o combinare equipaggiamento</>.
+25016,@21001,Tieni a mente che le Pietre Upgrade sono rare e difficili da ottenere.
+25017,,
+26001,Fata purificatrice,Potenzia l’Equipaggiamento usando le pergamene.
+26002,@26001,Tocca su un oggetto.
+26003,@26001,Devi andare alla Fucina per potenziare l’equipaggiamento.
+26004,@26001,Tocca sul pulsante potenziamento.
+26005,@26001,<YellowBold>Le Pergamene di Potenziamento specifiche dell’equipaggiamento</> sono necessarie per potenziare tipi specifici di equipaggiamento.
+26006,@26001,"Ricorda, <YellowBold>le Pergamene Benedette</> possono potenziare fino a +3 in una volta."
+26007,@26001,Puoi ottenere statistiche bonus aggiuntive se combini i livelli di potenziamento di vari elementi di equipaggiamento. Mantenere l’equilibrio è la scelta migliore.
+26008,@26001,Non dimenticare che l’equipaggiamento ha dei livelli di potenziamento massimi in base al grado.
+26009,@26001,Potenziamo quest’arma.
+26010,,
+26011,@26001,Le pergamene di potenziamento si trovano sul riquadro Altro.
+26012,@26001,Seleziona una Pergamena: Potenzia Arma.
+26013,@26001,Fai attenzione... è possibile che il potenziamento non vada a buon fine.
+26014,@26001,"Se sei pronto, inizia il potenziamento."
+26015,,
+26016,@26001,Grandioso! Spero ti piaccia.
+26017,@26001,Fa’ attenzione. I potenziamenti di successo possono aumentare le statistiche ma il loro fallimento può portare alla diminuzione del livello di potenziamento.
+26018,,
+27001,@12001,Ti insegnerò come usare il Codex. Seguimi.
+27002,@12001,Puoi trovare il Codex nel menu Sfida.
+27003,@12001,Eccoci qua.
+27004,@12001,Puoi registrare le Essenze ottenute dai mostri nel <YellowBold>Codex</>. Colleziona Essenze per aumentare di livello il Codex e <YellowBold>aumentare le tue statistiche</>!
+27005,@12001,"Se raccogli <YellowBold>tutte le Essenze di Mostro in una regione specifica</>, il tuo <YellowBold>bonus statistiche aumenta ulteriormente</>."
+27006,@12001,Ti insegnerò <YellowBold>come registrare le Essenze</>.
+27007,@12001,Bestia rossa è un mostro che appare sull’Isola Parlante Ovest. Selezionala.
+27008,@12001,Ci sono abbastanza Essenze per completare il Codex. Bene. Crea il Codex!
+27009,,
+27010,@12001,"Ben fatto. Facile, vero?"
+27011,@12001,"Tutti i mostri possono rilasciare Essenze, ma i mostri normali non lo fanno spesso."
+27012,@12001,<p>Concentra la tua caccia sui <YellowBold>Mostri Noti</>. È garantito il rilascio di Essenze.
+27013,,
+28001,@26001,Ti insegnerò un’abilità rara che conosco.
+28002,@26001,Dovrebbe essere d’aiuto. Di qua...
+28003,@26001,Qui puoi apprendere abilità rare.
+28004,@26001,Seleziona la Pergamena Dimenticata.
+28005,@26001,"<YellowBold>Le abilità rare</> sono diverse da quelle normali e <YellowBold>sono sia efficaci che potenti</>. Chiunque può usarle, a prescindere dalla classe."
+28006,@26001,Ma è importante notare che le abilità rare non si possono apprendere normalmente o aumentare di livello. Devi riunire <YellowBold>pagine di Pergamena Dimenticata</> per completarle.
+28007,@26001,Seleziona la pagina abilità che ti ho appena dato.
+28008,@26001,Dobbiamo creare una Pergamena Dimenticata.
+28009,,
+28010,@26001,Ben fatto!
+28011,@26001,Puoi usare la tua <YellowBold>Pergamena Dimenticata</> per apprendere un’abilità rara. Controlla l’inventario.
+28012,@26001,Su...
+28013,@26001,Di qua.
+28014,@26001,Presto...
+28015,@26001,Apri l’inventario.
+28016,@26001,Ecco il manuale.
+28017,@26001,Questa è la Pergamena Dimenticata appena creata.
+28018,@26001,Tocca su Usa per apprendere l’abilità.
+28019,@26001,Ben fatto! Ora prova a registrare un’abilità rara in uno slot.
+28020,@26001,Ok. Ritorniamo alla schermata Gestisci Abilità.
+28021,@26001,Qui.
+28022,@26001,Confido nel fatto che tu sappia cosa fare.
+28023,@26001,"Sì, proprio così."
+28024,@26001,È l’abilità rara che hai appena appreso.
+28025,@26001,Devi registrare un’abilità rara in uno slot abilità rara per poterla usare.
+28026,@26001,Tocca per registrare un’abilità.
+28027,@26001,Ben fatto. Puoi acquisire altre abilità rare da mostri potenti come <YellowBold>boss delle incursioni</> e al Mercato.
+28028,@26001,Usare abilità rare in battaglia dovrebbe portare a risultati incredibili! Cerca di raccogliere il maggior numero possibile di abilità rare.
+28029,,
+29001,Aymel,Mmm... se penso che lo spazio creato dal Mistico Oscuro era collegato al tunnel sotto la Torre d’Avorio.
+29002,@29001,Il tunnel sotto la Torre d’Avorio? È lì che puoi raccogliere erbe speciali usate per la creazione di <YellowBold>Elisir</>.
+29003,@29001,"Vuoi andarci di nuovo? Beh, che ne pensi di questo per ora?"
+29004,@29001,Puoi arrivarci dal menu Segreta.
+29005,@29001,Tocca qui.
+29006,@29001,È anche conosciuta come Segreta di Estrazione.
+29007,,
+29008,@29001,Puoi combinare le erbe disponibili per creare <YellowBold>Elisir</> che aumentano permanentemente le tue statistiche.
+29009,@29001,"In ogni caso, la Nebulite nel tunnel significa che non puoi rimanerci a lungo. L’esposizione prolungata fa impazzire ogni essere senziente."
+29010,@29001,Di conseguenza puoi solo estrarre un numero prestabilito di erbe al giorno.
+29011,,
+30001,@29001,L’esistenza di erbe magiche significa che gli Dei sono dalla nostra parte. Possiamo usarle per creare gli <YellowBold>Elisir</>.
+30002,@29001,"Il tempo è poco, quindi ascolta attentamente."
+30003,@29001,Per poter creare un Elisir...
+30004,@29001,Vai al menu Personaggio...
+30005,@29001,E tocca sul pulsante Elisir.
+30006,@29001,Qui puoi creare Elisir. La creazione richiede <YellowBold>4 erbe</>.
+30007,@29001,"Elisir diversi hanno effetti diversi, quindi scegli attentamente."
+30008,@29001,Creiamo un Elisir PS.
+30009,@29001,I materiali sono pronti. Cominciamo!
+30010,,
+30011,@29001,Gli Elisir <YellowBold>vengono usati nel momento in cui vengono creati</>! Dovresti già sentirti più forte!
+30012,@29001,"Puoi acquisire materiali per gli Elisir anche dalle Segrete giornaliere, dai mostri e al Negozio."
+30013,@29001,"Raccogli tutte le <YellowBold>erbe ed essenze</> che puoi, perché sono fondamentali per diventare più forte."
+30014,,
+31001,Nine,"Lascia che ti insegni come cavalcare l’Orso nero!
+Presta attenzione e in pochissimo tempo sarai in grado di cavalcare!"
+31002,@31001,Vai al menu principale.
+31003,@31001,Tocca sul menu Personaggio.
+31004,@31001,Seleziona Cavalcature.
+31005,@31001,Vedi come si seleziona Orso nero?
+31006,@31001,Tocca per evocarlo!
+31007,@31001,Assicurati che l’Orso nero evocato entri in battaglia per poterlo cavalcare.
+31008,@31001,"Andiamo fuori, così puoi cavalcarlo."
+31009,@31001,Tocca su Cavalca!
+31010,@31001,Questo giovanotto è chiaramente già affezionato a te! Prenditi cura dell’Orso nero come si deve!
+32001,Monta,"Fai attenzione al Monte Eborga, Kresous vive lì. Per non parlare del fatto che i demoni appaiono nel Cerchio di Evocazione."
+32002,@32001,Feldheim potrebbe essere nei guai in questo esatto momento!
+32003,@32001,Entra nel Cerchio di Evocazione da qui!
+32004,@32001,Tocca qui.
+32005,@32001,Sbrigatevi!
+32006,,
+32007,@32001,Oh! Assicurati di riunire altri giocatori prima di andare in un Cerchio di Evocazione. È piuttosto pericoloso all’interno!
+32008,,
+101001,@3002,Tocca sul pulsante menu principale.
+101002,@3002,Poi tocca sul pulsante amico.
+101003,@3002,Le avventure sono più divertenti con qualcun altro. Qui puoi aggiungere amici e salutarli per mandare e ricevere <YellowBold>Punti Amicizia</>.
+101004,@3002,Oh! Ho degli amici da presentarti!
+101005,@3002,Da questa parte. Tocca su Amici Consigliati!
+101006,@3002,Vedi qualcuno che ti piace?
+101007,@3002,Fare amicizia ha molti vantaggi! Potete intraprendere avventure insieme e... essere amici! Con le vostre forze messe insieme potete perfino sconfiggere mostri enormi!
+101008,,
+102001,@17001,È facile. Ti spiego!
+102002,@17001,Puoi <YellowBold>creare un gruppo</> e reclutare altri giocatori.
+102003,@17001,<YellowBold>La ricerca gruppo manuale</> ti consente di trovare e unirti al gruppo di un altro giocatore.
+102004,@17001,"Usando <YellowBold>Unione automatica</>, ti unirai automaticamente a un gruppo che rispecchia le tue preferenze."
+102005,,
+104001,Pan il Venditore,Vuoi informazioni sul Mercato? Tocca sul pulsante del menu principale.
+104002,@104001,"Miao, tocca sul pulsante Mercato."
+104003,@104001,Sicuramente avrai degli oggetti che possono essere venduti in negozio ma rimangono inutilizzati nell’inventario!
+104004,@104001,Nel Mercato puoi concludere affari per i tuoi oggetti extra o acquistare oggetti rari da altri giocatori!
+104005,@104001,Imposta le tue condizioni di ricerca e il commesso del Mercato ti mostrerà una miriade di articoli che potrebbero interessarti!
+104006,@104001,"Vendi qualcosa, miao, e vedi con i tuoi occhi!"
+104007,@104001,Da questa parte. Sarà meglio che usi questo.
+104008,@104001,"Metti in vendita il tuo oggetto e stabilisci il prezzo di vendita e noi penseremo al resto! Miao, devo avvertirti però: c’è un limite per il prezzo."
+104009,@104001,"Tieni duro! Quello è un oggetto di <YellowBold>Grado A</>?
+<p>Il Mercato funziona solo con oggetti di grado <YellowBold>S</> o più alto..."
+104010,@104001,Non prenderla sul perrr-sonale! Dobbiamo assicurarci che le nostre scorte siano della qualità che i clienti si aspettano.
+104011,@104001,"Miao allora, vieni qui."
+104012,@104001,Guarda questo!
+104013,@104001,Usalo per continuare con le tue offerte e controllare se i tuoi oggetti sono stati venduti!
+104014,,
+112001,Studente Accademico,Rivediamo il funzionamento delle Quest giornaliere.
+112002,@112001,Tocca su Sfide per iniziare.
+112003,@112001,Poi tocca su Quest.
+112004,@112001,Ora tocca su Quest giornaliere.
+112005,@112001,Puoi ricevere e completare fino a <YellowBold>12</> quest ogni giorno.
+112006,@112001,In ogni caso puoi avere solo fino a 3 quest attive contemporaneamente.
+112007,@112001,Scegli le tue quest attentamente: la difficoltà e le ricompense si basano sul grado della quest.
+112008,@112001,Qui puoi vedere come completare la quest.
+112009,@112001,Puoi anche dare un’occhiata alle ricompense della quest.
+112010,@112001,Cominciamo una quest e vedi con i tuoi occhi!
+112011,@112001,Guarda come cambia il contenuto della quest.
+112012,@112001,"Puoi completare le quest che hai accettato, sennò verranno <YellowBold>completate automaticamente dopo un po’ di tempo.</>"
+112013,@112001,"Oppure, se sei impaziente, puoi <YellowBold>usare Adena per completare le quest immediatamente</>."
+112014,@112001,Puoi controllare il tuo livello di completamento delle Quest giornaliere e richiedere ricompense aggiuntive qui.
+112015,@112001,Qui puoi modificare tutte le quest in standby.
+112016,@112001,<YellowBold>Modificare le quest</> in modo efficace dovrebbe dimostrarsi utile per diventare più forte.
+112017,@112001,"Approfittane adesso, o potresti pentirtene in seguito!"
+112018,,
+113001,@112001,Ora esamineremo le Quest settimanali!
+113002,@112001,@112002
+113003,@112001,Poi tocca su Quest.
+113004,@112001,Ora tocca su Quest settimanali.
+113005,@112001,Qui puoi accettare quest che possono essere completate in una settimana.
+113006,@112001,Puoi completare fino a <YellowBold>15 quest ogni giorno</>.
+113007,@112001,Dovrai lavorare sulle quest regolarmente se vuoi raccogliere delle ricompense!
+113008,@112001,Puoi rivedere i dettagli delle quest in corso qui.
+113009,@112001,Iniziamo una quest! Tocca su Accetta Quest.
+113010,@112001,Completa le Quest settimanali regolarmente e raccogli le ricompense!
+113011,@112001,Ricorda: la cosa più importante delle Quest settimanali è <YellowBold>farle ogni giorno</>!
+113012,,
+114001,@29001,Hai finalmente i requisiti per effettuare <YellowBold>donazioni al clan</>!
+114002,@29001,Le donazioni sono ciò che fa funzionare i clan come si deve!
+114003,@29001,Diamo un’occhiata a come si fa una donazione.
+114004,@29001,Andiamo al menu Clan.
+114005,@29001,Tocca sul pulsante Dona.
+114006,@29001,"Puoi donare Adena,"
+114007,@29001,Prova di sangue
+114008,@29001,e Pietrestella rosse.
+114009,@29001,"La tua donazione sarà migliore se usi Prova di sangue o Pietrestella rosse,"
+114010,@29001,ma acquistarle può essere un po’ complicato.
+114011,@29001,Dividerò un po’ di Prova di sangue con te per questa volta.
+114012,@29001,Prova a donare un po’ di Prova di sangue.
+114013,@29001,Assicurati di raccogliere le ricompense della donazione!
+114014,@29001,I punteggi contributo mostrano quali membri del clan hanno effettuato più donazioni.
+114015,@29001,Oh! Quasi dimenticavo delle <YellowBold>Monete del Clan</>. Le riceverai ogni volta che fai una donazione e puoi usarle per effettuare acquisti nel Negozio del Clan o comprare buff del clan.
+114016,@29001,Ora usciamo di qui.
+114017,@29001,Questo è il Negozio del Clan di cui parlavo prima.
+114018,@29001,"Qui ci sono oggetti sia per migliorare il clan che per tuo beneficio personale, quindi dai un’occhiata in giro."
+114019,@29001,"Alcuni oggetti possono solo essere acquistati dopo aver soddisfatto certe condizioni, ma sono sicura che non avrai nessun problema al riguardo."
+114020,,
+115001,@29001,Cosa? Non sei ancora in un <YellowBold>clan</>?!
+115002,@29001,Lascia che ti ricordi come si fa a unirsi a un clan.
+115003,@29001,@114004
+115004,@29001,Seguimi.
+115005,@29001,Tocca l’ultimo pulsante.
+115006,@29001,Vedi tutti i clan?
+115007,@29001,Ci sono tantissimi vantaggi nell’unirsi a un clan!
+115008,@29001,Sono sicura che non te ne pentirai.
+115009,,
+116001,@29001,Spero che tu ti stia trovando bene all’interno del tuo clan.
+116002,@29001,È tempo che ti insegni qualcosa di nuovo.
+116003,@29001,Torniamo al menu Clan.
+116004,@29001,@115004
+116005,@29001,Voglio mostrarti i Traguardi del Clan!
+116006,@29001,Tutti i membri del clan contribuiscono ai Traguardi del Clan e l’intero clan riceve ricompense quando vengono completati!
+116007,@29001,Le ricompense individuali vengono inviate a ogni membro singolo.
+116008,@29001,<YellowBold>Le ricompense del Clan vengono inviate al Deposito del clan</>.
+116009,@29001,"In ogni caso le ricompense sono disponibili solo se i traguardi vengono completati tempestivamente, quindi l’intero clan dovrà collaborare."
+116010,@29001,"È necessaria una grande cooperazione per completare i traguardi, ma lavorare insieme unirà il tuo clan!"
+116011,,
+117001,@29001,Ti piace far parte di un clan?
+117002,@29001,C’è qualcosa di molto importante che devo dirti sui clan.
+117003,@29001,@114004
+117004,@29001,Questa è una Segreta del clan.
+117005,@29001,I giocatori dello stesso clan possono entrare nella Segreta del clan insieme e sfidare potenti boss.
+117006,@29001,I membri del clan devono lavorare insieme per conquistare la Segreta del clan: è la prova decisiva della forza di un clan!
+117007,@29001,Sarà una dura battaglia: ma le ricompense valgono la pena!
+117008,@29001,Sfidare la Segreta del clan è positivo per il clan e per migliorare le tue abilità!
+117009,@29001,Coopera con altri membri del clan e insieme sarete inarrestabili!
+117010,,
+118001,@11001,Benvenuto. Puoi controllare il <YellowBold>progresso della quest</> qui.
+118002,@11001,"Qui puoi vedere contemporaneamente le <YellowBold>quest in corso</>, le <GreenBold>quest completate</> e quelle da portare a termine."
+118003,@11001,Guarda! Puoi anche vedere le <YellowBold>ricompense</> aggiuntive.
+118004,,
+119001,@18001,"Stai finalmente mostrando un qualche interesse per l'artigianato?<p>Ahahah!!! Mi rendi davvero felice!<p>Come sai, puoi ottenere equipaggiamento di grado UR solo creandoli! Ti dirò quanto devi sapere, quindi ascolta attentamente!"
+119002,@18001,"Per iniziare, metti l’equipaggiamento che vuoi creare qui!"
+119003,@18001,Ti servirà la ricetta per l’equipaggiamento che vuoi creare!
+119004,@18001,"Poi, avrai bisogno di legno o minerali rari!"
+119005,@18001,"Cos’altro serviva... Oh, sì! Ti serviranno materiali come l’Upgrade Pietra Radiant!"
+119006,@18001,E poi ti serviranno gli Scarti acquisiti recuperando armi o armature!
+119007,@18001,Puoi creare equipaggiamento di Grado UR a patto che tu abbia queste quattro cose!
+119008,@18001,"Oh! Quasi dimenticavo!<p>Puoi creare equipaggiamento di grado UR solo impiegandone di liv. 30 e grado SR!<p>Inoltre, l'equipaggiamento di grado UR mantiene i suoi miglioramenti, superamento limite, sotto-statistiche e attributi!<p>Tutti e quattro i materiali possono potenziare l'equipaggiamento. Assicurati di migliorare il tuo equipaggiamento ogni volta che raccogli un tipo di materiale. Di sicuro apprezzerai il notevole aumento di potenza del tuo equipaggiamento!<p> Ovviamente, l'equipaggiamento di grado UR creato usando tutti i quattro tipi di materiale sarà incredibilmente più forte! Ahahah!"
+119009,,
+201001,@29001,Whoa! Sei pronto per passare di classe? Incredibile!
+201002,@29001,Ho un messaggio per te riguardo alla prova per il passaggio di classe.
+201003,@29001,I Mercenari Silverlight stanno concedendo nuove classi a chiunque sia abbastanza forte da passare la loro prova.
+201004,@29001,"Puoi apprendere <YellowBold>nuove abilità</> con il passaggio di classe, e avrai così la possibilità di diventare ancora più forte."
+201005,,
+201006,@29001,"Guarda, questa è la prima prova."
+201007,@29001,Per passare la prima prova devi sconfiggere 50 mostri.
+201008,@29001,Questo servirà a misurare le tue abilità di combattimento di base.
+201009,@29001,Sono sicura che passerai a pieni voti!
+201010,@29001,La prova successiva ti sarà rivelata una volta superata la prima.
+201011,@29001,"Una volta superate tutte e sette le prove, sarai in grado di passare di classe."
+201012,@29001,E poi... sarai ancora più forte!!!
+201013,@29001,Hai capito! <YellowBold>[player]</>
+201014,@29001,"Ci rivediamo la prossima volta con il nuovo te, più forte!"
+201015,,
+202001,Lonna,Ho pensato che potesse servirti più Adena adesso...
+202002,@202001,"Ecco, ti mostrerò il posto migliore per trovare Adena."
+202003,@202001,È proprio dentro la Segreta!
+202004,@202001,Tocca qui.
+202005,@202001,Tocca il pulsante Segreta di Adena.
+202006,,
+202007,@202001,"Questa è la casa di Kresous, il Drago d’Oro."
+202008,@202001,Sconfiggi Kresous per saccheggiare la sua riserva di Adena!
+202009,@202001,"Esiste un limite giornaliero per la Segreta di Adena, quindi sfrutta al massimo ogni tentativo!"
+202010,@202001,Non vedo l’ora di sapere della tua vittoria contro il drago!
+202011,,
+203001,Aida,Ehi! Vuoi sapere di un posto incredibile per trovare equipaggiamento?
+203002,@203001,Basta guardare in questa segreta speciale!
+203003,@203001,Tocca qui.
+203004,@203001,Seleziona il Tempio Guardiano!
+203005,,
+203006,@203001,Proteggi il <YellowBold>Sacro Artefatto</> e troverai sicuramente tutto l’<YellowBold>equipaggiamento</> che ti serve.
+203007,@203001,C’è solo un piccolo inghippo. Il Tempio Guardiano è aperto solo ai giocatori che fanno parte di <YellowBold>un gruppo</> ed è possibile entrare solo <YellowBold>alcune volte al giorno</>.
+203008,,
+204001,Tiana,Per caso sei a corto di pergamene per potenziare l’equipaggiamento?
+204002,@204001,Conosco il posto ideale!
+204003,@204001,La Segreta delle Pergamene di Potenziamento.
+204004,,
+204005,@204001,"Rimuovi il sigillo dal Sacro Artefatto e acquisisci Pergamene di Potenziamento! Fai del tuo meglio, perché c’è un <YellowBold>limite di ingressi giornaliero</>!"
+204006,@204001,Potenziare le tue armi è il modo <YellowBold>più semplice e potente</> per diventare più forte!
+204007,,
+205001,@202001,Un uccellino mi ha detto che potrebbe servirti un po’ d’aiuto per diventare più forte.
+205002,@202001,Ti mostrerò un buon posto per aumentare di livello!
+205003,@202001,Tocca qui.
+205004,@202001,La Segreta dell'esperienza!
+205005,,
+205006,@202001,"Qui puoi acquisire grandi quantità di Esp. tutte in una volta... ma non ci contare troppo, dato che c’è un <YellowBold>limite di ingressi giornaliero</>."
+205007,@202001,Mettiti alla prova e aumenterai di livello in pochissimo tempo! Scommetto che sarai davvero forte la prossima volta che ci vedremo!
+205008,,
+207001,@18001,"Benvenuto. I Mercenari Silverlight sono conosciuti da tempo come un simbolo di giustizia, ma sono conosciuti anche per i loro eleganti e unici <YellowBold>mantelli</>.<p>Penso sia giunto il momento che anche tu indossi un mantello. Non preoccuparti, ti insegnerò come!<p>Come prima cosa, ti serve una spilla per il mantello. Ecco, prendi questa e ottieni un Mantello dell’Avventuriero."
+207002,@18001,Clicca su Ottieni.
+207003,@18001,Clicca su Equipaggia.
+207004,@18001,Il Mantello dell’Avventuriero ti sta benissimo! Puoi aggiungere stile al tuo mantello usando filo. Eccoti un po’ di filo.
+207005,@18001,Clicca aumento di livello.
+207006,@18001,"Clicca su aumento di livello, proprio qui."
+207007,,
+207008,@18001,Il tuo mantello è già diventato più bello! Ti piace?
+207009,@18001,Puoi usare Tessuto Magico per cambiare le sottostatistiche del mantello.<p>Continua a farlo finché non ottieni le sottostatistiche che vuoi.<p>Non ho nient’altro da dirti sui mantelli. Adesso tocca a te creare il tuo mantello unico!
+301001,@18001,Ah. Vedo che non sei riuscito a migliorare?
+301002,@18001,Fallimento nel migliorare <YellowBold>+6 potenziamenti</> l’equipaggiamento può risultare diminuito nel <YellowBold>livello di potenziamento </>.
+301003,@18001,"Ma, osserva che puoi utilizzare <YellowBold>Protezione di Maphr</> per prevenire che il livello di potenziamento diminuisca."
+301004,@18001,"Inoltre, l’equipaggiamento potenziato a <YellowBold>+7, +10, e +20</> o superiore non scenderà al di sotto di questi valori."
+301005,@18001,Tenere questo a mente sarà d’aiuto quando potenzierai equipaggiamento in futuro.
+301006,@18001,Ti darò una Protezione di Maphr come dimostrazione.
+301007,@18001,"Tocca ""Vario""."
+301008,@18001,Vedi l’oggetto Protezione di Maphr?
+301009,@18001,La <YellowBold>Protezione di Maphr</> è un oggetto davvero prezioso che impedisce al livello di potenziamento di diminuire dopo un potenziamento non riuscito.
+301010,@18001,"Vai avanti, tocca su Officina!"
+301011,@18001,Raccogli Frammenti di Protezione di Maphr dall’Officina per creare <YellowBold>Protezione di Maphr</>.
+301012,,
+302001,@21001,Hai mai sentito parlare delle <YellowBold>Pietre di Evocazione Mostro Raro</>? No? Allora vediamo come usare Pietre di Evocazione Mostro Raro per acquisire Essenze di Mostro.
+302002,@21001,Tocca Inventario.
+302003,@21001,Vai alla Scheda Consumabili.
+302004,@21001,"Qui, prendi una Pietra di Evocazione Mostro Raro."
+302005,@21001,Prova a toccare Usa.
+302006,@21001,Vedi tutti quei mostri rari? Seleziona quello che ti intriga di più.
+302007,@21001,"Ci sono Essenze di Mostro per ogni mostro raro.
+<p>Assicurati di completare le Quest settimanali per accumulare le Pietre di Evocazione Mostro Raro."
+302008,@21001,Tocca Evoca!
+302009,@21001,Questo pulsante qui!
+302010,@21001,여기를 누르면 된다네!

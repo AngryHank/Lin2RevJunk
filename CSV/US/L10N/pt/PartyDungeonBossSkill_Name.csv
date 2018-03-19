@@ -1,0 +1,185 @@
+ID,SkillName,SkillDesc
+1,Alvo identificado,"Seleciona um <YellowBold>alvo</> dentre os jogadores
+próximos. Como sua habilidade é muito
+rápida, não pode ser desviada se estiver
+dentro do alcance.
+
+O alvo será <YellowBold>atordoado</> e
+não conseguirá se mover."
+2,Arremesso de machado,"Arremessa um machado no alvo e causa <YellowBold>dano </>
+<YellowBold>fixo. O dano causado será distribuído</>
+por todos os alvos atingidos pelo machado.
+Os alvos atingidos pelo machado serão
+afetados por <YellowBold>Brasas</>.
+
+As <YellowBold>brasas</> explodirão após um tempo
+e causarão <YellowBold>Derrubada</> nos alvos afetados.
+Aparecerão <YellowBold>Chamas</> embaixo dos alvos
+que causarão dano extra."
+3,Ruptura,"Causa dano a todos os alvos
+em um <YellowBold>alcance frontal</>."
+4,Lâmina lunática,"Causa dano em forma de leque a todos os
+alvos frontais.
+A <YellowBold>Ignição</> afetará todos os alvos atacados.
+
+Os alvos afetados por <YellowBold>Ignição</> receberão 
+<YellowBold>dano adicional a cada 1 Ignição acumulada</>
+quando a <RedBold>Brasa de Paagrio</> <YellowBold>explodir</>.
+A Ignição acumula-se até 5 vezes."
+5,Perdição,"<RedBold>Ramog</> move-se para o centro
+e causa DA por <YellowBold>270 graus à sua volta</>.
+Quando usada, esta habilidade
+<YellowBold>ativa-se 4 vezes consecutivamente</>.
+Cada vez que é ativada, a direção muda.
+Perdição causa <YellowBold>Ignição</> aos alvos afetados.
+
+Os alvos afetados por <YellowBold>Ignição</>
+receberão <YellowBold>dano adicional a cada 1 Ignição</>
+<YellowBold>acumulada</> quando a <RedBold>Brasa de Paagrio</> <YellowBold>explodir</>.
+A Ignição acumula-se até 5 vezes."
+6,Preparar explosão,"<RedBold>Ramog</> move-se para o centro
+e evoca <RedBold>Brasa de Paagrio</>.
+
+A <RedBold>Brasa de Paagrio</> move-se em direção a
+<RedBold>Ramog</>  e explode assim que entra em
+contato com <RedBold>Ramog</>,
+causando dano devastador em tudo que
+estiver na tela.
+
+Os alvos afetados por <YellowBold>Ignição</>
+<YellowBold>sofrerão dano proporcional à Ignição</>
+<YellowBold>acumulada aplicada a eles.</>"
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Arremessa um machado no alvo e causa <YellowBold>dano fixo</>.
+<YellowBold>O dano causado será distribuído</>
+por todos os alvos atingidos pelo machado.
+Os alvos atingidos pelo machado serão afetados por <YellowBold>Brasas</>.
+
+As <YellowBold>brasas</> explodirão após um tempo
+e causarão <YellowBold>Derrubada</> nos alvos afetados.
+Aparecerão <YellowBold>Chamas</> embaixo dos alvos
+que causarão dano extra.
+
+<YellowBold>- Há uma pequena chance</>
+de ele arremessar o machado <YellowBold>2 vezes consecutivas</>."
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> move-se para o centro
+e causa DA por <YellowBold>270 graus à sua volta</>.
+Quando usada, esta habilidade <YellowBold>ativa-se 4 vezes consecutivamente</>.
+Cada vez que é ativada, a direção muda.
+Perdição causa <YellowBold>Ignição</> aos alvos afetados.
+
+Os alvos afetados por <YellowBold>Ignição</>
+receberão <YellowBold>dano adicional a cada 1 Ignição acumulada</>
+quando a <RedBold>Brasa de Paagrio</> <YellowBold>explodir</>.
+A Ignição acumula-se até 5 vezes.
+
+<YellowBold>- Dependendo da vida de Ramog</>,
+<YellowBold>seu ataque será em vários ângulos.</>"
+18,@6,"<RedBold>Ramog</> move-se para o centro
+e evoca <RedBold>Brasa de Paagrio</>.
+
+A <RedBold>Brasa de Paagrio</> move-se em direção a <RedBold>Ramog</> 
+e explode assim que entra em contato com <RedBold>ele</>,
+causando dano devastador em tudo que estiver na tela.
+
+Além disso, os alvos afetados por <YellowBold>Ignição</>
+<YellowBold>sofrerão dano proporcional à Ignição acumulada aplicada a eles.</>
+
+<YellowBold>Evoca-se 2 Brasas de Paagrio.</>"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Ferida de perfuração,"Rasga a carne do inimigo com a
+espada e <YellowBold>diminui sua defesa</>.
+Acumula-se até 3 vezes."
+26,Explosão de sangue,"<YellowBold> Evoca Coágulos de sangue </> do sangue que
+sai do <YellowBold>ferimento perfurado</> no inimigo.
+Os <RedBold>Coágulos de sangue</> evocados miram
+em inimigos próximos e <YellowBold>autodestroem</>."
+27,Anemia,"Quando lutam em batalhas extensas, os
+vampiros que usam magia de sangue
+tornam-se <YellowBold>vulneráveis</> e recebem
+<YellowBold>dano adicional</>."
+28,Dreno de PV forçado,"A <YellowBold>anemia</> habilita a <YellowBold>extração forçada de</>
+<YellowBold>sangue</> dos inimigos próximos.
+O único jeito de escapar é aplicar
+<YellowBold>Sangue do vampiro</> ao corpo
+e <YellowBold>enganar a magia de sangue.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Rasga a carne do inimigo com a espada e <YellowBold>diminui sua defesa</>.
+
+<YellowBold>- Este efeito agora acumula-se até 5 vezes.</>"
+34,@26,"Tira sangue do <YellowBold>ferimento perfurado</> do inimigo para <YellowBold>evocar um Coágulo de sangue</>.
+O <RedBold>Coágulo de sangue</> procura inimigos próximos e <YellowBold>autodestrói</>.
+
+<YellowBold>- Autodestrói e cria um Sangue ardente.</>
+<YellowBold>- O contato com o Sangue ardente causa dano.</>"
+35,@27,@27
+36,@28,@28
+37,Inferno de sangue,"Quando o <YellowBold>PV chega a 50%</>, Leonard fica desesperado.
+Neste estado, ele <YellowBold>evoca muitos Coágulos de sangue</> e tenta um ataque camicase."
+38,@25,"Rasga a carne do inimigo com a espada e <YellowBold>diminui sua defesa</>.
+
+<YellowBold>- Pode acumular-se até 5 vezes.</>"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirizar,"Usa magia de sangue que transforma um
+inimigo em vampiro progressivamente.
+A transformação do alvo é em <YellowBold>3 estágios</>
+e <YellowBold>aumenta o atq.</> a cada um, mas <YellowBold>reduz a def.</>"
+44,Mudança vampírica,"Se for exposto a <YellowBold>Vampirizar</> <YellowBold>3 vezes</>,
+o alvo virará um vampiro temporariamente
+e <YellowBold>atacará seus aliados</>."
+45,Recarregar sangue,"Em batalhas extensas, os vampiros que
+precisam de sangue para sua magia devem
+<YellowBold>fugir na forma de morcego</> para restaurar
+o sangue.
+Os <RedBold>morcegos</> irão até os cadáveres dos
+soldados do <BlueBold>Grupo de Avanço de Giran</>
+e <YellowBold>drenarão vida 3 vezes</>."
+46,Fúria Sangrenta,"Os <RedBold>morcegos</> levarão o sangue adquirido
+para Trisha.
+<RedBold>Trisha</> <YellowBold>recobrará vida</> dependendo
+do número de morcegos que obtiverem
+sucesso e ganhará <YellowBold>força temporária.</>"
+47,Chegada de Zaken,"<YellowBold>Após 5 minutos de batalha</>, a evocação mágica
+se conclui e <YellowBold>Zaken aparece</>.
+Zaken <YellowBold>destruirá todos os aventureiros</>
+que ameaçarem Trisha."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"Se exposto a <YellowBold>Vampirizar</> por <YellowBold>3 vezes</>,
+o alvo virará temporariamente um vampiro e <YellowBold>atacará seus companheiros</>.
+
+<YellowBold>- Os que viram vampiros ficam mais fortes.</>"
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Torrente de sangue,"Trisha, de costas para o muro,
+evoca uma <YellowBold>Onda de sangue</> gigante."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

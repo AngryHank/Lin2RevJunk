@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Boîte de la chance,"▶ Un événement où tous les joueurs sur le serveur relèvent le défi en même temps.
+▶ De nouvelles récompenses sont disponibles à chaque rotation d'événement.
+▶ Obtenez les tickets nécessaires pour participer à l'événement dans les Boîtes d'invocation disponibles au magasin.",Vous pouvez participer à l'événement du tirage après avoir atteint le niv. 10.,Félicitations ! [Player] a remporté le prix n° [Rank] dans l'événement Boîte de la chance.

@@ -1,0 +1,828 @@
+Id,Name,Desc,Desc2
+1001,20 000 adenas,Consigue 20 000 adenas.,
+1002,42 000 adenas,Consigue 40 000 adenas + 2000 adenas de bonificación.,
+1003,88 000 adenas,Consigue 80 000 adenas + 8000 adenas de bonificación.,
+1004,184 000 adenas,Consigue 160 000 adenas + 24 000 adenas de bonificación.,
+1005,384 000 adenas,Consigue 320 000 adenas + 64 000 adenas de bonificación.,
+1006,800 000 adenas,Consigue 640 000 adenas + 160 000 adenas de bonificación.,
+3001,1 caja de eq. esp.,"¡Consigue equipamiento (S - SR)!
+¡Puedes conseguir un equipamiento poco común!",
+3002,Perg. bendecido: Arma,"Un Pergamino bendecido: Arma.
+Se usa para mejorar un arma entre 1 y 3 niveles.",
+3003,Perg. bendecido: Arm.,"Un Pergamino bendecido: Armadura.
+Se usa para mejorar una armadura entre 1 y 3 niveles.",
+3004,Perg. bendecido: Acc.,"Un Pergamino bendecido: Accesorio.
+Se usa para mejorar un accesorio entre 1 y 3 niveles.",
+3005,Protección de Maphr,Evita que se pierdan niveles de mejora si se falla el proceso de mejora.,
+3006,P. sup. de límite SR,Usar para superar el límite de una pieza de equipamiento de grado SR.,
+3007,P. de atributo S,Usar para mejorar un atributo de una pieza de equipamiento.,
+3008,P. de atributo R,@3007,
+3009,P. de atributo SR,@3007,
+3011,1 caja de acc. esp.,¡Consigue Accesorio (S - SR)!,
+4001,20 pociones de PV,Se utiliza para restaurar una pequeña cantidad de PV.,
+4002,-10% en 200 poc. PV,@4001,
+4005,20 pociones de PM,Se utiliza para restaurar una pequeña cantidad de PM.,
+4006,-10% en 200 poc. PM,@4005,
+4009,500 refuerzos de alma,Bendice el arma con una luz espiritual que aumenta el daño.,
+4010,-10% 5000 ref. de alma,@4009,
+4013,1 megáfono,Objeto utilizado para hablar en el chat Mundo.,
+4014,10 megáfonos,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Crucifijo de penitencia,"Úsalo para reducir el valor caótico en 30.
+Puedes usar 3 cruces en un mismo día.",
+4101,50 Pergaminos de escape,Se utiliza para teletransportarse.,
+4105,Fuegos artificiales de cielo nocturno,"Fuegos artificiales que pueden iluminar el cielo nocturno, incluso de día.",
+4106,Fuegos artificiales de luz plateada,Fuegos artificiales que brillan como las estrellas en el cielo.,
+4107,Fuegos artificiales de prosperidad,Fuegos artificiales que simbolizan un año de prosperidad.,
+4108,Fuegos artificiales de amor,Fuegos artificiales especiales que garantizan que tu proposición tenga éxito.,
+5002,Caja de equip. de grado superior,"¡Consigue equipamiento (A - SR)!
+¡Puedes conseguir un equipamiento poco común!",
+5003,10 de equip. de grado superior (bonificación +1),"¡Consigue equipamiento (A - SR)!
+¡Una pieza de equipamiento de grado S o superior garantizada!
+¡Puedes conseguir un equipamiento poco común!",
+5014,@5002,"¡Consigue equipamiento (A - SR)!
+¡Puedes conseguir un equipamiento poco común y equipamiento negociable!",
+5015,@5003,"¡Consigue equipamiento (A - SR)!
+¡Una pieza de equipamiento de grado S o superior garantizada!
+¡Puedes conseguir un equipamiento poco común y equipamiento negociable!",
+5101,1 caja de fortalecimiento de arma,"¡Armas y barnices de armas de grado A - SR disponibles!
+¡Aumento de obtención de equipamiento poco común!
+¡Solo se pueden conseguir armas al obtener equipamiento poco común!",
+5102,10 cajas de fortalecimiento de arma (bonificación +1),@5101,
+5103,@5101,"¡Pueden salir barnices de arma y armadura (grado A - grado SR)!
+Pergamino de alquimia - Pergamino bendecido: ¡Pueden salir armas/armaduras/accesorios!",
+5104,@5102,"¡Pueden salir barnices de arma y armadura (grado A - grado SR)!
+Pergamino de alquimia - Pergamino bendecido: ¡Pueden salir armas/armaduras/accesorios!
+¡Compra 7 veces para conseguir un arma roja de grado S!",
+5201,1 caja de fortalecimiento de armadura,"¡Barniz de armadura y arma (grado A - SR) disponible!
+¡Aumento de obtención de equipamiento poco común!
+¡Solo se pueden conseguir armaduras al obtener equipamiento poco común!",
+5202,10 cajas de fortalecimiento de armadura (bonif. +1),@5201,
+5301,10 cajas de material especial (bonificación de 1),"¡Pueden salir varios materiales de fortalecimiento, como pergaminos bendecidos, protecciones de Maphr, hebra de Capa, 
+esquirlas de locura, lágrimas de Trisha 
+y cristales de alma!",
+10001,10 pociones de PV,@4001,
+10002,10 pociones de PM,@4005,
+10003,250 refuerzos de alma,@4009,
+10017,1 caja de equip.,¡Hasta el grado A de equipamiento disponible!,
+10020,Cruz de penitencia,"Reduce el Valor caótico de un personaje.
+Cada uso reduce el Valor caótico en 3. Puede usarse 3 veces al día.",
+10029,100 piedras de estrella rojas,Úsalas para reiniciar las mazmorras de clan.,
+13000,Pergamino de misión (Nvl. 20) C,Úsalo para participar en una misión secundaria de grado C.,
+13001,Pergamino de misión (Nvl. 30) C,@13000,
+13002,Pergamino de misión (Nvl. 40) C,@13000,
+13003,Pergamino de misión (Nvl. 50) C,@13000,
+13004,Pergamino de misión (Nvl. 60) C,@13000,
+13005,Pergamino de misión (Nvl. 75) C,@13000,
+13006,Pergamino de misión (Nvl. 90) C,@13000,
+13007,Pergamino de misión (Nvl. 105) C,@13000,
+13008,Pergamino de misión (Nvl. 120) C,@13000,
+13009,Pergamino de misión (Nvl. 135) C,@13000,
+13010,Pergamino de misión (Nvl. 150) C,@13000,
+13011,Pergamino de misión (Nvl. 165) C,@13000,
+13100,Pergamino de misión (Nvl. 20) A,Úsalo para participar en una misión secundaria de grado A.,
+13101,Pergamino de misión (Nvl. 30) A,@13100,
+13102,Pergamino de misión (Nvl. 40) A,@13100,
+13103,Pergamino de misión (Nvl. 50) A,@13100,
+13104,Pergamino de misión (Nvl. 60) A,@13100,
+13105,Pergamino de misión (Nvl. 75) A,@13100,
+13106,Pergamino de misión (Nvl. 90) A,@13100,
+13107,Pergamino de misión (Nvl. 105) A,@13100,
+13108,Pergamino de misión (Nvl. 120) A,@13100,
+13109,Pergamino de misión (Nvl. 135) A,@13100,
+13110,Pergamino de misión (Nvl. 150) A,@13100,
+13111,Pergamino de misión (Nvl. 165) A,@13100,
+13200,Pergamino de misión (Nvl. 20) S,Úsalo para participar en una misión secundaria de grado S.,
+13201,Pergamino de misión (Nvl. 30) S,@13200,
+13202,Pergamino de misión (Nvl. 40) S,@13200,
+13203,Pergamino de misión (Nvl. 50) S,@13200,
+13204,Pergamino de misión (Nvl. 60) S,@13200,
+13205,Pergamino de misión (Nvl. 75) S,@13200,
+13206,Pergamino de misión (Nvl. 90) S,@13200,
+13207,Pergamino de misión (Nvl. 105) S,@13200,
+13208,Pergamino de misión (Nvl. 120) S,@13200,
+13209,Pergamino de misión (Nvl. 135) S,@13200,
+13210,Pergamino de misión (Nvl. 150) S,@13200,
+13211,Pergamino de misión (Nvl. 165) S,@13200,
+30001000,60 + 60 diamantes,"60 diamantes azules
+60 diamantes rojos",
+30001010,¡Solo una vez! 90 + 90 diamantes,"90 diamantes azules
+90 diamantes rojos
+2 topacios",
+30001020,¡Solo una vez! 160 + 160 diamantes,"160 diamantes azules
+160 diamantes rojos
+4 topacios",
+30001030,¡Solo una vez! 340 + 340 diamantes,"340 diamantes azules
+340 diamantes rojos
+8 topacios",
+30001040,80 + 80 diamantes,"80 diamantes azules
+80 diamantes rojos",
+30001050,700 diamantes (20%),"700 diamantes azules
+16 topacios",
+30001060,1080 diamantes (20%),"1080 diamantes azules
+25 topacios",
+30001070,1900 diamantes (10%),"1900 diamantes azules
+45 topacios",
+30001080,1900 diamantes (20%),@30001070,
+30001090,4000 diamantes (10%),"4000 diamantes azules
+100 topacios",
+30001100,4000 diamantes (20%),@30001090,
+30001110,4000 diamantes (30%),@30001090,
+30001120,4000 + 2000 diamantes,"4000 diamantes azules
+2000 diamantes rojos",
+30001130,1080 + 540 diamantes,"1080 diamantes azules
+540 diamantes rojos",
+30001140,1080 + 108 diamantes,"1080 diamantes azules
+108 diamantes rojos",
+30001150,1080 + 216 diamantes,"1080 diamantes azules
+216 diamantes rojos",
+30001160,1900 + 190 diamantes,"1900 diamantes azules
+190 diamantes rojos",
+30001170,1900 + 380 diamantes,"1900 diamantes azules
+380 diamantes rojos",
+30001180,4000 + 400 diamantes,"4000 diamantes azules
+400 diamantes rojos",
+30001190,4000 + 800 diamantes,"4000 diamantes azules
+800 diamantes rojos",
+30001200,¡Solo una vez! 30 + 60 diamantes,"30 diamantes azules
+60 diamantes rojos
+1 topacios",
+30002000,90 diamantes,"90 diamantes azules
+2 topacios",
+30002010,160 diamantes,"160 diamantes azules
+4 topacios + 8 más",
+30002020,340 diamantes,"340 diamantes azules
+8 topacios + 16 más",
+30002030,700 diamantes,"700 diamantes azules
+16 topacios + 32 más",
+30002040,1080 diamantes,"1080 diamantes azules
+25 topacios + 50 más",
+30002050,1900 diamantes,"1900 diamantes azules
+45 topacios + 90 más",
+30002060,4000 diamantes,"4000 diamantes azules
+100 topacios + 200 más",
+30002070,60 diamantes,"60 diamantes azules
+1 topacios",
+30002080,@30002010,"160 diamantes azules
+4 topacios",
+30002090,@30002020,"340 diamantes azules
+8 topacios",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Lote de diamantes diarios I (28 días),"¡Obtienes 1200 diamantes rojos de inmediato!
+¡Consigues 120 diamantes rojos cada día!
+¡Recibes 10 topacios cada 8 recogidas diarias!",¡Consigues un total de 4560 diamantes rojos!
+30003100,Adenas diarias I (28 días),"¡Consigue 50 000 adenas ya!
+¡Consigue 10 000 adenas cada día!
+¡Recibe 40 diamantes rojos cada 8 recogidas!",¡Consigue un total de 330 000 adenas!
+30003101,Adenas diarias II (28 días),"¡Consigue 160 000 adenas ya!
+¡Consigue 30 000 adenas al día!
+¡Gana 80 diamantes rojos cada 8 recogidas diarias!",¡Consigue un total de 1 000 000 adenas!
+30004000,Caja equip. exclu. poco común de grado S,Obtén 1 caja de equipamiento exclusivo poco común de grado S.,
+30004001,Caja de accesorio de grado superior,Obtén 1 caja de accesorio de grado superior.,
+30004002,Piedra de superación de lím. de grado SR,Obtén 1 piedra superación de límite de grado SR.,
+30004003,Piedra de atributo de grado R,Obtén 1 piedra de atributo de grado R.,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Caja de Pergamino bendecido aleatorio,Se usa para obtener un Pergamino bendecido aleatorio.,
+30004008,Caja de 3 Perg. bendecidos aleatorios,@30004007,
+30004100,Flauta de unión de Santo plata,Obtén 1 Flauta de unión de Santo plata.,
+30004101,Flauta de unión de Kukurin,Obtén 1 Flauta de unión de Kukurin.,
+30004102,10 Energía de superación de límite,Obtén 10 de energía de superación de límite.,
+30004103,10 Energía de atributo,Obtén 10 de energía de atributo.,
+30004104,Perg. alq. - Piedra atributo grado S,Obtén 1 Pergamino de alquimia - Piedra de atributo de grado S.,
+30004105,Perg. alq. - Piedra atributo grado R,Obtén 1 Pergamino de alquimia - Piedra de atributo de grado R.,
+30004106,Perg. alq. - Piedra atributo grado SR,Obtén 1 Pergamino de alquimia - Piedra de atributo de grado SR.,
+30004107,Perg. alq. - P. superación límite gr. SR,Obtén 1 Pergamino de alquimia - Piedra de superación de límite de grado SR.,
+30004108,Perg. alq. - P. bendecido: Arma,Obtén 1 Pergamino de alquimia - Pergamino bendecido: Arma.,
+30004109,Perg. alq. - P. bendecido: Armadura,Obtén 1 Pergamino de alquimia - Pergamino bendecido: Armadura.,
+30004110,Perg. alq. - P. bendecido: Accesorio,Obtén 1 Pergamino de alquimia - Pergamino bendecido: Accesorio.,
+30004111,200 Frag. de invocación de oso negro,Únelos para crear una piedra de invocación de Oso negro.,
+30004112,150 Frag. de invocación de Santo plata,Únelos para crear una piedra de invocación de Santo plata.,
+30004113,100 Frag. de invocación de Kukurin,Únelos para crear una piedra de invocación de Kukurin.,
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Frag. de invocación de oso negro,@30004111,
+30004120,5 Frag. de invocación de Santo plata,@30004112,
+30004121,5 Frag. de invocación de Kukurin,@30004113,
+30004122,Perg. alq. - Esencia de elixir de ATQ,Este documento contiene la fórmula para crear Esencia de elixir de ATQ. Une hierbas para obtener Esencias de elixir de ATQ.,
+30004123,Perg. alq. - Esencia de elixir de DEF,Este documento contiene la fórmula para crear Esencia de elixir de DEF. Une hierbas para obtener Esencia de elixir de DEF.,
+30004124,Perg. alq. - Esencia de elixir de PV,Este documento contiene la fórmula para crear Esencias de elixir de PV. Une hierbas para obtener esencias de elixir de PV.,
+30004125,Perg. alq. - Esencia de elixir de PM,Este documento contiene la fórmula para crear esencias de elixir de PM. Une hierbas para obtener esencias de elixir de PM.,
+30004126,50 Piedras de progreso,Usa piedras de progreso para fortalecer las mascotas de montura.,
+30004200,Caja de sel. de Pergamino bendecido,Obtén 1 caja de selección de Pergamino bendecido.,
+30004201,3 cajas de sel. de piedra de aumento,Usar para seleccionar y obtener una piedra de aumento.,
+30004202,3 cajas de piedra de aumento aleatoria,Se usa para obtener una piedra de aumento aleatoria.,
+30004203,3 cajas de selección de Esencia de elixir,Usar para seleccionar y obtener una Esencia de elixir.,
+30004204,3 cajas de Esencia de elixir aleatoria,Se usa para obtener una Esencia de elixir aleatoria.,
+30004205,@3005,@3005,
+30004206,10 cajas de sel. de Perg. de mejora,Usar para seleccionar y obtener un Pergamino de mejora.,
+30004207,10 cajas de Pergamino de mejora aleatorio,Usar para obtener un Pergamino de mejora aleatorio.,
+30004208,10 Pergaminos: Mejorar arma,Este pergamino mejora armas y aumenta los parámetros.,
+30004209,10 Pergaminos: Mejorar armadura,Este pergamino mejora armaduras y aumenta los parámetros.,
+30004210,10 Pergaminos: Mejorar accesorio,Este pergamino mejora accesorios y aumenta los parámetros.,
+30004211,3 Esencias de elixir de PV,Esta esencia se usa para fabricar Elixires de PV.,
+30004212,3 Esencias de elixir de PM,Esta esencia se usa para fabricar Elixires de PM.,
+30004213,3 Esencias de elixir de ATQ,Esta esencia se usa para fabricar Elixires de ATQ.,
+30004214,3 Esencias de elixir de DEF,Esta esencia se usa para fabricar Elixires de DEF.,
+30004215,15 piedras de aumento de arma,Se utiliza para aumentar armas al siguiente grado.,
+30004216,15 piedras de aumento de armadura,Se utiliza para aumentar armaduras al siguiente grado.,
+30004217,15 piedras de aumento de accesorio,Se utiliza para aumentar accesorios al siguiente grado.,
+30004218,5 cajas de sel. de barniz de grado S,Usar para seleccionar y obtener un barniz de grado S.,
+30004219,5 cajas de piedra de aumento aleatoria,@30004202,
+30004220,10 cajas de selección de piedra de aumento,@30004201,
+30004221,@30004220,@30004201,
+30004222,5 cajas de selección de barniz de grado R,Usar para seleccionar y obtener un barniz de grado R.,
+30004223,5 cajas de selección de barniz de grado SR,Usar para seleccionar y obtener un barniz de grado SR.,
+30004224,10 piedras de aumento de arma,@30004215,
+30004225,10 piedras de aumento de armadura,@30004216,
+30004226,10 piedras de aumento de accesorio,@30004217,
+30004227,5 cajas de selección de Pergamino de mejora,@30004206,
+30004228,5 Pergaminos: Mejorar arma,@30004208,
+30004229,5 Pergaminos: Mejorar armadura,@30004209,
+30004230,5 Pergaminos: Mejorar accesorio,@30004210,
+30004231,3 cajas de sel. de Pergamino bendecido,Obtén 3 cajas de selección de Pergamino bendecido.,
+30004232,3 Perg. bendecidos: Arma,@3002,
+30004233,3 Perg. bendecidos: Arm.,@3003,
+30004234,3 Perg. bendecidos: Acc.,@3004,
+30004235,@30004102,@30004102,
+30004236,20 atributos de energía,Obtén 20 de energía de atributo.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Fragmentos de piedra de invocación de oso negro,@30004111,
+30004241,100 Fragmentos de piedra de invocación de Santo plata,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 cajas de selección de alma gr. A,Obtén una caja de selección de cristales de alma de grado A.,
+30004301,Caja sel. de cristales de alma grado S,Obtén una caja de selección de cristales de alma de grado S.,
+30004302,Caja aleatoria de alma de grado B - S,Obtén 1 caja aleatoria de cristal de alma de grado B - S.,
+30004303,Cristal de alma de ataque de grado A,"Puedes impregnar almas en armas y guantes.
+Al hacerlo, aumentará tu ATQF y tu ATQM.
+Este cristal contiene las almas de los monstruos.",
+30004304,Cristal de alma de defensa de grado A,"Puedes impregnar almas en cascos y armaduras.
+Al hacerlo, aumentará tu DEFF y tu DEFM.
+Este cristal contiene las almas de los monstruos.",
+30004305,C. de alma de penetración de grado A,"Puedes impregnar almas en anillos.
+Este cristal contiene las almas de los monstruos.",
+30004306,C. de alma de resistencia de grado A,"Puedes impregnar almas en pendientes.
+Este cristal contiene las almas de los monstruos.",
+30004307,Cristal de alma de precisión de grado A,"Puedes impregnar almas en botas y collares.
+Este cristal contiene las almas de los monstruos.",
+30004308,Cristal de alma de evasión de grado A,@30004307,
+30004309,C. de alma de t. de críticos de grado A,"Puedes impregnar almas en armas y guantes.
+Este cristal contiene las almas de los monstruos.",
+30004310,C. de alma de RES a críticos de grado A,@30004306,
+30004311,Cristal de alma de PV de grado A,"Puedes impregnar almas en cascos y armaduras.
+Este cristal contiene las almas de los monstruos.",
+30004312,3 Cristales de alma de ataque de grado B,@30004303,
+30004313,3 C. de alma de defensa de grado B,@30004304,
+30004314,3 C. de alma de penetración de grado B,@30004305,
+30004315,3 C. de alma de resistencia de grado B,@30004306,
+30004316,3 C. de alma de precisión de grado B,@30004307,
+30004317,3 C. de alma de evasión de grado B,@30004307,
+30004318,3 C. de alma t. de críticos de grado B,@30004309,
+30004319,3 C. de alma RES a críticos de grado B,@30004306,
+30004320,3 Cristales de alma de PV de grado B,@30004311,
+30110000,Lote de inicio de lujo,"600 diamantes azules
+1000 pociones de PV
+1000 pociones de PM
+5000 refuerzos de alma
+120 ranuras de inventario adicionales",
+30110001,Lote de inventario de lujo,"1500 diamantes azules
+1000 pociones de PV
+1000 pociones de PM
+10 000 refuerzos de alma
+100 ranuras de inventario adicionales",
+30110011,Lote de mejora de habilidad poco común especial,"500 000 adenas
+3 cajas de selección de página de Pergamino olvidado
+3 lotes de Pergaminos de mejora
+500 PH
+30 Pergaminos de escape",
+30110012,Lote de mejora de habilidad poco común especial (10%),@30110011,
+30110013,Lote de mejora de habilidad poco común especial (20%),@30110011,
+30110014,P. Poder de Hab. poco común,"250 000 adenas
+2 cajas de selección de página de Pergamino olvidado
+5 cajas aleatorias de Pergamino de mejora
+3 cajas de PH pequeñas
+20 Pergaminos de escape",
+30110015,Lote de aventurero principiante,"600 diamantes azules
+600 diamantes rojos
+1 Caja de selección de arma exclusiva
+de grado S
+1000 fragmentos de runa",
+30110016,Lote de aventurero experimentado,"2000 diamantes azules
+2000 diamantes rojos
+1 caja de selección de equipamiento de grado R
+10 cajas de selección de piedra de aumento
+10 cajas de selección de barniz de grado S",
+30110017,Lote de aventurero veterano,"2000 diamantes azules
+2000 diamantes rojos
+1 caja de selección de accesorio de grado R
+1 piedra de atributo de grado R",
+30120005,Lote especial de impronta de runas,"150 000 adenas
+3000 fragmentos de runa",
+30120007,Lote de PH,"360 diamantes rojos
+1 caja de PH (500 puntos)",
+30120008,Lote de PH de grado superior,"1200 diamantes rojos
+100 000 adenas
+3 cajas de PH (500 PH)",
+30120009,Lote de invocación de accesorio,"2500 diamantes rojos
+50 topacios
+150 000 adenas
+3 cajas de accesorios de grado superior",
+30120010,Lote especial de elixir,"20 cajas de selección de esencias de elixir
+40 lotes de hierba",
+30120011,Lote de adenas especial (ed. limitada),1 000 000 adenas,
+30120012,Lote de invocación de accesorio (10%),@30120009,
+30120013,Lote de invocación de accesorio (20%),@30120009,
+30120014,Lote de habilidad poco común,"300 diamantes rojos
+100 000 adenas
+1 caja de página de Pergamino olvidado aleatoria",
+30130000,Lote Perg. mejora de gr. infer.,"300 diamantes azules
+20 topacios
+3 lotes de Pergaminos de mejora",
+30130001,Lote Perg. mejora de gr. sup.,"1000 diamantes rojos
+50 topacios
+5 lotes de Pergaminos de mejora
+1 protección de Maphr",
+30130002,Lote especial de sel. de p. de aumento,"3000 diamantes rojos
+200 000 adenas
+40 cajas de selección de piedra de aumento",
+30130003,Lote de refuerzo de equipamiento grado A,"200 000 adenas
+10 cajas de selección de barniz de grado A",
+30130004,Lote de refuerzo de equipamiento grado S,"300 000 adenas
+5 cajas de selección de barniz de grado S
+10 cajas de selección de barniz de grado A",
+30130005,Lote de refuerzo de equipamiento grado R,"500 000 adenas
+3 cajas de selección de barniz de grado R
+10 cajas de selección de barniz de grado S",
+30130006,Lote de Pergaminos bendecidos,"1200 diamantes rojos
+20 topacios
+5 cajas de selección de Pergamino bendecido
+10 cajas de selección de Pergamino de mejora",
+30130007,Lote de Cristal de alma,"1000 diamantes rojos
+50 000 adenas
+7 cajas aleatorias de cristal de alma de grado A-S",
+30130008,Lote de cristales de alma prémium II,"1000 diamantes rojos
+100 000 adenas
+3 cajas aleatorias de cristal de alma de grado S-R",
+30130009,Lote de cristales de alma prémium III,"2000 diamantes rojos
+200 000 adenas
+3 cajas aleatorias de cristal de alma de grado S-SR",
+30130010,Lote de caja de armadura poco común de grado S,"120 diamantes rojos
+1 caja de armadura poco común de grado S",
+30130011,Lote de protección sagrada,"500 diamantes azules
+500 diamantes rojos
+5 cajas de selección de Pergamino bendecido
+5 protecciones de Maphr",
+30130012,Lote de superación de límite de grado SR,"100 000 adenas
+1 piedra de superación de límite de grado SR",
+30130013,Lote de Perg. de mejora de gr. sup. 10%,@30130001,
+30130014,Lote de piedras de aumento especial 10%,@30130002,
+30130015,Lote de piedras de aumento especial 20%,@30130002,
+30130016,Lote de Pergaminos bendecidos 10%,@30130006,
+30130017,Lote de caja de equip. poco común de grado S,"300 diamantes rojos
+1 caja de equipamiento exclusivo poco común de grado S",
+30130018,Lote de accesorios de grado A,"300 diamantes rojos
+1 caja de accesorio de grado A",
+30130019,Lote de cajas de equipamiento de grado S,"1 caja de selección de arma exclusiva de grado S
+1 caja de selección de armadura exclusiva de grado S",
+30150000,Lote de fortalecimiento de montura I,"100 000 adenas
+40 piedras de progreso
+10 barnices de equipamiento de montura de grado B
+5 Pergaminos de mejora de montura",
+30150001,Lote de fortalecimiento de montura II,"150 000 adenas
+80 piedras de progreso
+10 barnices de equipamiento de montura de grado A
+5 Pergaminos de mejora de montura",
+30150002,Lote de fortalecimiento de montura III,"300 000 adenas
+120 piedras de progreso
+10 barnices de equipamiento de montura de grado S
+10 Pergaminos de mejora de montura",
+30150003,Lote de invocación de Santo de plata,"1000 diamantes azules
+1 Flauta de unión Santo plata
+1 piedras de invocación de Santo plata
+40 piedras de progreso
+5 Pergaminos de mejora de montura",
+30150004,Lote de invocación de Kukurin,"1500 diamantes azules
+1 Flauta de unión Kukurin
+1 piedras de invocación de Kukurin
+40 piedras de progreso
+5 Pergaminos de mejora de montura",
+30160000,Diam. de fortalecimiento I,"¡Hasta 1500 diamantes rojos o 1 caja de invocación de arma exclusiva de grado A al momento!
+¡Consigue hasta 8500 diamantes rojos, 1 caja de armadura exclusiva de grado A o 1 caja de selección de cristales de alma de grado C-B!",
+30160001,Diam. de fortalecimiento II,"¡Hasta 1500 diamantes rojos o 1 caja de invocación de arma exclusiva de grado S al momento!
+¡Consigue hasta 8500 diamantes rojos, 1 caja de armadura exclusiva de grado S o 1 caja de selección de cristales de alma de grado B-A!",
+30160002,Diam. de fortalecimiento III,"¡Se pueden obtener hasta 1500 diamantes rojos y una piedra de atributo de grado S! 
+¡Consigue hasta 8500 diamantes rojos, una caja de selección de cristales de alma de grado A o una piedra de atributo de grado S!",
+30170000,Historia I,"¡1000 diamantes rojos y una recompensa por cada vez que acabes una historia previa a la de Dion!
+¡Conseguirás recompensa incluso por las historias que hayas completado antes de la compra!",
+30170001,Historia II,"¡Consigue ya 2000 diamantes rojos + Protección de Maphr y una recompensa cada vez que acabes una historia previa a la historia de Giran!
+¡Conseguirás recompensas incluso por las historias que hayas completado antes de la compra!",
+39005000,Caja de fortalecimiento (gr. superior),"¡Hay diversos materiales de fortalecimiento disponibles
+como barnices, Pergaminos de mejora, materiales de elixir y protecciones de Maphr!",
+39005001,10 de fortalecimiento (gr. Superior) (bonif. +1),@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"¡Hay diversos materiales de fortalecimiento disponibles
+como barnices, Pergaminos de mejora, materiales de elixir y protecciones de Maphr!
+¡100% garantizado de adquirir un barniz de grado R o superior!",
+39005004,Caja de material de montura,"¡Consigue equipamiento de montura, 
+piedras de progreso, 
+piedras de invocación
+y Pergaminos de mejora de equipamiento de montura!",
+39005005,10 cajas de material de montura (bonificación +1),@39005004,
+39005010,1 caja de material de montura de grado superior,"¡Flauta de montura, piedra de invocación, fragmento de piedra de invocación,
+equipamiento de montura, Pergamino de mejora de montura y piedra de progreso disponibles!
+(Se incluyen flauta de león con melena, piedra de invocación y fragmento de piedra de invocación)",
+39005011,10 cajas de material de montura de gr. sup. (bonif. +1),@39005010,
+30014000,Caja de sel. de completado automático,Úsala para seleccionar y conseguir 1 billete de completado automático.,
+30014001,@10029,@10029,
+30014002,10 PH,Estos puntos se utilizan para mejorar habilidades.,
+30014003,5 fragmentos de protección de Maphr,Combina fragmentos para obtener una Protección de Maphr.,
+30014004,Caja de selección de Pergamino de mejora,Obtén 1 caja de selección de Pergamino de mejora.,
+30014005,Caja invocación monstruo poco común,Se usa para conseguir piedras de invocación de monstruo poco común aleatorias.,
+30014006,10 cajas fragmentos invocación de jefe,Se usa para conseguir fragmentos de piedra de invocación de monstruo aleatorios.,
+30014007,Caja de selección de esencia de elixir,Úsala para seleccionar y conseguir 1 esencia de elixir.,
+30014008,Caja de barniz de eq. de grado C-A,Obtén 1 caja de barniz de equipamiento de grado C-A,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,(Evento) 340 diamantes,"340 diamantes azules
+5 cajas de selección de barniz de grado A",
+38000001,@30001050,"700 diamantes azules
+Caja de selección de Pergamino de mejora x10",
+38000002,@30001060,"1080 diamantes
+10 cajas de selección de piedra de aumento",
+38000003,@30001110,"4000 diamantes
+30 cajas de selección de piedra de aumento",
+30130020,Lote de refuerzo de equipamiento de grado R conmemorativo para la actualización de Asedio abierto,"200 000 adenas
+2 cajas de selección de barniz de grado R
+5 cajas de selección de barniz de grado S",
+30130021,Lote de mejora conmemorativo para la actualización de Asedio abierto,"1000 diamantes rojos
+50 topacios
+5 lotes de pergaminos de mejora
+3 protección de Maphr",
+30110018,Paquete de escalafón 1,Se ha comprado el paquete de escalafón 1.,
+30110019,Paquete de escalafón 2,Se ha comprado el Paquete de escalafón 2.,
+30110020,Paquete de escalafón 3,Se ha comprado el Paquete de escalafón 3.,
+30110021,Paquete de escalafón 5,Se ha comprado el Paquete de escalafón 5.,
+30110022,Paquete de escalafón 10,Se ha comprado el Paquete de escalafón 10.,
+30110023,Paquete de escalafón 16,Se ha comprado el Paquete de escalafón 16.,
+30110024,Paquete de escalafón 20,Se ha comprado el Paquete de escalafón 20.,
+30110025,Paquete de escalafón 24,Se ha comprado el Paquete de escalafón 24.,
+30110026,Paquete de escalafón 30,Se ha comprado el Paquete de escalafón 30.,
+30110027,Paquete de escalafón 40,Se ha comprado el Paquete de escalafón 40.,
+30110028,Paquete de escalafón 45,Se ha comprado el Paquete de escalafón 45.,
+30110029,Paquete de escalafón 50,Se ha comprado el Paquete de escalafón 50.,
+30110030,Paquete de escalafón 54,Se ha comprado el Paquete de escalafón 54.,
+30110031,Paquete de escalafón 56,Se ha comprado el Paquete de escalafón 56.,
+30110032,Paquete de escalafón 58,Se ha comprado el Paquete de escalafón 58.,
+30110033,Paquete de escalafón 60,Se ha comprado el Paquete de escalafón 60.,
+5022,10 cajas de fortalecimiento de gr. sup. (bonif. +1),"¡Varios materiales de fortalecimiento, como cristales de alma, Pergaminos de mejora,
+materiales para elixires y protecciones de Maphr están disponibles!
+¡Obtén diversos materiales de fortalecimiento!",
+6002,Piedra de aumento de arma,"Un objeto usado para
+aumentar un arma.",
+6003,Piedra de aumento de armadura,"Un objeto usado para
+aumentar una pieza de armadura.",
+6004,Piedra de aumento de accesorio,"Un objeto usado para
+aumentar un accesorio.",
+6005,Pergamino: Mejorar arma,"Un pergamino usado para
+mejorar un arma.",
+6006,Pergamino: Mejorar armadura,"Un pergamino usado para
+mejorar una pieza de armadura.",
+6007,Pergamino: Mejorar accesorio,"Un pergamino usado para
+mejorar un accesorio.",
+6008,@3005,@3005,
+6015,Caja sel. piedras invoc. jefe de equipo,"Usar para seleccionar y conseguir
+una piedra de invocación de jefe.",
+6020,1 caja de arma especial,"¡Consigue un arma (S - SR)!
+¡Puedes conseguir un equipamiento poco común!",
+6021,1 caja de armadura especial,"¡Consigue una pieza de armadura (S - SR)!
+¡Puedes conseguir un equipamiento poco común!",
+6022,1 caja de material de progreso especial,"¡Equipamiento (R - SR) o equipamiento (S - SR) poco común
+disponible!",
+8002,Diamante de inicio de sesión,"¡Consigue 600 diamantes rojos ya!
+¡Obtén un total de 2000 diam. rojos y recibe runas, hierbas y pergaminos cada día!",
+30004243,Bendición de Einhasad (+200 %),Usar para aumentar la experiencia ganada de Cacería de campo y de Extracción en un 200 %. (1 hora),
+30004244,1500 refuerzos de alma,@4009,
+30004245,@10029,@10029,
+30004246,5 Pergaminos de escape,@4101,
+30004247,15 megáfonos,@4013,
+30004248,50 Pan recién hecho,Úsala en la sala del clan al preparar festines.,
+30004249,50 Verdura fresca,@30004248,
+30004250,50 Carne jugosa,@30004248,
+30004251,Corazón de Barbaplateada,"Corazón de monstruo que contiene energía de Barbaplateada.
+Regístralo en el Códice de monstruo para aumentar tus parámetros.",
+30004252,Caja de PH pequeña,Caja de PH pequeña,
+30004253,Caja de Pergaminos de misión de grado S,Use to acquire a Grade S Quest Scroll.,
+30004254,20 poc. PV superiores,Se utiliza para restaurar una gran cantidad de PV.,
+30004255,20 poc. PM superiores,Se utiliza para restaurar una gran cantidad de PM.,
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Lote de hierbas,"Esta caja contiene las hierbas necesarias para preparar elixires.
+Úsala para obtener una hierba de cada tipo.",
+30004263,Caja aleatoria de alma de grado A - S,Obtén 1 caja aleatoria de cristal de alma de grado A - S.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Pergaminos: Mejorar equipamiento de montura,Este pergamino mejora equipamiento de montura y aumenta los parámetros.,
+30004270,Caja de selección de accesorio de grado S,Úsala para seleccionar y obtener un accesorio de grado S de la lista.,
+30004271,Caja de selección de página de Pergamino olvidado,Úsala para seleccionar y obtener una página de Pergamino olvidado de la lista.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Lote de fortalecimiento festivo,"<¡Los objetos que se indican a continuación están disponibles!>
+500 000 adenas
+5 cajas de selección de barniz de grado R
+2 cajas de selección de barniz de grado SR
+15 cajas de sel. de piedra de aumento",
+30004275,Lote especial de Adenas del 2018,"¡Sí, como lo oyes!
+¡2 018 000 adenas!",
+30005015,¡Solo una vez! 10 equip. de grado alto (grado R +1),"¡Consigue equipamiento (A - SR)!
+¡Una pieza de equipamiento de grado R o superior garantizada!",
+30005016,Caja de equipos raros de vacaciones,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 poc. PV superiores,Se utiliza para restaurar una gran cantidad de PV.,
+30004282,100 poc. PM superiores,Se utiliza para restaurar una gran cantidad de PM.,
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,10 cajas de recogida de arma poco común (bonif. +1),"[Disponible solo por tiempo limitado]
+Consigue un equipamiento aleatorio de 【grado A - SR】
+¡Con 1200 diamantes azules!
+¡Más probabilidades de que aparezca un arma poco común!",
+39005007,10 cajas de recogida armadura poco común (bonific. +1),"[Disponible solo por tiempo limitado]
+Consigue un equipamiento aleatorio de 【grado A - SR】
+¡Con 1200 diamantes azules!
+¡Más probabilidades de que aparezca una armadura poco común!",
+39005008,10 cajas de recogida de equipamiento de atributo de jefe (+1),"[Disponible solo por tiempo limitado] ¡Se pueden obtener armas y armaduras de [grado A - SR]!
+¡Equipamiento con atributos útiles contra jefes!",
+39005009,10 cajas de recogida de equipamiento de atributo de élite (+1),"[Disponible solo por tiempo limitado] ¡Se pueden obtener armas y armaduras de [grado A - SR]!
+¡Equipamiento con atributos útiles contra monstruos de élite!",
+39009000,@30110015,"1000 diamantes azules
+1 caja de armadura poco común exclusiva de grado S
+1000 fragmentos de runa
+[Nivel necesario para poder comprar: 16]",
+39009001,@30110016,"3500 diamantes rojos
+1 caja de selección de equipamiento exclusivo de grado R
+1 Piedra de atributo grado SR
+[Nivel necesario para poder comprar: 44]",
+39009002,@30110017,"3500 diamantes rojos
+1 caja de selección de accesorio de grado R
+1 Piedra de superación de límite de grado SR
+[Nivel necesario para poder comprar: 73]",
+39009003,Lote de aventurero de élite,"2000 diamantes rojos
+1 Piedra de atributo grado SR
+3 protecciones de Maphr
+[Nivel necesario para poder comprar: 121]",
+39009004,Lote de aventurero de la nobleza,"2000 diamantes rojos
+200 000 adenas
+1 Piedra de superación de límite de grado SR
+1 Piedra de atributo grado SR
+[Nivel necesario para poder comprar: 151]",
+39009005,Lote de Piedra de aumento ligero,"250 diamantes rojos
+25 000 adenas
+4 cajas de selección de Piedra de aumento",
+39009006,Lote de Piedra de aumento,"1500 diamantes rojos
+100 000 adenas
+20 cajas de selección de Piedra de aumento",
+39009007,Lote de Piedra de aumento especial,"3300 diamantes rojos
+250 000 adenas
+40 cajas de selección de Piedra de aumento",
+39009008,Lote de mejora,"4 Pergaminos de mejora: arma
+4 Pergaminos de mejora: armadura
+4 Pergaminos de mejora: accesorio
+1 protección de Maphr
+15 topacios",
+39009009,Lote de mejora especial,"15 Pergaminos de mejora: arma
+15 Pergaminos de mejora: armadura
+15 Pergaminos de mejora: accesorio
+3 protecciones de Maphr
+50 topacios",
+39009010,Lote de Pergamino bendecido ligero,"150 diamantes rojos
+1 Pergamino bendecido: caja de selección de mejora
+20 fragmentos de protección de Maphr",
+39009011,Lote de Pergamino bendecido,"1000 diamantes rojos
+20 topacios
+5 Pergaminos bendecidos: cajas de selección de mejora
+1 protección de Maphr",
+39009012,Lote de Pergamino bendecido especial,"2000 diamantes rojos
+50 topacios
+10 Pergaminos bendecidos: cajas de selección de mejora
+2 protecciones de Maphr",
+39009013,Lote de mejora de montura,"300 000 adenas
+120 Piedras de progreso
+10 cajas de barnices de equipamiento de montura de grado S
+10 Pergaminos de mejora de montura",
+30004325,Lote de mejora ligero,"50 000 adenas
+4 pergaminos de mejora: Arma
+4 Pergaminos de mejora: Armadura
+4 Pergaminos de mejora: Accesorio
+20 fragmentos de protección de Maphr",
+30004326,Pergamino de alquimia - Pergamino bendecido: Arma,@30004108,
+30004327,Pergamino de alquimia - Perg. bendecido: Armadura,@30004109,
+30004328,Pergamino de alquimia - Perg. bendecido: Accesorio,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,Caja de selección de barniz de grado S,@30004218,
+30004334,Caja de selección de barniz de grado R,@30004222,
+30004335,Caja de selección de barniz de grado SR,@30004223,
+30004336,Caja de selección de Piedra de aumento,@30004201,
+30004337,Caja de selección de Pergamino de mejora,@30004206,
+30004338,@3005,@3005,
+30004339,Energía de atributo,Obtén una energía de atributo.,
+30004340,Energía de superación de límite,Obtén una energía de superación de límite.,
+30004341,Lote de cristal de alma ligero,"100 000 adenas
+3 cajas aleatorias de cristales de alma de grado A",
+30004342,2 cristales de alma de ataque de grado B,@30004303,
+30004343,2 cristales de alma de defensa de grado B,@30004304,
+30004344,2 cristales de alma de precisión de grado B,@30004307,
+30004345,2 cristales de alma de evasión de grado B,@30004307,
+30004346,2 cristales de alma de tasa de críticos de grado B,@30004309,
+30004347,2 cristales de alma de resistencia a críticos de grado B,@30004306,
+30004348,2 cristales de alma de PV de grado B,@30004311,
+30004349,Lote de fortalecimiento de montura ligero,"50 000 adenas
+25 Piedras de progreso
+2 barnices de equipamiento de montura de grado S
+2 Pergaminos de mejora de montura",
+30004350,10 fragmentos de Piedra de invocación de oso negro,@30004111,
+30004351,10 fragmentos de Piedra de invocación de Santo de plata,@30004112,
+30004352,10 fragmentos de Piedra de invocación de Kukurin,@30004113,
+30004353,10 Piedras de progreso,@30004126,
+30004354,Visor de acero de grado A,Visor robusto para monturas.,
+30004355,Silla de acero de grado A,Silla robusta para monturas.,
+30004356,Armadura de acero de grado A,Armadura robusta para monturas.,
+30004357,Botas de acero de grado A,Botas robustas para monturas.,
+30004358,500 fragmentos de runa,Obtén 500 fragmentos de runa.,
+39009014,@39009010,"200 diamantes rojos
+50 000 adenas
+1 Pergamino bendecido: caja de selección de mejora
+5 cajas de selección de Pergamino de mejora",
+39006001,Lote I de celebración por los 100 días de Revolution,"50 Diamantes rojos
+500 Refuerzos de alma
+50 Pociones de PV
+50 Pociones de PM
+5 Cajas aleatorias de piedras de aumento",
+39006002,Lote II de celebración por los 100 días de Revolution,"100 Diamantes azules
+100 Piedras de estrella rojas
+100 Pociones de PV
+100 Pociones de PM
+Caja de armadura poco común exclusiva de grado S",
+39006101,Caja selec. arma poco común celebración 100 días,Úsalo para seleccionar armas poco comunes de grado S.,
+39006102,@3008,@3007,
+39006003,Lote especial limitado de león con melena,"1 piedra de invocación de león con melena
+1 flauta de león con melena
+500 piedras de progreso
+10 Pergaminos de mejora de montura
+500 000 adenas",
+39006004,Lote especial limitado de fortalecimiento primaveral,"100 diamantes rojos
+1 barniz de armadura blanco puro de grado SR
+1 barniz de arma blanco puro de grado SR",
+3016,Piedra de invocación de león con melena,1 piedra de invocación de león con melena,
+30150005,Lote de mejora de montura especial,"1000 diamantes rojos
+200 piedras de progreso
+20 cajas de barniz de equipamiento de montura de grado S
+20 Pergaminos de mejora de montura
+1 caja de selección de piedra de invocación de montura",
+30130022,Lote de Cristal de alma especial,"2000 diamantes rojos
+200 000 adenas
+2 cajas de selección de Cristal de alma de grado S
+10 cajas aleatorias de Cristal de alma de grado S - SR",
+39006103,Caja de selec. de arm. poco común celebración 100 días,@39006101,
+30004359,@30004341,"200 diamantes rojos
+2 cajas de selección de Cristal de alma de grado A",
+38000100,Recompensa A de tarjeta regalo,"400 diamantes rojos
+150 000 adenas
+3 cajas aleatorias de Pergamino de mejora",
+38000200,Recompensa B de tarjeta regalo,"800 diamantes rojos
+500 000 adenas
+10 cajas aleatorias de Pergamino de mejora",
+9667,Beneficios diarios por misión (28 días),"1. Función de Pergamino de misión automática
+2. Función de misión semanal automática
+3. Se entregan 3 cajas de Pergamino de misión de grado S al día
+4. 1200 diamantes rojos tras la compra",
+9668,Beneficios de caza diaria (28 días),"1. Función de venta de objetos de inventario automática
+2. Potenciador del 20% para la obtención de objetos
+3. Potenciador del 20% para la ganancia de adenas
+4. Se entrega 1 completado automático de mazmorra al día
+5. Se entregan 20 puntos de lealtad al día
+6. 1200 diamantes rojos tras la compra",
+30180001,Lote de apoyo de habilidad de clan,"[Recompensa individual]
+1500 [Diamantes rojos]
+[Caja de página de Pergamino olvidado aleatoria]
+[Caja de selección de página de Pergamino olvidado]
+[Recompensa de miembro de clan]
+1 [Paquete comprimido de Refuerzo de alma]
+10 [PH]
+10 [Pociones de PV superiores]",
+30180002,Lote de apoyo de fortalecimiento de clan,"Recompensa individual:
+2000 [diamantes rojos]
+5 [cajas de selección de pergamino bendecido]
+3 [Protecciones de Maphr]
+Recompensas de miembros de clan:
+2 [Cajas de selección de Pergamino de mejora]
+5 [Fragmentos de Protección de Maphr]",
+30150006,Lote de león con melena,"1 [Piedra de invocación de león con melena]
+1 [Flauta de unión de león con melena]
+300 [Piedras de progreso]
+10 [Cajas aleatorias de equipamiento de montura de grado A - S]
+200 000 [adenas]",
+39006005,Lote especial de armadura roja poco común,"1 [Caja de selección de armadura Aegis de grado SR]
+5 [Barnices de armadura de grado SR]
+300 000 [adenas]
+5 [Pergaminos bendecidos: armadura]",
+39006006,Lote de armadura de paciencia,"1 [Caja de selección de armadura Paciencia de grado SR]
+1 [Piedra de atributo de grado R]
+100 000 [adenas]
+2 [Pergaminos bendecidos: armadura]",
+39006007,Lote de armadura de protección,"1 [Caja de selección de armadura Paciencia de grado SR]
+1 [Piedra de atributo de grado R]
+100 000 [adenas]
+2 [Pergaminos bendecidos: armadura]",
+30130023,Lote de broche de Capa de soldado comando de sangre,"1 [Cajas de selección de Pergamino de mejora]
+100 [Fragmentos de Protección de Maphr]",
+30130024,Lote de Broche de Capa de jardín,"1 [Cajas de selección de Pergamino de mejora]
+30 [Fragmentos de Protección de Maphr]",
+30130025,Lote especial de protección de Maphr,"10 [Protecciones de Maphr]
+10 [Lotes de Pergaminos de mejora]
+30 [Topacios]",
+30130026,Lote de refuerzo de Capa,"100 000 [adenas]
+50 [hebras de capa]
+5 [esquirlas de locura]
+5 [Lágrimas de Trisha]
+10 [Topacio]",
+30130027,Lote especial de refuerzo de Capa,"200 [hebras de capa]
+40 [esquirlas de locura]
+40 [Lágrimas de Trisha]]",
+30004360,Lote de refuerzo de Capa ligera,"2 [Cajas de selección de Pergamino de mejora]
+50.000 [Fragmentos de Protección de Maphr]",
+30004361,Hebra de Capa,Material necesario para subir Capas de nivel.,
+30004362,Esquirla de locura,Material necesario para subir la Capa de destrucción roja de nivel. Usa 1000 esquirlas de locura para fabricar un broche de Capa de destrucción roja.,
+30004363,Lágrima de Trisha,Material necesario para subir la Capa de sangre virtuosa de nivel. Usa 1000 lágrimas de Trisha para fabricar un broche de Capa de sangre virtuosa.,
+30004364,Tejido mágico,Material necesario para cambiar parámetros secundarios.,
+30004365,Tejido mágico de destrucción,Material necesario para cambiar los parámetros secundarios de la Capa de destrucción roja.,
+30004366,Tejido mágico de virtud,Material necesario para cambiar los parámetros secundarios de la Capa de sangre virtuosa.,
+30004367,Aguja mágica,Material necesario para mantener parámetros secundarios.,
+3017,20 Esquirlas de locura,@30004362,
+3018,20 lágrimas de Trisha,@30004363,
+6023,80 Hebras de Capa,@30004361,
+39006008,Lote de diamantes rojos,4.000 diamantes rojos,
+39006009,Lote especial de celebración de actualización,"10 [Bolsas especiales de celebración de actualización]
+(Úsalas para obtener aleatoriamente 1-10 Protecciones de Maphr o Pergaminos bendecidos).
+1000 diamantes azules",
+39006010,Bolsa especial de celebración de actualización,"1 [Bolsas especiales de celebración de actualización]
+(Úsalas para obtener aleatoriamente 1-10 Protecciones de Maphr o Pergaminos bendecidos).",
+39006011,Lote de armadura roja poco común,"1 [Caja de selección de armadura de Aegis de grado SR]
+1 [Barniz de armadura de grado SR]
+100 000 adenas
+1 [Pergamino bendecido: Armadura]",
+30014013,Caja de selección de barniz de equipamiento de grado S,Úsalo para seleccionar y obtener un barniz de grado S.,
+30014014,Lote de Pergamino de mejora,"Esta caja contiene Pergaminos de mejora.
+Úsala para obtener un Pergamino de mejora de cada tipo.",
+30014015,@3005,"La Protección de Maphr, la diosa de la tierra, reside dentro de esta gema.
+Este objeto impide que el nivel de mejora de tu equipamiento baje en caso de que una mejora no tenga éxito.",
+30014016,Caja de selección de Piedra de invocación de jefe,Úsalo para seleccionar y obtener una piedra de invocación de jefe.,
+30014017,50 Hebras de Capa,@30004361,
+30014018,@30004367,@30004364,
+30014019,Caja de sel. de Pergamino bendecido,Úsala para seleccionar y obtener uno de los siguientes objetos: Pergamino bendecido: Accesorio.,
+30014020,@3008,@3007,
+30130028,Lote de armadura azul poco común de grado S,@30130010,

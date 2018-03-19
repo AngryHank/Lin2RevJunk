@@ -1,0 +1,43 @@
+Id,Adventure,Difficulty
+1,Alle,Alle
+2,Elite-Dungeon,Elfenruinen 1
+3,@2,Elfenruinen 2
+4,@2,Ameisennest 1
+5,@2,Ameisennest 2
+6,@2,Cruma-Turm 2
+7,@2,Cruma-Turm 3
+8,@2,Elfenbeinturm 1
+9,@2,Elfenbeinturm 2
+10,Entnahme-Dungeon,Entnahme-Dungeon
+11,Tempelwächter,Einfach
+12,@11,Normal
+13,@11,Schwer
+14,@11,Sehr schwer
+15,Beschwörungskreis,@11
+16,@15,@12
+17,@15,@13
+101,Raidboss,Geisterhirte
+102,@101,Zodiac
+103,@101,Kyrios
+104,@101,Silberbart
+105,@101,Vapar
+106,@101,Kazir
+107,@101,Flagon
+108,@101,Sina
+109,@101,Amadeus
+111,@101,Stenoa
+112,@101,Marsha
+118,@2,Elfenbeinturm 3
+124,Zeit-Rift,Altar des Wahnsinns - Einfach
+125,@124,Altar des Wahnsinns - Normal
+129,@124,Schlafzimmer der Blutgräfin - Einfach
+130,@124,Schlafzimmer der Blutgräfin - Normal
+140,Seltener Monster-Dungeon,Sprechende Insel
+141,@140,Gludio
+142,@140,Dion
+143,@140,Giran
+144,@140,Oren
+145,Boss-Beschwörungsstein-Dungeon,@141
+146,@145,@142
+147,@145,@143
+148,@145,@144

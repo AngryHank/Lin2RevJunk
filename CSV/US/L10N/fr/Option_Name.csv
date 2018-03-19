@@ -1,0 +1,66 @@
+Id,Description
+1,Définit la résolution du jeu. Le jeu peut tourner de manière plus fluide avec des paramètres plus bas.
+2,Définit la distance d'affichage. Le jeu peut tourner de manière plus fluide avec des paramètres plus bas.
+3,"Ajuste le niveau de détail des contours. Les objets seront moins lisses avec des paramètres peu élevés, mais le jeu tournera de manière plus fluide."
+4,Définit le niveau de détail des textures. Le jeu peut tourner de manière plus fluide avec des paramètres plus bas.
+5,Définit la qualité des ombres. Les graphismes seront plus réalistes avec des paramètres plus élevés.
+6,Définit la synchronisation verticale. Les graphismes seront plus fluides avec des paramètres plus élevés.
+7,@5
+8,Définit le niveau de qualité des textures. Le jeu peut tourner de manière plus fluide avec des paramètres plus bas.
+9,Niveau de détails des textures
+10,Définit le rapport de la résolution.
+11,Lance 1 pré-passage dans Slate.
+12,Définit la visibilité de votre ombre.
+13,Définit le nombre d'images par seconde.
+14,Définit la qualité des graphismes selon l'usage de l'APU.
+15,Définit la qualité des graphismes selon l'usage de la mémoire.
+16,Définit la qualité des canaux sonores.
+17,Définit la cible d'affichage de l'effet.
+18,Configurer l'affichage des noms des autres joueurs.
+19,Définit le nombre maximum de joueurs affichés sur votre écran.
+20,Définit l'équipement à afficher sur votre écran.
+21,Configurer l'affichage des capes.
+22,"Configurer le niveau de diffusion du perfectionnement (réussite du perfectionnement, échec du perfectionnement)."
+23,Définit le volume général du son.
+24,Définit le volume de l'environnement.
+25,Définit le volume des effets sonores.
+26,Définit le volume des voix des acteurs.
+27,Active les vibrations.
+28,Active la fonctionnalité d'activation/désactivation automatique de l'appareil.
+29,Active la fonctionnalité de lecture automatique dans la discussion vocale.
+30,Vous pouvez activer ou désactiver toutes les notifications en jeu.
+31,Recevoir les notification de jeu.
+32,Recevoir les avertissements de jeu.
+33,Désactiver cette option bloque toute notification entre 21 h et 8 h.
+34,Désactivez cette option pour bloquer les notifications dynamiques (à l'exception des notifications ayant une haute importance).
+35,Désactivez cette option pour bloquer les notifications de discussion privée.
+36,Désactivez cette option pour bloquer les notifications de discussion de clan.
+37,Désactivez cette option pour bloquer les notifications de discussion de groupe.
+44,Définit à quelle quantité de PV les potions de PV seront utilisées automatiquement.
+45,Définit à quelle quantité de PM les potions de PM seront utilisées automatiquement.
+46,Définit à quel pourcentage de PV les compétences de soin seront utilisées automatiquement.
+47,Définit l'ordre des potions à utiliser lorsque des potions de PV sont utilisées automatiquement.
+48,Définit l'ordre des potions à utiliser lorsque des potions de PM sont utilisées automatiquement.
+49,Affiche la portée d'attaque normale.
+50,Définit l'étendue des mouvements de votre personnage pendant un combat auto.
+51,Définit la qualité minimale des équipements à obtenir.
+52,Affiche la cible actuelle de la cible sélectionnée par le joueur.
+53,Affiche les PV de la cible de plusieurs façons.
+54,Mettez-vous à l'abri lorsque vous rencontrez des monstres élites ou supérieurs pendant un combat auto.
+55,Vous obtiendrez des objets ayant au minimum cette qualité (vous n'obtiendrez pas d'objet d'une qualité inférieure.)
+56,
+57,
+58,
+59,Détermine la zone de contrôle fixe des sticks analogiques numériques à l'écran.
+60,Traduit les messages de la discussion vers la langue utilisée dans le jeu.
+61,Détermine les langues à traduire ou ne pas traduire dans la discussion.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

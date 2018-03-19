@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Şanslı Sandık,"▶ Sunucuda bulunan tüm oyuncuların beklemeden meydan okumasını sağlayan etkinlik.
+▶ Her etkinlik rotasyonu için yeni ödüller mevcut.
+▶ Etkinliğe katılım için gerekli biletler, Dükkan'da bulunan Çağırma Sandıklarından elde edilebilir.",10. seviyeye geldikten sonra çekiliş etkinliğine erişebilirsin.,Tebrikler! [Player] Şanslı Sandık Etkinliği'nden #[Rank] sıralaması ödülü kazandı.

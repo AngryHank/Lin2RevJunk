@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Episodio completo,Completa Episodio <RedBold>1-2</>.
+31002,Aumento di livello Equipaggiamento,Tenta di aumentare l’equipaggiamento di livello <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31003,@31001,Completa Episodio <RedBold>1-5</>.
+31004,Potere di combattimento,Raggiungi il massimo Potere di combattimento pari a <RedBold>[Value]</>. ([Value1]/[Value2])
+31005,Arena,Affronta l’Arena <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31006,Acquisisci Equipaggiamento,Acquisisci <RedBold>[Value]</> Equipaggiamento. ([Value1]/[Value2])
+31007,Aumento di livello Abilità,Aumenta il livello dell’Abilità <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Punti Traguardo,Ottieni <RedBold>[Value]</> Punti Traguardo. ([Value1]/[Value2])
+31010,Registrazione al clan,Registrati al clan. <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31011,Donazione al clan,Dona al Clan <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31012,Negozio del Clan,Acquista Buff del Clan <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31013,Entra nella Torre dell’Insolenza,Affronta la Torre dell’Insolenza <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31014,Autocompletamento della Torre dell’Insolenza,Autocompleta la Torre dell’Insolenza <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31015,Incisione Rune,Tenta l’Incisione delle Rune <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31016,Combinazione Equipaggiamento,Prova a combinare l’Equipaggiamento <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31017,@31001,Completa Episodio <RedBold>1-11</>.
+31018,Upgrade Equipaggiamento,Tenta l’Upgrade dell’Equipaggiamento <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31019,Missione giornaliera,Completa <RedBold>[Value]</> Quest giornaliera/e. ([Value1]/[Value2])
+31020,@31015,Esegui l’Incisione delle Rune <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Completamento Quest settimanale,Completa la Quest settimanale <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31102,Potenziamento Equipaggiamento,Potenzia l’equipaggiamento <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Segrete Élite,Completa <RedBold>[Value]</> Quest Segreta Élite. ([Value1]/[Value2])
+31105,Sconfiggi mostri nelle Rovine Elfiche 1,Sconfiggi <RedBold>[Value]</> mostri ([Value1]/[Value2]) nelle Rovine Elfiche 1
+31106,Acquisizione Essenze di Mostro,Acquisisci <RedBold>[Value]</> Essenza/e di Mostro. ([Value1]/[Value2])
+31107,Registrazione Essenze di Mostro,Registra <RedBold>[Value]</> Essenza/e di Mostro. ([Value1]/[Value2])
+31108,Completamento Tempio Guardiano,Completa il Tempio Guardiano <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31109,Torre dell’Insolenza,Completa il <RedBold>[Value]° piano </> della Torre dell’Insolenza. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,Completa Episodio <RedBold>3-5</>.
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Segreta di estrazione,Estrai erbe <RedBold>[Value2]</> volta/e nella Segreta di Estrazione. ([Value1]/[Value2])
+31117,Creazione Elisir,Crea Elisir <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31118,Upgrade Cristallo dell’Anima,Tenta di effettuare l’upgrade di un Cristallo dell’Anima <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31119,@31001,Completa Episodio <RedBold>4-4</>.
+31120,Raggiungi livello,<RedBold>Raggiungi</> il livello 31 ([Value1]/[Value2])
+31121,Passaggio di Classe completato,Effettua il <RedBold>Passaggio di Classe</>.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Segreta giornaliera completata,Completa la Segreta giornaliera <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Sconfiggi i mostri nel Nido di Formiche 1,Sconfiggi <RedBold>[Value]</>i mostri ([Value1]/[Value2]) nel Nido di Formiche 1
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Camera blindata di Adena,Completa la Camera blindata di Adena <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,Raggiungi il liv.<RedBold>50</>. ([Value1]/[Value2])
+31302,Completa il Cerchio di Evocazione,Completa il Cerchio di Evocazione <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31303,Equipaggiamento Cavalcatura,<RedBold>Equipaggia</> la cavalcatura. ([Value1]/[Value2])
+31304,Aumento di livello Equipaggiamento Cavalcatura,Tenta l’aumento di livello dell’<RedBold>Equipaggiamento della cavalcatura [Value]</> volta/e. ([Value1]/[Value2])
+31305,Pietre di avanzamento,Usa la Pietra di avanzamento sulla cavalcatura <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31306,Potenzia Equipaggiamento Cavalcatura.,Potenzia Equipaggiamento Cavalcatura <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31307,Raggiungi Obiettivo Livello Cavalcatura,Raggiungi il <RedBold>liv. [Value]</> della Cavalcatura. ([Value1]/[Value2])
+31308,Upgrade della Cavalcatura,Effettua l’upgrade della Cavalcatura <RedBold>[Value]</> volta/e. ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Acquisisci Equipaggiamento Cavalcatura,Acquisisci <RedBold>[Value]</> Equipaggiamento Cavalcatura di grado A o superiore. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,Acquisisci <RedBold>[Value]</> Equipaggiamento Cavalcatura di grado S o superiore. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,Acquisisci <RedBold>[Value]</> Equipaggiamento Cavalcatura di grado R o superiore. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,Prove di Esperienza,Completa le Prove di Esperienza <RedBold>[Value]</> volta/e. ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

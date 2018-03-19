@@ -1,0 +1,15 @@
+GroupID,RewardType,RewardItemInfoId,RewardCount,RewardIcon
+1,6,490033,10,Icon_Asset_SkillPoint_01
+2,6,400001,100,Icon_SoulShot_01
+3,6,440001,5,Icon_HpPotion_01
+4,6,440011,5,Icon_MpPotion_01
+5,6,910307,1,Icon_GachaItem_Herb
+6,6,900012,1,Icon_GachaItem_Soulcrystal
+7,6,910011,1,Icon_Box_Rune_03
+8,6,910308,2,Icon_Gacha_HerbPotion
+9,6,490049,5,Item_GemStoneRed_01
+10,6,449999,2,UI_Icon_TeleportScroll
+11,6,490000,3,UI_Icon_LoudSpeaker
+12,6,490013,1,Icon_Box_Dia_04
+13,6,911174,1,Icon_Box_EquipLevelMaterial
+14,6,81000105,20,Icon_Event_MonstoCoin

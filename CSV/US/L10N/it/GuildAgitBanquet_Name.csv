@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Banchetto piccolo,"Un Banchetto piccolo cucinato da un Custode dei Banchetti Principiante.
+Dif. e Dif. M. +500"
+2,Banchetto medio,"Un Banchetto medio cucinato da un Custode dei Banchetti Principiante.
+PS/PM +1000"
+3,Banchetto grande,"Un Banchetto grande cucinato da un Custode dei Banchetti Principiante.
+Att. e Att. M. +500"
+4,Banchetto elegante piccolo,"Un Banchetto piccolo cucinato da un Custode dei Banchetti Veterano.
+Dif. e Dif. M. +1200"
+5,Banchetto elegante medio,"Un Banchetto medio cucinato da un Custode dei Banchetti Veterano.
+PS/PM +2000"
+6,Banchetto elegante grande,"Un Banchetto grande cucinato da un Custode dei Banchetti Veterano.
+Att. e Att. M. +1200"
+7,Banchetto sfarzoso piccolo,"Un Banchetto piccolo cucinato da un Custode dei Banchetti Rispettabile.
+Dif. e Dif. M. +2000, Livello Crit. +500"
+8,Banchetto sfarzoso medio,"Un Banchetto medio cucinato da un Custode dei Banchetti Rispettabile.
+PS/PM +3000, Livello Crit. +500"
+9,Banchetto sfarzoso grande,"Un Banchetto grande cucinato da un Custode dei Banchetti Rispettabile.
+Att. e Att. M. +2000, Livello Crit. +500"

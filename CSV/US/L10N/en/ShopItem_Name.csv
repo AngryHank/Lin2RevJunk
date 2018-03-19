@@ -32,6 +32,10 @@ Use to enhance an accessory by 1 - 3 levels.",
 4100,Crucifix of Repentance,"Use to reduce Chaotic Value by 30.
 You can use crosses 3 times a day.",
 4101,50 Scrolls of Escape,Use to teleport.,
+4105,Night Sky Fireworks,"Fireworks that can brighten up the night sky, even during the day.",
+4106,Silverlight Fireworks,Fireworks that shine like the stars in the sky.,
+4107,Prosperity Fireworks,Fireworks that symbolize a yearning for prosperity.,
+4108,Love Fireworks,Special fireworks that guarantee a successful proposal.,
 5002,1 High-grade Equipment,"Acquire (A - SR) equipment!
 Rare Equipment can be acquired!",
 5003,10 High-grade Equipment (+1 bonus),"Acquire (A - SR) equipment!
@@ -46,10 +50,18 @@ Rare Equipment and Tradable Equipment can be acquired!",
 Rare Equipment Acquisition Rate increased!
 Only Weapons can be acquired when obtaining Rare Equipment!",
 5102,10 Weapon Strengthening Boxes (+1 bonus),@5101,
-5201,방어구 성장 상자 1개,"(A등급 ~ SR등급) 방어구 & 방어구 연마제 획득 가능!
-희귀 장비 획득 확률 증가!
-희귀 장비 획득 시 방어구만 획득!",
-5202,방어구 성장 상자 10+1개,@5201,
+5103,@5101,"(Grade A - Grade SR) Weapons & Weapon Varnishes are possible!
+Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory possible!",
+5104,@5102,"(Grade A - Grade SR) Weapons & Weapon Varnishes are possible!
+Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory possible!
+Purchase 7 times to get a guaranteed Grade S Red Weapon!",
+5201,1 Armor Strengthening Box,"(Grade A - SR) Armor and Armor Varnish available!
+Rare Equipment Acquisition Rate increased!
+Only Armor can be acquired when obtaining Rare Equipment!",
+5202,10 Armor Strengthening Boxes (+1 bonus),@5201,
+5301,10 Special Material Boxes (+1 bonus),"Various Strengthening materials such as Blessed Scrolls, Maphr’s Protections, Cloak Yarn,
+Madness Shards, Trisha’s Tears and Soul Crystals
+are possible!",
 10001,10 HP Potions,@4001,
 10002,10 MP Potions,@4005,
 10003,250 Soulshots,@4009,
@@ -95,26 +107,26 @@ Each use reduces your Chaotic Value by 3, and you can use this effect 3 times a 
 13211,(Lv. 165) Quest Scroll - Grade S,@13200,
 30001000,60 + 60 Diamonds,"60 Blue Diamonds
 60 Red Diamonds",
-30001010,1 time only! 90 + 90 Diamonds,"90 Blue Diamonds
-90 Red Diamonds
-2 Topazes",
-30001020,1 time only! 160 + 160 Diamonds,"160 Blue Diamonds
-160 Red Diamonds
-4 Topazes",
-30001030,1 time only! 340 + 340 Diamonds,"340 Blue Diamonds
-340 Red Diamonds
-8 Topazes",
+30001010,1 time only! 90 + 90 Diamonds,"90 [Blue Diamonds]
+90 [Red Diamonds]
+2 [Topazes]",
+30001020,1 time only! 160 + 160 Diamonds,"160 [Blue Diamonds]
+160 [Red Diamonds]
+4 [Topazes]",
+30001030,1 time only! 340 + 340 Diamonds,"340 [Blue Diamonds]
+340 [Red Diamonds]
+8 [Topazes]",
 30001040,80 + 80 Diamonds,"80 Blue Diamonds
 80 Red Diamonds",
 30001050,700 Diamonds (20%),"700 Blue Diamonds
 16 Topazes",
-30001060,"1,080 Diamonds (20%)","1,080 Blue Diamonds
-25 Topazes",
-30001070,"1,900 Diamonds (10%)","1,900 Blue Diamonds
-45 Topazes",
+30001060,"1,080 Diamonds (20%)","1,080 [Blue Diamonds]
+25 [Topazes]",
+30001070,"1,900 Diamonds (10%)","1,900 [Blue Diamonds]
+45 [Topazes]",
 30001080,"1,900 Diamonds (20%)",@30001070,
-30001090,"4,000 Diamonds (10%)","4,000 Blue Diamonds
-100 Topazes",
+30001090,"4,000 Diamonds (10%)","4,000 [Blue Diamonds]
+100 [Topazes]",
 30001100,"4,000 Diamonds (20%)",@30001090,
 30001110,"4,000 Diamonds (30%)",@30001090,
 30001120,"4,000 + 2,000 Diamonds","4,000 Blue Diamonds
@@ -133,11 +145,11 @@ Each use reduces your Chaotic Value by 3, and you can use this effect 3 times a 
 400 Red Diamonds",
 30001190,"4,000 + 800 Diamonds","4,000 Blue Diamonds
 800 Red Diamonds",
-30001200,1 time only! 30 + 60 Diamonds,"30 Blue Diamonds
-60 Red Diamonds
-1 Topaz",
-30002000,90 Diamonds,"90 Blue Diamonds
-2 Topazes",
+30001200,1 time only! 30 + 60 Diamonds,"30 [Blue Diamonds]
+60 [Red Diamonds]
+1 [Topaz]",
+30002000,90 Diamonds,"90 [Blue Diamonds]
+2 [Topazes]",
 30002010,160 Diamonds,"160 Blue Diamonds
 4 Topazes + 8 More",
 30002020,340 Diamonds,"340 Blue Diamonds
@@ -152,17 +164,17 @@ Each use reduces your Chaotic Value by 3, and you can use this effect 3 times a 
 100 Topazes + 200 More",
 30002070,60 Diamonds,"60 Blue Diamonds
 1 Topaz",
-30002080,@30002010,"160 Blue Diamonds
-4 Topazes",
-30002090,@30002020,"340 Blue Diamonds
-8 Topazes",
+30002080,@30002010,"160 [Blue Diamonds]
+[4 Topazes]",
+30002090,@30002020,"340 [Blue Diamonds]
+8 [Topazes]",
 30002100,@30002030,@30001050,
 30002110,@30002040,@30001060,
 30002120,@30002050,@30001070,
 30002130,@30002060,@30001090,
-30003000,Daily Diamond I (28-Day),"800 Blue Diamonds immediately!
+30003000,Daily Diamond I (28-Day),"1,200 Red Diamonds acquired immediately!
 120 Red Diamonds daily!
-+ 10 Topazes every 8 daily collections!","A total of 3,360 Red Diamonds!"
++10 Topazes after every 8 daily collections!","A total of 4,560 Red Diamonds!"
 30003100,Daily Adena I (28-Day),"50,000 Adena Immediately!
 10,000 Adena Daily!
 + 40 Red Diamonds every 8 collections!","A total of 330,000 Adena!"
@@ -278,16 +290,16 @@ This crystal contains the souls of monsters.",
 30004318,3 Grade B Soul Crystals of Critical Rate,@30004309,
 30004319,3 Grade B Soul Crystals of Critical Resistance,@30004306,
 30004320,3 Grade B Soul Crystals of HP,@30004311,
-30110000,Luxury Starter Bundle,"600 Blue Diamonds
-1,000 HP Potions
-1,000 MP Potions
-5,000 Soulshots
-120 additional Inventory slots",
-30110001,Luxury Inventory Bundle,"1,500 Blue Diamonds
-1,000 HP Potions
-1,000 MP Potions
-10,000 Soulshots
-100 additional Inventory slots",
+30110000,Luxury Starter Bundle,"600 [Blue Diamonds]
+1,000 [HP Potions]
+1,000 [MP Potions]
+5,000 [Soulshots]
+120 [Additional Inventory slots]",
+30110001,Luxury Inventory Bundle,"1,500 [Blue Diamonds]
+1,000 [HP Potions]
+1,000 [MP Potions]
+10,000 [Soulshots]
+100 [Additional Inventory slots]",
 30110011,Special Rare Skill Enhance Bundle,"500,000 Adena
 3 Forgotten Scroll Page Selection Boxes
 3 Enhance Scroll Bundles
@@ -295,11 +307,11 @@ This crystal contains the souls of monsters.",
 30 Scrolls of Escape",
 30110012,Special Rare Skill Enhance Bundle (10%),@30110011,
 30110013,Special Rare Skill Enhance Bundle (20%),@30110011,
-30110014,Rare Skill Power Pack,"250,000 Adena
-2 Forgotten Scroll Page Selection Boxes
-5 Enhance Scroll Random Boxes
-3 Small SP Boxes
-20 Scroll of Escapes",
+30110014,Rare Skill Power Pack,"250,000 [Adena]
+2 [Forgotten Scroll Page Selection Boxes]
+5 [Enhance Scroll Random Boxes]
+3 [Small SP Boxes]
+20 [Scrolls of Escape]",
 30110015,Junior Adventurer Bundle,"600 Blue Diamonds
 600 Red Diamonds
 1 Grade S Exclusive Weapon 
@@ -314,28 +326,29 @@ This crystal contains the souls of monsters.",
 2,000 Red Diamonds
 1 Grade R Accessory Selection Box
 1 Grade R Attribute Stone",
-30120005,Rune Imprinting Special Bundle,"150,000 Adena
-3,000 Rune Fragments",
-30120007,SP Bundle,"360 Red Diamonds
-1 SP Box (500 SP)",
-30120008,High-grade SP Bundle,"1,200 Red Diamonds
-100,000 Adena
-3 SP Boxes (500 SP)",
-30120009,Accessory Summoning Bundle,"2,500 Red Diamonds
-50 Topazes
-150,000 Adena
-3 High-grade Accessory Boxes",
-30120010,Special Elixir Bundle,"20 Elixir Essence Selection Boxes
-40 Herb Bundles",
+30120005,Rune Imprinting Special Bundle,"150,000 [Adena]
+3,000 [Rune Fragments]",
+30120007,SP Bundle,"360 [Red Diamonds]
+1 [SP Box (500 SP)]",
+30120008,High-grade SP Bundle,"1,200 [Red Diamonds]
+100,000 [Adena]
+3 [SP Boxes (500 SP)]",
+30120009,Accessory Summoning Bundle,"2,500 [Red Diamonds]
+50 [Topazes]
+150,000 [Adena]
+3 [High-grade Accessory Boxes]",
+30120010,Special Elixir Bundle,"20 [Elixir Essence Selection Boxes]
+40 [Herb Bundles]",
 30120011,Special Adena Bundle (Limited Edition),"1,000,000 Adena",
 30120012,Accessory Summoning Bundle (10%),@30120009,
 30120013,Accessory Summoning Bundle (20%),@30120009,
 30120014,Rare Skill Bundle,"300 Red Diamonds
 100,000 Adena
 1 Random Forgotten Scroll Page Box",
-30130000,Low-grade Enhance Scroll Bundle,"300 Blue Diamonds
-20 Topazes
-3 Enhance Scroll Bundles",
+30130000,"Low-grade Enhance Scroll
+Bundle","300 [Blue Diamonds]
+20 [Topazes]
+3 [Enhance Scroll Bundles]",
 30130001,High-grade Enhance Scroll Bundle,"1,000 Red Diamonds
 50 Topazes
 5 Enhance Scroll Bundles
@@ -343,24 +356,27 @@ This crystal contains the souls of monsters.",
 30130002,Special Upgrade Stone Selection Bundle,"3,000 Red Diamonds
 200,000 Adena
 40 Upgrade Stone Selection Boxes",
-30130003,Grade A Equipment Strengthening Bundle,"200,000 Adena
-10 Grade A Varnish Selection Boxes",
-30130004,Grade S Equipment Strengthening Bundle,"300,000 Adena
-5 Grade S Varnish Selection Boxes
-10 Grade A Varnish Selection Boxes",
-30130005,Grade R Equipment Strengthening Bundle,"500,000 Adena
-3 Grade R Varnish Selection Boxes
-10 Grade S Varnish Selection Boxes",
+30130003,"Grade A Equipment
+Strengthening Bundle","200,000 [Adena]
+10 [Grade A Varnish Selection Boxes]",
+30130004,"Grade S Equipment
+Strengthening Bundle","300,000 [Adena]
+5 [Grade S Varnish Selection Boxes]
+10 [Grade A Varnish Selection Boxes]",
+30130005,"Grade R Equipment
+Strengthening Bundle","500,000 [Adena]
+3 [Grade R Varnish Selection Boxes]
+10 [Grade S Varnish Selection Boxes]",
 30130006,Blessed Scroll Bundle,"1,200 Red Diamonds
 20 Topazes
 5 Blessed Scroll Selection Boxes
 10 Enhance Scroll Selection Boxes",
-30130007,집혼석 패키지,"1,000 Red Diamonds
-50,000 Adena
-7 Grade A-S Soul Crystal Random Boxes",
-30130008,Premium Soul Crystal Bundle II,"1,000 Red Diamonds
-100,000 Adena
-3 Grade S-R Soul Crystal Random Boxes",
+30130007,Soul Crystal Bundle,"1,000 [Red Diamonds]
+50,000 [Adena]
+7 [Grade A-S Soul Crystal Random Boxes]",
+30130008,Premium Soul Crystal Bundle II,"1,000 [Red Diamonds]
+100,000 [Adena]
+3 [Grade S-R Soul Crystal Random Boxes]",
 30130009,Premium Soul Crystal Bundle III,"2,000 Red Diamonds
 200,000 Adena
 3 Grade S-SR Soul Crystal Random Boxes",
@@ -390,20 +406,20 @@ This crystal contains the souls of monsters.",
 80 Advancement Stones
 10 Grade A Mount Equipment Varnishes
 5 Mount Enhance Scrolls",
-30150002,Mount Strengthening Bundle III,"300,000 Adena
-120 Advancement Stones
-10 Grade S Mount Equipment Varnishes
-10 Mount Enhance Scrolls",
-30150003,Silver Saint Summon Bundle,"1,000 Blue Diamonds
-1 Silver Saint Binding Hornflute
-1 Silver Saint Summoning Stone
-40 Advancement Stones
-5 Mount Enhance Scrolls",
-30150004,Kukurin Summon Bundle,"1,500 Blue Diamonds
-1 Kukurin Binding Hornflute
-1 Kukurin Summoning Stone
-40 Advancement Stones
-5 Mount Enhance Scrolls",
+30150002,Mount Strengthening Bundle III,"300,000 [Adena]
+120[ Advancement Stones]
+10 [Grade S Mount Equipment Varnishes]
+10 [Mount Enhance Scrolls]",
+30150003,Silver Saint Summon Bundle,"1,000 [Blue Diamonds]
+1 [Silver Saint Binding Hornflute]
+1 [Silver Saint Summoning Stone]
+40 [Advancement Stones]
+5 [Mount Enhance Scrolls]",
+30150004,Kukurin Summon Bundle,"1,500 [Blue Diamonds]
+1 [Kukurin Binding Hornflute]
+1 [Kukurin Summoning Stone]
+40 [Advancement Stones]
+5 [Mount Enhance Scrolls]",
 30160000,Strengthening Diamond I,"Up to 1,500 Red Diamonds and a Grade A Exclusive Weapon Summoning Box can be acquired instantly! Get up to 8,500 Red Diamonds, a Grade A Exclusive Armor Box, and/or a Grade C-B Soul Crystal Selection Box!",
 30160001,Strengthening Diamond II,"Up to 1,500 Red Diamonds and a Grade S Exclusive Weapon Summoning Box can be acquired instantly! Get up to 8,500 Red Diamonds, a Grade S Exclusive Armor Box, and/or a Grade B-A Soul Crystal Selection Box!",
 30160002,Strengthening Diamond III,"Up to 1,500 Red Diamonds and a Grade S Attribute Stone can be acquired instantly! 
@@ -419,10 +435,10 @@ You’ll even get rewards for stories cleared prior to the purchase!",
 100% guaranteed to acquire a Grade R or higher Varnish!",
 39005004,1 Mount Material Box,"Can acquire Mount Equipment, Advancement Stones, Summoning Stones, Mount Enhance Scrolls!",
 39005005,10 Mount Material Boxes (+1 bonus),@39005004,
-39005010,고급 탑승펫 재료 상자 1개,"탑승 펫 뿔피리, 소환석, 소환석 조각
-탑승 펫 장비, 탑승 펫 장비 강화주문서, 육성석 획득 가능!
-(갈기사자 뿔피리, 소환석, 소환석 조각 포함)",
-39005011,고급 탑승펫 재료 상자 10+1개,@39005010,
+39005010,1 High-grade Mount Material Box,"Mount Hornflute, Summoning Stone, Summoning Stone Fragment,
+Mount Equipment, Mount Enhance Scroll, and Advancement Stone available!
+(Maned Lion Hornflute, Summoning Stone, and Summoning Stone Fragment included)",
+39005011,10 High-grade Mount Material Boxes (+1 bonus),@39005010,
 30014000,Auto-Clear Selection Box,Use to select and acquire 1 Auto-Clear Ticket.,
 30014001,@10029,@10029,
 30014002,10 SP,These points are used to improve skills.,
@@ -434,6 +450,8 @@ You’ll even get rewards for stories cleared prior to the purchase!",
 30014008,Grade C - A Equipment Varnish Box,Acquire 1 Grade C - A Equipment Varnish Box.,
 30014009,@5002,@5002,
 30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
 30010001,@30014000,@30014000,
 38000000,(Event) 340 Diamonds,"340 Blue Diamonds
 5 Grade A Varnish Selection Boxes",
@@ -466,6 +484,8 @@ You’ll even get rewards for stories cleared prior to the purchase!",
 30110031,Tier 56 Package,Tier 56 Package is purchased.,
 30110032,Tier 58 Package,Tier 58 Package is purchased.,
 30110033,Tier 60 Package,Tier 60 Package is purchased.,
+5022,10 High-grade Strengthening Boxes (+1 bonus),"Various Strengthening materials such as Soul Crystals, Blessed Scrolls, Elixir Essences, and Maphr’s Protections are available!
+Acquire various strengthening materials!",
 6002,Weapon Upgrade Stone,"An item used to
 upgrade a weapon.",
 6003,Armor Upgrade Stone,"An item used to
@@ -518,7 +538,7 @@ Use to acquire one of each sort of herb.",
 30004266,@30004305,@30004305,
 30004267,@30004306,@30004306,
 30004268,@30004003,@30004003,
-30004269,3 Scroll: Enhance Mount Equipment,This scroll enhances Mount Equipment and raises stats.,
+30004269,3 Scrolls: Enhance Mount Equipment,This scroll enhances Mount Equipment and raises stats.,
 30004270,Grade S Accessory Selection Box,Use to select and acquire one Grade S accessory from the list.,
 30004271,Forgotten Scroll Page Selection Box,Use to select and acquire one Forgotten Scroll Page from the list.,
 30004272,@30004002,@30004002,
@@ -528,7 +548,7 @@ Use to acquire one of each sort of herb.",
 5 Grade R Varnish Selection Boxes
 2 Grade SR Varnish Selection Boxes
 15 Upgrade Stone Selection Boxes",
-30004275,New Year 2018K Adena,"Hold on to your socks!
+30004275,2018 Special Adena Bundle,"Hold on to your socks!
 2,018,000 Adena!",
 30005015,1 time only! 10 High-grade Equipment (+1 Grade R),"Acquire (A - SR) equipment!
 One Grade R or higher piece of equipment is guaranteed!",
@@ -573,61 +593,61 @@ Increased chance for Rare Armor to appear!",
 Equipment with useful Attributes against Bosses!",
 39005009,10 Elite Attribute Equipment Pick-Up Boxes (+1),"[For Limited Time Only] [Grade A - SR] Weapon and Armor can be acquired!
 Equipment with useful Attributes against Elite Monsters!",
-39009000,@30110015,"1,000 Blue Diamonds
-1 Grade S Exclusive Rare Armor Box
-1,000 Rune Fragments
+39009000,@30110015,"1,000 [Blue Diamonds]
+1 [Grade S Exclusive Rare Armor Box]
+1,000 [Rune Fragments]
 [Level Eligible to Purchase: 16]",
-39009001,@30110016,"3,500 Red Diamonds
-1 Grade R Exclusive Equipment Selection Box
-1 Grade SR Attribute Stone
+39009001,@30110016,"3,500 [Red Diamonds]
+1 [Grade R Exclusive Equipment Selection Box]
+1 [Grade SR Attribute Stone]
 [Level Eligible to Purchase: 44]",
-39009002,@30110017,"3,500 Red Diamonds
-1 Grade R Accessory Selection Box
-1 Grade SR Limit Break Stone
+39009002,@30110017,"3,500 [Red Diamonds]
+1 [Grade R Accessory Selection Box]
+1 [Grade SR Limit Break Stone]
 [Level Eligible to Purchase: 73]",
-39009003,Elite Adventurer Bundle,"2,000 Red Diamonds
-1 Grade SR Attribute Stone
-3 Maphr’s Protections
+39009003,Elite Adventurer Bundle,"2,000 [Red Diamonds]
+1 [Grade SR Attribute Stone]
+3 [Maphr’s Protections]
 [Level Eligible to Purchase: 121]",
-39009004,Noblesse Adventurer Bundle,"2,000 Red Diamonds
-200,000 Adena
-1 Grade SR Limit Break Stone
-1 Grade SR Attribute Stone
+39009004,Noblesse Adventurer Bundle,"2,000 [Red Diamonds]
+200,000 [Adena]
+1 [Grade SR Limit Break Stone]
+1 [Grade SR Attribute Stone]
 [Level Eligible to Purchase: 151]",
-39009005,Light Upgrade Stone Bundle,"250 Red Diamonds
-25,000 Adena
-4 Upgrade Stone Selection Boxes",
-39009006,Upgrade Stone Bundle,"1,500 Red Diamonds
-100,000 Adena
-20 Upgrade Stone Selection Boxes",
-39009007,Special Upgrade Stone Bundle,"3,300 Red Diamonds
-250,000 Adena
-40 Upgrade Stone Selection Boxes",
-39009008,Enhance Bundle,"4 Enhance Scrolls: Weapon
-4 Enhance Scrolls: Armor
-4 Enhance Scrolls: Accessory
-1 Maphr’s Protection
-15 Topazes",
-39009009,Special Enhance Bundle,"15 Enhance Scrolls: Weapon
-15 Enhance Scrolls: Armor
-15 Enhance Scrolls: Accessory
-3 Maphr’s Protections
-50 Topazes",
-39009010,Light Blessed Scroll Bundle,"150 Red Diamonds
-1 Blessed Scroll: Enhance Selection Box
-20 Maphr’s Protection Fragments",
-39009011,Blessed Scroll Bundle,"1,000 Red Diamonds
-20 Topazes
-5 Blessed Scroll: Enhance Selection Boxes
-1 Maphr’s Protection",
-39009012,Special Blessed Scroll Bundle,"2,000 Red Diamonds
-50 Topazes
-10 Blessed Scroll: Enhance Selection Boxes
-2 Maphr’s Protections",
-39009013,Mount Enhance Bundle,"300,000 Adena
-120 Advancement Stones
-10 Grade S Mount Equipment Varnish Boxes
-10 Mount Enhance Scrolls",
+39009005,Light Upgrade Stone Bundle,"250 [Red Diamonds]
+25,000 [Adena]
+4 [Upgrade Stone Selection Boxes]",
+39009006,Upgrade Stone Bundle,"1,500 [Red Diamonds]
+100,000 [Adena]
+20 [Upgrade Stone Selection Boxes]",
+39009007,Special Upgrade Stone Bundle,"3,300 [Red Diamonds]
+250,000 [Adena]
+40 [Upgrade Stone Selection Boxes]",
+39009008,Enhance Bundle,"4 [Enhance Scrolls: Weapon]
+4 [Enhance Scrolls: Armor]
+4 [Enhance Scrolls: Accessory]
+1 [Maphr’s Protection]
+15 [Topazes]",
+39009009,Special Enhance Bundle,"15 [Enhance Scrolls: Weapon]
+15 [Enhance Scrolls: Armor]
+15 [Enhance Scrolls: Accessory]
+3 [Maphr’s Protections]
+50 [Topazes]",
+39009010,Light Blessed Scroll Bundle,"150 [Red Diamonds]
+1 [Blessed Scroll Selection Box]
+20 [Maphr’s Protection Fragments]",
+39009011,Blessed Scroll Bundle,"1,000 [Red Diamonds]
+20 [Topazes]
+5 [Blessed Scroll Selection Boxes]
+1 [Maphr’s Protection]",
+39009012,Special Blessed Scroll Bundle,"2,000 [Red Diamonds]
+50 [Topazes]
+10 [Blessed Scroll Selection Boxes]
+2 [Maphr’s Protections]",
+39009013,Mount Enhance Bundle,"300,000 [Adena]
+120 [Advancement Stones]
+10 [Grade S Mount Equipment Varnish Boxes]
+10 [Mount Enhance Scrolls]",
 30004325,Light Enhance Bundle,"50,000 Adena
 4 Enhance Scrolls: Weapon
 4 Enhance Scrolls: Armor
@@ -649,7 +669,7 @@ Equipment with useful Attributes against Elite Monsters!",
 30004339,Attribute Energy,Acquire one Attribute Energy.,
 30004340,Limit Break Energy,Acquire one Limit Break Energy.,
 30004341,Light Soul Crystal Bundle,"100,000 Adena
-3 Grade A Soul Crystal Random Box",
+3 Grade A Soul Crystal Random Boxes",
 30004342,2 Grade B Soul Crystals of Attack,@30004303,
 30004343,2 Grade B Soul Crystals of Defense,@30004304,
 30004344,2 Grade B Soul Crystals of Accuracy,@30004307,
@@ -670,10 +690,10 @@ Equipment with useful Attributes against Elite Monsters!",
 30004356,Grade A Steel Armor,Very sturdy armor for mounts.,
 30004357,Grade A Steel Boots,Very sturdy boots for mounts.,
 30004358,500 Rune Fragments,Acquire 500 Rune Fragments.,
-39009014,@39009010,"200 Red Diamonds
-50,000 Adena
-1 Blessed Scroll: Enhance Selection Box
-5 Enhance Scroll Selection Boxes",
+39009014,@39009010,"200 [Red Diamonds]
+50,000 [Adena]
+1 [Blessed Scroll Selection Box]
+5 [Enhance Scroll Selection Boxes]",
 39006001,100 Days of Revolution Celebration Bundle I,"50 Red Diamonds
 500 Soulshots
 50 HP Potions
@@ -686,30 +706,119 @@ Equipment with useful Attributes against Elite Monsters!",
 Grade S Exclusive Rare Armor Box",
 39006101,100 Days Celebration Rare Weapon Selection Box,Use to select Grade S Rare Weapon(s).,
 39006102,@3008,@3007,
-39006003,갈기사자 특별 한정 패키지,"갈기사자 소환석 1개
-갈기사자 뿔피리 1개
-육성석 500개
-탑승 펫 강화 주문서 10개
-500,000 아데나",
-39006004,봄 성장 특별 한정 패키지,"레드 다이아 100개
-SR등급 순백의 방어구 연마제 1개
-SR등급 순백의 무기 연마제 1개",
-3016,갈기사자 소환석,갈기사자 소환석 1개,
-30150005,스페셜 탑승펫 성장 강화 패키지,"레드 다이아 1000개
-육성석 200개
-S등급 탑승 펫 장비 연마제 상자 20개
-탑승 펫 강화 주문서 20개
-탑승펫 소환석 선택 상자 1개",
-30130022,스페셜 집혼석 패키지,"레드 다이아 2000개
-200,000 아데나
-S등급 집혼석 선택 상자 2개
-S ~ SR등급 집혼석 랜덤 상자 10개",
-39006103,100일 기념 희귀 방어구 선택 상자,@39006101,
-30004359,@30004341,"200 레드 다이아
-A등급 집혼석 선택상자 2개",
-38000100,기프트 카드 보상 A,"400 레드 다이아
-150,000 아데나
-강화 주문서 랜덤 상자 3개",
-38000200,기프트 카드 보상 B,"800 레드 다이아
-500,000 아데나
-강화 주문서 랜덤 상자 10개",
+39006003,Maned Lion Special Limited Bundle,"1 [Maned Lion Summoning Stone]
+1 [Maned Lion Hornflute]
+500 [Advancement Stones]
+10 [Mount Enhance Scrolls]
+500,000 [Adena]",
+39006004,Spring Strengthening Special Limited Bundle,"100 [Red Diamonds]
+1 [Grade SR Pure White Armor Varnish]
+1 [Grade SR Pure White Weapon Varnish]",
+3016,Maned Lion Summoning Stone,1 [Maned Lion Summoning Stone],
+30150005,Special Mount Enhance Bundle,"1,000 [Red Diamonds]
+200 [Advancement Stones]
+20 [Grade S Mount Equipment Varnish Boxes]
+20 [Mount Enhance Scrolls]
+1 [Mount Summoning Stone Selection Box]",
+30130022,Special Soul Crystal Bundle,"2,000 [Red Diamonds]
+200,000 [Adena]
+2 [Grade S Soul Crystal Selection Boxes]
+10 [Grade S - SR Soul Crystal Random Boxes]",
+39006103,100 Days of Celebration Rare Armor Selection Box,@39006101,
+30004359,@30004341,"200 Red Diamonds
+2 Grade A Soul Crystal Selection Boxes",
+38000100,Gift Card Reward A,"400 Red Diamonds
+150,000 Adena
+3 Enhance Scroll Random Boxes",
+38000200,Gift Card Reward B,"800 Red Diamonds
+500,000 Adena
+10 Enhance Scroll Random Boxes",
+9667,Daily Quest Benefits (28 Days),"1. Auto Quest Scroll Feature
+2. Auto Weekly Quest Feature
+3. 3 Grade S Quest Scroll Boxes delivered daily
+4. 1,200 Red Diamonds Upon Purchase",
+9668,Daily Hunting Benefits (28 Days),"1. Auto Inventory Item Sale Feature
+2. Item Drop +20% Buff
+3. Adena Gain +20% Buff
+4. 1 Dungeon Auto-Clear delivered daily
+5. 20 Loyalty Points delivered daily
+6. 1,200 Red Diamonds Upon Purchase",
+30180001,Clan Skill Support Bundle,"[Individual Reward]
+1,500 [Red Diamonds]
+[Random Forgotten Scroll Page Box]
+[Forgotten Scroll Page Selection Box]
+[Clan Member Reward]
+1 [Soulshot Compressed Pack]
+10 [SP]
+10 [Greater HP Potions]",
+30180002,Clan Strengthening Support Bundle,"Individual Reward:
+2,000 [Red Diamonds]
+5 [Blessed Scroll Selection Boxes]
+3 [Maphr’s Protections]
+Clan Member Reward:
+2 [Enhance Scroll Selection Boxes]
+5 [Maphr’s Protection Fragments]",
+30150006,Maned Lion Bundle,"1 [Maned Lion Summoning Stone]
+1 [Maned Lion Binding Hornflute]
+300 [Advancement Stones]
+10 [Grade A - S Mount Equipment Random Boxes]
+200,000 [Adena]",
+39006005,Rare Red Armor Special Bundle,"1 [Grade SR Aegis Armor Selection Box]
+5 [Grade SR Armor Varnishes]
+300,000 [Adena]
+5 [Blessed Scrolls: Armor]",
+39006006,Patience Armor Bundle,"1 [Grade SR Patience Armor Selection Box]
+1 [Grade R Attribute Stone]
+100,000 [Adena]
+2 [Blessed Scrolls: Armor]",
+39006007,Protection Armor Bundle,"1 [Grade SR Protection Armor Selection Box]
+1 [Grade R Attribute Stone]
+100,000 [Adena]
+2 [Blessed Scrolls: Armor]",
+30130023,Blood Ranger’s Cloak Brooch Bundle,"1 [Blood Ranger’s Cloak Brooch]
+100 [Cloak Yarn]",
+30130024,Garden Cloak Brooch Bundle,"1 [Garden Cloak Brooch]
+30 [Cloak Yarn]",
+30130025,Special Maphr’s Protection Bundle,"10 [Maphr’s Protections]
+10 [Enhance Scroll Bundles]
+30 [Topazes]",
+30130026,Cloak Strengthening Bundle,"100,000 [Adena]
+50 [Cloak Yarn]
+5 [Madness Shards]
+5 [Trisha’s Tears]
+10 [Topaz]",
+30130027,Special Cloak Strengthening Bundle,"200 [Cloak Yarn]
+40 [Madness Shards]
+40 [Trisha’s Tears]",
+30004360,Light Cloak Strengthening Bundle,"2 [Cloak Strengthening Material Selection Boxes]
+50,000 [Adena]",
+30004361,Cloak Yarn,Material needed to level up cloaks.,
+30004362,Madness Shard,"Material needed to level up the Cloak of Red Destruction. Use 1,000 Madness Shards to craft a Cloak of Red Destruction Brooch.",
+30004363,Trisha’s Tear,"Material needed to level up the Cloak of Virtuous Blood. Use 1,000 Trisha’s Tears to craft a Cloak of Virtuous Blood Brooch.",
+30004364,Magic Fabric,Material needed to change substats.,
+30004365,Magic Fabric Of Destruction,Material needed to change substats on the Cloak of Red Destruction.,
+30004366,Magic Fabric of Virtue,Material needed to change substats on the Cloak of Virtuous Blood.,
+30004367,Magic Needle,Material needed to keep substats.,
+3017,20 Madness Shards,@30004362,
+3018,20 Trisha’s Tears,@30004363,
+6023,80 Cloak Yarn,@30004361,
+39006008,Red Diamond Bundle,"4,000 Red Diamonds",
+39006009,Update Celebration Special Bundle,"10 [Update Celebration Special Pouches]
+(Use to randomly acquire 1-10 Maphr’s Protections or Blessed Scrolls.)",
+39006010,Update Celebration Special Pouch,"1 [Update Celebration Special Pouch]
+(Use to randomly acquire 1-10 Maphr’s Protections or Blessed Scrolls.)",
+39006011,Rare Red Armor Bundle,"1 [Grade SR Aegis Armor Selection Box]
+1 [Grade SR Armor Varnish]
+100,000 [Adena]
+1 [Blessed Scroll: Armor]",
+30014013,Grade S Equipment Varnish Selection Box,Use to select and acquire a Grade S Varnish.,
+30014014,Enhance Scroll Bundle,"This box contains Enhance Scrolls.
+Use to acquire one of each sort of Enhance Scroll.",
+30014015,@3005,"The protection of Maphr, the goddess of land, resides within this gemstone.
+This item protects your equipment’s enhancement level from dropping in the case of an unsuccessful enhancement.",
+30014016,Boss Summoning Stone Selection Box,Use to select and acquire a Boss Summoning Stone.,
+30014017,50 Cloak Yarn,@30004361,
+30014018,@30004367,@30004364,
+30014019,Blessed Scroll Selection Box,"Use to select and acquire one of following: Blessed Scroll: Weapon, Blessed Scroll: Armor, or Blessed Scroll: Accessory.",
+30014020,@3008,@3007,
+30130028,Grade S Blue Rare Armor Bundle,@30130010,

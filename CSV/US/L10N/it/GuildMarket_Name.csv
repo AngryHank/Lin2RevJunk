@@ -1,0 +1,63 @@
+Id,ItemName,Desc1,Desc2
+4,Scatola selez. Estratto di Elisir,Da usare per selezionare e acquisire un’Estratto di Elisir.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+5,Scatola selez. Completamento automatico,Da usare per selezionare e acquisire 1 biglietto Completamento automatico.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+10,Scatola Frammenti di Pietra di evoc.,Usato per acquisire vari Frammenti casuali di Pietra di evocazione per cavalcature.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+11,Scatola Pergamena di Potenziamento,Da usare per acquisire una Pergamena di Potenziamento casuale.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+12,Scatola Pietre Upgrade,Da usare per acquisire una Pietra Upgrade casuale.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+26,Esp.,Da usare per acquisire Esp.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+27,Esp. superiore,Da usare per acquisire una grande quantità di Esp.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+30,Pergamena di Fuga,Usala per teletrasportarti.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+31,5 Protezioni di Maphr,Combina i frammenti per acquisire la Protezione di Maphr.,Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+30000103,1 Scatola Equipaggiamento del Clan,Da usare per acquisire equipaggiamento casuale A - SR.,
+30000104,10 Scatole Equip. del Clan (+1 bonus),Da usare per acquisire equipaggiamento casuale A - SR.,
+30000105,1 Scatola Pergamena di Potenziamento del Clan,@11,
+30000106,200 Pozioni PS,Da usare per ripristinare una piccola quantità di PS.,
+30000107,200 Pozioni PM,Da usare per ripristinare una piccola quantità di PM.,
+30000108,5.000 Colpi d'Anima,Da usare per permeare un'arma di un potere misterioso e aumentare i danni.,
+30000109,1 Scatola Rinforzo Cavalcatura,"Da usare per acquisire uno fra i seguenti: Equipaggiamento Cavalcatura (SR - A), Scatola Pietre di avanzamento (Piccola - Grande) o Frammento di Pietra di Evocazione per Cavalcature (Orso nero, Santo d'argento, Kukurin e Leone con criniera).",
+30000110,10 Scatole di Rinforzo Caval. (+1 bonus),@30000109,
+201,Aum. tempo di Incisione Reliquie Liv. 1,Aumenta di 1 secondo il tempo necessario per imprimere una reliquia.,
+202,Aum. tempo di Incisione Reliquie Liv. 2,Aumenta di 2 secondi il tempo necessario per imprimere una reliquia.,
+203,Aum. tempo di Incisione Reliquie Liv. 3,Aumenta di 3 secondi il tempo necessario per imprimere una reliquia.,
+204,Aum. tempo di Incisione Reliquie Liv. 4,Aumenta di 4 secondi il tempo necessario per imprimere una reliquia.,
+205,Aum. tempo di Incisione Reliquie Liv. 5,Aumenta di 5 secondi il tempo necessario per imprimere una reliquia.,
+206,Aum. durabilità Torre Difensiva Liv. 1,,
+207,Aum. durabilità Torre Difensiva Liv. 2,Aumenta la Durabilità della Torre Difensiva di 20.000.,
+208,Aum. durabilità Torre Difensiva Liv. 3,Aumenta la Durabilità della Torre Difensiva di 30.000.,
+209,Aum. durabilità Torre Difensiva Liv. 4,Aumenta la Durabilità della Torre Difensiva di 40.000.,
+210,Aum. durabilità Torre Difensiva Liv. 5,Aumenta la Durabilità della Torre Difensiva di 50.000.,
+211,Aumento Att. Trappola Liv. 1,"Aumenta Att. Trappola dell’1%.
+Le trappole infliggono % Danni ai PS Massimi del nemico.",
+212,Aumento Att. Trappola Liv. 2,"Aumenta Att. Trappola del 2%.
+Le trappole infliggono % Danni ai PS Massimi del nemico.",
+213,Aumento Att. Trappola Liv. 3,"Aumenta Att. Trappola del 3%.
+Le trappole infliggono % Danni ai PS Massimi del nemico.",
+214,Aumento Att. Trappola Liv. 4,"Aumenta Att. Trappola del 4%.
+Le trappole infliggono % Danni ai PS Massimi del nemico.",
+215,Aumento Att. Trappola Liv. 5,"Aumenta Att. Trappola del 5%.
+Le trappole infliggono % Danni ai PS Massimi del nemico.",
+301,Buff Efficacia della Pozione,"Da usare per applicare la Benevolenza del Signore al clan per 1 ora.
++20% efficacia Pozione PM e PS (fuori dall’Assedio del Castello e dall’Assedio della Fortezza).",
+302,Buff Esp./Essenze Caccia,"Da usare per applicare la Benevolenza del Signore al clan per 1 ora.
++20% Esp. ottenuta dalla caccia e livello di rilascio Essenza di Mostro.",Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+303,Buff Adena/Oggetti Caccia,"Da usare per applicare la Benevolenza del Signore al clan per 1 ora.
++20% Adena guadagnata dalla caccia e livello di rilascio oggetti.",Disponibile per l’acquisto al raggiungimento del livello {RequiredGuildLevel} del Clan.
+158,1 Estratto di Elisir PS,Essenza rossa usata per creare Elisir PS.,Disponibile dopo la conquista di una fortezza di grado C o superiore.
+159,1 Estratto di Elisir PM,Essenza blu usata per creare Elisir PM.,@158
+160,1 Estratto di Elisir Att.,Essenza viola usata per creare Elisir Att.,@158
+161,1 Estratto di Elisir Dif.,Essenza gialla usata per creare Elisir Dif.,@158
+165,1 Pietra di Upgrade Arma,Usato per l’upgrade di un’arma al grado successivo.,@158
+166,1 Pietra di Upgrade Armatura,Usato per l’upgrade di un’armatura al grado successivo.,@158
+401,Tintura Mantello del Clan: grado inferiore,Oggetto necessario per modificare il colore del Mantello del Clan.,Disponibile dopo la conquista di una fortezza.
+402,Tintura Mantello del Clan: grado intermedio,@401,Disponibile dopo la conquista di una fortezza di grado A o superiore.
+404,Tintura Emblema Mantello del Clan: grado inferiore,Oggetto necessario per modificare il colore dell’Emblema del Mantello del Clan.,@401
+405,Tintura Emblema Mantello del Clan: grado intermedio,@404,@402
+810000001,Pozione del clan Liv. 5: Buff di Adena,Aumenta la quantità di Adena ottenuta del 50% per 1 ora. (Si applica solo a Caccia sul campo),@158
+810000002,Forziere Reliquia Lacera,"Questa è una reliquia lacera.
+Chiedi al Custode di Reliquie della Sala del Clan di valutarla per ricevere una ricompensa.",@158
+810000003,Pozione del clan Liv. 5: Buff rilascio Essenza,"Una volta usata, il livello di rilascio delle Essenze di Mostro viene aumentato del 50%.
+L’effetto dura 1 ora.",Disponibile dopo la conquista di una fortezza di grado B o superiore.
+810000004,Protezione di Maphr,Usato per potenziare l’equipaggiamento. Il fallimento non diminuisce il valore del potenziamento.,Disponibile dopo la conquista di una fortezza di grado A o superiore.
+810000005,Scatola Pergamene Benedette,Da usare per acquisire una Pergamena Benedetta casuale: Potenzia.,@810000003
+810000006,Pietra Attributo grado S,Da usare per potenziare un Attributo di un elemento dell’equipaggiamento.,@810000003
+810000007,Pietra Attributo grado R,Da usare per potenziare un Attributo di un elemento dell’equipaggiamento.,@810000004

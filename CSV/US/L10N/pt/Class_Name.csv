@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Aventureiro,"Iniciante com potencial inexplorado. Pode transferir-se para Guerreiro, Ladino ou Místico."
+2,Guerreiro,Lutador que ataque em alcance de corpo-a-corpo.
+3,Ladrão,Hábil ao usar punhal ou arco.
+4,Místico,Causador de dano que usa magia para atacar os inimigos.
+5,Paladino,Tanque com alta Def. e habilidades de defesa úteis.
+6,Senhor da Guerra,Causador de dano que ataca inimigos enquanto os enfraquece continuamente.
+7,Caça-tesouros,Causador de dano que atordoa inimigos e faz ataques consecutivos.
+8,Olho de Águia,Causador de dano de longo alcance que faz ataques DA e desacelera os inimigos.
+9,Feiticeiro,Causador de dano que faz longos ataques de fogo.
+10,Bispo,Curador que cura os aliados e atordoa os inimigos.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Cavaleiro Templar,Tanque ofensivo que faz grandes ataques de DA.
+36,Espadachim,Causador de dano especializado em ataques de médio alcance.
+37,Caminh. das Plan.,Causador de dano com grande velocidade de ataque.
+38,Patrulh. De Prata,Causador de dano que ataca inimigos rapidamente.
+39,Canta-Magias,Causador de dano de apoio que ataca inimigos ou os congela.
+40,Ancião,Curador que restaura muito PV dos aliados.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Cavaleiro de Shillien,Tanque ofensivo que ataca inimigos e absorve seu PV.
+66,Dança-lâminas,Causador de dano com grande alto ataque.
+67,Caminh. do Abismo,Causador de dano que causa sangramento com grande velocidade.
+68,Patrulheiro Fantasma,"Causador de dano com pouca velocidade de ataque, mas com ataques poderosos."
+69,Uiva-Magias,Causador de dano que amaldiçoa inimigos causando dano de DA demorado.
+70,Ancião de Shillien,Curador que aumenta o Poder de combate dos aliados e cura os membros do grupo.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Guardião,Tanque mágico que causa controle de multidão de DA.
+96,Matador,@68
+97,Carniceiro,Causador de dano que esmaga inimigos com grande velocidade.
+98,Patrulh. de Guerra,Causador de dano de longo alcance que usa armadilhas e habilidades de evasão.
+99,Mago de Batalha,Causador de dano que lança habilidades rapidamente em áreas próximas.
+100,Sábio,Causador de dano de apoio que aumenta a Def. dos membros do grupo.

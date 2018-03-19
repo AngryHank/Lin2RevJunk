@@ -1,0 +1,89 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Prova di Pazienza,Sconfiggi {TaskCount} mostro/i.,,
+1112,2. Suddivisione del giorno,Completa le Segrete giornaliere liv. Facile.,Aymel,"Woah! Hai già sconfitto 50 mostri? Incredibile!<p>La tua prossima prova è completare una Segreta giornaliera facile!
+Questi boss sono noti per essere molto potenti.<p>Solo i veri combattenti possono sconfiggerli!
+Vai, mettiti alla prova!"
+1113,3. Preparazione,Acquisisci {TaskCount} oggetto/i di grado C.,@1112,"Sei la prima persona ad aver sconfitto il boss del suolo sacro così in fretta! Sei proprio forte, sai?<p>La prossima prova è... Mmm... Beh, non è proprio una prova. Devi raccogliere oggetti di grado C.<p>Dovrai aumentare di livello il tuo equipaggiamento mentre combatti! Per questo ti serviranno oggetti di grado C. Raccoglili e usali per potenziare il tuo equipaggiamento! Ti saranno di grande aiuto!"
+1114,4. Approvazione collettiva,Partecipa a {TaskCount} o più duelli.,@1112,"Allora? Potenziare il tuo equipaggiamento con oggetti di grado C ti è stato d’aiuto, no?<p>Adesso che l’hai potenziato vediamo le tue abilità.<p>Oh, pensi di dover combattere dei mostri? Ci hai provato! Devi dimostrare le tue abilità affrontando altri giocatori!<p>Sarebbe un vero peccato perdere nell’Arena senza nemmeno aver combattuto!<p>Hmm, questo dovrebbe andare! Devi solo partecipare una volta nell’Arena facile, capito?<p>Non fare il bambino! Quando ero una novellina, ho partecipato a 100 combattimenti! Ora vai, è il tuo turno!"
+1115,5. Prova di qualificazione,Acquisisci {TaskCount} Adena.,@1112,"Come? Hai già combattuto nell’Arena una volta?<p>Beh, allora dovremmo passare alla prossima prova.<p>Consiste nel riportare indietro 10.000 Adena<p>È una prova per testare le tue abilità di caccia e di gestione finanziaria!
+Potresti morire in un momento cruciale se non gestisci bene le tue finanze!<p>Vai a prendere 10.000 Adena!"
+1116,6. Svolta,Potenzia con successo l’equipag. {TaskCount} volta/e.,@1112,"Avanti con la prossima prova!<p>Ora devi potenziare il tuo equipaggiamento.<p>L’equipaggiamento per un mercenario è importante quanto la sua stessa vita!
+Potenzia il tuo equipaggiamento con cura se vuoi sopravvivere sul campo di battaglia!<p>Prova a potenziare un elemento dell’equipaggiamento!"
+1117,7. Riconoscimento,Sconfiggi Kyrios Collez. Scheletri {TaskCount} volta/e.,@1112,"Wow, siamo già alla prova finale? Congratulazioni! A quanto pare c’è un motivo se i superiori hanno alte aspettative su di te.<p>Abbiamo deciso di includerti nell’incarico di soggiogamento di Kyrios per le tue straordinarie abilità! Kyrios è un mostro terribile che uccide gli Umani!<p>Affidiamo questo incarico solo ai nostri mercenari più talentuosi. Per qualche motivo, i superiori vogliono che ti assuma quest’incarico!<p>È la prima volta che succede una cosa del genere! È la prova che riconoscono davvero le tue abilità!<p>Assicurati di sconfiggerlo, perché hanno detto che questo compito avrebbe sostituito la prova finale! Sarà dura ma ti auguro buona fortuna!<p>Oh, sarà un avversario più forte del previsto quindi sarà utile andare con altri compagni!"
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

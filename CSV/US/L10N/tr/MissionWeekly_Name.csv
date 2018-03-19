@@ -1,0 +1,1832 @@
+Id,Nme,Desc
+1,Batı Konuşkan Ada'da İşçi Ork yen.,{TaskCount}x İşçi Ork yen.
+2,Batı Konuşkan Ada'da Dikenli Orman Dicoru yen.,{TaskCount}x Dikenli Orman Dicoru yen.
+3,Batı Konuşkan Ada'da Aç Kızıl Tilki yen.,{TaskCount}x Aç Kızıl Tilki yen.
+4,Batı Konuşkan Ada'da Orman Yaban Arısı yen.,{TaskCount}x Orman Yaban Arısı yen.
+5,@1,@1
+6,@2,@2
+7,@3,@3
+8,@1,@1
+9,@2,@2
+10,@3,@3
+11,@4,@4
+12,@1,@1
+13,@2,@2
+14,@3,@3
+15,@1,@1
+16,@2,@2
+17,@3,@3
+18,@4,@4
+19,@1,@1
+20,@2,@2
+21,@3,@3
+22,@1,@1
+23,@2,@2
+24,@3,@3
+25,@4,@4
+26,@1,@1
+27,@2,@2
+28,@3,@3
+29,@2,@2
+30,@3,@3
+31,Batı Konuşkan Ada'da Okçu İskelet yen.,{TaskCount}x Asker İskelet yen.
+32,Batı Konuşkan Ada'da Okçu İskelet yen.,{TaskCount}x Okçu İskelet yen.
+33,@31,@31
+34,@32,@32
+35,@31,@31
+36,@32,@32
+37,@31,@31
+38,@32,@32
+39,@31,@31
+40,@32,@32
+41,@31,@31
+42,@32,@32
+43,@31,@31
+44,@32,@32
+45,@31,@31
+46,@32,@32
+47,@31,@31
+48,@32,@32
+49,@31,@31
+50,@32,@32
+51,@31,@31
+52,@32,@32
+53,@31,@31
+54,@32,@32
+55,@31,@31
+56,@32,@32
+57,@31,@31
+58,@32,@32
+59,@31,@31
+60,@32,@32
+61,@31,@31
+62,@32,@32
+63,Gludin Yolu'nda Vahşi Kurtadam yen.,{TaskCount}x Vahşi Kurtadam yen.
+64,@63,@63
+65,@63,@63
+66,@63,@63
+67,@63,@63
+68,@63,@63
+69,Gludin Yolu'nda İzci Ol Mahum yen.,{TaskCount}x İzci Ol Mahum yen.
+70,@69,@69
+71,@69,@69
+72,@69,@69
+73,@69,@69
+74,@69,@69
+75,Gludin Yolu'nda Ova Puması yen.,{TaskCount}x Ova Puması yen.
+76,Gludin Yolu'nda Gözküre yen.,{TaskCount}x Gözküre yen.
+77,@75,@75
+78,@76,@76
+79,@75,@75
+80,@76,@76
+81,@75,@75
+82,@76,@76
+83,@75,@75
+84,@76,@76
+85,@75,@75
+86,@76,@76
+87,@63,@63
+88,@63,@63
+89,@63,@63
+90,@69,@69
+91,@69,@69
+92,@69,@69
+93,Gludin Yolu'nda Hain Asker İskelet yen.,{TaskCount}x Hain Asker İskelet yen.
+94,Gludin Yolu'nda Mezarlık Yarasası yen.,{TaskCount}x Mezarlık Yarasası yen.
+95,@93,@93
+96,@94,@94
+97,@93,@93
+98,@94,@94
+99,@93,@93
+100,@94,@94
+101,@93,@93
+102,@94,@94
+103,@93,@93
+104,@94,@94
+105,@93,@93
+106,@94,@94
+107,@93,@93
+108,@94,@94
+109,@93,@93
+110,@94,@94
+111,@93,@93
+112,@94,@94
+113,@93,@93
+114,@94,@94
+115,@93,@93
+116,@94,@94
+117,Gludin Yolu'nda Hain Okçu İskelet yen.,{TaskCount}x Hain Okçu İskelet yen.
+118,@117,@117
+119,@93,@93
+120,@94,@94
+121,@117,@117
+122,@117,@117
+123,Gludin Yolu'nda Ustabaşı Ol Mahum yen.,{TaskCount}x Ustabaşı Ol Mahum yen.
+124,Gludin Yolu'nda Katil Ol Mahum yen.,{TaskCount}x Katil Ol Mahum yen.
+125,@123,@123
+126,@124,@124
+127,@123,@123
+128,@124,@124
+129,@123,@123
+130,@124,@124
+131,@123,@123
+132,@124,@124
+133,@123,@123
+134,@124,@124
+135,@123,@123
+136,@124,@124
+137,@123,@123
+138,@124,@124
+139,@123,@123
+140,@124,@124
+141,@123,@123
+142,@124,@124
+143,@123,@123
+144,@124,@124
+145,Gludin Yolu'nda Nişancı Ol Mahum yen.,{TaskCount}x Nişancı Ol Mahum yen.
+146,@145,@145
+147,@123,@123
+148,@124,@124
+149,@123,@123
+150,@124,@124
+151,@145,@145
+152,@145,@145
+153,Gludio Ovası'nda Kızıl Tilki yen.,{TaskCount}x Kızıl Tilki yen.
+154,Gludio Ovası'nda Çıldırmış Kara Kurt yen.,{TaskCount}x Çıldırmış Kara Kurt yen.
+155,Gludio Ovası'nda Antilop yen.,{TaskCount}x Antilop yen.
+156,@153,@153
+157,@154,@154
+158,@155,@155
+159,@153,@153
+160,@154,@154
+161,@155,@155
+162,@153,@153
+163,@154,@154
+164,@155,@155
+165,Gludio Ovası'nda Araştırmacı Maille Kertenkeleadam yen.,{TaskCount}x Araştırmacı Maille Kertenkeleadam yen.
+166,Gludio Ovası'nda Vahşi Kara Kurt yen.,{TaskCount}x Vahşi Kara Kurt yen.
+167,Gludio Ovası'nda Örümcek yen.,{TaskCount} Örümcek yen.
+168,@165,@165
+169,@166,@166
+170,@167,@167
+171,@165,@165
+172,@166,@166
+173,@167,@167
+174,@165,@165
+175,@166,@166
+176,@167,@167
+177,Gludio Ovası'nda Yağmacı Böcayı yen.,{TaskCount}x Yağmacı Böcayı yen.
+178,@177,@177
+179,@177,@177
+180,@177,@177
+181,@177,@177
+182,@177,@177
+183,@165,@165
+184,@166,@166
+185,@153,@153
+186,@154,@154
+187,@155,@155
+188,@167,@167
+189,Gludio Ovası'nda Kara Gözküre yen.,{TaskCount}x Kara Gözküre yen.
+190,@177,@177
+191,Gludio Ovası'nda Kasap Böcayı yen.,{TaskCount}x Kasap Böcayı yen.
+192,@165,@165
+193,@166,@166
+194,@153,@153
+195,@154,@154
+196,@155,@155
+197,@167,@167
+198,@189,@189
+199,@177,@177
+200,@191,@191
+201,@154,@154
+202,@155,@155
+203,@167,@167
+204,@189,@189
+205,@177,@177
+206,@191,@191
+207,@154,@154
+208,@155,@155
+209,@167,@167
+210,@189,@189
+211,@177,@177
+212,@191,@191
+213,Gludio Ovası'nda Şaman Maille Kertenkeleadam yen.,{TaskCount}x Şaman Maille Kertenkeleadam yen.
+214,Gludio Ovası'nda Nişancı Maille Kertenkeleadam yen.,{TaskCount}x Nişancı Maille Kertenkeleadam yen.
+215,Gludio Ovası'nda Muhafız Maille Kertenkeleadam yen.,{TaskCount}x Muhafız Maille Kertenkeleadam yen.
+216,Gludio Ovası'nda İzci Maille Kertenkeleadam yen.,{TaskCount}x İzci Maille Kertenkeleadam yen.
+217,@213,@213
+218,@214,@214
+219,@215,@215
+220,@216,@216
+221,@213,@213
+222,@214,@214
+223,@215,@215
+224,@216,@216
+225,@213,@213
+226,@214,@214
+227,@215,@215
+228,@216,@216
+229,@215,@215
+230,@216,@216
+231,@215,@215
+232,@216,@216
+233,@213,@213
+234,@214,@214
+235,@215,@215
+236,@216,@216
+237,@213,@213
+238,@214,@214
+239,@215,@215
+240,@216,@216
+241,@215,@215
+242,@216,@216
+243,Windawood Köşkü'nde Lanetli Avcı yen.,{TaskCount}x Lanetli Avcı yen.
+244,Windawood Köşkü'nde Gizemli Kobayı yen.,{TaskCount}x Gizemli Kobayı yen.
+245,Windawood Köşkü'nde Grotesk Kurtadam yen.,{TaskCount}x Grotesk Kurtadam yen.
+246,Windawood Köşkü'nde Vampir Yarasa yen.,{TaskCount}x Vampir Yarasa yen.
+247,Windawood Köşkü'nde Savaşçı İskelet yen.,{TaskCount}x Savaşçı İskelet yen.
+248,Windawood Köşkü'nde Okçu İskelet yen.,{TaskCount}x Okçu İskelet yen.
+249,Windawood Köşkü'nde Aç Tazı yen.,{TaskCount}x Aç Tazı yen.
+250,@247,@247
+251,Windawood Köşkü'nde Ruh Kamçısı yen.,{TaskCount}x Ruh Kamçısı yen.
+252,@243,@243
+253,@244,@244
+254,@245,@245
+255,@246,@246
+256,@247,@247
+257,@248,@248
+258,@249,@249
+259,@247,@247
+260,@251,@251
+261,@243,@243
+262,@244,@244
+263,@245,@245
+264,@246,@246
+265,@247,@247
+266,@248,@248
+267,@249,@249
+268,@247,@247
+269,@251,@251
+270,@249,@249
+271,@247,@247
+272,@251,@251
+273,Windawood Köşkü'nde Kindar Prima yen.,{TaskCount}x Kindar Prima yen.
+274,Windawood Köşkü'nde Kristal Hırsızı Ol Mahum yen.,{TaskCount}x Kristal Hırsızı Ol Mahum yen.
+275,Windawood Köşkü'nde Kolcu Ol Mahum yen.,{TaskCount}x Kolcu Ol Mahum yen.
+276,Windawood Köşkü'nde Öncü Ol Mahum yen.,{TaskCount}x Öncü Ol Mahum yen.
+277,Windawood Köşkü'nde Muhafız Ol Mahum yen.,{TaskCount}x Muhafız Ol Mahum yen.
+278,Windawood Köşkü'nde Zehirli Örümcek yen.,{TaskCount}x Zehirli Örümcek yen.
+279,Windawood Köşkü'nde Vahşi Puma yen.,{TaskCount}x Vahşi Puma yen.
+280,@273,@273
+281,@274,@274
+282,@275,@275
+283,@276,@276
+284,@277,@277
+285,@278,@278
+286,@279,@279
+287,@273,@273
+288,@274,@274
+289,@275,@275
+290,@276,@276
+291,@277,@277
+292,@278,@278
+293,@279,@279
+294,@273,@273
+295,@274,@274
+296,@275,@275
+297,@276,@276
+298,@277,@277
+299,@278,@278
+300,@279,@279
+301,@278,@278
+302,@279,@279
+303,Windawood Köşkü'nde Yitik Sırtlan yen.,{TaskCount}x Yitik Sırtlan yen.
+304,Windawood Köşkü'nde Puma yen.,{TaskCount}x Puma yen.
+305,Windawood Köşkü'nde Gludio Ayısı yen.,{TaskCount}x Gludio Ayısı yen.
+306,Windawood Köşkü'nde Acemi Turek Ork yen.,{TaskCount}x Acemi Turek Ork yen.
+307,Windawood Köşkü'nde Asker Turek Ork yen.,{TaskCount}x Asker Turek Ork yen.
+308,Windawood Köşkü'nde Muhafız Turek Ork yen.,{TaskCount}x Muhafız Turek Ork yen.
+309,Windawood Köşkü'nde Nişancı Turek Ork yen.,{TaskCount}x Nişancı Turek Ork yen.
+310,Windawood Köşkü'nde Korkusuz Turek Savaş Tazısı yen.,{TaskCount} Korkusuz Turek Savaş Tazısı yen.
+311,Windawood Köşkü'nde Decanus Turek Ork yen.,{TaskCount}x Decanus Turek Ork yen.
+312,@303,@303
+313,@304,@304
+314,@305,@305
+315,@306,@306
+316,@307,@307
+317,@308,@308
+318,@309,@309
+319,@310,@310
+320,@311,@311
+321,@303,@303
+322,@304,@304
+323,@305,@305
+324,@306,@306
+325,@307,@307
+326,@308,@308
+327,@309,@309
+328,@310,@310
+329,@311,@311
+330,@309,@309
+331,@310,@310
+332,@311,@311
+333,Windawood Köşkü'nde Sunak Muhafızı Turek Ork yen.,{TaskCount}x Muhafız Turek Ork yen.
+334,Windawood Köşkü'nde İzci Turek Ork yen.,{TaskCount}x İzci Turek Ork yen.
+335,Windawood Köşkü'nde Okçu Turek Ork yen.,{TaskCount}x Okçu Turek Ork yen.
+336,Windawood Köşkü'nde Refakatçi Ork yen.,{TaskCount}x Refakatçi Turek Ork yen.
+337,Windawood Köşkü'nde Elit Asker Turek Ork yen.,{TaskCount}x Elit Asker Turek Ork yen.
+338,@333,@333
+339,@334,@334
+340,@335,@335
+341,@336,@336
+342,@337,@337
+343,@333,@333
+344,@334,@334
+345,@335,@335
+346,@336,@336
+347,@337,@337
+348,@333,@333
+349,@334,@334
+350,@335,@335
+351,@336,@336
+352,@337,@337
+353,@333,@333
+354,@334,@334
+355,@337,@337
+356,@333,@333
+357,@334,@334
+358,@335,@335
+359,@336,@336
+360,@337,@337
+361,@333,@333
+362,@334,@334
+363,Çorak Diyar'da Taşıyıcı Ol Mahum yen.,{TaskCount}x Taşıyıcı Ol Mahum yen.
+364,Çorak Diyar'da Kurtadam yen.,{TaskCount}x Kurtadam yen.
+365,Çorak Diyar'da Vadi Gözcüsü yen.,{TaskCount}x Vadi Gözcüsü yen.
+366,Çorak Diyar'da İzci Gözcügöz yen.,{TaskCount}x İzci Gözcügöz yen.
+367,Çorak Diyar'da Sahara yen.,{TaskCount}x Sahara yen.
+368,Çorak Diyar'da Gözcü İskelet yen.,{TaskCount}x Gözcü İskelet yen.
+369,Çorak Diyar'da Basilisk yen.,{TaskCount}x Çorak Diyar Basiliski yen.
+370,Çorak Diyar'da Zırhlı Mutant Karınca yen.,{TaskCount}x Zırhlı Mutant Karınca yen.
+371,Çorak Diyar'da Savaşçı Mutant Karınca yen.,{TaskCount}x Zırhlı Savaşçı Mutant Karınca yen.
+372,Çorak Diyar'da Takipçi İskelet yen.,{TaskCount}x Takipçi İskelet yen.
+373,@363,@363
+374,@364,@364
+375,@365,@365
+376,@366,@366
+377,@367,@367
+378,@368,@368
+379,@369,@369
+380,@370,@370
+381,@371,@371
+382,@372,@372
+383,@363,@363
+384,@364,@364
+385,@365,@365
+386,@369,@369
+387,@370,@370
+388,@371,@371
+389,@372,@372
+390,@363,@363
+391,@364,@364
+392,@365,@365
+393,Çorak Diyar'da Bozunmuş Sahara yen.,{TaskCount}x Bozunmuş Sahara yen.
+394,Çorak Diyar'da Dev Sülük yen.,{TaskCount}x Dev Sülük yen.
+395,Çorak Diyar'da Zırhlı İşçi Mutant Karınca yen.,{TaskCount}x Zırhlı İşçi Mutant Karınca yen.
+396,Çorak Diyar'da Zırhlı Muhafız Mutant Karınca yen.,{TaskCount}x Zırhlı Muhafız Mutant Karınca yen.
+397,Çorak Diyar'da Yağma Muhafızı Ol Mahum yen.,{TaskCount}x Yağma Muhafızı Ol Mahum yen.
+398,Çorak Diyar'da Hamal Ol Mahum yen.,{TaskCount}x Hamal Ol Mahum yen.
+399,Çorak Diyar'da Mana Sülüğü yen.,{TaskCount}x Mana Sülüğü yen.
+400,Çorak Diyar'da Koruyucu Çöl İskeleti yen.,{TaskCount}x Koruyucu Çöl İskeleti yen.
+401,Çorak Diyar'da Gözcü Çöl İskeleti yen.,{TaskCount}x Gözcü Çöl İskeleti yen.
+402,Çorak Diyar'da Zırhlı Asker Mutant Karınca yen.,{TaskCount}x Zırhlı Asker Mutant Karınca yen.
+403,Çorak Diyar'da Çöl Saharası yen.,{TaskCount}x Çöl Saharası yen.
+404,Çorak Diyar'da Gri Taş Golem yen.,{TaskCount}x Gri Taş Golem yen.
+405,Çorak Diyar'da Yağmacı Ol Mahum yen.,{TaskCount}x Yağmacı Ol Mahum yen.
+406,@393,@393
+407,@394,@394
+408,@395,@395
+409,@396,@396
+410,@397,@397
+411,@398,@398
+412,@399,@399
+413,@400,@400
+414,@401,@401
+415,@402,@402
+416,@403,@403
+417,@404,@404
+418,@405,@405
+419,@402,@402
+420,@403,@403
+421,@404,@404
+422,@405,@405
+423,@403,@403
+424,@404,@404
+425,@397,@397
+426,@398,@398
+427,@405,@405
+428,Çorak Diyar'da Yağma Dövüşçüsü Ol Mahum yen.,{TaskCount}x Yağmacı Ol Mahum yen.
+429,Çorak Diyar'da Yağma Kolcusu Ol Mahum yen.,{TaskCount}x Yağma Kolcusu Ol Mahum yen.
+430,@403,@403
+431,@403,@403
+432,@404,@404
+433,@397,@397
+434,@398,@398
+435,@405,@405
+436,@428,@428
+437,@429,@429
+438,@403,@403
+439,@403,@403
+440,@404,@404
+441,@397,@397
+442,@398,@398
+443,@405,@405
+444,@428,@428
+445,@429,@429
+446,@403,@403
+447,@397,@397
+448,@398,@398
+449,@405,@405
+450,@428,@428
+451,@429,@429
+452,@403,@403
+453,Dion Ovası'nda İzci Breka Ork yen.,{TaskCount}x İzci Breka Ork yen.
+454,Dion Ovası'nda Savaşçı Breka Ork yen.,{TaskCount}x Savaşçı Breka Ork yen.
+455,Dion Ovası'nda Muhafız Breka Ork yen.,{TaskCount}x Muhafız Breka Ork yen.
+456,Dion Ovası'nda Refakatçi Breka Ork yen.,{TaskCount}x Refakatçi Breka Ork yen.
+457,Dion Ovası'nda Kızgın Yaban Arı yen.,{TaskCount}x Kızgın Yaban Arı yen.
+458,Dion Ovası'nda Yaban Arısı yen.,{TaskCount}x Yaban Arı yen.
+459,Dion Ovası'nda Tedarikçi Breka Ork yen.,{TaskCount}x Tedarikçi Breka Ork yen.
+460,Dion Ovası'nda Kolcu Breka Ork yen.,{TaskCount}x Kolcu Breka Ork yen.
+461,Dion Ovası'nda Leto Kertenkeleadam yen.,{TaskCount}x Leto Kertenkeleadam yen.
+462,Dion Ovası'nda Dövüşçü Leto Kertenkeleadam yen.,{TaskCount}x Dövüşçü Leto Kertenkeleadam yen.
+463,Dion Ovası'nda Okçu Leto Kertenkeleadam yen.,{TaskCount}x Okçu Leto Kertenkeleadam yen.
+464,Dion Ovası'nda Yağmacı Leto Kertenkeleadam yen.,{TaskCount}x Yağmacı Leto Kertenkeleadam yen.
+465,@453,@453
+466,@454,@454
+467,@455,@455
+468,@456,@456
+469,@457,@457
+470,@458,@458
+471,@459,@459
+472,@460,@460
+473,@461,@461
+474,@462,@462
+475,@463,@463
+476,@464,@464
+477,@459,@459
+478,@460,@460
+479,@461,@461
+480,@462,@462
+481,@463,@463
+482,@464,@464
+483,Dion Ovası'nda Şaman Leto Kertenkeleadam yen.,{TaskCount}x Şaman Leto Kertenkeleadam yen.
+484,Dion Ovası'nda Muhafız Leto Kertenkeleadam yen.,{TaskCount}x Muhafız Leto Kertenkeleadam yen.
+485,Dion Ovası'nda Dikenli Yaban Arı yen.,{TaskCount}x Dikenli Yaban Arı.
+486,Dion Ovası'nda Bozkır Antilopu yen.,{TaskCount}x Bozkır Antilopu yen.
+487,Dion Ovası'nda Çapulcu Leto Kertenkeleadam yen.,{TaskCount}x Çapulcu Leto Kertenkeleadam yen.
+488,@484,@484
+489,Dion Ovası'nda Refakatçi Leto Kertenkeleadam yen.,{TaskCount}x Refakatçi Leto Kertenkeleadam yen.
+490,Dion Ovası'nda Bozkır Windsusu yen.,{TaskCount}x Bozkır Windsusu yen.
+491,@483,@483
+492,@484,@484
+493,@485,@485
+494,@486,@486
+495,@487,@487
+496,@484,@484
+497,@489,@489
+498,@490,@490
+499,@483,@483
+500,@484,@484
+501,@485,@485
+502,@486,@486
+503,@487,@487
+504,@484,@484
+505,@489,@489
+506,@490,@490
+507,Dion Ovası'nda Çevik Antilop yen.,{TaskCount}x Çevik Antilop yen.
+508,@487,@487
+509,@484,@484
+510,@489,@489
+511,@490,@490
+512,@507,@507
+513,Dion Ovası'nda Casus Breka Ork yen.,{TaskCount}x Casus Breka Ork yen.
+514,Dion Ovası'nda Yaşlı Antilop yen.,{TaskCount}x Yaşlı Antilop yen.
+515,Dion Ovası'nda Huysuz Vampir Yarasaı yen.,{TaskCount}x Huysuz Vampir Yarasa yen.
+516,Dion Ovası'nda Dev Dikenli Örümcek yen.,{TaskCount}x Dev Dikenli Örümcek yen.
+517,Dion Ovası'nda Vampir Yarasa yen.,{TaskCount}x Vampir Yarasa yen.
+518,Dion Ovası'nda Tullan Böcayı yen.,{TaskCount}x Tullan Böcayı yen.
+519,Dion Ovası'nda Vahşi Kırmızı Ayı yen.,{TaskCount}x Vahşi Kırmızı Ayı yen.
+520,Dion Ovası'nda Keskin Bozkır Örümceği yen.,{TaskCount}x Keskin Bozkır Örümceği yen.
+521,Dion Ovası'nda Örümcek' yen.,{TaskCount}x Keskin Örümcek yen.
+522,Dion Ovası'nda Kırmızı Ayı yen.,{TaskCount}x Kırmızı Ayı yen.
+523,Dion Ovası'nda Böcayı yen.,{TaskCount}x Böcayı yen.
+524,Dion Ovası'nda Çevik Windsus yen.,{TaskCount}x Çevik Windsus yen.
+525,Dion Ovası'nda Çevik Kırmızı Ayı yen.,{TaskCount}x Çevik Kırmızı Ayı yen.
+526,Dion Ovası'nda Asker Breka Ork yen.,{TaskCount}x Asker Breka Ork yen.
+527,Dion Ovası'nda Kan Yaban Arısı yen.,{TaskCount}x Kan Yaban Arısı yen.
+528,@513,@513
+529,@514,@514
+530,@515,@515
+531,@516,@516
+532,@517,@517
+533,@518,@518
+534,@519,@519
+535,@520,@520
+536,@521,@521
+537,@522,@522
+538,@523,@523
+539,@524,@524
+540,@525,@525
+541,@526,@526
+542,@527,@527
+543,Cruma Bataklığı'nda Kara Kaplan Örümceği yen.,{TaskCount}x Kara Kaplan Örümceği yen.
+544,Cruma Bataklığı'nda Korkunç Sis Celladı yen.,{TaskCount}x Korkunç Sis Celladı yen.
+545,Cruma Bataklığı'nda Dehşet Celladı yen.,{TaskCount}x Dehşet Celladı yen.
+546,Cruma Bataklığı'nda Zehirli Bataklık Örümceği yen.,{TaskCount}x Zehirli Bataklık Örümceği yen.
+547,Cruma Bataklığı'nda Bataklık Yarasası yen.,{TaskCount}x Bataklık Yarasası yen.
+548,Cruma Bataklığı'nda Lanetli Kahin yen.,{TaskCount}x Lanetli Kahin yen.
+549,@543,@543
+550,@544,@544
+551,@545,@545
+552,@546,@546
+553,@547,@547
+554,@548,@548
+555,@543,@543
+556,@544,@544
+557,@545,@545
+558,@546,@546
+559,@547,@547
+560,@548,@548
+561,@543,@543
+562,@544,@544
+563,@545,@545
+564,@546,@546
+565,@547,@547
+566,@548,@548
+567,@543,@543
+568,@544,@544
+569,@545,@545
+570,@546,@546
+571,@547,@547
+572,@548,@548
+573,Cruma Bataklığı'nda Öncü Maille Kertenkeleadam yen.,{TaskCount}x Öncü Maille Kertenkeleadam yen.
+574,Cruma Bataklığı'nda İzci İskelet yen.,{TaskCount}x İzci İskelet yen.
+575,Cruma Bataklığı'nda Takipçi İskelet yen.,{TaskCount}x Takipçi İskeletleri yen.
+576,Cruma Bataklığı'nda Şaman Maille Kertenkeleadam yen.,@213
+577,Cruma Bataklığı'nda Takipçi Maille Kertenkeleadam yen.,{TaskCount}x Takipçi Maille Kertenkeleadam yen.
+578,Cruma Bataklığı'nda Devriye Maille Kertenkeleadam yen.,{TaskCount}x Devriye Maille Kertenkeleadam yen.
+579,Cruma Bataklığı'nda Bataklık Gûlu'nu yen.,{TaskCount}x Bataklık Gûlu yen.
+580,@573,@573
+581,@574,@574
+582,@575,@575
+583,@576,@213
+584,@577,@577
+585,@578,@578
+586,@579,@579
+587,@573,@573
+588,@574,@574
+589,@575,@575
+590,@576,@213
+591,@577,@577
+592,@578,@578
+593,@579,@579
+594,@576,@213
+595,@577,@577
+596,@578,@578
+597,@577,@577
+598,@578,@578
+599,@579,@579
+600,@576,@213
+601,@577,@577
+602,@578,@578
+603,Cruma Bataklığı'nda Bataklık Suikastçısı yen.,{TaskCount}x Bataklık Suikastçısı yen.
+604,Cruma Bataklığı'nda Bataklık Katili yen.,{TaskCount}x Bataklık Katili yen.
+605,Cruma Bataklığı'nda Bataklık Stakatosu yen.,{TaskCount}x Elçi Bataklık Stakatosu yen.
+606,Cruma Bataklığı'nda Bataklık Haşhaşisi yen.,{TaskCount}x Bataklık Haşhaşisi yen.
+607,Cruma Bataklığı'nda Bataklık Stakatosu Kölesi yen.,{TaskCount}x Bataklık Stakatosu Kölesi yen.
+608,Cruma Bataklığı'nda Haşhaşi Bataklık Stakatosu yen.,{TaskCount}x Haşhaşi Bataklık Stakatosu yen.
+609,Cruma Bataklığı'nda Yıkıcı Katil yen.,{TaskCount}x Yıkıcı Katil yen.
+610,Cruma Bataklığı'nda Bataklık Katili yen.,@604
+611,@603,@603
+612,@604,@604
+613,@605,@605
+614,@606,@606
+615,@607,@607
+616,@608,@608
+617,@609,@609
+618,@610,@604
+619,@603,@603
+620,@604,@604
+621,@605,@605
+622,@606,@606
+623,@607,@607
+624,@608,@608
+625,@609,@609
+626,@610,@604
+627,Cruma Bataklığı'nda Deli Katil yen.,{TaskCount}x Deli Katil yen.
+628,Cruma Bataklığı'nda Gölge Efendisi Prima yen.,{TaskCount}x Gölge Efendisi Prima yen.
+629,@609,@609
+630,@610,@604
+631,@627,@627
+632,@628,@628
+633,Uyumsuzluk Zirvesi'nde Bozayı yen.,{TaskCount}x Öfkeli Bozayı yen.
+634,Uyumsuzluk Zirvesi'nde Kızıl Kuyruklu Tilki yen.,{TaskCount}x Kızıl Kuyruklu Tilki yen.
+635,Uyumsuzluk Zirvesi'nde Siyah Leopar yen.,{TaskCount}x Siyah Leopar yen.
+636,Uyumsuzluk Zirvesi'nde Zehirli Orman Örümceği'ni yen.,{TaskCount} Zehirli Orman Örümceği yen.
+637,Uyumsuzluk Zirvesi'nde Koruyucu Tanor yen.,{TaskCount}x Koruyucu Tanor yen.
+638,Uyumsuzluk Zirvesi'nde Asker Tanor yen.,{TaskCount}x Asker Tanor yen.
+639,Uyumsuzluk Zirvesi'nde Dövüşçü Tanor yen.,{TaskCount}x Dövüşçü Tanor yen.
+640,Uyumsuzluk Zirvesi'nde Nöbetçi Tanor yen.,{TaskCount}x Nöbetçi Tanor yen.
+641,Uyumsuzluk Zirvesi'nde İzci Tanor yen.,{TaskCount}x İzci Tanor yen.
+642,Uyumsuzluk Zirvesi'nde Acemi Şövalye Tanor yen.,{TaskCount}x Acemi Şövalye Tanor yen.
+643,Uyumsuzluk Zirvesi'nde Tedarikçi Tanor yen.,{TaskCount}x Tedarikçi Tanor yen.
+644,Uyumsuzluk Zirvesi'nde Şaman Tanor yen.,{TaskCount}x Şaman Tanor yen.
+645,Uyumsuzluk Zirvesi'nde Öz Yaban Arısı yen.,{TaskCount}x Öz Yaban Arısı yen.
+646,@633,@633
+647,@634,@634
+648,@635,@635
+649,@636,@636
+650,@637,@637
+651,@638,@638
+652,@639,@639
+653,@640,@640
+654,@641,@641
+655,@642,@642
+656,@643,@643
+657,@644,@644
+658,@645,@645
+659,@642,@642
+660,@643,@643
+661,@644,@644
+662,@645,@645
+663,Uyumsuzluk Zirvesi'nde Zehirli Bataklık Örümceği yen.,{TaskCount}x Zehirli Bataklık Örümceği yen.
+664,Uyumsuzluk Zirvesi'nde Devriye Ol Mahum yen.,{TaskCount}x Devriye Ol Mahum yen.
+665,Uyumsuzluk Zirvesi'nde İzci Ol Mahum yen.,@69
+666,Uyumsuzluk Zirvesi'nde Gölge Yaban Arısı yen.,{TaskCount}x Gölge Yaban Arısı yen.
+667,@642,@642
+668,Uyumsuzluk Zirvesi'nde Rahip Tanor yen.,{TaskCount}x Rahip Tanor yen.
+669,Uyumsuzluk Zirvesi'nde Elit Asker Kankoon yen.,{TaskCount}x Elit Asker Kankoon yen.
+670,Uyumsuzluk Zirvesi'nde Nöbetçi Kankoon'u yen.,{TaskCount}x Nöbetçi Kankoon yen.
+671,Uyumsuzluk Zirvesi'nde Rahip Kankoon yen.,{TaskCount}x Rahip Kankoon yen.
+672,@639,@639
+673,@663,@663
+674,@664,@664
+675,@665,@69
+676,@666,@666
+677,@642,@642
+678,@668,@668
+679,@669,@669
+680,@670,@670
+681,@671,@671
+682,@639,@639
+683,@663,@663
+684,@664,@664
+685,@665,@69
+686,@666,@666
+687,@642,@642
+688,@668,@668
+689,@669,@669
+690,@670,@670
+691,@671,@671
+692,@639,@639
+693,Uyumsuzluk Zirvesi'nde Ol Mahum Subayı yen.,{TaskCount}x Ol Mahum Subayı yen.
+694,Uyumsuzluk Zirvesi'nde Tedarikçi Ol Mahum yen.,{TaskCount}x Tedarikçi Ol Mahum yen.
+695,Uyumsuzluk Zirvesi'nde Bataklık Premosu yen.,{TaskCount}x Bataklık Premosu yen.
+696,Uyumsuzluk Zirvesi'nde Nöbetçi Ol Mahum yen.,{TaskCount}x Nöbetçi Ol Mahum yen.
+697,Uyumsuzluk Zirvesi'nde Acemi Ol Mahum yen.,{TaskCount}x Acemi Ol Mahum yen.
+698,Uyumsuzluk Zirvesi'nde Asker Ol Mahum yen.,{TaskCount}x Asker Ol Mahum yen.
+699,Uyumsuzluk Zirvesi'nde Keskin Nişancı Ol Mahum yen.,{TaskCount}x Keskin Nişancı Ol Mahum yen.
+700,Uyumsuzluk Zirvesi'nde Kumandan Ol Mahum yen.,{TaskCount}x Kumandan Ol Mahum yen.
+701,Uyumsuzluk Zirvesi'nde Yürüyen Mantar yen.,{TaskCount}x Yürüyen Mantar {yen.
+702,@693,@693
+703,@694,@694
+704,@695,@695
+705,@696,@696
+706,@697,@697
+707,@698,@698
+708,@699,@699
+709,@700,@700
+710,@701,@701
+711,@693,@693
+712,@694,@694
+713,@695,@695
+714,@696,@696
+715,@697,@697
+716,@698,@698
+717,@699,@699
+718,@700,@700
+719,@701,@701
+720,@699,@699
+721,@700,@700
+722,@701,@701
+723,Uluyan Oyuk'ta Kederli Dicor yen.,{TaskCount}x Kederli Dicor yen.
+724,Uluyan Oyuk'ta Mandragora yen.,{TaskCount}x İnleyen Mandragora yen.
+725,Uluyan Oyuk'ta İşkence görmüş Mandragora yen.,{TaskCount}x İşkence görmüş Mandragora yen.
+726,Uluyan Oyuk'ta Umutsuzluk Dicoru yen.,{TaskCount}x Umutsuzluk Dicoru yen.
+727,Uluyan Oyuk'ta Öfkeli Mandragora yen.,{TaskCount}x Öfkeli Mandragora yen.
+728,@723,@723
+729,@724,@724
+730,@725,@725
+731,@726,@726
+732,@727,@727
+733,@723,@723
+734,@724,@724
+735,@725,@725
+736,@726,@726
+737,@727,@727
+738,@723,@723
+739,@724,@724
+740,@725,@725
+741,@726,@726
+742,@727,@727
+743,@723,@723
+744,@724,@724
+745,@727,@727
+746,@723,@723
+747,@724,@724
+748,@725,@725
+749,@726,@726
+750,@727,@727
+751,@723,@723
+752,@724,@724
+753,Uluyan Oyuk'ta Bitkin Hiçlik Hizmetkarı yen.,{TaskCount}x Bitkin Hiçlik Hizmetkarı yen.
+754,Uluyan Oyuk'ta Kindar Katil yen.,{TaskCount}x Kindar Katil yen.
+755,Uluyan Oyuk'ta Delirmiş Cellat yen.,{TaskCount}x Delirmiş Cellat yen.
+756,Uluyan Oyuk'ta Kara Söğüt yen.,{TaskCount}x Kara Söğüt yen.
+757,Uluyan Oyuk'ta Sakat Katil yen.,{TaskCount}x Sakat Katil yen.
+758,@753,@753
+759,@754,@754
+760,@755,@755
+761,@756,@756
+762,@757,@757
+763,@753,@753
+764,@754,@754
+765,@755,@755
+766,@756,@756
+767,@757,@757
+768,@753,@753
+769,@754,@754
+770,@755,@755
+771,@756,@756
+772,@757,@757
+773,@753,@753
+774,@754,@754
+775,@755,@755
+776,@756,@756
+777,@757,@757
+778,@753,@753
+779,@754,@754
+780,@755,@755
+781,@756,@756
+782,@757,@757
+783,Uluyan Oyuk'ta Hiçlik Hizmetkarı yen.,{TaskCount}x Hiçlik Hizmetkarı yen.
+784,Uluyan Oyuk'ta Huzursuz Hayalet yen.,{TaskCount}x Huzursuz Hayalet yen.
+785,Uluyan Oyuk'ta Masum Hayalet yen.,{TaskCount}x Masum Hayalet yen.
+786,Uluyan Oyuk'ta Ecel Celladı yen.,{TaskCount}x Ecel Celladı yen.
+787,Uluyan Oyuk'ta Uğursuz Söğüt yen.,{TaskCount}x Uğursuz Söğüt yen.
+788,Uluyan Oyuk'ta Kanasusamış Tayf yen.,{TaskCount}x Kanasusamış Tayf yen.
+789,Uluyan Oyuk'ta Dirilmiş Tayf yen.,{TaskCount}x Dirilmiş Tayf yen.
+790,Uluyan Oyuk'ta Dirilmiş Tüccar yen.,{TaskCount}x Dirilmiş Tüccar yen.
+791,@783,@783
+792,@784,@784
+793,@785,@785
+794,@786,@786
+795,@787,@787
+796,@788,@788
+797,@789,@789
+798,@790,@790
+799,@783,@783
+800,@784,@784
+801,@785,@785
+802,@786,@786
+803,@787,@787
+804,@788,@788
+805,@789,@789
+806,@790,@790
+807,@783,@783
+808,@784,@784
+809,@785,@785
+810,@786,@786
+811,@787,@787
+812,@788,@788
+813,Uluyan Oyuk'ta Muhafız İskelet yen.,{TaskCount}x Muhafız İskelet yen.
+814,Uluyan Oyuk'ta Nişancı İskelet yen.,{TaskCount}x Nişancı İskelet yen.
+815,@813,@813
+816,@814,@814
+817,@813,@813
+818,@814,@814
+819,@813,@813
+820,@814,@814
+821,@813,@813
+822,@814,@814
+823,@813,@813
+824,@814,@814
+825,@813,@813
+826,@814,@814
+827,@813,@813
+828,@814,@814
+829,@813,@813
+830,@814,@814
+831,@813,@813
+832,@814,@814
+833,@813,@813
+834,@814,@814
+835,@813,@813
+836,@814,@814
+837,@813,@813
+838,@814,@814
+839,@813,@813
+840,@814,@814
+841,@813,@813
+842,@814,@814
+843,@813,@813
+844,@814,@814
+845,Uluyan Oyuk'ta Nerkas Ölüm Büyücüsü yen.,{TaskCount}x Nerkas Ölüm Büyücüsü yen.
+846,Uluyan Oyuk'ta Nerkas Ruhhasatçısı yen.,{TaskCount}x Nerkas Ruhhasatçısı yen.
+847,Uluyan Oyuk'ta Zombi Lordu yen.,{TaskCount}x Zombi Lordu yen.
+848,Uluyan Oyuk'ta Amansız Tayf yen.,{TaskCount}x Amansız Tayf yen.
+849,Uluyan Oyuk'ta Izdıraplı Tayf yen.,{TaskCount}x Izdıraplı Tayf yen.
+850,Uluyan Oyuk'ta İnleyen Dicor yen.,{TaskCount}x İnleyen Dicor yen.
+851,Uluyan Oyuk'ta Zincirlenmiş Ruh yen.,{TaskCount}x Zincirlenmiş Ruh yen.
+852,Uluyan Oyuk'ta Korkunç Uşak yen.,{TaskCount}x Korkunç Uşak yen.
+853,@845,@845
+854,@846,@846
+855,@847,@847
+856,@848,@848
+857,@849,@849
+858,@850,@850
+859,@851,@851
+860,@852,@852
+861,@845,@845
+862,@846,@846
+863,@847,@847
+864,@848,@848
+865,@849,@849
+866,@850,@850
+867,@851,@851
+868,@852,@852
+869,@845,@845
+870,@846,@846
+871,@847,@847
+872,@848,@848
+873,@849,@849
+874,@850,@850
+875,Giran Bölgesi'nde Harabe Dicoru yen.,{TaskCount}x Harabe Dicoru yen.
+876,Giran Bölgesi'nde Sırtlanı yen.,{TaskCount}x Harabe Sırtlanı yen.
+877,Giran Bölgesi'nde Aç Kırmızı Ayı yen.,{TaskCount}x Aç Kırmızı Ayı yen.
+878,Giran Bölgesi'nde Korkusuz Kırmızı Ayı yen.,{TaskCount}x Korkusuz Kırmızı Ayı yen.
+879,Giran Bölgesi'nde Alp Puması yen.,{TaskCount}x Alp Puması yen.
+880,Giran Bölgesi'nde Tıknaz Puma yen.,{TaskCount}x Tıknaz Puma yen.
+881,@875,@875
+882,@876,@876
+883,@877,@877
+884,@878,@878
+885,@879,@879
+886,@880,@880
+887,@875,@875
+888,@876,@876
+889,@877,@877
+890,@878,@878
+891,@879,@879
+892,@880,@880
+893,@875,@875
+894,@876,@876
+895,@877,@877
+896,@878,@878
+897,@879,@879
+898,@880,@880
+899,@875,@875
+900,@876,@876
+901,@877,@877
+902,@878,@878
+903,@879,@879
+904,@880,@880
+905,Giran Bölgesi'nde Otçul Antilop yen.,{TaskCount}x Otçul Antilop yen.
+906,Giran Bölgesi'nde Otçul Windsus yen.,{TaskCount}x Windsus yen.
+907,Giran Bölgesi'nde Medusa'yı yen.,{TaskCount}x Medusa yen.
+908,Giran Bölgesi'nde Wyrm yen.,{TaskCount}x Wyrm yen.
+909,Giran Bölgesi'nde Böcayı yen.,@523
+910,Giran Bölgesi'nde Gardiyan Wyrm yen.,{TaskCount}x Gardiyan Wyrm yen.
+911,Giran Bölgesi'nde Taş Golem yen.,{TaskCount} Taş Golem yen.
+912,@905,@905
+913,@906,@906
+914,@907,@907
+915,@908,@908
+916,@909,@523
+917,@910,@910
+918,@911,@911
+919,@905,@905
+920,@906,@906
+921,@907,@907
+922,@908,@908
+923,@909,@523
+924,@910,@910
+925,@911,@911
+926,@905,@905
+927,@906,@906
+928,@907,@907
+929,@908,@908
+930,@909,@523
+931,@910,@910
+932,@911,@911
+933,@910,@910
+934,@911,@911
+935,Giran Bölgesi'nde Orman Dicoru yen.,{TaskCount}x Orman Dicoru yen.
+936,Giran Bölgesi'nde Halüsinasyon Dicoru yen.,{TaskCount}x Halüsinasyon Dicoru yen.
+937,Giran Bölgesi'nde Succubus yen.,{TaskCount}x Succubus yen.
+938,Giran Bölgesi'nde Orman Kurtadamı yen.,{TaskCount}x Orman Kurtadamı yen.
+939,Giran Bölgesi'nde Ayartıcı Succubus yen.,{TaskCount}x Ayartıcı Succubus yen.
+940,Giran Bölgesi'nde Çevik Sırtlan yen.,{TaskCount}x Çevik Sırtlan yen.
+941,Giran Bölgesi'nde Yaşlı Dicor yen.,{TaskCount}x Yaşlı Dicor yen.
+942,@935,@935
+943,@936,@936
+944,@937,@937
+945,@938,@938
+946,@939,@939
+947,@940,@940
+948,@941,@941
+949,@935,@935
+950,@936,@936
+951,@937,@937
+952,@938,@938
+953,@939,@939
+954,@940,@940
+955,@941,@941
+956,@935,@935
+957,@936,@936
+958,@937,@937
+959,@938,@938
+960,@939,@939
+961,@940,@940
+962,@941,@941
+963,@935,@935
+964,@936,@936
+965,@937,@937
+966,@938,@938
+967,@939,@939
+968,@940,@940
+969,@941,@941
+970,Giran Bölgesi'nde Nöbetçi Langk Kertenkeleadam yen.,{TaskCount}x Nöbetçi Langk Kertenkeleadam yen.
+971,Giran Bölgesi'nde İzci Langk Kertenkeleadam yen.,{TaskCount}x İzci Langk Kertenkeleadam yen.
+972,Giran Bölgesi'nde Savaşçı Langk Kertenkeleadam yen.,{TaskCount}x Savaşçı Langk Kertenkeleadam yen.
+973,Giran Bölgesi'nde Dövüşçü Langk Kertenkeleadam yen.,{TaskCount}x Dövüşçü Langk Kertenkeleadam yen.
+974,Giran Bölgesi'nde Kolcu Langk Kertenkeleadam yen.,{TaskCount}x Kolcu Langk Kertenkeleadam yen.
+975,Giran Bölgesi'nde Acemi Langk Kertenkeleadam yen.,{TaskCount}x Acemi Langk Kertenkeleadam yen.
+976,Giran Bölgesi'nde Şaman Langk Kertenkeleadam yen.,{TaskCount}x Şaman Langk Kertenkeleadam yen.
+977,Giran Bölgesi'nde Asker Langk Kertenkeleadam yen.,{TaskCount}x Asker Langk Kertenkeleadam yen.
+978,Giran Bölgesi'nde Alim Şaman Langk Kertenkeleadam yen.,{TaskCount}x Bilge Şaman Langk Kertenkeleadam yen.
+979,Giran Bölgesi'nde Nefer Langk Kertenkeleadam yen.,{TaskCount}x Nefer Langk Kertenkeleadam yen.
+980,@970,@970
+981,@971,@971
+982,@972,@972
+983,@973,@973
+984,@974,@974
+985,@975,@975
+986,@976,@976
+987,@977,@977
+988,@978,@978
+989,@979,@979
+990,@970,@970
+991,@971,@971
+992,@972,@972
+993,@973,@973
+994,@974,@974
+995,@975,@975
+996,@976,@976
+997,@977,@977
+998,@978,@978
+999,@979,@979
+1000,Ölümcül Sis Kıyıları'nda Aç Puma yen.,{TaskCount}x Aç Puma yen.
+1001,Ölümcül Sis Kıyıları'nda Yağmacı Ol Mahum Haydutu yen.,{TaskCount}x Yağmacı Ol Mahum Haydutu yen.
+1002,Ölümcül Sis Kıyıları'nda İşçi Ol Mahum Haydutu yen.,{TaskCount}x İşçi Ol Mahum Haydutu yen.
+1003,Ölümcül Sis Kıyıları'nda Acımasız Kırmızı Ayı yen.,{TaskCount}x Acımasız Kırmızı Ayı yen.
+1004,Ölümcül Sis Kıyıları'nda Dengesiz Puma yen.,{TaskCount}x Dengesiz Puma yen.
+1005,Ölümcül Sis Kıyıları'nda İzci Ol Mahum Haydutu yen.,{TaskCount}x İzci Ol Mahum Haydutu yen.
+1006,Ölümcül Sis Kıyıları'nda Nöbetçi Ol Mahum Haydutu yen.,{TaskCount}x Nöbetçi Ol Mahum Haydutu yen.
+1007,Ölümcül Sis Kıyıları'nda Savaşçı Ol Mahum Haydutu yen.,{TaskCount}x Savaşçı Ol Mahum Haydutu yen.
+1008,Ölümcül Sis Kıyıları'nda Tedarikçi Ol Mahum Haydutu yen.,{TaskCount}x Tedarikçi Ol Mahum Haydutu yen.
+1009,Ölümcül Sis Kıyıları'nda Usta Nişancı Ol Mahum Haydutu yen.,{TaskCount}x Usta Nişancı Ol Mahum Haydutu yen.
+1010,Ölümcül Sis Kıyıları'nda Ol Mahum Haydutları Kumandanı yen.,{TaskCount}x Ol Mahum Haydutları Kumandanı yen.
+1011,Ölümcül Sis Kıyıları'nda Okçu Ol Mahum Haydutu yen.,{TaskCount}x Okçu Ol Mahum Haydutu yen.
+1012,Ölümcül Sis Kıyıları'nda Aç Kırmızı Ayı yen.,@877
+1013,Ölümcül Sis Kıyıları'nda Vahşi Kıyı Puması yen.,{TaskCount}x Vahşi Kıyı Puması yen.
+1014,@1000,@1000
+1015,@1001,@1001
+1016,@1002,@1002
+1017,@1003,@1003
+1018,@1004,@1004
+1019,@1005,@1005
+1020,@1006,@1006
+1021,@1007,@1007
+1022,@1008,@1008
+1023,@1009,@1009
+1024,@1010,@1010
+1025,@1011,@1011
+1026,@1012,@877
+1027,@1013,@1013
+1028,@1012,@877
+1029,@1013,@1013
+1030,Ölümcül Sis Kıyıları'nda Gezgin Ölü yen.,{TaskCount}x Gezgin Ölü yen.
+1031,Ölümcül Sis Kıyıları'nda Enkaz Zombi Korsanı yen.,{TaskCount}x Enkaz Zombi Korsanı yen.
+1032,Ölümcül Sis Kıyıları'nda Kasvetli Çığırtkan yen.,{TaskCount}x Kasvetli Çığırtkan yen.
+1033,Ölümcül Sis Kıyıları'nda Dev Ölü yen.,{TaskCount}x Dev Ölü yen.
+1034,Ölümcül Sis Kıyıları'nda Süzülen Ölüm yen.,{TaskCount}x Süzülen Ölüm yen.
+1035,Ölümcül Sis Kıyıları'nda Yok Edici Grandis yen.,{TaskCount}x Yok Edici Grandis yen.
+1036,Ölümcül Sis Kıyıları'nda Dövüşçü Böcayı yen.,{TaskCount}x Dövüşçü Böcayı yen.
+1037,Ölümcül Sis Kıyıları'nda Zayıf Dev'in Yaratığı yen.,{TaskCount}x Zayıf Dev'in Yaratığı yen.
+1038,Ölümcül Sis Kıyıları'nda Deli Zayıf Dev yen.,{TaskCount}x Deli Zayıf Dev yen.
+1039,Ölümcül Sis Kıyıları'nda Yozlaşmış Zayıf Dev yen.,{TaskCount}x Yozlaşmış Zayıf Dev yen.
+1040,@1030,@1030
+1041,@1031,@1031
+1042,@1032,@1032
+1043,@1033,@1033
+1044,@1034,@1034
+1045,@1035,@1035
+1046,@1036,@1036
+1047,@1037,@1037
+1048,@1038,@1038
+1049,@1039,@1039
+1050,@1030,@1030
+1051,@1031,@1031
+1052,@1032,@1032
+1053,@1033,@1033
+1054,@1034,@1034
+1055,@1035,@1035
+1056,@1036,@1036
+1057,@1037,@1037
+1058,@1038,@1038
+1059,@1039,@1039
+1060,Ölümcül Sis Kıyıları'nda Unutulmuş Zayıf Dev yen.,{TaskCount}x Unutulmuş Zayıf Dev yen.
+1061,Ölümcül Sis Kıyıları'nda Izdıraplı Zayıf Dev yen.,{TaskCount}x Izdıraplı Zayıf Dev yen.
+1062,Ölümcül Sis Kıyıları'nda Parçalayıcı Grandis yen.,{TaskCount}x Parçalayıcı Grandis yen.
+1063,Ölümcül Sis Kıyıları'nda Zayıf Dev'in Eseri yen.,{TaskCount}x Zayıf Dev'in Eseri yen.
+1064,Ölümcül Sis Kıyıları'nda Savaşçı Böcayı yen.,{TaskCount}x Savaşçı Böcayı yen.
+1065,Ölümcül Sis Kıyıları'nda Hükümdar Grandis yen.,{TaskCount}x Hükümdar Grandis yen.
+1066,Ölümcül Sis Kıyıları'nda Piyade Zaken Korsanı yen.,{TaskCount}x Piyade Zaken Korsanı yen.
+1067,Ölümcül Sis Kıyıları'nda Nişancı Zaken Korsanı yen.,{TaskCount}x Nişancı Zaken Korsanı yen.
+1068,Ölümcül Sis Kıyıları'nda Öncü Zaken Korsanı yen.,{TaskCount}x Öncü Zaken Korsanı yen.
+1069,Ölümcül Sis Kıyıları'nda Umutsuzluk Çağrısı yen.,{TaskCount}x Umutsuzluk Çağrısı yen.
+1070,@1060,@1060
+1071,@1061,@1061
+1072,@1062,@1062
+1073,@1060,@1060
+1074,@1061,@1061
+1075,@1062,@1062
+1076,@1063,@1063
+1077,@1064,@1064
+1078,@1065,@1065
+1079,@1066,@1066
+1080,@1067,@1067
+1081,@1068,@1068
+1082,@1069,@1069
+1083,@1060,@1060
+1084,@1061,@1061
+1085,@1062,@1062
+1086,@1069,@1069
+1087,@1060,@1060
+1088,@1061,@1061
+1089,@1062,@1062
+1090,Şeytan Adası'nda Karanlık Succubus yen.,{TaskCount}x Karanlık Succubus yen.
+1091,Şeytan Adası'nda Zulmeden Prima yen.,{TaskCount}x Zulmeden Prima yen.
+1092,Şeytan Adası'nda Kaya Akrebi yen.,{TaskCount}x Kaya Akrebi yen.
+1093,Şeytan Adası'nda Ölümcül Kara Succubus yen.,{TaskCount}x Ölümcül Kara Succubus yen.
+1094,Şeytan Adası'nda Aç Orman Premosu yen.,{TaskCount}x Aç Orman Premosu yen.
+1095,Şeytan Adası'nda Katil Zaken Korsanı yen.,{TaskCount}x Katil Zaken Korsanı yen.
+1096,Şeytan Adası'nda Kindar Ölü yen.,{TaskCount}x Kindar Ölü yen.
+1097,Şeytan Adası'nda Gözcü Zaken Korsanı yen.,{TaskCount}x Gözcü Zaken Korsanı yen.
+1098,Şeytan Adası'nda Devriye Zaken Korsanı yen.,{TaskCount}x Devriye Zaken Korsanı yen.
+1099,Şeytan Adası'nda Keskin Nişancı Zaken Korsanı yen.,{TaskCount}x Keskin Nişancı Zaken Korsanı yen.
+1100,@1090,@1090
+1101,@1091,@1091
+1102,@1092,@1092
+1103,@1093,@1093
+1104,@1094,@1094
+1105,@1095,@1095
+1106,@1096,@1096
+1107,@1097,@1097
+1108,@1098,@1098
+1109,@1099,@1099
+1110,@1090,@1090
+1111,@1091,@1091
+1112,@1092,@1092
+1113,@1093,@1093
+1114,@1094,@1094
+1115,@1095,@1095
+1116,@1096,@1096
+1117,@1097,@1097
+1118,@1098,@1098
+1119,@1099,@1099
+1120,Şeytan Adası'nda Tayfa Zaken Korsanı yen.,{TaskCount}x Tayfa Zaken Korsanı yen.
+1121,Şeytan Adası'nda İnsafsız Ölü yen.,{TaskCount}x İnsafsız Ölü yen.
+1122,Şeytan Adası'nda Mağara Akrebi yen.,{TaskCount}x Mağara Akrebi yen.
+1123,Şeytan Adası'nda Zaken'in Nişancısı yen.,{TaskCount}x Zaken'in Nişancısı yen.
+1124,Şeytan Adası'nda Korsan Zombi yen.,{TaskCount}x Enkaz Korsan Zombi yen.
+1125,Şeytan Adası'nda Zaken'in Asil Muhafızı yen.,{TaskCount}x Zaken'in Asil Muhafızı yen.
+1126,Şeytan Adası'nda Rotacı Zaken Korsanı yen.,{TaskCount}x Rotacı Zaken Korsanı yen.
+1127,Şeytan Adası'nda Lostromo Zaken Korsanı yen.,{TaskCount}x Lostromo Zaken Korsanı yen.
+1128,Şeytan Adası'nda Zaken’in Gözcüsü yen.,{TaskCount}x Zaken’in Gözcüsü yen.
+1129,Şeytan Adası'nda Dümenci Zaken Korsanı yen.,{TaskCount}x Dümenci Zaken Korsanıyen.
+1130,@1120,@1120
+1131,@1121,@1121
+1132,@1122,@1122
+1133,@1123,@1123
+1134,@1124,@1124
+1135,@1125,@1125
+1136,@1126,@1126
+1137,@1127,@1127
+1138,@1128,@1128
+1139,@1129,@1129
+1140,@1120,@1120
+1141,@1121,@1121
+1142,@1122,@1122
+1143,@1123,@1123
+1144,@1124,@1124
+1145,@1125,@1125
+1146,@1126,@1126
+1147,@1127,@1127
+1148,@1128,@1128
+1149,@1129,@1129
+1150,Lanetli Mezarşehir'de İzci Ravine Breka yen.,{TaskCount}x İzci Ravine Breka yen.
+1151,Lanetli Mezarşehir'de Nöbetçi Ravine Breka yen.,{TaskCount}x Nöbetçi Ravine Breka yen.
+1152,Lanetli Mezarşehir'de Tedarikçi Ravine Breka yen.,{TaskCount}x Tedarikçi Ravine Breka yen.
+1153,Lanetli Mezarşehir'de Dövüşçü Ravine Breka yen.,{TaskCount}x Dövüşçü Ravine Breka yen.
+1154,Lanetli Mezarşehir'de Şaman Ravine Breka yen.,{TaskCount}x Şaman Ravine Breka yen.
+1155,@1150,@1150
+1156,@1151,@1151
+1157,@1152,@1152
+1158,@1153,@1153
+1159,@1154,@1154
+1160,@1150,@1150
+1161,@1151,@1151
+1162,@1152,@1152
+1163,@1153,@1153
+1164,@1154,@1154
+1165,@1150,@1150
+1166,@1151,@1151
+1167,@1152,@1152
+1168,@1153,@1153
+1169,@1154,@1154
+1170,@1150,@1150
+1171,@1151,@1151
+1172,@1152,@1152
+1173,@1153,@1153
+1174,@1154,@1154
+1175,@1150,@1150
+1176,@1151,@1151
+1177,@1152,@1152
+1178,@1153,@1153
+1179,@1154,@1154
+1180,Lanetli Mezarşehir'de Devriye Ravine Breka yen.,{TaskCount}x Devriye Ravine Breka yen.
+1181,Lanetli Mezarşehir'de Savaş Şefi Ravine Breka yen.,{TaskCount}x Savaş Şefi Ravine Breka yen.
+1182,Lanetli Mezarşehir'de Rahip Ravine Breka yen.,{TaskCount}x Rahip Ravine Breka yen.
+1183,Lanetli Mezarşehir'de Ruh Sezen Prima yen.,{TaskCount}x Ruh Sezen Prima yen.
+1184,Lanetli Mezarşehir'de Windsus yen.,{TaskCount}x Dağ Windsusu yen.
+1185,Lanetli Mezarşehir'td Taş Golem yen.,@911
+1186,Lanetli Mezarşehir'de Muhafız Basilisk yen.,{TaskCount}x Muhafız Basilisk yen.
+1187,Lanetli Mezarşehir'de Cellat yen.,{TaskCount}x Cellat yen.
+1188,@1180,@1180
+1189,@1181,@1181
+1190,@1182,@1182
+1191,@1183,@1183
+1192,@1184,@1184
+1193,@1185,@911
+1194,@1186,@1186
+1195,@1187,@1187
+1196,@1180,@1180
+1197,@1181,@1181
+1198,@1182,@1182
+1199,@1183,@1183
+1200,@1184,@1184
+1201,@1185,@911
+1202,@1186,@1186
+1203,@1187,@1187
+1204,@1182,@1182
+1205,@1183,@1183
+1206,@1184,@1184
+1207,@1185,@911
+1208,@1186,@1186
+1209,@1187,@1187
+1210,Lanetli Mezarşehir'de Ruh Yutan Prima yen.,{TaskCount}x Ruh Yutan Prima yen.
+1211,Lanetli Mezarşehir'de Barren Saharası yen.,{TaskCount}x Barren Saharası yen.
+1212,Lanetli Mezarşehir'de Sahara yen.,{TaskCount}x Alacakaranlık Saharası yen.
+1213,Lanetli Mezarşehir'de Amber Basilisk yen.,{TaskCount}x Amber Basilisk yen.
+1214,Lanetli Mezarşehir'de Zincirli Gezgin Ruh yen.,{TaskCount}x Zincirli Gezgin Ruh yen.
+1215,Lanetli Mezarşehir'de Başsız Şövalye yen.,{TaskCount}x Başsız Şövalye yen.
+1216,Lanetli Mezarşehir'de Kemikkıran Grandis yen.,{TaskCount}x Kemikkıran Grandis yen.
+1217,Lanetli Mezarşehir'de Kumyeli Gargoylu yen.,{TaskCount}x Kumyeli Gargoylu yen.
+1218,Lanetli Mezarşehir'de Korkunç Gözcügöz yen.,{TaskCount}x Korkunç Gözcügöz yen.
+1219,Lanetli Mezarşehir'de Kumyeli Girdabı yen.,{TaskCount}x Kumyeli Girdabı yen.
+1220,Lanetli Mezarşehir'de Gardiyan Wyrm yen.,{TaskCount}x Gardiyan Wyrm yen.
+1221,Lanetli Mezarşehir'de Ölümcül Gözcügöz yen.,{TaskCount}x Ölümcül Gözcügöz yen.
+1222,Lanetli Mezarşehir'de Muhafız Wyrm yen.,{TaskCount}x Muhafız Wyrm yen.
+1223,Lanetli Mezarşehir'de Yavru Wyrm yen.,{TaskCount}x Yavru Wyrm yen.
+1224,Lanetli Mezarşehir'de Cager'ın Uşağı'nı yen.,{TaskCount}x Cager'ın Uşağı'nı yen.
+1225,@1210,@1210
+1226,@1211,@1211
+1227,@1212,@1212
+1228,@1213,@1213
+1229,@1214,@1214
+1230,@1215,@1215
+1231,@1216,@1216
+1232,@1217,@1217
+1233,@1218,@1218
+1234,@1219,@1219
+1235,@1220,@1220
+1236,@1221,@1221
+1237,@1222,@1222
+1238,@1223,@1223
+1239,@1224,@1224
+1240,Lanetli Mezarşehir'de Gardiyan Wyrm yen.,@1220
+1241,Lanetli Mezarşehir'de Ölümcül Gözcügöz yen.,@1221
+1242,Lanetli Mezarşehir'de Muhafız Wyrm yen.,@1222
+1243,Lanetli Mezarşehir'de Yavru Wyrm yen.,@1223
+1244,Lanetli Mezarşehir'de Cager'ın Uşağı'nı yen.,@1224
+1245,Lanetli Mezarşehir'de Ölüm Bağı yen.,{TaskCount}x Ölüm Bağı yen.
+1246,Lanetli Mezarşehir'de Veremus'un Çocuğu'nu yen.,{TaskCount}x Veremus'un Çocuğu'nu yen.
+1247,Lanetli Mezarşehir'de Ejderha Avcısı Grandis yen.,{TaskCount}x Ejderha Avcısı Grandis yen.
+1248,Lanetli Mezarşehir'de Ölü Başsız Şövalye yen.,{TaskCount}x Ölü Başsız Şövalye yen.
+1249,@1240,@1220
+1250,@1241,@1221
+1251,@1242,@1222
+1252,@1243,@1223
+1253,@1244,@1224
+1254,@1245,@1245
+1255,@1246,@1246
+1256,@1247,@1247
+1257,@1248,@1248
+1258,@1240,@1220
+1259,@1241,@1221
+1260,@1242,@1222
+1261,@1243,@1223
+1262,@1244,@1224
+1263,@1245,@1245
+1264,@1246,@1246
+1265,@1247,@1247
+1266,@1248,@1248
+1267,@1246,@1246
+1268,@1247,@1247
+1269,@1248,@1248
+1270,Kuzey Yeli Platosu'nda Grendel yen.,{TaskCount} Grendel yen.
+1271,Kuzey Yeli Platosu'nda Plato Windsus'u yen.,{TaskCount} Plato Windsus'u yen.
+1272,Kuzey Yeli Platosu'nda Aç Grendel yen.,{TaskCount} Aç Grendel yen.
+1273,Kuzey Yeli Platosu'nda Vadi Örümceği yen.,{TaskCount} Vadi Örümceği yen.
+1274,Kuzey Yeli Platosu'nda Adamyiyen Atrox yen.,{TaskCount} Atrox yen.
+1275,Kuzey Yeli Platosu'nda Hükümdar Kesenrüzgar Böcayısı yen.,{TaskCount} Hükümdar Kesenrüzgar Böcayısı yen.
+1276,Kuzey Yeli Platosu'nda İşçi Kesenrüzgar Böcayısı yen.,{TaskCount} İşçi Kesenrüzgar Böcayısı yen.
+1277,Kuzey Yeli Platosu'nda Yok Edici Kesenrüzgar Böcayısı yen.,{TaskCount} Yok Edici Kesenrüzgar Böcayısı yen.
+1278,Kuzey Yeli Platosu'nda Dövüşçü Kesenrüzgar Böcayısı yen.,{TaskCount} Dövüşçü Kesenrüzgar Böcayısı yen.
+1279,@1270,@1270
+1280,@1271,@1271
+1281,@1272,@1272
+1282,@1273,@1273
+1283,@1274,@1274
+1284,@1275,@1275
+1285,@1276,@1276
+1286,@1277,@1277
+1287,@1278,@1278
+1288,@1270,@1270
+1289,@1271,@1271
+1290,@1272,@1272
+1291,@1273,@1273
+1292,@1274,@1274
+1293,@1275,@1275
+1294,@1276,@1276
+1295,@1277,@1277
+1296,@1278,@1278
+1297,@1276,@1276
+1298,@1277,@1277
+1299,@1278,@1278
+1300,Kuzey Yeli Platosu'nda Zalim Gül Perisi yen.,{TaskCount} Zalim Gül Perisi yen.
+1301,Kuzey Yeli Platosu'nda Atrox yen.,{TaskCount} Atrox yen.
+1302,Kuzey Yeli Platosu'nda Muhafız Leto Kertenkeleadam yen.,@484
+1303,Kuzey Yeli Platosu'nda Koruyucu Leto Kertenkeleadam yen.,{TaskCount} Koruyucu Leto Kertenkeleadam yen.
+1304,Kuzey Yeli Platosu'nda Şaman Leto Kertenkeleadam yen.,@483
+1305,Kuzey Yeli Platosu'nda Casus Leto Kertenkeleadam yen.,{TaskCount} Casus Leto Kertenkeleadam yen.
+1306,Kuzey Yeli Platosu'nda Rahip Leto Kertenkeleadam yen.,{TaskCount} Rahip Leto Kertenkeleadam yen.
+1307,Kuzey Yeli Platosu'nda Gardiyan Leto Kertenkeleadam yen.,{TaskCount} Gardiyan Leto Kertenkeleadam yen.
+1308,@1300,@1300
+1309,@1301,@1301
+1310,@1302,@484
+1311,@1303,@1303
+1312,@1304,@483
+1313,@1305,@1305
+1314,@1306,@1306
+1315,@1307,@1307
+1316,@1300,@1300
+1317,@1301,@1301
+1318,@1302,@484
+1319,@1303,@1303
+1320,@1304,@483
+1321,@1305,@1305
+1322,@1306,@1306
+1323,@1307,@1307
+1324,@1300,@1300
+1325,@1301,@1301
+1326,@1302,@484
+1327,@1303,@1303
+1328,@1304,@483
+1329,@1305,@1305
+1330,@1306,@1306
+1331,@1307,@1307
+1332,Kuzey Yeli Platosu'nda Koruyucu Timak Ork yen.,{TaskCount} Koruyucu Timak Ork yen.
+1333,Kuzey Yeli Platosu'nda Muhafız Kazan yen.,{TaskCount} Muhafız Kazan yen.
+1334,Kuzey Yeli Platosu'nda Gözcü Kazan yen.,{TaskCount} Gözcü Kazan yen.
+1335,Kuzey Yeli Platosu'nda Kazan'ın Köle İşçisi yen.,{TaskCount} Kazan'ın Köle İşçisi yen.
+1336,Kuzey Yeli Platosu'nda Elit Asker Timak Ork yen.,{TaskCount} Elit Asker Timak Ork yen.
+1337,Kuzey Yeli Platosu'nda İntikamcı Tanor yen.,{TaskCount} İntikamcı Tanor yen.
+1338,Kuzey Yeli Platosu'nda Acemi Tanor yen.,{TaskCount} Acemi Tanor yen.
+1339,Kuzey Yeli Platosu'nda Thano Kabilesi Asil Muhafız Şefi yen.,{TaskCount} Thano Kabilesi Asil Muhafız Şefi yen.
+1340,Kuzey Yeli Platosu'nda Büyücü Tanor yen.,{TaskCount} Büyücü Tanor yen.
+1341,Kuzey Yeli Platosu'nda Kabile Muhafızı Tanor yen.,{TaskCount} Kabile Muhafızı Tanor yen.
+1342,@1332,@1332
+1343,@1333,@1333
+1344,@1334,@1334
+1345,@1335,@1335
+1346,@1336,@1336
+1347,@1337,@1337
+1348,@1338,@1338
+1349,@1339,@1339
+1350,@1340,@1340
+1351,@1341,@1341
+1352,@1332,@1332
+1353,@1333,@1333
+1354,@1334,@1334
+1355,@1335,@1335
+1356,@1336,@1336
+1357,@1337,@1337
+1358,@1338,@1338
+1359,@1339,@1339
+1360,@1340,@1340
+1361,@1341,@1341
+1362,Ebedi Topraklar'da Kör Cellat yen.,{TaskCount} Kör Cellat yen.
+1363,Ebedi Topraklar'da Lekeli Söğüt yen.,{TaskCount} Lekeli Söğüt yen.
+1364,Ebedi Topraklar'da Ruh Hasatçısı yen.,{TaskCount} Ruh Hasatçısı yen.
+1365,Ebedi Topraklar'da Yürüyen Mantar yen.,@701
+1366,Ebedi Topraklar'da Zırhlı Uluyan yen.,{TaskCount} Zırhlı Uluyan yen.
+1367,Ebedi Topraklar'da Ruh Koleksiyoncusu yen.,{TaskCount} Ruh Koleksiyoncusu yen.
+1368,Ebedi Topraklar'da Bariyer Gözcüsü yen.,{TaskCount} Bariyer Gözcüsü yen.
+1369,Ebedi Topraklar'da Sadist Yok Edici Grandis yen.,{TaskCount} Sadist Yok Edici Grandis yen.
+1370,@1362,@1362
+1371,@1363,@1363
+1372,@1364,@1364
+1373,@1365,@701
+1374,@1366,@1366
+1375,@1367,@1367
+1376,@1368,@1368
+1377,@1369,@1369
+1378,@1362,@1362
+1379,@1363,@1363
+1380,@1364,@1364
+1381,@1365,@701
+1382,@1366,@1366
+1383,@1367,@1367
+1384,@1368,@1368
+1385,@1369,@1369
+1386,@1362,@1362
+1387,@1363,@1363
+1388,@1364,@1364
+1389,@1365,@701
+1390,@1366,@1366
+1391,@1367,@1367
+1392,@1368,@1368
+1393,@1369,@1369
+1394,Ebedi Topraklar'da Şaman Oel Mahum yen.,{TaskCount} Şaman Oel Mahum yen.
+1395,Ebedi Topraklar'da Yağmacı Oel Mahum yen.,{TaskCount} Yağmacı Oel Mahum yen.
+1396,Ebedi Topraklar'da Parçalayıcı Oel Mahum yen.,{TaskCount} Parçalayıcı Oel Mahum yen.
+1397,Ebedi Topraklar'da İşçi Oel Mahum yen.,{TaskCount} İşçi Oel Mahum yen.
+1398,Ebedi Topraklar'da Dövüşçü Oel Mahum yen.,{TaskCount} Dövüşçü Oel Mahum yen.
+1399,Ebedi Topraklar'da Yok Edici Oel Mahum yen.,{TaskCount} Yok Edici Oel Mahum yen.
+1400,Ebedi Topraklar'da Yok Edici Grandis yen.,@1035
+1401,Ebedi Topraklar'da Kara Kardeşlik yen.,{TaskCount} Kara Kardeşlik yen.
+1402,@1394,@1394
+1403,@1395,@1395
+1404,@1396,@1396
+1405,@1397,@1397
+1406,@1398,@1398
+1407,@1399,@1399
+1408,@1400,@1035
+1409,@1401,@1401
+1410,@1394,@1394
+1411,@1395,@1395
+1412,@1396,@1396
+1413,@1397,@1397
+1414,@1398,@1398
+1415,@1399,@1399
+1416,@1400,@1035
+1417,@1401,@1401
+1418,@1396,@1396
+1419,@1397,@1397
+1420,@1398,@1398
+1421,@1399,@1399
+1422,@1400,@1035
+1423,@1401,@1401
+1424,Ebedi Topraklar'da Spor Mantarı yen.,{TaskCount} Spor Mantarı yen.
+1425,Ebedi Topraklar'da Mantarlı Yarasa yen.,{TaskCount} Mantarlı Yarasa yen.
+1426,Ebedi Topraklar'da Asalak Zombi Lord yen.,{TaskCount} Asalak Zombi Lord yen.
+1427,Ebedi Topraklar'da Wyrm yen.,@908
+1428,Ebedi Topraklar'da Açgözlülüğün Sonucu yen.,{TaskCount} Açgözlülüğün Sonucu yen.
+1429,Ebedi Topraklar'da Ruh Yiyen yen.,{TaskCount} Ruh Yiyen yen.
+1430,Ebedi Topraklar'da Mantarlı Örümcek yen.,{TaskCount} Mantarlı Örümcek yen.
+1431,Ebedi Topraklar'da Su Kahini yen.,{TaskCount} Su Kahini yen.
+1432,Ebedi Topraklar'da Obsidiyen Golem yen.,{TaskCount} Obsidiyen Golem yen.
+1433,Ebedi Topraklar'da Pan Luem yen.,{TaskCount} Pan Luem yen.
+1434,Ebedi Topraklar'da Çürümüş Spor Mantarı yen.,{TaskCount} Çürümüş Spor Mantarı yen.
+1435,@1424,@1424
+1436,@1425,@1425
+1437,@1426,@1426
+1438,@1427,@908
+1439,@1428,@1428
+1440,@1429,@1429
+1441,@1430,@1430
+1442,@1431,@1431
+1443,@1432,@1432
+1444,@1433,@1433
+1445,@1434,@1434
+1446,@1424,@1424
+1447,@1425,@1425
+1448,@1426,@1426
+1449,@1427,@908
+1450,@1428,@1428
+1451,@1429,@1429
+1452,@1430,@1430
+1453,@1431,@1431
+1454,@1432,@1432
+1455,@1433,@1433
+1456,@1434,@1434
+1457,Ebedi Topraklar'da Korkusuz Peri yen.,{TaskCount} Korkusuz Peri yen.
+1458,Ebedi Topraklar'da Kabus Hayalet yen.,{TaskCount} Kabus Hayalet yen.
+1459,Ebedi Topraklar'da Ruh Kamçısı yen.,@251
+1460,Ebedi Topraklar'da Vampir Yarasa yen.,@517
+1461,Ebedi Topraklar'da Hiçlik Hizmetkarı yen.,@783
+1462,Ebedi Topraklar'da Gül Perisi yen.,{TaskCount} Gül Perisi yen.
+1463,Ebedi Topraklar'da Habis Peri yen.,{TaskCount} Habis Peri yen.
+1464,Ebedi Topraklar'da Habis Pan Luem yen.,{TaskCount} Habis Pan Luem yen.
+1465,@1457,@1457
+1466,@1458,@1458
+1467,@1459,@251
+1468,@1460,@517
+1469,@1461,@783
+1470,@1462,@1462
+1471,@1463,@1463
+1472,@1464,@1464
+1473,@1457,@1457
+1474,@1458,@1458
+1475,@1459,@251
+1476,@1460,@517
+1477,@1461,@783
+1478,@1462,@1462
+1479,@1463,@1463
+1480,@1464,@1464
+1481,@1457,@1457
+1482,@1458,@1458
+1483,@1459,@251
+1484,@1460,@517
+1485,@1461,@783
+1486,@1462,@1462
+1487,@1463,@1463
+1488,@1464,@1464
+1489,Fethedilmiş Fildişi Kulesi Bölgesi'nde Grendel yen.,@1270
+1490,Fethedilmiş Fildişi Kulesi Bölgesi'nde Acemi Haydut yen.,{TaskCount} Acemi Haydut yen.
+1491,Fethedilmiş Fildişi Kulesi Bölgesi'nde İzci Haydut yen.,{TaskCount} İzci Haydut yen.
+1492,Fethedilmiş Fildişi Kulesi Bölgesi'nde Yağmacı Haydut yen.,{TaskCount} Yağmacı Haydut yen.
+1493,Fethedilmiş Fildişi Kulesi Bölgesi'nde Katil Haydut yen.,{TaskCount} Katil Haydut yen.
+1494,Fethedilmiş Fildişi Kulesi Bölgesi'nde Çapulcu Haydut yen.,{TaskCount} Çapulcu Haydut yen.
+1495,Fethedilmiş Fildişi Kulesi Bölgesi'nde Şaman Haydut yen.,{TaskCount} Şaman Haydut yen.
+1496,Fethedilmiş Fildişi Kulesi Bölgesi'nde Savaşçı Haydut yen.,{TaskCount} Savaşçı Haydut yen.
+1497,Fethedilmiş Fildişi Kulesi Bölgesi'nde Dövüşçü Haydut yen.,{TaskCount} Dövüşçü Haydut yen.
+1498,Fethedilmiş Fildişi Kulesi Bölgesi'nde Vahşi Grendel yen.,{TaskCount} Vahşi Grendel yen.
+1499,Fethedilmiş Fildişi Kulesi Bölgesi'nde Baş Şaman Haydut yen.,{TaskCount} Baş Şaman Haydut yen.
+1500,@1489,@1270
+1501,@1490,@1490
+1502,@1491,@1491
+1503,@1492,@1492
+1504,@1493,@1493
+1505,@1494,@1494
+1506,@1495,@1495
+1507,@1496,@1496
+1508,@1497,@1497
+1509,@1498,@1498
+1510,@1499,@1499
+1511,@1489,@1270
+1512,@1490,@1490
+1513,@1491,@1491
+1514,@1492,@1492
+1515,@1493,@1493
+1516,@1494,@1494
+1517,@1495,@1495
+1518,@1496,@1496
+1519,@1497,@1497
+1520,@1498,@1498
+1521,@1499,@1499
+1522,Fethedilmiş Fildişi Kulesi Bölgesi'nde Orman Wyrmi yen.,{TaskCount} Orman Wyrmi yen.
+1523,Fethedilmiş Fildişi Kulesi Bölgesi'nde Karanlık Cadı yen.,{TaskCount} Karanlık Cadı yen.
+1524,Fethedilmiş Fildişi Kulesi Bölgesi'nde Okçu Timak Ork yen.,{TaskCount} Okçu Timak Ork yen.
+1525,Fethedilmiş Fildişi Kulesi Bölgesi'nde Dövüşçü Timak Ork yen.,{TaskCount} Dövüşçü Timak Ork yen.
+1526,Fethedilmiş Fildişi Kulesi Bölgesi'nde Gözcü Timak Ork yen.,{TaskCount} Gözcü Timak Ork yen.
+1527,Fethedilmiş Fildişi Kulesi Bölgesi'nde Atrox yen.,{TaskCount} Atrox yen.
+1528,Fethedilmiş Fildişi Kulesi Bölgesi'nde Dev Sülük yen.,@394
+1529,Fethedilmiş Fildişi Kulesi Bölgesi'nde Savaşçı Timak Ork yen.,{TaskCount} Savaşçı Timak Ork yen.
+1530,Fethedilmiş Fildişi Kulesi Bölgesi'nde Koruyucu Timak Ork yen.,{TaskCount} Koruyucu Timak Ork yen.
+1531,@1522,@1522
+1532,@1523,@1523
+1533,@1524,@1524
+1534,@1525,@1525
+1535,@1526,@1526
+1536,@1527,@1527
+1537,@1528,@394
+1538,@1529,@1529
+1539,@1530,@1530
+1540,@1522,@1522
+1541,@1523,@1523
+1542,@1524,@1524
+1543,@1525,@1525
+1544,@1526,@1526
+1545,@1527,@1527
+1546,@1528,@394
+1547,@1529,@1529
+1548,@1530,@1530
+1549,@1528,@394
+1550,@1529,@1529
+1551,@1530,@1530
+1552,Fethedilmiş Fildişi Kulesi Bölgesi'nde Beyaz Yüşbaşı Timak Ork yen.,{TaskCount} Beyaz Yüşbaşı Timak Ork yen.
+1553,Fethedilmiş Fildişi Kulesi Bölgesi'nde Subay Timak Ork yen.,{TaskCount} Subay Timak Ork yen.
+1554,Fethedilmiş Fildişi Kulesi Bölgesi'nde Cani Ork yen.,{TaskCount} Cani Ork yen.
+1555,Fethedilmiş Fildişi Kulesi Bölgesi'nde Elit Kolcu Timak Ork yen.,{TaskCount} Elit Kolcu Timak Ork yen.
+1556,Fethedilmiş Fildişi Kulesi Bölgesi'nde Elit Asker Timak Ork yen.,@1336
+1557,Fethedilmiş Fildişi Kulesi Bölgesi'nde Kabile Şefi Timak Ork yen.,{TaskCount} Kabile Şefi Timak Ork yen.
+1558,Fethedilmiş Fildişi Kulesi Bölgesi'nde Okçu Timak Ork yen.,{TaskCount} Okçu Timak Ork yen.
+1559,@1552,@1552
+1560,@1553,@1553
+1561,@1554,@1554
+1562,@1555,@1555
+1563,@1556,@1336
+1564,@1557,@1557
+1565,@1558,@1558
+1566,@1552,@1552
+1567,@1553,@1553
+1568,@1554,@1554
+1569,@1555,@1555
+1570,@1556,@1336
+1571,@1557,@1557
+1572,@1558,@1558
+1573,@1552,@1552
+1574,@1553,@1553
+1575,@1554,@1554
+1576,@1555,@1555
+1577,@1556,@1336
+1578,@1557,@1557
+1579,@1558,@1558
+1580,@1557,@1557
+1581,@1558,@1558
+1582,Fethedilmiş Fildişi Kulesi Bölgesi'nde Gargoyl yen.,{TaskCount} Fildişi Kulesi Gargoylu yen.
+1583,Fethedilmiş Fildişi Kulesi Bölgesi'nde Muhafız Golem yen.,{TaskCount} Fildişi Kulesi Muhafız Golemi yen.
+1584,Fethedilmiş Fildişi Kulesi Bölgesi'nde Yitik Şövalye yen.,{TaskCount} Yitik Şövalye yen.
+1585,Fethedilmiş Fildişi Kulesi Bölgesi'nde Hiçlik Tazısı yen.,{TaskCount} Hiçlik Tazısı yen.
+1586,Fethedilmiş Fildişi Kulesi Bölgesi'nde Sadık Gargoyl yen.,{TaskCount} Sadık Gargoyl yen.
+1587,@1582,@1582
+1588,@1583,@1583
+1589,@1584,@1584
+1590,@1585,@1585
+1591,@1586,@1586
+1592,@1582,@1582
+1593,@1583,@1583
+1594,@1584,@1584
+1595,@1585,@1585
+1596,@1586,@1586
+1597,@1582,@1582
+1598,@1583,@1583
+1599,@1584,@1584
+1600,@1585,@1585
+1601,@1586,@1586
+1602,@1582,@1582
+1603,@1583,@1583
+1604,@1584,@1584
+1605,@1585,@1585
+1606,@1586,@1586
+1607,@1582,@1582
+1608,@1583,@1583
+1609,@1584,@1584
+1610,@1585,@1585
+1611,@1586,@1586
+1612,Fethedilmiş Fildişi Kulesi Bölgesi'nde Vahşi Hiçlik Tazısı yen.,{TaskCount} Vahşi Hiçlik Tazısı yen.
+1613,Fethedilmiş Fildişi Kulesi Bölgesi'nde Arızalı Gardiyan yen.,{TaskCount} Arızalı Gardiyan yen.
+1614,Fethedilmiş Fildişi Kulesi Bölgesi'nde Kara Şövalye yen.,{TaskCount} Kara Şövalye yen.
+1615,Fethedilmiş Fildişi Kulesi Bölgesi'nde Kara Kardeşlik Başrahibi yen.,{TaskCount} Kara Kardeşlik Başrahibi yen.
+1616,Fethedilmiş Fildişi Kulesi Bölgesi'nde Embrion’un Yaveri yen.,{TaskCount} Embrion’un Yaveri yen.
+1617,@1612,@1612
+1618,@1613,@1613
+1619,@1614,@1614
+1620,@1615,@1615
+1621,@1616,@1616
+1622,@1612,@1612
+1623,@1613,@1613
+1624,@1614,@1614
+1625,@1615,@1615
+1626,@1616,@1616
+1627,@1612,@1612
+1628,@1613,@1613
+1629,@1614,@1614
+1630,@1615,@1615
+1631,@1616,@1616
+1632,@1612,@1612
+1633,@1613,@1613
+1634,@1614,@1614
+1635,@1615,@1615
+1636,@1616,@1616
+1637,@1612,@1612
+1638,@1613,@1613
+1639,@1614,@1614
+1640,@1615,@1615
+1641,@1616,@1616
+1642,용의 계곡 어둠의 기사 공략,@1614
+1643,용의 계곡 어둠의 군주 공략,어둠의 군주 {TaskCount}회 처치하기
+1644,용의 계곡 네르카스 공략,네르카스 {TaskCount}회 처치하기
+1645,용의 계곡 드레이크 공략,드레이크 {TaskCount}회 처치하기
+1646,용의 계곡 어둠의 결사 공략,@1401
+1647,용의 계곡 보이드 데몬 공략,보이드 데몬 {TaskCount}회 처치하기
+1648,용의 계곡 블러디 퀸 공략,블러디 퀸 {TaskCount}회 처치하기
+1649,@1642,@1614
+1650,@1643,@1643
+1651,@1644,@1644
+1652,@1645,@1645
+1653,@1646,@1401
+1654,@1647,@1647
+1655,@1648,@1648
+1656,용의 계곡 어둠의 결사 고위사제 공략,@1615
+1657,용의 계곡 엠브리온의 기사단원 공략,@1616
+1658,용의 계곡 포악한 어둠의 군주 공략,포악한 어둠의 군주 {TaskCount}회 처치하기
+1659,@1656,@1615
+1660,@1657,@1616
+1661,@1658,@1658
+1662,약속된 땅 케이브 키퍼 정찰병 공략,케이브 키퍼 정찰병 {TaskCount}회 처치하기
+1663,약속된 땅 말룩 헌터 정찰병 공략,말룩 헌터 정찰병 {TaskCount}회 처치하기
+1664,약속된 땅 블러디 퀸 정찰병 공략,블러디 퀸 정찰병 {TaskCount}회 처치하기
+1665,약속된 땅 유혹의 서큐버스 공략,유혹의 서큐버스 {TaskCount}회 처치하기
+1666,약속된 땅 현혹된 미믹 공략,현혹된 미믹 {TaskCount}회 처치하기
+1667,약속된 땅 난폭해진 미믹 공략,난폭해진 미믹 {TaskCount}회 처치하기
+1668,약속된 땅 현혹의 서큐버스 공략,현혹의 서큐버스 {TaskCount}회 처치하기
+1669,약속된 땅 케이브 키퍼 정예병 공략,케이브 키퍼 정예병 {TaskCount}회 처치하기
+1670,약속된 땅 말룩 헌터 정예병 공략,말룩 헌터 정예병 {TaskCount}회 처치하기
+1671,약속된 땅 케이브 키퍼 감시병 공략,케이브 키퍼 감시병 {TaskCount}회 처치하기
+1672,약속된 땅 말룩 헌터 감시병 공략,말룩 헌터 감시병 {TaskCount}회 처치하기
+1673,약속된 땅 파괴의 서큐버스 공략,파괴의 서큐버스 {TaskCount}회 처치하기
+1674,약속된 땅 블러디 퀸 정예병 공략,블러디 퀸 정예병 {TaskCount}회 처치하기
+1675,약속된 땅 지옥의 서큐버스 공략,지옥의 서큐버스 {TaskCount}회 처치하기
+1676,약속된 땅 블러디 퀸 감시병 공략,블러디 퀸 감시병 {TaskCount}회 처치하기
+1677,@1662,@1662
+1678,@1663,@1663
+1679,@1664,@1664
+1680,@1665,@1665
+1681,@1666,@1666
+1682,@1667,@1667
+1683,@1668,@1668
+1684,@1669,@1669
+1685,@1670,@1670
+1686,@1671,@1671
+1687,@1672,@1672
+1688,@1673,@1673
+1689,@1674,@1674
+1690,@1675,@1675
+1691,@1676,@1676
+1692,약속된 땅 케이브 키퍼 근위병 공략,케이브 키퍼 근위병 {TaskCount}회 처치하기
+1693,약속된 땅 최면에 걸린 미믹 공략,최면에 걸린 미믹 {TaskCount}회 처치하기
+1694,약속된 땅 말룩 헌터 근위병 공략,말룩 헌터 근위병 {TaskCount}회 처치하기
+1695,약속된 땅 사악해진 미믹 공략,사악해진 미믹 {TaskCount}회 처치하기
+1696,약속된 땅 블러디 퀸 근위병 공략,블러디 퀸 근위병 {TaskCount}회 처치하기
+1697,약속된 땅 임프 감시병 공략,임프 감시병 {TaskCount}회 처치하기
+1698,약속된 땅 말룩 스나이퍼 감시병 공략,말룩 스나이퍼 감시병 {TaskCount}회 처치하기
+1699,약속된 땅 난폭한 보이드 하운드 공략,난폭한 보이드 하운드 {TaskCount}회 처치하기
+1700,약속된 땅 말룩 스나이퍼 정찰병 공략,말룩 스나이퍼 정찰병 {TaskCount}회 처치하기
+1701,약속된 땅 지배당한 크림슨 바인드 공략,지배당한 크림슨 바인드 {TaskCount}회 처치하기
+1702,@1692,@1692
+1703,@1693,@1693
+1704,@1694,@1694
+1705,@1695,@1695
+1706,@1696,@1696
+1707,@1697,@1697
+1708,@1698,@1698
+1709,@1699,@1699
+1710,@1700,@1700
+1711,@1701,@1701
+1712,약속된 땅 날뛰는 미믹 공략,날뛰는 미믹 {TaskCount}회 처치하기
+1713,약속된 땅 정신 나간 미믹 공략,정신 나간 미믹 {TaskCount}회 처치하기
+1714,약속된 땅 순종적인 크림슨 바인드 공략,순종적인 크림슨 바인드 {TaskCount}회 처치하기
+1715,약속된 땅 임프 정찰병 공략,임프 정찰병 {TaskCount}회 처치하기
+1716,약속된 땅 최면걸린 크림슨 바인드 공략,최면걸린 크림슨 바인드 {TaskCount}회 처치하기
+1717,약속된 땅 임프 정예병 공략,임프 정예병 {TaskCount}회 처치하기
+1718,약속된 땅 세뇌당한 크림슨 바인드 공략,세뇌당한 크림슨 바인드 {TaskCount}회 처치하기
+1719,약속된 땅 성난 보이드 하운드 공략,성난 보이드 하운드 {TaskCount}회 처치하기
+1720,약속된 땅 떠도는 크림슨 바인드 공략,@1214
+1721,약속된 땅 말룩 스나이퍼 정예병 공략,말룩 스나이퍼 정예병 {TaskCount}회 처치하기
+1722,약속된 땅 말룩 스나이퍼 근위병 공략,말룩 스나이퍼 근위병 {TaskCount}회 처치하기
+1723,약속된 땅 잔혹한 보이드 하운드 공략,잔혹한 보이드 하운드 {TaskCount}회 처치하기
+1724,약속된 땅 임프 지휘병 공략,임프 지휘병 {TaskCount}회 처치하기
+1725,약속된 땅 죽음의 보이드 하운드 공략,죽음의 보이드 하운드 {TaskCount}회 처치하기
+1726,약속된 땅 말룩 스나이퍼 부관 공략,말룩 스나이퍼 부관 {TaskCount}회 처치하기
+1727,@1712,@1712
+1728,@1713,@1713
+1729,@1714,@1714
+1730,@1715,@1715
+1731,@1716,@1716
+1732,@1717,@1717
+1733,@1718,@1718
+1734,@1719,@1719
+1735,@1720,@1214
+1736,@1721,@1721
+1737,@1722,@1722
+1738,@1723,@1723
+1739,@1724,@1724
+1740,@1725,@1725
+1741,@1726,@1726
+1742,고룡 산맥 어둠의 결사 기사단원 공략,어둠의 결사 기사단원 {TaskCount}회 처치하기
+1743,고룡 산맥 어둠의 결사 습격자 공략,어둠의 결사 습격자 {TaskCount}회 처치하기
+1744,고룡 산맥 서릿잎 만드라고라 공략,서릿잎 만드라고라 {TaskCount}회 처치하기
+1745,고룡 산맥 식인 설인 공략,식인 설인 {TaskCount}회 처치하기
+1746,고룡 산맥 서릿발 늑대 공략,서릿발 늑대 {TaskCount}회 처치하기
+1747,고룡 산맥 굶주린 식인 설인 공략,굶주린 식인 설인 {TaskCount}회 처치하기
+1748,고룡 산맥 고산지 만드라고라 공략,고산지 만드라고라 {TaskCount}회 처치하기
+1749,고룡 산맥 어둠의 결사 흑기사 공략,어둠의 결사 흑기사 {TaskCount}회 처치하기
+1750,고룡 산맥 굶주린 서릿발 늑대 공략,굶주린 서릿발 늑대 {TaskCount}회 처치하기
+1751,고룡 산맥 어둠의 결사 정찰대원 공략,어둠의 결사 정찰대원 {TaskCount}회 처치하기
+1752,@1742,@1742
+1753,@1743,@1743
+1754,@1744,@1744
+1755,@1745,@1745
+1756,@1746,@1746
+1757,@1747,@1747
+1758,@1748,@1748
+1759,@1749,@1749
+1760,@1750,@1750
+1761,@1751,@1751
+1762,고룡 산맥 분노한 식인 설인 공략,분노한 식인 설인 {TaskCount}회 처치하기
+1763,고룡 산맥 어둠의 결사 파괴자 공략,어둠의 결사 파괴자 {TaskCount}회 처치하기
+1764,고룡 산맥 지배된 지룡 정찰병 공략,지배된 지룡 정찰병 {TaskCount}회 처치하기
+1765,고룡 산맥 지배된 지룡 연락병 공략,지배된 지룡 연락병 {TaskCount}회 처치하기
+1766,고룡 산맥 지배된 어린 지룡 공략,지배된 어린 지룡 {TaskCount}회 처치하기
+1767,고룡 산맥 안타라스의 시선 공략,안타라스의 시선 {TaskCount}회 처치하기
+1768,고룡 산맥 지배된 어린 풍룡 공략,지배된 어린 풍룡 {TaskCount}회 처치하기
+1769,고룡 산맥 실렌의 시선 공략,실렌의 시선 {TaskCount}회 처치하기
+1770,고룡 산맥 고통받는 어린 지룡 공략,고통받는 어린 지룡 {TaskCount}회 처치하기
+1771,고룡 산맥 고통받는 어린 풍룡 공략,고통받는 어린 풍룡 {TaskCount}회 처치하기
+1772,고룡 산맥 지배된 왕좌 수호병 공략,지배된 왕좌 수호병 {TaskCount}회 처치하기
+1773,고룡 산맥 지배된 왕좌 마법병사 공략,지배된 왕좌 마법병사 {TaskCount}회 처치하기
+1774,@1762,@1762
+1775,@1763,@1763
+1776,@1764,@1764
+1777,@1765,@1765
+1778,@1766,@1766
+1779,@1767,@1767
+1780,@1768,@1768
+1781,@1769,@1769
+1782,@1770,@1770
+1783,@1771,@1771
+1784,@1772,@1772
+1785,@1773,@1773
+1786,고룡 산맥 분노한 어린 지룡 공략,분노한 어린 지룡 {TaskCount}회 처치하기
+1787,고룡 산맥 분노한 어린 풍룡 공략,분노한 어린 풍룡 {TaskCount}회 처치하기
+1788,고룡 산맥 분노한 왕좌 수호병 공략,분노한 왕좌 수호병 {TaskCount}회 처치하기
+1789,고룡 산맥 분노한 왕좌 마법병사 공략,분노한 왕좌 마법병사 {TaskCount}회 처치하기
+1790,고룡 산맥 말룩의 정찰병 공략,말룩의 정찰병 {TaskCount}회 처치하기
+1791,고룡 산맥 말룩의 학살마 공략,말룩의 학살마 {TaskCount}회 처치하기
+1792,고룡 산맥 말룩의 척후병 공략,말룩의 척후병 {TaskCount}회 처치하기
+1793,고룡 산맥 잠들지 못한 원정대 공략,잠들지 못한 원정대 {TaskCount}회 처치하기
+1794,고룡 산맥 말룩의 저격병 공략,말룩의 저격병 {TaskCount}회 처치하기
+1795,고룡 산맥 말룩의 잠입자 공략,말룩의 잠입자 {TaskCount}회 처치하기
+1796,고룡 산맥 잠들지 못한 마법사 공략,잠들지 못한 마법사 {TaskCount}회 처치하기
+1797,@1786,@1786
+1798,@1787,@1787
+1799,@1788,@1788
+1800,@1789,@1789
+1801,@1790,@1790
+1802,@1791,@1791
+1803,@1792,@1792
+1804,@1793,@1793
+1805,@1794,@1794
+1806,@1795,@1795
+1807,@1796,@1796
+1808,고룡 산맥 말룩의 사역마 공략,말룩의 사역마 {TaskCount}회 처치하기
+1809,고룡 산맥 말룩의 암살자 공략,말룩의 암살자 {TaskCount}회 처치하기
+1810,고룡 산맥 어둠의 결사 작전병 공략,어둠의 결사 작전병 {TaskCount}회 처치하기
+1811,고룡 산맥 어둠의 결사 선봉대원 공략,어둠의 결사 선봉대원 {TaskCount}회 처치하기
+1812,고룡 산맥 어둠의 결사 대마도사 공략,어둠의 결사 대마도사 {TaskCount}회 처치하기
+1813,고룡 산맥 어둠의 결사 근위대원 공략,어둠의 결사 근위대원 {TaskCount}회 처치하기
+1814,@1808,@1808
+1815,@1809,@1809
+1816,@1810,@1810
+1817,@1811,@1811
+1818,@1812,@1812
+1819,@1813,@1813
+1820,@1808,@1808
+1821,@1809,@1809
+1822,@1810,@1810
+1823,@1811,@1811
+1824,@1812,@1812
+1825,@1813,@1813
+1826,@1808,@1808
+1827,@1809,@1809
+1828,@1810,@1810
+1829,@1811,@1811
+1830,@1812,@1812
+1831,@1813,@1813

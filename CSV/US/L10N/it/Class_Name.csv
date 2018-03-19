@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Avventuriero,"Principiante con potenziale inutilizzato. Può passare a Guerriero, Bandito o Mistico."
+2,Guerriero,Combattente che attacca corpo a corpo.
+3,Bandito,Abile nell’uso del pugnale e dell’arco.
+4,Mistico,Infligge danni usando la magia per attaccare i nemici.
+5,Paladino,Tank con Dif. alta e utili abilità di difesa.
+6,Signore Guerra,Infligge danni continuando a indebolire i nemici.
+7,Cacciatore Tesori,Stordisce i nemici e infligge attacchi consecutivi.
+8,Occhio di Falco,Infligge danni a lungo raggio con Att. AE e rallenta i nemici.
+9,Fattucchiere,Infligge danni da fiamma duraturi.
+10,Vescovo,Guarisce gli alleati e stordisce i nemici.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Cavaliere Tempio,Tank da attacco che infligge ampi attacchi AE.
+36,Cantore Spada,Specializzato in Att. di media portata e danni potenti.
+37,Girovago Piane,Infligge danni con una grande velocità di attacco.
+38,Ranger d’Argento,Infligge danni a lungo raggio attaccando rapidamente.
+39,Incantatore,Infligge danni attaccando i nemici o congelandoli.
+40,Anziano,Guarisce fornendo grandi ricariche PS agli alleati.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Cavaliere Shillien,Tank da attacco che colpisce i nemici assorbendone i PS.
+66,Artista della Lama,Infligge danni e possiede un grande Att.
+67,Girovago Abissi,Infligge danni da sanguinamento con grande velocità di Att.
+68,Ranger Fantasma,Infligge danni con velocità di Att. ridotta ma con potenza.
+69,Urla-Incantesimi,Lancia maledizioni e infligge attacchi AE duraturi.
+70,Shillien Anziano,Aumenta il PC degli alleati e guarisce il gruppo.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Guardiano,Tank magico che infligge controllo della folla AE.
+96,Uccisore,@68
+97,Spazzino,Infligge danni con una velocità di movimento elevata.
+98,Ranger di Guerra,Infligge danni a lungo raggio con trappole ed elusione.
+99,Mago di Battaglia,Infligge danni con veloci abilità in aree ristrette.
+100,Saggio,Infligge danni aumentando la Dif. del gruppo.

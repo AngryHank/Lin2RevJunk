@@ -1,0 +1,828 @@
+Id,Name,Desc,Desc2
+1001,20.000 de adena,Use para adquirir 20.000 de adena.,
+1002,42.000 de adena,Use para adquirir 40.000 de adena (+2.000 de adena bônus).,
+1003,88.000 de adena,Use para adquirir 80.000 de adena (+8.000 de adena bônus).,
+1004,184.000 de adena,Use para adquirir 160.000 de adena (+24.000 de adena bônus).,
+1005,384.000 de adena,Use para adquirir 320.000 de adena (+64.000 de adena bônus).,
+1006,800.000 de adena,Use para adquirir 640.000 de adena (+160.000 de adena bônus).,
+3001,1 Caixa de Equipamento Especial,"Adquirir equipamento (S - SR)!
+Você pode adquirir Equipamento Raro!",
+3002,Pergaminho Abençoado: Arma,"Pergaminho Abençoado: Arma.
+Use para aprimorar uma arma de 1 a 3 níveis.",
+3003,Pergaminho Abençoado: Armadura,"Pergaminho Abençoado: Armadura.
+Use para aprimorar uma armadura de 1 a 3 níveis.",
+3004,Pergaminho Abençoado: Acessório,"Pergaminho Abençoado: Acessório.
+Use para aprimorar uma armadura de 1 a 3 níveis.",
+3005,Proteção de Maphr,Protege de perder níveis após uma falha de aprimoramento.,
+3006,Pedra de Quebra de Limite grau SR,Use para quebrar o limite de um equipamento grau SR.,
+3007,Pedra de Atributo Grau S,Use para aprimorar um atributo de um equipamento.,
+3008,Pedra de Atributo Grau R,@3007,
+3009,Pedra de Atributo Grau SR,@3007,
+3011,1 Caixa de Acessório Especial,Adquirir acessório (S - SR)!,
+4001,20 Poções de PV,Use para restaurar pequena quantidade do PV.,
+4002,10% de desconto! 200 Poções de PV,@4001,
+4005,20 Poções de PM,Use para restaurar pequena quantidade do PM.,
+4006,10% de desconto! 200 Poções de PM,@4005,
+4009,500 Disparos Anímicos,Use para abençoar uma arma com luz espiritual e aumentar seu dano.,
+4010,10% de desconto! 5.000 Disparos Anímicos,@4009,
+4013,1 Megafone,Um item usado para falar no Bate-papo Mundial.,
+4014,10 Megafones,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Crucifixo do Arrependimento,"Use para reduzir em 30 o Valor Caótico.
+É possível usar cruzes 3 vezes ao dia.",
+4101,50 Pergaminhos de Fuga,Use para teletransportar.,
+4105,Fogos de Artifício Noturnos,"Fogos de artifício que iluminam o céu à noite, até mesmo durante o dia.",
+4106,Fogos de Artifício de Prataluz,Fogos de artifício que brilham como estrelas no céu.,
+4107,Fogos de Artifício da Prosperidade,Fogos de artifício que simbolizam o desejo de prosperidade.,
+4108,Fogos de Artifício do Amor,Fogos de artifício especiais que garantem o sucesso no pedido de casamento.,
+5002,1 Equipamento de Alto Grau,"Adquira equipamento A - SR!
+Você pode adquirir Equipamento Raro!",
+5003,10 Equipamentos de Alto Grau (+1 bônus),"Adquira equipamento A - SR!
+Pelo menos um equipamento de grau S ou superior é garantido!
+Você pode adquirir Equipamento Raro!",
+5014,@5002,"Adquira equipamento A - SR!
+Você pode adquirir Equipamento Raro e Negociável!",
+5015,@5003,"Adquira equipamento A - SR!
+Pelo menos um equipamento de grau S ou superior é garantido!
+Você pode adquirir Equipamento Raro e Negociável!",
+5101,1 Caixa de Fortalecimento de Arma,"Armas e Verniz de Arma (Grau A - SR) disponíveis!
+Aumento da taxa de aquisição de equipamento raro!
+Apenas Armas podem ser adquiridas ao obter Equipamentos Raros!",
+5102,10 caixas de fortalecimento de arma (+1 bônus),@5101,
+5103,@5101,"Armas e vernizes de arma (Grau A a SR) são possíveis!
+Pergaminho de alquimia - Pergaminho abençoado: Arma/Armadura/Acessório possível!",
+5104,@5102,"Armas e vernizes de arma (Grau A a SR) são possíveis!
+Pergaminho de alquimia - Pergaminho abençoado: Arma/Armadura/Acessório possível!
+Compre 7 vezes para obter uma Arma Vermelha de Grau S garantida!",
+5201,1 caixa de fortalecimento de armadura,"Armadura (grau A - SR) e Verniz de armadura disponíveis!
+Aumento da taxa de aquisição de equipamento raro!
+Só se pode obter armadura quando se obtém um equipamento raro!",
+5202,10 caixas de fortalecimento de armadura (+1 bônus),@5201,
+5301,10 Caixas de Materiais Especiais (+1 bônus),"Vários materiais de fortalecimento, tais como Pergaminhos Abençoados, Proteções de Maphr, Fio de Capa,
+Fragmentos da Loucura, Lágrimas de Trisha e Cristais Anímicos
+são possíveis!",
+10001,10 Poções de PV,@4001,
+10002,10 Poções de PM,@4005,
+10003,250 Disparos Anímicos,@4009,
+10017,1 Caixa de Equipamento,Equipamentos até grau A disponíveis!,
+10020,Cruz do Arrependimento,"Reduz o valor caótico de um personagem.
+Cada uso reduz em 3 o valor caótico, você pode usar este efeito 3 vezes por dia.",
+10029,100 Pedras Estelares Vermelhas,Use para redefinir as Masmorras de Clã.,
+13000,(Nv. 20) Pergaminho de Missão - grau C,Use para participar de uma (missão secundária de grau C),
+13001,(Nv. 30) Pergaminho de Missão - grau C,@13000,
+13002,(Nv. 40) Pergaminho de Missão - grau C,@13000,
+13003,(Nv. 50) Pergaminho de Missão - grau C,@13000,
+13004,(Nv. 60) Pergaminho de Missão - grau C,@13000,
+13005,(Nv. 75) Pergaminho de Missão - grau C,@13000,
+13006,(Nv. 90) Pergaminho de Missão - grau C,@13000,
+13007,(Nv. 105) Pergaminho de Missão - grau C,@13000,
+13008,(Nv. 120) Pergaminho de Missão - grau C,@13000,
+13009,(Nv. 135) Pergaminho de Missão - grau C,@13000,
+13010,(Nv. 150) Pergaminho de Missão - grau C,@13000,
+13011,(Nv. 165) Pergaminho de Missão - grau C,@13000,
+13100,(Nv. 20) Pergaminho de Missão - grau A,Use para participar de uma (missão secundária de grau A).,
+13101,(Nv. 30) Pergaminho de Missão - grau A,@13100,
+13102,(Nv. 40) Pergaminho de Missão - grau A,@13100,
+13103,(Nv. 50) Pergaminho de Missão - grau A,@13100,
+13104,(Nv. 60) Pergaminho de Missão - grau A,@13100,
+13105,(Nv. 75) Pergaminho de Missão - grau A,@13100,
+13106,(Nv. 90) Pergaminho de Missão - grau A,@13100,
+13107,(Nv. 105) Pergaminho de Missão - grau A,@13100,
+13108,(Nv. 120) Pergaminho de Missão - grau A,@13100,
+13109,(Nv. 135) Pergaminho de Missão - grau A,@13100,
+13110,(Nv. 150) Pergaminho de Missão - grau A,@13100,
+13111,(Nv. 165) Pergaminho de Missão - grau A,@13100,
+13200,(Nv. 20) Pergaminho de Missão - grau S,Use para participar de uma (missão secundária de grau S).,
+13201,(Nv. 30) Pergaminho de Missão - grau S,@13200,
+13202,(Nv. 40) Pergaminho de Missão - grau S,@13200,
+13203,(Nv. 50) Pergaminho de Missão - grau S,@13200,
+13204,(Nv. 60) Pergaminho de Missão - grau S,@13200,
+13205,(Nv. 75) Pergaminho de Missão - grau S,@13200,
+13206,(Nv. 90) Pergaminho de Missão - grau S,@13200,
+13207,(Nv. 105) Pergaminho de Missão - grau S,@13200,
+13208,(Nv. 120) Pergaminho de Missão - grau S,@13200,
+13209,(Nv. 135) Pergaminho de Missão - grau S,@13200,
+13210,(Nv. 150) Pergaminho de Missão - grau S,@13200,
+13211,(Nv. 165) Pergaminho de Missão - grau S,@13200,
+30001000,60 + 60 Diamantes,"60 Diamantes Azuis
+60 Diamantes Vermelhos",
+30001010,1 vez só! 90 + 90 diamantes,"90 Diamantes Azuis
+90 Diamantes Vermelhos
+2 Topázios",
+30001020,1 vez só! 160 + 160 diamantes,"160 Diamantes Azuis
+160 Diamantes Vermelhos
+4 Topázios",
+30001030,1 vez só! 340 + 340 diamantes,"340 Diamantes Azuis
+340 Diamantes Vermelhos
+8 Topázios",
+30001040,80 + 80 Diamantes,"80 Diamantes Azuis
+80 Diamantes Vermelhos",
+30001050,700 Diamantes (20%),"700 Diamantes Azuis
+16 Topázios",
+30001060,1080 Diamantes (20%),"1080 Diamantes Azuis
+25 Topázios",
+30001070,1900 Diamantes (10%),"1900 Diamantes Azuis
+45 Topázios",
+30001080,1900 Diamantes (20%),@30001070,
+30001090,4000 Diamantes (10%),"4000 Diamantes Azuis
+100 Topázios",
+30001100,4000 Diamantes (20%),@30001090,
+30001110,4000 Diamantes (30%),@30001090,
+30001120,4000 + 2000 Diamantes,"4000 Diamantes Azuis
+2000 Diamantes Vermelhos",
+30001130,1080 + 540 Diamantes,"1080 Diamantes Azuis
+540 Diamantes Vermelhos",
+30001140,1080 + 108 diamantes,"1080 Diamantes Azuis
+108 Diamantes Vermelhos",
+30001150,1080 + 216 Diamantes,"1080 Diamantes Azuis
+216 Diamantes Vermelhos",
+30001160,1900 + 190 Diamantes,"1900 Diamantes Azuis
+190 Diamantes Vermelhos",
+30001170,1900 + 380 Diamantes,"1900 Diamantes Azuis
+380 Diamantes Vermelhos",
+30001180,4000 + 400 Diamantes,"4000 Diamantes Azuis
+400 Diamantes Vermelhos",
+30001190,4000 + 800 diamantes,"4000 Diamantes Azuis
+800 Diamantes Vermelhos",
+30001200,1 vez só! 30 + 60 diamantes,"30 Diamantes Azuis
+60 Diamantes Vermelhos
+1 Topázios",
+30002000,90 Diamantes,"90 Diamantes Azuis
+2 Topázios",
+30002010,160 Diamantes,"160 Diamantes Azuis
+4 + 8 Topázios",
+30002020,340 Diamantes,"340 Diamantes Azuis
+8 + 16 Topázios",
+30002030,700 Diamantes,"700 Diamantes Azuis
+16 + 32 Topázios",
+30002040,1080 Diamantes,"1080 Diamantes Azuis
+25 + 50 Topázios",
+30002050,1900 Diamantes,"1900 Diamantes Azuis
+45 + 90 Topázios",
+30002060,4000 Diamantes,"4000 Diamantes Azuis
+100 + 200 Topázios",
+30002070,60 Diamantes,"60 Diamantes Azuis
+1 Topázios",
+30002080,@30002010,"160 Diamantes Azuis
+4 Topázios",
+30002090,@30002020,"340 Diamantes Azuis
+8 Topázios",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Diamante Diário I (28 dias),"1.200 diamantes vermelhos adquiridos imediatamente!
+120 diamantes vermelhos diariamente!
++10 topázios depois de 8 coleções diárias!",Um total de 4.560 diamantes vermelhos!
+30003100,Adena Diária I (28 dias),"50.000 de adena imediatamente!
+Ganhe 10.000 adena diariamente!
++ 40 Diamantes Vermelhos a cada 8 coletas!",Um total de 330.000 de adena!
+30003101,Adena Diária II (28 dias),"160.000 de adena imediatamente!
+Um total de 30.000 de adena!
++ 80 Diamantes Vermelhos a cada 8 coletas diárias!",Um total de 1.000.000 de adena!
+30004000,Caixa de Equip. Exclusiva de Grau S Rara,Adquira 1 caixa de equipamento exclusiva de grau S rara.,
+30004001,Caixa de Acessório de Alto Grau,Adquira 1 caixa de acessório de alto grau,
+30004002,Pedra de Quebra de Limite SR,Adquira 1 Pedra de Quebra de Limite de grau SR,
+30004003,Pedra de Atributo R,Adquira 1 Pedra de Atributo de grau R,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Caixa de Pergaminho Abençoado Aleatório,Use para adquirir um Pergaminho Abençoado aleatório.,
+30004008,3 Caixas Perg. Abençoado Aleatório,@30004007,
+30004100,Flauta de Vinculação do Santo de Prata,Adquira 1 Flauta de Vinculação do Santo de Prata.,
+30004101,Flauta de Vinculação de Kukurin,Adquira 1 Flauta de Vinculação de Kukurin.,
+30004102,10 Energia de quebra de limite,Adquire 10 energias de quebra de limite.,
+30004103,10 Energia de atributo,Adquire 10 energias de atributo.,
+30004104,Perg. Alquimia - Pedra Atributo Grau S,Adquire 1 pergaminho de alquimia - Pedra de Atributo de Grau S. ,
+30004105,Perg. Alquimia - Pedra Atributo Grau R,Adquire 1 pergaminho de alquimia - Pedra de Atributo de Grau R.,
+30004106,Perg. Alquimia - Pedra Atributo Grau SR,Adquire 1 pergaminho de alquimia - Pedra de Atributo de Grau SR.,
+30004107,Perg. Alquimia - Quebra de Lim. Grau SR,Adquire 1 pergaminho de alquimia - Pedra de Quebra de Limite de Grau SR.,
+30004108,Perg. Alquimia - Abençoado: Arma,Adquira 1 Pergaminho de Alquimia - Pergaminho Abençoado: Arma.,
+30004109,Perg. Alquimia - Abençoado: Armadura,Adquira 1 Pergaminho de Alquimia - Pergaminho Abençoado: Armadura.,
+30004110,Perg. Alquimia - Abençoado: Acessório,Adquira 1 Pergaminho de Alquimia - Pergaminho Abençoado: Acessório.,
+30004111,200 Frag. Pedra Evocação Urso-Negro,Vincule para criar uma pedra de evocação de Urso-Negro.,
+30004112,150 Frag. Pedra Evocação Santo de Prata,Vincule para criar uma pedra de evocação de Santo de Prata.,
+30004113,100 Frag. Pedra Evocação Kukurin,Vincule para criar um Pedra de Evocação de Kukurin.,
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Frag. Pedra Evocação Urso-Negro,@30004111,
+30004120,5 Frag. Pedra Evocação Santo de Prata,@30004112,
+30004121,5 Frag. Pedra Evocação Kukurin,@30004113,
+30004122,Perg. Alquimia - Essência Elixir Atq.,O documento contém fórmula para fabricar essências de elixir de atq. Combine ervas para obter essências de elixir de atq.,
+30004123,Perg. Alquimia - Essência Elixir Def.,O documento contém a fórmula para fabricar essências de elixir de def. Combine ervas para obter essências de elixir de def.,
+30004124,Perg. Alquimia - Essência Elixir PV,O documento contém a fórmula para fabricar essências de elixir de PV. Combine ervas para obter essências de elixir de PV.,
+30004125,Perg. Alquimia - Essência Elixir PM,O documento contém a fórmula para fabricar essências de elixir de PM. Combine ervas para obter essências de elixir de PM.,
+30004126,50 Pedras de Avanço,Use pedras de avanço para fortalecer suas montarias.,
+30004200,Caixa de Seleção de Pergaminhos Abençoados,Adquira 1 Caixa de Seleção de Pergaminhos Abençoados.,
+30004201,3 Caixas de Seleção de Pedra de Melhoria,Use para selecionar e adquirir uma pedra de melhoria.,
+30004202,3 Caixas Aleatórias de Pedra de melhoria,Use para conseguir uma pedra de melhoria aleatória.,
+30004203,3 Caixas de Seleção Essências Elixir,Use para selecionar e adquirir uma essência de elixir.,
+30004204,3 Caixas Aleatórias Essência Elixir,Use para conseguir uma essência de elixir aleatória.,
+30004205,@3005,@3005,
+30004206,10 Caixas de Seleção Perg. Aprimoramento,Use para selecionar e adquirir um pergaminho de aprimoramento.,
+30004207,10 Caixas Aleatórias de Perg. Aprim.,Use para conseguir um pergaminho de aprimoramento aleatório.,
+30004208,10 Pergaminhos: Aprimorar Arma,Esse pergaminho aprimora armas e aumenta atributos.,
+30004209,10 Pergaminhos: Aprimorar Armadura,Esse pergaminho aprimora armaduras e aumenta atributos.,
+30004210,10 Pergaminhos: Aprimorar Acessório,Esse pergaminho aprimora acessórios e aumenta atributos.,
+30004211,3 Essências de elixir de PV,Essência útil para fabricar elixires de PV.,
+30004212,3 Essências de elixir de PM,Essência útil para fabricar elixires de PM.,
+30004213,3 Essências de elixir de atq.,Essência útil para fabricar elixires de atq.,
+30004214,3 Essências de Elixir de Def.,Essência útil para fabricar elixires de def.,
+30004215,15 Pedras de Melhoria de Arma,Útil para melhorar armas ao seu próximo grau.,
+30004216,15 Pedras de Melhoria de Armadura,Útil para melhorar armaduras ao seu próximo grau.,
+30004217,15 Pedras de Melhoria de Acessório,Útil para melhorar acessórios ao seu próximo grau.,
+30004218,5 Caixas de Seleção de Vernizes Grau S,Use para selecionar e adquirir um verniz de grau S.,
+30004219,5 Caixas Aleatórias de Pedra de melhoria,@30004202,
+30004220,10 Caixas de Seleção de Pedra de Melhoria,@30004201,
+30004221,@30004220,@30004201,
+30004222,5 Caixas de Seleção de Vernizes Grau R,Use para selecionar e adquirir um verniz de grau R.,
+30004223,5 Caixas de Seleção de Vernizes Grau SR,Use para selecionar e adquirir um verniz de grau SR.,
+30004224,10 Pedras de Melhoria de Arma,@30004215,
+30004225,10 Pedras de Melhoria de Armadura,@30004216,
+30004226,10 Pedras de Melhoria de Acessório,@30004217,
+30004227,5 Caixas de Seleção Perg. Aprimoramento,@30004206,
+30004228,5 Pergaminhos: Aprimorar Arma,@30004208,
+30004229,5 Pergaminhos: Aprimorar Armadura,@30004209,
+30004230,5 Pergaminhos: Aprimorar Acessório,@30004210,
+30004231,3 Caixas de Seleção de Pergaminhos Abençoados,Adquira 3 Caixas de Seleção de Pergaminhos Abençoados.,
+30004232,3 Pergaminhos Abençoados: Arma,@3002,
+30004233,3 Pergaminhos Abençoados: Armadura,@3003,
+30004234,3 Pergaminhos Abençoados: Acessório,@3004,
+30004235,@30004102,@30004102,
+30004236,20 de energia de atributo,Obtenha 20 de energia de atributo.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Frag. Pedra Evocação Urso-Negro,@30004111,
+30004241,100 Frag. Pedra Evocação Santo de Prata,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 Caixas Seleção Cristal Anímico Grau A,Adquira uma Caixa de Seleção de Cristal Anímico de Grau A.,
+30004301,Caixa Seleção Cristal Anímico Grau S,Adquira uma Caixa de Seleção de Cristal Anímico de Grau S.,
+30004302,Caixa Aleatória Cristal Anímico Grau B-S,Adquira 1 Caixa Aleatória de Cristal Anímico de Grau B-S.,
+30004303,Cristal Anímico de Ataque de Grau A,"É possível imbuir almas nas armas e luvas.
+Ao realizar essa ação, aumenta seu atq. f. e atq. m.
+Esse cristal contém almas de monstros.",
+30004304,Cristal Anímico de Defesa de Grau A,"É possível imbuir almas nos acessórios para cabeça e armadura.
+Ao realizar essa ação, aumenta sua def. f. e def. m.
+Esse cristal contém almas de monstros.",
+30004305,Cristal Anímico de Penetração de Grau A,"É possível imbuir almas nos anéis.
+Esse cristal contém almas de monstros.",
+30004306,Cristal Anímico de Resiliência de Grau A,"É possível imbuir almas nos brincos.
+Esse cristal contém almas de monstros.",
+30004307,Cristal Anímico de Precisão de Grau A,"É possível imbuir almas nas botas e colares.
+Esse cristal contém almas de monstros.",
+30004308,Cristal Anímico de Evasão de Grau A,@30004307,
+30004309,Cristal Anímico Taxa Crítico Grau A,"É possível imbuir almas nas armas e luvas.
+Esse cristal contém almas de monstros.",
+30004310,Cristal Anímico de Resist. a Crítico Grau A,@30004306,
+30004311,Cristal Anímico de PV de Grau A,"É possível imbuir almas nos acessórios para cabeça e armadura.
+Esse cristal contém almas de monstros.",
+30004312,3 Cristais Anímicos de Ataque de Grau B,@30004303,
+30004313,3 Cristais Anímicos de Defesa de Grau B,@30004304,
+30004314,3 Cristais Anímicos Penetração Grau B,@30004305,
+30004315,3 Cristais Anímicos Resiliência Grau B,@30004306,
+30004316,3 Cristais Anímicos Precisão Grau B,@30004307,
+30004317,3 Cristais Anímicos de Evasão de Grau B,@30004307,
+30004318,3 Cristais Anímicos de Taxa de Crítico Grau B,@30004309,
+30004319,3 Cristais A. Resist. Crítico Grau B,@30004306,
+30004320,3 Cristais Anímicos de PV de Grau B,@30004311,
+30110000,Conjunto Iniciante de Luxo,"600 diamantes azuis
+1.000 Poções de PV
+1.000 Poções de PM
+5.000 Disparos Anímicos
+120 espaços de inventário adicionais",
+30110001,Conjunto de Inventário de Luxo,"1.500 diamantes azuis
+1.000 Poções de PV
+1.000 Poções de PM
+10.000 Disparos Anímicos
+100 espaços de inventário adicionais",
+30110011,Conjunto Especial de Aprimoramento de Habilidade Rara,"500.000 de adena
+3 Caixas de Seleção de Página de Pergaminho Esquecido
+3 Conjuntos de Pergaminhos de Aprimoramento
+500 de PH
+30 Pergaminhos de Fugas",
+30110012,Conjunto Especial de Aprimoramento de Habilidade Rara (10%),@30110011,
+30110013,Conjunto Especial de Aprimoramento de Habilidade Rara (20%),@30110011,
+30110014,P. de Poder Hab. Rara,"250.000 de adena
+2 Caixas de Seleção de Página de Pergaminho Esquecido
+5 Conjuntos de Pergaminhos de Aprimoramento
+3 Caixas Pequenas de PH
+20 Pergaminhos de Fugas",
+30110015,Conjunto de Aventureiro Júnior,"600 Diamantes Azuis
+600 Diamantes Vermelhos
+1 Caixa de Seleção de Arma Exclusiva
+Grau S
+1.000 Fragmentos de Runa",
+30110016,Conjunto de Aventureiro Sênior,"2.000 Diamantes Azuis
+2.000 Diamantes Vermelhos
+1 Caixa de Seleção de Equipamento de Grau R
+10 Caixas de Seleção de Pedra de Melhoria
+10 Caixas de Seleção de Verniz de Grau S",
+30110017,Conjunto de Aventureiro Veterano,"2.000 Diamantes Azuis
+2.000 Diamantes Vermelhos
+1 Caixa de Seleção de Acessório de Grau R
+1 Pedra de Atributo de Grau R",
+30120005,Conjunto Especial de Marcação de Runa,"150.000 de adena
+3.000 Fragmentos de Runa",
+30120007,Conjunto PH,"360 Diamantes Vermelhos
+1 Caixa de PH (500 pontos)",
+30120008,Conjunto PH de Alto Grau,"1.200 Diamantes Vermelhos
+100.000 de adena
+3 Caixas de PH (500 pontos)",
+30120009,Conjunto de Evocação de Acessório,"2.500 Diamantes Vermelhos
+50 Topázios
+150.000 de adena
+3 caixas com Acessório de Alto Grau",
+30120010,Conjunto de Elixir Especial,"20 Caixas de Essência de Elixir
+40 Conjuntos de Ervas",
+30120011,Conj. Adena Especial (Edição Limitada),1.000.000 de adena,
+30120012,Conjunto de Evocação de Acessório (10%),@30120009,
+30120013,Conjunto de Evocação de Acessório (20%),@30120009,
+30120014,Conjunto de Habilidades Raras,"300 Diamantes Vermelhos
+100.000 de adena
+1 Caixa de Página de Pergaminho Esquecido Aleatório",
+30130000,Conj. Perg. Aprim. Baixo Grau,"300 Diamantes Azuis
+20 Topázios
+3 Conjuntos de Pergaminho de Aprimoramento",
+30130001,Conj. Perg. Aprim. Alto Grau,"1.000 Diamantes Vermelhos
+50 Topázios
+5 Conjuntos de Pergaminho de Aprimoramento
+1 Proteção de Maphr",
+30130002,Conj. Seleção Pedra Melhoria Especial,"3.000 Diamantes Vermelhos
+200.000 de adena
+40 Caixas de Seleção de Pedra de Melhoria",
+30130003,Conjunto Fortalecedor de Equip. Grau A,"200.000 de adena
+10 Caixas de Seleção de Vernizes de Grau A",
+30130004,Conjunto Fortalecedor de Equip. Grau S,"300.000 de adena
+5 Caixas de Seleção de Vernizes de Grau S
+10 Caixas de Seleção de Vernizes de Grau A",
+30130005,Conjunto Fortalecedor de Equip. Grau R,"500.000 de adena
+3 Caixas Sortidas de Verniz de Grau R
+10 Caixas Sortidas de Verniz de Grau S",
+30130006,Conj. de Perg. Encant. Abençoado,"1.200 Diamantes Vermelhos
+20 Topázios
+5 Caixas Sortidas de Pergaminhos de Aprimoramento
+10 Pergaminhos de aprimoramento",
+30130007,Conjunto de Cristal Anímico,"1.000 Diamantes Vermelhos
+50.000 de adena
+7 Caixas Aleatórias de Cristal Anímico de Grau A-S",
+30130008,Conjunto de Cristal Anímico Exclus. II,"1.000 Diamantes Vermelhos
+100.000 de adena
+3 Caixas Aleatórias de Cristal Anímico de Grau S-R",
+30130009,Conjunto de Cristal Anímico Exclus. III,"2.000 Diamantes Vermelhos
+200.000 de adena
+3 Caixas Aleatórias de Cristal Anímico de Grau S-SR",
+30130010,Conjunto Caixa de Armadura Rara Grau S,"120 Diamantes Vermelhos
+1 Caixa Sortida de Armadura Rara Grau S",
+30130011,Conjunto de Proteção Abençoado,"500 Diamantes Azuis
+500 Diamantes Vermelhos
+5 Caixas de Seleção de Pergaminho Abençoado
+5 Proteções de Maphr",
+30130012,Conj. Pedra Quebra Limite Grau SR,"100.000 de adena
+1 Pedra de Quebra de Limite Grau SR",
+30130013,Conj. Perg. Aprim. Alto Grau (10%),@30130001,
+30130014,Conj. Pedra de Melh. Especial (10%),@30130002,
+30130015,Conj. Pedra de Melh. Especial (20%),@30130002,
+30130016,Conj. Perg. Aprim. Abençoado (10%),@30130006,
+30130017,Conjunto Caixa Equipamento Raro Grau S,"300 Diamantes Vermelhos
+1 Caixa de Equipamento Exclusiva de Grau S Rara",
+30130018,Conjunto de Acessórios de Grau A,"300 Diamantes Vermelhos
+1 Caixa de Acessórios de Grau A",
+30130019,Conjunto de Caixa de Equip. Grau S,"1 Caixa de Arma Exclusiva de Grau S
+1 Caixa de Armadura Exclusiva de Grau S",
+30150000,Conj. Fortalecimento Montaria I,"100.000 de adena
+40 Pedras de Avanço
+10 Vernizes de Equipamento de Montaria de Grau B
+5 Pergaminhos de Aprimoramento de Montaria",
+30150001,Conj. Fortalecimento Montaria II,"150.000 de adena
+80 Pedras de Avanço
+10 Vernizes de Equipamento de Montaria de Grau A
+5 Pergaminhos de Aprimoramento de Montaria",
+30150002,Conj. Fortalecimento Montaria III,"300.000 de adena
+120 Pedras de Avanço
+10 Vernizes de Equipamento de Montaria de Grau S
+10 Pergaminhos de Aprimoramento de Montaria",
+30150003,Conjunto Especial da Dama Brilhante,"1.000 Diamantes Azuis
+1 Flauta de Vinculação Santo de Prata
+1 Pedra de Evocação de Santo de Prata
+40 Pedras de Avanço
+5 Pergaminhos de Aprimoramento de Montaria",
+30150004,Conjunto de Evocação de Kukurin,"1.500 Diamantes Azuis
+1 Flauta de Vinculação Kukurin
+1 Pedra de Evocação de Kukurin
+40 Pedras de Avanço
+5 Pergaminhos de Aprimoramento de Montaria",
+30160000,Diamante de Fortalecimento I,"Até 1.500 Diam. Verm. e Cx. Evocação de Arma Exclusiva Grau A instantaneamente!
+Consiga 8.500 Diam. Verm., Cx. de Armadura Exclusiva Grau A e uma Caixa de Seleção de Cristal Anímico Grau C ou B!",
+30160001,Diamante de Fortalecimento II,"Até 1.500 Diam. Verm. e Cx. Evocação de Arma Exclusiva Grau S instantaneamente!
+Consiga 8.500 Diam. Verm., Cx. de Armadura Exclusiva Grau S e uma Caixa de Seleção de Cristal Anímico Grau B ou A!",
+30160002,Diamante de Fortalecimento III,"Até 1.500 Diamantes Vermelhos e uma Pedra de Atributo de Grau S podem ser adquiridos instantaneamente! 
+Ganhe até 8.500 Diamantes Vermelhos, uma Caixa de Seleção de Cristal Anímico de Grau A e/ou uma Pedra de Atributo de Grau S!",
+30170000,História I,"Adquira 1.000 Diam. Verm. Instantaneamente e uma recompensa cada vez que você concluir uma história antes da história de Dion!
+Você receberá recompensas até mesmo por histórias concluídas antes da compra!",
+30170001,História II,"Consiga 2.000 diamantes vermelhos + Proteção de Maphr agora e uma recompensa a cada vez que você concluir uma história antes da história de Giran!
+Você receberá recompensas até mesmo por histórias concluídas antes da compra!",
+39005000,1 Caixa Material Fort. do Clã Alto grau,"Vários materiais de fortalecimento estão disponíveis,
+como vernizes, materiais de elixir e proteções de Maphr!",
+39005001,10 Cxs. M. Fort. (Alto Grau) (+1 bônus),@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"Vários materiais de fortalecimento estão disponíveis,
+como vernizes, materiais de elixir e proteções de Maphr!
+100% de chances de obter Verniz Grau R ou superior!",
+39005004,1 Caixa de Material de Montaria,"Pode adquirir Equipamento de Montaria,
+Pedra de Evocação,
+Pedra de Avanço,
+Pergaminho de Aprimoramento de Equipamento de Montaria!",
+39005005,10 Caixas Material Montaria (+1 bônus),@39005004,
+39005010,1 caixa de material de montaria de alto grau,"Flauta de montaria, Pedra de Evocação, Fragmento de Pedra de Evocação,
+Equipamento de Montaria, Pergaminho de Aprimoramento de Montaria e Pedra de Avanço disponível!
+(Flauta do Leão com Juba, Pedra de Evocação, Fragmento de pedra de evocação incluídos)",
+39005011,10 Cxs. de mat. de montar. de alto grau (+1 bônus),@39005010,
+30014000,Cx. de Sel. de Concl. Automátic.,Use para selecionar e adquirir 1 Bilhete de Conclusão Automática.,
+30014001,@10029,@10029,
+30014002,10 de PH,Esses pontos são usados para melhorar as habilidades.,
+30014003,5 Fragmentos de Proteção de Maphr,Combine fragmentos para ganhar a Proteção de Maphr.,
+30014004,Cx. Seleção Perg. Aprimoramento,Adquira 1 Caixa de Seleção de Pergaminhos de Aprimoramento.,
+30014005,Cx. Pedra Evocação Monstro Raro,Use para conseguir Pedras de evocação de monstro raro aleatórias.,
+30014006,10 Cxs. Frag. Pedra Evocação Chefe,Use para conseguir Fragmentos de Pedra de Evocação de Monstro aleatórios.,
+30014007,Caixa de Seleção de Essências de Elixir,Use para selecionar e adquirir 1 Essência de Elixir.,
+30014008,Caixa de Verniz de Grau C - A,Adquira 1 Caixa de Verniz de Grau C - A,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,Evento 340 Diamantes,"340 Diamantes Azuis
+5 Caixas de Seleção de Verniz de Grau A",
+38000001,@30001050,"700 Diamantes Azuis
+de Pergaminhos de Aprimoramento x10",
+38000002,@30001060,"1080 Diamantes
+Seleção Pedra de melhoria x10",
+38000003,@30001110,"4000 Diamantes
+Seleção Pedra de melhoria x30",
+30130020,Conjunto Fortalecedor de Equipamento de Grau R Comemorativo de Aprimoramento do Cerco Aberto,"200.000 de adena
+2 Caixas Sortidas de Verniz de Grau R
+5 Caixas Sortidas de Verniz de Grau S",
+30130021,Conjunto Comemorativo de Aprimoramento do Cerco Aberto,"1.000 Diamantes Vermelhos
+50 Topázios
+5 Conjuntos de Pergaminho de Aprimoramento
+3 Proteção de Maphr",
+30110018,Pacote categoria 1,Pacote categoria 1 comprado.,
+30110019,Pacote categoria 2,Pacote categoria 2 comprado.,
+30110020,Pacote categoria 3,Pacote categoria 3 comprado.,
+30110021,Pacote categoria 5,Pacote categoria 5 comprado.,
+30110022,Pacote categoria 10,Pacote categoria 10 comprado.,
+30110023,Pacote categoria 16,Pacote categoria 16 comprado.,
+30110024,Pacote categoria 20,Pacote categoria 20 comprado.,
+30110025,Pacote categoria 24,Pacote categoria 24 comprado.,
+30110026,Pacote categoria 30,Pacote categoria 30 comprado.,
+30110027,Pacote categoria 40,Pacote categoria 40 comprado.,
+30110028,Pacote categoria 45,Pacote categoria 45 comprado.,
+30110029,Pacote categoria 50,Pacote categoria 50 comprado.,
+30110030,Pacote categoria 54,Pacote categoria 54 comprado.,
+30110031,Pacote categoria 56,Pacote categoria 56 comprado.,
+30110032,Pacote categoria 58,Pacote categoria 58 comprado.,
+30110033,Pacote categoria 60,Pacote categoria 60 comprado.,
+5022,10 Caixas de Fortalecimento de Alto Grau (+1 bônus),"Vários materiais de fortalecimento, como Cristais Anímicos, Pergaminhos Abençoados, Essências de Elixir e Proteções de Maphr estão disponíveis!
+Adquira diversos materiais de fortalecimento!",
+6002,Pedra de Melhoria de Arma,"Um item usado para
+melhorar uma arma.",
+6003,Pedra de Melhoria de Armadura,"Um item usado para
+melhorar uma parte de armadura.",
+6004,Pedra de Melhoria de Acessório,"Um item usado para
+melhorar um acessório.",
+6005,Pergaminho: Aprimorar Arma,"Um pergaminho usado para
+aprimorar uma arma.",
+6006,Pergaminho: Aprimorar Armadura,"Um pergaminho usado para
+aprimorar uma parte de armadura.",
+6007,Pergaminho: Aprimorar Acessório,"Um pergaminho usado para
+aprimorar um acessório.",
+6008,@3005,@3005,
+6015,Caixa Seleção Pedra Ev. Chefe de Grupo,"Use para selecionar e adquirir
+uma Pedra de Evocação de Chefe.",
+6020,1 Caixa de Arma Especial,"Adquirir uma arma (S - SR)!
+Você pode adquirir Equipamento Raro!",
+6021,1 Caixa de Armadura Especial,"Adquirir uma parte de armadura (S - SR)!
+Você pode adquirir Equipamento Raro!",
+6022,1 Caixa de Avanço Especial,"Equipamento (R - SR) ou equipamento raro (S - SR)
+disponível!",
+8002,Diamante de Login,"Adquirir 600 Diamantes Vermelhos imediatamente!
+Adquirir um total de 2.000 Diamantes Vermelhos e receber runas, ervas e pergaminhos todos os dias!",
+30004243,Bênção de Einhasad (+200%),Use para aumentar em 200% a exp. de caçada de campo e exp. de extração. (1 hora),
+30004244,1500 Disparos Anímicos,@4009,
+30004245,@10029,@10029,
+30004246,5 Pergaminhos de Fuga,@4101,
+30004247,15 Megafones,@4013,
+30004248,50 Pão Fresco,Use na Sede do Clã ao preparar banquetes.,
+30004249,50 Hortaliças Frescas,@30004248,
+30004250,50 Carne Suculenta,@30004248,
+30004251,Núcleo de Barbaprata,"Núcleos de monstros que contêm energia de Barbaprata.
+Registre no Códice de Monstros para aumentar seus atributos.",
+30004252,Caixa de PH Pequena,"Essa caixa pequena contém PH.
+Use para ganhar 100 PH.",
+30004253,Caixa de Pergaminho de missão de grau S,Use para receber um Pergoaminho de missão de Grau S.,
+30004254,20 Poções de PV Grandes,Use para restaurar grande quantidade do PV.,
+30004255,20 Poções de PM Grandes,Use para restaurar grande quantidade do PM.,
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Conjunto de Ervas,"Esta caixa contém ervas necessárias para fabricar elixires.
+Use para conseguir uma erva de cada tipo.",
+30004263,Caixa Aleatória Cristal Anímico Grau A-S,Adquira 1 Caixa Aleatória de Cristal Anímico de Grau A-S.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Perg. de aprimoram. de eq. de montaria,Esse pergaminho aprimora Equipamento de montaria e aumenta os atributos.,
+30004270,Caixa de seleção de Acessórios Grau S,Use para selecionar e adquirir um acessório de grau S da lista.,
+30004271,Caixa de Seleção de Página de Pergaminho Esquecido,Use para selecionar e adquirir uma Página de Pergaminho Esquecido da lista.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Conjunto de fortalecimento de fim de ano,"<Os itens relacionados abaixo estão disponíveis!>
+500.000 de adena
+5 Caixas de Seleção de Vernizes Grau R
+2 Caixas de Seleção de Vernizes Grau SR
+15 Caixas de Seleção de Pedra de Melhoria",
+30004275,Conjunto Especial de Adena 2018,"Peguem as suas meias!
+2.018.000 de adena!",
+30005015,1 vez só! 10 Equipamentos de Alto Grau (+1 Grau R),"Adquira equipamento A - SR!
+Pelo menos um equipamento de grau R ou superior é garantido!",
+30005016,Caixa de equipamentos raros para férias,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 Poções de PV Grandes,Use para restaurar grande quantidade do PV.,
+30004282,100 Poções de PM Grandes,Use para restaurar grande quantidade do PM.,
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,Caixas Selecionadas com 10 Armas Raras (+1 bônus),"[Disponível por tempo limitado]
+Ganhe um equipamento [Grau A- SR] aleatório
+Com 1.200 Diamantes Azuis!
+Chance aumentada de aparecer uma arma rara!",
+39005007,Caixas Selecionadas com 10 Armaduras Raras (+1 bônus),"[Disponível por tempo limitado]
+Ganhe um equipamento [Grau A- SR] aleatório
+Com 1.200 Diamantes Azuis!
+Chance aumentada de aparecer uma armadura rara!",
+39005008,Caixas Selecionadas com 10 Equipamentos de Atributos de Chefe (+1),"[Disponível por tempo limitado] Armas e Armaduras podem ser adquiridas [Grau A - SR]!
+Equipamento com atributos úteis contras chefes!",
+39005009,Caixas Selecionadas com 10 Equipamentos de Atributos de Elite (+1),"[Disponível por tempo limitado] Armas e Armaduras podem ser adquiridas [Grau A - SR]!
+Equipamento com atributos úteis contra monstros de elite!",
+39009000,@30110015,"1.000 Diamantes Azuis
+1 Caixa de Armadura Rara Exclusiva Grau S
+1.000 Fragmentos de Runa
+[Nível necessário para compra: 16]",
+39009001,@30110016,"3.500 Diamantes Vermelhos
+1 Caixa de seleção de equipamentos exclusiva grau R
+1 Pedra de atributo de grau SR
+[Nível necessário para compra: 44]",
+39009002,@30110017,"3.500 Diamantes Vermelhos
+1 Caixa de seleção de Acessório de Grau R
+1 Pedra de Quebra de Limite de grau SR
+[Nível necessário para compra: 73]",
+39009003,Conjunto de Aventureiro Elite,"2.000 Diamantes Vermelhos
+1 Pedra de atributo de grau SR
+3 Proteções de Maphr
+[Nível necessário para compra: 121]",
+39009004,Conjunto de Aventureiro da Nobreza,"2.000 Diamantes Vermelhos
+200.000 de adena
+1 Pedra de Quebra de Limite de grau SR
+1 Pedra de atributo de grau SR
+[Nível necessário para compra: 151]",
+39009005,Conjunto de pedra de melhoria leve,"250 Diamantes Vermelhos
+25.000 de adena
+4 Caixas de Seleção de Pedra de melhoria",
+39009006,Conjunto de Pedra de Melhoria,"1.500 Diamantes Vermelhos
+100.000 de adena
+.20 Caixas de Seleção de Pedra de melhoria",
+39009007,Conjunto de pedra de melhoria especial,"3.300 Diamantes Vermelhos
+250.000 de adena
+40 Caixas de Seleção de Pedra de melhoria",
+39009008,Conjunto de aprimoramento,"4 Pergaminhos de aprimoramento Arma
+4 Pergaminhos de aprimoramento Armadura
+4 Pergaminhos de aprimoramento Acessório
+1 Proteção de Maphr
+15 Topázios",
+39009009,Conjunto Especial de Aprimoramento,"15 Pergaminhos de aprimoramento: Arma
+15 Pergaminhos de aprimoramento: Armadura
+15 Pergaminhos de aprimoramento: Acessório
+3 Proteções de Maphr
+50 Topázios",
+39009010,Conjunto de Pergaminho Abençoado Leve,"150 Diamantes Vermelhos
+1 Pergaminho Abençoado: Caixa de Seleção de Aprimoramentos
+20 Fragmentos de Proteção de Maphr",
+39009011,Conjunto de Pergaminho Abençoado,"1.000 Diamantes Vermelhos
+20 Topázios
+5 Pergaminhos Abençoados: Caixas de Seleção de Aprimoramento
+1 Proteção de Maphr",
+39009012,Conjunto de Pergaminho Abençoado Especial,"2.000 Diamantes Vermelhos
+50 Topázios
+10 Pergaminhos Abençoados: Caixas de Seleção de Aprimoramento
+2 Proteções de Maphr",
+39009013,Conjunto de aprimoramento de Montaria,"300.000 de Adena
+120 Pedras de Avanço
+10 Caixas de Vernizes de Equipamento de Montaria de Grau S
+10 Pergaminhos de Aprimoramento de Montaria",
+30004325,Conjunto de aprimoramento Leve,"50.000 de adena
+4 pergaminhos de aprimoramento: Arma
+4 pergaminhos de aprimoramento: Armadura
+4 pergaminhos de aprimoramento: Acessório
+20 Fragmentos de Proteção de Maphr",
+30004326,Pergaminho de Alquimia - Pergaminho Abençoado: Arma,@30004108,
+30004327,Pergaminho de Alquimia - Pergaminho Abençoado: Armadura,@30004109,
+30004328,Pergaminho de Alquimia - Pergaminho Abençoado: Acessório,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,Caixa de Seleção de Vernizes de grau S,@30004218,
+30004334,Caixa de Seleção de Vernizes de grau R,@30004222,
+30004335,Caixa de Seleção de Vernizes de grau SR,@30004223,
+30004336,Caixa de Seleção de Pedra de Melhoria,@30004201,
+30004337,Caixa de Seleção de Pergaminhos de Aprimoramento,@30004206,
+30004338,@3005,@3005,
+30004339,Energia de atributo,Adquira uma Energia de atributo.,
+30004340,Energia de quebra de limite,Adquira uma energia de quebra de limite.,
+30004341,Conjunto Cristal Anímico Leve,"100.000 de adena
+3 Caixas Aleatórias Cristal Anímico Grau A",
+30004342,2 Cristais Anímicos de Ataque de Grau B,@30004303,
+30004343,2 Cristais Anímicos de Defesa de Grau B,@30004304,
+30004344,2 Cristais Anímicos de Precisão de Grau B,@30004307,
+30004345,2 Cristais Anímicos de Evasão de Grau B,@30004307,
+30004346,2 Cristais Anímicos de Taxa de Crítico de Grau B,@30004309,
+30004347,2 Cristais Anímicos de Resist. a Crítico de Grau B,@30004306,
+30004348,2 Cristais Anímicos de PV de Grau B,@30004311,
+30004349,Conjunto de fortalecimento de Montaria Leve,"50.000 de adena
+25 Pedras de Avanço
+2 Vernizes de Equipamento de Montaria de Grau S
+2 Pergaminhos de Aprimoramento de Montaria",
+30004350,10 Fragmentos de Pedra de Evocação de Urso-Negro,@30004111,
+30004351,10 Fragmentos de Pedra de Evocação de Santo de Prata,@30004112,
+30004352,10 Fragmentos de Pedra de Evocação de Kukurin,@30004113,
+30004353,10 Pedras de Avanço,@30004126,
+30004354,Visor de Aço Grau A,Visor bastante resistente para montaria.,
+30004355,Sela de Aço Grau A,Sela bastante resistente para montaria.,
+30004356,Armadura de Aço Grau A,Armadura bastante resistente para montaria.,
+30004357,Botas de Aço Grau A,Botas bem resistentes para montaria.,
+30004358,500 Fragmentos de Runa,Ganhe 500 fragmentos de runa.,
+39009014,@39009010,"200 Diamantes Vermelhos
+50.000 de adena
+1 Pergaminho Abençoado: Caixa de Seleção de Aprimoramentos
+5 Caixas de Seleção de Pergaminhos de Aprimoramento",
+39006001,Conjunto Comemorativo de 100 Dias de Revolution I,"50 Diamantes Vermelhos
+500 Disparos Anímicos
+50 Poções de PV
+50 Poções de PM
+5 Caixas Aleatórias de Pedra de Melhoria",
+39006002,Conjunto Comemorativo de 100 Dias de Revolution II,"100 Diamantes Azuis
+100 Pedras Estelares Vermelhas
+100 Poções de PV
+100 Poções de PM
+Caixa de Armadura Rara Exclusiva Grau S",
+39006101,Caixa de Sel. Arma Rara Comemorativa de 100 dias,Use para ganhar uma Arma(s) Rara(s) de Grau S selecionada.,
+39006102,@3008,@3007,
+39006003,Conjunto Limitado Especial do Leão com Juba,"1 Pedra de Evocação de Leão com Juba
+1 Flauta de Leão com Juba
+500 Pedras de Avanço
+10 Pergaminhos de Apr. Montaria
+500.000 de adena",
+39006004,Conjunto limitado especial de fortalecimento de primavera,"100 Diamantes Vermelhos
+1 Verniz de Armadura Branco Puro Grau SR
+1 Verniz de Arma Branco Puro Grau SR",
+3016,Pedra de Evocação de Leão com Juba,1 Pedra de Evocação de Leão com Juba,
+30150005,Conjunto de Aprimoramento de Montaria Especial,"1.000 Diamantes Vermelhos
+200 Pedras de Avanço
+20 Caixas de Vernizes de Equipamento de Montaria de Grau S
+20 Pergaminhos de Aprimoramento de Montaria
+1 Caixa de Seleção de Pedras de Evocação de Montaria",
+30130022,Conjunto de Cristal Anímico Especial,"2.000 Diamantes Vermelhos
+200.000 de adena
+2 Caixas de Seleção de Cristal Anímico de Grau S.
+10 Caixas Aleatórias de Cristal Anímico de grau S - SR",
+39006103,Cx. de Sel. de Armadura Rara de Comemoração de 100 Dias,@39006101,
+30004359,@30004341,"200 Diamantes Vermelhos
+2 Caixas de Seleção de Cristal Anímico de Grau A",
+38000100,Recompensa de Cartão de Presente A,"400 Diamantes Vermelhos
+150.000 de adena
+3 Caixas Aleatórias de Pergaminho de Aprimoramento",
+38000200,Recompensa de Cartão de Presente B,"800 Diamantes Vermelhos
+500.000 de adena
+10 Caixas Aleatórias de Pergaminho de Aprimoramento",
+9667,Benefícios de Missão Diária (28 Dias),"1. Recurso de Pergaminho de Missão Automática
+2. Recurso de Missão Semanal Automática
+3. 3 Caixas de Pergaminho de Missão de Grau S entregues diariamente
+4. 1.200 Diamantes Vermelhos na compra",
+9668,Benefícios de Caçada Diária (28 dias),"1. Recurso de Venda de Item de Inventário Automático
+2. Bônus de caída de item + 20%
+3. Bônus de ganho de adena +20%
+4. 1 conclusão automática da masmorra entregue diariamente
+5. 20 Pontos de Lealdade entregues diariamente
+6. 1.200 Diamantes Vermelhos na compra",
+30180001,Conjunto de Apoio de Habilidade do Clã,"[Recompensa individual]
+1.500 [diamantes vermelhos]
+[Caixa de Página de Pergaminho Esquecido Aleatório]
+[Caixa de Seleção de Página de Pergaminho Esquecido]
+[Recompensa de Membro do Clã]
+1 [Pacote Compacto de Disparo Anímico]
+10 [PH]
+10 [Poções de PV Grandes]",
+30180002,Conjunto de Apoio de Fortalecimento do Clã,"Recompensa individual:
+2.000 [diamantes vermelhos]
+5 [Caixas de Seleção de Pergaminho Abençoado]
+3 [Proteções de Maphr]
+Recompensa de membro de clã:
+2 [Caixas de Seleção de Pergaminho de Aprimoramento]
+5 [Fragmentos de Proteção de Maphr]",
+30150006,Conjunto de Leão com Juba,"1 [Pedra de Evocação de Leão com Juba]
+1 [Trompa de Vínculo de Leão com Juba]
+300 [Pedras de Avanço]
+10 [Caixas Aleatórias de Equipamento de Montaria de Grau A - S]
+200.000 [Adena]",
+39006005,Conjunto especial raro de Armadura Vermelha,"1 [Caixa de Seleção de Armadura de Égide de Grau SR]
+5 [Vernizes de Armadura de Grau SR]
+300.000 [Adena]
+5 [Pergaminhos Abençoados: Armadura]",
+39006006,Conjunto de Armadura da Paciência,"1 [Caixa de Seleção de Armadura de Paciência de Grau SR]
+1 [Pedra de Atributo de Grau R]
+100.000 [Adena]
+2 [Pergaminhos Abençoados: Armadura]",
+39006007,Conjunto de Armadura da Proteção,"1 [Caixa de Seleção de Armadura de Proteção de Grau SR]
+1 [Pedra de Atributo de Grau R]
+100.000 [Adena]
+2 [Pergaminhos Abençoados: Armadura]",
+30130023,Conjunto de Broche de Capa do Patrulheiro Sangrento,"1 [Broche de Capa do Patrulheiro Sangrento]
+100 [Fios de Capa]",
+30130024,Conjunto de Broche de Capa do Jardim,"1 [Broche de Capa do Jardim]
+30 [Fios de Capa]",
+30130025,Conjunto de Proteção de Maphr Especial,"10 [Proteções de Maphr]
+10 [Conjuntos de Pergaminho de Aprimoramento]
+30 [Topázios]",
+30130026,Conjunto de Fortalecimento de Capa,"100.000 [Adena]
+50 [Fios de Capa]
+5 [Fragmentos de Loucura]
+5 [Lágrimas de Trisha]
+10 [Topázio]",
+30130027,Conjunto de Fortalecimento de Capa Especial,"200 [Fios de Capa]
+40 [Fragmentos de Loucura]
+40 [Lágrimas de Trisha]",
+30004360,Conjunto de Fortalecimento de Capa Leve,"2 [Caixas de Seleção de Material de Fortalecimento de Capa]
+50.000 [Adena]",
+30004361,Fio de Capa,Material necessário para evoluir as capas.,
+30004362,Fragmento da loucura,Material necessário para evoluir a Capa da Destruição Vermelha. Use 1.000 fragmentos da loucura para fabricar um Broche da Capa da Destruição Vermelha.,
+30004363,Lágrima de Trisha,Material necessário para evoluir a Capa do Sangue Virtuoso. Use 1.000 lágrimas de Trisha para fabricar um Broche da Capa do Sangue Virtuoso.,
+30004364,Tecido Mágico,Material necessário para alterar subatributos.,
+30004365,Tecido Mágico da Destruição,Material necessário para alterar subatributos na Capa da Destruição Vermelha.,
+30004366,Tecido Mágico da Virtude,Material necessário para alterar subatributos na Capa do Sangue Virtuoso.,
+30004367,Agulha mágica,Material necessário para manter subatributos.,
+3017,20 Fragmentos da Loucura,@30004362,
+3018,20 Lágrimas de Trisha,@30004363,
+6023,80 Fios de Capa,@30004361,
+39006008,Conjunto de Diamantes Vermelhos,4.000 Diamantes Vermelhos,
+39006009,Conjunto Especial de Comemoração de Atualização,"10 [Bolsas Especiais de Comemoração de Atualização]
+(Use para adquirir aleatoriamente de 1 a 10 Proteções de Maphr ou Pergaminhos Abençoados.)
+1.000 Diamantes Azuis",
+39006010,Bolsa Especial de Comemoração de Atualização,"1 [Bolsa Especial de Comemoração de Atualização]
+(Use para adquirir aleatoriamente de 1 a 10 Proteções de Maphr ou Pergaminhos Abençoados.)",
+39006011,Conjunto raro de Armadura Vermelha,"1 [Caixa de Seleção de Armadura Égide Grau SR]
+1 [Verniz de Armadura Grau SR]
+100.000 de Adena
+1 [Pergaminho Abençoado: Armadura]",
+30014013,Caixa de Seleção de Vernizes de Equipamentos Grau S,Use para selecionar e adquirir um verniz de grau S.,
+30014014,Conjunto de Pergaminho de Aprimoramento,"Esta caixa contém pergaminhos de aprimoramento.
+Use para conseguir um pergaminho de aprimoramento de cada tipo.",
+30014015,@3005,"A proteção de Maphr, a deusa da terra, reside nessa gema.
+Esse item não permite que o nível de aprimoramento de seu equipamento caia ao falhar um novo aprimoramento.",
+30014016,Caixa de Seleção de Pedras de Evocação de Chefe,Use para selecionar e adquirir uma pedra de evocação de chefe.,
+30014017,50 Fios de Capa,@30004361,
+30014018,@30004367,@30004364,
+30014019,Caixa de Seleção de Pergaminhos Abençoados,Use para selecionar e ganha um dos itens seguintes: Pergaminho Abençoado: Aprimorar arma ou Pergaminho Abençoado: Aprimorar armadura ou Pergaminho Abençoado: Aprimorar Acessório.,
+30014020,@3008,@3007,
+30130028,Conjunto Raro de Armadura Azul Grau S,@30130010,

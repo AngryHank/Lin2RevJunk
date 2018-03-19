@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] se ha unido al clan.
+2,[Param1] ha abandonado el clan.
+3,El rango de [Param1] ahora es [Param2]{[Param2]|}.
+4,[Param1] es el nuevo líder de clan.
+5,El clan ha alcanzado el nivel [Param1]{[Param1]}.
+6,Se ha creado una alianza con [Param1].
+7,La alianza con [Param1] ha terminado.
+8,[Param1] le ha dado una recompensa a [Param2].
+9,[Param1] ha recompensado a todos los del clan.
+10,La conquista de [Param1] ha sido un éxito.
+11,¡Cambia el precio de apuesta de [Param1]!
+12,El precio de apuesta de [Param1] ha aumentado.
+13,Están atacando la base del asedio de [Param1].
+14,Han destruido la base del asedio de [Param1].
+15,Los billetes del festival se reiniciarán al comenzar Asedio al castillo. Corre y pide un bono.
+16,[Param1] ha iniciado sesión a las [Time].
+17,Se ha nombrado a [Param1] como nuevo jefe del clan por inactividad y ausencia del anterior jefe.
+18,Siguiente potenciador en [Param1] s.
+19,[Param1] ha derrotado a [Param2].
+20,El equipo azul ha obtenido [Param1]{[Param1]}.
+21,El equipo rojo ha obtenido [Param1]{[Param1]}.
+22,¡[Param1] lleva una racha de [Param2] muertes consec.!
+23,¡[Param2] de [Param1]: [Param3] muertes consec.!
+24,Camp. bat. honorable abierto. ¡Únete!
+25,Camp. bat. honorable en [Param1] m. ¡Prepárate!
+26,Camp. bat. osado abierto. ¡Únete!
+27,Camp. bat. osado en [Param1] m. ¡Prepárate!
+28,"[Param1] ha recompensado a [Param3] jugad., [Param2] incluido."

@@ -1,0 +1,108 @@
+Index,Name
+1,Étourdissement
+2,Brûlure
+3,Test Trait d'âme
+4,@2
+5,Poison
+6,@5
+7,Surchauffe
+8,@5
+9,Effet de développement
+10,Test Oui
+11,Test Monnaie
+12,Test PV
+13,Test Bouclier de mana
+14,Test Non
+15,Test Malédiction
+16,Test Saignement
+17,Test Brûlure
+18,Test Étourdissement
+19,Test Provocation
+20,Bouclier absolu
+21,Buff d'invincibilité
+22,Buff de durabilité
+23,Buff d'habileté
+24,Vitesse du blaireau
+25,Vitesse d'extraction du blaireau
+26,Nombre d'extractions du blaireau
+27,Factionnaire du jardin
+28,Effet de démarrage de Traits d'âme
+29,Effet d'utilisation de Potion de PV
+30,Effet d'utilisation de Potion de PM
+31,Effet de transfert de classe
+32,@31
+33,Buff de sanctuaire sur terrain 1
+34,Buff de sanctuaire sur terrain 2
+35,Buff de sanctuaire sur terrain 3
+36,Buff de sanctuaire sur terrain 4
+37,Buff de sanctuaire sur terrain 5
+38,Bouclier de Varkaron
+39,Varkaron en rage folle
+40,Varkaron en rage folle (arme)
+41,"Buff de faveur du seigneur 1 (PV, PM)"
+42,"Buff de faveur du seigneur 2 (EXP, Cœur)"
+43,"Buff de faveur du seigneur 3 (Adena, objet)"
+44,Caméra du buff de faveur du seigneur
+45,Augmentation des PM max.
+46,Augmentation des PV max.
+47,Augmentation de la DÉF
+48,Augmentation de la vitesse
+49,Augmentation de la VIT d'ATQ
+50,Augmentation de l'ATQ
+51,Reine fourmi en rage folle
+52,Bombe à retardement de fourmi 1
+53,Bombe à retardement de fourmi 2
+54,Bombe à retardement de fourmi 3
+55,Bombe à retardement de fourmi 4
+56,Bombe à retardement de fourmi 5
+57,Bombe à retardement de fourmi 6
+58,Cœur de Cruma : poison
+59,Cœur de Cruma : silence
+60,Cœur de Cruma : contrôle mental
+61,Barrière de Reine fourmi
+62,Cristal d'unité : base
+63,Cristal d'unité : palier 1
+64,Cristal d'unité : palier 2
+65,Cristal d'unité : palier 3
+66,Effet de Chevaucher/descendre
+67,Effet de la compétence de Marsha
+68,Effet d'utilisation de potion de la Salle du clan
+69,Potion de la Salle du clan : augmentation du moral
+70,Potion de la Salle du clan : tempête de glace
+71,Potion de la Salle du clan : augmentation de la régénération des PV
+72,Potion de la Salle du clan : anti-magie
+73,Lien
+74,Aura de dégâts de mêlée (décompte)
+75,Barrière de cristal aquatique
+76,Groupe furieux
+77,Domination
+78,Augmentation des dégâts de compétence
+79,@74
+80,@75
+81,@76
+82,@77
+83,Blessure de perforation
+84,Fatigue du démon de Marlox
+85,Héros de l'autel de vent
+86,Héros de l'autel de terre
+87,Anémie
+88,Vampirisation palier 1
+89,Vampirisation palier 2
+90,Vampirisation palier 3
+91,Vampirisation palier 4
+92,Vampirisation palier 5
+93,Changement vampirique
+94,Ramog_Débuff Allumage
+95,Ramog_Débuff d'explosion en attente sur utilisateur
+96,Effet de feu d'artifice 1
+97,Effet de feu d'artifice 2
+98,Effet de feu d'artifice 3
+99,Effet de feu d'artifice 4
+100,Drainage de PV forcé
+101,Effet de cape : barrière d'immunité aux attaques JcE
+102,Effet de cape : barrière de compétence rare JcJ
+103,Zaken en rage folle
+104,Changement de Zaken
+105,Récompense de terrain
+106,Récompense de contribution de boss
+107,Dégâts finaux de boss

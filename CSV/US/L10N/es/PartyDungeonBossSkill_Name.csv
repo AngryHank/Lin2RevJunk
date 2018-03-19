@@ -1,0 +1,161 @@
+ID,SkillName,SkillDesc
+1,Objetivo identificado,"Selecciona un <YellowBold>objetivo</> de entre los jugadores cercanos.
+Esta habilidad es muy rápida,
+por lo que no se podrá evadir si se encuentran dentro del alcance.
+
+El objetivo quedará <YellowBold>aturdido</> y no podrá moverse."
+2,Lanzamiento de hacha,"Lanza un hacha al objetivo para infligir <YellowBold>daño fijo</>.
+<YellowBold>El daño infligido se divide</>
+entre los objetivos alcanzados por el hacha.
+Los objetivos alcanzados por el hacha sufrirán <YellowBold>Brasas</>.
+
+<YellowBold>Las brasas</> explotarán tras un periodo de tiempo
+y <YellowBold>derribarán</> a los objetivos alcanzados.
+Bajo los objetivos aparecerán <YellowBold>llamas</> que
+infligirán daño adicional."
+3,Rotura,Inflige daño a los objetivos que se encuentren dentro del <YellowBold>alcance frontal</>.
+4,Hoja lunática,"Inflige daño a los objetivos que se encuentren dentro de un área cónica.
+Los objetivos alcanzados sufrirán <YellowBold>Ignición</>.
+
+Los objetivos afectados por <YellowBold>Ignición</>
+recibirán <YellowBold>daño adicional por cada acumulación de Ignición</>
+cuando <RedBold>Brasa de Paagrio</> <YellowBold>explote</>.
+Ignición se acumula un máximo de 5 veces."
+5,Decadencia,"<RedBold>Ramog</> se mueve hacia el centro
+e inflige daño de AdE a <YellowBold>270 grados a su alrededor</>.
+Cuando se utiliza, esta habilidad <YellowBold>se activa 4 veces consecutivas</>.
+Cada vez que se activa, la dirección se modifica.
+Los objetivos alcanzados por Decadencia sufrirán <YellowBold>Ignición</>.
+
+Los objetivos afectados por <YellowBold>Ignición</>
+recibirán <YellowBold>daño adicional por cada acumulación de Ignición</>
+cuando <RedBold>Brasa de Paagrio</> <YellowBold>explote</>.
+Ignición se acumula un máximo de 5 veces."
+6,Preparar explosión,"<RedBold>Ramog</> se mueve hacia el centro
+e invoca a <RedBold>Brasa de Paagrio</>.
+
+La <RedBold>Brasa de Paagrio</> invocada se dirige hacia <RedBold>Ramog</>
+ y, cuando entra en contacto con <RedBold>él</>
+, se produce una gran explosión, provocando un daño devastador a todo lo que se encuentre en pantalla.
+
+Los objetivos afectados por <YellowBold>Ignición</>
+<YellowBold>sufrirán un daño proporcional a las acumulaciones de Ignición que tengan</>."
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Lanza un hacha al objetivo para infligir <YellowBold>daño fijo</>.
+<YellowBold>El daño infligido se divide</>
+entre los objetivos alcanzados por el hacha.
+Los objetivos alcanzados por el hacha sufrirán <YellowBold>Brasas</>.
+
+<YellowBold>Las brasas</> explotarán tras un periodo de tiempo
+y <YellowBold>derribarán</> a los objetivos alcanzados.
+Bajo los objetivos aparecerán <YellowBold>llamas</>
+que infligirán daño adicional.
+
+<YellowBold>- Existe una pequeña posibilidad</>
+de que lance el hacha <YellowBold>2 veces consecutivas</>."
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> se mueve hacia el centro
+e inflige daño de AdE a <YellowBold>270 grados a su alrededor</>.
+Cuando se utiliza, esta habilidad <YellowBold>se activa 4 veces consecutivas</>.
+Cada vez que se activa, la dirección se modifica.
+Los objetivos alcanzados por Decadencia sufrirán <YellowBold>Ignición</>.
+
+Los objetivos afectados por <YellowBold>Ignición</>
+recibirán <YellowBold>daño adicional por cada acumulación de Ignición</>
+cuando <RedBold>Brasa de Paagrio</> <YellowBold>explote</>.
+Ignición se acumula un máximo de 5 veces.
+
+<YellowBold>- Los ángulos de ataque de Ramog</>
+<YellowBold>varían según la salud de Ramog.</>"
+18,@6,"<RedBold>Ramog</> se mueve hacia el centro
+e invoca a <RedBold>Brasa de Paagrio</>.
+
+La <RedBold>Brasa de Paagrio</> invocada se dirige hacia <RedBold>Ramog</>
+ y, cuando entra en contacto con <RedBold>él</>
+, se produce una gran explosión, provocando un daño devastador a todo lo que se encuentre en pantalla.
+
+Los objetivos afectados por <YellowBold>Ignición</>
+<YellowBold>sufrirán un daño proporcional a las acumulaciones de Ignición que tengan</>.
+
+<YellowBold>- Se invocan 2 Brasas de Paagrio.</>"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Herida desgarradora,"Corta la carne del enemigo con una espada y <YellowBold>reduce su defensa</>.
+Se puede acumular un máximo de 3 veces."
+26,Explosión de sangre,"<YellowBold> Invoca coágulos de sangre </> a partir de la sangre que emana de la <YellowBold>herida profunda</> del enemigo.
+Los <RedBold>coágulos de sangre</> invocados se dirigen a los enemigos cercanos y se <YellowBold>autodestruyen</>."
+27,Anemia,"Al luchar en batallas intensas, los vampiros que luchen utilizando magia de sangre
+se volverán <YellowBold>vulnerables</> y recibirán <YellowBold>daño adicional</>."
+28,Potente succión de PV,"<YellowBold>Anemia</> facilita una <YellowBold>potente extracción de sangre</> de los enemigos cercanos.
+Solo se puede evitar aplicando <YellowBold>sangre de vampiro</> sobre el cuerpo
+para <YellowBold>engañar a la magia de sangre.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Corta la carne del enemigo con una espada y <YellowBold>reduce su defensa</>.
+
+<YellowBold>- Ahora se puede acumular hasta 5 veces.</>"
+34,@26,"Succiona la sangre de la <YellowBold>herida profunda</> de un enemigo <YellowBold>para invocar un coágulo de sangre</>.
+Los <RedBold>coágulos de sangre</> invocados buscan enemigos cercanos y se <YellowBold>autodestruyen</>.
+
+<YellowBold>- Se autodestruyen y producen Sangre ardiente.</>
+<YellowBold>- El contacto con Sangre ardiente provoca daños.</>"
+35,@27,@27
+36,@28,@28
+37,Infierno de sangre,"Cuando los <YellowBold>PV alcanzan el 50 %</>, Leonard se desespera.
+Es ese estado, <YellowBold>invocará una gran cantidad de coágulos de sangre</> e intentará realizar un ataque suicida."
+38,@25,"Corta la carne del enemigo con una espada y <YellowBold>reduce su defensa</>.
+
+<YellowBold>- Se puede acumular hasta 5 veces.</>"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirizar,"Utiliza magia de sangre para convertir al enemigo en un vampiro de manera progresiva.
+El objetivo pasará por <YellowBold>3 fases</>
+e <YellowBold>incrementará su ATQ</> en cada una de ellas, pero <YellowBold>reducirá su DEF</>."
+44,Cambio vampírico,"Si recibe <YellowBold>Vampirizar</> <YellowBold>3 veces</>,
+el objetivo se convertirá en un vampiro de forma temporal y <YellowBold>atacará a sus compañeros</>."
+45,Recargar sangre,"En batallas intensas, los vampiros que necesiten sangre
+para utilizar la magia deberán <YellowBold>convertirse en murciélagos</> para restaurar sangre.
+Los <RedBold>murciélagos</> volarán hacia los cadáveres de los soldados
+del <BlueBold>Grupo de avanzada de Giran</> y utilizarán <YellowBold>Succión de vida 3 veces</>."
+46,Rabia de sangre,"Los <RedBold>murciélagos</> le llevarán la sangre obtenida a Trisha.
+<RedBold>Trisha</> <YellowBold>recuperará salud</>
+según el número de murciélagos que lograron llevarle sangre y obtendrá <YellowBold>fuerza temporal.</>"
+47,Llegada de Zaken,"<YellowBold>Cuando transcurran 5 minutos de batalla</>, la invocación
+se completará y <YellowBold>aparecerá Zaken</>.
+Zaken <YellowBold>destruirá a todos los aventureros</> que amenacen a Trisha."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"Si recibe <YellowBold>Vampirizar</> <YellowBold>3 veces</>,
+el objetivo se convertirá en un vampiro de forma temporal y <YellowBold>atacará a sus camaradas</>.
+
+<YellowBold>- Los que se transformen en vampiro se volverán más fuertes.</>"
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Torrente de sangre,"Trisha, de espalda a la pared,
+invoca una gigantesca <YellowBold>ola de sangre</>."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

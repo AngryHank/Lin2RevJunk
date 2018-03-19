@@ -1,0 +1,577 @@
+Id,NpcName,DialogMessage
+1001,,
+1002,,
+2001,,
+2002,,
+3001,,
+3002,Liman Sorumlusu Psyche,Hoş geldin. Konuşkan Ada’ya ilk kez mi geliyorsun? Buraya dokunursan görevler otomatik olarak yapılır.
+4001,,
+4002,Lejyoner Yüzbaşısı Douglas,"Otomatik görev, görev tamamlandığında durur. Yeni göreve başlamak için dokun."
+6001,@4002,"Tamam, doğuştan yeteneklisin. Hadi başka bir görev dene."
+11001,Muhafız Yüzbaşısı Harold,Tüm eşyalarını envanterinde bulabilirsin.
+11002,,
+11003,@11001,"Oto-Kullan, en iyi ekipmanı kuşanman için hızlı ve kolay bir yöntemdir."
+11004,,
+11005,@11001,"Oto-Kullan senin gibi yeni maceracılar için çok yararlıdır, mutlaka kullanmalısın."
+11006,,
+12001,Feldheim,"<YellowBold>Güç Şerbeti</>, saldırılarını güçlendirir."
+12002,@12001,Güç Şerbeti’ni otomatik kullanıma almakla başla.
+12003,@12001,Güç Şerbeti sadece <YellowBold>saldırdığında</> kullanılır.
+12004,@12001,Diğer zamanlar yanında öylece dururlar.
+12005,@12001,Otomatik kullanmak istemiyor musun? Tekrar dokunman yeter.
+12006,@12001,"<YellowBold>Güç Şerbeti'ni her zaman Dükkan’da bulabilirsin</>, yedeklemeyi unutma!"
+12007,,
+13001,Niah,Hadi Günlük Zindanları öğrenelim.
+13002,@13001,Zindan menüsünden girebilirsin.
+13003,@13001,Buraya dokun.
+13004,@13001,Tüm zindanları görüyor musun?
+13005,@13001,"Eğitimini tamamlarsan, yakında tümünü keşfedebilirsin!"
+13006,@13001,Şimdi Günlük Zindan’a göz atalım.
+13007,@13001,"<YellowBold>Günlük Zindan</> içinde, <YellowBold>her gün farklı canavarlarla karşılaşırsın</>."
+13008,@13001,<YellowBold>Özel ödüller</> kazanmak için hepsini yenmelisin!
+13009,@13001,"Daha güçlü canavarlar daha iyi ödüller düşürür, o yüzden güçlenmeye bak."
+13010,@13001,Haydi içeri gir!
+13011,,
+13012,,
+13013,,
+13014,@13001,Yardım gerekirse Oto-Savaş açabilirsin.
+13015,,
+13016,,
+13017,,
+13018,@13001,Vay! Güçlü canavarlardan birini yendin!
+13019,,
+13020,@13001,Her gün sadece bir kaç kez girebilirsin ama merak etme! Giriş sayısı <YellowBold>her gün sıfırlanır</>.
+13021,,
+13022,,
+13023,@13001,"Eğer başarısız olursan <YellowBold>giriş hakkın azalmaz</>, o yüzden kendini sınamaktan korkma!"
+13024,@13001,İyi denemeydi. Belki gelecek sefere!
+13025,,
+14001,Hükümdar Daniel,"Başarımlarına bakıp, ödüllerini toplamanın vakti geldi."
+14002,@14001,İlk adım Hedefler başlığına girmek.
+14003,@14001,Böylece Başarımlar’a ulaşırsın.
+14004,@14001,<YellowBold>Başarımları</> tamamladığını onayla ve <YellowBold>ödüllerini</> topla.
+14005,@14001,Sıkı çalışıyorsun. Çoktan bazı <YellowBold>başarımları</> tamamlamışsın.
+14006,@14001,Haydi bu ödülü al!
+14007,,
+14008,@14001,Tebrikler. Takdire şayan faaliyetlerine göre <YellowBold>unvan ve değerler</> kazanırsın.
+14009,@14001,Ara sıra göz atmayı unutma.
+14010,@14001,"Çalışmaya devam et, emeğinin karşılığını hızla alacaksın."
+14011,@14001,"Başarım seviyen yükseldikçe, değerlerin de artacak ve günlük olarak destek eşyaları kazanacaksın."
+14012,@14001,Tamamlanabilecek <YellowBold>farklı başarımlar</> olduğunu unutma ve hiçbirini göz ardı etme.
+14013,,
+15001,Tüccar Anais,"Dükkan, işine yarayabilecek bir sürü eşyayla dolu."
+15002,@15001,@13003
+15003,@15001,"Bunun gibi. Neye benzediğini unutma, sonra çok işine yarayacak!"
+15004,@15001,Ne bekliyorsun? Aç hadi!
+15005,,
+15006,@15001,Vay! Harika bir ekipman!
+15007,@15001,Ekipmanları güçlendirmeyi biliyor musun? <YellowBold>Seviyelerini yükseltmelisin</>!
+15008,@15001,"<YellowBold>Her gün bir bedava Yüksek Dereceli Ekipman Sandığı</> kazanacaksın, uğramayı unutma!"
+15009,,
+16001,Demirci Ferron,"Ekipmanın <YellowBold>seviyesini yükseltmek</> istiyorsan, doğru adama rastladın. Konuşkan Ada’nın en iyi demircisi benim!"
+16002,@16001,Bu ekipmanı al. İşine yarayacaktır.
+16003,@16001,Hadi aldığın ekipmana bir göz atalım.
+16004,@16001,Zırh sayfasında olmalı.
+16005,@16001,Sana verdiğim ekipmanı seç.
+16006,@16001,Ekipmanın seviyesini Demirci’de yükseltebilirsin. Beni izle.
+16007,@16001,Demirci’de <YellowBold>ekipman kuvvetlendirmenin pek çok yolu</> vardır.
+16008,@16001,Seviye yükseltmeyi seç.
+16009,@16001,<YellowBold>Seviye Yükseltme</> diğer ekipmanları malzeme olarak kullanarak asıl kullandığın ekipmanı <YellowBold>geliştirir</>.
+16010,@16001,Bu hizmetin küçük bir ücreti var... Bedavaya yapsaydım sokaklara düşerdim!
+16011,@16001,Malzeme için bunu kullan. Hediye diyelim!
+16012,@16001,"Her şey hazır! Bu seferlik bedavaya yapacağım, aramızda kalsın!"
+16013,@16001,Malzemeler işlem sırasında yok olacak.
+16014,,
+16015,@16001,Tamam bitti! Hadi bir bakalım. Başarılı!
+16016,@16001,"Seviyesi arttığına göre, onu kullanmaya başla!"
+16017,@16001,Oto-Kullan ile bir dokunuş kadar kolay!
+16018,,
+16019,@16001,"Ekipman seviyesini artırmak, <YellowBold>savaşta gücünü yükseltmenin en kolay yoludur</>. Düşmanlar çok güçlüyse ekipman seviyesini yükseltmeyi dene."
+16020,,
+17001,Kızıl Kolcu Yzb Austin,Peki öyleyse! Hadi yetenek seviyesi yükseltmeye geçelim.
+17002,@17001,Başlamadan önce kullandığın yeteneklere bakalım.
+17003,@17001,Hadi yeteneklerine bir göz atalım.
+17004,@17001,Burada <YellowBold>yetenek seviyelerini</> artırabilir ve <YellowBold>yeteneklerin yerlerini değiştirebilirsin</>.
+17005,@17001,Yeteneklerin seviyesini yükseltmek için SP gerekir.
+17006,@17001,Sürekli oynayarak ve karakterin seviyesini yükselterek SP kazanabilirsin.
+17007,@17001,Pekala. Hadi <YellowBold>yeteneklerinin seviyesini artıralım</>.
+17008,@17001,Hmm. Bu yetenek olur.
+17009,@17001,Seviye yükseltme tuşunu görüyor musun? Cezbediyor değil mi?
+17010,@17001,<YellowBold>SP</> kullanarak <YellowBold>yeteneğin seviyesini artırabilirsin</>.
+17011,@17001,Normalde Adena harcaman gerekiyor... Ancak çok yardımcı olduğun için bu seferlik ben hallediyorum.
+17012,@17001,Oh! Bir şey daha var!
+17013,@17001,Pasif yetenekleri görüyor musun?
+17014,@17001,<YellowBold>Pasif yeteneklerin</> seviyesini de aynı şekilde artırabilirsin.
+17015,@17001,Önce bir yetenek seç.
+17016,@17001,Sonra SP ve Adena harcayarak seviyesini artırabilirsin.
+17017,@17001,"<YellowBold>Pasif yetenek</> etkileri hep etkindir, bu yüzden unutulabiliyorlar ama güçlenmek istiyorsan, onları es geçmemelisin."
+17018,,
+18001,Russel,"Arena, yeteneklerini test edebileceğin en iyi yerdir."
+18002,@18001,Savaş Alanı’nda bulabilirsin!
+18003,@18001,Arenayı gördün mü? Hazırlan!
+18004,@18001,Diğer maceracılara karşı <YellowBold>1’e 1 düellolar</> yapabilirsin. Kendini kanıtlayabileceğin yegane yer!
+18005,@18001,Listedeki 4 rakipten birini seç! Daha güçlü rakipleri yenerek daha da çok yükselebilirsin!
+18006,@18001,<YellowBold>Haftalık ödüller</> haftalık sıralamaya göre dağıtılır. Yüksek sıralara çıkmak için sıkı çalışmalısın!
+18007,@18001,Düellolarda Onur’un önemini unutma!
+18008,@18001,"Hem kazanana, hem de kaybedene Onur verilir!"
+18009,@18001,Üst sıralara çıkmak için Onur topla ve <YellowBold>ödüller</> kazan!
+18010,@18001,Hmm... şu an sende hiç Onur yok...
+18011,@18001,Ama bunu halletmek kolay!
+18012,@18001,Kararlı olursan daha fazla Onur ve daha iyi ödüller kazanırsın!
+18013,@18001,Eee? Gaza geldin mi?
+18014,@18001,"Mütevazılığa gerek yok, hadi düelloya!"
+18015,@18001,Başla'ya dokun. Rakibinin kim olduğunu kimse bilemez ama eminim sen kazanacaksın!
+18016,,
+18017,,
+18018,@18001,Biliyordum! Tebrikler!
+18019,,
+18020,,
+18021,,
+18022,@18001,Ahh... Çok yakındı! Neyse ki tekrar deneyebilirsin!
+18023,,
+19001,Akademisyen Eugene,Ekipman geliştirmenin başka bir yolunu göstereyim.
+19002,@19001,Birleştirme biraz daha düz bir yöntem ama iş görür.
+19003,@19001,Ekipman birleştirmek için Demirci’ye gitmemiz gerekiyor.
+19004,@19001,Burada ekipman birleştirebilirsin.
+19005,@19001,Aynı derece ve türden iki Svy. 30 ekipmanı birleştir ve bir üst dereceden bir ekipman elde et.
+19006,@19001,Hedef ekipman ve malzeme ekipmanı diye iki kategori vardır.
+19007,@19001,Hedef ekipmanın özelliklerini burada görebilirsin.
+19008,@19001,"Daha fazla zaman harcamayalım, birleştirme zamanı. Malzeme olarak bunu kullan."
+19009,,
+19010,@19001,Buraya dokun.
+19011,@19001,Bunu al ve malzeme olarak kullan.
+19012,,
+19013,@19001,Bu malzeme ekipmanını seç.
+19014,@19001,"Malzeme hazır ise, hadi birleştirelim."
+19015,@19001,Vakit kalmadı. Acele et.
+19016,,
+19017,@19001,Başardın! Hazırlıklar tamam gibi.
+19018,@19001,"Ekipmanı kullanmayı unutma! Oh! Birleştirme ile <YellowBold>asıl malzeme ekipmanıyla aynı tür ekipman elde edilir</>! Tamamdır, bol şans!"
+19019,,
+20001,Kızıl Kolcu Birliği Tğm Arthur,Klanları öğrenmek ister misin? Ana menüyü seç.
+20002,@20001,Klan tuşuna dokun.
+20003,@20001,Kafa dengin bir klana katılırsan daha iyi olur.
+20004,@20001,Üye olmanın pek çok faydası olduğunu göreceksin.
+20005,@20001,Ops! Ben de klanları anlatmadan klana katıl diyorum!
+20006,@20001,"<YellowBold>Kale Kuşatması</> ve <YellowBold>Şato Kuşatması</>'nda, kale veya şato ele geçirmek başka klanlar ile savaşırsın."
+20007,@20001,Ve tabii ki klanlar güçlenmedikçe rekabetçi olamazlar.
+20008,@20001,Tüm Aden halkı <YellowBold>Kale Kuşatması Festivali</> boyunca Kale Kuşatması'nı kimin kazanacağı üzerine <YellowBold>iddiaya girebilir</> ve ödüller kazanabilir.
+20009,@20001,"Hepsi bu değil! Bir klana üyeysen <YellowBold>güçlendirmeler, klan dükkanı, klan görevleri ve ödüller</>den faydalanabilirsin."
+20010,@20001,<YellowBold>Klanlara nasıl katılınır</> görelim.
+20011,@20001,Klana şu şekilde katılırsın.
+20012,@20001,Herkes inandığı birini klan lideri seçebilir ve birlikte en iyi olmak için çalışabilir!
+20013,@20001,"Bu klan liderlerinden birini beğendiysen, <YellowBold>Başvur</> tuşuna dokun!"
+20014,@20001,Heyecanla seçeceğin klanı görmeyi bekliyorum!
+20015,@20001,Veya kendi yolunu çizecek ve yeni bir güçlü klanın lideri olacaksın!
+20016,,
+21001,Theodore,<YellowBold>Kibir Kulesi</> adını duydun mu? Aden’deki herkes en az bir kez girmelidir.
+21002,@21001,Peki o zaman. Hadi Kibir Kulesi’ne girelim.
+21003,@21001,Kibir Kulesi'ne Zindan menüsünden giriş yapabilirsin.
+21004,@21001,Buraya dokun.
+21005,@21001,Sonu gözükmeyen kuleyi görüyor musun? İşte o Kibir Kulesi.
+21006,,
+21007,@21001,"<YellowBold>Kibir Kulesi</>, Elmoreden İmparatoru Baium tarafından inşa edildi."
+21008,@21001,"Bir zamanlar Sonsuzluk Kulesi diye anılırdı, öfkelenen Einhasad kuleyi canavarlar ile doldurdu."
+21009,@21001,Kulede yükseldikçe daha güçlü canavarlar ile karşılaşırsın ve daha iyi hazineler bulursun.
+21010,@21001,Merak ettin mi? Şu an en az ilk katı tamamlayabilecek güçtesin.
+21011,,
+21012,,
+21013,,
+21014,@21001,Fena sayılmaz.
+21015,,
+21016,@21001,"Önceden tamamladığın her kat için, her gün bir kez <YellowBold>Oto-Temizleme</> ile ek ödül kazanabilirsin."
+21017,@21001,Buradan her katın Oto-Temizleme ödülünü görebilirsin.
+21018,@21001,Oto-Temizleme ile <YellowBold>Run Parçası</> kazanabilirsin. Savaş gücün için kilit bir rol oynar.
+21019,@21001,Gelecek sefere daha fazla şey öğreteceğim.
+21020,,
+21021,,
+21022,@21001,Hmm... Yeterli eğitimi almamışsın...
+21023,@21001,Ekrana dokunarak geri dön.
+21024,,
+22001,@21001,Daha da güçlenmek için Run Parçalarını nasıl kullanacağını öğreteceğim. Run İşleme’yi kullanacağız.
+22002,@21001,Run işleme direkt karakterini geliştiren bir yöntemdir.
+22003,@21001,Run işlemeyi kendi başına denemek için bunları al.
+22004,@21001,Run işleme ile her runun özelliği <YellowBold>kalıcı</> olarak senin olur.
+22005,@21001,Run işleme için <YellowBold>Run Parçası</> gerekir. Evet bunlar Kibir Kulesi’nden oto-temizleme ile aldığın şeyler.
+22006,@21001,En basit run işlemeyi yapacağız.
+22007,@21001,Run işleme için gereken malzemeleri buradan görebilirsin.
+22008,@21001,Şimdi run işlemeyi dene.
+22009,,
+22010,@21001,İlk kez denediğin için sana gerekli malzemeleri veriyorum.
+22011,@21001,Hazırlıklar tamamlandı. İşlemeyi dene.
+22012,,
+22013,@21001,Ortadaki büyük runu fark ettin mi? O <YellowBold>Merkez Run</>.
+22014,@21001,Sayfalardaki runlarin hepsi aynı dereceye işlendiğinde <YellowBold>Merkez Run</> seviyesi artar.
+22015,@21001,"Merkez Run, diğer runlara oranla <YellowBold>daha fazla değer</> artışı sağlar."
+22016,@21001,Fark ettiğin üzere bu Merkez Run.
+22017,@21001,Merkez Runlar sayesinde harika özellikler kazanırsın.
+22018,@21001,Ve sonunda... İşlenecek runlar bu kadar değil.
+22019,@21001,Bunu kullanarak daha fazla run sayfası açabilirsin.
+22020,@21001,<YellowBold>Daha fazla sayfa açtıkça daha çeşitli ve güçlü runlar</> işleyebilirsin.
+22021,@21001,Ancak sonraki sayfayı açmak için <YellowBold>bir sayfadaki tüm runlar en az Svy. 2'ye</> işlenmiş olmalı.
+22022,@21001,"Run işleme sonucunda güçlü özellikler açığa çıkar, bu yüzden dikkatle hazırlık yapılması gerekir."
+22023,@21001,Peki o zaman! Run işleme ile ne kadar güçleneceğini görmeyi hevesle bekliyorum.
+22024,,
+23001,,
+23002,@21001,Hadi envantere bakalım.
+23003,@21001,Zırh sayfasını seç.
+23004,@21001,Sana verdiğim başlığı kullan.
+23005,@21001,Kullan'maya dokunmayı biliyorsun değil mi?
+23006,@21001,Eğer kuşandığın başlığı dikkatle incelersen...
+23007,,
+23008,@21001,Ruh Kristali slotunu görebilirsin.
+23009,@21001,"Ruh Kristali, canavarların ruhlarını barındıran cevherlerdir. Onları kullandığında <YellowBold>ruhun değerleri ekipmana uygulanır</>."
+23010,@21001,"Ruh Kristali’nin nitelikleri, değerleri belirler. Daha güçlü ruhlar <YellowBold>daha yüksek değer</> sağlar."
+23011,@21001,Ruh Kristallerini kullanarak <YellowBold>daha güçlülerini</> elde edebilirsin.
+23012,@21001,Bu ekipmana Ruh Kristali takacağız.
+23013,@21001,İşte o canavardan düşen Ruh Kristali.
+23014,@21001,Güzel. Hadi kullan.
+23015,@21001,Bravo. Şimdi Ruh Kristali’ni <YellowBold>geliştireceğiz</>.
+23016,@21001,<YellowBold>Geliştirme</> Ruh Kristali <YellowBold>derecesini yükseltmenin</> tek yoludur.
+23017,@21001,Şimdi geliştirmeye dokun.
+23018,@21001,Geliştireceğin Ruh Kristali’ni seç.
+23019,@21001,Seviye yükselte bas ve hazırsın.
+23020,@21001,Sonra Geliştir tuşuna dokun ve işlemi tamamla.
+23021,@21001,
+23022,@21001,Bravo. Haydi gidelim buradan.
+23023,@21001,"Daha iyi bir başlığın varsa, onu kullan."
+23024,@21001,Oto-Kullan’a dokun.
+23025,@21001,Ruh Kristali’ni sadece gerekli miktarda <YellowBold>aynı derece ve türde</> Ruh Kristali’n varsa <YellowBold>geliştirebilirsin</>.
+23026,@21001,"Ruh Kristali hakkında her şeyi gördün. Bir Ruh Kristali, kaybedecekken kazanmanı sağlayabilir. Akıllıca kullan."
+23027,@21001,집혼석 하나의 차이가 전투의 승패를 바꾸는 결과를 만들어 내지. 잘 이용하도록 해라.
+24001,@12001,Elit Zindan’a Zindan menüsünden giriş yapabilirsin.
+24002,@12001,Nasıl gidileceğini biliyorsundur.
+24003,@12001,Buraya dokun.
+24004,@12001,İşte! Elit Zindan’ı görüyor musun? Hadi seç.
+24005,,
+24006,@12001,"Arkeolog olduğum zamanlarda bulduğum yerler bunlar...
+Aden’in en korkunç canavarları burada görülür."
+24007,@12001,"Senin başa çıkamayacağın canavarlar olabilir, o yüzden <YellowBold>güvenilir yoldaşlar</> ile gir. Risk ne kadar büyükse, ödül de o kadar büyük olur."
+24008,@12001,Elit Zindan görevleri her gün lord tarafından duyurulur.
+24009,@12001,Her 5 görevi tamamladığında ek ödüller kazanacaksın.
+24010,@12001,Her gün bu zamanlarda günlük ek TP kazanabilirsin.
+24011,@12001,Elit Zindan’a tek girmek tehlikeli. Gruplar sayıca güvence verir.
+24012,,
+25001,@21001,Sana ekipman geliştirmeyi öğreteceğim.
+25002,@21001,Demirci’ye nasıl gidileceğini hatırlıyorsun değil mi?
+25003,@21001,@21004
+25004,@21001,Şimdi geliştirmeye dokun.
+25005,@21001,<YellowBold>Ekipmanın görünüşünü ve özelliğini koruyarak derecesini yükseltmek için</> Geliştirme Taşı kullan.
+25006,@21001,"Ekipmanı geliştirmek için, <YellowBold>ekipman türüne özel Geliştirme Taşı</> gerekir."
+25007,@21001,"Örneğin, aksesuar geliştirmek için <YellowBold>Aksesuar Geliştirme Taşı</> gerekir."
+25008,@21001,Olası Geliştirme sonucunu buradan görebilirsin.
+25009,@21001,Hadi aksesuar geliştirelim!
+25010,,
+25011,@21001,Geliştirmek için bu yüzüğe dokun.
+25012,@21001,Geliştirmeye başlamak için bu tuşa dokun.
+25013,,
+25014,@21001,Başarılı! Tebrikler.
+25015,@21001,Eğer <YellowBold>özellikle istediğin bir ekipmanı uzun vadeli kullanmak istiyorsan</> geliştirme özelliğini kullan.
+25016,@21001,Geliştirme Taşı’nın nadir ve zor bulunur olduğunu unutma.
+25017,,
+26001,Arındırıcı Peri,Parşömen kullanarak ekipman güçlendir.
+26002,@26001,Bir eşya seç.
+26003,@26001,Güçlendirme için Demirci’ye gitmen gerekir.
+26004,@26001,Güçlendirme tuşuna dokun.
+26005,@26001,Ekipman türüne göre o <YellowBold>ekipman türüne özel güçlendirme parşömeni</> gerekir.
+26006,@26001,"Unutma, <YellowBold>Kutsal Parşömenler</> tek seferde +3 güçlendirir."
+26007,@26001,Birden fazla ekipmanın güçlendirme seviyesini aynı yaptığın zaman bonus değerler kazanabilirsin. Eşit tutmanın karşılığını alırsın.
+26008,@26001,"Ekipmanın maksimum güçlendirme limitinin, derecesine göre belirlendiğini unutma."
+26009,@26001,Hadi bu silahı güçlendirelim.
+26010,,
+26011,@26001,Güçlendirme parşömenleri diğer sayfada.
+26012,@26001,Bir Parşömen: Silah Güçlendirme seç.
+26013,@26001,Hazır ol... güçlendirme başarısız da olabilir.
+26014,@26001,Hazırsan güçlendirmeye başla.
+26015,,
+26016,@26001,Başardın! Umarım beğenmişsindir.
+26017,@26001,Dikkat et. Başarılı güçlendirme ekipmanın değerlerini yükseltebilir ama başarısız olursa güçlendirme seviyesi düşebilir.
+26018,,
+27001,@12001,Sana Albüm’ü kullanmayı öğreteceğim. Takip et.
+27002,@12001,Albüm’ü Hedefler menüsünde bulabilirsin.
+27003,@12001,İşte geldik.
+27004,@12001,Canavarlardan topladığın Özleri <YellowBold>Albüm’e</> kaydedebilirsin. Albüm seviyesini artırmak ve <YellowBold>değerlerini yükseltmek</> için öz topla!
+27005,@12001,"Eğer <YellowBold>belirli bir bölgedeki tüm Canavar özlerini</> toplarsan, <YellowBold>değerlerin daha da fazla artar</>."
+27006,@12001,Sana <YellowBold>Özleri nasıl kaydedeceğini</> öğreteceğim.
+27007,@12001,"Çöl Tilkisi, Batı Konuşkan Ada’da çıkan bir canavardır. Onu seç."
+27008,@12001,Albüm tamamlamaya yetecek kadar Öz var. İyi. Albümü kaydet!
+27009,,
+27010,@12001,Bravo. Kolay değil mi?
+27011,@12001,Tüm canavarlar Öz düşürebilir ama sıradan canavarlar çok sık düşürmez.
+27012,@12001,<p>Avını <YellowBold>Namlı Canavarlara</> odakla. Öz düşürmeleri garanti.
+27013,,
+28001,@26001,Sana bildiğim bir nadir yeteneği öğreteceğim.
+28002,@26001,Yardımı dokunacaktır. Buradan...
+28003,@26001,"İşte, nadir yetenekleri öğrenebilirsin."
+28004,@26001,Unutulmuş Parşömen’i seç.
+28005,@26001,"<YellowBold>Nadir yetenekler</>, normal yeteneklerden farklıdır ve <YellowBold>hem güçlü hem de etkilidir</>. Her sınıftan karakter kullanabilir."
+28006,@26001,Ama nadir yeteneklerin normal yetenekler gibi seviye atlamadığını ve öğrenilmediğini unutma. Unutulmuş Parşömen’i tamamlamak için <YellowBold>Unutulmuş Parşömen sayfalarını</> toplamalısın.
+28007,@26001,Verdiğim yetenek sayfasını seç.
+28008,@26001,Unutulmuş Parşömen’i oluşturmalıyız.
+28009,,
+28010,@26001,Güzel oldu!
+28011,@26001,Bir nadir yetenek öğrenmek için <YellowBold>Unutulmuş Parşömen</> kullanabilirsin. Envanterine bak.
+28012,@26001,Haydi...
+28013,@26001,Buradan.
+28014,@26001,Acele et...
+28015,@26001,Envanterini aç.
+28016,@26001,Kılavuz burada.
+28017,@26001,Bu şimdi yapılan Unutulmuş Parşömen.
+28018,@26001,Yeteneği öğrenmek için dokun.
+28019,@26001,Bravo! Şimdi bir nadir yeteneği slota yerleştirmeyi dene.
+28020,@26001,Tamam. Yetenek yönetme sayfasına geri gidelim.
+28021,@26001,Burada.
+28022,@26001,Nasıl gidileceğini biliyorsun.
+28023,@26001,Ne yapacağını biliyorsun.
+28024,@26001,Bu öğrendiğin nadir bir yetenektir.
+28025,@26001,Nadir bir yeteneği kullanmak için nadir yetenek slotuna yerleştirmelisin.
+28026,@26001,Bir yeteneği yerleştirmek için buraya dokun.
+28027,@26001,Bravo. Nadir yetenekleri <YellowBold>akın baş düşmanlarında</> ve Pazar’da bulabilirsin.
+28028,@26001,Savaş sırasında nadir yetenekler inanılmaz etkilidir! toplayabildiğin kadar toplamaya bak.
+28029,,
+29001,Aymel,Hmm... Fildişi Kulesi’nin altındaki tünele bağlanan alanı Kara Mistik’in yapmış olması düşündürücü.
+29002,@29001,Fildişi Kulesi’nin altındaki tünel mi? <YellowBold>İksir</> üretiminde kullanılan özel bitkilerin olduğu yer.
+29003,@29001,Oraya tekrar mı gitmek istiyorsun? Şimdilik bunu kullan.
+29004,@29001,Zindan menüsünden gidebilirsin.
+29005,@29001,Buraya dokun.
+29006,@29001,Botanik Zindanı adı ile de bilinir.
+29007,,
+29008,@29001,Mevcut bitkileri bağlayıp değerlerini kalıcı artıran <YellowBold>İksirler</> yapabilirsin.
+29009,@29001,Ancak tüneldeki Nebullite yüzünden fazla kalamazsın. Fazla kalman oradaki varlıkları delirtebilir.
+29010,@29001,Sonuç olarak her gün belirli sayıda bitki toplayabilirsin.
+29011,,
+30001,@29001,"Büyülü bitkiler olması, şansın bizden yana olduğunu gösterir. Onları kullanarak <YellowBold>İksir</> yapabiliriz."
+30002,@29001,"Zamanımız az, beni iyi dinle."
+30003,@29001,Bir İksir üretmek için...
+30004,@29001,Karakter menüsüne git...
+30005,@29001,Ve İksir tuşuna dokun.
+30006,@29001,Burada İksir üretebilirsin. Üretim için <YellowBold>4 bitki</> gerekir.
+30007,@29001,"Farklı iksirlerin farklı etkileri vardır, dikkatle seç."
+30008,@29001,Hadi bir Can İksiri üretelim.
+30009,@29001,Malzemeler hazır. Hadi başlayalım!
+30010,,
+30011,@29001,İksirler <YellowBold>üretildikleri an kullanılırlar</>! Şimdiden güçlenmiş hissediyorsundur!
+30012,@29001,"İksir malzemelerini ayrıca Günlük Zindan, canavarlar ve Dükkan’dan da temin edebilirsin."
+30013,@29001,Toplayabildiğin kadar <YellowBold>bitki ve öz</> topla çünkü güçlenmen için çok önemliler.
+30014,,
+31001,Nine,"Siyah Ayı’ya nasıl bineceğini öğreteyim.
+Dikkatini ver, çabucak bir binici olacaksın."
+31002,@31001,Ana menüye git.
+31003,@31001,Karakter menüsüne dokun.
+31004,@31001,Binekleri seç.
+31005,@31001,Siyah Ayı’nın seçili olduğunu gördün mü?
+31006,@31001,Çağırmak için ona dokun!
+31007,@31001,Binebilmen için çağırdığın Siyah Ayı’nın geldiğine emin ol.
+31008,@31001,Hadi gidelim de binebil.
+31009,@31001,Bin’e dokun!
+31010,@31001,Bu arkadaş zaten sana bağlanmış! Lütfen onu güzel yetiştir!
+32001,Monta,"Eborga Dağı’nda dikkatli ol, Kresous orada yaşıyor. Binek Zindanı’ndaki iblislerden bahsetmiyorum bile."
+32002,@32001,Feldheim’in başı dertte olabilir!
+32003,@32001,Binek Zindanı’na buradan girebilirsin!
+32004,@32001,Buraya dokun.
+32005,@32001,Çabuk!
+32006,,
+32007,@32001,Oh! Binek Zindanı’na tek başına girmesen iyi olur. İçerisi çok tehlikeli!
+32008,,
+101001,@3002,Ana menü tuşuna dokun.
+101002,@3002,Şimdi arkadaş tuşuna dokun.
+101003,@3002,Maceralar arkadaşlarla daha eğlenceli geçer. Bu ekranda arkadaş ekleyebilir ve birbirinize selam göndererek <YellowBold>Arkadaşlık Puanı</> kazanabilirsin.
+101004,@3002,Oh! Seninle tanıştırmak istediğim bazı arkadaşlarım var!
+101005,@3002,Buraya. Önerilen arkadaşlara dokun!
+101006,@3002,Kafana yatan kimse var mı?
+101007,@3002,Arkadaş edinmenin pek çok avantajı var! Zorlu maceralara birlikte atılabilirsiniz! Birlikte hareket ederek devasa canavarları bile yenebilirsiniz!
+101008,,
+102001,@17001,Kolay. Sana göstereceğim!
+102002,@17001,Bir <YellowBold>grup kurabilir</> ve oyuncu toplayabilirsin.
+102003,@17001,<YellowBold>Grup ara</> ile başka birinin grubuna katılabilirsin.
+102004,@17001,"Eğer <YellowBold>Oto-Katıl</> kullanırsan, tercihlerine uyan bir gruba otomatik olarak katılırsın."
+102005,,
+104001,Tüccar Pan,Pazar nedir öğrenmek ister misin? Ana menü tuşuna dokun miyav.
+104002,@104001,"Miyav, Pazar tuşuna dokun."
+104003,@104001,Dükkanda satamayacağın kadar iyi ama envanterinde kullanılmadan duran eşyaların vardır illaki!
+104004,@104001,Pazar’da ekstra eşyaların için bir teklif bulabilirsin veya diğer oyunculardan nadir eşyalar alabilirsin!
+104005,@104001,"Arama seçimini yap ve Pazar görevlisi sana uygun, hoşuna gidebilecek eşyaları gösterecek!"
+104006,@104001,Bir şeyler sat miyav ve kendin gör!
+104007,@104001,Buraya. Görmek istediğin bu.
+104008,@104001,"Sen sadece eşyalarını ve satış fiyatlarını listele, gerisini biz hallederiz! Miyav, seni uyarmam lazım, taban fiyatın altına inemezsin."
+104009,@104001,"Bekle! Bu bir <YellowBold>Derece A</> eşya mı?
+Pazar sadece <YellowBold>S</> veya üzeri eşyaları kabul eder..."
+104010,@104001,Kişisel alma! Elimizdekilerin müşterilerin beklentilerini karşılaması lazım.
+104011,@104001,"Miyav öyleyse, buraya gel."
+104012,@104001,Şuna bak!
+104013,@104001,Verdiğin teklifleri ve eşyalarının satış durumunu görmek için bunu kullan!
+104014,,
+112001,Akademi Öğrencisi,Hadi Günlük Görevler nasıl çalışıyor görelim.
+112002,@112001,Başlamak için Hedefler’e dokun.
+112003,@112001,"Sonra, Görevler."
+112004,@112001,Şimdi de Günlük Görevler.
+112005,@112001,Her gün en fazla <YellowBold>12</> görev alabilir ve tamamlayabilirsin.
+112006,@112001,Ancak aynı anda en fazla 3 görevin aktif olabilir.
+112007,@112001,Görevlerini dikkatle seç - zorluğu ve ödülleri görevin derecesine göre belirlenir.
+112008,@112001,Görevlerini nasıl tamamlayabileceğini buradan görebilirsin.
+112009,@112001,Ayrıca görevlerin ödüllerini de görebilirsin.
+112010,@112001,Hadi bir göreve başlayalım ve görelim!
+112011,@112001,Bak görevin içeriği değişti.
+112012,@112001,Aldığın görevleri kendin tamamlayabilirsin veya <YellowBold>belirli bir süre geçtikten sonra otomatik olarak tamamlanır</>.
+112013,@112001,Veya sabırsızsan <YellowBold>anında tamamlamak için Adena harcayabilirsin</>.
+112014,@112001,Günlük Görev durumunu burada görebilir ve ek ödüller alabilirsin.
+112015,@112001,Buradan bekleyen görevlerini değiştirebilirsin.
+112016,@112001,<YellowBold>Görevleri derecesini değiştirerek</> daha hızlı güçlenebilirsin.
+112017,@112001,Şimdi faydalan yoksa sonra pişman olabilirsin!
+112018,,
+113001,@112001,Şimdi Haftalık Görevler’e gideceğiz!
+113002,@112001,@112002
+113003,@112001,"Sonra, Görevler."
+113004,@112001,Şimdi Haftalık Görevler’e dokun.
+113005,@112001,Bir hafta boyunca tamamlayabileceğin görevleri buradan alabilrsin.
+113006,@112001,En fazla <YellowBold>günde 15 görev</> tamamlayabilirsin.
+113007,@112001,Ödülleri almak istiyorsan sürekli görevleri tamamlamak için uğraşmalısın!
+113008,@112001,Devam eden görevlerin detaylarını buradan görebilirsin.
+113009,@112001,Hadi bir göreve başlayalım! Görevi Kabul Et’e dokun.
+113010,@112001,Haftalık Görevler’i sürekli tamamlayarak ödülleri topla!
+113011,@112001,Unutma - Haftalık Görevler hakkında en önemli şey <YellowBold>onları günlük olarak tamamlamak</>!
+113012,,
+114001,@29001,Sonunda <YellowBold>klan bağışı</> yapabilecek durumdasın!
+114002,@29001,Klan bağışlar sayesinde güçlenir!
+114003,@29001,Hadi nasıl bağış yapıldığını görelim.
+114004,@29001,Hadi Klan menüsüne gidelim.
+114005,@29001,Bağışla tuşuna dokun.
+114006,@29001,"Bağış için Adena,"
+114007,@29001,"Kan Nişanı,"
+114008,@29001,ve Kırmızı Yıldıztaşı kullanabilirsin.
+114009,@29001,"Bağışın, Kan Nişanı veya Kırmızı Yıldıztaşı kullanırsan daha ileri gider"
+114010,@29001,ama onları bulmak zordur.
+114011,@29001,Bu seferlik sana biraz Kan Nişanı vereceğim.
+114012,@29001,Kan Nişanı bağışlamayı dene.
+114013,@29001,Bağış ödüllerini almayı unutma!
+114014,@29001,Bağış skoru hangi klan üyesinin en fazla bağış yaptığını gösterir.
+114015,@29001,Ah! Neredeyse <YellowBold>Klan Parası</>’nı unutuyordum. Her bağış yaptığında Klan Parası kazanırsın ve Klan Dükkanı’ndan alışveriş yapabilir veya klan güçlendirmesi alabilirsin.
+114016,@29001,Hadi gidelim.
+114017,@29001,Burası sana daha önceden bahsettiğim Klan Dükkanı.
+114018,@29001,Burada hem klanın gelişimi için hem de senin kullanacağın eşyalar mevcut.
+114019,@29001,Bazen eşyalar sadece belirli koşulları erine getirdiğinde alınabilir ama bunun sana sorun olacağını sanmıyorum.
+114020,,
+115001,@29001,Ne? Daha <YellowBold>klan</> üyesi olmadın mı?!
+115002,@29001,Nasıl katılacağını hatırlatayım.
+115003,@29001,@114004
+115004,@29001,Beni takip edin.
+115005,@29001,Son tuşa dokun.
+115006,@29001,Tüm klanları görüyor musun?
+115007,@29001,Bir klana katılmanın pek çok faydası vardır!
+115008,@29001,Pişman olmayacağına eminim.
+115009,,
+116001,@29001,Umarım klanına alışıyorsundur.
+116002,@29001,Sana yeni bir şeyler öğretmenin zamanı geldi.
+116003,@29001,Hadi Klan menüsüne geri gidelim.
+116004,@29001,@115004
+116005,@29001,Sana Klan Başarımlarını göstermek istiyorum!
+116006,@29001,Tüm klan üyeleri Klan Başarımları’na katkı sağlar ve tamamlandıklarında tüm klan ödüller kazanır!
+116007,@29001,Bireysel ödüller her bireye gönderilir.
+116008,@29001,<YellowBold>Klan ödülleri Klan Deposuna gönderilir</>.
+116009,@29001,"Ancak ödüller sadece başarımlar belirli bir süre içerisinde tamamlanırsa verilir, bu yüzden bütün klan birlikte çalışmalı."
+116010,@29001,Başarımları tamamlamak için büyük miktarda işbirliği gerekir ama aynı zamanda klanı yakınlaştırır!
+116011,,
+117001,@29001,Klanda olmayı sevdin mi?
+117002,@29001,Sana klanlar hakkında çok önemli bir şey söylemem gerekiyor.
+117003,@29001,@114004
+117004,@29001,Bu bir Klan Zindanı!
+117005,@29001,Aynı klandan olan oyuncular Klan Zindanı’na birlikte girebilir ve güçlü baş düşmanlara kafa tutabilirler.
+117006,@29001,Klan Zindanı’nı fethetmek için klan üyeleri birlikte çalışmalıdır - klanın gücünü gerçekten sınayacaktır!
+117007,@29001,Zorlu bir savaş ama ödülleri buna değer!
+117008,@29001,"Klan Zindanı’nı denemek hem klan için, hem de kendini geliştirmek için iyi!"
+117009,@29001,Klan üyeleri birlikte hareket edin ve birlikte yenilmez olun!
+117010,,
+118001,@11001,Hoş geldin. <YellowBold>>Görev ilerleyişini</> buradan takip edebilirin.
+118002,@11001,"Burada <YellowBold>devam eden görevler</>, <GreenBold>tamamlanmış görevler</> ve yapılacak görevlerin hepsini görebilirsin."
+118003,@11001,Bak! Ek <YellowBold>ödülleri</> de görebiliyorsun.
+118004,,
+119001,@18001,"Sonunda üretim ilgini çekmeye başladı mı?<p>Hahaha!!! Beni çok mutlu ettin!<p>Bildiğin gibi Derece UR ekipmanlar sadece üretim ile elde edilebilir! Şimdi beni iyi dinle, sana her şeyi anlatacağım."
+119002,@18001,Başlamak için önce üretmek istediğin ekipmanı buraya yerleştir!
+119003,@18001,Üretmek istediğin ekipmanın planına ihtiyacın olacak!
+119004,@18001,Ve nadir bulan malzemelere veya biraz da oduna!
+119005,@18001,"Sıradaki neydi... Ah, evet! Işıyan Geliştirme Taşı gibi malzemelere ihtiyacın var!"
+119006,@18001,Son olarak da silah ve zırhlardan parçalayarak elde edebileceğin hurdalar!
+119007,@18001,Bu dört malzemeden elinde varsa Derece UR ekipman üretebilirsin!
+119008,@18001,"Ah! Neredeyse unutuyordum!<p> Sadece Svy. 30 Derece SR ekipman kullanarak Derece UR ekipman üretebilirsin!<p>Derece UR ekipman üstündeki güçlendirmeyi, limit kırmayı, altdeğerleri ve ek özellikleri korur!<p>Ve belirttiğim dört malzeme de ekipmanını güçlendirebilir. Bu tür malzemelerden birini bulduğun zaman ekipmanını güçlendirdiğine emin ol. Ekipmanlarının ne kadar güçlendiği görmek hoşuna gidecektir!<p>Tabii ki dört malzemeyi kullanarak yaptığın güçlendirme hepsinden daha güçlü olacaktır! Hahaha!"
+119009,,
+201001,@29001,Vay! Sınıf geçişine hazır mısın? İnanılmaz!
+201002,@29001,Sınıf geçişi testinle ilgili bir mesajım var.
+201003,@29001,"Ay Işığı Lejyonerleri, testlerini geçebilecek kadar güçlü olanlara yeni sınıf seçenekleri sunuyor."
+201004,@29001,"Sınıf geçişi ile <YellowBold>yeni yetenekler</> öğrenirsin, böylece daha da güçlenebilirsin."
+201005,,
+201006,@29001,İşte bu ilk test.
+201007,@29001,İlk testi geçmek için 50 canavar yenmelisin.
+201008,@29001,"İlk test, savaş yeteneklerinle ilgili."
+201009,@29001,Eminim sana çocuk oyuncağı gibi gelecek.
+201010,@29001,"Sonraki test, ilk testi geçebilirsen açıklanacak."
+201011,@29001,Yedi testi de geçtikten sonra sınıf geçişi yapabileceksin.
+201012,@29001,Ve sonra... daha da güçlenmiş olacaksın!!!
+201013,@29001,Başaracaksın!
+201014,@29001,Yeni ve güçlenmiş hâlini göreceğim!
+201015,,
+202001,Lonna,Bu ara daha fazla Adena’ya ihtiyacın olacağını düşündüm...
+202002,@202001,Sana Adena bulabileceğin en iyi yeri göstereceğim.
+202003,@202001,İşte bu zindanın içinde!
+202004,@202001,Buraya dokun.
+202005,@202001,Adena Zindanı tuşuna dokun.
+202006,,
+202007,@202001,Burası Altın Ejderha Kresous’un evi.
+202008,@202001,Adena zulasını yağmalamak için Kresous’u yen!
+202009,@202001,"Adena Zindanı’nın günlük giriş limiti vardır, bu yüzden her girişini iyi değerlendir!"
+202010,@202001,Ejderhayı yeniş haberini hevesle bekliyorum!
+202011,,
+203001,Aida,Hey! Ekipman bulmak için güzel bir yer öğrenmek ister misin?
+203002,@203001,Bu özel zindandan başka bir yere gitmene gerek yok!
+203003,@203001,Buraya dokun.
+203004,@203001,Ekipman Zindanı’nı seç!
+203005,,
+203006,@203001,"<YellowBold>Kutsal Kristali</> koru, ihtiyacın olan tüm <YellowBold>ekipmanı</> bulursun."
+203007,@203001,Bir kaç olayı var. Ekipman Zindanı sadece <YellowBold>bir grupta</> olanlara açılır ve sadece <YellowBold>günde bir kaç kez</> girilebilir.
+203008,,
+204001,Tiana,Güçlendirme parşömenin azalıyor olabilir mi?
+204002,@204001,Güzel bir yer biliyorum!
+204003,@204001,Güçlendirme Parşömeni Zindanı.
+204004,,
+204005,@204001,Kutsal Kristal’in mührünü kır ve Güçlendirme Parşömenleri kazan! Elinden geleni ardına koyma çünkü <YellowBold>günlük giriş limiti</> var!
+204006,@204001,Silahlarını güçlendirmek güçlenmenin <YellowBold>en kolay ve etkili</> yolu!
+204007,,
+205001,@202001,Küçük bir kuş güçlenmek için yardıma ihtiyaç duyabileceğini söyledi.
+205002,@202001,Sana seviye atlaman için güzel bir yer göstereceğim!
+205003,@202001,Buraya dokun.
+205004,@202001,Deneyim Sıvaları!
+205005,,
+205006,@202001,Burada tel seferde büyük miktarlarda TP kazanabilirsin... ama buraya aşırı güvenme çünkü <YellowBold>günlük giriş limiti</> var.
+205007,@202001,"Çok çalışırsan kısa sürede seviye atlayacağına eminim! Bir daha gördüğümde güçlenmiş olacaksın, eminim!"
+205008,,
+207001,@18001,"Merhaba. Ay Işığı Lejyonerleri uzun zamandır adaletin sembolü olarak bilinirler ve aynı zevkli ve eşsiz <YellowBold>pelerinleriyle</> ünlüdürler.<p>Sanırım senin de kendi pelerinin olma vakti geldi. Endişelenme, nasıl yapacağını sana göstereceğim!<p>İlk olarak pelerinin broşuna ihtiyacın var. İşte, bunu al ve gidip bir Maceracı Pelerini bul."
+207002,@18001,Al'a Dokun.
+207003,@18001,Kullan'a Dokun.
+207004,@18001,Maceracı Pelerini sana çok yakıştı! Pelerinini iplikle süsleyebilirsin. Al sana biraz iplik.
+207005,@18001,Seviye Yükseltme'ye dokun.
+207006,@18001,"Seviye Yükseltme'ye dokun, hemen şuraya."
+207007,,
+207008,@18001,Pelerinin şimdiden çok daha iyi görünüyor. Beğendin mi?
+207009,@18001,Pelerininin altdeğerlerini değiştirmek için Sihirli Kumaş kullanabilirsin.<p>İstediğin altdeğeri elde edene kadar dene.<p>Sana pelerinler hakkında anlatacaklarım bu kadar. Şimdi pelerinini yapma sırası sende!
+301001,@18001,Görüyorum ki güçlendirme yaparken başarısız olmuşsun.
+301002,@18001,<YellowBold>+6 ekipman güçlendirme</> başarısız olursa <YellowBold>güçlendirme</> seviyesini düşürebilir.
+301003,@18001,Ama <YellowBold>Maphr'ın Koruması</> kullanarak güçlendirme seviyesinin düşmesini engelleyebilirsin.
+301004,@18001,"Güçlendirme seviyesi <YellowBold>+7, +10, +20</> veya daha üst olan eşyaların güçlendirme seviyesi düşemez."
+301005,@18001,Ekipman güçlendirme denerken bunları aklında tutman sana yardımcı olacaktır!
+301006,@18001,Sana denemen için bir tane Maphr’in Koruması vereceğim.
+301007,@18001,Diğer'e dokun.
+301008,@18001,Maphr’in Koruması eşyasını görüyor musun?
+301009,@18001,<YellowBold>Maphr’in Koruması</> başarısız olan güçlendirmelerde güçlendirme seviyesinin düşmesini engelleyen çok değerli bir eşyadır.
+301010,@18001,"Hadi, Atölye'ye dokun!"
+301011,@18001,<YellowBold>Maphr’in Koruması</> yaratmak için Atölye'de Maphr’in Koruması Parçaları topla.
+301012,,
+302001,@21001,<YellowBold>Nadir Canavar Çağırma Taşlarını</> daha önce duymuş muydun? Hayır mı? O zaman Canavar Özleri elde etmek için Nadir Canavar Çağırma Taşlarını nasıl kullanacağına bakalım.
+302002,@21001,Envanter'e dokun.
+302003,@21001,Tek Kullanımlıklar'a git.
+302004,@21001,Burada Nadir Canavar Çağırma Taşı'nı göreceksin.
+302005,@21001,Kullanmak için üstüne dokun.
+302006,@21001,Nadir Canavarları görüyor musun? En fazla ilgini çekene dokun.
+302007,@21001,"Her nadir canavar için ayrı Canavar Özü vardır.
+<p>Nadir Canavar Çağırma Taşlarını biriktirmek için Haftalık Görevleri tamamlamayı unutma."
+302008,@21001,Çağırma'ya dokun!
+302009,@21001,Dokunman gereken tuş işte burada!
+302010,@21001,여기를 누르면 된다네!

@@ -1,0 +1,54 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Capitão da Guarda Sádico: Boranta,"Como os humanos mataram toda sua família,
+ele acreditava que o poder seria a única coisa
+que salvaria os orcs.
+
+Um dia, quando um orc desconhecido, <RedBold>Ramog</>,
+ganhou um poder imenso, diferente de tudo já
+visto, e tornou-se o novo <RedBold>Líder Orc de Timak</>,
+ele não pôde evitar querer ser como ele
+e segui-lo.
+
+Ele jurou que um dia seria um
+orc poderoso como <RedBold>Ramog</>. Esse era seu único
+objetivo na vida. Para atingir seu objetivo,
+ele liderou a aniquilação da <GreenBold>aldeia dos xamãs</>
+<GreenBold>orcs de Timak.</>",Criatura mágica,Boranta recebeu o poder dos fragmentos de Nebulita de Ramog. Ele pode usar fogo com sua nova força.
+2,Orc louco: Ramog,"Por coincidência, os fragmentos de Nebulita
+estão presos em seu coração.
+A dias de sua morte, foi salvo por uma
+<RedBold>sombra indefinida</>.
+
+Quando abriu os olhos, viu que agora
+tinha uma força incrível, porém assustadora.
+Ele chamava a si de guerreiro, <RedBold>Ramog</>,
+e matava qualquer orc que ficasse em seu
+caminho. Depois tornou-se o líder da tribo
+dos <RedBold>orcs de Timak</>.
+
+Eu sua busca constante por poder, começou a
+querer o poder de <RedBold>Paagrio</>, deus dos orcs.
+Um dia atacou a <GreenBold>aldeia xamã</>
+dos <GreenBold>orcs de Timakonde</> estava 
+o <GreenBold>Altar de Paagrio</>.
+Os xamãs que tentaram detê-lo foram
+aniquilados.
+O ritual para obter o poder de <RedBold>Paagrio</> agora
+está quase concluído.",@1,Os fragmentos de Nebulita estão alojados no coração de Ramog. Ele usa uma magia mais poderosa que a de qualquer orc que tenha existido.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Cavaleiro Guardião: Leonard,"Ele foi um dia o <RedBold>Cavaleiro Guardião</> da
+<RedBold>Condessa Trisha</>.
+Apesar de ser uma alma incorruptível,
+jurou fidelidade à <RedBold>Condessa Trisha</>.
+Ele servirá a ela, não importa as decisões
+que ela tome.",@1,"Leonard foi transformado por magia. Ele é diferente dos vampiros normais, pois tem habilidades mágicas."
+10,Condessa de Sangue: Trisha,"<RedBold>Trisha</> nasceu em uma das famílias da
+aristocracia de Giran.
+Sempre quis fugir da sua vida entediante,
+por isso foi atrás de um amor proibido.
+Um amor tão poderoso que ela largou tudo de
+sua vida pregressa para ir atrás dele.",@1,"Trisha, que foi transformada por um gigante inferior como seu amante, é diferente dos vampiros normais porque tem habilidades mágicas."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

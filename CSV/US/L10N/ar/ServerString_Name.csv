@@ -1,0 +1,250 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,مكافأة حصار القلعة
+GuildWarehouseRecordSiegeWarBidding,تقديم عطاء بشأن حصار القلعة
+GuildWarehouseRecordFortressWarReward,مكافأة حصار الحصن
+GuildWarehouseRecordFortressWarBidding,تقديم عطاء بشأن حصار الحصن
+GuildWarehouseRecordCommission,جمع الضرائب
+GuildWarehouseRecordMarketBuy,الشراء من المتجر
+SystemMailName,النظام
+SystemMessageKickOutFromGM,جارِ إعادة تعيين الخادم. يرجي إعادة تشغيل اللعبة.
+SystemMessageLogOut,ستنتهي اللعبة الآن.
+CastleSiegeFestivalCouponResetNotify,سيعاد تعيين بطاقات مهرجان الحصار.
+MailTitleCheat,الخداع
+MailTitleTutorialReward,البرنامج التعليمي
+MailTitleGuideQuestReward,مكافأة مغامرة الجندي المرتزق
+MailTitleShopGachaItem,عنصر صندوق استدعاء المتجر
+MailTitleDungeonReward,مكافأة السرداب
+MailTitlePvpHonorPointReward,مكافأة شرف الميدان
+MailTitlePvpFirstRankReward,مكافأة إنجاز الفئة الأولى للميدان
+MailTitlePvpRankingReward,مكافأة تحديد فئة الميدان
+MailTitleCastleSiegeBegin,بدء حصار القلعة
+MailTitleCastleSiegeLoseReward,مكافأة الهزيمة في حصار القلعة
+MailTitleCastleSiegeWinReward,مكافأة النصر في حصار القلعة
+MailTitleFortressSiegeLoseReward,مكافأة الهزيمة في حصار الحصن
+MailTitleFortressSiegeWinReward,مكافأة النصر في حصار الحصن
+MailTitleFortressSiegeDrawReward,مكافأة الانسحاب في حصار الحصن
+MailTitleAuctionHouseBuy,الشراء من المحطة التجارية
+MailTitleAuctionHouseSellFailed,انتهت صلاحية بيع المحطة التجارية
+MailTitleAuctionHouseSellingCancel,تم إلغاء بيع المحطة التجارية
+MailTitleConnectDailyReward,مكافأة تسجيل الدخول اليومي
+MailTitleConnectWeeklyReward,مكافأة تسجيل الدخول الأسبوعي
+MailTitleConnectMonthlyReward,مكافأة تسجيل الدخول الشهري
+MailTitleGuildAchievementReward,مكافأة إنجازات القبيلة
+MailTitleGuildMarketBuy,الشراء من متجر القبيلة
+MailTitleGuildMarketGiftBuy,أرسل [Player] هدية.
+MailTitleGuildWarehouseGrant,جائزة القبيلة
+MailTitleAchievementReward,مكافأة الإنجاز
+MailTitlePeriodAchievementReward,مكافأة الإنجازات المحددة بوقت
+MailTitleFriendGreet,تحية صديق
+MailTitleBagIsFull,مستودع ممتلئ
+MailTitleDailyActivityReward,مكافأة الأنشطة اليومية
+MailTitleInstantCompleteReward,عنصر طلب المكافأة
+MailTitleMissionDailyReward,مكافأة المهمة اليومية
+MailTitleMissionWeeklyReward,مكافأة المهمة الأسبوعية
+MailTitleShopReward,مكافأة إعادة الشحن/الإرسال
+MailTitleSupriseBox,فتح صندوق المفاجآت
+MailTitleEvent,مكافأة الحدث
+MailTitleEventDice,مكافأة حدث النرد
+MailTitleEventDiceComplete,مكافأة إتمام مرحلة حدث النرد
+MailTitleCastleSiegeFestivalWin,نجح التنبؤ بالقبيلة التي ستحرز نصرًا في مهرجان حصار القلعة
+MailTitleCastleSiegeFestivalLose,فشل التنبؤ بالقبيلة التي ستحرز نصرًا في مهرجان حصار القلعة
+MailTitleItemEnchantFailReward,مكافأة فشل التعزيز
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,لقد تلقيت [Item] كمكافأة على البرنامج التعليمي!
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,عنصر تم الحصول عليه من صندوق استدعاء المتجر. (تم بلوغ الحد الأقصى للمستودع)
+MailContentDungeonReward,عنصر تم الحصول عليه كمكافأة سرداب.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,افحص العناصر التي اشتريتها من المحطة التجارية.
+MailContentAuctionHouseSellFailed,فشل بيع هذا العنصر في المحطة التجارية.
+MailContentAuctionHouseSellingCancel,تم إلغاء بيع هذا العنصر في المحطة التجارية.
+MailContentConnectDailyReward,تم الحصول على [Item] لأنك متصل
+MailContentConnectWeeklyReward,تم الحصول على [Item] ليوم [Day].
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,تلقى جائزة من القبيلة.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,[Count] عملة أدينا
+MailRewardDiamond,[Count] ألماسة (ألماس)
+MailRewardCrystal,جزء
+MailRewardExp,[Count] نقاط الخبرة
+MailRewardQuestLimitTime,الحد الزمني للمهمة
+MailRewardFriendshipPoint,[Count] نقاط الصداقة
+MailRewardStatus,[Count] مواصفة (مواصفات)
+MailRewardBloodCrystal,[Count] بلورة (بلورات) دموية
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,بطاقة مهرجان الحصار
+GuildWarehouseRecordGuildAchievement,إنجاز القبيلة
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,نقاط المهارات
+MailRewardTopaz,التوباز
+MailRewardMileage,نقاط الولاء
+MailRewardGuildCoin,عملة القبيلة
+MailRewardAchievementPoint,نقاط الإنجاز
+MailRewardPvpHonorPoint,نقاط الشرف
+MailRewardRunePiece,قطعة من الأحرف الرونية
+MailRewardPvpTicket,بطاقة الميدان
+MailTitleClassTransfer,نقل التصنيف
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,مخطط الوحش
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,لقد أخلت قبيلتك [GuildDungeonName].
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,إليك مكافأتك على إخلاء [GuildDungeonName].
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,سيتم إرسال مكافأة مساعدة قبيلة [GuildDungeonName].
+MailContentGuildDungeonHelpReward,تم إرسال مكافأة على الإخلاء بمساعدة [GuildDungeonName].
+MailTitleLevelUpGift,مكافأة زيادة قوة الشخصية
+MailContentLevelUpGift,[Item]
+MailTitleReservedNickName,إليك هدية شكر على حفظ اسمك!
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,مكافأة مهمة قاعة القبيلة
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,مكافأة حساب الرابط
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,نتائج تقييم الأثر القديم
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,استرداد الأثر القديم المسجل
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,صنع الجرعة
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,مكافأة مخطوطة صيد السمك
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,مكافأة موسم ساحة المعركة المشرفة
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,مكافأة موسم ساحة المعركة الباسلة
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,مكافأة موسم ساحة المعركة القديمة
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,مهمات قاعة القبيلة
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,استخدام مواد الجرعة
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,صندوق كنوز القبيلة
+EquipDungeonHp80,يتبقى لدى التحفة الأثرية المقدسة 80% من نقاط الضرب.
+EquipDungeonHp60,يتبقى لدى التحفة الأثرية المقدسة 60% من نقاط الضرب.
+EquipDungeonHp40,يتبقى لدى التحفة الأثرية المقدسة 40% من نقاط الضرب.
+EquipDungeonHp20,يتبقى لدى التحفة الأثرية المقدسة 20% من نقاط الضرب.
+EquipDungeonHp0,تم تدمير التحفة الأثرية المقدسة.
+VarBerk30,لقد أصبح فاركارون مسعورًا.
+QueenAntScout,تظهر الوحوش التي تحمي ملكة النمل.
+QueenBigAnt,تظهر نملة ممرضة كبيرة!
+BigAntGiveHeal,تعالج النملة الممرضة الكبيرة ملكة النمل.
+KICKOUT_FOR_INSPECT,تم قطع الاتصال نظرًا لصيانة الخادم.
+KICKOUT_FOR_ASSET_PATCH,الانتقال إلى شاشة العنوان لتنزيل موارد جديدة.
+KICKOUT_PACKET_KEY_CHANGE,لقد تم قطع الاتصال الخاص بك لأنك كنت غير نشط لفترة طويلة.
+KICKOUT_SPEED_CHECK,لقد تم قطع الاتصال الخاص بك.
+CannotAcquireItemAnymore,يتعذر الاكتساب بعد الآن.
+GuildMasterAutoEntrust,[النظام] لا يوجد أي عضو نشط في هذه القبيلة.
+MailTitlePurchaseLimitOverReward,[TargetItem] تكرار الشراء
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"لقد تلقت هذه القبيلة أقصى عدد من الطلبات اليومية.
+يرجى المحاولة مرة أخرى بعد 4 صباحًا."
+GuildJoinAcceptDailyJoinLimit,"لقد وصلتَ إلى أقصى عدد من الموافقات اليومية.
+يرجى المحاولة مرة أخرى بعد 4 صباحًا."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,استدعت نواة كروما الحارس.
+DiceEventMaxCount,لقد وصلتَ إلى أقصى عدد لحدث النرد.
+PET_EQUIPMENT_ERROR_MESSAGE,"لا يمكن الوصول إلى معدات وسائل النقل من ورشة الحدادة.
+يرجى استخدام قائمة وسائل النقل."
+MailTitleGuildCastleDailyReward,المكافأة اليومية لاحتلال القلعة
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,المبلغ المدفوع في مبيعات المحطة التجارية
+MailContentAuctionHouseSellCompleted,هذا هو المبلغ المدفوع في مبيعات المحطة التجارية.
+ConfineMessage,"تم تقييد الوصول إلى اللعبة لمدة <FontRed>[Day]</> أيام.
+لمعرفة التفاصيل، راجع إشعارات منتدى المجتمع أو اتصل بخدمة العملاء.
+متاح للاستخدام من <FontRed>[ReuseMonth]/[ReuseDay]/[ReuseYear] [ReuseHour] ساعة [ReuseMin] دقيقة</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,مكافأة تسجيل الدخول إلى قاعة القبيلة
+EventDailyQuest,حدث المهمة اليومية
+EventDailyQuestReward,مكافأة حدث المهمة اليومية
+EventDailyQuestProgressReward,مكافأة تقدم حدث المهمة اليومية
+ESportsMasterDiedNotify,"<FontYellow>[PlayerName]</>, the <FontWhite>Clan Leader of</> <FontYellow>[GuildName]</> has <FontWhite>died.</>"
+ESportsMsgNotStartTime,لا يمكنك الدخول لأن المباراة لم تبدأ بعد.
+ESportsMsgNoMoreMatch,لا توجد مباريات جارية.
+ESportsMsgMatchInfo,[PlayerName] of [MyGuildName] in [MyServerName] will have a match on [Date] with [TargetGuildName] in [TargetServerName].
+ESportsMatchEnded,لقد انتهت المباراة في غرفة [MatchId].
+ESportsMsgKickoutMatchEnded,لقد انتهت المباراة، ومن ثمّ سيتم نقلك إلى شاشة العنوان.
+AuctionHouseDisabledMessage,"المحطة التجارية غير متوفرة حاليًا.
+ارجع إلى منتدى المجتمع لمعرفة التفاصيل."
+DayOfWeekMon,الاثنين
+DayOfWeekTue,الثلاثاء
+DayOfWeekWed,الأربعاء
+DayOfWeekThu,الخميس
+DayOfWeekFri,الجمعة
+DayOfWeekSat,السبت
+DayOfWeekSun,الأحد
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,مكافأة بدء التنقيب عن كنز فيلدهايم
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,إجمالي مكافأة التنقيب عن كنز فيلدهايم
+MailTitleShopGuildReward,هدية [Name] للاعب [Player]
+MailContentRecommandationServerReward,صندوق مكافأة اختيار الخادم الموصى به
+MailTitleRecommandationServerReward,صندوق اختيار الخادم الموصى به
+MailTitleGuildDonationReward,مكافأة تبرعات القبيلة
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,This is loot discovered in the Temporal Rift [PartyDungeonName].
+MailTitleServerTransferDailyDiamond,매일 받는 다이아 꾸러미의 못받은 꾸러미 지급
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,Temporal Rift Clear Reward
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,[NpcName] Conquer Reward
+MailContentBossReward,Not enough Inventory space after defeating [NpcName]. Reward sent to Mailbox.
+MailTitleFreeFortressResultWinReward,مكافأة النصر في الحصار المفتوح
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,مكافأة الانسحاب في الحصار المفتوح
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,مكافأة الهزيمة في الحصار المفتوح
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,مكافأة نقطة الحصار المفتوح
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,مكافأة تعزيز السيادة
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,رمز السيادة
+MailTitleFotressDailyReward,مكافأة الاحتلال في حصار الحصن
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,Nero’s Dice Game
+MaileContentNerodiceEvent,Congratulations! Here’s the Prize for winning Nero’s Dice Game.
+MailTitleFortressSiegeSpotReward,مكافأة الحصار المفتوح
+MailContentFortressSiegeSpotReward,هذه مكافأة الفوز بموقع في الحصار المفتوح.
+MaileTitleNerodiceEventFail,Nero’s Dice Game Consolation Prize
+MaileContentNerodiceEventFail,Consolation Prize for losing Nero’s Dice Game.
+MailTitleAppstoreReward,صندوق المؤسس
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,صندوق هدايا خاص
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,لقد تم قطع الاتصال الخاص بك لانعدام النشاط أثناء المشاركة في الحصار المفتوح.
+SuspendAccount,"Your access has been suspended in accordance to the Terms of Service. (Illegal Transactions, etc.)
+If you require assistance, please contact our Customer Service Center.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,[MyServerName]-[MyGuildName]، تجري الآن مباراة [PlayerName] مع [TargetServerName]-[TargetGuildName] على خادم المسابقة.
+MailTitleFacebookReward,مكافأة إنجازات الفيسبوك
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,Purchase Bonus Tier [CumulativeRewardCount] Reward
+MailContentCumulativePurchaseReward,@MailContentCheat

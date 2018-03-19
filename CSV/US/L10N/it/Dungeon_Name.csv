@@ -1,0 +1,401 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Rovine Elfiche 1,,,Un luogo pieno di energia magica: questa è l’accademia in cui gli Elfi insegnarono la magia agli Umani che ne fecero le fondamenta per diventare i regnanti del continente.
+201,Rovine Elfiche 2,,,"Quando gli Elfi regnavano sul continente, questo piano era aperto solo agli Umani con un talento eccezionale. L’energia magica qui è più forte di quella al primo piano."
+202,Nido di Formiche 1,,,"Una grotta piena di Formiche giganti che si sono adattate e sono sopravvissute nella Terra Incolta, creata dall’enorme esplosione di magia nera."
+203,Nido di Formiche 2,,,Le formiche crearono un labirinto ancora più complicato qui per proteggere i loro preziosi beni. Solo loro sono in grado di uscirne.
+204,Torre di Cruma 2,,,Una fortezza in movimento e struttura scientifica usata da antichi giganti per esperimenti biologici volti a creare una nuova forma di vita. Usata per proteggere il laboratorio.
+205,Torre di Cruma 3,,,"Rimanendo fedele allo scopo originario della torre, questo piano ha molti laboratori di ricerca in campo biologico. È pieno dell’energia magica dei Giganti."
+206,Torre d’Avorio 1,,,"Uno spazio formatosi in seguito alla caduta del meteorite Nebulite. In origine era un laboratorio e una biblioteca, ma venne chiuso a causa degli Stregoni sfrenati."
+207,Torre d’Avorio 2,,,"Questo prima era un laboratorio di alchimia, ma ora è invaso di funghi duri come la roccia cresciuti sul suolo."
+208,Torre d’Avorio 3,,,"Il luogo in cui si trova Nebulite, il meteorite. Rafforzati dall’effetto di Nebulite, i mostri si scatenano qui."
+209,Laboratorio della Torre d’Avorio,,,Questo è sia il laboratorio di uno Stregone della Torre d’Avorio reso pazzo dalla nebulite sia il luogo in qui è stato segregato. Molti soggetti vagano qui.
+210,Volta della Foresta dei Segreti,,,"Questa era un tempo la casa delle Fate. I mostri si sono impossessati di questo posto, dopo che le Fate lo hanno abbandonato spaventate dalle battaglie."
+211,Sottobosco della Foresta dei Segreti,,,"La Foresta dei Segreti è diventata troppo fitta impedendo alla luce solare di filtrare, ed è stata profanata dai mostri."
+212,Macello della Foresta dei Segreti,,,È il luogo dove riposano le Fate che sono sopravvissute alla Caccia. C’è sempre una cupa nebbia rosso sangue.
+4000,Giardino della Scala Iridescente (Prova),,,
+9000,Segreta Esp. I,Pietra Upgrade,Da usare per acquisire 1 Estrazione di Pietra Upgrade.,Ci sono molte potenti Pietre di Evocazione malvagia collocate dalla Confraternita Oscura che devono ancora essere scoperte. Sconfiggi i mostri nel Mondo Esterno per rimuoverle.
+9001,Segreta Esp. II,@9000,Da usare per acquisire 2 Estrazioni di Pietra Upgrade.,@9000
+9002,Segreta Esp. III,@9000,Da usare per acquisire 3 Estrazioni di Pietra Upgrade.,@9000
+9003,Segreta Esp. IV,@9000,Da usare per acquisire 5 Estrazioni di Pietra Upgrade.,@9000
+9100,Segreta Esp. V,@9000,@9003,@9000
+9004,Segreta di Adena I,@9000,@9000,"Shunaiman, l’Imperatore di Elmoreden, conservava qui l’oro per la costruzione della Torre dell’Insolenza. Alla sua morte, la struttura venne occupata da Kresous, il Drago d’Oro."
+9005,Segreta di Adena II,@9000,@9001,@9004
+9006,Segreta di Adena III,@9000,@9002,@9004
+9009,Tempio Guardiano I,@9000,@9000,Qui si trova il Cristallo d’Acqua benedetto da Eva. Hardin ordinò ai Mercenari Silverlight di fare la guardia al tempio e proteggerlo dalla Confraternita Oscura.
+9010,Tempio Guardiano II,@9000,@9001,@9009
+9011,Tempio Guardiano III,@9000,@9002,@9009
+9012,Tempio Guardiano IV,@9000,@9003,@9009
+9300,Tempio Guardiano V,@9000,@9003,@9009
+9013,Segreta di Pietra di Evocazione I,@9000,@9000,Proteggi Feldheim mentre rimuove la magia che si trova sul Sacro Artefatto sigillato e completa la segreta per ottenere la Pietra di Evocazione.
+9014,Cerchio di Evocazione II,@9000,@9001,@9013
+9015,Cerchio di Evocazione III,@9000,@9002,@9013
+9016,Cerchio di Evocazione IV,@9000,@9003,@9013
+9017,Segreta di Pietra di Perfezionamento I,@9000,@9000,Distruggi la porta dimensionale che evoca i mostri e ottieni le ricompense.
+9018,Segreta di Pietra di Perfezionamento II,@9000,@9001,@9017
+9019,Segreta di Pietra di Perfezionamento III,@9000,@9002,@9017
+9020,Segreta di Pietra di Perfezionamento IV,@9000,@9003,@9017
+11100,Antico Santuario I,Scatola selez. Pietra,Usa per 1 Scatola selez. Pietra.,
+11101,Antico Santuario II,@11100,Usa per 2 Scatole selez. Pietra.,
+11102,Antico Santuario III,@11100,Usa per 3 Scatole selez.Pietra.,
+11103,Antico Santuario IV,@11100,Usa per 4 Scatole selez. Pietra.,
+11104,Antico Santuario V,Scatola Selezione Pietra Upgrade Radiant,Da usare per acquisire 1 Scatola selezione Pietra Upgrade radiante.,
+11200,Santuario Inseguitori I,Pergamena: Potenzia Arma,Usa per 1 Pergamena: Potenzia Arma.,
+11201,Santuario Inseguitori II,@11200,Usa per 2 Pergamene: Potenzia Arma.,
+11202,Santuario Inseguitori III,@11200,Usa per 3 Pergamene: Potenzia Arma.,
+11203,Santuario Inseguitori IV,@11200,Usa per 4 Pergamene: Potenzia Arma.,
+11204,Santuario Inseguitori V,Pergamena di Potenziamento Equipaggiamento Arma e Cavalcatura,"Da usare per acquisire 5 Pergamene di Potenziamento Arma e
+1 Pergamena di Potenziamento Equipaggiamento Cavalcatura.",
+11300,Santuario Guerrieri I,Pietra Potenzia Arma,Usa per 1 Pietra Potenzia Arma.,
+11301,Santuario Guerrieri II,@11300,Usa per 2 Pietre Potenzia Arma.,
+11302,Santuario Guerrieri III,@11300,Usa per 3 Pietre Potenzia Arma.,
+11303,Santuario Guerrieri IV,@11300,Usa per 4 Pietre Potenzia Arma.,
+11304,Santuario Guerrieri V,Pietra di Upgrade Arma Radiant,Da usare per acquisire 1 Pietra di Upgrade Arma Radiant.,
+11400,Santuario della Bestia I,Pergamena: Pot. Armatura,Usa per 1 Pergamena: Pot. Armatura.,
+11401,Santuario della Bestia II,@11400,Usa per 2 Pergamene: Pot. Armatura.,
+11402,Santuario della Bestia III,@11400,Usa per 3 Pergamene: Pot. Armatura.,
+11403,Santuario della Bestia IV,@11400,Usa per 4 Pergamene: Pot. Armatura.,
+11404,Santuario della Bestia V,Pergamena di Potenziamento Equipaggiamento Armatura e Cavalcatura,"Da usare per acquisire 5 Pergamene di Potenziamento Armatura e
+1 Pergamena di Potenziamento Equipaggiamento Cavalcatura.",
+11500,Santuario del Mostro I,Pietra Potenzia Armatura,Usa per 1 Pietra Potenzia Armatura.,
+11501,Santuario del Mostro II,@11500,Usa per 2 Pietre Potenzia Armatura.,
+11502,Santuario del Mostro III,@11500,Usa per 3 Pietre Potenzia Armatura.,
+11503,Santuario Del Mostro IV,@11500,Usa per 4 Pietre Potenzia Armatura.,
+11504,Santuario del Mostro V,Pietra di Upgrade Armatura Radiant,Da usare per acquisire 1 Pietra di Upgrade Armatura Radiant.,
+11600,Santuario dei Demoni I,Pergamena: Potenzia acc.,Usa per 1 Pergamena: Potenzia Acc.,
+11601,Santuario dei Demoni II,@11600,Usa per 2 Pergamene: Potenzia Acc.,
+11602,Santuario dei Demoni III,@11600,Usa per 3 Pergamene: Potenzia Acc.,
+11603,Santuario dei Demoni IV,@11600,Usa per 4 Pergamene: Potenzia Acc.,
+11604,Santuario dei Demoni V,Pergamena di Potenziamento Equipaggiamento Accessorio e Cavalcatura,"Da usare per acquisire 5 Pergamene di Potenziamento Accessorio e
+1 Pergamena di Potenziamento Equipaggiamento Cavalcatura.",
+11700,Santuario dei Ricordi I,Pietra Potenzia Accessorio,Usa per 1 Pietra Potenzia Accessorio.,
+11701,Santuario dei Ricordi II,@11700,Usa per 2 Pietre Potenzia Accessorio.,
+11702,Santuario dei Ricordi III,@11700,Usa per 3 Pietre Potenzia Accessorio.,
+11703,Santuario dei Ricordi IV,@11700,Usa per 4 Pietre Potenzia Accessorio.,
+11704,Santuario dei Ricordi V,Pietra di Upgrade Accessori Radiant,Da usare per acquisire 1 Pietra di Upgrade Accessorio.,
+12001,Torre dell’Insolenza {IntParam}P,@9000,,
+12002,@12001,Pergamena di Potenziamento,,
+12003,@12001,Prova di sangue,,
+12004,@12001,Cristallo dell’Anima,,
+12005,@12001,Adena,,
+12006,@12001,Biglietto Estrazione Equipaggiamento,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Rovine del Gigante Minore,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Segreta di Estrazione,@12003,,Una miniera segreta formatasi al di sotto della Torre d’Avorio al cui interno è conservato il meteorite Nebulite. Qui crescono molte erbe con poteri misteriosi.
+60001,Tutorial ufficiale,Esp.,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Vestigio di Varkaron,@12003,,"Le lame affilate di Varkaron
+causeranno abbondante sanguinamento."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Grotta della Formica Regina,@12003,,"La Formica Regina, nelle profondità
+della sua grotta oscura, è una maestra dei veleni."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Stanza dell’Essenza di Cruma,@12003,,"L’Essenza di Cruma è il cuore della Torre.
+Protegge la conoscenza dei Giganti Minori sigillata in essa."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Regalo divino,,,
+70004,@70003,,,
+100001,Altare della Follia,,,"Gli stregoni della <GreenBold>Torre d’Avorio</> fanno di tutto
+per trovare una parte dei frammenti rubati.
+
+Durante la loro ricerca, hanno scoperto che <BlueBold>Leanis</>,
+strega della <GreenBold>Torre d’Avorio</>, era spartita.
+Mentre erano in cerca delle sue tracce, sono finiti
+in un villaggio nel quale vivono gli <RedBold>Orchi Sciamani Timak</>.
+
+Gli stregoni deducono che <BlueBold>Laenis</> era stata rapita dagli <RedBold>Orchi</>,
+perciò entrano nel villaggio per salvarla.
+Tuttavia, sono costretti a ritirarsi dopo aver assistito alla forza
+degli <RedBold>Orchi</>, una che non avevano mai conosciuto prima.
+Gli stregoni della <GreenBold>Torre d’Avorio</> hanno così raddoppiato il loro
+numero per l’indagine sugli <RedBold>Orchi</>, e hanno reclutato
+i <BlueBold>Mercenari Silverlight</>, affinché li aiutassero a salvare <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Camera della Contessa di Sangue,,,"La <RedBold>contessa Trisha</>, una volta amatissima dal Signore di Giran,
+scomparve improvvisamente, mettendo in subbuglio la nobiltà di Giran.
+
+Loro sapevano che se quest’informazione fosse trapelata
+al territorio ostile di Oren, quest’ultimo si sarebbe trovato in
+una situazione politicamente favorevole.
+Il Signore di Giran, a conoscenza di ciò, schierò segretamente il
+<BlueBold>Capitano Tark</> per guidare una squadra di ricerca per trovarla.
+
+Dopo aver sentito che la <RedBold>contessa Trisha</> era stata vista per
+l’ultima volta con il suo <RedBold>Cavaliere Guardiano</> nel <GreenBold>Porto di Giran</>,
+il <BlueBold>Capitano Tark</> e la sua squadra di ricerca si travestirono
+da Ranger di Sangue dell’Isola del Diavolo e in segreto iniziarono
+a investigare sull’<GreenBold>Isola del Diavolo</>.
+
+Tuttavia, dopo aver affrontato varie situazioni pericolose,
+il <BlueBold>Capitano Tark</> fu costretto a richiedere l’aiuto dei
+<BlueBold>Mercenari Silverlight</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

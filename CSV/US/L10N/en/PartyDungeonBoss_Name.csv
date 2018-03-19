@@ -1,0 +1,51 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Sadistic Guard Captain: Boranta,"Since humans killed his entire family,
+he believed that power was the only way 
+to save the orcs.
+
+One day, when an unknown Orc, <RedBold>Ramog</>,
+gained immense power unlike any other,
+and became the new <RedBold>Timak Orc Leader</>,
+he could not help but yearn to be like him
+and follow him.
+
+He vowed that one day he would be a
+powerful Orc like <RedBold>Ramog</>. That was his one
+and only goal in life. To accomplish his goals,
+he led the annihilation of the <GreenBold>Timak Orc</>
+<GreenBold>Shaman Village.</>",Magical Creature,Boranta received the power of the Nebulite shards from Ramog. He is able to use fire with his newfound strength.
+2,Mad Orc: Ramog,"By coincidence, Nebulite shards are now
+stuck in his heart.
+Days away from death, he was one day saved by an
+<RedBold>unidentified shadow</>.
+
+When he opened his eyes, he realized that he 
+now had amazing, but terrifying strength.
+He called himself the warrior, <RedBold>Ramog</>,
+and killed any orcs that got in his way.
+He then became the new tribal leader of the
+<RedBold>Timak Orcs</>.
+
+In his constant search for power, he began to
+ look for the power of <RedBold>Paagrio</>, the god of orcs.
+Eventually, he attacked <GreenBold>The Timak Orc</>
+<GreenBold>Shaman Village</> where <GreenBold>Paagrio’s Altar</>
+was located.
+The Shamans who tried to stop him were
+annihilated.
+The ritual to gain the power of <RedBold>Paagrio</> is now
+almost complete.",@1,Nebulite shards are embedded in the heart of Ramog. He is able to use magic more powerful than any orcs who have come before him.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Guardian Knight: Leonard,"He was once the <RedBold>Guardian Knight</> of <RedBold>Countess Trisha</>.
+Though he is an incorruptible soul,
+he is solely sworn to <RedBold>Countess Trisha</>.
+He will serve her, no matter the decisions
+she may make.",@1,Leonard was transformed by magic. He is different than the average vampire in that he has magical abilities.
+10,Countess of Blood: Trisha,"<RedBold>Trisha</> was born into one of Giran’s aristocratic families.
+She always wanted to escape her boring life,
+which prompted her to pursue a forbidden love.
+A love so powerful she left everything in her old life behind to pursue it.",@1,"Trisha, who was transformed by a lesser giant like her lover, is unlike the average vampire in that she has magical abilities."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

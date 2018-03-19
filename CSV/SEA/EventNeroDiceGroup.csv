@@ -1,2 +1,2 @@
-EventGroupID,EventTitleKey,EventDesKey,EndCellNum,EventKeyItem_ID,NeedKeyItem_Count,NeedKeyItem_SpecialCount,AcquireContents1,AcquireContents2,AcquireContents3,AcquireContents4,RewardRank_1st,RewardRank_2nd,RewardRank_3rd,RewardRank_4th,RewardRank_5th,EventDiceMaxCount,FailBonus_ID,FailBonus_Count
-20001,251000000551,119000000001,30,10490068,100,25,35,2,42,60,101,102,103,104,105,300,490010,5
+EventGroupID,EventTitleKey,EventDesKey,EndCellNum,EventKeyItem_ID,NeedKeyItem_Count,NeedKeyItem_SpecialCount,AcquireContents1,AcquireContents2,AcquireContents3,AcquireContents4,RewardRank_1st,RewardRank_2nd,RewardRank_3rd,RewardRank_4th,RewardRank_5th,EventDiceMaxCount
+20001,251000000551,119000000001,30,10490068,100,25,35,2,42,60,101,102,103,104,105,300

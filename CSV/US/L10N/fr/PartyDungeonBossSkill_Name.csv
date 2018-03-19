@@ -1,0 +1,161 @@
+ID,SkillName,SkillDesc
+1,Cible identifiée,"Sélectionne une <YellowBold>cible</> parmi les joueurs à proximité.
+Comme cette compétence est très rapide,
+les ennemis ne peuvent pas l'éviter s'ils sont à portée.
+
+La cible sera <YellowBold>étourdie</> et incapable de se déplacer."
+2,Lancer de hache,"Lance une hache sur la cible afin d'infliger des <YellowBold>dégâts fixes</>.
+<YellowBold>Les dégâts infligés seront distribués</>
+entre les cibles touchées par la hache.
+Les cibles touchées par la hache seront affectées par <YellowBold>Braises</>.
+
+Les <YellowBold>Braises</> exploseront après un certain temps
+et affecteront les cibles avec l'effet <YellowBold>Renversement</>.
+Des <YellowBold>Flammes</> apparaîtront sous les cibles
+et infligeront des dégâts supplémentaires."
+3,Rupture,Inflige des dégâts à toutes les cibles à <YellowBold>portée frontale</>.
+4,Lame lunatique,"Inflige des dégâts à toutes les cibles frontales dans une zone en forme d'éventail.
+Les cibles attaquées seront affectées par <YellowBold>Allumage</>.
+
+Les cibles affectées par <YellowBold>Allumage</>
+subissent des <YellowBold>dégâts supplémentaires pour chaque cumul d'Allumage</>
+lorsque les <RedBold>Braises de Paagrio</> <YellowBold>explosent</>.
+Allumable est cumulable 5 fois."
+5,Chute,"<RedBold>Ramog</> se place au centre,
+puis inflige des dégâts de zone à <YellowBold>270 degrés autour de lui</>.
+Lorsque vous utilisez cette capacité, <YellowBold>elle s'active 4 fois d'affilée</>.
+Chaque fois qu'elle s'active, elle change de direction.
+Les cibles touchées par Chute sont affectées par <YellowBold>Allumage</>.
+
+Les cibles affectées par <YellowBold>Allumage</>
+subissent des <YellowBold>dégâts supplémentaires pour chaque cumul d'Allumage</>
+lorsque les <RedBold>Braises de Paagrio</> <YellowBold>explosent</>.
+Allumable est cumulable 5 fois."
+6,Préparation d'explosion,"<RedBold>Ramog</> se place au centre,
+puis invoque les <RedBold>Braises de Paagrio</>.
+
+Les <RedBold>Braises de Paagrio</> invoquées avancent vers <RedBold>Ramog</>,
+et provoquent une puissante explosion lorsqu'elles entrent en contact avec <RedBold>Ramog</>,
+ce qui inflige des dégâts dévastateurs sur tout ce qui est à l'écran.
+
+Les cibles affectées par <YellowBold>Allumage</>
+<YellowBold>subissent des dégâts proportionnels au nombre de cumuls d'Allumage qui s'appliquent à eux</>."
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Lance une hache sur la cible afin d'infliger des <YellowBold>dégâts fixes</>.
+<YellowBold>Les dégâts infligés seront distribués</>
+entre les cibles touchées par la hache.
+Les cibles touchées par la hache seront affectées par <YellowBold>Braises</>.
+
+Les <YellowBold>Braises</> exploseront après un certain temps
+et affecteront les cibles avec l'effet <YellowBold>Renversement</>.
+Des <YellowBold>Flammes</> apparaîtront sous les cibles
+et infligeront des dégâts supplémentaires.
+
+<YellowBold>- Il y a une faible chance</>
+qu'il lance sa hache <YellowBold>2 fois d'affilée</>."
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> se place au centre,
+puis inflige des dégâts de zone à <YellowBold>270 degrés autour de lui</>.
+Lorsque vous utilisez cette capacité, <YellowBold>elle s'active 4 fois d'affilée</>.
+Chaque fois qu'elle s'active, elle change de direction.
+Les cibles touchées par Chute sont affectées par <YellowBold>Allumage</>.
+
+Les cibles affectées par <YellowBold>Allumage</>
+subissent <YellowBold>des dégâts supplémentaires pour chaque cumul d'Allumage</>
+lorsque les <RedBold>Braises de Paagrio</> <YellowBold>explosent</>.
+Allumable est cumulable 5 fois.
+
+<YellowBold>- Selon la santé de Ramog</>,
+<YellowBold>son attaque est lancée depuis plus ou moins d'angles.</>"
+18,@6,"<RedBold>Ramog</> se place au centre,
+puis invoque les <RedBold>Braises de Paagrio</>.
+
+Les <RedBold>Braises de Paagrio</> invoquées avancent vers <RedBold>Ramog</>,
+et provoquent une puissante explosion lorsqu'elles entrent en contact avec <RedBold>Ramog</>,
+ce qui inflige des dégâts dévastateurs sur tout ce qui est à l'écran.
+
+De plus, les cibles affectées par <YellowBold>Allumage</>
+<YellowBold>subissent des dégâts proportionnels au nombre de cumuls d'Allumage qui s'appliquent à eux</>.
+
+<YellowBold>- 2 Braises de Paagrio sont invoquées.</>"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Blessure perforante,"Déchire la chair de l'ennemi avec une épée et <YellowBold>réduit sa défense</>.
+Se cumule jusqu'à 3 fois."
+26,Explosion de sang,"<YellowBold>Invoque des Caillots de sang</> en provenance du sang qui s'écoule de la <YellowBold>Blessure de perforation</> de l'ennemi.
+Les <RedBold>Caillots de sang</> invoqués ciblent les ennemis à proximité et <YellowBold>s'autodétruisent</>."
+27,Anémie,"Lors des combats prolongés, les vampires qui utilisent la magie du sang pour combattre
+deviennent <YellowBold>Vulnérables</> et subissent des <YellowBold>dégâts supplémentaires</>."
+28,Drainage de PV forcé,"<YellowBold>Anémie</> entraîne une <YellowBold>prise de sang forcée</> aux ennemis à proximité.
+La seule façon d'y échapper est d'appliquer <YellowBold>Sang de vampire</> au corps
+et de <YellowBold>duper cette magie du sang.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Déchire la chair de l'ennemi avec une épée et <YellowBold>réduit sa défense</>.
+
+<YellowBold>- Cet effet se cumule à présent jusqu'à 5 fois.</>"
+34,@26,"Draine le sang de la <YellowBold>Blessure de perforation</> d'un ennemi pour <YellowBold>invoquer un Caillot de sang</>.
+Le <RedBold>Caillot de sang</> invoqué débusque les ennemis à proximité et <YellowBold>s'autodétruit</>.
+
+<YellowBold>- S'autodétruit et crée du Sang consumant.</>
+<YellowBold>- Entrer en contact avec Sang consumant inflige des dégâts.</>"
+35,@27,@27
+36,@28,@28
+37,Enfer sanglant,"Lorsque les <YellowBold>PV atteignent 50 %</>, Léonard devient désespéré.
+Dans cet état, il <YellowBold>invoque de nombreux Caillots de sang</> et tente une attaque kamikaze."
+38,@25,"Déchire la chair de l'ennemi avec une épée et <YellowBold>réduit sa défense</>.
+
+<YellowBold>- Cet effet se cumule jusqu'à 5 fois.</>"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirisation,"Utilise la magie du sang pour transformer progressivement l'ennemi en vampire.
+La cible se transformera en <YellowBold>3 étapes</>.
+<YellowBold>Son ATQ augmentera</> à chaque étape, mais <YellowBold>sa DÉF diminuera</>."
+44,Changement vampirique,"Si une cible est exposée à <YellowBold>Vampirisation</> <YellowBold>3 fois</>,
+elle se transforme temporairement en vampire et <YellowBold>attaque ses alliés</>."
+45,Recharge de sang,"Lors des combats prolongés, les vampires qui ont besoin de
+sang pour utiliser la magie doivent <YellowBold>s'enfuir sous forme de chauves-souris</> pour restaurer leur sang.
+Les <RedBold>chauves-souris</> iront jusqu'aux corps des soldats
+du <BlueBold>groupe d'exploration de Giran</> et infligeront <YellowBold>Drainage de PV 3 fois</>."
+46,Rage sanglante,"Les <RedBold>chauves-souris</> apporteront le sang acquis à Trisha.
+<RedBold>Trisha</> <YellowBold>récupérera de la santé</>
+selon le nombre de chauves-souris ayant réussi et <YellowBold>récupérera temporairement de la force.</>"
+47,Arrivée de Zaken,"<YellowBold>5 minutes après le début du combat</>, la magie d'invocation opère
+et <YellowBold>Zaken apparaît</>.
+Zaken <YellowBold>détruira tous les aventuriers</> qui menacent Trisha."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"Si une cible est exposée à <YellowBold>Vampirisation</> <YellowBold>3 fois</>,
+elle se transforme temporairement en vampire et <YellowBold>attaque ses alliés</>.
+
+<YellowBold>- Les personnages transformés en vampires sont plus forts.</>"
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Torrent de sang,"Adossée au mur, Trisha
+invoque une immense <YellowBold>Vague de sang</>."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

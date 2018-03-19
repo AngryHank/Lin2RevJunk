@@ -1,0 +1,100 @@
+Id,ContentsDesc,Name
+1,Mejora la eficacia de tu equipamiento de diferentes maneras.,Forja
+2,Impregna el poder de otras almas en tus armas para realizar poderosos ataques.,Refuerzo de alma
+3,,Mazmorra
+4,Encontrarás diferentes jefes y recompensas en estas mazmorras cada día de la semana.,Mazmorra diaria
+5,La cantidad de recompensas aumenta según lo que hayas explorado de Aden.,Logro
+6,,Amigo
+8,Consigue un equipamiento de grado A o superior cada día.,Caja de equipamiento de grado superior
+10,Pon a prueba tu fuerza enfrentándote a otros aventureros en Aden.,Arena
+11,,Clasificación
+12,Combina dos equipamientos para conseguir uno de mayor grado.,Combinar
+13,Mejora la efectividad de tu equipamiento con Pergaminos de mejora.,Mejorar
+14,,Clan
+15,Escala una torre infinita para poner a prueba tus límites.,Torre de la insolencia
+16,Graba runas para mejorar de manera permanente tus habilidades.,Impronta de runas
+17,Aumenta el grado del equipamiento sin perder el aspecto ni los parámetros secundarios.,Aumentar
+18,,Actividades diarias
+19,,Misiones diarias
+20,,Misiones semanales
+21,Incrusta una gema con almas en su interior y obtén una habilidad especial.,Crist. de alma
+22,Adéntrate en una peligrosa mazmorra en la que podrás conseguir numerosas recompensas.,Mazmorra de élite
+23,,Ruinas élficas 1
+24,Recoge corazones de monstruos para obtener diversas recompensas.,Códice de monstruo
+25,"Aunque son difíciles de conseguir, hay habilidades con mucho poder.",Habilidad poco común
+27,,Intercambio
+28,Bebe elixires para mejorar tus habilidades de manera permanente.,Elixir
+29,Aquí puedes extraer hierbas usadas para fabricar elixires.,Mazmorra de extracción
+30,Encuentra enemigos automáticamente y enfréntate a ellos.,Batalla automática
+40,Esto es un título.,Título
+101,,Mazmorra diaria (Normal)
+102,,Ruinas élficas 2
+103,,Transferencia de clase
+104,,Mazmorra diaria (Difícil)
+105,,Hormiguero 1
+106,,Hormiguero 2
+107,,Mazmorra diaria (Muy difícil)
+108,,Torre de Cruma 2
+109,,Torre de Cruma 3
+110,,Torre de marfil 1
+111,,Torre de marfil 2
+112,Derrota hordas de monstruos y consigue mucha exp.,Mazmorra de experiencia
+113,Derrota al dragón que guarda el oro y consigue una gran cantidad de adenas.,Mazmorra de adenas
+114,Defiende el templo de las fuerzas del mal y recibe equipamiento a cambio.,Templo guardián
+115,,Círculo de invocación 
+116,,Mazmorra del clan Varkaron
+117,,Reina hormiga de mazmorra de clan
+118,,Asedio a la fortaleza
+119,,Asedio al castillo
+120,Sube de nivel tus habilidades para mejorar sus efectos.,Subir habilidad de nivel
+121,Destruye la puerta dimensional que protegen los monstruos.,Mazmorra de piedra de refinamiento
+122,,Inventario
+123,,Corazón de Cruma
+126,,Sala del clan
+127,,Torre de marfil 3
+129,,Monturas
+130,,Campo de batalla osado
+131,,Campo de batalla antiguo
+132,,Espesura del bosque de los secretos
+133,,Laboratorio de Torre de marfil
+134,,Sotobosque del bosque de los secretos
+135,,Lugar de matanza del bosque de los secretos
+137,,Capa
+138,,Asedio abierto
+10000,No puedes usar esta función.,Personaje
+10003,@10000,Clase
+10006,@10000,Taller
+10007,@10000,Misión
+10008,@10000,@18
+10011,@10000,@40
+10012,@10000,Evento
+10013,@10000,Recompensa de descanso
+10014,@10000,Recompensa de inicio de sesión
+10015,@10000,Festival de asedio al castillo
+10016,@10000,Evento web
+10017,@10000,Tienda común
+10018,@10000,Tienda de diamantes
+10019,@10000,Tienda de colecciones
+10021,@10000,Campo de batalla
+10022,@10000,@14
+10023,@10000,Mazmorra clan
+10029,@10000,Vender objeto
+10030,@10000,Usar objeto
+10031,@10000,Mover objeto
+10032,@10000,Perg. olv.
+10034,@10000,Subir nivel de equip. de montura
+10035,@10000,Invocar montura
+10036,@10000,Subir nivel de montura
+10037,@10000,Detalles de param. secun.
+10038,@10000,Foro de la comunidad
+10039,@10000,Mejorar montura
+20001,,Altar de la locura
+20002,,Tocador de la Condesa de Sangre
+401,@10000,Tienda de dominio
+10040,@10000,Cuenta secundaria
+301,,@122
+303,,@122
+30000,,Pergamino de misión
+30102,Úsala para invocar monstruos del territorio seleccionado y obtener sus corazones.,Territorio de Gludio - Piedra de invocación de monstruos
+30103,Úsala para invocar monstruos del territorio seleccionado y obtener sus corazones.,Territorio de Dion - Piedra de invocación de monstruos
+30104,Úsala para invocar monstruos del territorio seleccionado y obtener sus corazones.,Territorio de Giran - Piedra de invocación de monstruos

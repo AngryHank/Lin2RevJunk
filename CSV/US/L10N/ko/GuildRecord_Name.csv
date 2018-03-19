@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,[Param1] 혈맹원이 [Param2] 아데나를 기부했습니다.
+1,[Param1] 혈맹원이 [Param2] 피의 증거를 기부했습니다. 
+2,혈맹 버프 [Param1]가 [Param2] 레벨이 되었습니다.
+3,<FontYellow>혈맹 레벨이 [Param1] 레벨이 되었습니다.</>
+4,[Param1] 혈맹과의 <FontRed>전쟁이 선포</> 되었습니다.
+6,[Param1] 혈맹과 동맹을 <FontBlue>체결</>했습니다.
+7,[Param1] 혈맹과의 동맹이 <FontRed>파기</>되었습니다.
+8,[Param1] 혈맹원께서 [Param2] 등급이 되었습니다.
+10,[Param1] 님께서 혈맹에 <FontBlue>가입</> 했습니다.
+11,[Param1] 님이 혈맹에서 <FontRed>탈퇴</> 했습니다.
+12,<FontYellow>[Param1]에서 세금으로 다이아 상자 [Param2]개를 징수했습니다.</>
+13,혈맹 던전 <FontBlue>[Param1]</> 공략에 성공했습니다.
+14,혈맹 업적 <FontGreen>[Param1]</> 공략에 성공했습니다.
+15,<FontYellow>[Param1]의 주인이 되었습니다.</>
+16,@CastleAcquired
+17,[Param1] 혈맹원에게 [Param2] [Param3]개를 <FontGreen>선물</>했습니다.
+18,[Param1] 혈맹원에게 [Param2] [Param3]개를 <FontBlue>포상</>했습니다.
+19,모든 혈맹원에게 [Param1][Param2]개를 <FontBlue>포상</>했습니다.
+20,[Param1] 혈맹과의 전쟁에서 <FontBlue>승리</>했습니다.
+21,[Param1] 혈맹과의 전쟁에서 <FontRed>패배</>했습니다.
+22,[Param1] 혈맹과의 전쟁에서 무승부했습니다.
+23,[Param1]군주가 공성 상점에서 [Param2]을 구매했습니다.
+24,[Param1] 혈맹원이 [Param2] 붉은 스타 스톤을 기부했습니다.
+9,[Param1]님에서 [Param2]님께 <FontRed>군주 자동 위임</>.
+25,<FontYellow>혈맹 아지트를 구매하였습니다.</>
+26,<FontYellow>혈맹 아지트가 [Param1] 레벨이 되었습니다.</>
+27,<FontYellow>결속의 수정이 [Param1] 레벨로 성장했습니다.</>
+28,[Param1]의 소유권을 포기할 예정입니다.
+29,[Param1]의 소유권을 포기했습니다.
+30,[Param1] 혈맹과의 전쟁이 합의하에 종료되었습니다.

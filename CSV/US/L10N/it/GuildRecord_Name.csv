@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,Il membro del Clan [Param1] ha donato [Param2] Adena.
+1,[Param1] ha donato [Param2] Prova/e di sangue.
+2,Il Buff del clan [Param1] ha raggiunto il livello [Param2].
+3,<FontYellow>Il Clan ha raggiunto il livello [Param1].</>
+4,<FontRed>È stata dichiarata guerra</> a [Param1].
+6,<FontBlue>Stabilita</> un’alleanza con il clan [Param1].
+7,L’alleanza con [Param1] è stata <FontRed>sciolta</>.
+8,Il membro del Clan [Param1] è diventato [Param2].
+10,[Param1] si è <FontBlue>unito</> al clan.
+11,[Param1] ha <FontRed>abbandonato</> il clan.
+12,<FontYellow>[Param1] ha riscosso [Param2] Scatola/e Diamante come tassa.</>
+13,Segreta del clan <FontBlue>[Param1]</> completata con successo.
+14,Traguardo del clan <FontGreen>[Param1]</> completato con successo.
+15,<FontYellow>Sei diventato il regnante di [Param1].</>
+16,@CastleAcquired
+17,<FontGreen>Regalato/i</> [Param3] [Param2] a [Param1] membro/i del clan.
+18,Dati [Param2] x[Param3] <FontGreen>in premio</> al membri del clan [Param1].
+19,<FontBlue>Ha ricompensato</>[Param1] x[Param2] a tutti i membri del clan.
+20,<FontBlue>Ha vinto</> la guerra contro il clan [Param1].
+21,<FontRed>Ha perso</> la guerra contro il clan [Param1].
+22,Ha combattuto fino allo stallo nella guerra contro il clan [Param1].
+23,Il Signore [Param1] ha acquistato [Param2] dal Negozio dell’Assedio del Castello.
+24,Il membro del Clan [Param1] ha donato [Param2] Pietrestella Rosse.
+9,[Param1] <FontRed>ha nominato automaticamente</> [Param2] come nuovo Signore.
+25,<FontYellow>Hai acquistato una Sala del Clan.</>
+26,<FontYellow>La Sala del Clan ha raggiunto il livello [Param1].</>
+27,<FontYellow>Il Cristallo dell’Unità ha raggiunto il livello [Param1].</>
+28,Rinuncerà alla proprietà di [Param1].
+29,Ha rinunciato alla proprietà di [Param1].
+30,La guerra contro il clan [Param1] è terminata per accordo.

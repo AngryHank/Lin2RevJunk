@@ -1,0 +1,158 @@
+Id,Name
+1,Ilha Falante Oriental
+2,Ilha Falante Ocidental
+3,Estrada de Gludin
+4,Planície de Gludio
+5,Mansão Windawood
+6,Deserto
+7,Planície de Dion
+8,Pântano de Cruma
+9,Pico da Dissonância
+10,Sacrários Uivantes
+11,Domínio de Giran
+12,Praias da Névoa Mortal
+13,Ilha do Demônio
+14,Necrópole Assombrada
+15,Platô do Vento Norte
+16,Terras Eternas
+17,Território conquistado na Torre de Marfim
+18,Vale do Dragão
+200,Ruínas Élficas 1
+201,Ruínas Élficas 2
+202,Formigueiro 1
+203,Formigueiro 2
+204,Torre de Cruma 2
+205,Torre de Cruma 3
+206,Torre de Marfim 1
+207,Torre de Marfim 2
+208,Complete Torre de Marfim 3
+209,Laboratório da Torre de Marfim
+210,Cobertura da Floresta dos Segredos
+211,Sub-bosque da Floresta dos Segredos
+212,Matadouro da Floresta dos Segredos
+213,Caverna do Dragão 1
+214,Caverna do Dragão 2
+215,Ninho de Antharas
+300,Altar da Loucura
+301,Quarto da Condessa do Sangue
+400,Fenda Temporal
+402,Navio Fantasma de Zaken
+11000,Santuário das Lembranças Perdidas
+12000,Torre da Insolência
+13000,Masmorra de extração
+14000,Arena
+14001,Campo de batalha honorável
+14002,Campo de Batalha da Coragem
+14005,Arena de Lutas
+16003,Fortaleza da Estrada de Gludin
+16004,Fortaleza da Planície de Gludio
+16005,Fortaleza da Mansão Windawood
+16006,Fortaleza do Deserto
+16007,Fortaleza da Planície de Dion
+16008,Fortaleza do Pântano de Cruma
+16009,Fortaleza do Pico da Dissonância
+16010,Fortaleza dos Sacrários Uivantes
+16011,Fortaleza do Domínio de Giran
+16012,Fortaleza das Praias da Névoa Mortal
+16013,Fortaleza da Ilha do Demônio
+16014,Fortaleza da Necrópole Assombrada
+16015,Fortaleza do Platô do Vento Norte
+16016,Fortaleza das Terras Eternas
+16017,Fortaleza da Torre de Marfim Conquistada
+16018,Fortaleza do Vale do Dragão
+16019,Fortaleza das Ruínas de Dolmen
+16020,Fortaleza das Terras Esparsas
+16021,Fortaleza do Obelisco da Vitória
+16022,Fortaleza do Acampamento Fortificado
+16023,Fortaleza do Bosque Sussurrante
+16024,Fortaleza da Floresta Amaldiçoada
+16025,Fortaleza do Posto de Observação Oeste
+16026,Fortaleza das Ruínas Élficas
+16999,Cerco Aberto
+17001,Castelo de Gludio
+17002,Castelo de Dion
+17003,Castelo de Giran
+17004,Castelo de Oren
+18100,Caixa forte de Kresous
+18200,Fenda do Submundo
+18300,Entrada Selada
+18400,Templo da Água
+18500,Laboratório Sinistro
+19001,[Clan Hall]
+20000,Laboratório do Gigante inferior
+20001,@20000
+20002,@20000
+21000,마그나딘
+211010,Laboratório do gigante
+30001,Presente de Deus
+30002,@30001
+999,Cerco ao Castelo TESTE
+998,JxJ TESTE
+1000,Protolândia 1
+1001,Protolândia 2
+1002,Terra das Escamas Monstruosas
+1005,Terra das Escamas Monstruosas 2
+1006,Terra das Escamas Monstruosas 3
+1007,Outro Cerco ao Castelo Teste
+1008,Cerco à Fortaleza Teste
+1009,@1008
+1010,@1008
+1011,@1008
+1012,Mundo do teste à habilidade
+1013,Terras da Escama escolhida
+2000,Lufária
+2001,Lufária 1
+2002,Lufária 2
+2003,Lufária 3
+2004,Lufária 4
+2005,Lufária 5
+2006,Lufária 6
+2007,Lufária 7
+2008,Lufária 8
+60001,Castelo de Aden
+70001,@60001
+70002,História de Aden
+100200,Mundo exterior
+100204,@204
+100018,Interior da Pedra de Evocação Maligna
+100003,Porto de Gludin Devastado
+200001,Mundo exterior de Theodore
+200002,Porão
+200003,Acampamento sob ataque
+200004,Arredores do Castelo de Oren
+200005,Prisão subterrânea do Castelo de Oren
+200200,Território do Rei Sangrento
+211000,Primeiro Selo da Ilha Falante
+211001,Segundo Selo da Ilha Falante
+211002,Terceiro Selo da Ilha Falante
+211003,Quarto Selo da Ilha Falante
+200206,@206
+213000,Laboratório da Irmandade Sombria
+200010,Abismo de Zaken
+210206,@206
+210207,@207
+210208,@13
+299301,Mundo de dispositivo - Quarto da Condessa de Sangue:
+299981,Mundo dispositivo - Ilha Falante Oriental
+299982,Mundo dispositivo - Ilha Falante Ocidental
+299983,Mundo dispositivo - Estrada de Gludin
+299984,Mundo dispositivo - Planície de Gludio
+299985,Mundo dispositivo - Mansão Windawood
+299986,Mundo dispositivo - Deserto
+299987,Mundo dispositivo - Planície de Dion
+299988,Mundo dispositivo - Pântano de Cruma
+299989,Mundo dispositivo - Pico da Dissonância
+299990,Mundo dispositivo - Sacrários Uivantes
+299991,Mundo dispositivo - Domínio de Giran
+299992,Mundo dispositivo - Praias da Névoa Mortal
+299993,Mundo dispositivo - Ilha do Demônio
+299994,Mundo dispositivo - Necrópole Assombrada
+299995,Mundo dispositivo - Platô do Vento Norte
+299996,Mundo dispositivo - Terras Eternas
+299997,Mundo dispositivo - Território conquistado na Torre de Marfim
+299998,Mundo dispositivo - Vale do Dragão
+1500,Protolândia 5
+300201,@201
+300203,@203
+300205,@205
+300207,@207

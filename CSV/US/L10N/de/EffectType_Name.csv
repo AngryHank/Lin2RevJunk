@@ -1,0 +1,129 @@
+Type,Name
+0,An Waffe angebracht
+1,P-ANG
+2,M-ANG
+3,P-ANG-Erhöhungsrate
+4,M-ANG-Erhöhungsrate
+5,Basisangriffskraft
+6,Gruppenmitglied-ANG-Erhöhungsrate
+7,ANG-GES-Erhöhungsrate
+8,Buff
+9,Krit.-SCH-Erhöhungsrate
+14,Krit. Genauigkeitsratenerhöhung
+15,Erhöhung der Krit. Rate
+16,P-SCH
+17,M-SCH
+18,VER-Ignorieren
+19,Ziel-LP-Verringerung
+20,Ziel-LP-Verringerung (%)
+21,P-VER
+22,M-VER
+23,P-VER-Erhöhungsrate
+24,M-VER-Erhöhungsrate
+26,Ausweichen
+27,Ausweichen-Erhöhungsrate
+28,Ausweichratenerhöhung
+29,Genauigkeit
+30,Genauigkeitserhöhungsrate
+31,Genauigkeitsratenerhöhung
+32,Schaden-Erhöhungsrate
+33,P-SCH-Erhöhungsrate
+34,@IncreaseDamagePhyMul
+35,Erhöhungsrate für Schaden an verlangsamtem Ziel
+36,VER-SCH-Ignorieren
+37,Schaden-Verringerungsrate
+38,P-SCH-Verringerungsrate
+39,M-SCH-Verringerungsrate
+40,Festschadenverringerung
+41,Blockchance
+42,Abwehr-SCH-Verringerungsrate
+43,P-SCH über Zeit
+44,M-SCH über Zeit
+45,LP basierend auf ANG heilen
+46,Heilung über Zeit
+47,Terrain-Effekt
+48,Aggressions-Erhöhungsrate
+49,LP
+50,LP-Erhöhung basierend auf einer Prozentzahl der max. LP
+51,LP-Regen.
+52,LP-Entzug
+53,"LP-Absorption (Eine aktive Fertigkeit, die dem Gegner LP stiehlt.)"
+54,LP-Absorption (Verteilt gestohlene LP auf dich und deine Gruppenmitglieder.)
+55,Unbesiegbar
+56,Unsichtbar
+57,Gegenstandsfundratenerhöhung
+58,Max. LP
+59,Max.-LP-Erhöhungsrate
+60,Max. MP
+61,Max.-MP-Erhöhungsrate
+62,Geschwindigkeits-Erhöhungsrate
+63,MP
+64,MP-Erhöhung basierend auf einer Prozentzahl der max. MP
+65,MP-Kostenverring.-Rate
+66,MP-Kostenverringerung
+67,MP-Regen.-Rate
+68,Ein Kill (Sofort-Kill)
+69,Geschoss
+70,Fertigk.-Abklingzeitverringerung
+71,Gerissen (MP-Kosten für alle Fertigkeiten betragen 1)
+72,Seelenschuss-Angriffsbonus
+73,Langlebig (Aller erlittener Schaden beträgt 1)
+74,Betäubt
+75,Spott (Erhöht Aggro auf Max.)
+76,Ziel erfassen
+77,Ziel bewegen
+78,Ziel ziehen
+79,Zugwiderstandsrate
+81,Rückschlag-Widerstandsrate
+83,Elixier
+84,Kein Effekt
+85,Fertigkeitentabelle-Infokennung
+179,Flächen-Buff (Auratotem)
+86,ERF
+87,ERF-Gewinn-Erhöhungsrate
+88,Adena
+89,Adenagewinn-Erhöhungsrate
+90,Kostenloser Diamant
+91,Bezahlter Diamant
+92,Klanmünzen
+93,Runenfragment
+94,FP
+95,Auto-Erled.
+96,Gegenstandsfund
+97,Verlangsamungswiderstandsrate
+98,Betäuben- und Niederschlagen-Widerstandsrate
+99,Abnormaler Status-Widerstand
+103,Erhöhung der Fertigkeitsreichweite
+104,Erhöhung der Fertigkeits-Trefferzahl
+100,Kombo-Endzeit-Erhöhung
+101,Durchdringung
+102,Zähigkeit
+105,Entnahme-Geschwindigkeitserhöhung
+106,Entnahme-Erhöhung
+10,Krit. Rate
+11,Krit. Widerstand
+12,Erhöhung der Krit. Rate
+13,Kritischer Widerstand-Erhöhungsrate
+125,Gedankenkontrolle
+133,Schadenserhöhung normaler Angriffsfertigkeiten
+140,Fertigk.-Abklingzeitverr. um %
+146,Verringert MP des Ziels
+147,Verringert MP des Ziels um %.
+148,Erneuert je nach ANG die MP.
+179,VER Erhöhungsrate proportional zu Gruppengröße
+151,Entf. Abnorm. Status
+152,Entfernt Buff vom Ziel
+153,Immun gegen Schaden unter einer bestimmten LP-Zahl
+136,LP-Regen. Erhöhungsrate
+163, Erhöhungsrate
+164,Finale- und + Zusätzliche SCH-Verringerungsrate
+165,@NormalSkillDamageMul
+174,Heilungserhöhung normaler Heilfertigkeiten
+171,Steigerung der Betäuben- und Niederschlagen-Widerstandsrate
+170,Steigerung der Verlangsamenwiderstandsrate
+169,Krit. Steigerung der Widerstandsrate
+131,Erhöhung des Monstern zugefügten Schadens
+132,Verringerung des durch Monster erlittenen Schadens
+176,Erhöhung des Monstern zugefügten Schadens von normalen Fertigkeiten
+177,@NormalSkillMonsterDamageMul
+160,"SCH-Erhöhungsrate basiert auf NPC-Rang, Rasse"

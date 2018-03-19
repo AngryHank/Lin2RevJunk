@@ -1,0 +1,67 @@
+Id,ItemName,Desc1,Desc2
+4,İksir Özü Seçim Sandığı,Bir İksir Özü seçip almak için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+5,Oto-Temizleme Seçim Sandığı,1 Oto-Temizleme Bileti için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+10,Çağırma Taşı Parçası Sandığı,"Rastgele, çeşitli Binek Çağırma Taşı Parçaları kazanmak için kullan.",Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+11,Güçlendirme Parşömeni Sandığı,Bir adet Güçlendirme Parşömeni elde etmek için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+12,Geliştirme Taşı Sandığı,Rastgele bir Geliştirme Taşı elde etmek için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+26,TP,TP kazanmak için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+27,Büyük TP,Büyük miktarda TP kazanmak için kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+30,Kaçış Parşömeni,Işınlanmayı kullan.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+31,5 Maphr’in Koruması Parçası,Maphr’in Koruması’nı almak için parçaları birleştir.,Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+30000103,1 Klan Ekipman Sandığı,Bir adet rastgele A - SR ekipman elde etmek için kullan.,
+30000104,10 Klan Ekipman Sandığı (+1 bonus),Bir adet rastgele A - SR ekipman elde etmek için kullan.,
+30000105,1 Klan Güçlendirme Parşömeni Sandığı,@11,
+30000106,200 Can Yenileyici,Küçük miktarda Can yenilemek için kullan.,
+30000107,200 Mana Yenileyici,Küçük miktarda Mana yenilemek için kullan.,
+30000108,5.000 Güç Şerbeti,Silahın hasarını mistik güçler ile artırmak için kullan.,
+30000109,1 Binek Güçlendirme Sandığı,"Şunlardan birini almak için kullan: Binek Ekipmanı (A - SR), Yükseltme Taşı Sandığı (Küçük - Büyük) veya Binek Çağırma Taşı Parçası (Siyah Ayı, Gümüş Aziz, Kukarin ve Bozyele).",
+30000110,10 Binek Güçlendirme Sandığı (+1 bonus),@30000109,
+201,Yadigar İşleme Süre Artışı Svy. 1,Yadigar işlemek için gereken süreyi 1 saniye uzatır.,
+202,Yadigar İşleme Süre Artışı Svy. 2,Yadigar işlemek için gereken süreyi 2 saniye uzatır.,
+203,Yadigar İşleme Süre Artışı Svy. 3,Yadigar işlemek için gereken süreyi 3 saniye uzatır.,
+204,Yadigar İşleme Süre Artışı Svy. 4,Yadigar işlemek için gereken süreyi 4 saniye uzatır.,
+205,Yadigar İşleme Süre Artışı Svy. 5,Yadigar işlemek için gereken süreyi 5 saniye uzatır.,
+206,Savunma Kulesi Dayanıklılık Artışı Svy. 1,,
+207,Savunma Kulesi Dayanıklılık Artışı Svy. 2,Savunma Kulesi Dayanıklılığını 20.000 artırır.,
+208,Savunma Kulesi Dayanıklılık Artışı Svy. 3,Savunma Kulesi Dayanıklılığını 30.000 artırır.,
+209,Savunma Kulesi Dayanıklılık Artışı Svy. 4,Savunma Kulesi Dayanıklılığını 40.000 artırır.,
+210,Savunma Kulesi Dayanıklılık Artışı Svy. 5,Savunma Kulesi Dayanıklılığını 50.000 artırır.,
+211,Tuzak Sldr. Artışı Svy. 1,"Tuzak Sldr. Artışı %1.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler.",
+212,Tuzak Sldr. Artışı Svy. 2,"Tuzak Sldr. Artışı %2.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler.",
+213,Tuzak Sldr. Artışı Svy. 3,"Tuzak Sldr. Artışı %3.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler.",
+214,Tuzak Sldr. Artışı Svy. 4,"Tuzak Sldr. Artışı %4.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler.",
+215,Tuzak Sldr. Artışı Svy. 5,"Tuzak Sldr. Artışı %5.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler.",
+301,Yenileyici Etkisi Güçlendirme,"Kullandığında Lord’un Takdiri 1 saat boyunca klanında etkin olur.
+Can ve Mana Yenileyicilerini Etkisi +%20 (Kale Kuşatması ve Şato Kuşatması Dışında).",
+302,Avlanma TP/Öz Kazancı Güçlendirme,"Kullandığında Lord’un Takdiri 1 saat boyunca klanında etkin olur.
+Avlanmadan kazanılan TP ve Canavar Özü Düşme Oranı +%20.",Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+303,Avlanma Adena/Eşya Kazancı Güçlendirme,"Kullandığında Lord’un Takdiri 1 saat boyunca klanında etkin olur.
+Avlanmadan kazanılan Adena ve eşya düşme oranı +%20.",Klan Seviyesi {RequiredGuildLevel} olduğunda satın alınabilir.
+158,1 Can İksiri Özü,"Kırmızı Öz, Can İksiri üretiminde kullanılır.","Şu fethedince alınabilir:
+Derece veya üstü bir şato"
+159,1 Mana İksiri Özü,"Mavi Öz, Mana İksiri üretiminde kullanılır.",@158
+160,1 Sldr. İksiri Özü,"Mor Öz, Sldr. İksiri üretiminde kullanılır.",@158
+161,1 Svn. İksiri Özü,"Sarı Öz, Svn. İksiri üretiminde kullanılır.",@158
+165,1 Silah Geliştirme Taşı,Bir silahı bir üst dereceye geliştirmek için kullanılır.,@158
+166,1 Zırh Geliştirme Taşı,Bir zırhı bir üst dereceye geliştirmek için kullanılır.,@158
+401,Klan Pelerini Boyası: Düşük Derece,Klan Pelerini'nin rengini değiştirmek için gereken eşya.,Bir şato fethedildikten sonra alınabilir.
+402,Klan Pelerini Boyası: Orta Derece,@401,"Derece A veya daha yüksek dereceli bir
+şato fethedildikten sonra alınabilir."
+404,Klan Pelerini Amblemi Boyası: Düşük Derece,Klan Pelerini'nin rengini değiştirmek için gereken eşya.,@401
+405,Klan Pelerini Amblemi Boyası: Orta Derece,@404,@402
+810000001,Svy. 5 Klan Yenileyicisi: Adena Güçlendirmesi,1 saat boyunca kanacağın Adena miktarını %50 arttırır. (Sadece Saha Avı'nda geçerlidir),@158
+810000002,Parçalanmış Yadigar Sandığı,"Bu eski bir yadigar.
+Ödülleri almak için Klan Meydanı Yadigar Sorumlusu’ndan bu yadigarı değerlendirmesini iste.",@158
+810000003,Svy. 5 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,"Kullanıldığında Öz düşme oranını %50 arttırır.
+Etkisi 1 saat sürer.","Şu fethedince alınabilir:
+Derece B veya üstü bir şato"
+810000004,Maphr’in Koruması,Ekipman güçlendirmede kullanılır. Başarısız olmak ekipmanın güçlenme değerini düşürmez.,"Şu fethedince alınabilir:
+Derece A veya üstü bir şato"
+810000005,Kutsal Parşömen Sandığı,Bir adet rastgele Kutsal Parşömen elde etmek için kullan.,@810000003
+810000006,Derece S Ek Özellik Taşı,Bir ekipman parçasının ek-özelliğini güçlendirmede kullan.,@810000003
+810000007,Derece R Ek Özellik Taşı,Bir ekipman parçasının ek-özelliğini güçlendirmede kullan.,@810000004

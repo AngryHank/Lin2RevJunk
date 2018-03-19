@@ -1,0 +1,824 @@
+Id,Name,EffectTypeName,Desc
+1001,Sıradan Yere Yıkma,Yere Yıkma,
+1002,@1001,@1001,Normal Saldırı ile Son vuruş
+1003,@1001,@1001,
+1004,Sıradan Yenilmezlik,Yenilmez,Hasar alamazsın.
+1005,Dirilme Güçlendirmesi,@1004,Hasar alamazsın. Düşmana saldırdığında yenilmezlik güçlendirmen kalkar.
+1011,Sıradan Sersemletme,Sersemletme,Sersemletme
+10111,Hücum Darbesi: Yere Yıkma,@1001,
+10122,Güçlü Saplama: Yavaşlatma,Yavaşlatma,Hız %-{1%}
+11211,Yere Vurma,Aggro Çekme Artışı,Aggro Çekme %+50
+112124,İntikam,Hedefe Kitlen (Oyuncu),Zorunlu Saldırı
+112125,@112124,Sldr. Düşürme,Sldr. -{1}
+112126,@112124,Hedefe Kitlen (NPC),
+11213,Haşmetli,"Haşmetli: Tehdit seviyesi yükseltme, F. Svn./M. Svn. Yükseltme, Kaçınma Düşürme","Svn. %+{2%}, Tüm saldırılardan alınan aggro %+{1%}, Hasar Yansıtma: %{1%}"
+11221,Hüküm,Savunma Düşürme,
+11222,Yıldırım Fırtınası,Sersemlet,@1011
+112231,Geniş Savuruş,"Çoklu Vuruş: Toplu Vuruş Güçlendirme, Sldr. Hızı Artışı","Bir kerede saldırabildiğin düşman sayısını +{1} artırır, +%{2%} Sldr. Hızı"
+11231,Kum Bulutu,Kör Etme,İsabet Oranı: %{1%}
+11232,Geri Adım: Sersemletme,@11222,@1011
+112331,Hızlandır,Hızlandır: Sldr. Hızı Artışı,Sldr. Hızı +%{1%}
+112332,@112331,Hızlandır: Kaçınma Artışı,Kaçınma +%{1%}
+11242,Ok Yağmuru,F. Sldr. Düşürme,Sldr. Düşürme
+11243,Sırtlan,"Nişancı: Saldırı Menzili, Sldr., İsabet Artışı, Hareketsizlik",Sldr: %{2%} İsabet +{3}. Saldırı Menzili Artar. Hızı Düşürür.
+11244,Keskingöz,"Keskingöz: Kritik Artışı, Svn. Düşürme",Krit. Oranı +{1}. ve Hasar %+{2%}.
+11251,Lav Topu,Süreli Hasar,Süreli Hasar
+112531,Manayı Artır,Mana Desteği: Maks Mana Artışı,"Mana Kullanımı +%{1%}, Yetenek Hasarı +%{2%}"
+11261,Ulvi Ceza: Sersemletme,@1001,
+11262,Restorasyon,Süreli İyileştirme,Süreli İyileştirme
+12211,Mahkeme,Hedefe Kitlen,Aggro Çekme +%30
+12212,Eva’nın Lütfu,Sldr. Hızı Düşürme,Can Yenilemeyi %50 Azaltır.
+122131,Aegis Duruşu,Aegis Duruşu: Geçici Hasar Bağışıklığı,Hasardan Korunma
+122132,@122131,Aegis Duruşu: Hız Artışı,Hız +%{1%}
+12221,Sonik Ateşliyici,Sonik Ateşliyici: Hız Düşürme,Hız -%{1%}
+122231,Savaş Ritmi,"Savaş Ritmi: Sldr., Svn. Artışı","Grup üyeleri Sldr. +{1}, Svn. +{3}"
+122241,Avcının Şarkısı,Avcının Şarkısı: Grubun Krit. Oranını Artırır,Grup üyeleri Krit. Oranı +%{1%}
+12231,Üçe Bölen,Hız Düşürme,"Svn. -%{1%}, Sldr. Hızı -%{3%} ve Hız -%{4%}."
+12232,Kılıç Kasırgası,@1011,@1011
+12233,Ova Yürüyen,"Ova Yürüyen: Sldr. Hızı., Hız Artışı, Can Soğurma Oranı",Sldr. Hızı: %{1%}. Hız +%{2%}. Can Çalma Oranı +%{3%}
+12241,Ölümcül Atış,Krit. Artış Oranı,
+12242,Çift Geniş Atış,Çift Geniş Atış: Svn. Artışı,F. Svn. -%{1%}
+122431,Akıl Gözü,Akıl Gözü: Yüksek Krit. Artış Oranı,Krit. Oranı +{1}
+122441,Çift Hızlı Adım,"Çift Hızlı Adım: Yüksek Hız Artışı, düşük sldr. hızı artışı",+{1%}% Hız + %{2%} Sldr. Hızı
+12251,Buz Mızrağı: Dondur,@11222,
+12252,Kar Fırtınası,@10122,@10122
+122521,@12252,@1011,@1011
+122614,Karabasan,@10122,Hız %-10
+122615,Kutsal Ateş,Alınan Hasar Artışı,Alınan Hasar +%{1%}
+12263,Büyük İyileştirme,İyileştirme,
+122631,Zihin Yenilenmesi,Zihin Yenilenmesi: Grubun Bekleme Sürelerini Azaltır,Grup üyeleri Yetenek Bekleme Süresi -{1#}
+12264,Savunma Takibi,"Grup Savunması Güçlendirme, F. ve B.",Grup üyeleri Svn. +%{1%}
+13211,Can Emme,Svn. Artışı,Svn. -%{1%}
+132125,Zincir Yılanı,@11222,@1011
+132126,@132125,Kışkırtma ve Çekmeye Bağışık,Aggro Odak Etkisi
+13213,Mutlak Savunma,"Mutlak Savunma: Yüksek F. Svn. & B. Svn. Artışı, Hareketsizlik",Svn.: %{1%} + {3}. Düşmanın hızını düşürür.
+132132,@13213,Mutlak Savunma: Düşmanları Yavaşlatır,Hız Düşürme
+13222,Kasırga Fırtınası,@10122,@10122
+132221,@13222,Hız Artışı,Hız +%{1%}
+132231,Savaşçı Dansı,Savaşçı'nın Dansı: Grubun F. Sldr.'lerini Artırır,Grup üyeleri F. Sldr +{1}
+132241,Öfke Dansı,Öfke Dansı: Grubun Sldr.'lerini Hızını Artırır,Grup üyeleri Sldr. Hızı. +%{1%}
+13231,İğne,Bonus Kanama Hasarı,Hasar: Sldr.'nin %{[Use34Param]1-1%} +{1-1}
+13232,Jilet Yağmuru: Bonus Kanama Hasarı,@13231,
+132322,Jilet Yağmuru,@11222,@1011
+132331,Acımasız Duruş,Acımasız Duruş: Krit. Hasarı Yükseltme,Krit. Hasar +%{1%}
+132332,Acımasız Duruş Kritik Vurma,Acımasız Duruş: %100 Krit. Oranı,Krit. Oranı Maks Verim
+13242,Sersemletme Atışı,@11222,
+13243,Seri Atış,"Seriatak: Sldr. Hızı Artışı, Saldırı Menzili Düşürme",Sldr. Hızı +%{1%} ve Saldırı Menzili -{2%}m.
+13244,Ölümcül Karşılık,"Kader Engeli: Yüksek Sldr. Artışı, Kaçınma Düşürme","Sldr. +{1}, Kaçınma -%{2%}"
+13251,Kara Nefes,@10122,
+13252,Bozulma,"Svn. Düşürme, Hız Düşürme","Svn. -%{1%}, Hız -%{3%}"
+132531,Ölümcül Bilgi,Ölümcül Bilgi: Yüksek B. Sldr. Artışı,B. Sldr +{1}
+132623,Kanlı Öfke,@10122,@10122
+132624,Kanlı Öfke: Hasar Artışı,Sldr. Artışı,
+132631,Güçleniş,Güçleniş: Can Harcama Sınırı,Can değerinin {1} altına inmesini engeller
+132632,@132631,@132631,
+14211,Saplama,"Svn. Düşürme, Hedef Belirleme",@13211
+14212,Deprem,@1011,@1011
+14213,@14212,@112125,Sldr. -%20
+14222,Zıplama Saldırısı,@1001,
+14223,Sinirli Cüce,"Kızgın Cüce: Sldr. Artışı, Svn. Düşürme","Sldr. +{1}, Svn. -%{2%}"
+14231,Kılıç Hücumu,Kritik Direnci Azaltma,Kritik Direnci -%{1%}
+14232,Sonik Yıldız,@12231,@10122
+142321,@14232,Sessizlik,Sessizlik
+142331,Adena Arayışı,Adena Arayışı: Adena Kazanma Artışı,Savaş esnasında kazanılan Adena +%{1%} ve Hız %{2%}
+242331,@142331,Adena Arayışı: Zehirleme and Yavaşlatma,Zehir Hasarı ve Hız -%{2%}.
+14241,Üçlü Atış,@11251,@13231
+14242,Kaçınma Atışı,@12231,@10122
+142422,@14242,Menzili Artışı,Menzili Artışı
+14251,Toprak Dikeni,@1001,
+142531,İçsel Dövüş,İçsel Dövüş: Grubun Normal Saldırılarını Güçlendirir,Grup Üyeleri Normal Saldırı Sldr. +%{1%}
+14261,Ulvi Koruma,Svn. Artışı,Grup üyeleri Svn. +{1}
+14262,Ulvi Alkış,@11222,
+142631,Büyük Zindelik,Büyük Zindelik: Grubun Maks Can'larını Artırır,Grup üyeleri Maks Canı +{1}
+20211,Savunma Aurası,Svn. Artışı,@14261
+20221,Saldırı Aurası,Sldr. Artışı,Grup üyeleri Sldr. +{1}
+20231,Hızlı Adım,Hız Artışı,Grup üyeleri Hız +%{1%}
+20241,Kılavuz,İsabet Artışı,Grup üyeleri İsabet +{1}
+20251,Ölüm Fısıltısı,Krit. Hasar Artışı,Grup üyeleri Krit. Hsr. +%{1%}
+20261,Can Artır,Maks Can Artışı,@142631
+21221,İntikam,@20221,Sldr. +{1}
+21231,Sinsilik,Bekleme Süresi Azaltma,Yetenek Bekleme Süresi -{1}
+212311,@21231,Sinsilik: Sldr. Artışı,@21221
+21241,Güçlendirilmiş Yavaşlatma,@10122,@10122
+21242,Güçlendirilmiş Yavaşlatma: Kanama Hasarı,@10122,Hasar: {[Use34Param]1-1%}% of Atk.
+21251,Alev,@11251,
+212512,@21251,@20221,@21221
+212611,Ulvi Bağ,@20211,Grup üyesi başına Svn. +%{1%}
+212621,Mana Kalkanı,Mana Kalkanı,Hasar almak can yerine mana azaltır.
+22211,Bilgince Kaçınma,Kaçınma Artışı,Kaçınma Oranı +%{1%}
+22221,Moral,Krit. Artış Oranı,Krit. Oranı +%{1%}
+22231,Büyüyen Öfke,"Sldr. Hızı., Hız Artışı",+%{[StackMul]1%} Sldr. Hızı ve +%{[StackMul]1%} Hız.
+22241,Çevik,Kritik Hasar Artışı,@132221
+22261,@22211,@22211,Kaçınma +%{1%}
+23211,Güçlendirilmiş Çekim,Can Çalma Etkisi,Alınan hasar %{1-1%} soğurulur
+23221,Sıcaklık,@22241,@132331
+23231,Kan Arayışı,"Svn., Krit. Oranı Direnci Azaltma",-%{1%} Svn. ve -%{3%} Kritik Direnci.
+23241,Kritik İşaret,İsabet Oranı Artışı,İsabet Oranı +%{1%}.
+23251,@23221,@22241,@132331
+23261,Taarruz,@20221,Can Çalma +%{1%}
+24211,Sabır,Sldr. Artışı Güçlendirme,@21221
+242121,Şanslı Çeviklik,Şanslı Çeviklik: Gruba saldırıldığına bekleme sürelerinde azalma şansı,Yetenek Bekleme Süresi -{1#}
+24221,Arzulayan Darbesi,@24211,@21221
+242231,Şanslı Cani,Şanslı Cani: Grup saldırdığında Sldr. Hızı artış şansı,Sldr. Hızı +%{1%}
+24231,@22221,@22221,@22221
+242321,Şanslı Ölümcül,Şanslı Öldürme: Krit. Oran Artışı,@122431
+24241,Akrobasi,Kaçınma Oranı Artışı,@22211
+242421,Şanslı Hızlı Adım,Şanslı Hızlı Adım: Sersemletme,@1011
+2424211,@242421,Şanslı Hızlı Adım: Sldr. Düşürme,Sldr. -%{1%}
+24251,@23261,@20221,@21221
+24252,Şanslı Savunma,Şanslı Savunma: Grup saldırdığında F. Svn. ve M. Svn. yükseltme şansı,Svn. +{1}
+24261,Kuvvetlendirme,Can Yenileme Artışı,Can Yenileme +%{1%}
+30001,Mutlak Kalkan,"Alınan Hasarı Düşürme, Kısıtlayıcı Direnç","Alınan hasarın -%{1%} (kısa süreli), +%30 Zayıflatma Direnci"
+30002,Çevik Adım,@132221,@132221
+30003,Ölümsüzlük,@1004,
+30004,Kan Oku: Süreli Hasar,@13231,+%{[Use34Param]1%} Kanama Hasarı
+30006,Güç Oku: Sersemletme,@11222,@1011
+30008,Buz Zırhı: Tümü,Buz Zırhı,Yavaşlatma
+30010,Mana Kalkanı,Mana Kalkanı,@212621
+30013,Süre Azaltma,Bekleme Süresi Azaltma,Belirlen süre boyunca yetenek bekleme sürelerin azalır
+30014,Zehir Saldırısı,Hasar ve Hız Azaltma,Hasar -%{1%} ve Hız -%{2%}
+300141,@30014,Poison Hasar,Zehir Hasarı: %{[Use34Param]1%}
+30015,Savunma Alanı,Anormal Durum Direnci,Anormal Durum Direnci +%{1%}
+300151,@30015,Alınan Hasar Azaltma,Alınan Hasar -%{1%} ve Nadir Yetenekten Alınan Hasarda ek olarak -%{2%}
+31001,Buz Zırhı: Yavaşlatma,@10122,@30008
+35001,Savaşçı Silah Ustalığı,Savaşçı Silah Ustalığı,
+35002,Ağır Zırh Ustalığı,Ağır Zırh Ustalığı,
+35003,Casus Silah Ustalığı,Casus Silah Ustalığı,
+35004,Hafif Zırh Ustalığı,Hafif Zırh Ustalığı,
+35005,Büyücü Silah Ustalığı,Büyücü Silah Ustalığı,
+35006,Cübbe Ustalığı,Cübbe Ustalığı,
+35011,Savuşturma Ustalığı,Savuşturma Ustalığı,
+35021,Savaş Ustalığı,Savaş Ustalığı,
+35031,Gelişmiş Kritik Saldırı,Gelişmiş Kritik Saldırı,
+35111,@35011,@35011,
+35121,@22221,Moral,
+35122,@35021,@35021,
+35131,Kritik Şans,Kritik Şans,
+35141,@22241,Çevik,
+35151,Donuk Mühür,Donuk Mühür,
+35161,@22211,Bilgin Kaçınması,
+35221,@35021,@35021,
+35231,Kritik Güç,Kritik Güç,
+35311,Savuşturma Uzmanlığı,Savuşturma Uzmanlığı,
+35321,@35021,@35021,
+35331,@22221,@35121,
+35332,Şanslı Öldürme,Şanslı Öldürme,
+35341,@24241,Akrobasi,
+40001,TP Bonus Süre Güçlendirmesi,TP Kazanma Artışı,Bonus Süre boyunca kazandığın TP'ler büyük miktarda artar.
+40002,Adena Bonus Süre Güçlendirmesi,Adena Kazanma Artışı,Bonus Süre boyunca kazandığın Adena'lar büyük miktarda artar.
+40003,Ekipman Bonus Süre Güçlendirmesi,Ekipman Düşürme Oranı Artışı,Bonus Süre boyunca eşya düşme oranı büyük miktarda artar.
+40004,F. Sldr.,F. Sldr.,
+40005,B. Sldr.,B. Sldr.,
+40006,F. Sldr. Artış Oranı,F. Sldr. Artış Oranı,
+40007,B. Sldr. Artış Oranı,B. Sldr. Artış Oranı,
+40008,Normal Saldırı Gücü,Normal Saldırı Gücü,
+40009,Grup Üyesi Sldr. Artış Oranı,Grup Üyesi Sldr. Artış Oranı,
+40010,Sldr. Hızı Artma Oranı,Sldr. Hızı Artma Oranı,
+40011,Kritik Hasar Artma Oranı,Kritik Hasar Artma Oranı,
+40012,Kritik Vurma Oranı,Kritik Vurma Oranı,
+40013,Kritik Direnç Oranı,Kritik Direnç Oranı,
+40014,F. Hasar,F. Hasar,
+40015,B. Hasarı,B. Hasarı,
+40016,Svn. Yok Say,Svn. Yok Say,
+40017,Hedefin Can Azalması,Hedefin Can Azalması,
+40018,Hedefin Can Azalması (%),Hedefin Can Azalması (%),
+40019,F. Svn.,F. Svn.,
+40020,B. Svn.,B. Svn.,
+40021,F. Svn. Artış Oranı,F. Svn. Artış Oranı,
+40022,B. Svn. Artış Oranı,B. Svn. Artış Oranı,
+40023,Kaçınma,Kaçınma,
+40024,Kaçınma Oranı Artışı,Kaçınma Oranı Artışı,
+40025,Kaçınma Oranı,Kaçınma Oranı,
+40026,İsabet,İsabet,
+40027,İsabet Oranı Artışı,İsabet Oranı Artışı,
+40028,İsabet Oranı,İsabet Oranı,
+40029,Hasar Artma Oranı,Hasar Artma Oranı,
+40030,F. Hasar Artış Oranı,F. Hasar Artış Oranı,
+40031,@40030,@40030,
+40032,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı,
+40033,Svn. Yok Sayma Hasarı,Svn. Yok Sayma Hasarı,
+40034,Hasar Azaltma Oranı,Hasar Azaltma Oranı,
+40035,F. Hasar Azaltma Oranı,F. Hasar Azaltma Oranı,
+40036,B. Hasarı Azaltma Oranı,B. Hasarı Azaltma Oranı,
+40037,Sabit Hasar Azaltma,Sabit Hasar Azaltma,
+40038,Yansıtma Oranı,Yansıtma Oranı,
+40039,Yansıtılan Hasar Azaltma Oranı,Yansıtılan Hasar Azaltma Oranı,
+40040,Süreli F. Hasar,Süreli F. Hasar,
+40041,Süreli B. Hasarı,Süreli B. Hasarı,
+40042,Sldr. Temelli İyileştirme,Sldr. Temelli İyileştirme,
+40043,Süreli İyileştirme,Süreli İyileştirme,
+40044,Taarruz Artış Oranı,Taarruz Artış Oranı,
+40045,Can Yenileme,Can Yenileme,
+40046,Can Çalma,Can Çalma,
+40047,Can Soğurma (düşmanlarından can çalan aktif yetenek),Can Soğurma (düşmanlarından can çalan aktif yetenek),
+40048,Can Soğurma (grubunun düşmanlardan can çalmasını sağlayan aktif yetenek),Can Soğurma (grubunun düşmanlardan can çalmasını sağlayan aktif yetenek),
+40049,Maks Can,Maks Can,
+40050,Maks Can Yenileme Oranı,Maks Can Yenileme Oranı,
+40051,Maks Mana,Maks Mana,
+40052,Maks Mana Artış Oranı,Maks Mana Artış Oranı,
+40053,Hız Artış Oranı,Hız Artış Oranı,
+40054,Gereken Mana Azalış Oranı,Gereken Mana Azalış Oranı,
+40055,Gereken Manayı Azaltma,Gereken Manayı Azaltma,
+40056,Mana Yenileme Oranı,Mana Yenileme Oranı,
+40057,Yetenek Bekleme Süresi,Yetenek Bekleme Süresi,
+40058,Küçümseme (aggroyu maksimuma çeker),Küçümseme (aggroyu maksimuma çeker),
+40059,Hedefe Kitlen,Hedefe Kitlen,
+40060,Hedefe Hareket Et,Hedefe Hareket Et,
+40061,Hedefi Çek,Hedefi Çek,
+40062,Çekme Direnci Oranı,Çekme Direnci Oranı,
+40063,Düşürülme Direnci Oranı,Düşürülme Direnci Oranı,
+40064,TP Kazanma Artış Oranı,TP Kazanma Artış Oranı,
+40065,Adena Kazanma Artış Oranı,Adena Kazanma Artış Oranı,
+40066,Yavaşlatma Direnci Oranı,Yavaşlatma Direnci Oranı,
+40067,Sersemletme Direnci Oranı,Sersemletme Direnci Oranı,
+40068,Anormal Durum Direnci,@30015,
+40069,Yetenek Menzili Artışı,Yetenek Menzili Artışı,
+40070,Yetenek Vuruş Sayısı Artışı,Yetenek Vuruş Sayısı Artışı,
+40071,Kombo Bitiş Süresi Artışı,Kombo Bitiş Süresi Artışı,
+40072,Delme,Delme,
+40073,Direnç,Direnç,
+40074,Krit. Oranı,Krit. Oranı,
+40075,Kritik Direnci,Kritik Direnci,
+40076,Krit. Oran Artış Oranı,Krit. Oran Artış Oranı,
+40077,Kritik Direnci Artış oranı,Kritik Direnci Artış oranı,
+50001,Alev,Canavar: Alev,
+50002,Ürperti,Canavar: Ürperti,
+50003,Kör Etme,Canavar: Kör Etme,
+50004,Lanet,Canavar: Lanet,
+50005,Sersemlet,Canavar: Sersemletme,
+50006,Kanama,"Canavar: Kanama, Sldr. Hızı Düşürme",
+50007,Zehirleme,"Canavar: Zehirleme, Hız Düşürme",
+50008,Zayıflatma,Canavar: Zayıflatma,
+50010,@50005,@50005,
+60099,@50006,Konuşkan Ada Canavarı: Kanama,
+60103,Sahte Yetenek,@132221,
+60115,Altın İdol,Yakma,5 saniye sonunda toplam hasar verilir.
+60118,Marlow - Mutlak Savunma,@13213,Svn.'yi Çok Fazla Artırır
+60136,İskelet Kovalayan (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),@50005,
+60137,Taş Golem (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),@50005,
+71023,Kritik Gürültü,@10122,Hız -%40
+71452,@50006,Kan Kralının Ölümcül Isırığı: Kanama,
+71462,@50006,Orbis’in Çiziği: Kanama,
+73013,Guillotine: Öfke,Sinirli,
+73022,Kanlı Hilal: Saldırı Azaltma,@112125,Sldr. Düşürür
+73031,Orfen: Zayıflatma,Orfen Zayıflatma,Svn. Düşürür
+73033,Orfen Öfkesi,Orfen Öfkesi,Sldr. ve Sldr. Hızı Artışı.
+74011,Ölümün Kökü: Yere Yıkma,@1001,
+74022,Kan Çekme,Kan Çekme: Süreli İyileştirme (%),
+74032,Yıldırım Çağır,Yıldırım Çağır: Süreli Hasar,
+74042,Cehennem Laneti,Cehennem Laneti: Alev,
+74051,Zehirli Çukur,Zehirli Çukur: Süreli Hasar,
+74062,@11222,Yıldırım Fırtınası: Yavaşlatma,
+74071,Garez Bataklığı,Garez Bataklığı: Süreli Hasar,
+74072,Kuyruk Darbesi,Kuyruk Darbesi: Yavaşlatma,@12221
+74082,Aşırı Isınma,Aşırı Isınma: Sldr. Artışı,
+74083,@74082,Aşırı Isınma: Hız Artışı,
+74084,@74082,Aşırı Isınma: Svn. Düşürme,
+74085,@74082,@74082,
+74086,@74082,@74083,
+74087,@74082,@74084,
+74088,@74082,@74082,
+74089,@74082,@74083,
+74090,@74082,@74084,
+74091,@74082,@74082,
+74092,@74082,@74083,
+74093,@74082,@74084,
+50074,Ezme: Sldr. Düşürme,Ezme: Hasar Azaltma,Etki her tekrarlandığında {1} Sldr. düşer.
+74095,Taşlaştıran Bakış,Taşlaştıran Bakış: Alınan Hasar Artar,Alınan hasarı %{1%} artırır.
+74096,Kraliçe'nin Darbesi,Kraliçe'nin Darbesi: Kör Etme,Her İsabette için {1} azalır.
+74097,Katlanan Güçlendirme: F. Svn,Katlanan Güçlendirme: F. Svn,F. Svn. +%{1%}
+74098,Katlanan Güçlendirme: B. Svn.,Katlanan Güçlendirme: B. Svn.,B. Svn. +%{1%}
+74111,Ölüm İşareti,Ölüm İşareti,
+74121,Tutuşmuş Çamur,Tutuşmuş Çamur: Alınan Hasar Artar,
+74122,Yere Vurma,Dibe Ezme: Süreli Hasar,
+74131,Marsha'nın Bakışı (Eski),Marsha'nın Bakışı: Süreli Hasar,10 saniye boyunca yanındakileri de etkileyen hasar alırsın.
+74132,Medusa'nın Laneti (Eski),Medusa'nın Laneti: Alan Hasarı,5 saniye boyunca hareketsiz kaldıktan sonra alan hasarlı bir patlama yayar.
+74134,@74132,Medusa'nın Laneti: Patlama,
+741341,Marsha: Günah Kasırgası,Marsha: Günah Kasırgası,10 saniye boyunca {1} Kan hasarı verir.
+741342,@741341,@741341,@1011
+741351,Marsha: Kılıç Rüzgarı,Marsha: Kılıç Rüzgarı,Yetenekler 5 saniye boyunca kullanılamaz
+7413511,@741351,Marsha: Kılıç Rüzgarı (VE),@741351
+741352,@741351,@741351,@741351
+741353,@741351,@741351,@741351
+77001,@50001,@50001,
+77002,@50002,"Canavar: Ürperti, Hız Düşürme",
+77003,@50003,@50003,
+77004,@50004,"Canavar: Lanet, Svn. Düşürme",
+77005,@50005,@50005,
+77006,@50006,"Canavar: Kanama, Sldr. Düşürme",
+77007,@50007,@50007,
+77008,@50008,@50008,
+77010,@50005,@50005,
+77085,@73022,@112125,@73022
+801011,Sldr. Artışı,"F. Sldr., B. Sldr. Artışı",30 sn. boyunca Sldr. +%50.
+801012,F. Sldr. Artışı,F. Sldr. Artışı,30 sn. boyunca Sldr. +%30.
+801013,B. Sldr. Artışı,B. Sldr. Artışı,@801012
+801021,Sldr. Hızı Artışı,Sldr. Hızı Artışı,30 sn. boyunca Sldr. Hızı. +%50.
+801022,@801021,@801021,30 sn. boyunca Sldr. Hızı. +%20.
+801031,Svn. Artışı,F. Svn & B. Svn. Artışı,30 sn. boyunca Svn. +%300.
+801032,F. Svn. Artışı,F. Svn. Artışı,30 sn. boyunca Svn. +%35.
+801033,B. Svn. Artışı,B. Svn. Artışı,@801032
+801041,Hız Artışı,Hız Artışı,30 sn. boyunca Hız. +%30.
+801042,@801041,@801041,@801041
+80105,Maks Can Artışı,Maks Can Artışı,30 sn. boyunca Maks Canın %+40'ı
+80106,Maks Mana Artışı,Maks Mana Artışı,30 sn. boyunca Maks Mananın %+40'ı
+801043,Yetenek Hasarı Artışı,Yetenek Hasarı Artışı,30 sn. boyunca Yetenek Hasarı %300. artar
+801044,Yakın Dövüş Hasar Aurası (Zamanlı),Yakın Dövüş Hasar Aurası,Yakındaki düşmanlara 30 saniye içinde 300 sabit hasar verir.
+801045,Su Kristali Bariyeri,Su Kristali Hasardan Korunma,Su Kristali üzerine 30 saniye hasardan etkilenmeyen bir bariyer oluşturur.
+801046,Öfke Grubu (Timer),Sldr. ve Svn. Artışı,30 saniye boyunca müttefiklerin Sldr. ve Svn.’sini %30 artırır.
+8010461,Öfke Grubu,@801046,@801046
+801047,Alaşağı Etme,Sldr. ve Sldr. Hızı Artışı,30 saniye boyunca Sldr. ve Sldr. Hızı’nı artırır.
+801048,@801047,@801047,10 saniye boyunca Sldr. ve Sldr. Hızı’nı artırır.
+93506,Cani Böcayı,"Büyük Sldr. ve Svn. Artışı, Küçük Hız ve Sldr. Hızı Artışı",
+94409,Cani Akdeden İblis,@93506,"Sldr., Svn., Hız ve Sldr. Hızı Artışı"
+90001,Klan Canı,Can Artışı,Maks Can +%{1%}
+90002,Klan Ruhu,Mana Artışı,Maks Mana +%{1%}
+90003,Klan Kalkanı,Svn. Artışı,Svn. +%{1%}
+90004,Klan Kudreti,Sldr. Artışı,Sldr. +%{1%}
+90005,Klan Kılavuzu,İsabet Artışı,İsabet Oranı +%{1%}
+90006,Klan Kaçınması,@22211,@22261
+90007,Klan Hareketi,Hız Artışı,@132221
+90008,Klan Ölümcül Hasarı,@22241,@132331
+90009,Klan Krit. Oranı,Krit. Artış Oranı,Krit. Oranı +%{1%}
+905001,Birlik Kristali Svy. {TextParam1},Birlik Kristali {TextParam2} Svy. Güçlendirmesi,Klan Meydanı Birlik Kristali gücünü uygular.
+905002,@905001,@905001,@905001
+905003,@905001,@905001,@905001
+905004,@905001,@905001,@905001
+905005,@905001,@905001,@905001
+905006,@905001,@905001,@905001
+905007,@905001,@905001,@905001
+905008,@905001,@905001,@905001
+905009,@905001,@905001,@905001
+905010,@905001,@905001,@905001
+905101,Küçük Ziyafet Doygunluğu,F.Svn ve B.Svn Artışı,F. Svn. & B. Svn. +500
+905102,Orta Ziyafet Doygunluğu,Can ve Mana Artışı,Can/Mana 1000 Artar
+905103,Büyük Ziyafet Doygunluğu,"F. Sldr., B. Sldr. Artışı","F. Sldr., B. Sldr. +500"
+905104,Şaşalı Küçük Ziyafet Doygunluğu,@905101,F. Svn. & B. Svn. +1200
+905105,Şaşalı Orta Ziyafet Doygunluğu,@905102,Can/Mana 2000 Artar
+905106,Şaşalı Büyük Ziyafet Doygunluğu,@905103,"F. Sldr., B. Sldr. +1200"
+905107,Lüks Küçük Ziyafet Doygunluğu,"F. Svn, B. Svn ve Krit. Artış Oranı","F. Sldr., B. Sldr. +2,000 ve Krit. Oranı +500"
+905108,Lüks Orta Ziyafet Doygunluğu,"Can, Mana ve Krit. Artış Oranı","Can, Mana 3,000 ve Krit. Oranı +500"
+905109,Lüks Büyük Ziyafet Doygunluğu,"F. Sldr., B. Sldr. ve Krit. Artış Oranı","F. Sldr., B. Sldr. +2,000 ve Krit. Oranı +500"
+905501,F. Sldr. Artışı Arttırıcı,F. Sldr. Artışı,F. Sldr.'yi %10 artırır.
+905502,B. Sldr. Artışı Arttırıcı,B. Sldr. Artışı,B. Sldr.'yi %10 artırır.
+905503,F. Svn. Artışı Arttırıcı,F. Svn. Artışı,F. Svn.’sini %10 artırır.
+905504,B. Svn. Artışı Arttırıcı,B. Svn. Artışı,B. Svn.’sini %10 artırır.
+905505,Hız Arttırıcı,Hız Artışı,Hız’ı %15 artırır.
+905506,Toplama Hızı Arttırıcı,Toplama Hızı Artışı,Toplama Hızı’nı %50 artırır.
+905507,Sldr. Hızı Arttırıcı,Sldr. Hızı Artışı,Sldr. Hızı’nı %20 artırır.
+905508,Kaçınma Oranı Arttırıcı,@24241,Kaçınma Oranı’nı %50 artırır.
+905509,Direnç Arttırıcı,Direnç Artışı,Direnci 10.000 artırır.
+905510,Svn. Yok Sayma Hasarı Artırıcı,Svn. Yok Sayma Hasarı Artışı,Svn. Yok Sayma Hasarı’nı 2.000 artırır.
+905511,Sabit Hasar Azaltıcı,Sabit Hasar Azaltma Artışı,Sabit Hasar Azaltma Artışı’nı 1.000 artırır.
+905512,Bekleme Süresi Azaltıcı,@21231,Yetenek Bekleme Süresini %30 düşürür.
+905513,Delme Arttırıcı,Delme Artışı,Delmeyi 10.000 artırır.
+905514,Baş Düşman’a Verilen Hasarı Arttırıcı,Baş Düşman’a Verilen Hasarı Artışı,Baş Düşman’a Verilen Hasar’ı %15 artırır.
+905515,Baş Düşman’dan Alınan Hasarı Azaltıcı,Baş Düşman’dan Alınan Hasar’ı Azaltma,Baş Düşman’dan Alınan Hasar’ı %5 azaltır.
+905516,Öz Kazanımı Arttırıcı,Canavar Özü Düşme Oranı Artışı,Canavar Özü düşme Oranı’nı %25 artırır.
+905601,Moral Arttırıcı,Moral Artışı,Kendisinin ve yakındaki klan üyelerinin Hız’ını %30 artırır.
+905602,Moral Arttırıcı Etki,Moral Arttırıcı Etki,Klan üyelerinin Hız’ını %30 artırır.
+905603,Buz Fırtınası İksiri,Buz Fırtınası,Yakındaki düşmanların Hızını %50 azaltır.
+905604,Buz Fırtınası Etkisi,Buz Fırtınası Etkisi,Hız’ı %50 azaltır.
+905605,Yıkım İksiri,Kaleyi Yok Et,Saldırı binalarına verilen hasarı %50 artırır.
+905606,Can Yenilemesini Arttırıcı,Can Yenileme Artışı,Kendisinin ve yakındaki klan üyelerinin Can Yenilemesi’ni %50 artırır.
+905607,Can Yenileme Arttırıcı,Can Yenileme Arttırıcı,Klan üyelerinin Can Yenilemesi’ni %50 artırır.
+905608,Saldırı Arttırıcı,Saldırı Artışı,Sldr.’yi 20 arttırır ve Svn.’yi %60 azaltır.
+905609,Savunma Arttırıcı,Svn. Artışı,Sldr.’yi %15 arttırır ve Svn.’yi %100 azaltır.
+905610,Zihin Güçlendirici,Zihni Güçlendirme,Zayıflatma Direnci’ni %50 artırır.
+905611,Anti-Büyü İksiri,Anti-Büyü,Yakındaki düşmanların Mana’sını her saniye %20 azaltır.
+905612,Anti-Büyü Etkisi,@905611,Her saniye %20 Mana azaltır.
+906000,Şerefli Savaş Alanı Dirilme Koruması,Şerefli Savaş Alanı Dirilme Koruması,@1005
+906001,Şerefli Savaş Alanı,Can Yenileme,Müttefikleri iyileştirir.
+906002,@906001,Can Yenileme Etkisi,@906001
+906003,@906001,@801041,Müttefiklerin Hız’ını artırır.
+906100,Yiğitlik Meydanı Dirilme Koruması,Yiğitlik Meydanı Dirilme Koruması,@1005
+906101,Yiğitlik Meydanı,@906001,Can’ı iyileştirir.
+906102,@906101,@801041,Hız artırır.
+906500,Kargaşa Arenası Dirilme Koruması,Kargaşa Arenası Dirilme Koruması,@1005
+906501,Kargaşa Arenası Tapınağı,Kargaşa Arenası Tapınağı,"Sldr., Svn., Sldr. Hızı ve Hız +%30"
+11,Güç Şerbeti,Güç Şerbeti,Bu bir Güç Şerbeti.
+12,Kukla Düşürme,@1001,Düşürme testi içindir.
+100001,Ölümsüzlük Güçlendirmesi,@1004,Ölümsüzlük Güçlendirmesi
+100002,Görünmezlik Güçlendirmesi,Görünmez,Görünmezlik Güçlendirmesi
+100003,Dayanıklılık Güçlendirmesi,Dayanıklı,Dayanıklılık Güçlendirmesi
+100004,Zeka Güçlendirmesi,Zeki,Zeka Güçlendirmesi
+100005,Tek Atma Güçlendirmesi,Tek Atma,Tek Atma Güçlendirmesi
+100006,Toprak Enerjisi,@20221,Toprak Sunağı Koruması: F. Sldr. ve B. Sldr. ve Savunma Kuleleri'ne verilen Hasar +%25
+100007,Rüzgar Enerjisi,@20221,Rüzgar Sunağı Koruması: F. Sldr. ve B. Sldr. ve Savunma Kuleleri'ne verilen Hasar +%25
+100008,Sunak Koruması,@20221,"Sunağın gücü, F. Sldr.'yi ve B. Sldr.'yi %30 artırır."
+100011,Kombo Etkisi {TextParam1} Svy.,Kombo {TextParam2},Bu bir 10 kombo güçlendirmesi. Simgesi yoktur.
+100012,@100011,@100011,Bu bir 20 kombo güçlendirmesi. Simgesi yoktur.
+100013,@100011,@100011,Bu bir 40 kombo güçlendirmesi. Simgesi yoktur.
+100014,@100011,@100011,Bu bir 60 kombo güçlendirmesi. Simgesi yoktur.
+100015,@100011,@100011,Bu bir 90 kombo güçlendirmesi. Simgesi yoktur.
+100016,@100011,@100011,Bu bir 120 kombo güçlendirmesi. Simgesi yoktur.
+100017,@100011,@100011,Bu bir 160 kombo güçlendirmesi. Simgesi yoktur.
+100018,@100011,@100011,Bu bir 200 kombo güçlendirmesi. Simgesi yoktur.
+100019,@100011,@100011,Bu bir 250 kombo güçlendirmesi. Simgesi yoktur.
+100020,@100011,@100011,Bu bir 300 kombo güçlendirmesi. Simgesi yoktur.
+100021,Vicdan Azabı,"Sldr.,Svn. Düşürme",Kendini çok suçlu hissediyor ve gücünü toplayamıyorsun.
+100031,PvP Ayarlama Güçlendirmesi,"Sldr., Svn. Artışı",@100021
+100101,Toprak Sunağı Kahramanı,"Sldr, Binalara verilen Hasar, Maks Can, Hız Artar","F. Sldr ve B. Sldr +%80, Savunma Kuleleri'ne verilen Hasar +%50, Maks Can +%100, Hız +%10, Sersemletme Direnci +%30"
+100102,Rüzgar Sunağı Kahramanı,@100101,@100101
+200000,Koruma,Koruma,@100001
+200001,Ateş Enerjisi,Hız ve Sldr. Hızı Artışı,"Ateş Sunağı Koruması, Hız’ı %10 ve Sldr. Hızı’nı %10 artırır."
+200002,Su Enerjisi,"Hız Artışı, Bekleme Süresi Azaltma","Su Sunağı Koruması, Hız’ı %10 artırır ve Bekleme Süresi’ni %15 azaltır."
+200003,Kuşatma Kahramanı {TextParam1} Svy.,"Sldr., Svn. +{TextParam2}",Sldr. ve Svn. %+1.
+200004,@200003,@200003,Sldr. ve Svn. %+2.
+200005,@200003,@200003,Sldr. ve Svn. %+3.
+200006,@200003,@200003,Sldr. ve Svn. %+4.
+200007,@200003,@200003,Sldr. ve Svn. %+5.
+200008,@200003,@200003,Sldr. ve Svn. %+6.
+200009,@200003,@200003,Sldr. ve Svn. %+7.
+200013,@200003,@200003,@200003
+200014,@200003,@200003,@200004
+200015,@200003,@200003,@200005
+200016,@200003,@200003,@200006
+200017,@200003,@200003,@200007
+200018,@200003,@200003,@200008
+200019,@200003,@200003,@200009
+300001,Büyük Kale,TP Kazanma Artışı,"Canavarlardan kazanılan TP +%50.
+Sadece fethedilmiş kalenin bölgesinde geçerlidir."
+300002,Gludio Kalesi,"Sldr., Svn. +%1.5","Sldr. ve Svn. +%1.5.
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+300003,Dion Kalesi,Sldr. ve Svn. %+2.,"Sldr. ve Svn. +%2.
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+300004,Giran Kalesi,"Sldr., Svn. +%2.5","Sldr. ve Svn. +%2.5.
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+300005,Oren Kalesi,Sldr. ve Svn. %+3.,"Sldr. ve Svn. +%3.
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301001,Şato Kutsaması,Canavar Özü Düşme Oranı Artışı,"Canavar Özü Düşme Oranı +%10
+Sadece fethedilen Şato bölgesine uygulanır."
+301002,Gludin Yolu Şatosu,Canavarlara Verilen Hasar Artışı,Canavarlara Verilen Hasar +%5
+301003,Gludio Ovası Şatosu,Canavarlardan Alınan Hasar’ı Azaltma,Canavarlardan Alınan Hsr. -%2
+301004,Windawood Köşkü Şatosu,@301002,Canavarlara Verilen Hasar +%10
+301005,Çorak Diyar Şatosu,@301003,Canavarlardan Alınan Hsr. -%4
+301006,Dion Ovası Şatosu,Elit Canavarlara Verilen Hasar Artışı,Elit Canavarlara Verilen Hasar +%5
+301007,Cruma Bataklığı Şatosu,Elit Canavarlardan Alınan Hasar’ı Azaltma,Elit Canavarlardan Alınan Hsr. -%2
+301008,Uyumsuzluk Zirvesi Şatosu,@301006,Elit Canavarlara Verilen Hasar +%10
+301009,Uluyan Oyuk Şatosu,@301007,Elit Canavarlardan Alınan Hsr. -%4
+301010,Giran Bölgesi Şatosu,Baş Düşmanlara Verilen Hasar Artışı,Baş Düşmanlara Verilen Hasar +%5
+301011,Ölümcül Sis Kıyıları Şatosu,Baş Düşman’dan Alınan Hasar’ı Azaltma,Baş Düşmanlardan Alınan Hsr. -%2
+301012,Şeytan Adası Şatosu,@301010,Baş Düşmanlara Verilen Hasar +%10
+301013,Lanetli Mezarşehir Şatosu,@301011,Baş Düşmanlardan Alınan Hsr. -%4
+301014,Ejderha Vadisi Şatosu,Oyunculara Verilen Hasar Artışı,"Oyunculara Verilen Hasar +%2
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301015,Kuzey Yeli Platosu Şatosu,Oyunculardan Alınan Hasarı Düşürme,"Oyunculardan Alınan Hasarı -%2
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301016,Ebedi Topraklar Şatosu,@301014,"Oyunculara Verilen Hasar +%4
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301017,Fethedilmiş Fildişi Kulesi Şatosu,@301015,"Oyunculardan Alınan Hasarı -%4
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301018,Konuşkan Ada Şatosu,@132221,"Hız +%2
+(Kale Kuşatması ve Şato Kuşatması Dışında)"
+301030,Fethedilen Şato Güçlendirmesi C,"Can, Mana, Hız Artışı","Can, Mana, Hız +%2
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+301031,Fethedilen Şato Güçlendirmesi B,@301030,@301030
+301032,Fethedilen Şato Güçlendirmesi A,@301030,"Can, Mana, Hız +%3
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+301033,Fethedilen Şato Güçlendirmesi S,@301030,"Can, Mana, Hız +%4
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+301034,Fethedilen Şato Güçlendirmesi R,@301030,"Can, Mana, Hız +%6
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+301035,Fethedilen Şato Güçlendirmesi SR,@301030,"Can, Mana, Hız +%8
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+301036,Fethedilen Şato Güçlendirmesi UR,@301030,"Can, Mana, Hız +%10
+(Kale Kuşatması ve Şato Kuşatması hariç)"
+302001,Lord'un Bilgeliği,Can ve Mana Yenileyicilerinin Etkisini Artırır,Can ve Mana Yenileyicilerini Etkisi +%20. (Kale Kuşatması ve Şato Kuşatması Dışında)
+302002,Lord'un Görkemi,"Canavarlardan Kazanılan TP, Öz Düşme Oranı Artışı",Canavarlardan kazanılan & Öz Düşme Oranı +%{0}
+302003,Lord'un Erdemi,"Canavarlardan Eşya Düşme Oranı, Adena Kazanma Artışı",Canavarlardan kazanılan Aden & Eşya Düşme Oranı +%{0}
+400001,Tapınak Güçlendirmesi,"Adena, Kazanılan TP ve Hız Artışı","Kazanılan Adena, Kazanılan Tp. & Hız Artışı"
+400002,Gran Kain'in Öfkesi,"Sldr., Svn. ve Sldr. Hızı Artışı","Sldr., Svn. ve Sldr. Hızı Artışı"
+500001,Eldru'nun Öfkesi,"Sldr., Svn., Hız ve Sldr. Hızı Artışı","Zayıf düşmanlara karşı öfke kus / Sldr. & Svn., Hız & Sldr. Hızı 2 katına çıkar"
+510001,Günlük Elmas Bonus Güçlendirme,@132221,Hız +%8
+510002,Günlük Av Avantajı Güçlendirmesi,"Eşya düşme oranı, +%20 Adena Kazanma",Eşya düşme oranı / +%20 Adena Kazanma
+900001,Kibir Kulesi Baş Düşman İnceleme,Güçlü,Güçlü
+301,Gürbüz Ratel Kutsaması {TextParam1},Hız,Gürbüz Ratel Kutsaması hızı artırır.
+302,@301,Toplama Hızı,Gürbüz Ratel Kutsaması bitki toplama hızını artırır.
+303,@301,Toplama Miktarı,Gürbüz Ratel Kutsaması bitki toplama miktarını artırır.
+304,Bahçe Nöbetçisi Kutsaması,Bahçe Nöbetçisi Güçlendirmesi,Bahçe Nöbetçisi'nden bir lütuf. Bitki toplama miktarını {0} kat artırır.
+305,Bahçe Nöbetçisi,Bahçe Nöbetçisi,Bahçe Nöbetçisi doğduğunda kullandığı ilk yetenek.
+306,Bahçe Nöbetçisi Etkisi,Bahçe Nöbetçisi Etkisi,Bahçe Nöbetçisi'nin düzenli olarak kullandığı yetenek.
+401,Şifa Pınarı,Şifa Pınarı,Şifa Pınarı doğduğundan kullandığı ilk yetenek.
+402,Şifa Pınarı Güçlendirmesi,Şifa Pınarı Güçlendirmesi,Şifa Pınarı etrafındakilerin canını yavaşça yeniler.
+403,Şato Kuşatması Dirilme Güçlendirmesi,@1004,Şato Kuşatması esnasında dirildiğinde kısa süreliğine yenilmez olursun.
+451,Kale Kuşatması Savunanın Dirilme Güçlendirmesi,@1004,Kale Kuşatması sırasında dirilme sonrası bir süre Dokunulmazlık verir.
+452,@451,@301,Kale Kuşatması esnasında dirildiğinde kısa süreliğine daha hızlı hareket edersin.
+453,Kale Kuşatması Saldıranın Dirilme Güçlendirmesi,@1004,@451
+454,@453,@301,@452
+501,PK Engelle,PK Engelle,"PK'yı ilgilendirmez. (Savaş Alanı, Kale Kuşatması ve Şato Kuşatması Dışında)"
+502,@501,@501,@501
+503,@501,@501,@501
+504,@501,@501,@501
+510,Einhasad’ın Kutsaması,Einhasad’ın Kutsaması,Saha Av TP’sini ve Toplama TP’sini %100 artırma
+511,@510,@510,Saha Av TP’sini ve Toplama TP’sini %200 artırma
+720212,Sıçrama - Sersemletme,@11222,@1011
+1720212,@720212,@11222,@1011
+720222,Zehir Tükürme - Zehir,Zehirleme,Süreli Zehir Hasarı verir.
+1720222,@50007,@720222,Zehirlenmiş ve süre bazlı hasar alıyor.
+1720223,Zehir Birikintisi,Zehir Birikintisi,
+720232,Feromon Salma - F. Svn. Düşürme,F. Svn Düşürme,F. Svn Düşürür.
+720233,Feromon Salma - B. Svn. Düşürme,B. Svn. Düşürme,B. Svn. Düşürür.
+720234,Feromon Salma - Hız Düşürme,@12231,Hız Düşürür.
+1720232,@720232,@720232,@720232
+1720233,@720233,@720233,@720233
+1720234,@720234,@12231,@720234
+1720310,Büyük Bakıcı Karınca Kutsaması_1,@1004,
+1720311,Büyük Bakıcı Karınca Kutsaması_2,@1004,
+1720312,Büyük Bakıcı Karınca Kutsaması_3,@1004,
+1720316,Kendini Sersemletme,@11222,
+720241,Yeri Kazma - Görünmezlik,@100002,
+720242,Yeri Kazma - Yenilmezlik,@1004,
+720243,Yeri Kazma - Sersemletme,@11222,
+720251,Cinnet (Kraliçe Karınca),@905502,
+720282,Normal Saldırı + Yavaşlama,Normal Krit. Hasar Direnci,@720234
+720301,Fiziksel saldırılardan {TextParam1} saniye korunur.,,
+721211,{TextParam1} saniyeliğine Svn. artar.,,
+721222,Kraliçe Karınca Normal Saldırı Güçlendirmesi,@720222,@720222
+7212411,Karınca Güçlendirmesi (Belirtilen süre boyunca),Kendini İmhaya Kalan Süre,
+721241,Karınca Güçlendirmesi {TextParam1},,
+721242,@721241,,
+721243,@721241,,
+721244,@721241,,
+721245,@721241,,
+721246,@721241,,
+721301,@720243,@11222,
+721321,Bağlama,,Bağlar ve hareketi engeller.
+721332,Hemşire Karınca Güçlendirmesi,,
+721341,Hemşire Karınca Kişisel Güçlendirmesi,,
+17200022,@50007,,@1720222
+17200032,@1720223,@1720223,
+17200033,Takıldı,,
+17200052,@50005,,Hareket edemiyor.
+17200091,Cinnet,,
+720312,Kan Kılıcı: Kanama,Kanama,30 saniye boyunca süreli hasar verir. (Katlanabilir)
+720321,Kan Koruması,Kalkan,10 saniye süren bir kalkan oluşturur.
+720351,Kan Cinneti,Cinnet,Cinnet
+720352,@720351,@720351,@720351
+720353,Kan Cinneti (Çok Zor),@720351,@720351
+720372,@50005,Varcarlo: Sersemletme,
+7203721,@50005,Varkaron (Çok Zor): Sersemletme,
+720361,Kanlı Tokat: Kanama,Kanama 2,@720312
+72038,Kan Girdabı: Svn. Azaltma,@13211,10 saniye boyunca savunma azaltır. (Katlanabilir)
+172035,Varkaron'un Klonu: Sldr. Artırma Güçlendirmesi,Sldr. Güçlendirme,Sldr. Güçlendirme
+720391,Klon Çağırma: Bekleme Süresi,Bekleme Süresi,Basit Bekleme Süresi
+720441,Yerçekimi Zehri,Süreli Hasar,30 saniye boyunca süreli hasar verir.
+720451,Öz Öfkesi,@720351,Öfkelenme
+720461,Zihin Kontrolü,Zihin Kontrolü,Aklı karıştı ve kim düşman kim arkadaş seçememeye başladı.
+720472,Delen Ezme (Sersemletme),@11222,@1011
+720482,Geçit Muhafızı'nın Gürlemesi (Sessizlik),@142321,Yetenekler Kullanılamaz
+720511,Kolay Çağırma {TextParam1},Bekleme Süresi Testi,@720391
+720521,@720461,@720461,@720461
+720531,@720461,@720461,@720461
+720541,@720511,@720511,@720391
+720551,Normal Çağırma {TextParam1},@720511,@720391
+720561,@720551,@720511,@720391
+720571,@720551,@720511,@720391
+720581,Zor Çağırma {TextParam1},@720511,@720391
+720591,@720581,@720511,@720391
+720601,@720581,@720511,@720391
+600,Zihin Kontrolü (Test),@720461,Zihin Kontrolü (Veriler şu an test ediliyor)
+741141,Kopma,@11222,"Kopma, sersemletme ugular."
+741171,Marlox Bitkinliği,@11222,"Marlox bitkin hale gelir.
+Marlox'un aldığı hasar büyük oranda artar."
+741191,İblis Totem Güçlendirmesi (Katlanabilir),Katlanabilir Güçlendirme,Katlandığında Sersemletme uygular.
+7411911,@741171,@11222,Marlox bitkin hale gelir.
+7411912,Marlox_Strong (Status),İblis Dokunulmazlığı,İblis Dokunulmazlığı herhangi bir hasar almanı engeller.
+601391,Çürüme,Sldr. Hızı Düşürme,Sldr. Hızı Düşürür
+601402,Şaşırmış,Saldırı İsabet Oranı Azaltma,Saldırıların İsabet Oranı’nı azaltır.
+601412,@50006,@720312,Zamanla kanamadan hasar alır.
+601441,@50006,@720312,@601412
+601462,@50005,@11222,@1011
+601472,Yere Yıkma,@1001,Devrilmiş
+601612,@601472,@1001,@601472
+601622,Yavaşlatma,@10122,Hız Düşürme
+601642,@50007,Zehirleme,Zamanla zehirden hasar alır.
+601,@50005,@1011,@1011
+910245,Organik Bal Şekeri,,Sldr. +1500
+910246,Çilekli Şeker,,Maks Can +3000
+910247,Çikolatalı Şeker,,Maks Mana +3000
+910248,Üzümlü Şeker,,Svn. +2000
+910249,Bahar Filizi,,@910248
+910250,Tebrikler,,@910245
+910251,Üzüm,,Kritik Hasarını %3 artırır.
+910252,Karpuz,,@910246
+910253,Kavun,,@910248
+910254,Ahududu,,@910245
+910255,Feldheim’in Hazine Avı Anahtarı,,@910246
+910256,Havai Fişek Etki Animasyonu Veri 1 ,,Havai Fişek Etkisi Veri 1
+910257,Havai Fişek Etki Animasyonu Veri 2,,Havai Fişek Etkisi Veri 2
+910258,Havai Fişek Etki Animasyonu Veri 3,,Havai Fişek Etkisi Veri 3
+910259,Havai Fişek Etki Animasyonu Veri 4,,Havai Fişek Etkisi Veri 4
+602,Saha baş düşmanı için güşlendirme,Görülen saha baş düşmanı için,Görülen saha baş düşmanı için
+800000,Alarm Simgesi (Test),Alarm Simgesini Göster,Alarm Simgesi Görünüm Testi
+805004,@720312,@720312,@720312
+411005,Delme Hasarı,Delme Hasarı,Yaranın kanaması savunmayı azaltır.
+411010,Anemi,@11222,
+411011,Zorla Can Çalma,Zorla Can Çalma,Leonard zorla can çeker.
+411018,Vampirleşme,"Sldr. Artışı, Svn. Düşürme","Kan, vampir kanına dönüşür ve öfke yaratır."
+411019,Vampirsel Değişim,@720461,"Kan, tamamen vampir kanına dönüşür ve bir müttefikin kanı yeni hedef olur."
+411036,Kan Öfkesi I,,
+411037,Kan Öfkesi II,,
+411038,Kan Öfkesi III,,
+412005,@411005,@411005,@411005
+412010,@411010,@11222,
+412011,@411011,@411011,@411011
+412018,@411018,@411018,@411018
+412019,@411019,@720461,@411019
+412036,@411036,,
+412037,@411037,,
+412038,@411038,,
+413002,Öfkeli Kan,Sldr. ve Sldr. Hızı Artışı,
+413005,@411005,@411005,@411005
+413010,Leonard: Anemi,@11222,
+413011,@411011,@411011,@411011
+413013,Aşındırıcı Asit,Süre bazlı Hasar ve Hız Azaltma,Yapışkan kusmuk hareketi kısıtlar ve teni eritir.
+413016,Yarasa: Görünmez,,
+4130212,Kan Yükleme: Yenilmez,@1004,
+4130213,Kan Yükleme: Sersemletme,@11222,
+413018,@411018,@411018,@411018
+413019,@411019,@720461,@411019
+4130272,Kan Pıhtısı Parıltısı,,
+413034,Soğuk Doygunluğu,,
+413035,Zaken'in Hayaleti'nin Yenilmezliği,@1004,@1004
+413036,@411036,,
+413037,@411037,,
+413038,@411038,,
+413041,Leonard: Kan Cehennemi,@11222,
+414002,@413002,@413002,
+414005,@411005,@411005,@411005
+414010,@411010,@11222,
+414011,@411011,@411011,@411011
+414013,@413013,@413013,@413013
+414016,@413016,,
+414018,@411018,@411018,@411018
+414019,@411019,@720461,@411019
+414036,@411036,,
+414037,@411037,,
+414038,@411038,,
+414041,@413041,@11222,
+414043,Tark Görünmezlik Güçlendirmesi,@11222,
+414045,Vampirsel Rezonans,,
+4010062,Taş Ezmesi: Sersemletme,@11222,@1011
+4010202,Hedef Saptandı: Hedef,Hedef,Baltaların yeni hedefi olur.
+401021,Amber,,Kısa süreliğine zeminde ateş yarattıktan sonra patlar.
+401026,Ateşleme,Ek Hasar (Katlanabilir),Ateşleme kaynaklı patlama daha fazla hasar verir.
+401009,Ramog'un Asil Muhafızı Cinneti,Animasyon,
+401010,Şaman Ork Ruh: Animasyon,,
+401011,Nebulite Kristali: Sersemletme,@11222,
+401013,İntihar Zamanlayıcısı,@7212411,
+401014,İntihar Animasyon Güçlendirmesi 1,,
+401015,İntihar Animasyon Güçlendirmesi 2,,
+4020012,Güçlü Darbe: Yere Yıkma,@1001,@601472
+4010351,Patlama Hazır: Kısıtlama,Ramog'u Kısıtlamak için,
+4020101,Patlama Hazır: Kısıtlama,@12231,
+4010361,Paagrio'nun Hareket Güçlendirmesi,Hareketli,
+4010222,@50001,Alev,
+401000,Ork Gücü,Ork İkmal Sandığı Güçlendirmesi,
+4011032,Hedef Saptandı: Sersemletme,@1001,
+4011042,@401021,Amber,Amberler bedene yapışır ve sürekli hasar verir.
+4011022,Amber Patlaması 1,@4011042,
+4011023,Amber Patlaması 2,,
+4011092,Amber Patlaması: Yere Yıkma,@1001,
+4012022,@401026,,@401026
+4012051,Patlama Hazır,,
+4012061,@4010361,,
+401217,Cinnet Hazır,,
+401218,Ramog'un Kendini Sersemletmesi,,
+4012092,Paagrio'nun Parıltısı,,
+401211,Ramog - Cinnet,,
+9902011,Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer: 1 kez,,
+9902012,Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer: 2 kez,,
+9902013,Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer: 3 kez,,
+9903011,Pelerin Etkisi - PVP Nadir Yetenek Bariyeri: 1 kez,,
+9903012,Pelerin Etkisi - PVP Nadir Yetenek Bariyeri: 2 kez,,
+9903013,Pelerin Etkisi - PVP Nadir Yetenek Bariyeri: 3 kez,,
+1000000,Elit Canavar Hsr. Artışı,Elit Canavar Hsr. Artışı Güçlendirmesi,Elit Canavarlara %15 Hasar Artışı
+1000001,Baş Düşman Hsr. Artışı,Baş Düşman Hsr. Artışı Güçlendirmesi,Baş Düşmanlara %15 Hasar Artışı
+1000002,Büyülü Canavar Hsr. Artışı,Büyülü Canavar Hsr. Artışı Güçlendirmesi,Büyülü Canavarlara %30 Hasar Artışı
+420001,Paladin,,
+420002,Savaş Beyi,,
+420003,Hazine Avcısı,,
+420004,@11244,,
+420005,Sihirbaz,,
+420006,Ruhban,,
+420007,Işık Şövalyesi,,
+420008,Zarif Kılıç,,
+420009,Diyargezen,,
+420010,Gümüş Kolcu,,
+420011,Buz Büyücüsü,,
+420012,Bilgin,,
+420013,Shillien Şövalyesi,,
+420014,Kıvrak Kılıç,,
+420015,Kara Katil,,
+420016,Hayalet Kolcu,,
+420017,Kara Büyücü,,
+420018, Shillien Bilgini,,
+420019,Muhafız,,
+420020,Gözüpek,,
+420021,Yağmacı,,
+420022,Savaş Kolcusu,,
+420023,Savaş Büyücüsü,,
+420024,Bilge,,
+731211,자켄 밤 1단계,,
+731221,자켄 밤 2단계,,
+731231,자켄 밤 3단계,,
+731241,자켄 밤 4단계,,
+731251,자켄 밤 5단계,,
+731261,자켄 밤 6단계,,
+730223,Geri Dönüş,,
+730233,Geri Dönüş Animasyonu,,
+731361,Asker Zaken Korsanı,,
+731391,Kaptan Zaken Korsanı,,Svn.'yi çok düşürür.
+730271,Hazır,,F.Svn ve B.Svn.'yi düşürür.
+730281,Gizlen,,
+730222,Işınlanma + İlk Bot'a İlerle,,
+730232,Işınlanma + İkinci Bot'a İlerle,,
+731412,Belirsiz Sümük,,
+731461,Fare - Görünmez,,
+731471,Fare - Geri Dönüş,,
+810000001,Svy. 1 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %10 arttırır.
+Bu etki 1 saat sürer."
+810000002,Svy. 2 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %20 arttırır.
+Bu etki 1 saat sürer."
+810000003,Svy. 3 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %30 arttırır.
+Bu etki 1 saat sürer."
+810000004,Svy. 4 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %40 arttırır.
+Bu etki 1 saat sürer."
+810000005,Svy. 5 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %50 arttırır.
+Bu etki 1 saat sürer."
+810000006,Svy. 6 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %60 arttırır.
+Bu etki 1 saat sürer."
+810000007,Svy. 7 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %70 arttırır.
+Bu etki 1 saat sürer."
+810000008,Svy. 8 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %80 arttırır.
+Bu etki 1 saat sürer."
+810000009,Svy. 9 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %90 arttırır.
+Bu etki 1 saat sürer."
+810000010,Svy. 10 Klan Yenileyicisi: Adena Güçlendirmesi,@40002,"Kullanıldığında kazanacağın Adena miktarını %100 arttırır.
+Bu etki 1 saat sürer."
+810000101,Svy. 1 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,Eşya Düşme Oranını Arttırır,"Kullanıldığında eşya düşme oranını %10 arttırır.
+Bu etki 1 saat sürer."
+810000102,Svy. 2 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %20 arttırır.
+Bu etki 1 saat sürer."
+810000103,Svy. 3 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %30 arttırır.
+Bu etki 1 saat sürer."
+810000104,Svy. 4 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %40 arttırır.
+Bu etki 1 saat sürer."
+810000105,Svy. 5 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %50 arttırır.
+Bu etki 1 saat sürer."
+810000106,Svy. 6 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %60 arttırır.
+Bu etki 1 saat sürer."
+810000107,Svy. 7 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %70 arttırır.
+Bu etki 1 saat sürer."
+810000108,Svy. 8 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %80 arttırır.
+Bu etki 1 saat sürer."
+810000109,Svy. 9 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %90 arttırır.
+Bu etki 1 saat sürer."
+810000110,Svy. 10 Klan Yenileyicisi: Eşya Düşme Oranı Güçlendirmesi,@810000101,"Kullanıldığında eşya düşme oranını %100 arttırır.
+Bu etki 1 saat sürer."
+810000201,Svy. 1 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %10 arttırır.
+Bu etki 1 saat sürer."
+810000202,Svy. 2 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %20 arttırır.
+Bu etki 1 saat sürer."
+810000203,Svy. 3 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %30 arttırır.
+Bu etki 1 saat sürer."
+810000204,Svy. 4 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %40 arttırır.
+Bu etki 1 saat sürer."
+810000205,Svy. 5 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %50 arttırır.
+Bu etki 1 saat sürer."
+810000206,Svy. 6 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %60 arttırır.
+Bu etki 1 saat sürer."
+810000207,Svy. 7 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %70 arttırır.
+Bu etki 1 saat sürer."
+810000208,Svy. 8 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %80 arttırır.
+Bu etki 1 saat sürer."
+810000209,Svy. 9 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %90 arttırır.
+Bu etki 1 saat sürer."
+810000210,Svy. 10 Klan Yenileyicisi: Öz Düşme Oranı Güçlendirmesi,@905516,"Kullanıldığında Canavar Özü düşme oranını %100 arttırır.
+Bu etki 1 saat sürer."
+810000301,Svy. 1 Klan Yenileyicisi: TP Güçlendirmesi,Kazanacağın TP miktarını arttırır.,"Kullanıldığında kazanacağın TP miktarını %10 arttırır.
+Bu etki 1 saat sürer."
+810000302,Svy. 2 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %20 arttırır.
+Bu etki 1 saat sürer."
+810000303,Svy. 3 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %30 arttırır.
+Bu etki 1 saat sürer."
+810000304,Svy. 4 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %40 arttırır.
+Bu etki 1 saat sürer."
+810000305,Svy. 5 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %50 arttırır.
+Bu etki 1 saat sürer."
+810000306,Svy. 6 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %60 arttırır.
+Bu etki 1 saat sürer."
+810000307,Svy. 7 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %70 arttırır.
+Bu etki 1 saat sürer."
+810000308,Svy. 8 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %80 arttırır.
+Bu etki 1 saat sürer."
+810000309,Svy. 9 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %90 arttırır.
+Bu etki 1 saat sürer."
+810000310,Svy. 10 Klan Yenileyicisi: TP Güçlendirmesi,@810000301,"Kullanıldığında kazanacağın TP miktarını %100 arttırır.
+Bu etki 1 saat sürer."
+30910245,Sade Çikolata,,@910245
+30910246,Sütlü Çikolata,,@910246
+30910247,Bitter Çikolata,,@910247
+30910248,Beyaz Çikolata,,@910248
+30910251,Amaretto Çikolatası,,@910251

@@ -1,0 +1,6304 @@
+Id,Title,Name
+19,,Manantial de recuperación
+31,,Torre del oeste del equipo rojo
+32,,Torre del este del equipo rojo
+33,,Torre del Artefacto sagrado del equipo rojo
+34,,Torre del oeste del equipo azul
+35,,Torre del este del equipo azul
+36,,Torre del Artefacto sagrado del equipo azul
+20,,@19
+37,,@31
+38,,@32
+39,,@33
+40,,@34
+41,,@35
+42,,@36
+43,,Revisión de cambio de clase
+44,,@43
+45,,Altar de viento
+46,,Altar de tierra
+101,,Campamento de asedio central
+102,,Campamento de asedio este
+103,,Campamento de asedio oeste
+104,,Puesto de guardia central
+105,,Puesto de guardia este
+106,,Puesto de guardia oeste
+107,,Torre defensiva izquierda de la puerta principal
+108,,Torre defensiva derecha de la puerta principal
+109,,Torre defensiva izquierda de la Cámara de las audiencias
+110,,Torre defensiva derecha de la Cámara de las audiencias
+115,,Torre defensiva izquierda de la puerta de fuego
+116,,Torre defensiva derecha de la puerta de fuego
+117,,Torre defensiva izquierda de la puerta de agua
+118,,Torre defensiva derecha de la puerta de agua
+119,,Torre izquierda de la cámara del Artefacto sagrado
+120,,Torre derecha de la cámara del Artefacto sagrado
+121,,Torre izquierda del Artefacto sagrado
+122,,Torre derecha del Artefacto sagrado
+123,,Trampa izquierda
+124,,Trampa derecha
+201,Protector de misiones,Lloyd
+202,Protector de reliquias,Feldheim
+203,Protector de pociones,Jackie
+204,Protector de festines,Emma
+205,Mercader general,Pan
+211,,Cristal de unidad
+212,,Chimenea
+301,,Ratel robusto verde
+302,,Ratel robusto plateado
+303,,Ratel robusto dorado
+304,,Mandrágora
+305,,Centinela del jardín
+401,계정 창고지기,Nigel
+402,Mercenarios de la luz plateada,Aymel
+403,@205,@205
+404,,Mercenario de la luz plateada
+405,,마그나딘 경비병
+406,Maestro herrero,Mobart
+407,,Espectador
+408,,@407
+409,Mercader de pergaminos,Sin rastro
+410,,Mago novato
+411,Bibliotecario,Farjane
+412,,Lector
+413,,@412
+414,Panadero,Bremen
+415,,Hijo del panadero
+416,,Niño hambriento
+417,,Niño aburrido
+418,Mercader de armas,Pondiac
+419,,Aventurero
+420,,@419
+421,Mercader pescador,Tegma
+422,,Pescador
+423,,Hechicero
+424,Cuidador de mascotas,Cuvi
+425,,Joven noble
+426,,Niño curioso
+427,,Romi
+428,,Julie
+429,,Viejo
+430,,Niño agitado
+431,,Niño
+432,,Osezno negro
+433,,Explorador
+434,Mercader de barbacoa,Maduka
+435,,Leah
+436,,Mio
+437,,Oficial mercenario
+438,,Obrero
+439,Trovador,Asiren
+440,Teleportador,@409
+441,Líder de los mercenarios de la luz plateada,Hardin
+442,@402,Theodore
+443,Líder de la caravana de mercaderes,Felicia
+444,@402,Russel
+445,Guía,Chau
+446,@445,Lyncia
+447,@445,Seikan
+448,Protector del depósito personal,Gattuso
+449,미용사,Katrina
+450,Alma de la fiesta,Lena
+451,Sobre rojo,Ada
+452,Teleportador,Agatha
+453,@452,Catherine
+454,@452,Grace
+455,@452,Hanna
+456,Protector del clan,Hubert
+457,Protector de la fortaleza,James
+458,Protector de Asedio al castillo,Harry
+459,Protector de la sala del clan,Jasmine
+460,Subastador de clan,Courtney
+461,Subastador,Dario
+462,@401,Dixie
+463,캐릭터 창고지기,Edith
+464,Protector del campo de batalla,Dustin
+550,,Mercenario de la luz plateada
+551,,@550
+552,,Oficial de los mercenarios de la luz plateada
+553,,Erudito de los mercenarios de la luz plateada
+554,,@553
+555,,@553
+556,,Miembro de la caravana
+557,,@556
+558,,@556
+559,,Enviado de Gludio
+560,,@559
+561,,@559
+562,,Enviado de Dion
+563,,@562
+564,,@562
+565,,Enviado de Giran
+566,,@565
+567,,@565
+568,,Enviado de Oren
+569,,@568
+570,,@568
+571,,Enviado de Innadril
+572,,@571
+573,,@571
+574,,Enviado de Aden
+575,,@574
+576,,@574
+577,,Enviado de Elmor
+578,,@577
+579,,@577
+580,,Enviado de Gracia
+581,,@580
+582,,@580
+583,,Enviado élfico
+584,,@583
+585,,@583
+586,,Enviada de los elfos oscuros
+587,,Miembro de la familia
+588,,@587
+589,,@587
+590,,@587
+591,,@587
+1001,Para probar una habilidad,Carrasposo
+1101,Para equilibrar la batalla,Carrasposo nvl. 1
+1102,@1101,Carrasposo nvl. 2
+1103,@1101,Carrasposo nvl. 3
+1104,@1101,Carrasposo nvl. 4
+1105,@1101,Carrasposo nvl. 5
+1106,@1101,Carrasposo nvl. 6
+1107,@1101,Carrasposo nvl. 7
+1108,@1101,Carrasposo nvl. 8
+1109,@1101,Carrasposo nvl. 9
+1110,@1101,Carrasposo nvl. 10
+1111,@1101,Carrasposo nvl. 11
+1112,@1101,Carrasposo nvl. 12
+1113,@1101,Carrasposo nvl. 13
+1114,@1101,Carrasposo nvl. 14
+1115,@1101,Carrasposo nvl. 15
+1116,@1101,Carrasposo nvl. 16
+1117,@1101,Carrasposo nvl. 17
+1118,@1101,Carrasposo nvl. 18
+1119,@1101,Carrasposo nvl. 19
+1120,@1101,Carrasposo nvl. 20
+1121,@1101,Carrasposo nvl. 21
+1122,@1101,Carrasposo nvl. 22
+1123,@1101,Carrasposo nvl. 23
+1124,@1101,Carrasposo nvl. 24
+1125,@1101,Carrasposo nvl. 25
+1126,@1101,Carrasposo nvl. 26
+1127,@1101,Carrasposo nvl. 27
+1128,@1101,Carrasposo nvl. 28
+1129,@1101,Carrasposo nvl. 29
+1130,@1101,Carrasposo nvl. 30
+1131,@1101,Carrasposo nvl. 31
+1132,@1101,Carrasposo nvl. 32
+1133,@1101,Carrasposo nvl. 33
+1134,@1101,Carrasposo nvl. 34
+1135,@1101,Carrasposo nvl. 35
+1136,@1101,Carrasposo nvl. 36
+1137,@1101,Carrasposo nvl. 37
+1138,@1101,Carrasposo nvl. 38
+1139,@1101,Carrasposo nvl. 39
+1140,@1101,Carrasposo nvl. 40
+1141,@1101,Carrasposo nvl. 41
+1142,@1101,Carrasposo nvl. 42
+1143,@1101,Carrasposo nvl. 43
+1144,@1101,Carrasposo nvl. 44
+1145,@1101,Carrasposo nvl. 45
+1146,@1101,Carrasposo nvl. 46
+1147,@1101,Carrasposo nvl. 47
+1148,@1101,Carrasposo nvl. 48
+1149,@1101,Carrasposo nvl. 49
+1150,@1101,Carrasposo nvl. 50
+1151,@1101,Carrasposo nvl. 51
+1152,@1101,Carrasposo nvl. 52
+1153,@1101,Carrasposo nvl. 53
+1154,@1101,Carrasposo nvl. 54
+1155,@1101,Carrasposo nvl. 55
+1156,@1101,Carrasposo nvl. 56
+1157,@1101,Carrasposo nvl. 57
+1158,@1101,Carrasposo nvl. 58
+1159,@1101,Carrasposo nvl. 59
+1160,@1101,Carrasposo nvl. 60
+1161,@1101,Carrasposo nvl. 61
+1162,@1101,Carrasposo nvl. 62
+1163,@1101,Carrasposo nvl. 63
+1164,@1101,Carrasposo nvl. 64
+1165,@1101,Carrasposo nvl. 65
+1166,@1101,Carrasposo nvl. 66
+1167,@1101,Carrasposo nvl. 67
+1168,@1101,Carrasposo nvl. 68
+1169,@1101,Carrasposo nvl. 69
+1170,@1101,Carrasposo nvl. 70
+1171,@1101,Carrasposo nvl. 71
+1172,@1101,Carrasposo nvl. 72
+1173,@1101,Carrasposo nvl. 73
+1174,@1101,Carrasposo nvl. 74
+1175,@1101,Carrasposo nvl. 75
+1176,@1101,Carrasposo nvl. 76
+1177,@1101,Carrasposo nvl. 77
+1178,@1101,Carrasposo nvl. 78
+1179,@1101,Carrasposo nvl. 79
+1180,@1101,Carrasposo nvl. 80
+1181,@1101,Carrasposo nvl. 81
+1182,@1101,Carrasposo nvl. 82
+1183,@1101,Carrasposo nvl. 83
+1184,@1101,Carrasposo nvl. 84
+1185,@1101,Carrasposo nvl. 85
+1186,@1101,Carrasposo nvl. 86
+1187,@1101,Carrasposo nvl. 87
+1188,@1101,Carrasposo nvl. 88
+1189,@1101,Carrasposo nvl. 89
+1190,@1101,Carrasposo nvl. 90
+1191,@1101,Carrasposo nvl. 91
+1192,@1101,Carrasposo nvl. 92
+1193,@1101,Carrasposo nvl. 93
+1194,@1101,Carrasposo nvl. 94
+1195,@1101,Carrasposo nvl. 95
+1196,@1101,Carrasposo nvl. 96
+1197,@1101,Carrasposo nvl. 97
+1198,@1101,Carrasposo nvl. 98
+1199,@1101,Carrasposo nvl. 99
+1200,@1101,Carrasposo nvl. 100
+1201,@1101,@1101
+1202,@1101,@1102
+1203,@1101,@1103
+1204,@1101,@1104
+1205,@1101,@1105
+1206,@1101,@1106
+1207,@1101,@1107
+1208,@1101,@1108
+1209,@1101,@1109
+1210,@1101,@1110
+1211,@1101,@1111
+1212,@1101,@1112
+1213,@1101,@1113
+1214,@1101,@1114
+1215,@1101,@1115
+1216,@1101,@1116
+1217,@1101,@1117
+1218,@1101,@1118
+1219,@1101,@1119
+1220,@1101,@1120
+1221,@1101,@1121
+1222,@1101,@1122
+1223,@1101,@1123
+1224,@1101,@1124
+1225,@1101,@1125
+1226,@1101,@1126
+1227,@1101,@1127
+1228,@1101,@1128
+1229,@1101,@1129
+1230,@1101,@1130
+1231,@1101,@1131
+1232,@1101,@1132
+1233,@1101,@1133
+1234,@1101,@1134
+1235,@1101,@1135
+1236,@1101,@1136
+1237,@1101,@1137
+1238,@1101,@1138
+1239,@1101,@1139
+1240,@1101,@1140
+1241,@1101,@1141
+1242,@1101,@1142
+1243,@1101,@1143
+1244,@1101,@1144
+1245,@1101,@1145
+1246,@1101,@1146
+1247,@1101,@1147
+1248,@1101,@1148
+1249,@1101,@1149
+1250,@1101,@1150
+1251,@1101,@1151
+1252,@1101,@1152
+1253,@1101,@1153
+1254,@1101,@1154
+1255,@1101,@1155
+1256,@1101,@1156
+1257,@1101,@1157
+1258,@1101,@1158
+1259,@1101,@1159
+1260,@1101,@1160
+1261,@1101,@1161
+1262,@1101,@1162
+1263,@1101,@1163
+1264,@1101,@1164
+1265,@1101,@1165
+1266,@1101,@1166
+1267,@1101,@1167
+1268,@1101,@1168
+1269,@1101,@1169
+1270,@1101,@1170
+1271,@1101,@1171
+1272,@1101,@1172
+1273,@1101,@1173
+1274,@1101,@1174
+1275,@1101,@1175
+1276,@1101,@1176
+1277,@1101,@1177
+1278,@1101,@1178
+1279,@1101,@1179
+1280,@1101,@1180
+1281,@1101,@1181
+1282,@1101,@1182
+1283,@1101,@1183
+1284,@1101,@1184
+1285,@1101,@1185
+1286,@1101,@1186
+1287,@1101,@1187
+1288,@1101,@1188
+1289,@1101,@1189
+1290,@1101,@1190
+1291,@1101,@1191
+1292,@1101,@1192
+1293,@1101,@1193
+1294,@1101,@1194
+1295,@1101,@1195
+1296,@1101,@1196
+1297,@1101,@1197
+1298,@1101,@1198
+1299,@1101,@1199
+1300,@1101,@1200
+1301,@1101,@1101
+1302,@1101,@1102
+1303,@1101,@1103
+1304,@1101,@1104
+1305,@1101,@1105
+1306,@1101,@1106
+1307,@1101,@1107
+1308,@1101,@1108
+1309,@1101,@1109
+1310,@1101,@1110
+1311,@1101,@1111
+1312,@1101,@1112
+1313,@1101,@1113
+1314,@1101,@1114
+1315,@1101,@1115
+1316,@1101,@1116
+1317,@1101,@1117
+1318,@1101,@1118
+1319,@1101,@1119
+1320,@1101,@1120
+1321,@1101,@1121
+1322,@1101,@1122
+1323,@1101,@1123
+1324,@1101,@1124
+1325,@1101,@1125
+1326,@1101,@1126
+1327,@1101,@1127
+1328,@1101,@1128
+1329,@1101,@1129
+1330,@1101,@1130
+1331,@1101,@1131
+1332,@1101,@1132
+1333,@1101,@1133
+1334,@1101,@1134
+1335,@1101,@1135
+1336,@1101,@1136
+1337,@1101,@1137
+1338,@1101,@1138
+1339,@1101,@1139
+1340,@1101,@1140
+1341,@1101,@1141
+1342,@1101,@1142
+1343,@1101,@1143
+1344,@1101,@1144
+1345,@1101,@1145
+1346,@1101,@1146
+1347,@1101,@1147
+1348,@1101,@1148
+1349,@1101,@1149
+1350,@1101,@1150
+1351,@1101,@1151
+1352,@1101,@1152
+1353,@1101,@1153
+1354,@1101,@1154
+1355,@1101,@1155
+1356,@1101,@1156
+1357,@1101,@1157
+1358,@1101,@1158
+1359,@1101,@1159
+1360,@1101,@1160
+1361,@1101,@1161
+1362,@1101,@1162
+1363,@1101,@1163
+1364,@1101,@1164
+1365,@1101,@1165
+1366,@1101,@1166
+1367,@1101,@1167
+1368,@1101,@1168
+1369,@1101,@1169
+1370,@1101,@1170
+1371,@1101,@1171
+1372,@1101,@1172
+1373,@1101,@1173
+1374,@1101,@1174
+1375,@1101,@1175
+1376,@1101,@1176
+1377,@1101,@1177
+1378,@1101,@1178
+1379,@1101,@1179
+1380,@1101,@1180
+1381,@1101,@1181
+1382,@1101,@1182
+1383,@1101,@1183
+1384,@1101,@1184
+1385,@1101,@1185
+1386,@1101,@1186
+1387,@1101,@1187
+1388,@1101,@1188
+1389,@1101,@1189
+1390,@1101,@1190
+1391,@1101,@1191
+1392,@1101,@1192
+1393,@1101,@1193
+1394,@1101,@1194
+1395,@1101,@1195
+1396,@1101,@1196
+1397,@1101,@1197
+1398,@1101,@1198
+1399,@1101,@1199
+1400,@1101,@1200
+1401,@1101,@1101
+1402,@1101,@1102
+1403,@1101,@1103
+1404,@1101,@1104
+1405,@1101,@1105
+1406,@1101,@1106
+1407,@1101,@1107
+1408,@1101,@1108
+1409,@1101,@1109
+1410,@1101,@1110
+1411,@1101,@1111
+1412,@1101,@1112
+1413,@1101,@1113
+1414,@1101,@1114
+1415,@1101,@1115
+1416,@1101,@1116
+1417,@1101,@1117
+1418,@1101,@1118
+1419,@1101,@1119
+1420,@1101,@1120
+1421,@1101,@1121
+1422,@1101,@1122
+1423,@1101,@1123
+1424,@1101,@1124
+1425,@1101,@1125
+1426,@1101,@1126
+1427,@1101,@1127
+1428,@1101,@1128
+1429,@1101,@1129
+1430,@1101,@1130
+1431,@1101,@1131
+1432,@1101,@1132
+1433,@1101,@1133
+1434,@1101,@1134
+1435,@1101,@1135
+1436,@1101,@1136
+1437,@1101,@1137
+1438,@1101,@1138
+1439,@1101,@1139
+1440,@1101,@1140
+1441,@1101,@1141
+1442,@1101,@1142
+1443,@1101,@1143
+1444,@1101,@1144
+1445,@1101,@1145
+1446,@1101,@1146
+1447,@1101,@1147
+1448,@1101,@1148
+1449,@1101,@1149
+1450,@1101,@1150
+1451,@1101,@1151
+1452,@1101,@1152
+1453,@1101,@1153
+1454,@1101,@1154
+1455,@1101,@1155
+1456,@1101,@1156
+1457,@1101,@1157
+1458,@1101,@1158
+1459,@1101,@1159
+1460,@1101,@1160
+1461,@1101,@1161
+1462,@1101,@1162
+1463,@1101,@1163
+1464,@1101,@1164
+1465,@1101,@1165
+1466,@1101,@1166
+1467,@1101,@1167
+1468,@1101,@1168
+1469,@1101,@1169
+1470,@1101,@1170
+1471,@1101,@1171
+1472,@1101,@1172
+1473,@1101,@1173
+1474,@1101,@1174
+1475,@1101,@1175
+1476,@1101,@1176
+1477,@1101,@1177
+1478,@1101,@1178
+1479,@1101,@1179
+1480,@1101,@1180
+1481,@1101,@1181
+1482,@1101,@1182
+1483,@1101,@1183
+1484,@1101,@1184
+1485,@1101,@1185
+1486,@1101,@1186
+1487,@1101,@1187
+1488,@1101,@1188
+1489,@1101,@1189
+1490,@1101,@1190
+1491,@1101,@1191
+1492,@1101,@1192
+1493,@1101,@1193
+1494,@1101,@1194
+1495,@1101,@1195
+1496,@1101,@1196
+1497,@1101,@1197
+1498,@1101,@1198
+1499,@1101,@1199
+1500,@1101,@1200
+1501,@1101,@1101
+1502,@1101,@1102
+1503,@1101,@1103
+1504,@1101,@1104
+1505,@1101,@1105
+1506,@1101,@1106
+1507,@1101,@1107
+1508,@1101,@1108
+1509,@1101,@1109
+1510,@1101,@1110
+1511,@1101,@1111
+1512,@1101,@1112
+1513,@1101,@1113
+1514,@1101,@1114
+1515,@1101,@1115
+1516,@1101,@1116
+1517,@1101,@1117
+1518,@1101,@1118
+1519,@1101,@1119
+1520,@1101,@1120
+1521,@1101,@1121
+1522,@1101,@1122
+1523,@1101,@1123
+1524,@1101,@1124
+1525,@1101,@1125
+1526,@1101,@1126
+1527,@1101,@1127
+1528,@1101,@1128
+1529,@1101,@1129
+1530,@1101,@1130
+1531,@1101,@1131
+1532,@1101,@1132
+1533,@1101,@1133
+1534,@1101,@1134
+1535,@1101,@1135
+1536,@1101,@1136
+1537,@1101,@1137
+1538,@1101,@1138
+1539,@1101,@1139
+1540,@1101,@1140
+1541,@1101,@1141
+1542,@1101,@1142
+1543,@1101,@1143
+1544,@1101,@1144
+1545,@1101,@1145
+1546,@1101,@1146
+1547,@1101,@1147
+1548,@1101,@1148
+1549,@1101,@1149
+1550,@1101,@1150
+1551,@1101,@1151
+1552,@1101,@1152
+1553,@1101,@1153
+1554,@1101,@1154
+1555,@1101,@1155
+1556,@1101,@1156
+1557,@1101,@1157
+1558,@1101,@1158
+1559,@1101,@1159
+1560,@1101,@1160
+1561,@1101,@1161
+1562,@1101,@1162
+1563,@1101,@1163
+1564,@1101,@1164
+1565,@1101,@1165
+1566,@1101,@1166
+1567,@1101,@1167
+1568,@1101,@1168
+1569,@1101,@1169
+1570,@1101,@1170
+1571,@1101,@1171
+1572,@1101,@1172
+1573,@1101,@1173
+1574,@1101,@1174
+1575,@1101,@1175
+1576,@1101,@1176
+1577,@1101,@1177
+1578,@1101,@1178
+1579,@1101,@1179
+1580,@1101,@1180
+1581,@1101,@1181
+1582,@1101,@1182
+1583,@1101,@1183
+1584,@1101,@1184
+1585,@1101,@1185
+1586,@1101,@1186
+1587,@1101,@1187
+1588,@1101,@1188
+1589,@1101,@1189
+1590,@1101,@1190
+1591,@1101,@1191
+1592,@1101,@1192
+1593,@1101,@1193
+1594,@1101,@1194
+1595,@1101,@1195
+1596,@1101,@1196
+1597,@1101,@1197
+1598,@1101,@1198
+1599,@1101,@1199
+1600,@1101,@1200
+2000,TEST TITLE,Aimel
+2001,@2000,ArmorMerchant
+2002,@2000,ArmorMerchant_Capture
+2003,@2000,Attack_ArmorMerchant
+2004,@2000,Attack_ArmorMerchant_Bow
+2005,@2000,CatTheCat
+2006,@2000,CatTheCat_Attack
+2007,@2000,CatTheCat_Down
+2008,@2000,CityGuard
+2009,@2000,CityGuard_02
+2010,@2000,CityGuard_Drug
+2011,@2000,CityGuard_Wounded
+2012,@2000,DarkAssociation
+2013,@2000,DarkAssociation_Capture
+2014,@2000,DarkAssociation_Normal
+2015,@2000,DarkAssociation_Wounded_01
+2016,@2000,Fernel
+2017,@2000,Fernel_Attack_Dagger
+2018,@2000,GateKeeper
+2019,@2000,Hardin
+2020,@2000,Attack_Hardin
+2021,@2000,Hardin_Capture
+2022,@2000,HardinsFollower
+2023,@2000,HardinsFollower_Capture
+2024,@2000,HardinsFollower_Wound
+2025,@2000,Attack_HardinsFollower
+2026,@2000,HardinsFollower_Wounded
+2027,@2000,ItemMerchant
+2028,@2000,ItemMerchant_BattleStand
+2029,@2000,ItemMerchant_Wounded
+2030,@2000,ItemMerchant_Wounded_02
+2031,@2000,Attack_ItemMerchant
+2032,@2000,Terrify_ItemMerchant
+2033,@2000,LittleGirl
+2034,@2000,LittleGirl_Down
+2035,@2000,LittleGirl_Terrify
+2036,@2000,Magician
+2037,@2000,Magician_Wounded
+2038,@2000,Noble_01
+2039,@2000,Noble_02
+2040,@2000,Noble_03
+2041,@2000,Noble_03_Attack_Sword
+2042,@2000,Officer
+2043,@2000,Attack_Officer
+2044,@2000,Officer_Wounded
+2045,@2000,Officer_02
+2046,@2000,Officer_02_Attack_Spear
+2047,@2000,Resident_01
+2048,@2000,Resident_01_Talk
+2049,@2000,Resident_02
+2050,@2000,Attack_Resident_02
+2051,@2000,Attack_Resident_02_Staff
+2052,@2000,Resident_02_Capture
+2053,@2000,Resident_02_Capture_02
+2054,@2000,Resident_02_Dead
+2055,@2000,Resident_02_Fear
+2056,@2000,Resident_03
+2057,@2000,Resident_03_Capture
+2058,@2000,Resident_03_Capture_02
+2059,@2000,Resident_03_Dead
+2060,@2000,Resident_03_Fear
+2061,@2000,Attack_Resident_03_Bow
+2062,@2000,Attack_Resident_03_Bow_DarkSide
+2063,@2000,Attack_Resident_03_DualSword
+2064,@2000,Attack_Resident_03_Sword
+2065,@2000,Resident_04
+2066,@2000,Resident_04_Attack_Sword
+2067,@2000,Resident_05
+2068,@2000,Resident_05_Dagger
+2069,@2000,SmeltingMerchant
+2070,@2000,SmeltingMerchant_Capture
+2071,@2000,SmeltingMerchant_Wounded
+2072,@2000,SmeltingMerchant_Wounded_02
+2073,@2000,Attack_SmeltingMerchant
+2074,@2000,Student
+2075,@2000,Student_down
+2076,@2000,Student_Fear
+2077,@2000,Student_Sleep
+2078,@2000,Attack_Student_Dagger
+2079,@2000,Attack_Student_Staff
+2080,@2000,Teleporter
+2081,@2000,Teleporter_Capture
+2082,@2000,Attack_Teleporter
+2083,@2000,TemplePriest
+2084,@2000,TemplePriest_Capture
+2085,@2000,TemplePriest_Fear
+2086,@2000,TemplePriest_Wounded_01
+2087,@2000,TemplePriest_Wounded_02
+2088,@2000,Attack_TemplePriest
+2089,@2000,Tutorial_DarkElf_01
+2090,@2000,Tutorial_DarkElf_02
+2091,@2000,Tutorial_Dwarf_01
+2092,@2000,Tutorial_Elf_01
+2093,@2000,Tutorial_Gate
+2094,@2000,Tutorial_human_01
+2095,@2000,Tutorial_human_02
+2096,@2000,Tutorial_human_03
+2097,@2000,Tutorial_human_04
+2098,@2000,Tutorial_human_05
+2099,@2000,Tutorial_human_06
+2100,@2000,WarehouseKeeper
+2101,@2000,WareHouseKeeper_Terrify
+2102,@2000,WareHouseKeeper_Wounded
+2103,@2000,Attack_WarehouseKeeper
+2104,@2000,SmeltingMerchant_Attack_Bow
+3000,,Antílope
+3001,,Larva de hormiga
+3002,,Soldado hormiga
+3003,,Hormiga
+3004,,Basilisco
+3005,,Custodio de ojo de monstruo
+3006,,Sauce negro
+3007,,Lobo negro
+3008,,Reina de sangre
+3009,,Boreas
+3010,,Stenoa reina de Gorgon
+3011,,Alma encadenada
+3012,,Hermandad oscura
+3013,,Caballero oscuro
+3014,,Leopardo negro
+3015,,Señor oscuro
+3016,,Nerkas
+3017,,Zorro rojo
+3018,,Dicor
+3019,,Sirviente de la condena
+3020,,Drake
+3021,,Caballero sin cabeza
+3022,,Perum
+3023,,Gárgola tormenta de arena
+3024,,Sanguijuela gigante
+3025,,Pellizcadora gigante
+3026,,Grandis
+3027,,Oso rojo
+3028,,Guillotine de la muerte
+3029,,Avispa
+3030,,Espectro resucitado
+3031,,Espectro inquieto
+3032,,Kaim Vanul
+3033,,Buscador orco ketra
+3034,,Cap. orco blanco ketra
+3035,,Cap. ranger orco ketra
+3036,,Rey goblón
+3037,,Hombre lagarto leto
+3038,,Jefe lagarto leto
+3039,,Arquero lagarto leto
+3040,,Chamán lagarto leto
+3041,,Luchador lagarto leto
+3042,,Rorka
+3043,,Explorador lagarto maille
+3044,,Chamán lagarto maille
+3046,,Luchador lagarto maille
+3047,,@304
+3048,,Soldado stakato de la ciénaga
+3050,,Medusa
+3051,,Meforde
+3052,,Tejedor místico
+3053,,Criminal del pantano
+3054,,Hormiga noble
+3055,,Oel Mahum
+3056,,Chamán Oel Mahum
+3057,,Luchador Oel Mahum
+3058,,Disparador Ol Mahum
+3059,,Guerrero Ol Mahum
+3060,,Jefe de guerra Ol Mahum
+3061,,Explorador Ol Mahum
+3062,,Orfen
+3063,,Sirvienta de Orfen
+3064,,Pirata zombi 
+3065,,Capitán pirata zombi
+3066,,Navegante pirata zombi
+3067,,Araña venenosa
+3068,,Prima del coro oscuro
+3069,,Premo
+3070,,Hormiga reina
+3072,,Richard
+3073,,Parca
+3074,,Sahara
+3075,,Protector de la cueva
+3076,,Sold. esqueleto de mazm.
+3077,,Merodeador esqueleto
+3078,,Acosador esqueleto
+3079,,Explorador esqueleto
+3080,,Snipe
+3081,,Hongo de esporas
+3082,,Gólem de piedra
+3083,,Súcubo
+3084,,Susceptor Prime
+3085,,Silenos tanor
+3086,,Jefe silenos tanor
+3087,,Chamán silenos tanor
+3088,,Luchador silenos tanor
+3089,,Escorpión Tepra
+3090,,Orco breka
+3091,,Arquero orco breka
+3092,,Jefe de guerra orco breka
+3093,,Chamán orco breka
+3094,,Luchador orco breka
+3095,,Arquero orco turek
+3096,,Jefe de guerra orco turek
+3097,,Combatiente orco turek
+3098,,Typheron
+3099,,Grito lúgubre
+3100,,Validus
+3101,,Murciélago vampiro
+3102,,Perro de guerra turek
+3103,,Hombre lobo
+3104,,Lobo blanco
+3105,,Puma rabioso
+3106,,Windsus
+3108,,Wyrm
+3109,,Zaken
+3110,,Señor zombi Crowl
+3111,,Orbis
+3112,,Makkum
+3113,,Trikan
+3114,,Rey de sangre
+3115,,Arconte Bau
+3116,,Mensajero oscuro
+3117,,Varkaron
+3118,,Kresous
+3119,,Ratel robusto
+3120,,@305
+3121,,Guerrero indisciplinado
+3122,,Kurklin el demoledor
+3123,,Jefe Turamathia
+3124,,Araña gigante custodia
+3125,,Cría de dragón
+3126,,Rosa ninfa
+3127,,Ninfa reina Lara
+3128,,Jefe de guerra silenos de Barka
+3129,,Beleth
+3130,,Caballero de Embrion
+3131,,Hada
+3132,,Diablilla
+3133,,Orco de Ketra
+3134,,Jefe de guerra orco de Ketra
+3135,,Imitación de oro
+3136,,@205
+3137,,Hechicero lagarto tanta
+3138,,Luchador lagarto tanta
+3139,,DragonPython
+3140,,DragonBerserker
+3141,,Karinness
+3142,,DarkAssociation_M_High
+3143,,Grendel
+3144,,ArmoredGrandis
+3145,,EmbryonKnights
+3146,,Leonard
+10000,@441,@441
+10001,@402,@442
+10002,Vendedor ambulante,Smiley
+10003,Portador de Smiley,Bambam
+10004,,@419
+10005,,Guarda
+10006,,@10005
+10007,,Capitán de la guardia
+10008,,@10007
+10009,,@10007
+10010,,Teniente de seguridad
+10011,,@10010
+10012,,Ciudadano
+10013,,Aristócrata
+10014,,@10012
+10015,,@10012
+10016,,@10012
+10017,,@10012
+10018,,@10012
+10019,,@10012
+10020,,@419
+10021,,@419
+10022,,@10013
+10023,,@419
+10024,,@10013
+10025,,@419
+10026,,@10012
+10027,,@419
+10028,,@419
+10029,,@10012
+10030,,@10012
+10031,,@10012
+10032,,@10012
+10033,,@10012
+10034,,@419
+10035,,@419
+10036,,@419
+10037,,@10012
+10038,,@419
+10039,,@10012
+10040,,@419
+10041,,@10012
+10042,,@10012
+10043,,@10012
+10044,,@419
+10045,,@10012
+10046,,@10012
+10047,,@10012
+10048,,@10012
+10049,,@419
+10050,,@419
+10051,,@10012
+10052,,Sacerdote
+10053,,@10052
+10054,,@10052
+10055,,@10052
+10056,,@10012
+10057,,@10012
+10058,,@10012
+10059,,Matón
+10060,,@10059
+10061,,@10059
+10062,,Sirvienta
+10063,,@10062
+10064,,@10062
+10065,,@10062
+10066,,@10062
+10067,,@10062
+10068,Ejército regular de Oren,@10005
+10069,@10068,@10010
+10070,@10068,@10007
+10071,,Cazadora
+10072,,@10071
+10073,,@10071
+10074,@10068,@10005
+10075,,Ciudadana hada
+10076,,@10012
+10101,,Paws
+10102,,Marinero
+10103,,Ranger de sangre
+10104,@461,Isaac
+10105,Capitana del puerto,Psyche
+10107,,@10102
+10108,,Navegante
+10109,,Comerciante
+10110,,Asistente de navegación de Gludio
+10111,,Vendedor ambulante
+10112,,Capitán de barco de Gludio
+10113,,Ciudadano
+10114,Portero,Kainess
+10115,Mercader general,Anais
+10116,,@10113
+10117,Arconte de la Isla parlante,Daniel
+10118,@10114,Kynell
+10119,@456,Krius
+10120,Herrero,Veren
+10121,Mercader de ref. alma,Roarke
+10122,@421,Dekkan
+10123,Mercader de equipamiento,@10101
+10124,,Mercenario
+10125,Protector del depósito,Penzel
+10127,,@10005
+10129,,Seriana
+10131,,Ajax
+10132,,Hazem
+10144,Capitán de la guardia,Harold
+10146,,@10005
+10147,,@10102
+10149,Capitán mercenario,Douglas
+10150,Arqueólogos de Feldheim,Codellia
+10151,@10150,Niah
+10152,,Hechicero siniestro
+10153,Arqueólogo superior,@202
+10154,,Hada purificadora
+10155,,@10154
+10156,Pescador,Aman
+10157,@10156,Pesca
+10158,@205,@205
+10159,Guarda de la Isla Parlante,Terre
+10160,Mercader en carro,Helia
+10161,,Guarda de ciudad
+10162,Peón de Místico,Soldado esqueleto
+10163,@402,@444
+10164,Capitán rangers de sangre,Austin
+10165,Teniente de los rangers de sangre,Arthur
+10166,Instructor,Albert el Gigante
+10167,Profesor de academia,Eugene
+10168,@421,Tau
+10169,,Jupie
+10170,,Carnicero orco
+10171,@10120,Leo
+10173,@10167,@10167
+10175,,Mística de Einhovant
+10176,@10153,@202
+10177,@402,@442
+10178,,@10103
+10184,@10153,@202
+10185,,@10103
+10186,@402,@444
+10187,,@10103
+10188,@10120,Ferron
+10189,@10144,@10144
+10190,,Orco secuestrador 
+10191,,Arqueólogo
+10202,,Inspector de billete
+10203,@402,@442
+10208,@402,@442
+10209,,@10103
+10210,Capitán ranger,Arnold
+10215,Protectora de las ruinas,Cecile
+10217,,Elizabeth
+10218,@10150,Canaria
+10219,@402,@444
+10220,,@202
+10221,@10150,@455
+10223,,@10154
+10224,,@10154
+10225,@10150,@10218
+10226,@10150,@455
+10227,Teniente de los rangers,Andy
+10230,@10153,@202
+10231,@10150,@10151
+10232,@10215,@10215
+10233,,@10103
+10234,@10215,@10215
+10235,@402,@442
+10236,Sumo sacerdote her. os.,Ethan
+10237,Peón de Ethan,@10162
+10238,@10210,@10210
+10301,,Marinero veterano Karlov
+10302,@10105,Draid
+10304,Arconte de Gludin,Patton
+10305,,Guarda de la puerta este
+10306,,Aida
+10307,Protector del cementerio,Kadol
+10308,Capitán de la guardia de Gludin,Forde
+10309,@205,Veda
+10310,,Escolta de Veda
+10311,Guardián del cementerio,Barry
+10312,Hechicero,Luna
+10313,@10002,Abel
+10315,@10311,Picas
+10316,@458,Caiman
+10317,@10114,Kristina
+10318,@456,Kyzel
+10319,@10120,Gairan
+10320,@10121,Gauss
+10321,@421,Dumel
+10322,@10123,Faust
+10323,@10115,Aruman
+10324,@10125,Prima
+10325,,Guarda de Gludin
+10326,Cardenal de Gludio,Nestor
+10327,,Galatea
+10328,,@419
+10329,,@419
+10330,,Harvey
+10331,,Athena
+10332,,@419
+10333,,@419
+10334,,Aren
+10335,,Kris
+10336,,Erica Ken Weber
+10337,,Silika
+10338,,Norman
+10339,,Ramos
+10340,Tte. de seguridad de Gludin,Walter
+10341,@10326,@10326
+10342,Alcalde de Gludio,Steven
+10343,@205,@205
+10344,Protector de asedios a la granja,Hamel
+10345,,Augel
+10346,,Helena
+10347,@402,@444
+10348,,Eleanor
+10349,,Místico oscuro
+10350,,Byron
+10352,Hermano menor de Eleanor,Elos
+10353,@10164,Jackson
+10355,@205,@205
+10357,@402,@402
+10358,,George
+10359,,John
+10360,,Thomas
+10361,,Andrew
+10362,,Martin
+10363,,Soldado de Gludin
+10364,,Charles
+10365,@402,@444
+10367,@402,@402
+10368,@402,@402
+10369,@205,@205
+10370,,@10350
+10371,,Ranger de sangre
+10372,,@10371
+10373,,@10346
+10374,,Ciudadano raptado 
+10375,,@10374
+10376,,@10374
+10377,,@10374
+10378,,@10364
+10379,@402,@402
+10380,Primer oficial barco fantasma,Billy
+10381,,@3064
+10382,,@3061
+10383,,Saqueador Ol Mahum
+10384,,@10345
+10385,,@10345
+10386,@10308,@10308
+10387,Gato caravana,Nero
+10388,@10387,Varot
+10389,Sacerdote apr. de Einhasad,Vinath
+10390,Sacerdote de Einhasad,Laurel
+10391,Oficial de Gludio,Faute
+10392,Soldado abandonado,Bhan
+10393,Camarada de Bhan,Bolt
+10394,Pregonero de Gludio,Zarin
+10395,@402,@402
+10396,,Sacerdote de Einhasad
+10397,,@10396
+10398,,@10396
+10399,,@10396
+10402,,Arconte de Gludio
+10403,@402,@402
+10404,,Exterminador de monstruos
+10405,,@10404
+10407,,Soldado herido
+10408,,@419
+10409,,@419
+10410,,@419
+10411,,@419
+10412,,@419
+10413,,@419
+10414,,@419
+10415,@458,Damion
+10416,@10114,Ilya
+10418,@10120,Mirio
+10419,@10121,Micia
+10420,@421,Orfeo
+10421,@10123,Kyritos
+10422,@10115,Asnath
+10423,@461,Nebulus
+10424,,Guarda de Gludio
+10426,,Lyra
+10427,,Helix
+10428,,Simon
+10429,,Sodan
+10430,,Kyliana
+10431,@10123,Gabi
+10432,@10115,Kachu
+10433,@402,@442
+10437,@205,@205
+10438,,Horen
+10439,,@10438
+10440,,Melina
+10441,Reclutador rangers monstruos,Draiden
+10442,Tte. rangers de monstruos,Keshupone
+10443,Canciller de Gludio,Reuenthal
+10444,@10442,@10442
+10445,,Eric
+10446,Líder 2.º pel. rangers mon.,Melbourne
+10447,2.º pel. rangers mon.,Hexor
+10448,,Heath
+10450,Jefe de la ciudad,Dragos
+10451,,Karin
+10452,,Soldado de Gludio
+10453,,@10305
+10454,,@10445
+10455,@10446,@10446
+10456,@10447,@10103
+10457,@10447,@10103
+10458,@10236,Polemus
+10459,@402,@444
+10460,@402,@444
+10461,,Guarda capturado
+10462,Cap. rangers sang. occ.,Amos
+10463,@402,@402
+10464,,Miliciano
+10465,,Miembro de los rangers de sangre del oeste
+10466,,Soldado frenético
+10467,,Soldado agitado
+10468,Cardenal Her. oscura,@10217
+10469,,@10465
+10470,,Escolta del canciller
+10471,@10447,@10447
+10472,,@10448
+10473,@10462,@10462
+10474,@402,@402
+10475,@402,Lonna
+10476,,@10445
+10477,,@10465
+10478,@402,@442
+10479,@402,@402
+10480,@402,@444
+10483,@10443,@10443
+10484,@402,@402
+10486,@402,@402
+10487,Escolta del canciller,Palmon
+10488,@10462,Alban
+10489,@10387,@10387
+10490,,Pante
+10491,,Hamon
+10492,@10394,@10394
+10493,Equipo exploración de Aden,Dorothy
+10494,@10493,Mitchell
+10495,@10493,Sara Ra
+10496,@10391,@10391
+10497,Teniente de Gludio,Knox
+10498,,@10491
+10499,,@10452
+10501,Soldado cobarde,Shayne
+10502,Soldado agotado,Emil
+10503,,@3012
+10504,,Comandante de tropa del sur
+10505,@402,@444
+10507,,Soldado ranger de sangre
+10508,Tecnomágica,Angie
+10509,Teniente de seguridad,Reinheim
+10510,,El amnésico
+10511,@10210,Carlze
+10512,@10144,Gert
+10513,Líder 1.er pel. fuerza especial,Kail
+10514,Capitán de la fuerza especial,Duvalte
+10515,@10514,@10514
+10516,,Miembro del equipo de exploración
+10517,Líder 2.º pel. fuerza especial,Miles
+10519,Ranger,Latos
+10521,@441,@441
+10522,Líder mágica,Aurora
+10523,,Soldado escolta
+10524,,@10507
+10525,,Soldado recluta
+10526,,@10504
+10527,,Capitán de tropa
+10528,@10517,@10517
+10529,@10513,@10513
+10530,@10522,@10522
+10531,@10210,@10511
+10532,,Refuerzo
+10533,@441,@441
+10534,,@10407
+10535,@10502,@10502
+10537,,@10510
+10538,Demente,@10508
+10540,@441,@441
+10541,Bajo control,Valter
+10543,,@10507
+10544,@10508,@10508
+10545,Fuera de control,@10541
+10546,,Kegoon
+10547,,Soldado recluta orco turek
+10549,Gato seguidor,Leopold
+10550,Seguidora,Vicky
+10551,@10519,@10519
+10552,@402,@444
+10553,,@10507
+10554,,Korum
+10555,,@10554
+10556,,@419
+10557,,@419
+10577,,Pueblerino secuestrado
+10578,,@10577
+10579,,@10577
+10580,@10493,@10493
+10581,@10493,@10493
+10582,@10493,@10495
+10583,@10493,@10494
+10584,Alquimista,Arche
+10585,Cazatesoros,Farlon
+10586,@10150,Azir
+10587,Gato caravana,@10388
+10588,Vengador orco,Darian
+10589,Sumo sacer. Gran Kain,Psy
+10597,@10588,@10588
+10598,@10588,@10588
+10601,@402,@442
+10602,Hech. T. marfil,Edina
+10603,@10602,Emon
+10604,,Aventurero del oeste
+10605,,Viejo asustado
+10606,,Staris
+10607,,Investigador
+10608,,@10607
+10609,,@10607
+10610,@10002,Monta
+10611,,Secuaz de Staris
+10612,@402,@444
+10613,,Tiana astróloga
+10614,,Mercader
+10615,@10602,@10602
+10616,,@10613
+10617,@402,@444
+10619,@10602,@10603
+10621,,Anciano a punto de morir
+10622,,@10606
+10623,@10602,@10603
+10626,@402,@442
+10627,,@10606
+10628,,@10613
+10629,,@10613
+10631,Sumo invocador Her. oscura,Swan
+10632,@10602,@10602
+10633,Carnicero hechicero,Void
+10634,,Demonio Void
+10635,,Jefe pelirrojo Ol Mahum
+10637,,@10611
+10638,@10631,@10631
+10639,,@419
+10640,,@419
+10641,,@419
+10642,,@419
+10643,,@419
+10646,@10002,Charlie
+10647,@10002,Tom
+10648,@10002,Aria
+10649,@10002,Peter
+10670,Protectora del oso negro,Nine
+10671,,Oso negro
+10672,,@432
+10673,,@10671
+10674,,@432
+10675,,Carne de basilisco
+10676,Equipo oso,Ribero
+10677,@10676,Sabero
+10678,@10676,Mia
+10679,,@432
+10680,,Explorador caído
+10681,@10584,@10584
+10682,@10150,@10586
+10683,@10394,@10394
+10684,Aprendiz sac. templo de Eva,Shane
+10685,@10493,@10495
+10686,@10493,@10494
+10687,@10493,@10493
+10688,@10493,@10495
+10689,@10493,@10493
+10690,@10493,@10495
+10691,@10684,@10684
+10692,@10394,@10394
+10693,@10584,@10584
+10694,@10150,@10586
+10695,@10493,@10494
+10702,,Niña perdida
+10703,,@10702
+10707,@205,@205
+10709,Arconte de Dion,Clark
+10711,,Paul
+10712,,@10711
+10714,@458,Jurio
+10715,@10114,Ralfina
+10716,@456,Huck
+10717,@10120,Sara
+10718,@10121,Gus
+10719,@421,Alf
+10720,@10123,Morrison
+10721,@10115,Rody
+10722,@461,Reuel
+10724,,Guarda de Dion
+10725,Cardenal de Dion,Kazimoo
+10726,,Phoebe
+10727,,@10113
+10728,,@10113
+10729,,@10113
+10730,,Jeld
+10731,,@10730
+10732,,Marina
+10733,,@10732
+10736,@402,@442
+10737,@10164,Mahert
+10738,,Ranger de sangre
+10739,@10165,Vacen
+10740,Miembro más joven,Mike
+10741,,Soldado ranger de sangre
+10742,@10165,Parvill
+10743,@10144,Thano
+10744,,Leia
+10745,,Nora
+10746,,Zaab místico
+10747,,@10746
+10748,,@10005
+10749,@10165,@10739
+10750,,Soldado herido
+10751,@10740,@10740
+10752,@402,@442
+10753,@10631,Vascilious
+10754,,Ciudadana rescatada
+10755,,Soldado escolta
+10759,,@10741
+10760,,@10755
+10761,,@10005
+10762,,@10750
+10763,,@10744
+10764,@10740,@10740
+10767,,@10744
+10768,Pregonero de Dion,Theron
+10769,@10588,@10588
+10770,Entomólogo,Pavel
+10771,@10387,@10388
+10772,Gastronomía,Mechillen
+10773,@10387,@10387
+10774,@10768,Alberto
+10775,Sacerdotisa de Eva,Mellon
+10776,Oficial de Dion,Ancelotti
+10777,Sumo sacerdote de Eva,Evna
+10778,Semilla de Lucas,Lucas
+10779,Asustado,@10778
+10780,@10779,Tony
+10781,@10779,@10780
+10782,@10777,@10777
+10783,@10777,@10777
+10784,Líder de la inv. a Dion,Morgoh
+10785,,Destructor breka
+10786,,Arquero gigante breka
+10787,,@419
+10788,,@419
+10789,,@419
+10790,,@419
+10791,,@419
+10792,,@419
+10793,,@419
+10801,,@10744
+10802,,Laris
+10803,,Horace
+10804,@402,@442
+10805,@10153,@202
+10806,@10150,@10151
+10807,@10150,@10607
+10808,@10150,@10607
+10809,@10150,@10607
+10810,@10150,@10607
+10811,,Guarda Ligus
+10812,Investigador principal,Oden
+10813,Investigador,Bruin
+10814,,Guarda Phard
+10815,@402,@402
+10816,@10468,@10217
+10818,,@10744
+10819,Hermandad oscura,Sumo sacerdote
+10820,@205,@205
+10821,@10153,@202
+10822,,Guarda del pantano
+10823,,Elie
+10828,,Mitereu
+10829,,@10828
+10830,,@10802
+10832,,@10813
+10834,@402,@442
+10836,@402,@402
+10837,@205,Pan derrotado
+10838,,Hans
+10839,,Guarda
+10840,,@10839
+10841,,@10811
+10842,@10819,@10803
+10843,,@10814
+10844,,@10744
+10846,,@10744
+10847,,@10813
+10848,@10768,@10768
+10849,Semilla de Ancelotti,@10778
+10850,Sacerdote de Gran Kain,Carmen
+10851,@10387,@10388
+10852,@10390,@10390
+10853,@10387,@10387
+10854,Arqueólogos de Feldheim,@10586
+10855,@10768,@10774
+10856,@10776,@10776
+10857,@10589,@10589
+10858,@10631,McCrane
+10859,Madre stakato,Pente
+10860,@10236,Magikos
+10861,@10819,@10803
+10862,Hijo de Pente,Infante stakato
+10863,Cansado,@10778
+10864,@10776,@10776
+10865,@10863,@10776
+10866,@10849,@10778
+10871,,@419
+10873,,@419
+10874,@10153,@202
+10875,@441,@441
+10876,@10153,@202
+10877,@441,@441
+10901,@205,@205
+10902,,Vague
+10903,@402,@442
+10904,@441,@441
+10906,@402,Durzel
+10907,@10468,@10217
+10908,,@10902
+10909,@441,@441
+10910,@402,@442
+10911,,@10839
+10913,@402,@10906
+10915,,Borys
+10916,@402,@10906
+10917,,@10902
+10918,,@10915
+10920,@402,@10906
+10921,@10776,@10776
+10922,Sumo sacerdote de Maphr,Bartum
+10923,@10772,@10772
+10924,@10493,@10495
+10925,@10768,Gromwell
+10926,Sacerdote de Maphr,Rouen
+10927,@10772,Ashley
+10928,@10493,@10494
+10929,@10493,@10493
+10930,Sumo sacerdote de Maphr,@10922
+10931,@10930,@10922
+10932,,Guardas del jefe
+10933,Jefe tanor,Al'Dahir
+10934,Jefe tribal tanor,Kankoon
+10935,Guerrero de Kankoon,Jangdo
+10936,Consejero de Kankoon,Zawar
+10937,@10930,@10922
+11001,@402,@442
+11002,@402,@442
+11003,Guarda de puerta este,Balu
+11004,@402,@10541
+11005,Nigromante de hrmd. oscura,Diabolos
+11006,@205,@205
+11007,@441,@441
+11008,@402,@10906
+11009,@402,@10541
+11010,,Mercader herido
+11011,Señor de fortaleza de agonía,Guillotine
+11012,@205,@205
+11013,@441,@441
+11014,Cap. del ejército de agonía,Mania
+11015,,Señor zombi Crowl anfitrión
+11016,,Cab. real torturado
+11017,,@3012
+11018,@10768,Dimsdale
+11019,Botánica,Yumaeri
+11020,@10850,@10850
+11021,@10849,@10778
+11022,@10768,Neville
+11023,@10390,@10390
+11024,@10389,@10389
+11025,@10776,@10776
+11026,Sumo sacerdote de Einhasad,Inore
+11027,,@10005
+11028,Oficial de suministros,@10005
+11029,@11026,@11026
+11030,,@10005
+11031,Buscador con empeño,Vaquero
+11033,,@3031
+11034,@11019,@11019
+11035,@441,@441
+11036,Rangers sangre Guillotine,Capitán rangers de sangre
+11037,@11036,@10103
+11101,@205,@205
+11102,,Capitán de la guardia de Giran
+11103,Espíritu familiar de Dasparion,@3008
+11105,,Anciano de la ciudad
+11106,,@10305
+11107,,Botánico
+11108,Arconte de Giran,Ervin
+11109,@458,Mael
+11110,@10114,Anora
+11111,@456,@10149
+11113,@10121,Mato
+11114,@421,Musa
+11115,@10123,Mischa
+11116,@10115,Shannon
+11117,@461,Rael
+11118,Capitán de la guardia de Giran,Lucius
+11119,,Guarda de Giran
+11120,Cardenal de Giran,Krovis
+11121,,Gawain
+11122,,Crowale
+11123,,Vaster
+11124,,Medlam
+11125,,Artemis
+11128,@441,@441
+11129,,Alice
+11130,@402,@402
+11131,,@11129
+11132,,Vehin
+11133,@402,@442
+11134,@402,@444
+11136,Semilla de Owen,Linfield
+11137,@11136,@11136
+11138,@11136,@11136
+11140,Capitán de la seguridad,Vishnua
+11141,Investigador de magia negra,Thox
+11142,,Tark
+11143,,@11142
+11144,,Alexander
+11145,@10390,Abelino
+11146,,@11119
+11147,,@11119
+11148,,@11119
+11149,,@11142
+11150,,@11144
+11170,@10390,@11145
+11171,@10390,Cadáver de Abelino
+11151,,@11129
+11152,@402,@402
+11153,@441,@441
+11154,@205,@205
+11155,Cobrador de impuestos,Meldon
+11156,,@11132
+11157,,@11119
+11158,,@11129
+11159,,Camarada de Vehin
+11160,@402,@442
+11161,,@442
+11163,@402,@444
+11164,@402,@402
+11165,,Canciller de Innadril
+11167,,Asistente del canciller
+11168,,Portador del canciller
+11178,Oficial de Giran,Sir Owen
+11180,Cap. guardia puerta oeste,Christian
+11182,@11140,@11140
+11185,@11136,@11136
+11186,Cap. guardia puerta sur,Gardner
+11187,Místico oscuro,Jaid
+11188,Cap. guardia puerta este,Royce
+11189,Protector de la dehesa,Jean
+11190,Hechicero ranger de sangre,Ingham
+11191,Soldado ranger de sangre,@10711
+11192,Capitán rangers de sangre,MacNahan
+11193,Mercader del mercado negro,Kutcher
+11194,Pregonero de Giran,Todd
+11195,@11191,Rancho
+11196,Botánico,@11019
+11202,@10153,@202
+11204,@402,@442
+11205,@402,@442
+11206,,Mercader abandonado
+11207,,@11206
+11208,,Mercader del este
+11209,,Arzen
+11210,@10150,@11209
+11211,@10150,@11209
+11212,@205,@205
+11213,@205,@205
+11214,@10150,Anna
+11215,@10150,@11214
+11220,@10153,@202
+11221,@10150,@10104
+11222,@10150,Hugh
+11224,Jefe del área de descanso de la ruta comercial,MacBain
+11225,,Falt
+11226,,Shao
+11227,,Oona
+11228,@10150,Mensajero
+11229,@10150,Maliss
+11230,@10150,Jack
+11231,@10150,@10487
+11232,,@10005
+11233,,@10005
+11235,,@11206
+11236,,@11206
+11237,,@11208
+11239,@10468,@10217
+11240,@10236,Phobos
+11241,Capitán bandido Ol Mahum,Lyle
+11242,@10150,@10104
+11243,@10150,@11222
+11244,@10819,Cartess
+11245,,Guardia real de Lyle
+11246,,Ashear
+11247,,@11246
+11248,,@11246
+11249,,Aiden
+11250,,@11249
+11251,Capitán del ejército de Giran,Frederick
+11253,@402,@402
+11254,@402,@402
+11255,Erudito de la Torre de Cruma,Gnosis
+11256,@11255,@11255
+11257,Capitán del puerto de Giran,Benjamin
+11258,@10150,@11228
+11259,@10150,@11229
+11260,@10150,@11230
+11261,@10150,@10487
+11262,@10493,@10493
+11263,@10493,@10495
+11264,@10493,@10494
+11265,Mercader de cuero,Votang
+11266,Justiciero,@10358
+11267,@11136,@11136
+11268,Cazatesoros,@10585
+11269,@10150,@10586
+11270,@10105,Ruben
+11271,@11194,Jane
+11272,@11178,@11178
+11273,@11140,@11140
+11274,@10150,@11214
+11275,@10150,@11209
+11276,@205,@205
+11277,@10150,@10104
+11278,@10150,@11222
+11279,,Mano izquierda del líder de los bandidos
+11280,,Subordinado de la mano izquierda
+11281,,Vigilante de la mano izquierda
+11282,,Puma costero famélico
+11283,,Oso rojo hambriento
+11284,,Puma gigante
+11285,@11255,@11255
+11301,@11251,@11251
+11302,@11251,@11251
+11303,@402,@442
+11304,@402,@442
+11305,,Guarda de la puerta oeste
+11306,@402,@402
+11307,@402,@402
+11308,,@11249
+11309,,@11249
+11310,,@10005
+11311,,@10005
+11312,,@11246
+11313,,@11246
+11314,,@11246
+11315,,@10005
+11316,,@10005
+11317,Cap. de avanzada de Giran,Barrett
+11318,,@11249
+11319,,@10005
+11320,,@10005
+11321,@11251,@11251
+11322,,@11246
+11323,@402,@442
+11324,,Unidad de patrulla de Zaken
+11325,Tercer oficial de cubierta,Railey
+11326,@402,@402
+11327,Hoja afilada,Kirion
+11350,@10819,Ejecutor
+11351,@10468,@10217
+11352,Rey pirata,Fantasma de Zaken
+11354,Cosechador de Zaken,Coleccionista de almas
+11355,@11352,@11352
+11356,@10236,Nix
+11357,@10236,@11356
+11358,@10236,Osto
+11359,@11352,@3109
+11360,@10387,@10387
+11361,@10150,@10586
+11362,@11268,@10717
+11363,Comandante maldito,Ditch
+11364,Cap. gr. de avanzada tirado,@11142
+11366,@10150,@10586
+11367,,Guarda manipulado
+11368,@10819,@11350
+11369,Despertado,Demonio antiguo
+11370,,Soldado del grupo de avanzada
+11401,,@442
+11402,,@441
+11404,@10123,Putine
+11406,@10121,Juan
+11407,,@10071
+11408,,@10071
+11409,@402,@442
+11410,Enviado para proceso de paz,Jen
+11411,Cardenal,Caranese
+11412,Elfo del árbol protector,Cara
+11413,Enviada para proceso de paz,Natalie
+11414,@11413,@10165
+11415,@11413,Adams
+11416,,Jefe de guerra breka del barranco
+11417,,Jefe de guerra supremo breka del barranco
+11418,@11412,@423
+11419,@11412,@423
+11420,@205,Pan vencido
+11421,Anciana,Rowen
+11422,@205,@205
+11423,@11412,@11412
+11424,@11412,@11412
+11425,@11412,@11412
+11426,,Veremus
+11427,,@3114
+11428,@11412,@11412
+11429,Capitán de patrulla,Celin
+11430,Mercader raptado,@10120
+11431,@10588,@10588
+11432,Elfo guardián,Buhill
+11433,@10002,Lawrence
+11434,@11193,@11193
+11435,@11187,@11187
+11436,@10493,@10493
+11437,@10493,@10495
+11438,@10493,@10494
+11439,Rezagado,Nithos
+11440,@11430,@10120
+11441,@10588,@10588
+11442,@11432,@11432
+11443,@10002,@11433
+11444,@11193,@11193
+11445,@11187,@11187
+11446,@10493,@10493
+11447,@10493,@10495
+11448,@10493,@10494
+11449,@11439,@11439
+11450,,@11417
+11451,,Guarda real breka del barranco
+11452,,Soldado de élite breka del barranco
+11453,,Séquito del cardenal
+11454,,Transporte del cardenal
+11455,Caballero dragón,Quesnel
+11456,,@3011
+11461,@402,@442
+11464,@11410,@11410
+11465,@11411,@11411
+11466,@11412,@11412
+11469,@11413,@11413
+11470,@11413,@10165
+11471,@11413,@11415
+11473,@11412,Unidad de patrulla
+11474,@205,@205
+11475,@11429,@11429
+11476,@11421,@11421
+11477,Cazador del valle,Hammon
+11478,@10153,@202
+11479,@10150,@10151
+11481,@402,@442
+11484,@11410,@11410
+11486,@11412,@11412
+11489,@11413,@11413
+11490,@11413,@10165
+11491,@11413,@11415
+11494,@205,@205
+11495,@11429,@11429
+11497,@11477,@11477
+11498,@10153,@202
+11499,@11410,@11410
+11500,Luchador de honor,Vartis
+11501,Arconte de Oren,Ramone
+11502,@458,Dewyl
+11503,@10114,@10306
+11504,@456,Sereos
+11505,@10120,Runan
+11506,@10121,Lowe
+11507,@421,Gale
+11508,@10123,Arkham
+11509,@10115,Rhias
+11510,@10125,Boadeu
+11511,@11411,@11411
+11512,@10772,Maychel
+11513,Cazador,Renner
+11514,@10068,Drave
+11515,@10068,@10005
+11516,@11513,Shayden
+11517,Jefe de apoyo,Beto
+11518,,@10071
+11519,,@10071
+11520,@205,@205
+11521,@205,@205
+11522,@205,@205
+11523,Cazador forajido,@10359
+11524,@402,@10906
+11525,@402,@10906
+11526,@402,@10906
+11527,@10068,@10906
+11528,@402,@10906
+11529,,Jefe de la ciudad de Ariana
+11530,,@11529
+11531,@402,@402
+11532,@402,@402
+11533,@10934,Hamgalalte
+11534,@402,@402
+11535,@402,@444
+11536,@402,@444
+11537,@402,@444
+11538,@402,@444
+11539,@402,@444
+11540,,Cazador Manny
+11541,,Cazadora Eture
+11542,Caballero real de Oren,Steiner
+11543,@11542,@11542
+11544,@11542,@11542
+11545,@11542,@11542
+11546,Concubina del señor de Oren,Christine
+11547,,Kate
+11548,,@11547
+11549,Guarda real de Oren,Raihel
+11550,@11549,Aisa
+11551,@11549,@11550
+11552,@11549,@11550
+11553,Primera dama de Oren,Salein
+11554,@11553,@11553
+11555,@11553,@11553
+11556,Señor de Oren,David
+11557,@11556,@11556
+11558,@402,@442
+11559,,Luchador tanor
+11560,@402,@442
+11561,Orco mutante timak,Rakum
+11562,@11561,@11561
+11563,@11561,@11561
+11564,@11561,Caraku
+11565,,Guarda de Caraku
+11566,@11561,@11564
+11567,Sumo cab. de hrmd. oscura,Embrion
+11568,@11567,@11567
+11569,Caballeros de Embrion,@11433
+11570,@11569,@11433
+11571,,Chica misteriosa
+11572,,Atacante lagarto leto
+11573,,@11571
+11574,,Windsus hembra
+11575,@11546,@11546
+11576,,Coocoo
+11577,,@11576
+11578,Reina araña del barranco,Poricule
+11579,,@11547
+11580,Mercader,Creezaro
+11581,@10772,@11512
+11582,@10772,Annie
+11583,@11513,@11513
+11584,Soldado de Oren,@11514
+11585,@11196,@11019
+11586,@11187,@11187
+11587,@10387,@10387
+11588,@11513,@11516
+11589,@10588,@10588
+11590,@10493,@10493
+11591,@10387,@10388
+11592,@10493,@10495
+11593,Sumo chamán,Varpio
+11594,@10387,@10388
+11595,,Hechicero tanor
+11596,@10819,@11350
+11597,,Secuaz de la oscuridad
+11598,,@11576
+11599,@10493,@10495
+11623,,Hongo caminante gigantesco
+11624,,Hongo caminante diminuto
+11625,Seguidor de hrmd oscura,@3055
+11626,,Labaki
+11627,,Secuaz de Labaki
+11628,,Ukra
+11629,,Secuaz de Ukra
+11630,,@11629
+11601,,Diente de hierro
+11602,Herido,@205
+11603,,@3012
+11604,@11625,Fuego mortal
+11605,@402,@402
+11606,@402,@402
+11607,@205,@205
+11631,@402,@402
+11632,@441,@441
+11633,@10602,@10603
+11634,@205,@205
+11635,,@3012
+11636,@402,@442
+11637,,Andre
+11638,,Molly
+11639,@402,@444
+11640,@10819,Gelan
+11641,,Cusher
+11642,,Jenis
+11643,,Dennis
+11644,,Hanshen
+11661,@402,@402
+11662,@441,@441
+11663,@10602,@10603
+11664,@205,@205
+11665,,@3012
+11666,@402,@442
+11667,,@11637
+11668,,@11638
+11669,@402,@444
+11670,@10819,@11640
+11671,,@11641
+11672,,@11642
+11673,,@11643
+11674,,@11644
+11614,Oficial de Oren,Tyron
+11613,@11614,@11614
+11612,@10387,@10387
+11615,@11193,Lady Nine
+11616,@11268,@10585
+11617,@10387,@10388
+11618,Atrapado en cristal,Jayhan
+11619,@11265,@11265
+11620,@10311,@11644
+11621,@11196,@11019
+11622,Séquito de Tyron,Claire
+11675,Pregonero de Oren,Galina
+11701,@402,@442
+11702,@402,@444
+11703,@10602,@10602
+11704,@10602,Lonardo
+11705,@10602,Hamsen
+11706,@402,@10541
+11707,@10602,Bayona
+11708,,Hech. T. marfil
+11709,,@10217
+11710,,@11638
+11711,Cap. de merc. de luz plat.,@441
+11712,,@11708
+11713,,@3012
+11714,Alto hech. de Torre de marfil,Emerson
+11715,@11714,Sosa
+11716,@11714,Vanuel
+11717,,Gillium
+11731,@402,@442
+11732,@402,@444
+11733,@10602,@10602
+11734,@10602,@11704
+11735,@10602,@11705
+11736,@402,@10541
+11737,@10602,@11707
+11738,,@11708
+11739,,@10217
+11740,,@11638
+11741,@11711,@441
+11742,,@11708
+11743,,@3012
+11744,@11714,@11714
+11745,@11714,@11715
+11746,@11714,@11716
+11747,,@11717
+11771,,Capitán saqueador bandido
+11772,,Explorador de los bandidos de las montañas
+11773,@10125,Lowren
+11774,,Chamán bandido
+11775,@10602,@10602
+11776,@10602,@11704
+11777,@10602,@11705
+11778,Cabecilla de los bandidos,Igorasi
+11779,,@11774
+11780,Segundo jefe bandido,Lakasi
+11781,Cap. rastreo orco timak,Piedra ominosa
+11782,,Ranger de élite orco timak
+11783,,Soldado de élite orco timak
+11784,@10602,@10602
+11785,@10819,@11567
+11786,,@3012
+11787,Caballero oscuro,Sansiro
+11788,,@3012
+11761,,@3013
+11789,@11675,Pintu
+11790,@11614,@11614
+11791,@11622,@11622
+11792,Cocinero de la Torre de marfil,Bella
+11793,@10588,@10588
+11794,@10387,@10387
+11795,@11193,@11193
+11796,@10387,@10388
+11797,@10493,@10494
+11798,@10493,@10495
+11799,@10493,@10493
+11720,@10602,Rakan
+11721,@10602,Jaya
+11722,@10602,@11720
+11723,@10602,@11721
+11724,@11622,@11622
+11725,@11792,@11792
+11726,@10588,@10588
+11727,Carnicero,Crugar sádico
+11728,@10387,@10387
+11729,Mercader siniestro,Mancini
+11730,@10387,@10388
+11750,@10493,@10494
+11751,@10493,@10495
+11752,@10602,Kirinaldo
+11753,@10602,@11752
+11754,@10493,@10493
+11801,,Mercader del Valle del dragón
+11802,@402,@442
+11803,@441,@441
+11804,@10468,@10217
+11805,@402,@402
+11806,@402,@444
+11808,@402,@442
+20101,,Murciélago vampiro de la pradera
+20102,,@3103
+20103,,Antílope de la pradera
+20104,,@3027
+20105,,@3007
+20106,,Pellizcadora
+20107,,@3025
+20108,,Combatiente orco
+20109,,Arquero orco
+20110,Jefe de guerra de vanguardia orco,Jefe de guerra orco
+20111,,Explorador orco
+20112,,Huevo de araña
+20113,,Maestro tirador orco
+20116,,@10170
+20117,,Hombre lobo ruin
+20118,,Oso rojo de la pradera
+20120,,Antílope cimarrón
+20121,,Murciélago de pradera
+20122,,Sirviente orco
+20123,,Atalaya orco
+20124,,Lobo negro veloz
+20125,,Oso pardo
+20126,,Merodeador orco
+20127,,Araña ermitaña
+20128,,Araña ermitaña gigante
+20134,,@10190
+20141,,Capataz orco
+20143,,@3011
+20144,,Escolta orco
+20148,,Hongo caminante
+20149,,Premo huidizo
+20150,,@3050
+20181,Merodeador oscuro,Colmillo negro
+20182,Pezuñas sangrientas,Cuerno plateado
+20183,Reina araña,Reina Sylop
+20184,Mirada deslumbrante,Urca
+20185,Espada tolerante,Kobaka
+20201,,@3017
+20202,,Dicor forestal
+20203,,Avispa del bosque
+20204,,Obrero orco
+20205,,@20111
+20206,,Luchador orco
+20207,,@3082
+20208,,Enloquecido orco
+20209,,@10162
+20210,,Arquero esqueleto
+20211,,Protector de espíritu de zorro rojo
+20213,,Patrullero de élite orco
+20214,,Dicor espinada
+20219,,Zorro rojo famélico
+20220,,Buscador orco
+20222,,@20108
+20223,,@20123
+20224,,Líder orco
+20228,,Gólem de piedra caído
+20234,,Colmillo venenoso del bosque
+20236,,Líder de la guardia real
+20237,,Escolta líder
+20244,,Gólem vigoroso
+20257,,Hombre lobo reliquia
+20258,,@3073
+20281,Peligro del pastizal,Aguijón
+20282,Pies rápidos,Bestia roja 
+20283,Capitán de atraque,Taarka
+20284,Aguijón muy tóxico,Rey Bane
+20298,Guardabos. corrupto,Pastor de espíritu
+20301,,Hombre lobo sádico
+20302,,Puma de pradera rabioso
+20303,,Espía Ol Mahum
+20304,,@3059
+20305,,@3097
+20306,,Hachero Ol Mahum
+20307,,Tejedor
+20308,,Goblón
+20309,,@10162
+20310,,@20210
+20311,,Murciélago de tumba
+20312,,@3073
+20313,,Buscador Ol Mahum
+20314,,Oficial Ol Mahum
+20315,,@3058
+20316,,Navegante pirata
+20320,,Guarda Ol Mahum
+20321,,Guarda del botín
+20323,,@10363
+20331,,Capataz Ol Mahum
+20332,,Delincuente Ol Mahum
+20333,,Luchador Ol Mahum
+20334,,Soldado esqueleto maléfico
+20335,,Arquero esqueleto maléfico
+20336,,Murciélago vampiro de tumba
+20337,,Maestro tirador Ol Mahum
+20338,,@10383
+20339,,Degollador Ol Mahum
+20341,,Hombre lobo rabioso
+20343,,Puma de las llanuras
+20345,,@3061
+20347,,@3064
+20352,,Puma
+20357,,Explorador orco turek
+20362,,@3076
+20363,,Parca sombría
+20372,,Campeón Ol Mahum
+20373,,@20320
+20374,Jefe unidad de guardia,Tumir
+20376,,@10349
+20378,,Sujeto goblón
+20379,,Sujeto grandis
+20381,Animal feroz,Canine
+20382,Diente cruel,Freki
+20383,El imparable,Melville
+20384,El resentido,Moretti
+20385,Ratero,Olvar
+20386,Nariz olfateadora,Alle
+20398,Homicida,Zodiac
+20401,,Lobo negro famélico
+20402,,@3027
+20403,,Saqueador goblón
+20404,,Prov. Lagarto Maille
+20405,,@3043
+20406,,Lobo negro enloquecido
+20407,,@3017
+20408,,Combatiente lagarto maille
+20409,,Tirador lagarto maille
+20410,,@3044
+20411,,@3005
+20412,,Francotirador orco turek
+20413,,Patrullero orco turek
+20414,,Luchador orco turek
+20415,,@20106
+20416,,@3000
+20418,,Oso rojo feroz
+20419,,Delincuente goblón
+20420,,Tejedor oscuro
+20424,,Buscador lagarto maille
+20425,,Ratero lagarto maille
+20426,,Soldado de asalto lagarto maille
+20432,,Guarda lagarto maille
+20434,,Protector lagarto maille
+20440,,@20357
+20441,,Custodio orco
+20442,,Escolta orco turek
+20443,,Líder orco turek
+20444,,@3102
+20446,,Cazador de hombres lagarto maille
+20447,,Buscametas lagarto maille
+20458,,Lobo negro rabioso
+20461,,Carnicero goblón
+20462,,Goblón tullan
+20463,Jefe de la tribu tullan,Marc
+20464,,Prima oscuro
+20465,,Nerkas oscuro
+20468,,Tirador con arco orco turek
+20470,,Herrero orco turek
+20471,Coleccionista de esqueletos,Kyrios
+20478,,@20446
+20479,,@20447
+20481,Instinto famélico,Manos grandes
+20482,Delincuente de almas,Calavera de la condena
+20483,Colec. de humanos,Kactoose
+20484,Custodio,Cotous
+20485,Sacerdote,Cox
+20486,Capitán escolta,Turekka
+20498,Líder de la invasión,Barbaplateada
+20501,,Hombre lobo grotesco
+20502,,Guerrero esqueleto
+20503,,Ballestero esqueleto
+20504,,@3101
+20505,,Degollador de almas
+20506,,@20320
+20507,,Soldado de vanguardia Ol Mahum
+20508,,Ranger Ol Mahum
+20509,,Perro de guerra turek feroz
+20510,,Disparador orco turek
+20511,,@10547
+20514,,@3067
+20515,,@20352
+20516,,Oso de Gludio
+20517,,Guarda orco turek
+20518,,Máquina de guerra enorme
+20519,,Guarda del altar orco turek
+20520,,Decano orco turek
+20521,,Soldado de élite orco turek
+20530,,@3097
+20532,,Sabueso famélico
+20534,,Prima vengativo
+20535,,Guarda escolta
+20536,,Puma feroz
+20537,,Piedra de alma
+20538,,@20442
+20539,,Capitán de la guardia turek
+20540,,Capitán de tropa turek
+20541,,Capitán de patrulla turek
+20542,,Capitán guardián turek
+20544,,Ladrón de cristales preciosos Ol Mahum
+20545,,Cazador maldito
+20547,,Snipe caído
+20550,,Sujeto misterioso
+20551,,Caldero
+20552,,@20551
+20553,,@20551
+20554,,@20357
+20555,,@3095
+20557,,@3097
+20558,,@3095
+20559,,@20357
+20560,,@20442
+20581,Heraldo de las ruinas,Ala sombría
+20582,Visitante de las ruinas,Errante de las ruinas
+20583,Caído,Diente de sable
+20584,Capitán arquero,Hucca
+20585,Relámpago,Gnasher
+20586,Conquistador,Troka
+20598,Guardián caído,Vapar
+20601,,@3103
+20602,,Rastreador de ojo de monstruo
+20603,,@3074
+20604,,Rastreador esqueleto
+20605,,Buscador esqueleto
+20606,,Hormiga mutante armada
+20607,,Basilisco del erial
+20608,,@3024
+20610,,@10383
+20611,,Luchador saqueador Ol Mahum
+20612,,Transportador Ol Mahum
+20613,,Sahara del desierto
+20616,,Guerrero hormiga mutante armado
+20618,,Ol Mahum pelirrojo
+20619,,@10635
+20620,,Portador Ol Mahum
+20622,,Custodio del valle
+20633,,Guarda saqueador Ol Mahum
+20634,,Ranger saqueador Ol Mahum
+20638,,Sahara erosionado
+20639,,Obrero hormiga mutante armado
+20640,,Luchador hormiga mutante armado
+20641,,Sanguijuela de maná
+20642,,Atalaya esqueleto del desierto
+20643,,Buscador esqueleto del desierto
+20644,,Mensajero hormiga mutante armado
+20645,,Hormiga soldado mutante armada
+20646,,Gólem de piedra gris
+20647,,Caja de arma
+20656,@10631,@10631
+20657,@10631,@10631
+20662,,@3012
+20681,Custodio del erial,Ojo de las arenas
+20682,Heraldo del erial,Bloqueo rojo
+20683,,Pointer
+20684,,Grinder
+20685,Criminal del desierto,Acechador de las arenas
+20686,Tierra enfadada,Haftz pedregoso
+20687,Desierto enfadado,Haftz arenoso
+20698,Aguijón veneno mortal,Kazir
+20701,,Suministrador orco breka
+20704,,Soldado de élite orco breka
+20706,,Avispa irritable
+20707,,Avispa sangrienta
+20708,,Saqueador lagarto leto
+20709,,@3039
+20710,,@3041
+20711,,@3040
+20712,,@20103
+20713,,Windsus de la pradera
+20714,,Infiltrador orco breka
+20715,,Ranger orco breka
+20716,,Combatiente orco breka
+20717,,Murciélago vampiro gruñón
+20719,,Oso rojo feroz
+20720,,Araña cuchilla de la pradera
+20721,,@20462
+20722,,Araña espinosa gigante
+20725,,Guarda lagarto leto
+20727,,Escolta lagarto leto
+20731,,@20112
+20733,,Pellizcadora acuchilladora
+20734,,Antílope élfico
+20735,,Windsus élfico
+20736,,Oso rojo élfico
+20737,Colmillo verde,Pamba
+20740,,Explorador orco breka
+20741,,@3094
+20742,,Guarda orco breka
+20743,,Decano orco breka
+20744,,Escolta orco breka
+20746,,@3029
+20747,,Avispa enfurecida
+20748,,@3037
+20750,,Antílope anciano
+20752,,Murciélago vampiro
+20754,,Ratero lagarto leto
+20756,,@3027
+20757,,@20308
+20762,,@3094
+20770,,@20740
+20771,,@3094
+20772,,Espectro de reliquia
+20773,,Avispa rabiosa
+20781,Capitán de la tala,Bulc
+20782,Explorador,Baroque
+20783,Provocador,Moke
+20784,Rey saqueador,Thrush
+20785,Atacante,Krush
+20786,Tirador,Varash
+20787,@11727,Screash
+20798,Dragón de las llanuras,Flagon
+20801,,Araña venenosa del pantano
+20802,,Araña tigre negra
+20803,,Murciélago del pantano
+20804,,Parca del horror
+20805,,Parca de la niebla terrible
+20806,,Vidente maldito
+20807,,Soldado de vanguardia lagarto maille
+20808,,Acosador lagarto maille
+20809,,@3044
+20810,,@3078
+20811,,@3079
+20812,El fisgón,Danthalion
+20813,Invest. gigantes inf.,Sparshi
+20814,,Esclavo stakato de la ciénaga
+20816,,@3053
+20817,,Prima del coro sombrío
+20830,,Hassassin del pantano
+20831,,@20814
+20833,,Enviado stakato de la ciénaga
+20834,,@3053
+20835,,Asesino del pantano
+20837,,Patrullero lagarto maille
+20845,,Necrófago del pantano
+20855,,Hassassin stakato de la ciénaga
+20857,,Criminal destructor
+20858,,Criminal demente
+20881,Soldado perdido,Liam
+20882,Flecha errante,Ronde
+20883,Asesinato silencioso,Morgan
+20884,Reina de la ciénaga,Zyrnna
+20885,Líder espíritu,Arcane
+20898,Gobern. del pantano,Sina
+20901,,Oso pardo enfurecido
+20902,,Araña con colmillos del bosque
+20903,,Edecán Ol Mahum
+20904,,@3014
+20905,,@3061
+20906,,Patrullero Ol Mahum
+20907,,Centinela Ol Mahum
+20908,,Recluta Ol Mahum
+20910,,@20314
+20911,,Combatiente Ol Mahum
+20912,,Suministrador Ol Mahum
+20913,,Francotirador Ol Mahum
+20914,,Comandante Ol Mahum
+20915,Jefe Ol Mahum,Alarac
+20916,,@11559
+20917,,Explorador tanor
+20918,,Centinela tanor
+20920,,Suministrador tanor
+20921,,Caballero recluta tanor
+20922,,Sacerdote tanor
+20923,,Chamán tanor
+20924,,Combatiente tanor
+20927,,Avispa de la oscuridad
+20928,,Zorro de cola roja
+20929,,Araña de ciénaga venenosa
+20930,,Premo de la ciénaga
+20931,,@20148
+20932,,Avispa debilitadora
+20933,,Atalaya tanor
+20934,@20783,Duthlyr
+20935,,@11559
+20942,,@3012
+20943,,Patrullero tanor
+20944,,Maniquí de prueba de entrenamiento
+20945,,Objetivo de entrenamiento
+20948,,Oficial huido
+20949,,Rezagado Ol Mahum
+20952,,Fragmento de alma de jefe Ol Mahum 
+20955,,@20921
+20956,,@20507
+20957,,Grupo de avanzada Ol Mahum
+20961,,Soldado de élite de Kankoon
+20962,,Centinela de Kankoon
+20963,,Sacerdote de Kankoon
+20971,,@11559
+20972,,@20952
+20973,,Atalaya de Kankoon
+20981,@20785,Atacante de cima
+20982,@10144,Tartan
+20983,Vanguardia tanor,Thaartan
+20984,Consejero,Tutan
+20985,Gobernador de la cima,Ol B’Khan
+20998,Gigante inf. olvidado,Amadeus
+21001,,Mandrágora furiosa
+21002,,Mandrágora torturada
+21003,,Mandrágora llorona
+21004,,Dicor de los lamentos
+21005,,Dicor de la desesperación
+21006,,Criminal vengativo
+21007,,Criminal desfigurado
+21008,,Parca demente
+21009,,Sirv. condena agotado
+21010,,@3006
+21011,,@3019
+21012,,Dicor llorona
+21013,,Espíritu inocente
+21014,,Segador
+21015,,Sauce funesto
+21016,,@3030
+21017,,Espectro sediento de sangre
+21018,,Espectro torturado
+21019,,@3031
+21020,,Combatiente esqueleto
+21021,,Tirador esqueleto
+21022,,Nigromante nerkas
+21023,,Señor zombi
+21025,Agregado de almas,Koma
+21026,,Espíritu inquieto
+21027,,@3012
+21032,,Sirviente espantoso
+21033,,@3011
+21035,,Cosechador de almas nerkas
+21036,,Mercader resucitado
+21038,,@3021
+21039,,@3079
+21081,Planta chillona,Chillona
+21082,Espír. teñido oscuridad,Flora
+21083,Mensajero rendido,Jonadan
+21084,Transp. de cadáveres,Treant agonizante
+21085,@11031,@11031
+21086,Damisela que espera,Seamstress
+21087,El ensuciador,Balthazar
+21090,Guarda del dolor,Caballero de la sombra
+21091,@21090,Señor de la sombra
+21092,@21090,@11604
+21093,@21090,@3021
+21101,,Goblón engañado
+21102,,@3050
+21103,,@3108
+21104,Rey Snipe,Rugal
+21105,,Hombre lobo del bosque
+21106,,Snipe veloz
+21107,,@3083
+21108,,Dicor ruin
+21109,,Guerrero lagarto langk
+21110,,Ranger lagarto Langk
+21111,,Chamán lagarto langk
+21112,,Luchador lagarto langk
+21113,,Puma alpino
+21114,,Puma vigoroso
+21115,,Oso rojo hambriento
+21116,,Oso rojo feroz
+21117,,Windsus de la dehesa
+21118,,Antílope de la dehesa
+21119,,Dicor del bosque
+21120,,Oso rojo gigante macho
+21121,,Puma líder
+21122,,@3082
+21123,,Recluta lagarto langk
+21124,,@3080
+21125,,Tótem lagarto langk
+21128,,Centinela lagarto langk
+21129,,Snipe ruin
+21132,,Dicor anciana
+21134,,Súcubo seductor
+21135,,Soldado lagarto langk
+21136,,Explorador lagarto langk
+21137,,Chamán anciano lagarto langk
+21138,,Combatiente lagarto langk
+21140,,@20308
+21141,,Wyrm alcaide
+21155,,Dicor de la alucinación
+21160,Sirvienta de Stenoa,Ellen
+21161,@21160,@21160
+21162,Secuaz de Ellen,@3050
+21163,@21162,@3108
+21164,@21162,@3050
+21165,@21162,@3108
+21166,@21162,@3050
+21167,@21162,@3108
+21168,Soldado de élite de Thox,Explorador lagarto
+21169,@21168,@21112
+21170,@21168,@21110
+21171,@21168,@21112
+21172,@21168,@21110
+21173,@11141,@11141
+21174,@21168,@21112
+21175,@21168,@21138
+21181,@21160,@21160
+21182,Heraldo de Stenoa,Vir
+21183,Sarg. entrenamiento,Tess
+21184,Mano izquierda del jefe,Rashkos
+21185,Mano derecha del jefe,Shakos
+21186,Ojo del jefe,Luce
+21187,@11141,@11141
+21198,Reina de Gorgon,Stenoa
+21188,Piratas de Zaken,@3064
+21189,@21188,Rastreador de Zaken
+21190,@21188,Francotirador pirata zombi
+21201,,Oso rojo salvaje
+21202,,Puma famélico
+21203,,Obrero bandido Ol Mahum
+21204,,Suministrador bandido Ol Mahum
+21205,,Ratero bandido Ol Mahum
+21206,,Centinela bandido Ol Mahum
+21207,,Guerrero bandido Ol Mahum
+21208,,Comandante bandido Ol Mahum
+21210,,Explorador bandido Ol Mahum
+21211,,Arquero bandido Ol Mahum
+21212,,Maestro tirador bandido Ol Mahum
+21213,,Muerto errante
+21214,,Soldado de vanguardia de los piratas de Zaken
+21215,,Disparador de los piratas de Zaken
+21216,,Aviador mortal
+21217,,Soldado de infantería de los piratas de Zaken
+21218,,@3099
+21219,,Guerrero goblón
+21220,,Luchador goblón
+21221,,Creación del gigante inferior
+21222,,Creación de gigante inferior
+21223,,Grandis destructor
+21224,,Grandis demoledor
+21225,,Gigante inferior degenerado
+21226,,Gigante inf. olvidado
+21227,,@3100
+21228,,@3052
+21255,,Llanto de desesperación
+21256,,Oso rojo perdido
+21258,,Pirata zombi de buque naufragado
+21259,,@21115
+21260,,Puma costero rabioso
+21261,,Puma insaciable
+21262,,Gigante inferior loco
+21263,,Gigante inferior angustiado
+21264,,Grandis tirano
+21265,,Muerto gigante
+21281,@21184,Lulani
+21282,Tuerto,Alfonso
+21283,El sufridor,Holst
+21284,Gigante inferior desalentado,Medes
+21285,Gigante inferior trastornado,Luka
+21286,Terror de la ciénaga,Hector
+21296,Peón de Marsha,Gárgola de piedra
+21297,@21296,@20307
+21298,Bruja de la ruta comercial,Marsha
+21301,,Esclavo de Zaken
+21302,,Súcubo oscuro
+21303,,Premo de la jungla
+21304,,Prima del coro sombrío
+21305,,Degollador de los piratas de Zaken
+21306,,Vigilante de los piratas de Zaken
+21307,,Marinero de cubierta de los piratas de Zaken
+21308,,Escorpión de Devilrock
+21309,,Navegante de los piratas de Zaken
+21310,,Timonel de los piratas de Zaken
+21311,,Capitán de Zaken
+21312,,Contramaestre de los piratas de Zaken
+21313,,Custodio de Zaken
+21314,,Guardia real de Zaken
+21315,,Disparador maestro de Zaken
+21316,,Prima del coro infernal
+21317,,Cueva Escorpión
+21318,,Ojo de Zaken
+21319,,Séquito de Zaken
+21320,,Muerto vengativo
+21321,,Ojo maligno
+21322,,Centinela del tesoro
+21329,,@11305
+21330,,Esclavo de Zaken el malévolo
+21331,,Súcubo oscuro mortal
+21332,,Premo de la jungla famélico
+21334,,Patrullero de los piratas de Zaken
+21335,,Francotirador de los piratas de Zaken
+21336,,Muerto inquieto
+21337,,@3083
+21338,,Tirador de Zaken
+21339,,@3064
+21351,@21188,Soldado de los piratas de Zaken
+21352,@21188,@21307
+21353,@21188,@21309
+21354,@21188,Capitán de los piratas de Zaken
+21355,@21188,Artillero de los piratas de Zaken
+21356,@21188,@21355
+21357,@21188,@21355
+21358,@21188,@21355
+21359,@21188,@21355
+21360,@21188,@21355
+21361,@21188,@21355
+21362,@21188,@21355
+21363,@21188,@21355
+21364,@21188,@21355
+21365,,@11352
+21366,,@11352
+21367,,@11352
+21368,,@11352
+21369,,@11352
+21370,Criatura de mar profundo,Tentáculo misterioso
+21371,,Ratón
+21372,@21188,@21351
+21373,@21188,@21307
+21374,@21188,@21309
+21375,@21188,@21354
+21381,Mirada seductora,Rua
+21382,Thorn terrorífico despertado,Bornesting
+21383,Comandante,Albert
+21384,Primer oficial,Jeff
+21399,Maestro de la Isla del Diablo,@3109
+21401,,Suministrador breka del barranco
+21402,,Explorador breka del barranco
+21403,,Sacerdote breka del barranco
+21404,,Patrullero breka del barranco
+21405,,Chamán breka del barranco
+21406,,@11416
+21407,,Centinela breka del barranco
+21408,,Enloquecido breka del barranco
+21409,,Luchador breka del barranco
+21411,,Basilisco de ámbar
+21412,,Windsus del barranco
+21413,,Prima rastreador de almas
+21414,,Sahara crepuscular
+21415,,Hombre lobo mortal
+21416,,Guardián Wyrm
+21417,,Alma encadenada errante
+21418,,@3021
+21419,,Grandis rompehuesos
+21420,,@3023
+21421,,Ojo de monstruo temeroso
+21422,,@3100
+21423,,Ojo de monstruo mortal
+21424,,@3082
+21425,,@3022
+21426,,Soldado Stakato
+21430,,Maelstrom tormenta de arena
+21431,,Lío mortal
+21432,,Caballero sin cabeza mortal
+21433,,Grandis asesino de dragones
+21434,,Sahara del erial
+21435,,Prima devorador de almas
+21436,,Basilisco guardián
+21440,,@3073
+21441,,Wyrm bebé
+21442,,Partidario de Cager
+21443,,Wyrm alerta
+21444,,Hijo de Veremus
+21481,Jefe breka,Gorokk
+21482,Investigador de dragones,Verock
+21483,Voluntad firme,Jason
+21484,Devorador de dragones,Oomba
+21485,Viento de la muerte,Agarez
+21486,Homicida,Ravolas
+21487,Codicioso,Wilhelm
+21498,Acomodador de la oscuridad,Marlox
+21499,,Tótem demoníaco
+21501,,Grendel
+21502,,Windsus de la meseta
+21503,,Grendel famélico
+21504,,Pellizcadora del barranco
+21505,,Atrox comehumanos
+21506,,Tirano goblón acuchillavientos
+21507,,Obrero goblón acuchillavientos
+21508,,Devorador goblón acuchillavientos
+21509,,Luchador goblón acuchillavientos
+21510,,Rosa ninfa cruel
+21511,,Atrox de la meseta
+21512,,@20725
+21513,,Atalaya lagarto leto
+21514,,@3040
+21515,,Infiltrador lagarto leto
+21516,,Sacerdote lagarto leto
+21517,,Guardián lagarto leto
+21518,,Atalaya orco de Timak
+21519,,Guarda de Kazan
+21520,,Buscador de Kazan
+21521,,Capataz esclavo Kazan
+21522,,@11783
+21523,,Vengador tanor
+21525,,Recluta tanor
+21526,,Guarda real de jefe tribal tanor
+21527,,@11595
+21528,,Guardián tribal tanor
+21529,Patrullero esclavo,Karok
+21533,,Tótem de brujería
+21534,Madrina de la ciénaga de los hombres lagarto,Crokyle
+21535,,IA lagarto
+21536,Capitán centinela,Trampas
+21537,Capitán del entrenamiento,Charto
+21538,,Hombre lagarto joven
+21581,Golpe aterrador,Oso Grylle
+21582,Carnicero acuchillavientos,Gaytin
+21583,Cuerno irrompible,Silenos
+21584,Guía de la tribu,Toruq
+21585,Cuchilla sangrienta,Karix
+21586,Admirador de tótems,Xeno
+21598,Centinela del valle,Corazón de la meseta
+21601,,Parca ciega
+21602,,Sauce corrompido
+21603,,Cosechador de almas
+21604,,@20148
+21605,,Aullador armado
+21606,,Coleccionista de almas
+21607,,Sereno de barrera
+21608,,Grandis destructor sádico
+21609,,@3056
+21610,,Oel Mahum ratero
+21611,,Oel Mahum demoledor
+21612,,Oel Mahum obrero
+21613,,@3057
+21614,,Oel Mahum zapador
+21615,,Oel Mahum destructor
+21616,,@21223
+21617,,@3012
+21618,,@3081
+21619,,Murciélago de esporas
+21620,,Zombi parásito
+21621,,@3108
+21622,,Producto de la avaricia
+21623,,Comealmas
+21624,,Araña de esporas
+21625,,Vidente del agua
+21626,,Gólem de obsidiana
+21627,,Pan Luem
+21628,,Ninfa feroz
+21629,,Espíritu de pesadilla
+21630,,@20505
+21631,,@20752
+21632,,@3019
+21633,,Hongo de esporas podrido
+21634,,@21608
+21635,,Rosa ninfa
+21636,,Ninfa villana
+21637,,Pan Luem villano
+21651,,Parca ciega alterada
+21681,Contratista,Larva
+21682,Derribador de barreras,Reba
+21683,Enfermedad proliferante,Hongo anfitrión
+21684,Enfurecido,Herven
+21685,Miembro de la Hermandad oscura,Ensombrecido
+21697,Caballero de Orfen,@3072
+21698,Sirvienta de Orfen,Rebecca
+21699,Reina espora,@3062
+21701,,@21501
+21702,,Novato bandido
+21703,,@11772
+21704,,Saqueador bandido
+21705,,Degolladores bandidos de las montañas
+21706,,Delincuente bandido
+21707,,@11774
+21708,,Luchador bandido
+21709,,Luchador bandido
+21710,,Grendel feroz
+21711,,Chamán superior bandido
+21712,,Wyrm del bosque
+21713,,Bruja oscura
+21714,,Arquero orco de Timak
+21715,,Luchador orco de Timak
+21716,,Buscador orco de Timak
+21717,,Atrox
+21718,,@3024
+21719,,Luchador orco de Timak
+21720,,Capitán orco blanco de Timak
+21721,,Oficial orco de Timak
+21722,,Atalaya orco de Timak
+21723,,Orco enloquecido de Timak
+21724,,@11782
+21725,,@11783
+21726,,Jefe tribal orco de Timak
+21727,,Arquero orco de Timak
+21728,,Gárgola de la Torre de marfil
+21729,,Gólem guardian de la Torre de marfil
+21730,,Caballero caído
+21731,,Void sabueso
+21732,,Gárgola devota
+21733,,Sabueso feroz del vacío
+21734,,@3013
+21735,,Guardián defectuoso
+21736,,Sumo sacerdote her. os.
+21737,,Escudero de Embrion
+21738,,Dicor manchada
+21739,,Dicor espinada
+21740,,Hongo caminante manchado
+21741,,@3081
+21742,,Escorpión manchado
+21743,,Escorpión ponzoñoso
+21744,,@3089
+21745,,Premo el Lunático
+21746,,Premo el mancillado
+21747,,Gárgola de obsidiana
+21781,Delincuente del tesoro,Tarba
+21782,Capitán de vanguardia,Marata
+21783,Destructor,Kreta
+21784,Jefe de guerra supremo timak,Morta
+21785,Incontrolable,Defensor
+21786,Vengador,Arita
+21787,Maestro tirador especial,Mita
+21798,Coleccionista errante,Enterrador
+21801,,Secuaz draconiano
+21802,,Sirvienta del demonio
+21803,,Drake rabioso
+21804,,@3009
+21805,,@3021
+21806,,@3013
+21807,,@3015
+21808,,@3008
+21809,,@3032
+21810,,@3075
+21811,,@3016
+21812,,Poderoso secuaz draconiano
+21814,,Poderosa sirvienta del demonio
+21815,,Desterrado de la Hermandad oscura
+21816,,@3012
+21817,,Reina de sangre real
+21825,,Señor del Inframundo
+21826,,Drake del barranco
+21828,,Caballero de la muerte
+21881,Honor caído,Gusion
+21882,Custodio del valle,Valgarth
+21883,Heraldo del dragón del viento,Buer
+21884,Acomodador del dolor,Ouroboros
+21885,Gobernador oscuro,Lerazia
+21886,Bruja sangrienta,Vatory
+30001,,Desmodus
+30002,,Licántropo
+30003,Maldad de sangre,Guerrero de los Spartoi
+30004,@30003,Arquero de los Spartoi
+30005,@30003,Pellizcadora subterránea
+30006,,Murciélago perforador
+30007,,Lycan
+30081,Alas gigantes,Ala terrorífica
+30082,Rey lobo,Ryukaon
+30083,Reina subterránea,Arachne
+30101,,Enloquecido de los Spartoi
+30102,,Cazador de los Spartoi
+30103,,Pellizcadora ermitaña
+30104,@30003,Avistador
+30105,@30003,Shaper
+30106,@30003,Caballero de los Spartoi
+30107,@30003,Francotirador de los Spartoi
+30108,,Patrullero de los Spartoi
+30109,,Atacante de los Spartoi
+30110,,Araña con colmillos ermitaña
+30111,@30003,@30106
+30112,@30003,@30107
+30181,Demente,Huesudo
+30182,Custodio de las ruinas,Felix
+30183,@20484,Observador mortal
+30184,Guía de la muerte,Necross
+30201,,Hormiga soldado larva
+30202,,@3003
+30203,,@3002
+30204,@30003,Capitán hormiga
+30205,@30003,Hormiga patrulla
+30206,,Larva de hormiga obrera
+30281,Para ser rey,Reaver
+30282,Directamente bajo el control de la reina,Capataz de Hormiguero
+30301,,@3001
+30302,,Supervisor hormiga
+30303,,Hormiga soldado recluta
+30304,@30003,Hormiga soldado guarda real
+30305,@30003,@3054
+30306,@30003,Hormiga noble líder
+30381,@30282,Capitán de la guardia real del Hormiguero
+30382,@30282,Protector de tierra engendradora
+30401,,Secuaz de Mordeo
+30402,,Excuro
+30403,,Porta
+30404,,Guarda de Mordeo
+30405,,Excuro elevado
+30406,,Porta atado
+30407,@30003,Imagen de espejo de Mordeo
+30408,@30003,Excuro mágico
+30409,@30003,@3084
+30410,@30003,@30408
+30411,@30003,@3084
+30481,Devorador de almas,Mystique
+30482,Gólem mágico,Stelos
+30483,@20484,Maestro Mordeo
+30484,Centinela de la torre,Serbo Prime
+30501,,Guarda de Validus
+30502,,Gustos Susceptor
+30503,,@3051
+30504,@30003,Mutante de Validus
+30505,@30003,Meforde trastornado
+30506,@30003,@3042
+30507,,Patrullero de Validus
+30508,,Kusion Susceptor
+30509,@30003,@30505
+30510,,Susceptor
+30511,@30003,@30504
+30581,Sujeto del terror,Greezo
+30582,Terror de la torre,Julius
+30583,Custodio de Cruma,Magnus
+30611,,@21738
+30612,,@21739
+30613,,@21740
+30614,,@3081
+30615,@30003,@21742
+30616,@30003,@21743
+30617,@30003,@3089
+30618,@30003,@21745
+30619,@30003,@21746
+30691,Anfitrión de esporas,Champi
+30692,Veneno de la muerte,Corepio
+30693,@30181,Preta
+30711,,Medusa del pantano
+30712,,Medusa de la cueva
+30713,,@21426
+30714,@30003,Stakato combatiente
+30716,,Gárgola de la cueva
+30717,@30003,Gárgola mejorada
+30718,@30003,Perum mejorado
+30791,Carnicero demente,Vulture
+30792,Manchado,Gargu
+30793,Gólem mejorado,Morpheus
+30812,,Prima alma coro oscuro
+30813,,Prima oscuro coro oscuro
+30815,@30003,@21020
+30817,@30003,General oscuro
+30819,@30003,Cueva Sahara
+30891,@21684,Cazador esquelético
+30892,Mortal,Creatus
+30893,@30792,Arenisca
+30901,,Grendel del bosque
+30902,,Atrox tóxico
+30903,,Custodio sigiloso
+30904,,Guardabosques
+30905,@30003,Ninfa Épée
+30906,@30003,Ninfa Fleur
+30907,@30003,Ninfa Sabre
+30908,@30003,Grendel sigiloso
+30909,@30003,Pan Direum
+30910,@30003,Pan seco
+30991,Garra delantera fiera,Argos
+30992,Asesino sigiloso,Helissa
+30993,Telaraña terrorífica,Sling
+31001,,Defensor Pan
+31002,,Degollador de ninfas
+31003,,Vengador de ninfas
+31004,,Súcubo sigiloso
+31005,@30003,Súcubo demoníaco
+31006,@30003,Súcubo arpía de la noche
+31007,@30003,Medusa tentadora
+31008,@30003,Medusa de pesadilla
+31009,@30003,Serpiente ponzoñosa
+31010,@30003,Serpiente venenosa
+31091,Guardián del bosque,Vanuk
+31092,Susurradores adorables,Cailyn
+31093,Colmillo afilado,Veiloss
+31101,@30003,Sujeto misterioso
+31102,@30003,Gólem incontrolable
+31103,@30003,Sujeto unido
+31104,@30003,Guardián defectuoso
+31105,@30003,Novato inquieto
+31106,@30003,Hechicero inquieto
+31107,@30003,Estudioso de la Hermandad oscura
+31108,@30003,Guardian de Hermandad oscura
+31109,@30003,Investigador de la Hermandad oscura
+31110,@30003,Asistente misterioso
+31111,@30003,Basilisco de las alcantarillas
+31181,Con suerte,Adolf
+31182,Centinela del sellador,Genos
+31183,Voluntario al examen inicial,@11144
+31184,@31182,Trasos
+31185,Mujer inocente,Barbara
+31186,Capitán avanzado del equipo de sellado,@10462
+31187,Capitán estudioso de la Hermandad oscura,Enclema
+31188,Capitán escolta de la Hermandad oscura,Kloud
+31189,Capitán investigador de la Hermandad oscura,Sophos
+31190,Ayudante jefe,Edwin
+31191,Madre basilisco,Enas
+31201,@30003,Hombre lagarto luchador perdido
+31202,@30003,Hombre lagarto perdido
+31203,@30003,Araña comehumanos del bosque
+31204,@30003,Hada furiosa corrupta
+31205,@30003,274 normal
+31206,@30003,282 normal
+31207,@30003,290 normal
+31208,@30003,298 normal
+31209,@30003,306 normal
+31210,@30003,314 normal
+31281,Pionero Leto,Intrepidez
+31282,Aventurero Leto,Avetura
+31283,Limpiacadáveres,Gari
+31284,Morador perpetuo del bosque,Alkaios
+31285,,Nombrado 274
+31286,,Nombrado 282
+31287,,Nombrado 290
+31288,,Nombrado 298
+31289,,Nombrado 306
+31290,,Nombrado 314
+39011,,Luchador Pan
+39012,,Ninfa Fleur
+39013,,Ninfa reina Lara
+40001,,Guardia de Ramog
+40002,,Capitán de la guardia de Ramog
+40003,,Guardia real de Ramog
+40004,,Gólem contaminado
+40005,,Arquero de la guardia de Ramog
+40006,,Guardia granadero de Ramog
+40007,,@40001
+40008,,@40002
+40009,,@40004
+40010,,@40005
+40011,,Soldado lunático suicida
+40012,,@40011
+40013,,Brasa de Paagrio
+40014,Capitán de la guardia sádico,Boranta
+40015,Orco loco,Ramog
+40016,@10602,Leewen
+40017,@10602,Laenis
+40018,@10602,@40017
+40019,@10602,@40016
+40020,,Alma de chamán orco
+40084,,Cristal de nebulita
+40085,,@40001
+40086,,@40005
+40021,,@40001
+40022,,@40002
+40023,,@40003
+40024,,@40004
+40025,,@40005
+40026,,@40006
+40027,,@40001
+40028,,@40002
+40029,,@40004
+40030,,@40005
+40031,,@40011
+40032,,@40011
+40033,,@40013
+40034,@40014,@40014
+40035,@40015,@40015
+40036,@10602,@40016
+40037,@10602,@40017
+40038,@10602,@40017
+40039,@10602,@40016
+40040,,@40020
+40083,,@40084
+40087,,@40001
+40088,,@40005
+40041,,@40001
+40042,,@40002
+40043,,@40003
+40044,,@40004
+40045,,@40005
+40046,,@40006
+40047,,@40001
+40048,,@40002
+40049,,@40004
+40050,,@40005
+40051,,@40011
+40052,,@40011
+40053,,@40013
+40054,@40014,@40014
+40055,@40015,@40015
+40056,@10602,@40016
+40057,@10602,@40017
+40058,@10602,@40017
+40059,@10602,@40016
+40060,,@40020
+40082,,@40084
+40089,,@40001
+40090,,@40005
+40061,,@40001
+40062,,@40002
+40063,,@40003
+40064,,@40004
+40065,,@40005
+40066,,@40006
+40067,,@40001
+40068,,@40002
+40069,,@40004
+40070,,@40005
+40071,,@40011
+40072,,@40011
+40073,,@40013
+40074,@40014,@40014
+40075,@40015,@40015
+40076,@10602,@40016
+40077,@10602,@40017
+40078,@10602,@40017
+40079,@10602,@40016
+40080,,@40020
+40081,,@40084
+40091,,@40001
+40092,,@40005
+40099,,Energía de Ramog
+40098,,Brasa de Paagrio explotando
+40101,,@21305
+40102,,Puño de martillo de los piratas de Zaken
+40103,,@21306
+40104,,@21312
+40105,,Sanguijuela vampírica
+40118,,Larva supersaturada
+40106,,Larva zombi
+40117,,Larva
+40107,Segundo jefe,@10149
+40108,,Coágulo de sangre
+40109,,Murciélago de Trisha
+40110,@11352,@11352
+40111,@11352,@3109
+40112,Caballero guardián,Leonard
+40113,Condesa de Sangre,Trisha
+40114,@11317,@11142
+40115,@11317,@11142
+40116,@11317,@11142
+40121,,@21305
+40122,,@40102
+40123,,@21306
+40124,,@21312
+40125,,@40105
+40126,,@40118
+40127,,@40106
+40128,,@40117
+40129,@40107,@10149
+40130,,@40108
+40131,,@40109
+40132,@11352,@11352
+40133,@11352,@3109
+40134,@40112,@40112
+40135,@40113,@40113
+40136,@11317,@11142
+40137,@11317,@11142
+40138,@11317,@11142
+40141,,@21305
+40142,,@40102
+40143,,@21306
+40144,,@21312
+40145,,@40105
+40146,,@40118
+40147,,@40106
+40148,,@40117
+40149,@40107,@10149
+40150,,@40108
+40151,,@40109
+40152,@11352,@11352
+40153,@11352,@3109
+40154,@40112,@40112
+40155,@40113,@40113
+40156,@11317,@11142
+40157,@11317,@11142
+40158,@11317,@11142
+40159,,Miembro de grupo de avanzada de Giran
+40160,Grupo de avanzada de Giran,Turner
+40161,,Montón de basura
+40171,,@21305
+40172,,@40102
+40173,,@21306
+40174,,@21312
+40175,,@40105
+40188,,@40118
+40176,,@40106
+40177,,@40117
+40178,@40107,@10149
+40179,,@40108
+40180,,@40109
+40181,@11352,@11352
+40182,@11352,@3109
+40183,@40112,@40112
+40184,@40113,@40113
+40185,@11317,@11142
+40186,@11317,@11142
+40187,@11317,@11142
+60012,,Caballero mercenario
+60013,,Arquero mercenario
+60014,,@60012
+60015,,Lucien
+60016,,Elpin
+60018,,@60013
+60021,,Caballero fiel
+60022,,Arquero fiel
+60023,,@60021
+60024,Lanza llamasangre,Marlow
+60027,,Torre de control
+60028,,Puesto de guardia
+70101,,@3111
+70102,,@3112
+70103,,@3113
+70104,,@3114
+70105,,@3115
+70106,,@3009
+70107,,@3116
+70201,,@3111
+70202,,@3007
+70203,,@3017
+70204,,@3102
+70205,,@3002
+70206,,@3003
+70207,,@3001
+70208,,@3027
+70209,,@3017
+70210,,@3106
+70211,,@3112
+70212,,@3096
+70213,,@3097
+70214,,@3095
+70215,,@3061
+70216,,@3058
+70217,,@3059
+70218,,@3090
+70219,,@3091
+70220,,@3094
+70221,,@3113
+70222,,@3004
+70223,,@3024
+70224,,@3036
+70225,,@3069
+70226,,@3026
+70227,,@3014
+70228,,@3072
+70229,,@3074
+70230,,@3081
+70231,,@3114
+70232,,@3011
+70233,,@3019
+70234,,@3073
+70235,,@3076
+70236,,@3077
+70237,,@3078
+70238,,@3064
+70239,,@3066
+70240,,@3065
+70241,,@3115
+70242,,@3016
+70243,,@3083
+70244,,@3068
+70245,,@3013
+70246,,@3015
+70247,,@3050
+70248,,@3032
+70249,,@3016
+70250,,@3068
+70251,,@3009
+70252,,@3043
+70253,,@3044
+70254,,@3046
+70255,,@3037
+70256,,@3039
+70257,,@3041
+70258,,@3108
+70259,,@3020
+70260,,@3040
+70261,,@3116
+70262,,@3082
+70263,,@3022
+70264,,@3080
+70265,,@3052
+70266,,Custodio de ojo de monstruo
+70267,,@3100
+70268,,@3051
+70269,,@3023
+70270,,@3084
+70301,,@3111
+70401,,@3025
+70402,,@3067
+70403,,@20752
+70404,,@3029
+70405,,@3000
+70406,,@3106
+70407,,@3017
+70408,,@3106
+70409,,@3007
+70410,,@3007
+70411,,@3017
+70412,,@3102
+70413,,@3002
+70414,,@3003
+70415,,@3001
+70416,,@3027
+70417,,@3029
+70418,,@3106
+70419,,@3112
+70420,,@3096
+70421,,@3097
+70422,,@3095
+70423,,@3061
+70424,,@3058
+70425,,@3059
+70426,,@3090
+70427,,@3091
+70428,,@3094
+70429,,@3103
+70430,,@3061
+70431,,@3058
+70432,,@3092
+70433,,@3090
+70434,,@3094
+70435,,@3085
+70436,,@3088
+70437,,@3087
+70438,,@3113
+70439,,@3004
+70440,,@3024
+70441,,@3036
+70442,,@3069
+70443,,@3026
+70444,,@3014
+70445,,@3072
+70446,,@3074
+70447,,@3081
+70448,,@3006
+70449,,@3018
+70450,,@304
+70451,,@3004
+70452,,@3036
+70453,,@3074
+70454,,@3069
+70455,,@3026
+70456,,@3072
+70457,,@3114
+70458,,@3011
+70459,,@3019
+70460,,@3073
+70461,,@3076
+70462,,@3077
+70463,,@3078
+70464,,@3064
+70465,,@3066
+70466,,@3065
+70467,,@3078
+70468,,@3079
+70469,,@3076
+70470,,@3011
+70471,,@3030
+70472,,@3031
+70473,,@3065
+70474,,@3019
+70475,,@3073
+70476,,@3115
+70477,,@3016
+70478,,@3083
+70479,,@3068
+70480,,@3013
+70481,,@3015
+70482,,@3050
+70483,,@3032
+70484,,@3016
+70485,,@3068
+70486,,@3032
+70487,,@3083
+70488,,@3013
+70489,,@3075
+70490,,@3050
+70491,,@3083
+70492,,@3015
+70493,,@3068
+70494,,@3016
+70495,,@3009
+70496,,@3043
+70497,,@3044
+70498,,@3046
+70499,,@3037
+70500,,@3039
+70501,,@3041
+70502,,@3108
+70503,,@3020
+70504,,@3040
+70505,,@3040
+70506,,@3039
+70507,,@3041
+70508,,@3108
+70509,,@3020
+70510,,@3037
+70511,,@3043
+70512,,@3044
+70513,,@3046
+70514,,@3116
+70515,,@3082
+70516,,@3022
+70517,,@3080
+70518,,@3052
+70519,,@70266
+70520,,@3100
+70521,,@3051
+70522,,@3023
+70523,,@3084
+70524,,@3084
+70525,,@70266
+70526,,@3080
+70527,,@3051
+70528,,@3100
+70529,,@3052
+70530,,@3023
+70531,,@3022
+70532,,@3082
+70601,,@3111
+70602,,@3025
+70603,,@3067
+70604,,@20752
+70605,,@3029
+70606,,@3000
+70607,,@3106
+70608,,@3017
+70609,,@3106
+70610,,@3007
+70611,,@3007
+70612,,@3017
+70613,,@3102
+70614,,@3002
+70615,,@3003
+70616,,@3001
+70617,,@3027
+70618,,@3029
+70619,,@3106
+70620,,@3112
+70621,,@3096
+70622,,@3097
+70623,,@3095
+70624,,@3061
+70625,,@3058
+70626,,@3059
+70627,,@3090
+70628,,@3091
+70629,,@3094
+70630,,@3103
+70631,,@3061
+70632,,@3058
+70633,,@3092
+70634,,@3090
+70635,,@3094
+70636,,@3085
+70637,,@3088
+70638,,@3087
+70639,,@3113
+70640,,@3004
+70641,,@3024
+70642,,@3036
+70643,,@3069
+70644,,@3026
+70645,,@3014
+70646,,@3072
+70647,,@3074
+70648,,@3081
+70649,,@3006
+70650,,@3018
+70651,,@304
+70652,,@3004
+70653,,@3036
+70654,,@3074
+70655,,@3069
+70656,,@3026
+70657,,@3072
+70658,,@3114
+70659,,@3011
+70660,,@3019
+70661,,@3073
+70662,,@3076
+70663,,@3077
+70664,,@3078
+70665,,@3064
+70666,,@3066
+70667,,@3065
+70668,,@3078
+70669,,@3079
+70670,,@3076
+70671,,@3011
+70672,,@3030
+70673,,@3031
+70674,,@3065
+70675,,@3019
+70676,,@3073
+70677,,@3115
+70678,,@3016
+70679,,@3083
+70680,,@3068
+70681,,@3013
+70682,,@3015
+70683,,@3050
+70684,,@3032
+70685,,@3016
+70686,,@3068
+70687,,@3032
+70688,,@3083
+70689,,@3013
+70690,,@3075
+70691,,@3050
+70692,,@3083
+70693,,@3015
+70694,,@3068
+70695,,@3016
+70696,,@3009
+70697,,@3043
+70698,,@3044
+70699,,@3046
+70700,,@3037
+70701,,@3039
+70702,,@3041
+70703,,@3108
+70704,,@3020
+70705,,@3040
+70706,,@3040
+70707,,@3039
+70708,,@3041
+70709,,@3108
+70710,,@3020
+70711,,@3037
+70712,,@3043
+70713,,@3044
+70714,,@3046
+70715,,@3116
+70716,,@3082
+70717,,@3022
+70718,,@3080
+70719,,@3052
+70720,,@70266
+70721,,@3100
+70722,,@3051
+70723,,@3023
+70724,,@3084
+70725,,@3084
+70726,,@70266
+70727,,@3080
+70728,,@3051
+70729,,@3100
+70730,,@3052
+70731,,@3023
+70732,,@3022
+70733,,@3082
+70734,,@3111
+70735,,@3025
+70736,,@3067
+70737,,@20752
+70738,,@3029
+70739,,@3000
+70740,,@3106
+70741,,@3017
+70742,,@3106
+70743,,@3007
+70744,,@3007
+70745,,@3017
+70746,,@3102
+70747,,@3002
+70748,,@3003
+70749,,@3001
+70750,,@3027
+70751,,@3029
+70752,,@3106
+70753,,@3112
+70754,,@3096
+70755,,@3097
+70756,,@3095
+70757,,@3061
+70758,,@3058
+70759,,@3059
+70760,,@3090
+70761,,@3091
+70762,,@3094
+70763,,@3103
+70764,,@3061
+70765,,@3058
+70766,,@3092
+70767,,@3090
+70768,,@3094
+70769,,@3085
+70770,,@3088
+70771,,@3087
+70772,,@3113
+70773,,@3004
+70774,,@3024
+70775,,@3036
+70776,,@3069
+70777,,@3026
+70778,,@3014
+70779,,@3072
+70780,,@3074
+70781,,@3081
+70782,,@3006
+70783,,@3018
+70784,,@304
+70785,,@3004
+70786,,@3036
+70787,,@3074
+70788,,@3069
+70789,,@3026
+70790,,@3072
+70791,,@3114
+70792,,@3011
+70793,,@3019
+70794,,@3073
+70795,,@3076
+70796,,@3077
+70797,,@3078
+70798,,@3064
+70799,,@3066
+70800,,@3065
+70801,,@3078
+70802,,@3079
+70803,,@3076
+70804,,@3011
+70805,,@3030
+70806,,@3031
+70807,,@3065
+70808,,@3019
+70809,,@3073
+70810,,@3115
+70811,,@3016
+70812,,@3083
+70813,,@3068
+70814,,@3013
+70815,,@3015
+70816,,@3050
+70817,,@3032
+70818,,@3016
+70819,,@3068
+70820,,@3032
+70821,,@3083
+70822,,@3013
+70823,,@3075
+70824,,@3050
+70825,,@3083
+70826,,@3015
+70827,,@3068
+70828,,@3016
+70829,,@3009
+70830,,@3043
+70831,,@3044
+70832,,@3046
+70833,,@3037
+70834,,@3039
+70835,,@3041
+70836,,@3108
+70837,,@3020
+70838,,@3040
+70839,,@3040
+70840,,@3039
+70841,,@3041
+70842,,@3108
+70843,,@3020
+70844,,@3037
+70845,,@3043
+70846,,@3044
+70847,,@3046
+70848,,@3116
+70849,,@3082
+70850,,@3022
+70851,,@3080
+70852,,@3052
+70853,,@70266
+70854,,@3100
+70855,,@3051
+70856,,@3023
+70857,,@3084
+70858,,@3084
+70859,,@70266
+70860,,@3080
+70861,,@3051
+70862,,@3100
+70863,,@3052
+70864,,@3023
+70865,,@3022
+70866,,@3082
+80011,,@3027
+80012,,@3101
+80013,,@3025
+80014,,Groot gigante
+80021,,@3029
+80022,,@3067
+80023,,@3007
+80024,,Harron maldito
+80031,,@3027
+80032,,@3007
+80033,,Zorro rojo
+80034,,Gruus el Saqueador
+80041,,@3029
+80042,,@3067
+80043,,@30007
+80044,,"Taracula, la araña de hierro"
+80051,,@80014
+80052,,@80024
+80053,,@80034
+80054,,@80044
+80055,,Kyliana de plata
+80061,,@3097
+80062,,@3095
+80063,,@3096
+80064,,Jefe de guerra de acero Khanzel
+80071,,@3029
+80072,,@3025
+80073,,@20752
+80074,,Viuda negra mortal
+80081,,@3106
+80082,,@3000
+80083,,@80033
+80084,,Grizzle el Pulverizador
+80091,,@3097
+80092,,@3095
+80093,,@3096
+80094,,Tukoon asesino
+80101,,@80064
+80102,,@80074
+80103,,@80084
+80104,,@80094
+80105,,Puño de gólem olvidado
+80111,,@3076
+80112,,@3077
+80113,,@3089
+80114,,Predoom explotador de almas
+80121,,@3061
+80122,,@3059
+80124,,Guerrero Ol Mahum Mahon
+80131,,@3052
+80132,,@3005
+80133,,@3068
+80134,,Anunciador Grang
+80141,,@3076
+80142,,@3077
+80143,,@20752
+80144,,Pleus devorador oscuro
+80151,,@80114
+80152,,@80124
+80153,,@80134
+80154,,@80144
+80155,,Maruun el Lunático
+80161,,@3106
+80162,,@80033
+80163,,@3007
+80164,,Gruto el tirano del desfiladero
+80171,,@3046
+80172,,@3043
+80173,,@3037
+80174,,Grazen el chamán siniestro
+80181,,@3000
+80182,,@80033
+80183,,@3007
+80184,,Warrick hombre lobo rabioso
+80191,,@3007
+80192,,@3103
+80193,,@3027
+80194,,Mos goblón villano
+80201,,@80164
+80202,,@80174
+80203,,@80184
+80204,,@80194
+80205,,Skelepie venenoso negro
+80211,,@3037
+80212,,@3043
+80213,,@3046
+80214,,Guerrero mondeltis de la ciénaga roja
+80221,,@3043
+80222,,@3044
+80223,,@3046
+80224,,Chamán parzantis de la ciénaga roja
+80231,,@3102
+80232,,@3097
+80233,,@3095
+80234,,Turak jefe de guerra maninegro
+80241,,@3090
+80242,,@3097
+80243,,@3095
+80244,,Gruuk guerrero maninegro
+80251,,@80214
+80252,,@80224
+80253,,@80234
+80254,,@80244
+80255,,Claro de bosque negro
+80261,,@3076
+80262,,@3077
+80263,,@3073
+80264,,Mammon destructor de almas
+80271,,@3061
+80272,,@3059
+80273,,@3058
+80274,,Guerrero Komodor de la disonancia
+80281,,@3007
+80282,,@3067
+80283,,@3027
+80284,,Kelpaus melena azul
+80291,,@3102
+80292,,@3090
+80293,,@3097
+80294,,Flecha roja Tapupa
+80301,,@80264
+80302,,@80274
+80303,,@80284
+80304,,@80294
+80305,,Pakattu el Asesino
+80311,,@3005
+80312,,@3052
+80313,,@3082
+80314,,Sahara de arena roja
+80321,,@3001
+80322,,@3003
+80323,,@3002
+80324,,Hormiga mutante Forza
+80331,,@3004
+80332,,@3024
+80333,,@3089
+80334,,Grimhorn el aplastacráneos
+80341,,@3076
+80342,,@3077
+80343,,@3073
+80344,,Phetalius de la desesperación
+80351,,@80314
+80352,,@80324
+80353,,@80334
+80354,,@80344
+80355,,Sephiroth el devorador de cadáveres
+80361,,@3059
+80362,,@3061
+80363,,@3058
+80364,,Madok violento
+80371,,@3090
+80372,,@3094
+80373,,@3091
+80374,,Callous Vontuk
+80381,,@3029
+80382,,@20752
+80383,,@3025
+80384,,Kricule la reina venenosa
+80391,,@3000
+80392,,@3106
+80393,,@3007
+80394,,Kuma puño de trueno
+80401,,@80364
+80402,,@80374
+80403,,@80384
+80404,,@80394
+80405,,Zabteesh profeta lagarto
+80411,,@3029
+80412,,@20752
+80413,,@3025
+80414,,Araña brutalmente venenosa
+80421,,@80033
+80422,,@3007
+80423,,@3027
+80424,,Oso rojo funesto
+80431,,@3007
+80432,,@3103
+80433,,@3027
+80434,,Goblón rey villano
+80441,,@3000
+80442,,@3106
+80443,,@3027
+80444,,Zorro rojo cautivador
+80451,,@80414
+80452,,@80424
+80453,,@80434
+80454,,@80444
+80455,,Prima devorador de almas
+80461,,@3078
+80462,,@3079
+80463,,@3073
+80464,,Horror fantasmal
+80471,,@3052
+80472,,@3005
+80473,,@3068
+80474,,Parca de la miseria aberrante
+80481,,@3046
+80482,,@3043
+80484,,Chamán lagarto malvado
+80491,,@3106
+80492,,@80033
+80493,,@3007
+80494,,Oso rojo tenaz
+80501,,@80464
+80502,,@80474
+80503,,@80484
+80504,,@80494
+80505,,Acomodador de la muerte
+80511,,@3082
+80512,,@3074
+80513,,@3052
+80514,,Bestia de las sombras traicionera
+80521,,@3029
+80522,,@3025
+80523,,@3027
+80524,,Guardián caído del bosque
+80531,,@3029
+80532,,@20752
+80533,,@3025
+80534,,Araña astuta
+80541,,@80033
+80542,,@3014
+80543,,@3027
+80544,,Gran lobo cazador
+80551,,@80514
+80552,,@80524
+80553,,@80534
+80554,,@80544
+80555,,Gobernante silenos vengativo
+80561,,@3061
+80562,,@3058
+80563,,@3059
+80564,,Jefe de guerra misterioso Ol Mahum
+80571,,@3076
+80572,,@3077
+80573,,@3073
+80574,,Acomodador de la muerte grotesco
+80581,,@3082
+80582,,@3074
+80583,,@3052
+80584,,Bestia de las sombras funesta
+80591,,@3029
+80592,,@3081
+80593,,@304
+80594,,Maestro del bosque maldito
+80601,,@80564
+80602,,@80574
+80603,,@80584
+80604,,@80594
+80605,,Dicor de la inquietud
+80611,,@3019
+80612,,@3011
+80613,,@3073
+80614,,Conjura
+80621,,@3052
+80622,,@3005
+80623,,@3068
+80624,,Muerte
+80631,,@3031
+80632,,@3030
+80633,,@3053
+80634,,Maros
+80641,,@3082
+80642,,@3074
+80643,,@3052
+80644,,Perjedilla
+80651,,@80614
+80652,,@80624
+80653,,@80634
+80654,,@80644
+80655,,Hebe
+80661,,@3029
+80662,,@20752
+80663,,@3025
+80664,,Beth
+80671,,@3106
+80672,,@80033
+80673,,@3007
+80674,,Eyesis
+80681,,@3018
+80682,,@3050
+80683,,@3083
+80684,,Susurro
+80691,,@3007
+80692,,@3103
+80693,,@3027
+80694,,Kardamok
+80701,,@80664
+80702,,@80674
+80703,,@80684
+80704,,@80694
+80705,,Kezar
+80711,,@3067
+80712,,@3048
+80713,,@3053
+80714,,Carabor
+80721,,@3024
+80722,,@3089
+80723,,@3004
+80724,,Marduk
+80731,,@3067
+80732,,@3007
+80733,,@3027
+80734,,Ekis
+80741,,@80033
+80742,,@3014
+80743,,@3103
+80744,,@20898
+80751,,@80714
+80752,,@80724
+80753,,@80734
+80754,,@20898
+80755,,Dorma
+80761,,@3078
+80762,,@3079
+80763,,@3064
+80764,,Temperus
+80771,,@80033
+80772,,@3014
+80773,,@3027
+80774,,Belemos
+80781,,@3026
+80782,,@3036
+80783,,@3069
+80784,,Meforde
+80791,,@3019
+80792,,@3011
+80793,,@3073
+80794,,Baht
+80801,,@80764
+80802,,@80774
+80803,,@80784
+80804,,@80794
+80805,,Lue
+80811,,@3078
+80812,,@3079
+80813,,@3099
+80814,,Premo de la desesperación
+80821,,@3073
+80822,,@3099
+80823,,@3089
+80824,,Fatalidad inminente
+80831,,@3018
+80832,,@3050
+80833,,@3083
+80834,,Reina Hex desgraciada
+80841,,@3064
+80842,,@3099
+80843,,@3073
+80844,,Espíritu marino
+80851,,@80814
+80852,,@80824
+80853,,@80834
+80854,,@80844
+80855,,Espíritu marino profundo
+80861,,@3067
+80862,,@3007
+80863,,@3027
+80864,,Bestia incontrolable
+80871,,@3094
+80872,,@3091
+80873,,@3093
+80874,,Gobernador orco poderoso
+80881,,@3052
+80882,,@3005
+80883,,@3068
+80884,,Parca de la condena
+80891,,@3004
+80892,,@3074
+80893,,@3089
+80894,,Goblón rey abisal
+80901,,@80864
+80902,,@80874
+80903,,@80884
+80904,,@80894
+80905,,Señor oscuro despiadado
+80911,,@3083
+80912,,@3075
+80913,,@3008
+80914,,Emperador del mal cruel
+80921,,@3007
+80922,,@3067
+80923,,@3027
+80924,,Bestia enloquecida
+80931,,@3078
+80932,,@3079
+80933,,@3110
+80934,,Alas del infierno siniestras
+80941,,@3037
+80942,,@3041
+80943,,@3039
+80944,,Chamán lagarto feroz
+80951,,@80914
+80952,,@80924
+80953,,@80934
+80954,,@80944
+80955,,Capitán orco sediento de sangre
+80961,,@3085
+80962,,@3088
+80963,,@3087
+80964,,Gobernador silenos feroz
+80971,,@3024
+80972,,@3004
+80973,,@3089
+80974,,Condena enfermiza
+80981,,@3055
+80982,,@3057
+80984,,Oel chamán cruel
+80991,,@3023
+80992,,@3082
+80993,,@3022
+80994,,Gigante inferior desgraciado
+81001,,@80964
+81002,,@80974
+81003,,@80984
+81004,,@80994
+81005,,La reina que desafió a los dioses
+91101,Custodio de la caja fuerte,@3118
+91102,Invocación de Kresous,Cría
+91103,,Cofre del tesoro de adenas
+91201,@91101,@3118
+91202,@91102,@91102
+91203,,@91103
+91301,@91101,@3118
+91302,@91102,@91102
+91303,,@91103
+91401,@91101,@3118
+91402,@91102,@91102
+91403,,@91103
+91501,@91101,@3118
+91502,@91102,@91102
+91503,,@91103
+92101,,@10162
+92102,,@20210
+92106,,@3068
+92107,,@3015
+92201,,Esqueleto soldado del Purgatorio
+92202,,Esqueleto arquero del Purgatorio
+92205,,Parca del purgatorio
+92206,,Prima del coro del limbo
+92207,,Señor del Purgatorio
+92301,,Combatiente esqueleto del infierno
+92302,,Esqueleto francotirador del infierno
+92305,,@21316
+92306,,Demonio inferior
+92307,,Señor del infierno
+92401,,Espectro del Inframundo
+92402,,Vengador del Inframundo
+92405,,Demonio inferior cosechador
+92406,,Caballero del Inframundo
+92407,,Señor del Inframundo
+92501,,@92401
+92502,,@92402
+92505,,@92405
+92506,,@92406
+92507,,@92407
+92508,,@21731
+93100,,Cristal de agua
+93101,,@3080
+93102,,Gárgola
+93103,,@20307
+93104,,@3018
+93105,,@3026
+93106,,@20308
+93200,,@93100
+93201,,@3080
+93202,,@93102
+93203,,@20307
+93204,,@3018
+93205,,@3026
+93206,,@20308
+93300,,@93100
+93301,,@3080
+93302,,@93102
+93303,,@20307
+93304,,@3018
+93305,,@3026
+93306,,@20308
+93400,,@93100
+93401,,@3080
+93402,,@93102
+93403,,@20307
+93404,,@3018
+93405,,@3026
+93406,,@20308
+93500,,@93100
+93501,,@3080
+93502,,@93102
+93503,,@20307
+93504,,@3018
+93505,,@3026
+93506,,@20308
+93507,,@3100
+94100,,@202
+94101,,@10162
+94102,,@3005
+94103,,@21020
+94104,,@3021
+94105,,@3082
+94106,,Demonio contratista
+94200,,@202
+94201,,@10162
+94202,,@3005
+94203,,@21020
+94204,,@3021
+94205,,@3082
+94206,,@94106
+94300,,@202
+94301,,@10162
+94302,,@3005
+94303,,@21020
+94304,,@3021
+94305,,@3082
+94306,,@94106
+94400,,@202
+94401,,@10162
+94402,,@3005
+94403,,@21020
+94404,,@3021
+94405,,@3082
+94406,,@94106
+94407,,@3033
+94408,,@1001
+94500,,Piedra de protección
+94501,,Piedra de invocación
+94502,,@3022
+94503,,@3023
+94504,,@3052
+94505,,@3005
+94506,,@3080
+94510,,@94500
+94511,,@94501
+94512,,@3022
+94513,,@3023
+94514,,@3052
+94515,,@3005
+94516,,@3080
+94520,,@94500
+94521,,@94501
+94522,,@3022
+94523,,@3023
+94524,,@3052
+94525,,@3005
+94526,,@3080
+94530,,@94500
+94531,,@94501
+94532,,@3022
+94533,,@3023
+94534,,@3052
+94535,,@3005
+94536,,@3080
+100000,,Investigador de gigantes inferiores degenerados
+100001,,@100000
+100002,,@100000
+100003,,@100000
+100004,,@100000
+100005,,@100000
+100006,,@100000
+100007,,@100000
+100008,,@100000
+100009,,@100000
+100010,,@100000
+100011,,@100000
+100012,,@100000
+100013,,@100000
+100014,,@100000
+100015,,@100000
+100090,,Gigante inferior trastornado
+100091,,@100090
+100092,,@100090
+110001,Sujeto de gigante inferior,@20181
+110002,@110001,@20182
+110003,@110001,@20183
+110004,@110001,@20184
+110005,@110001,@20185
+110006,@110001,@20281
+110007,@110001,@20282
+110008,@110001,@20283
+110009,@110001,@20284
+110010,@110001,@30081
+110011,@110001,@30082
+110012,@110001,@30083
+110013,@110001,@30181
+110014,@110001,@30182
+110015,@110001,@30183
+110016,@110001,@30184
+110101,@110001,@20381
+110102,@110001,@20382
+110103,@110001,@20383
+110104,@110001,@20384
+110105,@110001,@20385
+110106,@110001,@20386
+110107,@110001,@20481
+110108,@110001,@20482
+110109,@110001,@20483
+110110,@110001,@20484
+110111,@110001,@20485
+110112,@110001,@20486
+110113,@110001,@20581
+110114,@110001,@20582
+110115,@110001,@20583
+110116,@110001,@20584
+110117,@110001,@20585
+110118,@110001,@20586
+110119,@110001,@20681
+110120,@110001,@20682
+110121,@110001,@20683
+110122,@110001,@20684
+110123,@110001,@20685
+110124,@110001,@20686
+110125,@110001,@20687
+110126,@110001,@30281
+110127,@110001,@30282
+110128,@110001,@30381
+110129,@110001,@30382
+110201,@110001,@20781
+110202,@110001,@20782
+110203,@110001,@20783
+110204,@110001,@20784
+110205,@110001,@20785
+110206,@110001,@20786
+110207,@110001,@20787
+110208,@110001,@20881
+110209,@110001,@20882
+110210,@110001,@20883
+110211,@110001,@20884
+110212,@110001,@20885
+110213,@110001,@20981
+110214,@110001,@20982
+110215,@110001,@20983
+110216,@110001,@20984
+110217,@110001,@20985
+110218,@110001,@21081
+110219,@110001,@21082
+110220,@110001,@21083
+110221,@110001,@21084
+110222,@110001,@11031
+110223,@110001,@21086
+110224,@110001,@21087
+110225,@110001,@30481
+110226,@110001,@30482
+110227,@110001,@30483
+110228,@110001,@30484
+110229,@110001,@30581
+110230,@110001,@30582
+110231,@110001,@30583
+110301,@110001,@21160
+110302,@110001,@21182
+110303,@110001,@21183
+110304,@110001,@21184
+110305,@110001,@21185
+110306,@110001,@21186
+110307,@110001,@11141
+110308,@110001,@21281
+110309,@110001,@21282
+110310,@110001,@21283
+110311,@110001,@21284
+110312,@110001,@21285
+110313,@110001,@21286
+110314,@110001,@21381
+110315,@110001,@21382
+110316,@110001,@21383
+110317,@110001,@21384
+110318,@110001,@21481
+110319,@110001,@21482
+110320,@110001,@21483
+110321,@110001,@21484
+110322,@110001,@21485
+110323,@110001,@21486
+110324,@110001,@21487
+110325,@110001,@30691
+110326,@110001,@30692
+110327,@110001,@30693
+110328,@110001,@30791
+110329,@110001,@30792
+110330,@110001,@30793
+110331,@110001,@30891
+110332,@110001,@30892
+110333,@110001,Arenisca
+110334,@110001,@31181
+110335,@110001,@31182
+110336,@110001,@11144
+110337,@110001,@31184
+110338,@110001,@31185
+110339,@110001,@10462
+110340,@110001,@31187
+110341,@110001,@31188
+110342,@110001,@31189
+110343,@110001,@31190
+110344,@110001,@31191
+110401,@110001,@21581
+110402,@110001,@21582
+110403,@110001,@21583
+110404,@110001,@21584
+110405,@110001,@21585
+110406,@110001,@21586
+110407,@110001,@21681
+110408,@110001,@21682
+110409,@110001,@21683
+110410,@110001,@21684
+110411,@110001,@21685
+110412,@110001,@21781
+110413,@110001,@21782
+110414,@110001,@21783
+110415,@110001,@21784
+110416,@110001,@21787
+110417,@110001,@21786
+110418,@110001,@21785
+110419,@110001,@30991
+110420,@110001,@30992
+110421,@110001,@30993
+110422,@110001,@31091
+110423,@110001,@31092
+110424,@110001,@31093
+110425,@110001,@31281
+110426,@110001,@31282
+110427,@110001,@31283
+110428,@110001,@31284
+110429,@110001,@31285
+110430,@110001,@31286
+110431,@110001,@31287
+110432,@110001,@31288
+110433,@110001,@31289
+110434,@110001,@31290
+120101,@110001,@20298
+120102,@110001,@20398
+120103,@110001,@20498
+120104,@110001,@20598
+120105,@110001,@20698
+120201,@110001,@20798
+120202,@110001,@20898
+120203,@110001,@20998
+120301,@110001,@21198
+120302,@110001,@21298
+120303,@110001,@21498
+120401,@110001,@21598
+120402,@110001,@3072
+120403,@110001,@21698
+120404,@110001,@21798
+130201,@110001,@3028
+130301,@110001,@3109
+130401,@110001,@3062
+150001,@110001,@20124
+150002,@110001,@20120
+150003,@110001,@20128
+150004,@110001,@20113
+150005,@110001,@20122
+150006,@110001,@20203
+150007,@110001,@20211
+150008,@110001,@20208
+150009,@110001,@20234
+150010,@110001,@30006
+150011,@110001,@30007
+150012,@110001,@30005
+150013,@110001,@30101
+150014,@110001,@30102
+150015,@110001,@30104
+150016,@110001,@30105
+150101,@110001,@20352
+150102,@110001,@20301
+150103,@110001,@10162
+150104,@110001,@20335
+150105,@110001,@20339
+150106,@110001,@3058
+150107,@110001,@20418
+150108,@110001,@20420
+150109,@110001,@20446
+150150,@110001,@3043
+150111,@110001,@3044
+150112,@110001,@20442
+150113,@110001,@3101
+150114,@110001,@20505
+150115,@110001,@20547
+150116,@110001,@20510
+150117,@110001,@20509
+150118,@110001,@3097
+150119,@110001,@20602
+150120,@110001,@20607
+150121,@110001,@20606
+150122,@110001,@20640
+150123,@110001,@3024
+150124,@110001,@20646
+150125,@110001,@20613
+150126,@110001,@30201
+150127,@110001,@30204
+150128,@110001,@30304
+150129,@110001,@30306
+150201,@110001,@20714
+150202,@110001,@20715
+150203,@110001,@20716
+150204,@110001,@3037
+150205,@110001,@20725
+150206,@110001,@3039
+150207,@110001,@3040
+150208,@110001,@3078
+150209,@110001,@3079
+150210,@110001,@3053
+150211,@110001,@20814
+150212,@110001,@20817
+150213,@110001,@3014
+150214,@110001,@20933
+150215,@110001,@20961
+150216,@110001,@20922
+150217,@110001,@20911
+150218,@110001,@21002
+150219,@110001,@21004
+150220,@110001,@3019
+150221,@110001,@21015
+150222,@110001,@3030
+150223,@110001,@3031
+150224,@110001,@21022
+150225,@110001,@30402
+150226,@110001,@30403
+150227,@110001,@30404
+150228,@110001,@3084
+150229,@110001,@30501
+150230,@110001,@3051
+150231,@110001,@3042
+150301,@110001,@3050
+150302,@110001,@21141
+150303,@110001,@21123
+150304,@110001,@21135
+150305,@110001,@21112
+150306,@110001,@21110
+150307,@110001,@21137
+150308,@110001,@21208
+150309,@110001,@21258
+150310,@110001,@3099
+150311,@110001,@21225
+150312,@110001,@21226
+150313,@110001,@21221
+150314,@110001,@21302
+150315,@110001,@21308
+150316,@110001,@21312
+150317,@110001,@21310
+150318,@110001,@11416
+150319,@110001,@21405
+150320,@110001,@21417
+150321,@110001,@21419
+150322,@110001,@3023
+150323,@110001,@21432
+150324,@110001,@21412
+150325,@110001,Hongo manchado
+150326,@110001,@21742
+150327,@110001,@21746
+150328,@110001,@21426
+150329,@110001,@30717
+150330,@110001,@30718
+150331,@110001,@21020
+150332,@110001,@30817
+150333,@110001,@30819
+150334,@110001,@31101
+150335,@110001,@31102
+150336,@110001,@31103
+150337,@110001,@31104
+150338,@110001,@31105
+150339,@110001,@31106
+150340,@110001,@31107
+150341,@110001,@31108
+150342,@110001,@31109
+150343,@110001,@31110
+150344,@110001,@31111
+150401,@110001,@21501
+150402,@110001,@21508
+150403,@110001,@21528
+150404,@110001,@21526
+150405,@110001,@21521
+150406,@110001,@3040
+150407,@110001,@21637
+150408,@110001,@3056
+150409,@110001,@20148
+150410,@110001,@21620
+150411,@110001,@3012
+150412,@110001,@21709
+150413,@110001,@21716
+150414,@110001,@21720
+150415,@110001,@21726
+150416,@110001,@21727
+150417,@110001,@21731
+150418,@110001,@21729
+150419,@110001,@30901
+150420,@110001,@30906
+150421,@110001,@30902
+150422,@110001,@31001
+150423,@110001,@31008
+150424,@110001,@31009
+150425,@110001,@31201
+150426,@110001,@31202
+150427,@110001,@31203
+150428,@110001,@31204
+150429,@110001,@31205
+150430,@110001,@31206
+150431,@110001,@31207
+150432,@110001,@31208
+150433,@110001,@31209
+150434,@110001,@31210
+220101,,@10190
+220102,,@3103
+220103,@10166,@10166
+220104,,@10103
+220105,,@3103
+220106,,@20106
+220108,,@20108
+220114,El corrupto,Votis
+220115,,Jefe de guerra orco resucitado
+220131,,@20206
+220132,,@20144
+220133,Amputador humano,Capitán de tropa orco
+220134,,Tropa de orcos
+220135,,@3068
+220136,Destructor de mentes,@3015
+220137,,Guardia real de Gorsaur
+220138,,Gorsaur
+220140,,@10152
+220141,@10162,@10162
+220142,,@220137
+220143,,@3011
+220146,,@20126
+220147,,@10349
+220148,,@20144
+220150,,@3050
+220151,,@3075
+220154,,Sereno de Votis
+220155,,@10170
+220156,,@20109
+220157,,Carpheous
+220158,,@20144
+220201,Guardián corrupto,Puño de piedra
+220202,,Hombre lobo amarrado
+220203,,Instructor orco
+220204,,@20204
+220205,,Entrenador orco
+220206,,@20206
+220207,,@3082
+220208,,@20257
+220209,,@10162
+220210,,@20224
+220222,,@20108
+220237,,@20237
+220240,,@3017
+220241,,@20214
+220242,Carnicero,Dexter
+220243,Acomodador de la muerte,Orobas
+220245,,@3073
+220246,,@3068
+220247,,Jinete sin cabeza
+220248,,@3011
+220249,,@10162
+220250,,@20210
+220251,,@3019
+220252,@10236,@10236
+220253,@10237,@10162
+220254,Gemelos retorcidos,@10359
+220255,@220254,Johnny
+220256,,@3073
+220257,@10236,@10236
+220258,,@3073
+220259,,@20307
+220260,Pulverizador de humanos,Goblón domado
+220261,@20282,@20282
+220262,,Parca pestilente
+220263,,@20307
+220306,Buscametas,Hortzco
+220307,,Secuestrador Ol Mahum
+220308,Errante del cementerio,Sombra roja
+220309,,Esqueleto desencadenado
+220310,,@20306
+220311,,@20343
+220312,,Venga
+220313,,@20343
+220314,,@20314
+220315,,@20343
+220316,,@20316
+220320,Confabulación,Voldiac
+220321,,@20313
+220322,,@20320
+220323,,@20313
+220324,,@20320
+220336,,@20308
+220337,,Gran jefe
+220338,,@20339
+220339,,@3076
+220340,,@20363
+220341,,@20308
+220342,,@3061
+220343,,@20343
+220344,,@220312
+220345,,@3061
+220346,,Cacha
+220347,,@220312
+220348,,@10162
+220349,,@20210
+220350,Capitán de barco fantasma,@11230
+220351,,@20301
+220352,@10380,@10380
+220353,Especialista del rapto,Vollach
+220354,,@3061
+220355,,@10383
+220356,,@3064
+220357,,Escolta pirata
+220358,,@20308
+220359,,@220337
+220360,,@3076
+220361,,@20363
+220362,,@3076
+220363,@220320,@220320
+220364,,@3076
+220365,,@3059
+220366,,@20339
+220367,,Jackal
+220369,,@20311
+220370,,Sujeto de magia negra
+220371,,Soldado Ol Mahum
+220372,,@220370
+220373,@10352,@10352
+220374,,Soldado de élite Ol Mahum
+220375,,@20337
+220376,Cabecilla de unidad ,Turnell
+220378,,@20378
+220379,,@20379
+220380,,Ciudadano de Gludin mutante
+220381,,@20307
+220382,,@3068
+220383,@21681,@3016
+220384,Mutante de nebulita,Ralf
+220385,,@3068
+220386,,@20378
+220387,,@20337
+220388,,@220371
+220389,,Kanum
+220390,,@3012
+220391,,@3012
+220392,,@220367
+220393,,@3061
+220394,,@220346
+220395,,@3061
+220396,,@20339
+220401,,@20408
+220402,,@20409
+220403,,Capitán de tropa lagarto maille
+220404,,Tirador certero lagarto maille
+220405,,Capitán de tropa resucitado
+220406,,Tirador certero resucitado
+220407,,@3044
+220408,,Sumo chamán lagarto maille
+220409,,Canciller Reuenthal
+220410,,Atalaya orco turek
+220411,,@20442
+220412,,@3096
+220413,Caballero de Elizabeth,@3013
+220414,@220413,@3013
+220415,,@20468
+220416,,@20403
+220417,@11727,Zancada gigante
+220418,Uña del pie pintada con sangre,Manos ásperas
+220419,,@20408
+220420,,@20420
+220421,,@20462
+220422,,@3027
+220423,,@20425
+220424,,@20424
+220425,,@20425
+220426,,@20425
+220427,Saqueador,@11113
+220428,,@20442
+220429,,Orco místico oscuro turek
+220430,Mano derecha de Marc,Tou
+220431,Mano izquierda de Marc,Gaal
+220433,,@20432
+220434,,@3027
+220435,Emperador,Kaba
+220436,,@20462
+220437,Vil,Jakapa
+220438,,@3052
+220439,,@20408
+220440,,Capitán lagarto maille
+220441,,@3044
+220442,Chamán,Kuata
+220443,,@20443
+220444,,@20357
+220445,,@20413
+220446,,Kariana
+220448,Teniente de rastreo,Zareeve
+220449,@10236,@10458
+220450,Guardián de magia negra,Revenant
+220451,Guarda jefe,Kuaroon
+220452,Capitán de rastreo,Zariv
+220453,,@3044
+220454,,@20357
+220455,@220435,@220435
+220460,@10487,@10487
+220461,,@10470
+220462,,@20462
+220463,@20463,@20463
+220464,,@20464
+220465,,@20465
+220466,Mensajero de Revenant,@92306
+220469,,@220429
+220470,@220413,@20210
+220472,,Señor zombi oscuro
+220473,Invocación de Polemus,@20420
+220475,,@3102
+220476,,@20414
+220477,,Mensajero de místico oscuro
+220478,,@20446
+220479,,@20447
+220480,,@20458
+220481,Escolta de Kuaroon,@20442
+220482,@220481,@20468
+220483,,Tukan
+220484,,@220483
+220485,,@20414
+220486,,@3102
+220487,,@3102
+220488,,Bakum
+220489,,@220488
+220490,,@20414
+220496,,@20414
+220491,Entrenador de perro de guerra turek,Schringer
+220492,,@20414
+220493,,@20408
+220494,,@3044
+220495,,@3027
+220501,,@20414
+220502,,@20502
+220503,,@20503
+220504,,@20505
+220505,,@20505
+220506,,@20320
+220507,,@20507
+220508,,@20508
+220509,,@20509
+220510,,@20510
+220511,,@10547
+220512,,@20502
+220513,,@20503
+220514,,@3067
+220515,,@20502
+220516,,@20503
+220517,,@20517
+220518,,@10547
+220519,,@20510
+220520,,Perro de guerra turek rabioso
+220521,,@20517
+220522,,Alma de orco insomne
+220523,,Guarda orco turek enfadado
+220524,,Combatiente orco turek enfadado
+220525,,Escolta orco turek enfadado
+220526,,@20414
+220527,,@3096
+220528,,@220115
+220530,,@3097
+220533,,Criminal cainita
+220536,,@20536
+220544,,@20544
+220545,,@20545
+220546,,Buscador orco de Turek
+220547,,@20547
+220548,,Esqueleto gigante
+220549,,@3012
+220550,,@20550
+220551,,@220548
+220552,,@3012
+220555,,@3095
+220560,Deformado,@20598
+220562,Invocado,@3083
+220563,@220562,@10324
+220565,@220562,@3013
+220566,Poder absorto de la oscuridad,@20110
+220568,Rabioso,Crawler
+220569,Capitán de emboscada,Horkan
+220570,Mano derecha de Vapar,Qupown
+220571,Madre del perro de guerra,Riley
+220572,@220562,@10324
+220573,,@10546
+220574,,@10547
+220575,,Mammon
+220576,,@3083
+220577,,@10554
+220578,,@20510
+220579,,@20414
+220581,,@220548
+220582,Arma definitiva,Karvick
+220583,Homicida Windawood,Habeth
+220584,Secuaz,Sujeto sin nombre
+220586,@220570,@220570
+220587,@220562,@10324
+220592,Guarda de la baliza de fuego,Capitán de la guardia Kookan
+220593,,Guardas de Horkan
+220594,,Francotirador de Horkan
+220595,@220562,Sirviente de Qupown
+220596,,Guarda de Kookan
+2205001,,Perro cazador famélico
+2205002,Entrenador de perro cazador,Fraille
+2205003,,Perro de caza negro
+2205004,,@20545
+2205005,,@20502
+2205006,@10819,Bezz
+2205007,,@20502
+2205008,,@20545
+2205009,,@20320
+2205010,,@3058
+2205011,,Lokita
+2205012,,@20320
+2205013,,@3058
+2205014,,@10383
+2205015,,Arquero Ol Mahum
+2205016,,Canu
+2205017,,@10383
+2205018,,@2205015
+2205019,,Espíritu maligno de las ruinas
+2205020,,@220570
+2205021,,@2205019
+2205022,,@20516
+2205023,,@20352
+2205024,,Centinela del santuario
+2205025,,@20516
+2205026,,@3097
+2205027,,Tirador orco turek
+2205028,@220242,Kurk
+2205029,,Guardia real de Kurk
+2205030,,Tirador de Kurk
+220601,,@3103
+220602,,@10383
+220603,,@20622
+220604,,Basilisco enloquecido
+220605,,@20606
+220606,,@20606
+220607,,@20639
+220608,,@3082
+220609,,@20633
+220610,,@20618
+220611,,Capitán saqueador Ol Mahum
+220612,,Escolta saqueador Ol Mahum
+220613,,@20633
+220614,@10631,@10631
+220615,@30282,Hormiga soldado capitán
+220616,,@3003
+220617,Piloto de saqueos,Talarh
+220618,,Pie rápido
+220619,,@20634
+220620,,@20633
+220622,,@3082
+220623,,Sahara gigante
+220624,,@3074
+220625,,Phartos el gólem de acero
+220626,,@20611
+220628,,@20633
+220629,Saqueador gólem,Comedor de maná
+220630,,@20622
+220631,Asesino sombrío,Uña sangrienta
+220632,,Custodio de maná de ojo de monstruo
+220633,,@20633
+220635,,Arquero saqueador Ol Mahum
+220636,,@220632
+220637,,@10383
+220638,,@3002
+220639,,@3003
+220640,,@220635
+220641,,Hormiga soldado derrotada
+220642,,Hormiga noble derrotada
+220644,,@20606
+220645,,@20611
+220646,,Transportador saqueador Ol Mahum
+220647,,@20633
+220649,,@20618
+220650,,@10635
+220651,,@10383
+220652,,@20611
+220653,,@20634
+220654,,@20633
+220658,@10819,@11350
+220677,,Secuaz de la Hermandad oscura
+220678,Terror soporífero,Escorpión
+220679,,@220641
+220680,@10633,@10633
+220681,,@10634
+220682,@220569,Deram
+220683,,Atacante Ol Mahum
+220684,,Hormiga soldado pionera
+220685,Pionero de la tierra engendradora,Aviador noble
+220686,,@220677
+220687,,@10634
+220688,Emperador del erial,Fauces de hierro
+220689,,@20622
+2206001,,Espíritu maligno resentido
+2206002,,Fenril
+2206003,,Residuo
+2206004,,@3004
+2206005,,Obrero hormiga armado
+2206006,,@220623
+2206007,,@2206005
+2206008,,@20642
+2206009,,Leonic
+2206010,,@10162
+2206011,,@2206005
+2206012,,General hormiga
+2206013,,@2206005
+2206014,,@20605
+2206015,,Mensajero hormiga armado
+2206016,,Hormiga gigante
+2206017,,@20605
+2206018,,@2206015
+2206019,,@220604
+2206020,,Basilisco gigante
+2206021,,@220604
+2206022,,Portador saqueador Ol Mahum
+2206024,,Vigilante saqueador Ol Mahum
+2206025,,Kashtray
+2206026,,@2206022
+2206027,,@2206024
+2206028,,Secuaz de Traman
+2206029,,Traman
+2206030,,@2206028
+2206031,@10676,@10676
+2206032,@10676,@10677
+2206033,@10676,@10678
+2206034,Capturado,Oso
+220701,Destructor de las llanuras,Tulka
+220702,,@3091
+220703,,@3094
+220704,,Capitán ranger orco breka
+220706,Jefe de guerra de los buscadores,Karrack
+220707,Escolta de Karrack,@20715
+220708,,@3040
+220709,,@3041
+220710,,@3041
+220711,,@3040
+220712,@10784,@10784
+220713,,@10785
+220714,,@10786
+220715,,@10785
+220716,,@10786
+220719,,@20719
+220721,,@20462
+220722,Cazador humano,Kakish
+220723,Mano de Kakish,Secuestrador lagarto leto
+220725,,@20727
+220728,,Centinela lagarto leto
+220741,,@20716
+220744,,@3094
+220745,,@3091
+220746,Escolta de Tulka,@20744
+220751,@10819,@11350
+220752,@10236,Entomo viscoso
+220753,@10236,@220752
+220754,,@220728
+220755,,Piedra de invocación del mal
+220756,,Araña cuchilla comeh.
+220758,,@20720
+220759,,Araña espada venenosa
+220760,@10631,@10753
+220761,,@20701
+220762,,@3094
+220764,,@3039
+220765,,@3040
+220766,,@20725
+220767,,@220728
+220768,,@20727
+220769,Destructor de área agrícola,Kakrish
+220770,,@20727
+220771,,@3039
+220774,,Esqueleto inquieto
+220775,,@3015
+220776,,@220774
+220777,,@92306
+220778,,@3015
+220783,,@20725
+220784,@20784,@20784
+220785,@20785,@20785
+220786,@20786,@20786
+220787,@11727,@20787
+220789,,Soldado de élite de Varash
+220790,@20784,@20784
+220791,,@20725
+220792,,@20725
+220793,@20785,@20785
+220794,,@220789
+220795,,@220789
+220796,@11727,@20787
+220797,,Escolta de Screash
+2207001,,@20747
+2207002,,@20747
+2207003,,Avispa mutante
+2207004,,Enloquecido orco breka
+2207005,,Secuaz de Garok
+2207006,Enloquecido,Garok
+2207007,,@3039
+2207008,,Secuaz de Krush
+2207009,@20785,@20785
+2207028,,@3039
+2207029,@20785,@20785
+2207010,,@3041
+2207011,,Secuaz de Varash
+2207012,@20786,@20786
+2207013,,Hombre lagarto leto invocado
+2207014,,Secuaz de Screash
+2207015,@11727,@20787
+2207016,,Antílope anciano macho
+2207017,,@2207016
+2207018,,Macho alfa
+2207019,,Murciélago vampiro enfadado
+2207020,,@2207019
+2207021,,Murciélago vampiro líder
+2207022,,@20716
+2207023,,@20716
+2207024,,@220704
+2207025,,@20715
+2207026,,@20715
+2207027,,Capitán de tropa orco breka
+220801,Reina araña de la ciénaga,Zona de veneno
+220802,,@20802
+220803,,@20801
+220804,,Cría de araña
+220806,,@20806
+220808,Criminal de las sombras,Catacumba
+220809,,Murciélago de la oscuridad
+220810,,@3078
+220811,,@3079
+220812,El sediento de sangre,@10488
+220813,,Víctima de Alban
+220814,,@20814
+220816,,@3053
+220817,@10631,@10858
+220818,@10859,@10859
+220819,@10862,@10862
+220820,Morador perpetuo de la ciénaga,Acechador de la ciénaga
+220823,,Stakato de la ciénaga
+220824,,Vidente del pantano
+220825,,@220823
+220826,,@220824
+220828,,Nerkas invocado
+220832,,@20833
+220833,,@20833
+220840,,@20804
+220841,,Esqueleto perdido
+220844,,Horace el traidor
+220845,,@20845
+220849,@10819,@11350
+220850,,Stakato de la ciénaga luchador
+220851,@10236,@10860
+220852,@10236,@10860
+220854,,Stakato de la ciénaga contratista
+220860,@10819,@11350
+220861,,@20835
+220862,,@20814
+220863,,@30401
+220864,,@30402
+220865,,@30401
+220866,Guardián de la Torre de Cruma,Prime guardián
+220867,,@3042
+220870,,Demonio fantasma
+220871,,@30402
+220872,,@3068
+220873,,@3068
+220879,,@3079
+220880,,@3079
+220881,@20881,@20881
+220882,@20882,@20882
+220884,@20884,@20884
+220885,@20885,@20885
+220888,,@3078
+220889,,@3078
+220892,@20885,@20885
+2208001,,@20814
+2208002,,@20833
+2208003,,@20884
+2208901,,@20884
+2208902,@10776,@10776
+2208004,,@21304
+2208005,,@21304
+2208006,,@20885
+2208007,,Sabueso esqueleto
+2208008,,Secuaz de Liam
+2208009,,@20881
+2208010,,@3079
+2208011,,Secuaz de Ronde
+2208012,,@20882
+2208013,,@20805
+2208014,,@3052
+2208015,,Parca terrorífica de la niebla
+2208016,,@20802
+2208017,,@20802
+2208018,,@20802
+2208019,,@20845
+2208020,,Criminal del pantano
+2208021,,@20845
+2208022,,@20857
+2208023,,Hombre muerto
+2208024,,Criminal homicida
+2208025,,@20835
+2208026,,@20835
+2208027,,@20835
+2208028,,Sistema defensivo
+2208029,,@2208028
+2208030,,Guardián de la caja del gigante
+2208031,,@2208028
+2208032,,@2208028
+2208033,,@2208028
+2208034,,@2208030
+2208035,,@2208028
+2208036,,@2208028
+2208037,,@2208028
+2208038,,@2208030
+2208039,,@2208028
+2208040,,@2208028
+2208041,,@2208028
+2208042,,@2208030
+2208043,,@2208028
+220901,,@20901
+220902,,@20902
+220903,,@20928
+220904,,@3014
+220905,,@3061
+220906,Intendente tribal,Vortan
+220907,,Zorro guerrero tanor
+220908,,@20908
+220910,,@20314
+220911,,@20911
+220912,,@20912
+220913,,@20913
+220914,,@20914
+220916,,@11559
+220918,,@20918
+220919,,Soldado de élite tanor
+220921,,@20921
+220922,,@20922
+220923,,@20923
+220924,,@20924
+220925,@10933,@10933
+220933,,@10932
+220934,,Guarda tanor
+220935,,@11559
+220937,,Chamán anciano tanor
+220938,,Secuaz de Tartan
+220939,,Secuaz de Thaartan
+220940,,Secuaz de Tutan
+220942,@10819,@11350
+220947,,Estratega tanor
+220949,,@20901
+220950,,@20928
+220951,Gobernador del bosque,Rey leopardo exquisito
+220952,@20915,@20915
+220953,,Combatiente resucitado Ol Mahum
+220954,,Suministrador resucitado Ol Mahum
+220955,,@10383
+220956,,@2205015
+220957,Amigo de Hagatan,Urta
+220958,@220957,Potan
+220959,@10144,Hagatan
+220960,,@220919
+220961,,@20961
+220962,,Explorador de Kankoon
+220963,,@20963
+220964,,Escolta de Kankoon
+220965,@10934,@10934
+220966,@10935,@10935
+220967,@10936,@10936
+220968,,Luchador tanor resucitado
+220969,,Chamán tanor resucitado
+220970,,Tanor resucitado
+220971,@11005,@30184
+220979,,@20314
+220980,,@20911
+220982,@10144,@20982
+220983,@20983,@20983
+220984,@20984,@20984
+220985,@20985,@20985
+220986,@10144,@20982
+220987,@20983,@20983
+220988,@20984,@20984
+220989,@10144,@20982
+220990,@20983,@20983
+220991,@20984,@20984
+220992,,@220938
+220993,,@220939
+220994,,@220940
+220995,,@3061
+220996,@20985,@20985
+220997,@10144,@20982
+220998,Capitán de Thaartan,Thartos
+220999,Chamán superior,Kuruta
+2209001,,@3014
+2209002,,@3014
+2209003,,Sharon
+2209004,,@20928
+2209005,,@20928
+2209006,,Zorro de cola roja líder
+2209007,,@20921
+2209008,,@220938
+2209009,,@20982
+2209010,,@20917
+2209011,,@220939
+2209012,,@20983
+2209013,,@20923
+2209014,,@220940
+2209015,,@20984
+2209016,,@20929
+2209017,,@20929
+2209018,,Araña de ciénaga venenosa gigante
+2209019,,@20507
+2209020,,Secuaz de Ol B’Khan
+2209021,,@20985
+2209028,,@20985
+2209022,,@20314
+2209023,,@20314
+2209024,,General Ol Mahum
+2209029,,@2209024
+2209025,,@20914
+2209026,,@20914
+2209027,,Oficial comandante Ol Mahum
+221001,,Mandrágora desencadenada
+221002,,Dicor resonante
+221003,,@21020
+221004,,@21021
+221006,,@21006
+221010,,@3006
+221011,,@3019
+221012,,@3019
+221015,,@21015
+221016,,@21036
+221017,,@21036
+221018,,@21018
+221020,,@21020
+221021,,@21021
+221022,,@21022
+221023,,@21023
+221024,Francotirador del ejército de la agonía,Chase
+221025,,Atacante
+221029,@11014,@11014
+221030,Coleccionista de almas,Murmur
+221031,,@21004
+221032,,@21001
+221033,@21090,Caballero real
+221034,Portero del sitio de ejecuciones,Praga
+221035,,Verdugo
+221036,Líder de la caravana retorcida,Ricky
+221037,,Séquito de Ricky
+221038,,Secretario de Ricky
+221039,@21090,Deno
+221040,,@21020
+221041,,@21021
+221042,,@21020
+221043,,@21021
+221044,,@21023
+221045,@21090,@221033
+221046,,@21018
+221047,,@3031
+221048,,@21018
+221049,,@3031
+221050,Contable de la caravana retorcida,Roy
+221051,Caravana retorcida,Asistente de Roy
+221052,@221051,Escolta de caravana
+221053,@221051,@221051
+221054,@221051,@221052
+221055,,@21018
+221056,,@3031
+221057,,@3031
+221058,,@21018
+221059,,@3031
+221060,,@3031
+221084,@21084,@21084
+221085,@11031,@11031
+221086,@21086,@21086
+221087,@21087,@21087
+221088,En peligro,@21015
+2210001,,@21022
+2210002,,Secuaz de Balthazar
+2210003,,@21087
+2210004,,@3031
+2210005,,Secuaz de Vaquero
+2210006,,@11031
+2210007,,Espectro de soldado
+2210008,,Secuaz de Seamstress
+2210009,,@21086
+2210010,,@3030
+2210011,,@3030
+2210012,,Espectro espantoso
+2210013,,@3019
+2210014,,Espíritu retorcido
+2210015,,Sirviente de la condena retorcido
+2210016,,Mandrágora apesadumbrada
+2210017,,@2210016
+2210018,,Dicor de los lamentos grande
+2210019,,@21005
+2210020,,Secuaz de Dryed
+2210021,,Dryed
+2210022,,Espíritu demente
+2210023,,Secuaz de Repus
+2210024,,Repus
+2210031,,@2210024
+2210025,,@21013
+2210026,,Secuaz de Kamel
+2210027,,Kamel
+2210032,,@2210027
+2210028,,@21013
+2210029,,Secuaz de Toat
+2210030,,Toat
+2210040,Incinerador,Esqueleto
+2210041,@2210040,Arquero esqueleto
+2210042,@2210040,@21091
+2210043,Ejército de los no muertos,Crowl
+2210044,@2210043,@3019
+2210045,@2210043,Castigador de la condena
+2210046,Líder del cuerpo,Pugg
+2210047,@2210043,Husk Crawler
+2210048,@2210043,Husk acosador
+2210049,@2210046,@2210046
+2210050,Apóstol,Azrael
+2210051,@2210043,@2210048
+2210052,@2210043,Kaim Vanul
+2210053,@2210043,@2210047
+2210054,@2210043,@2210052
+2210055,@2210050,@2210050
+2210056,@2210050,@2210050
+221101,,@21113
+221102,,@21115
+221103,@11003,@11003
+221104,,@11119
+221105,,@21105
+221106,Coleccionista de estatuas de piedra,Himena
+221107,,@21101
+221108,Goblón engañado,Kazim
+221109,,@3050
+221110,,@21132
+221111,,Centinela de sello
+221112,,Secuaz del protector
+221113,,Reina súcubo
+221114,,@21101
+221115,,Snipe teñido de oscuridad
+221122,,Gárgola tormenta de arena invocada
+221123,,@21123
+221126,,Jefe de guerra lagarto langk
+221127,,Escolta lagarto langk
+221128,,Guarda real lagarto langk
+221130,,Sumo chamán lagarto langk
+221131,,@21138
+221132,,Tirador lagarto langk
+221134,,@21134
+221138,,@21138
+221141,,@21141
+221146,,@21138
+221147,,@21110
+221149,,@3050
+221152,,@3083
+221158,,@21111
+221159,,@21112
+221165,@11103,@3008
+221166,,Sirvienta de la reina
+221167,Demonio de la reina,Matu
+221168,,Alma robada
+221169,,Alma amarrada
+221192,,@11102
+221194,,@11119
+2211001,,@3050
+2211002,,Secuaz de Ellen
+2211003,@21160,@21160
+2211004,,@21116
+2211005,,@21116
+2211006,,Oso bermellón
+2211031,@11186,@11186
+2211032,,@11119
+2211033,,Ciudadano 1
+2211034,,Ciudadano 2
+2211007,,@3052
+2211039,,@21090
+2211008,,@3052
+2211040,,@3100
+2211009,,@11604
+2211010,,@21117
+2211011,,@21117
+2211012,,Gran negro (Lobo)
+2211035,@11189,@11189
+2211013,,Antílope macho
+2211014,,@2211013
+2211015,,Pezuña gris
+2211016,,@21132
+2211017,,Secuaz de reina Dicor
+2211018,,Reina Dicor
+2211019,,@21110
+2211020,,@21110
+2211021,,Capitán de comando Kazeeb
+2211036,,@21138
+2211037,,@21138
+2211022,,@21137
+2211023,,@21137
+2211024,Chamán anciano,Crotoa
+2211038,@11192,@11192
+2211025,,@3108
+2211026,,Secuaz de Axetyl
+2211027,,Axetyl
+2211028,,@21129
+2211029,,Secuaz de líder Snipe
+2211030,Líder,@21129
+2211041,@21188,@3064
+2211042,@21188,@21189
+2211043,@21188,@3064
+2211044,,@11352
+2211045,,@11352
+2211046,@21188,Contramaestre pirata
+2211047,@21188,Francotirador pirata zombi
+2211048,,Sir Alexander mutado
+2211049,,@2211048
+2211050,,@11119
+2211051,,@11352
+221201,@10819,@11244
+221202,,@21208
+221203,@11241,@11241
+221204,,@21263
+221205,,@21205
+221206,,@21206
+221207,,@21207
+221208,,Subordinado de la mano derecha
+221209,,Francotirador de Lyle
+221210,,@11245
+221211,,@21211
+221212,,@21211
+221214,,@21213
+221218,,@3099
+221226,@11255,@11255
+221227,,@11280
+221228,,@11281
+221230,,Mano derecha del líder de los bandidos
+221231,,@11279
+221232,Ladrón de alimentos del refugio,Puma costero líder
+221233,,@11282
+221234,,@11283
+221235,,@21216
+221236,,@21214
+221237,,@21255
+221238,,@21215
+221239,,Puma joven famélico
+221246,,Gigante inferior controlado
+221249,Creación de Gnosis,Premo dañado
+221252,,@21225
+221253,,@21226
+221254,Carnicero de los piratas de Zaken,Razorlimb
+221256,Capitán de la tripulación pirata bajo el mando de Zaken,Gavin
+221257,Tripulación pirata bajo el mando de Zaken,@20316
+221258,@10819,Traficante de muerte
+221259,@10236,Partos
+221260,@10236,@11240
+221261,,@21222
+221262,,@92306
+221263,Superior suplente de los bandidos,Vargal
+221264,,@21205
+221265,,Oso rojo gigante
+221266,,@11284
+221267,@10819,@221258
+221268,,@21213
+221269,,@3099
+221270,,Benumka
+221271,,@21216
+221272,,@221263
+221273,,@21205
+221274,,Premo de ciénaga sombrío
+221275,,@21221
+221276,,Grandis avaricioso
+221277,,@21255
+221278,,Muerto doliente
+221279,,@21220
+221280,,@21221
+221281,,@21216
+221282,,@21211
+221283,,@92306
+2212001,,@21258
+2212002,,@21213
+2212003,,@21258
+2212004,,@21213
+2212005,@21282,@21282
+2212006,,@21255
+2212007,,@21213
+2212008,,@21255
+2212009,,@21213
+2212010,@21283,@21283
+2212011,,@21221
+2212012,,@21221
+2212013,Enfadado,Anggras
+2212014,,@21225
+2212015,,Creación de Gnall
+2212016,@20484,Gnall
+2212017,,@21216
+2212018,,@21216
+2212019,Fuego del infierno,Aktomus
+2212020,,@21213
+2212021,,@21213
+2212022,Líder,@21213
+2212023,,@21260
+2212024,,@21115
+2212025,,@21260
+2212026,Líder,@21115
+2212027,,@21205
+2212028,,@21205
+2212029,@220437,Nagash
+2212030,,@21204
+2212031,,@21204
+2212032,Avaricioso,Gudd
+2212033,,@20914
+2212034,,@20914
+2212035,Comandante de campo,Nabas
+221302,Mano derecha de Zaken,@11354
+221303,Capitán de unidad de avanzada del ejército de Giran oficial,@11317
+221304,,@21304
+221305,,@21305
+221306,,@21306
+221307,,@21307
+221308,,@21303
+221309,,Francotirador esqueleto
+221310,,@21310
+221311,,Degollador esqueleto
+221312,,@21312
+221314,,@21319
+221315,,@21315
+221316,,@21316
+221317,@10236,Nix transformado
+221318,,Traficantes de muerte de los piratas de Zaken
+221319,Unidad de avanzada del ejército de Giran oficial,@10005
+221320,@221319,Séquito de Noel
+221321,Ejército de Giran oficial,@11246
+221322,@10819,@11350
+221323,@10819,@11350
+221324,@21681,Caliban
+221325,@10236,@11358
+221326,,@92306
+221327,@11251,@11251
+221328,,@11324
+221329,@11325,@11325
+221330,,Premo enloquecido
+221331,,@10162
+221332,,@3083
+221333,Grito agudo,Rena
+221334,@221319,Teniente Noel
+221335,@221319,@10005
+221336,,Soldado manipulado
+221337,,Aventurero manipulado
+221338,,@221337
+221339,@221321,Guarda maldito
+221340,,@21311
+221341,,@21309
+221342,,@21307
+221343,,@21305
+221344,,@21306
+221345,,@21320
+221346,,@11352
+221347,@11327,@11327
+221348,,Muerto maldito
+221349,,Degollador secuaz esqueleto
+221350,@11369,@11369
+221351,,Secuaz del demonio
+221352,,@21311
+221353,,@21309
+221354,,@21307
+221355,,@21306
+221356,,@21311
+221357,,@21309
+221358,,@21307
+221359,,@21306
+221360,,@221337
+221361,,@221337
+221362,,Tropa de Kirion
+2213001,,@21301
+2213002,,Secuaz de Kenbell
+2213003,Obsesivo,Kenbell
+2213004,,@21332
+2213005,,Secuaz de Lemon
+2213006,,Lemon
+2213007,@10541,Gato mercader
+2213008,@10541,@2213007
+2213009,@10541,Nesca
+2213010,,@21305
+2213011,,Secuaz de Karell
+2213012,El tramposo,Karell
+2213013,,@21305
+2213014,,@21320
+2213015,Custodio de reliquias,Vic
+2213016,,Muerto custodia del tesoro
+2213017,,Secuaz de Cous
+2213018,Traidor,Cous
+2213025,El compañero de Sara,@2213018
+2213026,@2213025,@2213018
+2213028,,@2213017
+2213019,,@21309
+2213020,,Secuaz de Caruso
+2213021,,Caruso
+2213022,,@21310
+2213023,,Secuaz de Janna
+2213024,,Janna
+2213027,,@11370
+2213051,,Marinero de los piratas de Zaken
+2213052,,Custodio
+2213053,,@2213003
+2213054,,@21310
+2213055,@20484,Cuidador
+2213070,,Secuaz de Nassa
+2213056,Custodio del tesoro,Nassa
+2213057,,@21314
+2213058,,@21338
+2213059,,@21309
+2213060,,@21312
+2213061,,Degollador de Zaken
+2213062,,Arquero de Zaken
+2213063,@30792,Maso
+2213064,Mutante,Martoon
+2213065,Seductor,@3083
+2213066,@220568,@3069
+2213067,,@21314
+2213068,,@21315
+2213069,,@21308
+2213071,@205,@10309
+2213072,,@10310
+221401,,@21402
+221402,,@21408
+221403,,@21407
+221404,,@21434
+221405,,@21403
+221406,,@3021
+221407,@11429,@11429
+221408,,Prima rastreador de almas
+221410,,@21416
+221411,,@3021
+221412,,@21417
+221413,,@21419
+221414,,Grandis líder
+221416,,@21416
+221417,,@21423
+221419,,@21444
+221420,,@21423
+221421,,@11426
+221422,,@21431
+221423,,@21432
+221426,@21881,@11429
+221427,,Guarda breka del barranco
+221428,,Cocinero breka del barranco
+221429,Chef breka,Kachoi
+221430,,Asistente de Kachoi
+221431,,@11452
+221432,,@11416
+221433,,@11417
+221434,,@11451
+221435,@11429,@11429
+221436,Árbol protector,Elfo guardián
+221437,,@3119
+221438,,@221408
+221439,@30481,Gore
+221440,,@221168
+221442,,@3015
+221444,,@10324
+221445,@10819,Lukemar
+221446,,@3013
+221450,,@21431
+221451,@10819,@20463
+221460,,@21416
+221461,,@3020
+221462,,@3011
+221463,,Elfo inquieto
+221464,Partidario de Quesnel,Lusius
+221465,,@3011
+221466,,@21419
+221467,Hermano del cabecilla,Mahmmon
+221468,,@21419
+221469,,@21416
+221470,,@21423
+221471,@11455,@11455
+221472,,@21416
+221473,,@21423
+221474,,@3021
+221475,,Wyrm vengador
+221476,@11455,Cager
+221477,,Camarada de Cager
+221478,,@3114
+221479,,@3011
+221480,,@3083
+221481,,@3008
+221482,,Conciliador de Marc
+2214001,,@20701
+2214002,,Secuaz de Cago
+2214003,,Cago
+2214004,,@20701
+2214005,,Secuaz de Kuta
+2214006,,Kuta
+2214025,,Patrullero orco breka
+2214026,,@2214005
+2214007,,@2214025
+2214008,,Secuaz de Pokas
+2214009,,Pokas
+2214027,,@20716
+2214010,,Hijo de Mambo
+2214011,,@2214010
+2214012,,Mambo
+2214013,,@21436
+2214014,,@21436
+2214015,,Baruka
+2214016,,@21419
+2214017,,@21419
+2214018,,Zakum
+2214019,,@21414
+2214020,,@21414
+2214021,,Espíritu de Sahara
+2214028,@10002,@11433
+2214022,,@3021
+2214023,,Caballero de Kaimbell
+2214024,,Kaimbell líder de caballeros
+2214050,,@3023
+2214051,,@21421
+2214052,,@21423
+2214053,,@21430
+2214054,,@21431
+2214055,,Kargos
+221501,,@10359
+221502,,Bandidos de John
+221503,,@221502
+221504,,Windsus macho
+221506,Devorador del barranco,Grendel gran rey
+221507,,@221504
+221508,,@21503
+221509,,@221504
+221510,,Pellizcadora de Poricule
+221511,,Araña venenosa de Poricule
+221512,Familia Poricule,Pedículo
+221513,,Hijo del pedículo
+221514,,@221513
+221515,,@21504
+221516,,Atrox del barranco
+221517,Reina araña del barranco,@11578
+221518,,@21504
+221519,,Araña venenosa del barranco
+221520,,Hijo de Poricule
+221521,,@21509
+221522,,Saqueador goblón acuchillavientos
+221523,Segundo jefe de la familia Razorwind,Hadok
+221524,Mascota de Hadok,Puño negro
+221525,,Grendel domado
+221526,,@21509
+221527,Capitán de tropa de la familia Razorwind,Maxim
+221528,,Luchador de Maxim
+221529,,@221525
+221530,,Tropa de Maxim
+221531,,@21508
+221532,,@21509
+221533,Cocinero de la familia Razorwind,Cuking
+221534,,Goblón acuchillavientos hambriento
+221535,Flor de la alucinación,Piladesia
+221536,,@3126
+221537,,Goblón bajo los efectos de la alucinación
+221538,,Espíritu familiar de Emoleta
+221539,@21681,Emoleta
+221540,,@221538
+221541,@10068,@10005
+221542,@10068,Guarda superior
+221543,Alcaide de prisión subterránea,Shakman
+221544,,Guarda de prisión
+221545,Infiltrador leto,Varto
+221546,@221545,Tory
+221547,,@21513
+221548,@11549,@11549
+221549,@10068,@221542
+221550,@11549,@10005
+221551,@221545,@11580
+221552,,@11572
+221553,,@20725
+221554,@21185,Crogurk
+221555,,@11572
+221556,Jefe de la ciénaga de los hombres lagarto,Grunky
+221557,,@3041
+221558,,@3040
+221559,,Hechicero lagarto leto
+221560,Sumo chamán leto,Shras
+221561,,@3041
+221562,,@3040
+221563,Reina de los hombres lagarto leto,@11546
+221564,,Enloquecido lagarto leto
+221565,,Enloquecido lagarto resucitado
+221566,Capataz esclavo,@220488
+221567,,@21715
+221568,@220451,Croatica
+221569,,Guarda de prisión buscador
+221570,,Guarda de prisión
+221571,,Escolta de alcaide
+221572,Jefe de guerra del puesto de avanzada timak,Kazan
+221573,@221572,Kazan mejorado
+221574,,Enloquecido de Kazan
+221575,,Maestro tirador de Kazan
+221576,,Guardas de Kazan
+221577,,Francotirador de Kazan
+221578,@10934,@11533
+221579,,@220919
+221580,,@20923
+221586,@11569,@11433
+221587,@10819,@11350
+221588,,Criminal lagarto leto
+221589,,Creación de Christine
+221590,,@221589
+221591,@10068,@10005
+221592,,Francotirador del guarda de prisión
+221593,,@11597
+221594,@10819,@11350
+221595,,@11597
+221596,@10819,@11350
+221597,,@11597
+2215001,,@21501
+2215002,Oso gigante,Grizzly
+2215003,,@21501
+2215004,,Windsus bebé
+2215005,Madre jabalí,Windsus gigante
+2215006,,@2215004
+2215007,,@221522
+2215008,,@21506
+2215009,Hombre especialmente feo,Goblón particularmente feo
+2215010,,Secuaz del hombre feo
+2215011,,@21508
+2215012,Coleccionista de armas,Goblón de codicia
+2215013,,Coleccionista goblón novato
+2215014,,Ninfa seductora
+2215015,,Goblón acuchillavientos sigiloso
+2215016,Protección de la princesa,Ninfa reina
+2215017,,@221166
+2215018,,@21517
+2215019,,@21516
+2215020,Gerente de la tierra engendradora,Tantaka
+2215021,,Escolta del gerente.
+2215022,,@21515
+2215023,,@3040
+2215024,Experto en infiltración,Tanguri
+2215025,,Reclutador de Tanguri
+2215026,,@11783
+2215027,,@21714
+2215028,Asesor de búsqueda,Kamodu
+2215029,,Combatiente orco timak
+2215030,,Francotirador orco de Tmak
+2215031,,@21525
+2215032,,@20923
+2215033,Herrero enfadado,Kanto
+2215034,,Séquito de Kanto
+2215035,,Espíritu guía de Kanto
+2215036,,@11559
+2215037,,@11595
+2215038,@11593,@11593
+2215039,@11500,@11500
+2215040,@11517,@11517
+2215041,,Guarda real jefe tanor
+2215042,,Chamán jefe tanor
+221601,,@11623
+221602,,@11624
+221603,,@11624
+221604,,Grandis destructor feroz
+221605,@11625,@3055
+221606,@11625,@3056
+221607,,@3012
+221608,@11625,@3055
+221609,@11625,@3055
+221610,,Oel Mahum saqueador
+221611,,@221604
+221612,,@3057
+221613,,@3056
+221614,,@3056
+221615,,@3056
+221616,,@3057
+221617,,Grandis enloquecido
+221618,,Oel Mahum profeta
+221619,,Oel Mahum enloquecido
+221620,,@21611
+221621,,@11626
+221622,,@11627
+221623,,@21611
+221624,,@3056
+221625,,@11628
+221626,,@11629
+221627,,@11629
+221628,,@11601
+221629,,Secuaz de Diente de hierro
+221630,,@3057
+221631,,@3056
+221632,@10819,@11640
+221633,Invocación de Gelan,@11604
+221634,,@21619
+221635,,@21620
+221636,,@3081
+221637,,Señor zombi parásito
+221638,,@21620
+221639,,@21619
+221640,,@21620
+221641,,@3012
+221642,@11625,@11604
+221643,@11625,@11604
+221644,,@3012
+221645,@11625,@11604
+221646,@10819,@11640
+221647,@221633,@11604
+221648,,@3012
+221649,@10819,@11640
+221650,,@3012
+221651,@10819,@11640
+221652,,@21627
+221653,,@21628
+221654,,Pan Luem hambriento
+221655,,Ninfa avariciosa
+221656,,@21629
+221657,,@21628
+221658,,@21627
+221659,,@21628
+221660,,@21629
+221661,,@3012
+221662,,@3012
+221663,Invocación de la Hermandad oscura,@11604
+221664,@11625,@3057
+221665,,@21651
+221685,,Secuaz de Angsra
+221686,,Mano derecha de Angsra
+221687,,Página de Angsra
+221666,Zombi antiguo,Angsra
+221667,,Secuaz de Jaka
+221688,,Centinela de obsidiana
+221689,,Gólem de obsidiana antiguo
+221668,Gólem antiguo,Jaka
+221669,,Grandis armado
+221690,,Grandis herrero
+221670,Casco rojo,Tarugal
+221671,,Suministrador Ol Mahum
+221691,,Mercenario Ol Mahum
+221672,,Dientemartillo
+221673,,@3056
+221674,@10819,@11642
+221675,,Oel Mahum ladrón de poca monta
+221676,Ratero experto,Kuzran
+221677,,Mary Rose
+221692,,Rosa de escabullida
+221678,Flor letal,Hallamari
+221679,,@21627
+221693,,Stakato Luem
+221680,Jefe del callejón,Waika
+221681,,@3081
+221694,,Sauce seco
+221682,,Fungurian
+221683,,Parca desatada
+221695,,Alma desatada
+221684,Alma en una jarra,Osner
+221696,,@21607
+221697,,Rastreador de la barrera
+221698,,@21607
+221699,,Gallonian
+221701,,@11771
+221702,,@11772
+221703,,@11774
+221704,,@21704
+221705,,@21706
+221706,,@11774
+221707,@10125,@11773
+221708,,@11774
+221709,,@21705
+221710,,Persona principal bandida
+221711,,@21709
+221712,@11778,@11778
+221713,,@11774
+221714,,Rastreador bandido
+221715,,@11774
+221716,,@11780
+221717,,@21705
+221718,,Guarda de prisión de bruja oscura
+221719,,@21719
+221720,,@21713
+221721,Bruja oscura vieja,Sechalla
+221722,,Custodio silencioso
+221723,,Guarda de prisión orco de Timak
+221724,,Rastreador orco de Timak
+221725,,@21722
+221726,Capitán de comando orco de Timak,@11781
+221727,,@11782
+221728,,@11782
+221729,,@11783
+221730,,@11783
+221731,,@21726
+221732,,@11783
+221733,,@11782
+221734,Oficial superior,Avakar
+221735,,Técnico orco de Timak
+221736,,Guerrero superior orco de Timak
+221737,,Lobo orco de Timak
+221738,,@221737
+221739,,@221737
+221740,,@221737
+221741,,Arquero de élite orco de Timak
+221742,,@21721
+221743,,@221741
+221744,,Capitán superior de la Hermandad oscura
+221745,,@221736
+221746,,@3012
+221747,Jefe principal orco de Timak,Cronakan
+221748,,@221736
+221749,,@3012
+221750,,@11783
+221751,,@11782
+221752,,@221737
+221753,,Unidad de rastreadores orcos de Timak
+221754,,Alma malvada
+221755,,@3012
+221756,,@221754
+221757,,@3012
+221758,,@21731
+221759,,@3012
+221760,,@21731
+221761,,@3013
+221762,,@3012
+221763,,@21731
+221764,@11787,@11787
+221765,,@3012
+221766,,@3012
+221767,,@3012
+221768,Manchado por magia negra,Kazniak
+221769,,Sabueso manchado
+221770,,@21747
+221771,,Guardián defectuoso
+221772,,@3013
+221773,,@21731
+221774,,@3012
+221775,,@3013
+221776,,Guardián de la Torre de marfil
+221777,,@21747
+221778,,Gólem guardian de la Torre de marfil
+221779,,@21728
+2217001,,@21736
+2217002,,@21731
+2217003,Sumo sacerdote,Nabraham
+2217004,,@11604
+2217005,,@21731
+2217006,,@21730
+2217007,@20583,Muñeca del vacío
+2217008,,@11604
+2217009,,@21732
+2217010,En movimiento,Tormenta de arena
+2217011,,@21732
+2217012,,@21722
+2217013,,@21714
+2217014,@11727,@11727
+2217015,,@11783
+2217016,,@21722
+2217035,,@21716
+2217017,Explosión loca,Aton
+2217018,,@21722
+2217019,,@21713
+2217034,,@21712
+2217020,Protector de la oscuridad,Kilbanus
+2217021,,Ojo de la oscuridad
+2217022,,@21723
+2217023,Emperador Leech,Colosal
+2217024,,@3024
+2217025,,@11774
+2217026,Sellado en bastón,Saraxia
+2217027,,Secuaz de Saraxia
+2217028,,@21706
+2217029,Duro,Paska
+2217030,,@21706
+2217031,,@21501
+2217032,Violento,Durticlo
+2217033,,@21501
+2217036,,@21704
+2217037,Mugriento,Kayteach
+2217038,,@21702
+2217039,,@21702
+221803,,@21803
+221804,,@3009
+221807,,@3015
+221809,,@3032
+221811,,@3016
+221813,,Cristal rojo
+221818,,@220828
+221819,,Tejedor deformado invocado
+221820,,Sirviente de la condena invocado
+221821,,Alma encadenada invocada
+221832,,Sirvienta de Elizabeth
+221833,,Sirvienta de Elizabeth
+221834,,Elizabeth despierta
+300091,Madrina de la colonia,@3070
+300092,,@3001
+300093,,Hormiga autodestructora
+300001,@300091,@3070
+300002,,@3001
+300003,,@300093
+300101,@300091,@3070
+300102,,@3001
+300103,,@3002
+300104,,@300093
+300105,,Hormiga enfermera
+300201,@300091,@3070
+300202,,@3001
+300203,,@3002
+300204,,@300093
+300205,,@300105
+300301,@300091,@3070
+300302,,@3001
+300303,,@3002
+300304,,@300093
+300305,,@300105
+300306,,Gran hormiga enfermera
+300307,,@300306
+300308,,@300306
+301091,Señor oscuro,@3117
+301092,,@3099
+301093,,@3079
+301094,,@3015
+301001,@301091,@3117
+301002,,@3099
+301003,,@3079
+301004,,@3015
+301101,@301091,@3117
+301102,,@3099
+301103,,@3079
+301104,,@3015
+301201,@301091,@3117
+301202,,@3099
+301203,,@3079
+301204,,@3015
+301301,@301091,@3117
+301302,,@21023
+301303,,@3011
+301304,,@3019
+301305,,@3015
+301306,,Creación de Varkaron
+302001,,Corazón de Cruma
+302002,,@3015
+302003,,@3013
+302004,,Krakia
+302101,,@302001
+302102,,@3015
+302103,,@3013
+302104,,@302004
+302201,,@302001
+302202,,@3015
+302203,,@3013
+302204,,@302004
+302301,,Unidad de guardia alfa
+302302,,@3015
+302303,,@3013
+302304,,@302004
+999991,,Oso negro grado C
+999992,,Oso negro grado B
+999993,,Oso negro grado A
+999994,,Oso negro grado S
+999995,,Oso negro grado R
+999996,,Oso negro grado SR

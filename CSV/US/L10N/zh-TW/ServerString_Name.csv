@@ -1,0 +1,250 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,攻城戰獎勵
+GuildWarehouseRecordSiegeWarBidding,攻城戰投標
+GuildWarehouseRecordFortressWarReward,요새전 보상
+GuildWarehouseRecordFortressWarBidding,요새전 입찰
+GuildWarehouseRecordCommission,徵稅
+GuildWarehouseRecordMarketBuy,商店購買
+SystemMailName,系統
+SystemMessageKickOutFromGM,伺服器被重置，請重新啟動遊戲。
+SystemMessageLogOut,게임이 종료됩니다.
+CastleSiegeFestivalCouponResetNotify,已重置攻城戰慶典券
+MailTitleCheat,指定
+MailTitleTutorialReward,新手教學
+MailTitleGuideQuestReward,傭兵團的旅程獎勵
+MailTitleShopGachaItem,商店召喚箱道具
+MailTitleDungeonReward,副本獎勵
+MailTitlePvpHonorPointReward,競技場名譽獎勵
+MailTitlePvpFirstRankReward,競技場最初排名達成獎勵
+MailTitlePvpRankingReward,競技場排名獎勵
+MailTitleCastleSiegeBegin,開始攻城戰
+MailTitleCastleSiegeLoseReward,攻城戰戰敗獎勵
+MailTitleCastleSiegeWinReward,攻城戰勝利獎勵
+MailTitleFortressSiegeLoseReward,要塞戰戰敗獎勵
+MailTitleFortressSiegeWinReward,要塞戰勝利獎勵
+MailTitleFortressSiegeDrawReward,要塞戰平手獎勵
+MailTitleAuctionHouseBuy,交易所購買
+MailTitleAuctionHouseSellFailed,交易所流標
+MailTitleAuctionHouseSellingCancel,交易所購買取消
+MailTitleConnectDailyReward,每日上線獎勵
+MailTitleConnectWeeklyReward,每週上線獎勵
+MailTitleConnectMonthlyReward,每月上線獎勵
+MailTitleGuildAchievementReward,血盟成就獎勵
+MailTitleGuildMarketBuy,血盟商店購買
+MailTitleGuildMarketGiftBuy,[Player]已送出禮物
+MailTitleGuildWarehouseGrant,血盟獎勵
+MailTitleAchievementReward,成就獎勵
+MailTitlePeriodAchievementReward,期限成就獎勵
+MailTitleFriendGreet,好友問候
+MailTitleBagIsFull,背包達上限
+MailTitleDailyActivityReward,今日活動獎勵
+MailTitleInstantCompleteReward,獎勵回收道具
+MailTitleMissionDailyReward,每日任務獎勵
+MailTitleMissionWeeklyReward,每週任務獎勵
+MailTitleShopReward,儲值/消耗獎勵
+MailTitleSupriseBox,開啟驚喜箱
+MailTitleEvent,活動獎勵
+MailTitleEventDice,骰子活動獎勵
+MailTitleEventDiceComplete,骰子活動全程完成獎勵
+MailTitleCastleSiegeFestivalWin,攻城戰慶典勝利血盟預測成功
+MailTitleCastleSiegeFestivalLose,攻城戰慶典勝利血盟預測失敗
+MailTitleItemEnchantFailReward,強化失敗獎勵
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,做為新手教學獎勵的[Item]{[Item]|}到囉！
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,此為透過商店召喚箱獲得的道具。(背包已滿)
+MailContentDungeonReward,副本獎勵獲得的道具。
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,請確認在交易所裡購買的道具。
+MailContentAuctionHouseSellFailed,交易所裡流標的道具。
+MailContentAuctionHouseSellingCancel,交易所裡取消販售的道具。
+MailContentConnectDailyReward,获得[Item]进行在线
+MailContentConnectWeeklyReward,已連線[Day]天，獲得[Item]{[Item]|} 。
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,已從血盟裡收到獎勵。
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,[Count]金幣
+MailRewardDiamond,[Count]鑽石
+MailRewardCrystal,結晶體
+MailRewardExp,[Count]經驗值
+MailRewardQuestLimitTime,任務限制時間
+MailRewardFriendshipPoint,友情點數[Count]
+MailRewardStatus,能力值[Count]
+MailRewardBloodCrystal,血之水晶[Count]
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,攻城戰慶典票券
+GuildWarehouseRecordGuildAchievement,血盟成就
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,SP
+MailRewardTopaz,黃寶石
+MailRewardMileage,紅利
+MailRewardGuildCoin,血盟鑄幣
+MailRewardAchievementPoint,成就分數
+MailRewardPvpHonorPoint,名譽分數
+MailRewardRunePiece,符文碎片
+MailRewardPvpTicket,競技場票券
+MailTitleClassTransfer,轉職
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,怪物圖鑑
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,配發參與[GuildDungeonName]獎勵
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,配發參與[GuildDungeonName]獎勵
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,[GuildDungeonName] 혈맹 도움 보상을 지급합니다.
+MailContentGuildDungeonHelpReward,[GuildDungeonName]을 도움으로 클리어하여 보상이 지급되었습니다.
+MailTitleLevelUpGift,캐릭터 성장 달성 보상
+MailContentLevelUpGift,보상 : [Item]
+MailTitleReservedNickName,暱稱搶佔活動的感謝禮物！
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,據點血盟任務獎勵
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,帳號綁定獎勵
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,遺物鑑定結果
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,등록된 유물 회수
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,물약 제조
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,낚시 도감 보상
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,명예의 전장 시즌 보상
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,용맹의 전장 시즌 보상
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,고대의 전장 시즌 보상
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,아지트 혈맹 퀘스트
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,물약 재료 사용
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,혈맹 유물함
+EquipDungeonHp80,聖物的HP剩下80%
+EquipDungeonHp60,聖物的HP剩下60%
+EquipDungeonHp40,聖物的HP剩下40%
+EquipDungeonHp20,聖物的HP剩下20%
+EquipDungeonHp0,聖物被破壞了
+VarBerk30,巴勒凱倫陷入狂暴化了
+QueenAntScout,巨蟻女王的護衛怪物們登場了
+QueenBigAnt,大型守護蟻登場！！
+BigAntGiveHeal,大型守護蟻向巨蟻女王施展治癒術。
+KICKOUT_FOR_INSPECT,伺服器維修中，連線中止。
+KICKOUT_FOR_ASSET_PATCH,下載更新資料，將移動至主畫面。
+KICKOUT_PACKET_KEY_CHANGE,長時間未進行遊戲，連線中止。
+KICKOUT_SPEED_CHECK,非正常動作導致連線中斷。
+CannotAcquireItemAnymore,已無法再獲得
+GuildMasterAutoEntrust,[系統]無進行任何血盟活動的血盟
+MailTitlePurchaseLimitOverReward,重複購買[TargetItem]
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"此血盟超過每日可加入的次數。
+請於上午4點後再重新申請。"
+GuildJoinAcceptDailyJoinLimit,"超過今日可招募的血盟成員人數。
+請於上午4點後再重新招募。"
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,克魯瑪核心召喚了守護者
+DiceEventMaxCount,骰子活動已達最高次數
+PET_EQUIPMENT_ERROR_MESSAGE,"펫 장비는 대장간을 이용할 수 없습니다.
+펫 메뉴를 이용해주십시오."
+MailTitleGuildCastleDailyReward,성 점령 매일 보상
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,거래소 판매 대금
+MailContentAuctionHouseSellCompleted,거래소 판매 대금입니다.
+ConfineMessage,"게임이용이 <FontRed>[Day]</>일간 제한되었습니다.
+ 자세한 내용은 커뮤니티 공지사항 또는 고객센터를 참고 부탁드립니다.
+ (<FontRed>[ReuseYear]년 [ReuseMonth]월 [ReuseDay]일 [ReuseHour]시 [ReuseMin]분</>부터 이용 가능)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,혈맹 아지트 출석 보상
+EventDailyQuest,每日任務活動
+EventDailyQuestReward,每日任務活動獎勵
+EventDailyQuestProgressReward,每日任務活動進行獎勵
+ESportsMasterDiedNotify,<FontYellow>[GuildName]</> <FontWhite>혈맹의 군주</> <FontYellow>[PlayerName]</> <FontWhite>님이 사망하였습니다.</>
+ESportsMsgNotStartTime,아직 경기가 시작되지 않아 입장 하실 수 없습니다.
+ESportsMsgNoMoreMatch,진행 중인 경기가 없습니다.
+ESportsMsgMatchInfo,[MyServerName]서버 [MyGuildName]혈맹 [PlayerName]님의 경기는 [TargetServerName]서버 [TargetGuildName]혈맹과 [Date] 대회서버에서 진행될 예정입니다.
+ESportsMatchEnded,[MatchId]번 방은 경기가 종료된 방입니다.
+ESportsMsgKickoutMatchEnded,경기가 종료되어 타이틀로 이동합니다.
+AuctionHouseDisabledMessage,"현재는 거래소 이용이 불가능 합니다.
+자세한 내용은 커뮤니티를 확인해 주세요."
+DayOfWeekMon,月
+DayOfWeekTue,화
+DayOfWeekWed,수
+DayOfWeekThu,목
+DayOfWeekFri,금
+DayOfWeekSat,托
+DayOfWeekSun,日
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,佩勒奈的尋寶open獎勵
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,佩勒奈的尋寶累積獎勵
+MailTitleShopGuildReward,[Player]的[Name]禮物
+MailContentRecommandationServerReward,推薦伺服器選擇獎勵箱
+MailTitleRecommandationServerReward,推薦伺服器選擇獎勵
+MailTitleGuildDonationReward,血盟捐贈獎勵
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,시공의 균열 [PartyDungeonName]에서 찾아낸 전리품입니다.
+MailTitleServerTransferDailyDiamond,매일 받는 다이아 꾸러미의 못받은 꾸러미 지급
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,시공의 균열 클리어 보상
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,[NpcName]처치 보상
+MailContentBossReward,[NpcName]처치 후 인벤토리가 부족하여 보상이 우편으로 지급되었습니다.
+MailTitleFreeFortressResultWinReward,자유요새전 승리 보상
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,자유요새전 무승부 보상
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,자유요새전 패배 보상
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,자유요새전 획득점수 보상
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,숙련도 성장 달성 보상
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,명인의 증표
+MailTitleFotressDailyReward,요새전 점령 보상
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,네로의 주사위 게임 
+MaileContentNerodiceEvent,축하합니다! 네로의 주사위 게임의 당첨보상입니다.
+MailTitleFortressSiegeSpotReward,자유 요새전 보상
+MailContentFortressSiegeSpotReward,자유 요새전 스팟 승리 보상입니다.
+MaileTitleNerodiceEventFail,네로의 주사위 게임 실패 보상
+MaileContentNerodiceEventFail,네로의 주사위 게임의 실패 보상입니다.
+MailTitleAppstoreReward,Founder’s Box
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Special Gift box
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,자유요새전 참여 후 장시간 입력이 없어 강제 종료 되었습니다.
+SuspendAccount,"이용 약관에 의거, 이용이 정지되었습니다.(불법거래 등)
+문의가 필요한 경우 고객센터로 문의해 주세요.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,[MyServerName]서버 [MyGuildName]혈맹 [PlayerName]님의 경기는 [TargetServerName]서버 [TargetGuildName]혈맹과 지금 대회서버에서 진행 중입니다.
+MailTitleFacebookReward,facebook成就達成獎勵
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,구매 보너스 [CumulativeRewardCount]단계 달성 보상
+MailContentCumulativePurchaseReward,@MailContentCheat

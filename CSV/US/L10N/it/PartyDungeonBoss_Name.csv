@@ -1,0 +1,54 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Capitano delle Guardie Sadico: Boranta,"Visto che gli umani avevano sterminato
+la sua intera famiglia, credeva che il potere
+fosse l'unico modo per salvarsi dagli Orchi.
+
+Un giorno un Orco sconosciuto, <RedBold>Ramog</>,
+ottenne un potere immenso come nessun
+altro, e divenne il nuovo <RedBold>Orco Leader Timak</>;
+non poté fare a meno di rimanere affascinato 
+e lo seguì.
+
+Giurò che un giorno sarebbe diventato un
+Orco potente come <RedBold>Ramog</>.
+Era l'unico obiettivo della sua vita.
+Per raggiungere il suo scopo, organizzò
+l'annientamento dell'<GreenBold>Orco Sciamano</><GreenBold>Timak.</>",Creatura magica,Boranta ricevette il potere delle schegge di Nebulite da Ramog. Da lì poté usare il fuoco con la sua nuova forza.
+2,Orco Furioso: Ramog,"Per fatalità, le schegge di Nebulite
+sono ora conficcate nel suo cuore.
+In prossimità della sua morte, venne salvato
+da <RedBold>un'ombra misteriosa</>.
+
+Quando aprì gli occhi, capì di avere una
+potente ma terrificante forza.
+Si fece chiamare il guerriero, <RedBold>Ramog</>, e fece
+fuori qualsiasi Orco gli intralciasse il cammino.
+Divenne il nuovo leader della tribù degli
+<RedBold>Orchi Timak</>.
+
+Nella sua costante ricerca di potere, iniziò a
+puntare il potere di <RedBold>Paagrio</>, il dio degli Orchi.
+Alla fine attaccò <GreenBold>il villaggio dell'Orco</>
+<GreenBold>Sciamano Timak</> dove si trovava <GreenBold>l'altare di Paagrio.</>
+
+Lo sciamano tentò di fermarlo, ma venne 
+annientato.
+Il rituale per ottenere il potere di <RedBold>Paagrio</>
+è ora quasi completato.",@1,Le schegge di Nebulite sono conficcate nel cuore di Ramog. È in grado di usare più potere magico di qualsiasi altro orco che lo abbia preceduto.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Cavaliere Guardiano: Leonard,"Un tempo era il <RedBold>Cavaliere Guardiano</>
+della <RedBold>Contessa Trisha</>.
+La sua anima è incorruttibile, ma ha
+giurato fedeltà alla <RedBold>Contessa Trisha</>.
+Lui la servirà, qualunque decisione
+lei prenderà.",@1,Leonard venne trasformato dalla magia. È diverso dai tipici vampiri in quanto dispone di abilità magiche.
+10,Contessa di Sangue: Trisha,"<RedBold>Trisha</> nacque in una delle famiglie nobili
+di Giran. Desiderava scappare dalla noia della
+sua vita, cosa che la portò a bramire un amore
+proibito, un amore così grande da portarla a
+lasciare indietro la sua vecchia vita
+per ottenerlo.",@1,"Trisha, che era stata trasformata da un gigante minore come il suo amato, non è come i tipici vampiri in quanto dispone di abilità magiche."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

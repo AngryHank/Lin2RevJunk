@@ -1,0 +1,22 @@
+Id,Name,ContentType,GuideAlarmType1,GuideAlarmMessage1,GuideAlarmType2,GuideAlarmMessage2,IconTexture,Keyword
+1,오늘의 활동,Activity,GetReward,GUIDE_ALARM_REWARD,Avaible,GUIDE_ALARM_REMAIN,UI_Btn_Mission,DAILY_ACTIVITY
+2,업적,Heroic,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_Achievement,HEROIC
+3,휴식 보상,RestReward,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_RestReward,RESTREWARD
+4,접속 보상,AttendanceEvent,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_ButtonConnectReward,CONNECTREWARD
+5,여정 이벤트,GuideQuestEvent,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_Journey,
+6,일반 이벤트,NormalEvent,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_Event,EVENT
+7,주간 퀘스트,ActivityWeeklyMission,GetReward,GUIDE_ALARM_REWARD,Avaible,GUIDE_ALARM_REMAIN,UI_Btn_QuestProgress,REQUEST_WEEKLY
+8,일일 퀘스트,ActivityDailyMission,GetReward,GUIDE_ALARM_REWARD,Avaible,GUIDE_ALARM_REMAIN,UI_Btn_QuestProgress,MISSION_REQUEST
+9,서브 퀘스트,SubQuest,Avaible,GUIDE_ALARM_REMAIN,,,UI_Btn_QuestProgress,
+10,아지트개인퀘스트,PlayerAgitQuest,Avaible,GUIDE_ALARM_REMAIN,,,UI_Btn_QuestProgress,
+11,아지트혈맹퀘스트,GuildAgitQuest,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_QuestProgress,
+12,공성전 축제,CastleSiegeFestivalLotterty,Avaible,GUIDE_ALARM_CASTLE_TICKET,GetReward,GUIDE_ALARM_REWARD,UI_Btn_CastleSiegeFestival,FESTIVAL
+13,요일던전,DailyDungeon,Avaible,GUIDE_ALARM_DUNGEON_AVAIABLE,,,UI_Btn_Dungeon,DAILY_DUNGEON
+14,장비던전,EquipDungeon,Avaible,GUIDE_ALARM_DUNGEON_AVAIABLE,,,UI_Btn_Dungeon,EQUIP_DUNGEON
+15,아데나던전,AdenaDungeon,Avaible,GUIDE_ALARM_DUNGEON_AVAIABLE,,,UI_Btn_Dungeon,ADENA_DUNGEON
+16,경험치던전,ExpDungeon,Avaible,GUIDE_ALARM_DUNGEON_AVAIABLE,,,UI_Btn_Dungeon,EXP_DUNGEON
+17,소환석던전,SummonStoneDungeon,Avaible,GUIDE_ALARM_DUNGEON_AVAIABLE,,,UI_Btn_Dungeon,SUMMON_STONE_DUNGEON
+18,시공의 균열,PartyDungeon,RewardAvaible,GUIDE_ALARM_REWARD_AVAIABLE,,,UI_Btn_Party_Dungeon,
+19,마블 이벤트,DiceEvent,Avaible,GUIDE_ALARM_DICE_AVAIABLE,Mileage,GUIDE_ALARM_DICE_MILEAGE,UI_Btn_Event,EVENT
+20,아이멜의 교습소,EventDailyQuest,GetReward,GUIDE_ALARM_REWARD,,,UI_Btn_Event,EVENT
+21,네로 다이스 이벤트,NeroDiceEvent,Mileage,GUIDE_ALARM_DICE_MILEAGE,,,UI_Btn_Event,EVENT

@@ -1,0 +1,10 @@
+ID,DungeonID,BossNo,Portrait,RaceIcon,SkillGroupID,PosX,PosY
+1,100001,1,Icon_MonsterCore_Boranta,Icon_Ability_MagicalCreature,30011,-4300,11290
+2,100001,2,Icon_MonsterCore_Ramog,Icon_Ability_MagicalCreature,30012,2520,1550
+3,100002,1,Icon_MonsterCore_Boranta,Icon_Ability_MagicalCreature,30021,-4300,11290
+4,100002,2,Icon_MonsterCore_Ramog,Icon_Ability_MagicalCreature,30022,2520,1550
+6,100003,2,Icon_MonsterCore_Ramog,Icon_Ability_MagicalCreature,30032,2520,1550
+9,100101,1,Icon_MonsterCore_Leonard,Icon_Ability_MagicalCreature,30111,19633,-4839
+10,100101,2,Icon_MonsterCore_Trisha,Icon_Ability_MagicalCreature,30112,27506,-11881
+11,100102,1,Icon_MonsterCore_Leonard,Icon_Ability_MagicalCreature,30121,19633,-4839
+12,100102,2,Icon_MonsterCore_Trisha,Icon_Ability_MagicalCreature,30122,27506,-11881

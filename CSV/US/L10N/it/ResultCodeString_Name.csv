@@ -1,0 +1,850 @@
+Key,Value
+1,La versione del pacchetto non è compatibile con il server. Riavvia l’app.
+2,Riavvia il gioco per effettuare l’aggiornamento.
+3,Errore Server (DB)
+4,Errore Server (LUA)
+5,Errore Tabella di Excel
+6,Errore Server (Parametro)
+7,Errore Server (Logica)
+8,Errore Server
+9,Non hai effettuato l’accesso.
+10,Hai già effettuato l’accesso.
+11,Non ci sono obiettivi da scacciare.
+12,Autenticazione non corretta
+13,Identificatore personaggio non corretto
+14,Informazioni classe non corrette
+15,Genere non corretto
+16,Nome non corretto
+17,Informazioni PNG non corrette
+18,Identificatore giocatore non corretto
+19,Informazioni sulla razza non corrette
+20,Abilità non corretta
+21,Bersaglio dell’abilità non corretto
+22,Status non corretto
+23,Non puoi più accedere.
+24,Nessun identificatore dispositivo.
+25,Nome già in uso.
+26,Abilità in uso.
+27,Non ti puoi muovere.
+28,Non sei morto.
+29,PM insufficienti
+30,Adena insufficiente
+31,Non hai selezionato un giocatore.
+32,Diamanti insufficienti.
+33,Il livello del personaggio non è abbastanza alto.
+34,Impossibile passare la Classe allo stesso identificatore.
+35,Impossibile passare a questa Classe.
+36,Non puoi ancora passare di Classe perché il tuo livello è troppo basso.
+37,Codice di sicurezza non corretto.
+38,Identificatore giocatore non corretto.
+39,Identificatore effetto buff non corretto.
+40,Identificatore informazioni negozio non corretto.
+41,Il pacchetto hash non è compatibile. Il gioco potrebbe non funzionare correttamente.
+42,Identificatore effetto abilità non corretto.
+43,Identificatore traguardo non corretto.
+44,Livello runico non valido.
+45,Frammenti di Runa insufficienti.
+46,Informazioni Rune non valide.
+47,Impossibile far salire la runa.
+48,La runa è già al massimo livello.
+49,Il livello della runa precedente non è abbastanza alto.
+50,Supera la capacità massima di Adena.
+51,Supera la capacità massima di Topazi.
+52,Supera la capacità massima di Diamanti.
+53,@NotEnoughFreeDiamondStorage
+54,Topazi insufficienti.
+55,Punti Lealtà Estrazione insufficienti.
+56,Attualmente morto.
+57,"Sono ammessi solo 4-16 caratteri.
+(2-8 se è incluso il coreano/cinese)"
+58,"Non possono esserci spazi.
+Inserisci un altro nome."
+59,PA insufficienti.
+60,Capacità di Adena piena.
+61,La capacità della Moneta del clan è al suo massimo valore.
+62,Compila ancora la precedente pagina delle Rune.
+63,Punti Amicizia insufficienti.
+64,Tipo di ricompensa non valida.
+65,Attualmente stordito.
+66,Battaglia in corso.
+67,Questa Classe non può essere selezionata quando si crea un personaggio.
+68,Capacità di Punti Lealtà superata.
+69,Aspettando in coda.
+70,Non puoi usare i gadget.
+71,Non puoi usare il codice di sicurezza relativo in questo momento.
+72,"Questo contenuto è riservato.
+Non puoi accedere."
+73,Valore base di Classe non corretto.
+74,"Questo personaggio è un clan leader.
+Un personaggio clan leader può essere eliminato dopo aver trasferito la leadership o aver abbandonato il clan."
+75,Diamanti blu insufficienti.
+76,Diamanti rossi insufficienti.
+77,Bersaglio limitato.
+78,Al momento la chat è proibita.
+79,Non si può accedere perché c’è un numero limitato di partecipanti.
+80,Pietrastelle Rosse del clan insufficienti.
+81,Disponibile dopo il passaggio di Classe.
+82,"Questo nickname è già stato pre-registrato.
+Continuare con le fasi di verifica se ci si è pre-registrati."
+83,Nickname non valido.
+84,Questo giocatore è stato eliminato.
+85,Mondo nascosto.
+86,Valore account vuoto.
+87,Valore token vuoto.
+100,Sei stato disconnesso a causa della manutenzione del server.
+101,"In attesa di resuscitare.
+Non puoi ancora resuscitare."
+102,Il canale è pieno.
+103,Limite sul cambio di tempo.
+201,Impossibile completare il traguardo.
+202,Nessun traguardo.
+203,Hai già ritirato la ricompensa Livello Traguardo.
+251,Messaggio di chat non valido.
+252,Identificatore messaggio di chat non corretto.
+253,Identificatore informazioni aggiuntive di chat non corretto.
+254,Tipo pubblico chat non corretto.
+255,Limite Tempo di attesa
+256,Già presente nella lista dei bannati dalla chat.
+257,Non presente nella lista dei bannati dalla chat.
+258,Registrato sulla lista dei bannati dalla chat.
+259,Il destinatario ti ha bloccato.
+301,Questo è il tempo di attesa dell’abilità.
+302,Crea un primo account
+303,Impossibile controllare le abilità usate precedentemente.
+370,Informazioni di registrazione non corrette.
+371,Identificatore informazioni di registrazione non corretto.
+372,Identificatore ricompensa di registrazione non corretto.
+373,Hai già effettuato l’ingresso.
+374,Hai già ritirato la ricompensa.
+375,Nessun periodo di premi registrazione settimanali attivo.
+401,Identificatore oggetti non corretto.
+402,@InvalidItemInfoId
+403,Quest’oggetto non può essere potenziato.
+404,Scarti insufficienti.
+405,Oggetti insufficienti.
+406,Le funzioni Combina e Upgrade saranno disponibili dal Liv. 5.
+407,Pergamene di Potenziamento insufficienti.
+408,Non è più possibile potenziare.
+409,Potenziamento equipaggiamento fallito.
+410,"L’equipaggiamento è stato sigillato.
+L’equipaggiamento sigillato non può essere potenziato."
+411,Solo gli equipaggiamenti sigillati possono essere rilasciati.
+412,Questo equipaggiamento è già equipaggiato.
+413,Questo equipaggiamento non è equipaggiato.
+414,Slot nell’inventario insufficienti.
+415,L’equipaggiamento non può essere usato se già equipaggiato.
+-1,Il sigillo di questo equipaggiamento non può essere rimosso.
+417,Non è possibile effettuare l’upgrade su questo equipaggiamento.
+418,Non è più possibile effettuare l’upgrade su questo equipaggiamento.
+419,Questo equipaggiamento non può più essere combinato.
+420,Impossibile usare gli oggetti preferiti.
+421,"I materiali da combinare sono di tipo diverso.
+Puoi combinare solamente equipaggiamento dello stesso tipo."
+422,"I materiali da combinare sono di grado diverso.
+Puoi combinare solamente equipaggiamento dello stesso grado."
+423,Indice sottostatistiche non corretto.
+424,Questo oggetto non può essere usato.
+425,Non è più possibile effettuare un incantesimo su questo equipaggiamento.
+426,Questo non è un equipaggiamento.
+427,Materiali insufficienti per effettuare l’upgrade.
+428,Non si può più espandere l’inventario.
+429,Identificatore materiale degli oggetti non corretto.
+430,Questa non è una pergamena di potenziamento.
+431,L’identificatore di informazioni sull’oggetto è diverso.
+432,Il limite di questo oggetto non può essere superato.
+433,Il limite di questo oggetto non può più essere superato.
+434,Questo non è un Cristallo dell’Anima.
+435,Indice slot oggetti non corretto.
+436,Questo tipo di Cristallo dell’Anima è già equipaggiato.
+437,L’oggetto è già al massimo livello.
+438,Questo oggetto non ha sottostatistiche.
+439,Questo oggetto non ha Attributi.
+440,Gli Attributi non sono compatibili.
+441,Impossibile potenziare Attributo dell’oggetto.
+442,Non è più possibile usare Elisir.
+443,Gruppo o tipo di equipaggiamento da creare non corretto.
+444,Materiali per creazione oggetto insufficienti.
+445,Cristalli di Aegis insufficienti.
+446,Tipo di equipaggiamento non corretto.
+447,Indice deck non corretto.
+448,Questo deck equipaggiamento è già in uso.
+449,Il server è diverso dal deck.
+450,Impossibile creare oggetto: spazio nell’inventario insufficiente.
+451,Le informazioni della tabella non possono essere usate.
+452,Questo Codex dei Mostri è già stato completato.
+453,Non hai più Essenze di Mostro libere nel tuo inventario.
+454,Identificatore gruppo non corretto.
+455,Questo gruppo del Codex dei Mostri è già completo.
+456,Non ci sono Codex dei Mostri sui quali lavorare.
+457,Tipo di Ricompensa di Sospensione non corretto
+458,Punti Sospensione insufficienti
+459,Il tipo di valute aggiuntive è diverso.
+460,Tipo di sottostatistica dell’oggetto Pergamena Dimenticata non corretto.
+461,Non è un oggetto Pergamena Dimenticata.
+462,Impossibile usare oggetti Pergamena Dimenticata.
+463,L’abilità è già al massimo livello.
+464,Conteggio materiali non corretto.
+465,Questo è un tipo diverso di pergamena di potenziamento.
+466,Non può essere usato poiché i PS sono al massimo.
+467,Non può essere usato poiché i PM sono al massimo.
+468,Non è più possibile creare.
+469,Pergamene di Fuga insufficienti.
+470,La Scatola Sorpresa è vuota.
+471,Non ci sono Cristalli dell’Anima equipaggiati.
+472,Questo elisir non può essere usato.
+473,Il livello degli Attributi dell’equipaggiamento è al massimo.
+474,Questo non è un oggetto di tipo megafono.
+475,Tipo di effetto Cristallo dell’Anima non corretto.
+476,Identificatore informazioni rilascio dell’oggetto non corretto.
+477,Hai raggiunto il conteggio massimo consentito.
+478,Non può essere usato durante il tempo di attesa.
+479,Impossibile equipaggiare: questo equipaggiamento non è per la tua Classe.
+480,Teletrasporto.
+481,Le armi non sono state rimosse. Rimpiazzala con un’altra arma.
+482,Già al massimo livello.
+483,Lo stesso tipo di Colpo d’Anima è già attivo.
+484,Nell’Arena.
+485,La Pietra di Evocazione malvagia non può essere evocata qui.
+486,Impossibile usare ancora: il Valore Caotico ha raggiunto lo 0.
+487,Non è più possibile acquisire.
+488,Supera la quantità massima vendibile in una volta sola.
+489,Slot sottostatistiche non corretto.
+490,Questo oggetto non può essere creato con l’equipaggiamento.
+491,Il livello dell’oggetto è troppo basso per creare equipaggiamenti.
+492,Il grado dell’oggetto è troppo basso per creare equipaggiamenti.
+493,Questo oggetto non può essere venduto.
+501,Impossibile ricevere posta.
+502,"La Casella di Posta è piena.
+Ritira la ricompensa nella Casella di Posta
+e prova di nuovo."
+503,"Non è possibile ritirare le ricompense poiché la Casella di Posta è piena.
+Riprova dopo aver liberato spazio nella Casella."
+511,Punti Attività Giornaliere insufficienti.
+512,Identificatore Ricompensa Attività Giornaliere non corretto.
+513,Identificatore Ricompensa di gruppo Attività Giornaliere non corretto.
+514,Non ci sono ricompense da ritirare.
+521,Identificatore informazioni Completa ora non corretto.
+522,Non è un identificatore per le informazioni Completa ora.
+523,Identificatore gruppo Ricompensa Completa ora non corretto.
+531,Tipo di richiesta quest non corretto.
+532,Tipo informazioni di richiesta quest non corretto.
+533,Non è possibile iniziare una quest ora.
+534,Non è possibile completare ora.
+535,Nessuna quest in corso.
+536,Questa quest è già stata completata.
+537,Non ci sono quest giornaliere da rinnovare.
+538,Nessuna quest settimanale in corso.
+539,@NoMoreDailyActivityRewardGet
+540,Un’altra quest settimanale è già in corso.
+541,Hai utilizzato la quantità di quest giornaliere per oggi.
+601,Identificatore informazioni sul territorio non corretto.
+602,Identificatore informazioni sul punto non corretto.
+603,Identificatore informazioni sulla regione non corretto.
+604,Identificatore informazioni quest non corretto.
+605,La quest è già in corso.
+606,La quest non è in corso.
+607,Impossibile completare la quest.
+608,Il prerequisito della quest non è stato completato.
+609,Biglietti Quest insufficienti.
+610,Quest completate insufficienti.
+611,Non sono state apportate modifiche alla quest.
+612,La regione non è stata liberata.
+613,Il punto della regione non è stato liberato.
+614,Quest fallita.
+615,Quest non fallita.
+616,Non puoi resuscitare durante questa quest.
+617,Identificatore gadget non corretto.
+618,La distanza è troppa.
+619,Non c’è alcun PNG.
+620,Status quest non corretto.
+621,La quest è già stata completata.
+622,Completamenti automatici quest insufficienti.
+623,Informazioni su ricompense quest di conquista non corrette.
+624,Stelle di conquista completamento insufficienti.
+625,Non è stato completato nemmeno una volta.
+626,Questa non è una quest di conquista.
+627,Il biglietto quest è già al valore massimo.
+628,Le ricariche del biglietto quest sono già al valore massimo.
+629,Devi acquisire almeno 3 stelle per potere usare il Completamento automatico in quel punto.
+630,Nessun controllo gadget rimanente.
+631,Gadget già controllato.
+632,Numero azione quest non corretto.
+633,Azione quest non ancora completata.
+634,Ricompensa per aver completato l’azione quest già ritirata.
+635,Ricompensa per aver completato il progresso dell’azione quest già ritirata.
+636,Quantità pergamene quest insufficiente.
+637,Quantità reset pergamene quest insufficiente.
+701,"L’abilità è al massimo livello.
+Riprova dopo aver fatto salire il tuo personaggio di livello."
+702,Deck abilità non corretto.
+703,Impossibile modificare deck abilità.
+704,L’abilità non può essere usata con questa arma.
+801,Questo giocatore è già tuo amico.
+802,Hai già inviato una richiesta.
+803,Richiesta di amicizia non ricevuta.
+804,Non è un amico.
+805,Giocatore non trovato.
+806,L’elenco dei tuoi amici è pieno.
+807,Gli slot per le richieste di amicizia sono pieni.
+808,Non puoi salutare te stesso.
+809,Hai già salutato.
+810,Non puoi inviare una richiesta a te stesso.
+811,Impossibile creare un elenco di amici consigliati.
+812,"Non è un amico.
+La chat 1 a 1 è disponibile solo fra giocatori amici."
+813,Non sei stato salutato da nessun amico.
+814,Questo giocatore non ha ancora completato il tutorial sugli amici.
+815,La richiesta di amicizia è stata accettata.
+816,Hai raggiunto il limite massimo di saluti giornalieri.
+817,Non hai amici da salutare.
+818,L’elenco degli amici di questo giocatore è pieno.
+819,Hai già inviato troppe richieste d’amicizia.
+847,Solo il Leader del Gruppo può richiedere l’accesso.
+848,Stai già partecipando a una segreta.
+849,Quest’azione non può essere completata se sei parte di un gruppo.
+850,Hai già invitato questo giocatore.
+851,Questo gruppo non esiste.
+852,Non sei stato invitato in un gruppo.
+853,Appartieni già a un gruppo.
+854,Non appartieni a un gruppo.
+855,Il leader del gruppo è offline.
+856,Non puoi andare lì.
+857,Sei già il leader del gruppo.
+858,Non hai autorità.
+859,Impossibile fare questo a te stesso.
+860,Il gruppo è pieno.
+861,Non online.
+862,Nessuna richiesta di unirsi a un gruppo.
+863,L’obiettivo è in una regione dove non puoi andare o in una regione dove non può essere evocato.
+864,Non in una stanza.
+865,Non può essere fatto qui.
+866,Impossibile formare un gruppo durante Assedio del Castello/ Assedio della Fortezza.
+867,Membri del gruppo insufficienti.
+868,Solo il leader del gruppo può annullare.
+869,Questo utente non ha ancora completato il tutorial sui gruppi.
+870,Compatibilità già trovata.
+871,In una regione dove la ricerca veloce non può essere usata.
+872,Non può essere fatto all’interno di una Segreta.
+873,Non in un gruppo.
+874,Non può essere fatto.
+875,Non in coda per entrare in una Segreta di gruppo.
+876,Impossibile trovare questo membro del gruppo.
+877,Membri del gruppo insufficienti.
+878,Non può essere fatto mentre si cerca compatibilità per un gruppo.
+879,Già iscritto alla chat di gruppo.
+880,Non iscritto alla chat di gruppo.
+881,Errore voce Apollo.
+882,La quest del gruppo non è stata condivisa.
+883,Il livello di un giocatore non è abbastanza alto.
+884,Già in fase di recrutamento.
+885,Un membro si trova in una regione non accessibile.
+886,Un membro del gruppo non ha abbastanza ingressi alla Segreta rimanenti.
+887,Un membro del gruppo non soddisfa le condizioni necessarie per entrare nella Segreta.
+888,Non può essere fatto se il gruppo è al completo.
+889,Non può essere fatto se si invita un membro del gruppo.
+890,Si può richiedere dopo [Time].
+891,Hai già richiesto di unirti a questo gruppo.
+892,Il leader del gruppo è vicino.
+893,È presente un membro del gruppo che non può.
+894,Impossibile unirsi a questo gruppo.
+901,Questo identificatore è per un clan che non esiste oppure per un altro clan.
+902,La lunghezza del nome del clan non è corretta.
+903,Esiste già un clan con lo stesso nome.
+904,Già parte di un clan.
+905,Non fai ancora parte di un clan.
+906,Non hai l’autorità del clan.
+907,Questo clan non si è rivelato.
+908,Richiesta di unirsi al clan già effettuata.
+909,Richiesta di unirsi al clan non ancora effettuata.
+910,Non puoi accettare altri membri per il clan.
+911,Valido solo per i membri del clan di basso grado.
+912,Questa valuta non può essere donata.
+913,Conteggio donazione non corretto.
+914,Già deliberato per l’impeachment.
+915,Ingresso nel clan già effettuato.
+916,Impossibile fare altri saluti del clan.
+917,Già risposto al saluto di questo giocatore.
+918,Monete del clan insufficienti.
+919,Identificatore buff del clan non corretto.
+920,Già in possesso di questo buff per il clan.
+921,Identificatore informazioni castello non corretto.
+922,Adena del clan insufficienti.
+923,Non è più possibile acquisire.
+924,Identificatore informazioni sull’emblema del clan non corretto.
+925,Questo grado di clan non può più essere concesso.
+926,Nessun clan.
+927,Già alleati.
+928,Richiesta di alleanza già inviata.
+929,Non sei stato invitato in un clan.
+930,Non è un clan alleato.
+931,Non possono più essere formate alleanze.
+932,Questo clan non può più formare alleanze.
+933,Il leader del clan non può abbandonare il clan.
+934,Non si possono più registrare clan ostili.
+935,Già un clan ostile.
+936,Non è un clan ostile.
+937,Lo stato di guerra contro un clan ostile non è disponibile.
+938,Il clan ostile non può essere eliminato.
+939,Non ci si può arrendere a un clan ostile.
+940,Nessun buff di clan.
+941,Non si può formare un’alleanza con clan ostili.
+942,Non si possono formare ostilità con clan alleati.
+943,Devi inserire un prezzo più alto dell’offerta minima.
+944,Questa funzionalità non può essere usata perché il livello del clan è troppo basso.
+945,Non si può dichiarare ostile il clan avversario perché il suo livello è troppo basso.
+946,"Il limite di ingressi è stato innalzato.
+Impossibile richiedere di unirsi."
+947,"La tipologia di ingresso nel clan è stata cambiata a “richiedi approvazione”.
+Impossibile richiedere di unirsi."
+948,Hai raggiunto il limite massimo di donazioni giornaliere.
+949,Prove di Sangue insufficienti.
+950,Quantità massima consentita al giorno acquistata.
+951,Non puoi accettare altre richieste da chi vuole unirsi.
+952,Nome clan non corretto.
+953,I nomi dei clan non possono contenere spazi.
+954,Tutti i membri di un clan devono abbandonarlo per far sì che il clan si sciolga.
+955,Non puoi partecipare alle attività del Clan a causa delle penalità ricevute per aver abbandonato ed esserti nuovamente unito a un Clan.
+956,Già membro del clan.
+957,@GuildJoined
+958,Tutti i clan ostili sono stati registrati.
+959,Non è il leader del Clan.
+960,Quantità massima consentita alla settimana acquistata.
+961,Quantità massima consentita al mese acquistata.
+962,I membri di alto grado non possono essere cacciati.
+963,Questo utente non ha ancora completato il tutorial sul clan.
+964,Non si possono più registrare clan ostili.
+965,Non è più possibile acquistare causa Prove di Sangue del clan insufficienti.
+966,"Non si può abbandonare, unirsi, delegare il leader del clan
+o sciogliere un clan durante l’Assedio del Castello."
+967,"Non si può abbandonare, unirsi, delegare il leader del clan
+o smantellare un clan durante l’Assedio della Fortezza."
+968,Questa Segreta del clan non è disponibile.
+969,Non hai i requisiti per questo clan.
+970,Questa Segreta del Clan è già stata completata.
+971,Raggiunto l’azzeramento del conteggio.
+972,La Segreta non è ancora stata completata.
+973,Diamanti rossi insufficienti.
+974,Nessuna ricompensa registrazione al clan disponibile.
+975,Nessuna registrazione al clan disponibile.
+976,Hai già ottenuto la ricompensa di registrazione al Clan.
+977,Questo membro del clan non ha effettuato l’accesso da molto tempo.
+978,Clan inesistente o non registrato.
+1001,Identificatore portale non corretto.
+1002,Non si può controllare.
+1101,Impossibile presentare l’offerta per l’Assedio del Castello.
+1102,Impossibile annullare l’offerta per l’Assedio del Castello.
+1103,Assedio del Castello non corretto.
+1104,Nessuna informazione sull’offerta per l’Assedio del Castello.
+1105,Coupon Festival dell’Assedio del Castello insufficienti.
+1106,Nessun voucher Festival dell’Assedio del Castello.
+1107,Valuta insufficiente per fare un’offerta.
+1108,Non è ancora il momento di fare offerte.
+1109,Estensione offerta già presentata.
+1110,Slot del Festival Assedio del Castello non corretto.
+1111,Solo i clan che hanno presentato un’offerta possono accedere.
+1112,Al momento non è possibile acquisire la ricompensa voucher.
+1113,Assedio del Castello in corso.
+1114,Non si può presentare un’offerta uguale.
+1115,Non puoi raggiungere l’Assedio del Castello da questo mondo.
+1116,Nessun clan conquistato.
+1117,Nessuno storico sugli Assedi del Castello.
+1118,Il Festival dell’Assedio del Castello non è attualmente attivo!
+1119,Non può essere acquistato perché nessun clan ha conquistato o presentato un’offerta sul castello.
+1151,Impossibile presentare l’offerta.
+1152,Impossibile annullare l’offerta.
+1153,Iscrizione all’Assedio della Fortezza non corretta.
+1154,Nessuna informazione sull’offerta per l’Assedio della Fortezza.
+1155,Informazioni sul territorio non corrette.
+1156,Identificatore di informazioni sulla fortezza non corretto.
+1157,I clan che posseggono castelli non possono presentare offerte.
+1158,Assedio della Fortezza non in corso.
+1159,Questo clan non ha partecipato all’Assedio della Fortezza.
+1160,Solo i clan che hanno conquistato castelli possono effettuare l’acquisto.
+1161,Solo i clan che hanno conquistato fortezze possono effettuare l’acquisto.
+1162,I clan che posseggono fortezze non possono presentare offerte.
+1190,"Solo i membri del clan che partecipano in un Assedio del Castello o a un
+Assedio della Fortezza possono registrarsi."
+1201,Prezzo non corretto.
+1202,@InvalidName
+1203,Non ci sono oggetti da usare.
+1204,Status non corretto.
+1205,Dev’essere un oggetto acquisito.
+1206,Questo è il venditore.
+1207,Nessun risultato di ricerca.
+1208,Questo tipo non può essere registrato.
+1209,Già esaurito.
+1210,Numero di registrazioni consentite superato.
+1211,Il grado dell’oggetto non è compatibile.
+1212,Nessun nome e categoria rilevanti.
+1213,Nessun nome e grado rilevanti.
+1214,Adena insufficienti per registrarsi al Mercato.
+1215,La tua lista dei preferiti del Mercato è piena.
+1216,Oggetto preferito identico.
+1217,Nessun oggetto preferito.
+1218,Questo oggetto non può essere registrato.
+1219,Cristallo dell’Anima è stato aggiunto all’equipaggiamento.
+1220,Hai raggiunto il numero massimo di oggetti che si possono registrare.
+1221,Quantità di Mercato Insufficiente
+1222,Parti di questo oggetto sono state vendute.
+1301,Identificatore oggetti non corretto.
+1302,Acquisto oggetto non corretto.
+1303,Tipo di valuta non corretto.
+1304,Tipo di pareggio non corretto.
+1305,Non puoi comprare l’oggetto d’acquisto iniziale.
+1306,Non è possibile acquistare durante il tempo di attesa.
+1307,Quantità di acquisti giornalieri consentiti superata.
+1308,Quantità di acquisti settimanali consentiti superata.
+1309,Quantità di acquisti mensili consentiti superata.
+1310,Non è il momento di fare acquisti.
+1332,La vendita di questo oggetto è terminata.
+1311,Questo oggetto non può essere acquistato gratuitamente.
+1312,Pacchetto mensile dello stesso tipo già in uso.
+1313,La Ricompensa Pacchetto mensile non è stata acquisita abbastanza volte.
+1314,Richiesta non valida.
+1315,Tipo di tabella dell’oggetto acquistato non compatibile.
+1316,Oggetto con Rendita già in uso.
+1317,Identificatore informazioni ricompensa negozio non corretto.
+1318,Non è il periodo dell’evento bonus negozio.
+1319,Tipo di ricompensa negozio non corretto.
+1320,Non ci sono ricompense da ritirare.
+1321,La durata dell’evento è stata rinnovata. Ricarica.
+1322,Non è un giocatore di ritorno.
+1323,Non è un nuovo giocatore.
+1324,Il periodo delle vendite si è concluso.
+1325,L’oggetto è esaurito.
+1326,Non sono state soddisfatte le richieste per l’acquisto.
+1327,Acquisto fallito.
+1328,Tipo di ricompensa Oggetto con Rendita non corretto.
+1329,Richiedi l’Assistenza Clienti.
+1330,Identificatore informazioni smart pop-up non corretto.
+1331,L’oggetto limitato è esaurito.
+1401,Identificatore Segreta non corretto.
+1402,Non sono rimasti ingressi disponibili nelle segrete.
+1403,Gli ingressi gratuiti nelle Segrete Giornaliere sono disponibili solo in giorni specifici.
+1404,Completamento della Segreta fallito.
+1405,Non ti trovi in una Segreta.
+1406,"Non puoi accedere alla Torre dell’Insolenza poiché
+hai usato tutti gli ingressi."
+1407,La Segreta non è ancora stata completata.
+1408,Non c’è possibilità di completare automaticamente le Segrete.
+1409,Non si può entrare gratuitamente nelle Segrete giornaliere.
+1410,Non è più possibile estrarre.
+1411,Informazioni quest della Segreta non corrette.
+1412,La quest della Segreta non è stata ancora completata.
+1413,Hai già ritirato la ricompensa per aver completato questa Segreta.
+1414,Punti quest della Segreta insufficienti per ritirare ricompense.
+1415,Rimane ancora del tempo per il bonus tempo dedicato alle Segrete.
+1416,Ricariche insufficienti per il bonus tempo delle Segrete.
+1417,Il Completamento automatico sarà disponibile dopo il completamento iniziale delle quest Segrete Élite.
+1418,Non sono rimasti ingressi alle Segrete giornaliere.
+1419,Il Completamento automatico non è disponibile perché il grado di completamento della Segreta è troppo basso. Aumenta il grado e riprova.
+1420,Non ti puoi spostare nella Segreta dal mondo in cui sei.
+1421,Ci sono ancora possibilità per entrare nelle Segrete giornaliere.
+1422,Non puoi più accedere a questa Segreta giornaliera.
+1423,Non sono rimasti ingressi disponibili nelle segrete.
+1424,Impossibile accedere a questa Segreta.
+1425,Sono rimasti ingressi per le Segrete.
+1426,Tutte le possibilità di pagare per la ricarica sono state consumate.
+1501,Status PvP non corretto.
+1502,Il tuo grado è cambiato.
+1503,Il grado dell’obiettivo è cambiato.
+1504,Lo status dell’obiettivo è pronto alla battaglia.
+1505,Sei stato attaccato in PvP.
+1506,Biglietti insufficienti per accedere al PvP.
+1507,Non ti trovi all’Arena.
+1508,L’inizio del PvP non è stato confermato.
+1509,No status GK.
+1510,L’elenco Gruppo Collettivo è pieno.
+1511,Non è stato trovato nell’elenco Gruppo Collettivo.
+1512,Questo utente si è già registrato.
+1513,Arma non equipaggiata.
+1514,Ricompensa già ritirata.
+1515,Posizione Arena mancante.
+1516,Nessuna ricompensa Arena.
+1517,Non si possono più acquistare biglietti PvP.
+1518,Obiettivo duello non corretto.
+1551,La quest di passaggio di Classe è già in corso.
+1552,La quest di passaggio di Classe è ancora in corso.
+1553,Rimane ancora la ricompensa per il passaggio di Classe.
+1554,Impossibile completare.
+1555,Impossibile acquisire le ricompense.
+1556,Identificatore quest di passaggio di Classe non corretto.
+1601,Quest già completata.
+1602,@NotCompeletableStateMissionRequest
+1603,@InvalidQuestInfoId
+1604,Identificatore ricompensa quest non corretto.
+1701,Identificatore tutorial non corretto.
+1702,Avvio tutorial non riuscito.
+1703,Fase del tutorial non corretta.
+1704,@TutorialWorldAcquireFailed
+1705,Lo fase del tutorial è stata completata.
+1706,Hai già acquisito il materiale del tutorial.
+1707,Il tutorial non è ancora iniziato.
+1708,Il tutorial obbligatorio è in corso.
+1709,Il tutorial è già stato completato.
+1710,Hai già ritirato la ricompensa.
+1711,Tutorial Giocatore - solo tutorial
+1712,Questo non è un tutorial giocatore.
+1713,Non può essere saltato.
+1714,Il tutorial non può essere avviato nelle Segrete.
+1801,Errore server Redis.
+1802,Identificatore informazioni posizionamento non corretto.
+1803,Nessun dato sul posizionamento.
+1804,Pagina non corretta.
+1850,La voce della chat non è stata reimpostata.
+1851,Il tempo di risposta con il server per la voce della chat è fuori dai limiti.
+1901,Hai raggiunto il limite di Coupon Festival dell’Assedio del Castello.
+1902,Hai raggiunto il limite di PA.
+1903,Hai raggiunto il limite di Biglietti Arena.
+1904,Hai raggiunto il limite di Diamanti rossi.
+1905,Hai raggiunto il limite di Diamanti blu.
+1906,Hai raggiunto il limite di Punti Lealtà.
+1907,Hai raggiunto il limite di Punti Amicizia.
+1908,Hai raggiunto il limite di Topazi.
+1909,Hai raggiunto il limite di Monete del Clan.
+1910,Hai raggiunto il limite di Adena.
+2001,Tipo evento non corretto.
+2002,L’evento non è in corso al momento.
+2003,Hai già ritirato le ricompense relative all’evento.
+2004,Condizioni evento non corrette.
+2005,Non puoi soddisfare le condizioni dell’evento.
+2006,Hai già ritirato il massimo numero di ricompense evento ottenibili.
+3000,NetmarbleS IAP L’obiettivo per la ricezione regali ha superato il limite.
+3001,NetmarbleS IAP Limite Regali superato.
+3002,NetmarbleS IAP Limite pagamento superato.
+3003,NetmarbleS IAP Errore.
+3004,NetmarbleS IAP Non è un oggetto registrato.
+3005,NetmarbleS IAP Nessuna risposta dal server. Riprova.
+3006,NetmarbleS IAP Manutenzione del server in corso.
+3007,Errore impostazioni oggetto.
+3008,Il periodo di vendita dell’oggetto si è concluso.
+3009,Questo oggetto è completamente esaurito.
+3101,Conferma pre-iscrizione non riuscita.
+3102,Verifica pre-iscrizione non riuscita.
+4001,Il giocatore non è ancora stato in questa regione.
+9000,Pacchetto da eliminare.
+9001,Presto disponibile
+9002,Superato.
+981,Esp. Sala del Clan insufficiente per salire di livello.
+980,"La Sala del Clan di questo clan è chiusa.
+Puoi entrarci solo se le porte della Sala del Clan sono aperte."
+990,Questo clan non ha acquistato una Sala.
+991,Ti trovi già alla Sala del Clan.
+5600,"Puoi invitare giocatori entro 200 punti di distanza
+dal leader del Campo di Battaglia."
+5601,Questo giocatore fa già parte di un Gruppo Campo di Battaglia.
+498,"Non si possono acquistare Colpi d’Anima
+mentre essi sono attivi."
+992,Questo membro ha raggiunto il limite massimo di premi consentiti.
+993,Non ci sono membri del clan da ricompensare.
+92,"La barriera si è chiusa perché il tempo di evocazione è terminato.
+La battaglia in questa Segreta si è conclusa."
+5602,"Al momento siamo in bassa stagione.
+Il punteggio avrà valore quando inizierà la stagione normale."
+999,La Sala del Clan non può essere abbandonata perché c’è ancora un giocatore all’interno.
+1013,Si può delegare la posizione di Leader del Clan solo a un giocatore diventato membro da almeno 7 giorni.
+979,Hai già acquistato la Sala del Clan.
+982,Cristalli o Frammenti Unità insufficienti per salire di livello.
+1004,"1 Quest in Solitaria del Clan disponibile al giorno; al completamento, si azzera."
+983,"Non c’è un limite giornaliero alle Quest del Clan che puoi intraprendere in un giorno,
+ma se ne possono seguire solo 3 contemporaneamente."
+984,Questa quest Sala del Clan è già in corso.
+985,Un altro membro del clan si sta già occupando di questa quest.
+986,Questa quest è già stata completata.
+987,Questa quest non è in corso al momento.
+988,Impossibile completare questa quest al momento.
+989,"Aumenta di livello la Sala del Clan per
+rinforzare il Cristallo dell’Unità."
+994,"Assumi un Custode
+di grado più alto."
+995,Un’altra Reliquia è già stata registrata.
+996,Non sono state registrate Reliquie.
+997,C’è bisogno di più tempo per valutare la Reliquia.
+998,Punti Scrigno Reliquie del Clan insufficienti.
+1000,"Un banchetto egualmente bello o migliore
+è già stato preparato."
+1010,Questo Custode ha già un altro impegno.
+1011,Questo è un tipo di Custode sconosciuto.
+1012,Impossibile far salire il Custode al grado selezionato.
+1021,Rifiuta di combattere contro il clan ostile.
+1022,Negoziati in corso per chiudere la battaglia contro il clan ostile.
+1023,Rifiuta di negoziare la fine della battaglia contro il clan ostile.
+1024,Non ci sono abbastanza membri del clan per andare in battaglia.
+1025,Non ci sono abbastanza membri del clan ostile per andare in battaglia.
+93,Non puoi cambiare canale mentre sei in battaglia.
+500,"Per spostarti, abbandona l’Arena degli scontri."
+97,Monete Onore insufficienti.
+98,Monete Coraggio insufficienti.
+99,Monete Antiche insufficienti.
+1911,Hai raggiunto il limite di Monete Onore.
+1912,Hai raggiunto il limite di Monete Coraggio.
+1913,Hai raggiunto il limite di Monete Antiche.
+895,Non puoi entrare mentre il Campo di Battaglia viene preparato.
+1014,Ramoscelli per accendere un fuoco nel caminetto insufficienti.
+1015,Raggiunto il limite di creazione.
+1051,Questo oggetto non può essere dato come premio.
+400,Non ci sono PA disponibili.
+5300,Identificatore cavalcatura non corretto.
+5301,Identificatore informazioni cavalcatura non corretto.
+5302,Non ci sono cavalcature equipaggiate.
+5303,Stai richiedendo una cavalcatura identica.
+5304,Questo è l’oggetto di un’altra cavalcatura.
+5305,Raggiunto il limite di utilizzo di questo oggetto per cavalcature.
+5306,Le informazioni sulle cavalcature non sono compatibili.
+5307,L’opzione Cavalcatura non può essere attivata perché il tuo livello è troppo basso.
+5308,Non ci sono cavalcature attive.
+5309,Il grado di cavalcatura è troppo basso.
+5310,Non sono state soddisfatte le condizioni di attivazione di questa cavalcatura.
+5311,Questo non è un oggetto per cavalcatura.
+5312,Slot per equipaggiare questo oggetto per cavalcatura non corretto.
+5313,Materiali insufficienti per far salire di livello la cavalcatura.
+5314,Non è possibile cavalcare qui.
+5315,Il grado della cavalcatura è troppo basso.
+6500,Hai raggiunto il limite massimo di combinazioni.
+896,"Hai aggiunto un personaggio non valido.
+(Non si possono usare lettere speciali o slang)"
+898,"Possono essere usati solo 2-16 caratteri
+(2-12 se è incluso il coreano/cinese)
+compresi gli spazi."
+897,Puoi avere soltanto uno spazio alla volta.
+5400,Attualmente non disponibile.
+1121,Non si può entrare nei Quartieri Generali dell’Assedio perché sono stati distrutti.
+899,"Puoi entrare a far parte di un gruppo di membri del clan solo nell’Assedio della Fortezza e nell’Assedio del Castello
+o puoi invitarli a unirsi al tuo gruppo."
+6600,Attualmente non disponibile. Puoi modificare il nome solo quando ti trovi in un campo e non in un gruppo.
+1055,La risposta dal server Netmarble è in ritardo. Si prega di riprovare.
+900,Non si possono inviare/ricevere inviti nella posizione attuale.
+5603,La funzione Trova gruppo non è disponibile durante il periodo di posizionamento.
+5604,Non puoi entrare in un gruppo se i giocatori stanno partecipando a un test di posizionamento.
+7100,I Gradi UR non possono essere usati come materiale attributo.
+107,"Non puoi accedere da morto.
+Riprova dopo la risurrezione."
+1056,Il tuo livello è inferiore al livello minimo richiesto per entrare.
+1057,Il tuo Potere di Combattimento attuale è inferiore al Potere di Combattimento richiesto.
+1058,Non hai abbastanza ingressi Clan d’Aiuto.
+1059,Hai raggiunto il numero massimo di giocatori che può partecipare alla Segreta del Clan d’Aiuto.
+1060,Non puoi accedere a una segreta usando [Unisciti] se stai già partecipando a una segreta.
+1061,Sei al di fuori del campo livello di supporto della Segreta del Clan.
+1062,Sei al di fuori del campo livello di supporto del Potere di Combattimento.
+1063,Sei al di fuori del campo recluta giocatore della Segreta del Clan Help.
+1064,Una richiesta di aiuto della Segreta del Clan è stata messa in attesa.
+108,Hai raggiunto il numero massimo di Resurrezioni Istantanee.
+109,È troppo affollato per entrare.
+110,Diamanti Verdi insufficienti.
+111,@NotEnoughFreeDiamondStorage
+112,Diamanti Blu o Verdi insufficienti.
+1914,Hai raggiunto il limite di Diamanti Verdi.
+1065,Il boss della Segreta del Clan è stato sconfitto.
+638,"Hai già una missione speciale.
+Devi prima completare le missioni speciali in corso."
+1066,@PartyInvalidName
+1067,Non ci sono obiettivi su cui esigere vendetta.
+1068,Il giocatore non è nella stanza.
+1069,Non è possibile sostenere una vendetta qui.
+1605,Non c’è Ricompensa per la Quest Viaggio.
+5101,"Questo titolo è stato attivato,
+quindi non puoi usare gli oggetti."
+113,@PartyInvalidName
+1005,Questo giocatore è già stato invitato nel clan.
+1006,Impossibile invitare nel clan. Hai raggiunto il massimo numero di inviti nel clan.
+1007,Questo giocatore ha rifiutato l’invito nel clan.
+1008,Questo giocatore non può essere invitato nel clan.
+114,"Possono essere usati solo 2-25 caratteri
+(2-20 se è incluso il coreano/cinese)
+compresi gli spazi."
+1026,L’annuncio di invito nel clan sarà disponibile a breve.
+1334,"Questo acquisto è disponibile solo ai giocatori che fanno parte di un clan.
+Riprova dopo esserti unito ad uno."
+1009,@PartyInvalidName
+1018,@PartyInvalidNameSpace
+1019,@PartyInvalidNameLength
+5607,Ricompensa Stagione già richiesta.
+6203,Numero di aperture insufficienti quando usi Adena. Solo 2 aperture giornaliere disponibili con Adena.
+8600,Identificatore mini-partita non corretto
+8601,Nessuna ricompensa rimanente
+8602,Non nel mondo mini-partita
+8603,Impossibile accedere alla mini-partita
+1027,Nessuna Quest del Clan rimanente.
+1430,"Un membro del gruppo è sotto l’influenza di una penalità di abbandono.
+Non puoi accedere."
+1431,"Hai recentemente abbandonato una Spaccatura temporale troppo presto.
+Non puoi accedere per un certo periodo di tempo."
+2211,Questo mantello è già stato ottenuto.
+2212,Tipo di mantello non corretto.
+2213,Mantello non trovato.
+2214,Mantello necessario per attivazione mantello non in possesso.
+2215,Livello del mantello troppo basso per attivazione mantello.
+2216,Informazioni Mantello del Mazzo Battaglia non corrette.
+2217,Informazioni Mantello del Mazzo Battaglia non trovate.
+2218,Il Mantello è al massimo livello.
+2219,Mantello non attivato.
+2220,Informazioni colore mantello non corrette.
+2221,Informazioni tipo mantello non corrette.
+2222,Informazioni sottostatistiche bloccate mantello non corrette.
+2223,Solo i leader del Clan possono decidere di aumentare il livello o cambiare il colore dei Mantelli del Clan.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
+122,Parole proibite incluse.
+123,@PartyInvalidNameSpace
+7103,Livello di utilizzo dell’oggetto al massimo.
+1432,Impossibile ricaricare se il conteggio ricompense è al massimo.
+1433,Hai usato tutte le ricariche ricompense disponibili.
+-1,Massimo numero di reset raggiunto sulla Tavola del Tesoro. Non puoi resettare.
+6201,Devi aprire almeno 20 celle per resettare la prossima Tavola del Tesoro.
+6202,Totale tesori aperti insufficiente.
+1333,Rango Lega troppo basso per questo acquisto.
+1434,Non puoi accedere perché la Spaccatura è chiusa.
+2201,Impossibile trovare questo evento.
+2202,Presto disponibile.
+2203,L’evento è terminato.
+2204,Tutte le estrazioni ricompense sono state usate.
+2205,Biglietti insufficienti.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Duplicato Nome personaggio
+7300,Limitazioni personaggio
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Gli oggetti a tempo limitato non possono essere usati.
+1350,Richiesta di unirsi all’Assedio aperto già effettuata.
+1351,Un giocatore sta già aspettando di entrare nell’Assedio aperto.
+1352,Impossibile trovare un giocatore.
+1353,Nel tuo gruppo c’è già un giocatore.
+1354,Impossibile trovare questo gruppo Assedio aperto.
+1355,Numero massimo di membri del gruppo raggiunto.
+1356,Il giocatore fa parte di un gruppo Assedio aperto.
+1357,Nessun gruppo affiliato.
+1358,Non è il leader del gruppo.
+1359,Non puoi cacciare te stesso.
+1360,Impossibile trovare questo giocatore.
+1361,Il leader del gruppo non può eseguire quest’azione.
+1362,Durante la preparazione non è possibile eseguire quest’azione.
+1363,Impossibile al momento.
+1364,Seleziona una classe per ultimare le preparazioni.
+1365,Un membro del gruppo non è pronto.
+1366,Pronti!
+1367,Non ancora pronti.
+1368,Impossibile eseguire quest’azione.
+1369,Storico Partecipazione precedente identificato.
+1370,In preparazione per entrare nella Segreta.
+1371,Un giocatore si sta preparando ad entrare nella Segreta.
+1372,Impossibile completare quest’azione se un giocatore sta richiedendo l’accesso ad un Assedio aperto.
+1373,Un giocatore sta al momento partecipando a un Assedio aperto.
+1374,Non puoi accedere all’Assedio aperto da questo luogo.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,I membri del Clan che partecipano ad un Assedio della Fortezza (o Assedio del Castello) devono accedere per attivare la modalità spettatore.
+1442,Questo oggetto non è più in vendita.
+7700,Non hai abbastanza Token della Padronanza.
+1191,현재 관전 인원수가 최대 입니다.
+2008,Hai già raggiunto l’ultima sezione. Controlla l’evento di nuovo.
+1339,Acquisto possibile solo dopo la conquista di una Fortezza di Grado adeguato.
+2009,Hai raggiunto il numero massimo di partite al Gioco dei Dadi.
+-1,Prova
+7550,Non puoi ottenere l’oggetto perché il tempo è scaduto.
+1120,Impossibile rinunciare.
+2250,PC attuali inferiori al minimo consigliato per la regione selezionata. Non puoi partecipare.
+2251,Il giocatore non è in cerca di compatibilità.
+2252,Non c'è nessuna informazione sulla Pietra di Evocazione Mostro.
+2253,Al momento non in una segreta.
+2254,Il leader del gruppo è uscito. Uscita dalla segreta in corso.
+2255,Quest’azione non può essere completata se ti trovi in una Segreta Mostro.

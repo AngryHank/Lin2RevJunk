@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Angriff,"Alle, zum Aaaangriff!",Angriff!,Angriff!,Greifen wir an!
+2,Sieg,Ich kenne nur den Sieg!,Für den Sieg!,Ich kenne nur den Sieg!,Für den Sieg!
+3,Zur Begrüßung winken,Hallo.,Hallo.,"Schön, dass wir uns kennenlernen!",Hallo auch!
+4,Lachen,Hahahahaha!,Hahaha!,Ahahahahaha!,Puahahahaha!
+5,Traurig,*Schluchz* ...,*Schnüff*!,*Schnüff* ...,Buaaaah!
+6,High-five,High-five!,High-five!,High-five!,High-five!
+7,Klatschen,Das ist toll!,Das ist super!,Ganz schön cool.,Wow! Fantastisch!
+8,Erschrocken,Ich glaub das nicht ...,Wie kann das sein ...?,Was in aller Welt ...,Du meine Güte ...
+9,Ärger,Ich werd sauer!,Hmpf!,Uowaaaaaah!,Arrrrgh! Ich bin wütend!
+1001,Monster beschwören,,,,
+1002,Gehe zum Dorf,,,,
+10001,Arenasieg - Mensch,,,,
+10002,Arenaniederlage - Mensch,,,,
+10003,Arenasieg - Elf,,,,
+10004,Arenaniederlage - Elf,,,,
+10005,Arenasieg - Dunkelelf,,,,
+10006,Arenaniederlage - Dunkelelf,,,,
+10007,Arenasieg - Zwerg,,,,
+10008,Arenaniederlage - Zwerg,,,,
+100001,Berührungsaktion Nr. 1,,,,
+100002,Berührungsaktion Nr. 2,,,,
+100003,Berührungsaktion Nr. 3,,,,
+100004,Berührungsaktion Nr. 4,,,,

@@ -1,0 +1,412 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Elfenruinen 1,,,"Akademie, an der Elfen den Menschen Magie lehrten. Menschen errichteten hier ihre Herrschaft über den Kontinent."
+201,Elfenruinen 2,,,"Als Elfen über den Kontinent herrschten, war diese Etage nur Menschen mit seltenem Talent zugänglich. Die magische Energie hier ist stärker als in der ersten Etage."
+202,Ameisennest 1,,,"Eine Höhle voller riesiger Ameisen, die sich angepasst und in der durch die gigantische Explosion Schwarzer Magie entstandenen Einöde überlebt haben."
+203,Ameisennest 2,,,"Die Ameisen schufen hier ein noch komplizierteres Labyrinth, um ihre wertvollen Waren zu schützen. Nur Ameisen finden sich hier zurecht."
+204,Cruma-Turm 2,,,"Eine Forschungseinrichtung, die von den alten Riesen für biologische Experimente genutzt wurde, um eine neue Lebensform zu erschaffen. Zum Schutz des Labors eingesetzt."
+205,Cruma-Turm 3,,,"Dem eigentlichen Zweck des Turms treu bleibend, gibt es in dieser Etage viele biologische Forschungslabore. Sie ist angefüllt mit der magischen Energie der Riesen."
+206,Elfenbeinturm 1,,,"Die Entstehung ist dem Meteorit Nebulite zu verdanken. Ursprünglich eine Bibliothek, die wegen den Wütenden Zauberern geschlossen wurde."
+207,Elfenbeinturm 2,,,"Ein altes Alchemielabor, überwuchert mit harten, felsenartigen Pilzen, die aus dem Boden wachsen."
+208,Elfenbeinturm 3,,,"Position des Meteoriten Nebulite. Monster, die durch den Effekt von Nebulite gestärkt sind, treiben hier ihr Unwesen."
+209,Elfenbeinturm-Labor,,,"Das ist sowohl das Labor des Nebulite-verrückten Elfenbeimturmzauberers als auch der Ort, an den er verbannt wurde. Hier treiben sich viele Subjekte herum."
+210,Krone des Geheimniswaldes,,,"Einst lebten hier die Feen. Nachdem die Feen wegen der Gefahren der Schlachten fortzogen, nahmen Monster diese Gegend in Beschlag."
+211,Unterholz des Geheimniswaldes,,,"Der Geheimniswald ist so überwachsen, dass kein Sonnenlicht mehr hineinfällt, und die Monster entweihten ihn."
+212,Ort des Massakers im Geheimniswald,,,"Die letzte Ruhestätte der Feen, die der Feenjagd Widerstand leisteten. Ein dunkler, blutroter Nebelschleier ist allgegenwärtig."
+4000,Schillernde-Schuppe-Garten (Platzhalter),,,
+9000,ERF-Dungeon I,Verbesserungsstein,"Wird verwendet, um 1 Verbesserungsstein-Ziehung zu erhalten.","Viele mächtige Böse Beschwörungssteine von der Dunklen Bruderschaft wurden angebracht, die entdeckt werden müssen. Betritt die Außenwelt und besiege die Monster, um sie loszuwerden."
+9001,ERF-Dungeon II,@9000,"Wird verwendet, um 2 Verbesserungsstein-Ziehungen zu erhalten.",@9000
+9002,ERF-Dungeon III,@9000,"Wird verwendet, um 3 Verbesserungsstein-Ziehungen zu erhalten.",@9000
+9003,ERF-Dungeon IV,@9000,"Wird verwendet, um 5 Verbesserungsstein-Ziehungen zu erhalten.",@9000
+9100,ERF-Dungeon V,@9000,@9003,@9000
+9004,Adena-Dungeon I,@9000,@9000,"Shunaiman, der Kaiser von Elmoreden, nutzte diesen Ort zur Goldlagerung. Das Gebäude geriet nach seinem Tod in Vergessenheit und wird jetzt vom Golddrachen Kresous bewohnt."
+9005,Adena-Dungeon II,@9000,@9001,@9004
+9006,Adena-Dungeon III,@9000,@9002,@9004
+9009,Tempelwächter I,@9000,@9000,"Der Elfentempel beherbergt den von Eva gesegneten Wasserkristall. Hardin befahl den Silberlicht-Söldnern, den Wasserkristall vor der Dunklen Bruderschaft zu schützen."
+9010,Tempelwächter II,@9000,@9001,@9009
+9011,Tempelwächter III,@9000,@9002,@9009
+9012,Tempelwächter IV,@9000,@9003,@9009
+9300,Tempelwächter V,@9000,@9003,@9009
+9013,Beschwörungskreis I,@9000,@9000,"Beschütze Feldheim, während er die Magie auf dem versiegelten Heiligen Artefakt entfernt, und erledige den Dungeon, um den Beschwörungsstein zu erhalten."
+9014,Beschwörungskreis II,@9000,@9001,@9013
+9015,Beschwörungskreis III,@9000,@9002,@9013
+9016,Beschwörungskreis IV,@9000,@9003,@9013
+9017,Veredelungsstein-Dungeon I,@9000,@9000,"Zerstöre das Dimensionstor, das Monster beschwört, um Belohnungen zu erhalten."
+9018,Veredelungsstein-Dungeon II,@9000,@9001,@9017
+9019,Veredelungsstein-Dungeon III,@9000,@9002,@9017
+9020,Veredelungsstein-Dungeon IV,@9000,@9003,@9017
+11100,Uralte Zuflucht I,Verbesserungsstein-Auswahlkiste,"Wird verwendet, um 1 Verbesserungsstein-Auswahlkiste zu erhalten.",
+11101,Uralte Zuflucht II,@11100,"Wird verwendet, um 2 Verbesserungsstein-Auswahlkisten zu erhalten.",
+11102,Uralte Zuflucht III,@11100,"Wird verwendet, um 3 Verbesserungsstein-Auswahlkisten zu erhalten.",
+11103,Uralte Zuflucht IV,@11100,"Wird verwendet, um 4 Verbesserungsstein-Auswahlkisten zu erhalten.",
+11104,Uralte Zuflucht V,Leuchtende Verbesserungsstein-Auswahlkiste,"Wird verwendet, um 1 Leuchtende Verbesserungsstein-Auswahlkiste zu erhalten.",
+11200,Aufspürerzuflucht I,Schriftrolle: Waffenaufwertung,"Wird verwendet, um 1 Schriftrolle: Waffe zu erhalten",
+11201,Aufspürerzuflucht II,@11200,"Wird verwendet, um 2 Schriftrollen: Waffe zu erhalten.",
+11202,Aufspürerzuflucht III,@11200,"Wird verwendet, um 3 Schriftrollen: Waffe zu erhalten.",
+11203,Aufspürerzuflucht IV,@11200,"Wird verwendet, um 4 Schriftrollen: Waffe zu erhalten.",
+11204,Aufspürerzuflucht V,Waffen- & Reitbegleiterausrüstungs-Aufwertungsrolle,"Wird verwendet, um 5 Waffen-Aufwertungsrollen und
+1 Reitbegleiterausrüstungs-Aufwertungsrolle zu erhalten.",
+11300,Kriegerzuflucht I,Waffen-Verbesserungsstein,"Wird verwendet, um 1 Waffen-Verbesserungsstein zu erhalten.",
+11301,Kriegerzuflucht II,@11300,"Wird verwendet, um 2 Waffen-Verbesserungssteine zu erhalten.",
+11302,Kriegerzuflucht III,@11300,"Wird verwendet, um 3 Waffen-Verbesserungssteine zu erhalten.",
+11303,Kriegerzuflucht IV,@11300,"Wird verwendet, um 4 Waffen-Verbesserungssteine zu erhalten.",
+11304,Kriegerzuflucht V,Leuchtender Waffen-Verbesserungsstein,"Wird verwendet, um 1 Leuchtenden Waffen-Verbesserungsstein zu erhalten.",
+11400,Bestienzuflucht I,Schriftrolle: Rüstungsaufwertung,"Wird verwendet, um 1 Schriftrolle: Rüstung zu erhalten.",
+11401,Bestienzuflucht II,@11400,"Wird verwendet, um 2 Schriftrollen: Rüstung zu erhalten.",
+11402,Bestienzuflucht III,@11400,"Wird verwendet, um 3 Schriftrollen: Rüstung zu erhalten.",
+11403,Bestienzuflucht IV,@11400,"Wird verwendet, um 4 Schriftrollen: Rüstung zu erhalten.",
+11404,Bestienzuflucht V,Rüstungs- & Reitbegleiterausrüstungs-Aufwertungsrolle,"Wird verwendet, um 5 Rüstungs-Aufwertungsrollen und
+1 Reitbegleiterausrüstungs-Aufwertungsrolle zu erhalten.",
+11500,Monsterzuflucht I,Rüstung-Verbesserungsstein,"Wird verwendet, um 1 Rüstung-Verbesserungsstein zu erhalten.",
+11501,Monsterzuflucht II,@11500,"Wird verwendet, um 2 Rüstung-Verbesserungssteine zu erhalten.",
+11502,Monsterzuflucht III,@11500,"Wird verwendet, um 3 Rüstung-Verbesserungssteine zu erhalten.",
+11503,Monsterzuflucht IV,@11500,"Wird verwendet, um 4 Rüstung-Verbesserungssteine zu erhalten.",
+11504,Monsterzuflucht V,Leuchtender Rüstung-Verbesserungsstein,"Wird verwendet, um 1 Leuchtenden Rüstung-Verbesserungsstein zu erhalten.",
+11600,Feindeszuflucht I,Schriftrolle: Accessoireaufwertung,"Wird verwendet, um 1 Schriftrolle: Accessoire zu erhalten.",
+11601,Feindeszuflucht II,@11600,"Wird verwendet, um 2 Schriftrollen: Accessoire zu erhalten.",
+11602,Feindeszuflucht III,@11600,"Wird verwendet, um 3 Schriftrollen: Accessoire zu erhalten.",
+11603,Feindeszuflucht IV,@11600,"Wird verwendet, um 4 Schriftrollen: Accessoire zu erhalten.",
+11604,Feindeszuflucht V,Accessoire- & Reitbegleiterausrüstungs-Aufwertungsrolle,"Wird verwendet, um 5 Accessoire-Aufwertungsrollen und
+1 Reitbegleiterausrüstungs-Aufwertungsrolle zu erhalten.",
+11700,Erinnerungszuflucht I,Accessoire-Verbesserungsstein,"Wird verwendet, um 1 Accessoire-Verbesserungsstein zu erhalten.",
+11701,Erinnerungszuflucht II,@11700,"Wird verwendet, um 2 Accessoire-Verbesserungssteine zu erhalten.",
+11702,Erinnerungszuflucht III,@11700,"Wird verwendet, um 3 Accessoire-Verbesserungssteine zu erhalten.",
+11703,Erinnerungszuflucht IV,@11700,"Wird verwendet, um 4 Accessoire-Verbesserungssteine zu erhalten.",
+11704,Erinnerungszuflucht V,Leuchtender Accessoire-Verbesserungsstein,"Wird verwendet, um 1 Leuchtenden Accessoire-Verbesserungsstein zu erhalten.",
+12001,Turm der Anmaßung Etage {IntParam},@9000,,
+12002,@12001,Aufwertungsrolle,,
+12003,@12001,Blutzeugnis,,
+12004,@12001,Seelenkristall,,
+12005,@12001,Adena,,
+12006,@12001,Ausrüstungsziehungsticket,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Ruinen der Kleinriesen,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Entnahme-Dungeon,@12003,,"Eine geheime Mine, die sich unter dem Elfenbeinturm befindet und den Meteoriten Nebulite beherbergt. Viele Kräuter mit mysteriösen Kräften wachsen hier."
+60001,Offizielles Tutorial,ERF,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Varkarons Spur,@12003,,"Varkarons scharfe Klingen
+verursachen starke Blutungen."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Höhle der Ameisenkönigin,@12003,,"Die Ameisenkönigin, tief in ihrer
+dunklen Höhle, ist eine Meisterin der Gifte."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Raum des Cruma-Kerns,@12003,,"Der Cruma-Kern ist das Herz des Cruma-Turms.
+Er wacht über das versiegelte Wissen der Kleinriesen."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Göttliches Geschenk,,,
+70004,@70003,,,
+100001,Altar des Wahnsinns,,,"Die Zauberer des <GreenBold>Elfenbeinturms</>
+bemühen sich, einen Teil der gestohlenen Scherben zu finden.
+
+
+Während ihrer Untersuchung
+entdecken sie, dass <BlueBold>Leanis</>, eine der Zauberinnen 
+aus dem <GreenBold>Elfenbeinturm</>, verschwunden ist.
+Auf der Suche nach ihren Spuren
+kommen sie in ein Dorf, in dem die <RedBold>Timak-Ork-Schamanen</> leben.
+
+Die Zauberer schlussfolgern, dass <BlueBold>Laenis</>
+von den <RedBold>Orks</> 
+entführt wurde, und gehen ins Dorf, um sie zu retten.
+Sie sind jedoch gezwungen, sich zurückzuziehen, nachdem sie 
+von einer Stärke überwältigt werden, die sie bei den <RedBold>Orks</> 
+noch nie gesehen haben.
+Die Zauberer des <GreenBold>Elfenbeinturms</> verdoppeln ihre Bemühungen
+
+bei der Untersuchung der <RedBold>Orks</>, und haben
+
+die <BlueBold>Silberlicht-Söldner</> als Hilfe bei der Rettung von <BlueBold>Laenis</> 
+rekrutiert."
+100002,@100001,,,@100001
+100101,Schlafzimmer der Blutgräfin,,,"Die <RedBold>Gräfin Trisha</>, einst sehr geliebt vom Fürsten von Giran,
+verschwand plötzlich, was den Adel von Giran 
+in Aufruhr versetzte.
+Sie wussten, dass, wenn diese Information an das feindliche Land
+von Oren gelangen würde, sie in einer politisch ungünstigen 
+Lage wären.
+In diesem Wissen setzte der Fürst von Giran heimlich 
+
+<BlueBold>Hauptmann Tark</> ein, um einen Suchtrupp zu leiten, 
+der sie finden sollte.
+
+Als er hörte, dass <RedBold>Gräfin Trisha</> zuletzt mit
+ihrem <RedBold>Wächter-Ritter</> am <GreenBold>Giran-Hafen</> gesehen wurde, 
+
+verkleideten sich<BlueBold>Hauptmann Tark</> und
+sein Suchtrupp als Blut-Ranger
+von der Teufelsinsel und begannen, heimlich die <GreenBold>Teufelsinsel</> 
+zu durchsuchen.
+Als sie sich jedoch diversen gefährlichen Situationen 
+
+ausgesetzt sahen, war <BlueBold>Hauptmann Tark</> gezwungen, die <BlueBold>Silberlicht-Söldner</>
+um Hilfe zu bitten."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

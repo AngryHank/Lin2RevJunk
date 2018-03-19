@@ -1,0 +1,29 @@
+Id,Value
+1,"[Param1], klana katıldı."
+2,"[Param1], klandan ayrıldı."
+3,[Param1]'ın rütbesi [Param2]{[Param2]|} oldu.
+4,"[Param1], yeni Klan Lideri olarak atandı."
+5,"Klan, [Param1]{[Param1]}. seviyeye ulaştı."
+6,[Param1] ile ittifak kuruldu.
+7,[Param1] ile ittifak sona erdi.
+8,"[Param2], [Param1] tarafından ödüllendirildi."
+9,"[Param1], tüm klan üyelerini ödüllendirdi."
+10,[Param1] fethi başarılıyla sonuçlandı.
+11,[Param1] teklifini yenile.
+12,[Param1] için teklif verme süresi uzatıldı.
+13,[Param1] Kuşatma Merkezi saldırı altında.
+14,[Param1] Kuşatma Merkezi yok edildi.
+15,Kale Kuşatması başlayınca Festival Biletleri sıfırlanacak. Belge için başvurmada gecikme.
+16,[Time] [Param1] giriş yaptı.
+17,"Önceki Klan Lideri uzun süre oyuna girmediğinden, [Param1] Klan Lideri olarak atandı."
+18,Bir sonraki güçlendirme [Param1] sn sonra belirecek
+19,"[Param1], [Param2] isimli oyuncuyu yendi."
+20,"[Param1]{[Param1]}, Mavi Takım tarafından ele geçirdi."
+21,"[Param1]{[Param1]}, Kırmızı Takım tarafından ele geçirdi."
+22,"[Param1], [Param2] ardışık öldürme başarımını kazandı!"
+23,"[Param2] klanından [Param1], [Param3] ardışık öldürme başarımını kazandı!"
+24,Şerefli Savaş Alanı açıldı. Savaşa katıl!
+25,Şerefli Savaş Alanı [Param1] dakika içinde başlayacak. Savaşa hazırlan!
+26,Yiğitlik Meydanı açıldı. Savaşa katıl!
+27,Yiğitlik Meydanı [Param1] dakika içinde başlayacak. Savaşa hazırlan!
+28,"[Param1], [Param2] dahil olmak üzere [Param3] oyuncuyu ödüllendirdi."

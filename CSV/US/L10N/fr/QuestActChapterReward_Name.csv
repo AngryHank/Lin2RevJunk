@@ -1,0 +1,136 @@
+Id,ActName,ChapterName
+1,1. Île du discours de l'Est,Un héros est né
+2,@1,Le mal émergent
+3,@1,La 1re barrière
+4,@1,Ami de Niah
+5,@1,Rassemblement de chasseurs orcs !
+6,@1,Initiation
+7,@1,Chance du débutant
+8,@1,Couronne elfique
+9,@1,Incident insolite
+10,@1,La 2e barrière
+11,@1,Niah disparue
+12,2. Île du discours de l'Ouest,Traces des archéologues
+13,@12,Recherche en cours
+14,@12,Sans pitié
+15,@12,Chasse à l'homme
+16,@12,La 3e barrière
+17,@12,Détermination
+18,@12,Cet individu
+19,3. Grand chemin de Gludin,Urgence !
+20,@19,Plan de contre-attaque !
+21,@19,L'incident suspect
+22,@19,Preuve découverte
+23,@19,Dame esseulée
+24,@19,Tragédie
+25,@19,Exterminez le ravisseur !
+26,@19,Visages plaisants
+27,@19,Avidité
+28,@19,Carotte et bâton
+29,4. Plaines de Gludio,Profits temporaires
+30,@29,Ville pillée
+31,@29,Évasion !
+32,@29,2e peloton en danger
+33,@29,Division
+34,@29,Choses familières
+35,@29,Évidemment !
+36,@29,Fin anticipée
+37,@29,Pas le temps !
+38,@29,"Héros de 
+Gludio"
+39,5. Manoir de Windawood,Soldats manquants
+40,@39,Plan de sauvetage
+41,@39,Réunion
+42,@39,Combat décisif
+43,@39,Combat pour le cristal
+44,@39,Homme mystérieux
+45,@39,"Démon
+antique"
+46,@39,Revanche Windawood
+47,@39,L'heure de la contre-attaque a sonné
+48,@39,Bataille finale
+49,6. Terres désolées,Sorcier de la Tour d'ivoire
+50,@49,Pauvre sorcier
+51,@49,Révélation
+52,@49,Staris
+53,@49,En mémoire des morts
+54,@49,Colporteurs insolites
+55,@49,Mi-chemin
+56,@49,Conflit Ol Mahum
+57,@49,Rébellion dominée
+58,@49,Conditions privées
+59,7. Plaines de Dion,Embuscade orc
+60,@59,Lettre suspecte
+61,@59,Invasion reptilienne
+62,@59,Fille amnésique
+63,@59,Vers un lieu sûr
+64,@59,Trouver Elie
+65,@59,Raison de la confusion
+66,@59,Combat des soldats de Dion
+67,@59,Cible de la Sombre confrérie
+68,8. Marais de Cruma,Prolifération des araignées
+69,@68,Visage plaisant
+70,@68,Sombre confrérie du marais
+71,@68,Couteau dans le dos
+72,@68,Chercheurs attaqués
+73,@68,À la recherche de la clé
+74,@68,Vers Tour de Cruma
+75,@68,Piège
+76,@68,Chat suspect
+77,9. Sommet de la dissonance,Chasseur forestier
+78,@77,Hôte indésirable
+79,@77,Vers le chef tanor
+80,@77,@78
+81,@77,Tanor honorable
+82,@77,Plan ingénieux
+83,@77,Ennemi public
+84,@77,Pouvoir de facto
+85,10. Terres de clameur,Au nom des défunts
+86,@85,Défi infini
+87,@85,Visage familier
+88,@85,Objet imprévu
+89,@85,Mort rapide
+90,@85,Piège sans cœur
+91,@85,Contrat
+92,@85,Nouveau sommeil
+93,@85,Les affaires continuent
+94,11. Domaine de Giran,Les affaires commencent par une vente
+95,@94,Récompense du chat
+96,@94,Trouver le frère I
+97,@94,Trouver le frère II
+98,@94,Reine gorgone
+99,@94,Boîte de Pandore
+100,@94,Passé scellé
+101,@94,Dissimulation
+102,@94,Délégation disparue
+103,@94,Sauvetage de la délégation
+104,12. Rivages de brume mortelle,Vengeance de Pan
+105,@104,Unité de transport disparue
+106,@104,Révélation
+107,@104,Fugue réaliste
+108,@104,Réorganisation
+109,@104,Livraison d'objet
+110,@104,Trace de Gnosis
+111,@104,Sommeil éternel
+112,@104,La recherche continue
+113,@104,Port sombre
+114,@104,Équipage pirate ressuscité
+115,13. Île du diable,Localisation du groupe d'exploration
+116,@115,Attitude étrange
+117,@115,Un endroit où revenir
+118,@115,Tragédie I
+119,@115,Passé de l'équipage pirate
+120,@115,Rage de Frederick I
+121,@115,Tragédie II
+122,@115,Rage de Frederick II
+123,@115,Tristes nouvelles
+124,14. Nécropole hantée,Sauvetage de la délégation d'Oren
+125,@124,Ne pas mourir !
+126,@124,Arbre protecteur
+127,@124,Fantôme du passé
+128,@124,Souvenirs oubliés
+129,@124,Message du futur
+130,@124,Pan est Pan
+131,@124,Contrôleurs
+132,@124,Épée spirituelle
+133,@124,Éveil d'un espoir

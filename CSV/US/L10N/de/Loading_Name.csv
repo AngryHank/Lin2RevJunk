@@ -1,0 +1,69 @@
+Id,GipText
+1,Es gibt insgesamt <FontBlue>6 Ausrüstungsstufen</>.
+2,Du kannst <FontBlue>3 Mal täglich 1 normale Ausrüstungsbeschwörungskiste kostenfrei</> öffnen.
+3,"Tippe auf die <FontBlue>Auto-Quest-Funktion</>, um Monster <FontBlue>automatisch zu jagen</>."
+4,"Tippe auf die Weltkarte, um dich zu deinem <FontBlue>gewünschten Zielort</> zu <FontBlue>bewegen</>."
+5,"Tippe einen <FontBlue>NPC oder ein Monster</> auf der Weltkarte an, um dich zu dem gewünschten Ort zu bewegen."
+6,"Du kannst die <FontBlue>Häufigkeit der Tranknutzung</> im Reiter <FontBlue>""Kampf"" in den Einstellungen</> anpassen."
+7,Du kannst anhand der <FontBlue>Waffe</> deine <FontBlue>Fertigkeiten nach deinen Wünschen anpassen</>.
+8,"Die Anzahl der <FontBlue>Fertigkeitsslots</> erhöht sich auf <FontBlue>maximal 5</>, wenn du eine <FontBlue>seltene Fertigkeit</> lernst."
+9,"Wenn du Ausrüstung <FontBlue>kombinierst</>, werden alle <FontBlue>Typen und Klassen</> <FontBlue>übertragen</>."
+10,"Die <FontBlue>Klassentransfer</>-Quest ist verfügbar, sobald du <FontBlue>Level 31</> erreichst."
+11,<FontBlue>Erhöhe deine Werte drastisch</> durch <FontBlue>Runenprägung</>.
+12,Du kannst <FontBlue>Runen</> entsprechend der <FontBlue>Reihenfolge der Runenseiten prägen</>.
+13,"Wenn <FontBlue>nahegelegene Runen</> auf <FontBlue>dasselbe Level</> hochgestuft werden, kannst du das <FontBlue>Level der Basis-Rune</> erhöhen."
+14,Du kannst je nach dem <FontBlue>Gesamtlevel deiner Charaktere</> Bonuswerte erhalten.
+15,<FontBlue>Seelenkristalle</> können nur in <FontBlue>Slots derselben Farbe</> ausgerüstet werden.
+16,Die Anzahl der <FontBlue>Slots</> kann je nach <FontBlue>Gegenstandsstufe</> erhöht werden.
+17,"Nutze den <FontBlue>Monsterkodex</>, um verschiedene <FontBlue>Charakter-Fertigkeitslevel</> zu erhöhen."
+18,Du kannst <FontBlue>täglich kostenlos</> <FontBlue>1 Tagesdungeon</> betreten.
+19,"Erhöhe deine <FontBlue>Ehrenstufe</> in der <FontBlue>Arena</>, um <FontBlue>weitere Werte</> zu erhalten."
+20,Erhalte <FontBlue>Tägliche Ehrenpunkte</> und <FontBlue>Rangbelohnungen</> in der <FontBlue>Arena</>.
+21,"Fange einen <FontBlue>Robusten Honigdachs</>, der in der <FontBlue>Entnahmegrube</> auftaucht, um <FontBlue>gesegnet</> zu werden und deine <FontBlue>Entnahmegeschwindigkeit zu erhöhen</>."
+22,"Fange im Entnahme-Dungeon einen <FontBlue>Mandragora</>, um <FontBlue>Elixieressenzen</> zu erhalten."
+23,"<FontBlue>Verwende</> aus Kräutern und Essenzen hergestellte <FontBlue>Elixiere</>, um deine <FontBlue>Werte dauerhaft zu erhöhen</>."
+24,"<FontBlue>Klettere höher</> in den Turm der Anmaßung hinauf, um mehr <FontBlue>Runenfragmente</> zu erhalten!"
+25,Erhalte auf jeder <FontBlue>5. Etage</> im <FontBlue>Turm der Anmaßung</> eine <FontBlue>besondere Belohnung</>.
+26,Du kannst den Turm der Anmaßung <FontBlue>3 Mal täglich kostenlos</> <FontBlue>betreten</>.
+27,Während einer Elite-Dungeon-<FontBlue>Bonuszeit</> erhältst du <FontBlue>ERF und deine Gegenstandsfundrate ist erhöht</>.
+28,"Elite-Dungeons sind <FontBlue>Gebiete, in denen PK-Strafen gelten</>."
+29,"Erobere Festen in Festenbelagerungen, um die Belohnungen zu erhalten."
+31,"Jage Feldbosse, um besondere Belohnungen zu erhalten."
+35,"Nur <FontBlue>Klans, die mindestens Lv. 4 sind</>, können an <FontBlue>Festenbelagerungen</> teilnehmen."
+41,Du kannst <FontBlue>[Forgotten Scrolls]</> und <FontBlue>[High-grade Equipment]</> als Belohnungen für die <FontBlue>Feldboss-Jagden</> erhalten.
+42,"Klans, die <FontBlue>Festenbelagerungen gewinnen</>, erhalten <FontBlue>vorteilhafte Buffs, während sie in der Region jagen</>."
+44,@29
+45,@35
+51,"Eine <FontBlue>Gruppe muss gebildet werden</>, um <FontBlue>Tempelwächter</> zu betreten."
+52,"Schließe Tempelwächter <FontBlue>höheren Leveln</> ab, um <FontBlue>bessere Ausrüstung zu erhalten</>."
+53,<FontBlue>Beschütze das Heilige Artefakt</> vor ankommenden Gegnern.
+54,"<FontBlue>Greife den Drachen im Dungeon an</>, um <FontBlue>Adena zu erhalten</>."
+55,"Besiege die <FontBlue>Adena-Schatztruhe</>, um <FontBlue>zusätzliches Adena</> zu erhalten."
+56,"<FontBlue>Besiege mehr</> Monster, um <FontBlue>mehr Bonus-ERF</> zu erhalten."
+57,Buffs in Dungeons machen dich stärker.
+58,Du kannst <FontBlue>jede Klanhalle</> betreten - nicht nur deine eigene!
+59,"<FontBlue>Stärke den Kristall der Eintracht</>, um deinen Klanmitgliedern <FontBlue>verschiedene Buff-Effekte zu verleihen</>."
+60,Der <FontBlue>Chaoswert</> erhöht sich in der Geplänkel-Arena nicht.
+61,"Nimm an PK in der Geplänkel-Arena teil, indem du deine <FontBlue>Einstellungen für den PK-Modus</> anpasst."
+62,"Besiege einen Spieler mit dem Geplänkel-Arena-<FontBlue>Zufluchtsbuff</>, um den Buff zu stehlen."
+1003,"Tritt einem Klan bei und erobere Festen und Burgen, um besondere Vorteile zu erhalten!"
+1009,Erlebe <FontBlue>spannende Handlungen</> und <FontBlue>dynamische Quests</> in der <FontBlue>fesselnden Welt</> von Lineage 2: Revolution.
+1011,Bestreite <FontBlue>Echtzeit-Kämpfe</> in der riesigen <FontBlue>offenen Welt</> von Lineage 2: Revolution.
+1014,"In Gebieten, in denen PvP erlaubt ist, kannst du andere Spieler angreifen."
+1015,"Bilde eine <FontBlue>Gruppe</>, um es mit <FontBlue>mächtigen Gegnern</> aufzunehmen."
+1019,<FontBlue>Unglaubliche Dungeons</> erwarten dich.
+1023,"Tritt einem <FontBlue>Klan</> bei, um <FontBlue>viele Funktionen und Vorteile</> zu nutzen."
+1024,"Gehe <FontBlue>Allianzen</> mit anderen Klans ein, um deine Macht weiter zu vergrößern."
+1025,Erobere Burgen in <FontBlue>großen Burgbelagerungen</> und <FontBlue>vergrößere die Macht deines Klans</> noch weiter.
+1026,"Erobere Gebiet in <FontBlue>Festenbelagerungen</>, um großartige <FontBlue>Belohnungen</> und <FontBlue>Ehre</> zu erhalten."
+72,Kämpfe alleine oder in einer Gruppe in einer <FontBlue>Offenen Belagerung</>.
+73,In einer Offenen Belagerung kann <FontBlue>jeder Charakter und jede Klasse ausgewählt werden</> und alle Charaktere kämpfen mit <FontBlue>gleichen Werten</>.
+74,Erkunde mit deinem <FontBlue>Reitbegleiter</> <FontBlue>eine riesige offene Welt</>!
+75,Hole aus dem <FontBlue>Beschwörungskreis</> <FontBlue>Stärkungsmaterialien</> für deinen <FontBlue>Reitbegleiter</>!
+76,"Schütze deine Aufwertungsstufe mit dem <FontBlue>Aufwertungsschutzsystem</>!
+Hast du die Aufwertungsstufe +7/+10 /+20 erreicht, fällst du nicht mehr unter die jeweilige Stufe."
+77,Mit den <FontBlue>Kampfdeck-Einstellungen</> kannst du je nach Situation einfach zwischen Fertigkeiten und Ausrüstung <FontBlue>wechseln</>.
+78,Die <FontBlue>Attributaufwertung</> verleiht dir noch mehr <FontBlue>besondere Kräfte</>.
+79,Nutze das vielfältige Angebot an <FontBlue>Inhalten</> der <FontBlue>Klanhalle</>!
+80,"Wenn du Ausrüstungsteile <FontBlue>kombinierst</>, besteht die Chance, <FontBlue>seltene Ausrüstung</> zu erhalten."
+81,Eine <FontBlue>Hochstufige Ausrüstungskiste</> kann <FontBlue>seltene Ausrüstung</> enthalten.

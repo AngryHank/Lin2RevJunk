@@ -1,0 +1,251 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,Burgbelagerungsbelohnung
+GuildWarehouseRecordSiegeWarBidding,Burgbelagerungsgebot
+GuildWarehouseRecordFortressWarReward,Festenbelagerungs-Belohnung
+GuildWarehouseRecordFortressWarBidding,Festenbelagerungs-Bietvorgang
+GuildWarehouseRecordCommission,Steuern einsammeln
+GuildWarehouseRecordMarketBuy,Kauf im Laden
+SystemMailName,System
+SystemMessageKickOutFromGM,Der Server wird zurückgesetzt. Bitte starte das Spiel neu.
+SystemMessageLogOut,Das Spiel wird jetzt beendet.
+CastleSiegeFestivalCouponResetNotify,Belagerungsfest-Tickets werden zurückgesetzt.
+MailTitleCheat,Cheat
+MailTitleTutorialReward,Tutorial
+MailTitleGuideQuestReward,Reisebelohnung des Söldners
+MailTitleShopGachaItem,Ladenbeschwörungskisten-Gegenstand
+MailTitleDungeonReward,Dungeon-Belohnung
+MailTitlePvpHonorPointReward,Arena-Ehrenbelohnung
+MailTitlePvpFirstRankReward,Erste Arenarang-Erfolgsbelohnung
+MailTitlePvpRankingReward,Arenaranglisten-Belohnung
+MailTitleCastleSiegeBegin,Burgbelagerungsstart
+MailTitleCastleSiegeLoseReward,Burgbelagerungsniederlagen-Belohnung
+MailTitleCastleSiegeWinReward,Burgbelagerungssieg-Belohnung
+MailTitleFortressSiegeLoseReward,Festenbelagerungsniederlagen-Belohnung
+MailTitleFortressSiegeWinReward,Festenbelagerungssieg-Belohnung
+MailTitleFortressSiegeDrawReward,Festenbelagerungsunentschieden-Belohnung
+MailTitleAuctionHouseBuy,Kauf im Handelsposten
+MailTitleAuctionHouseSellFailed,Handelspostenverkauf abgelaufen
+MailTitleAuctionHouseSellingCancel,Handelspostenverkauf abgebrochen
+MailTitleConnectDailyReward,Tägliche Login-Belohnung
+MailTitleConnectWeeklyReward,Wöchentliche Login-Belohnung
+MailTitleConnectMonthlyReward,Monatliche Login-Belohnung
+MailTitleGuildAchievementReward,Klanerfolgsbelohnung
+MailTitleGuildMarketBuy,Kauf im Klanladen
+MailTitleGuildMarketGiftBuy,[Player] hat ein Geschenk gesendet.
+MailTitleGuildWarehouseGrant,Klan-Preis
+MailTitleAchievementReward,Erfolgsbelohnung
+MailTitlePeriodAchievementReward,Zeitlich begrenzte Erfolgsbelohnung
+MailTitleFriendGreet,Freund grüßen
+MailTitleBagIsFull,Inventar voll
+MailTitleDailyActivityReward,Tägliche Aktivitäten-Belohnung
+MailTitleInstantCompleteReward,Abholungs-Belohnungsgegenstand
+MailTitleMissionDailyReward,Tagesquestbelohnung
+MailTitleMissionWeeklyReward,Wochenquestbelohnung
+MailTitleShopReward,Belohnung aufladen/ausgeben
+MailTitleSupriseBox,Überraschungskiste öffnen
+MailTitleEvent,Event-Belohnung
+MailTitleEventDice,Würfelevent-Belohnung
+MailTitleEventDiceComplete,Würfelevent-Runden-Abschlussbelohnung
+MailTitleCastleSiegeFestivalWin,Siegerklan des Burgbelagerungsfestes korrekt vorhergesagt
+MailTitleCastleSiegeFestivalLose,Siegerklan des Burgbelagerungsfestes nicht korrekt vorhergesagt
+MailTitleItemEnchantFailReward,Aufwertungsfehlschlag-Belohnung
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,Als Tutorial-Belohnung hast du erhalten: [Item]!
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,Gegenstand aus Ladenbeschwörungskiste erhalten. (Inventarlimit erreicht)
+MailContentDungeonReward,Ein als Dungeon-Belohnung erhaltener Gegenstand.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,"Sieh dir die Gegenstände an, die du im Handelsposten gekauft hast."
+MailContentAuctionHouseSellFailed,Dieser Gegenstand wurde im Handelsposten nicht verkauft.
+MailContentAuctionHouseSellingCancel,Verkauf des Gegenstands im Handelsposten abgebrochen.
+MailContentConnectDailyReward,"[Item] Adena erhalten, für das Login"
+MailContentConnectWeeklyReward,[Item] für Tag [Day] erhalten.
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,Einen Preis vom Klan erhalten.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,[Count] Adena
+MailRewardDiamond,[Count] Diamant(en)
+MailRewardCrystal,Altmaterial
+MailRewardExp,[Count] ERF
+MailRewardQuestLimitTime,Questzeitlimit
+MailRewardFriendshipPoint,[Count] Freundschaftspunkte
+MailRewardStatus,[Count] Wert(e)
+MailRewardBloodCrystal,[Count] Blutkristall(e)
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,Belagerungsfest-Ticket
+GuildWarehouseRecordGuildAchievement,Klanerfolg
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,FP
+MailRewardTopaz,Topas
+MailRewardMileage,Treuepunkte
+MailRewardGuildCoin,Klanmünzen
+MailRewardAchievementPoint,Erfolgspunkte
+MailRewardPvpHonorPoint,Ehrenpunkte
+MailRewardRunePiece,Runenfragment
+MailRewardPvpTicket,Arenaticket
+MailTitleClassTransfer,Klassentransfer
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,Monsterkodex
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,"Hier ist deine Belohnung dafür, nicht an [GuildDungeonName] teilgenommen zu haben."
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,Hier ist deine Belohnung für deine Teilnahme an [GuildDungeonName].
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,Klanhilfe-Belohnung für [GuildDungeonName] wird gesendet.
+MailContentGuildDungeonHelpReward,Belohnung für das Erledigen mit [GuildDungeonName] gesendet.
+MailTitleLevelUpGift,Belohnung für Charakterstärkung
+MailContentLevelUpGift,Belohnung: [Item]
+MailTitleReservedNickName,"Hier ein keines Dankeschön-Geschenk dafür, dass du deinen Namen reserviert hast!"
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,Klanhalle-Klan-Questbelohnung
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,Accountverbindungs-Belohnung
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,Reliktbewertungsergebnisse
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,Registriertes Relikt wiederherstellen
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,Trank herstellen
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,Anglerkodex-Belohnung
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,Saison-Belohnung für das Ehrenhafte Schlachtfeld
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,Saison-Belohnung für das Courage-Schlachtfeld
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,Saison-Belohnung für das Uralte Schlachtfeld
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,Klanhallen-Quests
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,Trankmaterialien benutzen
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,Klanrelikt-Truhe
+EquipDungeonHp80,Dem Heiligen Artefakt verbleiben 80 % LP.
+EquipDungeonHp60,Dem Heiligen Artefakt verbleiben 60 % LP.
+EquipDungeonHp40,Dem Heiligen Artefakt verbleiben 40 % LP.
+EquipDungeonHp20,Dem Heiligen Artefakt verbleiben 20 % LP.
+EquipDungeonHp0,Das Heilige Artefakt wurde zerstört.
+VarBerk30,Varkaron wütet.
+QueenAntScout,Monster erscheinen und beschützen die Ameisenkönigin.
+QueenBigAnt,Großer Ameisenpfleger erscheint!
+BigAntGiveHeal,Großer Ameisenpfleger heilt die Ameisenkönigin.
+KICKOUT_FOR_INSPECT,Deine Verbindung wurde aufgrund von Server-Wartungsarbeiten unterbrochen.
+KICKOUT_FOR_ASSET_PATCH,"Zum Titelbildschirm wechseln, um neue Daten herunterzuladen."
+KICKOUT_PACKET_KEY_CHANGE,"Deine Verbindung wurde unterbrochen, weil du für längere Zeit inaktiv warst."
+KICKOUT_SPEED_CHECK,Deine Verbindung wurde unterbrochen.
+CannotAcquireItemAnymore,Mehr können nicht aufgenommen werden.
+GuildMasterAutoEntrust,[System] Es gibt keine aktiven Mitglieder in diesem Klan.
+MailTitlePurchaseLimitOverReward,[TargetItem] Doppelter Kauf
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"Dieser Klan hat die max. Anzahl täglicher Anfragen erhalten.
+Bitte versuche es nach 4:00 Uhr erneut."
+GuildJoinAcceptDailyJoinLimit,"Du hast die max. Anzahl täglicher Annahmen erreicht.
+Bitte versuche es nach 4:00 Uhr erneut."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,Der Cruma-Kern hat den Wächter beschworen.
+DiceEventMaxCount,Du hast die max. Anzahl für das Würfelevent erreicht.
+PET_EQUIPMENT_ERROR_MESSAGE,"Über die Schmiede hast du keinen Zugriff auf Reitbegleiterausrüstung.
+Bitte benutze das Reitbegleitermenü."
+MailTitleGuildCastleDailyReward,Tägliche Belohnung für eroberte Burg
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,Zahlung aus Handelspostenverkauf
+MailContentAuctionHouseSellCompleted,Das ist das Geld aus dem Handelspostenverkauf.
+ConfineMessage,"Spielzugang ist <FontRed>[Day]</> Tage lang eingeschränkt.
+Für mehr Details kannst du die Benachrichtigungen im Community-Forum ansehen oder den Kundensupport kontaktieren.
+(Nutzung verfügbar ab <FontRed>[ReuseDay].[ReuseMonth].[ReuseYear] [ReuseHour] Std. [ReuseMin] Min.</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,Check-in-Belohnung der Klanhalle
+EventDailyQuest,Tagesquest-Event
+EventDailyQuestReward,Tagesquest-Event-Belohnung
+EventDailyQuestProgressReward,Tagesquest-Eventfortschritts-Belohnung
+ESportsMasterDiedNotify,"<FontYellow>[PlayerName]</>, der <FontWhite>Klanführer von</> <FontYellow>[GuildName]</>, ist <FontWhite>gestorben.</>"
+ESportsMsgNotStartTime,"Du kannst nicht eintreten, da der Kampf noch nicht begonnen hat."
+ESportsMsgNoMoreMatch,Derzeit finden keine Kämpfe statt.
+ESportsMsgMatchInfo,[PlayerName] von [MyGuildName] auf [MyServerName] wird am [Date] einen Kampf mit [TargetGuildName] auf [TargetServerName] bestreiten.
+ESportsMatchEnded,Kampf in Raum [MatchId] wurde beendet.
+ESportsMsgKickoutMatchEnded,"Der Kampf ist beendet, daher kehrst du zum Titelbildschirm zurück."
+AuctionHouseDisabledMessage,"Handelsposten ist derzeit nicht verfügbar.
+Mehr Details im Community-Forum."
+DayOfWeekMon,Montag
+DayOfWeekTue,Dienstag
+DayOfWeekWed,Mittwoch
+DayOfWeekThu,Donnerstag
+DayOfWeekFri,Freitag
+DayOfWeekSat,Samstag
+DayOfWeekSun,Sonntag
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,Feldheims Schatzsuche - Anfangsbelohnung
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,Feldheims Schatzsuche - Gesamtbelohnung
+MailTitleShopGuildReward,[Name]-Geschenk von [Player]
+MailContentRecommandationServerReward,Belohnungs-Auswahlkiste: Empfohlener Server
+MailTitleRecommandationServerReward,Auswahlkiste: Empfohlener Server
+MailTitleGuildDonationReward,Klan-Spendenbelohnung
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,"Diese Beute wurde im Zeit-Rift ""[PartyDungeonName]"" entdeckt."
+MailTitleServerTransferDailyDiamond,Paketlieferung fehlender Gegenstände aus dem Täglichen Diamantenpaket
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,Erledigungsbelohnung für Zeit-Rift
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,Eroberungsbelohnung für [NpcName]
+MailContentBossReward,Nicht genug Inventarplatz nach dem Sieg über [NpcName]. Belohnung an Briefkasten gesendet.
+MailTitleFreeFortressResultWinReward,Siegbelohnung für die Offene Belagerung
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,Unentschieden-Belohnung für die Offene Belagerung
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,Niederlagenbelohnung für die Offene Belagerung
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,Bei Offener Belagerung erhaltene Punkte
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,Belohnung: Erhöhte Meisterschaft
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,"Meisterschafts-
+token"
+MailTitleFotressDailyReward,Festenbelagerung-Eroberungsbelohnung
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,Neros Würfelspiel
+MaileContentNerodiceEvent,"Glückwunsch! Du hast Neros Würfelspiel gewonnen, hier ist dein Preis."
+MailTitleFortressSiegeSpotReward,Belohnung für Offene Belagerung
+MailContentFortressSiegeSpotReward,Dies ist eine Ort-Eroberungsbelohnung einer Offenen Belagerung.
+MaileTitleNerodiceEventFail,Trostpreis für Neros Würfelspiel
+MaileContentNerodiceEventFail,"Leider hast du Neros Würfelspiel verloren, hier ist dein Trostpreis."
+MailTitleAppstoreReward,Gründerkiste
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Besondere Geschenkkiste
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,"Deine Verbindung wurde unterbrochen, weil du inaktiv warst, während du an einer Offenen Belagerung teilgenommen hast."
+SuspendAccount,"Ihr Zugang wurde in Übereinstimmung mit den Nutzungsbedingungen gesperrt. (Gesetzeswidrige Transaktionen, usw.)
+Wenn Sie Hilfe benötigen, wenden Sie sich bitte an unser Kundenzentrum.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,Der Kampf zwischen [PlayerName] von [MyGuildName] auf [MyServerName] gegen [TargetGuildName] auf [TargetServerName] ist derzeit auf dem Wettbewerbsserver im Gange.
+MailTitleFacebookReward,Facebook-Erfolgsbelohnung
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,Kaufbonus-Ebene-[CumulativeRewardCount]-Belohnung
+MailContentCumulativePurchaseReward,@MailContentCheat

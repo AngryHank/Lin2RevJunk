@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Carga,Ataquem!,Atacar!,Atacar!,Vamos atacar!
+2,Vitória,Eu só conheço a vitória!,Pela vitória!,Eu só conheço a vitória!,Pela vitória!
+3,Acenar,Como vai você?,Olá.,Prazer em conhecer!,Olá!
+4,Risada,Hahahahaha!,Hohohoho!,Ahahaha!,Muahahaha!
+5,Tristeza,*Chorando*...,*Fungando*!,*Fungando*...,Buaaaah!
+6,Cumprimento,Toca aqui!,Toca aqui!,Toca aqui!,Toca aqui!
+7,Palma,Que incrível!,Que incrível!,Incrível.,Puxa! Incrível!
+8,Desânimo,Não acredito nisso...,Como isso é possível...?,O quê...? Como uma,"Ai, meu deus..."
+9,Raiva,Estou me irritando!,Hmpf!,Uowaaaaaah!,Urrrrgh! Que raiva!
+1001,Evocar o mal,,,,
+1002,Vá para a aldeia,,,,
+10001,Vitória do Humano na arena,,,,
+10002,Fracasso do Humano na arena,,,,
+10003,Vitória da Elfa na arena,,,,
+10004,Fracasso da Elfa na arena,,,,
+10005,Vitória do Elfo Sombrio na arena,,,,
+10006,Fracasso do Elfo Sombrio na arena,,,,
+10007,Vitória da Anã na arena,,,,
+10008,Fracasso da Anã na arena,,,,
+100001,Ação de toque nº 1,,,,
+100002,Ação de toque nº 2,,,,
+100003,Ação de toque nº 3,,,,
+100004,Ação de toque nº 4,,,,

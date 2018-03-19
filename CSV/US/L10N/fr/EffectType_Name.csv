@@ -1,0 +1,129 @@
+Type,Name
+0,Lié à l'arme
+1,ATQP
+2,ATQM
+3,Taux d'aug. de l'ATQP
+4,Taux d'aug. de l'ATQM
+5,Puissance d'attaque de base
+6,Taux d'aug. de l'ATQ des membres du groupe
+7,Taux d'aug. de la VIT d'ATQ
+8,Buff
+9,Taux d'aug. des DÉG CRIT
+14,Taux d'aug. de précision CRIT.
+15,Taux d'aug. de résistance aux CRIT
+16,DÉGP
+17,DÉGM
+18,DÉF ignorée
+19,Réduction des PV de la cible
+20,Réduction des PV de la cible (%)
+21,DÉFP
+22,DÉFM
+23,Taux d'aug. de la DÉFP
+24,Taux d'aug. de la DÉFM
+26,Esquive
+27,Taux d'aug. de l'esquive
+28,Augmentation du taux d'esquive
+29,Précision
+30,Taux d'aug. de précision
+31,Taux d'aug. de précision
+32,Taux d'aug. des dégâts
+33,Taux d'aug. des DÉGP
+34,@IncreaseDamagePhyMul
+35,Taux d'aug. des dégâts sur les cibles ralenties
+36,DÉG ignorant la DÉF
+37,Taux de réd. des dégâts
+38,Taux de réduction des DÉGP
+39,Taux de réduction des DÉGM
+40,Réd. des DÉG fixes
+41,Chance de déviation
+42,Taux de réduction des dégâts de déviation
+43,DÉGP sur la durée
+44,DÉGM sur la durée
+45,Soin des PV en fonction de l'ATQ
+46,Soins sur la durée
+47,Effets du terrain
+48,Taux d'aug. des agressions
+49,PV
+50,Augmente les PV selon un pourcentage des PV max.
+51,Régén. des PV
+52,Drainage de PV
+53,Absorption de PV (compétence active qui vole des PV à l'ennemi)
+54,Absorption de PV (alloue les PV volés à vous et aux membres du groupe)
+55,Invincible
+56,Invisible
+57,Augmentation du taux d'apparition des objets
+58,PV max.
+59,Taux d'aug. des PV max.
+60,PM max.
+61,Taux d'aug. des PM max.
+62,Taux d'aug. de la vitesse
+63,PM
+64,Augmente les PM selon un pourcentage des PM max.
+65,Taux de réduc. coût en PM
+66,Réduction du coût en PM
+67,Taux de régén. PM
+68,Coup fatal (mort instantanée)
+69,Projectile
+70,Réduction du temps de recharge des compétences
+71,Habile (toutes les compétences coûtent 1 PM)
+72,Bonus d'ATQ de Trait d'âme
+73,Solide (tous les DÉG subis sont réduits à 1)
+74,Étourdissement
+75,Rictus (augmente l'aggro jusqu'au max.)
+76,Verrouiller la cible
+77,Déplacer la cible
+78,Attirer la cible
+79,Taux de résistance à l'attraction
+81,Taux de résistance à la poussée
+83,Élixir
+84,Aucun effet
+85,Identifiant d'infos du tableau de compétences
+179,Buff de zone (totem d'aura)
+86,EXP
+87,Taux d'aug. des gains d'EXP
+88,Adena
+89,Taux d'aug. des gains d'Adena
+90,Diamant gratuit
+91,Diamant payant
+92,Pièce de clan
+93,Fragment de rune
+94,PC
+95,Pillage auto.
+96,Butin d'objets
+97,Taux de résist. aux ralentissements
+98,Taux de résistance aux renversements et étourdissements
+99,Taux de résistance aux états anormaux
+103,Augmentation de la portée des compétences
+104,Augmentation du nombre d'impacts des compétences
+100,Augmentation de fin du combo
+101,Pénétration
+102,Résilience
+105,Augmentation de la vitesse d'extraction
+106,Augmentation du nombre d'extractions
+10,Taux de CRIT
+11,Résist. aux CRIT
+12,Taux d'aug. du taux de CRIT
+13,Taux d'aug. de résistance aux critiques
+125,Contrôle mental
+133,Augmentation des dégâts de compétence d'attaque normale
+140,Taux de réd. du tps de recharge des comp.
+146,Réduit les PM de la cible
+147,Réduit les PM de la cible de %
+148,Restaure les PM relatifs à l'ATQ
+179,Taux d'augmentation de la DÉF proportionnel à la taille du groupe
+151,Retire l'état anormal
+152,Retire le débuff
+153,Immunité contre les dégâts en dessous d'un certain seuil de PV
+136,Régén. des PV Taux d'augmentation
+163,Taux d'augmentation DÉG finaux
+164,Taux de réduc. des DÉG sup. et DÉG finaux
+165,@NormalSkillDamageMul
+174,Augmentation des soins de compétence de soin normale
+171,Amplification du taux de résist. aux renversements et étourdissements
+170,Amplification du taux de résistance aux ralentissements
+169,Amplification du taux de résistance aux CRIT
+131,Augmentation des dégâts infligés aux monstres
+132,Réduction des DÉG infligés par les monstres
+176,Augmentation des dégâts infligés aux monstres par compétence normale
+177,@NormalSkillMonsterDamageMul
+160,Taux d'augmentation de la DÉF selon le rang du PNJ et la race

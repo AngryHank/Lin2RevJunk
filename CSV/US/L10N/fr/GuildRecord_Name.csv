@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,Le membre de clan [Param1] a donné [Param2] Adena.
+1,[Param1] a donné [Param2] Preuve(s) de sang.
+2,Le buff de clan [Param1] a atteint le niveau [Param2].
+3,<FontYellow>Le clan a atteint le niveau [Param1].</>
+4,<FontRed>Une guerre a été déclarée</> à [Param1].
+6,<FontBlue>Alliance formée</> avec le clan [Param1].
+7,L'alliance avec [Param1] a été <FontRed>dissolue</>.
+8,Le membre de clan [Param1] est devenu(e) [Param2].
+10,[Param1] a <FontBlue>rejoint</> le clan.
+11,[Param1] a <FontRed>quitté</> le clan.
+12,<FontYellow>[Param1] a levé [Param2] Boîte(s) de Diamant comme taxe.</>
+13,Donjon de clan <FontBlue>[Param1]</> terminé.
+14,Succès de clan <FontGreen>[Param1]</> accompli.
+15,<FontYellow>Vous prenez la tête de [Param1].</>
+16,@CastleAcquired
+17,[Param3] [Param2](s) <FontGreen>offert((e)s)</> à(aux) membre(s) du clan [Param1].
+18,<FontGreen>Prix</> de [Param2] x[Param3] donné à [Param1] membre(s) du clan.
+19,<FontBlue>Accordé</> aux membres du clan : [Param1] x[Param2].
+20,<FontBlue>Guerre gagnée</> face au clan [Param1].
+21,<FontRed>Guerre perdue</> face au clan [Param1].
+22,Combat jusqu'au statu quo dans la guerre face au clan [Param1].
+23,"Le seigneur [Param1] a acheté [Param2] au magasin ""Siège de château""."
+24,Le membre de clan [Param1] a donné [Param2] Pierre(s) d'étoile rouge(s).
+9,[Param1] <FontRed>a automatiquement nommé</> [Param2] comme le nouveau seigneur.
+25,<FontYellow>Vous avez acheté une salle du clan.</>
+26,<FontYellow>La salle du clan a atteint le niveau [Param1].</>
+27,<FontYellow>Le Cristal d'unité a atteint le niveau [Param1].</>
+28,Va abandonner la propriété de [Param1].
+29,A abandonné la propriété de [Param1].
+30,La guerre contre le clan [Param1] a été terminée avec un accord.

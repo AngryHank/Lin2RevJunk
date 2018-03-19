@@ -1,0 +1,70 @@
+Id,GipText
+1,Toplam <FontBlue>6 ekipman derecesi</> var.
+2,<FontBlue>Günde 3 kez bedavaya 1 Normal Ekipman Sandığı</> açabilirsin.
+3,Canavarları <FontBlue>otomatik olarak avlamak</> için <FontBlue>Oto-Görev özelliğine</> dokun.
+4,<FontBlue>İstediğin yere</> hemen gitmek için <FontBlue>dünya haritasına</> dokun.
+5,Dünya haritasında bir <FontBlue>OOK veya canavara</> dokunarak ilgili yere gidersin.
+6,"<FontBlue>Yenileyici kullanım sıklığını, Ayarlar > Savaş</> içerisinde ayarlayabilirsin."
+7,"Kullandığın <FontBlue>silaha</> göre, <FontBlue>yeteneklerini istediğin gibi ayarlayabilirsin</>."
+8,"Bir <FontBlue>nadir yetenek</> öğrendiğinde <FontBlue>yetenek slotu</> sayın, <FontBlue>maksimum 5</> olacak şekilde artar."
+9,Ekipman <FontBlue>birleştirirken</> tüm <FontBlue>tür ve sınıflar korunur</>.
+10,Sınıf <FontBlue>geçiş</> görevi <FontBlue>seviye 31'e</> ulaştığında açılacak.
+11,<FontBlue>Run İşleme</> ile <FontBlue>değerlerinde büyük bir artış sağlayabilirsin</>.
+12,"<FontBlue>Run İşleme</>, <FontBlue>Rune Sayfa Sırası</>'na göre yapılır."
+13,<FontBlue>Etraftaki Runlar aynı seviyeye</> çıkınca <FontBlue>Merkez run seviyesi</> artar.
+14,<FontBlue>Karakterlerinin toplam seviyesine göre</> bonus değer kazanırsın.
+15,<FontBlue>Ruh Kristaller</> yalnızca <FontBlue>aynı renkli slotlara</> yerleştirilebilirler.
+16,"<FontBlue>Kullanılabilir slotlar, eşya derecesine</> göre artar."
+17,Çeşitli <FontBlue>Karakter Yeteneği Seviyelerini</> artırmak için <FontBlue>Canavar Albümü</>'nü kullan.
+18,<FontBlue>Her gün 1 Günlük Zindana ücretsiz</> girebilirsin.
+19,<FontBlue>Ek değerler</> kazanmak için <FontBlue>Arena'da onur dereceni</> artır.
+20,<FontBlue>Arena'da Günlük Onur Puanları</> ve <FontBlue>Sıralama Ödülleri</> kazan.
+21,<FontBlue>Botanik Zindanı</>'nda ortaya çıkan <FontBlue>Gürbüz Ratelleri</> yakalayıp <FontBlue>kutsama</> kazan ve <FontBlue>toplama hızın artsın</>.
+22,Botanik zindanı'nda <FontBlue>Mandragora</> yakalayarak <FontBlue>İksir Özleri</> elde edebilirsin.
+23,Bitki ve özlerle yapılan <FontBlue>İksirleri kullanarak değerlerini kalıcı olarak artır</>.
+24,Kibir Kulesi’nde <FontBlue>üst katlara çıkarak</> daha fazla <FontBlue>Run Parçası</> elde edebilirsin.
+25,<FontBlue>Kibir Kulesi</>'nde geçtiğin her <FontBlue>5 kat</> için <FontBlue>Özel Ödül</> alırsın.
+26,Kibir Kulesi'ne <FontBlue>günde 3 kez ücretsiz girebilirsin</>.
+27,Elit Zindan <FontBlue>Bonus Süresinde TP ve eşya düşme oranı artar</>.
+28,Elit Zindanlar <FontBlue>PK cezası olan alanlardır</>.
+29,Şato Kuşatması'nda şatoları fethet ve ödülleri kazan.
+31,Özel ödüller kazanmak için saha baş düşmanlarını avla.
+35,<FontBlue>Şato Kuşatması</>'na yalnızca <FontBlue>Svy. 4 ve üstü klanlar</> katılabilir.
+41,"<FontBlue>[Unutulmuş Parşömeler]</> ve <FontBlue>[yüksek Dereceli Ekipmanlar]</>, <FontBlue>Saha Düşmanı avlama</> ödülüdür."
+42,"<FontBlue>Şato Kuşatması’nda galip gelen</> klanlar, <FontBlue>o bölgelerde avlanırken güçlendirme</> kazanır."
+44,@29
+45,@35
+51,<FontBlue>Ekipman Zindanı</>'na girmek için <FontBlue>bir grubun olmalı</>.
+52,<FontBlue>Daha iyi ekipman elde etmek</> için <FontBlue>yüksek seviyeli</> Ekipman Zindanını temizle.
+53,<FontBlue>Kutsal Kristal'i</> yaklaşan düşmanlardan <FontBlue>koru</>.
+54,Zindanda <FontBlue>ejderhaya saldır</> ve <FontBlue>Adena kazan</>.
+55,<FontBlue>Ek Adena kazanmak</> için <FontBlue>Adena Hazine Sandığı</>'nı yen.
+56,<FontBlue>Daha fazla bonus TP</> için <FontBlue>daha fazla</> canavar yen.
+57,Daha güçlü olmak için zindanlardaki güçlendirmeleri al.
+58,"Sadece kendininkine değil, <FontBlue>diğer klanların meydanlarına da</> girebilirsin!"
+59,Klan üyelerine <FontBlue>çeşitli güçlendirmeler</> vermek için <FontBlue>Birlik Kristali'ni geliştir</>.
+60,Kargaşa Arenası'nda <FontBlue>Kaotik Değer</> yükselmez.
+61,<FontBlue>PK modu ayarlarını</> değiştirip Kargaşa Arenası'nda PK'ya katıl.
+62,Kargaşa Arenası <FontBlue>Tapınak Güçlendirmesi</> olan bir oyuncuyu yen ve güçlendirmesini çal.
+1003,Bir klana katılıp şatolar ve kaleleri fethederek özel avantajlar kazan!
+1009,Lineage 2: Revolution'ın <FontBlue>engin dünyasında dinamik görevlerin</> ve <FontBlue>heyecanlı öykülerin</> tadını çıkar.
+1011,Lineage 2: Revolution2ın <FontBlue>açık dünyasında gerçek zamanlı savaşların</> tadını çıkar.
+1014,PvP'ye açık alanlarda diğer oyunculara saldırabilirsin.
+1015,<FontBlue>güçlü düşmanları</> yenmek için <FontBlue>gruplar</> kur.
+1019,<FontBlue>İnanılmaz zindanlar</> seni bekliyor.
+1023,<FontBlue>Çeşitli özellikler</> ve <FontBlue>avantajlardan</> faydalanmak için bir <FontBlue>klana</> katıl.
+1024,Gücünü daha da artırmak için diğer klanlarla <FontBlue>ittifak</> kur.
+1025,<FontBlue>Klanının gücünü daha da artırmak </> için <FontBlue>büyük ölçekli Kale Kuşatmalarında</> kaleleri fethet.
+1026,Harika <FontBlue>ödüller</> ve <FontBlue>onur</> kazanmak için <FontBlue>Şato Savaşları</> ile bölgeleri fethet.
+72,<FontBlue>Şato Fethi</>'nde tek başına ya da bir grupla savaş.
+73,Şato Fethi'nde herkes <FontBlue>istediği karakter/sınıfı seçebilir</> ve <FontBlue>eşit değerlerle</> savaşa katılır.
+74,"<FontBlue>Bineğinle engin, açık dünyayı</> keşfet!"
+75,<FontBlue>Binek Zindanı</>'ndan <FontBlue>Bineğin</> için <FontBlue>Kuvvetlendirme malzemeleri</> elde edebilirsin!
+76,"<FontBlue>Güçlendirme Koruma Sistemi</> ile Güçlendirme Dereceni koru!
++7 / +10 / +20 Güçlendirme Derecelerine ulaşınca  bir daha bu derecelerin altına düşemezsin."
+77,"<FontBlue>Savaş Dizini Ayarları</> ile ekipman ve yetenekler
+arasında duruma göre <FontBlue>rahatlıkla geçiş yapabilirsin</>"
+78,<FontBlue>Ek Özelik Güçlendirme</> ile <FontBlue>özel güçler</> kazanabilirsin.
+79,<FontBlue>Klan Meydanı</>'nın sunduğu çeşitli <FontBlue>içeriklerin</> tadını çıkar!
+80,Ekipman <FontBlue>birleştirince nadir Ekipman</> kazanma ihtimali vardır.
+81,<FontBlue>yüksek derece Ekipman Sandığı</>'ndan ufak da olsa <FontBlue>nadir Ekipman</> çıkma şansı vardır.

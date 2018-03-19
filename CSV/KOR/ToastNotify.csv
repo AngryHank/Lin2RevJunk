@@ -1,0 +1,161 @@
+Id,Value,ButtonString1,ButtonString2,Order,StayTime,ReNotice,SwipeDelete,Option,Vibration,SoundName
+1,[ChatString],,,3,3,,,,,UI_Common_Chat_1
+2,서버와의 연결이 끊어져 재접속되었습니다.,,,,3,,,,,UI_Common_Chat_1
+3,파티가 생성되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+4,파티에 가입되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+5,<FontGreen>[Name]</>님이 파티에 참가하였습니다.,,,,3,,,1,,UI_Common_Chat_1
+6,파티에서 탈퇴했습니다.,,,,3,,,1,,UI_Common_Chat_1
+7,<FontGreen>[Name]</>님이 파티에서 탈퇴했습니다.,,,,3,,,1,,UI_Common_Chat_1
+8,파티에서 추방되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+9,<FontGreen>[Name]</>님이 파티에서 추방되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+10,해당 파티의 파티장이 되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+11,<FontGreen>[Name]</>님에게 파티장이 위임되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+12,파티가 해산되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+13,"<FontGreen>[Name]</>님이 파티에 초대하였습니다.
+파티에 참여하시겠습니까? <FontRed>[Seconds]</>초",거절,참여,10,10,,1,1,1,UI_Common_PartyInvited_2
+14,파티 참가가 거절되었습니다.,,,,3,3,,,,UI_Common_Chat_1
+15,"파티 승인 요청이 있습니다.
+승인하시겠습니까? <FontRed>[Seconds]</>초",거절,승인,10,10,,1,1,1,UI_Common_PartyInvited_2
+16,자동파티가 취소 되었습니다.,,,10,3,,,1,,UI_Common_Chat_1
+17,"장소 : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</>님의 모험에 참여하시겠습니까? <FontRed>[Seconds]</>초",거절,수락,10,10,,1,1,1,UI_Common_PartyInvited_2
+18,"장소 : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+ <FontRed>[Seconds]</>초 후 <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+에 입장합니다. 전투에 준비하세요",,,10,10,,1,1,1,UI_Common_PartyInvited
+19,"장소 : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> 님이 당신을 소집합니다. 이동하시겠습니까? <FontRed>[Seconds]</>초",도보 이동,포탈 이동,10,10,,1,1,1,UI_Common_PartyInvited_2
+20,"장소 : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> 님이 당신을 소집합니다. 이동하시겠습니까? <FontRed>[Seconds]</>초",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+21,"장소 : <FontGreen>[WorldName]</>
+파티 집결지로 이동하시겠습니까? <FontRed>[Seconds]</>초",도보 이동,포탈 이동,10,10,,1,1,1,UI_Common_PartyInvited_2
+22,"장소 : <FontGreen>[WorldName]</>
+파티 집결지로 이동하시겠습니까? <FontRed>[Seconds]</>초",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+23,"<FontYellow>[Battlefield]</> 파티가 생성되었습니다.
+<FontGreen>혼자서</> 혹은 다른 플레이어와 <FontGreen>전장 파티</>를 구성하여 전장에 참여하세요.",,,10,3,,,1,,UI_Common_Chat_1
+24,<FontYellow>[Battlefield]</> 파티에 합류하였습니다.,,,,3,,,1,,UI_Common_PartyInvited
+25,<FontGreen>[Name]</> 님께서 <FontYellow>[Battlefield]</> 파티에 합류하였습니다.,,,5,3,,,1,,UI_Common_PartyInvited
+26,<FontYellow>[Battlefield]</> 파티가 해산되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+27,<FontYellow>[Battlefield]</> 파티에서 탈퇴했습니다.,,,,3,,,1,,UI_Common_Chat_1
+28,<FontGreen>[Name]</> 님께서 <FontYellow>[Battlefield]</> 파티에서 탈퇴했습니다.,,,5,3,,,1,,UI_Common_Chat_1
+29,"<FontGreen>[Name]</>([Power]) 님이 전장 파티에 초대하였습니다.
+<FontYellow>[Battlefield]</> 파티를 승인하시겠습니까 ? <FontRed>[Seconds]</>초",거절,승인,10,10,,1,1,1,UI_Common_PartyInvited_2
+30,"<FontYellow>[BattlefieldType]</> 매칭이 성사되었습니다.
+<FontRed>[Seconds]</>초 후 전장에 입장합니다. 전투를 준비하세요.",,,10,10,,1,1,1,UI_Common_PartyInvited
+31,[Name] 님께서 친구 맺기를 요청합니다.,친구,,3,3,,,1,,UI_Common_Chat_1
+32,[Name] 님과 친구가 되었습니다.,친구,,,3,,,,,UI_Common_Chat_1
+33,<FontYellow>군주님께서 혈맹 문장을 변경하였습니다.</>,,,,3,,,1,,UI_Common_Chat_1
+34,[Name] 혈맹원 닉네임 변경 : <FontGreen>[Name2]</>,,,,3,,,1,,UI_Common_Chat_1
+35,<FontGreen>[Param1]</> 님이 접속했습니다.,,,1,3,1800,,1,,UI_Common_Chat_1
+36,"<FontGreen>[Name]</> 님께서 혈맹을 위해 <FontGreen>[Count] [AssetsType]</>{[AssetsType]|를,을} 기부했습니다.",,,,3,3,,1,,UI_Common_Chat_1
+37,<FontGreen>[Param1]</> 님이 혈맹에 <FontBlue>가입</>하였습니다.,,,,3,,,1,,UI_Common_Chat_1
+38,<FontGreen>[Param1]</> 님이 혈맹을 <FontRed>탈퇴</>하였습니다.,,,,3,,,,,UI_Common_Chat_1
+39,<FontGreen>[Name]</>님이 혈맹에서 <FontRed>추방</>되었습니다.,,,,3,,,,,UI_Common_Chat_1
+40,<FontBlue>[GuildName]</> 혈맹에서 가입 초대하였습니다.,거절,수락,10,5,,,1,,UI_Common_PartyInvited_2
+41,<FontBlue>[Name]</> 플레이어가 가입 초대를 거부하였습니다.,,,,3,,,,,UI_Common_Chat_1
+42,<FontYellow>혈맹에 가입 요청이 들어왔습니다.</>,혈맹,,10,5,5,,1,,UI_Common_PartyInvited_2
+43,<FontBlue>[GuildName]</> 혈맹에 가입되었습니다.,혈맹,,,3,,,,,UI_Common_Chat_1
+44,<FontBlue>[GuildName]</> 혈맹에 가입이 <FontRed>거부</>되었습니다.,,,,3,,,,,UI_Common_Chat_1
+45,혈맹에서 탈퇴 되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+46,"<FontGreen>[Param1]</> 님의 등급이 <FontBlue>[Param2]</>{[Param2]|가,이} 되었습니다.",,,,3,,,,,UI_Common_Chat_1
+47,<FontGreen>[Param1]</> 님이 새로운 군주로 임명되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+48,이전 군주의 장기 미접속으로 <FontGreen>[Param1]</> 님이 군주로 임명되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+49,[Param1] 님이 <FontGreen>[Param2]</> 님에게 포상을 내렸습니다.,,,,3,,,,,UI_Common_Chat_1
+50,[Param1] 님이 <FontGreen>모든 혈맹원</>에게 포상을 내렸습니다.,,,,3,,,,,UI_Common_Chat_1
+51,[Param1] 님이 [Param2] 님을 포함하여 총 <FontGreen>[Param3]명</>에게 포상을 내렸습니다.,,,,3,,,,,UI_Common_Chat_1
+52,<FontGreen>[Name]</> 혈맹원으로 부터 혈맹 선물이 도착했습니다.,편지함,,10,3,,,1,,UI_Common_Chat_1
+53,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[GuildName]</> 혈맹의 <FontRed>[Name2]</>",닫기,포탈 이동,5,5,,,1,,UI_Common_Chat_1
+54,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[GuildName]</> 혈맹의 <FontRed>[Name]</>",닫기,입장,5,5,,,1,,UI_Common_Chat_1
+55,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[Name2]</>",닫기,포탈 이동,5,5,,,1,,UI_Common_PartyInvited
+56,"<FontGreen>[Name]</> 혈맹원께서 복수를 요청합니다.
+복수 대상 : <FontRed>[Name]</>",닫기,입장,5,5,,,1,,UI_Common_PartyInvited
+57,<FontBlue>[Param1]</> 혈맹과 동맹을 <FontBlue>체결</>했습니다.,,,,3,,,1,,UI_Common_Chat_1
+58,<FontBlue>[Param1]</> 혈맹과의 동맹이 <FontRed>파기</> 되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+59,<FontBlue>[Name]</> 혈맹과의 전쟁이 <FontRed>선포</>되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+60,<FontBlue>[GuildName]</> 혈맹의 전쟁 종료 신청을 <FontRed>거절</>하였습니다.,,,,3,,,,,UI_Common_Chat_1
+61,<FontBlue>[GuildName]</> 혈맹이 전쟁 종료 신청을 <FontRed>거절</>하였습니다.,,,,3,,,,,UI_Common_Chat_1
+62,<FontBlue>[Name]</> 혈맹과의 전쟁이 <FontGreen>종전 합의</>되었습니다.,,,,3,,,,,UI_Common_Chat_1
+63,<FontBlue>[Name]</> 혈맹과의 전쟁에서 <FontBlue>승리</>하였습니다.,,,,3,,,,,UI_Common_Chat_1
+64,<FontBlue>[Name]</> 혈맹과의 전쟁에서 <FontRed>패배</>하였습니다.,,,,3,,,,,UI_Common_Chat_1
+65,"<FontYellow>혈맹의 레벨이 [Param1]{[Param1]|가,이} 되었습니다.</>",,,,3,,,1,,UI_Common_Chat_1
+66,"<FontYellow>혈맹 버프 [Name]{[Name]|가,이} [param] 레벨이 되었습니다.</>",,,,3,,,1,,UI_Common_Chat_1
+67,"[Name] 군주님께서 <FontGreen>[ShopName]</>에서 <FontGreen>[Item]</>{[Item]|를,을} 구매했습니다.",,,,3,,,,,UI_Common_Chat_1
+68,<FontYellow>[Param1] 공략에 성공했습니다.</>,혈맹 업적,,,3,,,,,UI_Common_Chat_1
+69,"<FontGreen>[DungeonName]</> 던전에서 [Name]님이 소환하셨습니다.
+소환에 응하시겠습니까?",닫기,입장,5,10,,1,1,1,UI_Common_PartyInvited_2
+70,<FontYellow>[GuildDungeonName]([Difficulty]) 이 초기화되었습니다.</>,혈맹 던전,,3,3,,,1,,UI_Common_Chat_1
+71,<FontYellow>[Param1]의 입찰액을 갱신하세요!</>,요새전,,10,3,,,1,,UI_Common_Chat_1
+72,<FontYellow>[Param1]의 입찰액을 갱신하세요!</>,공성전,,10,3,,,1,,UI_Common_Chat_1
+73,<FontYellow>[Param1]의 입찰이 연장되었습니다.</>,요새전,,10,3,,,1,,UI_Common_Chat_1
+74,<FontYellow>[Param1]의 입찰이 연장되었습니다.</>,공성전,,10,3,,,1,,UI_Common_Chat_1
+75,"요새전 입장 가능 시간입니다. <FontGreen>[FortressName]</>로 입장하시겠습니까?
+전장 안에서 파견된 용병과 함께 혈맹 채팅이 가능합니다.",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+76,"공성전 입장 가능 시간입니다. <FontGreen>[CastleName]</>으로 입장하시겠습니까?
+전장 안에서 파견된 용병과 함께 혈맹 채팅이 가능합니다.",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+77,<FontYellow>군주님께서 [Name]의 소유권을 포기하였습니다.</>,,,10,3,,,1,1,UI_Common_Chat_1
+78,군주님께서 <FontBlue>[Name]</>을 <FontYellow>[CastleType]</>으로 선택하였습니다.,,,10,3,,,1,1,UI_Common_Chat_1
+79,<FontYellow>아지트가 [Level]레벨이 되었습니다.</>,,,,3,,,1,,UI_Common_Chat_1
+80,<FontYellow>아지트 결속의 수정이 [param] 레벨로 성장했습니다.</>,,,,3,,,1,,UI_Common_Chat_1
+81,<FontGreen>[Name]</> 님께서 혈맹을 위해 아지트 혈맹 퀘스트를 수행했습니다.,,,,3,,,,,UI_Common_Chat_1
+82,<FontGreen>[Name]</> 님께서 아지트에 <FontBlue>만찬</>을 차렸습니다.,닫기,입장,,5,,,1,,UI_Common_Chat_1
+83,<FontYellow>신비로운 유물 [Value]개가 혈맹 창고로 지급되었습니다.</>,,,,3,,,,,UI_Common_Chat_1
+84,[NAME]께서 <FontGreen>[POTION_NAME]</>을 [COUNT]개 제조했습니다.,,,,3,,,,,UI_Common_Chat_1
+85,<FontYellow>아지트의 벽난로가 밝게 빛납니다.</>,닫기,입장,,5,,,1,1,UI_Common_Chat_1
+86,<FontYellow>아지트가 벽난로의 온기로 가득 차고 있습니다.</>,닫기,입장,,5,,,1,1,UI_Common_Chat_1
+87,<FontYellow>벽난로의 온기가 사라졌습니다.</>,,,,3,,,1,,UI_Common_Chat_1
+88,혈맹에서 <FontRed>추방</> 되었습니다.,,,5,3,,,1,,UI_Common_Chat_1
+89,"요새전이 시작되었습니다! <FontGreen>[FortressName]</>로 입장하시겠습니까?
+전장 안에서 파견된 용병과 함께 혈맹 채팅이 가능합니다.",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+90,"공성전이 시작되었습니다! <FontGreen>[CastleName]</>으로 입장하시겠습니까?
+전장 안에서 파견된 용병과 함께 혈맹 채팅이 가능합니다.",닫기,입장,10,10,,1,1,1,UI_Common_PartyInvited_2
+91,"장소 : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> 님께서 당신을 소환합니다.
+이동하시겠습니까? <FontRed>[Seconds]</>초",거절,수락,10,10,,1,1,1,UI_Common_PartyInvited_2
+92,"파티가 없어 조작이 제한 되었습니다.
+15초 후에 자동으로 시공의 균열에서 나갑니다.",나가기,,10,15,,1,1,1,UI_Common_Chat_1
+93,<FontYellow>[EventName] 관련 아이템의 사용기간이 만료되어</>인벤토리에서 삭제되었습니다.,,,1,3,,,1,,UI_Common_Chat_1
+94,"<FontYellow>자유요새전</> 파티가 생성되었습니다.
+<FontGreen>혼자서</> 혹은 다른 플레이어와 <FontGreen>자유요새전 파티</>를 구성하여 자유요새전에 참여하세요.",,,10,3,,,1,,UI_Common_Chat_1
+95,<FontYellow>자유요새전</> 파티에 합류하였습니다.,,,,3,,,1,,UI_Common_PartyInvited
+96,<FontGreen>[Name]</> 님께서 <FontYellow>자유요새전</> 파티에 합류하였습니다.,,,5,3,,,1,,UI_Common_PartyInvited
+97,<FontYellow>자유요새전</> 파티가 해산되었습니다.,,,,3,,,1,,UI_Common_Chat_1
+98,<FontYellow>자유요새전</> 파티에서 탈퇴했습니다.,,,,3,,,1,,UI_Common_Chat_1
+99,<FontGreen>[Name]</> 님께서 <FontYellow>자유요새전</> 파티에서 탈퇴했습니다.,,,5,3,,,1,,UI_Common_Chat_1
+100,"<FontGreen>[Name]</> 님이 자유요새전 파티에 초대하였습니다.
+<FontYellow>자유요새전</> 파티를 승인하시겠습니까 ? <FontRed>[Seconds]</>초",거절,승인,10,10,,1,1,1,UI_Common_PartyInvited_2
+101,"<FontYellow>자유요새전</> 매칭이 성사되었습니다.
+잠시 후 자유요새전에 입장합니다. 전투를 준비하세요.",,,10,3,,1,1,1,UI_Common_PartyInvited
+102,"[GuildGrade]님께서 <FontGreen>아지트</>로 소환합니다.
+이동 하시겠습니까?",닫기,입장,5,10,,1,1,1,UI_Common_PartyInvited_2
+103,"<FontGreen>[Name]</> 님에게 결투를 신청했습니다.
+수락을 기다리는 중입니다. <FontRed>[Seconds]</>초",,취소,10,10,,,1,,UI_Common_PartyInvited
+104,"<FontGreen>[Name]</> 님이 결투를 신청했습니다.
+수락하시겠습니까? <FontRed>[Seconds]</>초",거절,승인,10,10,,,1,,UI_Common_PartyInvited
+105,<FontGreen>[Name]</> 님이 결투 신청을 거절했습니다.,,,10,3,,,1,,UI_Common_PartyInvited
+106,<FontGreen>[Name]</> 님이 결투 신청을 취소했습니다.,,,10,3,,,1,,UI_Common_PartyInvited
+107,[Name] 동맹이 창설되었습니다.,동맹,,10,3,,,1,,UI_Common_Chat_1
+108,[Name] 혈맹이 동맹에 합류하였습니다.,동맹,,10,3,,,1,,UI_Common_Chat_1
+109,[Name] 동맹에 합류합니다.,동맹,,10,3,,,1,,UI_Common_Chat_1
+110,[Name] 혈맹과의 동맹이 파기되었습니다.,,,10,3,,,1,,UI_Common_Chat_1
+111,[Name] 동맹에서 탈퇴했습니다.,,,10,3,,,1,,UI_Common_Chat_1
+112,"[Name] 동맹이 해산되어, 역사 속으로 사라집니다.",,,10,3,,,1,,UI_Common_Chat_1
+113,[GuildName] 혈맹의 군주 [Name] 님이 새롭게 동맹을 대표합니다.,,,10,3,,,1,,UI_Common_Chat_1
+114,"<FontRed>결투 범위를 이탈했습니다.</>
+결투 범위로 복귀하지 않으면 <FontRed>패배</>합니다. <FontRed>[Seconds]</>초",,,10,5,,,1,,UI_Common_Chat_1
+115,[Name] 동맹에서 초대하였습니다.,동맹,,10,5,,1,1,,UI_Common_Chat_1
+116,[GuildName] 혈맹의 [FortressName] 요새전에서 용병을 모집합니다.,요새전 용병,,10,5,,,1,,UI_Common_Chat_1
+117,[GuildName] 혈맹의 [CastleName] 공성전에서 용병을 모집합니다.,공성전 용병,,10,5,,,1,,UI_Common_Chat_1
+118,[GuildName] 혈맹의 [FortressName] 요새전 용병으로 선출되었습니다. 확인하시겠습니까?,요새전 용병,,10,5,,,1,,UI_Common_Chat_1
+119,[GuildName] 혈맹의 [CastleName] 공성전 용병으로 선출되었습니다. 확인하시겠습니까?,공성전 용병,,10,5,,,1,,UI_Common_Chat_1
+120,[Name]님이 원수 리스트에 등록되었습니다.,,,10,3,,,,,UI_Common_Chat_1
+121,[Name]님의 원수 리스트에 등록되었습니다.,,,10,3,,,,,UI_Common_Chat_1
+122,[Name]님이 [GuildName] 혈맹의 요새전 파견 요청을 수락했습니다.,요새전 용병,,10,3,,,,,UI_Common_Chat_1
+123,[Name]님이 [GuildName] 혈맹의 공성전 파견 요청을 수락했습니다.,공성전 용병,,10,3,,,,,UI_Common_Chat_1
+124,[Name]님이 [GuildName] 혈맹의 요새전 파견 요청을 거절했습니다.,요새전 용병,,10,3,,,,,UI_Common_Chat_1
+125,[Name]님이 [GuildName] 혈맹의 공성전 파견 요청을 거절했습니다.,공성전 용병,,10,3,,,,,UI_Common_Chat_1
+126,[Name]님이 [GuildName] 혈맹의 요새전 파견을 취소했습니다.,요새전 용병,,10,3,,,,,UI_Common_Chat_1
+127,[Name]님이 [GuildName] 혈맹의 공성전 파견을 취소했습니다.,공성전 용병,,10,3,,,,,UI_Common_Chat_1
+128,[Name]님에 대한 척살령 요청이 거절되었습니다.,,,10,3,,,,,UI_Common_Chat_1
+129,[Name]님에 대한 척살령이 선포되었습니다.,,,10,3,,,,,UI_Common_Chat_1

@@ -1,0 +1,851 @@
+Key,Value
+1,Paket versiyonu sunucu ile uyuşmadı. Uygulamayı yeniden başlat.
+2,Güncelleme için oyunu yeniden başlat.
+3,Sunucu Hatası (DB)
+4,Sunucu Hatası (LUA)
+5,Excel Tablo Hatası
+6,Sunucu Hatası (Parametre)
+7,Sunucu Hatası (Logic)
+8,Sunucu Hatası
+9,Giriş yapmadın.
+10,Zaten giriş yapmışsın.
+11,Atılacak bir hedef yok.
+12,Doğrulama Hatası
+13,Yanlış karakter tanımlayıcı.
+14,Hatalı Sınıf Bilgisi
+15,Hatalı cinsiyet.
+16,Hatalı isim.
+17,Hatalı NPC bilgisi.
+18,Geçersiz oyuncu tanımlayıcı
+19,Hatalı Irk Bilgisi
+20,Hatalı yetenek.
+21,Hatalı yetenek hedefi.
+22,Hatalı durum.
+23,Artık giremezsin.
+24,Cihaz tanımlayıcı yok.
+25,Bu isim kullanılıyor.
+26,Yetenek kullanılıyor.
+27,Hareket edemezsin.
+28,Ölü değilsin.
+29,Yetersiz Mana.
+30,Yetersiz Adena.
+31,Bir oyuncu seçmedin.
+32,Yetersiz Elmas.
+33,Karakter seviyesi yeterince yüksek değil.
+34,Aynı tanımlayıcıya sınıf geçişi yapılamaz.
+35,Bu sınıfa geçiş yapılamıyor.
+36,Seviyen düşük olduğu için henüz sınıf geçişi yapamazsın.
+37,Yanlış güvenlik kodu.
+38,Oyuncu tanımlayıcı yanlış.
+39,Yanlış güçlendirme etki tanımlayıcısı.
+40,Dükkan bilgisi tanımlayıcı yanlış.
+41,Paket içeriği aynı değil. Oyun düzgün çalışmayabilir.
+42,Yetenek etkisi tanımlayıcı yanlış.
+43,Yanlış başarım tanımlayıcı.
+44,Geçersiz run seviyesi
+45,Yetersiz Run Parçası.
+46,Geçersiz run bilgisi.
+47,Run seviye atlatma başarısız.
+48,Run zaten maks. seviyede.
+49,Önceki run seviyen yeterli değil.
+50,Maksimum Adena kapasitesini aşar.
+51,Maksimum Topaz kapasitesini aşar.
+52,Maksimum Elmas kapasitesini aşar.
+53,@NotEnoughFreeDiamondStorage
+54,Yetersiz Topaz
+55,Yetersiz Beraberlik Sadakat Puanı.
+56,Şu an ölü.
+57,"Sadece 4-16 karakter kullanabilirsin.
+(Korece/Çince içeriyorsa 2-8 karakter)"
+58,"Hiç yerin yok.
+Başka isim gir."
+59,Yetersiz SP.
+60,Adena kapasiten dolu.
+61,Klan Parası kapasiten dolu.
+62,Önceki run sayfasını doldur.
+63,Yetersiz Arkadaşlık Puanı.
+64,Geçersiz ödül türü.
+65,Şu an sersemlemiş.
+66,Savaş sürüyor.
+67,Bu sınıf karakter yaratımında seçilemez.
+68,Sadakat Puanı kapasiteni aştın.
+69,Sırada bekleniyor.
+70,Aksesuar kullanamazsın.
+71,Güvenlik kodunu şu an kullanamazsın.
+72,"Gereksinimleri karşılamadığından
+giremezsin."
+73,Sınıf temel değerleri yanlış.
+74,"Bu karakter Klan Lideri.
+Klan Lideri, liderliği devrettiğinde veya Klandan çıktığında silinebilir."
+75,Yetersiz Mavi Elmas
+76,Yetersiz Kırmızı Elmas
+77,Yasaklı Bölge
+78,Sohbet şu an için yasaklı
+79,Katılımcı sayısı dolduğu için giremezsin
+80,Yetersiz Klan Kırmızı Yıldıztaşı
+81,Sınıf Geçişi sonrası açılır.
+82,"Bu kullanıcı adı önceden alınmış.
+Ön kayıt yaptırdıysan, onaylama adımlarına git."
+83,Geçersiz kullanıcı adı
+84,Bu oyuncu silinmiş.
+85,Gizli dünya.
+86,Hesap değeri boş
+87,Nişan değeri boş
+100,Sunucu bakımda olduğundan oyuna giremezsin.
+101,"Dirilme için bekleniyor.
+Şu an dirilemezsin."
+102,Kanal dolu.
+103,Zaman değiştirme kısıtlaması.
+201,Başarım tamamlanamadı.
+202,Hiç başarım yok.
+203,Başarım seviyesi ödülünü daha önce aldın.
+251,Geçersiz sohbet mesajı.
+252,Sohbet mesaj tanımlayıcı yanlış.
+253,Sohbet ek bilgi tanımlayıcı yanlış.
+254,Genel sohbet türü yanlış.
+255,Bekleme Süresi Kısıtlaması.
+256,Sohbet yasaklı listesine daha önce eklenmiş.
+257,Sohbet yasaklı listesinde değil.
+258,Sohbet yasaklı listesine eklendi.
+259,Alıcı seni engelledi.
+301,Yetenek bekleme süresinde.
+302,İlk hesabı oluştur.
+303,Önceki yetenek kontrolü başarısız.
+370,Yanlış giriş bilgisi.
+371,Yanlış giriş bilgisi tanımlayıcısı.
+372,Yanlış giriş ödülü tanımlayıcısı.
+373,Zaten giriş yaptın.
+374,Ödülü daha önce aldın.
+375,Aktif haftalık giriş ödülü süreci yok.
+401,Eşya kimliği yanlış.
+402,@InvalidItemInfoId
+403,Bu eşya güçlendirilemez.
+404,Yetersiz Hurda.
+405,Yetersiz Eşya.
+406,Seviye 5'ten itibaren Birleştirme ve Geliştirme yapabilirsin.
+407,Yetersiz Güçlendirme Parşömeni.
+408,Daha fazla güçlendirilemez.
+409,Ekipman güçlendirme başarısız.
+410,"Ekipman mühürlendi.
+Mühürlenen ekipman güçlendirilemez."
+411,Sadece mühürlenmiş ekipmanlar bırakılabilir.
+412,Ekipman zaten kullanılıyor.
+413,Ekipman kullanılmıyor.
+414,Envanterinde yeterli yer yok.
+415,Kullandığın ekipmanları seçemezsin.
+-1,Bu ekipmanın mührü kırılamaz.
+417,Bu ekipman geliştirilemez.
+418,Bu ekipman daha fazla geliştirilemez.
+419,Bu ekipman daha fazla birleştirilemez.
+420,Favori Eşya Kullanılamıyor.
+421,"Birleştirme malzemeleri farklı türde.
+Sadece aynı tür ekipmanları birleştirebilirsin."
+422,"Birleştirme malzemeleri farklı derecelere sahip.
+Sadece aynı derecedeki ekipmanları birleştirebilirsin."
+423,Altdeğer dizini yanlış
+424,Bu eşya kullanılamaz.
+425,Bu ekipman daha fazla tılsımlanamaz.
+426,Bu bir ekipman değil.
+427,Geliştirme için malzeme yetersiz.
+428,Envanterin daha fazla genişletilemiyor.
+429,Malzeme eşyası tanımlayıcı yanlış
+430,Bu bir güçlendirme parşömeni değil.
+431,Eşya bilgisi tanımlayıcı farklı.
+432,Bu eşyanın limiti kırılamaz.
+433,Bu eşyanın limiti daha fazla kırılamaz.
+434,Bu bir Ruh Kristali değil.
+435,Yanlış eşya slotu dizilimi
+436,Bu Ruh Kristali türü zaten kullanılıyor.
+437,Eşya zaten maks. seviyede.
+438,Bu eşyanın alt değeri yok.
+439,Bu eşyanın ek özelliği yok.
+440,Ek Özellikler uyuşmuyor.
+441,Eşyanın ek özelliği güçlendirilemedi.
+442,Daha İksir kullanılamaz.
+443,Yanlış eşya üretim türü veya grubu.
+444,Üretim için yeterli malzeme yok.
+445,Yetersiz Aegis Kristali.
+446,Ekipman türü yanlış.
+447,Dizilim dizini yanlış.
+448,Bu eşya dizilimi zaten kullanılıyor.
+449,Sunucu dizilimden farklı.
+450,Envanterde yer olmadığından eşya üretilemedi.
+451,Tablo kullanılamıyor.
+452,Canavar Albümü daha önce tamamlandı.
+453,Envanterinde hiç bağlanmamış Canavar Özün yok.
+454,Grup tanımlayıcı yanlış.
+455,Seçilen Canavar Albümü grubu daha önce tamamlandı.
+456,Üstünde çalışabilecek Canavar Albümü yok.
+457,Dinlenme ödül türü yanlış.
+458,Yetersiz Dinlenme Puanı.
+459,Kullanılan birimler farklı.
+460,Yanlış Unutulmuş Parşömen eşya alt değer türü.
+461,Unutulmuş Parşömen malzemesi değil.
+462,Unutulmuş Parşömen kullanılamaz.
+463,Yetenek zaten maksimum seviyede.
+464,Malzeme sayımı yanlış.
+465,Bu farklı türde bir güçlendirme parşömeni.
+466,Canın dolu olduğu için kullanamazsın.
+467,Manan dolu olduğu için kullanamazsın.
+468,Daha fazla üretemezsin
+469,Yetersiz Kaçış Parşömeni
+470,Sürpriz Sandık boş.
+471,Kullanılan Ruh Kristali yok.
+472,Bu iksir kullanılamaz.
+473,Ekipman ek özellik seviyesi maksimumda.
+474,Megafon eşyası değil.
+475,Ruh Kristali etki türü yanlış.
+476,Eşya düşme bilgi tanımlayıcı yanlış
+477,Günlük kullanım sayısını aştın.
+478,Bekleme süresindeyken kullanılamaz.
+479,Bu ekipman senin sınıfın için değil. Kullanamazsın.
+480,Işınlanıyor.
+481,Silahlar çıkarılmadı. Başka bir silahla değiştir.
+482,Zaten maksimum seviyede.
+483,Aynı tip bir Güç Şerbeti zaten aktif.
+484,Arenada.
+485,Kötülük Çağırma Taşı burada kullanılamaz.
+486,"Kaotik Değer 0'a ulaştığından, artık kullanılamaz."
+487,Daha fazla alınamıyor.
+488,Bir defada satılabilecek maksimum miktarı aşıyor.
+489,Yanlış alt değer slotu.
+490,"Bu eşya, ekipmanla üretilemez."
+491,Eşya seviyesi üretim için çok düşük.
+492,Eşya derecesi üretim için çok düşük.
+493,Bu eşya satılamaz.
+501,Posta alınamıyor.
+502,"Posta Kutun dolu.
+Posta Kutundan ödülü al ve
+tekrar dene."
+503,"Posta Kutun dolu olduğu için ödülleri alamadın.
+Posta Kutunda yer açtıktan sonra tekrar dene."
+511,Yetersiz Günlük Aktivite Puanları
+512,Günlük Aktivite ödül tanımlayıcı yanlış
+513,Günlük Aktivite ödül grubu tanımlayıcı yanlış
+514,Alınabilecek ödül yok.
+521,Hemen tamamla bilgi tamamlayıcı yanlış
+522,Hemen tamamla bilgisi için tanımlayıcı değil.
+523,Hemen tamamla ödül grup tanımlayıcı yanlış
+531,Görev talep türü yanlış
+532,Görev talep tür bilgisi yanlış
+533,Göreve şimdi başlanamaz.
+534,Görev şimdi tamamlanamaz.
+535,Devam eden görev yok.
+536,Bu görev daha önce tamamlandı.
+537,Yenileyebileceğin günlük görev yok.
+538,Devam eden haftalık görev yok.
+539,@NoMoreDailyActivityRewardGet
+540,Başka bir haftalık görev devam ediyor.
+541,Bugünkü günlük görev sayını tamamladın.
+601,Bölge bilgisi tanımlayıcı yanlış.
+602,Nokta bilgisi tanımlayıcı yanlış.
+603,Bölge bilgisi tanımlayıcı yanlış.
+604,Görev bilgisi tanımlayıcı yanlış.
+605,Görev devam ediyor.
+606,Görev devam etmiyor.
+607,Görev tamamlanamadı.
+608,Önceden gereken görev tamamlanmadı.
+609,Yetersiz Görev Bileti.
+610,Yetersiz Görev tamamlama sayısı.
+611,Görev için değişiklik yok.
+612,Bölge temizlenmedi.
+613,Bölge konumu temizlenmedi.
+614,Görev başarısız.
+615,Görev başarılı.
+616,Bu görev esnasında dirilemezsin.
+617,Aksesuar tanımlayıcı yanlış.
+618,Mesafe çok fazla.
+619,Hiç NPC yok.
+620,Görev bilgisi yanlış
+621,Görev daha önce tamamlandı.
+622,Yetersiz Görev Oto-Temizleme.
+623,Fetih görev ödül bilgisi yanlış.
+624,Fetih tamamlamak için yetersiz yıldız.
+625,Bir kere bile tamamlanmadı.
+626,Fetih görevi değil.
+627,Görev bileti sayısı maksimumda.
+628,Görev bileti yenileme sayısı maksimumda.
+629,Oto-Temizleme kullanabilmek için en az 3 yıldız almalısın.
+630,Aksesuar kontrolü kalmadı.
+631,Kontrol edilmiş aksesuar.
+632,Yanlış görev kısım sayısı.
+633,Henüz tamamlanmamış görev kısmı.
+634,Görev kısmını tamamlama ödülü zaten alındı.
+635,Görev kısmını tamamlama ilerleyişi ödülü zaten alındı.
+636,Yetersiz görev parşömeni.
+637,Yetersiz görev parşömeni sıfırlama.
+701,"Yetenek maksimum seviyede.
+Karakterine seviye atlattıktan sonra tekrar dene."
+702,Yanlış yetenek dizilimi tanımlayıcısı.
+703,Yetenek dizilimi değiştirilemedi.
+704,"Yetenek, bu silahla kullanılamaz."
+801,Bu oyuncu zaten arkadaşın.
+802,Daha önce talep yolladın.
+803,Arkadaşlık isteği almadın.
+804,Arkadaşın değil.
+805,Oyuncu bulunamadı.
+806,Arkadaş listen dolu.
+807,Alınan arkadaşlık istekleri listen dolu.
+808,Kendini selamlayamazsın.
+809,Saten selamlamışsın.
+810,Kendine istek yollayamazsın.
+811,Önerilen arkadaş listesi oluşturulamadı.
+812,"Arkadaşın değil.
+1:1 sohbeti sadece arkadaş olan oyuncular kullanabilir."
+813,Arkadaşlarından gelen selamlama yok.
+814,Bu oyuncu arkadaşlık öğreticisini tamamlamadı.
+815,Arkadaşlık İsteği kabul edildi.
+816,Günlük selamlama sınırına ulaştın.
+817,Selamlayacak arkadaşın yok.
+818,Oyuncunun arkadaş listesi dolu.
+819,Çok fazla arkadaşlık isteği yolladın.
+847,Sadece Grup Lideri giriş isteği gönderebilir.
+848,Zaten bir zindana katıldın.
+849,Aksiyon bir gruptayken tamamlanamaz.
+850,Zaten oyuncu daveti yolladın.
+851,Bu grup dağılmış.
+852,Bir gruba davet edilmedin.
+853,Zaten bir grupta.
+854,Bir grupta değilsin.
+855,Grup lideri çevrimdışı.
+856,Buraya gidemezsin.
+857,Zaten grup liderisin.
+858,Yetkin yok.
+859,Kendine bunu yapamazsın.
+860,Grup dolu.
+861,Çevrimdışı.
+862,Gruba katılma isteği yollamadın.
+863,Seçtiğin kişi gidemeyeceğin bir bölgede veya çağrılamayan bir bölgede.
+864,Odada değil.
+865,Burada yapılamaz.
+866,Kale/Şato Fethi esnasında grup oluşturulamaz.
+867,Yetersiz grup üyesi
+868,Sadece grup lideri iptal edebilir.
+869,Bu oyuncu grup öğreticisini tamamlamadı.
+870,Zaten eşleştirildin.
+871,Bu bölgede hızlı bul kullanılamaz.
+872,Zindan içinde yapılamaz.
+873,Grupta değil.
+874,Yapılamaz.
+875,Zindana girmek için sırada değil.
+876,Bu grup üyesi bulunamadı.
+877,Yetersiz grup üyesi
+878,Grup eşleştirmesi esnasında yapılamaz.
+879,Zaten grup sesli sohbetinde.
+880,Sesli sohbette değil.
+881,Apollo ses hatası.
+882,Grup görevi paylaşılmamış.
+883,Üyelerden birinin seviyesi yetersiz.
+884,Zaten alım yapılıyor.
+885,Üyelerden biri ulaşılamayan bir bölgede.
+886,Grup üyelerinden birinin kalan zindan giriş sayısı yetersiz.
+887,Grup üyelerinden biri zindana girmek için gereken koşulları karşılamıyor.
+888,Grup tamamlanmadan yapılamaz.
+889,Gruba üye daveti sırasında yapılamaz.
+890,[Time] sonra talep edilebilir.
+891,Grubu katılma daha önce yolladın.
+892,Grup lideri yakında.
+893,Grup üyelerinden biri yapamaz.
+894,Bu grubu katılamazsın.
+901,"Bu tanımlayıcı, artık var olmayan bir klana veya başka bir klana ait."
+902,Klan adı çok uzun.
+903,Aynı adlı başka bir Klan var.
+904,Başka bir Klana üye.
+905,Klan üyesi değil.
+906,Klan yetkin yok.
+907,Bu klan duyurulmadı.
+908,Katılma talebi daha önce yolladın.
+909,Klana katılma talebi yollamadın.
+910,Klana daha fazla üye alamazsın.
+911,Sadece düşük rütbeli Klan üyelerine uygulanır.
+912,Bu birim bağış yapılamaz.
+913,Bağış sayısı yanlış.
+914,Suçlama için zaten oy verildi.
+915,Zaten klan girişi yaptın.
+916,Daha fazla klan selamlaması yapamazsın.
+917,Bu oyuncuyu zaten selamlamışsın.
+918,Yetersiz Klan Parası.
+919,Yanlış klan güçlendirmesi tanımlayıcısı.
+920,Bu klan güçlendirmesine zaten sahipsin.
+921,Kale bilgi tanımlayıcısı yanlış.
+922,Yetersiz Klan Adenası.
+923,Daha fazla alınamıyor.
+924,Klan amblem bilgi tanımlayıcısı yanlış.
+925,Bu Klan rütbesinden daha fazla veremezsin.
+926,Klanı yok.
+927,Zaten müttefiksiniz.
+928,İttifak talebi daha önce yollandı.
+929,Bir Klana davet almadın.
+930,Müttefik bir klan değil
+931,Daha fazla ittifak kuramazsın.
+932,Klanın daha fazla ittifak yapamaz.
+933,"Klan lideri, Klan'dan ayrılamaz."
+934,Daha fazla düşman klan ilan edilemez.
+935,Daha önce düşman ilan edildi.
+936,Düşman bir klan değil.
+937,Düşman bir klana savaş açılamaz.
+938,Düşman klan silinemez.
+939,Düşman savaşında teslim olamazsın.
+940,Klan güçlendirmesi yok.
+941,Düşman klanlarla ittifak kurulamaz.
+942,Müttefik klanlar düşman ilan edilemez.
+943,Minimum teklif miktarının üzerinde bir fiyat yazmalısın.
+944,Klan seviyesi düşük olduğundan bu özellik kullanılamaz.
+945,"Karşı Klan seviyesi çok düşük olduğundan, düşman ilan edilemez."
+946,"Üyelik kısıtlama seviyesi yükseltildi.
+Katılma talebi yollanamaz."
+947,"Katılma türü, onaylı katılma olarak değiştirildi.
+Katılma talebi yollanamaz."
+948,Günlük bağış limitine ulaştın.
+949,Yetersiz Kan Nişanı
+950,Günlük izin verilen maksimum miktarda alım yaptın.
+951,Daha fazla katılma talebi alamazsın.
+952,Klan adı yanlış.
+953,Klan adında boşluk olamaz.
+954,Klanın dağılması için tüm üyeler Klandan ayrılmalı.
+955,Bir klandan ayrılıp tekrar klana giriş cezası dolayısıyla klan aktivitesine katılamazsın.
+956,Zaten Klan üyesi.
+957,@GuildJoined
+958,Tüm düşman Klanlar kayıt edildi.
+959,Klan lideri değil.
+960,Haftalık izin verilen maksimum miktarda alım yaptın.
+961,Aylık izin verilen maksimum miktarda alım yaptın.
+962,Yüksek rütbeli üyeler atılamaz.
+963,Bu oyuncu Klan öğreticisini tamamlamadı.
+964,Daha fazla düşman Klan kaydı yapılamaz.
+965,Yetersiz Klan Kan Nişanı
+966,"Kale Fethi sırasında katılamazsın, terk edemezsin, Klan liderliğini devredilemez
+ve ayrılamazsın."
+967,"Şato Fethi sırasında katılamazsın, terk edemezsin, Klan liderliğini devredilemez
+ve ayrılamazsın."
+968,Klan Zindanı açıldı.
+969,Uygun bir klan üyesi değilsin.
+970,Bu Klan Zindanı daha önce tamamlandı.
+971,Sıfırlama haklarını kullandın.
+972,Bu klan zindanı henüz tamamlanmadı.
+973,Yetersiz Kırmızı YıldışTaşı.
+974,Klan giriş ödülü yok.
+975,Klan girişi yok.
+976,Klan giriş ödüllerini daha önce aldın.
+977,Bu Klan üyesi uzun süredir giriş yapmadı.
+978,Var olmayan veya kayıt edilmemiş bir Klan.
+1001,Yanlış geçit tanımlayıcısı.
+1002,Kontrol edilemez.
+1101,Kale Kuşatması teklifi başarısız.
+1102,Kale Kuşatması teklif iptali başarısız.
+1103,Kale Kuşatması yanlış.
+1104,Kale Kuşatması teklifi hakkında bilgi yok.
+1105,Yetersiz Kale Kuşatması Festival Kuponu
+1106,Kale Kuşatması Festivali Belgesi Yok
+1107,Teklif için yetersiz.
+1108,Teklif zamanı gelmedi.
+1109,Uzatma teklifi yapıldı.
+1110,Yanlış Kale Kuşatması Festivali slotu.
+1111,Sadece teklif veren Klanlar girebilir.
+1112,Şu an belge ödülü alınamıyor.
+1113,Kale Kuşatması devam etmiyor.
+1114,Aynı miktarda teklif veremezsin.
+1115,Bu dünyadan Kale Kuşatmasına katılamazsın.
+1116,Fethedilmiş Klan yok.
+1117,Kale Kuşatması geçmişi yok.
+1118,Kale Kuşatması Festivali etkin değil.
+1119,Klan fethedilmediğinden veya Kaleye teklif verilmediğinden alınamaz.
+1151,Teklif başarısız.
+1152,Teklif iptali başarısız.
+1153,Şato Kuşatması kaydı yanlış.
+1154,Şato Kuşatması teklifi hakkında bilgi yok.
+1155,Kapalı Bölge
+1156,Şato bilgi tanımlayıcısı yanlış.
+1157,Kale sahibi olan Klanlar teklif veremez.
+1158,Şato Kuşatması sona erdi.
+1159,Klanın Şato Kuşatması'na katılmadı.
+1160,Sadece Kale fethetmiş Klanlar alabilir.
+1161,Sadece Şato fethetmiş Klanlar alabilir.
+1162,Şato sahibi olan Klanlar teklif veremez.
+1190,"Sadece Kale Kuşatmasına veya Şato Kuşatmasına girmiş
+Klanlar kayıt olabilir."
+1201,Yanlış ücret.
+1202,@InvalidName
+1203,Kullanılabilir eşya yok.
+1204,Hatalı durum.
+1205,Giyilmiş bir eşya olmalı.
+1206,Satıcı.
+1207,Sonuç bulunamadı.
+1208,"Bu tür, kayıt edilemez."
+1209,Tükendi.
+1210,İzin verilen kayıt sayısını aştın.
+1211,Eşya derecesi eşleşmiyor.
+1212,İlgili isim ve kategori yok.
+1213,İlgili isim ve derece yok.
+1214,Pazar'a kaydolmak için yeterli Adena'n yok.
+1215,Pazar favori listen dolu.
+1216,Özdeş Favori Eşya
+1217,Favori Eşya yok.
+1218,Bu eşya kayıt edilemez.
+1219,Ruh Kristali kullanılıyor.
+1220,Kayıt edilebilecek maksimum eşya sayısına ulaştın.
+1221,Yetersiz Pazar Malzemesi
+1222,Bu eşyanın bir kısmı satıldı.
+1301,Eşya kimliği yanlış.
+1302,Geçersiz eşya alımı.
+1303,Yanlış para birimi.
+1304,Çekiliş türü yanlış.
+1305,Başlangıç eşyasını alamazsın.
+1306,Bekleme Süresindeyken alım yapamazsın.
+1307,Günlük satın alma limitine ulaştınız.
+1308,Haftalık satın alma limitine ulaştınız.
+1309,Aylık satın alma limitine ulaştınız.
+1310,Şu an alım yapılamaz.
+1332,BU eşyanın satışı sona erdi.
+1311,Bu eşya bedavaya alınamaz.
+1312,Aynı aylık paketi kullanıyorsun.
+1313,Aylık Paket Ödülünü yeteri kadar almadın.
+1314,Geçersiz talep.
+1315,Satın alınan eşyaların türleri uymuyor.
+1316,Zaten süreli bir eşya kullanıyorsun.
+1317,Dükkan ödül bilgi tanımlayıcısı yanlış.
+1318,Bonus Dükkan Etkinliği vakti gelmedi.
+1319,Dükkan ödül türü yanlış.
+1320,Alınabilecek ödül yok.
+1321,Etkinlik süresi yenilendi. Yeniden yükle.
+1322,Dönmeyecek oyuncu.
+1323,Yeni oyuncu değil.
+1324,Eşyanın satış süresi sona erdi.
+1325,Tükendi.
+1326,Almak için gereken şartlar sağlanamadı.
+1327,Alım başarısız.
+1328,Süreli eşya ödül türü yanlış.
+1329,Müşteri Destek Hizmet Talebi.
+1330,Akıllı bildiri bilgi tanımlayıcısı yanlış.
+1331,Sınırlı eşyanın hepsi satıldı.
+1401,Zindan tanımlayıcısı yanlış.
+1402,Zindan giriş hakkın kalmadı.
+1403,Belirli günlerde Günlük Zindanlara giriş bedavadır.
+1404,Zindan temizleme başarısız.
+1405,Zindan da değilsin.
+1406,"Giriş hakkın kalmadığı için
+Kibir Kulesi'ne giremezsin."
+1407,Zindan temizlenmedi.
+1408,Zindanlar için Oto-Temizleme seçeneği yoktur.
+1409,Günlük Zindanlara bedavaya giremezsin.
+1410,Daha fazla toplanamaz.
+1411,Zindan görev bilgisi yanlış.
+1412,Zindan görevi tamamlanmadı.
+1413,Zindanı temizleme ödülü daha önce aldın.
+1414,Ödül almak için zindan görev puanın yetersiz.
+1415,Zindan bonus süresi hala devam ediyor.
+1416,Zindan bonus süresi yenileme hakkın kalmadı.
+1417,Elit Zindan görevleri tamamlandıktan sonra Oto-Temizleme açılır.
+1418,Günlük zindan giriş hakkın kalmadı.
+1419,Zindan temizleme derecen düşük olduğu için Oto-Temizleme kullanılamaz.
+1420,Bulunduğun dünyadan zindana giremezsin.
+1421,Günlük Zindana girme şansını kaçırma.
+1422,Bu Günlük Zindana artık giremezsin.
+1423,Zindan giriş hakkın kalmadı.
+1424,Bu zindana giremezsin.
+1425,Hâlâ mevcut zindan giriş hakkın var.
+1426,Yenileme fırsatlarının hepsini kullandın.
+1501,PvP durumu yanlış.
+1502,Rütben değişti.
+1503,Kişinin rütbesi değişti.
+1504,Kişi savaşa hazır.
+1505,PvP'de saldırıya uğradın.
+1506,PvP'ye girmek için yeterli biletin yok.
+1507,Arenada değilsin.
+1508,PvP başlangıcı onaylanmadı.
+1509,PK değil.
+1510,Karambol listesi dolu.
+1511,Karambol listesinde bulunamadı.
+1512,Bu oyuncu zaten kayıtlı.
+1513,Silah kuşanmadın.
+1514,Ödül daha önce alındı.
+1515,Arena Sıralaman yok.
+1516,Arena Ödülün yok.
+1517,Daha fazla PvP bileti alamazsın.
+1518,Yanlış Düello Rakibi.
+1551,Sınıf geçişi görevi devam ediyor.
+1552,Sınıf geçişi görevi hâlâ devam ediyor.
+1553,Kalan sınıf geçişi ödülü var.
+1554,Tamamlanamaz.
+1555,Ödüller alınamaz.
+1556,Yanlış sınıf geçişi görevi tanımlayıcısı.
+1601,Görevi zaten tamamladın.
+1602,@NotCompeletableStateMissionRequest
+1603,@InvalidQuestInfoId
+1604,Görev ödülü tanımlayıcı yanlış.
+1701,Öğretici tanımlayıcı yanlış.
+1702,Öğretici başlatılamadı.
+1703,Öğretici bölümü yanlış.
+1704,@TutorialWorldAcquireFailed
+1705,Öğretici bölümü tamamlandı.
+1706,Öğretici malzemesini önceden aldın.
+1707,Öğretici henüz başlamadı.
+1708,Zorunlu öğretici devam ediyor.
+1709,Öğretici önceden tamamlandı.
+1710,Ödülü aldın zaten.
+1711,Öğretici Oyuncusu - Sadece öğreticiyi çalıştırır
+1712,Bu bir öretici oyuncusu değildir.
+1713,Geçilemez.
+1714,Zindanlarda öğretici çalışmaz.
+1801,Redis sunucu hatası.
+1802,Yanlış sıralama bilgisi tanımlayıcısı.
+1803,Sıralama bilgisi yok.
+1804,Yanlış sayfa.
+1850,Sesli sohbet sıfırlanmadı.
+1851,Sesli sohbet sunucusu ile senkron yakalanamadı.
+1901,Kale Kuşatması Festival Kuponu limitine ulaştın.
+1902,SP limitine ulaştın.
+1903,Arena Bileti limitine ulaştın.
+1904,Kırmızı Elmas limitine ulaştın.
+1905,Mavi Elmas limitine ulaştın.
+1906,Sadakat Puanı limitine ulaştın.
+1907,Arkadaşlık Puanı limitine ulaştın.
+1908,Topaz limitine ulaştın.
+1909,Klan Parası limitine ulaştın.
+1910,Adena limitine ulaştın.
+2001,Etkinlik türü yanlış.
+2002,Etkinlik şu an devam etmiyor.
+2003,Etkinlik ödüllerini önceden aldın.
+2004,Yanlış etkinlik koşulları.
+2005,Etkinlik koşullarını tamamlayamazsın.
+2006,Toplayabileceğin maksimum etkinlik ödülünü topladın.
+3000,Hediye alacak olan NetmarbleS IAP Hedefi limiti aşmış.
+3001,NetmarbleS IAP Hediye limiti aşıldı.
+3002,NetmarbleS IAP Ödeme limiti aşıldı.
+3003,NetmarbleS IAP Hatası.
+3004,NetmarbleS IAP Kaydedilmemiş bir eşya.
+3005,NetmarbleS IAP Sunucu cevap vermiyor. Tekrar dene.
+3006,NetmarbleS IAP Sunucu bakımı sürüyor.
+3007,Eşya seti hatalı.
+3008,Eşyanın satış süresi sona erdi.
+3009,Bu eşya stokta yok.
+3101,Ön kayıt onaylanmadı.
+3102,Ön kayıt onaylaması başarısız.
+4001,Oyuncu bu bölgeye henüz girmedi.
+9000,Silinmek için paketlendi.
+9001,Yakında
+9002,Aşıldı.
+981,Klan Meydanı TP seviye atlamak için yetersiz.
+980,"Bu klan meydanı kapalı.
+Sadece Klan Meydanı kapıları açıkken girebilirsin."
+990,Bu klan henüz Klan Meydanı kurmadı
+991,Zaten Klan Meydanı'ndasın.
+5600,"Grup liderinin puanıyla arasında 200 puandan fazla olan
+oyuncuları Savaş Alanı grubuna davet edemezsin."
+5601,Bu oyuncu zaten Savaş Alanı Grubu'nda.
+498,"Güç Şerbeti aktifken
+Güç Şerbeti satın alamazsın."
+992,Bu üye alabileceği maksimum ödül sayısına ulaştı.
+993,Ödül verebileceğin üye yok.
+92,"Çağırma süresi sona erdiği için bariyer kapandı.
+Bu zindandaki savaş sona erdi."
+5602,"Şu an sezon dışındayız.
+Normal sezon başlangıcında puanın hesaba katılacak."
+999,İçeride hâlâ bir oyuncu olduğu için klan meydanı kapatılamıyor.
+1013,Klan Lideri için sadece 7 günden fazla süredir üye olan oyuncuları aday gösterebilirsin.
+979,Zaten Klan Meydanı'nı aldın.
+982,Birlik Parçası Kristali seviye yükseltme için yetersiz.
+1004,"Klan Meydanı Solo görevleri her gün yeniler ve
+her gün sadece bir görev açılır."
+983,"Bir gün boyunca istediğin kadar Klan Meydanı görevi yapabilirsin ama
+aynı anda sadece 3 görev yapılabilir."
+984,Bu Klan Meydanı Görevi zaten devam etmekte.
+985,Başka bir klan üyesi bu görevle uğraşıyor zaten.
+986,Bu görev önceden tamamlandı.
+987,Bu görev şu an yapılmıyor.
+988,Bu göre şu an tamamlanamaz.
+989,"Birlik Kristali'ni güçlendirmek için
+Birlik Meydanı'nın seviyesini yükselt."
+994,"Daha yüksek derece
+Sorumlu kirala."
+995,Başka bir Yadigar kaydedildi.
+996,Kaydedilmiş bir Yadigar yok.
+997,Yadigar'a değer biçmek için daha fazla zaman gerek.
+998,Klan Yadigar Sandığı Puanı yetersiz.
+1000,"Aynı kalitede veya daha iyi bir ziyafet
+zaten hazırlandı."
+1010,Bu sorumlu başka bir işle meşgul.
+1011,Bu bilinmeyen tür bir sorumlu.
+1012,Sorumlu seçilen dereceye geliştirilemiyor.
+1021,Düşman bir klanla savaşılmıyor.
+1022,Düşman klanla zaten bir anlaşma yapıldı.
+1023,Düşman klanla bir anlaşma yapılmadı.
+1024,Düşman klanla bir anlaşma yapılmadı.
+1025,Savaşmak için yeterli düşman klan üyesi yok.
+93,Savaş esnasında sohbet kanalını değiştiremezsin.
+500,Hareket etmek için Kargaşa Arenası'ndan çık.
+97,Onur Nişanı yetersiz.
+98,Cesaret Nişanı yetersiz.
+99,Antik Nişan yetersiz.
+1911,Onur Nişanı limitine ulaştın.
+1912,Cesaret Nişanı limitine ulaştın.
+1913,Antik Nişan limitine ulaştın.
+895,Savaş Alanın hazırlanıyor. Giriş yapılamaz.
+1014,Şömine'de ateş yakmak için Çıra yetersiz.
+1015,Üretim sınırına ulaşıldı.
+1051,Bu eşya ödül olarak verilemez.
+400,Hiç SP yok.
+5300,Yanlış binek tanımlayıcı.
+5301,Yanlış binek bilgi tanımlayıcı.
+5302,Kullanılan bir binek yok.
+5303,Üstünde olduğun bineğe binmeye çalışıyorsun.
+5304,Bu başka bir bineğin eşyası.
+5305,Bu bineğin kullanım limiti doldu.
+5306,Binek bilgisi uyuşmuyor.
+5307,Seviyen düşük olduğu için binek aktif edilemiyor.
+5308,Aktif bir binek yok.
+5309,Bineğin derecesi düşük.
+5310,Bu bineğin aktif edilmesi için gerekenler tamamlanmadı.
+5311,Bu bir binek eşyası değildir.
+5312,Bu bineği kullanmak için yanlış slot.
+5313,Binek seviye atlama malzemesi yetersiz.
+5314,Burada binek kullanamazsın.
+5315,Bu bineğin seviyesi düşük.
+6500,Maksimum bağ limitine ulaşıldı.
+896,"Geçersiz karakterler kullandın.
+(Özel karakterler ve argo kullanılamaz)"
+898,"Boşluklarla beraber sadece 2-16 karakter
+(Korece/Çince içeriyorsa 2-12 karakter)
+kullanılabilir."
+897,Peş peşe iki boşluk kullanamazsın.
+5400,Şu an kullanılamaz.
+1121,Kuşatma Üssü yok edildiği için girilemez.
+899,"Kale Kuşatması ve Şato Kuşatması'nda sadece klan üyelerinin
+kurduğu bir gruba girebilir veya onları kendi grubuna davet edebilirsin."
+6600,Şu an kullanılamaz. İsmi sadece sahadayken değiştirebilirsin. Bir gruptayken değiştiremezsin.
+1055,Netmarble sunucusuna bağlanamadı. Lütfen tekrar dene.
+900,Bulunduğun konunda davet almaz ve yollayamazsın.
+5603,Sıralama süresi boyunca grup eşleştirme kullanılamaz.
+5604,Sıralama testlerinde yer alan oyuncularla eşleştirilemezsin.
+7100,"Derece UR, Ek Özellik malzemesi olarak kullanılamaz."
+107,"Ölüyken giremezsin.
+Dirildikten sonra tekrar dene."
+1056,Seviyen gerekli giriş seviyesinden düşük.
+1057,Savaş gücün gerekli savaş gücünden düşük.
+1058,Yeterli Klan Yardımı giriş sayısına sahip değilsin.
+1059,Klan Zindanı Yardımı'na katılabilecek maksimum oyuncu sayısına ulaştın.
+1060,Bir zindandayken [Katıl] tuşunu kullanarak başka bir zindana giremezsin.
+1061,Klan Zindanı desteği için seviye aralığının dışındasın.
+1062,Klan Zindanı desteği için savaş gücü aralığının dışındasın.
+1063,Klan Zindanı yardımı için destek oyuncu sayısının dışındasın.
+1064,Klan Zindanı Yardım Çağrısı beklemeye alındı.
+108,Maksimum Anında Dirilme sayısına ulaştın.
+109,Çok kalabalık olduğundan girilemiyor.
+110,Yetersiz Yeşil Elmas.
+111,@NotEnoughFreeDiamondStorage
+112,Yetersiz Mavi Elmas veya Yeşil Elmas.
+1914,Yeşil Elmas limitine ulaştın.
+1065,Klan Zindanı baş düşmanı yenildi.
+638,"Zaten bir özel görevin var.
+Önce devam ettiğin özel görevi bitirmelisin."
+1066,@PartyInvalidName
+1067,İntikam alınacak bir hedef yok.
+1068,Oyuncu odada değil.
+1069,Burada intikam desteklenemez.
+1605,Yolculuk Görevi ödülü yok.
+5101,"Unvan etkinleştirildiği için
+eşyaları kullanamazsın."
+113,@PartyInvalidName
+1005,Bu oyuncu daha önce klana davet edildi.
+1006,Klana davet başarısız. Maks klan davet sayısına ulaşıldı.
+1007,Bu oyuncu klan davetini reddetti.
+1008,Bu oyuncu klana davet edilemez.
+114,"Boşluklarla beraber sadece 2-25 karakter
+(Korece/Çince içeriyorsa 2-20 karakter)
+kullanılabilir."
+1026,Klan davet reklamı kısa sürede açılacak.
+1334,"Bu satın alma sadece klan üyesi oyunculara açıktır.
+Lütfen bir klana katıldıktan sonra tekrar dene."
+1009,@PartyInvalidName
+1018,@PartyInvalidNameSpace
+1019,@PartyInvalidNameLength
+5607,Sezon ödülü daha önce alındı.
+6203,Adena kullanırken yetersiz açıklık. Adena ile sadece 2 günlük açabilirsin.
+8600,Yanlış mini-oyun tanımlayıcı
+8601,Kalan Ödül yok
+8602,Mini-oyun dünyasında değil
+8603,Mini-oyuna girilemiyor
+1027,Kalan Klan Meydanı Görevi yok.
+1430,"Bir Grup Üyesi ayrılma cezasından etkileniyor.
+Girilemiyor."
+1431,"Yakın zamanda bir Zaman Yarığını terk ettin.
+Bir süre giremezsin."
+2211,Bu pelerin zaten alınmış.
+2212,Yanlış pelerin türü.
+2213,Pelerin bulunamıyor.
+2214,Pelerin etkinleştirme için gerekli pelerine sahip değilsin.
+2215,Pelerin seviyesi pelerin etkinleştirme için çok düşük.
+2216,Pelerin Savaş Dizini verisi yanlış.
+2217,Pelerin Savaş Dizini verisi bulunamıyor.
+2218,Pelerin maksimum seviyede.
+2219,Pelerin etkinleştirilmemiş.
+2220,Pelerin renk verisi yanlış.
+2221,Pelerin tür verisi yanlış.
+2222,Pelerin altdeğer kilit verisi yanlış.
+2223,Sadece Klan Liderleri Klan Pelerinlerinin seviyesini yükseltmeyi veya rengini değiştirmeyi seçebilir.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
+122,Yasaklı kelime içeriyor.
+123,@PartyInvalidNameSpace
+7103,Eşya kullanım seviyesi maksimumda.
+1432,Ödül sayısı maksimumdayken yenilenemiyor.
+1433,Tüm ödül yenileme haklarını kullandın.
+-1,Hazine Panousu'nda maksimum sıfırlama miktarına ulaştın. Sıfırlanamıyor.
+6201,Bir sonraki Hazine Panosu'nu sıfırlamak için en az 20 hücre açman gerekir.
+6202,Yetersiz toplam açılmış hazine.
+1333,Lig Kategorisi satın alma için çok düşük.
+1434,Yarık kapalı olduğu için giremezsin.
+2201,Bu etkinlik bulunamadı.
+2202,Yakında.
+2203,Bu etkinlik sona erdi.
+2204,Bütün çekiliş ödülleri kullanıldı.
+2205,Yeterli Bilet yok.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Karakter Adı Mükerrer
+7300,Karakter Sınırı
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Sınırlı süreli eşyalar kullanılamaz.
+1350,Şato Fethi'ne katılım talebinde zaten bulunulmuş.
+1351,Bir oyuncu Şato Fethi'ne girmek için beklemede.
+1352,Bir oyuncu bulunamıyor.
+1353,Grubunda zaten bir oyuncu var.
+1354,Şato Fethi grubu bulunamıyor.
+1355,Grup üyesi sayısı maksümumda.
+1356,Oyuncu şu an Şato Fethi'nde.
+1357,Gruba dahil değil.
+1358,Grup lideri değil.
+1359,Kendini atamazsın.
+1360,Bu oyuncu bulunamıyor.
+1361,Bu eylem Grup Lideri tarafından gerçekleştirilemez.
+1362,Bu eylem hazırlık sırasında gerçekleştirilemez.
+1363,Şu anda mümkün değil.
+1364,Hazırlıkları tamamlamak için bir sınıf seç.
+1365,Bir grup üyesi hazır değil.
+1366,Hazır!
+1367,Henüz hazır değil.
+1368,Bu eylem şu anda gerçekleştirilemez.
+1369,Eski katılım geçmişi saptandı.
+1370,Zindana girmeye hazırlanılıyor.
+1371,Bir oyuncu zindana girmeye hazırlanıyor.
+1372,"Bu aksiyon, bir oyuncu Şato Fethi'ne katılma isteği göndermişken kullanılamaz."
+1373,Oyuncu şu an Şato Fethi'nde.
+1374,Bu bölgeden Şato Fethi'ne giremezsin.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,Şato Kuşatması'na (veya Kale Kuşatması'na) katılan bir klan üyesi izleyici modunu kullanmak için önce giriş yapmalıdır.
+1442,Bu eşya artık satılmıyor.
+7700,Ustalık Nişanı yetersiz.
+1191,현재 관전 인원수가 최대 입니다.
+2008,Zaten son kısma ulaştın. Etkinliğe tekrar göz at.
+1339,Sadece uygun Dereceli bir Şato fethedildikten sonra satın alınabilir.
+2009,Maksimum Zar Oyunu sayısına ulaştın.
+-1,Kukla
+7550,Zaman dolduğu için eşya alınamıyor.
+1120,Bırakılamıyor.
+2250,"Mevcut SG, seçilen bölgenin önerilen miktarından miktarından düşük. Katılamazsın."
+2251,Oyuncu şu anda eşleşmiyor.
+2252,Canavar Çağırma Taşı bilgisi ok.
+2253,Şu an Zindanda değil.
+2254,Grup Lideri terk etti. Zindandan çıkılıyor.
+2255,Aksiyon Canavar Zindanı'nda iken tamamlanamaz.

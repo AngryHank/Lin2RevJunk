@@ -1,0 +1,129 @@
+Type,Name
+0,Unito all’Arma
+1,Att. F.
+2,Att. M.
+3,Livello di aumento Att. F.
+4,Livello di aumento Att. M.
+5,Potere di Attacco di base
+6,Livello di aumento Att. membro del gruppo
+7,Livello di aumento Vel. Att.
+8,Buff
+9,Livello di aumento danni critici
+14,Aum. Liv. Precisione crit.
+15,Aumento tasso resistenza critica
+16,Dan. F.
+17,Dan. M.
+18,Ignora Dif.
+19,Diminuzione PS Bersaglio
+20,Diminuzione PS Bersaglio (%)
+21,Dif. F.
+22,Dif. M.
+23,Livello di aumento Dif. F.
+24,Livello di aumento Dif. M.
+26,Elusione
+27,Livello di aumento Elusione
+28,Aumento Livello di Elusione
+29,Precisione
+30,Livello di aumento Precisione
+31,Aumento Livello di Precisione
+32,Livello di aumento Danni
+33,Livello di aumento Dan. F.
+34,@IncreaseDamagePhyMul
+35,Livello di aumento danni a Bersagli rallentati
+36,Ignora Danni Dif.
+37,Livello di riduzione Danni
+38,Livello di riduzione Dan. F.
+39,Livello di riduzione Dan. M.
+40,Riduzione danno costante
+41,Possibilità di parata
+42,Livello di riduzione Danni Parata
+43,Dan. F. nel tempo
+44,Dan. M. nel tempo
+45,Recupera PS in base ad Att.
+46,Guarigione nel tempo
+47,Effetto del terreno
+48,Livello di aumento Aggressività
+49,PS
+50,Aumenta i PS in base alla percentuale di PS Massimi
+51,Rigen. PS
+52,Esaurimento PS
+53,Assorbimento PS (Un’abilità attiva che ruba PS al nemico)
+54,Assorbimento PS (Assegna i PS rubati a te e ai membri del tuo gruppo)
+55,Invincibile
+56,Invisibile
+57,Aumento livello di Rilascio oggetti
+58,PS Massimi
+59,Liv. aum. massimo PS
+60,PM Massimi
+61,Livello di aumento PM massimi
+62,Livello di aumento Velocità
+63,PM
+64,Aumenta i PM in base a una percentuale di PM Massimi
+65,Livello diminuzione costo PM
+66,Diminuzione costo PM
+67,Livello di Rigen. PM
+68,Uccisione istantanea
+69,Proiettile
+70,Diminuzione Tempo di attesa abilità
+71,Intelligente (il costo PM per tutte le Abilità è 1)
+72,Bonus Attacco Colpo d’Anima
+73,Duraturo (tutti i danni subiti sono pari a 1)
+74,Stordimento
+75,Sogghigno (Aumenta Aggro al massimo)
+76,Blocca Bersaglio
+77,Sposta Bersaglio
+78,Strattona Bersaglio
+79,Livello di resistenza agli strattoni
+81,Livello di resistenza agli spintoni
+83,Elisir
+84,Nessun effetto
+85,Identificatore Info tabella abilità
+179,Buff AE (Totem Aura)
+86,Esp.
+87,Livello di aumento Esp. ottenuta
+88,Adena
+89,Livello di aumento guadagno di Adena
+90,Diamante Gratis
+91,Diamante Pagato
+92,Moneta del clan
+93,Frammento di Runa
+94,PA
+95,Completamento
+96,Rilascio oggetti
+97,Liv. resist. Lentezza
+98,Livello di Resistenza di Stordimento e Abbattimento
+99,Tasso resistenza allo stato anormale
+103,Aumento Campo abilità
+104,Aumento Totale colpi Abilità
+100,Aumento Tempo finale combo
+101,Penetrazione
+102,Recupero
+105,Aumento Velocità Estrazione
+106,Aumento Totale Estrazione
+10,Livello crit.
+11,Resistenza Critica
+12,Livello di aumento Livello crit.
+13,Livello di aumento Resistenza critica
+125,Controllo mentale
+133,Aumento Danni abilità attacco normale
+140,Diminuisce il Tempo di attesa abilità del %.
+146,Diminuisce i PM del bersaglio
+147,Diminuisce i PM del bersaglio del %.
+148,Ripristina i PM relativi all’Att.
+179,Dif. Livello di aumento proporzionale alla dimensione del gruppo
+151,Rimuove lo Stato anormale
+152,Rimuove buff del target
+153,Immune ai danni sotto una certa quantità di PS
+136,Rigen. PS Rigen. PS
+163,Tasso di incremento Danni finali
+164,Livello di riduzione Dan. Finale + Dan. Aggiunto
+165,@NormalSkillDamageMul
+174,Aumento abilità di guaritore normale
+171,Amplificazione Livello di Resistenza di Stordimento e Abbattimento
+170,Amplificazione lenta del Livello di Resistenza
+169,Amplificazione del Livello di Resistenza Crit.
+131,Aumento Danni inflitti a mostri
+132,Diminuzione Danni subiti da Mostri
+176,Aumento Danni inflitti a mostri abilità normale
+177,@NormalSkillMonsterDamageMul
+160,"Livello di aumento Danni in base al grado PNG, Razza"

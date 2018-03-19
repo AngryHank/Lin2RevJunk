@@ -1,0 +1,445 @@
+Id,Nme,Desc
+1,Missionsgrundlagen,Besiege {TaskCount} Monster.
+2,Elite-Dungeon-Profi,Betritt {TaskCount} Mal einen Elite-Dungeon.
+4,Vorratsausrüstung,Erhalte {TaskCount}x Ausrüstung.
+5,Beutesammlung,Erhalte {TaskCount} Monsterkern(e).
+7,Besiege Elite-Dungeon-Monster!,Besiege {TaskCount} Monster in Elfenruinen 1.
+8,@1,@1
+9,Die Bedeutung der Manaregelung,Benutze {TaskCount} oder mehr MP-Tränke.
+10,Sammle Seelenkristalle!,Erhalte {TaskCount} Seelenkristall(e).
+11,Komboexperte!,Erreiche {TaskCount} Kombo(s).
+13,@1,@1
+14,Versorgung mit Verbrauchsgütern!,Kaufe {TaskCount} Mal einen Gegenstand im Hauptladen.
+15,Die Bedeutung des Zustands,Benutze {TaskCount} oder mehr LP-Tränke.
+16,@11,@11
+18,Waghalsige Siegesböe,Erreiche {TaskCount} Duellsieg(e) (hintereinander).
+19,@1,@1
+20,Questschriftrollen aktivieren!,Vervollständige eine Questschriftrolle der Stufe A {TaskCount} Mal.
+21,Kampfkraftverbesserung,Benutze {TaskCount} oder mehr Seelenschüsse.
+22,@11,@11
+23,Unaufhaltsames Wachstum!,Erhöhe das Level von Ausrüstung {TaskCount} Mal.
+24,"Zeit, Fertigkeiten zu stärken!",Erhalte {TaskCount} FP.
+25,Superkraft!,Erreiche {TaskCount} Einzeltreffer Schaden.
+26,@18,@18
+28,@1,@1
+29,@11,@11
+30,@1,@1
+31,@2,@2
+33,@4,@4
+34,@5,@5
+36,@7,Besiege {TaskCount} Monster in Elfenruinen 2.
+37,@1,@1
+38,@9,@9
+39,@10,@10
+40,@11,@11
+42,@1,@1
+43,@14,@14
+44,@15,@15
+45,@11,@11
+47,@18,@18
+48,@1,@1
+49,@20,@20
+50,@21,@21
+51,@11,@11
+52,@23,@23
+53,@24,@24
+54,@25,@25
+55,@18,@18
+57,@1,@1
+58,@11,@11
+59,@1,@1
+60,@2,@2
+62,@4,@4
+63,@5,@5
+65,@7,Besiege {TaskCount} Monster im Ameisennest 1.
+66,@1,@1
+67,@9,@9
+68,@10,@10
+69,@11,@11
+71,@1,@1
+72,@14,@14
+73,@15,@15
+74,@11,@11
+76,@18,@18
+77,@1,@1
+78,@20,@20
+79,@21,@21
+80,@11,@11
+81,@23,@23
+82,@24,@24
+83,@25,@25
+84,@18,@18
+85,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+86,@1,@1
+88,@1,@1
+89,@2,@2
+91,@4,@4
+92,@5,@5
+94,@7,@65
+95,@1,@1
+96,@9,@9
+97,@10,@10
+98,@11,@11
+100,@1,@1
+101,@14,@14
+102,@15,@15
+103,@11,@11
+105,@18,@18
+106,@1,@1
+107,@20,@20
+108,@21,@21
+109,@11,@11
+110,@23,@23
+111,@24,@24
+112,@7,@65
+113,@18,@18
+114,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+115,@1,@1
+117,@1,@1
+118,@2,@2
+120,@4,@4
+121,@5,@5
+123,@7,Besiege {TaskCount} Monster im Ameisennest 2.
+124,@1,@1
+125,@9,@9
+126,@10,@10
+127,@11,@11
+129,@1,@1
+130,@14,@14
+131,@15,@15
+132,@11,@11
+134,@18,@18
+135,@1,@1
+136,@20,@20
+137,@21,@21
+138,@11,@11
+139,@23,@23
+140,@24,@24
+141,@7,@123
+142,@18,@18
+143,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+144,@1,@1
+146,@1,@1
+147,@2,@2
+149,@4,@4
+150,@5,@5
+151,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+152,Reitbegleiter aufpeppen!,Erhalte {TaskCount} Mal Reitbegleiter-Ausrüstung.
+153,@7,@123
+154,@1,@1
+155,@9,@9
+156,@10,@10
+157,@11,@11
+158,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+159,@1,@1
+160,@14,@14
+161,@15,@15
+162,@11,@11
+164,@18,@18
+165,@1,@1
+166,@20,@20
+167,@21,@21
+168,@11,@11
+169,@152,Lasse Reitbegleiter-Ausrüstung {TaskCount} Mal im Level aufsteigen.
+170,@23,@23
+171,@24,@24
+172,@7,@123
+173,@18,@18
+174,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+175,@1,@1
+177,@1,@1
+178,@2,@2
+180,@4,@4
+181,@5,@5
+182,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+183,@152,@152
+184,@7,Besiege {TaskCount} Monster der Etage 2 des Cruma-Turms.
+185,@1,@1
+186,@9,@9
+187,@10,@10
+188,@11,@11
+189,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+190,@1,@1
+191,@14,@14
+192,@15,@15
+193,@11,@11
+195,@18,@18
+196,@1,@1
+197,@20,@20
+198,@21,@21
+199,@11,@11
+200,@152,@169
+201,@23,@23
+202,@24,@24
+203,@7,@184
+204,@18,@18
+205,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+206,@1,@1
+208,@1,@1
+209,@2,@2
+211,@4,@4
+212,@5,@5
+213,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+214,@152,@152
+215,@7,Besiege {TaskCount} Monster der Etage 3 des Cruma-Turms.
+216,@1,@1
+217,@9,@9
+218,@10,@10
+219,@11,@11
+220,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+221,@1,@1
+222,@14,@14
+223,@15,@15
+224,@11,@11
+226,@18,@18
+227,@1,@1
+228,@20,@20
+229,@21,@21
+230,@11,@11
+231,@152,@169
+232,@23,@23
+233,@24,@24
+234,@7,@215
+235,@18,@18
+236,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+237,@1,@1
+239,@1,@1
+240,@2,@2
+241,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+242,@4,@4
+243,@5,@5
+244,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+245,@152,@152
+246,@7,@215
+247,@1,@1
+248,@9,@9
+249,@10,@10
+250,@11,@11
+251,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+252,@1,@1
+253,@14,@14
+254,@15,@15
+255,@11,@11
+257,@18,@18
+258,@1,@1
+259,@20,@20
+260,@21,@21
+261,@11,@11
+262,@152,@169
+263,@23,@23
+264,@24,@24
+265,@7,@215
+266,@18,@18
+267,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+268,@1,@1
+269,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+270,@1,@1
+271,@2,@2
+272,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+273,@4,@4
+274,@5,@5
+275,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+276,@152,@152
+277,@7,Besiege {TaskCount} Monster der Katakombe 1 des Elfenbeinturms.
+278,@1,@1
+279,@9,@9
+280,@10,@10
+281,@11,@11
+282,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+283,@1,@1
+284,@14,@14
+285,@15,@15
+286,@11,@11
+288,@18,@18
+289,@1,@1
+290,@20,@20
+291,@21,@21
+292,@11,@11
+293,@152,@169
+294,@23,@23
+295,@24,@24
+296,@7,@277
+297,@18,@18
+298,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+299,@1,@1
+300,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+301,@1,@1
+302,@2,@2
+303,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+304,@4,@4
+305,@5,@5
+306,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+307,@152,@152
+308,@7,Besiege {TaskCount} Monster der Katakombe 2 des Elfenbeinturms.
+309,@1,@1
+310,@9,@9
+311,@10,@10
+312,@11,@11
+313,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+314,@1,@1
+315,@14,@14
+316,@15,@15
+317,@11,@11
+319,@18,@18
+320,@1,@1
+321,@20,@20
+322,@21,@21
+323,@11,@11
+324,@152,@169
+325,@23,@23
+326,@24,@24
+327,@7,@308
+328,@18,@18
+329,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+330,@1,@1
+331,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+332,@1,@1
+333,@2,@2
+334,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+335,@4,@4
+336,@5,@5
+337,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+338,@152,@152
+339,@7,Besiege {TaskCount} Monster der Katakombe 3 des Elfenbeinturms.
+340,@1,@1
+341,@9,@9
+342,@10,@10
+343,@11,@11
+344,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+345,@1,@1
+346,@14,@14
+347,@15,@15
+348,@11,@11
+350,@18,@18
+351,@1,@1
+352,@20,@20
+353,@21,@21
+354,@11,@11
+355,@152,@169
+356,@23,@23
+357,@24,@24
+358,@7,@339
+359,@18,@18
+360,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+361,@1,@1
+362,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+363,@1,@1
+364,@2,@2
+365,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+366,@4,@4
+367,@5,@5
+368,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+369,@152,@152
+370,@7,Besiege {TaskCount} Monster der Krone des Geheimniswaldes
+371,@1,@1
+372,@9,@9
+373,@10,@10
+374,@11,@11
+375,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+376,@1,@1
+377,@14,@14
+378,@15,@15
+379,@11,@11
+381,@18,@18
+382,@1,@1
+383,@20,@20
+384,@21,@21
+385,@11,@11
+386,@152,@169
+387,@23,@23
+388,@24,@24
+389,@7,@370
+390,@18,@18
+391,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+392,@1,@1
+393,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+394,@1,@1
+395,@2,@2
+396,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+397,@4,@4
+398,@5,@5
+399,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+400,@152,@152
+401,@7,Besiege {TaskCount} Monster des Unterholzes des Geheimniswaldes
+402,@1,@1
+403,@9,@9
+404,@10,@10
+405,@11,@11
+406,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+407,@1,@1
+408,@14,@14
+409,@15,@15
+410,@11,@11
+412,@18,@18
+413,@1,@1
+414,@20,@20
+415,@21,@21
+416,@11,@11
+417,@152,@169
+418,@23,@23
+419,@24,@24
+420,@7,@401
+421,@18,@18
+422,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+423,@1,@1
+424,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+425,@1,@1
+426,@2,@2
+427,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+428,@4,@4
+429,@5,@5
+430,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+431,@152,@152
+432,@7,용의 동굴 지하 1층 몬스터 {TaskCount}마리 처치
+433,@1,@1
+434,@9,@9
+435,@10,@10
+436,@11,@11
+437,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+438,@1,@1
+439,@14,@14
+440,@15,@15
+441,@11,@11
+443,@18,@18
+444,@1,@1
+445,@20,@20
+446,@21,@21
+447,@11,@11
+448,@152,@169
+449,@23,@23
+450,@24,@24
+451,@7,@432
+452,@18,@18
+453,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+454,@1,@1
+455,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.
+456,@1,@1
+457,@2,@2
+458,Klanhallen-Besucher,Betrete die Klanhalle {TaskCount} Mal.
+459,@4,@4
+460,@5,@5
+461,Für den Klan!,Erhalte {TaskCount} Blutzeugnis(se).
+462,@152,@152
+463,@7,용의 동굴 지하 2층 몬스터 {TaskCount}마리 처치
+464,@1,@1
+465,@9,@9
+466,@10,@10
+467,@11,@11
+468,Die Werkstatt in Gang setzen!,Mache {TaskCount} Bindungsversuch(e).
+469,@1,@1
+470,@14,@14
+471,@15,@15
+472,@11,@11
+474,@18,@18
+475,@1,@1
+476,@20,@20
+477,@21,@21
+478,@11,@11
+479,@152,@169
+480,@23,@23
+481,@24,@24
+482,@7,@463
+483,@18,@18
+484,Klanrelikt-Truhen-Vorrat,Erhalte {TaskCount} Klanrelikt-Truhe(n).
+485,@1,@1
+486,Wertvolle Hilfe von Klans,Beantworte {TaskCount} Mal eine Klanhilfeanfrage.

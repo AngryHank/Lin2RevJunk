@@ -1,0 +1,43 @@
+Key,Value
+10001,Paket versiyonu sunucu ile uyuşmadı. Uygulamayı yeniden başlat.
+10002,Güncelleme için oyunu yeniden başlat.
+10003,Sunucu Hatası (DB)
+10004,Sunucu Hatası (LUA)
+10005,Excel Tablo Hatası
+10006,Sunucu Hatası (Parametre)
+10007,Sunucu Hatası (Logic)
+10008,Sunucu Hatası
+10009,Giriş yapmadın.
+10010,Zaten giriş yapmışsın.
+10011,Atılabilecek kimse yok.
+10012,Doğrulama Hatası
+10013,Yanlış karakter tanımlayıcı.
+10014,Hatalı Sınıf Bilgisi
+10015,Hatalı cinsiyet.
+10016,Hatalı isim.
+10017,Hatalı NPC bilgisi.
+10018,Geçersiz oyuncu tanımlayıcı
+10019,Yanlış ırk bilgisi
+10020,Hatalı yetenek
+10021,Hatalı yetenek hedefi
+10022,Hatalı durum
+10023,Yanlış coğrafi bilgi
+10024,Cihaz tanımlayıcı boş
+10025,İsim zaten kullanılıyor.
+10026,Beceri döküm aşamasındadır.
+10027,Sermsemletilmiş durumda.
+10028,Ölü değilsin.
+10029,Yetersiz Mana.
+10030,Oturum kapandı.
+10031,GameToken güncel değil.
+10032,"Protokol hatası.
+Güncelleme gerekli."
+10033,Sistem Hatası
+10034,GameToken Format Hatası
+10035,GameToken yok.
+10036,Bakım sürüyor.
+10037,Hesap boş.
+10038,Yakında geliyor.
+10039,Bu sunucuda karakter yaratmak yasak olduğundan giremezsin. Başka sunucu seç.
+10040,Netmarble Güvenlik Hatası
+10100,Bu oyuncu terk etti.

@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Maceracı,"Potansiyeli olan bir acemi. Savaşçı, Casus veya Mistik olabilir."
+2,Savaşçı,Yakın dövüşte uzmandır.
+3,Casus,Hançer ve ok kullanarak savaşır.
+4,Mistik,Düşmanlarına büyüyle saldırır.
+5,Paladin,Yüksek Svn. ve defansif yetenekleriyle gerçek bir tank.
+6,Savaş Beyi,Düşmanlarını hasar verirken zayıflatan bir hasar verici.
+7,Define Avcısı,Düşmanlarını sersemletebilen ve peş peşe saldırabilen bir hasar verici.
+8,Keskingöz,Düşmanlarına uzun mesafeden alan saldırıları ve yavaşlatma etkileriyle saldıran bir hasar verici.
+9,Sihirbaz,Düşmanlarına süreli ateş hasarı verebilen bir hasar verici.
+10,Ruhban,Müttefiklerini iyileştirebilen ve düşmanlarını sersemletebilen bir şifacı.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Işık Şövalyesi,Alan hasarı verebilen bir hücum tankı.
+36,Zarif Kılıç,Orta mesafe saldırılarda ustalaşmış bir hasar verici.
+37,Diyargezen,Çok hızlı saldırılara sahip bir hasar verici.
+38,Gümüş Kolcu,Düşmanlarına hızlı saldırabilen uzun menzilli bir hasar verici.
+39,Buz Büyücüsü,Düşmanlarına hasar verirken dondurabilen bir destek hasar verici.
+40,Bilgin,Müttefiklerinin canını yüksek oranda yenileyen bir şifacı.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Shillien Şövalyesi,Düşmanlarının canlarını emen bir hücum tankı.
+66,Kıvrak Kılıç,Yüksek saldırıya sahip bir hasar verici.
+67,Kara Katil,Çok hızlı saldırılarla düşmanlarına kanama hasarı veren bir hasar verici.
+68,Hayalet Kolcu,Düşmanlarına yavaş saldırılarla yüksek hasar verebilen bir hasar verici.
+69,Kara Büyücü,Düşmanlarına lanetler yağdıran ve süreli alan hasarı verebilen bir hasar verici.
+70,Shillien Bilgini,Müttefiklerini iyileştirebilen ve savaş gücünü artıran bir şifacı.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Muhafız,Alan kontrolüne sahip bir büyü tankı.
+96,Gözüpek,@68
+97,Yağmacı,Düşmanlarını hızlı hareketleriyle sıkıştıran bir hasar verici.
+98,Savaş Kolcusu,Tuzaklara ve kaçınma yeteneklerine sahip uzun menzilli bir hasar verici.
+99,Savaş Büyücüsü,Dar alanlarda hızlı büyüleriyle hasar verebilen bir hasar verici.
+100,Bilge,Grubun savunmasını artıran bir destek hasar verici.

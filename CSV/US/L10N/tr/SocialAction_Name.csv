@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Hücum,"Hep beraber, saldırıııın!",Hücum!,Hücum!,Hücum edelim!
+2,Zafer,Tek bildiğim zaferdir!,Zafere!,Tek bildiğim zaferdir!,Zafere!
+3,El Salla,Nasılsın?,Selam.,Tanıştığımıza memnun oldum!,Merhaba!
+4,Kahkaha,Hahahahaha!,Hahaha!,Hahahaha!,Puhahahaha!
+5,Üzüntü,*Ağlıyor*...,*Burun çekme*!,*Burun çekme*...,Haaaaa!
+6,Beşlik Çak,Çak bi beşlik!,Çak bi beşlik!,Çak bi beşlik!,Çak bi beşlik!
+7,Alkış,İnanılmaz!,Bu harika!,Baya iyi.,Vay! Müthiş!
+8,Korkmuş,Buna inanamıyorum...,Nasıl olur...?,Daha da neler...,İnanamıyorum...
+9,Sinirli,Sinirleniyorum!,Hıh!,Uovaaaaaah!,Hrrr! Sinirlendim!
+1001,Kötülük Çağır,,,,
+1002,Köye Git,,,,
+10001,Arena İnsan Zaferi,,,,
+10002,Arena İnsan Mağlubiyeti,,,,
+10003,Arena Elf Zaferi,,,,
+10004,Arena Elf Mağlubiyeti,,,,
+10005,Arena Kara Elf Zaferi,,,,
+10006,Arena Kara Elf Mağlubiyeti,,,,
+10007,Arena Cüce Zaferi,,,,
+10008,Arena Cüce Mağlubiyeti,,,,
+100001,Dokunma Hareketi #1,,,,
+100002,Dokunma Hareketi #2,,,,
+100003,Dokunma Hareketi #3,,,,
+100004,Dokunma Hareketi #4,,,,

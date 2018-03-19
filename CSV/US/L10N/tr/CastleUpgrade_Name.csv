@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Kutsal Kristal İşleme Süresi Artışı,Kutsal Kristal'in işlenmesi için gereken süreyi 1 saniye artırır.
+1002,@1001,Kutsal Kristal'in işlenmesi için gereken süreyi 2 saniye artırır.
+1003,@1001,Kutsal Kristal'in işlenmesi için gereken süreyi 3 saniye artırır.
+1004,@1001,Kutsal Kristal'in işlenmesi için gereken süreyi 4 saniye artırır.
+1005,@1001,Kutsal Kristal'in işlenmesi için gereken süreyi 5 saniye artırır.
+2001,Savunma Kulesi Can Artışı,Savunma Kulesi Canını 500 artırır.
+2002,@2001,Savunma Kulesi Canını 1.000 artırır.
+2003,@2001,Savunma Kulesi Canını 1.500 artırır.
+2004,@2001,Savunma Kulesi Canını 2.000 artırır.
+2005,@2001,Savunma Kulesi Canını 2.500 artırır.
+3001,Tuzak Sldr. Artışı,"Tuzak Sldr. Artışı %1.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler."
+3002,@3001,"Tuzak Sldr. Artışı %2.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler."
+3003,@3001,"Tuzak Sldr. Artışı %3.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler."
+3004,@3001,"Tuzak Sldr. Artışı %4.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler."
+3005,@3001,"Tuzak Sldr. Artışı %5.
+Tuzaklar, düşmanın Maks canının belli bir % değerinde hasar verirler."

@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,A aventura começa,O primeiro título dado a um herói no início da aventura.,
+1000200,Maior doador,"Ativo ao concluir a conquista ""O que é meu é seu (categoria {DescParam})"".",10
+1000300,Boa participação,"Ativo ao concluir a conquista ""Sempre na minha cabeça (categoria {DescParam})"".",10
+1000400,Entre amor e amizade,"Ativo ao concluir a conquista ""Tudo vale a pena se for para meu amigo (categoria {DescParam})"".",10
+1000500,Primeiro 1%,"Ativo ao concluir a conquista ""Não há uso para ninharias (categoria {DescParam})"".",10
+1000600,Caçador de monstros,"Ativo ao concluir a conquista ""Caçador indiscriminado (categoria {DescParam})"".",11
+1000800,Contendor Novato,Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações da Arena.,10000
+1000900,Discípulo do poder,Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações de Poder de combate.,10000
+1001000,Pesquisador assistente,Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações de nível.,10000
+1001200,Mestre de avanço,"Ativo ao concluir a conquista ""Mais do que comida (categoria {DescParam})"".",10
+1001300,Caçador de almas,"Ativo ao concluir a conquista ""Muitos brilhos (categoria {DescParam})"".",10
+1001400,Administrador de bolso,"Ativo ao concluir a conquista ""Com todo carinho e cuidado (categoria {DescParam})"".",10
+1001500,Coletor,"Ativo ao concluir a conquista ""Não sou lixeiro, mas... (categoria {DescParam})"".",10
+1001600,Alquimista,"Ativo ao concluir a conquista ""O que me faz brilhar (categoria {DescParam})"".",10
+1001700,Duelista,"Ativo ao concluir a conquista ""Sinal da vitória (categoria {DescParam})"".",10
+1001800,Especialista em desenho,"Ativo ao concluir a conquista ""Sorte não é habilidade (categoria {DescParam})"".",10
+1001900,Caçador de núcleos,"Ativo ao concluir a conquista ""Coleção de saques (categoria {DescParam})"".",10
+2000200,Contendor Profissional,@1000800,5000
+2000300,Aventureiro,@1000900,5000
+2000400,Melhor pesquisador,@1001000,5000
+2000600,Monstro diário,"Ativo ao concluir a conquista ""{DescParam}"".",Códice da região dos Sacrários Uivantes
+2000700,Entusiasta de preciosidades,"Ativo ao concluir a conquista ""Já viu isso antes? (categoria {DescParam})"".",10
+2000900,Sortudo,"Ativo ao concluir a conquista ""Que a sorte esteja convosco (categoria {DescParam})"".",10
+2001000,Treinador de montaria,"Ativo ao concluir a conquista ""Mais forte e mais feroz (categoria {DescParam})"".",10
+2001100,Proteção espiritual,"Ativo ao concluir a conquista ""Necessidade de batalha (categoria {DescParam})"".",10
+2001200,Investigador Forense,"Ativo ao concluir a conquista ""Outro sangue (categoria {DescParam})"".",10
+2001300,Segurança em primeiro lugar,"Ativo ao concluir a conquista ""Caminho para a estrada segura (categoria {DescParam})"".",10
+2001400,Mestre dos disfarces,"Ativo ao concluir a conquista ""É difícil ser temperamental (categoria {DescParam})"".",10
+2001500,Mestre das armas,"Ativo ao concluir a conquista ""Direto das lendas (categoria {DescParam})"".",10
+2001600,Mestre das armaduras,"Ativo ao concluir a conquista ""Pergaminho dos sonhos (categoria {DescParam})"".",10
+2001800,Estilista,"Ativo ao concluir a conquista ""Evolução infinita de equipamento (categoria {DescParam})"".",10
+2001900,Mestre das joias,"Ativo ao concluir a conquista ""Encontrei meu pergaminho (categoria {DescParam})"".",10
+2002000,Matador,"Ativo ao concluir a conquista ""Derrotou um monstro lendário (categoria {DescParam})"".",10
+2002100,Mestre das melhorias,"Ativo ao concluir a conquista ""É totalmente diferente (categoria {DescParam})"".",10
+3000200,Contendor Vivaz,@1000800,100
+3000300,Conquistador Formidável,@1000900,100
+3000500,Pesquisador Inteligente,@1001000,100
+3000900,Especialista,"Ativo ao concluir a conquista ""Como fazer equipamento especial (categoria {DescParam})"".",10
+3001000,Quebrador de limite,"Ativo ao concluir a conquista ""Esse é o seu melhor (categoria {DescParam})"".",10
+3100100,Comandante da fortaleza,"Ganho se você for {DescParam} do clã governante da fortaleza.
+(Ocorre enquanto você atende às condições necessárias).",Ancião
+3100200,Guardião da fortaleza,@3100100,- Membro do clã:
+4100100,Comandante da fortaleza,@3100100,Líder
+4101000,Os Dez Competidores,"Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações da Arena.
+(Ocorre enquanto você atende às condições necessárias).",10
+4101100,Os dez conquistadores,"Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações de Poder de combate.
+(Ocorre enquanto você atende às condições necessárias).",10
+4101200,Pesquisador renomado,"Ganha ao chegar à classificação nº {DescParam} ou maior nas classificações de nível.
+(Ocorre enquanto você atende às condições necessárias).",10
+5100200,Rei do duelo,"Ganha ao chegar à classificação nº {DescParam} nas classificações da Arena.
+(Ocorre enquanto você atende às condições necessárias).",1
+5100300,Sou o mais forte,"Ganha ao chegar à classificação nº {DescParam} nas classificações de Poder de combate.
+(Ocorre enquanto você atende às condições necessárias).",1
+5100400,O iluminado,"Ganha ao chegar à classificação nº {DescParam} nas classificações de nível.
+(Ocorre enquanto você atende às condições necessárias).",1
+30000000,Pioneiro inicial,Título de edição limitada disponível para jogadores que concluíram o pré-registro.,
+30000010,Patrono do Clã,Título honorário concedido a membros do clã que oferecem imenso apoio a seu clã.,

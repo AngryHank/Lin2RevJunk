@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Glückskiste,"▶ Ein Event, bei dem alle Spieler auf dem Server die Herausforderung gleichzeitig annehmen.
+▶ Neue Belohnungen stehen für jede Eventrotation bereit.
+▶ Die zur Teilnahme erforderlichen Tickets können aus Beschwörungskisten, die im Laden zu finden sind, erhalten werden.",Am Ziehungsevent kann nach Erreichen von Lv. 10 teilgenommen werden.,Glückwunsch! [Player] hat im Glückskisten-Event den Preis für Rang [Rank] gewonnen.

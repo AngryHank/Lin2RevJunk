@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Savaş Gücü,Savaş Gücü Sıralaması,Savaş Gücü
+1,Seviye,Karakter Seviye Sıralaması,Seviye
+2,F. Sldr.,Maks F. Sldr. Sıralaması,F. Sldr.
+3,F. Svn.,Maks F. Svn. Sıralaması,F. Svn.
+4,B. Sldr.,Maks B. Sldr. Sıralaması,B. Sldr.
+5,B. Svn.,Maks B. Svn. Sıralaması,B. Svn.
+6,CAN,Maks Can Sıralaması,CAN
+7,Run İşleme,Run İşleme Başarı Sayısı Sıralaması,Sayı
+8,İksir,İksir Kullanım Sıralaması,Rakam
+9,Canavar Albümü,Canavar Albümü Tamamlama Sıralaması,Tamamlandı
+10,Toplam Seviye,Sunucudaki Karakter Seviyeleri Toplamı Sıralaması,@1
+12,Onur Puanı,Toplam Onur Puanı Sıralaması,Skor
+13,Toplam Giriş,Arena Giriş Sayısı Sıralaması,@7
+14,Toplam Zafer,Toplam Arena Zafer Sayısı Sıralaması,Zafer
+15,Galibiyet Serisi,Maks Galibiyet Serisi Sıralaması,@7
+18,Haftalık Katkı,Kişisel Haftalık Klana Katkı Sıralaması,Katkı Puanı
+19,Toplam Katkı Puanı,Kişisel Toplam Klana Katkı Sıralaması,@18
+20,Kuşatma Katkısı,Kişisel Toplam Kuşatma Katkısı Sıralaması,Katkı
+21,Şato Kuşatma Katkısı,Kişisel Toplam Şato Kuşatması Katkı Sıralaması,@20
+22,Kahraman Başarımları,Kahraman Başarım Puanı Sıralaması,@12
+27,Giriş,Toplam Giriş Yapılan Gün Sıralaması,Gün Sayısı
+28,Takasta En Yüksek Fiyat,Takasta En Yüksek Fiyat Sıralaması,Takas Fiyatı
+29,Takas Sayısı,Maks Takas Sayısı Sıralaması,@7
+30,Güçlendirme Sayısı,Maks Güçlendirme Sayısı Sıralaması,@7
+31,Güçlendirilmiş Set,Maks. Güçlendirilmiş Set Sıralaması,Güçlendirme Sayısı
+32,Birleştirme Sayısı,Maks Birleştirme Sayısı Sıralaması,@7
+33,Geliştirme Sayısı,Maks Geliştirme Sayısı Sıralaması,@7
+34,Limit Kırma Sayısı,Mask Limit Kırma Sayısı Sıralaması,@7
+35,Kibir Kulesi,Kibir Kulesi En Yüksek Kat Sıralaması,En Yüksek Kat
+48,Klan İtibarı,Klan İtibarı Sıralaması,@12
+49,Klan SG,Klan Savaş Gücü Sıralaması,@1001
+1000,Kargaşa Arenası,Kargaşa Arenası Sıralaması,@12
+4000,Şerefli Savaş Alanı,Genel Şerefli Savaş Alanı Sıralaması,@12
+4001,@4000,Şerefli Savaş Alanı (Bronz) Sıralaması 3,@12
+4002,@4000,Şerefli Savaş Alanı (Bronz) Sıralaması 2,@12
+4003,@4000,Şerefli Savaş Alanı (Bronz) Sıralaması 1,@12
+4004,@4000,Şerefli Savaş Alanı (Gümüş) Sıralaması 3,@12
+4005,@4000,Şerefli Savaş Alanı (Gümüş) Sıralaması 2,@12
+4006,@4000,Şerefli Savaş Alanı (Gümüş) Sıralaması 1,@12
+4007,@4000,Şerefli Savaş Alanı (Altın) Sıralaması 3,@12
+4008,@4000,Şerefli Savaş Alanı (Altın) Sıralaması 2,@12
+4009,@4000,Şerefli Savaş Alanı (Altın) Sıralaması 1,@12
+4010,@4000,Şerefli Savaş Alanı (Platin) Sıralaması 3,@12
+4011,@4000,Şerefli Savaş Alanı (Platin) Sıralaması 2,@12
+4012,@4000,Şerefli Savaş Alanı (Platin) Sıralaması 1,@12
+4013,@4000,Şerefli Savaş Alanı (Elmas) Sıralaması 3,@12
+4014,@4000,Şerefli Savaş Alanı (Elmas) Sıralaması 2,@12
+4015,@4000,Şerefli Savaş Alanı (Elmas) Sıralaması 1,@12
+4016,@4000,Şerefli Savaş Alanı (Usta) Sıralaması,@12
+4017,@4000,Şerefli Savaş Alanı (Büyük Üstat) Sıralaması,@12
+4018,@4000,Şerefli Savaş Alanı (Efsane) Sıralaması,@12

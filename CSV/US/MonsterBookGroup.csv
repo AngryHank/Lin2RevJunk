@@ -114,3 +114,8 @@ Id,Group,WorldId,SortNum,RewardType,EffectType,RewardQuantity,RewardIndex,Promot
 12303,23,208,23,6,1,3,34001808,564,60,Icon_SummonGem_Piece_Giran_01
 12304,23,208,23,6,1,5,1001103,752,80,Icon_SummonGem_Piece_Giran_01
 12305,23,208,23,6,1,3,34001808,940,100,Icon_SummonGem_Piece_Giran_01
+99991,999,400,999,6,1,20,1001102,202,20,Icon_Gacha_HerbPotion
+99992,999,400,999,6,1,20,1001102,404,40,Item_GemStoneRed_01
+99993,999,400,999,6,1,20,1001102,606,60,UI_Icon_TeleportScroll
+99994,999,400,999,6,1,20,1001102,808,80,UI_Icon_LoudSpeaker
+99995,999,400,999,6,1,20,1001102,1010,100,Icon_Box_Dia_04

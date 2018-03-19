@@ -1,0 +1,68 @@
+Id,ItemName,Desc1,Desc2
+4,Elixir Essence Selection Box,Use to select and acquire an Elixir Essence.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+5,Auto-Clear Selection Box,Use to select and acquire 1 Auto-Clear Ticket.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+10,Summoning Stone Fragment Box,"Used to acquire random, various Mount Summoning Stone Fragments.",Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+11,Enhance Scroll Box,Use to acquire a random Enhance Scroll.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+12,Upgrade Stone Box,Use to acquire a random Upgrade Stone.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+26,Exp.,Use to acquire Exp.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+27,Greater Exp.,Use to acquire a large amount of Exp.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+30,Scroll of Escape,Use to teleport.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+31,5 Maphr’s Protection Fragments,Combine fragments to acquire Maphr’s Protection.,Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+30000103,1 Clan Equipment Box,Use to acquire a random A - SR equipment.,
+30000104,10 Clan Equipment Boxes (+1 bonus),Use to acquire a random A - SR equipment.,
+30000105,1 Clan Enhance Scroll Box,@11,
+30000106,200 HP Potions,Use to restore a small amount of HP.,
+30000107,200 MP Potions,Use to restore a small amount of MP.,
+30000108,"5,000 Soulshots",Use to imbue a weapon with a mysterious power that increases damage.,
+30000109,1 Mount Strengthening Box,"Use to acquire one of the following: Mount Equipment (A - SR), Advancement Stone Box (Small - Large), or Mount Summoning Stone Fragment (Black Bear, Silver Saint, Kukurin, and Maned Lion).",
+30000110,10 Mount Strengthening Boxes (+1 bonus),@30000109,
+201,Relic Imprinting Time Increase Lv. 1,Increases the time required to imprint a relic by 1 second.,
+202,Relic Imprinting Time Increase Lv. 2,Increases the time required to imprint a relic by 2 seconds.,
+203,Relic Imprinting Time Increase Lv. 3,Increases the time required to imprint a relic by 3 seconds.,
+204,Relic Imprinting Time Increase Lv. 4,Increases the time required to imprint a relic by 4 seconds.,
+205,Relic Imprinting Time Increase Lv. 5,Increases the time required to imprint a relic by 5 seconds.,
+206,Defense Tower Durability Increase Lv. 1,,
+207,Defense Tower Durability Increase Lv. 2,"Increases Defense Tower Durability by 20,000.",
+208,Defense Tower Durability Increase Lv. 3,"Increases Defense Tower Durability by 30,000.",
+209,Defense Tower Durability Increase Lv. 4,"Increases Defense Tower Durability by 40,000.",
+210,Defense Tower Durability Increase Lv. 5,"Increases Defense Tower Durability by 50,000.",
+211,Trap Atk. Increase Lv. 1,"Increases Trap Atk. by 1%.
+Traps deal % damage to enemy Max HP.",
+212,Trap Atk. Increase Lv. 2,"Increases Trap Atk. by 2%.
+Traps deal % damage to enemy Max HP.",
+213,Trap Atk. Increase Lv. 3,"Increases Trap Atk. by 3%.
+Traps deal % damage to enemy Max HP.",
+214,Trap Atk. Increase Lv. 4,"Increases Trap Atk. by 4%.
+Traps deal % damage to enemy Max HP.",
+215,Trap Atk. Increase Lv. 5,"Increases Trap Atk. by 5%.
+Traps deal % damage to enemy Max HP.",
+301,Potion Effectiveness Buff,"Use to apply the Lord’s Favor to the clan for 1 hour.
+HP, MP Potion effectiveness +20% (Excludes Castle Siege, Fortress Siege)",
+302,Hunting Exp./Core Gain Buff,"Use to apply the Lord’s Favor to the clan for 1 hour.
+Exp. gained from hunting and Monster Core drop rate +20%.",Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+303,Hunting Adena/Item Gain Buff,"Use to apply the Lord’s Favor to the clan for 1 hour.
+Adena gained from hunting and item drop rate +20%.",Available for purchase upon reaching Clan Level {RequiredGuildLevel}.
+158,1 HP Elixir Essence,Red Essence used to craft HP Elixirs.,"Available for purchase upon conquering
+a fortress of Grade C or higher."
+159,1 MP Elixir Essence,Blue Essence used to craft MP Elixirs.,@158
+160,1 Atk. Elixir Essence,Purple Essence used to craft Atk. Elixirs.,@158
+161,1 Def. Elixir Essence,Yellow Essence used to craft Def. Elixirs.,@158
+165,1 Weapon Upgrade Stone,Used to upgrade a weapon to its next grade.,@158
+166,1 Armor Upgrade Stone,Used to upgrade armor to its next grade.,@158
+401,صبغة عباءة القبيلة: رتبة منخفضة,عنصر مطلوب لتغيير لون عباءة القبيلة.,"요새 점령 시 
+구매 가능"
+402,صبغة عباءة القبيلة: رتبة متوسطة,@401,"A등급 이상 요새 
+점령 시 구매 가능"
+404,صبغة شارة عباءة القبيلة: رتبة منخفضة,عنصر مطلوب لتغيير لون شارة عباءة القبيلة.,@401
+405,صبغة شارة عباءة القبيلة: رتبة متوسطة,@404,@402
+810000001,Lv.5 Clan Potion: Adena Buff,Increases amount of Adena gained by 50% for 1 hour. (Applies only to Field Hunt),@158
+810000002,Tattered Relic Chest,"This is a tattered relic.
+Ask the Clan Hall Relic Keeper to appraise this relic to acquire a reward.",@158
+810000003,Lv.5 Clan Potion: Core Drop Buff,"Once used, Monster Core drop rate is increased by 50%.
+The effect lasts for 1 hour.","Available for purchase upon conquering
+a fortress of Grade B or higher."
+810000004,Maphr’s Protection,Used in enhancing equipment. Failure does not decrease the enhancement value.,"Available for purchase upon conquering
+a fortress of Grade A or higher."
+810000005,Blessed Scroll Box,Use to acquire a random Blessed Scroll.,@810000003
+810000006,Grade S Attribute Stone,Use to enhance an attribute on a piece of equipment.,@810000003
+810000007,Grade R Attribute Stone,Use to enhance an attribute on a piece of equipment.,@810000004

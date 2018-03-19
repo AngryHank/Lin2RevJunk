@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Potere di combattimento,Posizione Potere di combattimento,Potere di combattimento
+1,Livello,Posizione Livello Personaggio,Livello
+2,Att. F.,Posizione Att. F. massimo,Att. F.
+3,Dif. F.,Posizione Dif. F. massima,Dif. F.
+4,Att. M.,Posizione Att. M. massimo,Att. M.
+5,Dif. M.,Posizione Dif. M. massima,Dif. M.
+6,PS,Posizione PS massimi,PS
+7,Incisione Rune,Posizione Totale Incisione Rune riuscite,Totale
+8,Elisir,Posizione Uso di Elisir,Numero
+9,Codex dei Mostri,Posizione Codex dei Mostri completato,Completati
+10,Livello totale,Posizione Totale Livello Personaggio Server,@1
+12,Punti Onore,Posizione Punti Onore totali,Punteggio
+13,Somma totale,Posizione Totale Arena,@7
+14,Vittorie totali,Posizione Totale vittorie Arena,Vittorie
+15,Sequenza di vittorie,Posizione Sequenza di vittorie massime,@7
+18,Contributo settimanale,Posizione Contributo del Clan settimanale personale,Punti Contributo
+19,Punti Contributo totali,Posizione Contributo del Clan totale personale,@18
+20,Contributo all’assedio,Posizione Contributo all’Assedio totale personale,Contributo
+21,Contributo all’assedio della fortezza,Posizione Contributo all’Assedio della Fortezza personale,@20
+22,Traguardi dell’Eroe,Posizione Punti Traguardo Eroe,@12
+27,Registrazione,Posizione Giorni accesso totali,N° di giorni
+28,Commercio al prezzo massimo,Posizione Commercio al prezzo massimo,Prezzo commerciale
+29,Totale Commercio,Posizione Totale Commercio massimo,@7
+30,Totale Potenziamento,Posizione Totale Potenziamento massimo,@7
+31,Set Potenziato,Posizione Set potenziato massimo,Totale Applicazione
+32,Totale Combinazioni,Posizione Totale Combinazioni massime,@7
+33,Totale Upgrade,Posizione Totale Upgrade massimo,@7
+34,Totale Superamento limite,Posizione Totale Superamento limite massimo,@7
+35,Torre dell’Insolenza,Posizione Piano più alto raggiunto nella Torre dell’Insolenza,Totale Piani
+48,Reputazione del clan,Posizione Reputazione del clan,@12
+49,Potere di combattimento del clan,Posizione Potere di combattimento del Clan,@1001
+1000,Arena degli scontri,Posizione Arena degli scontri,@12
+4000,Campo di Battaglia d’onore,Posizione Campo di battaglia d’onore complessiva,@12
+4001,@4000,Posizione 3 Campo di battaglia d’onore (Bronzo),@12
+4002,@4000,Posizione 2 Campo di battaglia d’onore (Bronzo),@12
+4003,@4000,Posizione 1 Campo di battaglia d’onore (Bronzo),@12
+4004,@4000,Posizione 3 Campo di battaglia d’onore (Argento),@12
+4005,@4000,Posizione 2 Campo di battaglia d’onore (Argento),@12
+4006,@4000,Posizione 1 Campo di battaglia d’onore (Argento),@12
+4007,@4000,Posizione 3 Campo di battaglia d’onore (Oro),@12
+4008,@4000,Posizione 2 Campo di battaglia d’onore (Oro),@12
+4009,@4000,Posizione 1 Campo di battaglia d’onore (Oro),@12
+4010,@4000,Posizione 3 Campo di battaglia d’onore (Platino),@12
+4011,@4000,Posizione 2 Campo di battaglia d’onore (Platino),@12
+4012,@4000,Posizione 1 Campo di battaglia d’onore (Platino),@12
+4013,@4000,Posizione 3 Campo di battaglia d’onore (Diamante),@12
+4014,@4000,Posizione 2 Campo di battaglia d’onore (Diamante),@12
+4015,@4000,Posizione 1 Campo di battaglia d’onore (Diamante),@12
+4016,@4000,Posizione Campo di battaglia d’onore (Maestro),@12
+4017,@4000,Posizione Campo di battaglia d’onore (Gran Maestro),@12
+4018,@4000,Posizione Campo di Battaglia d’onore (Leggenda),@12

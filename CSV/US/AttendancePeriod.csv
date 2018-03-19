@@ -1,7 +1,4 @@
-Id,Type,Image
-1,1,
-31,4,UI_BG_EquipmentEnhancementLoginEvent
-33,4,UI_BG_UpdateChristmas
-34,4,UI_BG_NewYearEvent
-35,4,UI_Image_Weekly_01
-36,4,UI_BG_Weekly_100
+Id,Type,Image,AttendanceType
+1,1,,0
+36,4,UI_BG_Weekly_100,0
+37,4,UI_BG_Weekly_Continue,1

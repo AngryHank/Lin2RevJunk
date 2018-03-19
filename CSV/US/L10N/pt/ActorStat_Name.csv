@@ -1,0 +1,92 @@
+Type,Name
+0,Atq. f.
+1,Atq. m.
+2,Amplificação de atq. f.
+3,Amplificação de atq. m.
+4,Aumento de atq. de ataque normal
+5,Amplificação de atq. baseada nos membros do grupo
+6,Amplificação de vel. de atq.
+7,Poder de combate
+126,Aumento de tempo de recarga
+9,Taxa de crít.
+10,Taxa de resist. a crítico
+11,Amplificação de dano crítico
+12,Taxa de acerto crítico
+13,Resist. a crítico
+14,Amplificação de taxa de crítico
+15,Amplificação da resist. a crítico
+16,Def. f.
+17,Def. m.
+18,Amplificação de def. f.
+19,Amplificação de def. m.
+20,Evasão
+21,Amplificação da evasão
+22,Taxa de evasão
+23,Precisão
+24,Amplificação de precisão
+25,Taxa de precisão
+26,Taxa de aumento de dano
+27,Taxa de aumento de dano f.
+28,@IncreaseDamagePhyMul
+29,Taxa de aumento de dano a alvo lento
+30,Ignorar dano de def.
+31,Taxa de redução de dano
+32,Taxa de redução de dano f.
+33,Taxa de redução de dano m.
+34,Redução de dano fixa
+35,Taxa de deflexão
+36,Taxa de redução de dano de deflexão
+37,Exp.
+38,Taxa de aumento de ganho de exp.
+39,Amplificação de agressão
+40,PV
+41,Regen. de PV
+42,Dreno de PV
+43,Aumento da taxa de caída de item
+44,PV máx.
+45,Amplificação do PV máx.
+46,PM máx.
+47,Amplificação do PM máx.
+48,PM
+49,Amplificação de custo de PM
+50,Taxa de regen. de PM
+51,Velocidade
+52,Amplificação de velocidade
+53,Taxa de resist. a lentidão
+54,Taxa de resist. a atordoamento
+55,Taxa de resist. a estado anormal
+56,Taxa de resist. a atração de alvo
+126,Taxa de resist. a repulsão
+58,Adena
+59,Taxa de aum. de ganho de adena
+60,Diamante grátis
+61,Diamante pago
+62,Bilhete de missão
+63,Bilhete de conclusão automática de conquista
+64,Fragmento de runa
+65,Ponto de habilidade
+66,Pontos de amizade
+67,Topázio
+68,Pontos de lealdade
+69,Invencível
+70,Uma morte
+71,Inteligente
+72,Durável
+73,Exp. de classe
+74,Moeda do clã
+75,Ponto de conquista
+76,Bilhete de festival de cerco
+77,Bilhete de JxJ
+78,Pontuação de honra de JxJ
+79,Nível
+80,Penetração
+81,Resiliência
+82,Aumento de DA de habilidade
+83,Aumento de contagem de acerto de habilidade
+84,Aumento da velocidade de escavação
+85,Aumento da contagem de extração
+86,Taxa de escudo de mana (absorção de dano com mana)
+87,Bloquear PK
+88,Aumento de taxa de caída de núcleo de monstro
+89,@CombatPower
+90,Aumento de duração da combinação

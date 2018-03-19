@@ -1,6 +1,13 @@
-IndividualNoticeType,ImageIcon,RichTextScript
-0,,적 <FontRed>처치!</>
-1,,[killCount]연속 <FontRed>처치!</>
-2,,방어탑 파괴 <FontBlue>성공!</>
-3,,[AltarName] <FontBlue>각인!</>
-4,,[SiegeBuff] <FontBlue>달성!</>
+IndividualNoticeType,ImageIcon,StringInfo
+0,UI_Frame_PersonalAlarm_Kill,COMMONSIEGE_INDIVIDUALNOTICE_USERKILL 
+1,UI_Frame_PersonalAlarm_Kill,COMMONSIEGE_INDIVIDUALNOTICE_5COUNT_USERKILL
+2,UI_Frame_PersonalAlarm_Tower,COMMONSIEGE_INDIVIDUALNOTICE_DESTROYSUCCESS
+3,UI_Frame_PersonalAlarm_Altar,COMMONSIEGE_INDIVIDUALNOTICE_ALTARSUCCESS
+4,UI_Frame_PersonalAlarm_SiegeBuff,COMMONSIEGE_INDIVIDUALNOTICE_SIEGEBUFF
+-1,,
+-1,,
+-1,,
+-1,,
+-1,,
+-1,,
+-1,,

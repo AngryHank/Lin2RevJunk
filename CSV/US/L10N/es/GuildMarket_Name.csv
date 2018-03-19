@@ -1,0 +1,63 @@
+Id,ItemName,Desc1,Desc2
+4,Caja de selección de esencia de elixir,Úsalo para seleccionar y obtener una esencia de elixir.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+5,Caja de selección de completado auto.,Se usa para seleccionar y conseguir 1 billete de completado automático.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+10,Caja de fragm. de piedra de invocación,Se utiliza para conseguir varios fragmentos aleatorios de piedras de invocación de mascotas de montura.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+11,Caja de Pergamino de mejora,Usar para obtener un Pergamino de mejora aleatorio.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+12,Caja de piedra de aumento,Úsalo para obtener una piedra de aumento aleatoria.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+26,Exp.,Úsala para obtener experiencia.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+27,Exp. superior,Úsala para obtener gran cantidad de experiencia.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+30,Pergamino de escape,Se utiliza para teletransportarse.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+31,5 protecciones de Maphr,Combina fragmentos para obtener una Protección de Maphr.,Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+30000103,1 caja de equipamiento de clan,Usar para obtener un equipamiento de grado A - SR aleatorio.,
+30000104,10 cajas de equip. de clan (boni. +1),Usar para obtener un equipamiento de grado A - SR aleatorio.,
+30000105,1 caja de Pergamino de mejora de clan,@11,
+30000106,200 pociones de PV,Se utiliza para restaurar una pequeña cantidad de PV.,
+30000107,200 pociones de PM,Se utiliza para restaurar una pequeña cantidad de PM.,
+30000108,5000 refuerzos de alma,Se utiliza para impregnar un arma de un poder misterioso que incrementa el daño.,
+30000109,1 caja de fortal. de mascota de montura,"Úsala para obtener uno de los siguientes objetos: Equipamiento de mascota de montura (A - SR), Caja de piedra de progreso (Pequeña - Grande), o Fragmento de piedra de invocación de mascota de montura (Oso negro, Santo plata, Kukurin y León con melena).",
+30000110,10 cajas fortal. montura (+1 bonif.),@30000109,
+201,Aum. de tiempo de grab. de reliq. nvl. 1,Aumenta el tiempo necesario para impregnar una reliquia en 1 segundo.,
+202,Aum. de tiempo de grab. de reliq. nvl. 2,Aumenta el tiempo necesario para impregnar una reliquia en 2 segundos.,
+203,Aum. de tiempo de grab. de reliq. nvl. 3,Aumenta el tiempo necesario para impregnar una reliquia en 3 segundos.,
+204,Aum. de tiempo de grab. de reliq. nvl. 4,Aumenta el tiempo necesario para impregnar una reliquia en 4 segundos.,
+205,Aum. de tiempo de grab. de reliq. nvl. 5,Aumenta el tiempo necesario para impregnar una reliquia en 5 segundos.,
+206,Aum. de durabilidad de torre def. nvl. 1,,
+207,Aum. de durabilidad de torre def. nvl. 2,Aumenta la durabilidad de la torre defensiva en 20 000.,
+208,Aum. de durabilidad de torre def. nvl. 3,Aumenta la durabilidad de la torre defensiva en 30 000.,
+209,Aum. de durabilidad de torre def. nvl. 4,Aumenta la durabilidad de la torre defensiva en 40 000.,
+210,Aum. de durabilidad de torre def. nvl. 5,Aumenta la durabilidad de la torre defensiva en 50 000.,
+211,Aumento de ATQ de la trampa nivel 1,"Aumenta el ATQ de la trampa en un 1 %.
+Las trampas infligen % de daño a los PV máximos del enemigo.",
+212,Aumento de ATQ de la trampa nivel 2,"Aumenta el ATQ de la trampa en un 2 %.
+Las trampas infligen % de daño a los PV máximos del enemigo.",
+213,Aumento de ATQ de la trampa nivel 3,"Aumenta el ATQ de la trampa en un 3 %.
+Las trampas infligen % de daño a los PV máximos del enemigo.",
+214,Aumento de ATQ de la trampa nivel 4,"Aumenta el ATQ de la trampa en un 4 %.
+Las trampas infligen % de daño a los PV máximos del enemigo.",
+215,Aumento de ATQ de la trampa nivel 5,"Aumenta el ATQ de la trampa en un 5 %.
+Las trampas infligen % de daño a los PV máximos del enemigo.",
+301,Potenciador de eficacia de poción,"Aplica al clan el favor del señor durante 1 hora.
+PV, poción de PM +20 % (fuera de Asedio al castillo y de Asedio a la fortaleza).",
+302,Poten. obten. de corazón/exp. de caza,"Aplica al clan el favor del señor durante 1 hora.
+Experiencia por cazar y tasa de obt. de corazones de monstruo +20 %.",Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+303,Poten. obten. de objetos/adenas de caza,"Aplica al clan el favor del señor durante 1 hora.
+Adenas por cazar y tasa de obt. de objetos +20 %.",Se puede comprar al alcanzar el nivel de clan {RequiredGuildLevel}.
+158,1 esencia de elixir de PV,Esencia roja usada para fabricar elixires de PV.,Disponible al conquistar una fortaleza de grado C o superior.
+159,1 esencia de elixir de PM,Esencia azul usada para fabricar elixires de PM.,@158
+160,1 esencia de elixir de ATQ,Esencia morada usada para fabricar elixires de ATQ.,@158
+161,1 esencia de elixir de DEF,Esencia amarilla usada para fabricar elixires de DEF.,@158
+165,1 piedra de aumento de arma,Se utiliza para aumentar un arma al siguiente grado.,@158
+166,1 piedra de aumento de armadura,Se utiliza para aumentar una armadura al siguiente grado.,@158
+401,Tinte de Capa del clan: grado inferior,Objeto necesario para cambiar el color de la Capa del clan.,Disponible al conquistar una fortaleza.
+402,Tinte de Capa del clan: grado medio,@401,Disponible al conquistar una fortaleza de grado A o superior.
+404,Tinte del emblema de Capa del clan: grado inferior,Objeto necesario para cambiar el color del emblema de la Capa del clan.,@401
+405,Tinte del emblema de Capa del clan: grado medio,@404,@402
+810000001,Poción para el clan de nivel 5: Potenciador de adenas,Aumenta la cantidad de adenas ganada en un 50% durante 1 hora. (Solo en Cacería de campo),@158
+810000002,Cofre de reliquias harapientas,"Esta es una reliquia harapienta.
+Pide al protector de reliquias de la sala del clan que valore esta reliquia para obtener una recompensa.",@158
+810000003,Poción para el clan de nivel 5: Potenc. obtención de corazón,"Al usarlo, la tasa de obtención de corazones aumenta en un 50%.
+El efecto dura 1 hora.",Disponible al conquistar una fortaleza de grado B o superior.
+810000004,Protección de Maphr,Se utiliza para mejorar el equipamiento. Los fallos no disminuyen el valor de mejora.,Disponible al conquistar una fortaleza de grado A o superior.
+810000005,Caja de Pergamino bendecido,Úsalo para obtener un Pergamino bendecido aleatorio.,@810000003
+810000006,Piedra de atributo de grado S,Usar para mejorar un atributo de una pieza de equipamiento.,@810000003
+810000007,Piedra de atributo de grado R,Usar para mejorar un atributo de una pieza de equipamiento.,@810000004

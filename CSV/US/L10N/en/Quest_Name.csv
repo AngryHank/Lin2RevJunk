@@ -9,7 +9,6 @@ An End to Tyranny,Approach the Control Tower,,,,
 An End to Tyranny,Defeat Elder Marlow,,,,
 An End to Tyranny,Defeat Elder Marlow,,,,
 An End to Tyranny,Control Tower Destroyed,,,,
-An End to Tyranny,Defeat Enemies on the Bridge,,,,
 An End to Tyranny,Go to the Gatehouse,,,,
 The Journey Begins,Find the Mercenary Captain,Port Master Psyche,"This is a good place for adventurers to gain Exp.
 <p>You should take on some work to get familiar with the area.
@@ -2827,7 +2826,7 @@ Back to the Rendezvous Point,Defeat Vindictive Dead,Theodore,"According to the n
 <p>The rest is destroyed. Let’s regroup with Frederick and Aymel. Be wary of the undead while traveling.",Theodore,No one’s here. Where did they go?
 Since When Was it Gone?,Find missing group,Theodore,"They can’t be too far. We already swept the shores, so let’s try the inner cave.",Frederick,"You’re here? I saw someone like Ashear running there, but they vanished into thin air like a ghost. All that was left was this corpse..."
 Who Are You?,Investigate the soldier's body,Frederick,Looks like one of the Advance Party... Someone I can’t recognize... Let’s cremate him too.,Frederick,Are there... any survivors from the Advance Party?
-The Place of Eternal Rest I,Find a burial location for Aiden,Frederick,Now let’s... find a place to put Aiden to rest. Up there should do.,Frederick,Damn... Why is the place we set up for Aiden such a mess?
+The Place of Eternal Rest I,Find a burial location for Aiden,Frederick,Now let’s... find a place to put Aiden to rest. Up there should do.,Frederick,Damn... Why is the place we set aside for Aiden such a mess?
 The Place of Eternal Rest II,Clear out the burial ground,Frederick,"The place is good, but it’s messy. Let’s clear the debris.",Frederick,Now... Aiden will rest in peace...
 Frederick’s Rage,Annihilate the incoming pirates,Frederick,Now I should cremate Aiden and bury him. It’s time to let him go.,Frederick,"Th-this is not enough. I will find Ashear, and defeat the remaining pirates."
 Frederick’s Rage,Annihilate the incoming pirates,Aymel,"If we light a fire to cremate Aiden, monsters may spot it and approach us. Be ready.",,
@@ -2927,45 +2926,45 @@ Navigator’s Log,Defeat Zaken Pirates Navigators,Aymel,"Let’s find the chests
 Navigator’s Log,Obtain the worn nav log,,,,
 Incoming Pirates,Defeat the Incoming Pirates,Aymel,"Good, you found it!
 <p>What are these?! You brought monsters as well?!",Aymel,"Whew, we can’t lower our guard!"
-Missing Contents,The rear part of the pirate nav log,Aymel,"Let’s see... what is written here?
-<p><GreenBold>Pirate King Zaken is dead. Or, he was dead. Now... he’s something that is neither dead nor alive.</>
+Missing Contents,Find the missing parts of the nav log,Aymel,"Let’s see... what is written here?
+<p><GreenBold>Pirate King Zaken is dead. Well, he was dead. Now... he’s something that is neither dead nor alive.</>
 <p><GreenBold>Damn! The only way to stop him is to use the crystal...</>
-<p>Hell! The last part has been torn! We must find the remaining part! I will search the area, you take on the Boatswain!",Aymel,Found it! Let’s check its contents and regroup with Captain Frederick and Theodore!
+<p>Ugh! The last part has been torn! We must find the remaining portion! I will search the area, you take on the Boatswains!",Aymel,Found it! Let’s check its contents and regroup with Captain Frederick and Theodore!
 Reckless Frederick,Join with Frederick and Theodore,Aymel,"Let’s read the rest!
 <p><GreenBold>Use the crystal to seal his power. To do that, one must enter the Abyss he created and lock his avatar. The Abyss is both a powerful weapon and his weakness.</>
 <p><GreenBold>But who will do it? Those damn pirates never will. Our voyage will end here, forever.</>
-<p>Alright! This is as much as I can get! Let’s find Theodore. He should know something! Meet me past the bridge!",Theodore,"Alright, calm down, Frederick! They returned now, so wait for a moment!
+<p>Alright! This is as much as I can get! Let’s find Theodore. He should know something! Meet me past the bridge!",Theodore,"Alright, calm down, Frederick! They’ve returned now, so wait for a moment!
 <p><YellowBold>[player]</>, did you find the navigation log?"
-Urgent Stance,Defeat Zaken’s Watcher,Frederick,Is that the log Ashear mentioned?,Frederick,Damn! I will do it my way!
-Urgent Stance,Defeat Zaken’s Watcher,Theodore,"I must read it. Did you find anything, Aymel?",,
-Urgent Stance,Defeat Zaken’s Watcher,Aymel,"I don’t understand anything, Theodore! It mentions entering the Abyss to lock the avatar... What does that mean...",,
-Urgent Stance,Defeat Zaken’s Watcher,Frederick,The Abyss? What the hell does that mean?,,
-Urgent Stance,Defeat Zaken’s Watcher,Theodore,"The Abyss... I see. Remember the trap? We must approach Zaken’s avatar through the spirit world...
+Urgent Stance,Defeat Zaken’s Watchers,Frederick,Is that the log Ashear mentioned?,Frederick,Damn! I will do it my way!
+Urgent Stance,Defeat Zaken’s Watchers,Theodore,"I must read it. Did you find anything, Aymel?",,
+Urgent Stance,Defeat Zaken’s Watchers,Aymel,"I don’t understand anything, Theodore! It mentions entering the Abyss to lock him away... What does that mean...",,
+Urgent Stance,Defeat Zaken’s Watchers,Frederick,The Abyss? What the hell does that mean?,,
+Urgent Stance,Defeat Zaken’s Watchers,Theodore,"The Abyss... I see. Remember the trap? We must approach Zaken’s avatar through the spirit world...
 <p>But we can’t enter the realm like before, it’s too dangerous. Damn! Zaken’s Watchers have been observing us! Deal with them!",,
-Drawing Attention I,Defeat the Zaken Pirate Helmsman,Frederick,"Annihilate any Zaken Pirates you see, and their commander will come out soon!",Frederick,It’s not enough... the Advance Party and the soldiers... I must defeat more of them!
-Drawing Attention I,Defeat the Zaken Pirate Helmsman,Theodore,Sometimes a direct assault works fine. We must make him think that he should deal with us personally. Defeat Zaken’s Helmsmen!,,
+Drawing Attention I,Defeat the Zaken Pirate Helmsmen,Frederick,"Annihilate any Zaken Pirates you see, and their commander will emerge!",Frederick,It’s not enough... the Advance Party and the soldiers... I must avenge them!
+Drawing Attention I,Defeat the Zaken Pirate Helmsmen,Theodore,Sometimes a direct assault works fine. We must make him think that he should deal with us personally. Defeat Zaken’s Helmsmen!,,
 Drawing Attention II,Defeat Zaken Pirate Boatswains,Theodore,"Boatswains are next. We defeat the main Zaken Pirates, and Zaken won’t be able to resist us!",Frederick,Is this not enough? How arrogant!
 Drawing Attention II,Defeat Zaken Pirate Boatswains,Aymel,"Good! Finish him off, <YellowBold>[player]</>!",,
-Operation Successful,Stop the Dark Brotherhood,Frederick,Someone suspicious is coming this way. Is it the Dark Brotherhood?,Aymel,"Zaken’s not coming, but the Dark Brotherhood is! Is Zaken already with the Dark Brotherhood?"
+Operation Successful,Stop the Dark Brotherhood,Frederick,Someone suspicious is coming this way. Is it the Dark Brotherhood?,Aymel,"Zaken’s not coming, but the Dark Brotherhood has! Is Zaken already with the Dark Brotherhood?"
 Operation Successful,Stop the Dark Brotherhood,Osto,"Are you Captain Frederick of the Giran Army? I must express my condolences over Ashear.
-<p>Oh! Surely, you put him out of misery with your own hands? Ha ha ha!",,
+<p>Surely, you put him out of his misery with your own hands? Ha ha ha!",,
 Operation Successful,Stop the Dark Brotherhood,Frederick,Damn you...!,,
-Operation Successful,Stop the Dark Brotherhood,Osto,Looking for Zaken? I’d like to see you try if you can get through me first!,,
+Operation Successful,Stop the Dark Brotherhood,Osto,Looking for Zaken? I’d like to see you try to get through me first!,,
 Operation Successful,Defeat the Dark Brotherhood,,,,
-Enter,Regroup at the wharf entrance,Frederick,"The Dark Brotherhood, Zaken, we shall find out soon enough. Now, all it need is to enter. Let’s go...",Theodore,That giant hole over there... Looks like a byproduct of Zaken’s transformation.
+Enter,Regroup at the wharf entrance,Frederick,"The Dark Brotherhood, Zaken, we shall find out soon enough. Now, all we need is to enter. Let’s go...",Theodore,That giant hole over there... Looks like a byproduct of Zaken’s transformation.
 Enter,Regroup at the wharf entrance,Aymel,It feels like we’re walking into a trap.,,
 Enter,Regroup at the wharf entrance,Theodore,We have no choice. This is the only way. The Dark Brotherhood’s reaction tells me that not all of them know we have the relic.,,
-Assault on the Front,Defeat Zaken’s eye,Frederick,Such a large hole... What the hell happened here?,Theodore,Frederick doesn’t look good... It must be the wounds from the combat with the high priest.
-Assault on the Front,Defeat Zaken’s eye,Aymel,Now I understand why Hardin told us to run when we meet Zaken.,,
-Assault on the Front,Defeat Zaken’s eye,Theodore,"We completed most of our mission when we claimed the relic. Our remaining mission is not defeating Zaken, but weakening his power to prevent him from leaving Devil's Isle.
-<p>Even that was only possible because we found the relic before meeting Zaken... Let’s hurry. Be wary of Zaken’s minions.",,
-Frederick’s Rage,Enter while protecting Frederick,Aymel,"Don’t push yourself too hard, Captain Frederick. Your wounds could open up and you could end up incapable of fighting when we need you.",Frederick,Ugh... Not yet... I can’t die before I get my revenge!
-Frederick’s Rage,Enter while protecting Frederick,Frederick,"How... how can I hold it in... The enemy is right there... My valiant soldiers... They should not have met such a fate!
+Assault on the Front,Defeat Zaken’s Eyes,Frederick,Such a large hole... What the hell happened here?,Theodore,Frederick doesn’t look good... It must be his wounds from combat with the high priest.
+Assault on the Front,Defeat Zaken’s Eyes,Aymel,Now I understand why Hardin told us to run when we met Zaken.,,
+Assault on the Front,Defeat Zaken’s Eyes,Theodore,"We completed most of our mission when we claimed the relic. Our remaining mission is not defeating Zaken, but weakening his power to prevent him from leaving Devil's Isle.
+<p>Even that is only possible because we found the relic before meeting Zaken... Let’s hurry. Be wary of Zaken’s minions.",,
+Frederick’s Rage,Escort Frederick to the entrance,Aymel,"Don’t push yourself too hard, Captain Frederick. Your wounds could open up and you could end up incapable of fighting when we need you.",Frederick,Ugh... Not yet... I can’t die before I get my revenge!
+Frederick’s Rage,Escort Frederick to the entrance,Frederick,"How... how can I hold it in... The enemy is right there... My valiant soldiers... They should not have met such a fate!
 <p>Ugh, I can’t stand it! Not only Zaken but the Dark Brotherhood as well!",,
-Luring,Follow Frederick,Frederick,We must press on! Hurry... huh? That’s the one who made Ashear....! I’ll kill them! Die!,Theodore,Damn... Lost him! This is Zaken’s lair. We can’t leave him!
+Luring,Follow Frederick,Frederick,We must press on! Hurry... huh? That’s the one who transformed Ashear....! I’ll kill them! Die!,Theodore,Damn... Lost him! This is Zaken’s lair. We can’t leave him!
 Luring,,Aymel,"Captain Frederick, wait! It must be a trap!",,
-Frederick’s Crisis,"Zaken’s Retinue, Defeat Master Shooters",Theodore,Damn! Zaken’s Soldiers are still blocking the path! We have to get rid of them if we want to continue!,Theodore,Good! Let’s go! It may not be too late!
-Frederick’s Crisis,"Zaken’s Retinue, Defeat Master Shooters",Aymel,Captain Frederick... I hope he’s alright!,,
+Frederick’s Crisis,Eliminate Zaken’s Retinue and Master Shooters,Theodore,Damn! Zaken’s Soldiers are still blocking the path! We have to get rid of them if we want to continue!,Theodore,Good! Let’s go! It may not be too late!
+Frederick’s Crisis,Eliminate Zaken’s Retinue and Master Shooters,Aymel,Captain Frederick... I hope he’s alright!,,
 Frederick,Find Frederick’s whereabouts,Theodore,"I shall lead the way! Be careful, there could be more traps along the way!",Theodore,Frederick’s condition... It’s too late... He doesn’t have much time left...
 Frederick,Frederick’s tragedy,,,,
 Frederick,Put Frederick to rest,,,,
@@ -2976,58 +2975,58 @@ A Letter Which Should Not be Sent,,Aymel,Captain Frederick...,,
 A Letter Which Should Not be Sent,,Theodore,"He’s gone... Keep his will, 
 <p><YellowBold>[player]</>. We must cremate him. The will is the only thing the family will receive.",,
 The Mission Goes On,Go to Zaken Altar,Theodore,"Our mission is not done. We three must complete the mission.
-<p>The altar where Zaken lies dormant is over there. We will provoke him and enter the Abyss with its body. Move!",Theodore,S-success! We entered the abyss with our bodies!
+<p>The altar where Zaken lies dormant is over there. We will provoke him and enter the Abyss fully, our flesh and all. Move!",Theodore,S-success! We entered the abyss with our bodies intact!
 The Mission Goes On,Go to Zaken Altar,,,,
 The Mission Goes On,Go to Zaken Altar,,,,
 The Final Battle,Seal the Phantom of Zaken,Theodore,"The Phantom of Zaken must be inside. While you and Aymel buy time, I will prepare the seal with the relic. Let’s go!",Theodore,Whew... That was close. Is everyone alright?
 The Final Battle,Seal the Phantom of Zaken,,,,
 The Final Battle,Seal the Phantom of Zaken,,,,
 The Final Battle,Go to Theodore,,,,
-The Final Battle,Go to Theodore,Theodore,There! It’s a success! Now we will teleport to the Giran Dominion right away!,,
+The Final Battle,Go to Theodore,Theodore,"There! It’s a success! Now, let’s teleport to the Giran Dominion right away!",,
 The Final Battle,Go to Theodore,,,,
 A Tragic Message I,Talk to Giran Archon Ervin,Theodore,"Good work, everyone. I will prepare for the next mission. <YellowBold>[player]</> will report the situation to the archon.",Ervin,You’re <YellowBold>[player]</> from the Silverlight Mercenaries. What brings you here?
 A Tragic Message I,Talk to Giran Archon Ervin,Aymel,"I will return to the mercenary base camp. Theodore told me to deliver the Lesser Giant's crystal to Hardin.
-<p>Oh, <YellowBold>[player]</>! Don’t forget to deliver the Captain Frederick’s will! Sorry... I can’t do it with you.",,
+<p>Oh, <YellowBold>[player]</>! Don’t forget to deliver Captain Frederick’s will! Sorry... I can’t do it with you.",,
 A Tragic Message II,Hand over the letter to Frederick’s family,Ervin,"I see... The Advance Party and the Giran Army... It’s a tragedy, but you made sure that their sacrifices weren’t for nothing.
 <p>On behalf of the fallen, I thank you. As for Frederick’s family, his youngest daughter is playing in the plaza.",Theodore,You did well. Such a young daughter... This is sad...
 A Tragic Message II,Hand over the letter to Frederick’s family,Vaster,Wow! A Silverlight Mercenary! My dad is fighting for peace like you are!,,
 A Tragic Message II,Hand over the letter to Frederick’s family,Medlam,"I am Frederick’s friend, Medlam.
 I was looking over Vaster while he’s away. What is this?
-<p>Frederick’s letter? Hm... Will you tell me what happened to Frederick quietly?
+<p>Frederick’s will? Hm... Will you tell me what happened to Frederick quietly?
 <p>What?! Oh... Okay. Don’t worry, I will handle this.
-<p>Vaster? This letter is from Vaster’s father. You must deliver to your mom, and don’t open it by yourself, alright?",,
+<p>Vaster? This letter is from your father. You must deliver to your mom, and don’t open it by yourself, alright?",,
 A Tragic Message II,Hand over the letter to Frederick’s family,Vaster,Huh? Dad’s letter? Don’t open it and deliver it to my mom? Umm... Okay!,,
-New Mission,Go to the Haunted Necropolis,Theodore,"Our next mission is an escort job. We didn’t expect such delay, we could be late. I will be there first, meet me in the Haunted Necropolis when you’re ready.",Theodore,Hmm? You’re here?
-Envoy Escort Mission,Find the envoy along with Theodore,Theodore,"Welcome. We will escort Oren’s peace envoy from here. But it seems the envoy is late.
+New Mission,Go to the Haunted Necropolis,Theodore,"Our next mission is an escort job. We didn’t expect such a delay, so we could be late. I’ll go ahead first, meet me in the Haunted Necropolis when you’re ready.",Theodore,Hmm? You’re here?
+Envoy Escort Mission,Find the envoy with Theodore,Theodore,"Welcome. We will escort Oren’s peace envoy from here. But it seems the envoy is late.
 <p>Strange to have the Orcs here... The Orcs could be a huge threat to the envoy, so we should clear them out first.",Theodore,That’s strange. We were supposed to meet here... Perhaps something happened.
-A Bad Feeling,Investigate the traces of combat,Theodore,Looks like someone had to fight them before us. Let’s look around. I hope it’s not the Peace Envoy...,Theodore,"This is... Oren’s pattern. We were late, not the envoy!"
-Need Solid Proof,Find the clue from the sentry,Theodore,"The blood is still fresh. We’re not too late. There could be survivors, so hurry! The Orcs around here look suspicious. Deal with them while searching the area.",Theodore,"They have the Oren soldier markings, they must be responsible for this!"
+A Bad Feeling,Investigate the traces of combat,Theodore,Looks like someone had to fight them before us. Let’s look around. I hope it’s not the Peace Envoy...,Theodore,This is... Oren’s sigil. We were too late! Not the envoy!
+Need Solid Proof,Find clues from the sentries,Theodore,"The blood is still fresh. Maybe we’re not too late. There could be survivors, so hurry! The Orcs around here might be responsible. Deal with them while searching the area.",Theodore,"They have Oren soldier markings, they must be responsible for this!"
 The Search for Oren Survivors,Rescue the envoy survivors,Theodore,No corpses around here. The survivors must have run away or they’re imprisoned somewhere. Look for signs of either.,Jen,"Oh, thank you, Goddess Eva!"
 The Search for Oren Survivors,Talk to Jen,,,,
-Envoy Under Ambush,Defend against the Orc ambush,Jen,"Silverlight Mercenary! Damn! I am both happy and angry to see you! Why were you so late! You should have escorted us! The Orcs ambushed us because you took so long!
+Envoy Under Ambush,Defend against the Orc ambush,Jen,"Silverlight Mercenaries! Damn! I am both happy and angry to see you! Why were you so late?! You should have escorted us! The Orcs ambushed us because you took so long!
 <p>Ah! Was I too loud? The Orc Guards are coming!",Jen,"Wow, I’m alive! Will you forget what I said before? Thank you for coming here!"
-In Search of Caranese,Defeat Ravine Breka Sentry,Jen,"I have a request. I am really grateful for your rescue, but Caranese is here somewhere.
+In Search of Caranese,Defeat Ravine Breka Sentries,Jen,"I have a request. I am really grateful for your rescue, but Caranese is here somewhere.
 <p>We must find him. If Caranese is not found, Giran and Oren may start a war.
 <p>First, there are too many sentries here. We shall begin the search after reducing their numbers.",Theodore,Hurry. They will feast upon the hostages soon.
-Searching the Barracks,Go to the barracks with Jen,Theodore,There’s not much time. I will act alone. You go check the barracks with Jen.,Jen,These look like Orc rations.
-Paralyzing Mushroom!,Obtain the Paralyzing Mushroom,Jen,"Ah! I have an idea. I saw a paralyzing mushroom. The Orcs will eat soon, how about using the mushroom to lace their food?
-<p>They will lie down immobilized!",Jen,"Good. Anyone who ate these shouldn’t be a problem. Take a good bite, you pigs!"
-Paralyzing Mushroom!,Obtain the Paralyzing Mushroom,Jen,Good. Now let’s put the mushrooms in this food box.,,
-Paralyzing Mushroom!,Put Paralyzing Mushroom in the food box,,,,
+Searching the Barracks,Go to the barracks with Jen,Theodore,There’s not much time. I will go on alone. You go check the barracks with Jen.,Jen,These look like Orc rations.
+Paralyzing Mushroom!,Obtain the Paralyzing Mushrooms,Jen,"Ah! I have an idea. I saw a paralyzing mushroom. The Orcs will eat soon, how about using the mushroom to lace their food?
+<p>They will lie down, immobilized!",Jen,"Good. Anyone who ate these shouldn’t be a problem. Take a good bite, you pigs!"
+Paralyzing Mushroom!,Obtain the Paralyzing Mushrooms,Jen,Good. Now let’s put the mushrooms in that food box.,,
+Paralyzing Mushroom!,Put Paralyzing Mushrooms in the food box,,,,
 Paralyzing Mushroom!,Stop the incoming cooks,,,,
-A Safe Rescue Mission I,Defeat Ravine Breka Shaman,Jen,Do you see that? Looks like our envoy is imprisoned over there. Let’s attack the Orc Shamans to draw their attention and look for a safe place.,Jen,This should be safe enough.
+A Safe Rescue Mission I,Defeat Ravine Breka Shaman,Jen,Do you see that? Looks like our envoy is imprisoned over there. You attack the Orc Shamans to draw their attention while I look for a safe place.,Jen,This should be safe enough.
 A Safe Rescue Mission I,Defeat Ravine Breka Shaman,Jen,"Here, over here!",,
 A Safe Rescue Mission I,Join Jen,,,,
-A Safe Rescue Mission II,Defeat Ravine Breka Patrol,Jen,Damn! The Orcs increased their patrol. They know someone’s here. Let’s reduce their numbers before infiltrating.,Jen,That was good. We did it without being seen.
+A Safe Rescue Mission II,Defeat Ravine Breka Patrols,Jen,Damn! The Orcs increased their patrols. They know someone’s here. Let’s reduce their numbers before infiltrating.,Jen,That was good. We did it without being seen.
 Guardian Elf Cara,Rescue the imprisoned envoy,Jen,Hurry! We have to rescue them.,Cara,"Thank you. You look like you came here for the envoy, not me...
 <p>I never thought the Orcs would get me. And I could have been sacrificed for their bloody festival, but now I’m safe."
 Guardian Elf Cara,Talk to Cara,,,,
-Hindering My Plans,Take the Ravine Breka Warchief’s sword,Cara,"You have an escape plan, right? Saving few of us is not much help at all. We need weapons.
-<p>Defeat the Orc Warchief and you will get a good sword.",Cara,"If you’re trying to save the one called Caranese, it will be very dangerous. He’s imprisoned by the High Warchief."
-To the Post of High Warchief,Go to the High Warchief’s post,Cara,"Heading for the High Warchief is not a good idea, but I can’t escape by myself to let’s go together.",Cara,Keep your head down! The High Warchief is right over there!
+Hindering My Plans,Take the Ravine Breka Warchief’s sword,Cara,"You have an escape plan, right? Saving  few of us is not much help at all. We need weapons.
+<p>Defeat the Orc Warchiefs and you will get a good sword.",Cara,"If you’re trying to save the one called Caranese, it will be very dangerous. He’s imprisoned by the High Warchief."
+To the Post of High Warchief,Go to the High Warchief’s post,Cara,"Heading for the High Warchief is not a good idea, but I can’t escape by myself so let’s go together.",Cara,Keep your head down! The High Warchief is right over there!
 Defeat the Orcs,Defeat the Orcs around the High Warchief,Cara,"Why don’t we defeat the High Warchief? Looks like the security is pretty loose here. Let’s wreak havoc and escape.
-<p>I think defeating the Orc patrols would do... let’s defeat them and then approach the High Warchief.",Cara,That will do. They won’t notice for a while even if we assassinate the High Warchief.
-The Festival Participants,Defeat Ravine Breka Warchief,Cara,We should defeat as many Warchiefs as possible. Leave them and they will be trouble later on.,Jen,Big trouble!
+<p>I think defeating the Orc patrols would do... let’s defeat them and then approach the High Warchief.",Cara,That will do. They shouldn’t notice if we assassinate the High Warchief.
+The Festival Participants,Defeat Ravine Breka Warchiefs,Cara,We should defeat as many Warchiefs as possible. Leave them and they will be trouble later on.,Jen,We’ve got trouble!
 The First Tribute to the Festival,Go to the ambassador,Jen,"Those barbarians! The Orc High Warchief is going to publicly execute the prisoners. Looks like Caranese is the first!
 <p>No time now! Let’s defeat the High Warchief!",,
 The First Tribute to the Festival,Stop the incoming breka,,,,
@@ -3038,8 +3037,8 @@ Escape the Breka Stronghold,,Caranese,"Ah, don’t bother! I’m just glad that 
 Escape the Breka Stronghold,,Theodore,"I already contacted Oren for support. But we should at least reach the entrance if they’re to help us.
 <p>We need at least three teleportation stones for these numbers. It’s lucky that I had Aymel give them to me.",,
 Escape the Breka Stronghold,,Jen,Huh? Th-there! Orcs are running toward us!,,
-Escape the Breka Stronghold,,Theodore,Damn! They’re here faster than I expected! There’s no time to use the teleportation stone!,,
-Escape the Breka Stronghold,,Cara,I will buy some time! Activate the teleportation stone right now!,,
+Escape the Breka Stronghold,,Theodore,Damn! They’re here faster than I expected! There’s no time to use the teleportation stones!,,
+Escape the Breka Stronghold,,Cara,I will buy some time! Activate the teleportation stones right now!,,
 Escape the Breka Stronghold,Teleport outside of the Breka Stronghold,,,,
 Escape the Breka Stronghold,Talk to Jen,,,,
 A Step Toward Peace,Get the situation in control,Theodore,"Now we’re back to where we should be. Not all of us returned, though...",Theodore,"<YellowBold>[player]</>, go assist the elves with Cara. Let’s meet in Oren after we finish our work."
@@ -3047,72 +3046,72 @@ A Step Toward Peace,Get the situation in control,Cara,"Well, we escaped from the
 <p>What are you going to do now? Perhaps you Silverlight Mercenaries could help me out a bit?",,
 A Step Toward Peace,Get the situation in control,Jen,"Caranese, we should return now. You must rest.",,
 A Step Toward Peace,Get the situation in control,Caranese,Taking a break? What are you talking about? We have an important mission!,,
-A Step Toward Peace,Get the situation in control,Jen,You’re heading to Giran right now? Head back to Giran and we could die.,,
-A Step Toward Peace,Get the situation in control,Caranese,"My dear Silverlight Mercenary, the peace of two nations hangs in the balance. Please escort us as planned.",,
+A Step Toward Peace,Get the situation in control,Jen,You’re heading to Giran right now? Head to Giran and we could die.,,
+A Step Toward Peace,Get the situation in control,Caranese,"My dear Silverlight Mercenaries, the peace of two nations hangs in the balance. Please escort us as planned.",,
 A Step Toward Peace,Get the situation in control,Theodore,Acknowledged. Such a thing wouldn’t have happened if we had arrived on time. Sorry for being late...,,
 A Step Toward Peace,Get the situation in control,Caranese,"It’s not your fault, the Orcs are the problem. Let’s move.",,
-Slaying the Tracker,Defeat Ravine Breka Scout,Cara,"That dark elf, was it Theodore? He’s very kind. He looks cold at first, but he is a kindhearted person...
+Slaying the Trackers,Defeat Ravine Breka Scouts,Cara,"That dark elf, was it Theodore? He’s very kind. He looks cold at first, but he is a kindhearted person...
 <p>Now, will you help me a bit? I came here to clear out the threat against the Protection Tree.
 <p>I was imprisoned by the Orcs, but now I have you!
-<p>There are Orc Scouts in our direction. Let’s defeat them before they follow us.",Cara,Good job. I didn’t come here to fight the Orcs... Things got complicated.
-Soul Tracker Prima,Defeat Soul Tracker Prima,Cara,Those primas are also threatening the Protection Tree. Let’s do our job.,Cara,Well done. <YellowBold>[player]</>‘s incredible.
-Soul Tracker Prima,Defeat Soul Tracker Prima,Cara,"Here, this way.",,
-Soul Tracker Prima,Join Cara,,,,
-To the Guardian Tree,Go with Cara,Cara,"I think the problem here has been solved. Can you follow me?
-<p>I think you can solve our problem.
+<p>There are Orc Scouts in our intended direction. Let’s defeat them before they follow us.",Cara,Good job. I didn’t come here to fight the Orcs... Things got complicated.
+Soul Tracker Primas,Defeat Soul Tracker Primas,Cara,Those primas are also threatening the Protection Tree. Let’s do our job.,Cara,Well done. <YellowBold>[player]</>‘s incredible.
+Soul Tracker Primas,Defeat Soul Tracker Primas,Cara,"Here, this way.",,
+Soul Tracker Primas,Join Cara,,,,
+To the Protection Tree,Go with Cara,Cara,"I think the problem here has been solved. Can you follow me?
+<p>I think you can solve our other problems.
 <p>It’s as if the Goddess Eva sent you. Please, follow me!",Cara,This was originally elven territory.
-Evils Desecrating the Area,Defeat Ravine Windsus,Cara,Windsus shouldn’t be here. This is bad... the Protection Tree has been weakened so much... We must clear the evils around here.,Cara,Evils came all the way here... This is very disturbing.
-Memories of the Past,Gather Spirit Flower,Cara,"Oh! That’s a spirit flower! Never thought I would see that here... after the Protection Tree has been weakened, it’s a rare sight in the wilderness.
-<p>We’re planting it in our gardens to protect it. I can’t leave that rare flower like that, Windsus will eat it up.",Cara,"They were abundant in the past, now only a few of them remain..."
-"A Cat, Here?",Find the strange kid,Cara,Huh? There was nothing like that before... Who’s that shorty over there? Your expression... You know who that is? I will keep distance for a moment.,Peddler Pan,"Hey! <YellowBold>[player]</>, fancy meeting you here, meow!"
+Evils Desecrating the Area,Defeat Ravine Windsus,Cara,The Windsus shouldn’t be here. This is bad... the Protection Tree has been weakened so much... We must clear the evils around here.,Cara,These evils came all the way here... This is very disturbing.
+Memories of the Past,Gather Spirit Flowers,Cara,"Oh! That’s a spirit flower! Never thought I would see that here after the Protection Tree was weakened. They’re a rare sight in the wilderness.
+<p>We’ve been planting it in our gardens to protect it. I can’t leave that rare flower like that, the Windsus will eat it up.",Cara,"They were abundant in the past, now only a few of them remain..."
+"A Cat, Here?",Find the strange kid,Cara,Huh? There was nothing like that before... Who’s that shorty over there? Your expression... You know who that is? I think I’ll keep my distance.,Peddler Pan,"Hey! <YellowBold>[player]</>, fancy meeting you here, meow!"
 Location Does Not Matter,Defeat the Stone Golems,Peddler Pan,"Meow? Who is that Elf? Not that it matters, you want to know why I’m here? I came to earn money, that’s why!
 <p>And this time the Silverlight Mercenaries requested something! Hardin requires certain ingredients!
 <p>Who else would want so many ingredients? Besides, I have a friend like you, <YellowBold>[player]</>. who can help me, of course!
 <p>Now, shall we begin? Defeat those Stone Golems over there!",Peddler Pan,"The Stone Golem’s Core is used in special orders, meow, especially for sealing powerful entities.
 <p>I’m sure you have one right now, meow.
 <p>What’s the matter? Cat got your tongue?!"
-Golem’s Core,Collect Stone Golem’s Core,Peddler Pan,"<YellowBold>[player]</>! I thought you would learn, meow! How many times do I have to tell you! Go get the Stone Golem’s Core!",Peddler Pan,"Paw-fect! Now let’s go for the next item, meow!"
-Elven Ruins,Go to the ruins with Pan,Peddler Pan,"This is the Elven Ruin’s remains. It can be used for spells, but only great wizards like Hardin can use it. It will take a century to extract mana from the remains.
-<p>We don’t need to worry about Hardin, though. Let’s go get them!",Celin,A guest? Is this a joke? There’s no reservation. I don’t care who your friends are.
+Golem’s Core,Collect Stone Golem’s Cores,Peddler Pan,"<YellowBold>[player]</>! I thought you would learn, meow! How many times do I have to tell you! Go get the Stone Golem’s Core!",Peddler Pan,"Paw-fect! Now let’s go for the next item, meow!"
+Elven Ruins,Go to the ruins with Pan,Peddler Pan,"This is the Elven Ruin’s remains. It can be used for spells, but only great wizards like Hardin can use it. It usually takes a century to extract mana from the remains.
+<p>We don’t need to worry about Hardin, though. Let’s go get them!",Celin,A guest? Is this a joke? No visits were scheduled. I don’t care who your friends are.
 Elven Ruins,Be on your guard against the approaching entity,,,,
 Elven Ruins,Be on your guard against the approaching entity,Celin,You must be here for the relics. In that case! You die.,,
 Elven Ruins,Defend against the elven attack,,,,
 Guardian,Find the elder,Celin,"Cara, you’ve been reckless. Do you understand the situation?
-<p>Looks like you came here with Cara, I will make an exception this time. Leave here at once!",Rowen,"Greetings. I’ve heard about you, from Cara. On behalf of the guardian elves, I thank you."
-Guardian,Find the elder,Cara,"<YellowBold>[player]</> is a Silverlight Mercenary who saved me and people imprisoned by the Orcs.
-<p>Perhaps we could use some help?",,
-Guardian,Find the elder,Celin,"So you brought outsiders here? You’re just making things worse. Trusting only because you were saved from the Orcs?
+<p>Since you came here with Cara, outsiders, I will make an exception this time. Leave here at once!",Rowen,"Greetings. I’ve heard about you, from Cara. On behalf of the guardian elves, I thank you."
+Guardian,Find the elder,Cara,"<YellowBold>[player]</> is a Silverlight Mercenary who saved me and others imprisoned by the Orcs.
+<p>Perhaps we could use their help?",,
+Guardian,Find the elder,Celin,"So you brought outsiders here? You’re just making things worse. Trusting them only because you were saved from the Orcs?
 <p>Do you think I would believe anyone who claims to be a Silverlight Mercenary?",,
-Guardian,Find the elder,Cara,I want to introduce the warrior to the elder and request for help our tree.,,
-Guardian,Find the elder,Celin,Leaving our Protection Tree to an outsider! This is our problem.,,
-Guardian,Find the elder,Cara,We’ve already done what we could! There isn’t anyone to send out anymore...,,
-Guardian,Find the elder,Celin,"How dare you! You’re bringing shame upon our clan.
+Guardian,Find the elder,Cara,I want to introduce the warrior to the elder and request they be allowed to help our tree.,,
+Guardian,Find the elder,Celin,Leaving our Protection Tree to an outsider?! This is our problem.,,
+Guardian,Find the elder,Cara,We’ve already done what we could! We don’t have anyone else to send...,,
+Guardian,Find the elder,Celin,"How dare you! You bring shame upon our clan.
 <p>... The decision is up to the elder. I’ll be watching. If there’s any trouble, you shall pay with your life, Cara.",,
 Guardian,Find the elder,Cara,"I understand.
 <p>The Elder will be near the Protection Tree. Let’s go.",,
 Battle Between the Elves and Draconians,Gather Herbs,Rowen,"Since the Protection Tree has been losing power, we elves have been weakened as well. We’re barely surviving by using elven mana on the Protection Tree.
 <p>I would like to offer some tea, but I can’t stay long while there are so many patients here. I need herbs for our patients, could you help me?",Rowen,Thank you. Now sick elves can be treated.
-The Stolen Guardian Tree Essence,Defeat the Guardian Basilisk,Rowen,"Damn! Basilisks. How did they get here? Please help me drive them off.
+The Stolen Protection Tree Essence,Defeat the Guardian Basilisks,Rowen,"Damn! Basilisks. How did they get here? Please help me drive them off.
 <p>Basilisks are after the Protection Tree’s essence again!",Rowen,Thank you. Basilisks are no longer harassing us.
-The Weakened Elves I,Look at the Guardian Tree,Rowen,Can you come closer to the Protection Tree?,Rowen,But that was not the end of our misfortunes.
+The Weakened Elves I,Look at the Protection Tree,Rowen,Can you come closer to the Protection Tree?,Rowen,But that was not the end of our misfortunes.
 The Weakened Elves I,Listen to Rowen’s story,Rowen,"Shall we continue?
-<p>As the Protection Tree weakened, so did we. It’s now difficult to protect the Protection Tree from beasts like basilisks.
+<p>As the Protection Tree weakened, so did we. It’s now difficult to defend the Protection Tree from beasts like basilisks.
 <p>It’s a vicious cycle. Our death seems inevitable.",,
 The Weakened Elves II,Follow Rowen,Rowen,Will you follow me? I have something to show you.,Rowen,"They’re the Blood King’s minions, trying to take the remaining Protection Tree’s essence. The Blood King is the cause of all this...
 <p>Our Protection Tree is immortal, but the Blood King backstabbed us during the war against the Draconians and stole the Protection Tree’s essence.
 <p>Protector Randol was able to secure some of it, but the Protection Tree has been weakening since."
 The Weakened Elves II,Talk to Peddler Pan,,,,
 The Weakened Elves II,Talk to Peddler Pan,Peddler Pan,Why are there reapers here?!,,
-In Search of the Blood King,Meet Cara before departing,Rowen,"Then, I would like to officially request for you to retrieve the Protection Tree’s essence. It will restore our Protection Tree.
-<p>The only insight we have is that there’s a Blood King somewhere in the canyon.
+In Search of the Blood King,Meet Cara before departing,Rowen,"Then, I would like to officially request that you retrieve the Protection Tree’s essence. It will restore our Protection Tree.
+<p>The only insight we have is that the Blood King is somewhere in the canyon.
 <p>I wish you luck!",Cara,Prepare for a long journey. We should be ready for anything.
 In Search of the Blood King,Meet Cara before departing,Cara,"You didn’t even try to visit me before going? How rude! I shall go with you! Don’t worry, I was one of the rangers!
 <p>Ha, don’t try to stop me! I will follow you regardless!",,
-Preventing Dangers,Defeat Reaper,Cara,"While we’re not here, the Protection Tree will still be in danger... We should reduce any potential threats even while we’re moving.
-<p>That reaper is one of them. We should deal with it.",Cara,"Good, that will do! Wait, where’s that cat? It’s difficult to hide from Celin..."
-Slay the Soul Devourer Prima,Slay the Soul Devourer Prima,Cara,"As the Protection Tree has been weakening, the evils from the canyon have been expanding their boundaries. Some of them even invaded us.
-<p>Most of them are primas over there. They seem to covet the souls gathering around the Protection Tree. We should defeat them.",Cara,"Wow, we really struggled against that one, but you finished it off so easily!"
-Leave This Land!,Slay the Soul Devourer Prima,Cara,"With your skills, perhaps we can drive out the primas from this land.
+Preventing Dangers,Defeat Reapers,Cara,"While we’re away, the Protection Tree will still be in danger... We should reduce any potential threats while we’re traveling.
+<p>Those Reapers are definitely a threat. We should deal with them.",Cara,"Good, that will do! Wait, where’s that cat? It would be difficult for him to hide from Celin..."
+Slay the Soul Devourer Primas,Slay the Soul Devourer Primas,Cara,"As the Protection Tree has been weakening, the evils from the canyon have been expanding their boundaries. Some of them even invaded us.
+<p>Most of them are primas over there. They seem to covet the souls gathering around the Protection Tree. We should defeat them.",Cara,"Wow, we had really struggled against them, but you finished them off so easily!"
+Leave This Land!,Slay the Soul Devourer Primas,Cara,"With your skills, perhaps we can drive out the primas from this land.
 <p>The leader should be the one with the most souls. Let’s defeat it.
 <p>With their leader dead, they won’t be able to approach our borders so easily. I will light an elven lamp near the lair.
 <p>The monster should come. thinking it’s a soul. We shall slay it when it comes.
@@ -3120,8 +3119,8 @@ Leave This Land!,Slay the Soul Devourer Prima,Cara,"With your skills, perhaps we
 Suppression Done Right,Light the elven lamp,Cara,"Light the elven lamp! Then primas will come. 
 Get ready!",Cara,Wow! Did you see them running after their leader died? Now we can rest easy!
 Suppression Done Right,Defeat the incoming Soul Trackers,,,,
-Monsters of the Dead Land,Defeat the Sahara of Barren Land,Cara,"Ah... Look over there. Sahara of Barren Land are here! They appear only in barren, lands beyond restoration...
-<p>No! I can’t give up. Let’s defeat it as well! It will slow down this land from becoming a wasteland.",Cara,I hope this will return some of the essence of the land.
+Monsters of the Dead Land,Defeat the Saharas of Barren Land,Cara,"Ah... Look over there. Saharas of Barren Land are here! They appear only in barren lands beyond restoration...
+<p>No! I can’t give up. Let’s defeat them as well! It will slow this land from becoming a wasteland.",Cara,I hope this will return some of the essence of the land.
 Enraged Sahara,Defeat the incoming saharas,Cara,Look out! Enraged Saharas are coming!,Cara,"Hey, that silhouette is...?"
 Cute Peddler Pan,Covertly approach Pan,Cara,Peddler Pan still doesn’t know we’re here. There’s only one thing we should do...,Peddler Pan,"E...Elf! An elf! Gotta run, meow!"
 Cute Peddler Pan,Covertly approach Pan,Cara,Wagh!,,
@@ -3129,50 +3128,50 @@ Cute Peddler Pan,Covertly approach Pan,Peddler Pan,"Meow!
 <p>What was that!",,
 Peddler Pan’s Money Sack,Find Pan’s money pouch,Peddler Pan,"Hey, Elf! Stop touching my fur! It’s a thousand Adena per touch! Pay up!
 <p><YellowBold>[player]</>, glad to see you! I had to run to the hunter campsite in a hurry, and those Saharas gobbled up my money pouch!
-<p>Please find my pouch! Please!",Peddler Pan,Wow! Found it at last! Thanks!
-How to Restore the Land,Collect Twilight Sahara’s heart,Peddler Pan,"Good work finding my money pouch. Elf is also working hard, so I will tell you something useful. Those Saharas eat nutrients from the ground.
+<p>Please find my pouch! Please!",Peddler Pan,Meow! Found it at last! Thanks!
+How to Restore the Land,Collect Twilight Sahara’s hearts,Peddler Pan,"Good work finding my money pouch. Elf is also working hard, so I will tell you something useful. Those Saharas eat nutrients from the ground.
 <p>People think they appear in dead lands, but it’s the opposite. The land becomes dead because of the sahara.
 <p>And you know the stone that looks like a heart when you kill saharas? Plant it in the ground and you can return the nutrients to the land. If you want to restore the land, plant the hearts in the ground!
-<p>Now I will be on my way! I still have to look for the items Hardin ordered! I will gather what I can gather alone for now!",Cara,How did it know that I wanted to restore this land?
-To the Hunter’s Retreat,Bury Sahara's heart I,Cara,"Now let’s bury this heart into the ground and go to the hunter shelter.
+<p>Now I will be on my way! I still have to look for the items Hardin ordered! I will gather what I can gather alone for now!",Cara,How did he know that I wanted to restore this land?
+To the Hunter’s Retreat,Bury Sahara's heart I,Cara,"Now let’s bury these hearts into the ground and go to the hunter’s retreat.
 <p>It’s only a personal guess, but I think the Blood King has an adverse effect on the Protection Tree.
-<p>Hunters always work around here, so they may know something about the Blood King.",Cara,"It’s dangerous to move further east from here. Let’s return to the hunters’ retreat...
+<p>Hunters always work around here, so they may know something about the Blood King.",Cara,"It’s dangerous to travel further east from here. Let’s go to the hunter’s retreat...
 <p>Wh-what’s that? That black cloud..."
 To the Hunter’s Retreat,Bury Sahara's heart II,,,,
 To the Hunter’s Retreat,Bury Sahara's heart III,,,,
 To the Hunter’s Retreat,Bury Sahara's heart IV,,,,
-An Ominous Sign,Defeat the incoming wyrm,Cara,Look out! Wyrms! Coming this way!,,
-An Ominous Sign,Listen to Cara’s story,Cara,Wyrms moving like this... What is happening here? Let’s go to the hunter shelter for now.,,
-Attack of the Draconians,Collect intel from Hunter,Cara,People here may know something about the Blood King. Let’s spread out and ask around!,Hammon,Is everyone okay? What the hell is this... Why did the Draconians attack this area?!
-Attack of the Draconians,Collect intel from Hunter,Hammon,"Came to buy something? Here’s some fine wyrm leather. Hunters risked their lives for it.
+An Ominous Sign,Defeat the incoming wyrms,Cara,Look out! Wyrms! Coming this way!,,
+An Ominous Sign,Listen to Cara’s story,Cara,Wyrms arriving like this... What is happening here? Let’s go to the hunter’s retreat for now.,,
+Attack of the Draconians,Collect intel from Hunters,Cara,People here may know something about the Blood King. Let’s spread out and ask around!,Hammon,Is everyone okay? What the hell is this... Why did the Draconians attack this area?!
+Attack of the Draconians,Collect intel from Hunters,Hammon,"Came to buy something? Here’s some fine wyrm leather. Hunters risked their lives for it.
 <p>You don’t look like a merchant. People coming here are either merchants or hunters. What brings you here?
 <p>Do I know anything about the Blood King? What is a Blood King? A new cocktail? Ha ha...",,
 Attack of the Draconians,Video: Ambush in Hunter’s retreat,,,,
 Attack of the Draconians,Defend against the draconian attack,,,,
-In Search of the Excavation Dwarves I,Defeat the Amber Basilisk,Hammon,"You saved my life. Thank you. Did you say Blood King?
+In Search of the Excavation Dwarves I,Defeat the Amber Basilisks,Hammon,"You saved my life. Thank you. Did you say Blood King?
 <p>Come to think of it, I met someone a while ago... A dwarf talking about something similar. He was excavating things along with his daughter, but I don’t remember his name...
 <p>Damn. They left a few days ago.
 <p>There are basilisks in the south, maybe they went there. Be careful, if you look around you just might find them...",Hammon,"If it’s not in the south, then it’s the Chasm of Oblivion... It’s a place far more dangerous."
 In Search of the Excavation Dwarves II,Find the whereabouts of the Archaeologist Dwarves,Hammon,"They haven’t returned, so something bad must be going on.
 <p>They could be still alive, but I don’t recommend looking out for them.",Feldheim,"Look who it is, it’s <YellowBold>[player]</>! Never expected to see you here!"
-Threatening Fettered Soul,Defeat Wandering Fettered Soul,Feldheim,"I owe you again! You should wait until I repay my debt next time, ha ha! My business here? There’s so much to dig up here!
-<p>See that Fettered Souls over there? I had to run away because of them! Those damn monsters, will you defeat them for me?",Feldheim,"Ha, look at them! Did I tell you how much I like you? Thank you, ha ha ha!"
+Threatening Fettered Soul,Defeat Wandering Fettered Souls,Feldheim,"I owe you again! You should wait until I repay my debt next time, ha ha! My business here? There’s so much to dig up here!
+<p>See the Fettered Souls over there? I had to run away because of them! Those damn monsters, will you defeat them for me?",Feldheim,"Ha, look at them! Did I tell you how much I like you? Thank you, ha ha ha!"
 A Difficult Path,Follow Feldheim,Feldheim,"Well, it’s not a simple excavation this time. The Silverlight Mercenaries requested this.
 <p>Or, should I say Hardin requested this? It’s dangerous, so let’s go to my post first.
-<p>There are so many monsters... Could you clear the path? Fighting the Headless Knights could turn me into a headless knight.",Feldheim,Huff huff... Let’s rest for a while.
-Headless Knight's Pursuit,Defeat Headless Knight,Feldheim,"Do you have anything to eat? I have been starving for so long. Windsus jerky? Great! Ah...
+<p>There are so many monsters... Could you clear the path? Fighting the Headless Knights could turn me into a headless archaeologist.",Feldheim,Huff huff... Let’s rest for a while.
+Headless Knight's Pursuit,Defeat Headless Knights,Feldheim,"Do you have anything to eat? I have been starving for so long. Windsus jerky? Great! Ah...
 <p>Looks like the Headless Knights have followed us! No wonder I can’t eat these days! And I am still overweight, would you believe that?
 <p>I have you, so I refuse to run this time! Defeat them for me!",Feldheim,"In times like this, I can’t really eat in comfort."
-A Suspicious Tablet,Defeat the nearby evils,Feldheim,Hm... I have a request for the elf you’re with... there’s an ancient elven written on this tablet. Could I ask to have it deciphered?,Cara,"I finished deciphering the tablet, but the contents are partial. It won’t do much by itself, but I will read it anyway.
+A Suspicious Tablet,Defeat the nearby evils,Feldheim,Hm... I have a request for the elf you’re with... there’s ancient elven written on this tablet. Could I ask to have it deciphered?,Cara,"I finished deciphering the tablet, but the contents are incomplete. It won’t do much by itself, but I will read it anyway.
 <p><GreenBold>The Chasm of Oblivion has a dimensional rift connected to the netherworld. And inside of it...</>
 <p>That’s it. We need more fragments to understand what it means."
-A Suspicious Tablet,,Cara,"The ancient elf? Ha ha, do you think all elves can read ancient elf text? What simple logic!
+A Suspicious Tablet,,Cara,"Ancient elven? Ha ha, do you think all elves can read ancient elf text? What simple logic!
 <p>Show it to me. Just in case you don’t know, these ancient letters require mana when reading. If something interferes during reading, it will erase the contents and harm me as well.
-<p>So make sure the evils around do not bother me.",,
+<p>So make sure the evils around us do not bother me.",,
 A Suspicious Tablet,Return to Cara,,,,
-Make Way!,Follow Feldheim,Feldheim,"So that’s what it is? I have to look for other tablets soon! Thank you!
-<p>I finished this one, so let’s move. Now Fettered Souls are blocking our way. We are almost there, so keep it up!",Niah,Dad! You’re alright!
-Second Tablet,Wait for Cara’s decryption,Niah,"<YellowBold>[player]</>! It’s been a long time. Thank you for saving my dad, I never expected to see you here.<p>Oh! Head Archaeologist!
+Make Way!,Follow Feldheim,Feldheim,"So that’s what it is? I have to look for other tablets now! Thank you!
+<p>I finished this one, so let’s move. Fettered Souls are blocking our way. We are almost there, so keep it up!",Niah,Dad! You’re alright!
+Second Tablet,Wait for Cara’s decryption,Niah,"<YellowBold>[player]</>! It’s been a long time. Thank you for saving my dad; I never expected to see you here.<p>Oh! Head Archaeologist!
 <p>I found two more of the tablets you told me to find.<p>Huh? Ask the elf?<p>Please, will you decipher these tablets?",Cara,"<GreenBold>I’m Guardian Elf Knight Randol... I leave this message to my descendants...</>
 <p><GreenBold>The Draconians didn’t intend to start a war with the Elves... Those who bleed black blood...</>
 <p>Wait... Guardian Elf Randol? He’s a legendary figure among us. He went missing in the chasm while pursuing the Blood King! The tablet is about him!"
@@ -3180,22 +3179,22 @@ Second Tablet,,Cara,I’m also interested in what it says. Give it to me.,,
 Second Tablet,Stop Quesnel’s subordinates,,,,
 Second Tablet,Stop Quesnel’s subordinates,Cara,That’s was close. Let’s decipher it before they come again!,,
 Second Tablet,Ask Cara,,,,
-Preparing the Excavation I,Defeat Headless Knight,Cara,"Hmm... That explains why the excavation is so slow. The evils around are harassing you, right?
+Preparing the Excavation I,Defeat Headless Knights,Cara,"Hmm... That explains why the excavation is so slow. The evils around are harassing you, right?
 <p>I need clues on the Blood King anyway, so we should reduce the number of evils here to help the excavation. Defeating the Headless Knights would be a good start.",Cara,Thank you! But there are still a lot of evils out there.
-Preparing the Excavation II,Defeat Fettered Souls,Cara,Seems like the evils have been rapidly increasing under the Draconian rule... there are so many of them here... the Fettered Souls are no exception. Let’s deal with them too.,Feldheim,"I heard from Cara. You decided to help our excavation?
-<p>Thanks, although it’s a job offered by Hardin, your help will be appreciated."
-Grandis’s Domain,Defeat Grandis Bonecrusher,Feldheim,"I want to investigate the inner area, but that’s where the grandis are. It’s also where a number of tablets are. I want to concentrate here.
-<p>Will you drive out the grandis? Be careful, their blunt weapons will crush your bones.",Feldheim,"Where?! Do you have any broken bones?
-<p>Dealing with a monstrosity like that! You’re really awesome!"
-Expanding the Organization,Find the leader with Cara,Feldheim,"<p>Hey! There is a pile of tablets here! I think what Hardin’s looking for may be here as well.<p>I can’t follow you, since I have to recover these.
-<p>If you want to really drive out the Grandis, you should kill their leader. That will make them think twice before attacking us!",Cara,The leader has the tablet!
+Preparing the Excavation II,Defeat Fettered Souls,Cara,Seems like the evils have been rapidly increasing under Draconian rule... there are so many of them here... the Fettered Souls are no exception. Let’s deal with them too.,Feldheim,"I heard from Cara. You decided to help our excavation?
+<p>Thanks, although this job was offered by Hardin, your help will be appreciated."
+Grandis’s Domain,Defeat Grandis Bonecrushers,Feldheim,"I want to investigate the inner area, but that’s where the grandis are. It’s also where a number of tablets are. I want to concentrate there.
+<p>Will you drive out the grandis? Be careful, their blunt weapons will crush your bones.",Feldheim,"Are you alright?! Do you have any broken bones?
+<p>Dealing with monstrosities like that! You’re really awesome!"
+Expanding the Organization,Find the leader with Cara,Feldheim,"<p>Hey! There is a pile of tablets here! I think what Hardin’s looking for may be here as well.<p>I need to stay, since I have to recover these.
+<p>If you want to really drive out the Grandis, you should kill their leader. That will make them think twice before attacking us!",Cara,The leader had the tablet!
 Expanding the Organization,,Cara,The leader will not be easy. Let’s go together!,,
 Expanding the Organization,Defeat Grandis Leader,,,,
 Expanding the Organization,Defeat Grandis Leader,Cara,We defeated the leader. Let’s leave.,,
 Expanding the Organization,Go to a safe spot,,,,
-Don’t Get in the Way!,Defeat Dustwind Gargoyles,Cara,I think the tablets are guiding us... Good. Let me take a look at this. Please protect me while I decipher this.,Cara,"<GreenBold>Veremus cooperated with him to receive the power. We were cut off by Veremus from escaping...</>That’s all it says.
-<p>Oh, there’s something else... Could this be the part about the Blood King? We don’t have much time.
-<p>This tablet is talking about Veremus. Let’s find its nest first."
+Don’t Get in the Way!,Defeat Dustwind Gargoyles,Cara,I think the tablets are guiding us... Good. Let me take a look at this. Please protect me while I decipher this.,Cara,"<GreenBold>Veremus cooperated with him to receive the power. We were cut off by Veremus, and could not escape...</>That’s all it says.
+<p>Oh, this is new... Could this be the part about the Blood King? We’re running out of time.
+<p>This tablet is talking about Veremus. Let’s find its nest."
 Don’t Get in the Way!,Return to Cara,,,,
 The Cat Returns,Find the source of the sound,Cara,"Hmm? I heard something strange over there, could you check it out?
 <p>I will deliver the tablets to Feldheim.",,
@@ -3203,85 +3202,85 @@ Fallen Peddler Pan,Collect dragon eggs,Peddler Pan,"Help me... Why did Hardin or
 <p>I gave up after such a long chase. Please go get the dragon eggs for me.",Peddler Pan,Incredible!!! M-meow!!!! How delicious!!! Meow!!! What an exquisite and exotic taste!
 Fallen Peddler Pan,Collect dragon eggs,Peddler Pan,But... the peddler cat also want to taste the dragon egg... They say it’s a true delicacy. Bring lots of it!,,
 Fallen Peddler Pan,Fry the egg in the furnace,,,,
-Gargoyle for Stuffing,Collect Dustwind Gargoyle Specimens,Peddler Pan,"After this, I will not accept Hardin’s personal orders for a while! He is really exotic!
-<p>The list goes on! I left anything requires combat! See those gargoyles! They’re used for stuffing, and looks like Hardin has a new hobby! Go get them!",Peddler Pan,"It would have been better if there were no scars. Good, meow! This will still be a high-priced product."
-Blunt Weapon for Steel Frame,Collect Bonecrusher’s blunt weapon,Peddler Pan,"Next up, see those grandis? Their blunt weapons are very good to use as steel frames! Why are you still here?",Peddler Pan,"Mrrow... This one was actually not on the list, but more for me to sell, meow!"
+Gargoyle for Stuffing,Collect Dustwind Gargoyle Specimens,Peddler Pan,"After this, I will not be accepting Hardin’s personal orders for a while! His tastes are too exotic!
+<p>The list goes on! I’m done with anything requiring combat! See those gargoyles! They’re used for stuffing, and looks like Hardin has a new hobby! Go get them, meow!",Peddler Pan,"It would have been better if there were no scars. Good, meow! This will still be a high-priced product."
+Blunt Weapon for Steel Frame,Collect Bonecrusher’s blunt weapons,Peddler Pan,"Next up, see those grandis? Their blunt weapons are very good to use as steel frames! Why are you still here?",Peddler Pan,"Mrrow... This one was actually not on the list, but more for me to sell, meow!"
 Blunt Weapon for Steel Frame,Give the blunt weapon to Pan,,,,
 Brother’s Revenge,Stop the incoming Grandis,Peddler Pan,Huh? I felt the ground shudder. Is this an earthquake? Or... is this Antharas waking up?,,
 Rare and Expensive Dragon Bone,Collect Dragon Bones,Peddler Pan,"Oh! See those dragon bones?! I was wondering how could I get those!
-<p>Pick them up right now! Er... I mean please pick them up for me! I am exhausted!",Peddler Pan,"This one is really on Hardin’s list, meow! Don’t you believe me?"
-"More Brutal, More Expensive",Collect Maelstrom Dustwind Specimens,Peddler Pan,We must get those Heavy Dustwind Gargoyles! They are more vicious and more expensive than ordinary Dustwind Gargoyles! Go!,Peddler Pan,"You must have heard me earlier, meow. This one is very clean, it should go for a handsome purr-ice!"
-Terrifying Gaze,Defeat the Fearful Monster Eye,Peddler Pan,"Agh, those Monster Eyes are gazing on us. Wait, I think they’re also on the list... and here it is! Get them!",Peddler Pan,"Meow, that was scary. Eyes that big fur-ighten me!"
+<p>Pick them up right now! Er... I mean please pick them up for me! I am exhausted!",Peddler Pan,"These are really on Hardin’s list, meow! Don’t you believe me?"
+"More Brutal, More Expensive",Collect Maelstrom Dustwind Specimens,Peddler Pan,We must get those Heavy Dustwind Gargoyles! They are more vicious and more valuable than ordinary Dustwind Gargoyles! Go!,Peddler Pan,"You must have heard me earlier, meow. This one is very clean, it should go for a handsome purr-ice!"
+Terrifying Gaze,Defeat the Fearful Monster Eyes,Peddler Pan,"Agh, those Monster Eyes are gazing at us. Wait, I think they’re also on the list... and here they are! Get them!",Peddler Pan,"Meow, that was scary. Eyes that big fur-ighten me!"
 A Hunter Preparing Revenge,Talk to Hunter Hammon,Peddler Pan,There’s a torch over there. Let’s head that way.,Hammon,"Hey, look who’s here! Welcome."
-Veremus’s Minions,Defeat the Wyrm Guardian,Hammon,"We restored the shelter quickly, thanks to you. I found out who was behind the attack by checking the corpses. 
+Veremus’s Minions,Defeat the Wyrm Guardians,Hammon,"We restored the shelter quickly, thanks to you. I found out who was behind the attack by checking the corpses. 
 <p>It’s Veremus. He rules this region. I don’t know why he’s doing this, but we can’t let him get away with attacking hunters.
 <p>Ha, that cat merchant seems happy. Must have heard that Veremus piled up lots of treasure.
-<p>We need your skills, so please help me. Start by dealing with Veremus' minions.",Peddler Pan,Meow? The leather? The leather? The leather? Did you forget the leather?!
-Peddler Pan’s Sigh,Collect Wyrm Guardian Leather,Peddler Pan,"Ah, I’m tired of talking. Go get the wyrm leather!",Peddler Pan,"You work well, but any thoughts on working alone, meow?"
-Peddler Pan’s Greed,Collect wyrm eggs,Peddler Pan,We have enough eggs... so we can sell those! Let’s regroup after picking up those wyrm eggs!,Peddler Pan,"This sweet and delicious Wyrm Egg is the best ingredient, meow. I shall bring some of them when heading to Oren."
-Peddler Pan’s Greed,Collect wyrm eggs,Peddler Pan,"If you had enough, follow me.",,
-Watchers,Defeat the Deathly Monster Eye,Hammon,That Deathly Monster Eye is Veremus' minion. Let’s deal with it too!,Hammon,Very swift! You’re even faster than the hunters!
-Reducing the Numbers,Defeat the Wyrm Guardian,Hammon,The Wyrm Guardian resistance is formidable. Maybe Veremus already knows that we’re coming for him. Let’s move.,Hammon,Wyrms are getting more aggressive as we get closer to Veremus’ nest.
-A Full-Scale Attack,Defeat the incoming wyrm,Hammon,Lookout! Wyrms incoming!,Hammon,"Veremus must have noticed us. Watch out, they will go on the offensive."
-A Full-Scale Attack,Defeat the incoming wyrm,,,,
+<p>We need your skills, so please help us. Start by dealing with Veremus’s minions.",Peddler Pan,Meow? The leather? The leather? The leather? Did you forget the leather?!
+Peddler Pan’s Sigh,Collect Wyrm Guardian Leather,Peddler Pan,"Ah, I’m tired of talking. Go get the wyrm leather!",Peddler Pan,"You work well, but were you expecting me to get the leather, meow?"
+Peddler Pan’s Greed,Collect wyrm eggs,Peddler Pan,We have enough eggs... so we can sell those! Let’s regroup after picking up more wyrm eggs!,Peddler Pan,"This sweet and delicious Wyrm Egg is the best ingredient, meow. I shall bring some of them when heading to Oren."
+Peddler Pan’s Greed,Collect wyrm eggs,Peddler Pan,"If you have enough, follow me.",,
+Watchers,Defeat the Deathly Monster Eyes,Hammon,That Deathly Monster Eye is Veremus' minion. Let’s deal with it too!,Hammon,Very swift! You’re even faster than the hunters!
+Reducing the Numbers,Defeat the Wyrm Guardians,Hammon,The Wyrm Guardian resistance is formidable. Maybe Veremus already knows that we’re coming for him. Let’s move.,Hammon,Wyrms are getting more aggressive as we get closer to Veremus’s nest.
+A Full-Scale Attack,Defeat the incoming wyrms,Hammon,Look out! Wyrms incoming!,Hammon,"Veremus must have noticed us. Watch out, they are on the offensive."
+A Full-Scale Attack,Defeat the incoming wyrms,,,,
 Reunion with Cara,Talk to the familiar elf,Hammon,"Someone’s fighting the Wyrm over there! Ooh, beat it!<p>It’s an elf! What’s an elf doing here? Let’s see.",Cara,Where have you been!? Leaving a lady in such a dangerous area... I’ve been looking for you!
-"Silently, Gracefully",Defeat the Deathly Monster Eye,Cara,"I found a tablet while I was alone. It’s an important clue. Listen!
+"Silently, Gracefully",Defeat the Deathly Monster Eyes,Cara,"I found a tablet while I was alone. It’s an important clue. Listen!
 <p><GreenBold>The Blood King is healing his wounds in the dimensional rift, thanks to Veremus.</>
 <p><GreenBold>If he is hit even just once more by the spirit sword, he will die. But the dragon knight, Cager took the sword... Damn it...</>
 <p>Burnsting is Randol’s sword. It’s as famous as Randol himself. No wonder the Blood King would be heavily wounded.
 <p>With the sword, it should be easy to fight the Blood King. But the sword is in Cager’s hands...",Hammon,Well done! Now let’s enter the enemy post. Get ready!
-"Silently, Gracefully",Defeat the Deathly Monster Eye,Hammon,"Did you say, Cager? Good! Do you know how many of my comrades died because of him? I will join you!
+"Silently, Gracefully",Defeat the Deathly Monster Eyes,Hammon,"Did you say, Cager? Good! Do you know how many of my comrades died because of him? I will join you!
 <p>Let’s defeat the Watchers nearby first! We don’t need them watching us!",,
 Draconians of the Nest,Defeat the Alert Wyrms,Hammon,"Wyrms are swarming. So, this is where the dragon knights are? We need to be careful, one wrong move and we’ll be surrounded by Wyrms.
 <p>Let’s deal with them before they decide to eat us!",Cara,So many dragons!! What were they preparing here?
 Preemptive,Destroy wyrm eggs,Cara,"There are the eggs! If those eggs hatch, us elves will be in trouble! We should destroy them while we can!",Cara,"Good, we should be alright now! It would have been better if I brought all of my companions and destroyed these eggs together!"
-Stomping the Sprout,Defeat the Baby Wyrm,Cara,"According to Hammon, there are dragon whelps inside! We must destroy them all! Are you with me?",Cara,Thank you! Our Protection Tree will be safe thanks to you!
+Stomping the Sprout,Defeat the Baby Wyrms,Cara,"According to Hammon, there are dragon whelps inside! We must destroy them all! Are you with me?",Cara,Thank you! Our Protection Tree will be safe thanks to you!
 How to Cut the Sprout,Destroy the remaining wyrm eggs,Cara,Huh? There are some eggs left! Let’s destroy them!,Cara,Whew... We’re alive... Even the Draconians protect their younglings.
-How to Cut the Sprout,Defeat the incoming trainer,,,,
+How to Cut the Sprout,Defeat the incoming trainers,,,,
 Taken Elven Legacy,Collect elven legacy,Cara,"How can this be... our relics are here! We must bring them back! With these, I can save my people!",,
 Dragon Knight’s Descendant,Defeat Cager’s Henchmen,Hammon,Do you see those dragon knights? They’re formidable minions of Cager. Be prepared!,Hammon,"Huff... Huff... What a battle. I scouted ahead, but Cager is not inside the post! He must be in the sky..."
-Provoke,Burn wyrm corpses,Hammon,"If we can’t go there, we can make it come to us instead! Burn those wyrm corpses! They have a strong connection to their kind, so it will surely come here!",Hammon,That was truly powerful. We would be impaled if not for you! Thanks!
-Provoke,Defeat the incoming Cager’s Henchmen,,,,
+Provoke,Burn wyrm corpses,Hammon,"If we can’t go up there, we can make him come to us instead! Burn those wyrm corpses! He has a strong connection to their kind, so it will surely bring him here!",Hammon,He was truly powerful. We would be impaled if not for you! Thanks!
+Provoke,Defeat incoming Cager’s Henchmen,,,,
 Provoke,Defeat the Dragon Knight Cager,,,,
 Spirit Sword,Pick up the spirit's sword Burnsting,Cara,"There’s Burnsting! Finally! We have Burnsting! Now, we can defeat the Blood King!",Cara,Let’s hurry! We don’t have much time!
-The Ones Blocking the Way,Defeat the Death Bind,Cara,Damn! Death Binds in here?! We can’t leave them. They will surely follow us! Defeat them right now!,Cara,That will do! Let’s head to Veremus’s nest!
+The Ones Blocking the Way,Defeat the Death Binds,Cara,Damn! Death Binds in here?! We can’t leave them. They will surely follow us! Defeat them right now!,Cara,That will do! Let’s head to Veremus’s nest!
 In Search of Veremus,Go with Cara,Cara,"According to the tablet, Veremus knows the location of the dimensional rift. But I don’t think Veremus will tell us the location... let’s make him tell us!",Hammon,Almost there. That’s it!
 Slaying Veremus I,Defeat Veremus’s Children,Hammon,That’s where Veremus lives. Let’s remove its younglings before Veremus returns!,Cara,Hurry! Veremus is returning!
 Slaying Veremus II,Defeat Veremus’s minions,Hammon,"Veremus knows we’re here. Be careful, he won’t be happy we killed so many Wyrms!",Cara,That was... an epic battle... Ugh...
-Slaying Veremus II,Defeat Veremus’s minions,Cara,You can’t stop us with this. Veremus! Tell us everything you know about the Blood King!,,
+Slaying Veremus II,Defeat Veremus’s minions,Cara,"You can’t stop us with this, Veremus! Tell us everything you know about the Blood King!",,
 Slaying Veremus II,Defeat Veremus,,,,
-Veremus’s Treasure,Find the Gemstone of Dimensions,Cara,"The Protection Tree is about to die... There’s no time... Find the treasure of Veremus... If Veremus is right, there should be a gemstone that will take you to the dimensional rift...",Celin,"What a weakling... Even though the Protection Tree is dying, she shouldn’t collapse like this!"
+Veremus’s Treasure,Find the Gemstone of Dimensions,Cara,"The Protection Tree is about to die... There’s no time... Find the treasure of Veremus. If Veremus is right, there should be a gemstone that will take you into the dimensional rift...",Celin,"What a weakling... Even though the Protection Tree is dying, she shouldn’t collapse like this!"
 Veremus’s Treasure,Find the Gemstone of Dimensions,Cara,Ugh...,,
 Veremus’s Treasure,Check Cara’s condition,,,,
 Veremus’s Treasure,Check Cara’s condition,Cara,The Protection Tree is weakening. I can’t hold on much longer.,,
 Veremus’s Treasure,Talk to Celin,,,,
-Can’t Stop Now,Use the Teleportation Stone,Celin,"I shall go with you instead. Cara is only a dead weight in such condition. Hurry, there’s no time.",Celin,We’re here. Watch out! I don’t know much about this place.
+Can’t Stop Now,Use the Teleportation Stone,Celin,"I shall go with you instead. Cara is only dead weight in such a condition. Hurry, there’s no time.",Celin,We’re here. Watch out! I don’t know much about this place.
 Can’t Stop Now,Use the Teleportation Stone,Hammon,"I would like to help, but I don’t think I’m capable of doing so...",,
-Can’t Stop Now,Use the Teleportation Stone,Peddler Pan,Why are you going in such a dangerous place! You think you have nine lives or what?! Help me here instead!,,
+Can’t Stop Now,Use the Teleportation Stone,Peddler Pan,"Why are you going to such a dangerous place! You think you have nine lives, meow?! Help me here instead!",,
 Can’t Stop Now,Use the Teleportation Stone,Celin,We have the teleportation stone. We must destroy the Blood King. Time is running out.,,
 Can’t Stop Now,Use the Teleportation Stone,,,,
-The Deceiver on the Back,Encounter Blood King,Celin,"There, there’s the Blood King.
+The Deceiver Behind it All,Encounter Blood King,Celin,"There, there’s the Blood King.
 <p>No one’s leaving unless the other is dead.",Celin,It’s done...
-The Deceiver on the Back,Defeat Blood King’s minions,,,,
-The Deceiver on the Back,Defeat Blood King’s minions,,,,
-The Deceiver on the Back,Defeat Blood King’s minions,,,,
-The Deceiver on the Back,Defeat Blood King,,,,
-The Deceiver on the Back,Defeat Blood King,,,,
-The Deceiver on the Back,Check Celin’s condition,,,,
+The Deceiver Behind it All,Defeat Blood King’s minions,,,,
+The Deceiver Behind it All,Defeat Blood King’s minions,,,,
+The Deceiver Behind it All,Defeat Blood King’s minions,,,,
+The Deceiver Behind it All,Defeat Blood King,,,,
+The Deceiver Behind it All,Defeat Blood King,,,,
+The Deceiver Behind it All,Check Celin’s condition,,,,
 The Collapsing Dimensional Rift,Reclaim the essence of the Protection Tree,Celin,I’m... done... take the essence... and leave now... save the Protection Tree...,Cara,<YellowBold>[player]</>! What happened to Celin?
 The Collapsing Dimensional Rift,Recover Celin’s body,,,,
 The Collapsing Dimensional Rift,Use the Teleportation Stone to escape,,,,
 The Collapsing Dimensional Rift,Use the Teleportation Stone to escape,,,,
-To the Guardian Tree,Use the Teleportation Stone,Cara,Oh no... Celin... We must head to the Protection Tree now. It won’t last much longer. Let’s use this teleportation stone.,Rowen,Oh no... Celin’s down?
-To the Guardian Tree,Use the Teleportation Stone,,,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Rowen,I can’t let Celin’s sacrifice go to waste. Use the essence on the Protection Tree!,Rowen,No... the Protection Tree restored her life... How fortunate!
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Rowen,Return the essence to its rightful place...,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,,,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Rowen,"The Protection Tree has been revitalized... This is... Our long-cherished wish has come true... Thank you so much, <YellowBold>[player]</>...",,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Cara,The Goddess Eva must have guided us to meet <YellowBold>[player]</>. It is truly a blessing. The elves who left here and the land will both return soon. Thank you.,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Celin,Ugh...,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Cara,Celin!! You’re alive? I thought you were dead...,,
-The Resurrected Guardian Tree,Restore the Protection Tree’s essence,Celin,Wh-what is happening? I... was dead...,,
+To the Protection Tree,Use the Teleportation Stone,Cara,Oh no... Celin... We must head to the Protection Tree now. It won’t last much longer. Let’s use this teleportation stone.,Rowen,Oh no... Celin’s dead?
+To the Protection Tree,Use the Teleportation Stone,,,,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Rowen,I can’t let Celin’s sacrifice go to waste. Use the essence on the Protection Tree!,Rowen,Amazing... the Protection Tree restored her life... How fortunate!
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Rowen,Return the essence to its rightful place...,,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,,,,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Rowen,"The Protection Tree has been revitalized... Our... Our long-cherished wish has come true... Thank you so much, <YellowBold>[player]</>.",,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Cara,"The Goddess Eva must have guided us to meet, <YellowBold>[player]</>. It is truly a blessing. The elves who left here will return to a land reborn. Thank you.",,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Celin,Ugh...,,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Cara,Celin!! You’re alive? I thought you were dead...,,
+The Resurrected Protection Tree,Restore the Protection Tree’s essence,Celin,Wh-what is happening? I... was dead...,,
 ,,Cara,"Saving me from the Orc Stronghold was one thing, but the salvation of our people... I am truly grateful! It’s sad that we have to part ways, but I hope we will meet again!",,
 ,,Celin,"Outsider... No, I mean... <YellowBold>[player]</>.
 <p>My life is yours from now on. My bow is always ready, waiting for your call.
@@ -8415,9 +8414,9 @@ Ring of the Guardian,Defeat Kargos,,,,
 Ring of the Guardian,Find to Aden Explorer Dorothy,,,,
 Ring of the Guardian,Talk to Aden Explorer Dorothy,Aden Explorer Dorothy,"Whew, I almost died! Did you see it spewing fire? That was really close! But, I found the ring! All thanks to you! Thank you so much!",,
 Stone Golem’s Secret,Go to Buhill the Guardian Elf,,,,
-Stone Golem’s Secret,Talk to Buhill the Guardian Elf,Buhill the Guardian Elf,"Welcome. We Guardian Elves are focused on restoring the wounded Guardian Tree.
-<p>However, I disagree with my colleagues. We do not know if the Guardian Tree is meant to be immortal.
-<p>Rather than restoring it, we should be focused on finding a way for our race to survive without the Guardian Tree!
+Stone Golem’s Secret,Talk to Buhill the Guardian Elf,Buhill the Guardian Elf,"Welcome. After the Protection Tree became weakened, we Guardian Elves have been doing our best to ensure that the it survives.
+<p>However, I disagree with my colleagues. We do not know if the Protection Tree is meant to be immortal.
+<p>Rather than restoring it, we should be focused on finding a way for our race to survive without the Protection Tree!
 <p>I am currently researching some leads on this theory. Can you help me out?
 <p>The Stone Golems become very strong through absorbing mana.
 <p>We must find out from what they absorb mana. Please hunt some Stone Golems for me - as many as you can!",,
@@ -8470,18 +8469,18 @@ Redemption of Nithos: Death Bind,Talk to Nithos the Straggler,Straggler Nithos,"
 Redemption of Nithos: Death Bind,Defeat the Death Bind,,,,
 Redemption of Nithos: Death Bind,Find Nithos the Straggler,,,,
 Redemption of Nithos: Death Bind,Talk to Nithos the Straggler,Straggler Nithos,Thank you. You remind me of my old comrades. Being sole survivor is far harder than I expected it to be...,,
-Abducted Veren: Orc Shaman,Go find the Abducted Veren,,,,
-Abducted Veren: Orc Shaman,Talk to the Abducted Veren,Abducted Merchant Veren,"You must have great combat skills to be here! I’m a merchant headed for Giran. I would be drinking in a Giran tavern if it weren’t for those meddling Orcs who ambushed my caravan!
+Abducted Veren: Orc Shaman,Go find Abducted Veren,,,,
+Abducted Veren: Orc Shaman,Talk to Abducted Veren,Abducted Merchant Veren,"You must have great combat skills to be here! I’m a merchant headed for Giran. I would be drinking in a Giran tavern if it weren’t for those meddling Orcs who ambushed my caravan!
 <p>Can you help me? I’ll pay you handsomely if you recover my cargo and help me escape!
 <p>Those Shamans stole my cargo to use in a ritual! Get rid of them and return my goods to me!",,
 Abducted Veren: Orc Shaman,Recover the Raided Cargo,,,,
-Abducted Veren: Orc Shaman,Go find the Abducted Veren,,,,
-Abducted Veren: Orc Shaman,Talk to the Abducted Veren,Abducted Merchant Veren,"Wow, thank you! There are even items here that weren’t mine in the first place! Ha! I’ll be sure to put them to good use! Ha ha!",,
+Abducted Veren: Orc Shaman,Go find Abducted Veren,,,,
+Abducted Veren: Orc Shaman,Talk to Abducted Veren,Abducted Merchant Veren,"Wow, thank you! There are even items here that weren’t mine in the first place! Ha! I’ll be sure to put them to good use! Ha ha!",,
 Darian’s Revenge: Orc Watchers,Go to Darian,,,,
 Darian’s Revenge: Orc Watchers,Talk to Darian,Orc Avenger Darian,"Greetings. Did the lord of Orren send you here, too?
 <p>I came to scout the area on the lord’s orders, and I’ve learned that there are far more sentries than we anticipated.
-<p>If we leave their numbers unchecked, the Orcs may detect our movements or even send raids to attack our soldiers. 
-<p>It will be wise for us to deal with them first. Will you help me deal with their sentries?",,
+<p>If we leave their numbers unchecked, the Orcs may detect our movements or even send raids to attack our soldiers. It will be wise for us to deal with them first.
+<p>Will you help me deal with their sentries?",,
 Darian’s Revenge: Orc Watchers,Ravine Breka Orc Sentries,,,,
 Darian’s Revenge: Orc Watchers,Go to Darian,,,,
 Darian’s Revenge: Orc Watchers,Talk to Darian,Orc Avenger Darian,"Ha! I love the seeing Orcs die! Oh, there is no need to feel guilty!
@@ -8523,13 +8522,13 @@ Redemption of Nithos: Wyrm Guardian,Talk to Nithos the Straggler,Straggler Nitho
 Redemption of Nithos: Wyrm Guardian,Defeat the Wyrm Guardian,,,,
 Redemption of Nithos: Wyrm Guardian,Find Nithos the Straggler,,,,
 Redemption of Nithos: Wyrm Guardian,Talk to Nithos the Straggler,Straggler Nithos,Thanks! My conscience feels more at ease knowing that vengeance for my men is complete. I can’t thank you enough!,,
-Abducted Veren: Orc Fighter,Go find the Abducted Veren,,,,
-Abducted Veren: Orc Fighter,Talk to the Abducted Veren,Abducted Merchant Veren,"You must be a skilled warrior to be here!<p>Ah, you’re one of the Silverlight Mercenaries! Great! I need someone to avenge me! I was on my way to Giran when I was ambushed!
+Abducted Veren: Orc Warrior,Go find Abducted Veren,,,,
+Abducted Veren: Orc Warrior,Talk to Abducted Veren,Abducted Merchant Veren,"You must be a skilled warrior to be here!<p>Ah, you’re one of the Silverlight Mercenaries! Great! I need someone to avenge me! I was on my way to Giran when I was ambushed!
 <p>Those blasted Orc Fighters smashed my wagon and stranded me! I wouldn’t have minded as much if they took me as captive, but they destroyed my wagon!
 <p>What’s with that expression? Oh! I’ll make it worthwhile! Please kill those Breka Fighters! Pulverize them!",,
-Abducted Veren: Orc Fighter,Defeat Ravine Breka Fighter,,,,
-Abducted Veren: Orc Fighter,Go find the Abducted Veren,,,,
-Abducted Veren: Orc Fighter,Talk to the Abducted Veren,Abducted Merchant Veren,Hahaha! Watching you kill those Orcs almost made up for the loss of my poor wagon! Thank you!,,
+Abducted Veren: Orc Warrior,Defeat Ravine Breka Fighter,,,,
+Abducted Veren: Orc Warrior,Go find Abducted Veren,,,,
+Abducted Veren: Orc Warrior,Talk to Abducted Veren,Abducted Merchant Veren,Hahaha! Watching you kill those Orcs almost made up for the loss of my poor wagon! Thank you!,,
 Darian’s Revenge: Orc Warchief,Go to Darian,,,,
 Darian’s Revenge: Orc Warchief,Talk to Darian,Orc Avenger Darian,"Just look at them! Those Cruel Orcs! Did you see that?! Those Breka Orc Warchiefs are butchering their captives!
 <p>Can you slay those Warchiefs for me? I’d do it myself, but my legs are wounded!
@@ -8538,9 +8537,9 @@ Darian’s Revenge: Orc Warchief,Ravine Breka Orc Warchief,,,,
 Darian’s Revenge: Orc Warchief,Go to Darian,,,,
 Darian’s Revenge: Orc Warchief,Talk to Darian,Orc Avenger Darian,I’m so grateful. You saved many lives from the Orcs. Thank you!,,
 Buhill’s Experiment: Reaper,Go to Buhill the Guardian Elf,,,,
-Buhill’s Experiment: Reaper,Talk to Buhill the Guardian Elf,Buhill the Guardian Elf,"Guardian Tree.
-<p>However, I disagree with my colleagues. We do not know if the Guardian Tree is meant to be immortal.
-<p>Rather than restoring it, we should be focused on finding a way for our race to survive without the Guardian Tree!
+Buhill’s Experiment: Reaper,Talk to Buhill the Guardian Elf,Buhill the Guardian Elf,"Welcome. After the Protection Tree became weakened, we Guardian Elves have been doing our best to ensure that it survives.
+<p>However, I disagree with my colleagues. We do not know if the Protection Tree is meant to be immortal.
+<p>Rather than restoring it, we should be focused on finding a way for our race to survive without the Protection Tree!
 <p>I’m researching some items. Would you help me?
 <p>It is said that Reapers absorb souls from other lifeforms in order to sustain themselves. I must understand how the process works. 
 <p>Please kill some Reapers and bring me their remains.",,
@@ -8566,12 +8565,296 @@ The Experiment of Jaid: Headless Knight,Talk to Dark Mystic Jaid,Dark Mystic Jai
 The Experiment of Jaid: Headless Knight,Overpower the Headless Knights,,,,
 The Experiment of Jaid: Headless Knight,Go to Dark Mystic Jaid,,,,
 The Experiment of Jaid: Headless Knight,Talk to Dark Mystic Jaid,Dark Mystic Jaid,"Heh heh... I’ve seen mercenaries like you a few times before. As I expected, your work is impeccable.",,
+Altar of Madness: Easy,Listen to Leewen’s Story,,,,
+Altar of Madness: Easy,Listen to Leewen’s Story,Wizard Leewen,"Oh, you’re part of the <BlueBold>Silverlight Mercenaries</>! Thank the Gods you’re here... I have no idea what’s going on.<P>The last I heard from our friend, <BlueBold>Laenis</>, was that the atrocious Orcs invaded the Timak Orc Shaman Village and were destroying everything.<p>I have no idea why they’re attacking their own people. I haven’t been able to talk to <BlueBold>Laenis</> since.<p>The village is over there. Follow me.",,
+Altar of Madness: Easy,Follow Leewen,,,,
+Altar of Madness: Easy,Listen to Leewen’s Strategy,,,,
+Altar of Madness: Easy,Listen to Leewen’s Strategy,Wizard Leewen,"I got rid of the barricade that was in our way, so you should be able to take that path to the village. <p>Once you enter the village, put out the <YellowBold>Signal Fires</>. There will be Orcs guarding the Signal Fires, so be very careful. <p>Also, take extra care around the <RedBold>guards</>. If they find you, they’ll bring a horde of enemies along with them. Good luck.",,
+Altar of Madness: Easy,Go into the village,,,,
+Altar of Madness: Easy,Extinguish the West Signal Fire,,,,
+Altar of Madness: Easy,Extinguish the East Signal Fire,,,,
+Altar of Madness: Easy,Go further into the Village,,,,
+Altar of Madness: Easy,Take the bomb from the Grenadier,,,,
+Altar of Madness: Easy,Destroy the Barricade,,,,
+Altar of Madness: Easy,Destroy the Barricade,,,,
+Altar of Madness: Easy,Enter the Guard Post,,,,
+Altar of Madness: Easy,Survive the Mad Orcs,,,,
+Altar of Madness: Easy,Survive the Mad Orcs,,,,
+Altar of Madness: Easy,Search Laenis,,,,
+Altar of Madness: Easy,Cutscene: Boranta Appears,,,,
+Altar of Madness: Easy,Defeat Boranta,,,,
+Altar of Madness: Easy,Save Laenis,,,,
+Altar of Madness: Easy,Talk to Laenis,,,,
+Altar of Madness: Easy,Talk to Laenis,Wizard Laenis,"That was terrifying! The agonized cries of the Orc Shamans were driving me crazy!<p>The Orc Shamans used to live in this village... But the new Timak Orc leader, <RedBold>Ramog</>, reduced it to rubble.<p><RedBold>Ramog</> wants the power of the god, Paagrio. To achieve that, he killed all the Shamans who opposed him. The remaining few were dragged off for some ritual.",,
+Altar of Madness: Easy,Escape the Guard Post,,,,
+Altar of Madness: Easy,Eliminate the Barrier,,,,
+Altar of Madness: Easy,Eliminate the Barrier,,,,
+Altar of Madness: Easy,Talk to Laenis,,,,
+Altar of Madness: Easy,Talk to Laenis,Wizard Laenis,"Paagrio is the god of fire. He is also the god of the Orcs. It is recorded that the Shamans sacrificed their blood and accepted Paagrio as their god.<p>If the ritual <RedBold>Ramog</> is trying to perform is to acquire Paagrio’s power, this isn’t just about one Orc trying to become stronger - this is something that puts the entire continent in danger!<p>I need to get this message to the Ivory Tower as soon as possible! Someone there must know. Please, be safe! Please stop the ritual!",,
+Altar of Madness: Easy,Enter the Altar Cave,,,,
+Altar of Madness: Easy,Enter the Altar Cave,,,,
+Altar of Madness: Easy,Eliminate the Tainted Golem in the Cave,,,,
+Altar of Madness: Easy,Head to the Altar Of Madness,,,,
+Altar of Madness: Easy,Cutscene: Ramog,,,,
+Altar of Madness: Easy,Defeat Ramog,,,,
+Altar of Madness: Easy,Exploding Strength,,,,
+Altar of Madness: Easy,Exploding Strength,,,,
+Altar of Madness: Easy,Exploding Strength,,,,
+Altar of Madness: Easy,The End Of Lunacy,,,,
+Altar of Madness: Easy,The End Of Lunacy,Wizard Laenis,"Are you alright? Did that scare you? Hehe.<p>I was worried about you, so I used the fastest teleport scroll I could find and got here with my friends from the Ivory Tower as quickly as possible!<p>I’m glad you’re safe. <BlueBold>Silverlight Mercenaries</>, your help was vital in stopping the madness of the Orcs. On top of that, we were able to recover some of the Nebulite Shards that we lost.<p>On behalf of the Ivory Tower, I am ever so grateful. We only wish the best for the <BlueBold>Silverlight Mercenaries</>.",,
+Altar of Madness: Normal,Listen to Leewen’s Story,,,,
+Altar of Madness: Normal,Listen to Leewen’s Story,Wizard Leewen,"Oh, you’re part of the <BlueBold>Silverlight Mercenaries</>! Thank the Gods you’re here... I have no idea what’s going on.<P>The last I heard from our friend, <BlueBold>Laenis</>, was that the atrocious Orcs invaded the Timak Orc Shaman Village and were destroying everything.<p>I have no idea why they’re attacking their own people. I haven’t been able to talk to <BlueBold>Laenis</> since.<p>The village is over there. Follow me.",,
+Altar of Madness: Normal,Follow Leewen,,,,
+Altar of Madness: Normal,Listen to Leewen’s Strategy,,,,
+Altar of Madness: Normal,Listen to Leewen’s Strategy,Wizard Leewen,"I got rid of the barricade that was in our way, so you should be able to take that path to the village. <p>Once you enter the village, put out the <YellowBold>Signal Fires</>. There will be Orcs guarding the Signal Fires, so be very careful. <p>Also, take extra care around the <RedBold>guards</>. If they find you, they’ll bring a horde of enemies along with them. Good luck.",,
+Altar of Madness: Normal,Go into the village,,,,
+Altar of Madness: Normal,Extinguish the West Signal Fire,,,,
+Altar of Madness: Normal,Extinguish the East Signal Fire,,,,
+Altar of Madness: Normal,Go further into the Village,,,,
+Altar of Madness: Normal,Take the bomb from the Grenadier,,,,
+Altar of Madness: Normal,Destroy the Barricade,,,,
+Altar of Madness: Normal,Destroy the Barricade,,,,
+Altar of Madness: Normal,Enter the Guard Post,,,,
+Altar of Madness: Normal,Survive the Mad Orcs,,,,
+Altar of Madness: Normal,Survive the Mad Orcs,,,,
+Altar of Madness: Normal,Search Laenis,,,,
+Altar of Madness: Normal,Cutscene: Boranta Appears,,,,
+Altar of Madness: Normal,Defeat Boranta,,,,
+Altar of Madness: Normal,Save Laenis,,,,
+Altar of Madness: Normal,Talk to Laenis,,,,
+Altar of Madness: Normal,Talk to Laenis,Wizard Laenis,"That was terrifying! The agonized cries of the Orc Shamans were driving me crazy!<p>The Orc Shamans used to live in this village... But the new Timak Orc leader, <RedBold>Ramog</>, reduced it to rubble.<p><RedBold>Ramog</> wants the power of the god, Paagrio. To achieve that, he killed all the Shamans who opposed him. The remaining few were dragged off for some ritual.",,
+Altar of Madness: Normal,Escape the Guard Post,,,,
+Altar of Madness: Normal,Eliminate the Barrier,,,,
+Altar of Madness: Normal,Eliminate the Barrier,,,,
+Altar of Madness: Normal,Talk to Laenis,,,,
+Altar of Madness: Normal,Talk to Laenis,Wizard Laenis,"Paagrio is the god of fire. He is also the god of the Orcs. It is recorded that the Shamans sacrificed their blood and accepted Paagrio as their god.<p>If the ritual <RedBold>Ramog</> is trying to perform is to acquire Paagrio’s power, this isn’t just about one Orc trying to become stronger - this is something that puts the entire continent in danger!<p>I need to get this message to the Ivory Tower as soon as possible! Someone there must know. Please, be safe! Please stop the ritual!",,
+Altar of Madness: Normal,Enter the Altar Cave,,,,
+Altar of Madness: Normal,Enter the Altar Cave,,,,
+Altar of Madness: Normal,Eliminate the Tainted Golem in the Cave,,,,
+Altar of Madness: Normal,Head to the Altar Of Madness,,,,
+Altar of Madness: Normal,Cutscene: Ramog,,,,
+Altar of Madness: Normal,Defeat Ramog,,,,
+Altar of Madness: Normal,Exploding Strength,,,,
+Altar of Madness: Normal,Exploding Strength,,,,
+Altar of Madness: Normal,Exploding Strength,,,,
+Altar of Madness: Normal,The End Of Lunacy,,,,
+Altar of Madness: Normal,The End Of Lunacy,Wizard Laenis,"Are you alright? Did that scare you? Hehe.<p>I was worried about you, so I used the fastest teleport scroll I could find and got here with my friends from the Ivory Tower as quickly as possible!<p>I’m glad you’re safe. <BlueBold>Silverlight Mercenaries</>, your help was vital in stopping the madness of the Orcs. On top of that, we were able to recover some of the Nebulite Shards that we lost.<p>On behalf of the Ivory Tower, I am ever so grateful. We only wish the best for the <BlueBold>Silverlight Mercenaries</>.",,
+Altar of Madness: Hard,Listen to Leewen’s Story,,,,
+Altar of Madness: Hard,Listen to Leewen’s Story,Wizard Leewen,"Oh, you’re part of the <BlueBold>Silverlight Mercenaries</>! Thank the Gods you’re here... I have no idea what’s going on.<P>The last I heard from our friend, <BlueBold>Laenis</>, was that the atrocious Orcs invaded the Timak Orc Shaman Village and were destroying everything.<p>I have no idea why they’re attacking their own people. I haven’t been able to talk to <BlueBold>Laenis</> since.<p>The village is over there. Follow me.",,
+Altar of Madness: Hard,Follow Leewen,,,,
+Altar of Madness: Hard,Listen to Leewen’s Strategy,,,,
+Altar of Madness: Hard,Listen to Leewen’s Strategy,Wizard Leewen,"I got rid of the barricade that was in our way, so you should be able to take that path to the village. <p>Once you enter the village, put out the <YellowBold>Signal Fires</>. There will be Orcs guarding the Signal Fires, so be very careful. <p>Also, take extra care around the <RedBold>guards</>. If they find you, they’ll bring a horde of enemies along with them. Good luck.",,
+Altar of Madness: Hard,Go into the village,,,,
+Altar of Madness: Hard,Extinguish the West Signal Fire,,,,
+Altar of Madness: Hard,Extinguish the East Signal Fire,,,,
+Altar of Madness: Hard,Go further into the Village,,,,
+Altar of Madness: Hard,Take the bomb from the Grenadier,,,,
+Altar of Madness: Hard,Destroy the Barricade,,,,
+Altar of Madness: Hard,Destroy the Barricade,,,,
+Altar of Madness: Hard,Enter the Guard Post,,,,
+Altar of Madness: Hard,Survive the Mad Orcs,,,,
+Altar of Madness: Hard,Survive the Mad Orcs,,,,
+Altar of Madness: Hard,Search Laenis,,,,
+Altar of Madness: Hard,Cutscene: Boranta Appears,,,,
+Altar of Madness: Hard,Defeat Boranta,,,,
+Altar of Madness: Hard,Save Laenis,,,,
+Altar of Madness: Hard,Talk to Laenis,,,,
+Altar of Madness: Hard,Talk to Laenis,Wizard Laenis,"That was terrifying! The agonized cries of the Orc Shamans were driving me crazy!<p>The Orc Shamans used to live in this village... But the new Timak Orc leader, <RedBold>Ramog</>, reduced it to rubble.<p><RedBold>Ramog</> wants the power of the god, Paagrio. To achieve that, he killed all the Shamans who opposed him. The remaining few were dragged off for some ritual.",,
+Altar of Madness: Hard,Escape the Guard Post,,,,
+Altar of Madness: Hard,Eliminate the Barrier,,,,
+Altar of Madness: Hard,Eliminate the Barrier,,,,
+Altar of Madness: Hard,Talk to Laenis,,,,
+Altar of Madness: Hard,Talk to Laenis,Wizard Laenis,"Paagrio is the god of fire. He is also the god of the Orcs. It is recorded that the Shamans sacrificed their blood and accepted Paagrio as their god.<p>If the ritual <RedBold>Ramog</> is trying to perform is to acquire Paagrio’s power, this isn’t just about one Orc trying to become stronger - this is something that puts the entire continent in danger!<p>I need to get this message to the Ivory Tower as soon as possible! Someone there must know. Please, be safe! Please stop the ritual!",,
+Altar of Madness: Hard,Enter the Altar Cave,,,,
+Altar of Madness: Hard,Enter the Altar Cave,,,,
+Altar of Madness: Hard,Eliminate the Tainted Golem in the Cave,,,,
+Altar of Madness: Hard,Head to the Altar Of Madness,,,,
+Altar of Madness: Hard,Cutscene: Ramog,,,,
+Altar of Madness: Hard,Defeat Ramog,,,,
+Altar of Madness: Hard,Exploding Strength,,,,
+Altar of Madness: Hard,Exploding Strength,,,,
+Altar of Madness: Hard,Exploding Strength,,,,
+Altar of Madness: Hard,The End Of Lunacy,,,,
+Altar of Madness: Hard,The End Of Lunacy,Wizard Laenis,"Are you alright? Did that scare you? Hehe.<p>I was worried about you, so I used the fastest teleport scroll I could find and got here with my friends from the Ivory Tower as quickly as possible!<p>I’m glad you’re safe. <BlueBold>Silverlight Mercenaries</>, your help was vital in stopping the madness of the Orcs. On top of that, we were able to recover some of the Nebulite Shards that we lost.<p>On behalf of the Ivory Tower, I am ever so grateful. We only wish the best for the <BlueBold>Silverlight Mercenaries</>.",,
+Altar of Madness: Very Hard,Listen to Leewen’s Story,,,,
+Altar of Madness: Very Hard,Listen to Leewen’s Story,Wizard Leewen,"Oh, you’re part of the <BlueBold>Silverlight Mercenaries</>! Thank the Gods you’re here... I have no idea what’s going on.<P>The last I heard from our friend, <BlueBold>Laenis</>, was that the atrocious Orcs invaded the Timak Orc Shaman Village and were destroying everything.<p>I have no idea why they’re attacking their own people. I haven’t been able to talk to <BlueBold>Laenis</> since.<p>The village is over there. Follow me.",,
+Altar of Madness: Very Hard,Follow Leewen,,,,
+Altar of Madness: Very Hard,Listen to Leewen’s Strategy,,,,
+Altar of Madness: Very Hard,Listen to Leewen’s Strategy,Wizard Leewen,"I got rid of the barricade that was in our way, so you should be able to take that path to the village. <p>Once you enter the village, put out the <YellowBold>Signal Fires</>. There will be Orcs guarding the Signal Fires, so be very careful. <p>Also, take extra care around the <RedBold>guards</>. If they find you, they’ll bring a horde of enemies along with them. Good luck.",,
+Altar of Madness: Very Hard,Go into the village,,,,
+Altar of Madness: Very Hard,Extinguish the West Signal Fire,,,,
+Altar of Madness: Very Hard,Extinguish the East Signal Fire,,,,
+Altar of Madness: Very Hard,Go further into the Village,,,,
+Altar of Madness: Very Hard,Take the bomb from the Grenadier,,,,
+Altar of Madness: Very Hard,Destroy the Barricade,,,,
+Altar of Madness: Very Hard,Destroy the Barricade,,,,
+Altar of Madness: Very Hard,Enter the Guard Post,,,,
+Altar of Madness: Very Hard,Survive the Mad Orcs,,,,
+Altar of Madness: Very Hard,Survive the Mad Orcs,,,,
+Altar of Madness: Very Hard,Search Laenis,,,,
+Altar of Madness: Very Hard,Cutscene: Boranta Appears,,,,
+Altar of Madness: Very Hard,Defeat Boranta,,,,
+Altar of Madness: Very Hard,Save Laenis,,,,
+Altar of Madness: Very Hard,Talk to Laenis,,,,
+Altar of Madness: Very Hard,Talk to Laenis,Wizard Laenis,"That was terrifying! The agonized cries of the Orc Shamans were driving me crazy!<p>The Orc Shamans used to live in this village... But the new Timak Orc leader, <RedBold>Ramog</>, reduced it to rubble.<p><RedBold>Ramog</> wants the power of the god, Paagrio. To achieve that, he killed all the Shamans who opposed him. The remaining few were dragged off for some ritual.",,
+Altar of Madness: Very Hard,Escape the Guard Post,,,,
+Altar of Madness: Very Hard,Eliminate the Barrier,,,,
+Altar of Madness: Very Hard,Eliminate the Barrier,,,,
+Altar of Madness: Very Hard,Talk to Laenis,,,,
+Altar of Madness: Very Hard,Talk to Laenis,Wizard Laenis,"Paagrio is the god of fire. He is also the god of the Orcs. It is recorded that the Shamans sacrificed their blood and accepted Paagrio as their god.<p>If the ritual <RedBold>Ramog</> is trying to perform is to acquire Paagrio’s power, this isn’t just about one Orc trying to become stronger - this is something that puts the entire continent in danger!<p>I need to get this message to the Ivory Tower as soon as possible! Someone there must know. Please, be safe! Please stop the ritual!",,
+Altar of Madness: Very Hard,Enter the Altar Cave,,,,
+Altar of Madness: Very Hard,Enter the Altar Cave,,,,
+Altar of Madness: Very Hard,Eliminate the Tainted Golem in the Cave,,,,
+Altar of Madness: Very Hard,Head to the Altar Of Madness,,,,
+Altar of Madness: Very Hard,Cutscene: Ramog,,,,
+Altar of Madness: Very Hard,Defeat Ramog,,,,
+Altar of Madness: Very Hard,Exploding Strength,,,,
+Altar of Madness: Very Hard,Exploding Strength,,,,
+Altar of Madness: Very Hard,Exploding Strength,,,,
+Altar of Madness: Very Hard,The End Of Lunacy,,,,
+Altar of Madness: Very Hard,The End Of Lunacy,Wizard Laenis,"Are you alright? Did that scare you? Hehe.<p>I was worried about you, so I used the fastest teleport scroll I could find and got here with my friends from the Ivory Tower as quickly as possible!<p>I’m glad you’re safe. <BlueBold>Silverlight Mercenaries</>, your help was vital in stopping the madness of the Orcs. On top of that, we were able to recover some of the Nebulite Shards that we lost.<p>On behalf of the Ivory Tower, I am ever so grateful. We only wish the best for the <BlueBold>Silverlight Mercenaries</>.",,
+Countess of Blood’s Boudoir: Easy,Check on Turner,,,,
+Countess of Blood’s Boudoir: Easy,Check on Turner,Vanguard Turner,"Oh... you’re from the...<BlueBold>Silverlight Mercenaries</>...<p>I’m so happy that you responded to my request for help... Ergh...<p> <BlueBold>Captain Tark</> and some of my other comrades were dragged off into some hole by a guy called <RedBold>Boatswain</>.<p>I was able to run away, but it looks like this is the end for me...urghh... Please...find the captain and save my group...!",,
+Countess of Blood’s Boudoir: Easy,Find Tark,,,,
+Countess of Blood’s Boudoir: Easy,Find the Key in the Desk,,,,
+Countess of Blood’s Boudoir: Easy,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Easy,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,Vanguard Captain Tark,Thank you so much! I’m so grateful for your help! <p>We have no time to waste here. Let’s talk about the details as we walk! Follow me!,,
+Countess of Blood’s Boudoir: Easy,Follow Tark,,,,
+Countess of Blood’s Boudoir: Easy,Get rid of the pile of trash,,,,
+Countess of Blood’s Boudoir: Easy,Follow Tark,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,Vanguard Captain Tark,What are these shiny yellow eggs? <p>Wait... could Countess <RedBold>Trisha</> be trapped inside here? I need to crack open this egg right away!,,
+Countess of Blood’s Boudoir: Easy,Survive the Leeches,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,Vanguard Captain Tark,Are you all safe? That was close!<p>Hmm? Look up there! I see something! Let’s check it out!,,
+Countess of Blood’s Boudoir: Easy,Cutscene: Leonard Appears,,,,
+Countess of Blood’s Boudoir: Easy,Defeat Leonard,,,,
+Countess of Blood’s Boudoir: Easy,Check on Tark’s Status,,,,
+Countess of Blood’s Boudoir: Easy,Check on Tark’s Status,Vanguard Captain Tark,"Augh... I feel like I broke a couple ribs. It hurts so much that I can’t move. <p>I’m sorry to tell you this, but... I don’t think I can keep going with you... I have no choice but to wait here for support. <p><RedBold>Leonard</>... he’s the Countess’s Guardian Knight. <p>The disappearance of Countess <RedBold>Trisha</> may have been his plan, but whatever happened to her, we need to find her. <p>I will not upset my Lord... At the very least, I need her corpse... Please...",,
+Countess of Blood’s Boudoir: Easy,Follow the road and find an Exit,,,,
+Countess of Blood’s Boudoir: Easy,Find a way to get rid of the Phlegm,,,,
+Countess of Blood’s Boudoir: Easy,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Easy,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Easy,Find the Countess in the Pirate’s Stronghold,,,,
+Countess of Blood’s Boudoir: Easy,Cutscene: Precautions,,,,
+Countess of Blood’s Boudoir: Easy,Eliminate Underboss Douglas,,,,
+Countess of Blood’s Boudoir: Easy,Open the Wrought Iron Door,,,,
+Countess of Blood’s Boudoir: Easy,Find the Countess inside the Stronghold,,,,
+Countess of Blood’s Boudoir: Easy,Cutscene: Trisha,,,,
+Countess of Blood’s Boudoir: Easy,Defeat Trisha,,,,
+Countess of Blood’s Boudoir: Easy,Cutscene: Farewell,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Easy,Talk to Tark,Vanguard Captain Tark,"I clenched my fists, ignored the pain, and hurried to follow you, but what did I run into?! The Countess, where is Countess <RedBold>Trisha</>?! <p>Wh... what?! Countess <RedBold>Trisha</> and <RedBold>Zaken</> are lovers...? And now the Countess is dead, and he has vowed to get revenge? <p>Da... Damn! This is bad! If he’s that angry, he’ll attack with everything he’s got! We must notify our Lord and <BlueBold>Hardin</>, and prepare for war!",,
+Countess of Blood’s Boudoir: Normal,Check on Turner,,,,
+Countess of Blood’s Boudoir: Normal,Check on Turner,Vanguard Turner,"Oh... you’re from the...<BlueBold>Silverlight Mercenaries</>...<p>I’m so happy that you responded to my request for help... Ergh...<p> <BlueBold>Captain Tark</> and some of my other comrades were dragged off into some hole by a guy called <RedBold>Boatswain</>.<p>I was able to run away, but it looks like this is the end for me...urghh... Please...find the captain and save my group...!",,
+Countess of Blood’s Boudoir: Normal,Find Tark,,,,
+Countess of Blood’s Boudoir: Normal,Find the Key in the Desk,,,,
+Countess of Blood’s Boudoir: Normal,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Normal,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,Vanguard Captain Tark,Thank you so much! I’m so grateful for your help! <p>We have no time to waste here. Let’s talk about the details as we walk! Follow me!,,
+Countess of Blood’s Boudoir: Normal,Follow Tark,,,,
+Countess of Blood’s Boudoir: Normal,Get rid of the pile of trash,,,,
+Countess of Blood’s Boudoir: Normal,Follow Tark,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,Vanguard Captain Tark,What are these shiny yellow eggs? <p>Wait... could Countess <RedBold>Trisha</> be trapped inside here? I need to crack open this egg right away!,,
+Countess of Blood’s Boudoir: Normal,Survive the Leeches,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,Vanguard Captain Tark,Are you all safe? That was close!<p>Hmm? Look up there! I see something! Let’s check it out!,,
+Countess of Blood’s Boudoir: Normal,Cutscene: Leonard Appears,,,,
+Countess of Blood’s Boudoir: Normal,Defeat Leonard,,,,
+Countess of Blood’s Boudoir: Normal,Check on Tark’s Status,,,,
+Countess of Blood’s Boudoir: Normal,Check on Tark’s Status,Vanguard Captain Tark,"Augh... I feel like I broke a couple ribs. It hurts so much that I can’t move. <p>I’m sorry to tell you this, but... I don’t think I can keep going with you... I have no choice but to wait here for support. <p><RedBold>Leonard</>... he’s the Countess’s Guardian Knight. <p>The disappearance of Countess <RedBold>Trisha</> may have been his plan, but whatever happened to her, we need to find her. <p>I will not upset my Lord... At the very least, I need her corpse... Please...",,
+Countess of Blood’s Boudoir: Normal,Follow the road and find an Exit,,,,
+Countess of Blood’s Boudoir: Normal,Find a way to get rid of the Phlegm,,,,
+Countess of Blood’s Boudoir: Normal,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Normal,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Normal,Find the Countess in the Pirate’s Stronghold,,,,
+Countess of Blood’s Boudoir: Normal,Cutscene: Precautions,,,,
+Countess of Blood’s Boudoir: Normal,Eliminate Underboss Douglas,,,,
+Countess of Blood’s Boudoir: Normal,Open the Wrought Iron Door,,,,
+Countess of Blood’s Boudoir: Normal,Find the Countess inside the Stronghold,,,,
+Countess of Blood’s Boudoir: Normal,Cutscene: Trisha,,,,
+Countess of Blood’s Boudoir: Normal,Defeat Trisha,,,,
+Countess of Blood’s Boudoir: Normal,Cutscene: Farewell,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Normal,Talk to Tark,Vanguard Captain Tark,"I clenched my fists, ignored the pain, and hurried to follow you, but what did I run into?! The Countess, where is Countess <RedBold>Trisha</>?! <p>Wh... what?! Countess <RedBold>Trisha</> and <RedBold>Zaken</> are lovers...? And now the Countess is dead, and he has vowed to get revenge? <p>Da... Damn! This is bad! If he’s that angry, he’ll attack with everything he’s got! We must notify our Lord and <BlueBold>Hardin</>, and prepare for war!",,
+Countess of Blood’s Boudoir: Hard,Check on Turner,,,,
+Countess of Blood’s Boudoir: Hard,Check on Turner,Vanguard Turner,"Oh... you’re from the...<BlueBold>Silverlight Mercenaries</>...<p>I’m so happy that you responded to my request for help... Ergh...<p> <BlueBold>Captain Tark</> and some of my other comrades were dragged off into some hole by a guy called <RedBold>Boatswain</>.<p>I was able to run away, but it looks like this is the end for me...urghh... Please...find the captain and save my group...!",,
+Countess of Blood’s Boudoir: Hard,Find Tark,,,,
+Countess of Blood’s Boudoir: Hard,Find the Key in the Desk,,,,
+Countess of Blood’s Boudoir: Hard,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Hard,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,Vanguard Captain Tark,Thank you so much! I’m so grateful for your help! <p>We have no time to waste here. Let’s talk about the details as we walk! Follow me!,,
+Countess of Blood’s Boudoir: Hard,Follow Tark,,,,
+Countess of Blood’s Boudoir: Hard,Get rid of the pile of trash,,,,
+Countess of Blood’s Boudoir: Hard,Follow Tark,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,Vanguard Captain Tark,What are these shiny yellow eggs? <p>Wait... could Countess <RedBold>Trisha</> be trapped inside here? I need to crack open this egg right away!,,
+Countess of Blood’s Boudoir: Hard,Survive the Leeches,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,Vanguard Captain Tark,Are you all safe? That was close!<p>Hmm? Look up there! I see something! Let’s check it out!,,
+Countess of Blood’s Boudoir: Hard,Cutscene: Leonard Appears,,,,
+Countess of Blood’s Boudoir: Hard,Defeat Leonard,,,,
+Countess of Blood’s Boudoir: Hard,Check on Tark’s Status,,,,
+Countess of Blood’s Boudoir: Hard,Check on Tark’s Status,Vanguard Captain Tark,"Augh... I feel like I broke a couple ribs. It hurts so much that I can’t move. <p>I’m sorry to tell you this, but... I don’t think I can keep going with you... I have no choice but to wait here for support. <p><RedBold>Leonard</>... he’s the Countess’s Guardian Knight. <p>The disappearance of Countess <RedBold>Trisha</> may have been his plan, but whatever happened to her, we need to find her. <p>I will not upset my Lord... At the very least, I need her corpse... Please...",,
+Countess of Blood’s Boudoir: Hard,Follow the road and find an Exit,,,,
+Countess of Blood’s Boudoir: Hard,Find a way to get rid of the Phlegm,,,,
+Countess of Blood’s Boudoir: Hard,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Hard,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Hard,Find the Countess in the Pirate’s Stronghold,,,,
+Countess of Blood’s Boudoir: Hard,Cutscene: Precautions,,,,
+Countess of Blood’s Boudoir: Hard,Eliminate Underboss Douglas,,,,
+Countess of Blood’s Boudoir: Hard,Open the Wrought Iron Door,,,,
+Countess of Blood’s Boudoir: Hard,Find the Countess inside the Stronghold,,,,
+Countess of Blood’s Boudoir: Hard,Cutscene: Trisha,,,,
+Countess of Blood’s Boudoir: Hard,Defeat Trisha,,,,
+Countess of Blood’s Boudoir: Hard,Cutscene: Farewell,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Hard,Talk to Tark,Vanguard Captain Tark,"I clenched my fists, ignored the pain, and hurried to follow you, but what did I run into?! The Countess, where is Countess <RedBold>Trisha</>?! <p>Wh... what?! Countess <RedBold>Trisha</> and <RedBold>Zaken</> are lovers...? And now the Countess is dead, and he has vowed to get revenge? <p>Da... Damn! This is bad! If he’s that angry, he’ll attack with everything he’s got! We must notify our Lord and <BlueBold>Hardin</>, and prepare for war!",,
+Countess of Blood’s Boudoir: Very Hard,Check on Turner,,,,
+Countess of Blood’s Boudoir: Very Hard,Check on Turner,Vanguard Turner,"Oh... you’re from the...<BlueBold>Silverlight Mercenaries</>...<p>I’m so happy that you responded to my request for help... Ergh...<p> <BlueBold>Captain Tark</> and some of my other comrades were dragged off into some hole by a guy called <RedBold>Boatswain</>.<p>I was able to run away, but it looks like this is the end for me...urghh... Please...find the captain and save my group...!",,
+Countess of Blood’s Boudoir: Very Hard,Find Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Find the Key in the Desk,,,,
+Countess of Blood’s Boudoir: Very Hard,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Very Hard,Break Tark out of Prison,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,Vanguard Captain Tark,Thank you so much! I’m so grateful for your help! <p>We have no time to waste here. Let’s talk about the details as we walk! Follow me!,,
+Countess of Blood’s Boudoir: Very Hard,Follow Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Get rid of the pile of trash,,,,
+Countess of Blood’s Boudoir: Very Hard,Follow Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,Vanguard Captain Tark,What are these shiny yellow eggs? <p>Wait... could Countess <RedBold>Trisha</> be trapped inside here? I need to crack open this egg right away!,,
+Countess of Blood’s Boudoir: Very Hard,Survive the Leeches,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,Vanguard Captain Tark,Are you all safe? That was close!<p>Hmm? Look up there! I see something! Let’s check it out!,,
+Countess of Blood’s Boudoir: Very Hard,Cutscene: Leonard Appears,,,,
+Countess of Blood’s Boudoir: Very Hard,Defeat Leonard,,,,
+Countess of Blood’s Boudoir: Very Hard,Check on Tark’s Status,,,,
+Countess of Blood’s Boudoir: Very Hard,Check on Tark’s Status,Vanguard Captain Tark,"Augh... I feel like I broke a couple ribs. It hurts so much that I can’t move. <p>I’m sorry to tell you this, but... I don’t think I can keep going with you... I have no choice but to wait here for support. <p><RedBold>Leonard</>... he’s the Countess’s Guardian Knight. <p>The disappearance of Countess <RedBold>Trisha</> may have been his plan, but whatever happened to her, we need to find her. <p>I will not upset my Lord... At the very least, I need her corpse... Please...",,
+Countess of Blood’s Boudoir: Very Hard,Follow the road and find an Exit,,,,
+Countess of Blood’s Boudoir: Very Hard,Find a way to get rid of the Phlegm,,,,
+Countess of Blood’s Boudoir: Very Hard,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Very Hard,Burn the Leech Phlegm,,,,
+Countess of Blood’s Boudoir: Very Hard,Find the Countess in the Pirate’s Stronghold,,,,
+Countess of Blood’s Boudoir: Very Hard,Cutscene: Precautions,,,,
+Countess of Blood’s Boudoir: Very Hard,Eliminate Underboss Douglas,,,,
+Countess of Blood’s Boudoir: Very Hard,Open the Wrought Iron Door,,,,
+Countess of Blood’s Boudoir: Very Hard,Find the Countess inside the Stronghold,,,,
+Countess of Blood’s Boudoir: Very Hard,Cutscene: Trisha,,,,
+Countess of Blood’s Boudoir: Very Hard,Defeat Trisha,,,,
+Countess of Blood’s Boudoir: Very Hard,Cutscene: Farewell,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,,,,
+Countess of Blood’s Boudoir: Very Hard,Talk to Tark,Vanguard Captain Tark,"I clenched my fists, ignored the pain, and hurried to follow you, but what did I run into?! The Countess, where is Countess <RedBold>Trisha</>?! <p>Wh... what?! Countess <RedBold>Trisha</> and <RedBold>Zaken</> are lovers...? And now the Countess is dead, and he has vowed to get revenge? <p>Da... Damn! This is bad! If he’s that angry, he’ll attack with everything he’s got! We must notify our Lord and <BlueBold>Hardin</>, and prepare for war!",,
 Staris’s Support,Talk to Staris,Hardin,"How have you been? I’ve been hearing word of your accomplishments from all around. I’ve prepared a gift as a reward for your deeds.
 <p>Go find Staris at the Wasteland. My gift should be there waiting for you.
 <p>The gift will be of great help to you as you journey across Aden.",,
 Staris’s Support,Talk to Staris,Staris,Welcome! I already heard about you from Hardin. Our Staris Caravan supports the Silverlight Mercenaries with Black Bears.<p>Go see Nine in front of the Black Bear enclosure. She will explain Black Bears to you.,,
 Staris’s Support,Talk to Keeper Nine,,,,
-Staris’s Support,Talk to Keeper Nine,Nine,Welcome! Staris told me you would be coming. Black Bears are a convenient mode of transportation as you journey across Aden.<p>It will be good to get close with the Black Bear cubs if you want to ride them. <p>Black Bear moms decide whether or not to accept you as an owner by watching how you treat her cubs.<p>Would you first bring back some Basilisk meat? Food is the best way to get close with the cubs! They absolutely love Basilisk meat!,,
+Staris’s Support,Talk to Keeper Nine,Nine,Welcome. Sir Staris told me about you. Black Bears are a useful form of transportation in Aden.<p>You might want to get along with the cubs before taking a ride.<p>Mother Black Bears observe what we do to their cubs and choose their owners.<p>Would you get some Basilisk Meat? They’re fond of Basilisk Meat. Feeding them is the fastest way to get them to like you!,,
 Staris’s Support,Collect Fresh Basilisk Meat,,,,
 Staris’s Support,Collect Something to Chew on,,,,
 Staris’s Support,Talk to Keeper Nine,,,,
@@ -8585,7 +8868,7 @@ Raise a Black Bear Cub,Talk to Keeper Nine,Nine,"Wow, I can’t believe this! Th
 Missing Black Bear Cubs,Talk to Keeper Nine,,,,
 Missing Black Bear Cubs,Talk to Keeper Nine,Nine,Uh oh! A few cubs went missing! Go find Staris!,,
 Missing Black Bear Cubs,Go Find Staris,,,,
-Missing Black Bear Cubs,Go Find Staris,Staris,"We have a problem, <YellowBold>[player]</>! Team Bear has abducted some Black Bear cubs!<p>I can hardly believe the adventurers we hired to ease our load were members of Team Bear in disguise!!! <p>Please chase after them! You should be able to catch up to them by riding a Black Bear!",,
+Missing Black Bear Cubs,Go Find Staris,Staris,"We have a problem, <YellowBold>[player]</>! Team Bear has abducted some Black Bear cubs!<p>I can hardly believe the people we hired were members of Team Bear in disguise!!!<p>Please chase after them! You should be able to catch up to them by riding a Black Bear!",,
 Missing Black Bear Cubs,Track Team Bear,,,,
 Missing Black Bear Cubs,Track Team Bear,,,,
 Missing Black Bear Cubs,Track Team Bear,,,,

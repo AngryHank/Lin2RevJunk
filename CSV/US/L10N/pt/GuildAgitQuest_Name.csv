@@ -1,0 +1,136 @@
+Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
+1,Ilha Falante Oriental,Identificar {ReplaceString1},Ilha Falante Oriental,Derrote {ReplaceString2} monstro(s).,Derrote {TaskCount} monstro(s) na Ilha Falante Oriental.
+2,Ilha Falante Ocidental,@1,Ilha Falante Ocidental,@1,Derrote {TaskCount} monstro(s) na Ilha Falante Ocidental.
+3,Estrada de Gludin,@1,Estrada de Gludin,@1,Derrote {TaskCount} monstro(s) na Estrada de Gludin.
+4,Planície de Gludio,@1,Planície de Gludio,@1,Derrote {TaskCount} monstro(s) na Planície de Gludio.
+5,Mansão Windawood,@1,Mansão Windawood,@1,Derrote {TaskCount} monstro(s) na Mansão Windawood.
+6,Deserto,@1,Deserto,@1,Derrote {TaskCount} monstro(s) no Deserto.
+7,Planície de Dion,@1,Planície de Dion,@1,Derrote {TaskCount} monstro(s) na Planície de Dion.
+8,Pântano de Cruma,@1,Pântano de Cruma,@1,Derrote {TaskCount} monstro(s) no Pântano de Cruma.
+9,Pico da Dissonância,@1,Pico da Dissonância,@1,Derrote {TaskCount} monstro(s) no Pico da Dissonância.
+10,Sacrários Uivantes,@1,Sacrários Uivantes,@1,Derrote {TaskCount} monstro(s) nos Sacrários Uivantes.
+11,Domínio de Giran,@1,Domínio de Giran,@1,Derrote {TaskCount} monstro(s) no Domínio de Giran.
+12,Praias da Névoa Mortal,@1,Praias da Névoa Mortal,@1,Derrote {TaskCount} monstro(s) na Praias da Névoa Mortal
+13,Ilha do Demônio,@1,Ilha do Demônio,@1,Derrote {TaskCount} monstro(s) na Ilha do Demônio.
+14,@13,@1,@13,@1,@13
+15,Necrópole Assombrada,@1,Necrópole Assombrada,@1,Derrote {TaskCount} monstro(s) na Necrópole Assombrada.
+16,@15,@1,@15,@1,@15
+101,Ruínas Élficas 1º Andar,Conclusão automática de {ReplaceString1},Ruínas Élficas 1º Andar,@1,Derrote {TaskCount} monstro(s) nas Ruínas Élficas 1º Andar.
+102,Ruínas Élficas 2º Andar,@101,Ruínas Élficas 2º Andar,@1,Derrote {TaskCount} monstro(s) nas Ruínas Élficas 2º Andar.
+103,Formigueiro Catacumba 1,@101,Formigueiro Catacumba 1,@1,Derrote {TaskCount} monstro(s) no Formigueiro Catacumba 1.
+104,Formigueiro Catacumba 2,@101,Formigueiro Catacumba 2,@1,Derrote {TaskCount} monstro(s) no Formigueiro Catacumba 2.
+105,Torre de Cruma 2º Andar,@101,Torre de Cruma 2º Andar,@1,Derrote {TaskCount} monstro(s) na Torre de Cruma 2º Andar.
+106,Torre de Cruma 3º Andar,@101,Torre de Cruma 3º Andar,@1,Derrote {TaskCount} monstro(s) na Torre de Cruma 3º Andar.
+107,Torre de Marfim Catacumba 1,@101,Torre de Marfim Catacumba 1,@1,Derrote {TaskCount} monstro(s) na Torre de Marfim Catacumba 1.
+108,@107,@101,@107,@1,@107
+109,Torre de Marfim Catacumba 2,@101,Torre de Marfim Catacumba 2,@1,Derrote {TaskCount} monstro(s) na Torre de Marfim Catacumba 2.
+110,@109,@101,@109,@1,@109
+111,Torre de Marfim Catacumba 3,@101,Torre de Marfim Catacumba 3,@1,Derrote {TaskCount} monstro(s) na Torre de Marfim Catacumba 3.
+112,@111,@101,@111,@1,@111
+201,Santuário das Lembranças Perdidas,Exploração {ReplaceString1},Masmorra diária,@1,Derrote {TaskCount} monstro(s) na Masmorra Diária.
+202,@201,@201,@201,@1,@201
+203,Masmorra de extração,@201,Masmorra de extração,@1,Derrote {TaskCount} monstro(s) na Masmorra de extração.
+204,@203,@201,@203,@1,@203
+205,Templo da Água,Proteja {ReplaceString1},Guardião do Templo,@1,Derrote {TaskCount} monstro(s) na Guardião do Templo.
+206,@205,@205,@205,@1,@205
+207,Caixa forte de Kresous,Agitar {ReplaceString1},Masmorra de adena,@1,Derrote {TaskCount} monstro(s) na Masmorra de adena.
+208,@207,@207,@207,@1,@207
+209,Fenda do Submundo,Conquistar {ReplaceString1},Masmorra de experiência,@1,Derrote {TaskCount} monstro(s) na Masmorra de experiência.
+210,@209,@209,@209,@1,@209
+211,Entrada Selada,@201,Círculo de Invocação,@1,Derrote {TaskCount} monstros na Círculo de Invocação.
+212,@211,@201,@211,@1,@211
+301,Pedra de Evocação Maligna (rara),Purifique {ReplaceString1},Pedra de evocação de monstro raro,@1,Derrote {TaskCount} monstro(s) na masmorra usando uma Pedra de evocação de monstro raro.
+302,@301,@301,@301,@1,@301
+303,Pedra de Evocação Maligna (chefe),@301,Pedra de evocação de chefe,@1,Derrote {TaskCount} monstro(s) na masmorra usando uma Pedra de evocação de Chefe.
+351,,Açougueiro,,Jogador PK,PK outro jogador {TaskCount} vez(es).
+352,,@351,,@351,@351
+401,Pastor de Espíritos,Derrote {ReplaceString1},@2,Der. {ReplaceString2} chefe(s) de c.,Derrote o Pastor de Espíritos da Ilha Falante Ocidental {TaskCount} vez(es).
+402,Zodiac,@401,@3,@401,Derrote Zodiac da Estrada de Gludin {TaskCount} vez(es).
+403,Barbaprata,@401,@4,@401,Derrote Barbaprata da Planície de Gludio {TaskCount} vez(es).
+404,Vapar,@401,@5,@401,Derrote Vapar da Mansão Windawood {TaskCount} vez(es).
+405,Kazir,@401,@6,@401,Derrote Kazir do Deserto {TaskCount} vez(es).
+406,Flagon,@401,@7,@401,"Derrote Flagon, chefe da Planície de Dion, {TaskCount} vez(es)"
+407,Sina,@401,@8,@401,Derrote Sina no Pântano de Cruma {TaskCount} vez(es).
+408,Amadeus,@401,@9,@401,Derrote Amadeus do Pico da Dissonância {TaskCount} vez(es).
+409,Stenoa,@401,@11,@401,Derrote Stenoa do Domínio de Giran {TaskCount} vez(es).
+1001,,"Dias ocupados, muito ocupados",Missões diárias,Cumpra {ReplaceString2},Conclua uma missão diária {TaskCount} vez(es)
+1002,,"Semanas ocupadas, muito ocupadas",Missões semanais,@1001,Conclua uma missão semanal {TaskCount} vez(es).
+1011,,Abastecendo Adena com pergaminhos,C,Conclua {ReplaceString2} ou +,Conclua um pergaminho de missão de grau C ou superior {TaskCount} vez(es).
+1012,,@1011,B,@1011,Conclua um pergaminho de missão de grau B ou superior {TaskCount} vez(es).
+1013,,@1011,A,@1011,Conclua um pergaminho de missão de grau A ou superior {TaskCount} vez(es).
+1014,,@1011,S,@1011,Conclua um pergaminho de missão de grau S ou superior {TaskCount} vez(es).
+1031,,Bata e bata de novo,,Faça uma combinação,Faça {TaskCount} combinação(ões) com ataques consecutivos.
+1032,,Golpe esmagador,,Alcance dano máx. com apenas um golpe,Cause {TaskCount}000000 de dano ou mais com um único golpe.
+1101,Monstro,Açougueiro {ReplaceString1},Monstro normal,Derrote {ReplaceString2},Derrote {TaskCount} monstro(s).
+1102,Monstro elite,@1101,Monstro elite,@1101,Derrote {TaskCount} monstro(s) de elite.
+1103,Chefe,@1101,Chefe,@1101,Derrote {TaskCount} chefe(s).
+1104,,Amigo secreto de transferência de classe,Kyrios,@1101,Derrote Kyrios {TaskCount} vez(es).
+1105,,Sentinela do Jardim,Sentinela do Jardim,@1101,Derrote Sentinela do Jardim na Masmorra de extração {TaskCount} vez(es).
+1106,@203,{ReplaceString1} Mania,Mandrágora,@1101,Derrote Mandagora {TaskCount} vez(es) na Masmorra de Extração.
+1107,Bronze,Masmorra de Extração {ReplaceString1},Ratel Robusto Verde,@1101,Derrote o Ratel Robusto Verde na Masmorra de extração {TaskCount} vez(es).
+1108,Prata,@1107,Ratel Robusto Prata,@1101,Derrote o Ratel Robusto Prateado na Masmorra de extração {TaskCount} vez(es).
+1109,Ouro,@1107,Ratel Robusto Ouro,@1101,Derrote o Ratel Robusto Dourado na Masmorra de extração {TaskCount} vez(es).
+1151,Derrote Varkaron,Prepare-se para {ReplaceString1},Monstro na masmorra de clã (Varkaron),@1101,Derrote {TaskCount} monstro(s) na Masmorra de Clã (Varkaron).
+1152,Derrote a Formiga Rainha,@1151,Monstro na masmorra de clã (Formiga Rainha),@1101,Derrote {TaskCount} monstro(s) na Masmorra de Clã (Formiga Rainha).
+1153,Derrote o Núcleo de Cruma,@1151,Monstro na masmorra de clã (Núcleo de Cruma),@1101,Derrote {TaskCount} monstro(s) na Masmorra de Clã (Núcleo de Cruma).
+1201,Arena,Passeio {ReplaceString1},,Part. de uma arena,Participe {TaskCount} vez(es) da Arena.
+1202,@1201,@209,,Vença na arena,Vença {TaskCount} vez(es) na Arena.
+1203,@1201,Sequência de vitórias {ReplaceString1},,Vença muitas vezes,Vença {TaskCondition} partidas consecutivas na arena.
+1301,Masmorra diária,@209,Difícil ou superior,C. M. Diária ({ReplaceString2}),Conclua a Masmorra Diária (nível difícil ou superior) {TaskCount} vez(es).
+1303,,O céu é o limite,,Auto T. da Insolên.,Auto-conclusão da Torre da Insolência {TaskCount} vez(es).
+1304,,Rei das Ervas,,Colha ervas na Masmorra de extração.,Colha {TaskCount} erva(s) na Masmorra de extração.
+1306,@207,Mestre {ReplaceString1},@1301,Comp. Mas. Adena ({ReplaceString2}) com SS ou mais,"Conclua a Masmorra de adena (difícil) {TaskCount} vez(es)
+com SS ou superior."
+1307,@207,@1106,,Faça Comb. M. Adena,Faça {TaskCondition} combinações no cofre de Adena.
+1308,@209,@209,@1301,Comp. Mas. Exp. ({ReplaceString2}) com SSS ou mais,"Conclua a Masmorra de Experiência (nível difícil ou superior)
+{TaskCount} vez(es) com SSS."
+1401,Senhor Sombrio,@401,Varkaron (fácil),@1101,Derrote o Vestígio de Varkaron (fácil) {TaskCount} vez(es).
+1402,@1401,@401,Varkaron (normal),@1101,Derrote o Vestígio de Varkaron (normal) {TaskCount} vez(es).
+1403,@1401,@401,Varkaron (difícil),@1101,Derrote o Vestígio de Varkaron (difícil) {TaskCount} vez(es).
+1411,Padroeira da Colônia,@401,Formiga Rainha (fácil),@1101,Derrote a Caverna da Formiga Rainha (fácil) {TaskCount} vez(es).
+1412,@1411,@401,Formiga Rainha (normal),@1101,Derrote a Caverna da Formiga Rainha (normal) {TaskCount} vez(es).
+1413,@1411,@401,Formiga Rainha (difícil),@1101,Derrote a Caverna da Formiga Rainha (difícil) {TaskCount} vez(es).
+1421,Controlador de Mentes,@401,Núcleo de Cruma (fácil),@1101,Derrote a Sala do Núcleo de Cruma (fácil) {TaskCount} vez(es).
+1422,@1421,@401,Núcleo de Cruma (normal),@1101,Derrote a Sala do Núcleo de Cruma (normal) {TaskCount} vez(es).
+1423,@1421,@401,Núcleo de Cruma (difícil),@1101,Derrote a Sala do Núcleo de Cruma (difícil) {TaskCount} vez(es).
+1501,,Eu curto Marcação de runa,,Tente Marc. Runa,Tente marcar runas {TaskCount} vez(es).
+1502,,Marcação de runa é tudo,,Marc. Runa Bem Suc.,Faça uma marcação de runa {TaskCount} vez(es).
+1511,,Elixir é tudo,,Fabricar elixir,Fabrique {TaskCount} elixir(es).
+1521,,Mão de vaca,Adena,Adquira {ReplaceString2},Obtenha {TaskCount} de adena.
+1522,Clãs,Para {ReplaceString1},Prova de sangue,@1521,Adquira {TaskCount} Prova(s) de sangue.
+1523,Masmorra de clã,@1522,Pedra Estelar Vermelha,@1521,Obtenha {TaskCount} Pedra(s) Estelar(es) Vermelha(s).
+1524,Núcleo de Monstro,@1106,Núcleo de Monstro,@1521,Adquira {TaskCount} núcleo(s) de monstro.
+1525,Cristal Anímico,@1106,Cristal Anímico,@1521,Adquira {TaskCount} Cristal(is) Anímico(s).
+1527,C,Mania de itens grau {ReplaceString1},@1011,Item grau {ReplaceString2},Adquira {TaskCount} item(ns) de grau C.
+1528,B,@1527,@1012,@1527,Adquira {TaskCount} item(ns) de grau B.
+1529,A,@1527,@1013,@1527,Adquira {TaskCount} item(ns) de grau A.
+1530,Extra Alto Grau,Mania de itens {ReplaceString1},@1014,Item grau {ReplaceString2} ou + ,Adquira {TaskCount} item(ns) de grau S ou superior.
+1551,Equipamentos,@1106,Equipamentos,Adquira o item {ReplaceString2},Adquira {TaskCount} equipamento(s).
+1552,Equip.,@1106,Equip.,@1551,Adquira {TaskCount} item(ns) de equipamento de montaria.
+1601,,Conhecimento básico sobre Fortalecimento de equipamento,@1551,Tente evoluir {ReplaceString2},Tente melhorar equipamentos {TaskCount} ou mais vezes.
+1602,,Equipamentos de montarias são importantes,@1552,@1601,Tente melhorar equipamentos de montarias {TaskCount} ou mais vezes.
+1603,,Como fortalecer equipamentos,Melhorar,Tente {ReplaceString2} no equip.,Tente melhorar equipamentos {TaskCount} vez(es).
+1604,,Para o equipamento que você deseja,Combinar,@1603,Tente combinar equipamento {TaskCount} ou mais vezes.
+1605,,Aprimore com mãos firmes,Aprimorar,@1603,Tente aprimorar equipamento {TaskCount} ou mais vezes.
+1606,,Aprimore com a cabeça fria,Aprimoramento de equipamento bem sucedido,{ReplaceString2},Aprimore equipamento {TaskCount} ou mais vezes.
+1607,,Aprimoramento de atributo acima de tudo,Aprimoramento de atributo,@1603,Tente aprimorar atributos {TaskCount} vez(es).
+1608,,Subatributos são algo a mais,Alterar subatributos,@1603,Tente alterar subatributos {TaskCount} vez(es).
+1609,,Não há limites,Quebra de limite,@1603,Tente quebrar o limite do equipamento {TaskCount} vez(es).
+1801,,"Mais forte, mais rápido",Disparo Anímico,Usar {ReplaceString2},Use {TaskCount} Disparo(s) Anímico(s).
+1802,Saúde,@1522,Poção de PV,@1801,Use {TaskCount} Poção(ões) de PV.
+1803,@1802,@1522,Poção de PM,@1801,Use {TaskCount} Poção(ões) de PM.
+1804,O Mundo de Aden,A Evolução de {ReplaceString1},@1521,@1801,Use adena {TaskCount} vez(es).
+1805,@1804,O Progresso de {ReplaceString1},Diamante vermelho,@1801,Use {TaskCount} Diamante(s) Vermelho(s).
+1806,@1804,A Glória de {ReplaceString1},Diamante azul,@1801,Use {TaskCount} Diamante(s) Azul(is).
+1807,,Aprimore com uma tocha azul,@1605,@1603,Tente aprimorar equipamento {TaskCount} vez(es).
+1901,@1522,@1522,,Ganhe Pts. Cont. Clã,Adquira {TaskCount} ponto(s) de contribuição ao clã.
+1902,,Membro educado do clã,,Cumpr. Mem. do Clã,Cumprimentar os membros do clã {TaskCount} vezes.
+1903,,Melhor doador,,Doação de clã,Doe {TaskCount} vez(es) ao clã.
+1904,@1522,@1804,@1521,Doe {ReplaceString2} para o clã,Doe {TaskCount} de adena ao clã.
+1905,@1522,@1805,@1522,@1904,Doe {TaskCount} Prova(s) de Sangue para o clã.
+1906,@1522,@1806,@1523,@1904,Doe {TaskCount} Pedra(s) Estelar(es) Vermelha(s) ao clã.
+9015,,"Não é muita coisa, mas aproveite",Banquete pequeno,Prepare {ReplaceString2} Sede do Clã,Prepare {TaskCount} Banquetes Pequenos na Sede do Clã.
+9016,,Exibindo minhas habilidades culinárias,Banquete médio,@9015,Prepare {TaskCount} Banquetes Médios na Sede do Clã.
+9017,,"Nesta noite, faremos um banquete!",Banquete grande,@9015,Prepare {TaskCount} Banquetes Grandes na Sede do Clã.
+9018,,Poder de tigre,,Fabrique Poção Pessoal no Salão de Clã,Fabrique {TaskCount} Poções Pessoais na Sede do Clã.
+9019,,Rei das relíquias,,Avalie Rel. S. Clã,Avalie {TaskCount} relíquias na Sede do Clã.

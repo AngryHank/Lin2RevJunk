@@ -1,0 +1,51 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Capitán de la guardia sádico: Boranta,"Desde que los humanos mataron a toda su familia
+ha creído que el poder era la única manera 
+de salvar a los orcos.
+
+El día que <RedBold>Ramog</>, un orco desconocido,
+obtuvo un inmenso poder distinto al de cualquier otro
+y se convirtió en el nuevo <RedBold>Líder orco de Timak</>,
+no pudo evitar desear parecerse a él
+y seguir sus pasos.
+
+Juró que algún día se convertiría en un
+poderoso orco como <RedBold>Ramog</>. Ese era su único
+objetivo en la vida. Para llevarlo a cabo,
+lideró la aniquilación de la <GreenBold>aldea de los chamanes</>
+<GreenBold>orco de Timak.</>",Criatura mágica,Boranta recibió el poder de las esquirlas de nebulita de parte de Ramog. Con su recién adquirida fuerza es capaz de manejar el fuego.
+2,Orco loco: Ramog,"Casualmente, las esquirlas de nebulita están ahora
+clavadas en su corazón.
+Poco antes de morir,
+<RedBold>una sombra no identificada</> le salvó.
+
+Cuando abrió los ojos se dio cuenta de que poseía 
+una impresionante pero aterradora fuerza.
+Entonces <RedBold>Ramog</>
+se autoproclamó guerrero y mató a todos los orcos que aparecieron en su camino.
+Después, se convirtió en el nuevo líder de la tribu de los
+<RedBold>orcos de Timak</>.
+
+En su constante búsqueda de poder decidió
+intentar obtener el poder de <RedBold>Paagrio</>, el dios de los orcos.
+Finalmente atacó <GreenBold>la aldea de los chamanes</>
+<GreenBold>orco de Timak</>, donde se encontraba el altar de <GreenBold>Paagrio</>.
+
+Los chamanes que intentaron detenerlo
+fueron aniquilados.
+El ritual para obtener el poder de <RedBold>Paagrio</> ya casi
+se ha completado.",@1,En el corazón de Ramog hay esquirlas de nebulita incrustadas. Es capaz de utilizar una magia más poderosa que la de cualquier orco anterior a él.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Caballero guardián: Leonard,"En su día fue <RedBold>Caballero guardián</> de la <RedBold>condesa Trisha</>.
+Aunque tiene un alma incorruptible,
+solo ha jurado lealtad a la <RedBold>condesa Trisha</>.
+Siempre cumplirá sus órdenes,
+sean las que sean.",@1,Leonard se transformó mediante magia. Lo que le diferencia de cualquier otro vampiro es que tiene habilidades mágicas.
+10,Condesa de Sangre: Trisha,"<RedBold>Trisha</> nació en el seno de una de las familias aristocráticas de Giran.
+Siempre deseó escapar de su aburrida vida,
+lo que la llevó a perseguir un amor prohibido.
+Un amor tan poderoso que no le importó dejar atrás toda su antigua vida.",@1,"Trisha, al igual que su amante, fue transformada por un gigante inferior. A diferencia de los demás vampiros, tiene habilidades mágicas."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

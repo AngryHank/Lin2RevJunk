@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,Çaylak Maceracı,Bir kahramana maceraya başlarken verilen ilk unvan.,
+1000200,En İyi Donör,“Benim Olan Senindir (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1000300,Refakatçi,“Hep Aklımdasın (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1000400,İyi Dost,“Arkadaşıma Kötü Davranma (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1000500,İlk %1,“Bozukluklar (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1000600,Canavar Avcısı,“Ayrım Yapmayan Avcı (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,11
+1000800,Acemi Mücadeleci,Arena’da #{DescParam} veya daha üst sıraya ulaştığında kazanırsın.,10000
+1000900,Güç Müriti,Savaş Gücü sıralamasında #{DescParam} veya daha üst sıraya ulaştığında kazanırsın.,10000
+1001000,Yardımcı Araştırmacı,Seviye sıralamasında #{DescParam} veya daha üst sıraya ulaştığında kazanırsın.,10000
+1001200,Yükseliş Ustası,“Yiyecekten Fazlası (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001300,Ruh Avcısı,“Ne Kadar Da Parlak (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001400,Cep Ustası,“İlgi Gerektirir (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001500,Toplayıcı,“Çöpçü Değil Ama... (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001600,Simyacı,“Beni Parlatan (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001700,Düellocu,“Zafer Şarkısı (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001800,Çizim Uzmanı,“Şans Yetenek Değildir (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+1001900,Öz Avcısı,“Ganimet Koleksiyonu (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2000200,Uzman Mücadeleci,@1000800,5000
+2000300,Maceracı,@1000900,5000
+2000400,En İyi Araştırmacı,@1001000,5000
+2000600,Canavar Günlüğü,“{DescParam}” başarımı tamamlandığında aktif olur.,Uluyan Oyuk Bölge Albümü
+2000700,Değerli Hayran,“Daha Önce Görmüş Müydün? (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2000900,Şanslı Adam,“Şans Seninle (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001000,Binek Eğitmeni,“Daha Güçlü ve Atılgan (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001100,Ruh Koruması,“Kaçınılmaz Savaş (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001200,Adli Dedektif,“Farklı Kan (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001300,Güvenlik Uzmanı,“Güvenli Yol (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001400,Kılık Değiştirme Uzmanı,Kaprisli Olmak Zordur (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001500,Silah Ustası,“Efsanelerden (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001600,Zırh Ustası,“Rüyalardan Parşömenler (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001800,Kombinasyoncu,“Ekipmanın Sonsuz Evrimi (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2001900,Mücevher Ustası,“Parşömenimi Buldum (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2002000,Gözüpek,“Efsanevi Bir Canavar Yendin (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+2002100,Geliştirme Ustası,“Tamamen Farklı (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+3000200,Heyecanlı Mücadeleci,@1000800,100
+3000300,Heybetli Fatih,@1000900,100
+3000500,Zeki Araştırmacı,@1001000,100
+3000900,Uzman,“Özel Ekipman Nasıl Yapılır (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+3001000,Limit Kıran,“Elinden Gelen Bu Kadar Mı (Kategori {DescParam})” başarımı tamamlandığında aktif olur.,10
+3100100,Şato Kumandanı,"Şatoya hakim olan klanda {DescParam} isen kazanırsın.
+(Koşullar yerine getirilinceye kadar durur.)",Bilgin
+3100200,Şato Muhafızı,@3100100,Klan Üyesi
+4100100,Şato Kumandanı,@3100100,Lider
+4101000,On Rakip,"Arena’da #{DescParam} veya daha üst sıralara ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",10
+4101100,On Fatih,"Savaş Gücü’nde #{DescParam} veya daha üst sıralara ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",10
+4101200,Meşhur Araştırmacı,"Seviye sıralamasında #{DescParam} veya daha üst sıraya ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",10
+5100200,Düellonun Kralı,"Arena’da #{DescParam}. sıraya ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",1
+5100300,En Güçlü Benim,"Savaş Gücü’nde #{DescParam}. sıraya ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",1
+5100400,Aydınlanmış,"Seviye sıralamasında #{DescParam}. sıraya ulaştığında kazanırsın.
+(Koşulları karşıladığın sürece sende kalır.)",1
+30000000,İlk Öncü,Özel unvanlar ön kayıt yaptıran oyuncular için açıktır.,
+30000010,Klan Patronu,Klanlarına büyük destek sağlayan klan üyelerine verilen unvan.,

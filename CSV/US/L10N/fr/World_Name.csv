@@ -1,0 +1,158 @@
+Id,Name
+1,Île du discours de l'Est
+2,Île du discours de l'Ouest
+3,Grand chemin de Gludin
+4,Plaines de Gludio
+5,Manoir de Windawood
+6,Terres désolées
+7,Plaines de Dion
+8,Marais de Cruma
+9,Sommet de la dissonance
+10,Terres de clameur
+11,Domaine de Giran
+12,Rivages de brume mortelle
+13,Île du diable
+14,Nécropole hantée
+15,Plateau du mistral
+16,Terres éternelles
+17,Territoire conquis de la Tour d'ivoire
+18,Vallée draconique
+200,Ruines elfiques 1
+201,Ruines elfiques 2
+202,Nid de fourmis 1
+203,Nid de fourmis 2
+204,Tour de Cruma 2
+205,Tour de Cruma 3
+206,Tour d'ivoire 1
+207,Tour d'ivoire 2
+208,Tour d'ivoire 3
+209,Laboratoire de la Tour d'ivoire
+210,Canopée de la Forêt des secrets
+211,Sous-bois de la Forêt des secrets
+212,Site du massacre de la Forêt des secrets
+213,Grotte du dragon 1
+214,Grotte du dragon 2
+215,Nid d'Antharas
+300,Autel de la folie
+301,Comtesse de la chambre de sang
+400,Faille temporelle
+402,Navire fantôme de Zaken
+11000,Sanctuaire des souvenirs oubliés
+12000,Tour de l'insolence
+13000,Donjon d'extraction
+14000,Arène
+14001,Champ de bataille d'honneur
+14002,Champ de bataille des braves
+14005,Arène impitoyable
+16003,Forteresse du Grand chemin de Gludin
+16004,Forteresse des Plaines de Gludio
+16005,Forteresse du Manoir de Windawood
+16006,Forteresse des Terres désolées
+16007,Forteresse des Plaines de Dion
+16008,Forteresse du Marais de Cruma
+16009,Forteresse du Sommet de la dissonance
+16010,Forteresse des Terres de clameur
+16011,Forteresse du Domaine de Giran
+16012,Forteresse des Rivages de brume mortelle
+16013,Forteresse de l'Île du diable
+16014,Forteresse de la Nécropole hantée
+16015,Forteresse du Plateau du mistral
+16016,Forteresse des Terres éternelles
+16017,Forteresse conquise de la Tour d'ivoire
+16018,Forteresse de la Vallée draconique
+16019,Forteresse des Ruines du dolmen
+16020,Forteresse des Terres brisées
+16021,Forteresse de l'Obélisque de la victoire
+16022,Forteresse du Camp fortifié
+16023,Forteresse de la Forêt du vent
+16024,Forteresse de la Forêt hantée
+16025,Forteresse du Poste d'éclaireurs occidental
+16026,Forteresse des Ruines elfiques
+16999,Siège ouvert
+17001,Château de Gludio
+17002,Château de Dion
+17003,Château de Giran
+17004,Château d'Oren
+18100,Coffre-fort de Kresous
+18200,Faille des Enfers
+18300,Entrée scellée
+18400,Temple de l'eau
+18500,Laboratoire sinistre
+19001,[Clan Hall]
+20000,Labo du géant inférieur
+20001,@20000
+20002,@20000
+21000,마그나딘
+211010,Laboratoire du géant
+30001,Cadeau divin
+30002,@30001
+999,TEST Siège de château
+998,TEST JcJ
+1000,Prototerre 1
+1001,Prototerre 2
+1002,Terres des monstrueuses écailles
+1005,Terres des monstrueuses écailles 2
+1006,Terres des monstrueuses écailles 3
+1007,Autre test Siège de château
+1008,Test Siège de forteresse
+1009,@1008
+1010,@1008
+1011,@1008
+1012,Monde test de compétence
+1013,Terre écaillées de nommés
+2000,Pupland
+2001,Pupland 1
+2002,Pupland 2
+2003,Pupland 3
+2004,Pupland 4
+2005,Pupland 5
+2006,Pupland 6
+2007,Pupland 7
+2008,Pupland 8
+60001,Château d'Aden
+70001,@60001
+70002,Historique d'Aden
+100200,Extramonde
+100204,@204
+100018,Intérieur de la pierre d'invocation maléfique
+100003,Port de Gludin dévasté
+200001,Extramonde de Theodore
+200002,Catacombes
+200003,Camp attaqué
+200004,Périphérie du château d'Oren
+200005,Prison souterraine du château d'Oren
+200200,Territoire du Roi sanglant
+211000,Premier sceau de l'Île du discours
+211001,Deuxième sceau de l'Île du discours
+211002,Troisième sceau de l'Île du discours
+211003,Quatrième sceau de l'Île du discours
+200206,@206
+213000,Laboratoire de la Sombre confrérie
+200010,Abîme de Zaken
+210206,@206
+210207,@207
+210208,@13
+299301,Monde des gadgets - Boudoir de la comtesse du sang
+299981,Monde des gadgets - Île du discours de l'Est
+299982,Monde des gadgets - Île du discours de l'Ouest
+299983,Monde des gadgets - Grand chemin de Gludin
+299984,Monde des gadgets - Plaines de Gludio
+299985,Monde des gadgets - Manoir de Windawood
+299986,Monde des gadgets - Terres désolées
+299987,Monde des gadgets - Plaines de Dion
+299988,Monde des gadgets - Marais de Cruma
+299989,Monde des gadgets - Sommet de la dissonance
+299990,Monde des gadgets - Terres de clameur
+299991,Monde des gadgets - Domaine de Giran
+299992,Monde des gadgets - Rivages de brume mortelle
+299993,Monde des gadgets - Île du diable
+299994,Monde des gadgets - Nécropole hantée
+299995,Monde des gadgets - Plateau du mistral
+299996,Monde des gadgets - Terres éternelles
+299997,Monde des gadgets - Territoire conquis de la Tour d'ivoire
+299998,Monde des gadgets - Vallée draconique
+1500,Prototerre 5
+300201,@201
+300203,@203
+300205,@205
+300207,@207

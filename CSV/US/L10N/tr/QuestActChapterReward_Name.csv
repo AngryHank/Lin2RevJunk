@@ -1,0 +1,134 @@
+Id,ActName,ChapterName
+1,1. Doğu Konuşkan Ada,Bir Kahramanın Doğuşu
+2,@1,Ortaya Çıkan Karanlık
+3,@1,İlk Bariyer
+4,@1,Niah’ın Arkadaşı
+5,@1,Ork Avcıları Toplanın!
+6,@1,Sis İniyor
+7,@1,Acemi Şansı
+8,@1,Elf Tacı
+9,@1,İnanılmaz Olay
+10,@1,İkinci Bariyer
+11,@1,Niah’ın Kayboluşu
+12,2. Batı Konuşkan Ada,Arkeologların İzleri
+13,@12,Arama Devam Ediyor!
+14,@12,Acımasız
+15,@12,İnsan Avı
+16,@12,Üçüncü Bariyer
+17,@12,Ayrılamamak
+18,@12,O Kişi
+19,3. Gludin Yolu,Acil Durum!
+20,@19,Karşı saldırı Planı
+21,@19,Şüpheli Olay
+22,@19,Kanıt Bulundu!
+23,@19,Yalnız Leydi
+24,@19,Trajedi
+25,@19,Köleciyi Yok Et!
+26,@19,Mutlu Yüzler
+27,@19,Açgözlü
+28,@19,Havuç ve Sopa
+29,4. Gludio Ovası,Yapabiliyorken Kâr Et
+30,@29,Yağmalanmış Kasaba
+31,@29,Kaç!
+32,@29,İkinci Müfreze Tehlikede
+33,@29,Bölük
+34,@29,Tanıdık Şeyler
+35,@29,Tabi ki!
+36,@29,Beklenen Son
+37,@29,Zaman Yok!
+38,@29,Gludio’nun Kahramanı
+39,5. Windawood Köşkü,Kayıp Askerler
+40,@39,Kurtarma Planı!
+41,@39,Kavuşma
+42,@39,Nihai Yıkım
+43,@39,Kristal Savaşı
+44,@39,Gizemli Adam
+45,@39,Antik İblis
+46,@39,Windawood İntikam Savaşı
+47,@39,Karşı Saldırı Çanı
+48,@39,Son Savaş
+49,6. Çorak Diyar,Fildişi Kulesi Büyücüsü
+50,@49,Zavallı Büyücü
+51,@49,Gerçeği Açığa Çıkar
+52,@49,Staris
+53,@49,Ölülerin Anısına
+54,@49,Alışılmadık Seyyar Satıcı
+55,@49,Yolun Yarısı
+56,@49,Ol Mahum Görüşmesi
+57,@49,Kızıl Kolcu İsyanı
+58,@49,Özel Koşullar
+59,7. Dion Ovası,Ork Pususu
+60,@59,Şüpheli Mektup
+61,@59,Kertenkeleadam İstilası
+62,@59,Hafızasını Kaybetmiş Kız
+63,@59,Güvenli Bir Yere
+64,@59,Elie’yi Ararken
+65,@59,Karışıklık Sebebi
+66,@59,Dion Askerinin Dövüşü
+67,@59,Kara Kardeşlik'in Hedefi
+68,8. Cruma Bataklığı,Çoğalan Örümcekler
+69,@68,Mutlu Yüz
+70,@68,Kara Kardeşlik’i Ezmek
+71,@68,Arkadan Bıçaklama!
+72,@68,Araştırmacılara Saldırı
+73,@68,Anahtarı Ararken
+74,@68,Cruma Kulesi´ne Doğru
+75,@68,Tuzak
+76,@68,Şüpheli Kedi
+77,9. Uyumsuzluk Zirvesi,Orman Avcısı
+78,@77,Davetsiz Misafir
+79,@77,Şef Tanor
+80,@77,@78
+81,@77,Şerefli Tanor
+82,@77,Gerçek Plan
+83,@77,Halk Düşmanı
+84,@77,Eylem Gücü
+85,10. Uluyan Oyuk,Geçenler İçin
+86,@85,Sonsuz Meydan Okuma
+87,@85,Tanıdık Yüz
+88,@85,Ait Olması Gereken
+89,@85,Hızlı Ölüm
+90,@85,Kalpsiz Tuzak
+91,@85,Sözleşme
+92,@85,Bir Kez Daha Uyu
+93,@85,İşler Devam Ediyor
+94,11. Giran Bölgesi,Ticaret Satışla Başlar
+95,@94,Bir Kedi'nin Borcu
+96,@94,Erkek Kardeş Aranıyor I
+97,@94,Erkek Kardeş Aranıyor II
+98,@94,Kraliçe Gorgon
+99,@94,Pandora'nın Kutusu
+100,@94,Mühürlü Geçmiş
+101,@94,Gizlenme
+102,@94,Kayıp Delegasyon
+103,@94,Kurtarma Görevi
+104,12. Ölümcül Sis Kıyıları,Pan'ın İntikamı
+105,@104,Kaybolmuş Ulaştırma Birimi
+106,@104,Gerçeği Açığa Çıkar
+107,@104,Gerçekçi Kaçak
+108,@104,Düzenleme
+109,@104,Eşya Teslimatı
+110,@104,Gnosis'in İzi
+111,@104,Ebedi Kereste
+112,@104,Araştırma Devam Ediyor
+113,@104,Kara Liman
+114,@104,Dirilmiş Korsan Mürettebat
+115,13. Şeytan Adası,Öncü Birlik'in Yeri
+116,@115,Garip Davranış
+117,@115,Geri Dönülecek Yer
+118,@115,Trajedi I
+119,@115,Korsan Mürettebatının Geçmişi
+120,@115,Frederick’in Öfkesi I
+121,@115,Trajedi II
+122,@115,Frederick’in Öfkesi I
+123,@115,Üzücü Haberler
+124,14. Lanetli Mezarşehir,Oren Delegasyonu'nu Kurtar
+125,@124,Henüz Ölemez!
+126,@124,Koruma Ağacı
+127,@124,Geçmişin Hayaleti
+128,@124,Göçmüş Hatıralar
+129,@124,Gelecek için Mesaj
+130,@124,Her zamanki Pan
+131,@124,Gözcüler
+132,@124,Ruh Kılıcı
+133,@124,Yükselen Umut

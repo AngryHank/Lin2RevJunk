@@ -21,7 +21,7 @@ Key,Value
 20,Incorrect skill
 21,Incorrect skill target
 22,Incorrect status
-23,Incorrect region information
+23,You can no longer enter.
 24,There is no device identifier.
 25,This name is already in use.
 26,Skill is being used.
@@ -137,7 +137,7 @@ Sealed equipment cannot be enhanced."
 417,This equipment cannot be upgraded.
 418,This equipment cannot be upgraded anymore.
 419,This equipment cannot be combined anymore.
-420,‘Favorite’ equipment cannot be used.
+420,Cannot use Favorited Items.
 421,"The combining materials have different types.
 You can only combine equipment of the same type."
 422,"The combining materials have different grades.
@@ -172,7 +172,7 @@ You can only combine equipment of the same grade."
 450,Failed to craft item due to insufficient inventory slot space.
 451,Cannot use table information.
 452,This Monster Codex is already completed.
-453,Not enough Monster Cores in inventory.
+453,You do not have any unbound Monster Cores in your Inventory.
 454,Incorrect group identifier.
 455,This Monster Codex group is already completed.
 456,There are no Monster Codices to work on.
@@ -299,6 +299,9 @@ Try again after leveling up your character."
 817,You have no friends to greet.
 818,This player’s friend list is full.
 819,You have already sent too many friend requests.
+847,Only the Party Leader can request to enter.
+848,Already participating in a dungeon.
+849,Action cannot be completed while in a party.
 850,You have already invited this player.
 851,This party does not exist.
 852,You were not invited to a party.
@@ -318,7 +321,7 @@ Try again after leveling up your character."
 866,Cannot form a party during Castle Siege/ Fortress Siege.
 867,Not enough party members.
 868,Only the party leader can cancel.
-869,This user has not yet completed the party tutorial.
+869,This player has not yet completed the party tutorial.
 870,Already being matched.
 871,In a region where quick find cannot be used.
 872,Cannot be done inside an instance dungeon.
@@ -404,11 +407,11 @@ Cannot request to join."
 956,Already a clan member.
 957,@GuildJoined
 958,All hostile clans are registered.
-959,Not the clan leader.
+959,Not the Clan leader.
 960,Purchased the maximum amount allowed per week.
 961,Purchased the maximum amount allowed per month.
 962,Cannot kick out high rank members.
-963,This user has not yet completed the clan tutorial.
+963,This player has not yet completed the clan tutorial.
 964,Cannot register any more hostile clans anymore.
 965,Cannot purchase due to insufficient Clan Proofs of Blood.
 966,"Cannot join, leave, delegate clan leader,
@@ -447,7 +450,6 @@ or break up clan during Fortress Siege."
 1117,There is no Castle Siege history.
 1118,Castle Siege Festival is not active right now.
 1119,Cannot purchase because no clan has conquered or made a bid on castle.
-1120,Not able to forfeit.
 1151,Failed at bidding.
 1152,Failed to cancel bid.
 1153,Incorrect Fortress Siege registration.
@@ -554,7 +556,7 @@ you have expended the entry counts."
 1509,Not PK status.
 1510,Annihilation list is full.
 1511,Couldn’t find from Annihilation list.
-1512,This user is already registered.
+1512,This player is already registered.
 1513,Weapon not equipped.
 1514,Reward already acquired.
 1515,No Arena rank.
@@ -758,17 +760,60 @@ Please try again after joining one."
 1018,@PartyInvalidNameSpace
 1019,@PartyInvalidNameLength
 5607,Already claimed the season reward.
-6203,Reached the limit of times that can be opened with currency.
+6203,Insufficient number of openings when using Adena. You can only open 2 daily with Adena.
+8600,Incorrect mini-game identifier
+8601,No more rewards remaining
+8602,Not in mini-game world
+8603,Mini-game cannot be entered
+1027,No more Clan Hall Quests remaining.
+1430,"A party member is affected by a leaver penalty.
+Cannot enter."
+1431,"You left a Temporal Rift early recently.
+You cannot enter for a period of time."
+2211,This cloak has already been acquired.
+2212,Incorrect cloak type.
+2213,Cannot find cloak.
+2214,Cloak necessary for cloak activation not owned.
+2215,Cloak level too low for cloak activation.
+2216,Cloak battle deck data is incorrect.
+2217,Cannot find the cloak battle deck data.
+2218,Cloak is at max level.
+2219,Cloak not activated.
+2220,Cloak color data is incorrect.
+2221,Cloak type data is incorrect.
+2222,Cloak substat lock data is incorrect.
+2223,Only Clan Leaders can choose to level up or change the color of Clan Cloaks.
+120,@PartyInvalidNameLength
+121,@PartyInvalidName
 122,Name contains forbidden text.
-7700,Not enough Mastery Tokens.
-1442,This item is no longer being sold.
+123,@PartyInvalidNameSpace
+7103,Item use level is at max.
+1432,Cannot recharge when the reward count is at max.
+1433,Used up all reward recharges.
+-1,Reached max reset amount on the Treasure Board. Cannot reset.
+6201,You must open at least 20 cells to reset to the next Treasure Board.
+6202,Insufficient total opened treasures.
+1333,League Tier too low to purchase.
+1434,You cannot enter because the rift is closed.
+2201,Cannot find this event.
+2202,Coming soon.
+2203,This event has ended.
+2204,All draw rewards have been used.
+2205,Not enough Tickets.
+7304,"계정 창고에 아이템이 있는 경우, 서버 이전 신청이 불가합니다.
+창고를 모두 비운 후 다시 이용 부탁드립니다."
+7301,Character Name Duplicate
+7300,Character Limitation
+7302,서버 이전 판매 수량 없음
+7303,서버 이전 처리중
+639,Limited-time items cannot be used.
 1350,Already requesting to join the Open Siege.
 1351,A player is already on standby to enter the Open Siege.
 1352,A player cannot be found.
 1353,A player is already in your party.
 1354,This Open Siege party cannot be found.
 1355,Party member count maxed out.
-1356,Player is currently a part of an Open Siege.
+1356,Player is currently a part of an Open Siege party.
 1357,No affiliated party.
 1358,Not the party leader.
 1359,You cannot kick yourself.
@@ -784,9 +829,23 @@ Please try again after joining one."
 1369,Previous participation history identified.
 1370,Preparing to enter the dungeon.
 1371,A player is preparing to enter the dungeon.
-1372,Action cannot be performed due to being part of an Open Siege party.
+1372,This action is unavailable when a player is requesting to participate in Open Siege.
 1373,A player is currently a part of an Open Siege.
 1374,You cannot enter Open Siege from this location.
+-1,관전모드에서는 채팅 사용이 불가능 합니다.
+1192,A member of a clan participating in a Fortress Siege (or Castle Siege) must enter first to make spectator mode possible.
+1442,This item is no longer being sold.
+7700,Not enough Mastery Tokens.
+1191,현재 관전 인원수가 최대 입니다.
+2008,You have already reached the last section. Check the event again.
+1339,Purchasable only after conquering a Fortress of an appropriate Grade.
+2009,Reached the maximum number of Dice Game plays.
 -1,Dummy
 7550,Cannot obtain item because time has expired.
-640,There are still completable quest scrolls that remain.
+1120,Not able to forfeit.
+2250,Current CP lower than the selected region’s recommended minimum. Cannot participate.
+2251,Player is not currently matching.
+2252,The is no Monster Summoning Stone info.
+2253,Not currently in a Dungeon.
+2254,Party Leader has quit. Leaving Dungeon.
+2255,Action cannot be completed while in a Monster Dungeon.

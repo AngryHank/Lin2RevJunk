@@ -1,0 +1,61 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Grausamer Wachhauptmann: Boranta,"Seit Menschen seine gesamte Familie
+ermordet hatten, war er davon überzeugt,
+dass Macht der einzige Weg war, 
+die Orks zu retten.
+
+Eines Tages, als ein unbekannter Ork 
+namens
+<RedBold>Ramog</> unvergleichliche 
+Macht erlangte und
+zum neuen <RedBold>Timak-Ork-Anführer</> wurde, konnte
+er nicht anders, als ihm zu folgen und
+nachzueifern.
+
+Er schwor, eines Tages ein ebenso mächtiger
+Ork wie <RedBold>Ramog</> zu werden. Dies war sein einziges Ziel im Leben. 
+Um dieses Ziel zu erreichen, führte er die
+Vernichtung des <GreenBold>Schamanendorfs</> der
+<GreenBold>Timak-Orks</> an.",Magische Kreatur,Boranta erhielt die Macht der Nebulite-Scherben von Ramog. Mit seiner neugefundenen Stärke kann er Feuer einsetzen.
+2,Irrer Ork: Ramog,"Durch Zufall stecken nun Nebulite-Scherben
+in seinem Herzen.
+Nur noch Tage trennten ihn von seinem Tod, 
+als er von einem
+<RedBold>unidentifizierten Schatten</> gerettet wurde.
+
+Als er seine Augen öffnete, erkannte er, 
+dass er nun über eine erstaunliche und 
+beängstigende Kraft verfügte.
+Er nannte sich Krieger <RedBold>Ramog</> und tötete
+sämtliche Orks, die ihm in den Weg kamen.
+Dann wurde er zum neuen Stammesführer der
+<RedBold>Timak-Orks</>.
+
+Auf seiner immerwährenden Suche nach 
+Macht begann er, die Macht von <RedBold>Paagrio</>,
+
+dem Gott der Orks, aufzusuchen.
+Schließlich griff er das <GreenBold>Schamanendorf</>
+der <GreenBold>Timak-Orks</> an,
+wo sich <GreenBold>Paagrios Altar</> befand.
+Die Schamanen, die ihn aufzuhalten 
+versuchten, wurden ausgelöscht.
+Das Ritual zur Aneignung von <RedBold>Paagrios</> Macht 
+ist nun beinahe abgeschlossen.",@1,"Nebulite-Scherben sind in Ramogs Herz eingeschlossen. Kein Ork vor ihm war jemals in der Lage, solch mächtige Magie einzusetzen."
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Wächter-Ritter: Leonard,"Er war einst der <RedBold>Wächter-Ritter</> von
+<RedBold>Gräfin Trisha</>. Obwohl seine Seele
+unverwüstlich ist, gilt seine Treue allein
+<RedBold>Gräfin Trisha</>. Er wird ihr dienen,
+unabhängig von jeder Entscheidung,
+die sie trifft.",@1,Leonard wurde durch Magie verwandelt. Durch seine magischen Fähigkeiten unterscheidet er sich von anderen Vampiren.
+10,Blutgräfin: Trisha,"<RedBold>Trisha</> wurde in eine von Girans Adelsfamilien
+hineingeboren. Sie wollte ihrem langweiligen
+Leben immer entkommen, weshalb sie sich
+einer verbotenen Liebe hingab. Einer Liebe,
+die so stark war, dass sie ihretwegen ihr
+altes Leben hinter sich ließ.",@1,"Trisha, die wie ihr Liebhaber von einem Kleinriesen verwandelt wurde, unterscheidet sich durch ihre magischen Fähigkeiten von anderen Vampiren."
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

@@ -1,16 +1,16 @@
-Id,Type,TitleKey,Desc,Image,EventStartTime,EventEndTime,RewardGroupId,PeriodType,NewServerEvent
-10001,Month,0,,,2016-02-10 00:00:00,2030-03-30 00:00:00,102,0,0
-103,Weekly,851000000002,,UI_BG_EquipmentEnhancementLoginEvent,2018-10-20 00:00:00,2018-11-15 23:59:00,103,0,0
-104,Weekly,861000000008,,UI_BG_BigUpdateCelebrationFestival_7daylogin,2018-10-20 00:00:00,2018-11-15 23:59:00,104,0,0
-105,Weekly,1151000000105,,UI_Image_Weekly,2018-10-21 00:00:00,2018-11-05 23:59:00,105,0,0
-106,Weekly,1151000000106,,UI_BG_BigUpdateCelebrationFestival,2017-11-06 00:00:00,2017-11-14 23:59:00,106,0,0
-107,Weekly,1151000000106,,UI_BG_BigUpdateCelebrationFestival,2017-11-06 00:00:00,2017-11-14 23:59:00,107,0,0
-108,Weekly,1151000000110,,UI_Weekly_Event_Village,2017-11-06 00:00:00,2017-11-14 23:59:00,108,0,0
-109,Weekly,1151000000109,,UI_Weekly_Event_Village,2017-11-06 00:00:00,2017-11-14 23:59:00,109,0,1
-110,Weekly,1151000000110,,UI_BG_UpdateChristmas,2017-11-06 00:00:00,2017-11-14 23:59:00,110,0,0
-111,Weekly,1151000000110,,UI_BG_UpdateChristmas,2017-11-06 00:00:00,2017-11-14 23:59:00,111,0,1
-112,Weekly,1151000000111,,UI_BG_NewYearEvent,2017-12-01 00:00:00,2018-01-01 23:59:00,112,0,0
-113,Weekly,1151000000111,,UI_Weekly_Event_Village,2017-11-15 00:00:00,2017-11-26 23:59:00,113,0,0
-114,Weekly,1151000000111,,UI_BG_NewYearEvent,2017-12-01 00:00:00,2018-01-01 23:59:00,114,0,1
-115,Weekly,1151000000111,,UI_BG_BigUpdateCelebrationFestival_7daylogin,2018-01-02 00:00:00,2018-01-23 23:59:00,115,0,0
-116,Weekly,1151000000111,,UI_BG_BigUpdateCelebrationFestival_7daylogin,2018-01-02 00:00:00,2018-01-23 23:59:00,116,0,1
+Id,Type,TitleKey,Desc,Image
+10001,Month,0,,
+103,Weekly,851000000002,,UI_BG_EquipmentEnhancementLoginEvent
+104,Weekly,861000000008,,UI_BG_BigUpdateCelebrationFestival_7daylogin
+105,Weekly,1151000000105,,UI_Image_Weekly
+106,Weekly,1151000000106,,UI_BG_BigUpdateCelebrationFestival
+107,Weekly,1151000000106,,UI_BG_BigUpdateCelebrationFestival
+108,Weekly,1151000000110,,UI_Weekly_Event_Village
+109,Weekly,1151000000109,,UI_Weekly_Event_Village
+110,Weekly,1151000000110,,UI_BG_UpdateChristmas
+111,Weekly,1151000000110,,UI_BG_UpdateChristmas
+112,Weekly,1151000000111,,UI_BG_NewYearEvent
+113,Weekly,1151000000111,,UI_Weekly_Event_Village
+114,Weekly,1151000000111,,UI_BG_NewYearEvent
+115,Weekly,1151000000111,,UI_BG_BigUpdateCelebrationFestival_7daylogin
+116,Weekly,1151000000111,,UI_BG_BigUpdateCelebrationFestival_7daylogin

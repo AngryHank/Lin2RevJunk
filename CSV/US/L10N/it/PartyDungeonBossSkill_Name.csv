@@ -1,0 +1,191 @@
+ID,SkillName,SkillDesc
+1,Bersaglio identificato,"Sceglie un <YellowBold>obiettivo</> tra 1 dei giocatori vicini.
+Siccome questa abilità è molto veloce, non può
+essere schivata da chi si trova a portata.
+
+L'obiettivo verrà <YellowBold>stordito</> e sarà incapace
+di muoversi."
+2,Lancio d'ascia,"Lancia un'ascia contro un nemico che infligge
+<YellowBold>Danno fisso</>.
+<YellowBold>I danni inflitti verranno distribuiti</>
+tra tutti gli obiettivi colpiti dall'ascia.
+Gli obiettivi colpiti dalle fiamme subiranno
+i danni delle <YellowBold>Fiamme</>.
+
+Le <YellowBold>Fiamme</> esploderanno dopo un certo
+periodo di tempo e <YellowBold>abbatteranno</> gli obiettivi
+colpiti.
+Le <YellowBold>Fiamme</> si scateneranno sotto gli obiettivi,
+infliggendo danni aggiuntivi."
+3,Rottura,"Infligge danni a tutti gli obiettivi a
+<YellowBold>portata frontale</>."
+4,Lama folle,"Infligge danni a ventaglio a tutti gli obiettivi di fronte.
+Gli obiettivi colpiti subiranno <YellowBold>Ignizione</>.
+
+Gli obiettivi colpiti da <YellowBold>Ignizione</> subiranno
+<YellowBold>danni aggiuntivi per 1 cumulo di Ignizione</>
+quando la <RedBold>Fiamma di Paagrio</> <YellowBold>esplode</>.
+Fino a 5 cumuli di Ignizione."
+5,Tracollo,"<RedBold>Ramog</> si sposta al centro, quindi infligge
+danno AE <YellowBold> a 270 gradi attorno a lui</>.
+Una volta usata, questa abilità
+<YellowBold>si attiva 4 volte di seguito</>.
+Ogni volta che si attiva, cambia la direzione.
+Gli obiettivi colpiti da Tracollo subiscono
+<YellowBold>Ignizione</>.
+
+Gli obiettivi colpiti da <YellowBold>Ignizione</> subiranno
+<YellowBold>danni aggiuntivi per 1 cumulo di Ignizione</>
+quando la <RedBold>Fiamma di Paagrio</> <YellowBold>esplode</>.
+Fino a 5 cumuli di Ignizione."
+6,Prepara Esplosione,"<RedBold>Ramog</> si sposta al centro,
+quindi evoca la <RedBold>Fiamma di Paagrio</>.
+
+La <RedBold>Fiamma di Paagrio</> evocata si muove verso
+<RedBold>Ramog</>, seguita da una enorme esplosione
+non appena entra in contatto con <RedBold>Ramog</>
+causando danni devastanti a tutto schermo.
+
+Gli obiettivi colpiti da <YellowBold>Ignizione</>
+<YellowBold>subiranno danni in proporzione ai cumuli</>
+<YellowBold>di Ignizione applicati a loro</>."
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Lancia un'ascia contro un nemico che infligge
+<YellowBold>Danno fisso</>.
+<YellowBold>I danni inflitti verranno distribuiti</>
+tra tutti gli obiettivi colpiti dall'ascia.
+Gli obiettivi colpiti dalle fiamme subiranno
+i danni delle <YellowBold>Fiamme</>.
+
+Le <YellowBold>Fiamme</> esploderanno dopo un certo
+periodo di tempo e <YellowBold>abbatteranno</> gli obiettivi
+colpiti.
+Le <YellowBold>Fiamme</> si scateneranno sotto gli obiettivi,
+infliggendo danni aggiuntivi.
+
+<YellowBold>- C'è una piccola possibilità</> che tiri
+la propria ascia <YellowBold>2 volte di seguito</>."
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> si sposta al centro,
+quindi infligge danno AE <YellowBold> a 270 gradi attorno a lui</>.
+Una volta usata, questa abilità <YellowBold>si attiva 4 volte di seguito</>.
+Ogni volta che si attiva, cambia la direzione.
+Gli obiettivi colpiti da Tracollo subiscono <YellowBold>Ignizione</>.
+
+Gli obiettivi colpiti da <YellowBold>Ignizione</>
+subiranno <YellowBold>danni aggiuntivi per 1 mucchio di Ignizione</>
+quando la <RedBold>Fiamma di Paagrio</> <YellowBold>esplode</>.
+Fino a 5 mucchi di Ignizione.
+
+<YellowBold>- A seconda della salute di Ramog</>,
+<YellowBold>l’attacco di Ramog usa un range di angoli più grande.</>"
+18,@6,"<RedBold>Ramog</> si sposta al centro,
+quindi evoca la <RedBold>Fiamma di Paagrio</>.
+
+La <RedBold>Fiamma di Paagrio</> evocata si muove verso
+<RedBold>Ramog</>, seguita da una enorme esplosione
+non appena entra in contatto con <RedBold>Ramog</>
+causando danni devastanti a tutto schermo.
+
+Gli obiettivi colpiti da <YellowBold>Ignizione</>
+<YellowBold>subiranno danni in proporzione ai cumuli
+di Ignizione applicati a loro</>.
+
+<YellowBold>- Vengono evocate 2 Fiamme di Paagrio.</>"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Ferita penetrante,"Trafigge la carne del nemico con una spada
+e <YellowBold>ne riduce le difese</>.
+Possono essere usati fino a 3 cumuli!"
+26,Esplosione di Sangue,"<YellowBold> Evoca Grumo di sangue </> dal sangue che
+fuoriesce dalle <YellowBold>ferite trapassate</> del nemico.
+I <RedBold>Grumi di sangue</> evocati colpiscono i nemici
+vicini e <YellowBold>si auto distruggono</>."
+27,Anemia,"Quando combattono grandi battaglie,
+i vampiri che combattono usando il
+sangue magico diventano <YellowBold>Vulnerabili</>
+e subiscono<YellowBold> danni aggiuntivi</>."
+28,Prosciugamento PS vigoroso,"<YellowBold>Anemia</> permette l'<YellowBold>estrazione forzata di</>
+<YellowBold>sangue</> dai nemici vicini.
+Il solo modo di resistere è applicare
+<YellowBold>Sangue di vampiro</> al corpo
+e <YellowBold>ingannare la magia del loro sangue.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Trafigge la carne del nemico con una spada e <YellowBold>ne riduce le difese</>.
+
+<YellowBold>- Si può accumulare fino a 5 volte.</>"
+34,@26,"Prosciuga il sangue dalla <YellowBold>Ferita trapassata</> di un nemico per <YellowBold>evocare un Coagulo di Sangue</>.
+Il <RedBold>Coagulo di Sangue</> evocato colpisce i nemici vicini e <YellowBold>si auto distrugge</>.
+
+<YellowBold>- Si auto distrugge e crea Sangue ardente.</>
+<YellowBold>- Il contatto con Sangue ardente provoca danni.</>"
+35,@27,@27
+36,@28,@28
+37,Sangue infernale,"Quando i <YellowBold>PS raggiungono il 50%</>, Leonard diventerà disperato.
+In questo stato, <YellowBold>evocherà molti Coaguli di sangue</> e tenterà un attacco kamikaze."
+38,@25,"Trafigge la carne del nemico con una spada e <YellowBold>ne riduce le difese</>.
+
+<YellowBold>- Si può accumulare fino a 5 volte.</>"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirizza,"Usa sangue magico per trasformare
+progressivamente i nemici in vampiri.
+L'obiettivo si trasformerà in <YellowBold>3 fasi</>
+e <YellowBold>aumenterà Att.</> a ogni fase,
+ma <YellowBold>ridurrà Dif.</>."
+44,Cambio Vampirico,"Se esposto a <YellowBold>Vampirizza</> <YellowBold>3 volte</>,
+l'obiettivo diventerà temporaneamente
+un vampiro che <YellowBold>attacca i compagni di squadra</>."
+45,Ricarica Sangue,"Nelle grandi battaglie, i vampiri che
+necessitano di sangue per esercitare magia
+devono <YellowBold>volare come pipistrelli</>
+per ripristinare il sangue.
+I <RedBold>Pipistrelli</> andranno sui corpi dei soldati 
+del <BlueBold>Gruppo Reparto d’Avanguardia</>
+e infliggeranno <YellowBold>Esaurimento Vita 3 volte</>."
+46,Collera insanguinata,"I <RedBold>Pipistrelli</> porteranno il sangue ottenuto
+a Trisha che recupererà salute a seconda
+del numero di pipistrelli che hanno avuto successo
+e otterrà <YellowBold>forza temporanea.</>"
+47,L'arrivo di Zaken,"<YellowBold>Dopo 5 minuti di battaglia</>, la magia di
+evocazione si completa e <YellowBold>appare Zaken</>.
+Zaken <YellowBold>distruggerà tutti gli avventurieri</> che
+minacceranno Trisha."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"Se esposto a <YellowBold>Vampirizza</> <YellowBold>3 volte</>,
+l'obiettivo diventerà temporaneamente
+un vampiro che <YellowBold>attacca i compagni di squadra</>.
+
+<YellowBold>- Quelli trasformati in vampiri diventano più forti.</>"
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Torrente di Sangue,"Trisha, con le spalle al muro,
+evoca una gigantesca <YellowBold>Ondata di Sangue</>."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

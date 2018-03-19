@@ -1,0 +1,76 @@
+Id,Name,ConditionType,ConditionNpcRaceType,ConditionNpcGradeList,ConditionRoomTypeList,ConditionParam,EffectGroupId,AbilityIcon,AbilityAdvantageIcon,DisplayUnused
+1,학살,1,7,"Small,Middle,Large",,,1001,Ability_Icon_Genocide,,0
+2,사냥,1,7,Elite,,,1002,Ability_Icon_Hunting,,0
+3,용맹,1,7,Hero,,,1003,Ability_Icon_Courage,,0
+4,척살,2,7,,,,1004,Ability_Icon_Stab,,0
+6,인내,1,7,Elite,,,1006,Ability_Icon_Patience,,0
+7,가호,1,7,Hero,,,1007,Ability_Icon_Blessing,,0
+8,철벽,2,7,,,10000,1008,Ability_Icon_Impregnable,,0
+9,강인함,8,7,,,10000,1009,Ability_Icon_Strong,,0
+10,명상,8,7,,,10000,1010,Ability_Icon_Meditation,,0
+11,활력,8,7,,,10000,1011,Ability_Icon_Vitality,,0
+12,굳건함,8,7,,,10000,1012,Ability_Icon_Iron,,0
+13,신속,8,7,,,10000,1013,Ability_Icon_Quickness,,0
+14,침착,8,7,,,10000,1014,Ability_Icon_Composure,,0
+15,번뜩임,8,7,,,,1015,Ability_Icon_Sparkle,,0
+16,간파,0,1,,,,1016,Ability_Icon_Detection,Icon_Ability_MagicalCreature,0
+17,수호,0,1,,,,1017,Ability_Icon_Guard,Icon_Ability_MagicalCreature,0
+18,용격,0,5,,,,1018,Ability_Icon_DragonAttack,Icon_Ability_Dragon,0
+19,용린,0,5,,,,1019,Ability_Icon_DragonDefence,Icon_Ability_Dragon,0
+101,글루딘 가도 요새,1,7,"Small,Middle,Large",,,1101,,,1
+102,윈다우드 장원 요새,1,7,"Small,Middle,Large",,,1102,,,1
+103,정지된 시간의 땅,1,7,"Small,Middle,Large",,,1103,,,1
+104,기란 자치령 요새,1,7,Hero,,,1104,,,1
+105,악마섬 요새,1,7,Hero,,,1105,,,1
+106,상아탑 자치 구역,1,7,Hero,,,1106,,,1
+107,북풍의 고원 요새,2,7,,,10000,1107,,,1
+108,상아탑 자치 구역 요새,2,7,,,10000,1108,,,1
+109,용의 계곡 요새,2,7,,,,1109,,,1
+110,정지된 시간의 땅 요새,2,7,,,,1110,,,1
+111,글루디오 평원 요새,1,7,"Small,Middle,Large",,,1111,,,1
+112,황무지 요새,1,7,"Small,Middle,Large",,,1112,,,1
+113,디온 목초지 요새,1,7,Elite,,,1113,,,1
+114,투쟁의 봉우리 요새,1,7,Elite,,,1114,,,1
+115,크루마 늪지 요새,1,7,Elite,,,1115,,,1
+116,절규의 땅 요새,1,7,Elite,,,1116,,,1
+117,죽음 안개 해안 요새,1,7,Hero,,,1117,,,1
+118,죽음의 연도 요새,1,7,Hero,,,1118,,,1
+201,아지트 물약 관리인,1,7,Hero,,,1201,,,1
+202,아지트 물약 관리인,1,7,Hero,,,1202,,,1
+203,아지트 물약 관리인,1,7,Structure,,,1203,,,1
+204,특성 물약,1,7,Elite,,,1204,,,1
+205,특성 물약,1,7,Hero,,,1205,,,1
+206,특성 물약,0,1,,,,1206,,,1
+301,전장영웅,9,7,,"SiegeWorld,PvpWorld,PvpLeagueWorld,MeleeWorld,BattlefieldOfHonorWorld,BattlefieldOfBraveWorld,BattlefieldOfAncientWorld",10000,1301,Ability_Icon_AttackSpeed,,1
+302,용병단의 기개,1,7,"Small,Middle,Large,Elite",,,1302,,,1
+10011,학살,1,7,"Small,Middle,Large",,,10011,Ability_Icon_Genocide,,1
+10012,학살,1,7,"Small,Middle,Large",,,10012,Ability_Icon_Genocide,,1
+10013,학살,1,7,"Small,Middle,Large",,,10013,Ability_Icon_Genocide,,1
+10014,학살,1,7,"Small,Middle,Large",,,10014,Ability_Icon_Genocide,,1
+10021,사냥,1,7,Elite,,,10021,Ability_Icon_Hunting,,1
+10022,사냥,1,7,Elite,,,10022,Ability_Icon_Hunting,,1
+10023,사냥,1,7,Elite,,,10023,Ability_Icon_Hunting,,1
+10024,사냥,1,7,Elite,,,10024,Ability_Icon_Hunting,,1
+10031,용맹,1,7,Hero,,,10031,Ability_Icon_Courage,,1
+10032,용맹,1,7,Hero,,,10032,Ability_Icon_Courage,,1
+10033,용맹,1,7,Hero,,,10033,Ability_Icon_Courage,,1
+10034,용맹,1,7,Hero,,,10034,Ability_Icon_Courage,,1
+10041,간파,0,1,,,,10041,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+10042,간파,0,1,,,,10042,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+10043,간파,0,1,,,,10043,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+10044,간파,0,1,,,,10044,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+20011,학살,1,7,"Small,Middle,Large",,,20011,Ability_Icon_Genocide,,1
+20012,학살,1,7,"Small,Middle,Large",,,20012,Ability_Icon_Genocide,,1
+20013,학살,1,7,"Small,Middle,Large",,,20013,Ability_Icon_Genocide,,1
+20021,사냥,1,7,Elite,,,20021,Ability_Icon_Hunting,,1
+20022,사냥,1,7,Elite,,,20022,Ability_Icon_Hunting,,1
+20023,사냥,1,7,Elite,,,20023,Ability_Icon_Hunting,,1
+20031,용맹,1,7,Hero,,,20031,Ability_Icon_Courage,,1
+20032,용맹,1,7,Hero,,,20032,Ability_Icon_Courage,,1
+20033,용맹,1,7,Hero,,,20033,Ability_Icon_Courage,,1
+20041,간파,0,1,,,,20041,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+20042,간파,0,1,,,,20042,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+20043,간파,0,1,,,,20043,Ability_Icon_Detection,Icon_Ability_MagicalCreature,1
+20051,신속,8,7,,,10000,20051,Ability_Icon_Quickness,,1
+20052,신속,8,7,,,10000,20052,Ability_Icon_Quickness,,1
+20053,신속,8,7,,,10000,20053,Ability_Icon_Quickness,,1

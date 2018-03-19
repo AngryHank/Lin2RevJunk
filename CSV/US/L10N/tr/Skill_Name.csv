@@ -1,0 +1,2148 @@
+Id,Name,Description,EffectDescription,SkillDialogue
+1101,İnsan Kılıç Kombosu 1,Kılıç ve kalkan ile yapılan basit saldırı.,,
+1102,İnsan Kılıç Kombosu 2,@1101,,
+1103,İnsan Kılıç Kombosu 3,@1101,,
+1104,İnsan Kılıç Kombosu 4,@1101,,
+1105,İnsan Kılıç Kombosu 5,@1101,,
+1106,İnsan Kılıç Kombosu 6,@1101,,
+1201,Elf Kılıç Kombosu 1,@1101,,
+1202,Elf Kılıç Kombosu 2,@1101,,
+1203,Elf Kılıç Kombosu 3,@1101,,
+1204,Elf Kılıç Kombosu 4,@1101,,
+1205,Elf Kılıç Kombosu 5,@1101,,
+1206,Elf Kılıç Kombosu 6,@1101,,
+1301,Kara Elf Kılıç Kombosu 1,@1101,,
+1302,Kara Elf Kılıç Kombosu 2,@1101,,
+1303,Kara Elf Kılıç Kombosu 3,@1101,,
+1304,Kara Elf Kılıç Kombosu 4,@1101,,
+1305,Kara Elf Kılıç Kombosu 5,@1101,,
+1306,Kara Elf Kılıç Kombosu 6,@1101,,
+1401,Cüce Kılıç Kombosu 1,@1101,,
+1402,Cüce Kılıç Kombosu 2,@1101,,
+1403,Cüce Kılıç Kombosu 3,@1101,,
+1404,Cüce Kılıç Kombosu 4,@1101,,
+1405,Cüce Kılıç Kombosu 5,@1101,,
+1406,Cüce Kılıç Kombosu 6,@1101,,
+2101,İnsan Mızrak Kombosu 1,Mızrak ile yapılan basit saldırı.,,
+2102,İnsan Mızrak Kombosu 2,@2101,,
+2103,İnsan Mızrak Kombosu 3,@2101,,
+2104,İnsan Mızrak Kombosu 4,@2101,,
+2105,İnsan Mızrak Kombosu 5,@2101,,
+2106,İnsan Mızrak Kombosu 6,@2101,,
+2201,Elf Mızrak Kombosu 1,@2101,,
+2202,Elf Mızrak Kombosu 2,@2101,,
+2203,Elf Mızrak Kombosu 3,@2101,,
+2204,Elf Mızrak Kombosu 4,@2101,,
+2205,Elf Mızrak Kombosu 5,@2101,,
+2206,Elf Mızrak Kombosu 6,@2101,,
+2301,Kara Elf Mızrak Kombosu 1,@2101,,
+2302,Kara Elf Mızrak Kombosu 2,@2101,,
+2303,Kara Elf Mızrak Kombosu 3,@2101,,
+2304,Kara Elf Mızrak Kombosu 4,@2101,,
+2305,Kara Elf Mızrak Kombosu 5,@2101,,
+2306,Kara Elf Mızrak Kombosu 6,@2101,,
+2401,Cüce Mızrak Kombosu 1,@2101,,
+2402,Cüce Mızrak Kombosu 2,@2101,,
+2403,Cüce Mızrak Kombosu 3,@2101,,
+2404,Cüce Mızrak Kombosu 4,@2101,,
+2405,Cüce Mızrak Kombosu 5,@2101,,
+2406,Cüce Mızrak Kombosu 6,@2101,,
+3101,İnsan Çift Kılıç Kombosu 1,Çift Kılıç ile yapılan basit saldırı.,,
+3102,İnsan Çift Kılıç Kombosu 2,@3101,,
+3103,İnsan Çift Kılıç Kombosu 3,@3101,,
+3104,İnsan Çift Kılıç Kombosu 4,@3101,,
+3105,İnsan Çift Kılıç Kombosu 5,@3101,,
+3106,İnsan Çift Kılıç Kombosu 6,@3101,,
+3107,İnsan Çift Kılıç Kombosu 7,@3101,,
+3108,İnsan Çift Kılıç Kombosu 8,@3101,,
+3201,Elf Çift Kılıç Kombosu 1,@3101,,
+3202,Elf Çift Kılıç Kombosu 2,@3101,,
+3203,Elf Çift Kılıç Kombosu 3,@3101,,
+3204,Elf Çift Kılıç Kombosu 4,@3101,,
+3205,Elf Çift Kılıç Kombosu 5,@3101,,
+3206,Elf Çift Kılıç Kombosu 6,@3101,,
+3207,Elf Çift Kılıç Kombosu 7,@3101,,
+3208,Elf Çift Kılıç Kombosu 8,@3101,,
+3301,Kara Elf Çift Kılıç Kombosu 1,@3101,,
+3302,Kara Elf Çift Kılıç Kombosu 2,@3101,,
+3303,Kara Elf Çift Kılıç Kombosu 3,@3101,,
+3304,Kara Elf Çift Kılıç Kombosu 4,@3101,,
+3305,Kara Elf Çift Kılıç Kombosu 5,@3101,,
+3306,Kara Elf Çift Kılıç Kombosu 6,@3101,,
+3307,Kara Elf Çift Kılıç Kombosu 7,@3101,,
+3308,Kara Elf Çift Kılıç Kombosu 8,@3101,,
+3401,Cüce Çift Kılıç Kombosu 1,@3101,,
+3402,Cüce Çift Kılıç Kombosu 2,@3101,,
+3403,Cüce Çift Kılıç Kombosu 3,@3101,,
+3404,Cüce Çift Kılıç Kombosu 4,@3101,,
+3405,Cüce Çift Kılıç Kombosu 5,@3101,,
+3406,Cüce Çift Kılıç Kombosu 6,@3101,,
+3407,Cüce Çift Kılıç Kombosu 7,@3101,,
+3408,Cüce Çift Kılıç Kombosu 8,@3101,,
+4101,İnsan Hançer Kombosu 1,Hançer ile yapılan basit saldırı.,,
+4102,İnsan Hançer Kombosu 2,@4101,,
+4103,İnsan Hançer Kombosu 3,@4101,,
+4104,İnsan Hançer Kombosu 4,@4101,,
+4105,İnsan Hançer Kombosu 5,@4101,,
+4106,İnsan Hançer Kombosu 6,@4101,,
+4201,Elf Hançer Kombosu 1,@4101,,
+4202,Elf Hançer Kombosu 2,@4101,,
+4203,Elf Hançer Kombosu 3,@4101,,
+4204,Elf Hançer Kombosu 4,@4101,,
+4205,Elf Hançer Kombosu 5,@4101,,
+4206,Elf Hançer Kombosu 6,@4101,,
+4301,Kara Elf Hançer Kombosu 1,@4101,,
+4302,Kara Elf Hançer Kombosu 2,@4101,,
+4303,Kara Elf Hançer Kombosu 3,@4101,,
+4304,Kara Elf Hançer Kombosu 4,@4101,,
+4305,Kara Elf Hançer Kombosu 5,@4101,,
+4306,Kara Elf Hançer Kombosu 6,@4101,,
+4401,Cüce Hançer Kombosu 1,@4101,,
+4402,Cüce Hançer Kombosu 2,@4101,,
+4403,Cüce Hançer Kombosu 3,@4101,,
+4404,Cüce Hançer Kombosu 4,@4101,,
+4405,Cüce Hançer Kombosu 5,@4101,,
+4406,Cüce Hançer Kombosu 6,@4101,,
+5101,İnsan Yay Kombosu 1,Yay ile yapılan basit saldırı.,,
+5102,İnsan Yay Kombosu 2,@5101,,
+5103,İnsan Yay Kombosu 3,@5101,,
+5104,İnsan Yay Kombosu 4,@5101,,
+5201,Elf Yay Kombosu 1,@5101,,
+5202,Elf Yay Kombosu 2,@5101,,
+5203,Elf Yay Kombosu 3,@5101,,
+5204,Elf Yay Kombosu 4,@5101,,
+5301,Kara Elf Yay Kombosu 1,@5101,,
+5302,Kara Elf Yay Kombosu 2,@5101,,
+5303,Kara Elf Yay Kombosu 3,@5101,,
+5304,Kara Elf Yay Kombosu 4,@5101,,
+5401,Cüce Yay Kombosu 1,@5101,,
+5402,Cüce Yay Kombosu 2,@5101,,
+5403,Cüce Yay Kombosu 3,@5101,,
+5404,Cüce Yay Kombosu 4,@5101,,
+6101,İnsan Asa Kombosu 1,Asa ile yapılan basit saldırı.,,
+6102,İnsan Asa Kombosu 2,@6101,,
+6103,İnsan Asa Kombosu 3,@6101,,
+6104,İnsan Asa Kombosu 4,@6101,,
+6201,Elf Asa Kombosu 1,@6101,,
+6202,Elf Asa Kombosu 2,@6101,,
+6203,Elf Asa Kombosu 3,@6101,,
+6204,Elf Asa Kombosu 4,@6101,,
+6301,Kara Elf Asa Kombosu 1,@6101,,
+6302,Kara Elf Asa Kombosu 2,@6101,,
+6303,Kara Elf Asa Kombosu 3,@6101,,
+6304,Kara Elf Asa Kombosu 4,@6101,,
+6401,Cüce Asa Kombosu 1,@6101,,
+6402,Cüce Asa Kombosu 2,@6101,,
+6403,Cüce Asa Kombosu 3,@6101,,
+6404,Cüce Asa Kombosu 4,@6101,,
+11111,Enerji Patlaması,"<SkillTitle>[Tüm Silahlar]</>
+Baktığı yönde enerjiyi toplar ve düşmanlara hasar vermek için patlatır.",Hasar: Saldırının %{[Use34Param]1%} kadarı +{1},
+11112,Güçlü Saldırı,"<SkillTitle>[Yalnızca Kılıç-Kalkan, Mızrak, Çift Kılıç]</>
+Silahını geniş bir alana savurarak düşmanlara hasar verir ve onları yere yıkar.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefleri 2 saniye yere yıkar.",
+11113,Hücum Darbesi,"<SkillTitle>[Yalnızca Kılıç-Kalkan, Mızrak, Çift Kılıç]</>
+Düşmanlara hasar verip, onları yere yıkmak için üzerlerine atılır.",@11112,
+11121,@11111,@11111,@11111,
+11122,Ölümcül Vuruş,"<SkillTitle>[Yalnızca Hançer]</>
+Gücünü toplayıp saldırarak düşmanları yere yıkar.",@11112,
+11123,Güçlü Saplama,"<SkillTitle>[Yalnızca Hançer]</>
+Düşmanların arasından geçerek saldırır, düşmanlar kısa süreliğine sersemler.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefleri 2 saniye sersemletir.",
+11124,Güçlü Atış,"<SkillTitle>[Yalnızca Yay]</>
+Düşmana hasar veren ve geriye savuran bir ok atar.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Hedefleri 2 saniye yere yıkar.",
+11125,İkili Atış,"<SkillTitle>[Yalnızca Yay]</>
+Öndeki düşmanlara büyük hasar veren iki ok atar.",Hasar: Her 2 atış saldırının %{[Use34Param]1-1%} kadarı +{1-1},
+11131,Enerji Oku,"<SkillTitle>[Tüm Silahlar]</>
+Uzaktaki düşmanlara saldırmak için düşmanın içinden geçen bir enerji topu atar.",Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1},
+11132,Alev Saldırısı,"<SkillTitle>[Yalnızca Asa]</>
+Bir ateş topu atarak, patlamayla düşmanlara hasar verir ve onları geriye savurur.",@11124,
+11133,Rüzgar Saldırısı,"<SkillTitle>[Yalnızca Asa]</>
+Bir çizgi doğrultusunda düşmanların içinden geçen güçlü bir rüzgar çağırır.",@11131,
+12111,@11111,@11111,@11111,
+12112,@11112,@11112,@11112,
+12113,@11113,@11113,@11112,
+12121,@11111,@11111,@11111,
+12122,@11122,@11122,@11112,
+12123,@11123,@11123,@11123,
+12124,@11124,@11124,@11124,
+12125,@11125,@11125,@11125,
+12131,@11131,@11131,@11131,
+12132,@11132,@11132,@11124,
+12133,@11133,@11133,@11131,
+13111,@11111,@11111,@11111,
+13112,@11112,@11112,@11112,
+13113,@11113,@11113,@11112,
+13121,@11111,@11111,@11111,
+13122,@11122,@11122,@11112,
+13123,@11123,@11123,@11123,
+13124,@11124,@11124,@11124,
+13125,@11125,@11125,@11125,
+13131,@11131,@11131,@11131,
+13132,@11132,@11132,@11124,
+13133,@11133,@11133,@11131,
+14111,@11111,@11111,@11111,
+14112,@11112,@11112,@11112,
+14113,@11113,@11113,@11112,
+14121,@11111,@11111,@11111,
+14122,@11122,@11122,@11112,
+14123,@11123,@11123,@11123,
+14124,@11124,@11124,@11124,
+14125,@11125,@11125,@11125,
+14131,@11131,@11131,@11131,
+14132,@11132,@11132,@11124,
+14133,@11133,@11133,@11131,
+11211,Yere Vurma,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Silahını geniş bir alana savurarak düşmanlara hasar verir, onları yere yıkar ve kışkırtır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefi 2 saniye yere yıkar.
+Aggro +%50",
+11212,İntikam,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Saldırganlara bağırarak kendisine saldırmaları için kışkırtır. Etkilenen düşmanlar geçici bir süre için kontrol edilemez ve yetenek kullanamaz.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}. Düşmanın Sldr.'si 8 saniye {4-1} azalır.
+Canavarın Kışkırtması: Tüm saldırıları 8 saniyeliğine üstüne çeker.
+Oyuncunun Kışkırtması: Hedeflerin yetenek kullanamaz ve 4 saniye saldırılarını üstüne çekersin.",
+11213,Haşmetli,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Bir süreliğine Svn.’yi artırır ve alınan hasarın bir kısmını geri yansıtır.","Svn. +%{1-2%}
+%{1-1%} alınan hasar yansıtılır
+Süre: 15 sn.",
+11221,Hüküm,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Silahını geniş bir alana savurarak düşmanlara hasar verir ve onları yere yıkar.",@11112,
+11222,Yıldırım Fırtınası,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Büyük bir kuvvetle yere vurur ve yakındaki düşmanları sersemletir.",@11123,
+11223,Geniş Savuruş,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Saldırı hızını ve tek seferde vurulan düşman sayısını artırır.","Çoklu hedef +{1-1}, Sldr. Hızı +%{1-2%}
+Süre: 15 sn.",
+11231,Kum Bulutu,"<SkillTitle>[Yalnızca Hançer]</>
+Toprak fırlatıp düşmanlara hasar verir. Etkilenen düşmanlar görmekte zorluk çeker ve isabet ihtimalleri büyük oranda düşer.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}.
+Düşmanların İsabet Oranı’nı 10 saniyeliğine %{2%}azaltır.",
+11232,Geri Adım,"<SkillTitle>[Yalnızca Hançer]</>
+Bir düşmanın arkasına ışınlanır ve yakındaki düşmanları sersemletir.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefleri 3 saniye sersemletir.",
+11233,Hızlandır,"<SkillTitle>[Yalnızca Hançer]</>
+Saldırı hızını ve kaçınma oranını büyük oranda artırır.","Sldr. Hızı +%{1-1%}
+Kaçınma +%{2-1%}
+Süre: 15 sn.",
+11241,Çoklu Atış,"<SkillTitle>[Yalnızca Yay]</>
+Koni şeklinde bir alana delip geçen oklar atar ve düşmanları yere yıkar.",@11112,
+11242,Ok Yağmuru,"<SkillTitle>[Yalnızca Yay]</>
+Yuvarlak bir alana ok yağdırarak düşmanlara sürekli hasar verir.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+ve her 4 ek saldırı için saldırının %{[Use34Param]1-2%} kadarı +{1-2}.",
+11243,Sırtlan,"<SkillTitle>[Yalnızca Yay]</>
+Dikkatle ilerleyerek Sldr. ve İsabet Oranı’nı artırarak, uzaktaki düşmanlara saldırır.","Menzil: 4m, Saldırının %{1-2%} kadarı, İsabet +{1-3}
+Süre boyunca hareket yavaşlar, süre: 15 sn.",
+11244,Keskingöz,"<SkillTitle>[Yalnızca Yay]</>
+Keskingöz aktif hale geldiğinde Krit. Oranı ile düşmana verilen hasar artar.","Krit. Oranı +{1-1} ve Saldırı Hasarı +%{1-2%}
+Süre: 20 sn.",
+11251,Volkan,"<SkillTitle>[Yalnızca Asa]</>
+Alan içerisindeki düşmanlara hasar veren bir ateş sütunu oluşturur.",Hasar: Her 5 saldırı için saldırının %{[Use34Param]1%} kadarı +{1}.,
+11252,Lav Topu,"<SkillTitle>[Yalnızca Asa]</>
+Düşmanların içerisinden geçerek ilerleyen ve sonunda patlayan bir alev küresi fırlatır.","Hasar: Saldırının %{[Use34Param]1-3%} kadarı +{1-3}
+Patlama Hasarı: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Hedefleri 2 saniye yere yıkar.",
+11253,Manayı Artır,"<SkillTitle>[Yalnızca Asa]</>
+Yeteneklerin Sldr.'sini ve mana bedellerini artırır.","Mana Kullan +%{1-1%}
+Yetenek Sldr. +%{1-2%}
+Süre: 90 sn.",
+11261,Ulvi Ceza,"<SkillTitle>[Yalnızca Asa]</>
+Alan içerisindeki düşmanlara hasar veren ve yere yıkan bir patlama yaraatır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefleri 2.5 saniye yere yıkar.",
+11262,Büyük İyileştirme,"<SkillTitle>[Yalnızca Asa]</>
+Senin ve grup üyelerinin Can ve Mana'sını kutsal güçlerle yeniler.","Can Yenileme Oranı: Saldırının %{[Use34Param]1%} kadarı +{1}
+Mana Yenileme Oranı: Saldırının %{[Use34Param]2%} kadarı +{2}",
+12211,Mahkeme,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Geniş bir savurma ile düşmanlara hasar verir ve onları kışkırtır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}.
+Aggro +%30
+Düşmanları 2 saniye yere yıkar.",
+12212,Eva’nın Lütfu,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+İçindekilere hasar veren ve Can yenilemelerini azaltan kutsal bir alan oluşturur.","Hasar: Her 6 saldırı için saldırının %{[Use34Param]1%} kadarı +{1}.
+Yakındaki düşmanların yenilenmesini %50 azaltır.",
+12213,Aegis Duruşu,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Bir süreliğine hasar işlemez olur ve Hız kazanır.","5 saniyeliğine Hasardan Korunma sağlar.
+15 saniyeliğine +%{2-1%} Hız.",
+12221,Sonik Ateşliyici,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Kılıcını fırlatarak uzaktaki düşmanlara hasar verir ve hızlarını düşürür.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+5 saniye boyunca düşmanların Hızını %{PhyBuff:12221-1%} düşürür.",
+12222,Sonik Fırtına,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Kılıcını fırlatarak düşmanları yere yıkar ve sonunda patlayan kılıç hasar verir.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Hedefleri 2.5 saniye yere yıkar.",
+12223,Savaş Ritmi,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Senin ve grup üyelerinin Sldr. ve Svn.'sini artırır.","Sldr +{1-1}
+Svn. +{1-3}
+Süre: 90 sn.",
+12224,Avcının Şarkısı,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Senin ve grup üyelerinin Krit. Oranı’nı ve Krit Hasarı'nı artırır.","Krit. Oranı +%{1-1%}
+Kritik Hasar +%{1-2%}
+Süre: 30 sn.",
+12231,Üçe Bölen,"<SkillTitle>[Yalnızca Hançer]</>
+İleriye doğru hızlı 3 saldırı yaparak büyük hasar verir ve etkilenen düşmanların Svn., Sldr. Hızı ve Hızını düşürür.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}.
+5 saniye boyunca düşmanların Savunmasını %{2-1%} düşürür.
+5 saniye boyunca düşmanların Sldr. Hızını %{2-3%} ve Hızını %{2-4%} düşürür.",
+12232,Kılıç Kasırgası,"<SkillTitle>[Yalnızca Hançer]</>
+İleriye doğru seri saldırılar yaparak menzilindeki düşmanlara art arda hasar verir.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Düşmanları 3 saniye sersemletir.",
+12233,Boyutgezen,"<SkillTitle>[Yalnızca Hançer]</>
+Sldr. Hızı ve Hızı büyük oranda artırır. Ayrıca süre boyunca Can Çalma oranını artırır.","Sldr. Hızını %{1-1%} ve Hızı %{1-2%} artırır.
+Can Çalma oranını %{1-3%} artırır.
+Süre: 20 sn.",
+12241,Ölümcül Atış,"<SkillTitle>[Yalnızca Yay]</>
+Gönderdiği sivri okla düşmanlara hasar vermenin yanı sıra onları sersemletir.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Hedefleri 2 saniye sersemletir.",
+12242,Çift Geniş Atış,"<SkillTitle>[Yalnızca Yay]</>
+İçinden geçtiği düşmanlara hasar veren iki enerji oku şeklinde ok atar. Vurduğu düşmanların Svn.'sini düşürür.","Hasar: Her 2 atış saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+10 saniye boyunca düşmanın Svn.'sini %{PhyBuff:12242-1%} düşürür.",
+12243,Akıl Gözü,"<SkillTitle>[Yalnızca Yay]</>
+Krit. Oranı’nı büyük miktarda artırır.","Krit. Oranı +{1-1}
+Süre: 30 sn.",
+12244,Çift Hızlı Adım,"<SkillTitle>[Yalnızca Yay]</>
+Sldr. Hızı ve Hızı artırır.","Hız +%{1-1%}, Sldr. Hızı +%{1-2%}
+Süre: 30 sn.",
+12251,Buz Mızrağı,"<SkillTitle>[Yalnızca Asa]</>
+Önündeki düşmanlara buzdan bir mızrak atarak büyük hasar verir ve onları yavaşlatır.","Hasar: Saldırının %{[Use34Param]1-2%} kadarı +{1-2}
+Hedeflerin hızını 5 saniyeliğine %{PhyBuff:12251-1%} düşürür.",
+12252,Kar Fırtınası,"<SkillTitle>[Yalnızca Asa]</>
+Etrafında alana hasar veren bir kar fırtınası oluşturur. Etkilenen düşmanlar yavaşlar ve sersemler.","Hasar: Her 5 saldırı için saldırının %{[Use34Param]1%} kadarı +{1}.
+5 saniye boyunca düşmanların Hızı %{2-1%} düşer.
+Düşmanları 2 saniye sersemletir.",
+12261,Kutsal Ateş,"<SkillTitle>[Yalnızca Asa]</>
+Düşmanlara hasar veren bir ateş sütunu. Etkilenen düşmanlar fazladan hasar alır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+artı her 2 ek saldırı için saldırının {[Use34Param]2-1%} kadarı +{2-1}.
+Hedeflerin aldığı hasarı 7 saniye boyunca %{3-1%} artırır.",
+12262,Restorasyon,"<SkillTitle>[Yalnızca Asa]</>
+Üzerine seni ve etrafındakileri sürekli iyileştiren bir etki bırakır.",Yenilenme Oranı: 6 saniye boyunca saldırının %{[Use34Param]1-1%} kadarı +{1-1}.,
+12263,Zihin Yenilenmesi,"<SkillTitle>[Yalnızca Asa]</>
+Senin ve grup üyelerinin bekleme sürelerini düşürür ve zayıflatmaları kaldırır.","Yetenek Bekleme Süresi - {1-1#} sn.
+Süre: 20 sn.
+Zayıflatma Kaldırır",
+12264,Savunma Takibi,"<SkillTitle>[Yalnızca Asa]</>
+Senin ve grup üyelerinin Svn.’sini artırır.","Svn. +%{1-1%}
+Süre: 40 sn.",
+13211,Can Emme,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Düşmanlara saldırıp can çalmak için silahını genişçe savurur. Etkilenen düşmanların Svn.’si düşer.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}.
+Hasarın %30’unu Can olarak emer.
+Düşmanların Savunması %{2-1%} düşürür.",
+13212,Zincir Yılanı,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Düşmanları yanına çekerek hasar verir, sersemletir ve saldırmak zorunda bırakır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Kışkırtma: 8 saniye saldırılar sana odaklı olur.
+Hedefini 2.5 saniyeliğine sersemletir.",
+13213,Mutlak Savunma,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Bir süreliğine savunmayı artırır ve saldıranların Hızı’nı düşürür.","Svn.: %{1-1%} + {1-3}.
+Hedeflerin hızını 5 saniyeliğine %50 düşürür.
+Süre: 15 sn.",
+13221,Dönen Biçici,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Silahını geniş bir alana savurarak düşmanlara hasar verir ve onları yere yıkar.",@11124,
+13222,Kasırga Fırtınası,"<SkillTitle>[Sadece Mızrak, Çift Kılıç]</>
+Etrafındaki düşmanlara saldırmak için döner.
+Hasarlı hedef yavaşlatılır.
+Bu yeteneği kullanırken daha hızlı hareket edebilirsin.","Hasar: Saldırının %{[Use34Param]1%} kadarı + her 7 saldırı için {1}
+Hedefin Hızı 3 saniye boyunca -%{2-1%}.
+7 saniyeliğine +%{3-1%} Hız.",
+13223,Savaşçı Dansı,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Senin ve grup üyelerinin F. Sldr.’sini artırır.","F. Sldr +{1-1}
+Süre: 40 sn.",
+13224,Öfke Dansı,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Senin ve grup üyelerinin Sldr. Hızı’ını artırır.","Sldr. Hızı +%{1-1%}
+Süre: 40 sn.",
+13231,İğne,"<SkillTitle>[Yalnızca Hançer]</>
+Öndeki düşmanlara saldırıp hasar verir ve kanamaya sebep olur. Hasarın bir kısmı Savunma değerini yok sayar.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Svn. Yok Say: {2}
+3 saniye boyunca düşmanlara ek hasar.",
+13232,Jilet Yağmuru,"<SkillTitle>[Yalnızca Hançer]</>
+Yakındaki düşmanlara hasar verir, kısa süreliğine sersemletir ve kanamaya sebep olur.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedeflere 3 saniye boyunca ek hasar, hedefleri 2 saniye sersemletir.",
+13233,Acımasız Duruş,"<SkillTitle>[Yalnızca Hançer]</>
+Kritik Hasarı büyük miktarda artırır. Krit. Oranı’nı da kısa süreliğine maksimuma çıkarır.","Kritik Hasar +%{1-1%}, süre: 20 sec.
+Ek etki: 4 saniye Maks Krit. Oranı.",
+13241,Ölümcül İğne,"<SkillTitle>[Yalnızca Yay]</>
+Düşmanları delen ve büyük hasar veren acımasız bir ok atar.",@11131,
+13242,Sersemletme Atışı,"<SkillTitle>[Yalnızca Yay]</>
+Hasar verir ve kısa süreliğine sersemletir.",@11232,
+13243,Seri Atış,"<SkillTitle>[Yalnızca Yay]</>
+Saldırı Menzili azalırken Sldr. Hızı’nın arttığı bir duruş.","Sldr. Hızı +%{1-1%}, Saldırı Menzili - {1-2%}m
+Süre: 15 sn.",
+13244,Ölümcül Karşılık,"<SkillTitle>[Yalnızca Yay]</>
+Bu duruştayken kaçmaktan çok saldırıya odaklanır, saldırı büyük oranda artar.","Sldr. +{1-1}, Kaçınma - %{1-2%}
+Süre: 15 sn.",
+13251,Kara Nefes,"<SkillTitle>[Yalnızca Asa]</>
+Kara ateşi kullanarak hasar verir. Kullanırken yönünü değiştirebilirsin.",Hasar: Her 7 saldırı için saldırının %{[Use34Param]1%} kadarı +{1}.,
+13252,Bozulma,"<SkillTitle>[Yalnızca Asa]</>
+Yerdeki bir alanı bozarak düşmanlara hasar verir ve Svn. ile hızlarını düşürür.","Hasar: Her 5 saldırı için saldırının %{[Use34Param]1%} kadarı +{1}
+Kısa süreliğine hedeflerin Svn. ve Hızı düşer.",
+13253,Ölümcül Bilgi,"<SkillTitle>[Yalnızca Asa]</>
+Kısa süreliğine B. Sldr.’sini limite çıkarır.","B. Sldr +{1-1}
+Süre: 15 sn.",
+13261,Vampirik Dokunuş,"<SkillTitle>[Yalnızca Asa]</>
+Can çalarak grubunu iyileştiren saldırı. Canı az olan üyeler daha fazla iyileşme alır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Yenilenme Oranı: Verilen hasarın %20 - %60 kadarı, hedefin o anki Can miktarına göre",
+13262,Kanlı Öfke,"<SkillTitle>[Yalnızca Asa]</>
+Etrafındakilere büyük hasar veren ve onları yavaşlatan bir kara element patlaması yaratır. Vurduğu düşmanların güçlendirmelerini kaldırır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedeflerin Hız’ını 4 saniyeliğine %{2%} azaltır.
+Hedeflerden zayıflatmaları kaldırır",
+13263,Güçleniş,"<SkillTitle>[Yalnızca Asa]</>
+Can değerinin belirli bir miktarın altına düşmesini engeller ve az miktarda Can yeniler.","Can değerinin {1-1} altına inmesini engeller
+Süre: 5 sn.
+Can’ı {2} iyileştirir.",
+13264,Güçleniş (İyileştirme),@13263,"B. Sldr +{1-1}
+Süre: 20 sn.",
+14211,Saplama,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Hasar verirken düşmanların hasarını düşüren ve onları kışkırtan bir savuruş.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}
+Hedeflerin Svn. %{2-1%} azalır, Kışkırtma: 8 saniye saldırılar sana odaklı olur.",
+14212,Deprem,"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Yere vurarak alana hasar verir ve düşmanları yere düşürür. Etkilenenlerin saldırısı düşer.","Hasar: Saldırının %{[Use34Param]1-1%} kadarı +{1-1}.
+8,5 saniye boyunca hedefin Sldr.'sini %20 düşürür.
+Hedefini 2.5 saniyeliğine sersemletir.",
+14221,Güçlü Eziş,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Önündeki düşmanlara büyük hasar veren bir saldırı gerçekleştirir.",@11131,
+14222,Zıplama Saldırısı,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Bir hedefe zıplayarak yakınındaki düşmanları yere yıkar, kısa süreliğine hareket edemezler.",@12222,
+14223,Sinirli Cüce,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Savunma değerine güvenerek, savunmadan çok saldırıya odaklanır.","Sldr. +{1-1}, Svn. - %{1-2%}
+Süre: 15 sn.",
+14231,Kılıç Hücumu,"<SkillTitle>[Yalnızca Hançer]</>
+İleriye atılıp düşmanların savunmalarını delerek onları Kritik vuruşlara açık eder.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedeflerin Kritik Direnci’ni 10 saniye boyunca %{2-1%} düşürür.",
+14232,Sonik Yıldız,"<SkillTitle>[Yalnızca Hançer]</>
+Düşmanların arasında hızla hareket eder. Etkilenen düşmanların hızları düşer ve yetenek kullanamazlar.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+10 saniye boyunca düşmanların Hızı %{2-1%} düşer.
+Düşmanları 5 saniye boyunca susturur.",
+14233,Adena Arayışı,"<SkillTitle>[Yalnızca Hançer]</>
+Savaşırken daha fazla Adena bulursun. Hızın artar ve etkilenen düşmanlar zehirlenip yavaşlar.","Toplanan Adena +{1-1%} ve Hız +{1-2%}.
+Yetenek etkinken düşmanı zehirler ve yavaşlatır.
+Süre: 60 sn.",
+14241,Üçlü Atış,"<SkillTitle>[Yalnızca Yay]</>
+Patlayan ateşli bir ok atarak düşmanlara hasar verir ve onları savurur.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedeflere 4 saniye boyunca {3-1} ek hasar.
+Hedefleri 2.5 saniye yere yıkar.",
+14242,Kaçınma Atışı,"<SkillTitle>[Yalnızca Yay]</>
+Geriye 3 adım atar ve patlayan 3 ok atarak düşmanları hasar vererek yavaşlatır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+4 saniye boyunca hedeflerin Hızını %{2-1%} düşürür.
+5 saniye boyunca saldırıların menzili {PhyBuff:142422-1%}m artar.",
+14251,Toprak Dikeni,"<SkillTitle>[Yalnızca Asa]</>
+Alandaki düşmanlara hasar verip geriye savuran taş bir sütun çıkartır.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+Hedefleri 3 saniye yere yıkar.",
+14252,Üçlü Parça,"<SkillTitle>[Yalnızca Asa]</>
+3 yöne düşmanı delip geçen toprak elementi parçası fırlatarak hasar verir.",@11131,
+14253,İçsel Dövüş,"<SkillTitle>[Yalnızca Asa]</>
+Eski hatıraları canlandırarak grubun normal saldırı Sldr.’sini artırır.","Normal saldırı Sldr. +%{1-1%}
+Süre: 30 sn.",
+14261,Ulvi Koruma,"<SkillTitle>[Yalnızca Asa]</>
+Seni ve grubunu biraz iyileştirir ve Svn. değerlerini artırır.","Yenilenme Oranı: Saldırının %{[Use34Param]1%} kadarı +{1}
+Grup üyelerinin Svn. 10 saniye boyunca {2-1} artar.",
+14262,Ulvi Alkış,"<SkillTitle>[Yalnızca Asa]</>
+Yere vurarak alandaki düşmanlara hasar verir ve onları sersemletir.","Hasar: Saldırının %{[Use34Param]1%} kadarı +{1}
+artı her 4 ek saldırı için saldırının {[Use34Param]1-3%} kadarı +{1-3}, hedefleri 2.5 saniye sersemletir.",
+14263,Büyük Zindelik,"<SkillTitle>[Yalnızca Asa]</>
+Senin ve grup üyelerinin maksimum Can miktarını artırır.","Maks Can +{1-1}
+Süre: 180 sn.",
+21001,İnsan Potansiyeli,İnsanların güçlü iradesi saldırılarını güçlendiriyor.,F. Sldr. ve Kritik Direnç bonusları,
+21111,Savaşçı Silah Ustalığı,"<SkillTitle>[Pasif]</>
+Kılıç Kalkan, mızrak ve çift kılıç kullandığında Sldr. artar.",Sldr. +{1},
+21112,Ağır Zırh Ustalığı,"<SkillTitle>[Pasif]</>
+Ağır Zırh kullanırken aldığın hasar azalır. Bu etki 4 defaya kadar birikir.","Hasar - %{1%}
+Her parçayla artar: Başlık, Zırh, Eldivenler, Çizme.",
+21121,Casus Silah Ustalığı,"<SkillTitle>[Pasif]</>
+Hançer veya yay kullanırken Sldr. artar.",@21111,
+21122,Hafif Zırh Ustalığı,"<SkillTitle>[Pasif]</>
+Hafif Zırh kullanırken aldığın hasar azalır. Bu etki 4 defaya kadar birikir.","Kaçınma Oranı +%{1%}
+Her parçayla artar: Başlık, Zırh, Eldivenler, Çizme.",
+21131,Büyücü Silah Ustalığı,"<SkillTitle>[Pasif]</>
+Asa kullanırken Sldr. artar.",@21111,
+21132,Cübbe Ustalığı,"<SkillTitle>[Pasif]</>
+Cübbe Zırh kullanırken aldığın hasar azalır. Bu etki 4 defaya kadar birikir.","Hasar +%{1%}
+Her parçayla artar: Başlık, Zırh, Eldivenler, Çizme.",
+22001,Elf Potansiyeli,Çevik hareketler düşmanlardan kaçınmalarını kolaylaştırır.,"Kaçınma, Hız ve B. Sldr. bonusları.",
+22111,@21111,@21111,@21111,
+22112,@21112,@21112,@21112,
+22121,@21121,@21121,@21111,
+22122,@21122,@21122,@21122,
+22131,@21131,@21131,@21111,
+22132,@21132,@21132,@21132,
+23001,Kara Elf Potansiyeli,Yüksek savaş duyuları sayesinde düşmanlara saldırırken Krit. Oranları daha yüksek olur.,İsabet ve Krit. Oran bonusları,
+23111,@21111,@21111,@21111,
+23112,@21112,@21112,@21112,
+23121,@21121,@21121,@21111,
+23122,@21122,@21122,@21122,
+23131,@21131,@21131,@21111,
+23132,@21132,@21132,@21132,
+24001,Cüce Potansiyeli,Yaratılışlarından ötürü Can değerleri yüksektir.,F. Svn. ve Maks Can bonusları,
+24111,@21111,@21111,@21111,
+24112,@21112,@21112,@21112,
+24121,@21121,@21121,@21111,
+24122,@21122,@21122,@21122,
+24131,@21131,@21131,@21111,
+24132,@21132,@21132,@21132,
+20211,Savunma Aurası,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin Svn.’sini artırır. Bu etki bölge çapında etkilidir.",Svn. +{1-1},
+20212,Haklı Öfke,"<SkillTitle>[Pasif]</>
+Canavarlara verilen hasarı artırır, canavarlardan alınan hasarı azaltır. Saldırıların taarruz seviyesini artırır.","Sldr. hasarını %{2%} artırır ve canavarlardan alınan hasarı %{3%} düşürür.
+Aggro Artışı +%{1%}.",
+20221,Saldırı Aurası,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin Sldr.’sini artırır. Bu etki bölge çapında etkilidir.",Grup üyeleri Sldr. +{1-1},
+20231,Hızlı Adım,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin Hızı’nı artırır. Bu etki bölge çapında etkilidir.",Grup üyeleri Hız +%{1-1%},
+20241,Kılavuz,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin İsabet’ini artırır. Bu etki bölge çapında etkilidir.",Grup üyeleri İsabet +{1-1},
+20251,Ölüm Fısıltısı,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin Kritik Hasar’ını artırır. Bu etki bölge çapında etkilidir.",Grup üyeleri Kritik Hasar +%{1-1%},
+20261,Can Artır,"<SkillTitle>[Pasif]</>
+Senin ve grup üyelerinin Maks Can’ını artırır. Bu etki bölge çapında etkilidir.",Parti üyeleri Maks Can +{1-1},
+21211,Savuşturma Ustalığı,"<SkillTitle>[Pasif]</>
+Saldırı alındığında hasarı düşürme ihtimali var.","Kalkan Savunması: %{1%}
+Kalkanla korunurken alınan hasar -%{2%}
+Svn. +{3}",
+21221,İntikam,"<SkillTitle>[Pasif]</>
+Saldırın Kritik olduğunda Sldr. artıran bir güçlendirme verme ihtimali var.","Sldr +{1-1}
+Etkinleşme Oranı: %10, süre: 6 sn.",
+21222,Savaş Ustalığı,"<SkillTitle>[Pasif]</>
+Mızrak veya Çift kılıç kullanırken Sldr. daha da artar.",Sldr. +%{1%},
+21231,Sinsilik,"<SkillTitle>[Pasif]</>
+Kaçındığında yeteneklerinin bekleme süresini düşürme ihtimali sağlar ve 3 saniyeliğine Sldr. artırır.","Yetenek Bekleme Süresi {1-1#} sn. azalır.
+Hedeflerin Sldr. değerini 3 saniyeliğine {2-1} artırır.
+Etkinleşme Oranı: %10. Süre: 6 sn.",
+21232,Gelişmiş Kritik Saldırı,"<SkillTitle>[Pasif]</>
+Krit. Oranı ve Kritik Hasarı artırır.","Krit. Oranı’nı %{1%} artırır.
+Kritik Hasarını %{2%} artırır.",
+21241,Güçlendirilmiş Yavaşlatma,"<SkillTitle>[Pasif]</>
+Saldırı kritik olduğunda düşmanı yavaşlatır.","Düşman Hızı - %{1-1%}
+Düşman Kanama Hsr.: %{[Use34Param]2-1%}
+Etkinleşme Oranı: %10. Süre: 3 sn.",
+21251,Alev,@21221,@21221,
+21261,Ulvi Bağ,"<SkillTitle>[Pasif]</>
+Bir gruptayken Svn. artırır. Grup üyesi sayısı arttıkça etkisi güçlenir.",Grup üyesi başına Svn. +%{1-1%},
+21262,Mana Kalkanı,"<SkillTitle>[Pasif]</>
+Saldırıya uğradığında hasarın bir kısmı manandan düşer.",%{1-1%} Hasar Manadan düşer,
+22211,Bilgin Kaçınması,"<SkillTitle>[Pasif]</>
+Saldırın Kritik olduğunda Kaçınma Oranı’nı artıran bir güçlendirme verme ihtimali var.","Kaçınma Oranı +%{1-1%}
+Etkinleşme Oranı: %15, süre: 5 sn.",
+22212,@21211,@21211,@21211,
+22221,Moral,"<SkillTitle>[Pasif]</>
+Krit. Oranı’nı sürekli artırır.",Krit. Oranı +%{1-1%},
+22222,@21222,@21222,@21222,
+22231,Büyüyen Öfke,"<SkillTitle>[Pasif]</>
+Saldırırken, vurduğun sayıya oranla Sldr. Hızı ve Hızı artırır.","Saldırı başına Sldr. Hızı'nı %{1-1%} artırır.
+Her saldırı hareket Hızını %{1-2%} artırır.
+Süre: 5 sn.",
+22232,Kritik Şans,"<SkillTitle>[Pasif]</>
+Krit. Oranı’nı artırır.",Krit. Oranı +{1-1},
+22241,Çevik,"<SkillTitle>[Pasif]</>
+Temel saldırıların hasarını artırır.",Temel Saldırı Hasarı +%{1%},
+22251,Donuk Mühür,"<SkillTitle>[Pasif]</>
+Hareket engelleyici etki altında olan düşmanlara saldırırken hasar artar.",Hareket engelleyici etki altında olan düşmanlara saldırırken Sldr. +%{1%}.,
+22252,Saldırgan Hafif İyileştirme,"<SkillTitle>[Pasif]</>
+Saldırırken Can yenileme ihtimali var.","Yenilenme Oranı: {1}
+Etkinleşme Oranı: %10",
+22261,@22211,"<SkillTitle>[Pasif]</>
+Kaçınma Oranı’nı sürekli artırır.",Kaçınma Oranı +%{1-1%},
+23211,Güçlendirilmiş Çekim,"<SkillTitle>[Pasif]</>
+Saldırı alındığında Can emen bir güçlendirme verme ihtimali var.","Can Çalma: Verilen hasarın %{1-1%} miktarı
+Etkinleşme Oranı: %15, süre: 6 sn.",
+132132,Mutlak Savunma (Yavaşlatma),"<SkillTitle>[Yalnızca Kılıç & Kalkan]</>
+Hareket halindeyken Svn.'yi artırır.","Svn.: %{1-1%} + {1-3}.
+Etki aktifken Hız 5 saniyeliğine %50 düşer.
+Süre: 15 sn.",
+23221,Sıcaklık,"<SkillTitle>[Pasif]</>
+Saldırın Kritik olduğunda Kritik Hasar’ı artıran bir güçlendirme verme ihtimali var.","Kritik Hasar +%{1-1%}
+Etkinleşme Oranı: %10, süre: 6 sn.",
+23222,@21222,@21222,@21222,
+23231,Kan Arayışı,"<SkillTitle>[Pasif]</>
+Can’ı az olan düşmanlara saldırırken Svn. ve Kritik Direnci değerlerini düşürür.","Düşmanın canı %50 veya altındayken.
+Svn. -%{1-1%}.
+Krit. Oran Direnci -%{1-3%}. Süre: 3 sn.",
+23232,Kritik Güç,"<SkillTitle>[Pasif]</>
+Kritik Hasar’ı artırır ve Kanaması olan düşmanlara saldırırken Sldr. artar.","Kritik Hasar +%{1-1%}.
+Kanayan düşmanlara karşı Sldr.'yi %{2%} artırır.",
+23241,Kritik İşaret,"<SkillTitle>[Pasif]</>
+Saldırın Kritik olduğunda İsabet Oranı’nı artıran bir güçlendirme verme ihtimali var.","İsabet Oranı +%{1-1%}
+{2} Mana Yenileme
+Etkinleşme Oranı: %10, süre: 6 sn.",
+23251,@23221,@23221,@23221,
+23252,@22252,"<SkillTitle>[Pasif]</>
+Saldırın kritik olduğunda Can yenileme ihtimali var.",@22252,
+23261,Taarruz,"<SkillTitle>[Pasif]</>
+Can Çalma'sının ufak bir kısmını sürekli olarak grup üyesine verir.",Can Çalma +%{1-1%},
+24211,Savuşturma Uzmanlığı,"<SkillTitle>[Pasif]</>
+Maks Can'ı artırır. Ayrıca saldırıya uğradığında hasarı düşürme ihtimali vardır.","Maks Can +%{3%}. Kalkan Savunması: %{1%}
+Kalkanla korunurken alınan hasar -%{2%}.
+Svn. +{4}.",
+24212,Şanslı Çeviklik,"<SkillTitle>[Pasif]</>
+Bu yetenek sıklıkla iki kez kullanılabilir ve küçük bir miktar Can artışı sağlar.","Yeteneği iki kere kullanmak için parlayan yetenek slotundaki yeteneği kullan.
+Yenilenme: {2}
+Bekleme Süresi: 15 sn.",
+24221,Arzulayan Darbesi,"<SkillTitle>[Pasif]</>
+Saldırdığında Sldr. artıran ve birden fazla düşmanı hedef almanı sağlayan bir güçlendirme verme ihtimali var.","Sldr +{1-1}
+Saldırabildiğin düşman sayısını 1 artırır
+Etkinleşme Oranı: %10. Süre: 6 sn.",
+24222,@21222,@21222,@21222,
+24223,Şanslı Cani,"<SkillTitle>[Pasif]</>
+Saldırın Kritik olduğunda grubunun Sldr. Hızı’nı artıran bir güçlendirme verme ihtimali var.","Sldr. Hızı +%{1-1%}
+Etkinleşme Oranı: %8, süre: 6.5 sn.",
+24231,@22221,@22221,@22221,
+24232,Şanslı Öldürme,"<SkillTitle>[Pasif]</>
+Krit. Oranı’nı artırır ve Hızı düşürülmüş düşmanlara saldırırken ek hasar verir.","Krit. Oranı +{1-1}
+Yavaşlamış düşmanlara karşı Sldr.'yi %{2%} artırır.",
+24233,Adena Arayışı (Zehir),"<SkillTitle>[Yalnızca Hançer]</>
+Savaşırken daha fazla Adena bulursun. Hızını ve zehrin gücünü artırır.","Sldr. Hızını %{1-2%} ve Adena kazancını %{1-1%} artırır.
+Süre: 60 sn.",
+142422,@14242,@14242,"Hasar: Saldırının %{[Use34Param]1%} kadarı + {1}
+Hedeflerin hızını 4 saniyeliğine düşürür
+5 saniyeliğine menzili arttırır.",
+24241,Akrobasi,"<SkillTitle>[Pasif]</>
+Kaçınma Oranı’nı ve Sldr. Hızı'nı sürekli artırır.","Kaçınma Oranı +%{1%}
+Sldr. Hızı +%{2%}",
+24242,Şanslı Hızlı Adım,"<SkillTitle>[Pasif]</>
+Doğrudan bir saldırı isabet ettiğinde sersemletme ve Sldr. düşürme ihtimali vardır.",Doğrudan bir saldırı isabet ettiğinde %10 ihtimalle 0.5 saniyeliğine hedefini sersemletir ve SLDR -%{2-1%},
+24251,@23261,@21221,"Sldr. +%{1-1%}.
+Etkinleşme Oranı: %10. Süre: 6 sn.",
+24252,Şanslı Savunma,"<SkillTitle>[Pasif]</>
+Saldırın kritik olduğunda senin ve grubunun Svn.’sini artırma ihtimali var.","Svn. +{1-1}
+Etkinleşme Oranı: %15, süre: 6 sn.",
+24261,Kuvvetlendirme,"<SkillTitle>[Pasif]</>
+Bir müttefiğin Can Yenileme'sini artırır.",Can Yenileme + %{1-1%},
+24262,Şanslı Saf İyileştirme,"<SkillTitle>[Pasif]</>
+Saldırı alındığında senin ve grubunun Can’ını yenileme ihtimali var.","Yenilenme Oranı: {1}
+Etkinleşme Oranı: %15",
+30001,Mutlak Kalkan,"<SkillTitle>[Tüm Silahlar]</>
+Alınan hasarı azaltan ve kısıtlayıcı direncini artıran koruyucu bir büyü.","Svn. +%{1-1%}
+Kısıtlayıcı Direnci +%{1-3%}.",
+30002,Çevik Adım,"<SkillTitle>[Tüm Silahlar]</>
+Kısa bir süreliğine hızlıca hareket eder.",Hız +%{1%},
+30003,Ölümsüzlük,"<SkillTitle>[Pasif]</>
+Ölümcül bir darbe aldığında 1 Can ile kurtulma ihtimali verir.",Ha?,
+30004,Kan Oku,"<SkillTitle>[Tüm Silahlar]</>
+İleriye kanamaya sebep olan bir kılıç aurası gönderir.",Hasar: F. Sldr %{[Use34Param]1%} kadarı,
+30005,Yıldırım Kalkanı,"<SkillTitle>[Tüm Silahlar]</>
+Düşmanlara şok veren bir alan yaratır.",Hasar: B. Sldr %{[Use34Param]1%} kadarı,
+30006,Güç Oku,"<SkillTitle>[Tüm Silahlar]</>
+Düşmanlara güçlü bir şok dalgası ile saldırarak büyük hasar verir.",Hasar: F. Sldr %{[Use34Param]1-1%} kadarı + B. Sldr %{[Use34Param]1-2%} kadarı.,
+30007,Zehir Yağmuru,"<SkillTitle>[Tüm Silahlar]</>
+Düşmanları zehirleyen bir alan yaratır. Alandaki düşmanların Hızı düşer.",@30005,
+30008,Buz Zırhı,"<SkillTitle>[Tüm Silahlar]</>
+Bir süreliğine Svn.’yi artırır ve saldıran düşmanlar yavaşlar.","Hasar: 1.5x + Sldr. {[Use34Param]1} miktarı.
+Hedeflerin Sldr. değerini 3 saniyeliğine {4-1} azaltır.",
+30009,Kaçınma Şoku,"<SkillTitle>[Tüm Silahlar]</>
+Geriye kaçar ve bir şok dalgası yollar.",@30004,
+30010,Mana Kalkanı,"<SkillTitle>[Tüm Silahlar]</>
+Darbe aldığında Can yerine Mana’nın azalmasını sağlar.",Alınan hasarın %{2%} miktarı kadar Mana harcar.,
+30011,Şifa Saldırısı,"<SkillTitle>[Tüm Silahlar]</>
+Az miktarda Can yeniler.",Yenilenme Oranı: Saldırının %{[Use34Param]1%} kadarı,
+30012,Meteor Yağmuru,"<SkillTitle>[Tüm Silahlar]</>
+Ateş hasarı veren bir göktaşı düşürür.","Hasar: {[Use34Param]1-1%}% of P. Atk. + {[Use34Param]1-2%}% of M. Atk.
+Knocks down enemy.
+Hasar over 3 sec.",
+30013,Süre Azaltma,"<SkillTitle>[Tüm Silahlar]</>
+Bir süreliğine yetenek bekleme süresini azaltır.",Yetenek Bekleme Süresi -{1#} sec,
+30014,Zehir Saldırısı,"<SkillTitle>[Tüm Silahlar]</>
+Düşmanını zehirleyerek verdiği hasarı ve hızını bir süreliğine düşürür.","Hasar: {[Use34Param]1-1%}% of P. Atk. + {[Use34Param]1-2%}% of M. Atk.
+Additional hasar over 5 sec.
+For 5 sec, enemy Speed: -{3-2%}%. Hasar: -{3-1%}%.",
+30015,Savunma Alanı,"<SkillTitle>[Tüm Silahlar]</>
+Müttefikleri için aldıkları hasarı düşüren ve kısa süreliğine bağışıklık kazandıran bir Savunma Alanı yaratır.","6 saniye boyunca müttefiklerin aldığı hasarı -%{PhyBuff:300151-1%} düşürür.
+Nadir yeteneklerden alınan hasarı ek olarak -%{PhyBuff:300151-2%} düşürür.
+2 saniyeliğine zayıflatmalara bağışıklık sağlar.",
+31001,Buz Zırhı (Yavaşlatma Etkisi),Buz Zırhı için yavaşlatma pasifi,Hız’ı %{2-1} azaltır.,
+31002,Güçlü Eziş (Eski),Öndeki düşmanlara kuvvetle saldırır.,Öndeki düşmanlara kuvvetle saldırır.,
+31003,Büyük Yere Vurma (Eski),@31002,@31002,
+31004,@14221,Güçlü Eziş,Yakındaki düşmanlara yüksek hasar verir.,
+31005,Büyük Yere Vurma,Büyük Yere Vurma,@31004,
+31006,@11222,Yıldırım Fırtınası,@31004,
+31007,Kutsal Ateş,Yakındaki düşmanlara büyük hasar verir.,@31004,
+31008,@30009,Geriye kaçınırken bir şok dalgası gönderir.,@30004,
+35001,@21111,@21111,,
+35002,@21112,@21112,,
+35003,@21121,@21121,,
+35004,@21122,@21122,,
+35005,@21131,@21131,,
+35006,@21132,@21132,,
+35011,@21211,@21211,,
+35021,@21222,@21222,,
+35031,@21232,@21232,,
+35111,@21211,@21211,,
+35121,@22221,@22221,,
+35122,@21222,@21222,,
+35131,@22232,@22232,,
+35141,@22241,@22241,,
+35151,@22251,@22251,,
+35161,@22211,@22261,,
+35221,@21222,@21222,,
+35231,@23232,@23232,,
+35311,@24211,@24211,,
+35321,@21222,@21222,,
+35331,@22221,@22221,,
+35332,Şanslı Öldürme,@24232,,
+35341,@24241,@24241,,
+40001,F. Sldr.,F. Sldr.,B. Sldr.'yi {1-1} artırır.,
+40002,B. Sldr.,B. Sldr.,@40001,
+40003,F. Sldr. Artış Oranı,F. Sldr. Artış Oranı,@40001,
+40004,B. Sldr. Artış Oranı,B. Sldr. Artış Oranı,@40001,
+40005,Normal Saldırı Gücü,Normal Saldırı Gücü,@40001,
+40006,Grup Üyesi Sldr. Artış Oranı,Grup Üyesi Sldr. Artış Oranı,@40001,
+40007,Sldr. Hızı Artma Oranı,Sldr. Hızı Artma Oranı,@40001,
+40008,Kritik Hasar Artma Oranı,Kritik Hasar Artma Oranı,@40001,
+40009,Kritik Vurma Oranı,Kritik Vurma Oranı,@40001,
+40010,Kritik Direnç Oranı,Kritik Direnç Oranı,@40001,
+40011,F. Hasar,F. Hasar,@40001,
+40012,B. Hasarı,B. Hasarı,@40001,
+40013,Svn. Yok Say,Svn. Yok Say,@40001,
+40014,Hedefin Can Azalması,Hedefin Can Azalması,@40001,
+40015,Hedefin Can Azalması (%),Hedefin Can Azalması (%),@40001,
+40016,F. Svn.,F. Svn.,@40001,
+40017,B. Svn.,B. Svn.,@40001,
+40018,F. Svn. Artış Oranı,F. Svn. Artış Oranı,@40001,
+40019,B. Svn. Artış Oranı,B. Svn. Artış Oranı,@40001,
+40020,Kaçınma,Kaçınma,@40001,
+40021,Kaçınma Oranı Artışı,Kaçınma Oranı Artışı,@40001,
+40022,Kaçınma Oranı,Kaçınma Oranı,@40001,
+40023,İsabet,İsabet,@40001,
+40024,İsabet Oranı Artışı,İsabet Oranı Artışı,@40001,
+40025,İsabet Oranı,İsabet Oranı,@40001,
+40026,Hasar Artma Oranı,Hasar Artma Oranı,@40001,
+40027,F. Hasar Artış Oranı,F. Hasar Artış Oranı,@40001,
+40028,@40027,@40027,@40001,
+40029,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı,Yavaşlamış Hedeflere Verilen Hasar Artışı Oranı,@40001,
+40030,Svn. Yok Sayma Hasarı,Svn. Yok Sayma Hasarı,@40001,
+40031,Hasar Azaltma Oranı,Hasar Azaltma Oranı,@40001,
+40032,F. Hasar Azaltma Oranı,F. Hasar Azaltma Oranı,@40001,
+40033,B. Hasarı Azaltma Oranı,B. Hasarı Azaltma Oranı,@40001,
+40034,Sabit Hasar Azaltma,Sabit Hasar Azaltma,@40001,
+40035,Yansıtma Oranı,Yansıtma Oranı,@40001,
+40036,Yansıtılan Hasar Azaltma Oranı,Yansıtılan Hasar Azaltma Oranı,@40001,
+40037,Süreli F. Hasar,Süreli F. Hasar,@40001,
+40038,Süreli B. Hasarı,Süreli B. Hasarı,@40001,
+40039,Sldr. Temelli İyileştirme,Sldr. Temelli İyileştirme,@40001,
+40040,Süreli İyileştirme,Süreli İyileştirme,@40001,
+40041,Taarruz Artış Oranı,Taarruz Artış Oranı,@40001,
+40042,Can Yenileme,Can Yenileme,@40001,
+40043,Can Çalma,Can Çalma,@40001,
+40044,Can Soğurma (düşmanlarından can çalan aktif yetenek),Can Soğurma (düşmanlarından can çalan aktif yetenek),@40001,
+40045,Can Soğurma (grubunun düşmanlardan can çalmasını sağlayan aktif yetenek),Can Soğurma (grubunun düşmanlardan can çalmasını sağlayan aktif yetenek),@40001,
+40046,Maks Can,Maks Can,@40001,
+40047,Maks Can Yenileme Oranı,Maks Can Yenileme Oranı,@40001,
+40048,Maks Mana,Maks Mana,@40001,
+40049,Maks Mana Artış Oranı,Maks Mana Artış Oranı,@40001,
+40050,Hız Artış Oranı,Hız Artış Oranı,@40001,
+40051,Gereken Mana Azalış Oranı,Gereken Mana Azalış Oranı,@40001,
+40052,Gereken Manayı Azaltma,Gereken Manayı Azaltma,@40001,
+40053,Mana Yenileme Oranı,Mana Yenileme Oranı,@40001,
+40054,Yetenek Bekleme Süresi,Yetenek Bekleme Süresi,@40001,
+40055,Küçümseme (aggroyu maksimuma çeker),Küçümseme (aggroyu maksimuma çeker),@40001,
+40056,Hedefe Kitlen,Hedefe Kitlen,@40001,
+40057,Hedefe Hareket Et,Hedefe Hareket Et,@40001,
+40058,Hedefi Çek,Hedefi Çek,@40001,
+40059,Çekme Direnci Oranı,Çekme Direnci Oranı,@40001,
+40060,Düşürülme Direnci Oranı,Düşürülme Direnci Oranı,@40001,
+40061,TP Kazanma Artış Oranı,TP Kazanma Artış Oranı,@40001,
+40062,Adena Kazanma Artış Oranı,Adena Kazanma Artış Oranı,@40001,
+40063,Yavaşlatma Direnci Oranı,Yavaşlatma Direnci Oranı,@40001,
+40064,Sersemletme Direnci Oranı,Sersemletme Direnci Oranı,@40001,
+40065,Anormal Durum Direnci,Anormal Durum Direnci,@40001,
+40066,Yetenek Menzili Artışı,Yetenek Menzili Artışı,@40001,
+40067,Yetenek Vuruş Sayısı Artışı,Yetenek Vuruş Sayısı Artışı,@40001,
+40068,Kombo Bitiş Süresi Artışı,Kombo Bitiş Süresi Artışı,@40001,
+40069,Delme,Delme,@40001,
+40070,Direnç,Direnç,@40001,
+40071,Krit. Oranı,Krit. Oranı,@40001,
+40072,Kritik Direnci,Kritik Direnci,@40001,
+40073,Krit. Oran Artış Oranı,Krit. Oran Artış Oranı,@40001,
+40074,Kritik Direnci Artış oranı,Kritik Direnci Artış oranı,@40001,
+50001,Antilop,Yakın Dövüş Türü Canavar,,
+50002,Breka Ork,@50001,,
+50003,Savaşçı Breka Ork,@50001,,
+50004,Dev Örümcek,@50001,,
+50005,Kırmızı Ayı,@50001,,
+50006,Yaban Arısı,@50001,,
+50007,Kral Böcayı,@50001,,
+50008,Leto Kertenkeleadam,@50001,,
+50009,Şaman Leto Kertenkeleadam,Menzilli Rüzgar Element Saldırısı. Rüzgarın gücüyle düşmanlarını deler.,,
+50010,Dövüşçü Leto Kertenkeleadam,@50001,,
+50011,Şaman Maille Kertenkeleadam,Menzilli Ateş Element Saldırısı. Ateşin gücü ile hedefine SBH bırakır.,,
+50012,Savaşçı Maille Kertenkeleadam,@50001,,
+50013,Asker Bataklık Stakatosu,@50001,,
+50014,Mistik Gözküre,Menzilli Karanlık Element Saldırısı. Karanlığın gücü hedefini lanetler. Uzun süren fakat hasarı az olan bir SBH bırakır.,,
+50015,Zehirli Örümcek,@50001,,
+50016,Karanlık Prima,@50001,,
+50017,Cellat,@50001,,
+50018,Takipçi İskelet,@50001,,
+50019,Vampir Yarasa,@50001,,
+50020,Windsus,@50001,,
+50021,Zombi Lordu Crowl,@50001,,
+50022,Siyah Leopar,@50001,,
+50023,Dövüşçü Tanor Silenos,@50001,,
+50024,Tanor Silenos,@50001,,
+50025,İzci Ol Mahum,@50001,,
+50026,Savaşçı Ol Mahum,@50001,,
+50027,Şaman Tanor Silenos,@50009,,
+50028,Şef Tanor Silenos,@50001,,
+50029,Kara Şövalye,@50001,,
+50030,Taş Golem,@50001,,
+50031,@11243,@50001,,
+50032,Meforde,@50001,,
+50033,Premo,@50001,,
+50034,Rorka,@50001,,
+50035,Mandragora,@50001,,
+50036,Hiçlik Hizmetkarı,@50001,,
+50037,Zincirlenmiş Ruh,@50001,,
+50038,Nerkas,@50001,,
+50039,Ölümcül Guillotine,@50001,,
+50040,Kara Kurt,@50001,,
+50041,Okçu Turek Ork,Ok kullanan canavarların temel saldırılarından biri.,,
+50042,Savaş Şefi Turek Ork,@50001,,
+50043,Asker Turek Ork,@50001,,
+50044,Asker Zindan İskeleti,@50001,,
+50045,Yağmacı İskelet,@50041,,
+50046,Kurtadam,@50001,,
+50047,Tepra Akrebi,@50001,,
+50048,Vahşi Puma,@50001,,
+50049,Kızıl Tilki,@50001,,
+50050,Gözcügöz,@50001,,
+50051,Turek Savaş Tazısı,@50001,,
+50052,Karınca Larvası,@50001,,
+50053,Asker Karınca,@50001,,
+50054,Karınca,@50001,,
+50055,Basilisk,@50001,,
+50056,Dev Sülük,@50001,,
+50057,Sahara,@50001,,
+50058,Asil Karınca,@50001,,
+50060,Dirilmiş Tayf,@50001,,
+50061,Amansız Tayf,@50001,,
+50062,Succubus,@50001,,
+50063,Savaş Şefi Breka Ork,@50001,,
+50064,Şaman Breka Ork,@50009,,
+50065,Perum,@50001,,
+50066,Karanlık Lord,@50001,,
+50067,Korsan Zombi,@50001,,
+50068,Susceptor Prime,@50001,,
+50069,Kasvetli Çığırtkan,@50001,,
+50070,Kaim Vanul,@50001,,
+50071,Rotacı Korsan Zombi,@50001,,
+50072,Kaptan Korsan Zombi,@50001,,
+50073,Zaken,@50001,,
+50074,Gorgon Kraliçesi Stenoa,@50001,,
+50075,Medusa,@50001,,
+50076,Wyrm,@50001,,
+50077,Başsız Şövalye,@50001,,
+50078,Kumyeli Gargoylu,@50001,,
+50079,Grandis,@50001,,
+50080,Şef Leto Kertenkeleadam,@50001,,
+50081,Ejder,@50001,,
+50082,Spor Mantarı,@50001,,
+50083,Richard,@50001,,
+50084,Orfen,@50001,,
+50085,Orfen'in Cariyesi,@50001,,
+50086,Gözcü Ketra Ork,@50041,,
+50087,Oel Mahum,@50001,,
+50088,Şaman Oel Mahum,@50011,,
+50089,Dövüşçü Oel Mahum,@50001,,
+50090,Kan Kraliçesi,@50001,,
+50091,Boreas,@50001,,
+50092,Mağara Muhafızı,@50001,,
+50093,Savaş Şefi Ol Mahum,@50001,,
+50094,Nişancı Ol Mahum,@50041,,
+50095,İzci Maille Kertenkeleadam,Mızrak kullanan canavarların temel saldırılarından biri.,,
+50096,Okçu Leto Kertenkeleadam,@50041,,
+50097,Bataklık Katili,@50001,,
+50098,İzci İskelet,@50041,,
+50099,Validus,@50001,,
+50100,Okçu Breaka Ork,@50041,,
+50101,Dicor,@50001,,
+50102,Kara Söğüt,@50001,,
+50103,Kara Kardeşlik,@50014,,
+50104,Typheron,@50001,,
+50105,Beyaz Kurt,@50001,,
+50106,Kolcu Yüzbaşısı Ketra Ork,@50001,,
+50107,Beyaz Yüzbaşı Ketra Ork,@50001,,
+50108,Balrog,@50001,,
+50109,Havari,@50001,,
+50110,Öğretici Şövalyesi 1,@50001,,
+50111,@50110,@50001,,
+50112,Öğretici Şövalyesi 2,@50001,,
+50113,@50112,@50001,,
+50114,Öğretici Şövalyesi 3,@50041,,
+50115,Öğretici Şövalyesi 4,@50001,,
+50116,@50115,@50001,,
+50117,Öğretici Şövalyesi 5,@50001,,
+50118,@50117,@50001,,
+50119,Öğretici Şövalyesi 6,@50041,,
+50120,Öğretici Şövalyesi 7,@50001,,
+50121,@50120,@50001,,
+50122,Field Boss_West Talking Island_Fallen Spirit Shepherd,@50001,,
+50123,Field Boss_Gludin Highway_Zodiac the Murderer,@50001,,
+50124,Field Boss_Gludio Plains_Silverbeard the Invasion Leader,@50001,,
+50125,Field Boss_Windawood Manor_Vapar the Fallen Guardian,@50001,,
+50126,Field Boss_Wasteland_Shelop Watcher,@50001,,
+50127,Field Boss_Plains of Dion_Flagon,@50001,,
+50128,Field Boss_Cruma Swamp_Sina the Swamp Ruler,@50001,,
+50129,Field Boss_Summit of Dissonance_Rorka the Forgotten,@50001,,
+50130,Field Boss_Giran Dominion_Stenoa the Gorgon Queen,@50001,,
+50131,Field Boss_Deathly Fog Shores_Undertaker,@50001,,
+50132,Field Boss_Haunted Necropolis_Marlox,@50001,,
+50133,Field Boss_Northwind Plateau_Heart of the Plateau,@50001,,
+50134,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady,@50001,,
+50140,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 1,@2101,,
+50141,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 2,@2101,,
+50142,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 3,@2101,,
+50143,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 4,@2101,,
+50144,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 5,@2101,,
+50145,Asiler Ordusu Şövalyesi (İnsan - Mızrak) Kombo 6,@2101,,
+50146,Asiler Ordusu Şövalyesi (İnsan - Yay) Kombo 1,@5101,,
+50147,Asiler Ordusu Şövalyesi (İnsan - Yay) Kombo 2,@5101,,
+50148,Asiler Ordusu Şövalyesi (İnsan - Yay) Kombo 3,@5101,,
+50149,Asiler Ordusu Şövalyesi (İnsan - Yay) Kombo 4,@5101,,
+50150,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 1,Kılıç kullanan canavarların temel saldırılarından biri.,,
+50151,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 2,@50150,,
+50152,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 3,@50150,,
+50153,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 4,@50150,,
+50154,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 5,@50150,,
+50155,Asiler Ordusu Şövalyesi (İnsan - Kılıç) Kombo 6,@50150,,
+50156,Lucien Asa Kombosu 1,@6101,,
+50157,Lucien Asa Kombosu 2,@6101,,
+50158,Lucien Asa Kombosu 3,@6101,,
+50159,Lucien Asa Kombosu 4,@6101,,
+50160,Elpin Yay Kombosu 1,@5101,,
+50161,Elpin Yay Kombosu 2,@5101,,
+50162,Elpin Yay Kombosu 3,@5101,,
+50163,Elpin Yay Kombosu 4,@5101,,
+50164,Sadık Şövalye (İnsan - Mızrak) Kombosu 1,@2101,,
+50165,Sadık Şövalye (İnsan - Mızrak) Kombosu 2,@2101,,
+50166,Sadık Şövalye (İnsan - Mızrak) Kombosu 3,@2101,,
+50167,Sadık Şövalye (İnsan - Mızrak) Kombosu 4,@2101,,
+50168,Sadık Şövalye (İnsan - Mızrak) Kombosu 5,@2101,,
+50169,Sadık Şövalye (İnsan - Mızrak) Kombosu 6,@2101,,
+50170,Sadık Okçu (İnsan - Yay) Kombosu 1,@5101,,
+50171,Sadık Okçu (İnsan - Yay) Kombosu 2,@5101,,
+50172,Sadık Okçu (İnsan - Yay) Kombosu 3,@5101,,
+50173,Sadık Okçu (İnsan - Yay) Kombosu 4,@5101,,
+50174,Sadık Şövalye (İnsan - Kılıç) Kombosu 1,@50150,,
+50175,Sadık Şövalye (İnsan - Kılıç) Kombosu 2,@50150,,
+50176,Sadık Şövalye (İnsan - Kılıç) Kombosu 3,@50150,,
+50177,Sadık Şövalye (İnsan - Kılıç) Kombosu 4,@50150,,
+50178,Sadık Şövalye (İnsan - Kılıç) Kombosu 5,@50150,,
+50179,Sadık Şövalye (İnsan - Kılıç) Kombosu 6,@50150,,
+50180,Marlow Mızrak Kombosu 1,@2101,,
+50181,Marlow Mızrak Kombosu 2,@2101,,
+50182,Marlow Mızrak Kombosu 3,@2101,,
+50183,Marlow Mızrak Kombosu 4,@2101,,
+50184,Marlow Mızrak Kombosu 5,@2101,,
+50185,Marlow Mızrak Kombosu 6,@2101,,
+50186,Merkez Kule Saldırısı,,,
+50187,Adena Zindanı Baş Düşman Normal Saldırısı,"Adena Zindanı'nı koruyan altın ejderhanın yakın mesafe saldırısı.
+Devasa kanatlarıyla ani rüzgarlar yaratır.",,
+50188,Adena Zindanı Çağrılmış Canavarın Normal Saldırısı,Adena Zindanı çağrılmış canavarın temel saldırısı.,,
+50189,Varkaron,Klan Zindanı Baş Düşmanı Varcarlo'nun temel saldırısı.,,
+501891,Varkaron’un Buluşu,Varcarlo'nun Yaratığının Temel Saldırısı (Klan Zindanı Baş Düşmanı),,
+50190,@50187,@50187,,
+50191,Krakia,,,
+50192,Peri Rose,,,
+50193,Kraliçe Peri Lara,,,
+50194,İmp,"Kanatlarını çırpar, zıplar ve anahtarı ile saldırır.",,
+50195,Altın Mimik,Kapağı açar ve dili ile saldırır.,,
+50196,Peri,,,
+50197,Pan,,,
+50198,Cani Tanta Kertenkeleadam,,,
+50199,Çağırıcı Tanta Kertenkeleadam,,,
+50200,Ketra Ork,,,
+50201,Savaş Şefi Ketra Ork,,,
+50202,Subay Barka Silenos,,,
+50203,Marsha,,,
+50204,DragonPython,,,
+50205,DragonBerserker,,,
+50206,Karinness,,,
+50207,DarkAssociation_M_High,,,
+50208,Grendel_Boss,,,
+50209,Hiçlik Tazısı,@50001,,
+50210,ArmoredGrandis,,,
+50211,EmbryonKnights,,,
+50212,Grendel,,,
+50213,Atrox,,,
+50214,Embryon,,,
+58001,ArmorMerchant_01,,,
+58002,Aimel,,,
+58003,Hardin,,,
+58004,HardinsFallower,,,
+58005,Fernel,,,
+58006,CatTheCat_01,,,
+58011,Resident_02_Sword,,,
+58012,Resident_02_Staff,,,
+58021,Resident_03,,,
+58022,Resident_03_Bow,,,
+58023,Resident_03_Sword,,,
+58024,Resident_03_DualSword,,,
+58031,Resident_04_Sword,,,
+58032,Resident_04_Bow,,,
+58033,Resident_04_Sword_2,,,
+58034,Resident_04_Sword_3,,,
+58041,Resident_05_Dagger,,,
+58051,Noble_02_Staff,,,
+58061,Noble_03_Sword,,,
+58071,Student_Dagger,,,
+58072,Student_Staff,,,
+58081,Teleporter_01_Staff,,,
+58091,SmeltingMerchant_01_Sword,,,
+58101,Magician_Staff,,,
+58111,ItemMerchant_01_Spear,,,
+58121,Officer_Sword,,,
+58131,WarehouseKeeper_01_Sword,,,
+58141,TemplePriest_01,,,
+58151,Officer_02_Spear,,,
+58152,Officer_02_Spear_Skill1,,,
+58153,Officer_02_Spear_Skill2,,,
+58161,CityGuard_01_01_Spear,,,
+58162,CityGuard_01_02_Spear,,,
+58163,CityGuard_01_03_Spear,,,
+58164,Tsun,,,
+58165,BP_Wooldie,Normal Saldırı,,
+58166,BP_Scooldie,@58165,,
+60001,@50001,Güçlü Hsr.,,
+60002,@50002,@60001,,
+60003,@50003,@60001,,
+60004,@50004,Zayıf ama katlanan bir SBH bırakır.,,
+60005,@50005,Sersemletir.,,
+60006,@50006,@60004,,
+60007,@50007,@60005,,
+60008,@50008,@60001,,
+60009,@50010,@60001,,
+60010,@50012,@60001,,
+60011,@50013,@60001,,
+60012,@50015,@60004,,
+60013,@50016,Hasar verir ve Canını yeniler.,,
+60014,@50017,@60013,,
+60015,@50018,@60005,,
+60016,@50019,SBH bırakır.,,
+60017,@50020,@60001,,
+60018,@50021,@60005,,
+60019,@50022,@60005,,
+60020,@50023,@60001,,
+60021,@50024,@60001,,
+60022,@50025,@60004,,
+60023,@50026,@60001,,
+60024,@50028,@60001,,
+60025,@50029,Hedefinin Sldr.'sini ve Svn.'sini düşürür.,,
+60026,@50030,@60001,,
+60027,@11243,@60025,,
+60028,@50032,@60025,,
+60029,@50033,@60005,,
+60030,@50034,@60001,,
+60031,@50035,@60004,,
+60032,@50036,@60001,,
+60033,@50037,@60001,,
+60034,@50038,@60001,,
+60035,@50040,@60016,,
+60036,@50042,@60001,,
+60037,@50043,@60001,,
+60038,@50044,@60005,,
+60039,@50046,@60016,,
+60040,@50047,@60004,,
+60041,@50048,@60005,,
+60042,@50049,@60016,,
+60043,@50050,@60025,,
+60044,@50051,@60016,,
+60045,@50053,@60004,,
+60046,@50054,@60004,,
+60047,@50055,@60005,,
+60048,@50056,@60013,,
+60049,@50057,@60005,,
+60050,@50058,@60016,,
+60051,@50060,@60001,,
+60052,@50061,@60004,,
+60053,@50062,@60025,,
+60054,@50063,@60001,,
+60055,@50065,@60001,,
+60056,@50066,"Düşük, sürekli hasar.",,
+60057,@50067,@60001,,
+60058,@50068,@60001,,
+60059,@50069,@60001,,
+60060,@50070,@60001,,
+60061,@50071,@60001,,
+60062,@50072,@60013,,
+60063,@50074,@60001,,
+60064,@50075,@60004,,
+60065,@50076,@60016,,
+60066,@50077,@60013,,
+60067,@50078,@60001,,
+60068,@50079,@60005,,
+60069,@50080,@60001,,
+60070,@50081,@60016,,
+60071,@50082,@60004,,
+60072,@50083,@60001,,
+60073,@50085,@60004,,
+60074,@50087,@60001,,
+60075,@50089,@60001,,
+60076,@50090,@60025,,
+60077,@50091,@60025,,
+60078,@50092,@60001,,
+60079,@50093,@60001,,
+60080,@50097,@60001,,
+60081,@50098,@60013,,
+60082,@50099,@60001,,
+60083,@50101,@60001,,
+60084,@50102,@60001,,
+60085,@50106,@60001,,
+60086,@50107,@60001,,
+60087,@50108,@60001,,
+60088,@50110,@60001,,
+60089,@50112,@60001,,
+60090,@50114,@50041,,
+60091,@50115,@60001,,
+60092,@50117,@60001,,
+60093,@50119,@50041,,
+60094,@50120,@60001,,
+160018,@50021,@60005,,
+160032,@50036,@60001,,
+160033,@50037,@60001,,
+160056,@50066,@60056,,
+60095,@11222,"<SkillTitle>[Yalnızca Mızrak ve Çift Kılıç]</>
+Yakındaki düşmanları hasar vererek yavaşlatmak için büyük bir güçle yere vurur.","Hasar: Saldırının %100’ü +{1}
+3 saniye boyunca hedeflerin Hızı ve Sldr. Hızı %{2-1%} düşer.",
+50135,Konuşkan Ada Boreas'ın Normal Saldırısı,Boreas'ın Temel Saldırısı,,
+60096,Konuşkan Ada Gorsaur'un Yeteneği 1,,,
+60097,Konuşkan Ada Gorsaur'un Yeteneği 2,,,
+50136,Konuşkan Ada Orbis'in Normal Saldırısı,Orbis'in Temel Saldırısı,,
+60098,Konuşkan Ada Carpheous'un Yeteneği 1,,,
+60099,Konuşkan Ada Carpheous'un Yeteneği 2,,,
+50137,Konuşkan Ada Apostle'un Normal Saldırısı,Apostle’ın Temel Saldırısı,,
+60100,Konuşkan Ada Orobas'ın Yeteneği 1,,,
+50138,Konuşkan Ada Hükümdar Bau'nun Normal Saldırısı,Hükümdar Bau’nun Temel Saldırısı,,
+60101,Konuşkan Ada Hükümdar Votis'in Yeteneği 1,,,
+60102,Konuşkan Ada Hükümdar Votis'in Yeteneği 2,,,
+60103,Sahte Yetenek,,,
+50139,Konuşkan Ada Makkum'un Normal Saldırısı,Makkum'un Temel Saldırısı,,
+60104,Konuşkan Ada Dexter 1,,,
+60105,Konuşkan Ada Dexter 2,,,
+60106,Lucien - Büyük İyileştirme,"<SkillTitle>[Yalnızca Asa]</>
+Güçlerini kullanarak kendini ve etrafındaki grup üyelerini iyileştirir.",,
+60107,Lucien - Alev Saldırısı,"<SkillTitle>[Yalnızca Asa]</>
+Düşmanlara patlayarak hasar veren bir ateş topu atar.",,
+60108,Elpin - Sonik Yıldız,"<SkillTitle>[Yalnızca Hançer]</>
+Düşmanların arasında hızla hareket eder, yakındaki düşmanlara ikinci kez hasar verir. Hareket halindeyken aldığı hasar azalır.",,
+60109,Elpin - Güçlü Atış,"<SkillTitle>[Yalnızca Yay]</>
+Hedefi ve yakınındaki düşmanları hasar vererek kısa süreliğine sersemleten bir ok atar.",,
+60110,Marlow - Kasırga Fırtınası,Kale Kuşatması Öğreticisi Baş Düşman Marlow’un Özel Yeteneği,,
+60111,Marlow - Kara Nefes,@60110,,
+60112,Marlow - Dış Şimşek Alanı,@60110,,
+60113,Fırtına Saldırısı,"Önündeki düşmanlara hasar verir ve yere yıkar.
+Saldıracağı yöne doğru kanatlarını çırpar.",,
+60114,Akışkan Kırık,Zemine vurduğu darbe ile etrafına bir şok dalgası yayar.,,
+60115,Altın Ateş Nefes,Baktığı yöne doğru alev üfler.,,
+60116,Marlow - Şimşek Alanı,@60110,,
+60117,Doğu Konuşkan Ada Kısım 8 Baş Düşmanı - Mağara Muhafızı,@60001,,
+60118,Marlow - Mutlak Savunma,Svn.'yi çok yükseltir.,,
+60121,@50078,Yakın Dövüş Türü Canavar (saha hazine sandıkları için),,
+60122,@50078,Yüksek Hasar (saha hazine sandıkları için),,
+60123,@50192,,,
+60124,@50193,,,
+60125,@50193,,,
+60126,@50196,,,
+60127,@50197,,,
+60128,@50197,,,
+60129,@50198,,,
+60130,@50199,,,
+60131,@50200,,,
+60132,@50201,,,
+60135,@50201,,,
+60133,@50202,,,
+60134,@50202,,,
+60136,İskelet Kovalayan (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),İskelet Kovalayan (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),,
+60137,Taş Golem (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),Taş Golem (+ Sersemletme/Güçlendirme Parşömeni Zindanı İçin),,
+60138,DragonPythonBossSkill_01,,,
+60139,DragonPythonSkill_01,,,
+60140,DragonBerserkerBossSkill_01,,,
+60141,DragonBerserkerSkill_01,,,
+60142,KarinnessSkill_01,,,
+60143,KarinnessBossSkill_01,,,
+60144,DarkAssociation_M_HighSkill_01,,,
+60145,DarkAssociation_M_HighSkill_02,,,
+60146,GrendelSkill_01(Boss),,,
+60147,GrendelSkill_02(Boss),,,
+60148,@50030,@50001,,
+60149,@50077,@50001,,
+60150,@50077,@60013,,
+60151,@50070,@50001,,
+60152,@50070,@60001,,
+60153,@50210,@60001,,
+60154,@50211,@60001,,
+60155,@50211,@60001,,
+60156,GrendelSkill_01,@60001,,
+60157,AtroxSkill_01,@60001,,
+60158,Embryon_Skill_Sword_01,@60001,,
+60159,Embryon_Skill_Sword_02,@60001,,
+60160,VoidHoundSkill_01,@60001,,
+60161,VoidHoundSkill_01(TP Zindanı - Cehennem),Hasar verir ve yere yıkar.,,
+60162,Altın Ateş Nefes (Cehennem),@60115,,
+60163,ValidusSkill_02(Ekipman Zindanı - Cehennem),Kendimi İmha + Sıçratma + Hsr.,,
+60164,KetraOkçuOrk (Binek Zindanı - Çok Zor),,,
+71011,Günlük Zindan - Makkum (Kolay),,,
+71012,@71011,"Büyük bir kavisle yumruklarını savurur.
+> Önündeki düşmanlara hasar verir.
++ Sersemletme uygular",,
+71013,@71011,"Yere vurduğu darbe ile etrafına şok dalgası yayar.
+> Yakındaki düşmanlara yüksek hasar verir.",,
+71021,Günlük Zindan - Trikan (Kolay),,,
+71022,@71021,"Zıplayıp yüksek hasar veren bir saldırı ile yere iner.
+> Yakındaki düşmanlara yüksek hasar verir.",,
+71023,@71021,"Çığlık atarak bir ses dalgası yayar.
+> Yakındaki düşmanlara düşük hasar verir.
++Yavaşlatma",,
+71031,Günlük Zindan - Apostle (Kolay),,,
+71032,@71031,"Tırpanını öne doğru savurarak birden fazla hedefe saldırır.
+> Önündeki düşmanlara yüksek hasar verir.",,
+71033,@71031,"Şeytani yardakçılarını çağırır.
+> Çağrılan canavarlar zindanın zorluk seviyesine göre farklılık gösterir.
+> Canavarlar YZ tarafından kontrol edilir.",,
+71041,Günlük Zindan - Hükümdar Bau (Kolay),,,
+71042,@71041,"Yer altından ateşli silahlarla saldırırlar.
+> Önündeki düşmanlara ortalama hasar verir.
+> Kaçınılması zor olacak şekilde tasarlanmıştır.",,
+71043,@71041,"Silahını bir kılıca dönüştürür ve saldırır.
+> Önündeki düşmanlara yüksek hasar verir.",,
+71051,Günlük Zindan - Kan Kralı (Kolay),,,
+71052,@71051,"Heykelin kafası sürekli ısırmaya çalışarak saldırır.
+> Önündeki düşmanlara yüksek hasar verir.
++ Kanama SBH'ı",,
+71053,@71051,"Hortlak yardakçılar çağırır.
+> Çağrılan canavarlar zindanın zorluk seviyesine göre farklılık gösterir.
+> Canavarlar YZ tarafından kontrol edilir.",,
+71061,Günlük Zindan - Orbis (Kolay),,,
+71062,@71061,"Büyük bir kavisle ön pençelerini savurur.
+> Yakındaki düşmanlara düşük hasar verir.
++ Katlanan Kanama SBH'ı",,
+71063,@71061,"Dişleriyle saldırırken öne doğru savrulur.
+> Önündeki düşmanlara yüksek hasar verir.
+> Aynı saldırıya zorluk seviyesine göre 1 - 4 kez tekrarlar.",,
+71071,Günlük Zindan - Boreas (Kolay),,,
+71072,@71071,"Baktığı yöne doğru alev üfler.
+> Önündeki düşmanlara yüksek hasar verir.
+> 5 saniye boyunca ateş püskürür.",,
+71073,@71071,"Patlayan alev toplarıyla saldırır.
+> Önündeki düşmanlara yüksek hasar verir.
+> Alevler peş peşe 3 kere patlar.",,
+71111,Günlük Zindan - Makkum (Normal),,,
+71112,@71111,,,
+71113,@71111,,,
+71121,Günlük Zindan - Trikan (Normal),,,
+71122,@71121,,,
+71123,@71121,,,
+71131,Günlük Zindan - Apostle (Normal),,,
+71132,@71131,,,
+71133,@71131,,,
+71141,Günlük Zindan - Hükümdar Bau (Normal),,,
+71142,@71141,,,
+71143,@71141,,,
+71151,Günlük Zindan - Kan Kralı (Normal),,,
+71152,@71151,,,
+71153,@71151,,,
+71161,Günlük Zindan - Orbis (Normal),,,
+71162,@71161,,,
+71163,@71161,,,
+71171,Günlük Zindan - Boreas (Normal),,,
+71172,@71171,,,
+71173,@71171,,,
+71211,Günlük Zindan - Makkum (Zor),,,
+71212,@71211,,,
+71213,@71211,,,
+71221,Günlük Zindan - Trikan (Zor),,,
+71222,@71221,,,
+71223,@71221,,,
+71231,Günlük Zindan - Apostle (Zor),,,
+71232,@71231,,,
+71233,@71231,,,
+71241,Günlük Zindan - Hükümdar Bau (Zor),,,
+71242,@71241,,,
+71243,@71241,,,
+71251,Günlük Zindan - Kan Kralı (Zor),,,
+71252,@71251,,,
+71253,@71251,,,
+71261,Günlük Zindan - Orbis (Zor),,,
+71262,@71261,,,
+71263,@71261,,,
+71271,Günlük Zindan - Boreas (Zor),,,
+71272,@71271,,,
+71273,@71271,,,
+71311,Günlük Zindan - Makkum (Çok Zor),,,
+71312,@71311,,,
+71313,@71311,,,
+71321,Günlük Zindan - Trikan (Çok Zor),,,
+71322,@71321,,,
+71323,@71321,,,
+71331,Günlük Zindan - Apostle (Çok Zor),,,
+71332,@71331,,,
+71333,@71331,,,
+71341,Günlük Zindan - Hükümdar Bau (Çok Zor),,,
+71342,@71341,,,
+71343,@71341,,,
+71351,Günlük Zindan - Kan Kralı (Çok Zor),,,
+71352,@71351,,,
+71353,@71351,,,
+71361,Günlük Zindan - Orbis (Çok Zor),,,
+71362,@71361,,,
+71363,@71361,,,
+71371,Günlük Zindan - Boreas (Çok Zor),,,
+71372,@71371,,,
+71373,@71371,,,
+71411,Günlük Zindan - Makkum (Çok Zor),,,
+71412,@71411,,,
+71413,@71411,,,
+71421,Günlük Zindan - Trikan (Çok Zor),,,
+71422,@71421,,,
+71423,@71421,,,
+71431,Günlük Zindan - Apostle (Cehennem),,,
+71432,@71431,,,
+71433,@71431,,,
+71441,Günlük Zindan - Hükümdar Bau (Cehennem),,,
+71442,@71441,,,
+71443,@71441,,,
+71451,Günlük Zindan - Kan Kralı (Cehennem),,,
+71452,@71451,,,
+71453,@71451,,,
+71461,Günlük Zindan - Orbis (Cehennem),,,
+71462,@71461,,,
+71463,@71461,,,
+71471,Günlük Zindan - Boreas (Cehennem),,,
+71472,@71471,,,
+71473,@71471,,,
+72011,Klan Akını - Kaim Vanul,3 saniye boyunca seri saldırılarla alandaki düşmanlara hasar verir.,,
+50059,Kraliçe Karınca,@50001,,
+500591,@50059,@50001,,
+72021,Sıçrama,Ön Tarafa Menzilli Hsr,,Kraliçe Karınca Sıçrama’yı kullanıyor.
+72022,Zehirli Salya,Ön Tarafa Menzilli Hsr + Süre Bazlı Hasar,,"Kraliçe Karınca, Zehir Tükürme’yi kullanıyor."
+72023,Feromon Salma,Dairesel Alan Hasarı + Svn. Düşürme + Hız Düşürme,,"Kraliçe Karınca, feromonlarını salıyor."
+72024,Yeri Kazma,Gizlenme + Yenilmezlik,,"Kraliçe Karınca, yer altına giriyor."
+72025,Cinnet (Kraliçe Karınca),Kişisel Güçlendirme,,"Kraliçe Karınca, cinnet geçiriyor."
+72026,Karınca İmhası - 10 Adet,@60163,,
+72027,Karınca İmhası - 20 Adet,@60163,,
+720271,Karınca İmhası - 40 Adet,@60163,,
+72028,Asker Karınca Yavaşlatan Normal Saldırı,Normal Saldırı + Yavaşlama,,
+72029,Asil Karınca - Alan İyileştirmesi,İyileştirme,,
+72030,F. Sldr. Korunması (15 sn),F. Sldr. Korunması,,
+72121,Svn. Artışı (20 sn),Svn. Artışı,,
+72122,Kraliçe Karınca Normal Saldırı Güçlendirmesi,,,
+72123,Yeri Kazma - Son,,,Kraliçe Karınca tekrar çıktı.
+721241,Karınca Güçlendirmesi {0},,,
+72124,Karınca Güçlendirmesi {1},,,
+72125,Karınca Güçlendirmesi {2},,,
+72126,Karınca Güçlendirmesi {3},,,
+72127,Karınca Güçlendirmesi {4},,,
+72128,Karınca Güçlendirmesi {5},,,
+72129,Karınca Güçlendirmesi {6},,,
+172021,Sıçrama - Çok Zor,Önündekilere Hsr. + Sersemletme,,@72021
+172022,Zehirli Salya - Sıçrama,@72022,,@72022
+172023,Feromon Saldırısı- Yakın Menzil,@72023,,@72023
+172024,Feromon Saldırısı - Uzun Menzil,@72023,,@72023
+172025,Zehirli Tükürük - Ön,@72022,,@72022
+172026,Zehir Tükürük - Sol,Soldakilere Hsr. + Süre bazlı Hasar,,@72022
+172027,Zehir Tükürük - Sağ,Sağdakilere Hsr. + Süre bazlı Hasar,,@72022
+172028,Zehir Patlaması,Dairesel bir alanda katlanan zehir hasarı verir.,,"Kraliçe Karınca, Zehir Patlaması'nı kullanıyor."
+172029,Zehir Birikintisi,Küçük dairesel bir alanı zehirler.,,@72022
+1720310,Büyük Bakıcı Karınca Kutsaması_1,Yenilmez,,Kraliçe Karınca Kalkanı 1
+1720311,Büyük Bakıcı Karınca Kutsaması_2,@1720310,,Kraliçe Karınca Kalkanı 2
+1720312,Büyük Bakıcı Karınca Kutsaması_3,@1720310,,Kraliçe Karınca Kalkanı 3
+1720313,Büyük Bakıcı Karınca Kutsamasını Kaldır_1,Büyüyü Kaldır,,1. Kalkanı Kaldır
+1720314,Büyük Bakıcı Karınca Kutsamasını Kaldır_2,@1720313,,2. Kalkanı Kaldır
+1720315,Büyük Bakıcı Karınca Kutsamasını Kaldır_3,@1720313,,3. Kalkanı Kaldır
+1720316,Kendini Sersemletme,Sersemletme,,Kendini Sersemletme
+1720317,Yeri Kazma (Kısa süreli Sersemletme),@72024,,@72024
+1720318,Ölümcül Zehir,Alan Hasarı,,Ölümcül Zehir Saldırısı
+1720319,Feromon Saldırısı- Yakın Menzil (Yer altı),@72023,,@72023
+1720320,Feromon Saldırısı - Uzun Menzil (Yer altı),@72023,,@72023
+72130,Yeri Kazma - Önce Sersemletme,Alan Sersemletme,,
+72131,Karınca İmhası - 5 Adet,@60163,,
+72132,Bağlama,Alan Bağlama,,"Kraliçe Karınca, Bağlama’yı kullanıyor."
+72133,Hemşire Karınca İyileştirmesi,@72029,,
+72134,Bakıcı Karınca (Sahte),@72029,,
+1720001,Kraliçe Karınca (Temel Saldırı),@50001,,
+1720002,@72022,Önündekilere Hsr. + Zehirleme,,@72022
+1720003,@72021,Önündekilere Hsr. + Yere Yıkma + Zehir Birikintisi + Zehirleme,,@72021
+1720004,Karınca Öfkesi,Dairesel Hasar = Zehirleme,,"Kraliçe Karınca, Öfke'yi kullanıyor."
+1720005,@172023,Dairesel Alan Hasarı + Zehirleme + Bağlama,,"Kraliçe Karınca, feromonlarını etrafına püskürtüyor."
+1720006,@172024,Torus Alan Hasarı + Zehirleme + Bağlama,,"Kraliçe Karınca, feromonlarını uzun bir mesafeye püskürtüyor."
+1720007,@1720318,Dairesel Kat,,
+1720008,Sıçrama II,@1720003,,
+1720009,Cinnet,@72025,,"Kraliçe Karınca, Cinnet geçiriyor."
+72031,Kan Kılıcı,Hasar vermek için kılıcını savurur.,,"Varkaron, Kan Kılıcını kullanıyor."
+720311,Kan Kılıcı - Çok Zor,@72031,,@72031
+72032,Kan Koruması,Kendisine bir kalkan büyüsü uygular.,,"Varkaron, Kan Kalkanını kullandı."
+72033,Kan Yankısı,Zıplar ve hasar veren bir saldırıyla yere iner.,,"Varkaron, Kan Yankısını kullandı."
+72034,Kan Hücumu,Kılıcını yere paralel tutarak öne doğru hücum eder.,,
+72035,Kan Cinneti,Cinnet,,
+720353,Kan Cinneti - Çok Zor,@72035,,
+72036,Kan Kılıcı (Güçlendirme),Hasar vermek ve Can Çalmak için kılıcını savurur.,,@72031
+720361,Kan Kılıcı (Güçlendirme) - Çok Zor,@72036,,@72031
+72037,Kan Yankısı (Güçlendirme),Zıplar ve sersemletici bir saldırıyla yere iner.,,@72033
+720371,Kan Yankısı (Güçlendirme) - Çok Zor,@72037,,@72033
+72038,Kan Girdabı,Dönerek düşmanlara saldırır,,"Varkaron, Kan Girdabı'nı kullanıyor."
+72039,Klon Çağırma,Bekleme Süresi rotasyonu.,,
+72040,Yer üstü (1. Faz),Yer üstü yeteneği,,"Varkaron, Yıkım Birikintisi'ni kullanıyor."
+720401,Yer üstü (2. Faz),@72040,,@72040
+720402,Yer üstü (3. Faz),@72040,,@72040
+172031,@72031,@72031,,@72031
+172032,@72032,@72032,,@72032
+172033,@72033,@72033,,@72033
+172034,@72034,@72034,,
+172035,Güçlendirme,Güçlendirme Yeteneği,,Varkaron'un Buluşu Varkaron'u güçlendirdi.
+172036,Güçlendirme Kaldır,@172035,,
+172038,@72038,@72038,,@72038
+720411,Ölüm Işını (Kolay),Bir lazer ışını ile saldırır + hedefine ulaştığında patlar.,,
+720412,Ölüm Işını (Normal),@720411,,
+720413,Ölüm Işını (Zor),@720411,,
+720414,Ölüm Işını (Etkinlik),@720411,,
+72042,Yükselen Kıvılcım,Yüksek menzilli bir alan saldırısı,,"Cruma Çekirdeği, Yükselen Kıvılcım’ı kullanıyor."
+720431,Süre Sıfırlama (Kolay),Öz'ün canını yeniler.,,"Cruma Çekirdeği, Zaman Sıfırlama’yı kullanıyor."
+720432,Süre Sıfırlama (Normal),@720431,,@720431
+720433,Süre Sıfırlama (Zor),@720431,,@720431
+72044,Yerçekimi Zehri,Küre Patlaması + Süre bazlı Hasar,,Cruma Çekirdeği Yerçekimi Zehri’ni kullanıyor.
+72045,Öz Öfkesi,Hsr. Artışı + Hsr. Yansıtma,,Cruma Çekirdeği öfkelenmeye başladı.
+72046,Zihin Bulandırma,Küçük bir alanda zihin kontrolü sağlar.,,"Cruma Çekirdeği, Zihin Bulandırma kullanıyor."
+72047,Delen Darbe,Yakınındakilere Hsr. + Sersemletme,,
+72048,Geçit Muhafızı'nın Gürlemesi,Yakınındakilere Hsr. + Susturma,,
+72051,Kolay Çağırma 1,@72039,,Cruma Çekirdeği muhafızlarını çağırıyor.
+72052,@72046,@72046,,@72046
+72053,@72046,@72046,,@72046
+72054,Kolay Çağırma 2,@72039,,@72051
+72055,Normal Çağırma 1,@72039,,@72051
+72056,Normal Çağırma 2,@72039,,@72051
+72057,Normal Çağırma 3,@72039,,@72051
+72058,Zor Çağırma 1,@72039,,@72051
+72059,Zor Çağırma 2,@72039,,@72051
+72060,Zor Çağırma 3,@72039,,@72051
+72061,Etkinlik Çağırması 1,@72039,,"Muhafız Birimi Alpha, muhafız çağırıyor."
+72062,Etkinlik Çağırması 2,@72039,,@72061
+73011,Lanetli Kamçı,"Yakınındaki düşmanlara ""Svn. Yok Sayan Hsr."" verir.",,
+73012,Karabasan,Seçtiği bir bölgede lanetli alan oluşturur.,,
+73013,Öfke,Sldr. + Sldr. Hızı Artışı,,
+73041,Saha Akını - Orfen 1,Kişinin kendi savunmasını düşürür.,,
+73042,Saha Akını - Orfen 2,"Yakındadaki rastgele 4 noktada zehir patlamalar başlatır.
+Alanda bulunan düşmanlara hasar verir ve SBH bırakır.",,
+73043,Saha Akını - Orfen 3,Sldr. ve Sldr. Hızı Artışı (Katlanabilir),,
+74011,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 01,Seçilen alandaki herkese Sabit Hsr. verir ve yere yıkar.,,
+74012,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 02,Yanındaki düşmanlardan birini rastgele seçer ve yüksek hasar verir.,,
+74021,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 01,Baş Düşman'ın önündeki karakterlerden birine yüksek hasar verir ve kanamaya neden olur.,,
+74022,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 02,Her saniye %n kendi canını yeniler.,,
+74031,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 01,Alan Hasarı verir.,,
+74032,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 02,Hedefinin canının belirli bir yüzdesini süre bazlı hasar olarak verir.,,
+74041,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 01,Yakındaki düşmanlara alan hasarı verir.,,
+74042,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 02,Alandaki rastgele düşmanları yakar.,,
+74051,Field Boss_Wasteland_Shelop Watcher_Skill 01,Zehirli Halı,,
+74052,Field Boss_Wasteland_Shelop Watcher_Skill 02,Hasar,,
+74061,Field Boss_Plains of Dion_Flagon_Skill 01,3 rastgele hedefe şimşek küresi atar.,,
+74062,Field Boss_Plains of Dion_Flagon_Skill 02,Yıldırımla 5 rastgele hedefe vurur.,,
+74071,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 01,3 rastgele hedefin altına zehir alanı açar.,,
+74072,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 02,Yakındaki düşmanlara saldırır ve yavaşlatır.,,
+74081,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 01,Öndeki düşmanları saldırarak yere yıkar.,,
+74082,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_01,Şahsi Değer Artışı,,
+74083,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_02,@74082,,
+74084,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_03,@74082,,
+74085,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_Unlimited,Şahsi Değer Artışı_Ölene Kadar,,
+74091,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 01,Rastgele bir hedefi taşlaştırır.,,"Stenoa, Taşlaştıran Bakış'ını kullanıyor."
+74092,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 02,Alan Hasarı.,,"Stenoa, Kraliçe'nin Darbesi'ni kullanıyor."
+74093,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 03,F. Svn. Güçlendirmesi,,"Stenoa, Katlanan Güçlendirme kullanarak F. Svn'sini artırıyor."
+74094,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 04,B. Svn. Güçlendirmesi,,"Stenoa, Katlanan Güçlendirme kullanarak B. Svn'sini artırıyor."
+74101,Field Boss_Deathly Fog Shores_Undertaker_Skill 01,Kılıç enerjisi ile hasar verir.,,
+74102,Field Boss_Deathly Fog Shores_Undertaker_Skill 02,İleri atılır ve saldırır.,,
+74111,Field Boss_Haunted Necropolis_Marlox_Skill 01,Rastgele iki hedefe saldırır.,,
+74112,Field Boss_Haunted Necropolis_Marlox_Skill 02,@74092,,
+74113,Field Boss_Haunted Necropolis_Marlox_Skill 01_Stone Punch,Kaya Yumruğu,,
+74114,Field Boss_Haunted Necropolis_Marlox_Skill 02_Devil Kick,İblis Tekmesi,,
+74115,Field Boss_Haunted Necropolis_Marlox_Skill 03_Flame of Death,Ölüm Alevi,,
+74116,Field Boss_Haunted Necropolis_Marlox_Skill 04_Demonic Roar,Şeytan Kükremesi,,"Marlox, Şeytan Kükremesi'ni kullanıyor."
+74117,Field Boss_Haunted Necropolis_Marlox_Skill 04_01_Fatigue,Bitkinlik,,
+74118,Field Boss_Haunted Necropolis_Marlox_Normal Attack,Normal Attack,,
+74119,Field Boss_Haunted Necropolis_Marlox_Demon Totem Buff (Katlanabilir),Katlanabilir Güçlendirme,,
+74120,Field Boss_Haunted Necropolis_Marlox_Demon Totem (Ateş Topu),Ateş Topu,,
+741161,@74120,@74117,,
+74121,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 01,@74092,,
+74122,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 02,@74092,,
+74131,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 01,@74092,,
+74132,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 02,@74092,,
+74133,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 03,Kullanan kişinin altında zehirli bir alan oluşturur.,,
+74134,Marsha: Günah Kasırgası,,,"Marsha, Günah Kasırgası'nı kullanıyor."
+74135,Marsha: Kılıç Rüzgarı,,,"Marsha, Kılıç Rüzgarı'nı kullanıyor."
+74136,@74135,,,
+74137,Marsha: Çağırma,@72039,,"Marsha, yardakçılarını çağırıyor."
+75016,@50016,@50001,,
+75017,@50017,@50001,,
+75018,@50018,@50001,,
+75019,@50209,@50001,,
+75029,@50029,@50001,,
+75038,@50038,@50001,,
+75044,@50044,@50001,,
+75045,@50045,Ok kullanan basit bir canavar.,,
+75060,@50060,@50001,,
+75061,@50061,@50001,,
+75066,@50066,@50001,,
+75098,@50098,@75045,,
+76001,@50001,@50001,,
+76002,@50002,@50001,,
+76003,@50003,@50001,,
+76004,@50004,@50001,,
+76005,@50005,@50001,,
+76006,@50006,@50001,,
+76007,@50007,@50001,,
+76008,@50008,@50001,,
+76009,@50009,Menzilli Su Elementi Saldırısı. Hedefini buz saldırılarıyla yavaşlatır.,,
+76010,@50010,@50001,,
+76011,@50011,@50011,,
+76012,@50012,@50001,,
+76013,@50013,@50001,,
+76014,@50014,@50014,,
+76015,@50015,@50001,,
+76016,@50016,@50001,,
+76017,@50017,@50001,,
+76018,@50018,@50001,,
+76019,@50019,@50001,,
+76020,@50020,@50001,,
+76021,@50021,@50001,,
+76022,@50022,@50001,,
+76023,@50023,@50001,,
+76024,@50024,@50001,,
+76025,@50025,@50001,,
+76026,@50026,@50001,,
+76027,@50027,@50009,,
+76028,@50028,@50001,,
+76029,@50029,@50001,,
+76030,@50030,@50001,,
+76031,@11243,@50001,,
+76032,@50032,@50001,,
+76033,@50033,@50001,,
+76034,@50034,@50001,,
+76035,@50035,@50001,,
+76036,@50036,@50001,,
+76037,@50037,@50001,,
+76038,@50038,@50001,,
+76039,@50039,@50001,,
+76040,@50040,@50001,,
+76041,@50041,@50041,,
+76042,@50042,@50001,,
+76043,@50043,@50001,,
+76044,@50044,@50001,,
+76045,@50045,@50041,,
+76046,@50046,@50001,,
+76047,@50047,@50001,,
+76048,@50048,@50001,,
+76049,@50049,@50001,,
+76050,@50050,@50001,,
+76051,@50051,@50001,,
+76052,@50052,@50001,,
+76053,@50053,@50001,,
+76054,@50054,@50001,,
+76055,@50055,@50001,,
+76056,@50056,@50001,,
+76057,@50057,@50001,,
+76058,@50058,@50001,,
+76059,@50059,@50001,,
+76060,@50060,@50001,,
+76061,@50061,@50001,,
+76062,@50062,@50001,,
+76063,@50063,@50001,,
+76064,@50064,@50009,,
+76065,@50065,@50001,,
+76066,@50066,@50001,,
+76067,@50067,@50001,,
+76068,@50068,@50001,,
+76069,@50069,@50001,,
+76070,@50070,@50001,,
+76071,@50071,@50001,,
+76072,@50072,@50001,,
+76073,@50073,@50001,,
+76074,@50074,@50001,,
+76075,@50075,@50001,,
+76076,@50076,@50001,,
+76077,@50077,@50001,,
+76078,@50078,@50001,,
+76079,@50079,@50001,,
+76080,@50080,@50001,,
+76081,@50081,@50001,,
+76082,@50082,@50001,,
+76083,@50083,@50001,,
+76084,@50084,@50001,,
+76085,@50085,@50001,,
+76086,@50086,@50041,,
+76087,@50087,@50001,,
+76088,@50088,@50011,,
+76089,@50089,@50001,,
+76090,@50090,@50001,,
+76091,@50091,@50001,,
+76092,@50092,@50001,,
+76093,@50093,@50001,,
+76094,@50094,@50041,,
+76095,@50095,@50095,,
+76096,@50096,@50041,,
+76097,@50097,@50001,,
+76098,@50098,@50001,,
+76099,@50099,@50001,,
+76100,@50100,@50041,,
+76101,@50101,@50001,,
+76102,@50102,@50001,,
+76103,@50103,@50014,,
+76104,@50104,@50001,,
+76105,@50105,@50001,,
+77001,@50001,@60001,,
+77002,@50002,@60001,,
+77003,@50003,@60001,,
+77004,@50004,@60004,,
+77005,@50005,@60005,,
+77006,@50006,@60004,,
+77007,@50007,@60005,,
+77008,@50008,@60001,,
+77009,@50010,@60001,,
+77010,@50012,@60001,,
+77011,@50013,@60001,,
+77012,@50015,@60004,,
+77013,@50016,@60013,,
+77014,@50017,@60013,,
+77015,@50018,@60005,,
+77016,@50019,@60016,,
+77017,@50020,@60001,,
+77018,@50021,@60005,,
+77019,@50022,@60005,,
+77020,@50023,@60001,,
+77021,@50024,@60001,,
+77022,@50025,@60004,,
+77023,@50026,@60001,,
+77024,@50028,@60001,,
+77025,@50029,@60025,,
+77026,@50030,@60001,,
+77027,@11243,@60025,,
+77028,@50032,@60025,,
+77029,@50033,@60005,,
+77030,@50034,@60001,,
+77031,@50035,@60004,,
+77032,@50036,@60001,,
+77033,@50037,@60001,,
+77034,@50038,@60001,,
+77035,@50040,@60016,,
+77036,@50042,@60001,,
+77037,@50043,@60001,,
+77038,@50044,@60005,,
+77039,@50046,@60016,,
+77040,@50047,@60004,,
+77041,@50048,@60005,,
+77042,@50049,@60016,,
+77043,@50050,@60025,,
+77044,@50051,@60016,,
+77045,@50053,@60004,,
+77046,@50054,@60004,,
+77047,@50055,@60005,,
+77048,@50056,@60013,,
+77049,@50057,@60005,,
+77050,@50058,@60016,,
+77051,@50060,@60001,,
+77052,@50061,@60004,,
+77053,@50062,@60025,,
+77054,@50063,@60001,,
+77055,@50065,@60001,,
+77056,@50066,@60056,,
+77057,@50067,@60001,,
+77058,@50068,@60001,,
+77059,@50069,@60001,,
+77060,@50070,@60001,,
+77061,@50071,@60001,,
+77062,@50072,@60013,,
+77063,@50074,@60001,,
+77064,@50075,@60004,,
+77065,@50076,@60016,,
+77066,@50077,@60013,,
+77067,@50078,@60001,,
+77068,@50079,@60005,,
+77069,@50080,@60001,,
+77070,@50081,@60016,,
+77071,@50082,@60004,,
+77072,@50083,@60001,,
+77073,@50085,@60004,,
+77074,@50087,@60001,,
+77075,@50089,@60001,,
+77076,@50090,@60025,,
+77077,@50091,@60025,,
+77078,@50092,@60001,,
+77079,@50093,@60001,,
+77080,@50097,@60001,,
+77081,@50098,@60013,,
+77082,@50099,@60001,,
+77083,@50101,@60001,,
+77084,@50102,@60001,,
+77085,Saha Akını - Zaken 1,Yakındaki düşmanlara hasar verir.,,
+77086,Saha Akını - Zaken 2,Rastgele bir düşmana delici bir kılıç aurası ile saldırır.,,
+77087,Saha Akını - Zaken 3,Yakındaki düşmanlara hasar verir ve Can yeniler.,,
+80001,Savunma Kulesi Temel Saldırısı,,,
+80002,Tuzak Temel Saldırısı,,,
+80003,Tuzak Saldırısı 1,,,
+80004,Tuzak Saldırısı 2,,,
+80005,Tuzak Saldırısı 3,,,
+80006,Tuzak Saldırısı 4,,,
+80007,Tuzak Saldırısı 5,,,
+80008,Şato Savunma Kulesi Temel Saldırısı,,,
+80009,Kuşatma Kampı Temel Saldırısı,,,
+90002,NPC Temel Saldırısı,,,
+90003,CrakiaKarcus Saldırısı,,,
+100001,Klan Canı,1 saatliğine Maks Can artar.,Maks Can + %{1-1%},
+100002,Klan Ruhu,1 saatliğine Maks Mana artar.,Maks Mana + %{1-1%},
+100003,Klan Kalkanı,1 saatliğine Svn. artar.,Svn. + %{1-1%},
+100004,Klan Kudreti,1 saatliğine Sldr. artar.,Sldr. + %{1-1%},
+100005,Klan Kılavuzu,1 saatliğine İsabet artar.,İsabet + %{1-1%},
+100006,Klan Kaçınması,1 saatliğine Kaçınma artar.,Kaçınma + %{1-1%},
+100007,Klan Hareketi,1 saatliğine Hız artar.,Hız + %{1-1%},
+100008,Klan Ölümcül Hasarı,1 saatliğine Kritik Hasar artar.,Kritik Hasar + %{1-1%},
+100009,Klan Krit. Oranı,1 saatliğine Kritik Oranı artar.,Krit. Oranı + %{1-1%},
+500001,Eldru'nun Öfkesi,"1 saatliğine Sldr., Svn., Hız ve Sldr. Hızı artar.",Saldırı Savunma Hız Sldr. Hızı,
+900001,Kibir Kulesi Baş Düşman Görüntüleme,Hh,,
+905602,Moral Arttırıcı Etki,Uzatılmış Moral Arttırıcı etkisi.,,
+905604,Buz Fırtınası Etkisi,Uzatılmış Buz Fırtınası İksiri etkisi.,,
+905607,Can Yenileme Arttırıcı,Uzatılmış Can Yenileme Arttırıcı etkisi.,,
+905612,Anti-Büyü Etkisi,Uzatılmış Anti-Büyü İksiri etkisi.,,
+906002,Şerefli Savaş Alanı,Can Yenileme,,
+301,Gürbüz Ratel Kutsaması,Hız Artışı,,
+302,@301,Toplama Hızı Artışı,,
+303,@301,Toplama Miktarı Artışı,,
+304,Dayanıklı Ratel,Saldırmayan uysal bir canavar. Onu yenersen bir güçlendirme kazanırsın.,,
+305,Bahçe Nöbetçisi,Bahçe Nöbetçisi doğduğunda kullandığı ilk yetenek.,,
+306,Bahçe Nöbetçisi Etkisi,Bahçe Nöbetçisi'nin düzenli olarak kullandığı yetenek.,,
+401,Şifa Pınarı,Şifa Pınarı doğduğundan kullandığı ilk yetenek.,,
+402,Şifa Pınarı Güçlendirmesi,Şifa Pınarı'nın sürekli kullandığı yetenek.,,
+451,Dayanıklı Kale Kuşatması Muhafız Odası,Kale Kuşatması esnasında Muhafız Odası sadece 1 hasar alabilir.,,
+601,Feldheim Kendisini Sersemletme,Darbe aldığında kısa süreliğine sersemler.,Sersemletme,
+602,Saha Baş Düşmanı Sersemletmesi,Geçici Sersemletme,,
+701,Havai Fişek Etki Animasyonu Veri 1 ,Havai Fişek 1,,
+702,Havai Fişek Etki Animasyonu Veri 2,Havai Fişek 2,,
+703,Havai Fişek Etki Animasyonu Veri 3,Havai Fişek 3,,
+704,Havai Fişek Etki Animasyonu Veri 4,Havai Fişek 4,,
+150001,BP_Aimel_Attack_Sword,,,
+150002,@150001,,,
+150003,@150001,,,
+150101,BP_ArmorMerchant_01_Attack_Spear,,,
+150102,@150101,,,
+150103,@150101,,,
+150104,@150101,,,
+150201,BP_CityGuard_01_Attack_Spear,,,
+150202,@150201,,,
+150203,@150201,,,
+150301,BP_Fernel_Attack_DualSword,,,
+150302,@150301,,,
+150303,@150301,,,
+150401,BP_Hardin_Attack_NoWeapon,,,
+150402,@150401,,,
+150501,BP_HardinsFollower_Attack_Staff,,,
+150502,@150501,,,
+150503,@150501,,,
+150601,BP_ItemMerchant_01_Attack_Spear,,,
+150602,@150601,,,
+150603,@150601,,,
+150701,BP_Magician_Attack_Staff,,,
+150702,@150701,,,
+150703,@150701,,,
+150801,BP_Noble_02_Attack_Staff,,,
+150802,@150801,,,
+150803,@150801,,,
+150901,BP_Noble_03_Attack_Sword,,,
+150902,@150901,,,
+150903,@150901,,,
+151001,BP_Officer_Attack_Sword,,,
+151002,@151001,,,
+151003,@151001,,,
+151101,BP_Officer_02_Attack_Spear,,,
+151102,@151101,,,
+151103,@151101,,,
+151201,BP_Resident_02_Attack_Staff,,,
+151202,@151201,,,
+151203,@151201,,,
+151204,BP_Resident_02_Attack_Sword,,,
+151205,@151204,,,
+151206,@151204,,,
+151301,BP_Resident_03_Attack_NoWeapon,,,
+151302,@151301,,,
+151303,BP_Resident_03_Attack_Sword,,,
+151304,@151303,,,
+151305,@151303,,,
+151306,BP_Resident_03_Attack_Bow,,,
+151307,@151306,,,
+151308,BP_Resident_03_Attack_DualSword,,,
+151309,@151308,,,
+151310,@151308,,,
+151401,BP_Resident_04_Attack_Sword,,,
+151402,@151401,,,
+151403,@151401,,,
+151404,BP_Resident_04_Attack_Bow,,,
+151405,@151404,,,
+151501,BP_Resident_05_Attack_Dagger,,,
+151502,@151501,,,
+151503,@151501,,,
+151601,BP_SmeltingMerchant_Attack_Sword,,,
+151602,@151601,,,
+151603,@151601,,,
+151604,BP_SmeltingMerchant_Attack_Bow,,,
+151605,@151604,,,
+151701,BP_student_Attack_Dagger,,,
+151702,@151701,,,
+151703,@151701,,,
+151704,BP_student_Attack_Staff,,,
+151705,@151704,,,
+151706,@151704,,,
+151801,BP_Teleporter_01_Attack_Staff,,,
+151802,@151801,,,
+151803,@151801,,,
+151901,BP_TemplePriest_01_Attack_NoWeapon,,,
+151902,@151901,,,
+152001,BP_WarehouseKeeper_Attack_Sword,,,
+152002,@152001,,,
+152003,@152001,,,
+152101,BP_CatTheCat_Attack,,,
+152102,DarkAssociation,,,
+152103,UnKnown_Male,,,
+153001,BP_Maid_01_Attack_DualSword,,,
+153002,@153001,,,
+153003,@153001,,,
+200001,Canavar Hsr. Düşürme Pasif,,,
+210001,Canavar Hsr. Artışı Pasif,,,
+8010441,Yakın Dövüş Hasar Aurası,,,
+8010461,Öfke Grubu,,,
+801047,Alaşağı Etme,,,
+801048,@801047,,,
+93506,Cani Böcayı,"Büyük Sldr. ve Svn. Artışı, Küçük Hız ve Sldr. Hızı Artışı",,
+94409,Cani Akdeden İblis,@93506,,
+94407,Gözcü Ketra Ork (Binek Zindanı için),@50041,,
+805000,Grup Zindanı Kat Baş Düşmanının Yeteneği (Dairesel),Dairenin çapı artarken verdiği hasar da artar.,,
+805001,Grup Zindanı Kat Baş Düşmanının Yeteneği (Koni),Koninin boyutu artarken verdiği hasar da artar.,,
+805002,Grup Zindanı Kat Baş Düşmanının Yeteneği (Obb),Öne doğru menzili artarken verdiği hasar da artar.,,
+805003,Grup Zindanı Kat Baş Düşmanının Yeteneği (Torus),Torus'un min ve maksı aynı anda artarken verdiği hasar da artar.,,
+805004,Test için Kan Kılıcı,@72031,,@72031
+170001,Leonard,Temel Saldırı,,
+411001,Trisha,@170001,,
+411002,@170001,@170001,,
+411005,İmha Et,"Koni şeklinde bir alana ani hasar verir.
+[Kanama] uygular",,
+411006,Tepes'in Mızrağı: İşaret,"Halka + kabartı şeklinde bir alana anlık hasar
+[Kanama] uygular",,
+411007,Tepe'nin Mızrağı: Takip,"Kabartı şeklinde bir alana anlık hasar
+[Kanama] uygular",,
+411008,Kan Patlaması,"Düşmanları [Kanama] ile etkiler.
+[Kanama] etkisinde olan düşmanlara ani hasar verir.
+Düşmanlardan [Kanama] etkisini kaldırır.",,
+411009,Kan Pıhtısı Çağırma,Üstünde [Kanama] olan düşmanlara saldıran bir intihar canavarı çağırır.,,
+411010,Anemi,"Kendisine [Sersemletme] uygular.
+Alınan hasarı artırır.",,
+411011,Zorla Can Çalma,Düşmanlarına [Can Çalma] uygular.,,
+411012,İntihar,@60163,,
+411015,Can Nakli,Trisha'nın canını yeniler ve zayıflatmaları kaldırır,,
+411016,Görünmezlik,İyileştirmeden sonra kaybolur,,
+411017,Vampir Yarasa Sürüsü,"Ani çizgisel hasar.
+[Vampirleşme]'yi Kaldır",,
+411018,Kan Takası,"Koni şeklinde bir alana ani hasar verir.
+[Vampirleşme] Uygular",,
+411019,Kanlı Çarmıh: 1,"Çarmıh şeklinde bir alana ani hasar verir.
+[Vampirleşme] Uygular",,
+411020,Kanlı Çarmıh: 2,@411019,,
+411021,Kan Yükleme,"Kaybolur.
+15 Vampir Yarasa çağırır.",,
+411022,Birleşme,Görünür,,
+411025,Yapışkan Sülük Özü,Bir bölgede zemin objesi oluşturur.,,
+411028,Vampirsel Dönüşüm,[Can Çalma] etkisini kaldırır.,,Vampir kanını kullanarak şekil değiştirir ve Can Çalma'dan kurtulur.
+411036,Öfke Kategorisi 1,1 yarasa yaşarsa cinnet geçir,,
+411037,Öfke Kategorisi 2,2 yarasa yaşarsa cinnet geçir,,
+411038,Öfke Kategorisi 3,3 yarasa yaşarsa cinnet geçir,,
+411042,Tepes'in Mızrağı: İşaret - Bağlantı,@411006,,
+412005,@411005,@411005,,
+412006,@411006,@411006,,
+412007,@411007,@411007,,
+412008,@411008,@411008,,
+412009,@411009,@411009,,
+412010,@411010,@411010,,
+412011,@411011,@411011,,
+412012,@411012,@60163,,
+412015,@411015,@411015,,
+412016,@411016,@411016,,
+412017,@411017,@411017,,
+412018,@411018,@411018,,
+412019,@411019,@411019,,
+412020,@411020,@411019,,
+412021,@411021,@411021,,
+412022,@411022,@411022,,
+412025,@411025,@411025,,
+412028,@411028,@411028,,@411028
+412036,@411036,@411036,,
+412037,@411037,@411037,,
+412038,@411038,@411038,,
+412042,@411042,@411006,,
+413002,Öfkeli Kan,Müttefiklere Sldr. ve Sldr. Hızı Artışı güçlendirmesi verir,,
+413003,Püskürtme,Öndeki hedefe hasar ve Yere Yıkma,,
+413005,@411005,@411005,,
+413006,@411006,@411006,,
+413007,@411007,@411007,,
+413008,@411008,@411008,,
+413009,@411009,@411009,,
+413010,@411010,@411010,,
+413011,@411011,@411011,,
+413012,@411012,Kendini İmha + Sıçratma + Hsr. + Yer üstü,,
+413013,Zehirli Tırnaklar,"Koni şeklinde bir alana ani hasar verir.
+[Aşındırıcı Asit] uygular.",,
+413015,@411015,@411015,,
+413016,@411016,@411016,,
+413017,@411017,@411017,,
+413018,@411018,@411018,,
+413019,@411019,@411019,,
+413020,@411020,@411019,,
+413021,@411021,@411021,,
+413022,@411022,@411022,,
+413023,Kan Seli: Dalga,Kendisini çevreleyen bir obje oluşturur.,,
+413024,Kan Seli: Patlama,Etrafında torus çeklinde bir patlamaya neden olur.,,
+413025,@411025,@411025,,
+413027,Kan Pıhtısı Parıltısı,Kan Pıhtısı patlamasına kalan süreyi gösterir.,,
+413028,@411028,@411028,,@411028
+413029,Trisha'nın Zayıflatmasını Kaldır,Öldükten sonra 1 Trisha zayıflatması kaldırır.,,
+413030,Zaken'in Hayaleti: Görünmezlik,Zaken'in Hayeleti Zaken'i Çağırıyor,,
+413032,Kan Pıhtısı Temel Saldırı,,,
+413034,Sülük Doygunluğu: Renk Güçlendirmesi,Sülük Renk Güçlendirmesi,,
+413035,Zaken'in Hayaleti: Yenilmez,Zaken'in Hayeleti'nde Yenilmez Güçlendirmesi,,
+413036,@411036,@411036,,
+413037,@411037,@411037,,
+413038,@411038,@411038,,
+413039,Yanan Kan,İntihar üzerine zeminde oluşan geçici obje,,
+413040,Zaken Görünmezliği,Savaş tamamlandıktan sonra görünmez olur,,
+413041,Kan Cehennemi: Anemi,Kendisinin canını %5 düşürür,,
+413042,@411042,@411006,,
+414002,@413002,@413002,,
+414003,@413003,@413003,,
+414005,@411005,@411005,,
+414006,@411006,@411006,,
+414007,@411007,@411007,,
+414008,@411008,@411008,,
+414009,@411009,@411009,,
+414010,@411010,@411010,,
+414011,@411011,@411011,,
+414012,@411012,@413012,,
+414013,@413013,@413013,,
+414015,@411015,@411015,,
+414016,@411016,@411016,,
+414017,@411017,@411017,,
+414018,@411018,@411018,,
+414019,@411019,@411019,,
+414020,@411020,@411019,,
+414021,@411021,@411021,,
+414022,@411022,@411022,,
+414023,@413023,@413023,,
+414024,@413024,@413024,,
+414025,@411025,@411025,,
+414028,@411028,@411028,,@411028
+414036,@411036,@411036,,
+414037,@411037,@411037,,
+414038,@411038,@411038,,
+414039,@413039,@413039,,
+414041,@413041,@413041,,
+414042,@411042,@411006,,
+414043,Turner Görünmezlik Güçlendirmesi,,,
+414044,Kontes için Zaken Temel Saldırısı,Zaken bir karaktere tek atıyor,,
+414045,Vampirsel Rezonans,Zaken göründüğünde Cinnet,,
+401001,Kraliyet Muhafızı Normal Saldırısı,@74118,,
+401002,Kraliyet Muhafız Yüzbaşısı Normal Saldırısı,@74118,,
+401003,Taktiksel Darbe,Koni şeklinde bir alana ani hasar,,
+401004,Muhafız Normal Saldırısı,@74118,,
+401005,Golem Normal Saldırısı,@74118,,
+401006,Taş Ezmesi,"1 hedefe ani hasar
+[Sersemletme] İhtimali",,
+401007,Okçu Normal Saldırısı,Menzilli Temel Saldırı,,
+401008,Bomba Atma,Menzil içindeki rastgele bir noktada Alan Hasarı,,
+401009,Muhafız Öfkesi,Öfke Güçlendirmesi ek Yetenekleri,,
+401010,Şaman Ork Ruhu Animasyonu,Ruh Animasyonu Yeteneği,,
+401011,Nebulite Kristali Ölüm Yeteneği,Bir süre sonra hedefi öldüren yetenek,,
+401012,Ramog Cinneti Nebulite Kristali,Ramog'a devamlı cinnet verir,,
+401016,@411012,"Bir hedefe yaklaşır ve intihar eder
+Dairesel bir alanda hasar verir",,
+401013,İntihar Zamanlayıcısı,Timer Gösterme Güçlendirmesiyle Bağlantılı Yetenek,,
+401014,İntihar 1 saniye,Süre Kontrol Yeteneği,,
+401015,İntihar 3 saniye,@401014,,
+401019,Normal Saldırı,@74118,,
+401024,Ateş Bölgesi,Hedefe ulaşma hasarı,,Ateş Bölgesi oluşturuldu.
+401025,@401019,@74118,,
+403002,Muhafız Atışı,Çizgisel hasar,,
+401101,Araziye Vurma,Koni şeklinde hasar,,Boranta Araziye Vurma'yi kullanıyor.
+401103,Hedef Saptandı,"Tek hedef ani hasarı
+[Target] etkisi verir",,Boranta hedef seçiyor.
+401104,Balta Atma,"Doğrusal hasar
+Hedefte [Hedef] kullanır
+Rastgele 1 hedefe [Amber] etkisi uygular (kolay)",,"Boranta, seçilen hedefe balta atıyor."
+401105,@401104,"Doğrusal hasar
+Hedefte [Hedef] kullanır
+Rastgele 1 hedefe [Amber] etkisi uygular (Normal)",,@401104
+401106,@401104,"Doğrusal hasar
+Hedefte [Hedef] kullanır
+Rastgele 1 hedefe [Amber] etkisi uygular (Zor)",,@401104
+401107,@401104,@401106,,@401104
+401108,@401104,"Doğrusal hasar
+Hedefte [Hedef] kullanır
+Rastgele 1 hedefe [Amber] etkisi uygular (Çok Zor)",,@401104
+401113,@401104,@401108,,@401104
+401102,Amber Patlaması 1,Küçük dairesel alana git,,
+401109,Amber Patlaması 2,@401102,,
+401110,Boranta Yardakçı Çağırma Kategori 1 Çığırtkan,Çağırmadan önceki temel saldırıya Çığlık eşlik eder,,
+401111,Boranta Yardakçı Çağırma Kategori 2 Çığırtkan,@401110,,
+401112,Boranta Yardakçı Çağırma Kategori 3 Çığırtkan,@401110,,
+401201,Paagrio Görev Animasyonu Ölümü,Yetenek için Görev Animasyonu,,Büyünün gücü Paagrio'nun Amberleri'ni arındırır!
+401202,Deli Kılıç,,,
+401203,Çöküş,Devamlı kullanım için Çöküş,,
+401204,Merkez'e ilerle (Patlama Hazır),,,Ramog Merkez'e ilerler
+401205,Patlama Hazır,,,
+401207,Merkez'e ilerle (Çöküş),,,@401204
+401210,Paagrio’nun Büyük Patlaması,"Ramog'a ulaşırsa, geniş menzilli Alan Hasarı verir
+[Downfall] Etkisindeki hedeflere ek hasar verilir",,Paagrio'nun Amber Patlaması!
+401216,Merkez'e ilerle (Cinnet),,,Ramog güç toplamaya gider.
+401217,Cinnet Hazır,Merkeze ilerledikten sonra Cinnet geçirme hazır,,"Paagrio'nun enerjisi, Ramog'dan yayılıyor!"
+401218,Kendini Sersemletme,Nebulite Kristalini yok ettikten sonra Sersemletilir,,Ramog'un gücü azalıyor.
+401211,Cani Ramog,Can seviyesi %10'un altına düşünce cinnet geçirir,,
+401212,@401203,İlk Aktifleştirilen Ön Çöküş: Saldırı erteleme uzun,,
+401213,Çöküş: Karşılık,İlk Aktifleştirilen Arka Çöküş: Saldırı erteleme uzun,,
+401214,Hafif Çöküş,İlk Aktifleştirilen Önden Dönen Çöküş: Saldırı erteleme uzun,,
+401215,Hafif Çöküş: Karşılık,İlk Aktifleştirilen Arkadan Dönen Çöküş: Saldırı erteleme uzun,,
+990001,Svy. 1 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990002,Svy. 2 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990003,Svy. 3 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990004,Svy. 4 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990005,Svy. 5 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990006,Svy. 6 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990007,Svy. 7 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990008,Svy. 8 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990009,Svy. 9 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990010,Svy. 10 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990011,Svy. 11 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990012,Svy. 12 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990013,Svy. 13 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990014,Svy. 14 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990015,Svy. 15 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990016,Svy. 16 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990017,Svy. 17 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990018,Svy. 18 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990019,Svy. 19 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990020,Svy. 20 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990021,Svy. 21 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990022,Svy. 22 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990023,Svy. 23 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990024,Svy. 24 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990025,Svy. 25 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990026,Svy. 26 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990027,Svy. 27 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990028,Svy. 28 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990029,Svy. 29 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990030,Svy. 30 Pelerin Etkisi - Normal Yetenek Sıfırlama,,,
+990101,Svy. 1 Pelerin Etkisi - Belirsiz,,,
+990102,Svy. 2 Pelerin Etkisi - Belirsiz,,,
+990103,Svy. 3 Pelerin Etkisi - Belirsiz,,,
+990104,Svy. 4 Pelerin Etkisi - Belirsiz,,,
+990105,Svy. 5 Pelerin Etkisi - Belirsiz,,,
+990106,Svy. 6 Pelerin Etkisi - Belirsiz,,,
+990107,Svy. 7 Pelerin Etkisi - Belirsiz,,,
+990108,Svy. 8 Pelerin Etkisi - Belirsiz,,,
+990109,Svy. 9 Pelerin Etkisi - Belirsiz,,,
+990110,Svy. 10 Pelerin Etkisi - Belirsiz,,,
+990111,Svy. 11 Pelerin Etkisi - Belirsiz,,,
+990112,Svy. 12 Pelerin Etkisi - Belirsiz,,,
+990113,Svy. 13 Pelerin Etkisi - Belirsiz,,,
+990114,Svy. 14 Pelerin Etkisi - Belirsiz,,,
+990115,Svy. 15 Pelerin Etkisi - Belirsiz,,,
+990116,Svy. 16 Pelerin Etkisi - Belirsiz,,,
+990117,Svy. 17 Pelerin Etkisi - Belirsiz,,,
+990118,Svy. 18 Pelerin Etkisi - Belirsiz,,,
+990119,Svy. 19 Pelerin Etkisi - Belirsiz,,,
+990120,Svy. 20 Pelerin Etkisi - Belirsiz,,,
+990121,Svy. 21 Pelerin Etkisi - Belirsiz,,,
+990122,Svy. 22 Pelerin Etkisi - Belirsiz,,,
+990123,Svy. 23 Pelerin Etkisi - Belirsiz,,,
+990124,Svy. 24 Pelerin Etkisi - Belirsiz,,,
+990125,Svy. 25 Pelerin Etkisi - Belirsiz,,,
+990126,Svy. 26 Pelerin Etkisi - Belirsiz,,,
+990127,Svy. 27 Pelerin Etkisi - Belirsiz,,,
+990128,Svy. 28 Pelerin Etkisi - Belirsiz,,,
+990129,Svy. 29 Pelerin Etkisi - Belirsiz,,,
+990130,Svy. 30 Pelerin Etkisi - Belirsiz,,,
+990201,Svy. 1 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990202,Svy. 2 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990203,Svy. 3 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990204,Svy. 4 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990205,Svy. 5 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990206,Svy. 6 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990207,Svy. 7 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990208,Svy. 8 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990209,Svy. 9 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990210,Svy. 10 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990211,Svy. 11 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990212,Svy. 12 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990213,Svy. 13 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990214,Svy. 14 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990215,Svy. 15 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990216,Svy. 16 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990217,Svy. 17 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990218,Svy. 18 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990219,Svy. 19 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990220,Svy. 20 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990221,Svy. 21 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990222,Svy. 22 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990223,Svy. 23 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990224,Svy. 24 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990225,Svy. 25 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990226,Svy. 26 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990227,Svy. 27 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990228,Svy. 28 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990229,Svy. 29 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990230,Svy. 30 Pelerin Etkisi - PVE Saldırısını Etkisizleştiren Bariyer,,,
+990301,Svy. 1 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990302,Svy. 2 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990303,Svy. 3 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990304,Svy. 4 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990305,Svy. 5 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990306,Svy. 6 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990307,Svy. 7 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990308,Svy. 8 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990309,Svy. 9 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990310,Svy. 10 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990311,Svy. 11 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990312,Svy. 12 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990313,Svy. 13 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990314,Svy. 14 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990315,Svy. 15 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990316,Svy. 16 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990317,Svy. 17 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990318,Svy. 18 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990319,Svy. 19 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990320,Svy. 20 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990321,Svy. 21 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990322,Svy. 22 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990323,Svy. 23 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990324,Svy. 24 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990325,Svy. 25 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990326,Svy. 26 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990327,Svy. 27 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990328,Svy. 28 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990329,Svy. 29 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+990330,Svy. 30 Pelerin Etkisi - PVP Nadir Yetenek Bariyeri,,,
+500661,@50066,"Etkinlik - Öz kullan, Canavar çağır",,
+500291,@50029,@500661,,
+501911,@50191,@500661,,
+73020,@50073,@50001,,
+73021,Dalga,,,
+73022,Davet Et,,,
+73023,@73022,,,
+73024,Geri Dönüş,,,
+73025,Yürüme Hareketi,Yürüme Hareketi,,
+73026,Can Çalma,Can Çalma,,
+73027,İlerle,İlerle,,
+73028,Gizlen,Gizlen,,
+73029,İlk Bot'a İlerle,,,
+73030,İkinci Bot'a İlerle,,,
+73031,Serbest Bırak - Ana Beden,,,
+73127,Serbest Bırak - Aşama 1,,,
+73128,Serbest Bırak - Aşama 2,,,
+73129,Serbest Bırak - Aşama 3,,,
+73130,Serbest Bırak - Aşama 4,,,
+73131,Serbest Bırak - Aşama 5,,,
+73132,Hayalet İntihar,İntihar,,
+73121,밤 1단계,,,
+73122,밤 2단계,,,
+73123,밤 3단계,,,
+73124,밤 4단계,,,
+73125,밤 5단계,,,
+73126,밤 6단계,,,
+73134,Ateş Topu (Animasyon),,,
+73135,Ateş Topu (Gerçek),,,
+73136,자켄 해적단 전투원,,,
+73137,자켄 해적단 갑판원,,,
+73138,자켄 해적단 항해사,,,
+73139,자켄 해적단 선장,,,
+73140,자켄 해적단 전투원(장판),,,
+73141,정체 불명의 촉수 공격 01,,,
+73142,정체 불명의 촉수 공격 02,,,
+73143,정체 불명의 촉수 공격 03,,,
+73144,정체 불명의 촉수 공격 04,,,
+73145,정체 불명의 촉수 스폰 어택,,,
+73146,Fare - Görünmez,,,
+73147,Fare - Geri Dönüş,,,

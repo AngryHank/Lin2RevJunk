@@ -1,0 +1,843 @@
+Id,TabType,Name,TemplateName,TemplateDesc,TaskType,TaskCondition,GradeGroupId,MoveContentType,IconTexture,CategoryType,Keyword,PromoteGroupId
+101001,2,평균 등급,,,1,10000,1,149,Texture/UI_Btn_Character,-1,,
+201001,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1098,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201002,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1260,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201003,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1488,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201004,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1746,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201005,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,2072,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201006,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,2454,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201007,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,2916,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201008,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,3426,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201009,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,4028,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201010,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,4700,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201011,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,5450,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201012,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,6296,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201013,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,7242,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201014,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,8286,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201015,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,8486,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201016,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,8656,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201017,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,9056,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201018,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,9456,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201019,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,10336,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201020,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,11606,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201021,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,12988,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201022,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,14496,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201023,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,16150,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201024,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,17936,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201025,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,19872,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201026,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,21960,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201027,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,24224,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201028,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,26660,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201029,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,29276,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201030,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,32090,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201031,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,35112,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201032,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,38342,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201033,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,41792,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201034,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,45472,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201035,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,49408,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201036,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,53590,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201037,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,58036,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201038,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,62760,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201039,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,67776,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201040,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,73092,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201041,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,78694,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201042,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,84016,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201043,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,89606,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201044,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,95476,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201045,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,101614,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201046,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,108038,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201047,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,114742,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201048,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,121756,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201049,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,129062,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201050,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,136692,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201051,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,144644,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201052,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,152932,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201053,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,161552,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201054,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,170516,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201055,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,179840,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201056,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,189520,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201057,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,199586,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201058,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,210020,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201059,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,220844,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201060,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,232058,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201061,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,243686,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201062,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,255722,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201063,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,268184,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201064,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,281074,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201065,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,294406,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201066,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,308184,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201067,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,322414,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201068,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,337116,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201069,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,352298,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201070,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,367952,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201071,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,384106,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201072,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,400748,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201073,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,417920,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201074,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,435598,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201075,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,453804,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201076,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,472558,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201077,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,491844,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201078,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,511700,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201079,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,532102,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201080,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,553100,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201081,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,574664,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201082,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,596830,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201083,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,619604,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201084,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,642974,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201085,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,666980,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201086,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,691604,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201087,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,716872,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201088,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,742790,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201089,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,769376,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201090,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,796620,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201091,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,824540,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201092,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,853162,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201093,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,882472,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201094,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,912494,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201095,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,943232,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201096,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,974696,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201097,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1006906,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201098,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1039856,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201099,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1073558,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+201100,0,장착 아이템 전투력,,장착 아이템을 성장시켜 전투력을 높일 수 있습니다.,2,1108028,1,64,Texture/UI_Btn_BattleField,0,Inventory,1
+203000,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,8,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203001,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,10,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203002,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,12,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203003,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,14,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203004,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,16,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203005,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,18,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203006,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,20,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203007,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,22,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203008,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,24,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203009,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,26,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203010,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,28,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203011,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,30,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203012,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,32,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203013,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,34,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203014,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,36,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203015,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,38,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203016,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,40,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203017,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,42,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203018,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,44,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203019,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,46,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203020,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,48,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203021,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,50,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203022,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,52,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203023,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,54,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203024,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,56,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203025,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,58,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203026,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,60,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203027,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,62,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203028,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,64,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203029,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,66,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203030,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,68,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203031,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,72,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203032,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,74,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203033,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,76,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203034,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,78,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203035,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,82,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203036,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,84,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203037,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,88,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203038,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,90,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203039,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,92,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203040,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,96,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203041,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,100,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203042,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,102,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203043,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,106,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203044,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,108,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203045,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,112,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203046,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,116,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203047,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,118,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203048,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,122,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203049,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,126,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203050,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,130,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203051,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,134,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203052,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,138,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203053,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,140,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203054,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,144,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203055,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,148,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203056,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,152,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203057,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,158,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203058,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,162,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203059,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,166,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203060,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,170,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203061,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,174,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203062,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,178,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203063,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,184,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203064,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,188,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203065,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,192,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203066,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,198,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203067,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,202,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203068,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,208,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+203069,0,장착 아이템 강화도,,장착한 아이템을 강화하여 성장할 수 있습니다.,4,212,1,59,Texture/UI_Btn_EquipmentEnhancement,0,EquipmentEnchant,3
+204001,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,5,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204002,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,7,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204003,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,14,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204004,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,21,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204005,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,28,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204006,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,32,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204007,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,36,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204008,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,40,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204009,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,44,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204010,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,48,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204011,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,52,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204012,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,56,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204013,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,60,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204014,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,64,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204015,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,70,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204016,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,76,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204017,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,82,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204018,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,88,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204019,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,94,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204020,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,100,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204021,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,106,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204022,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,112,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204023,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,118,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204024,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,124,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204025,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,126,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204026,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,133,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204027,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,140,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204028,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,147,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204029,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,154,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204030,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,161,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204031,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,168,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204032,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,175,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204033,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,182,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204034,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,189,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204035,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,201,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204036,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,213,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204037,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,225,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204038,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,237,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204039,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,249,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204040,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,261,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204041,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,273,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204042,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,289,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204043,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,305,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204044,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,321,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204045,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,337,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204046,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,357,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204047,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,394,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204048,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,431,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204049,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,468,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204050,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,469,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204051,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,491,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204052,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,513,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204053,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,535,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204054,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,557,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204055,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,581,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204056,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,603,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204057,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,625,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204058,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,647,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204059,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,669,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204060,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,693,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204061,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,711,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204062,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,729,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204063,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,747,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204064,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,765,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204065,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,783,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204066,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,805,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204067,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,827,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204068,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,849,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204069,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,871,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204070,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,893,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204071,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,917,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204072,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,935,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204073,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,953,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204074,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,971,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204075,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1071,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204076,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1083,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204077,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1097,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204078,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1145,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204079,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1159,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204080,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1175,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204081,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1191,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204082,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1207,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204083,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1257,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204084,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1277,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204085,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1297,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204086,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1319,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204087,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1373,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204088,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1397,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204089,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1421,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204090,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1477,1,18,Texture/UI_Btn_Rune,1,Rune,4
+204091,0,룬 각인 진척도,,룬 재료를 모아 각인을 진행하여 성장할 수 있습니다.,5,1501,1,18,Texture/UI_Btn_Rune,1,Rune,4
+205001,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,20,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205002,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,40,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205003,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,80,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205004,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,120,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205005,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,160,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205006,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,200,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205007,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,250,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205008,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,300,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205009,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,350,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205010,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,400,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205011,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,460,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205012,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,520,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205013,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,580,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205014,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,700,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205015,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,820,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205016,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,940,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205017,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1060,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205018,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1200,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205019,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1350,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205020,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1500,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205021,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1650,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205022,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,1820,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205023,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,2000,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205024,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,2272,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205025,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,2752,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205026,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,3288,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205027,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,3884,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205028,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,4540,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205029,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,5266,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205030,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,6060,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205031,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,6926,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205032,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,7870,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205033,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,8890,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205034,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,9994,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205035,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,11184,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205036,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,12460,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205037,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,13832,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205038,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,15298,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205039,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,16862,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205040,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,18530,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205041,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,20304,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205042,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,22186,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205043,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,24182,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205044,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,26294,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205045,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,28526,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205046,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,30880,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205047,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,33364,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205048,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,35978,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205049,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,38726,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205050,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,41612,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205051,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,44638,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205052,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,47810,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205053,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,51132,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205054,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,54604,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205055,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,58234,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205056,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,62024,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205057,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,65976,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205058,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,70094,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205059,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,74386,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205060,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,78852,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205061,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,83496,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205062,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,88322,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205063,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,93336,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205064,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,98540,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205065,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,103934,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205066,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,109528,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205067,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,115322,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205068,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,121324,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205069,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,127534,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205070,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,133956,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205071,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,153694,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205072,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,173432,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205073,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,193170,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205074,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,212908,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205075,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,232650,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205076,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,243485,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205077,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,254675,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205078,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,266231,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205079,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,278157,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205080,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,290465,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205081,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,303158,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205082,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,316243,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205083,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,329731,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205084,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,343626,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205085,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,357937,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205086,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,372671,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+205087,0,도감 완성 진척도,,몬스터 코어를 모아 도감을 만들어 성장할 수 있습니다.,6,387836,1,19,Texture/UI_Btn_MonsterBook,1,MonsterBook,5
+207001,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,20,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207002,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,20,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207003,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,20,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207004,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,20,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207005,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,32,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207006,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,32,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207007,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,42,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207008,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,42,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207009,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,42,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207010,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,52,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207011,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,52,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207012,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,62,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207013,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,62,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207014,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,72,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207015,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,72,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207016,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,84,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207017,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,94,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207018,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,104,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207019,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,114,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207020,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,124,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207021,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,134,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207022,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,140,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207023,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,148,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207024,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,154,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207025,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,170,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207026,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,184,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207027,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,194,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207028,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,200,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207029,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,214,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207030,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,226,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207031,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,240,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207032,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,256,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207033,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,272,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207034,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,288,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207035,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,304,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207036,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,318,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207037,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,334,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207038,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,352,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207039,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,368,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207040,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,380,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207041,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,398,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207042,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,414,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207043,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,430,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207044,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,450,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207045,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,466,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207046,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,484,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207047,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,504,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207048,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,522,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207049,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,546,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207050,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,570,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207051,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,594,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207052,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,620,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207053,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,648,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207054,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,672,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207055,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,698,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207056,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,724,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207057,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,752,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207058,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,780,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207059,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,810,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207060,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,840,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207061,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,870,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207062,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,896,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207063,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,928,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207064,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,960,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207065,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,988,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207066,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1020,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207067,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1052,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207068,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1084,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207069,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1116,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207070,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1156,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207071,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1192,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207072,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1234,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207073,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1276,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207074,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1322,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207075,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1364,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207076,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1406,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+207077,0,엘릭서 사용량,,엘릭서를 사용해서 능력치를 높일 수 있습니다.,10,1446,1,20,Texture/UI_Btn_MiscCraft,1,ElixirCraft,7
+208001,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208002,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208003,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208004,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208005,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208006,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208007,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208008,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208009,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208010,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208011,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208012,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208013,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,1,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208014,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208015,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208016,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208017,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208018,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208019,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208020,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208021,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208022,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208023,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208024,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208025,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208026,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208027,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208028,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208029,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208030,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208031,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,2,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208032,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,3,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208033,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,3,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208034,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,3,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208035,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,3,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208036,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,3,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208037,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,4,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208038,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,4,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208039,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,4,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208040,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,4,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208041,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,5,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208042,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,5,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208043,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,5,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208044,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,5,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208045,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,6,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208046,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,6,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208047,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,6,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208048,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,7,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208049,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,7,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208050,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,7,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208051,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,8,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208052,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,8,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208053,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,8,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208054,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,9,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208055,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,9,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208056,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,9,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208057,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,10,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208058,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,10,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208059,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,10,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208060,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,11,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208061,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,11,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208062,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,11,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208063,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,12,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208064,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,12,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208065,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,13,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208066,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,13,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208067,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,14,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208068,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,14,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208069,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,14,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208070,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,15,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208071,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,15,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208072,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,16,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208073,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,16,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208074,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,17,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208075,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,17,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208076,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,18,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208077,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,20,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208078,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,22,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208079,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,24,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208080,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,26,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208081,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,27,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208082,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,28,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208083,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,28,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208084,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,29,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208085,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,29,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208086,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,30,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208087,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,30,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208088,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,31,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208089,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,31,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208090,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,32,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208091,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,32,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208092,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,33,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+208093,0,업적 레벨 달성도,,높은 업적 레벨을 달성하여 성장할 수 있습니다.,12,33,1,17,Texture/UI_Btn_PeroidAchievement,1,Achievement,8
+209001,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,14,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209002,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,28,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209003,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,82,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209004,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,160,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209005,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,264,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209006,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,394,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209007,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,554,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209008,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,748,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209009,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,976,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209010,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,1244,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209011,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,1552,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209012,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,1904,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209013,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,2302,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209014,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,2750,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209015,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,3252,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209016,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,3812,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209017,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,4430,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209018,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,5110,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209019,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,5856,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209020,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,6670,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209021,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,7558,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209022,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,8520,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209023,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,9562,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209024,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,10684,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209025,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,11894,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209026,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,13190,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209027,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,14582,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209028,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,16068,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209029,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,17652,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209030,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,19340,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209031,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,21134,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209032,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,23038,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209033,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,25054,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209034,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,27188,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209035,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,29440,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209036,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,31816,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209037,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,34322,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209038,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,36958,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209039,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,39728,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209040,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,42636,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209041,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,45686,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209042,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,48880,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209043,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,52226,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209044,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,55726,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209045,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,59380,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209046,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,63196,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209047,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,67178,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209048,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,71326,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209049,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,75646,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209050,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,80140,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209051,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,84816,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209052,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,89676,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209053,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,94718,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209054,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,99956,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209055,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,105388,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209056,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,111016,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209057,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,116852,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209058,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,122890,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209059,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,129140,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209060,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,135602,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209061,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,142284,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209062,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,149188,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209063,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,156320,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209064,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,163680,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209065,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,171276,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209066,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,179110,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209067,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,187184,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209068,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,195506,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209069,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,204076,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209070,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,212904,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209071,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,221988,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209072,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,231336,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209073,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,240948,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209074,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,250834,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209075,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,260990,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209076,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,271430,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209077,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,282148,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209078,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,293156,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209079,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,304452,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209080,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,316046,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209081,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,327940,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209082,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,340138,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209083,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,352642,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+209084,0,장착 집혼석 전투력,,집혼석을 장착하고 성장시켜 전투력을 올릴 수 있습니다.,14,365458,1,21,Texture/UI_Btn_JewelCraft,0,SoulCrystal,9
+210001,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,10,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210002,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,10,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210003,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,10,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210004,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,10,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210005,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,10,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210006,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,15,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210007,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,15,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210008,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,15,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210009,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,15,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210010,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,15,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210011,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,20,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210012,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,20,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210013,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,20,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210014,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,20,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210015,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,20,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210016,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,25,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210017,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,25,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210018,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,25,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210019,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,25,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210020,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,25,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210021,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,30,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210022,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,30,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210023,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,30,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210024,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,30,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210025,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,30,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210026,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,35,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210027,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,35,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210028,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,35,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210029,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,35,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210030,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,35,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210031,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,48,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210032,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,48,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210033,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,48,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210034,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,57,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210035,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,57,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210036,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,57,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210037,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,66,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210038,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,66,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210039,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,66,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210040,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,75,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210041,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,75,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210042,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,84,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210043,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,93,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210044,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,93,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210045,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,102,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210046,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,111,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210047,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,120,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210048,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,129,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210049,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,138,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210050,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,147,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210051,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,156,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210052,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,165,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210053,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,174,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210054,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,183,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210055,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,192,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210056,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,192,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210057,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,201,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210058,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,210,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210059,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,219,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210060,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,228,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210061,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,228,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210062,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,237,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210063,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,246,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210064,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,255,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210065,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,273,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210066,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,282,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210067,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,291,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210068,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,309,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210069,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,318,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210070,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,336,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210071,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,354,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210072,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,363,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210073,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,381,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210074,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,390,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210075,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,408,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210076,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,417,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210077,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,426,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210078,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,435,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210079,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,453,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210080,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,462,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210081,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,471,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210082,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,489,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210083,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,498,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210084,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,516,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210085,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,525,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210086,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,543,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210087,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,561,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210088,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,579,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210089,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,597,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210090,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,615,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210091,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,633,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210092,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,660,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210093,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,678,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210094,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,696,1,22,Texture/UI_Btn_Skill,1,Skill,10
+210095,0,스킬 레벨 합계,,스킬을 레벨업하여 성장할 수 있습니다.,15,705,1,22,Texture/UI_Btn_Skill,1,Skill,10
+211001,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,1,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211002,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,2,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211003,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,3,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211004,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,4,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211005,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,5,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211006,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,6,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211007,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,7,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211008,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,8,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211009,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,9,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211010,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,10,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211011,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,11,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211012,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,12,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211013,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,13,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211014,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,14,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211015,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,15,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211016,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,16,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211017,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,17,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211018,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,18,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211019,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,19,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211020,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,20,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211021,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,21,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211022,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,22,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211023,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,23,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211024,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,24,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211025,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,25,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211026,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,26,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211027,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,27,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211028,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,28,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211029,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,29,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211030,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,30,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211031,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,31,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211032,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,32,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211033,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,33,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211034,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,34,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211035,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,35,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211036,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,36,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+211037,0,명예 등급 달성도,,결투장 명예 등급을 올려 성장할 수 있습니다.,17,40,1,1,Texture/UI_Btn_PVP,1,Pvp,11
+232001,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,1781,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232002,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,1879,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232003,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,2127,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232004,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,2500,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232005,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,2988,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232006,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,3585,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232007,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,4286,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232008,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,5087,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232009,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,5985,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232010,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,6979,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232011,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,8065,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232012,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,9240,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232013,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,10506,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232014,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,11858,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232015,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,13296,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232016,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,14818,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232017,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,16425,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232018,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,18113,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232019,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,19883,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232020,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,21733,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232021,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,23663,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232022,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,25672,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232023,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,27759,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232024,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,29923,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232025,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,32164,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232026,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,34480,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232027,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,36873,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232028,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,39339,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232029,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,41879,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232030,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,44495,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232031,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,47182,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232032,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,49943,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232033,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,52775,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232034,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,55680,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232035,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,58655,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232036,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,61701,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232037,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,64818,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232038,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,68005,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232039,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,71261,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232040,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,74588,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232041,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,77982,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232042,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,81445,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232043,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,84977,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232044,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,88576,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232045,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,92243,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232046,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,95978,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232047,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,99780,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232048,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,103648,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232049,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,107582,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232050,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,111582,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232051,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,115649,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232052,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,119781,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232053,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,123979,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232054,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,128240,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232055,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,132568,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232056,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,136959,1,118,Texture/UI_Btn_Pet,1,Pet,12
+232057,0,펫 육성 진척도,,펫을 성장시켜 전투력을 올릴 수 있습니다.,38,141416,1,118,Texture/UI_Btn_Pet,1,Pet,12
+233001,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,10282,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233002,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,10693,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233003,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,11105,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233004,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,11517,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233005,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,11929,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233006,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,12341,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233007,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,12753,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233008,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,13165,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233009,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,13576,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233010,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,13988,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233011,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,14400,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233012,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,14812,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233013,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,15224,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233014,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,15636,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233015,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,16048,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233016,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,16459,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233017,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,16871,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233018,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,17283,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233019,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,17695,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233020,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,18107,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233021,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,18519,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233022,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,18931,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233023,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,19342,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233024,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,19754,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233025,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,20166,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233026,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,20578,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233027,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,20990,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233028,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,21402,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233029,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,21814,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233030,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,22225,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233031,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,22637,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233032,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,23049,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233033,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,23461,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233034,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,23873,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233035,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,24285,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233036,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,24697,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233037,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,25108,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233038,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,25520,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233039,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,25932,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233040,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,26344,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233041,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,26756,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233042,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,27168,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233043,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,27580,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233044,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,27991,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233045,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,28403,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233046,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,28815,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233047,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,29227,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233048,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,29639,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233049,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,30051,1,119,Texture/UI_Btn_Cape,0,Cape,13
+233050,0,보유 망토 전투력,,망토를 성장시켜 전투력을 올릴 수 있습니다.,39,30463,1,119,Texture/UI_Btn_Cape,0,Cape,13

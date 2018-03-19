@@ -1,0 +1,824 @@
+Id,Name,EffectTypeName,Desc
+1001,Renversement ordinaire,Renversement,
+1002,@1001,@1001,Dernier coup d'attaque de base
+1003,@1001,@1001,
+1004,Invincibilité ordinaire,Invincible,Aucun dégât subi.
+1005,Buff de protection de résurrection,@1004,Aucun dégât subi. Attaquer un ennemi dissipera le buff d'invincibilité.
+1011,Étourdissement ordinaire,Étourdissement,Étourdissement
+10111,Impact précipité : renversement,@1001,
+10122,Poussée de puissance : ralentissement,Ralentissement,Vitesse -{1%} %
+11211,Heurt,Augmentation des gains d'aggro,Gain d'aggro +50 %
+112124,Vengeance,Cible verrouillée (PJ),Attaque forcée
+112125,@112124,Réduction de l'ATQ,ATQ -{1}
+112126,@112124,Cible verrouillée (PNJ),
+11213,Majesté,"Majesté : amplification du niveau de menace, amplification de la DÉFP/DÉFM, réduction de l'esquive","DÉF +{2%} %, aggro de toutes les attaques +{1%} %, renvoi des dégâts : {1%} %"
+11221,Jugement,Réduction de la DÉF,
+11222,Tempête de tonnerre,Étourdissement,@1011
+112231,Balayage large,"Coup multiple : amplification des coups simultanés, augmentation de la VIT d'ATQ","Coups ennemis simultanés +{1}, VIT d'ATQ +{2%} %"
+11231,Nuage de sable,Aveugle,Taux de précision -{1%} %
+11232,Pas en arrière : étourdissement,@11222,@1011
+112331,Hâte,Hâte : Amplification de la VIT d'ATQ,VIT d'ATQ +{1%} %
+112332,@112331,Hâte : amplification de l'esquive,Esquive +{1%} %
+11242,Pluie de flèches,Réduction de l'ATQP,Réduction de l'ATQ
+11243,Snipe,"Snipe : portée d'attaque, ATQ, augmentation de la précision, Immobilité",Atq.: {2%}%. Préc. +{3}. Augmente la portée d'attaque. Réduit la vitesse.
+11244,Œil de faucon,"Œil de faucon : augmentation des critiques, réduction de la DÉF",Taux de CRIT. +{1} et DÉG +{2%} %
+11251,Coup fusion,Dégâts sur la durée,Dégâts sur la durée
+112531,Boost de mana,Boost de mana : amplification des PM max.,"Utilisation de PM +{1%} %, dégâts de compétence +{2%} %"
+11261,Punition divine : étourdissement,@1001,
+11262,Restauration,Soins sur la durée,Soins sur la durée
+12211,Tribunal,Cible verrouillée,Gain d'aggro +30 %
+12212,Grâce d'Eva,Réduction de la VIT d'ATQ,Réduit la régén. des PV de 50 %.
+122131,Posture d'égide,Posture d'égide : immunité temporaire contre les dégâts,Immunité contre les DÉG
+122132,@122131,Posture d'égide : augmentation de la vitesse,Vitesse +{1%} %
+12221,Blaster sonique,Blaster sonique : Réduction de la vitesse,Vitesse +{1%} %
+122231,Rythme de combat,Rythme de combat : de l'ATQ,"ATQ +{1}, DÉF +{3} des membres du groupe"
+122241,Chant du nemrod,Chant du nemrod : taux de CRIT du groupe,Taux de CRIT des membres du groupe +{1%} %
+12231,Triple écharde,Réduction de la vitesse,"DÉF -{1%} %, VIT d'ATQ -{3%} % et vitesse -{4%} %."
+12232,Ouragan de lames,@1011,@1011
+12233,Marche des plaines,"Marche des plaines : VIT d'ATQ, amplification de la vitesse, taux d'absorption de PV",VIT d'ATQ : {1%} %. Vitesse : +{2%} %. Taux de drainage de PV : {3%} %
+12241,Tir mortel,Augmentation du taux de CRIT.,
+12242,Double tir large,Double tir large : Augmentation Réduction,DÉFP : {1%} %
+122431,Œil de l'esprit,Œil de l'esprit : forte augmentation du taux de CRIT,Taux de CRIT +{1}
+122441,Double pas rapide,"Double pas rapide : forte augmentation de la vitesse, faible augmentation de la VIT d'ATQ","Vitesse +{1%} %, VIT d'ATQ +{2%} %"
+12251,Lance glaciale : gel,@11222,
+12252,Blizzard,@10122,@10122
+122521,@12252,@1011,@1011
+122614,Cauchemar,@10122,Vitesse -10 %
+122615,Feu sacré,Augmentation des dégâts subis,Dégâts subis +{1%} %
+12263,Soin majeur,Soins,
+122631,Actualisation mentale,Actualisation mentale : réduction du temps de recharge du groupe,Temps de recharge des compétences des membres du groupe -{1#} s
+12264,Suivre la défense,"Buff défensif de groupe, P et M",DÉF des membres du groupe +{1%} %
+13211,Succion de vie,Augmentation de la DÉF,DÉF -{1%} %
+132125,Chaîne d'hydre,@11222,@1011
+132126,@132125,Immunité contre Attraction et Provocation,Effet de la concentration d'aggro
+13213,Défense ultime,"Défense ultime : forte augmentation de la DÉFP et DÉFM, Immobilité",DÉF : {1%} % +{3}. Réduit la vitesse des ennemis.
+132132,@13213,Défense ultime : ennemi ralenti,Réduction de la vitesse
+13222,Tempête d'ouragans,@10122,@10122
+132221,@13222,Augmentation de la vitesse,Vitesse +{1%} %
+132231,Danse du guerrier,Danse du guerrier : augmentation de l'ATQP du groupe,ATQP des membres du groupe +{1}
+132241,Danse furieuse,Danse furieuse : augmentation de la VIT d'ATQ du groupe,VIT d'ATQ des membres du groupe +{1%} %
+13231,Dard,DÉG de saignement suppl.,DÉG : {[Use34Param]1-1%} % de l'ATQ +{1-1}
+13232,Pluie tranchante : DÉG de saignement suppl.,@13231,
+132322,Pluie tranchante,@11222,@1011
+132331,Posture vicieuse,Posture vicieuse : amplification des dégâts CRIT,DÉG CRIT +{1%} %
+132332,Coup critique de posture vicieuse,Posture vicieuse : taux de CRIT à 100 %,Efficacité max. du taux de CRIT
+13242,Tir étourdissant,@11222,
+13243,Tir fulgurant,"Tir rapide : augmentation de la VIT d'ATQ, réduction de la portée d'attaque",VIT d'ATQ +{1%} % et portée d'attaque -{2%} m.
+13244,Contre fatal,"Contre fatal : forte augmentation de l'ATQ, réduction de l'esquive","ATQ +{1}, esquive -{2%} %"
+13251,Souffle sombre,@10122,
+13252,Corruption,"Réduction de la DÉF, réduction de la vitesse","DÉF -{1%} %, vitesse -{3%} %"
+132531,Sagesse fatale,Sagesse fatale : forte augmentation de l'ATQM,ATQM +{1}
+132623,Rage sanglante,@10122,@10122
+132624,Rage sanglante : augmentation des DÉG,Augmentation de l'ATQ,
+132631,Surpuissance,Surpuissance : Utilisation de PV restreinte,Empêche les PV de chuter en dessous de {1}
+132632,@132631,@132631,
+14211,Poussée,"Réduction de la DÉF, cible fixe",@13211
+14212,Tremblement de terre,@1011,@1011
+14213,@14212,@112125,ATQ -20 %
+14222,Attaquer bondissante,@1001,
+14223,Nain furieux,"Nain furieux : augmentation de l'ATQ, réduction de la DÉF","ATQ +{1}, DÉF -{2%} %"
+14231,Ruée de lames,Réduction de la résistance aux critiques,résistance aux critiques -{1%} %
+14232,Étoile sonique,@12231,@10122
+142321,@14232,Silence,Silence
+142331,Recherche d'Adena,Recherche d'Adena : augmentation des gains d'Adena,Adena gagnées en combat +{1%} % et vitesse +{2%} %.
+242331,@142331,Recherche d'Adena : poison et ralentissement,Vitesse et dégâts de poison -{2%} %
+14241,Tir explosif,@11251,@13231
+14242,Tir d'esquive,@12231,@10122
+142422,@14242,Augmentation de la portée,Augmentation de la portée
+14251,Pic terrestre,@1001,
+142531,Combattant de l'intérieur,Combattant de l'intérieur : amplification des attaques de base du groupe,ATQ des attaques de base des membres du groupe +{1%} %
+14261,Protection divine,Augmentation de la DÉF,DÉF des membres du groupe +{1}
+14262,Main divine,@11222,
+142631,Grande vitalité,Grande vitalité : augmentation des PV max. du groupe,PV max des membres du groupe +{1}
+20211,Aura défensive,Augmentation de la DÉF,@14261
+20221,Aura d'attaque,Augmentation de l'ATQ,ATQ des membres du groupe +{1}
+20231,Pas rapide,Augmentation de la vitesse,Vitesse des membres du groupe +{1%} %
+20241,Conseils,Augmentation de la précision,Précision des membres du groupe +{1}
+20251,Murmure mortel,Augmentation des dégâts CRIT,DÉG CRIT des membres du groupe +{1%} %
+20261,Boost de PV,Augmentation des PV max.,@142631
+21221,Revanche,@20221,ATQ +{1}
+21231,Furtivité,Réd. du tps de recharge des comp.,Temps de recharge des compétences -{1}
+212311,@21231,Furtivité : augmentation de l'ATQ,@21221
+21241,Ralentissement perfectionné,@10122,@10122
+21242,Ralentissement perfectionné : DÉG de saignement,@10122,Dégâts : {[Use34Param]1-1%} % de l'ATQ
+21251,Embrasement,@11251,
+212512,@21251,@20221,@21221
+212611,Lien divin,@20211,DÉF +{1%} % par membres du groupe
+212621,Bouclier de mana,Bouclier de mana,"En cas de dégâts subis, réduit les PM au lieu des PV."
+22211,Fuite ancienne,Augmentation de l'esquive,Taux d'esquive +{1%} %
+22221,Esprit,Augmentation du taux de CRIT.,Taux de CRIT +{1%} %
+22231,Colère fulgurante,"VIT d'ATQ, augmentation de la vitesse",VIT d'ATQ +{[StackMul]1%} % et vitesse +{[StackMul]1%} %.
+22241,Rapide,Augmentation des dégâts critiques,@132221
+22261,@22211,@22211,Esquive +{1%} %
+23211,Drainage perfectionné,Effet de drainage de PV,Absorption de {1-1%} % des dégâts infligés
+23221,Frénésie,@22241,@132331
+23231,Recherche de sang,"DÉF, réduction de la résistance au taux de CRIT",DÉF -{1%} % et résistance aux critiques -{3%} %.
+23241,Signe critique,Augmentation du taux de précision,Taux de PRÉ +{1%} %
+23251,@23221,@22241,@132331
+23261,Agression,@20221,Drainage de PV +{1%} %
+24211,Patience,Buff d'augmentation de l'ATQ,@21221
+242121,Dextérité chanceuse,Dextérité chanceuse : chance de réduire le temps de recharge quand le groupe est attaqué,Temps de recharge des compétences -{1#}
+24221,Impact envieux,@24211,@21221
+242231,Berserker chanceux,Berserker chanceux : chance d'augmenter la VIT d'ATQ quand le groupe attaque,VIT d'ATQ +{1%} %
+24231,@22221,@22221,@22221
+242321,Fatalité chanceuse,Coup mortel chanceux : augmentation du taux de critiques,@122431
+24241,Acrobaties,Augmentation du taux d'esquive,@22211
+242421,Pas rapide chanceux,Pas rapide chanceux : étourdissement,@1011
+2424211,@242421,Pas rapide chanceux : réduction de l'ATQ,ATQ -{1%} %
+24251,@23261,@20221,@21221
+24252,Défense chanceuse,Défense chanceuse : chance d'augmenter la DÉFP et la DÉFM quand le groupe attaque,DÉF +{1}
+24261,Fortification,Régén. des PV de l'ATQ,Régén. des PV+{1%} %
+30001,Bouclier absolu,"Réduction des dégâts subis, résistance aux handicaps","Dégâts subis -{1%} % (bref), résistance aux débuffs handicapants +30 %"
+30002,Pas agile,@132221,@132221
+30003,immortalité,@1004,
+30004,Flèche sanglante : dégâts sur la durée,@13231,DÉG de saignement +{[Use34Param]1%} %
+30006,Missile filant : étourdissement,@11222,@1011
+30008,Armure de givre : tout,Armure de givre,Ralentissement
+30010,Bouclier de mana,Bouclier de mana,@212621
+30013,Réduction du temps,Réduction du temps de recharge,Réduit le temps de recharge des compétences pendant une certaine durée
+30014,Frappe empoisonnée,Réduction de la vitesse et des dégâts,Dégâts -{1%} % et vitesse -{2%} %.
+300141,@30014,Dégâts de poison,DÉG de poison : {[Use34Param]1%} %
+30015,Zone de défense,Résistance aux états anormaux,Résistance aux états anormaux +{1%} %
+300151,@30015,Réduction des dégâts subis,Dégâts subis -{1%} % et dégâts de compétence rare subis -{2%} % supplémentaires
+31001,Armure de givre : ralentissement,@10122,@30008
+35001,Maîtrise des armes de guerrier,Maîtrise des armes de guerrier,
+35002,Maîtrise armure lourde,Maîtrise armure lourde,
+35003,Maîtrise des armes de bandit,Maîtrise des armes de bandit,
+35004,Maîtrise armure légère,Maîtrise armure légère,
+35005,Maîtrise des armes de mage,Maîtrise des armes de mage,
+35006,Maîtrise des robes,Maîtrise des robes,
+35011,Maîtrise de la déviation,Maîtrise de la déviation,
+35021,Maîtrise du combat,Maîtrise du combat,
+35031,Amélioration d'attaque critique,Amélioration d'attaque critique,
+35111,@35011,@35011,
+35121,@22221,Esprit,
+35122,@35021,@35021,
+35131,Chance de critiques,Chance de critiques,
+35141,@22241,Rapide,
+35151,Sceau de givre,Sceau de givre,
+35161,@22211,Fuite ancienne,
+35221,@35021,@35021,
+35231,Puissance critique,Puissance critique,
+35311,Expertise de la déviation,Expertise de la déviation,
+35321,@35021,@35021,
+35331,@22221,@35121,
+35332,Coup mortel chanceux,Coup mortel chanceux,
+35341,@24241,Acrobaties,
+40001,Buff de Bonus de temps d'EXP ,Augmentation des gains d'EXP,Obtenez une grande quantité d'EXP pendant le Bonus de temps.
+40002,Buff de Bonus de temps d'Adena ,Augmentation des gains d'Adena,Obtenez une grande quantité d'Adena pendant le Bonus de temps.
+40003,Buff de Bonus de temps d'équipement,Augmentation du taux d'acquisition d'équipement,Augmente fortement le taux d'apparition d'équipement pendant le Bonus de temps.
+40004,ATQP,ATQP,
+40005,ATQM,ATQM,
+40006,Taux d'aug. de l'ATQP,Taux d'aug. de l'ATQP,
+40007,Taux d'aug. de l'ATQM,Taux d'aug. de l'ATQM,
+40008,Puissance d'attaque de base,Puissance d'attaque de base,
+40009,Taux d'aug. de l'ATQ des membres du groupe,Taux d'aug. de l'ATQ des membres du groupe,
+40010,Taux d'aug. de la VIT d'ATQ,Taux d'aug. de la VIT d'ATQ,
+40011,Taux d'aug. des DÉG CRIT,Taux d'aug. des DÉG CRIT,
+40012,Taux de PRÉ CRIT,Taux de PRÉ CRIT,
+40013,Taux de résistance aux critiques,Taux de résistance aux critiques,
+40014,DÉGP,DÉGP,
+40015,DÉGM,DÉGM,
+40016,DÉF ignorée,DÉF ignorée,
+40017,Réduction des PV de la cible,Réduction des PV de la cible,
+40018,Réduction des PV de la cible (%),Réduction des PV de la cible (%),
+40019,DÉFP,DÉFP,
+40020,DÉFM,DÉFM,
+40021,Taux d'aug. de la DÉFP,Taux d'aug. de la DÉFP,
+40022,Taux d'aug. de la DÉFM,Taux d'aug. de la DÉFM,
+40023,Esquive,Esquive,
+40024,Taux d'aug. de l'esquive,Taux d'aug. de l'esquive,
+40025,Taux d'esquive,Taux d'esquive,
+40026,Précision,Précision,
+40027,Taux d'aug. de précision,Taux d'aug. de précision,
+40028,Taux de PRÉ,Taux de PRÉ,
+40029,Taux d'aug. des dégâts,Taux d'aug. des dégâts,
+40030,Taux d'aug. des DÉGP,Taux d'aug. des DÉGP,
+40031,@40030,@40030,
+40032,Taux d'aug. des dégâts sur les cibles ralenties,Taux d'aug. des dégâts sur les cibles ralenties,
+40033,DÉG ignorant la DÉF,DÉG ignorant la DÉF,
+40034,Taux de réduction des dégâts,Taux de réduction des dégâts,
+40035,Taux de réduction des DÉGP,Taux de réduction des DÉGP,
+40036,Taux de réduction des DÉGM,Taux de réduction des DÉGM,
+40037,Réduction des DÉG fixes,Réduction des DÉG fixes,
+40038,Taux de déviation,Taux de déviation,
+40039,Taux de réduction de déviation des dégâts,Taux de réduction de déviation des dégâts,
+40040,DÉGP sur la durée,DÉGP sur la durée,
+40041,DÉGM sur la durée,DÉGM sur la durée,
+40042,Soin des PV en fonction de l'ATQ,Soin des PV en fonction de l'ATQ,
+40043,Soins sur la durée,Soins sur la durée,
+40044,Taux d'aug. des agressions,Taux d'aug. des agressions,
+40045,Régén. des PV,Régén. des PV,
+40046,Drainage de PV,Drainage de PV,
+40047,Absorption de PV (compétence active qui vole des PV à l'ennemi),Absorption de PV (compétence active qui vole des PV à l'ennemi),
+40048,Absorption de PV (alloue les PV volés à vous et aux membres du groupe),Absorption de PV (alloue les PV volés à vous et aux membres du groupe),
+40049,PV max.,PV max.,
+40050,Taux d'aug. des PV max.,Taux d'aug. des PV max.,
+40051,PM max.,PM max.,
+40052,Taux d'aug. des PM max.,Taux d'aug. des PM max.,
+40053,Taux d'aug. de la vitesse,Taux d'aug. de la vitesse,
+40054,Taux de réd. du coût en PM,Taux de réduc. coût en PM,
+40055,Réduction du coût en PM,Réduction du coût en PM,
+40056,Taux de régén. PM,Taux de régén. PM,
+40057,Temps de recharge des compétences,Temps de recharge des compétences,
+40058,Rictus (augmente l'aggro jusqu'au max.),Rictus (augmente l'aggro jusqu'au max.),
+40059,Verrouiller la cible,Verrouiller la cible,
+40060,Déplacer la cible,Déplacer la cible,
+40061,Attirer la cible,Attirer la cible,
+40062,Taux de résistance à l'attraction,Taux de résistance à l'attraction,
+40063,Taux de résistance à la poussée,Taux de résistance à la poussée,
+40064,Taux d'aug. des gains d'EXP,Taux d'aug. des gains d'EXP,
+40065,Taux d'aug. des gains d'Adena,Taux d'aug. des gains d'Adena,
+40066,Taux de résist. aux ralentissements,Taux de résist. aux ralentissements,
+40067,Taux de résist. aux étourdissements,Taux de résist. aux étourdissements,
+40068,Résistance aux états anormaux,@30015,
+40069,Augmentation de la portée des compétences,Augmentation de la portée des compétences,
+40070,Augmentation du nombre d'impacts des compétences,Augmentation du nombre d'impacts des compétences,
+40071,Augmentation de fin du combo,Augmentation de fin du combo,
+40072,Pénétration,Pénétration,
+40073,Résilience,Résilience,
+40074,Taux de CRIT,Taux de CRIT,
+40075,Résistance aux CRIT,Résistance aux CRIT,
+40076,Taux d'aug. du taux de CRIT,Taux d'aug. du taux de CRIT,
+40077,Taux d'aug. de résistance aux critiques,Taux d'aug. de résistance aux critiques,
+50001,Flammes,Monstre : flammes,
+50002,Frisson,Monstre : frisson,
+50003,Aveugle,Monstre : aveugle,
+50004,Malédiction,Monstre : malédiction,
+50005,Étourdissement,Monstre : étourdissement,
+50006,Saignement,"Monstre : saignement, réduction de la VIT d'ATQ",
+50007,Poison,"Monstre : poison, réduction de la vitesse",
+50008,Affaiblissement,Monstre : affaiblissement,
+50010,@50005,@50005,
+60099,@50006,Monstre de l'Île du discours : saignement,
+60103,Compétence factice,@132221,
+60115,Idole dorée,Brûlure,"Les dégâts sont infligés sur la durée, pendant 5 s."
+60118,Marlow - Défense ultime,@13213,Augmente fortement la DÉF.
+60136,Pisteur squelette (+ étourdissement/pour donjon de Parchemin de perfectionnement),@50005,
+60137,Golem de pierre (+ étourdissement/pour donjon de Parchemin de perfectionnement),@50005,
+71023,Écho critique,@10122,Vitesse +40 %
+71452,@50006,Morsure mortelle du Roi sanglant Saignement,
+71462,@50006,Griffure d'Orbis : Saignement,
+73013,Guillotine : furie,Colère,
+73022,Croissant sanglant : réduction de l'attaque,@112125,Réduit l'ATQ.
+73031,Orfen : affaiblissement,Affaiblissement d'Orfen,Réduit la DÉF.
+73033,Colère d'Orfen,Colère d'Orfen,Augmentation de l'ATQ et de la VIT d'ATQ.
+74011,Racines mortelles : renversement,@1001,
+74022,Drainage de sang,Drainage de sang : soins sur la durée (%),
+74032,Appel de la foudre,Appel de la foudre : Dégâts sur la durée,
+74042,Malédiction infernale,Malédiction infernale : flammes,
+74051,Fosse empoisonnée,Fosse empoisonnée : Dégâts sur la durée,
+74062,@11222,Orage : ralentissement,
+74071,Marécage de la malveillance,Marécage de la malveillance : dégâts sur la durée,
+74072,Frappe de la queue,Frappe de la queue : ralentissement,@12221
+74082,Surchauffe,Surchauffe : augmentation de l'ATQ,
+74083,@74082,Surchauffe : augmentation de la vitesse,
+74084,@74082,Surchauffe : réduction de la DÉF,
+74085,@74082,@74082,
+74086,@74082,@74083,
+74087,@74082,@74084,
+74088,@74082,@74082,
+74089,@74082,@74083,
+74090,@74082,@74084,
+74091,@74082,@74082,
+74092,@74082,@74083,
+74093,@74082,@74084,
+50074,Fracas : réduction de l'ATQ,Fracas : réduction des dégâts,Réduit l'ATQ de {1} pour chaque charge d'un effet spécifique.
+74095,Regard pétrifiant,Regard pétrifiant : augmentation des dégâts subis,Augmente les dégâts subis de {1%} %.
+74096,Frappe de la Reine,Frappe de la Reine : aveugle,Réduit de {1} par charge de précision
+74097,Perfectionnement d'écaille : DÉFP,Perfectionnement d'écaille : DÉFP,DÉFP +{1%} %
+74098,Perfectionnement d'écaille : DÉFM,Perfectionnement d'écaille : DÉFM,DÉFM +{1%} %
+74111,Marque de la mort,Marque de la mort,
+74121,Vase consumante,Vase consumante : augmentation des dégâts subis,
+74122,Fracas terrestre,Fracas terrestre : Dégâts sur la durée,
+74131,Regard de Marsha (ancien),Regard de Marsha : Dégâts sur la durée,"Les dégâts sont subis sur la durée, pendant 10 s., tout en infectant les alliés à proximité."
+74132,Malédiction de Méduse (ancien),Malédiction de Méduse : dégâts de zone,"Immobilise pendant 5 s, puis une explosion inflige de lourds dégâts dans la zone immédiate."
+74134,@74132,Malédiction de Méduse : explosion,
+741341,Marsha : tornade de la tentation,Marsha : tornade de la tentation,Cause {1} point(s) de dégâts de saignement sur 10 s.
+741342,@741341,@741341,@1011
+741351,Marsha : vent cisaillant,Marsha : vent cisaillant,Incapable d'utiliser des compétences pendant 5 s.
+7413511,@741351,Marsha : vent cisaillant (VE),@741351
+741352,@741351,@741351,@741351
+741353,@741351,@741351,@741351
+77001,@50001,@50001,
+77002,@50002,"Monstre : frisson, réduction de la vitesse",
+77003,@50003,@50003,
+77004,@50004,"Monstre : malédiction, réduction de la DÉF",
+77005,@50005,@50005,
+77006,@50006,"Monstre : saignement, réduction de l'ATQ",
+77007,@50007,@50007,
+77008,@50008,@50008,
+77010,@50005,@50005,
+77085,@73022,@112125,@73022
+801011,Augmentation de l'ATQ,Augmentation de l'ATQP et de l'ATQM,ATQ +50 % pendant 30 s.
+801012,Augmentation de l'ATQP,Augmentation de l'ATQP,ATQ +30 % pendant 30 s.
+801013,Augmentation de l'ATQM,Augmentation de l'ATQM,@801012
+801021,Augmentation de la VIT d'ATQ,Augmentation de la VIT d'ATQ,VIT d'ATQ +50 % pendant 30 s.
+801022,@801021,@801021,VIT d'ATQ +20 % pendant 30 s.
+801031,Augmentation de la DÉF,Augmentation de la DÉFP et de la DÉFM,DÉF +30 % pendant 30 s.
+801032,Augmentation de la DÉFP,Augmentation de la DÉFP,DÉF +35 % pendant 30 s.
+801033,Augmentation de la DÉFM,Augmentation de la DÉFM,@801032
+801041,Augmentation de la vitesse,Augmentation de la vitesse,Vitesse +30 % pendant 30 s.
+801042,@801041,@801041,@801041
+80105,Augmentation des PV max.,Augmentation des PV max.,PV max. +40 % pendant 30 s.
+80106,Augmentation des PM max.,Augmentation des PM max.,PM max. +40 % pendant 30 s.
+801043,Augmente les dégâts de compétence,Augmente les dégâts de compétence,Augmente les dégâts de compétence de 300 % pendant 30 s.
+801044,Aura de dégâts de mêlée (décompte),Aura de dégâts de mêlée,Inflige 300 DÉG fixes aux ennemis à proximité sur 30 s.
+801045,Barrière de cristal aquatique,Immunité contre les DÉG de cristal aquatique,Génère une barrière d'immunité contre les dégâts sur le cristal aquatique pendant 30 s.
+801046,Groupe furieux (décompte),Augmente l'ATQ et la DÉF du groupe,Augmente l'ATQ et la DÉF des alliés de 30 % pendant 30 s.
+8010461,Groupe furieux,@801046,@801046
+801047,Domination,Augmentation de l'ATQ et de la VIT d'ATQ,Augmente l'ATQ et la VIT d'ATQ pendant 30 s.
+801048,@801047,@801047,Augmente l'ATQ et la VIT d'ATQ pendant 10 s.
+93506,Tourment de Berserk,"Forte augm. ATQ et DÉF, faible augm. VIT et VIT d'ATQ",
+94409,Contractuel démon en rage folle,@93506,"Augmentation de l'ATQ, de la DÉF, de la vitesse et de la VIT d'ATQ"
+90001,Santé de clan,Augmentation des PV,PV max. +{1%} %
+90002,Âme de clan,Augmentation des PM,PM max. +{1%} %
+90003,Bouclier de clan,Augmentation de la DÉF,DÉF +{1%} %
+90004,Puissance de clan,Augmentation de l'ATQ,ATQ +{1%} %
+90005,Conseils de clan,Augmentation de la précision,Taux de précision +{1%} %.
+90006,Esquive de clan,@22211,@22261
+90007,Mouvement de clan,Augmentation de la vitesse,@132221
+90008,Frappe mortelle de clan,@22241,@132331
+90009,Taux de CRIT de clan,Augmentation du taux de CRIT,Taux de CRIT +{1%} %
+905001,Cristal d'unité de niv. {TextParam1},Buff de cristal d'unité de niv. {TextParam2},Imprègne le pouvoir du cristal d'unité de la salle du clan.
+905002,@905001,@905001,@905001
+905003,@905001,@905001,@905001
+905004,@905001,@905001,@905001
+905005,@905001,@905001,@905001
+905006,@905001,@905001,@905001
+905007,@905001,@905001,@905001
+905008,@905001,@905001,@905001
+905009,@905001,@905001,@905001
+905010,@905001,@905001,@905001
+905101,Satiété du Petit festin,Augmentation de la DÉFP et de la DÉFM,DÉFP et DÉFM +500
+905102,Satiété du Festin moyen,Augmentation des PV et PM,Augmentation des PV/PM de 1 000
+905103,Satiété du Grand festin,Augmentation de l'ATQP et de l'ATQM,ATQP et ATQM +500
+905104,Satiété du Petit festin de luxe,@905101,DÉFP et DÉFM +1 200
+905105,Satiété du Festin moyen de luxe,@905102,Augmentation des PV/PM de 2 000
+905106,Satiété du Grand festin de luxe,@905103,ATQP et ATQM +1 200
+905107,Satiété du Petit festin somptueux,"Augmentation de la DÉFP, de la DÉFM et du taux de CRIT","ATQP et ATQM +2 000, taux de CRIT +500"
+905108,Satiété du Festin moyen somptueux,"Augmentation des PV, des PM et du taux de CRIT",PV et PM +3 000 et taux de CRIT +500
+905109,Satiété du Grand festin somptueux,"Augmentation de l'ATQP, de l'ATQM et du taux de CRIT","ATQP et ATQM +2 000, taux de CRIT +500"
+905501,Potion d'augmentation de l'ATQP,Augmentation de l'ATQP,Augmente l'ATQP de 10 %.
+905502,Potion d'augmentation de l'ATQM,Augmentation de l'ATQM,Augmente l'ATQM de 10 %.
+905503,Potion d'augmentation de la DÉFP,Augmentation de la DÉFP,Augmente la DÉFP de 10 %.
+905504,Potion d'augmentation de la DÉFM,Augmentation de la DÉFM,Augmente la DÉFM de 10 %.
+905505,Potion d'augmentation de la vitesse,Augmentation de la vitesse,Augmente la vitesse de 15 %.
+905506,Potion d'augmentation de la VIT d'extraction,Augmentation de la vitesse d'extraction,Augmente la vitesse d'extraction de 50 %.
+905507,Potion d'augmentation de la VIT d'ATQ,Augmentation de la VIT d'ATQ,Augmente la VIT d'ATQ de 20 %.
+905508,Potion d'augmentation du taux d'esquive,@24241,Augmente le taux d'esquive de 50 %.
+905509,Potion d'augmentation de la résilience,Augmentation de la résilience,Augmente la résilience de 10 000.
+905510,Potion d'augmentation de DÉG ignorant la DÉF,Augmentation des DÉG ignorant la DÉF,Augmente les DÉG ignorant la DÉF de 2 000.
+905511,Potion de réduction des dégâts fixes,Augmentation de la réduction des dégâts fixes,Augmente la réduction des dégâts fixes de 1 000.
+905512,Potion de réduction du temps de recharge des compétences,@21231,Réduit le temps de recharge des compétences de 30 %.
+905513,Potion d'augmentation de pénétration,Augmentation de pénétration,Augmente la pénétration de 10 000.
+905514,Dég. infligés au boss augum. potion,Augmentation des DÉG infligés au boss,Augmente les dégâts infligés au boss de 15 %.
+905515,Potion de réduction des dégâts subis contre les boss,Réduction des DÉG subis contre les boss,Réduit les dégâts infligés par un boss de 5 %.
+905516,Potion d'augmentation de gain de Cœurs,Augmentation d'apparition des Cœurs de monstre,Augmente le taux d'apparition des Cœurs de monstre de 25 %. (Hors donjons élite)
+905601,Potion d'augmentation moral,Augmentation du moral,Augmente la vitesse des membres de clan à proximité et de soi-même de 30 %.
+905602,Effet d'augmentation du moral,Effet d'augmentation du moral,Augmente la vitesse des membres du clan de 30 %.
+905603,Potion de Tempête de glace,Tempête de glace,Réduit la vitesse des ennemis à proximité de 50 %.
+905604,Effet de Tempête de glace,Effet de Tempête de glace,Réduit la vitesse de 50 %.
+905605,Potion de destruction,Destruction de château,Augmente les dégâts infligés aux structures de l'attaquant de 50 %.
+905606,Potion d'augmentation de la régén. des PV,Amplification de régén. des PV,Augmente la régén. des PV des membres de clan à proximité et de soi-même de 50 %.
+905607,Amplification de régén. des PV,Amplification de régén. des PV,Augmente la régén. des PV des membres de clan à proximité de 50 %.
+905608,Potion d'amplification de l'ATQ,Amplification de l'ATQ,Réduit la DÉF de 60 % et augmente l'ATQ de 20 %.
+905609,Potion d'amplification de la DÉF,Amplification de la DÉF,Réduit l'ATQ de 15 % et augmente la DÉF de 100 %.
+905610,Potion d'élévation de l'esprit,Élévation de l'esprit,Augmente le taux de résistance aux débuffs de 50 %.
+905611,Potion anti-magie,Anti-magie,Supprime les PM des ennemis à proximité de 20 % par seconde.
+905612,Effet de potion anti-magie,@905611,Supprime 20 % de PM par seconde.
+906000,Protection de résurrection de champ de bataille d'honneur,Protection de résurrection de champ de bataille d'honneur,@1005
+906001,Champ de bataille d'honneur,Récupération de PV,Soigne les PV des alliés.
+906002,@906001,Effet de récupération de PV,@906001
+906003,@906001,@801041,Augmente la vitesse des alliés.
+906100,Protection de résurrection de champ de bataille des braves,Protection de résurrection de champ de bataille des braves,@1005
+906101,Champ de bataille des braves,@906001,Soigne des PV.
+906102,@906101,@801041,Augmente la vitesse.
+906500,Protection de résurrection de l'Arène impitoyable,Protection de résurrection de l'Arène impitoyable,@1005
+906501,Sanctuaire de l'Arène impitoyable,Sanctuaire de l'Arène impitoyable,"ATQ, DÉF, VIT d'ATQ et vitesse +30 %."
+11,Trait d'âme,Trait d'âme,Ceci est un Trait d'âme.
+12,Poussée factice,@1001,Ceci sert au test de poussée.
+100001,Buff d'invincibilité,@1004,Ceci est un buff d'invincibilité.
+100002,Buff d'invisibilité,Invisible,Ceci est un buff d'invisibilité.
+100003,Buff de durabilité,Solide,Ceci est un buff de durabilité.
+100004,Buff d'habileté,Habile,Ceci est un buff d'habileté.
+100005,Buff de coup fatal,Coup fatal,Ceci est un buff de coup fatal.
+100006,Énergie de terre,@20221,"Protection de l'autel de la terre : ATQP et ATQM +10 %, dégâts infligés aux Tours de défense +25 %"
+100007,Énergie de vent,@20221,"Protection de l'autel du vent : ATQP et ATQM +10 %, dégâts infligés aux Tours de défense +25 %"
+100008,Protection de l'autel,@20221,Le pouvoir de l'autel amplifie et augmente l'ATQP et l'ATQM de 30 % supplémentaire.
+100011,Effet de combo niv. {TextParam1},Combo {TextParam2},Ceci est un buff de combo de 10. Aucune icône affichée.
+100012,@100011,@100011,Ceci est un buff de combo de 20. Aucune icône affichée.
+100013,@100011,@100011,Ceci est un buff de combo de 40. Aucune icône affichée.
+100014,@100011,@100011,Ceci est un buff de combo de 60. Aucune icône affichée.
+100015,@100011,@100011,Ceci est un buff de combo de 90. Aucune icône affichée.
+100016,@100011,@100011,Ceci est un buff de combo de 120. Aucune icône affichée.
+100017,@100011,@100011,Ceci est un buff de combo de 160. Aucune icône affichée.
+100018,@100011,@100011,Ceci est un buff de combo de 200. Aucune icône affichée.
+100019,@100011,@100011,Ceci est un buff de combo de 250. Aucune icône affichée.
+100020,@100011,@100011,Ceci est un buff de combo de 300. Aucune icône affichée.
+100021,Conscience coupable,Réduction de l'ATQ et de la DÉF,La culpabilité s'empare de vous et vous n'avez plus d'énergie.
+100031,Buff de calibration JcJ,Augmentation de l'ATQ et de la DÉF,@100021
+100101,Héros de l'autel de terre,"ATQ, dégâts infligés aux structures, PV max. et vitesse augmentés","ATQP et ATQM +80 %, dégâts infligés aux Tours de défense +50 %, PV max. +100 %, vitesse +10 %, résistance aux étourdissements +30 %"
+100102,Héros de l'autel de vent,@100101,@100101
+200000,Protection,Protection,@100001
+200001,Énergie de feu,Augmentation de VIT et  VIT d'ATQ,La protection de l'autel du feu augmente la vitesse de 10 % et la VIT d'ATQ de 10 %.
+200002,Énergie d'eau,"Augmentation de la vitesse, réduction du temps de recharge des compétences",La protection de l'autel de l'eau augmente la vitesse de 10 % et réduit le temps de recharge des compétences de 15 %.
+200003,Héros de siège de niv. {TextParam1},ATQ et DÉF +{TextParam2},ATQ et DÉF +1 %.
+200004,@200003,@200003,ATQ et DÉF +2 %.
+200005,@200003,@200003,ATQ et DÉF +3 %.
+200006,@200003,@200003,ATQ et DÉF +4 %.
+200007,@200003,@200003,ATQ et DÉF +5 %.
+200008,@200003,@200003,ATQ et DÉF +6 %.
+200009,@200003,@200003,ATQ et DÉF +7 %.
+200013,@200003,@200003,@200003
+200014,@200003,@200003,@200004
+200015,@200003,@200003,@200005
+200016,@200003,@200003,@200006
+200017,@200003,@200003,@200007
+200018,@200003,@200003,@200008
+200019,@200003,@200003,@200009
+300001,Château majestueux,Augmentation des gains d'EXP,"EXP obtenue en vainquant des monstres +50 %.
+Applicable uniquement sur le territoire d'un château conquis."
+300002,Château de Gludio,"ATQ, DÉF +1,5 %","ATQ et DÉF +1,5 %.
+(hors Siège de château et Siège de forteresse)"
+300003,Château de Dion,ATQ et DÉF +2 %.,"ATQ et DÉF +2 %.
+(hors Siège de château et Siège de forteresse)"
+300004,Château de Giran,"ATQ, DÉF +2,5 %","ATQ et DÉF +2,5 %.
+(hors Siège de château et Siège de forteresse)"
+300005,Château d'Oren,ATQ et DÉF +3 %.,"ATQ et DÉF +3 %.
+(hors Siège de château et Siège de forteresse)"
+301001,Bénédiction de forteresse,Augmentation du taux d'apparition des Cœurs de monstre,"Taux d'apparition de Cœur de monstre + 10%
+S'applique uniquement dans la région de vos forteresses conquises."
+301002,Forteresse du Grand chemin de Gludin,Augmentation des dégâts infligés aux monstres,Dégâts infligés aux monstres +5 %
+301003,Forteresse des Plaines de Gludio,Réduction des DÉG infligés par les monstres,DÉG infligés par les monstres -2 %.
+301004,Forteresse du Manoir de Windawood,@301002,Dégâts infligés aux monstres +10 %
+301005,Forteresse des Terres désolées,@301003,DÉG infligés par les monstres -4 %.
+301006,Forteresse des Plaines de Dion,Augmentation des DÉG infligés aux monstres élites,Dégâts infligés aux monstres élites +5 %
+301007,Forteresse du Marais de Cruma,Réduction des DÉG infligés par les monstres élites,DÉG infligés par les monstres élites -2 %
+301008,Forteresse du Sommet de la dissonance,@301006,Dégâts infligés aux monstres élites +10 %
+301009,Forteresse des Terres de clameur,@301007,DÉG infligés par les monstres élites -4 %
+301010,Forteresse du Domaine de Giran,Augmentation des dégâts infligés aux boss,Dégâts infligés aux boss +5 %
+301011,Forteresse des Rivages de brume mortelle,Réduction des DÉG infligés par les boss,DÉG infligés par les boss -2 %
+301012,Forteresse de l'Île du diable,@301010,Dégâts infligés aux boss +10 %
+301013,Forteresse de la Nécropole hantée,@301011,DÉG infligés par les boss -4 %
+301014,Forteresse de la Vallée draconique,Augmentation des dégâts infligés aux joueurs,"Dégâts infligés aux joueurs +2 %
+(hors Siège de château et Siège de forteresse)"
+301015,Forteresse du Plateau du mistral,Réduction des dégâts infligés par les joueurs,"Dégâts infligés par les joueurs -2 %
+(hors Siège de château et Siège de forteresse)"
+301016,Forteresse des Terres éternelles,@301014,"Dégâts infligés aux joueurs +4 %
+(hors Siège de château et Siège de forteresse)"
+301017,Forteresse conquise de la Tour d'ivoire,@301015,"Dégâts infligés par les joueurs -4 %
+(hors Siège de château et Siège de forteresse)"
+301018,Forteresse de l'Île du discours,@132221,"Vitesse +2 %
+(Siège de château et Siège de forteresse exclus)"
+301030,Buff de forteresse conquise C,"Augmentation des PV, des PM et de la VIT","+2 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+301031,Buff de forteresse conquise B,@301030,@301030
+301032,Buff de forteresse conquise A,@301030,"+3 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+301033,Buff de forteresse conquise S,@301030,"+4 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+301034,Buff de forteresse conquise R,@301030,"+6 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+301035,Buff de forteresse conquise SR,@301030,"+8 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+301036,Buff de forteresse conquise UR,@301030,"+10 % aux PV, aux PM et à la VIT
+(Hors Siège de château et Siège de forteresse)"
+302001,Sagesse du Seigneur,Augmentation de l'efficacité des Potions de PM et PV,Efficacité des Potions de PV et PM +20 % (hors Siège de château et Siège de forteresse).
+302002,Gloire du Seigneur,Augmentation du taux d'apparition des Cœurs de monstre et du gain d'EXP en vainquant des monstres,EXP obtenue en vainquant des monstres et taux d'apparition des cœurs +20 %
+302003,Grâce du Seigneur,Augmentation des gains d'Adena et du taux d'apparition des objets en vainquant des monstres,Adena obtenues en vainquant des monstres et taux d'apparition des objets +20 %.
+400001,Buff de sanctuaire,"Augmentation du gain d'Adena, du gain d'EXP et de la vitesse","Augmentation du gain d'Adena, du gain d'EXP et de la vitesse."
+400002,Rage de Gran Kain,"Augmentation de l'ATQ, DÉF, et VIT d'ATQ","Augmentation de l'ATQ, DÉF, et VIT d'ATQ"
+500001,Rage d'Eldru,"Augmentation de l'ATQ, de la DÉF, de la vitesse et de la VIT d'ATQ","Rage face aux ennemis faibles et augmentation de l'ATQ, de la DÉF, de la vitesse et de la VIT d'ATQ"
+510001,Buff de bonus de Diamants quotidiens,@132221,Vitesse +8 %
+510002,Buff d'avantages de chasse quotidienne,"Taux d'apparition des objets, gain d'Adena +20 %",Taux d'apparition des objets / Gain d'Adena +20 %
+900001,Halo lumineux du boss de la Tour de l'insolence,Force,Force
+301,Bénédiction du blaireau robuste {TextParam1},Vitesse,La bénédiction du blaireau robuste augmente la vitesse.
+302,@301,Vitesse d'extraction,La bénédiction du blaireau robuste augmente la vitesse d'extraction.
+303,@301,Nombre d'extractions,La bénédiction du blaireau robuste augmente le nombre d'extractions.
+304,Bénédiction du factionnaire du jardin,Buff du factionnaire du jardin,La bénédiction du factionnaire du jardin. Augmente le nombre d'extractions de {0} fois.
+305,Factionnaire du jardin,Factionnaire du jardin,La première compétence utilisée par le factionnaire du jardin à son apparition.
+306,Effet du factionnaire du jardin,Effet du factionnaire du jardin,L'effet d'une compétence régulièrement utilisée par le factionnaire du jardin.
+401,Source de récupération,Source de récupération,La première compétence utilisée par la source de récupération à son apparition.
+402,Buff Source de récupération,Buff Source de récupération,Les PV sont vite récupérés à proximité de la source de récupération.
+403,Buff de résurrection de Siège de forteresse,@1004,Applique brièvement Invincibilité en cas de résurrection pendant un Siège de forteresse.
+451,Buff de résurrection du défenseur du Siège de château,@1004,Applique brièvement Invincibilité en cas de résurrection pendant un Siège de château.
+452,@451,@301,Augmente brièvement la vitesse en cas de résurrection pendant un Siège de forteresse.
+453,Buff de résurrection de l'Attaquant du Siège de château,@1004,@451
+454,@453,@301,@452
+501,Bloquer les AJ,Bloquer les AJ,"Assassinats non applicables. (hors Siège de forteresse, Siège de château et Champ de bataille)"
+502,@501,@501,@501
+503,@501,@501,@501
+504,@501,@501,@501
+510,Bénédiction d'Einhasad,Bénédiction d'Einhasad,Augmente l'EXP de chasse sur terrain et l'EXP d'extraction de 100 %.
+511,@510,@510,Augmente l'EXP de chasse sur terrain et l'EXP d'extraction de 200 %.
+720212,Voltige - Étourdissement,@11222,@1011
+1720212,@720212,@11222,@1011
+720222,Crachat de poison - Poison,Poison,Applique un poison et reçoit des dégâts sur la durée.
+1720222,@50007,@720222,Se fait empoisonner et reçoit des dégâts sur la durée.
+1720223,Flaque de poison,Flaque de poison,
+720232,Déchaînement de phéromones - Réduction de la DÉFP,Réduction de la DÉFP,Réduit la DÉFP.
+720233,Déchaînement de phéromones - Réduction de la DÉFM,Réduction de la DÉFM,Réduit la DÉFM.
+720234,Déchaînement de phéromones - Réduction de la vitesse,@12231,Réduit la vitesse.
+1720232,@720232,@720232,@720232
+1720233,@720233,@720233,@720233
+1720234,@720234,@12231,@720234
+1720310,Bénédiction de la grande fourmi infirmière 1,@1004,
+1720311,Bénédiction de la grande fourmi infirmière 2,@1004,
+1720312,Bénédiction de la grande fourmi infirmière 3,@1004,
+1720316,Auto-étourdissement,@11222,
+720241,Creuser - Invisibilité,@100002,
+720242,Creuser - Invincibilité,@1004,
+720243,Creuser - Étourdissement,@11222,
+720251,Rage folle (Reine fourmi),@905502,
+720282,Attaque de base + Ralentissement,Résistance aux DÉG CRIT de base,@720234
+720301,Immunité contre les attaques physiques pendant {TextParam1} s.,,
+721211,Augmente la DÉF pendant {TextParam1} s.,,
+721222,Perfectionnement de l'ATQ de base de la Reine fourmi,@720222,@720222
+7212411,Buff de fourmi (pour temps d'affichage),Autodestruction dans :,
+721241,Buff de fourmi {TextParam1},,
+721242,@721241,,
+721243,@721241,,
+721244,@721241,,
+721245,@721241,,
+721246,@721241,,
+721301,@720243,@11222,
+721321,Lien,,Lie et rend immobile.
+721332,Buff de fourmi infirmière,,
+721341,Auto-buff de fourmi infirmière,,
+17200022,@50007,,@1720222
+17200032,@1720223,@1720223,
+17200033,Trébuchement,,
+17200052,@50005,,Impossible de se déplacer.
+17200091,Rage folle,,
+720312,Lame de sang : saignement,Saignement,Inflige des dégâts sur la durée pendant 30 s (cumulable).
+720321,Protection sanglante,Bouclier,Un bouclier qui dure 10 s.
+720351,Berserker sanglant,Rage folle,Rage folle
+720352,@720351,@720351,@720351
+720353,Berserker sanglant (extrême),@720351,@720351
+720372,@50005,Varcarlo : étourdissement,
+7203721,@50005,Varkaron (extrême) : étourdissement,
+720361,Gifle sanglante : saignement,Saignement 2,@720312
+72038,Vortex de sang Augmentation Réduction,@13211,Réduit la DÉF pendant 10 s (cumulable).
+172035,Clone de Varkaron : buff de perfectionnement d'ATQ,Perfectionnement d'ATQ,Perfectionnement d'ATQ
+720391,Invocation de clone : Temps de recharge,Recharge,Simple temps de recharge
+720441,Poison de gravité,Dégâts sur la durée,Inflige des dégâts sur la durée pendant 30 s.
+720451,Fureur du cœur,@720351,Fureur
+720461,Contrôle mental,Contrôle mental,"Dans la confusion, incapable de différencier les alliés des ennemis."
+720472,Fracas perçant (Étourdissement),@11222,@1011
+720482,Rugissement du gardien (Silence),@142321,Incapable d'utiliser des compétences
+720511,Invocation facile {TextParam1},Test du temps de recharge,@720391
+720521,@720461,@720461,@720461
+720531,@720461,@720461,@720461
+720541,@720511,@720511,@720391
+720551,Invocation normale {TextParam1},@720511,@720391
+720561,@720551,@720511,@720391
+720571,@720551,@720511,@720391
+720581,Invocation ardue {TextParam1},@720511,@720391
+720591,@720581,@720511,@720391
+720601,@720581,@720511,@720391
+600,Contrôle mental (test),@720461,Contrôle mental (données en cours de test)
+741141,Rupture,@11222,Rupture applique un étourdissement.
+741171,Fatigue de Marlox,@11222,"Marlox devient fatigué.
+Augmente considérablement les dégâts subis par Marlox."
+741191,Buff de totem démoniaque (cumulable),Buff cumulable,"En cas de cumul, applique un étourdissement."
+7411911,@741171,@11222,Marlox devient fatigué.
+7411912,Marlox fort (état),Immunité démoniaque,Immunité démoniaque vous permet de ne recevoir aucun dégât.
+601391,Déclin,Réduction de la VIT d'ATQ,Réduit la VIT d'ATQ.
+601402,Ébranlement,Réduction du taux de précision d'attaque,Réduit le taux de précision des attaques.
+601412,@50006,@720312,Subit des dégâts sur la durée causés par un saignement.
+601441,@50006,@720312,@601412
+601462,@50005,@11222,@1011
+601472,Renversement,@1001,Abattement
+601612,@601472,@1001,@601472
+601622,Ralentissement,@10122,Réduction de la vitesse
+601642,@50007,Poison,Subit des dégâts sur la durée causés par un empoisonnement.
+601,@50005,@1011,@1011
+910245,Bonbon au miel bio,,ATQ +1 500
+910246,Bonbon à la fraise,,PV max. +3 000
+910247,Bonbon au chocolat,,PM max. +3 000
+910248,Bonbon au raisin,,DÉF +2 000
+910249,Pousse printanière,,@910248
+910250,Félicitations,,@910245
+910251,Raisin,,Augmente les dégâts critiques de 3 %.
+910252,Pastèque,,@910246
+910253,Melon oriental,,@910248
+910254,Framboise,,@910245
+910255,Clé de la chasse au trésor de Feldheim,,@910246
+910256,Données de l'animation aux effets de feu d'artifice 1 ,,Données des effets de feu d'artifice 1
+910257,Données de l'animation aux effets de feu d'artifice 2,,Données des effets de feu d'artifice 2
+910258,Données de l'animation aux effets de feu d'artifice 3,,Données des effets de feu d'artifice 3
+910259,Données de l'animation aux effets de feu d'artifice 4,,Données des effets de feu d'artifice 4
+602,Buff pour affichage de boss de terrain.,Pour affichage de boss de terrain,Pour affichage de boss de terrain
+800000,Icône d'alarme (test),Affiche l'icône d'alarme,Test d'affichage d'icône d'alarme
+805004,@720312,@720312,@720312
+411005,Blessure perforante,Blessure perforante,Réduit la défense en cas de saignement dû à une blessure.
+411010,Anémie,@11222,
+411011,Drainage de PV forcé,Drainage de PV forcé,Léonard draine fortement des PV.
+411018,Vampirisation,Augmentation de l'ATQ et réduction de la DÉF,Le sang devient vampirique et entraîne la rage.
+411019,Changement vampirique,@720461,Le sang devient complètement vampirique et le sang d'un allié devient la nouvelle cible.
+411036,Rage de sang I,,
+411037,Rage de sang II,,
+411038,Rage de sang III,,
+412005,@411005,@411005,@411005
+412010,@411010,@11222,
+412011,@411011,@411011,@411011
+412018,@411018,@411018,@411018
+412019,@411019,@720461,@411019
+412036,@411036,,
+412037,@411037,,
+412038,@411038,,
+413002,Sang enragé,Augmentation de l'ATQ et de la VIT d'ATQ,
+413005,@411005,@411005,@411005
+413010,Léonard : anémie,@11222,
+413011,@411011,@411011,@411011
+413013,Acide corrosif,DÉG sur la durée et réduction de la vitesse,Vomi visqueux limite les mouvements et attaque la peau.
+413016,Chauve-souris : invisible,,
+4130212,Recharge de sang : invincible,@1004,
+4130213,Recharge de sang : étourdissement,@11222,
+413018,@411018,@411018,@411018
+413019,@411019,@720461,@411019
+4130272,Lueur de Caillot de sang,,
+413034,Supersaturation gluante,,
+413035,Invincibilité du Fantôme de Zaken,@1004,@1004
+413036,@411036,,
+413037,@411037,,
+413038,@411038,,
+413041,Léonard : enfer sanglant,@11222,
+414002,@413002,@413002,
+414005,@411005,@411005,@411005
+414010,@411010,@11222,
+414011,@411011,@411011,@411011
+414013,@413013,@413013,@413013
+414016,@413016,,
+414018,@411018,@411018,@411018
+414019,@411019,@720461,@411019
+414036,@411036,,
+414037,@411037,,
+414038,@411038,,
+414041,@413041,@11222,
+414043,Buff d'invisibilité de Tark,@11222,
+414045,Résonnance vampirique,,
+4010062,Fracas de pierre : étourdissement,@11222,@1011
+4010202,Cible identifiée : cible,Cible,Devient la cible des lancers de hache.
+401021,Braises,,"Explose après un court instant, allumant un feu au sol."
+401026,Allumage,Dégâts supplémentaires (cumulable),Allumage déclenche une explosion qui inflige considérablement plus de dégâts.
+401009,Rage folle de Garde royal de Ramog,Animation,
+401010,Âme de chaman orc : animation,,
+401011,Cristal de nébulite : étourdissement,@11222,
+401013,Décompte d'autodestruction,@7212411,
+401014,Buff de l'animation d'autodestruction 1,,
+401015,Buff de l'animation d'autodestruction 2,,
+4020012,Entaille puissante : renversement,@1001,@601472
+4010351,Explosion en attente : handicap,Handicape Ramog,
+4020101,Explosion en attente : handicap,@12231,
+4010361,Buff de déplacement de Paagrio,Mobile,
+4010222,@50001,Flammes,
+401000,Pouvoir d'orc,Buff de boîte de ravitaillement d'orc,
+4011032,Cible identifiée : étourdissement,@1001,
+4011042,@401021,Braises,Les braises collent à la peau et infligent des dégâts continus.
+4011022,Explosion de braises 1,@4011042,
+4011023,Explosion de braises 2,,
+4011092,Explosion de braises : renversement,@1001,
+4012022,@401026,,@401026
+4012051,Explosion en attente,,
+4012061,@4010361,,
+401217,Rage folle en attente,,
+401218,Autoétourdissement de Ramog,,
+4012092,Lueur de Paagrio,,
+401211,Ramog - Rage folle,,
+9902011,Effet de cape - Barrière de désactivation d'attaque JcE : 1 fois,,
+9902012,Effet de cape - Barrière de désactivation d'attaque JcE : 2 fois,,
+9902013,Effet de cape - Barrière de désactivation d'attaque JcE : 3 fois,,
+9903011,Effet de cape - Barrière de compétence rare JcJ : 1 fois,,
+9903012,Effet de cape - Barrière de compétence rare JcJ : 2 fois,,
+9903013,Effet de cape - Barrière de compétence rare JcJ : 3 fois,,
+1000000,Augmentation des DÉG de monstre élite,Buff d'augmentation des DÉG de monstre élite,Dégâts infligés aux monstres élites augmentés de 15 %
+1000001,Augmentation des DÉG de boss,Buff d'augmentation des DÉG de boss,Dégâts infligés aux boss augmentés de 15 %
+1000002,Augmentation des DÉG des monstres magiques,Buff d'augmentation des DÉG des monstres magiques,Dégâts infligés aux monstres magiques augmentés de 30 %
+420001,Paladin,,
+420002,Chef de guerre,,
+420003,Chasseur de trésors,,
+420004,@11244,,
+420005,Thaumaturge,,
+420006,Évêque,,
+420007,Chevalier du temple,,
+420008,Chante-sabre,,
+420009,Marche-plaines,,
+420010,Ranger d'argent,,
+420011,Chante-sort,,
+420012,Ancêtre,,
+420013,Chevalier de Shilien,,
+420014,Danse-lames,,
+420015,Marche-abîme,,
+420016,Ranger fantôme,,
+420017,Braille-sort,,
+420018,Ancêtre de Shilien,,
+420019,Gardien,,
+420020,Pourfendeuse,,
+420021,Escroc,,
+420022,Ranger de guerre,,
+420023,Mage de guerre,,
+420024,Sage,,
+731211,자켄 밤 1단계,,
+731221,자켄 밤 2단계,,
+731231,자켄 밤 3단계,,
+731241,자켄 밤 4단계,,
+731251,자켄 밤 5단계,,
+731261,자켄 밤 6단계,,
+730223,Retour,,
+730233,Animation de retour,,
+731361,Soldat des pirates de Zaken,,
+731391,Capitaine des pirates de Zaken,,Réduit fortement la DÉF
+730271,En attente,,Réduit la DÉFP et la DÉFM
+730281,Masquer,,
+730222,Téléportation + déplacement vers le premier bateau,,
+730232,Téléportation + déplacement vers le deuxième bateau,,
+731412,Bave ambiguë,,
+731461,Souris - Invisible,,
+731471,Souris - Retour,,
+810000001,Potion de clan niv. 1 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 10 %.
+L'effet dure 1 h."
+810000002,Potion de clan niv. 2 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 20 %.
+L'effet dure 1 h."
+810000003,Potion de clan niv. 3 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 30 %.
+L'effet dure 1 h."
+810000004,Potion de clan niv. 4 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 40 %.
+L'effet dure 1 h."
+810000005,Potion de clan niv. 5 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 50 %.
+L'effet dure 1 h."
+810000006,Potion de clan niv. 6 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 60 %.
+L'effet dure 1 h."
+810000007,Potion de clan niv. 7 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 70 %.
+L'effet dure 1 h."
+810000008,Potion de clan niv. 8 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 80 %.
+L'effet dure 1 h."
+810000009,Potion de clan niv. 9 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 90 %.
+L'effet dure 1 h."
+810000010,Potion de clan niv. 10 : buff d'Adena,@40002,"Quand on l'utilise, la quantité d'Adena obtenue est augmentée de 100 %.
+L'effet dure 1 h."
+810000101,Potion de clan niv. 1 : buff de butin d'objets,Taux d'apparition des objets augmenté,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 10 %.
+L'effet dure 1 h."
+810000102,Potion de clan niv. 2 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 20 %.
+L'effet dure 1 h."
+810000103,Potion de clan niv. 3 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 30 %.
+L'effet dure 1 h."
+810000104,Potion de clan niv. 4 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 40 %.
+L'effet dure 1 h."
+810000105,Potion de clan niv. 5 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 50 %.
+L'effet dure 1 h."
+810000106,Potion de clan niv. 6 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 60 %.
+L'effet dure 1 h."
+810000107,Potion de clan niv. 7 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 70 %.
+L'effet dure 1 h."
+810000108,Potion de clan niv. 8 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 80 %.
+L'effet dure 1 h."
+810000109,Potion de clan niv. 9 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 90 %.
+L'effet dure 1 h."
+810000110,Potion de clan niv. 10 : buff de butin d'objets,@810000101,"Quand on l'utilise, le taux d'apparition des objets est augmenté de 100 %.
+L'effet dure 1 h."
+810000201,Potion de clan niv. 1 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 10 %.
+L'effet dure 1 h."
+810000202,Potion de clan niv. 2 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 20 %.
+L'effet dure 1 h."
+810000203,Potion de clan niv. 3 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 30 %.
+L'effet dure 1 h."
+810000204,Potion de clan niv. 4 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 40 %.
+L'effet dure 1 h."
+810000205,Potion de clan niv. 5 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 50 %.
+L'effet dure 1 h."
+810000206,Potion de clan niv. 6 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 60 %.
+L'effet dure 1 h."
+810000207,Potion de clan niv. 7 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 70 %.
+L'effet dure 1 h."
+810000208,Potion de clan niv. 8 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 80 %.
+L'effet dure 1 h."
+810000209,Potion de clan niv. 9 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 90 %.
+L'effet dure 1 h."
+810000210,Potion de clan niv. 10 : buff de Taux d'apparition des Cœurs,@905516,"Quand on l'utilise, le taux d'apparition des Cœurs de monstre est augmenté de 100 %.
+L'effet dure 1 h."
+810000301,Potion de clan niv. 1 : buff d'EXP,EXP augmentée,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 10 %.
+L'effet dure 1 h."
+810000302,Potion de clan niv. 2 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 20 %.
+L'effet dure 1 h."
+810000303,Potion de clan niv. 3 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 30 %.
+L'effet dure 1 h."
+810000304,Potion de clan niv. 4 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 40 %.
+L'effet dure 1 h."
+810000305,Potion de clan niv. 5 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 50 %.
+L'effet dure 1 h."
+810000306,Potion de clan niv. 6 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 60 %.
+L'effet dure 1 h."
+810000307,Potion de clan niv. 7 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 70 %.
+L'effet dure 1 h."
+810000308,Potion de clan niv. 8 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 80 %.
+L'effet dure 1 h."
+810000309,Potion de clan niv. 9 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 90 %.
+L'effet dure 1 h."
+810000310,Potion de clan niv. 10 : buff d'EXP,@810000301,"Quand on l'utilise, la quantité d'EXP obtenue est augmentée de 100 %.
+L'effet dure 1 h."
+30910245,Chocolat nature,,@910245
+30910246,Chocolat au lait,,@910246
+30910247,Chocolat noir,,@910247
+30910248,Chocolat blanc,,@910248
+30910251,Chocolat à l'amaretto,,@910251

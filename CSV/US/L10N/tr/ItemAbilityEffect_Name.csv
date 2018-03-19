@@ -1,0 +1,45 @@
+Id,Description
+1,Normal Canavarlar'a saldırırken son hasara [Param] Bonus Hsr. ekler
+2,Elit Canavarlar'a saldırırken son hasara [Param] Bonus Hsr. ekler
+3,Baş Düşmanlar'a saldırırken son hasara [Param] Bonus Hsr. ekler
+4,Oyuncular'a saldırırken son hasara [Param] Bonus Hsr. ekler
+5,Normal Canavarlar'dan gelen son Hasar [Param] azalır
+6,Elit Canavarlar'dan gelen son Hasar [Param] azalır
+7,Baş Düşmanlar'dan gelen son Hasar [Param] azalır
+8,Oyuncular'dan gelen son Hasar [Param] azalır
+9,Sersemletme ve Yere Yıkma Direnci Oranı Artışı [Param] artar
+10,B. Svn. +[Param]
+11,Yavaşlatma Direnci Oranı Artışı [Param] artar
+12,Kritik Direnç Oranı Artışı [Param] artar
+13,Hız +[Param]
+14,Kombo Süresi [Param] saniye artar
+15,Normal Saldırı Yetenekleri'ni kullanırken [Param] Bonus Hsr. ekler
+16,Büyülü Canavarlar'a saldırırken son hasara [Param] Bonus Hsr. ekler
+17,Büyülü Canavarlar'dan gelen son Hasar [Param] azalır
+19,Normal Saldırı Yetenekleri'ni kullanırken Canavarlar'a [Param] Bonus Hsr. verir
+20,Normal Saldırı Yetenekleri'ni kullanırken [Param] Bonus Yenileme verir
+101,[Param] Normal Canavarlar’a karşı Bonus Hsr.
+102,@101
+103,@101
+104,[Param] Baş Düşman’a karşı Bonus Hsr.
+105,@104
+106,@104
+107,Diğer Oyuncuların hasarı -[Param]
+108,@107
+109,[Param] Diğer Oyuncular’a karşı Bonus Hsr.
+110,@109
+111,Normal Canavarların hasarı -[Param]
+112,@111
+113,[Param] Elit Canavarlar’a karşı Bonus Hsr.
+114,@113
+115,Elit Canavarların hasarı -[Param]
+116,@115
+117,Baş Düşmanların hasarı -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] Kuşatma yapılarına Bonus Hsr.
+204,@113
+205,@104
+206,Büyülü Canavarlar'a saldırırken [Param] Bonus Hsr. ekler
+301,Savaş alanında Sldr. Hızı’nı [Param] artırır.

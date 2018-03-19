@@ -1,0 +1,129 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,Sunucuya tekrar bağlandın.,,
+3,Bir grup oluşturuldu.,,
+4,Gruba katıldın.,,
+5,<FontGreen>[Name]</> gruba katıldı.,,
+6,Gruptan ayrıldın.,,
+7,<FontGreen>[Name]</> gruptan ayrıldı.,,
+8,Gruptan atıldın.,,
+9,<FontGreen>[Name]</> gruptan atıldı.,,
+10,Grubun lideri sen oldun.,,
+11,<FontBlue>[Name]</> grup lideri olarak seçildi.,,
+12,Grup dağıtıldı.,,
+13,"<FontGreen>[Name]</> seni grubuna davet etti.
+Gruba katılacak mısın? <FontRed>[Seconds]</> sn",Reddet,Katıl
+14,Gruba katılmayı reddettin.,,
+15,"Gruba katılmak isteyen birisi var.
+Onaylıyor musun? <FontRed>[Seconds]</>sn.",@13,Kabul Et
+16,Oto-Grup iptal edildi.,,
+17,"Konum : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> maceraya başlamak istiyor. Hazır mısın? <FontRed>[Seconds]</>sn",@13,Kabul Et
+18,"Konum: <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+<FontRed>[Seconds]</> saniye içinde <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> zorluğuna gireceksin.
+Savaşa hazırlan!",,
+19,"Konum: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> seni yanına çağırıyor.
+Çağrıyı kabul ediyor musun? <FontRed>[Seconds]</> sn",Yürüyerek,Geçit ile
+20,@19,Kapat,Gir
+21,"Konum: <FontGreen>[WorldName]</>
+Grubun toplandığı yere gidilsin mi? <FontRed>[Seconds]</> sn",@19,@19
+22,@21,@20,@20
+23,"<FontYellow>[Battlefield]</> grubu oluşturuldu.
+Savaş alanına <FontBlue>tek başına</> gir veya diğer oyuncularla <FontBlue>savaş alanı grubu</> olarak gir.",,
+24,<FontYellow>[Battlefield]</> grubuna katıldın.,,
+25,"<FontGreen>[Name]</>, <FontYellow>[Battlefield]</> grubuna katıldı.",,
+26,<FontYellow>[Battlefield]</> grubu dağıtıldı.,,
+27,"<FontYellow>[Battlefield]</>, gruptan ayrıldı.",,
+28,"<FontGreen>[Name]</>, <FontYellow>[Battlefield]</> grubundan ayrıldı.",,
+29,"<FontGreen>[Name]</>([Power]), seni Savaş Alanı Grubuna davet etti.
+<FontYellow>[Battlefield]</> grubuna katılmak istiyor musun? <FontRed>[Seconds]</> saniye",@13,@15
+30,"<FontYellow>[BattlefieldType]</> eşleştirme tamamlandı.
+<FontRed>[Seconds]</> saniye içinde Savaş Alanına girilecek. Hazırlıklarını tamamla.",,
+31,"[Name], seninle arkadaş olmak istiyor.",Arkadaş,
+32,[Name] ile arkadaş oldun.,@31,
+33,<FontYellow>Klan lideri Klan amblemini değiştirdi.</>,,
+34,"Klan üyesi [Name], kullanıcı adını <FontGreen>[Name2]</> olarak değiştirdi.",,
+35,<FontGreen>[Param1]</> giriş yaptı.,,
+36,<FontGreen>[Name]</> klana <FontGreen>[Count] [AssetsType]</> bağışladı.,,
+37,<FontGreen>[Param1]</> klana <FontBlue>katıldı</>.,,
+38,<FontGreen>[Param1]</> klandan <FontBlue>ayrıldı</>.,,
+39,<FontGreen>[Name]</> klandan <FontBlue>atıldı</>.,,
+40,<FontBlue>[GuildName]</> Klanı bir davet gönderdi.,@13,@17
+41,<FontBlue>[Name]</> daveti kabul etmedi.,,
+42,<FontYellow>Klana katılma talebi var.</>,Klan,
+43,<FontBlue>[GuildName]</> klanına katıldın.,@42,
+44,<FontBlue>[GuildName]</> klanlarına katılma talebini <FontRed>reddetti</>.,,
+45,Klandan ayrıldı.,,
+46,<FontGreen>[Param1]</> isimli üyenin rütbesi <FontBlue>[Param2]</> olarak değiştirildi.,,
+47,<FontGreen>[Param1]</> yeni Klan Lideri olarak atandı.,,
+48,"Önceki Klan Lideri çok uzun süre oyuna giriş yapmadığından, <FontGreen>[Param1]</> yeni Klan Lideri olarak atandı.",,
+49,"<FontGreen>[Param2]</>, [Param1] tarafından ödüllendirildi.",,
+50,"[Param1], <FontGreen>tüm klan üyelerini</> ödüllendirdi.",,
+51,"[Param1], [Param2] dahil olmak üzere <FontGreen>[Param3] üyeyi</> ödüllendirdi.",,
+52,<FontGreen>[Name]</> tarafından klan hediyesi gönderildi.,Posta Kutusu,
+53,"<FontGreen>[Name]</> intikam talebinde bulundu.
+<FontRed>[GuildName] klanından</> [Name2].",@20,@19
+54,"<FontGreen>[Name]</> intikam talebinde bulundu. 
+<FontRed>[GuildName] klanından</> [Name].",@20,@20
+55,"<FontGreen>[Name]</> intikam talebinde bulundu. 
+<FontRed>[Name2]</>.",@20,@19
+56,"<FontGreen>[Name]</> intikam talebinde bulundu. 
+<FontRed>[Name]</>.",@20,@20
+57,<FontBlue>[Param1]</> ile ittifak <FontBlue>kuruldu</>.,,
+58,<FontBlue>[Param1]</> ile kurduğun ittifak <FontRed>sona erdi</>.,,
+59,<FontBlue>[Name]</> klanına savaş <FontRed>ilan edildi</>.,,
+60,<FontBlue>[GuildName]</> klanının barış teklifi <FontRed>reddedildi</>.,,
+61,<FontBlue>[GuildName]</> barış teklifini <FontRed>reddetti</>.,,
+62,<FontBlue>[Name]</> klanı barış teklifini <FontGreen>kabul etti</>.,,
+63,<FontBlue>[Name]</> klanıyla olan savaş <FontBlue>kazanıldı</>.,,
+64,<FontBlue>[Name]</> klanıyla olan savaş <FontBlue>kaybedildi</>.,,
+65,<FontYellow>Klan [Param1]. seviyeye ulaştı.</>,,
+66,"<FontYellow>Klan güçlendirmesi [Name], [param]. seviyeye ulaştı.</>",,
+67,"Lord [Name], <FontGreen>[ShopName]</> Dükkanından <FontGreen>[Item]</> satın aldı.",,
+68,<FontYellow>[Param1] başarılı şekilde tamamlandı.</>,Klan Başarımı,
+69,"Klan lideri <FontGreen>[DungeonName]</> zindanına yardıma çağırdı.
+Kabul Et?",@20,@20
+70,<FontYellow>[GuildDungeonName]([Difficulty]) sıfırlandı.</>,Klan Zindanı,
+71,<FontYellow>[Param1]</> teklifini yenile!,Şato Kuşatması,
+72,@71,Kale Kuşatması,
+73,<FontYellow>[Param1]</> teklifleri uzatıldı.,@71,
+74,@73,@72,
+75,"Şato Kuşatması açıldı.
+<FontGreen>[FortressName]</> şatosuna girmek istiyor musun?",@20,@20
+76,"Kale Kuşatması açıldı.
+<FontGreen>[CastleName]</> kalesini girmek istiyor musun?",@20,@20
+77,<FontYellow>Klan lideri [Name] mülkiyetinden vazgeçti.</>,,
+78,Klan lideri <FontBlue>[Name]</> kalesini <FontYellow>[CastleType]</> olarak seçti.,,
+79,<FontYellow>Klan Meydanı [Level]. seviyeye ulaştı.</>,,
+80,<FontYellow>Klan meydanındaki Birlik Kristali [param]. seviyeye ulaştı.</>,,
+81,"<FontGreen>[Name]</>, klan için bir Klan Meydanı görevi yaptı.",,
+82,"<FontGreen>[Name]</>, klan meydanında <FontBlue>ziyafet</> hazırladı.",@20,@20
+83,<FontYellow>[Value] Mistik Yadigar Klan Deposu'na gönderildi.</>,,
+84,"[NAME], [COUNT] <FontGreen>[POTION_NAME]</> üretti.",,
+85,<FontYellow>Klan Meydanı Şömine ateşi harlı yanıyor.</>,@20,@20
+86,<FontYellow>Klan Meydanı Şöminesi yanmaya başladı.</>,@20,@20
+87,<FontYellow>Şöminenin sıcaklığı kayboldu.</>,,
+88,Klandan <FontRed>atıldı</>.,,
+89,"Şato Fethi başladı!
+<FontGreen>[FortressName]</> şatosuna girmek istiyor musun?",@20,@20
+90,"Kale Kuşatması başladı!
+<FontGreen>[CastleName]</> kalesine girmek istiyor musun?",@20,@20
+91,"Konum: <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> seni yanına çağırıyor.
+Şimdi gidecek misin? <FontRed>[Seconds]</> saniye",@13,@17
+92,"Bir grupta olmadığın için aksiyonların sınırlandırılmış.
+15 saniye içinde Zaman Yarığı'ndan çıkılacak.",Çık,
+93,<FontYellow>[EventName] için olan eşyanın süresi geçti.</> Envanterden kaldırıldı.,,
+94,"<FontYellow>Şato Fethi</> grubu kuruldu.
+Şato Fethi'ne ister <FontGreen>yalnız</> istersen bir <FontGreen>grupla</> gir.",,
+95,<FontYellow>Şato Fethi</> grubuna katılındı.,,
+96,"<FontGreen>[Name]</>, <FontYellow>Şato Fethi</>'ne katıldı.",,
+97,<FontYellow>Şato Fethi</> grubu dağıldı.,,
+98,<FontYellow>Şato Fethi</>'ndan ayrıldı.,,
+99,"<FontGreen>[Name]</>, <FontYellow>Şato Fethi</> grubundan ayrıldı.",,
+100,"<FontGreen>[Name]</> seni bir Şato Fethi grubuna davet etti.
+<FontYellow>Şato Fethi</> grubu davetini kabul edecek misin? <FontRed>[Seconds]</>sn.",@13,@15
+101,"<FontYellow>Şato Fethi</> eşleştirmesi başarılı.
+<FontRed>[Seconds]</> saniye içinde Şato Fethi başlıyor. Savaşa hazırlan.",,
+1000,Giriş yapılıyor.,,

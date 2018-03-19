@@ -1,0 +1,19 @@
+Id,Name,Desc
+1,Petit Festin,"Un Petit festin préparé par un Responsable des festins des bizuts.
+DÉF et DÉFM +500"
+2,Festin moyen,"Un Festin moyen préparé par un Responsable des festins des bizuts.
+PV/PM +1 000"
+3,Grand Festin,"Un Grand festin préparé par un Responsable des festins des bizuts.
+ATQ et ATQM +500"
+4,Petit festin de luxe,"Un Petit festin préparé par un Responsable des festins des vétérans.
+DÉF et DÉFM +1 200"
+5,Festin moyen de luxe,"Un Festin moyen préparé par un Responsable des festins des vétérans.
+PV/PM + 2 000"
+6,Grand festin de luxe,"Un Grand festin préparé par un Responsable des festins des vétérans.
+ATQ et ATQM +1 200"
+7,Petit festin somptueux,"Un Petit festin préparé par un Responsable des festins de l'honneur.
+DÉF et DÉFM +2 000, taux de CRIT +500"
+8,Festin moyen somptueux,"Un Festin moyen préparé par un Responsable des festins de l'honneur.
+PV/PM +3 000, taux de CRIT +500"
+9,Grand festin somptueux,"Un Grand festin préparé par un Responsable des festins de l'honneur.
+ATQ et ATQM +2 000, taux de CRIT +500"

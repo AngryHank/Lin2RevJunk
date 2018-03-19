@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,Klanmitglied [Param1] hat [Param2] Adena gespendet.
+1,[Param1] hat [Param2] Blutzeugnis(se) gespendet.
+2,Klan-Buff [Param1] hat Level [Param2] erreicht.
+3,<FontYellow>Klan hat Level [Param1] erreicht.</>
+4,[Param1] <FontRed>wurde der Krieg erklärt</>.
+6,Eine Allianz <FontBlue>eingegangen</> mit dem Klan [Param1].
+7,Die Allianz mit [Param1] wurde <FontRed>beendet</>.
+8,Klanmitglied [Param1] wurde [Param2].
+10,[Param1] ist dem Klan <FontBlue>beigetreten</>.
+11,[Param1] hat den Klan <FontRed>verlassen</>.
+12,<FontYellow>[Param1] hat [Param2] Diamantenkiste(n) als Steuer erhoben.</>
+13,Klan-Dungeon <FontBlue>[Param1]</> erfolgreich erledigt.
+14,Klanerfolg <FontGreen>[Param1]</> erreicht.
+15,<FontYellow>Du wurdest zum Herrscher von [Param1].</>
+16,@CastleAcquired
+17,[Param3] hiervon [Param1] <FontGreen>geschenkt</>: [Param2].
+18,[Param1]-Klanmitglied Folgendes gegeben: [Param2] x[Param3]-<FontGreen>Preis</>.
+19,Alle Klanmitglieder mit [Param2]x [Param1] <FontBlue>belohnt</>.
+20,Krieg gegen den Klan [Param1] <FontBlue>gewonnen</>.
+21,Krieg gegen den Klan [Param1] <FontRed>verloren</>.
+22,Der Krieg gegen den Klan [Param1] ist zum Stillstand gekommen.
+23,Fürst [Param1] hat [Param2] im Burgbelagerungsladen gekauft.
+24,Klanmitglied [Param1] hat [Param2] Rotsternstein(e) gespendet.
+9,[Param1] hat [Param2] <FontRed>automatisch</> zum neuen Fürsten <FontRed>ernannt</>.
+25,<FontYellow>Du hast eine Klanhalle gekauft.</>
+26,<FontYellow>Die Klanhalle hat Level [Param1] erreicht.</>
+27,<FontYellow>Der Kristall der Eintracht hat Level [Param1] erreicht.</>
+28,Wird Besitz von [Param1] aufgegeben.
+29,Hat den Besitz von [Param1] aufgegeben.
+30,"Krieg gegen den Klan ""[Param1]"" wurde nach einer Absprache beendet."

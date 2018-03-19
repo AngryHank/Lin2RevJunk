@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Scatola fortunata,"▶ Un evento in cui tutti i giocatori del server accettano contemporaneamente la sfida.
+▶ Disponibili nuove ricompense per ogni rotazione dell'evento.
+▶ I biglietti per partecipare all'evento si ottengono dalle Scatole evocazione nel Negozio.",Puoi accedere all'evento bozza dopo aver raggiunto il Liv. 10.,Congratulazioni! [Player] ha vinto il #[Rank] premio nell’Evento Scatola fortunata.

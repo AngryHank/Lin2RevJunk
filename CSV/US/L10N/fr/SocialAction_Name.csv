@@ -1,0 +1,24 @@
+id,Name,HumanDialog,ElfDialog,DarkElfDialog,DwarfDialog
+1,Charger,Que tout le monde charge !,Chargez !,Chargez !,Chargeons !
+2,Victoire,Je ne connais que la victoire !,Pour la victoire !,Je ne connais que la victoire !,Pour la victoire !
+3,Signe de la main,Comment allez-vous ?,Bonjour.,C'est un plaisir de vous rencontrer !,Bonjour à vous !
+4,Rire,Hahahahaha !,Hohoho !,Ahahahahaha !,Pouahahahaha !
+5,Tristesse,*Sanglote*...,*Renifle* !,*Renifle*...,Bouaaaaah !
+6,Tope là,Tope là !,Tope là !,Tope là !,Tope là !
+7,Applaudir,C'est génial !,C'est génial !,Excellent.,Ouah ! Génial !
+8,Consterné,Je n'en reviens pas...,Comment est-ce possible... ?,Que peut-il bien...,"Oh, bon sang..."
+9,Colère,Je vais me mettre en colère !,Humpf !,Ouaaaaaah !,Arrrrgh ! J'entre dans une rage folle !
+1001,Invoquer un malfaisant,,,,
+1002,Aller au village,,,,
+10001,Victoire humaine dans l'Arène,,,,
+10002,Défaite humaine dans l'Arène,,,,
+10003,Victoire elfe dans l'Arène,,,,
+10004,Défaite elfe dans l'Arène,,,,
+10005,Victoire elfe noir dans l'Arène,,,,
+10006,Défaite elfe noir dans l'Arène,,,,
+10007,Victoire naine dans l'Arène,,,,
+10008,Défaite naine dans l'Arène,,,,
+100001,Touche d'action No 1,,,,
+100002,Touche d'action No 2,,,,
+100003,Touche d'action No 3,,,,
+100004,Touche d'action No 4,,,,

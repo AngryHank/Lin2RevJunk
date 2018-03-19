@@ -1,0 +1,401 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Ruinas élficas 1,,,"Los elfos enseñaron magia a los humanos aquí, quienes sentaron sus bases para luego gobernar el continente."
+201,Ruinas élficas 2,,,"Cuando los elfos reinaban, solo los humanos más talentosos accededían a esta planta. La energía mágica es más fuerte."
+202,Hormiguero 1,,,Una cueva llena de hormigas gigantes que sobrevivieron en el Erial que se creó tras la explosión de magia negra.
+203,Hormiguero 2,,,Las hormigas crearon un laberinto enrevesado para proteger así sus amados bienes. Solo las hormigas se orientan aquí.
+204,Torre de Cruma 2,,,Fortaleza móvil científica de los antiguos gigantes en la que buscaban nuevas formas de vida. Protegía el laboratorio.
+205,Torre de Cruma 3,,,Fiel a los orígenes de la torre. Hay laboratorios de investigación. Esta llena de energía mágica de gigantes.
+206,Torre de marfil 1,,,"Se creó cuando el meteorito Nebulita cayó. Había un laboratorio y una biblioteca, pero se acabaron cerrando."
+207,Torre de marfil 2,,,"Aquí había un laboratorio de alquimia, pero ahora está infestado de hongos que parecen piedras del suelo."
+208,Torre de marfil 3,,,"Donde está Nebulita, el meteorito. Aquí los monstruos, fortalecidos por la Nebulita, están descontrolados."
+209,Laboratorio de Torre de marfil,,,Este lugar es al mismo tiempo el laboratorio de un hechicero de la Torre de marfil obsesionado por la nebulita y el lugar donde fue encerrado. Muchos sujetos vagan por aquí.
+210,Espesura del bosque de los secretos,,,"Las hadas solían habitar en este lugar. Cuando se marcharon para huir de las batallas, los monstruos ocuparon el área."
+211,Sotobosque del bosque de los secretos,,,"El Bosque de los secretos es tan frondoso que evita que pase la luz solar, y ha sido corrompido por los monstruos."
+212,Lugar de matanza del bosque de los secretos,,,Es la última morada de las hadas que lucharon contra la Caza de hadas. En él siempre hay una lúgubre niebla color rojo sangre.
+4000,Jardín Escama iridiscente (prueba),,,
+9000,Mazmorra de experiencia I,Piedra de aumento,Se utiliza para participar en el sorteo de 1 piedra de aumento.,Hay muchas piedras de invocación del mal colocadas por la Herm. oscura que están sin descubrir. Entra al mundo exterior y derrota a los monstruos para eliminarlos.
+9001,Mazmorra de experiencia II,@9000,Se utiliza para participar en el sorteo de 2 piedras de aumento.,@9000
+9002,Mazmorra de experiencia III,@9000,Se utiliza para participar en el sorteo de 3 piedras de aumento.,@9000
+9003,Mazmorra de experiencia IV,@9000,Se utiliza para participar en el sorteo de 5 piedras de aumento.,@9000
+9100,Mazmorra de exp. V,@9000,@9003,@9000
+9004,Mazmorra de adenas I,@9000,@9000,"Shunaiman, emperador de Elmoreden, almacenaba aquí el oro para construir la T. de la insolencia. El sitio fue olvidado al morir Shunaiman y ahora la ocupa Kresous, el dragón de oro."
+9005,Mazmorra de adenas II,@9000,@9001,@9004
+9006,Mazmorra de adenas III,@9000,@9002,@9004
+9009,Templo guardián I,@9000,@9000,El templo élfico que alberga el cristal de agua bendecido por Eva. Hardin ordenó a los M. de la luz plateada guardar el templo para proteger el cristal de agua de la Herm. oscura.
+9010,Templo guardián II,@9000,@9001,@9009
+9011,Templo guardián III,@9000,@9002,@9009
+9012,Templo guardián IV,@9000,@9003,@9009
+9300,Templo guardián V,@9000,@9003,@9009
+9013,Círculo de invocación I,@9000,@9000,Protege a Feldheim mientras elimina la magia del artefacto y completa la mazmorra para obtener la piedra de invocación.
+9014,Círculo de invocación II,@9000,@9001,@9013
+9015,Círculo de invocación III,@9000,@9002,@9013
+9016,Círculo de invocación IV,@9000,@9003,@9013
+9017,Mazmorra de piedra de purificación I,@9000,@9000,Destruye la puerta dimensional que invoca monstruos y obtén recompensas.
+9018,Mazmorra de piedra de purificación II,@9000,@9001,@9017
+9019,Mazmorra de piedra de purificación III,@9000,@9002,@9017
+9020,Mazmorra de piedra de purificación IV,@9000,@9003,@9017
+11100,Santuario antiguo I,Caja selec. piedra aum.,Usar para obtener 1 caja sel. p. de aum.,
+11101,Santuario antiguo II,@11100,Usar para obtener 2 cajas sel. p. de aum.,
+11102,Santuario antiguo III,@11100,Usar para obtener 3 cajas sel. p. de aum.,
+11103,Santuario antiguo IV,@11100,Usar para obtener 4 cajas sel. p. de aum.,
+11104,Santuario antiguo V,Caja de selección de piedra de aumento radiante.,Se utiliza para obtener 1 caja de selección de piedras de mejora radiantes.,
+11200,Santuario del rastreador I,Pergamino: Mejorar arma,Usar para obtener 1 Pergamino: Mejorar arma.,
+11201,Santuario del rastreador II,@11200,Usar para obtener 2 Pergaminos: Mejorar arma.,
+11202,Santuario del rastreador III,@11200,Usar para obtener 3 Pergaminos: Mejorar arma.,
+11203,Santuario del rastreador IV,@11200,Usar para obtener 4 Pergaminos: Mejorar arma.,
+11204,Santuario del rastreador V,Pergamino de mejora de arma y equipamiento de montura,"Úsalo para obtener 5 Pergaminos de mejora de arma y
+1 Pergamino de mejora de equipamiento de montura.",
+11300,Santuario del guerrero I,Piedra de aumento de arma,Se utiliza para obtener 1 piedra de mejora de arma.,
+11301,Santuario del guerrero II,@11300,Se utiliza para obtener 2 piedras de mejora de arma.,
+11302,Santuario del guerrero III,@11300,Se utiliza para obtener 3 piedras de mejora de arma.,
+11303,Santuario del guerrero IV,@11300,Se utiliza para obtener 4 piedras de mejora de arma.,
+11304,Santuario del guerrero V,Piedra de aumento de arma radiante,Se utiliza para obtener 1 piedra de mejora de arma radiante,
+11400,Santuario de la bestia I,Pergamino: Mej. armadura,Usar para obtener 1 Perg.: Mej. armadura.,
+11401,Santuario de la bestia II,@11400,Usar para obtener 2 Perg.: Mej. armadura.,
+11402,Santuario de la bestia III,@11400,Usar para obtener 3 Perg.: Mej. armadura.,
+11403,Santuario de la bestia IV,@11400,Usar para obtener 4 Perg.: Mej. armadura.,
+11404,Santuario de la bestia V,Pergamino de mejora de armadura y equipamiento de montura,"Úsalo para obtener 5 Pergaminos de mejora de armadura y
+1 Pergamino de mejora de equipamiento de montura.",
+11500,Santuario del monstruo I,Piedra aumento armadura,Se utiliza para obtener 1 p. aumento armadura.,
+11501,Santuario del monstruo II,@11500,Se utiliza para obtener 2 p. aumento armadura.,
+11502,Santuario del monstruo III,@11500,Se utiliza para obtener 3 p. aumento armadura.,
+11503,Santuario del monstruo IV,@11500,Se utiliza para obtener 4 p. aumento armadura.,
+11504,Santuario del monstruo V,Piedra de aumento de armadura radiante,Se utiliza para obtener 1 piedra de aumento de armadura radiante.,
+11600,Santuario de enemigos I,Pergamino: Mej. accesorio,Usar para obtener 1 Perg.: Mej. accesorio.,
+11601,Santuario de enemigos II,@11600,Usar para obtener 2 Perg.: Mej. accesorio.,
+11602,Santuario de enemigos III,@11600,Usar para obtener 3 Perg.: Mej. accesorio.,
+11603,Santuario de enemigos IV,@11600,Usar para obtener 4 Perg.: Mej. accesorio.,
+11604,Santuario de los enemigos V,Pergamino de mejora de accesorio y equipamiento de montura,"Úsalo para obtener 5 Pergaminos de mejora de accesorio y
+1 Pergamino de mejora de equipamiento de montura.",
+11700,Santuario de recuerdos I,Piedra aumento accesorio,Se utiliza para obtener 1 p. aumento acc.,
+11701,Santuario de recuerdos II,@11700,Se utiliza para obtener 2 p. aumento acc.,
+11702,Santuario de recuerdos III,@11700,Se utiliza para obtener 3 p. aumento acc.,
+11703,Santuario de recuerdos IV,@11700,Se utiliza para obtener 4 p. aumento acc.,
+11704,Santuario de recuerdos V,Piedra de aumento de accesorio radiante,Se utiliza para obtener 1 piedra de aumento de accesorio radiante.,
+12001,Planta {IntParam} de la Torre de la insolencia,@9000,,
+12002,@12001,Pergamino de mejora,,
+12003,@12001,Prueba de sangre,,
+12004,@12001,Crist. de alma,,
+12005,@12001,Adena,,
+12006,@12001,Billete de sorteo de equipamiento,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Ruinas de gigante inferior,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Mazmorra de extracción,@12003,,Una mina secreta bajo la Torre de marfil que guarda el meteorito Nebulita. Aquí crecen hierbas con poderes misteriosos.
+60001,Tutorial oficial,Exp.,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Rastro de Varkaron,@12003,,"Las cuchillas afiladas de Varkaron
+te harán sangrar mucho."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Cueva La hormiga reina,@12003,,"La Reina hormiga, que vive en
+una cueva oscura, es experta en venenos."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Sala Corazón de Cruma,@12003,,"El corazón de Cruma es el núcleo de la Torre de Cruma.
+Protege el conocimiento de los gigantes inferiores sellado en ella."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Obsequio divino,,,
+70004,@70003,,,
+100001,Altar de la locura,,,"Los magos de la <GreenBold>Torre de Marfil</>
+se esfuerzan por encontrar una poción de los fragmentos que fueron robados.
+
+Durante su investigación
+descubrieron que <BlueBold>Leanis</>, una de las magas 
+de la <GreenBold>Torre de Marfil</>, había desaparecido.
+Al seguirle el rastro,
+se topan con una aldea donde vivían los <RedBold>Chamanes orcos Timak</>.
+
+Los magos deducen que <BlueBold>Laenis</> ha sido secuestrada
+por los <RedBold>Orcos</>
+y entran en la aldea para salvarla.
+Sin embargo, se ven forzados a retirarse tras experimentar una 
+fuerza que nunca antes habían visto en los <RedBold>orcos</>.
+Los hechiceros de la <GreenBold>Torre de marfil</> han doblado sus
+investigaciones sobre los <RedBold>orcos</> y han reclutado a
+los <BlueBold>Mercenarios de la luz plateada</> para que les ayuden a rescatar a <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Dormitorio Condesa de Sangre,,,"La <RedBold>condesa Trisha</>, que antaño fue la amada del
+señor de Giran,
+
+desapareció repentinamente, causando un alboroto en la nobleza de Giran.
+Sabían que si esta información se filtraba a la tierra hostil
+de Oren, estarían en una situación política desfavorable.
+Sabiendo esto, el señor de Giran desplegó al <BlueBold>capitán Tark</>
+en secreto para que liderara la partida de búsqueda.
+
+Tras oír que la <RedBold>condesa Trisha</> fue vista por última vez con
+su <RedBold>caballero guardián</> en el <GreenBold>Puerto de Giran</>, el <BlueBold>capitán Tark</> y
+su partida de búsqueda se camuflaron como soldados de comando de sangre
+de la Isla del Diablo y empezaron a registrar <GreenBold>el lugar</>.
+Sin embargo, tras verse expuestos a varias situaciones peligrosas, el
+<BlueBold>capitán Tark</> se vio forzado a pedir la ayuda de los
+<BlueBold>Mercenarios de la luz plateada</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

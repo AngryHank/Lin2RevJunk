@@ -1,0 +1,618 @@
+Id,ContentShow,Name,Difficulty,RecommendedAttack,RecommendedDefense,RecommendedPower,Type,IntParam,RecommendedPC,RecommendedLevel,EnterLevelRestriction,BackgroundImage,WorldId,RepresentRewardId,RepresentRewardName,RepresentRewardDescription,RepresentRewardIconPath,RepresentRewardID1,RepresentRewardCount1,RepresentRewardID2,RepresentRewardCount2,RepresentRewardID3,RepresentRewardCount3,AddSubLevel,Description,ResetGemType,ResetGemCount,SubLevelForLight,BGM,ConflictRegular,HardMode,RecommendedAbilityType,RecommendedAbilityPower,SummonMonsterInfo,MidBossAbilityType,LastBossAbilityType
+200,1,엘프의 유적지 1층,1,1605,2174,11600,1,1,,,16,Texture/Image_Dungeon_Elite_01,200,1,,,,400002,,490049,,3001,,,"엘프가 휴먼에게 마법을 가르치던 학교로, 휴먼은 마법 에너지가 가득한 이곳에서 대륙의 주인이 될 반석을 세웠습니다.",25,,,,0,,6,,,6,6
+201,1,엘프의 유적지 2층,1,4872,6195,26700,1,2,,,20,Texture/Image_Dungeon_Elite_01,201,3,,,,400002,,490049,,3001,,,"엘프가 주인이던 시절, 실력이 아주 뛰어난 휴먼에게만 개방하던 층으로 1층보다 강한 마법 에너지가 작용합니다.",25,,,,0,,6,,,6,6
+202,1,개미굴 지하 1층,1,7732,9597,70300,1,3,,,30,Texture/Image_Dungeon_Elite_02,202,5,,,,400002,,490049,,3001,,,흑마법으로 인한 대폭발로 생겨난 황무지에 적응하여 살아남은 거대 개미들의 굴입니다.,25,,,,0,,6,,,6,6
+203,1,개미굴 지하 2층,1,10974,13466,130700,1,4,,,45,Texture/Image_Dungeon_Elite_02,203,7,,,,400002,,490049,,3001,,,"개미들이 소중한 것을 숨기기 위해 더욱 복잡한 미로로 이루어져, 개미가 아니라면 길을 찾기 매우 어렵습니다.",25,,,,0,,6,,,6,6
+204,1,크루마 탑 2층,1,15561,18975,205900,1,5,,,65,Texture/Image_Dungeon_Elite_03,204,8,,,,400002,,490049,,3001,,,고대 거인들이 새로운 생명을 만들어내기 위한 생체연구를 진행하던 이동요새 겸 연구소로 연구실 보호를 위한 공간입니다.,25,,,,0,,6,,,6,6
+205,1,크루마 탑 3층,1,20870,25349,279700,1,6,,,90,Texture/Image_Dungeon_Elite_03,205,9,,,,400002,,490049,,3001,,,"본래 탑의 목적대로 생체연구가 진행되었던 연구실이 많은 층으로, 거인들의 마법 에너지가 가득합니다.",25,,,,0,,6,,,6,6
+206,1,상아탑 지하 1층,1,26875,32560,336200,1,7,,,128,Texture/Image_Dungeon_Elite_04,206,10,,,,400002,,490049,,3001,,,"운석 네뷸라이트가 떨어지며 생겨난 공간이며 과거 연구실 겸 도서관이었으나, 마법사의 폭주 사건으로 폐쇄된 곳입니다.",25,,,,0,,6,,,6,6
+207,1,상아탑 지하 2층,1,33559,40585,384500,1,8,,,140,Texture/Image_Dungeon_Elite_04,207,10,,,,400002,,490049,,3001,,,"연금술 실험실이 있던 공간이었으나, 현재는 바닥을 뚫고 자란 딱딱한 광물 같은 버섯들이 가득 자란 공간입니다.",25,,,,0,,6,,,6,6
+208,1,상아탑 지하 3층,1,26875,32560,462500,1,9,,,162,Texture/Image_Dungeon_Elite_04,208,10,,,,400002,,490049,,3001,,,"운석 네뷸라이트가 있는 장소이며, 네뷸라이트의 영향으로 강화된 마물들이 미쳐 날뛰는 공간입니다.",25,,,,0,,6,,,6,6
+209,1,상아탑 지하 연구소,1,,,660500,1,10,,,182,Texture/Image_Dungeon_Elite_04,209,15,,,,400002,,490049,,1000103,,,"네뷸라이트에 미쳐 인체 실험을 진행했던 어느 상아탑 마법사의 연구소이자 그의 봉인지로, 실험체들이 득시글거립니다.",25,,,,1,,6,,,6,6
+210,1,비밀의 숲 상층,1,26875,32560,653100,1,11,,,180,Texture/Image_Dungeon_Elite_05,210,10,,,,400002,,490049,,3001,,,페어리가 거주하고 있는 거주지였으나 전쟁의 위협으로 페어리들이 사라지자 몬스터들이 점령해버린 곳입니다.,25,,,,0,,6,,,6,6
+211,1,비밀의 숲 하층,1,26875,32560,847600,1,12,,,230,Texture/Image_Dungeon_Elite_06,211,10,,,,400002,,490049,,3001,,,비밀의 숲이 우거져 있어 햇빛이 잘 들지 않고 몬스터들에 의해 파괴된 공간입니다.,25,,,,0,,6,,,6,6
+212,1,비밀의 숲 학살지,1,,,1024900,1,13,,,260,Texture/Image_Dungeon_Elite_06,212,15,,,,1000104,,400002,,1000104,,,"페어리 사냥을 피해 도주하던 페어리들이 최후까지 저항하다가 학살된 곳으로, 항상 음산한 핏빛 안개가 자욱합니다.",25,,,,1,,6,,,6,6
+213,1,용의 동굴 지하 1층,1,,,1334900,1,14,,,268,Texture/Image_Dungeon_Elite_07,213,10,,,,1000104,,400002,,1000104,,,과거 실렌이 마물들을 출산했던 곳으로 오래된 용의 뼈와 뜨거운 용암으로 마물들 외에 누구도 오지 않았던 곳입니다.,25,,,,0,,6,,,6,6
+214,1,용의 동굴 지하 2층,1,,,1655100,1,15,,,294,Texture/Image_Dungeon_Elite_07,214,10,,,,1000104,,400002,,1000104,,,안타라스가 휴식을 취하기 위해 악마들에게 용족의 뼈를 주었고 이 뼈로 실렌의 피를 추출하여 더욱 강력해졌습니다.,25,,,,0,,6,,,6,6
+215,1,용의 동굴 심층,1,,,1983600,1,16,,,320,Texture/Image_Dungeon_Elite_07,215,15,,,,1000104,,400002,,1000104,,,안타라스가 잠든 곳과 가장 가까운 동굴. 안타라스가 뿜어내는 독으로 인해 동굴 곳곳이 오염되어 있습니다.,25,,,,1,,6,,,6,6
+4000,1,무지개 비늘 정원(더미),1,0,0,0,16,,,,0,Texture/UI_Image_GatheringDungeon,18600,,,,,,,,,,,,,25,,,,0,,6,,,6,6
+9000,1,경험치 던전 I,0,577,619,75900,8,0,,,38,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 1개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9001,1,경험치 던전 II,1,4567,5828,147600,8,0,,,60,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 2개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9002,1,경험치 던전 III,2,8722,10768,243800,8,0,,,100,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 3개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9003,1,경험치 던전 IV,3,15070,18385,420300,8,0,,,150,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9100,1,경험치 던전 V,4,15070,18385,798900,8,0,,,220,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9101,1,경험치 던전 VI,5,15070,18385,1647900,8,0,,,293,Texture/Image_Dungeon_Daily_07,18200,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,3005,,,,,,OthersideRift_Trigger,"어둠의 결사가 설치한 마물 소환석 중에는 발견이 안된 강력한
+것들도 많이 있습니다. 이것을 해제 하기 위해서는 이공간으로
+들어가 마물들을 처치해야만 합니다.",25,,,6,0,,6,,,6,6
+9004,1,아데나 던전 I,0,577,619,52100,9,0,,,0,Texture/Image_Dungeon_Daily_07,18100,900009,승급석,승급석 뽑기 1개를 획득합니다.,Icon_GachaItem_Transcendence,3004,,,,,,VaultofChrysos_Trigger,"엘모아덴의 황제인 슈나이만이 오만의 탑을 짓기 위해 황금을
+보관한 성채. 탐욕스런 슈나이만이 서거한 후, 잊혀졌던
+이 성채는 현재 황금용 크뤼소스의 보금자리가 되었습니다.",25,,,6,0,,6,,,6,6
+9005,1,아데나 던전 II,1,4567,5828,127700,9,0,,,0,Texture/Image_Dungeon_Daily_07,18100,900009,승급석,승급석 뽑기 2개를 획득합니다.,Icon_GachaItem_Transcendence,3004,,,,,,VaultofChrysos_Trigger,"엘모아덴의 황제인 슈나이만이 오만의 탑을 짓기 위해 황금을
+보관한 성채. 탐욕스런 슈나이만이 서거한 후, 잊혀졌던
+이 성채는 현재 황금용 크뤼소스의 보금자리가 되었습니다.",25,,,6,0,,6,,,6,6
+9006,1,아데나 던전 III,2,8722,10768,228600,9,0,,,0,Texture/Image_Dungeon_Daily_07,18100,900009,승급석,승급석 뽑기 3개를 획득합니다.,Icon_GachaItem_Transcendence,3004,,,,,,VaultofChrysos_Trigger,"엘모아덴의 황제인 슈나이만이 오만의 탑을 짓기 위해 황금을
+보관한 성채. 탐욕스런 슈나이만이 서거한 후, 잊혀졌던
+이 성채는 현재 황금용 크뤼소스의 보금자리가 되었습니다.",25,,,6,0,,6,,,6,6
+9008,1,아데나 던전 IV,3,15070,18385,478800,9,0,,,0,Texture/Image_Dungeon_Daily_07,18100,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,3004,,,,,,VaultofChrysos_Trigger,"엘모아덴의 황제인 슈나이만이 오만의 탑을 짓기 위해 황금을
+보관한 성채. 탐욕스런 슈나이만이 서거한 후, 잊혀졌던
+이 성채는 현재 황금용 크뤼소스의 보금자리가 되었습니다.",25,,,6,0,,6,,,6,6
+9200,1,아데나 던전 V,4,15070,18385,847600,9,0,,,0,Texture/Image_Dungeon_Daily_07,18100,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,3004,,,,,,VaultofChrysos_Trigger,"엘모아덴의 황제인 슈나이만이 오만의 탑을 짓기 위해 황금을
+보관한 성채. 탐욕스런 슈나이만이 서거한 후, 잊혀졌던
+이 성채는 현재 황금용 크뤼소스의 보금자리가 되었습니다.",25,,,6,0,,6,,,6,6
+9009,1,장비 던전 I,0,577,619,15600,10,0,,,20,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 1개를 획득합니다.,Icon_GachaItem_Transcendence,911226,,910216,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9010,1,장비 던전 II,1,4567,5828,104400,10,0,,,46,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 2개를 획득합니다.,Icon_GachaItem_Transcendence,911227,,910217,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9011,1,장비 던전 III,2,8722,10768,216200,10,0,,,89,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 3개를 획득합니다.,Icon_GachaItem_Transcendence,911228,,910218,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9012,1,장비 던전 IV,3,15070,18385,409500,10,0,,,146,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,911229,,910219,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9300,1,장비 던전 V,4,15070,18385,790300,10,0,,,218,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,911236,,911041,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9301,1,장비 던전 VI,5,15070,18385,1629900,10,0,,,291,Texture/Image_Dungeon_Daily_07,18400,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,911237,,911238,,,,WaterTemple_Trigger,"에바의 축복을 받은 물의 수정이 보관된 엘프신전.
+하딘은 어둠의 결사로부터 물의 수정을 보호하기 위해
+은빛용병단이 신전을 수호하도록 하였습니다.",25,,,6,0,,6,,,6,6
+9013,1,소환석 던전 I,0,577,619,130700,14,0,,,50,Texture/Image_Dungeon_Daily_07,18300,900009,승급석,승급석 뽑기 1개를 획득합니다.,Icon_GachaItem_Transcendence,911005,,911001,,,,SealedEntrance_Trigger,"페르넬이 봉인된 성물의 주술을 해제하는 동안 보호하고, 던전을 공략하여 소환석을 획득하세요.",25,,,6,0,,6,,,6,6
+9014,1,소환석 던전 II,1,4567,5828,248900,14,0,,,102,Texture/Image_Dungeon_Daily_07,18300,900009,승급석,승급석 뽑기 2개를 획득합니다.,Icon_GachaItem_Transcendence,911005,,911002,,,,SealedEntrance_Trigger,"페르넬이 봉인된 성물의 주술을 해제하는 동안 보호하고, 던전을 공략하여 소환석을 획득하세요.",25,,,6,0,,6,,,6,6
+9015,1,소환석 던전 III,2,8722,10768,427900,14,0,,,152,Texture/Image_Dungeon_Daily_07,18300,900009,승급석,승급석 뽑기 3개를 획득합니다.,Icon_GachaItem_Transcendence,914001,,911003,,,,SealedEntrance_Trigger,"페르넬이 봉인된 성물의 주술을 해제하는 동안 보호하고, 던전을 공략하여 소환석을 획득하세요.",25,,,6,0,,6,,,6,6
+9016,1,소환석 던전 IV,3,15070,18385,812500,14,0,,,223,Texture/Image_Dungeon_Daily_07,18300,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,914001,,911004,,,,SealedEntrance_Trigger,"페르넬이 봉인된 성물의 주술을 해제하는 동안 보호하고, 던전을 공략하여 소환석을 획득하세요.",25,,,6,0,,6,,,6,6
+9400,1,소환석 던전 V,4,15070,18385,1666000,14,0,,,295,Texture/Image_Dungeon_Daily_07,18300,900009,승급석,승급석 뽑기 5개를 획득합니다.,Icon_GachaItem_Transcendence,914001,,911004,,,,SealedEntrance_Trigger,"페르넬이 봉인된 성물의 주술을 해제하는 동안 보호하고, 던전을 공략하여 소환석을 획득하세요.",25,,,6,0,,6,,,6,6
+11100,1,고대의 성소 I,0,577,619,2700,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,910221,승급석 선택 상자,승급석 선택 상자 1개를 획득합니다.,Icon_GachaItem_Transcendence,910221,1,,,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11101,1,고대의 성소 II,1,4567,5828,44700,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,910221,승급석 선택 상자,승급석 선택 상자 2개를 획득합니다.,Icon_GachaItem_Transcendence,910221,2,,,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11102,1,고대의 성소 III,2,8722,10768,124700,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,910221,승급석 선택 상자,승급석 선택 상자 3개를 획득합니다.,Icon_GachaItem_Transcendence,910221,3,,,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11103,1,고대의 성소 IV,3,15070,18385,226000,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,910221,승급석 선택 상자,승급석 선택 상자 4개를 획득합니다.,Icon_GachaItem_Transcendence,910221,4,,,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11104,1,고대의 성소 V,4,15070,18385,649800,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,911021,빛나는 승급석 선택 상자,빛나는 승급석 선택 상자 1개를 획득합니다.,Icon_GachaItem_TranscendenceBox,911021,1,,,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11105,1,고대의 성소 VI,5,15070,18385,1541000,2,0,,,0,Texture/Image_Dungeon_Daily_05,11000,911021,빛나는 승급석 선택 상자,빛나는 승급석 선택 상자 1개를 획득합니다.,Icon_GachaItem_TranscendenceBox,911021,1,910221,5,,,E_Sub_001,,25,,Sub_Environment_Apostle,2,0,,6,,,6,6
+11200,1,추적자의 성소 I,0,577,619,2700,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기 강화주문서,무기 강화주문서 1개를 획득합니다,Icon_EnchantScroll_01,410001,1,,,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11201,1,추적자의 성소 II,1,4567,5828,44700,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기 강화주문서,무기 강화주문서 2개를 획득합니다,Icon_EnchantScroll_01,410001,2,,,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11202,1,추적자의 성소 III,2,8722,10768,124700,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기 강화주문서,무기 강화주문서 3개를 획득합니다,Icon_EnchantScroll_01,410001,3,,,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11203,1,추적자의 성소 IV,3,15070,18385,226000,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기 강화주문서,무기 강화주문서 4개를 획득합니다,Icon_EnchantScroll_01,410001,4,,,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11204,1,추적자의 성소 V,4,15070,18385,649800,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기&펫장비 강화주문서,"무기 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410001,5,410004,1,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11205,1,추적자의 성소 VI,5,15070,18385,1541000,2,1,,,0,Texture/Image_Dungeon_Daily_01,11000,410001,무기&펫장비 강화주문서,"무기 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410001,6,410004,2,,,E_Sub_002,,25,,Sub_Environment_Orbis,2,0,,6,,,6,6
+11300,1,전사의 성소 I,0,577,619,2700,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420001,무기 승급석,무기 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_01,420001,1,,,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11301,1,전사의 성소 II,1,4567,5828,44700,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420001,무기 승급석,무기 승급석 2개를 획득합니다.,Icon_Asset_Upgrade_01,420001,2,,,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11302,1,전사의 성소 III,2,8722,10768,124700,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420001,무기 승급석,무기 승급석 3개를 획득합니다.,Icon_Asset_Upgrade_01,420001,3,,,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11303,1,전사의 성소 IV,3,15070,18385,226000,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420001,무기 승급석,무기 승급석 4개를 획득합니다.,Icon_Asset_Upgrade_01,420001,4,,,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11304,1,전사의 성소 V,4,15070,18385,649800,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420011,빛나는 무기 승급석,빛나는 무기 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_04,420011,1,,,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11305,1,전사의 성소 VI,5,15070,18385,1541000,2,2,,,0,Texture/Image_Dungeon_Daily_02,11000,420011,빛나는 무기 승급석,빛나는 무기 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_04,420011,1,420001,5,,,E_Sub_003,,25,,Sub_Environment_Marshal,2,0,,6,,,6,6
+11400,1,괴수의 성소 I,0,577,619,2700,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구 강화주문서,방어구 강화주문서 1개를 획득합니다,Icon_EnchantScroll_02,410002,1,,,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11401,1,괴수의 성소 II,1,4567,5828,44700,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구 강화주문서,방어구 강화주문서 2개를 획득합니다,Icon_EnchantScroll_02,410002,2,,,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11402,1,괴수의 성소 III,2,8722,10768,124700,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구 강화주문서,방어구 강화주문서 3개를 획득합니다,Icon_EnchantScroll_02,410002,3,,,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11403,1,괴수의 성소 IV,3,15070,18385,226000,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구 강화주문서,방어구 강화주문서 4개를 획득합니다,Icon_EnchantScroll_02,410002,4,,,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11404,1,괴수의 성소 V,4,15070,18385,649800,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구&펫장비 강화주문서,"방어구 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410002,5,410004,1,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11405,1,괴수의 성소 VI,5,15070,18385,1541000,2,3,,,0,Texture/Image_Dungeon_Daily_03,11000,410002,방어구&펫장비 강화주문서,"방어구 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410002,6,410004,2,,,E_Sub_004,,25,,Sub_Environment_Traikan,2,0,,6,,,6,6
+11500,1,마물의 성소 I,0,577,619,2700,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420002,방어구 승급석,방어구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_02,420002,1,,,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11501,1,마물의 성소 II,1,4567,5828,44700,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420002,방어구 승급석,방어구 승급석 2개를 획득합니다.,Icon_Asset_Upgrade_02,420002,2,,,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11502,1,마물의 성소 III,2,8722,10768,124700,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420002,방어구 승급석,방어구 승급석 3개를 획득합니다.,Icon_Asset_Upgrade_02,420002,3,,,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11503,1,마물의 성소 IV,3,15070,18385,226000,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420002,방어구 승급석,방어구 승급석 4개를 획득합니다.,Icon_Asset_Upgrade_02,420002,4,,,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11504,1,마물의 성소 V,4,15070,18385,649800,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420012,빛나는 방어구 승급석,빛나는 방어구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_05,420012,1,,,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11505,1,마물의 성소 VI,5,15070,18385,1541000,2,4,,,0,Texture/Image_Dungeon_Daily_04,11000,420012,빛나는 방어구 승급석,빛나는 방어구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_05,420012,1,420002,5,,,E_Sub_005,,25,,Sub_Environment_BloodyKing,2,0,,6,,,6,6
+11600,1,마성의 성소 I,0,577,619,2700,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구 강화주문서,장신구 강화주문서 1개를 획득합니다,Icon_EnchantScroll_03,410003,1,,,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11601,1,마성의 성소 II,1,4567,5828,44700,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구 강화주문서,장신구 강화주문서 2개를 획득합니다,Icon_EnchantScroll_03,410003,2,,,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11602,1,마성의 성소 III,2,8722,10768,124700,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구 강화주문서,장신구 강화주문서 3개를 획득합니다,Icon_EnchantScroll_03,410003,3,,,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11603,1,마성의 성소 IV,3,15070,18385,226000,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구 강화주문서,장신구 강화주문서 4개를 획득합니다,Icon_EnchantScroll_03,410003,4,,,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11604,1,마성의 성소 V,4,15070,18385,649800,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구&펫장비 강화주문서,"장신구 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410003,5,410004,1,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11605,1,마성의 성소 VI,5,15070,18385,1541000,2,5,,,0,Texture/Image_Dungeon_Daily_07,11000,410003,장신구&펫장비 강화주문서,"장신구 강화주문서 5개와 펫장비 강화주문서 1개를
+획득합니다.",Icon_Gacha_EnchantScroll,410003,6,410004,2,,,E_Sub_006,,25,,Sub_Environment_ArchonBamue,2,0,,6,,,6,6
+11700,1,기억의 성소 I,0,577,619,2700,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420003,장신구 승급석,장신구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_03,420003,1,,,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+11701,1,기억의 성소 II,1,4567,5828,44700,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420003,장신구 승급석,장신구 승급석 2개를 획득합니다.,Icon_Asset_Upgrade_03,420003,2,,,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+11702,1,기억의 성소 III,2,8722,10768,124700,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420003,장신구 승급석,장신구 승급석 3개를 획득합니다.,Icon_Asset_Upgrade_03,420003,3,,,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+11703,1,기억의 성소 IV,3,15070,18385,226000,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420003,장신구 승급석,장신구 승급석 4개를 획득합니다.,Icon_Asset_Upgrade_03,420003,4,,,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+11704,1,기억의 성소 V,4,15070,18385,649800,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420013,빛나는 장신구 승급석,빛나는 장신구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_06,420013,1,,,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+11705,1,기억의 성소 VI,5,15070,18385,1541000,2,6,,,0,Texture/Image_Dungeon_Daily_06,11000,420013,빛나는 장신구 승급석,빛나는 장신구 승급석 1개를 획득합니다.,Icon_Asset_Upgrade_06,420013,1,420003,5,,,E_Sub_007,,25,,Sub_Environment_Boreas,2,0,,6,,,6,6
+12001,1,오만의 탑 1층,1,252,78,4500,3,1,,,11,Texture/UI_Image_InfinityDungeon,12000,900008,승급석,,Icon_Rune_A_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12002,1,오만의 탑 2층,1,291,177,4500,3,2,,,11,Texture/UI_Image_InfinityDungeon,12000,900009,강화주문서,,Item_EnchantScrollWeapon_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12003,1,오만의 탑 3층,1,352,271,5500,3,3,,,11,Texture/UI_Image_InfinityDungeon,12000,400002,피의 증거,,Item_BloodMedal,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12004,1,오만의 탑 4층,1,437,398,5500,3,4,,,11,Texture/UI_Image_InfinityDungeon,12000,900011,집혼석,,Item_GemStoneBlue_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12005,1,오만의 탑 5층,1,577,619,6800,3,5,,,11,Texture/UI_Image_InfinityDungeon,12000,490002,아데나,,Icon_RuneStone_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12006,1,오만의 탑 6층,1,794,966,6800,3,6,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12007,1,오만의 탑 7층,1,1115,1481,7800,3,7,,,11,Texture/UI_Image_InfinityDungeon,12000,900008,승급석,,Icon_Rune_A_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12008,1,오만의 탑 8층,1,1605,2174,8700,3,8,,,11,Texture/UI_Image_InfinityDungeon,12000,900009,강화주문서,,Item_EnchantScrollWeapon_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12009,1,오만의 탑 9층,1,2204,2929,9500,3,9,,,11,Texture/UI_Image_InfinityDungeon,12000,400002,피의 증거,,Item_BloodMedal,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12010,1,오만의 탑 10층,1,2834,3710,10400,3,10,,,11,Texture/UI_Image_InfinityDungeon,12000,900011,집혼석,,Item_GemStoneBlue_01,490005,,910104,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12011,1,오만의 탑 11층,1,3206,4172,11600,3,11,,,11,Texture/UI_Image_InfinityDungeon,12000,490002,아데나,,Icon_RuneStone_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12012,1,오만의 탑 12층,1,3558,4604,12500,3,12,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12013,1,오만의 탑 13층,1,3930,5060,13500,3,13,,,11,Texture/UI_Image_InfinityDungeon,12000,900008,승급석,,Icon_Rune_A_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12014,1,오만의 탑 14층,1,4269,5472,14400,3,14,,,11,Texture/UI_Image_InfinityDungeon,12000,900009,강화주문서,,Item_EnchantScrollWeapon_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12015,1,오만의 탑 15층,1,4567,5828,15600,3,15,,,11,Texture/UI_Image_InfinityDungeon,12000,400002,피의 증거,,Item_BloodMedal,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12016,1,오만의 탑 16층,1,4872,6195,17000,3,16,,,11,Texture/UI_Image_InfinityDungeon,12000,900011,집혼석,,Item_GemStoneBlue_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12017,1,오만의 탑 17층,1,5185,6570,18800,3,17,,,11,Texture/UI_Image_InfinityDungeon,12000,490002,아데나,,Icon_RuneStone_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12018,1,오만의 탑 18층,1,5505,6954,20600,3,18,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12019,1,오만의 탑 19층,1,5832,7346,22400,3,19,,,11,Texture/UI_Image_InfinityDungeon,12000,900008,승급석,,Icon_Rune_A_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12020,1,오만의 탑 20층,1,6166,7747,24400,3,20,,,11,Texture/UI_Image_InfinityDungeon,12000,900009,강화주문서,,Item_EnchantScrollWeapon_01,490005,,910114,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12021,1,오만의 탑 21층,1,6430,8059,26700,3,21,,,11,Texture/UI_Image_InfinityDungeon,12000,400002,피의 증거,,Item_BloodMedal,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12022,1,오만의 탑 22층,1,6694,8370,29600,3,22,,,11,Texture/UI_Image_InfinityDungeon,12000,900011,집혼석,,Item_GemStoneBlue_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12023,1,오만의 탑 23층,1,6956,8680,32200,3,23,,,11,Texture/UI_Image_InfinityDungeon,12000,490002,아데나,,Icon_RuneStone_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12024,1,오만의 탑 24층,1,7217,8989,35300,3,24,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12025,1,오만의 탑 25층,1,7476,9294,38200,3,25,,,11,Texture/UI_Image_InfinityDungeon,12000,900008,승급석,,Icon_Rune_A_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12026,1,오만의 탑 26층,1,7732,9597,44700,3,26,,,11,Texture/UI_Image_InfinityDungeon,12000,900009,강화주문서,,Item_EnchantScrollWeapon_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12027,1,오만의 탑 27층,1,7985,9897,52100,3,27,,,11,Texture/UI_Image_InfinityDungeon,12000,400002,피의 증거,,Item_BloodMedal,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12028,1,오만의 탑 28층,1,8234,10192,55900,3,28,,,11,Texture/UI_Image_InfinityDungeon,12000,900011,집혼석,,Item_GemStoneBlue_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12029,1,오만의 탑 29층,1,8480,10482,59900,3,29,,,11,Texture/UI_Image_InfinityDungeon,12000,490002,아데나,,Icon_RuneStone_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12030,1,오만의 탑 30층,1,8722,10768,64100,3,30,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,910124,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12031,1,오만의 탑 31층,1,8959,11048,70300,3,31,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12032,1,오만의 탑 32층,1,9347,11513,75900,3,32,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12033,1,오만의 탑 33층,1,9742,11988,80300,3,33,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12034,1,오만의 탑 34층,1,10145,12471,86400,3,34,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12035,1,오만의 탑 35층,1,10556,12964,91100,3,35,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12036,1,오만의 탑 36층,1,10974,13466,98000,3,36,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12037,1,오만의 탑 37층,1,11399,13977,104400,3,37,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12038,1,오만의 탑 38층,1,11833,14497,110400,3,38,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12039,1,오만의 탑 39층,1,12273,15026,118300,3,39,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12040,1,오만의 탑 40층,1,12721,15564,124700,3,40,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,910124,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12041,1,오만의 탑 41층,1,13176,16111,133600,3,41,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12042,1,오만의 탑 42층,1,13639,16666,141400,3,42,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12043,1,오만의 탑 43층,1,14108,17230,150700,3,43,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12044,1,오만의 탑 44층,1,14586,17803,160700,3,44,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12045,1,오만의 탑 45층,1,15070,18385,170000,3,45,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12046,1,오만의 탑 46층,1,15561,18975,181100,3,46,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12047,1,오만의 탑 47층,1,16060,19574,192200,3,47,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12048,1,오만의 탑 48층,1,16566,20182,203800,3,48,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12049,1,오만의 탑 49층,1,17080,20798,216200,3,49,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12050,1,오만의 탑 50층,1,17600,21423,228600,3,50,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490027,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12051,1,오만의 탑 51층,1,18127,22056,241200,3,51,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12052,1,오만의 탑 52층,1,18662,22698,254100,3,52,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12053,1,오만의 탑 53층,1,19203,23348,266800,3,53,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12054,1,오만의 탑 54층,1,19752,24007,279700,3,54,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12055,1,오만의 탑 55층,1,20308,24674,293300,3,55,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12056,1,오만의 탑 56층,1,20870,25349,306700,3,56,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12057,1,오만의 탑 57층,1,21439,26033,321300,3,57,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12058,1,오만의 탑 58층,1,22016,26725,336200,3,58,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12059,1,오만의 탑 59층,1,22599,27426,351400,3,59,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12060,1,오만의 탑 60층,1,23190,28134,367400,3,60,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,910134,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12061,1,오만의 탑 61층,1,23787,28852,384500,3,61,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12062,1,오만의 탑 62층,1,24391,29577,402200,3,62,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12063,1,오만의 탑 63층,1,25002,30311,420300,3,63,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12064,1,오만의 탑 64층,1,25620,31052,439300,3,64,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12065,1,오만의 탑 65층,1,26244,31802,459200,3,65,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12066,1,오만의 탑 66층,1,26875,32560,478800,3,66,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12067,1,오만의 탑 67층,1,27514,33327,500900,3,67,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12068,1,오만의 탑 68층,1,28158,34101,523800,3,68,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12069,1,오만의 탑 69층,1,28810,34883,546900,3,69,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12070,1,오만의 탑 70층,1,29468,35674,571100,3,70,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490037,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12071,1,오만의 탑 71층,1,30134,36472,596400,3,71,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12072,1,오만의 탑 72층,1,30805,37278,621600,3,72,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12073,1,오만의 탑 73층,1,31484,38093,647500,3,73,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12074,1,오만의 탑 74층,1,32169,38916,675000,3,74,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12075,1,오만의 탑 75층,1,32860,39746,702100,3,75,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,910144,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12076,1,오만의 탑 76층,1,33559,40585,728900,3,76,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12077,1,오만의 탑 77층,1,34263,41431,756200,3,77,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12078,1,오만의 탑 78층,1,34975,42285,785300,3,78,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12079,1,오만의 탑 79층,1,35693,43147,815700,3,79,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12080,1,오만의 탑 80층,1,36417,44017,846300,3,80,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490038,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12081,1,오만의 탑 81층,1,37148,44895,857700,3,81,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12082,1,오만의 탑 82층,1,37886,45781,878200,3,82,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12083,1,오만의 탑 83층,1,38630,46675,902200,3,83,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12084,1,오만의 탑 84층,1,39381,47576,926500,3,84,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12085,1,오만의 탑 85층,1,40138,48485,951000,3,85,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,910154,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12086,1,오만의 탑 86층,1,40902,49402,977100,3,86,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12087,1,오만의 탑 87층,1,41672,50326,1001800,3,87,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12088,1,오만의 탑 88층,1,42448,51259,1024900,3,88,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12089,1,오만의 탑 89층,1,43231,52199,1051100,3,89,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12090,1,오만의 탑 90층,1,44021,53147,1077600,3,90,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490038,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12091,1,오만의 탑 91층,1,53124,64077,1106300,3,91,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12092,1,오만의 탑 92층,1,53989,65116,1135000,3,92,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12093,1,오만의 탑 93층,1,54860,66163,1163700,3,93,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12094,1,오만의 탑 94층,1,55739,67217,1192400,3,94,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12095,1,오만의 탑 95층,1,56623,68279,1249800,3,95,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12096,1,오만의 탑 96층,1,153369,184928,1283683,3,96,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12097,1,오만의 탑 97층,1,253110,305175,1317566,3,97,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12098,1,오만의 탑 98층,1,355878,429053,1351449,3,98,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490041,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12099,1,오만의 탑 99층,1,461701,556602,1385332,3,99,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+12100,1,오만의 탑 100층,1,570613,687860,1453100,3,100,,,11,Texture/UI_Image_InfinityDungeon,12000,900001,장비 뽑기권,,Armor_Human_Knightmare_Helmet_01,490005,,490038,,,,,,25,,TowerOfInsolence_Trigger,4,0,,6,,,6,6
+20001,1,하거인의 유적지,1,0,0,8700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110001,6,6
+20002,1,하거인의 유적지,1,0,0,8700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110002,6,6
+20003,1,하거인의 유적지,1,0,0,8700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110003,6,6
+20004,1,하거인의 유적지,1,0,0,8700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110004,6,6
+20005,1,하거인의 유적지,1,0,0,8700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110005,6,6
+20006,1,하거인의 유적지,1,0,0,15200,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110006,6,6
+20007,1,하거인의 유적지,1,0,0,13100,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110007,6,6
+20008,1,하거인의 유적지,1,0,0,15200,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110008,6,6
+20009,1,하거인의 유적지,1,0,0,15200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110009,6,6
+20010,1,하거인의 유적지,1,0,0,15200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110010,6,6
+20011,1,하거인의 유적지,1,0,0,15200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110011,6,6
+20012,1,하거인의 유적지,1,0,0,23700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110012,6,6
+20013,1,하거인의 유적지,1,0,0,28800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110013,6,6
+20014,1,하거인의 유적지,1,0,0,34300,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110014,6,6
+20015,1,하거인의 유적지,1,0,0,43400,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110015,6,6
+20016,1,하거인의 유적지,1,0,0,62200,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110016,6,6
+20017,1,하거인의 유적지,1,0,0,16500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110101,6,6
+20018,1,하거인의 유적지,1,0,0,16500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110102,6,6
+20019,1,하거인의 유적지,1,0,0,18300,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110103,6,6
+20020,1,하거인의 유적지,1,0,0,21800,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110104,6,6
+20021,1,하거인의 유적지,1,0,0,23700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110105,6,6
+20022,1,하거인의 유적지,1,0,0,25900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110106,6,6
+20023,1,하거인의 유적지,1,0,0,43400,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110107,6,6
+20024,1,하거인의 유적지,1,0,0,50600,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110108,6,6
+20025,1,하거인의 유적지,1,0,0,37100,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110109,6,6
+20026,1,하거인의 유적지,1,0,0,68200,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110110,6,6
+20027,1,하거인의 유적지,1,0,0,68200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110111,6,6
+20028,1,하거인의 유적지,1,0,0,73700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110112,6,6
+20029,1,하거인의 유적지,1,0,0,73700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110113,6,6
+20030,1,하거인의 유적지,1,0,0,83900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110114,6,6
+20031,1,하거인의 유적지,1,0,0,95100,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110115,6,6
+20032,1,하거인의 유적지,1,0,0,101300,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110116,6,6
+20033,1,하거인의 유적지,1,0,0,107100,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110117,6,6
+20034,1,하거인의 유적지,1,0,0,107100,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110118,6,6
+20035,1,하거인의 유적지,1,0,0,114800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110119,6,6
+20036,1,하거인의 유적지,1,0,0,121000,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110120,6,6
+20037,1,하거인의 유적지,1,0,0,121000,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110121,6,6
+20038,1,하거인의 유적지,1,0,0,126800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110122,6,6
+20039,1,하거인의 유적지,1,0,0,126800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110123,6,6
+20040,1,하거인의 유적지,1,0,0,137200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110124,6,6
+20041,1,하거인의 유적지,1,0,0,137200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110125,6,6
+20042,1,하거인의 유적지,1,0,0,80900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110126,6,6
+20043,1,하거인의 유적지,1,0,0,126800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110127,6,6
+20044,1,하거인의 유적지,1,0,0,186500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110128,6,6
+20045,1,하거인의 유적지,1,0,0,199800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110129,6,6
+20046,1,하거인의 유적지,1,0,0,148700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110201,6,6
+20047,1,하거인의 유적지,1,0,0,148700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110202,6,6
+20048,1,하거인의 유적지,1,0,0,167600,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110203,6,6
+20049,1,하거인의 유적지,1,0,0,148700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110204,6,6
+20050,1,하거인의 유적지,1,0,0,158200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110205,6,6
+20051,1,하거인의 유적지,1,0,0,148700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110206,6,6
+20052,1,하거인의 유적지,1,0,0,158200,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110207,6,6
+20053,1,하거인의 유적지,1,0,0,186500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110208,6,6
+20054,1,하거인의 유적지,1,0,0,186500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110209,6,6
+20055,1,하거인의 유적지,1,0,0,199800,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110210,6,6
+20056,1,하거인의 유적지,1,0,0,199800,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110211,6,6
+20057,1,하거인의 유적지,1,0,0,212100,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110212,6,6
+20058,1,하거인의 유적지,1,0,0,212100,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110213,6,6
+20059,1,하거인의 유적지,1,0,0,212100,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110214,6,6
+20060,1,하거인의 유적지,1,0,0,221800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110215,6,6
+20061,1,하거인의 유적지,1,0,0,212100,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110216,6,6
+20062,1,하거인의 유적지,1,0,0,236500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110217,6,6
+20063,1,하거인의 유적지,1,0,0,246500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110218,6,6
+20064,1,하거인의 유적지,1,0,0,246500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110219,6,6
+20065,1,하거인의 유적지,1,0,0,271400,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110220,6,6
+20066,1,하거인의 유적지,1,0,0,271400,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110221,6,6
+20067,1,하거인의 유적지,1,0,0,271400,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110222,6,6
+20068,1,하거인의 유적지,1,0,0,284600,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110223,6,6
+20069,1,하거인의 유적지,1,0,0,284600,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110224,6,6
+20070,1,하거인의 유적지,1,0,0,199800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110225,6,6
+20071,1,하거인의 유적지,1,0,0,212100,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110226,6,6
+20072,1,하거인의 유적지,1,0,0,221800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110227,6,6
+20073,1,하거인의 유적지,1,0,0,258800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110228,6,6
+20074,1,하거인의 유적지,1,0,0,271400,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110229,6,6
+20075,1,하거인의 유적지,1,0,0,297500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110230,6,6
+20076,1,하거인의 유적지,1,0,0,326200,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110231,6,6
+20077,1,하거인의 유적지,1,0,0,311700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110301,6,6
+20078,1,하거인의 유적지,1,0,0,311700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110302,6,6
+20079,1,하거인의 유적지,1,0,0,340900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110303,6,6
+20080,1,하거인의 유적지,1,0,0,340900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110304,6,6
+20081,1,하거인의 유적지,1,0,0,340900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110305,6,6
+20082,1,하거인의 유적지,1,0,0,340900,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110306,6,6
+20083,1,하거인의 유적지,1,0,0,340900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110307,6,6
+20084,1,하거인의 유적지,1,0,0,356400,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110308,6,6
+20085,1,하거인의 유적지,1,0,0,373000,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110309,6,6
+20086,1,하거인의 유적지,1,0,0,373000,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110310,6,6
+20087,1,하거인의 유적지,1,0,0,373000,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110311,6,6
+20088,1,하거인의 유적지,1,0,0,393800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110312,6,6
+20089,1,하거인의 유적지,1,0,0,393800,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110313,6,6
+20090,1,하거인의 유적지,1,0,0,407700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110314,6,6
+20091,1,하거인의 유적지,1,0,0,429400,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110315,6,6
+20092,1,하거인의 유적지,1,0,0,429400,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110316,6,6
+20093,1,하거인의 유적지,1,0,0,429400,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110317,6,6
+20094,1,하거인의 유적지,1,0,0,448700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110318,6,6
+20095,1,하거인의 유적지,1,0,0,448700,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110319,6,6
+20096,1,하거인의 유적지,1,0,0,485900,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110320,6,6
+20097,1,하거인의 유적지,1,0,0,467600,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110321,6,6
+20098,1,하거인의 유적지,1,0,0,467600,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110322,6,6
+20099,1,하거인의 유적지,1,0,0,485900,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110323,6,6
+20100,1,하거인의 유적지,1,0,0,448700,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110324,6,6
+20101,1,하거인의 유적지,1,0,0,326200,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110325,6,6
+20102,1,하거인의 유적지,1,0,0,356400,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110326,6,6
+20103,1,하거인의 유적지,1,0,0,393800,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110327,6,6
+20104,1,하거인의 유적지,1,0,0,407700,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110328,6,6
+20105,1,하거인의 유적지,1,0,0,429400,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110329,6,6
+20106,1,하거인의 유적지,1,0,0,448700,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110330,6,6
+20107,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110401,6,6
+20108,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110402,6,6
+20109,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110403,6,6
+20110,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110404,6,6
+20111,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110405,6,6
+20112,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110406,6,6
+20113,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110407,6,6
+20114,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110408,6,6
+20115,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110409,6,6
+20116,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110410,6,6
+20117,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110411,6,6
+20118,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110412,6,6
+20119,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110413,6,6
+20120,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110414,6,6
+20121,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110415,6,6
+20122,1,하거인의 유적지,1,0,0,533500,12,0,1,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110416,6,6
+20123,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110417,6,6
+20124,1,하거인의 유적지,1,0,0,533500,12,0,2,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110418,6,6
+20125,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110419,6,6
+20126,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110420,6,6
+20127,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110421,6,6
+20128,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110422,6,6
+20129,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110423,6,6
+20130,1,하거인의 유적지,1,0,0,533500,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110424,6,6
+20131,1,하거인의 유적지,1,0,0,15200,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120101,6,6
+20132,1,하거인의 유적지,1,0,0,34300,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120102,6,6
+20133,1,하거인의 유적지,1,0,0,80900,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120103,6,6
+20134,1,하거인의 유적지,1,0,0,121000,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120104,6,6
+20135,1,하거인의 유적지,1,0,0,148700,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120105,6,6
+20136,1,하거인의 유적지,1,0,0,246500,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120201,6,6
+20137,1,하거인의 유적지,1,0,0,297500,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120202,6,6
+20138,1,하거인의 유적지,1,0,0,356400,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120203,6,6
+20139,1,하거인의 유적지,1,0,0,556700,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120301,6,6
+20140,1,하거인의 유적지,1,0,0,658500,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120302,6,6
+20141,1,하거인의 유적지,1,0,0,533500,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120303,6,6
+20142,1,하거인의 유적지,1,0,0,628100,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120401,6,6
+20143,1,하거인의 유적지,1,0,0,707100,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120402,6,6
+20144,1,하거인의 유적지,1,0,0,707100,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120403,6,6
+20145,1,하거인의 유적지,1,0,0,761800,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20001,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,120404,6,6
+20146,1,하거인의 유적지,1,0,0,556700,12,0,20,,0,Texture/Image_Dungeon_Elite_01,20002,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,130201,6,6
+20147,1,하거인의 유적지,1,0,0,1180400,12,0,20,,0,Texture/Image_Dungeon_Elite_01,20002,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,130301,6,6
+20148,1,하거인의 유적지,1,0,0,707100,12,0,20,,0,Texture/Image_Dungeon_Elite_01,20002,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,130401,6,6
+20149,1,하거인의 유적지,1,0,0,467600,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110331,6,6
+20150,1,하거인의 유적지,1,0,0,485900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110332,6,6
+20151,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110333,6,6
+20152,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110334,6,6
+20153,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110335,6,6
+20154,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110336,6,6
+20155,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110337,6,6
+20156,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110338,6,6
+20157,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110339,6,6
+20158,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110340,6,6
+20159,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110341,6,6
+20160,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110342,6,6
+20161,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110343,6,6
+20162,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110344,6,6
+20163,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110425,6,6
+20164,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110426,6,6
+20165,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110427,6,6
+20166,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110428,6,6
+20167,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110429,6,6
+20168,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110430,6,6
+20169,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110431,6,6
+20170,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110432,6,6
+20171,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110433,6,6
+20172,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110434,6,6
+20173,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110435,6,6
+20174,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110436,6,6
+20175,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110437,6,6
+20176,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110438,6,6
+20177,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110439,6,6
+20178,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110440,6,6
+20179,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110441,6,6
+20180,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110442,6,6
+20181,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110443,6,6
+20182,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110444,6,6
+20183,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110445,6,6
+20184,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110446,6,6
+20185,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110447,6,6
+20186,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110448,6,6
+20187,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110449,6,6
+20188,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110450,6,6
+20189,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110451,6,6
+20190,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110452,6,6
+20191,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110453,6,6
+20192,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110454,6,6
+20193,1,하거인의 유적지,1,0,0,510900,12,0,3,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110455,6,6
+20194,1,하거인의 유적지,1,0,0,510900,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110456,6,6
+20195,1,하거인의 유적지,1,0,0,510900,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110457,6,6
+20196,1,하거인의 유적지,1,0,0,510900,12,0,5,,0,Texture/Image_Dungeon_Elite_01,20000,,,,,,,,,,,RuinsOfgiants_Trigger,,25,,,8,0,,6,,110458,6,6
+50000,1,채집던전,1,577,855,0,4,,,,0,Texture/UI_Image_GatheringDungeon,13000,400002,피의 증거,,Item_BloodMedal,3003,,3002,,,,,"운석 네뷸라이트를 보관하고 있는 상아탑 지하에 생겨난 비밀 광산으로, 신비한 힘을 가진 약초들이 자라고 있습니다.",25,,,,0,,6,,,6,6
+60001,1,정식 튜토리얼,1,252,,12281,6,0,,,0,Texture/Image_Dungeon_Daily_07,60001,490001,경험치,,,,,,,,,,,25,,,,0,,6,,,6,6
+70001,1,정식 튜토리얼,1,252,,12281,6,0,,,0,Texture/Image_Dungeon_Daily_07,70001,490001,경험치,,,,,,,,,,,25,,,,0,,6,,,6,6
+70002,1,정식 튜토리얼,1,252,,12281,6,0,,,0,Texture/Image_Dungeon_Daily_07,70002,490001,경험치,,,,,,,,,,,25,,,,0,,6,,,6,6
+90101,1,바르칼론의 흔적,0,6166,,83300,5,1,5,10,2,Texture/UI_Image_GuildDungeon_01,300201,400002,피의 증거,,Item_BloodMedal,,,,,,,,"바르칼론의 날카로운 검은
+대량의 출혈 피해를 줍니다.",15,1200,100,6,0,,6,,,6,6
+90102,1,바르칼론의 흔적,1,6166,,187700,5,1,10,20,4,Texture/UI_Image_GuildDungeon_01,300201,400002,피의 증거,,Item_BloodMedal,,,,,,,,"바르칼론의 날카로운 검은
+대량의 출혈 피해를 줍니다.",15,2400,200,6,0,,6,,,6,6
+90103,1,바르칼론의 흔적,2,6166,,273200,5,1,20,30,8,Texture/UI_Image_GuildDungeon_01,300201,400002,피의 증거,,Item_BloodMedal,,,,,,,,"바르칼론의 날카로운 검은
+대량의 출혈 피해를 줍니다.",15,5040,300,6,0,,6,,,6,6
+90104,1,바르칼론의 흔적,3,6166,,803100,5,1,35,220,20,Texture/UI_Image_GuildDungeon_01,300201,400002,피의 증거,,Item_BloodMedal,,,,,,,,"바르칼론의 날카로운 검은
+대량의 출혈 피해를 줍니다.",15,8400,300,6,0,,6,,,6,6
+90301,1,여왕 개미의 동굴,0,12721,,336200,5,2,5,10,6,Texture/UI_Image_GuildDungeon_02,300203,400002,피의 증거,,Item_BloodMedal,,,,,,,,"어둠의 동굴의 여왕개미는
+자유 자재로 독을 사용합니다.",15,1200,200,6,0,,6,,,6,6
+90302,1,여왕 개미의 동굴,1,12721,,384500,5,2,10,20,10,Texture/UI_Image_GuildDungeon_02,300203,400002,피의 증거,,Item_BloodMedal,,,,,,,,"어둠의 동굴의 여왕개미는
+자유 자재로 독을 사용합니다.",15,2400,300,6,0,,6,,,6,6
+90303,1,여왕 개미의 동굴,2,12721,,439300,5,2,20,30,12,Texture/UI_Image_GuildDungeon_02,300203,400002,피의 증거,,Item_BloodMedal,,,,,,,,"어둠의 동굴의 여왕개미는
+자유 자재로 독을 사용합니다.",15,5040,400,6,0,,6,,,6,6
+90304,1,여왕 개미의 동굴,3,12721,,1030700,5,2,40,260,22,Texture/UI_Image_GuildDungeon_02,300203,400002,피의 증거,,Item_BloodMedal,,,,,,,,"어둠의 동굴의 여왕개미는
+자유 자재로 독을 사용합니다.",15,8400,400,6,0,,6,,,6,6
+90401,1,크루마 코어의 방,0,,,621600,5,3,10,10,13,Texture/UI_Image_GuildDungeon_03,300205,400002,피의 증거,,Item_BloodMedal,,,,,,,,"크루마 탑의 심장인 크루마 코어입니다.
+크루마 탑에 봉인된 거인의 지식을 보호하고 있습니다.",15,1200,,6,0,,6,,,6,6
+90402,1,크루마 코어의 방,1,,,785300,5,3,20,20,15,Texture/UI_Image_GuildDungeon_03,300205,400002,피의 증거,,Item_BloodMedal,,,,,,,,"크루마 탑의 심장인 크루마 코어입니다.
+크루마 탑에 봉인된 거인의 지식을 보호하고 있습니다.",15,2400,,6,0,,6,,,6,6
+90403,1,크루마 코어의 방,2,,,950200,5,3,30,30,17,Texture/UI_Image_GuildDungeon_03,300205,400002,피의 증거,,Item_BloodMedal,,,,,,,,"크루마 탑의 심장인 크루마 코어입니다.
+크루마 탑에 봉인된 거인의 지식을 보호하고 있습니다.",15,5040,,6,0,,6,,,6,6
+100001,1,광기의 제단,0,0,0,212100,15,1,5,80,60,Texture/UI_Image_PartyDungeon_01,300,,,,,,,,,,,,"네뷸라이트 조각을 탈취 당한 <GreenBold>상아탑</>의 마법사들은,
+탈취 당시 떨어져 나간 일부 조각의 행방을 찾는 조사를 진행합니다.
+
+조사를 진행하던 중,
+<GreenBold>상아탑</>의 일원인 <BlueBold>레니스</>가 실종이 되는 사건이 발생합니다.
+마법사들은 그녀의 행적을 쫓았고,
+그 끝에 <RedBold>티막 오크 주술사</>들의 마을이 있음을 알게 됩니다.
+
+<BlueBold>레니스</>가 <RedBold>오크</>들에게 납치되었을 거라 추측한
+마법사들은 그녀를 구하기 위해 마을에 들어서지만,
+지금 껏 보지 못한 강력한 <RedBold>오크</>들의 공격에 물러설 수 밖에 없었습니다.
+<GreenBold>상아탑</>의 마법사들은 알 수 없는 힘을 지닌 <RedBold>오크</>들에 대한 조사와,
+<BlueBold>레니스</>의 구출을 위해 <BlueBold>은빛 용병단</>에 긴급 구조를 요청합니다.",25,,,6,0,,6,,,6,5
+100002,1,광기의 제단,1,0,0,427500,15,1,5,140,120,Texture/UI_Image_PartyDungeon_01,300,,,,,,,,,,,,"네뷸라이트 조각을 탈취 당한 <GreenBold>상아탑</>의 마법사들은,
+탈취 당시 떨어져 나간 일부 조각의 행방을 찾는 조사를 진행합니다.
+
+조사를 진행하던 중,
+<GreenBold>상아탑</>의 일원인 <BlueBold>레니스</>가 실종이 되는 사건이 발생합니다.
+마법사들은 그녀의 행적을 쫓았고,
+그 끝에 <RedBold>티막 오크 주술사</>들의 마을이 있음을 알게 됩니다.
+
+<BlueBold>레니스</>가 <RedBold>오크</>들에게 납치되었을 거라 추측한
+마법사들은 그녀를 구하기 위해 마을에 들어서지만,
+지금 껏 보지 못한 강력한 <RedBold>오크</>들의 공격에 물러설 수 밖에 없었습니다.
+<GreenBold>상아탑</>의 마법사들은 알 수 없는 힘을 지닌 <RedBold>오크</>들에 대한 조사와,
+<BlueBold>레니스</>의 구출을 위해 <BlueBold>은빛 용병단</>에 긴급 구조를 요청합니다.",25,,,6,0,,6,,,6,5
+100003,1,광기의 제단,2,0,0,719010,15,1,5,220,200,Texture/UI_Image_PartyDungeon_01,300,,,,,,,,,,,,"네뷸라이트 조각을 탈취 당한 <GreenBold>상아탑</>의 마법사들은,
+탈취 당시 떨어져 나간 일부 조각의 행방을 찾는 조사를 진행합니다.
+
+조사를 진행하던 중,
+<GreenBold>상아탑</>의 일원인 <BlueBold>레니스</>가 실종이 되는 사건이 발생합니다.
+마법사들은 그녀의 행적을 쫓았고,
+그 끝에 <RedBold>티막 오크 주술사</>들의 마을이 있음을 알게 됩니다.
+
+<BlueBold>레니스</>가 <RedBold>오크</>들에게 납치되었을 거라 추측한
+마법사들은 그녀를 구하기 위해 마을에 들어서지만,
+지금 껏 보지 못한 강력한 <RedBold>오크</>들의 공격에 물러설 수 밖에 없었습니다.
+<GreenBold>상아탑</>의 마법사들은 알 수 없는 힘을 지닌 <RedBold>오크</>들에 대한 조사와,
+<BlueBold>레니스</>의 구출을 위해 <BlueBold>은빛 용병단</>에 긴급 구조를 요청합니다.",25,,,6,0,,6,,,6,5
+100004,1,광기의 제단,3,0,0,922410,15,1,5,260,240,Texture/UI_Image_PartyDungeon_01,300,,,,,,,,,,,,"네뷸라이트 조각을 탈취 당한 <GreenBold>상아탑</>의 마법사들은,
+탈취 당시 떨어져 나간 일부 조각의 행방을 찾는 조사를 진행합니다.
+
+조사를 진행하던 중,
+<GreenBold>상아탑</>의 일원인 <BlueBold>레니스</>가 실종이 되는 사건이 발생합니다.
+마법사들은 그녀의 행적을 쫓았고,
+그 끝에 <RedBold>티막 오크 주술사</>들의 마을이 있음을 알게 됩니다.
+
+<BlueBold>레니스</>가 <RedBold>오크</>들에게 납치되었을 거라 추측한
+마법사들은 그녀를 구하기 위해 마을에 들어서지만,
+지금 껏 보지 못한 강력한 <RedBold>오크</>들의 공격에 물러설 수 밖에 없었습니다.
+<GreenBold>상아탑</>의 마법사들은 알 수 없는 힘을 지닌 <RedBold>오크</>들에 대한 조사와,
+<BlueBold>레니스</>의 구출을 위해 <BlueBold>은빛 용병단</>에 긴급 구조를 요청합니다.",25,,,6,0,,6,,,6,5
+100005,1,광기의 제단 : 악몽,5,,,0,15,3,5,260,240,Texture/UI_Image_PartyDungeon_Nightmare_01,300,,,,,,,,,,,,"네뷸라이트 조각을 탈취 당한 <GreenBold>상아탑</>의 마법사들은,
+탈취 당시 떨어져 나간 일부 조각의 행방을 찾는 조사를 진행합니다.
+
+조사를 진행하던 중,
+<GreenBold>상아탑</>의 일원인 <BlueBold>레니스</>가 실종이 되는 사건이 발생합니다.
+마법사들은 그녀의 행적을 쫓았고,
+그 끝에 <RedBold>티막 오크 주술사</>들의 마을이 있음을 알게 됩니다.
+
+<BlueBold>레니스</>가 <RedBold>오크</>들에게 납치되었을 거라 추측한
+마법사들은 그녀를 구하기 위해 마을에 들어서지만,
+지금 껏 보지 못한 강력한 <RedBold>오크</>들의 공격에 물러설 수 밖에 없었습니다.
+<GreenBold>상아탑</>의 마법사들은 알 수 없는 힘을 지닌 <RedBold>오크</>들에 대한 조사와,
+<BlueBold>레니스</>의 구출을 위해 <BlueBold>은빛 용병단</>에 긴급 구조를 요청합니다.",25,,,6,0,1,5,245,,6,5
+100101,1,피의 여백작 침소,0,0,0,298600,15,2,5,110,90,Texture/UI_Image_PartyDungeon_02,301,,,,,,,,,,,,"기란 영주의 총애하는 귀족이었던 <RedBold>여백작 트리샤</>
+
+어느 날, 예고 없이 사라진 그녀로 인해서 상류층이 발칵 뒤집어집니다.
+이 소문이 적대 상태인 오렌에 흘러나가면 정치적으로 불리한 위치에 서게
+될 것을 직감한 기란 영주는, 비밀리에 <BlueBold>대장 타크</>를 주축으로 한
+수색대를 파견하여 그녀의 행방을 쫓습니다.
+
+<BlueBold>대장 타크</>는 <RedBold>트리샤 백작</>이 그녀의 <RedBold>수호 기사</>와 함께 <GreenBold>기란 항구</>에서
+목격되었다는 정보를 토대로, 수색대를 악마섬 토벌 선발대로 위장 편입시켜
+비밀리에 <GreenBold>악마섬</>을 수색하기 시작합니다.
+그러나 모종의 이유로 큰 위기에 처한 <BlueBold>타크 대장</>과 수색대원들은
+위기를 벗어나기 위해 <BlueBold>은빛용병단</>에 긴급히 구원을 요청했습니다.",25,,,6,0,,6,,,6,5
+100102,1,피의 여백작 침소,1,0,0,504900,15,2,5,180,160,Texture/UI_Image_PartyDungeon_02,301,,,,,,,,,,,,"기란 영주의 총애하는 귀족이었던 <RedBold>여백작 트리샤</>
+
+어느 날, 예고 없이 사라진 그녀로 인해서 상류층이 발칵 뒤집어집니다.
+이 소문이 적대 상태인 오렌에 흘러나가면 정치적으로 불리한 위치에 서게
+될 것을 직감한 기란 영주는, 비밀리에 <BlueBold>대장 타크</>를 주축으로 한
+수색대를 파견하여 그녀의 행방을 쫓습니다.
+
+<BlueBold>대장 타크</>는 <RedBold>트리샤 백작</>이 그녀의 <RedBold>수호 기사</>와 함께 <GreenBold>기란 항구</>에서
+목격되었다는 정보를 토대로, 수색대를 악마섬 토벌 선발대로 위장 편입시켜
+비밀리에 <GreenBold>악마섬</>을 수색하기 시작합니다.
+그러나 모종의 이유로 큰 위기에 처한 <BlueBold>타크 대장</>과 수색대원들은
+위기를 벗어나기 위해 <BlueBold>은빛용병단</>에 긴급히 구원을 요청했습니다.",25,,,6,0,,6,,,6,5
+100103,1,피의 여백작 침소,2,0,0,811980,15,2,5,240,220,Texture/UI_Image_PartyDungeon_02,301,,,,,,,,,,,,"기란 영주의 총애하는 귀족이었던 <RedBold>여백작 트리샤</>
+
+어느 날, 예고 없이 사라진 그녀로 인해서 상류층이 발칵 뒤집어집니다.
+이 소문이 적대 상태인 오렌에 흘러나가면 정치적으로 불리한 위치에 서게
+될 것을 직감한 기란 영주는, 비밀리에 <BlueBold>대장 타크</>를 주축으로 한
+수색대를 파견하여 그녀의 행방을 쫓습니다.
+
+<BlueBold>대장 타크</>는 <RedBold>트리샤 백작</>이 그녀의 <RedBold>수호 기사</>와 함께 <GreenBold>기란 항구</>에서
+목격되었다는 정보를 토대로, 수색대를 악마섬 토벌 선발대로 위장 편입시켜
+비밀리에 <GreenBold>악마섬</>을 수색하기 시작합니다.
+그러나 모종의 이유로 큰 위기에 처한 <BlueBold>타크 대장</>과 수색대원들은
+위기를 벗어나기 위해 <BlueBold>은빛용병단</>에 긴급히 구원을 요청했습니다.",25,,,6,0,,6,,,6,5
+100104,1,피의 여백작 침소,3,0,0,1032570,15,2,5,280,260,Texture/UI_Image_PartyDungeon_02,301,,,,,,,,,,,,"기란 영주의 총애하는 귀족이었던 <RedBold>여백작 트리샤</>
+
+어느 날, 예고 없이 사라진 그녀로 인해서 상류층이 발칵 뒤집어집니다.
+이 소문이 적대 상태인 오렌에 흘러나가면 정치적으로 불리한 위치에 서게
+될 것을 직감한 기란 영주는, 비밀리에 <BlueBold>대장 타크</>를 주축으로 한
+수색대를 파견하여 그녀의 행방을 쫓습니다.
+
+<BlueBold>대장 타크</>는 <RedBold>트리샤 백작</>이 그녀의 <RedBold>수호 기사</>와 함께 <GreenBold>기란 항구</>에서
+목격되었다는 정보를 토대로, 수색대를 악마섬 토벌 선발대로 위장 편입시켜
+비밀리에 <GreenBold>악마섬</>을 수색하기 시작합니다.
+그러나 모종의 이유로 큰 위기에 처한 <BlueBold>타크 대장</>과 수색대원들은
+위기를 벗어나기 위해 <BlueBold>은빛용병단</>에 긴급히 구원을 요청했습니다.",25,,,6,0,,6,,,6,5
+100105,1,피의 여백작 침소 : 악몽,5,0,0,0,15,4,5,280,260,Texture/UI_Image_PartyDungeon_Nightmare_02,301,,,,,,,,,,,,"기란 영주의 총애하는 귀족이었던 <RedBold>여백작 트리샤</>
+
+어느 날, 예고 없이 사라진 그녀로 인해서 상류층이 발칵 뒤집어집니다.
+이 소문이 적대 상태인 오렌에 흘러나가면 정치적으로 불리한 위치에 서게
+될 것을 직감한 기란 영주는, 비밀리에 <BlueBold>대장 타크</>를 주축으로 한
+수색대를 파견하여 그녀의 행방을 쫓습니다.
+
+<BlueBold>대장 타크</>는 <RedBold>트리샤 백작</>이 그녀의 <RedBold>수호 기사</>와 함께 <GreenBold>기란 항구</>에서
+목격되었다는 정보를 토대로, 수색대를 악마섬 토벌 선발대로 위장 편입시켜
+비밀리에 <GreenBold>악마섬</>을 수색하기 시작합니다.
+그러나 모종의 이유로 큰 위기에 처한 <BlueBold>타크 대장</>과 수색대원들은
+위기를 벗어나기 위해 <BlueBold>은빛용병단</>에 긴급히 구원을 요청했습니다.",25,,,6,0,1,5,295,,6,5
+100200,1,창조의 신전,0,0,0,250400,15,5,5,95,75,Texture/UI_Image_PartyDungeon_03,302,,,,,,,,,,,,"마그나딘 2급 자료 보관실에 드나들 수 있었던 <BlueBold>페르넬</>
+
+그곳에서 <RedBold>그랑카인</>이 <BlueBold>아인하사드</>의 권위를 넘봐 창조의 실험을 진행했다는
+하거인들의 기록을 발견한 그는, 터져 나오는 호기심에 발굴단을 이끌고
+기록에서 언급된 신전이 있다는 <GreenBold>황무지</>로 탐사를 나섭니다.
+
+오랜 연구와 탐사 끝에 <GreenBold>창조의 신전</> 입구를 발견한 페르넬과 그의 발굴단.
+그러나 신전을 신봉하고 있던 <RedBold>켈 마훔</> 무리들에게 붙잡히고 맙니다.
+
+혼란 속에서 가까스로 탈출한 <BlueBold>니아</>는 발굴단을 구하기 위해서
+<BlueBold>은빛용병단</>에 구원 요청을 보내고, 이 소식을 전달 받은 <BlueBold>하딘</>은 용병단의
+최고 용사들을 파견하여 발굴단 구출에 나섭니다.",25,,,6,0,,6,,,6,5
+100201,1,창조의 신전,1,0,0,718000,15,5,5,200,180,Texture/UI_Image_PartyDungeon_03,302,,,,,,,,,,,,"마그나딘 2급 자료 보관실에 드나들 수 있었던 <BlueBold>페르넬</>
+
+그곳에서 <RedBold>그랑카인</>이 <BlueBold>아인하사드</>의 권위를 넘봐 창조의 실험을 진행했다는
+하거인들의 기록을 발견한 그는, 터져 나오는 호기심에 발굴단을 이끌고
+기록에서 언급된 신전이 있다는 <GreenBold>황무지</>로 탐사를 나섭니다.
+
+오랜 연구와 탐사 끝에 <GreenBold>창조의 신전</> 입구를 발견한 페르넬과 그의 발굴단.
+그러나 신전을 신봉하고 있던 <RedBold>켈 마훔</> 무리들에게 붙잡히고 맙니다.
+
+혼란 속에서 가까스로 탈출한 <BlueBold>니아</>는 발굴단을 구하기 위해서
+<BlueBold>은빛용병단</>에 구원 요청을 보내고, 이 소식을 전달 받은 <BlueBold>하딘</>은 용병단의
+최고 용사들을 파견하여 발굴단 구출에 나섭니다.",25,,,6,0,,6,,,6,5
+100202,1,창조의 신전,2,0,0,1525200,15,5,5,270,250,Texture/UI_Image_PartyDungeon_03,302,,,,,,,,,,,,"마그나딘 2급 자료 보관실에 드나들 수 있었던 <BlueBold>페르넬</>
+
+그곳에서 <RedBold>그랑카인</>이 <BlueBold>아인하사드</>의 권위를 넘봐 창조의 실험을 진행했다는
+하거인들의 기록을 발견한 그는, 터져 나오는 호기심에 발굴단을 이끌고
+기록에서 언급된 신전이 있다는 <GreenBold>황무지</>로 탐사를 나섭니다.
+
+오랜 연구와 탐사 끝에 <GreenBold>창조의 신전</> 입구를 발견한 페르넬과 그의 발굴단.
+그러나 신전을 신봉하고 있던 <RedBold>켈 마훔</> 무리들에게 붙잡히고 맙니다.
+
+혼란 속에서 가까스로 탈출한 <BlueBold>니아</>는 발굴단을 구하기 위해서
+<BlueBold>은빛용병단</>에 구원 요청을 보내고, 이 소식을 전달 받은 <BlueBold>하딘</>은 용병단의
+최고 용사들을 파견하여 발굴단 구출에 나섭니다.",25,,,6,0,,6,,,6,5
+100203,1,창조의 신전,3,0,0,1942200,15,5,5,310,290,Texture/UI_Image_PartyDungeon_03,302,,,,,,,,,,,,"마그나딘 2급 자료 보관실에 드나들 수 있었던 <BlueBold>페르넬</>
+
+그곳에서 <RedBold>그랑카인</>이 <BlueBold>아인하사드</>의 권위를 넘봐 창조의 실험을 진행했다는
+하거인들의 기록을 발견한 그는, 터져 나오는 호기심에 발굴단을 이끌고
+기록에서 언급된 신전이 있다는 <GreenBold>황무지</>로 탐사를 나섭니다.
+
+오랜 연구와 탐사 끝에 <GreenBold>창조의 신전</> 입구를 발견한 페르넬과 그의 발굴단.
+그러나 신전을 신봉하고 있던 <RedBold>켈 마훔</> 무리들에게 붙잡히고 맙니다.
+
+혼란 속에서 가까스로 탈출한 <BlueBold>니아</>는 발굴단을 구하기 위해서
+<BlueBold>은빛용병단</>에 구원 요청을 보내고, 이 소식을 전달 받은 <BlueBold>하딘</>은 용병단의
+최고 용사들을 파견하여 발굴단 구출에 나섭니다.",25,,,6,0,,6,,,6,5
+8100801,1,발렌타인 이벤트 소환석 던전,1,,,167600,12,0,5,,0,Texture/Image_Dungeon_Elite_01,810000403,,,,,,,,,,,RuinsOfgiants_Trigger,발렌타인 이벤트 소환석 던전,25,,,2,0,,6,,81110002,6,6

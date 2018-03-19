@@ -1,0 +1,41 @@
+Id,Name,Desc
+1,Aventurier,"Débutant avec un potentiel brut. Transfert possible vers Guerrier, Bandit ou Mystique."
+2,Guerrier,Combattant qui attaque en mêlée.
+3,Bandit,Utilise les dagues et les arcs avec talent.
+4,Mystique,Spécialiste des dégâts qui attaque les ennemis avec de la magie.
+5,Paladin,Tank avec une DÉF élevée et des comp. défensives.
+6,Chef de guerre,Spécialiste des dég. qui attaque et affaiblit les ennemis.
+7,Chasseur trésors,Spé. dég. qui étourdit les ennemis et attaque rapidement.
+8,Œil de faucon,Spé. dég. dist. Ralentit et utilise des zones d'effet.
+9,Thaumaturge,Spé. des dég. qui inflige des dégâts de feu prolongés.
+10,Évêque,Soigne les alliés et étourdit les ennemis.
+31,@1,@1
+32,@2,@2
+33,@3,@3
+34,@4,@4
+35,Chevalier temple,Tank offensif utilisant des attaques de zone d'effet.
+36,Chante-sabre,Spé. dég. utilisant des attaques à moyenne portée.
+37,Marche-plaines,Spé. dég. doté d'une vitesse d'attaque très élevée.
+38,Ranger d'argent,Spé. dég. à longue portée qui attaque vite les ennemis.
+39,Chante-sort,"Spé. des dég. de soutien, attaque ou gèle les ennemis."
+40,Ancêtre,Soigne une grande quantité de PV des alliés.
+61,@1,@1
+62,@2,@2
+63,@3,@3
+64,@4,@4
+65,Chevalier Shilien,Tank offensif qui absorbe les PV des ennemis.
+66,Danse-lames,Spécialiste des dégâts à l'ATQ élevée.
+67,Marche-abîme,Spé. dég. infligeant saignement grâce à sa v. d'attaque.
+68,Ranger fantôme,Spé. dég. aux attaques lentes mais puissantes.
+69,Braille-sort,Spé. dég. qui maudit et inflige des dég. de zone aux ennemis.
+70,Ancêtre de Shilien,Soigne et augmente la puissance du groupe.
+91,@1,@1
+92,@2,@2
+93,@3,@3
+94,@4,@4
+95,Gardien,Tank magique gérant les foules avec des zones d'effets.
+96,Pourfendeur,@68
+97,Escroc,Spé. dég. au déplacement rapide qui écrase ses ennemis.
+98,Ranger de guerre,Spé. dég. à distance utilisant des pièges et des esquives.
+99,Mage de guerre,Spé. dég. rapide sur des zones de tailles réduites.
+100,Sage,Spé. dég. de soutien qui augmente la DÉF du groupe.

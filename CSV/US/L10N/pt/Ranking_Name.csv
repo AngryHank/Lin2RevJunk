@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Poder de combate,Classificação de Poder de combate,Poder de combate
+1,Nível,Classificação de Nível de Personagem,Nível
+2,Atq. f.,Classificação de Atq. f. máx.,Atq. f.
+3,Def. f.,Classificação de Def. f. máx.,Def. f.
+4,Atq. M.,Classificação de Atq. M. máx.,Atq. m.
+5,Def. m.,Classificação de Def. m. máx.,Def. m.
+6,PV,Classificação de PV máx.,PV
+7,Marcação de runa,Classificação de Marcações de runa realizadas,Contagem
+8,Elixir,Classificação de uso de elixires,Número
+9,Códice de monstros,Classificação de Códices de Monstros concluídos,Concluído
+10,Nível total,Classificação total do nível de personagem do servidor,@1
+12,Pontos de Honra,Classificação total pts de honra,Pontuação
+13,Contagem total,Classificação de contagem de arena total,@7
+14,Total de vitórias,Classificação do total de vitórias na arena,Vitórias
+15,Sequência de vitórias,Classificação de Sequência de vitórias máx.,@7
+18,Contribuição semanal,Classificação de contribuição pessoal semanal para o clã,Pontos de Contribuiç.
+19,Total de pontos de contribuição,Classificação de contribuição pessoal total para o clã,@18
+20,Contribuição de Cerco,Classificação de contribuição pessoal total para cerco,Contribuição
+21,Contribuição de Cerco à Fortaleza,Classificação de contrib. pessoal Cerco à Fortaleza,@20
+22,Conquistas do herói,Classificação de Pontos de Conquista do herói,@12
+27,Presença,Classificação de total de dias de presença no jogo,Nº. de Dias
+28,Troca de Preço máximo,Classificação de trocas de preço máximo,Preço de troca
+29,Contagem de trocas,Classificação de contagem de trocas máx.,@7
+30,Contagem de aprimoramento,Classificação de aprimoramento máx.,@7
+31,Conjunto aprimorado,Classificação de máx. de conjunto aprimorado,Contagem de aprimoramentos
+32,Contagem de combinação,Classificação de máx. de combinação,@7
+33,Contagem de melhoria,Classificação de melhoria máx.,@7
+34,Contagem de Quebra de Limite,Classificação de contagem de quebra de limite,@7
+35,Torre da Insolência,Classificação último andar Torre da Insolência,Último andar
+48,Reputação do clã,Classificação de reputação do clã,@12
+49,Poder de combate do clã,Classificação de poder de combate do clã,@1001
+1000,Arena de Lutas,Classificação da arena de lutas,@12
+4000,Campo de batalha honorável,Classificação geral de campo de batalha honorável,@12
+4001,@4000,Classificação 3 do Campo de batalha honorável (bronze),@12
+4002,@4000,Classificação 2 do Campo de batalha honorável (bronze),@12
+4003,@4000,Classificação 1 do Campo de batalha honorável (bronze),@12
+4004,@4000,Classificação 3 do Campo de batalha honorável (prata),@12
+4005,@4000,Classificação 2 do Campo de batalha honorável (prata),@12
+4006,@4000,Classificação 1 do Campo de batalha honorável (prata),@12
+4007,@4000,Classificação 3 no Campo de Batalha Honorável (ouro),@12
+4008,@4000,Classificação 2 do Campo de batalha honorável (ouro),@12
+4009,@4000,Classificação 1 do Campo de batalha honorável (ouro),@12
+4010,@4000,"Campo de Batalha Honorável (Platina), Classificação 3",@12
+4011,@4000,"Campo de Batalha Honorável (Platina), Classificação 2",@12
+4012,@4000,"Campo de Batalha Honorável (Platina), Classificação 1",@12
+4013,@4000,"Campo de Batalha Honorável (Diamante), Classificação 3",@12
+4014,@4000,"Campo de Batalha Honorável (Diamante), Classificação 2",@12
+4015,@4000,"Campo de Batalha Honorável (Diamante), Classificação 1",@12
+4016,@4000,"Campo de Batalha Honorável (Mestre), Classificação",@12
+4017,@4000,"Campo de Batalha Honorável (Grão-mestre), Classificação",@12
+4018,@4000,"Campo de Batalha Honorável (Lenda), Classificação",@12

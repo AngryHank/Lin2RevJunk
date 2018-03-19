@@ -1,0 +1,92 @@
+Type,Name
+0,ATQP
+1,ATQM
+2,Amplification de l'ATQP
+3,Amplification de l'ATQM
+4,Augmentation de l'ATQ des attaques normales
+5,Amplification de l'ATQ selon les membres du groupe
+6,Amplification de la VIT d'ATQ
+7,Puissance de combat
+126,Augmentation du temps de recharge
+9,Taux de CRIT
+10,Taux de résistance aux critiques
+11,Amplification des dégâts critiques
+12,Taux de coups critiques
+13,résistance aux critiques
+14,Amplification du taux de critiques
+15,Amplification de résistance aux critiques
+16,DÉFP
+17,DÉFM
+18,Amplification de la DÉFP
+19,Amplification de la DÉFM
+20,Esquive
+21,Amplification de l'esquive
+22,Taux d'esquive
+23,PRÉ
+24,Amplification de précision
+25,Taux de précision
+26,Taux d'aug. des dégâts
+27,Taux d'aug. des DÉGP
+28,@IncreaseDamagePhyMul
+29,Taux d'aug. des dégâts sur les cibles ralenties
+30,DÉG ignorant la DÉF
+31,Taux de réduction des dégâts
+32,Taux de réduction des DÉGP
+33,Taux de réduction des DÉGM
+34,Réduction des dégâts fixes
+35,Taux de déviation
+36,Taux de réduction des dégâts de déviation
+37,EXP
+38,Taux d'aug. des gains d'EXP
+39,Amplification d'agression
+40,PV
+41,Régén. des PV
+42,Drainage de PV
+43,Augmentation du taux d'apparition des objets
+44,PV max.
+45,Amplification des PV max.
+46,PM max.
+47,Amplification des PM max.
+48,PM
+49,Amplification du coût en PM
+50,Taux de régén. PM
+51,Vitesse
+52,Amplification de la vitesse
+53,Taux de résist. aux ralentissements
+54,Taux de résist. aux étourdissements
+55,Taux de résistance aux états anormaux
+56,Taux de résistance à l'attraction de la cible
+126,Taux de résistance à la poussée
+58,Adena
+59,Taux d'aug. des gains d'Adena
+60,Diamant gratuit
+61,Diamant payant
+62,Ticket de quête
+63,Ticket de pillage auto. de conquête
+64,Fragment de rune
+65,Point de compétence
+66,Points d'amitié
+67,Topaze
+68,Points de loyauté
+69,Invincible
+70,Coup fatal
+71,Habile
+72,Solide
+73,EXP de classe
+74,Pièce de clan
+75,Point de succès
+76,Ticket de festival du Siège
+77,Ticket JcJ
+78,Score d'honneur JcJ
+79,Niveau
+80,Pénétration
+81,Résilience
+82,Augmentation de la zone d'effet des compétences
+83,Augmentation du nombre d'impacts des compétences
+84,Augmentation de la vitesse d'excavation
+85,Augmentation du nombre d'extractions
+86,Taux de bouclier de mana (dégâts absorbés par le mana)
+87,Bloquer les AJ
+88,Augmentation du taux d'apparition des Cœurs de monstre
+89,@CombatPower
+90,Augmentation de la durée de combo

@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,O membro do clã [Param1] doou [Param2] de adena.
+1,[Param1] doou [Param2] Prova(s) de Sangue.
+2,O bônus de clã [Param1] chegou ao nível [Param2].
+3,<FontYellow>O clã chegou ao nível [Param1].</>
+4,<FontRed>Uma guerra foi declarada</> contra [Param1].
+6,<FontBlue>Estabeleceu</> uma aliança com o clã [Param1].
+7,A aliança com [Param1] foi <FontRed>desfeita</>.
+8,O membro do clã [Param1] tornou-se [Param2].
+10,[Param1] <FontBlue>entrou</> para o clã.
+11,[Param1] <FontRed>saiu</> do clã.
+12,<FontYellow>[Param1] cobrou uma taxa de [Param2] caixa(s) de diamante.</>
+13,Concluiu a Masmorra de clã <FontBlue>[Param1]</>.
+14,Obteve a conquista de clã <FontGreen>[Param1]</>.
+15,<FontYellow>Você agora governa [Param1].</>
+16,@CastleAcquired
+17,<FontGreen>Deu</> [Param2] x[Param3] para [Param1] membros do clã.
+18,Deu [Param2] x[Param3] de <FontGreen>prêmio</> para [Param1] membros do clã.
+19,<FontBlue>Deu como recompensa</> [Param1] x[Param2] a todos os membros do clã.
+20,<FontBlue>Venceu</> a guerra contra o clã [Param1].
+21,<FontRed>Perdeu</> a guerra contra o clã [Param1].
+22,Lutou até chegar a um impasse contra o clã [Param1].
+23,Senhor [Param1] comprou [Param2] na loja do Cerco ao Castelo.
+24,O membro do clã [Param1] doou [Param2] Pedra(s) Estelar(es) Vermelha(s).
+9,[Param1] <FontRed>automaticamente indicou</> [Param2] como novo Senhor.
+25,<FontYellow>Você comprou uma Sede do Clã.</>
+26,<FontYellow>A Sede do Clã chegou ao nível [Param1].</>
+27,<FontYellow>O Cristal da União chegou ao nível [Param1].</>
+28,Desistirá da posse de [Param1].
+29,Desistiu da posse de [Param1].
+30,A guerra contra o clã [Param1] terminou com um acordo.

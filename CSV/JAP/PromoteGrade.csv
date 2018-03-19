@@ -1,0 +1,7 @@
+Id,Group,ActivateRate,IconTexture,DecoTexture,DecoColor
+101,1,10000,UI_Icon_rankSR_re,UI_BG_Deco_Blur03_Reversal,0xE98F1766
+102,1,8000,UI_Icon_rankR_re,UI_BG_Deco_Blur03_Reversal,0xAE55FF66
+103,1,6000,UI_Icon_rankS_re,UI_BG_Deco_Blur03_Reversal,0x45CFCF66
+104,1,4000,UI_Icon_rankA_re,UI_BG_Deco_Blur03_Reversal,0x73A10066
+105,1,2000,UI_Icon_rankB_re,UI_BG_Deco_Blur03_Reversal,0x7492B866
+106,1,0,UI_Icon_rankC_re,UI_BG_Deco_Blur03_Reversal,0x4D4D4D66

@@ -1,0 +1,1832 @@
+Id,Nme,Desc
+1,Sconfiggi Orco Lavoratore dell’Isola Parlante Ovest.,Sconfiggi Orco Lavoratore {TaskCount} volta/e.
+2,Sconfiggi Dicor spinato della Foresta dell’Isola Parlante Ovest.,Sconfiggi Dicor spinato della Foresta {TaskCount} volta/e.
+3,Sconfiggi Volpe rossa affamata dell’Isola Parlante Ovest.,Sconfiggi Volpe rossa affamata {TaskCount} volta/e.
+4,Sconfiggi Vespa della Foresta dell’Isola Parlante Ovest.,Sconfiggi Vespa della Foresta {TaskCount} volta/e.
+5,@1,@1
+6,@2,@2
+7,@3,@3
+8,@1,@1
+9,@2,@2
+10,@3,@3
+11,@4,@4
+12,@1,@1
+13,@2,@2
+14,@3,@3
+15,@1,@1
+16,@2,@2
+17,@3,@3
+18,@4,@4
+19,@1,@1
+20,@2,@2
+21,@3,@3
+22,@1,@1
+23,@2,@2
+24,@3,@3
+25,@4,@4
+26,@1,@1
+27,@2,@2
+28,@3,@3
+29,@2,@2
+30,@3,@3
+31,Sconfiggi Soldato Scheletro dell’Isola Parlante Ovest.,Sconfiggi un Soldato Scheletro {TaskCount} volta/e.
+32,Sconfiggi Arciere Scheletro dell’Isola Parlante Ovest.,Sconfiggi Arciere Scheletro {TaskCount} volta/e.
+33,@31,@31
+34,@32,@32
+35,@31,@31
+36,@32,@32
+37,@31,@31
+38,@32,@32
+39,@31,@31
+40,@32,@32
+41,@31,@31
+42,@32,@32
+43,@31,@31
+44,@32,@32
+45,@31,@31
+46,@32,@32
+47,@31,@31
+48,@32,@32
+49,@31,@31
+50,@32,@32
+51,@31,@31
+52,@32,@32
+53,@31,@31
+54,@32,@32
+55,@31,@31
+56,@32,@32
+57,@31,@31
+58,@32,@32
+59,@31,@31
+60,@32,@32
+61,@31,@31
+62,@32,@32
+63,Sconfiggi Lupo mannaro furibondo della Strada di Gludin.,Sconfiggi Lupo mannaro furibondo {TaskCount} volta/e.
+64,@63,@63
+65,@63,@63
+66,@63,@63
+67,@63,@63
+68,@63,@63
+69,Sconfiggi Scout Ol Mahum della Strada di Gludin.,Sconfiggi Scout Ol Mahum {TaskCount} volta/e.
+70,@69,@69
+71,@69,@69
+72,@69,@69
+73,@69,@69
+74,@69,@69
+75,Sconfiggi Puma delle Piane della Strada di Gludin.,Sconfiggi Puma delle Piane {TaskCount} volta/e.
+76,Sconfiggi Tessitore della Strada di Gludin.,Sconfiggi Tessitore {TaskCount} volta/e.
+77,@75,@75
+78,@76,@76
+79,@75,@75
+80,@76,@76
+81,@75,@75
+82,@76,@76
+83,@75,@75
+84,@76,@76
+85,@75,@75
+86,@76,@76
+87,@63,@63
+88,@63,@63
+89,@63,@63
+90,@69,@69
+91,@69,@69
+92,@69,@69
+93,Sconfiggi Soldato Scheletro malevolo della Strada di Gludin.,Sconfiggi Soldato Scheletro malevolo {TaskCount} volta/e.
+94,Sconfiggi Pipistrello della Tomba della Strada di Gludin.,Sconfiggi Pipistrello della Tomba {TaskCount} volta/e.
+95,@93,@93
+96,@94,@94
+97,@93,@93
+98,@94,@94
+99,@93,@93
+100,@94,@94
+101,@93,@93
+102,@94,@94
+103,@93,@93
+104,@94,@94
+105,@93,@93
+106,@94,@94
+107,@93,@93
+108,@94,@94
+109,@93,@93
+110,@94,@94
+111,@93,@93
+112,@94,@94
+113,@93,@93
+114,@94,@94
+115,@93,@93
+116,@94,@94
+117,Sconfiggi Arciere Scheletro malevolo della Strada di Gludin.,Sconfiggi Arciere Scheletro malevolo {TaskCount} volta/e.
+118,@117,@117
+119,@93,@93
+120,@94,@94
+121,@117,@117
+122,@117,@117
+123,Sconfiggi Capomastro Ol Mahum della Strada di Gludin.,Sconfiggi Capomastro Ol Mahum {TaskCount} volta/e.
+124,Sconfiggi Tagliagole Ol Mahum della Strada di Gludin.,Sconfiggi Tagliagole Ol Mahum {TaskCount} volta/e.
+125,@123,@123
+126,@124,@124
+127,@123,@123
+128,@124,@124
+129,@123,@123
+130,@124,@124
+131,@123,@123
+132,@124,@124
+133,@123,@123
+134,@124,@124
+135,@123,@123
+136,@124,@124
+137,@123,@123
+138,@124,@124
+139,@123,@123
+140,@124,@124
+141,@123,@123
+142,@124,@124
+143,@123,@123
+144,@124,@124
+145,Sconfiggi Tiratore Ol Mahum della Strada di Gludin.,Sconfiggi Tiratore Ol Mahum {TaskCount} volta/e.
+146,@145,@145
+147,@123,@123
+148,@124,@124
+149,@123,@123
+150,@124,@124
+151,@145,@145
+152,@145,@145
+153,Sconfiggi Volpe rossa delle Piane di Gludio.,Sconfiggi Volpe rossa {TaskCount} volta/e.
+154,Sconfiggi Lupo nero impazzito delle Piane di Gludio.,Sconfiggi Lupo nero impazzito {TaskCount} volta/e.
+155,Sconfiggi Antilope delle Piane di Gludio.,Sconfiggi Antilope {TaskCount} volta/e.
+156,@153,@153
+157,@154,@154
+158,@155,@155
+159,@153,@153
+160,@154,@154
+161,@155,@155
+162,@153,@153
+163,@154,@154
+164,@155,@155
+165,Sconfiggi Uomo Lucertola Cercatore di Obiettivi Maille delle Piane di Gludio.,Sconfiggi Uomo Lucertola Cercatore di Obiettivi Maille {TaskCount} volta/e.
+166,Sconfiggi Lupo nero furibondo delle Piane di Gludio.,Sconfiggi Lupo nero furibondo {TaskCount} volta/e.
+167,Sconfiggi Tenaglia delle Piane di Gludio.,Sconfiggi {TaskCount} Tenaglia/e.
+168,@165,@165
+169,@166,@166
+170,@167,@167
+171,@165,@165
+172,@166,@166
+173,@167,@167
+174,@165,@165
+175,@166,@166
+176,@167,@167
+177,Sconfiggi Troll Saccheggiatore delle Piane di Gludio.,Sconfiggi Troll Saccheggiatore {TaskCount} volta/e.
+178,@177,@177
+179,@177,@177
+180,@177,@177
+181,@177,@177
+182,@177,@177
+183,@165,@165
+184,@166,@166
+185,@153,@153
+186,@154,@154
+187,@155,@155
+188,@167,@167
+189,Sconfiggi Tessitore Oscuro delle Piane di Gludio.,Sconfiggi Tessitore Oscuro {TaskCount} volta/e.
+190,@177,@177
+191,Sconfiggi Troll Macellaio delle Piane di Gludio.,Sconfiggi Troll Macellaio {TaskCount} volta/e.
+192,@165,@165
+193,@166,@166
+194,@153,@153
+195,@154,@154
+196,@155,@155
+197,@167,@167
+198,@189,@189
+199,@177,@177
+200,@191,@191
+201,@154,@154
+202,@155,@155
+203,@167,@167
+204,@189,@189
+205,@177,@177
+206,@191,@191
+207,@154,@154
+208,@155,@155
+209,@167,@167
+210,@189,@189
+211,@177,@177
+212,@191,@191
+213,Sconfiggi Uomo Lucertola Sciamano Maille delle Piane di Gludio.,Sconfiggi Uomo Lucertola Sciamano Maille {TaskCount} volta/e.
+214,Sconfiggi Uomo Lucertola Tiratore Scelto Maille delle Piane di Gludio.,Sconfiggi Uomo Lucertola Tiratore Scelto Maille {TaskCount} volta/e.
+215,Sconfiggi Uomo Lucertola Guardia Maille delle Piane di Gludio.,Sconfiggi Uomo Lucertola Guardia Maille {TaskCount} volta/e.
+216,Sconfiggi Uomo Lucertola Perlustratore Maille delle Piane di Gludio.,Sconfiggi Uomo Lucertola Perlustratore Maille {TaskCount} volta/e.
+217,@213,@213
+218,@214,@214
+219,@215,@215
+220,@216,@216
+221,@213,@213
+222,@214,@214
+223,@215,@215
+224,@216,@216
+225,@213,@213
+226,@214,@214
+227,@215,@215
+228,@216,@216
+229,@215,@215
+230,@216,@216
+231,@215,@215
+232,@216,@216
+233,@213,@213
+234,@214,@214
+235,@215,@215
+236,@216,@216
+237,@213,@213
+238,@214,@214
+239,@215,@215
+240,@216,@216
+241,@215,@215
+242,@216,@216
+243,Sconfiggi Cacciatore maledetto del Maniero Windawood.,Sconfiggi Cacciatore maledetto {TaskCount} volta/e.
+244,Sconfiggi Suddito misterioso del Maniero Windawood.,Sconfiggi Suddito misterioso {TaskCount} volta/e.
+245,Sconfiggi Lupo mannaro grottesco del Maniero Windawood.,Sconfiggi Lupo mannaro grottesco {TaskCount} volta/e.
+246,Sconfiggi Pipistrello Vampiro del Maniero Windawood.,Sconfiggi Pipistrello Vampiro {TaskCount} volta/e.
+247,Sconfiggi Guerriero Scheletro del Maniero Windawood.,Sconfiggi Guerriero Scheletro {TaskCount} volta/e.
+248,Sconfiggi Tiratore d’arco Scheletro del Maniero Windawood.,Sconfiggi Tiratore d’arco Scheletro {TaskCount} volta/e.
+249,Sconfiggi Segugio affamato del Maniero Windawood.,Sconfiggi Segugio affamato {TaskCount} volta/e.
+250,@247,@247
+251,Sconfiggi Assalitore di Anime del Maniero Windawood.,Sconfiggi Assalitore di Anime {TaskCount} volta/e.
+252,@243,@243
+253,@244,@244
+254,@245,@245
+255,@246,@246
+256,@247,@247
+257,@248,@248
+258,@249,@249
+259,@247,@247
+260,@251,@251
+261,@243,@243
+262,@244,@244
+263,@245,@245
+264,@246,@246
+265,@247,@247
+266,@248,@248
+267,@249,@249
+268,@247,@247
+269,@251,@251
+270,@249,@249
+271,@247,@247
+272,@251,@251
+273,Sconfiggi Prima vendicativo del Maniero Windawood.,Sconfiggi Prima vendicativo {TaskCount} volta/e.
+274,Sconfiggi Ladro di Cristalli Ol Mahum del Maniero Windawood.,Sconfiggi Ladro di Cristalli Ol Mahum {TaskCount} volta/e.
+275,Sconfiggi Ranger Ol Mahum del Maniero Windawood.,Sconfiggi Ranger Ol Mahum {TaskCount} volta/e.
+276,Sconfiggi Unità di Punta Ol Mahum del Maniero Windawood.,Sconfiggi Unità di Punta Ol Mahum {TaskCount} volta/e.
+277,Sconfiggi Guardia Ol Mahum del Maniero Windawood.,Sconfiggi Guardia Ol Mahum {TaskCount} volta/e.
+278,Sconfiggi Ragno Velenoso del Maniero Windawood.,Sconfiggi Ragno Velenoso {TaskCount} volta/e.
+279,Sconfiggi Puma feroce del Maniero Windawood.,Sconfiggi Puma feroce {TaskCount} volta/e.
+280,@273,@273
+281,@274,@274
+282,@275,@275
+283,@276,@276
+284,@277,@277
+285,@278,@278
+286,@279,@279
+287,@273,@273
+288,@274,@274
+289,@275,@275
+290,@276,@276
+291,@277,@277
+292,@278,@278
+293,@279,@279
+294,@273,@273
+295,@274,@274
+296,@275,@275
+297,@276,@276
+298,@277,@277
+299,@278,@278
+300,@279,@279
+301,@278,@278
+302,@279,@279
+303,Sconfiggi Snipe caduto del Maniero Windawood.,Sconfiggi Snipe caduto {TaskCount} volta/e.
+304,Sconfiggi Puma del Maniero Windawood.,Sconfiggi Puma {TaskCount} volta/e.
+305,Sconfiggi Orso di Gludio del Maniero Windawood.,Sconfiggi Orso di Gludio {TaskCount} volta/e.
+306,Sconfiggi Orco Soldato Recluta Turek del Maniero Windawood.,Sconfiggi Orco Soldato Recluta Turek {TaskCount} volta/e.
+307,Sconfiggi Orco Soldato d’Assalto Turek del Maniero Windawood.,Sconfiggi Orco Soldato d’Assalto Turek {TaskCount} volta/e.
+308,Sconfiggi Orco Guardia Turek del Maniero Windawood.,Sconfiggi Orco Guardia Turek {TaskCount} volta/e.
+309,Sconfiggi Orco Tiratore Turek del Maniero Windawood.,Sconfiggi Orco Tiratore Turek {TaskCount} volta/e.
+310,Sconfiggi Segugio da Guerra Turek feroce del Maniero Windawood.,Sconfiggi Segugio da Guerra Turek feroce {TaskCount} volta/e.
+311,Sconfiggi Orco Decano Turek del Maniero Windawood.,Sconfiggi Orco Decano Turek {TaskCount} volta/e.
+312,@303,@303
+313,@304,@304
+314,@305,@305
+315,@306,@306
+316,@307,@307
+317,@308,@308
+318,@309,@309
+319,@310,@310
+320,@311,@311
+321,@303,@303
+322,@304,@304
+323,@305,@305
+324,@306,@306
+325,@307,@307
+326,@308,@308
+327,@309,@309
+328,@310,@310
+329,@311,@311
+330,@309,@309
+331,@310,@310
+332,@311,@311
+333,Sconfiggi Orco Guardia dell’Altare Turek del Maniero Windawood.,Sconfiggi Orco Guardia dell’Altare Turek {TaskCount} volta/e.
+334,Sconfiggi Orco Perlustratore Turek del Maniero Windawood.,Sconfiggi Orco Perlustratore Turek {TaskCount} volta/e.
+335,Sconfiggi Orco Arciere Turek del Maniero Windawood.,Sconfiggi Orco Arciere Turek {TaskCount} volta/e.
+336,Sconfiggi Orco Scorta Turek del Maniero Windawood.,Sconfiggi Orco Scorta Turek {TaskCount} volta/e.
+337,Sconfiggi Orco Soldato Élite Turek del Maniero Windawood.,Sconfiggi Orco Soldato Élite Turek {TaskCount} volta/e.
+338,@333,@333
+339,@334,@334
+340,@335,@335
+341,@336,@336
+342,@337,@337
+343,@333,@333
+344,@334,@334
+345,@335,@335
+346,@336,@336
+347,@337,@337
+348,@333,@333
+349,@334,@334
+350,@335,@335
+351,@336,@336
+352,@337,@337
+353,@333,@333
+354,@334,@334
+355,@337,@337
+356,@333,@333
+357,@334,@334
+358,@335,@335
+359,@336,@336
+360,@337,@337
+361,@333,@333
+362,@334,@334
+363,Sconfiggi Portatore Ol Mahum della Terra Incolta.,Sconfiggi Portatore Ol Mahum {TaskCount} volta/e.
+364,Sconfiggi Lupo mannaro della Terra Incolta.,Sconfiggi Lupo mannaro {TaskCount} volta/e.
+365,Sconfiggi Sorvegliante della Valle della Terra Incolta.,Sconfiggi Sorvegliante della Valle {TaskCount} volta/e.
+366,Sconfiggi Inseguitore dell’Occhio del Mostro della Terra Incolta.,Sconfiggi Inseguitore dell’Occhio del Mostro {TaskCount} volta/e.
+367,Sconfiggi Sahara della Terra Incolta.,Sconfiggi Sahara {TaskCount} volta/e.
+368,Sconfiggi Cercatore Scheletro della Terra Incolta.,Sconfiggi Cercatore Scheletro {TaskCount} volta/e.
+369,Sconfiggi Basilisco delle Terre Incolte della Terra Incolta.,Sconfiggi Basilischi delle Terre Incolte {TaskCount} volta/e.
+370,Sconfiggi Formica Mutante Corazzata della Terra Incolta.,Sconfiggi Formica Mutante Corazzata {TaskCount} volta/e.
+371,Sconfiggi Formica Mutante Corazzata Guerriera della Terra Incolta.,Sconfiggi Formica Mutante Corazzata Guerriera {TaskCount} volta/e.
+372,Sconfiggi Inseguitore Scheletro della Terra Incolta.,Sconfiggi Inseguitore Scheletro {TaskCount} volta/e.
+373,@363,@363
+374,@364,@364
+375,@365,@365
+376,@366,@366
+377,@367,@367
+378,@368,@368
+379,@369,@369
+380,@370,@370
+381,@371,@371
+382,@372,@372
+383,@363,@363
+384,@364,@364
+385,@365,@365
+386,@369,@369
+387,@370,@370
+388,@371,@371
+389,@372,@372
+390,@363,@363
+391,@364,@364
+392,@365,@365
+393,Sconfiggi Sahara eroso della Terra Incolta.,Sconfiggi Sahara eroso {TaskCount} volta/e.
+394,Sconfiggi Sanguisuga gigante della Terra Incolta.,Sconfiggi Sanguisuga gigante {TaskCount} volta/e.
+395,Sconfiggi Formica Corazzata Mutante Operaia della Terra Incolta.,Sconfiggi Formiche Mutanti Corazzate Operaie {TaskCount} volta/e.
+396,Sconfiggi Formica Corazzata Mutante Servitrice della Terra Incolta.,Sconfiggi Formica Mutante Corazzata Servitrice {TaskCount} volta/e.
+397,Sconfiggi Guardia Saccheggiatrice Ol Mahum della Terra Incolta.,Sconfiggi Guardia Saccheggiatrice Ol Mahum {TaskCount} volta/e.
+398,Sconfiggi Portiere Ol Mahum della Terra Incolta.,Sconfiggi Portiere Ol Mahum {TaskCount} volta/e.
+399,Sconfiggi Sanguisuga Mana della Terra Incolta.,Sconfiggi Sanguisuga Mana {TaskCount} volta/e.
+400,Sconfiggi Sentinella Scheletro del deserto della Terra Incolta.,Sconfiggi Sentinella Scheletro del deserto {TaskCount} volta/e.
+401,Sconfiggi Cercatore Scheletro del deserto della Terra Incolta.,Sconfiggi Cercatore Scheletro del Deserto {TaskCount} volta/e.
+402,Sconfiggi Formica Mutante Corazzata Soldato della Terra Incolta.,Sconfiggi Formica Mutante Corazzata Soldato {TaskCount} volta/e.
+403,Sconfiggi Sahara del deserto della Terra Incolta.,Sconfiggi Sahara del Deserto {TaskCount} volta/e.
+404,Sconfiggi Golem di pietra grigia della Terra Incolta.,Sconfiggi Golem di pietra grigia {TaskCount} volta/e.
+405,Sconfiggi Saccheggiatore Ol Mahum della Terra Incolta.,Sconfiggi Razziatore Ol Mahum {TaskCount} volta/e.
+406,@393,@393
+407,@394,@394
+408,@395,@395
+409,@396,@396
+410,@397,@397
+411,@398,@398
+412,@399,@399
+413,@400,@400
+414,@401,@401
+415,@402,@402
+416,@403,@403
+417,@404,@404
+418,@405,@405
+419,@402,@402
+420,@403,@403
+421,@404,@404
+422,@405,@405
+423,@403,@403
+424,@404,@404
+425,@397,@397
+426,@398,@398
+427,@405,@405
+428,Sconfiggi Combattente Saccheggiatore Ol Mahum della Terra Incolta.,Sconfiggi Combattente Saccheggiatore Ol Mahum {TaskCount} volta/e.
+429,Sconfiggi Ranger Saccheggiatore Ol Mahum della Terra Incolta.,Sconfiggi Ranger Saccheggiatore Ol Mahum {TaskCount} volta/e.
+430,@403,@403
+431,@403,@403
+432,@404,@404
+433,@397,@397
+434,@398,@398
+435,@405,@405
+436,@428,@428
+437,@429,@429
+438,@403,@403
+439,@403,@403
+440,@404,@404
+441,@397,@397
+442,@398,@398
+443,@405,@405
+444,@428,@428
+445,@429,@429
+446,@403,@403
+447,@397,@397
+448,@398,@398
+449,@405,@405
+450,@428,@428
+451,@429,@429
+452,@403,@403
+453,Sconfiggi Orco Perlustratore Breka delle Piane di Dion.,Sconfiggi Orco Perlustratore Breka {TaskCount} volta/e.
+454,Sconfiggi Orco Combattente Breka delle Piane di Dion.,Sconfiggi Orco Combattente Breka {TaskCount} volta/e.
+455,Sconfiggi Orco Guardia Breka delle Piane di Dion.,Sconfiggi Orco Guardia Breka {TaskCount} volta/e.
+456,Sconfiggi Orco Scorta Breka delle Piane di Dion.,Sconfiggi Orco Scorta Breka {TaskCount} volta/e.
+457,Sconfiggi Vespa infuriata delle Piane di Dion.,Sconfiggi Vespa infuriata {TaskCount} volta/e.
+458,Sconfiggi Vespa delle Piane di Dion.,Sconfiggi Vespa {TaskCount} volta/e.
+459,Sconfiggi Orco Fornitore Breka delle Piane di Dion.,Sconfiggi Orco Fornitore Breka {TaskCount} volta/e.
+460,Sconfiggi Orco Ranger Breka delle Piane di Dion.,Sconfiggi Orco Ranger Breka {TaskCount} volta/e.
+461,Sconfiggi Uomo Lucertola Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Leto {TaskCount} volta/e.
+462,Sconfiggi Uomo Lucertola Combattente Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Combattente Leto {TaskCount} volta/e.
+463,Sconfiggi Uomo Lucertola Arciere Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Arciere Leto {TaskCount} volta/e.
+464,Sconfiggi Uomo Lucertola Saccheggiatore Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Saccheggiatore Leto {TaskCount} volta/e.
+465,@453,@453
+466,@454,@454
+467,@455,@455
+468,@456,@456
+469,@457,@457
+470,@458,@458
+471,@459,@459
+472,@460,@460
+473,@461,@461
+474,@462,@462
+475,@463,@463
+476,@464,@464
+477,@459,@459
+478,@460,@460
+479,@461,@461
+480,@462,@462
+481,@463,@463
+482,@464,@464
+483,Sconfiggi Uomo Lucertola Sciamano Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Sciamano Leto {TaskCount} volta/e.
+484,Sconfiggi Uomo Lucertola Guardia Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Guardia Leto {TaskCount} volta/e.
+485,Sconfiggi Vespa spinosa delle Piane di Dion.,Sconfiggi Vespa spinosa {TaskCount} volta/e.
+486,Sconfiggi Antilope della Prateria delle Piane di Dion.,Sconfiggi Antilope della Prateria {TaskCount} volta/e.
+487,Sconfiggi Uomo Lucertola Razziatore Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Razziatore Leto {TaskCount} volta/e.
+488,@484,@484
+489,Sconfiggi Uomo Lucertola Scorta Leto delle Piane di Dion.,Sconfiggi Uomo Lucertola Scorta Leto {TaskCount} volta/e.
+490,Sconfiggi Windsus della Prateria delle Piane di Dion.,Sconfiggi Windsus della Prateria {TaskCount} volta/e.
+491,@483,@483
+492,@484,@484
+493,@485,@485
+494,@486,@486
+495,@487,@487
+496,@484,@484
+497,@489,@489
+498,@490,@490
+499,@483,@483
+500,@484,@484
+501,@485,@485
+502,@486,@486
+503,@487,@487
+504,@484,@484
+505,@489,@489
+506,@490,@490
+507,Sconfiggi Antilope elfica delle Piane di Dion.,Sconfiggi Antilope elfica {TaskCount} volta/e.
+508,@487,@487
+509,@484,@484
+510,@489,@489
+511,@490,@490
+512,@507,@507
+513,Sconfiggi Orco Infiltrato Breka delle Piane di Dion.,Sconfiggi Orco Infiltrato Breka {TaskCount} volta/e.
+514,Sconfiggi Antilope Anziana delle Piane di Dion.,Sconfiggi Antilope Anziana {TaskCount} volta/e.
+515,Sconfiggi Pipistrello Vampiro scontroso delle Piane di Dion.,Sconfiggi Pipistrello Vampiro scontroso {TaskCount} volta/e.
+516,Sconfiggi Ragno spinato gigante delle Piane di Dion.,Sconfiggi Ragno spinato gigante {TaskCount} volta/e.
+517,Sconfiggi Pipistrello Vampiro delle Piane di Dion.,Sconfiggi Pipistrello Vampiro {TaskCount} volta/e.
+518,Sconfiggi Troll Tullan delle Piane di Dion.,Sconfiggi Troll Tullan {TaskCount} volta/e.
+519,Sconfiggi Orso rosso feroce delle Piane di Dion.,Sconfiggi Orso rosso feroce {TaskCount} volta/e.
+520,Sconfiggi Ragno della Lama della Prateria delle Piane di Dion.,Sconfiggi Ragno Lama della Prateria {TaskCount} volta/e.
+521,Sconfiggi Tenaglia della lama delle Piane di Dion.,Sconfiggi Tenaglia della lama {TaskCount} volta/e.
+522,Sconfiggi Orso rosso delle Piane di Dion.,Sconfiggi Orso rosso {TaskCount} volta/e.
+523,Sconfiggi Troll delle Piane di Dion.,Sconfiggi Troll {TaskCount} volta/e.
+524,Sconfiggi Windsus Elfico delle Piane di Dion.,Sconfiggi Windsus Elfico {TaskCount} volta/e.
+525,Sconfiggi Orso rosso elfico delle Piane di Dion.,Sconfiggi Orso rosso elfico {TaskCount} volta/e.
+526,Sconfiggi Orco Soldato d’Assalto Breka delle Piane di Dion.,Sconfiggi Orco Soldato d’Assalto Breka {TaskCount} volta/e.
+527,Sconfiggi Vespa di Sangue delle Piane di Dion.,Sconfiggi Vespa di Sangue {TaskCount} volta/e.
+528,@513,@513
+529,@514,@514
+530,@515,@515
+531,@516,@516
+532,@517,@517
+533,@518,@518
+534,@519,@519
+535,@520,@520
+536,@521,@521
+537,@522,@522
+538,@523,@523
+539,@524,@524
+540,@525,@525
+541,@526,@526
+542,@527,@527
+543,Sconfiggi Ragno tigre nero della Palude di Cruma.,Sconfiggi Ragno tigre nero {TaskCount} volta/e.
+544,Sconfiggi Mietitore della Foschia dell’Orrore della Palude di Cruma.,Sconfiggi Mietitore della Foschia dell’Orrore {TaskCount} volta/e.
+545,Sconfiggi Mietitore dell’Orrore della Palude di Cruma.,Sconfiggi Mietitore dell’Orrore {TaskCount} volta/e.
+546,Sconfiggi Ragno Velenoso della Palude della Palude di Cruma.,Sconfiggi Ragno Velenoso della Palude {TaskCount} volta/e.
+547,Sconfiggi Pipistrello della Palude della Palude di Cruma.,Sconfiggi Pipistrello della Palude {TaskCount} volta/e.
+548,Sconfiggi Veggente maledetto della Palude di Cruma.,Sconfiggi Veggente maledetto {TaskCount} volta/e.
+549,@543,@543
+550,@544,@544
+551,@545,@545
+552,@546,@546
+553,@547,@547
+554,@548,@548
+555,@543,@543
+556,@544,@544
+557,@545,@545
+558,@546,@546
+559,@547,@547
+560,@548,@548
+561,@543,@543
+562,@544,@544
+563,@545,@545
+564,@546,@546
+565,@547,@547
+566,@548,@548
+567,@543,@543
+568,@544,@544
+569,@545,@545
+570,@546,@546
+571,@547,@547
+572,@548,@548
+573,Sconfiggi Uomo Lucertola Unità di Punta Maille della Palude di Cruma.,Sconfiggi Uomo Lucertola Unità di Punta Maille {TaskCount} volta/e.
+574,Sconfiggi Perlustratore Scheletro della Palude di Cruma.,Sconfiggi Perlustratore Scheletro {TaskCount} volta/e.
+575,Sconfiggi Rincorritore Scheletro della Palude di Cruma.,Sconfiggi Rincorritore Scheletro {TaskCount} volta/e.
+576,Sconfiggi Uomo Lucertola Sciamano Maille della Palude di Cruma.,@213
+577,Sconfiggi Uomo Lucertola Rincorritore Maille della Palude di Cruma.,Sconfiggi Uomo Lucertola Rincorritore Maille {TaskCount} volta/e.
+578,Sconfiggi Uomo Lucertola Pattuglia Maille della Palude di Cruma.,Sconfiggi Uomo Lucertola Pattuglia Maille {TaskCount} volta/e.
+579,Sconfiggi Gul della Palude della Palude di Cruma.,Sconfiggi Gul della Palude {TaskCount} volta/e.
+580,@573,@573
+581,@574,@574
+582,@575,@575
+583,@576,@213
+584,@577,@577
+585,@578,@578
+586,@579,@579
+587,@573,@573
+588,@574,@574
+589,@575,@575
+590,@576,@213
+591,@577,@577
+592,@578,@578
+593,@579,@579
+594,@576,@213
+595,@577,@577
+596,@578,@578
+597,@577,@577
+598,@578,@578
+599,@579,@579
+600,@576,@213
+601,@577,@577
+602,@578,@578
+603,Sconfiggi Assassino della Palude della Palude di Cruma.,Sconfiggi Assassino della palude {TaskCount} volta/e.
+604,Sconfiggi Killer della Palude della Palude di Cruma.,Sconfiggi Killer della palude {TaskCount} volta/e.
+605,Sconfiggi Emissario dell’Acquitrino Stakato della Palude di Cruma.,Sconfiggi Emissario dell’Acquitrino Stakato {TaskCount} volta/e.
+606,Sconfiggi Hassassin della Palude della Palude di Cruma.,Sconfiggi Hassassin della Palude {TaskCount} volta/e.
+607,Sconfiggi Schiavo dell’Acquitrino Stakato della Palude di Cruma.,Sconfiggi Schiavo dell’Acquitrino Stakato {TaskCount} volta/e.
+608,Sconfiggi Hassassin dell’Acquitrino Stakato della Palude di Cruma.,Sconfiggi Hassassin dell’Acquitrino Stakato {TaskCount} volta/e.
+609,Sconfiggi Killer distruttivo della Palude di Cruma.,Sconfiggi Killer Distruttivo {TaskCount} volta/e.
+610,Sconfiggi Killer della Palude della Palude di Cruma.,@604
+611,@603,@603
+612,@604,@604
+613,@605,@605
+614,@606,@606
+615,@607,@607
+616,@608,@608
+617,@609,@609
+618,@610,@604
+619,@603,@603
+620,@604,@604
+621,@605,@605
+622,@606,@606
+623,@607,@607
+624,@608,@608
+625,@609,@609
+626,@610,@604
+627,Sconfiggi Killer folle della Palude di Cruma.,Sconfiggi Killer folle {TaskCount} volta/e.
+628,Sconfiggi Prima Coro d’Ombra della Palude di Cruma.,Sconfiggi Prima Coro d’Ombra {TaskCount} volta/e.
+629,@609,@609
+630,@610,@604
+631,@627,@627
+632,@628,@628
+633,Sconfiggi Orso Grizzly infuriato della Sommità della Dissonanza.,Sconfiggi Orso Grizzly infuriato {TaskCount} volta/e.
+634,Sconfiggi Volpe dalla coda rossa della Sommità della Dissonanza.,Sconfiggi Volpe dalla coda rossa {TaskCount} volta/e.
+635,Sconfiggi Leopardo nero della Sommità della Dissonanza.,Sconfiggi Leopardo nero {TaskCount} volta/e.
+636,Sconfiggi Ragno zanna della Foresta della Sommità della Dissonanza.,Sconfiggi Ragno zanna della Foresta {TaskCount} volta/e.
+637,Sconfiggi Sentinella Tanor della Sommità della Dissonanza.,Sconfiggi Sentinella Tanor {TaskCount} volta/e.
+638,Sconfiggi Soldato d’Assalto Tanor della Sommità della Dissonanza.,Sconfiggi Soldato d’assalto Tanor {TaskCount} volta/e.
+639,Sconfiggi Combattente Tanor della Sommità della Dissonanza.,Sconfiggi Combattente Tanor {TaskCount} volta/e.
+640,Sconfiggi Sentinella Tanor della Sommità della Dissonanza.,Sconfiggi Sentinella Tanor {TaskCount} volta/e.
+641,Sconfiggi Perlustratore Tanor della Sommità della Dissonanza.,Sconfiggi Perlustratore Tanor {TaskCount} volta/e.
+642,Sconfiggi Cavaliere Recluta Tanor della Sommità della Dissonanza.,Sconfiggi Cavaliere Recluta Tanor {TaskCount} volta/e.
+643,Sconfiggi Fornitore Tanor della Sommità della Dissonanza.,Sconfiggi Fornitore Tanor {TaskCount} volta/e.
+644,Sconfiggi Sciamano Tanor della Sommità della Dissonanza.,Sconfiggi Sciamano Tanor {TaskCount} volta/e.
+645,Sconfiggi Vespa svigorente della Sommità della Dissonanza.,Sconfiggi Vespa svigorente {TaskCount} volta/e.
+646,@633,@633
+647,@634,@634
+648,@635,@635
+649,@636,@636
+650,@637,@637
+651,@638,@638
+652,@639,@639
+653,@640,@640
+654,@641,@641
+655,@642,@642
+656,@643,@643
+657,@644,@644
+658,@645,@645
+659,@642,@642
+660,@643,@643
+661,@644,@644
+662,@645,@645
+663,Sconfiggi Ragno dell’acquitrino velenoso della Sommità della Dissonanza.,Sconfiggi Ragno dell’acquitrino velenoso {TaskCount} volta/e.
+664,Sconfiggi Pattuglia Ol Mahum della Sommità della Dissonanza.,Sconfiggi Pattuglia Ol Mahum {TaskCount} volta/e.
+665,Sconfiggi Scout Ol Mahum della Sommità della Dissonanza.,@69
+666,Sconfiggi Vespa d’Ombra della Sommità della Dissonanza.,Sconfiggi Vespa d’Ombra {TaskCount} volta/e.
+667,@642,@642
+668,Sconfiggi Sacerdote Tanor della Sommità della Dissonanza.,Sconfiggi Sacerdote Tanor {TaskCount} volta/e.
+669,Sconfiggi Soldato Élite di Kankoon della Sommità della Dissonanza.,Sconfiggi Soldato Élite di Kankoon {TaskCount} volta/e.
+670,Sconfiggi Sentinella di Kankoon della Sommità della Dissonanza.,Sconfiggi Sentinella di Kankoon {TaskCount} volta/e.
+671,Sconfiggi Sacerdote di Kankoon della Sommità della Dissonanza.,Sconfiggi Sacerdote di Kankoon {TaskCount} volta/e.
+672,@639,@639
+673,@663,@663
+674,@664,@664
+675,@665,@69
+676,@666,@666
+677,@642,@642
+678,@668,@668
+679,@669,@669
+680,@670,@670
+681,@671,@671
+682,@639,@639
+683,@663,@663
+684,@664,@664
+685,@665,@69
+686,@666,@666
+687,@642,@642
+688,@668,@668
+689,@669,@669
+690,@670,@670
+691,@671,@671
+692,@639,@639
+693,Sconfiggi Funzionario Ol Mahum della Sommità della Dissonanza.,Sconfiggi Funzionario Ol Mahum {TaskCount} volta/e.
+694,Sconfiggi Fornitore Ol Mahum della Sommità della Dissonanza.,Sconfiggi Fornitore Ol Mahum {TaskCount} volta/e.
+695,Sconfiggi Premo dell’Acquitrino della Sommità della Dissonanza.,Sconfiggi Premo dell’Acquitrino {TaskCount} volta/e.
+696,Sconfiggi Sentinella Ol Mahum della Sommità della Dissonanza.,Sconfiggi Sentinella Ol Mahum {TaskCount} volta/e.
+697,Sconfiggi Recluta Ol Mahum della Sommità della Dissonanza.,Sconfiggi Recluta Ol Mahum {TaskCount} volta/e.
+698,Sconfiggi Soldato d’Assalto Ol Mahum della Sommità della Dissonanza.,Sconfiggi Soldato d’Assalto Ol Mahum {TaskCount} volta/e.
+699,Sconfiggi Cecchino Ol Mahum della Sommità della Dissonanza.,Sconfiggi Cecchino Ol Mahum {TaskCount} volta/e.
+700,Sconfiggi Comandante Ol Mahum della Sommità della Dissonanza.,Sconfiggi Comandante Ol Mahum {TaskCount} volta/e.
+701,Sconfiggi Fungo viandante della Sommità della Dissonanza.,Sconfiggi Fungo viandante {TaskCount} volta/e.
+702,@693,@693
+703,@694,@694
+704,@695,@695
+705,@696,@696
+706,@697,@697
+707,@698,@698
+708,@699,@699
+709,@700,@700
+710,@701,@701
+711,@693,@693
+712,@694,@694
+713,@695,@695
+714,@696,@696
+715,@697,@697
+716,@698,@698
+717,@699,@699
+718,@700,@700
+719,@701,@701
+720,@699,@699
+721,@700,@700
+722,@701,@701
+723,Sconfiggi Dicor del Malessere dei Santi Urlanti.,Sconfiggi Dicor del Malessere {TaskCount} volta/e.
+724,Sconfiggi Mandragora piangente dei Santi Urlanti.,Sconfiggi Mandragora piangente {TaskCount} volta/e.
+725,Sconfiggi Mandragora torturata dei Santi Urlanti.,Sconfiggi Mandragora torturata {TaskCount} volta/e.
+726,Sconfiggi Dicor della Disperazione dei Santi Urlanti.,Sconfiggi Dicor della Disperazione {TaskCount} volta/e.
+727,Sconfiggi Mandragora furiosa dei Santi Urlanti.,Sconfiggi Mandragora furiosa {TaskCount} volta/e.
+728,@723,@723
+729,@724,@724
+730,@725,@725
+731,@726,@726
+732,@727,@727
+733,@723,@723
+734,@724,@724
+735,@725,@725
+736,@726,@726
+737,@727,@727
+738,@723,@723
+739,@724,@724
+740,@725,@725
+741,@726,@726
+742,@727,@727
+743,@723,@723
+744,@724,@724
+745,@727,@727
+746,@723,@723
+747,@724,@724
+748,@725,@725
+749,@726,@726
+750,@727,@727
+751,@723,@723
+752,@724,@724
+753,Sconfiggi Servitore del Destino esausto dei Santi Urlanti.,Sconfiggi Servitore del Destino esausto {TaskCount} volta/e.
+754,Sconfiggi Killer vendicativo dei Santi Urlanti.,Sconfiggi Killer vendicativo {TaskCount} volta/e.
+755,Sconfiggi Mietitore pazzo dei Santi Urlanti.,Sconfiggi Mietitore pazzo {TaskCount} volta/e.
+756,Sconfiggi Salice nero dei Santi Urlanti.,Sconfiggi Salice Nero {TaskCount} volta/e.
+757,Sconfiggi Killer mutilato dei Santi Urlanti.,Sconfiggi Killer mutilato {TaskCount} volta/e.
+758,@753,@753
+759,@754,@754
+760,@755,@755
+761,@756,@756
+762,@757,@757
+763,@753,@753
+764,@754,@754
+765,@755,@755
+766,@756,@756
+767,@757,@757
+768,@753,@753
+769,@754,@754
+770,@755,@755
+771,@756,@756
+772,@757,@757
+773,@753,@753
+774,@754,@754
+775,@755,@755
+776,@756,@756
+777,@757,@757
+778,@753,@753
+779,@754,@754
+780,@755,@755
+781,@756,@756
+782,@757,@757
+783,Sconfiggi Servitore del Destino dei Santi Urlanti.,Sconfiggi Servitore del Destino {TaskCount} volta/e.
+784,Sconfiggi Spirito irrequieto dei Santi Urlanti.,Sconfiggi Spirito irrequieto {TaskCount} volta/e.
+785,Sconfiggi Spirito innocente dei Santi Urlanti.,Sconfiggi Spirito innocente {TaskCount} volta/e.
+786,Sconfiggi Mietitore di Morte dei Santi Urlanti.,Sconfiggi Mietitore di Morte {TaskCount} volta/e.
+787,Sconfiggi Salice nefasto dei Santi Urlanti.,Sconfiggi Salice nefasto {TaskCount} volta/e.
+788,Sconfiggi Spettro assetato di sangue ai Santi Urlanti dei Santi Urlanti.,Sconfiggi Spettro assettato di sangue {TaskCount} volta/e.
+789,Sconfiggi Spettro risorto dei Santi Urlanti.,Sconfiggi Spettro risorto {TaskCount} volta/e.
+790,Sconfiggi Mercante risorto dei Santi Urlanti.,Sconfiggi Mercante risorto {TaskCount} volta/e.
+791,@783,@783
+792,@784,@784
+793,@785,@785
+794,@786,@786
+795,@787,@787
+796,@788,@788
+797,@789,@789
+798,@790,@790
+799,@783,@783
+800,@784,@784
+801,@785,@785
+802,@786,@786
+803,@787,@787
+804,@788,@788
+805,@789,@789
+806,@790,@790
+807,@783,@783
+808,@784,@784
+809,@785,@785
+810,@786,@786
+811,@787,@787
+812,@788,@788
+813,Sconfiggi Soldato d’Assalto Scheletro dei Santi Urlanti.,Sconfiggi Soldato d’Assalto Scheletro {TaskCount} volta/e.
+814,Sconfiggi Tiratore Scelto Scheletro dei Santi Urlanti.,Sconfiggi Tiratore Scelto Scheletro {TaskCount} volta/e.
+815,@813,@813
+816,@814,@814
+817,@813,@813
+818,@814,@814
+819,@813,@813
+820,@814,@814
+821,@813,@813
+822,@814,@814
+823,@813,@813
+824,@814,@814
+825,@813,@813
+826,@814,@814
+827,@813,@813
+828,@814,@814
+829,@813,@813
+830,@814,@814
+831,@813,@813
+832,@814,@814
+833,@813,@813
+834,@814,@814
+835,@813,@813
+836,@814,@814
+837,@813,@813
+838,@814,@814
+839,@813,@813
+840,@814,@814
+841,@813,@813
+842,@814,@814
+843,@813,@813
+844,@814,@814
+845,Sconfiggi Negromante Nerkas dei Santi Urlanti.,Sconfiggi Negromante Nerkas {TaskCount} volta/e.
+846,Sconfiggi Mietitore di anime Nerkas dei Santi Urlanti.,Sconfiggi Mietitore di anime Nerkas {TaskCount} volta/e.
+847,Sconfiggi Signore degli Zombie dei Santi Urlanti.,Sconfiggi Signore degli Zombie {TaskCount} volta/e.
+848,Sconfiggi Spettro implacabile ai Santi Urlanti dei Santi Urlanti.,Sconfiggi Spettro implacabile {TaskCount} volta/e.
+849,Sconfiggi Spettro torturato dei Santi Urlanti.,Sconfiggi Spettro torturato {TaskCount} volta/e.
+850,Sconfiggi Dicor piangente dei Santi Urlanti.,Sconfiggi Dicor piangente {TaskCount} volta/e.
+851,Sconfiggi Anima incatenata dei Santi Urlanti.,Sconfiggi Anima incatenata {TaskCount} volta/e.
+852,Sconfiggi Servitore del Timore dei Santi Urlanti.,Sconfiggi Servitore del Timore {TaskCount} volta/e.
+853,@845,@845
+854,@846,@846
+855,@847,@847
+856,@848,@848
+857,@849,@849
+858,@850,@850
+859,@851,@851
+860,@852,@852
+861,@845,@845
+862,@846,@846
+863,@847,@847
+864,@848,@848
+865,@849,@849
+866,@850,@850
+867,@851,@851
+868,@852,@852
+869,@845,@845
+870,@846,@846
+871,@847,@847
+872,@848,@848
+873,@849,@849
+874,@850,@850
+875,Sconfiggi Dicor della Rovina del Dominio di Giran.,Sconfiggi Dicor della Rovina {TaskCount} volta/e.
+876,Sconfiggi Snipe della Rovina del Dominio di Giran.,Sconfiggi Snipe della Rovina {TaskCount} volta/e.
+877,Sconfiggi Orso rosso affamato del Dominio di Giran.,Sconfiggi Orso rosso affamato {TaskCount} volta/e.
+878,Sconfiggi Orso rosso feroce del Dominio di Giran.,Sconfiggi Orso rosso feroce {TaskCount} volta/e.
+879,Sconfiggi Puma alpino del Dominio di Giran.,Sconfiggi Puma alpino {TaskCount} volta/e.
+880,Sconfiggi Puma massiccio del Dominio di Giran.,Sconfiggi Puma massiccio {TaskCount} volta/e.
+881,@875,@875
+882,@876,@876
+883,@877,@877
+884,@878,@878
+885,@879,@879
+886,@880,@880
+887,@875,@875
+888,@876,@876
+889,@877,@877
+890,@878,@878
+891,@879,@879
+892,@880,@880
+893,@875,@875
+894,@876,@876
+895,@877,@877
+896,@878,@878
+897,@879,@879
+898,@880,@880
+899,@875,@875
+900,@876,@876
+901,@877,@877
+902,@878,@878
+903,@879,@879
+904,@880,@880
+905,Sconfiggi Antilope dei Pascoli del Dominio di Giran.,Sconfiggi Antilope dei Pascoli {TaskCount} volta/e.
+906,Sconfiggi Windsus dei Pascoli del Dominio di Giran.,Sconfiggi Windsus dei Pascoli {TaskCount} volta/e.
+907,Sconfiggi Medusa del Dominio di Giran.,Sconfiggi Medusa {TaskCount} volta/e.
+908,Sconfiggi Wyrm del Dominio di Giran.,Sconfiggi Wyrm {TaskCount} volta/e.
+909,Sconfiggi Troll del Dominio di Giran.,@523
+910,Sconfiggi Guardiano Wyrm del Dominio di Giran.,Sconfiggi Guardiano Wyrm {TaskCount} volta/e.
+911,Sconfiggi Golem di Pietra del Dominio di Giran.,Sconfiggi Golem di Pietra {TaskCount} volta/e.
+912,@905,@905
+913,@906,@906
+914,@907,@907
+915,@908,@908
+916,@909,@523
+917,@910,@910
+918,@911,@911
+919,@905,@905
+920,@906,@906
+921,@907,@907
+922,@908,@908
+923,@909,@523
+924,@910,@910
+925,@911,@911
+926,@905,@905
+927,@906,@906
+928,@907,@907
+929,@908,@908
+930,@909,@523
+931,@910,@910
+932,@911,@911
+933,@910,@910
+934,@911,@911
+935,Sconfiggi Dicor della Foresta del Dominio di Giran.,Sconfiggi Dicor della Foresta {TaskCount} volta/e.
+936,Sconfiggi Dicor delle Allucinazioni del Dominio di Giran.,Sconfiggi Dicor delle Allucinazioni {TaskCount} volta/e.
+937,Sconfiggi Succubo del Dominio di Giran.,Sconfiggi Succubo {TaskCount} volta/e.
+938,Sconfiggi Lupo mannaro della Foresta del Dominio di Giran.,Sconfiggi Lupo mannaro della Foresta {TaskCount} volta/e.
+939,Sconfiggi Succubo Seducente del Dominio di Giran.,Sconfiggi Succubo Seducente {TaskCount} volta/e.
+940,Sconfiggi Snipe rapido del Dominio di Giran.,Sconfiggi Snipe rapido {TaskCount} volta/e.
+941,Sconfiggi Dicor Anziano del Dominio di Giran.,Sconfiggi Dicor Anziano {TaskCount} volta/e.
+942,@935,@935
+943,@936,@936
+944,@937,@937
+945,@938,@938
+946,@939,@939
+947,@940,@940
+948,@941,@941
+949,@935,@935
+950,@936,@936
+951,@937,@937
+952,@938,@938
+953,@939,@939
+954,@940,@940
+955,@941,@941
+956,@935,@935
+957,@936,@936
+958,@937,@937
+959,@938,@938
+960,@939,@939
+961,@940,@940
+962,@941,@941
+963,@935,@935
+964,@936,@936
+965,@937,@937
+966,@938,@938
+967,@939,@939
+968,@940,@940
+969,@941,@941
+970,Sconfiggi Uomo Lucertola Sentinella Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Sentinella Langk {TaskCount} volta/e.
+971,Sconfiggi Uomo Lucertola Perlustratore Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Perlustratore Langk {TaskCount} volta/e.
+972,Sconfiggi Uomo Lucertola Guerriero Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Guerriero Langk {TaskCount} volta/e.
+973,Sconfiggi Uomo Lucertola Combattente Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Combattente Langk {TaskCount} volta/e.
+974,Sconfiggi Uomo Lucertola Ranger Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Ranger Langk {TaskCount} volta/e.
+975,Sconfiggi Uomo Lucertola Recluta Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Recluta Langk {TaskCount} volta/e.
+976,Sconfiggi Uomo Lucertola Sciamano Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Sciamano Langk {TaskCount} volta/e.
+977,Sconfiggi Uomo Lucertola Soldato Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Soldato Langk {TaskCount} volta/e.
+978,Sconfiggi Uomo Lucertola Sciamano Anziano Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Sciamano Anziano Langk {TaskCount} volta/e.
+979,Sconfiggi Uomo Lucertola Soldato d’Assalto Langk del Dominio di Giran.,Sconfiggi Uomo Lucertola Soldato d’Assalto Langk {TaskCount} volta/e.
+980,@970,@970
+981,@971,@971
+982,@972,@972
+983,@973,@973
+984,@974,@974
+985,@975,@975
+986,@976,@976
+987,@977,@977
+988,@978,@978
+989,@979,@979
+990,@970,@970
+991,@971,@971
+992,@972,@972
+993,@973,@973
+994,@974,@974
+995,@975,@975
+996,@976,@976
+997,@977,@977
+998,@978,@978
+999,@979,@979
+1000,Sconfiggi Puma affamato delle Rive della Nebbia Mortale.,Sconfiggi Puma affamato {TaskCount} volta/e.
+1001,Sconfiggi Razziatore dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Razziatore dei Banditi Ol Mahum {TaskCount} volta/e.
+1002,Sconfiggi Lavoratore dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Lavoratore dei Banditi Ol Mahum {TaskCount} volta/e.
+1003,Sconfiggi Orso rosso selvaggio delle Rive della Nebbia Mortale.,Sconfiggi Orso rosso selvaggio {TaskCount} volta/e.
+1004,Sconfiggi Puma insaziabile delle Rive della Nebbia Mortale.,Sconfiggi Puma insaziabile {TaskCount} volta/e.
+1005,Sconfiggi Perlustratore dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Perlustratore dei Banditi Ol Mahum {TaskCount} volta/e.
+1006,Sconfiggi Sentinella dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Sentinella dei Banditi Ol Mahum {TaskCount} volta/e.
+1007,Sconfiggi Guerriero dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Guerriero dei Banditi Ol Mahum {TaskCount} volta/e.
+1008,Sconfiggi Fornitore dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Fornitore dei Banditi Ol Mahum {TaskCount} volta/e.
+1009,Sconfiggi Maestro Tiratore Scelto dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Maestro tiratore scelto dei Banditi Ol Mahum {TaskCount} volta/e.
+1010,Sconfiggi Comandante dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Comandante dei Banditi Ol Mahum {TaskCount} volta/e.
+1011,Sconfiggi Arciere dei Banditi Ol Mahum delle Rive della Nebbia Mortale.,Sconfiggi Arciere dei Banditi Ol Mahum {TaskCount} volta/e.
+1012,Sconfiggi Orso rosso affamato delle Rive della Nebbia Mortale.,@877
+1013,Sconfiggi Puma costiero furibondo delle Rive della Nebbia Mortale.,Sconfiggi Puma costiero furibondo {TaskCount} volta/e.
+1014,@1000,@1000
+1015,@1001,@1001
+1016,@1002,@1002
+1017,@1003,@1003
+1018,@1004,@1004
+1019,@1005,@1005
+1020,@1006,@1006
+1021,@1007,@1007
+1022,@1008,@1008
+1023,@1009,@1009
+1024,@1010,@1010
+1025,@1011,@1011
+1026,@1012,@877
+1027,@1013,@1013
+1028,@1012,@877
+1029,@1013,@1013
+1030,Sconfiggi Morto errante delle Rive della Nebbia Mortale.,Sconfiggi Morto errante {TaskCount} volta/e.
+1031,Sconfiggi Zombie Pirata naufragato delle Rive della Nebbia Mortale.,Sconfiggi Zombie Pirata naufragato {TaskCount} volta/e.
+1032,Sconfiggi Urlo tetro delle Rive della Nebbia Mortale.,Sconfiggi Urlo tetro {TaskCount} volta/e.
+1033,Sconfiggi Morto gigante delle Rive della Nebbia Mortale.,Sconfiggi Morto gigante {TaskCount} volta/e.
+1034,Sconfiggi Volatore di Morte delle Rive della Nebbia Mortale.,Sconfiggi Volatore di Morte {TaskCount} volta/e.
+1035,Sconfiggi Grandis Distruttore delle Rive della Nebbia Mortale.,Sconfiggi Grandis Distruttore {TaskCount} volta/e.
+1036,Sconfiggi Troll Combattente delle Rive della Nebbia Mortale.,Sconfiggi Troll Combattente {TaskCount} volta/e.
+1037,Sconfiggi Creazione del Gigante Minore delle Rive della Nebbia Mortale.,Sconfiggi Creazione del Gigante Minore {TaskCount} volta/e.
+1038,Sconfiggi Gigante Minore pazzo delle Rive della Nebbia Mortale.,Sconfiggi Gigante Minore pazzo {TaskCount} volta/e.
+1039,Sconfiggi Gigante Minore degenerato delle Rive della Nebbia Mortale.,Sconfiggi Gigante Minore degenerato {TaskCount} volta/e.
+1040,@1030,@1030
+1041,@1031,@1031
+1042,@1032,@1032
+1043,@1033,@1033
+1044,@1034,@1034
+1045,@1035,@1035
+1046,@1036,@1036
+1047,@1037,@1037
+1048,@1038,@1038
+1049,@1039,@1039
+1050,@1030,@1030
+1051,@1031,@1031
+1052,@1032,@1032
+1053,@1033,@1033
+1054,@1034,@1034
+1055,@1035,@1035
+1056,@1036,@1036
+1057,@1037,@1037
+1058,@1038,@1038
+1059,@1039,@1039
+1060,Sconfiggi Gigante Minore dimenticato delle Rive della Nebbia Mortale.,Sconfiggi Gigante Minore dimenticato {TaskCount} volta/e.
+1061,Sconfiggi Gigante Minore in pena delle Rive della Nebbia Mortale.,Sconfiggi Gigante Minore in pena {TaskCount} volta/e.
+1062,Sconfiggi Grandis Trituratore delle Rive della Nebbia Mortale.,Sconfiggi Grandis Trituratore {TaskCount} volta/e.
+1063,Sconfiggi Creazione del Gigante Minore delle Rive della Nebbia Mortale.,Sconfiggi Creazione del Gigante Minore {TaskCount} volta/e.
+1064,Sconfiggi Troll Guerriero delle Rive della Nebbia Mortale.,Sconfiggi Troll Guerriero {TaskCount} volta/e.
+1065,Sconfiggi Grandis Tiranno delle Rive della Nebbia Mortale.,Sconfiggi Grandis Tiranno {TaskCount} volta/e.
+1066,Sconfiggi Fanteria dei Pirati di Zaken delle Rive della Nebbia Mortale.,Sconfiggi Fanteria dei Pirati di Zaken {TaskCount} volta/e.
+1067,Sconfiggi Tiratore dei Pirati di Zaken delle Rive della Nebbia Mortale.,Sconfiggi Tiratore dei Pirati di Zaken {TaskCount} volta/e.
+1068,Sconfiggi Unità di Punta dei Pirati di Zaken delle Rive della Nebbia Mortale.,Sconfiggi Unità di Punta dei Pirati di Zaken {TaskCount} volta/e.
+1069,Sconfiggi Urlo di disperazione delle Rive della Nebbia Mortale.,Sconfiggi Urlo di disperazione {TaskCount} volta/e.
+1070,@1060,@1060
+1071,@1061,@1061
+1072,@1062,@1062
+1073,@1060,@1060
+1074,@1061,@1061
+1075,@1062,@1062
+1076,@1063,@1063
+1077,@1064,@1064
+1078,@1065,@1065
+1079,@1066,@1066
+1080,@1067,@1067
+1081,@1068,@1068
+1082,@1069,@1069
+1083,@1060,@1060
+1084,@1061,@1061
+1085,@1062,@1062
+1086,@1069,@1069
+1087,@1060,@1060
+1088,@1061,@1061
+1089,@1062,@1062
+1090,Sconfiggi Succubo Oscuro dell’Isola del Diavolo.,Sconfiggi Succubo Oscuro {TaskCount} volta/e.
+1091,Sconfiggi la Soprano del Coro Infernale dell’Isola del Diavolo.,Sconfiggi la Soprano del Coro Infernale {TaskCount} volta/e.
+1092,Sconfiggi Scorpione della Roccia del Diavolo dell’Isola del Diavolo.,Sconfiggi Scorpione della Roccia del Diavolo {TaskCount} volta/e.
+1093,Sconfiggi Succubo Oscuro mortale dell’Isola del Diavolo.,Sconfiggi Succubo Oscuro mortale {TaskCount} volta/e.
+1094,Sconfiggi Premo affamato della giungla dell’Isola del Diavolo.,Sconfiggi Premo affamato della giungla {TaskCount} volta/e.
+1095,Sconfiggi Tagliagole dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Tagliagole dei Pirati di Zaken {TaskCount} volta/e.
+1096,Sconfiggi Morto vendicativo dell’Isola del Diavolo.,Sconfiggi Morto vendicativo {TaskCount} volta/e.
+1097,Sconfiggi Vedetta dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Vedetta dei Pirati di Zaken {TaskCount} volta/e.
+1098,Sconfiggi Pattuglia dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Pattuglia dei Pirati di Zaken {TaskCount} volta/e.
+1099,Sconfiggi Cecchino dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Cecchino dei Pirati di Zaken {TaskCount} volta/e.
+1100,@1090,@1090
+1101,@1091,@1091
+1102,@1092,@1092
+1103,@1093,@1093
+1104,@1094,@1094
+1105,@1095,@1095
+1106,@1096,@1096
+1107,@1097,@1097
+1108,@1098,@1098
+1109,@1099,@1099
+1110,@1090,@1090
+1111,@1091,@1091
+1112,@1092,@1092
+1113,@1093,@1093
+1114,@1094,@1094
+1115,@1095,@1095
+1116,@1096,@1096
+1117,@1097,@1097
+1118,@1098,@1098
+1119,@1099,@1099
+1120,Sconfiggi Mozzo dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Mozzo dei Pirati di Zaken {TaskCount} volta/e.
+1121,Sconfiggi Morto implacabile dell’Isola del Diavolo.,Sconfiggi Morto implacabile {TaskCount} volta/e.
+1122,Sconfiggi Scorpione della Grotta dell’Isola del Diavolo.,Sconfiggi Scorpione della Grotta {TaskCount} volta/e.
+1123,Sconfiggi Tiratore Scelto di Zaken dell’Isola del Diavolo.,Sconfiggi Tiratore Scelto di Zaken {TaskCount} volta/e.
+1124,Sconfiggi Zombie Pirata dell’Isola del Diavolo.,Sconfiggi Zombie Pirata {TaskCount} volta/e.
+1125,Sconfiggi Guardia Reale di Zaken dell’Isola del Diavolo.,Sconfiggi Guardia Reale di Zaken {TaskCount} volta/e.
+1126,Sconfiggi Navigante dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Navigante dei Pirati di Zaken {TaskCount} volta/e.
+1127,Sconfiggi Nostromo dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Nostromo dei Pirati di Zaken {TaskCount} volta/e.
+1128,Sconfiggi Sorvegliante di Zaken dell’Isola del Diavolo.,Sconfiggi Sorvegliante di Zaken {TaskCount} volta/e.
+1129,Sconfiggi Timoniere dei Pirati di Zaken dell’Isola del Diavolo.,Sconfiggi Timoniere dei Pirati di Zaken {TaskCount} volta/e.
+1130,@1120,@1120
+1131,@1121,@1121
+1132,@1122,@1122
+1133,@1123,@1123
+1134,@1124,@1124
+1135,@1125,@1125
+1136,@1126,@1126
+1137,@1127,@1127
+1138,@1128,@1128
+1139,@1129,@1129
+1140,@1120,@1120
+1141,@1121,@1121
+1142,@1122,@1122
+1143,@1123,@1123
+1144,@1124,@1124
+1145,@1125,@1125
+1146,@1126,@1126
+1147,@1127,@1127
+1148,@1128,@1128
+1149,@1129,@1129
+1150,Sconfiggi Perlustratore del Burrone di Breka della Necropoli Infestata.,Sconfiggi Perlustratore del Burrone di Breka {TaskCount} volta/e.
+1151,Sconfiggi Sentinella del Burrone di Breka della Necropoli Infestata.,Sconfiggi Sentinella del Burrone di Breka {TaskCount} volta/e.
+1152,Sconfiggi Fornitore del Burrone di Breka della Necropoli Infestata.,Sconfiggi Fornitore del Burrone di Breka {TaskCount} volta/e.
+1153,Sconfiggi Combattente del Burrone di Breka della Necropoli Infestata.,Sconfiggi Combattente del Burrone di Breka {TaskCount} volta/e.
+1154,Sconfiggi Sciamano del Burrone di Breka della Necropoli Infestata.,Sconfiggi Sciamano del Burrone di Breka {TaskCount} volta/e.
+1155,@1150,@1150
+1156,@1151,@1151
+1157,@1152,@1152
+1158,@1153,@1153
+1159,@1154,@1154
+1160,@1150,@1150
+1161,@1151,@1151
+1162,@1152,@1152
+1163,@1153,@1153
+1164,@1154,@1154
+1165,@1150,@1150
+1166,@1151,@1151
+1167,@1152,@1152
+1168,@1153,@1153
+1169,@1154,@1154
+1170,@1150,@1150
+1171,@1151,@1151
+1172,@1152,@1152
+1173,@1153,@1153
+1174,@1154,@1154
+1175,@1150,@1150
+1176,@1151,@1151
+1177,@1152,@1152
+1178,@1153,@1153
+1179,@1154,@1154
+1180,Sconfiggi Pattuglia del Burrone di Breka della Necropoli Infestata.,Sconfiggi Pattuglia del Burrone di Breka {TaskCount} volta/e.
+1181,Sconfiggi Capo Guerriero del Burrone di Breka della Necropoli Infestata.,Sconfiggi Capo Guerriero del Burrone di Breka {TaskCount} volta/e.
+1182,Sconfiggi Sacerdote del Burrone di Breka della Necropoli Infestata.,Sconfiggi Sacerdote del Burrone di Breka {TaskCount} volta/e.
+1183,Sconfiggi la Soprano Inseguitrice di Anime della Necropoli Infestata.,Sconfiggi la Soprano Inseguitrice di Anime {TaskCount} volta/e.
+1184,Sconfiggi Windsus del Burrone della Necropoli Infestata.,Sconfiggi Windsus del Burrone {TaskCount} volta/e.
+1185,Sconfiggi Golem di Pietra della Necropoli Infestata.,@911
+1186,Sconfiggi Basilisco Guardiano della Necropoli Infestata.,Sconfiggi Basilisco Guardiano {TaskCount} volta/e.
+1187,Sconfiggi Mietitore della Necropoli Infestata.,Sconfiggi Mietitore {TaskCount} volta/e.
+1188,@1180,@1180
+1189,@1181,@1181
+1190,@1182,@1182
+1191,@1183,@1183
+1192,@1184,@1184
+1193,@1185,@911
+1194,@1186,@1186
+1195,@1187,@1187
+1196,@1180,@1180
+1197,@1181,@1181
+1198,@1182,@1182
+1199,@1183,@1183
+1200,@1184,@1184
+1201,@1185,@911
+1202,@1186,@1186
+1203,@1187,@1187
+1204,@1182,@1182
+1205,@1183,@1183
+1206,@1184,@1184
+1207,@1185,@911
+1208,@1186,@1186
+1209,@1187,@1187
+1210,Sconfiggi la Soprano Divoratrice di Anime della Necropoli Infestata.,Sconfiggi la Soprano Divoratrice di Anime {TaskCount} volta/e.
+1211,Sconfiggi Sahara della Terra brulla della Necropoli Infestata.,Sconfiggi Sahara della Terra brulla {TaskCount} volta/e.
+1212,Sconfiggi Sahara del crepuscolo della Necropoli Infestata.,Sconfiggi Sahara del crepuscolo {TaskCount} volta/e.
+1213,Sconfiggi Basilisco d’Ambra della Necropoli Infestata.,Sconfiggi Basilisco d’Ambra {TaskCount} volta/e.
+1214,Sconfiggi Anima incatenata errante della Necropoli Infestata.,Sconfiggi Anima incatenata errante {TaskCount} volta/e.
+1215,Sconfiggi Cavaliere senza testa della Necropoli Infestata.,Sconfiggi Cavaliere senza testa {TaskCount} volta/e.
+1216,Sconfiggi Grandis Frantuma Ossa della Necropoli Infestata.,Sconfiggi Grandis Frantuma Ossa {TaskCount} volta/e.
+1217,Sconfiggi Gargoyle Vento di Polvere della Necropoli Infestata.,Sconfiggi Gargoyle Vento di Polvere {TaskCount} volta/e.
+1218,Sconfiggi Occhio del Mostro spaventoso della Necropoli Infestata.,Sconfiggi Occhio del Mostro spaventoso {TaskCount} volta/e.
+1219,Sconfiggi Vento di Polvere del mulinello della Necropoli Infestata.,Sconfiggi Vento di Polvere del mulinello {TaskCount} volta/e.
+1220,Sconfiggi Guardiano Wyrm della Necropoli Infestata.,Sconfiggi Guardiano Wyrm {TaskCount} volta/e.
+1221,Sconfiggi Occhio del Mostro mortale della Necropoli Infestata.,Sconfiggi Occhio del Mostro mortale {TaskCount} volta/e.
+1222,Sconfiggi Wyrm all’erta della Necropoli Infestata.,Sconfiggi Wyrm all’erta {TaskCount} volta/e.
+1223,Sconfiggi Piccolo Wyrm della Necropoli Infestata.,Sconfiggi Piccolo Wyrm {TaskCount} volta/e.
+1224,Sconfiggi Sostenitore di Cager della Necropoli Infestata.,Sconfiggi Sostenitore di Cager {TaskCount} volta/e.
+1225,@1210,@1210
+1226,@1211,@1211
+1227,@1212,@1212
+1228,@1213,@1213
+1229,@1214,@1214
+1230,@1215,@1215
+1231,@1216,@1216
+1232,@1217,@1217
+1233,@1218,@1218
+1234,@1219,@1219
+1235,@1220,@1220
+1236,@1221,@1221
+1237,@1222,@1222
+1238,@1223,@1223
+1239,@1224,@1224
+1240,Sconfiggi Guardiano Wyrm della Necropoli Infestata.,@1220
+1241,Sconfiggi Occhio del Mostro mortale della Necropoli Infestata.,@1221
+1242,Sconfiggi Wyrm all’erta della Necropoli Infestata.,@1222
+1243,Sconfiggi Piccolo Wyrm della Necropoli Infestata.,@1223
+1244,Sconfiggi Sostenitore di Cager della Necropoli Infestata.,@1224
+1245,Sconfiggi Legame di Morte della Necropoli Infestata.,Sconfiggi Legame di Morte {TaskCount} volta/e.
+1246,Sconfiggi Figlio di Veremus della Necropoli Infestata.,Sconfiggi Figlio di Veremus {TaskCount} volta/e.
+1247,Sconfiggi Grandis Uccisore di Draghi della Necropoli Infestata.,Sconfiggi Grandis Uccisore di Draghi {TaskCount} volta/e.
+1248,Sconfiggi Cavaliere senza testa di Morte della Necropoli Infestata.,Sconfiggi Cavaliere senza testa di Morte {TaskCount} volta/e.
+1249,@1240,@1220
+1250,@1241,@1221
+1251,@1242,@1222
+1252,@1243,@1223
+1253,@1244,@1224
+1254,@1245,@1245
+1255,@1246,@1246
+1256,@1247,@1247
+1257,@1248,@1248
+1258,@1240,@1220
+1259,@1241,@1221
+1260,@1242,@1222
+1261,@1243,@1223
+1262,@1244,@1224
+1263,@1245,@1245
+1264,@1246,@1246
+1265,@1247,@1247
+1266,@1248,@1248
+1267,@1246,@1246
+1268,@1247,@1247
+1269,@1248,@1248
+1270,Sconfiggi Grendel dell’Altopiano del Vento Nordico.,Sconfiggi Grendel {TaskCount} volta/e.
+1271,Sconfiggi Windsus del Plateau dell’Altopiano del Vento Nordico.,Sconfiggi Windsus del Plateau dell’Altopiano {TaskCount} volta/e.
+1272,Sconfiggi Grendel Affamato dell’Altopiano del Vento Nordico.,Sconfiggi Grendel Affamato {TaskCount} volta/e.
+1273,Sconfiggi Pincher del Burrone dell’Altopiano del Vento Nordico.,Sconfiggi Pincher del Burrone {TaskCount} volta/e.
+1274,Sconfiggi Atrox Mangiauomini dell’Altopiano del Vento Nordico.,Sconfiggi Atrox {TaskCount} volta/e.
+1275,Sconfiggi Troll Razorwind Tiranno dell’Altopiano del Vento Nordico.,Sconfiggi Troll Razorwind Tiranno {TaskCount} volta/e.
+1276,Sconfiggi Troll Razorwind Lavoratore dell’Altopiano del Vento Nordico.,Sconfiggi Troll Razorwind Lavoratore {TaskCount} volta/e.
+1277,Sconfiggi Troll Razorwind Divoratore dell’Altopiano del Vento Nordico.,Sconfiggi Troll Razorwind Divoratore {TaskCount} volta/e.
+1278,Sconfiggi Troll Razorwind Combattente dell’Altopiano del Vento Nordico.,Sconfiggi Troll Razorwind Combattente {TaskCount} volta/e.
+1279,@1270,@1270
+1280,@1271,@1271
+1281,@1272,@1272
+1282,@1273,@1273
+1283,@1274,@1274
+1284,@1275,@1275
+1285,@1276,@1276
+1286,@1277,@1277
+1287,@1278,@1278
+1288,@1270,@1270
+1289,@1271,@1271
+1290,@1272,@1272
+1291,@1273,@1273
+1292,@1274,@1274
+1293,@1275,@1275
+1294,@1276,@1276
+1295,@1277,@1277
+1296,@1278,@1278
+1297,@1276,@1276
+1298,@1277,@1277
+1299,@1278,@1278
+1300,Sconfiggi Rosa della Ninfa Crudele dell’Altopiano del Vento Nordico.,Sconfiggi Rosa della Ninfa crudele {TaskCount} volta/e.
+1301,Sconfiggi Atrox del Plateau dell’Altopiano del Vento Nordico.,Sconfiggi Atrox {TaskCount} volta/e.
+1302,Sconfiggi Uomo Lucertola Guardia Leto dell’Altopiano del Vento Nordico.,@484
+1303,Sconfiggi Uomo Lucertola Sentinella Leto dell’Altopiano del Vento Nordico.,Sconfiggi Uomo Lucertola Sentinella Leto {TaskCount} volta/e.
+1304,Sconfiggi Uomo Lucertola Sciamano Leto dell’Altopiano del Vento Nordico.,@483
+1305,Sconfiggi Uomo Lucertola Infiltrato Leto dell’Altopiano del Vento Nordico.,Sconfiggi Uomo Lucertola Infiltrato Leto {TaskCount} volta/e.
+1306,Sconfiggi Uomo Lucertola Sacerdote Leto dell’Altopiano del Vento Nordico.,Sconfiggi Uomo Lucertola Sacerdote Leto {TaskCount} volta/e.
+1307,Sconfiggi Uomo Lucertola Guardiano Leto dell’Altopiano del Vento Nordico.,Sconfiggi Uomo Lucertola Guardiano Leto {TaskCount} volta/e.
+1308,@1300,@1300
+1309,@1301,@1301
+1310,@1302,@484
+1311,@1303,@1303
+1312,@1304,@483
+1313,@1305,@1305
+1314,@1306,@1306
+1315,@1307,@1307
+1316,@1300,@1300
+1317,@1301,@1301
+1318,@1302,@484
+1319,@1303,@1303
+1320,@1304,@483
+1321,@1305,@1305
+1322,@1306,@1306
+1323,@1307,@1307
+1324,@1300,@1300
+1325,@1301,@1301
+1326,@1302,@484
+1327,@1303,@1303
+1328,@1304,@483
+1329,@1305,@1305
+1330,@1306,@1306
+1331,@1307,@1307
+1332,Sconfiggi Orco Sentinella Timak dell’Altopiano del Vento Nordico.,Sconfiggi Orco Sentinella Timak {TaskCount} volta/e.
+1333,Sconfiggi Guardia di Kazan dell’Altopiano del Vento Nordico.,Sconfiggi Guardia di Kazan {TaskCount} volta/e.
+1334,Sconfiggi Cercatore di Kazan dell’Altopiano del Vento Nordico.,Sconfiggi Cercatore di Kazan {TaskCount} volta/e.
+1335,Sconfiggi Capomastro degli Schiavi di Kazan dell’Altopiano del Vento Nordico.,Sconfiggi Capomastro degli Schiavi di Kazan {TaskCount} volta/e.
+1336,Sconfiggi Orco Soldato Élite Timak dell’Altopiano del Vento Nordico.,Sconfiggi Orco Soldato Élite Timak {TaskCount} volta/e.
+1337,Sconfiggi Vendicatore Tanor dell’Altopiano del Vento Nordico.,Sconfiggi Vendicatore Tanor {TaskCount} volta/e.
+1338,Sconfiggi Recluta Tanor dell’Altopiano del Vento Nordico.,Sconfiggi Recluta Tanor {TaskCount} volta/e.
+1339,Sconfiggi Guardia Reale del Capo Tribale Tanor dell’Altopiano del Vento Nordico.,Sconfiggi Guardia Reale del Capo Tribale Tanor {TaskCount} volta/e.
+1340,Sconfiggi Stregone Tanor dell’Altopiano del Vento Nordico.,Sconfiggi Stregone Tanor {TaskCount} volta/e.
+1341,Sconfiggi Guardiano Tribale Tanor dell’Altopiano del Vento Nordico.,Sconfiggi Guardiano Tribale Tanor {TaskCount} volta/e.
+1342,@1332,@1332
+1343,@1333,@1333
+1344,@1334,@1334
+1345,@1335,@1335
+1346,@1336,@1336
+1347,@1337,@1337
+1348,@1338,@1338
+1349,@1339,@1339
+1350,@1340,@1340
+1351,@1341,@1341
+1352,@1332,@1332
+1353,@1333,@1333
+1354,@1334,@1334
+1355,@1335,@1335
+1356,@1336,@1336
+1357,@1337,@1337
+1358,@1338,@1338
+1359,@1339,@1339
+1360,@1340,@1340
+1361,@1341,@1341
+1362,Sconfiggi Mietitore Cieco delle Terre Eterne.,Sconfiggi Mietitore Cieco {TaskCount} volta/e.
+1363,Sconfiggi Salice Corrotto delle Terre Eterne.,Sconfiggi Salice Corrotto {TaskCount} volta/e.
+1364,Sconfiggi Mietitore di Anime delle Terre Eterne.,Sconfiggi Mietitore di Anime {TaskCount} volta/e.
+1365,Sconfiggi Fungo Viandante delle Terre Eterne.,@701
+1366,Sconfiggi Ululatore Corazzato delle Terre Eterne.,Sconfiggi Ululatore Corazzato {TaskCount} volta/e.
+1367,Sconfiggi Collezionista di Anime delle Terre Eterne.,Sconfiggi Collezionista di anime {TaskCount} volta/e.
+1368,Sconfiggi Sorvegliante della Barriera delle Terre Eterne.,Sconfiggi Sorvegliante della Barriera {TaskCount} volta/e.
+1369,Sconfiggi Distruttore Sadico di Grandis delle Terre Eterne.,Sconfiggi Distruttore Sadico di Grandis {TaskCount} volta/e.
+1370,@1362,@1362
+1371,@1363,@1363
+1372,@1364,@1364
+1373,@1365,@701
+1374,@1366,@1366
+1375,@1367,@1367
+1376,@1368,@1368
+1377,@1369,@1369
+1378,@1362,@1362
+1379,@1363,@1363
+1380,@1364,@1364
+1381,@1365,@701
+1382,@1366,@1366
+1383,@1367,@1367
+1384,@1368,@1368
+1385,@1369,@1369
+1386,@1362,@1362
+1387,@1363,@1363
+1388,@1364,@1364
+1389,@1365,@701
+1390,@1366,@1366
+1391,@1367,@1367
+1392,@1368,@1368
+1393,@1369,@1369
+1394,Sconfiggi Sciamano di Oel Mahum delle Terre Eterne.,Sconfiggi Sciamano di Oel Mahum {TaskCount} volta/e.
+1395,Sconfiggi Razziatore di Oel Mahum delle Terre Eterne.,Sconfiggi Razziatore di Oel Mahum {TaskCount} volta/e.
+1396,Sconfiggi Trituratore di Oel Mahum delle Terre Eterne.,Sconfiggi Trituratore di Oel Mahum {TaskCount} volta/e.
+1397,Sconfiggi Lavoratore di Oel Mahum delle Terre Eterne.,Sconfiggi Lavoratore di Oel Mahum {TaskCount} volta/e.
+1398,Sconfiggi Guerriero di Oel Mahum delle Terre Eterne.,Sconfiggi Guerriero di Oel Mahum {TaskCount} volta/e.
+1399,Sconfiggi Distruttore di Oel Mahum delle Terre Eterne.,Sconfiggi Distruttore di Oel Mahum {TaskCount} volta/e.
+1400,Sconfiggi Distruttore di Grandis delle Terre Eterne.,@1035
+1401,Sconfiggi Confraternita Oscura delle Terre Eterne.,Sconfiggi Confraternita Oscura {TaskCount} volta/e.
+1402,@1394,@1394
+1403,@1395,@1395
+1404,@1396,@1396
+1405,@1397,@1397
+1406,@1398,@1398
+1407,@1399,@1399
+1408,@1400,@1035
+1409,@1401,@1401
+1410,@1394,@1394
+1411,@1395,@1395
+1412,@1396,@1396
+1413,@1397,@1397
+1414,@1398,@1398
+1415,@1399,@1399
+1416,@1400,@1035
+1417,@1401,@1401
+1418,@1396,@1396
+1419,@1397,@1397
+1420,@1398,@1398
+1421,@1399,@1399
+1422,@1400,@1035
+1423,@1401,@1401
+1424,Sconfiggi Fungo di Spore delle Terre Eterne.,Sconfiggi Fungo di Spore {TaskCount} volta/e.
+1425,Sconfiggi Pipistrello di Spore delle Terre Eterne.,Sconfiggi Pipistrello di Spore {TaskCount} volta/e.
+1426,Sconfiggi Zombie Parassita delle Terre Eterne.,Sconfiggi Zombie Parassita {TaskCount} volta/e.
+1427,Sconfiggi Wyrm delle Terre Eterne.,@908
+1428,Sconfiggi Risultato dell’Avidità delle Terre Eterne.,Sconfiggi Risultato dell’Avidità {TaskCount} volta/e.
+1429,Sconfiggi Mangiatore di Anime delle Terre Eterne.,Sconfiggi Mangiatore di Anime {TaskCount} volta/e.
+1430,Sconfiggi Ragno di Spore delle Terre Eterne.,Sconfiggi Ragno di spore {TaskCount} volta/e.
+1431,Sconfiggi Veggente dell’Acqua delle Terre Eterne.,Sconfiggi Veggente dell’acqua {TaskCount} volta/e.
+1432,Sconfiggi Golem di Ossidiana delle Terre Eterne.,Sconfiggi Golem di Ossidiana {TaskCount} volta/e.
+1433,Sconfiggi Pan Luem delle Terre Eterne.,Sconfiggi Pan Luem {TaskCount} volta/e.
+1434,Sconfiggi Fungo di Spore Putride delle Terre Eterne.,Sconfiggi Fungo di Spore Putride {TaskCount} volta/e.
+1435,@1424,@1424
+1436,@1425,@1425
+1437,@1426,@1426
+1438,@1427,@908
+1439,@1428,@1428
+1440,@1429,@1429
+1441,@1430,@1430
+1442,@1431,@1431
+1443,@1432,@1432
+1444,@1433,@1433
+1445,@1434,@1434
+1446,@1424,@1424
+1447,@1425,@1425
+1448,@1426,@1426
+1449,@1427,@908
+1450,@1428,@1428
+1451,@1429,@1429
+1452,@1430,@1430
+1453,@1431,@1431
+1454,@1432,@1432
+1455,@1433,@1433
+1456,@1434,@1434
+1457,Sconfiggi Ninfa Feroce delle Terre Eterne.,Sconfiggi Ninfa Feroce {TaskCount} volta/e.
+1458,Sconfiggi Spirito dell’Incubo delle Terre Eterne.,Sconfiggi Spirito dell’Incubo {TaskCount} volta/e.
+1459,Sconfiggi Assalitore di Anime delle Terre Eterne.,@251
+1460,Sconfiggi Pipistrello Vampiro delle Terre Eterne.,@517
+1461,Sconfiggi Servitore del Destino delle Terre Eterne.,@783
+1462,Sconfiggi Rosa della Ninfa delle Terre Eterne.,Sconfiggi Rosa della Ninfa {TaskCount} volta/e.
+1463,Sconfiggi Ninfa Abietta delle Terre Eterne.,Sconfiggi Ninfa Abietta {TaskCount} volta/e.
+1464,Sconfiggi Pan Luem Abietto delle Terre Eterne.,Sconfiggi Pan Luem Abietto {TaskCount} volta/e.
+1465,@1457,@1457
+1466,@1458,@1458
+1467,@1459,@251
+1468,@1460,@517
+1469,@1461,@783
+1470,@1462,@1462
+1471,@1463,@1463
+1472,@1464,@1464
+1473,@1457,@1457
+1474,@1458,@1458
+1475,@1459,@251
+1476,@1460,@517
+1477,@1461,@783
+1478,@1462,@1462
+1479,@1463,@1463
+1480,@1464,@1464
+1481,@1457,@1457
+1482,@1458,@1458
+1483,@1459,@251
+1484,@1460,@517
+1485,@1461,@783
+1486,@1462,@1462
+1487,@1463,@1463
+1488,@1464,@1464
+1489,Sconfiggi Grendel del Territorio Conquistato della Torre d’Avorio.,@1270
+1490,Sconfiggi Bandito Principiante del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Principiante {TaskCount} volta/e.
+1491,Sconfiggi Bandito Perlustratore del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Perlustratore {TaskCount} volta/e.
+1492,Sconfiggi Bandito Saccheggiatore del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Saccheggiatore {TaskCount} volta/e.
+1493,Sconfiggi Bandito Tagliagole del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Tagliagole {TaskCount} volta/e.
+1494,Sconfiggi Bandito Predatore del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Predatore {TaskCount} volta/e.
+1495,Sconfiggi Bandito Sciamano del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Sciamano {TaskCount} volta/e.
+1496,Sconfiggi Bandito Guerriero del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Guerriero {TaskCount} volta/e.
+1497,Sconfiggi Bandito Combattente del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Combattente {TaskCount} volta/e.
+1498,Sconfiggi Grendel Feroce del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Grendel Feroce {TaskCount} volta/e.
+1499,Sconfiggi Bandito Sommo Sciamano del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Bandito Sommo Sciamano {TaskCount} volta/e.
+1500,@1489,@1270
+1501,@1490,@1490
+1502,@1491,@1491
+1503,@1492,@1492
+1504,@1493,@1493
+1505,@1494,@1494
+1506,@1495,@1495
+1507,@1496,@1496
+1508,@1497,@1497
+1509,@1498,@1498
+1510,@1499,@1499
+1511,@1489,@1270
+1512,@1490,@1490
+1513,@1491,@1491
+1514,@1492,@1492
+1515,@1493,@1493
+1516,@1494,@1494
+1517,@1495,@1495
+1518,@1496,@1496
+1519,@1497,@1497
+1520,@1498,@1498
+1521,@1499,@1499
+1522,Sconfiggi Wyrm della Foresta del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Wyrm della Foresta {TaskCount} volta/e.
+1523,Sconfiggi Strega Oscura del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Strega Oscura {TaskCount} volta/e.
+1524,Sconfiggi Orco Arciere Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Arciere Timak {TaskCount} volta/e.
+1525,Sconfiggi Orco Combattente Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Combattente Timak {TaskCount} volta/e.
+1526,Sconfiggi Orco Cercatore Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Cercatore Timak {TaskCount} volta/e.
+1527,Sconfiggi Atrox del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Atrox {TaskCount} volta/e.
+1528,Sconfiggi Sanguisuga Gigante del Territorio Conquistato della Torre d’Avorio.,@394
+1529,Sconfiggi Orco Guerriero Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Guerriero Timak {TaskCount} volta/e.
+1530,Sconfiggi Orco Sentinella Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Sentinella Timak {TaskCount} volta/e.
+1531,@1522,@1522
+1532,@1523,@1523
+1533,@1524,@1524
+1534,@1525,@1525
+1535,@1526,@1526
+1536,@1527,@1527
+1537,@1528,@394
+1538,@1529,@1529
+1539,@1530,@1530
+1540,@1522,@1522
+1541,@1523,@1523
+1542,@1524,@1524
+1543,@1525,@1525
+1544,@1526,@1526
+1545,@1527,@1527
+1546,@1528,@394
+1547,@1529,@1529
+1548,@1530,@1530
+1549,@1528,@394
+1550,@1529,@1529
+1551,@1530,@1530
+1552,Sconfiggi Orco Capitano Bianco Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Capitano Bianco Timak {TaskCount} volta/e.
+1553,Sconfiggi Orco Funzionario Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Funzionario Timak {TaskCount} volta/e.
+1554,Sconfiggi Orco Berserker Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Berserker Timak {TaskCount} volta/e.
+1555,Sconfiggi Orco Ranger Élite Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Ranger Élite Timak {TaskCount} volta/e.
+1556,Sconfiggi Orco Soldato Élite Timak del Territorio Conquistato della Torre d’Avorio.,@1336
+1557,Sconfiggi Orco Capo Tribale Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Capo Tribale Timak {TaskCount} volta/e.
+1558,Sconfiggi Orco Arciere Timak del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Orco Arciere Timak {TaskCount} volta/e.
+1559,@1552,@1552
+1560,@1553,@1553
+1561,@1554,@1554
+1562,@1555,@1555
+1563,@1556,@1336
+1564,@1557,@1557
+1565,@1558,@1558
+1566,@1552,@1552
+1567,@1553,@1553
+1568,@1554,@1554
+1569,@1555,@1555
+1570,@1556,@1336
+1571,@1557,@1557
+1572,@1558,@1558
+1573,@1552,@1552
+1574,@1553,@1553
+1575,@1554,@1554
+1576,@1555,@1555
+1577,@1556,@1336
+1578,@1557,@1557
+1579,@1558,@1558
+1580,@1557,@1557
+1581,@1558,@1558
+1582,Sconfiggi Gargoyle del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Gargoyle della Torre d’Avorio {TaskCount} volta/e.
+1583,Sconfiggi Golem Guardiano della Torre d’Avorio del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Golem Guardiano della Torre d’Avorio {TaskCount} volta/e.
+1584,Sconfiggi Cavaliere Caduto del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Cavaliere Caduto {TaskCount} volta/e.
+1585,Sconfiggi Segugio Void del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Segugio Void {TaskCount} volta/e.
+1586,Sconfiggi Gargoyle Fidato del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Gargoyle fidato {TaskCount} volta/e.
+1587,@1582,@1582
+1588,@1583,@1583
+1589,@1584,@1584
+1590,@1585,@1585
+1591,@1586,@1586
+1592,@1582,@1582
+1593,@1583,@1583
+1594,@1584,@1584
+1595,@1585,@1585
+1596,@1586,@1586
+1597,@1582,@1582
+1598,@1583,@1583
+1599,@1584,@1584
+1600,@1585,@1585
+1601,@1586,@1586
+1602,@1582,@1582
+1603,@1583,@1583
+1604,@1584,@1584
+1605,@1585,@1585
+1606,@1586,@1586
+1607,@1582,@1582
+1608,@1583,@1583
+1609,@1584,@1584
+1610,@1585,@1585
+1611,@1586,@1586
+1612,Sconfiggi Segugio Void Feroce del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Segugio Void Feroce {TaskCount} volta/e.
+1613,Sconfiggi Guardiano Malfunzionante del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Guardiano Malfunzionante {TaskCount} volta/e.
+1614,Sconfiggi Cavaliere Oscuro del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Cavaliere Oscuro {TaskCount} volta/e.
+1615,Sconfiggi Sommo Sacerdote della Confraternita Oscura del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Sommo Sacerdote della Confraternita Oscura {TaskCount} volta/e.
+1616,Sconfiggi Scudiero di Embrion del Territorio Conquistato della Torre d’Avorio.,Sconfiggi Scudiero di Embrion {TaskCount} volta/e.
+1617,@1612,@1612
+1618,@1613,@1613
+1619,@1614,@1614
+1620,@1615,@1615
+1621,@1616,@1616
+1622,@1612,@1612
+1623,@1613,@1613
+1624,@1614,@1614
+1625,@1615,@1615
+1626,@1616,@1616
+1627,@1612,@1612
+1628,@1613,@1613
+1629,@1614,@1614
+1630,@1615,@1615
+1631,@1616,@1616
+1632,@1612,@1612
+1633,@1613,@1613
+1634,@1614,@1614
+1635,@1615,@1615
+1636,@1616,@1616
+1637,@1612,@1612
+1638,@1613,@1613
+1639,@1614,@1614
+1640,@1615,@1615
+1641,@1616,@1616
+1642,용의 계곡 어둠의 기사 공략,@1614
+1643,용의 계곡 어둠의 군주 공략,어둠의 군주 {TaskCount}회 처치하기
+1644,용의 계곡 네르카스 공략,네르카스 {TaskCount}회 처치하기
+1645,용의 계곡 드레이크 공략,드레이크 {TaskCount}회 처치하기
+1646,용의 계곡 어둠의 결사 공략,@1401
+1647,용의 계곡 보이드 데몬 공략,보이드 데몬 {TaskCount}회 처치하기
+1648,용의 계곡 블러디 퀸 공략,블러디 퀸 {TaskCount}회 처치하기
+1649,@1642,@1614
+1650,@1643,@1643
+1651,@1644,@1644
+1652,@1645,@1645
+1653,@1646,@1401
+1654,@1647,@1647
+1655,@1648,@1648
+1656,용의 계곡 어둠의 결사 고위사제 공략,@1615
+1657,용의 계곡 엠브리온의 기사단원 공략,@1616
+1658,용의 계곡 포악한 어둠의 군주 공략,포악한 어둠의 군주 {TaskCount}회 처치하기
+1659,@1656,@1615
+1660,@1657,@1616
+1661,@1658,@1658
+1662,약속된 땅 케이브 키퍼 정찰병 공략,케이브 키퍼 정찰병 {TaskCount}회 처치하기
+1663,약속된 땅 말룩 헌터 정찰병 공략,말룩 헌터 정찰병 {TaskCount}회 처치하기
+1664,약속된 땅 블러디 퀸 정찰병 공략,블러디 퀸 정찰병 {TaskCount}회 처치하기
+1665,약속된 땅 유혹의 서큐버스 공략,유혹의 서큐버스 {TaskCount}회 처치하기
+1666,약속된 땅 현혹된 미믹 공략,현혹된 미믹 {TaskCount}회 처치하기
+1667,약속된 땅 난폭해진 미믹 공략,난폭해진 미믹 {TaskCount}회 처치하기
+1668,약속된 땅 현혹의 서큐버스 공략,현혹의 서큐버스 {TaskCount}회 처치하기
+1669,약속된 땅 케이브 키퍼 정예병 공략,케이브 키퍼 정예병 {TaskCount}회 처치하기
+1670,약속된 땅 말룩 헌터 정예병 공략,말룩 헌터 정예병 {TaskCount}회 처치하기
+1671,약속된 땅 케이브 키퍼 감시병 공략,케이브 키퍼 감시병 {TaskCount}회 처치하기
+1672,약속된 땅 말룩 헌터 감시병 공략,말룩 헌터 감시병 {TaskCount}회 처치하기
+1673,약속된 땅 파괴의 서큐버스 공략,파괴의 서큐버스 {TaskCount}회 처치하기
+1674,약속된 땅 블러디 퀸 정예병 공략,블러디 퀸 정예병 {TaskCount}회 처치하기
+1675,약속된 땅 지옥의 서큐버스 공략,지옥의 서큐버스 {TaskCount}회 처치하기
+1676,약속된 땅 블러디 퀸 감시병 공략,블러디 퀸 감시병 {TaskCount}회 처치하기
+1677,@1662,@1662
+1678,@1663,@1663
+1679,@1664,@1664
+1680,@1665,@1665
+1681,@1666,@1666
+1682,@1667,@1667
+1683,@1668,@1668
+1684,@1669,@1669
+1685,@1670,@1670
+1686,@1671,@1671
+1687,@1672,@1672
+1688,@1673,@1673
+1689,@1674,@1674
+1690,@1675,@1675
+1691,@1676,@1676
+1692,약속된 땅 케이브 키퍼 근위병 공략,케이브 키퍼 근위병 {TaskCount}회 처치하기
+1693,약속된 땅 최면에 걸린 미믹 공략,최면에 걸린 미믹 {TaskCount}회 처치하기
+1694,약속된 땅 말룩 헌터 근위병 공략,말룩 헌터 근위병 {TaskCount}회 처치하기
+1695,약속된 땅 사악해진 미믹 공략,사악해진 미믹 {TaskCount}회 처치하기
+1696,약속된 땅 블러디 퀸 근위병 공략,블러디 퀸 근위병 {TaskCount}회 처치하기
+1697,약속된 땅 임프 감시병 공략,임프 감시병 {TaskCount}회 처치하기
+1698,약속된 땅 말룩 스나이퍼 감시병 공략,말룩 스나이퍼 감시병 {TaskCount}회 처치하기
+1699,약속된 땅 난폭한 보이드 하운드 공략,난폭한 보이드 하운드 {TaskCount}회 처치하기
+1700,약속된 땅 말룩 스나이퍼 정찰병 공략,말룩 스나이퍼 정찰병 {TaskCount}회 처치하기
+1701,약속된 땅 지배당한 크림슨 바인드 공략,지배당한 크림슨 바인드 {TaskCount}회 처치하기
+1702,@1692,@1692
+1703,@1693,@1693
+1704,@1694,@1694
+1705,@1695,@1695
+1706,@1696,@1696
+1707,@1697,@1697
+1708,@1698,@1698
+1709,@1699,@1699
+1710,@1700,@1700
+1711,@1701,@1701
+1712,약속된 땅 날뛰는 미믹 공략,날뛰는 미믹 {TaskCount}회 처치하기
+1713,약속된 땅 정신 나간 미믹 공략,정신 나간 미믹 {TaskCount}회 처치하기
+1714,약속된 땅 순종적인 크림슨 바인드 공략,순종적인 크림슨 바인드 {TaskCount}회 처치하기
+1715,약속된 땅 임프 정찰병 공략,임프 정찰병 {TaskCount}회 처치하기
+1716,약속된 땅 최면걸린 크림슨 바인드 공략,최면걸린 크림슨 바인드 {TaskCount}회 처치하기
+1717,약속된 땅 임프 정예병 공략,임프 정예병 {TaskCount}회 처치하기
+1718,약속된 땅 세뇌당한 크림슨 바인드 공략,세뇌당한 크림슨 바인드 {TaskCount}회 처치하기
+1719,약속된 땅 성난 보이드 하운드 공략,성난 보이드 하운드 {TaskCount}회 처치하기
+1720,약속된 땅 떠도는 크림슨 바인드 공략,@1214
+1721,약속된 땅 말룩 스나이퍼 정예병 공략,말룩 스나이퍼 정예병 {TaskCount}회 처치하기
+1722,약속된 땅 말룩 스나이퍼 근위병 공략,말룩 스나이퍼 근위병 {TaskCount}회 처치하기
+1723,약속된 땅 잔혹한 보이드 하운드 공략,잔혹한 보이드 하운드 {TaskCount}회 처치하기
+1724,약속된 땅 임프 지휘병 공략,임프 지휘병 {TaskCount}회 처치하기
+1725,약속된 땅 죽음의 보이드 하운드 공략,죽음의 보이드 하운드 {TaskCount}회 처치하기
+1726,약속된 땅 말룩 스나이퍼 부관 공략,말룩 스나이퍼 부관 {TaskCount}회 처치하기
+1727,@1712,@1712
+1728,@1713,@1713
+1729,@1714,@1714
+1730,@1715,@1715
+1731,@1716,@1716
+1732,@1717,@1717
+1733,@1718,@1718
+1734,@1719,@1719
+1735,@1720,@1214
+1736,@1721,@1721
+1737,@1722,@1722
+1738,@1723,@1723
+1739,@1724,@1724
+1740,@1725,@1725
+1741,@1726,@1726
+1742,고룡 산맥 어둠의 결사 기사단원 공략,어둠의 결사 기사단원 {TaskCount}회 처치하기
+1743,고룡 산맥 어둠의 결사 습격자 공략,어둠의 결사 습격자 {TaskCount}회 처치하기
+1744,고룡 산맥 서릿잎 만드라고라 공략,서릿잎 만드라고라 {TaskCount}회 처치하기
+1745,고룡 산맥 식인 설인 공략,식인 설인 {TaskCount}회 처치하기
+1746,고룡 산맥 서릿발 늑대 공략,서릿발 늑대 {TaskCount}회 처치하기
+1747,고룡 산맥 굶주린 식인 설인 공략,굶주린 식인 설인 {TaskCount}회 처치하기
+1748,고룡 산맥 고산지 만드라고라 공략,고산지 만드라고라 {TaskCount}회 처치하기
+1749,고룡 산맥 어둠의 결사 흑기사 공략,어둠의 결사 흑기사 {TaskCount}회 처치하기
+1750,고룡 산맥 굶주린 서릿발 늑대 공략,굶주린 서릿발 늑대 {TaskCount}회 처치하기
+1751,고룡 산맥 어둠의 결사 정찰대원 공략,어둠의 결사 정찰대원 {TaskCount}회 처치하기
+1752,@1742,@1742
+1753,@1743,@1743
+1754,@1744,@1744
+1755,@1745,@1745
+1756,@1746,@1746
+1757,@1747,@1747
+1758,@1748,@1748
+1759,@1749,@1749
+1760,@1750,@1750
+1761,@1751,@1751
+1762,고룡 산맥 분노한 식인 설인 공략,분노한 식인 설인 {TaskCount}회 처치하기
+1763,고룡 산맥 어둠의 결사 파괴자 공략,어둠의 결사 파괴자 {TaskCount}회 처치하기
+1764,고룡 산맥 지배된 지룡 정찰병 공략,지배된 지룡 정찰병 {TaskCount}회 처치하기
+1765,고룡 산맥 지배된 지룡 연락병 공략,지배된 지룡 연락병 {TaskCount}회 처치하기
+1766,고룡 산맥 지배된 어린 지룡 공략,지배된 어린 지룡 {TaskCount}회 처치하기
+1767,고룡 산맥 안타라스의 시선 공략,안타라스의 시선 {TaskCount}회 처치하기
+1768,고룡 산맥 지배된 어린 풍룡 공략,지배된 어린 풍룡 {TaskCount}회 처치하기
+1769,고룡 산맥 실렌의 시선 공략,실렌의 시선 {TaskCount}회 처치하기
+1770,고룡 산맥 고통받는 어린 지룡 공략,고통받는 어린 지룡 {TaskCount}회 처치하기
+1771,고룡 산맥 고통받는 어린 풍룡 공략,고통받는 어린 풍룡 {TaskCount}회 처치하기
+1772,고룡 산맥 지배된 왕좌 수호병 공략,지배된 왕좌 수호병 {TaskCount}회 처치하기
+1773,고룡 산맥 지배된 왕좌 마법병사 공략,지배된 왕좌 마법병사 {TaskCount}회 처치하기
+1774,@1762,@1762
+1775,@1763,@1763
+1776,@1764,@1764
+1777,@1765,@1765
+1778,@1766,@1766
+1779,@1767,@1767
+1780,@1768,@1768
+1781,@1769,@1769
+1782,@1770,@1770
+1783,@1771,@1771
+1784,@1772,@1772
+1785,@1773,@1773
+1786,고룡 산맥 분노한 어린 지룡 공략,분노한 어린 지룡 {TaskCount}회 처치하기
+1787,고룡 산맥 분노한 어린 풍룡 공략,분노한 어린 풍룡 {TaskCount}회 처치하기
+1788,고룡 산맥 분노한 왕좌 수호병 공략,분노한 왕좌 수호병 {TaskCount}회 처치하기
+1789,고룡 산맥 분노한 왕좌 마법병사 공략,분노한 왕좌 마법병사 {TaskCount}회 처치하기
+1790,고룡 산맥 말룩의 정찰병 공략,말룩의 정찰병 {TaskCount}회 처치하기
+1791,고룡 산맥 말룩의 학살마 공략,말룩의 학살마 {TaskCount}회 처치하기
+1792,고룡 산맥 말룩의 척후병 공략,말룩의 척후병 {TaskCount}회 처치하기
+1793,고룡 산맥 잠들지 못한 원정대 공략,잠들지 못한 원정대 {TaskCount}회 처치하기
+1794,고룡 산맥 말룩의 저격병 공략,말룩의 저격병 {TaskCount}회 처치하기
+1795,고룡 산맥 말룩의 잠입자 공략,말룩의 잠입자 {TaskCount}회 처치하기
+1796,고룡 산맥 잠들지 못한 마법사 공략,잠들지 못한 마법사 {TaskCount}회 처치하기
+1797,@1786,@1786
+1798,@1787,@1787
+1799,@1788,@1788
+1800,@1789,@1789
+1801,@1790,@1790
+1802,@1791,@1791
+1803,@1792,@1792
+1804,@1793,@1793
+1805,@1794,@1794
+1806,@1795,@1795
+1807,@1796,@1796
+1808,고룡 산맥 말룩의 사역마 공략,말룩의 사역마 {TaskCount}회 처치하기
+1809,고룡 산맥 말룩의 암살자 공략,말룩의 암살자 {TaskCount}회 처치하기
+1810,고룡 산맥 어둠의 결사 작전병 공략,어둠의 결사 작전병 {TaskCount}회 처치하기
+1811,고룡 산맥 어둠의 결사 선봉대원 공략,어둠의 결사 선봉대원 {TaskCount}회 처치하기
+1812,고룡 산맥 어둠의 결사 대마도사 공략,어둠의 결사 대마도사 {TaskCount}회 처치하기
+1813,고룡 산맥 어둠의 결사 근위대원 공략,어둠의 결사 근위대원 {TaskCount}회 처치하기
+1814,@1808,@1808
+1815,@1809,@1809
+1816,@1810,@1810
+1817,@1811,@1811
+1818,@1812,@1812
+1819,@1813,@1813
+1820,@1808,@1808
+1821,@1809,@1809
+1822,@1810,@1810
+1823,@1811,@1811
+1824,@1812,@1812
+1825,@1813,@1813
+1826,@1808,@1808
+1827,@1809,@1809
+1828,@1810,@1810
+1829,@1811,@1811
+1830,@1812,@1812
+1831,@1813,@1813

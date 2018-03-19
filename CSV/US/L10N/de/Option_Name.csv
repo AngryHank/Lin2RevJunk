@@ -1,0 +1,66 @@
+Id,Description
+1,Bestimmt die Auflösung. Niedrigere Einstellungen machen das Spiel flüssiger.
+2,Bestimmt die Sichtweite. Niedrigere Einstellungen machen das Spiel flüssiger.
+3,"Bestimmt den Grad der Kantenglättung. Niedrigere Einstellungen rendern Objekte grober, machen das Spiel aber flüssiger."
+4,Bestimmt die Texturdetails. Niedrigere Einstellungen machen das Spiel flüssiger.
+5,Bestimmt die Schattenqualität. Auf hohen Einstellungen erscheint die Grafik realistischer.
+6,Bestimmt die vertikale Synchronisierung. Auf hohen Einstellungen erscheint die Grafik flüssiger.
+7,@5
+8,Bestimmt die Texturqualität. Niedrigere Einstellungen machen das Spiel flüssiger.
+9,Textur-Detaillevel
+10,Bestimmt das Auflösungsformat.
+11,Rendert 1 Prepass pro Liste.
+12,Bestimmt die Sichtbarkeit deines Schattens.
+13,Bestimmt die Videobildrate.
+14,Bestimmt die Grafikqualität in Relation zur APU-Auslastung.
+15,Bestimmt die Grafikqualität in Relation zur Speicherauslastung.
+16,Bestimmt die Tonkanalqualität.
+17,Bestimmt das Effektanzeigeziel.
+18,"Passe an, ob die Namen anderen Spieler angezeigt werden."
+19,Bestimmt die max. Anzahl der angezeigten Spieler.
+20,Macht Ausrüstung auf dem Spielbildschirm sichtbar.
+21,"Passe an, ob Umhänge angezeigt werden."
+22,"Passe an, welche Informationen zu Aufwertungen angezeigt werden (Aufwerten erfolgreich, Aufwerten fehlgeschlagen)."
+23,Bestimmt die Hauptlautstärke.
+24,Bestimmt die Hintergrund-Lautstärke.
+25,Bestimmt die Toneffekt-Lautstärke.
+26,Bestimmt die Stimm-Lautstärke.
+27,Aktiviert Vibrations-Feedback.
+28,Aktiviert die automatische An-/Abschaltung deines Geräts.
+29,Aktiviert die autom. Wiedergabe des Sprachchats.
+30,Du kannst alle Spiel-Benachrichtigungen einstellen.
+31,Erhalte Spiel-Benachrichtigungen.
+32,Erhalte Spiel-Mitteilungsbenachrichtigungen.
+33,Abschaltung blockiert alle Mitteillungen zwischen 21 und 8 Uhr.
+34,Die Abwahl dieser Option deaktiviert Pop-up-Benachrichtigungen (außer solche von hoher Wichtigkeit).
+35,Steuert Pop-up-Benachrichtigungen des 1:1-Chats.
+36,Steuert Pop-up-Benachrichtigungen des Klan-Chats.
+37,Steuert Pop-up-Benachrichtigungen des Gruppenchats.
+44,"Bestimmt, bei wie vielen LP autom. LP-Tränke benutzt werden."
+45,"Bestimmt, bei wie vielen MP autom. MP-Tränke benutzt werden."
+46,"Bestimmt, bei welchem LP-Prozentsatz autom. Heilfertigkeiten eingesetzt werden."
+47,"Bestimmt, in welcher Abfolge LP-Tränke autom. benutzt werden."
+48,"Bestimmt, in welcher Abfolge MP-Tränke autom. benutzt werden."
+49,Zeigt normale Angriffsreichweite an.
+50,Bestimmt die Bewegungsreichweite deines Charakters im Auto-Kampf.
+51,Bestimmt die Mindeststufe der zu erhaltenden Ausrüstung.
+52,Zeigt das derzeitige Ziel des vom Spieler ausgewählten Ziels an.
+53,Zeigt die LP des Ziels auf verschiedene Art an.
+54,"Im Auto-Kampf fliehen, wenn du Monstern des Typs Elite oder höher begegnest."
+55,Erhaltene Gegenstände entsprechen mind. dieser Stufe. (Niedrigere Stufen werden ignoriert.)
+56,
+57,
+58,
+59,Bestimmt einen festen Bereich auf dem Bildschirm zum Kontrollbereich der digital-analogen Steuerung.
+60,Chat-Nachrichten werden in die Sprache des Spiels übersetzt.
+61,"Bestimmt, welche Sprachen im Chat übersetzt werden sollen."
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

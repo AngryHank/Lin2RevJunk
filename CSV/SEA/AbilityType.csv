@@ -1,0 +1,6 @@
+AbilityType,NameKey,WeaponAbility,ArmorAbility
+Normal,421000000001,1,5
+Elite,421000000002,2,6
+Boss,421000000003,3,7
+Player,421000000004,4,8
+MagicalCreature,421000000005,16,17

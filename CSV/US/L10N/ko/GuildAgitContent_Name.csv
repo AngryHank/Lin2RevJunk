@@ -1,0 +1,17 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,결속의 수정,레벨 : [CrystalLevel],"모든 혈맹원에게 버프를 제공하는
+신비한 수정입니다"
+2,퀘스트 관리인,진행중인 퀘스트 : [ProgressQuestCount]개  /  완료한 퀘스트 : [CompleteQuestCount]개,"쉬운 퀘스트부터 어려운 퀘스트까지!
+퀘스트를 알선해주는 관리인입니다"
+3,만찬 관리인,소형만찬 : [SmallDinnerActivity]  /  중형만찬 : [MiddleDinnerActivity]  /  대형만찬 : [BigDinnerActivity],"함께하면 즐거워요!
+혈맹원들과 함께 즐길 만찬을
+차려주는 요리사입니다"
+4,유물 관리인,감정 중인 유물 : [ProgressArtifactCount]  /  감정 완료 유물 : [CompleteArtifactCount],"신비한 유물을 감정해
+원래의 가치를 찾아줍니다"
+5,물약 관리인,제조 가능한 개인 물약 : [PotionAvaliableCount],"언제 어디서나 도움이 되는
+유용한 물약을 제조할 수 있습니다"
+6,벽난로,보유한 장작 : [WoodCount]  /  벽난로 상태 : [FirePlaceActivity],"따스한 벽난로가 켜지면
+아지트에 있는 혈맹원들과
+경험치를 획득할 수 있습니다"
+7,픽시 잡기,곧 업데이트 됩니다,"아지트를 어지럽히는 요정이 등장합니다!
+요정을 혼내주고 보상을 받으세요"

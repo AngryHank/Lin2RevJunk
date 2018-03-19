@@ -1,0 +1,62 @@
+Id,GroupId,UseType,StringKey,DefaultValueForAOS,DefaultValueForIOS,UserData,StartValue,IsPercentage,Description
+1,Dev,Quality,OPTION_DEV_RESOLUTION,-1,-1,,,0,게임 해상도를 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+2,Dev,Quality,OPTION_DEV_VIEW_DISTANCE,3,3,,,0,화면에서 보이는 거리를 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+3,Dev,Quality,OPTION_DEV_ANTI_ALIASING,0,0,,,0,"경계선을 부드럽게 처리합니다. 옵션을 낮추면 사물이 거칠게 묘사되지만, 성능이 높아질 수 있습니다."
+4,Dev,Quality,OPTION_DEV_POST_PROCESSING,1,1,,,0,텍스쳐 마감을 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+5,Dev,Quality,OPTION_DEV_SHADOWS_QUALITY,1,1,,,0,그림자 품질을 설정합니다. 옵션 성능이 높아질 수록 사실적인 그래픽이 출력됩니다.
+6,Dev,ToggleButton,OPTION_DEV_VSYNC,0,0,,,0,화면 수직동기화를 설정합니다. 옵션을 켜면 더욱 부드럽게 그래픽이 출력됩니다.
+7,Dev,Quality,OPTION_DEV_SHADOWS_RESOLUTION,1,1,,,0,그림자 품질을 설정합니다. 옵션 성능이 높아질 수록 사실적인 그래픽이 출력됩니다.
+8,Dev,Quality,OPTION_DEV_TEXTUES,-1,-1,,,0,텍스쳐 품질을 설정합니다. 옵션 성능이 낮을수록 게임 성능이 높아질 수 있습니다
+9,Dev,Quality,OPTION_DEV_TEXTURE_LOD_LEVEL,0,0,,,0,텍스쳐 LOD 레벨
+10,Dev,Quality,OPTION_DEV_RESOLUTION_RATIO,1,1,,,0,해상도 비율을 설정합니다.
+11,Dev,ToggleButton,OPTION_DEV_SLATE_SKIP_SECOND_PREPASS,0,0,,,0,슬레이트에서 Prepass를 한 번만 수행합니다.
+12,Dev,ToggleButton,OPTION_DEV_MY_SHADOW_ONLY,0,0,,,0,내 그림자만 보이기 여부를 설정합니다.
+13,Game,Quality,OPTION_GAME_FRAME_RATE,1,1,,,0,화면 재생 속도를 설정합니다.
+14,Game,Quality5,OPTION_GAME_GQ_APU_USAGE,1,1,,,0,APU 사용과 관련한 그래픽 품질을 설정합니다.
+15,Game,Quality5,OPTION_GAME_GQ_MEM_USAGE,1,1,,,0,메모리 사용과 관련한 그래픽 품질을 설정합니다.
+16,Game,Quality,OPTION_GAME_LOADING_PERFORMANCE,1,1,,,0,로딩성능을 설정합니다. 설정값이 높을수록 한번에 많은양을 로딩시도합니다.
+17,Game,Quality,OPTION_GAME_SOUND_CHANNEL_QUALITY,2,2,,,0,사운드 채널 품질을 설정합니다.
+18,Game,EffectVisibility,OPTION_GAME_EFFECT_VISIBILITY,2,2,2,,0,이펙트 표시 대상을 설정합니다.
+19,Game,FloatingVisibility,OPTION_GAME_OTHER_FLOATING,2,2,,,0,다른 유저의 네임 태그 출력 정보를 설정합니다.
+20,Game,Quality,OPTION_GAME_VISIBLE_PC_MAX_COUNT,3,3,,,0,화면에서 표시할 최대 인원을 결정합니다.
+21,Game,Quality,OPTION_GAME_VISIBLE_EQUIP,3,3,,,0,화면에서 표시될 장비들의 수준을 결정합니다.
+22,Game,EffectVisibility,OPTION_GAME_VISIBLE_CAPE,2,2,2,,0,망토 표시 대상을 설정합니다.
+23,Game,EffectVisibility,OPTION_GAME_ITEM_ENCHANT_MESSAGE,2,2,2,,0,"강화 브로드 캐스팅(강화 성공, 강화 실패)의 출력 수준을 결정합니다."
+24,Game,CheckBox,OPTION_GAME_LONGPRESS_SKILLTOOLTIP,0,0,,,0,HUD에서 스킬을 오래 누르면 툴팁이 나오지 않게 설정합니다.
+25,Device,Slider,OPTION_DEVICE_SOUND_MASTER,75,75,100,,0,최대 음향 볼륨을 조절합니다.
+26,Device,Slider,OPTION_DEVICE_SOUND_BGM,75,75,100,,0,배경 음악 볼륨을 조절합니다.
+27,Device,Slider,OPTION_DEVICE_SOUND_EFFECT,75,75,100,,0,효과음 볼륨을 조절합니다.
+28,Device,Slider,OPTION_DEVICE_SOUND_VOICE,75,75,100,,0,성우 목소리 볼륨을 조절합니다.
+29,Device,ToggleButton,OPTION_DEVICE_VIBRATION,1,1,,,0,진동 피드백을 켜고 끕니다.
+30,Device,ToggleButton,OPTION_DEVICE_KEEP_SCREEN_AWAKE,1,1,,,0,휴대폰 자동 꺼짐을 조절합니다.
+31,Device,MultiToggleCheckBox,OPTION_DEVICE_VOICE_AUTO_PLAY,0,0,,,0,음성채팅 자동재생을 설정합니다
+32,Notice,ToggleButton,OPTION_DEVICE_PUSH,1,1,10000,,0,게임 내의 모든 알림을 켜거나 끌 수 있습니다.
+33,Notice,ToggleButton,OPTION_DEVICE_PUSH_GAME,1,1,,,0,게임에서 보내는 알림을 받습니다
+34,Notice,ToggleButton,OPTION_DEVICE_PUSH_NOTICE,1,1,,,0,게임에서 보내는 공지 알림을 받습니다.
+35,Notice,ToggleButton,OPTION_DEVICE_PUSH_NIGHT,0,0,,,0,해당 옵션을 끄면 저녁 9시부터 다음 날 아침 8시까지의 알림을 받지 않습니다.
+36,Notice,ToggleButton,OPTION_ALARM_TOAST,1,1,,,0,해당 옵션을 끄면 토스트 알림(중요 알림 제외)을 사용하지 않습니다.
+37,Notice,ToggleButton,OPTION_ALARM_TOAST_FRIEND,1,1,,,0,해당 옵션을 끄면 1:1 채팅 토스트 알림을 사용하지 않습니다.
+38,Notice,ToggleButton,OPTION_ALARM_TOAST_GUILD,1,1,,,0,해당 옵션을 끄면 혈맹 채팅 토스트 알림을 사용하지 않습니다.
+39,Notice,ToggleButton,OPTION_ALARM_TOAST_PARTY,1,1,,,0,해당 옵션을 끄면 파티 채팅 토스트 알림을 사용하지 않습니다.
+40,Notice,ToggleButton,OPTION_DEVICE_PUSH_INDIVIDUAL_CHAT,1,1,,,0,게임이 종료되어 있는 동안 수신한 '1:1 채팅'에 대하여 알림을 받습니다.
+41,Notice,ToggleButton,OPTION_DEVICE_PUSH_GUILD_CHAT,1,1,,,0,게임이 종료되어 있는 동안 수신한 '혈맹 채팅'에 대하여 알림을 받습니다.
+42,Notice,ToggleButton,OPTION_DEVICE_PUSH_GUILD_NOTICE,1,1,,,0,게임이 종료되어 있는 동안 수신한 '혈맹 공지'에 대하여 알림을 받습니다.
+43,Combat,Slider,OPTION_COMBAT_AUTO_POTION_HP,70,70,100,,1,HP포션을 자동으로 사용할 캐릭터의 HP를 설정합니다
+44,Combat,Slider,OPTION_COMBAT_AUTO_POTION_MP,70,70,100,,1,MP포션을 자동으로 사용할 캐릭터의 MP를 설정합니다.
+45,Combat,Slider,OPTION_COMBAT_AUTO_POTION_HP_HIGH,40,40,100,,1,고급 HP포션을 자동으로 사용할 캐릭터의 HP를 설정합니다
+46,Combat,Slider,OPTION_COMBAT_AUTO_POTION_MP_HIGH,40,40,100,,1,고급 MP포션을 자동으로 사용할 캐릭터의 MP를 설정합니다.
+47,Combat,Slider,OPTION_COMBAT_AUTO_HEALING_HP,80,80,100,,1,HP가 몇% 이하로 떨어졌을 때 자동으로 힐링스킬을 사용할지를 설정합니다.
+48,Combat,GradeToggleButton,OPTION_COMBAT_POTION_HP_GRADE,1,1,,,0,자동으로 HP포션을 사용할 때 어떤 등급의 포션부터 사용할지 설정합니다.
+49,Combat,GradeToggleButton,OPTION_COMBAT_POTION_MP_GRADE,1,1,,,0,자동으로 MP포션을 사용할 때 어떤 등급의 포션부터 사용할지 설정합니다.
+50,Combat,ToggleButton,OPTION_COMBAT_BASICSKILL_VISIBILITY,0,0,,,0,내 일반 공격 범위를 표시합니다.
+51,Combat,CombatRadius,OPTION_COMBAT_AUTO_RADIUS,2,2,2,,0,자동 전투시 캐릭터가 이동하는 범위를 설정합니다.
+52,Combat,LootGrade,OPTION_COMBAT_LOOT_GRADE,1,1,,,0,습득할 장비 아이템의 최소 등급을 설정합니다.
+53,Combat,LootTalismanGrade,OPTION_COMBAT_LOOT_TALISMAN_GRADE,0,0,,,0,습득할 탈리스만 아이템의 최소 등급을 설정합니다.
+54,Combat,ToggleButton,OPTION_COMBAT_TARGET_OF_TARGET,1,1,,,0,현재 유저가 선택한 대상이 바라보는 대상을 표시 합니다.
+55,Combat,HpDisplayMode,OPTION_COMBAT_TARGET_HP_DISPLAY_MODE,1,1,,,0,대상의 체력을 다양한 방법으로 표시 합니다. 
+56,Combat,CheckBox,OPTION_COMBAT_EVADE_ON_ELITE,0,0,,,0,자동 전투 시에 엘리트급 이상 몬스터를 만나면 다른 곳으로 회피합니다
+57,Combat,CheckBox,OPTION_COMBAT_COUNTER_ATTACK,1,1,,,0,"해당 등급 이상의 아이템만 획득하며, 낮은 등급의 아이템은 획득하지 않습니다."
+58,Combat,CheckBox,OPTION_COMBAT_BATTLE_FLAG,0,0,,,0,깃발전 신청을 받지 않도록 설정합니다.
+60,Custom,Value,OPTION_SOCIAL_ACTION_FIRST_ALARM,1,1,1,,0,
+61,Custom,Value,OPTION_CHARACTER_TITLE_ACQUIRE_ENABLE,1,1,1,,0,
+62,Custom,Value,OPTION_CHARACTER_TITLE_SORT_TYPE,1,1,1,,0,

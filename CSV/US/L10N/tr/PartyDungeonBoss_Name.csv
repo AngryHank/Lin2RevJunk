@@ -1,0 +1,51 @@
+ID,Name,Desc,RaceName,RaceDesc
+1,Sadist Muhafız Yüzbaşısı: Boranta,"İnsanlar tüm ailesini öldürdüğü için
+orkları kurtarmanın tek yolunun 
+güç olduğuna inandı.
+
+Bir gün adı bilinmeyen bir Ork olan <RedBold>Ramog</>,
+diğerlerinin aksine inanılmaz bir güç kazandı
+ve yeni <RedBold>Timak Lider Ork'u</> oldu,
+ama kendini tutamadı onun gibi olmak istedi
+ve onu takip etti.
+
+Kendine, bir gün <RedBold>Ramog</> kadar
+güçleneceğine dair söz verdi. Bu onun hayattaki
+tek amacıydı. Hayalini gerçekleştirmek için
+<GreenBold>Timak Şaman</>
+<GreenBold>Ork Köyü</>'nü yok etti.",Büyülü Yaratık,"Boranta, Ramog'dan Nebulite parçası gücünü aldı. Yeni bulunan gücü ile ateş kullanabiliyor."
+2,Deli Ork: Ramog,"Şans eseri Nebulite parçaları artık
+kalbine saplı.
+Ölümünden günler sonra bir gün
+<RedBold>Belirlenemeyen bir Gölge</> tarafından kurtarıldı.
+
+Gözlerini açtığında ilk fark ettiği şey inanılmaz 
+ama aynı zamanda korkutucu bir güce sahip olduğuydu.
+Kendiner savaşçı <RedBold>Ramog</> demeye başladı ve
+yoluna çıkan tüm orkları öldürdü.
+Daha sonra da kendisi
+<RedBold>Timak Orkları</>'nın yeni kabile şefi oldu.
+
+Sürekli daha fazla güç isteğiyle
+ ork tanrısı <RedBold>Paagrio</>'nun gücünü aramaya başladı.
+Sonunda <GreenBold>Timak Şaman Ork</>
+<GreenBold>Köyü</>'ne <GreenBold>Paagrio'nun Sunağı</>
+için saldırdı.
+Onu durdurma için karşısına çıkan tüm şamanlar
+yok edildi.
+<RedBold>Paagrio</>'nun gücünü kazanmak için yapılan ritüel
+tamamlanmak üzere.",@1,Nebulite parçaları Ramog'un kalbine yerleştirildi. Kendinden önceki bütün orklardan daha güçlü büyü yapabiliyor.
+3,@1,@1,@1,@1
+4,@2,@2,@1,@2
+6,@2,@2,@1,@2
+9,Muhafız Şövalye: Leonard,"Bir zamanlar <RedBold>Kontes Trisha</>'nın <RedBold>Muhafız Şövalyesiydi</>.
+Ruhu sapasağlam olabilir,
+<RedBold>Kontes Trisha</>'ya yemin etti.
+Kontes ne karar verirse versin ona hizmet
+edeceğine söz verdi.",@1,Leonard büyü ile dönüşüme uğradı. Büyü yetenekleri nedeniyle ortalama bir vampirden çok daha farklı.
+10,Kan Kontesi: Trisha,"<RedBold>Trisha</> Giran'ın aristokrat ailelerinden birinde doğdu.
+Hep sıkıcı hayatından kaçabilmeyi düşledi,
+bu da onun yasak bir aşk yaşamasına neden oldu.
+O kadar güçlü bir aşktı ki hayatını geride bıraktı ve aşkın peşinden gitti.",@1,Sevgilisi gibi zayıf bir dev tarafından dönüştürülen Trisha sahip olduğu büyü güçleriyle sıradan bir vampirin çok ötesinde.
+11,@9,@9,@1,@9
+12,@10,@10,@1,@10

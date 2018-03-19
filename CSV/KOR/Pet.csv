@@ -1,0 +1,32 @@
+Id,DisplayHide,Name,BaseGrade,Rarity,PetEquipmentLimit,Description,IconTexture,ButtonIconTexture,AcquireLevel,AcquirePetInfoId,AcquirePetGrade,AcquireCondition,AcquireCondition2,AcquireConditionValue,SummonStone,SummonStoneCount,PetFood1,PetFood2,Appear,AppearAnimation,Disappear,SelectSound,SummonSound,BaseMaxLevel,SpecificLimitBreakGrade,SpecificLimitBreakGroupId
+1,0,블랙베어,1,0,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetBlackBear_01,Icon_PetBlackBear,50,,18,5,,,470005,1,470001,,Vehicle_BlackBear_Appear_01_Voice,,Vehicle_BlackBear_Disappear_01_Voice,UI_Vehicle_Selection_BlackBear,UI_Vehicle_Summon_BlackBear,20,6,1
+2,0,샤이닝레이디,1,0,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetKnightHorse_01,Icon_PetKnightHorse,100,1,2,1,,5,470004,1,470001,,Vehicle_KnightHorse_Appear_01_Voice,,Vehicle_KnightHorse_Disappear_01_Voice,UI_Vehicle_Selection_KnightHorse,UI_Vehicle_Summon_KnightHorse,20,6,2
+3,0,쿠쿠린,1,0,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetKukurin_01,Icon_PetKukurin,150,2,2,0,,55,470003,1,470001,,Vehicle_Kukurin_Appear_01_Voice,,Vehicle_Kukurin_Disappear_01_Voice,UI_Vehicle_Selection_Kukurin,UI_Vehicle_Summon_Kukurin,20,6,3
+4,0,갈기사자,4,1,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetManedLion_01,Icon_PetManedLion,50,,18,4,471002,1,470007,1,470001,,Vehicle_ManedLion_Appear_01_Voice,,Vehicle_ManedLion_Disappear_01_Voice,UI_Vehicle_Selection_ManedLion,UI_Vehicle_Summon_ManedLion,20,6,4
+5,0,갈기늑대,4,1,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetManedWolf_01,Icon_PetManedWolf,250,,18,4,471001,1,470006,1,470001,,Vehicle_Wolf_Appear_01_Voice,,Vehicle_Wolf_Disappear_01_Voice,UI_Vehicle_Selection_Wolf,UI_Vehicle_Summon_Wolf,20,6,5
+6,0,스트라이더,4,1,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetStrider_01,Icon_PetStrider,250,,18,4,471003,1,470008,1,470001,,Vehicle_Strider_Appear_01_Voice,,Vehicle_Strider_Disappear_01_Voice,UI_Vehicle_Selection_Strider,UI_Vehicle_Summon_Strider,20,6,6
+7,0,스팀비틀,4,1,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetSteamBeetle_01,Icon_PetSteamBeetle,50,,18,4,471004,1,470009,1,470001,,Vehicle_Steam_Appear_01_Voice,,Vehicle_Steam_Disappear_01_Voice,UI_Vehicle_Selection_Steam,UI_Vehicle_Summon_Steam,20,6,7
+8,0,할로윈매직스틱,6,0,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_PetHalloweenMagicalStick_01,Icon_PetHalloweenMagicalStick,50,,18,5,,,470010,1,470001,,Vehicle_MagicalStick_Appear_01_Voice,,Vehicle_MagicalStick_Disappear_01_Voice,UI_Vehicle_Selection_MagicalStick,UI_Vehicle_Summon_MagicalStick,20,18,
+9,0,루돌프,6,0,1,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_Rudolph_01,Icon_Rudolph,50,,18,5,,,471005,1,470001,,Vehicle_Rudolph_Appear_01_Voice,,Vehicle_Rudolph_Disappear_01_Voice,UI_Vehicle_Selection_Rudolph,UI_Vehicle_Summon_Rudolph,20,18,
+10,1,전투코끼리,5,1,0,"출전시켜 탑승할 수 있습니다.
+탈것을 성장시키면 캐릭터능력치가 
+영구히 상승합니다.",Icon_Asset_Elephant_01,Icon_Elephant,50,,18,4,471007,1,471006,1,470001,,Vehicle_Elephant_Appear_01_Voice,,Vehicle_Elephant_Disappear_01_Voice,UI_Vehicle_Selection_Elephant,UI_Vehicle_Summon_Elephant,20,18,
+99999,1,와이번,1,2,0,,,,,,18,5,,,,,,,,WyvernTownTeleport,,,,,18,

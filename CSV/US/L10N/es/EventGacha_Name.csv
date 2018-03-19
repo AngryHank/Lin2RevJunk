@@ -1,0 +1,4 @@
+Id,Name,Desc,ConditionDesc,BroadCastingMessage
+1,Caja de la suerte,"▶ Un evento en el que todos los jugadores del servidor compiten al mismo tiempo.
+▶ Hay recompensas nuevas por cada ronda del evento.
+▶ Los billetes necesarios para participar en el evento se pueden obtener en las cajas de invocación, disponibles en la tienda.",Podrás acceder al evento de sorteo tras alcanzar el nivel 10.,¡Enhorabuena! [Player] ha ganado el premio número [Rank] en el evento de la caja de la suerte.

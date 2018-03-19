@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Bölüm Tamamlandı,<RedBold>1-2</>. Bölümünü Tamamla.
+31002,Ekipman Seviyesi Artırma,Ekipman seviyesi yükseltmeyi <RedBold>[Value]</> kez dene. ([Value1]/[Value2])
+31003,@31001,<RedBold>1-5</>. Bölümünü Tamamla.
+31004,Savaş Gücü,<RedBold>[Value]</> maksimum Savaş Gücü'ne ulaş. ([Value1]/[Value2])
+31005,Arena,<RedBold>[Value]</> kez Arena'da meydan oku. ([Value1]/[Value2])
+31006,Ekipman Al,<RedBold>[Value]</> ekipman kazan. ([Value1]/[Value2])
+31007,Yetenek Seviyesi Yükselt,<RedBold>[Value]</> kez yetenek seviyesini yükselt. ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Başarım Puanı,<RedBold>[Value]</> Başarım Puanına ulaş. ([Value1]/[Value2])
+31010,Klan Girişi,<RedBold>[Value]</> kez klana giriş yap. ([Value1]/[Value2])
+31011,Klan Bağışı,<RedBold>[Value]</> kez klana bağış yap. ([Value1]/[Value2])
+31012,Klan Dükkanı,<RedBold>[Value]</> kez klan güçlendirmesi al. ([Value1]/[Value2])
+31013,Kibir Kulesi'ne Gir,<RedBold>[Value]</> kez Kibir Kulesi'ne meydan oku. ([Value1]/[Value2])
+31014,Kibir Kulesi Oto-Temizleme,<RedBold>[Value]</> kez Kibir Kulesi'ni otomatik temizle. ([Value1] / [Value2])
+31015,Run İşleme,<RedBold>[Value]</> kere run işlemeyi dene. ([Value1] / [Value2])
+31016,Ekipman Birleştirme,<RedBold>[Value]</> kez ekipman birleştirme dene. ([Value1]/[Value2])
+31017,@31001,<RedBold>1-5</>. Bölümü Tamamla.
+31018,Ekipman Geliştir,<RedBold>[Value]</> kez ekipman geliştirmeyi dene. ([Value1]/[Value2])
+31019,Günlük Görev,<RedBold>[Value]</> Günlük Görev tamamla. ([Value1]/[Value2])
+31020,@31015,<RedBold>[Value]</> kez başarılı şekilde Run işle. ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Haftalık Görev Tamamlama,<RedBold>[Value]</> kez Haftalık Görev tamamla. ([Value1]/[Value2])
+31102,Ekipman Güçlendirme,<RedBold>[Value]</> kez ekipman güçlendir. ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Elit Zindan,<RedBold>[Value]</> kez Elit Zindan Görevi tamamla. ([Value1]/[Value2])
+31105,Elf Harabeleri Kat 1'de Canavar Yen,Elf Harabeleri Kat 1'de <RedBold>[Value]</> Canavar ([Value1]/[Value2]) Yen
+31106,Canavar Özü Al,<RedBold>[Value]</> Canavar Özü al. ([Value1]/[Value2])
+31107,Canavar Özü Ekle,<RedBold>[Value]</> Canavar Özü ekle. ([Value1]/[Value2])
+31108,Ekipman zindanı Tamamla,<RedBold>[Value]</> kez Ekipman Zindanı tamamla. ([Value1]/[Value2])
+31109,Kibir Kulesi,Kibir Kulesi <RedBold>[Value]</>. katı tamamla. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,<RedBold>3-5</>. Bölümü Tamamla
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Botanik Zindanı,Botanik Zindanı'nda <RedBold>[Value2]</> bitki topla. ([Value1]/[Value2])
+31117,İksir Üretimi,<RedBold>[Value]</> kez İksir üret. ([Value1]/[Value2])
+31118,Ruh Kristali Geliştirme,<RedBold>[Value]</> kez bir Ruh Kristali geliştirmeyi dene. ([Value1]/[Value2])
+31119,@31001,<RedBold>4-5</>. Bölümü Tamamla
+31120,Seviyeye Ulaş,31. Seviyeye <RedBold>Ulaş</> ([Value1]/[Value2])
+31121,Sınıf Geçişini Tamamla,<RedBold>Sınıf Geçişini</> tamamla.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Günlük Zindan Tamamla,<RedBold>[Value]</> kez Günlük Zindan tamamla. ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Karınca Yuvası 1'de Canavarları Yen,Karınca Yuvası 1'de <RedBold>[Value]</> Canavarları ([Value1]/[Value2]) Yen
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Adena zindanı,<RedBold>[Value]</> kez Adena Zindanı'nı tamamla. ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,<RedBold>50</>. seviyeye ulaş. ([Value1]/[Value2])
+31302,Çağırma Zindanı Tamamla,<RedBold>[Value]</> kez Çağırma Zindanı tamamla. ([Value1]/[Value2])
+31303,Binek Ekipmanı,Bineğine <RedBold>ekipman</> giydir. ([Value1]/[Value2])
+31304,Binek Ekipmanı Seviye Yükselt,<RedBold>[Value]</> kez binek ekipmanı seviyesini yükseltmeyi dene. ([Value1]/[Value2])
+31305,Geliştirme Taşı Kullan,<RedBold>[Value]</> kez bineğinin üstünde Geliştirme Taşı kullan. ([Value1]/[Value2])
+31306,Binek Ekipmanı Güçlendir,<RedBold>[Value]</> kez binek ekipmanı güçlendir. ([Value1]/[Value2])
+31307,Belirtilen Binek Seviyesine Ulaş,Bineğini <RedBold>[Value]</>. seviyeye yükselt. ([Value1]/[Value2])
+31308,Binek Geliştir,<RedBold>[Value]</> kez bineğini geliştir. ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Binek Ekipmanı Kazan,<RedBold>[Value]</> adet A veya üstü binek ekipmanı kazan. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,<RedBold>[Value]</> adet S veya üstü binek ekipmanı kazan. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,<RedBold>[Value]</> adet R veya üstü binek ekipmanı kazan. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,Deneyim Mücadelesi,Deneyim Mücadelesi’ni <RedBold>[Value]</> kez tamamla. ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

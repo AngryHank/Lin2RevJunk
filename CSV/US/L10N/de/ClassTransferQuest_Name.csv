@@ -1,0 +1,87 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Geduldszeugnis,Besiege {TaskCount} Monster.,,
+1112,2. Des Tages Aufarbeitung,"Erledige Tagesdungeons im Modus ""Einfach"".",Aymel,"Wuuuh! Ihr habt bereits 50 Monster besiegt? Das ist unglaublich!<p>Euer nächster Test ist es, einen einfachen Tagesdungeon zu erledigen!
+Diese Bosse sind dafür bekannt, sehr mächtig zu sein. <p>Nur wahre Kämpfer können sie besiegen!
+Geht und beweist Euch!"
+1113,3. Bereitschaft,Erhalte {TaskCount} Stufe C-Gegenstand/Gegenstände.,@1112,"Ihr seid der Erste, der den Boss des Heiligen Grunds so schnell besiegen konnte! Ihr seid schon was Besonderes, wisst Ihr das? <p>Der nächste Test ist ... Hmm ... Nun, das ist nicht wirklich ein Test. Ihr müsst Gegenstände der Stufe C sammeln. <p>Fürs Kämpfen braucht Ihr bessere Ausrüstung! In einem solchen Moment braucht Ihr hilfreiche Stufe C-Gegenstände. Sammelt und benutzt sie, um Eure Ausrüstung zu verbessern!"
+1114,4. Zustimmung von allen,Nimm an mind. {TaskCount} Duell(en) teil.,@1112,"Und? Stufe C-Gegenstände sind hilfreich für Eure Ausrüstung, oder?<p>Nachdem Ihr also Eure Ausrüstung im Level erhöht habt, schauen wir uns nun Eure Fähigkeiten an.<p>Ihr glaubt, dass Ihr gegen andere Monster kämpfen werdet? Netter Versuch! Ihr werdet Eure Fähigkeiten gegen andere Spieler unter Beweis stellen müssen!<p>Ihr würdet uns beschämen, wenn Ihr so einfach in der Arena besiegt werden würdet.<p>Hmm, das wird gehen! Ein Kampf in der Arena! Das wird einfach!<p>Als ich ein Neuling war, habe ich an 100 Kämpfen teilgenommen! Los doch. Jetzt seid Ihr dran!"
+1115,5. Qualifikationszeugnis,Erhalte {TaskCount} Adena.,@1112,"Was?! Ihr habt schon einmal in der Arena gekämpft?<p>Nun, dann sollten wir mit dem nächsten Test weitermachen.<p>Ihr sollt 10.000 Adena verdienen.<p>Dies ist ein Test Eurer Jagd- und Finanzfähigkeiten! Ihr könntet in einem entscheidenden Moment sterben, wenn Ihr Eure Finanzen schlecht verwaltet!<p>Besorgt 10.000 Adena!"
+1116,6. Durchbruch,Werte Ausrüstung {TaskCount} Mal erfolgreich auf.,@1112,"Auf zum nächsten Test!<p>Jetzt müsst Ihr Eure Ausrüstung aufwerten.<p>Für einen Söldner ist Ausrüstung so wichtig wie das eigene Leben! Wertet Eure Ausrüstung auf, wenn Ihr auf dem Schlachtfeld überleben wollt!<p>Versucht, ein Ausrüstungsteil aufzuwerten!"
+1117,7. Anerkennung,Besiege Knochensammler Kyrios {TaskCount} Mal.,@1112,"Wow, ist das bereits der letzte Test? Glückwunsch! Sieht aus, als hätten die da oben hohe Erwartungen an Euch.<p>Wegen Eurer besonderen Fähigkeiten haben wir uns entschieden, Euch an Kyrios' Blut-Ranger-Aufgabe teilhaben zu lassen! Kyrios ist ein fürchterliches Monster!<p>Wir weisen diese Aufgabe nur extrem talentierten Söldnern zu. Aus irgendeinem Grund wollen die da oben, dass Ihr diese Aufgabe übernehmt!<p>Sowas gab's bisher noch nie! Es ist ein Beweis dafür, dass sie Eure Fähigkeiten anerkennen.<p>Stellt sicher, dass Ihr Kyrios besiegt. Das würde als Euer letzter Test gelten! Es wird schwierig werden, doch ich wünsche Euch Glück!<p>Oh, das wird ein härterer Gegner, als Ihr vielleicht erwartet. Es wäre hilfreich, ein paar Kameraden mitzunehmen!"
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

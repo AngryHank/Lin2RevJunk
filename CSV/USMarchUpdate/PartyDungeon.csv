@@ -1,5 +1,0 @@
-﻿Id,QuestId,MaxPlayer,RewardCount,ExpRestrictRate,AdenaRestrictRate,RewardParam1,RewardCount1,RewardParam2,RewardCount2,RewardParam3,RewardCount3,RewardParam4,RewardCount4,RandomSeedRewardItemID,RandomSeedReward,RandomSeedRewardValue,ChargeMaxCount,ChargeCost
-100001,130001,5,1,0,0,1301001,10,1301002,2,473001,1,,,,,,4,"100, 200, 400, 800"
-100002,130002,5,1,0,0,1301001,20,1301002,5,473001,2,,,490200,130100,1,4,"100, 200, 400, 800"
-100101,130101,5,1,0,0,1301001,10,1301003,2,473011,1,,,,,,4,"100, 200, 400, 800"
-100102,130102,5,1,0,0,1301001,20,1301003,5,473011,2,,,490200,130200,1,4,"100, 200, 400, 800"

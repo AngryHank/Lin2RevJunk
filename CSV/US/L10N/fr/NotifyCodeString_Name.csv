@@ -1,0 +1,29 @@
+Id,Value
+1,[Param1] a rejoint le clan.
+2,[Param1] a quitté le clan.
+3,Le rang de [Param1] devient : [Param2]{[Param2]|}.
+4,[Param1] a été nommé(e) chef de clan.
+5,Nouveau niveau du clan : [Param1]{[Param1]}.
+6,Vous avez formé une alliance avec [Param1].
+7,L'alliance avec [Param1] a pris fin.
+8,[Param1] a donné une récompense à [Param2].
+9,[Param1] récompense tous les membres du clan.
+10,Conquête de [Param1] réussie.
+11,Renouveler l'enchère de [Param1] !
+12,L'enchère de [Param1] a été prolongée.
+13,Le QG du siège de [Param1] est attaqué.
+14,Le QG du siège de [Param1] a été détruit.
+15,Ticket réinitialisé au début du Siège.
+16,[Time] [Param1] s'est connecté(e).
+17,[Param1] a été nommé(e) chef de clan car son prédécesseur était absent trop longtemps.
+18,Le prochain buff apparaîtra dans [Param1] s.
+19,[Param1] a vaincu [Param2].
+20,L'équipe bleue a acquis : [Param1]{[Param1]}.
+21,L'équipe rouge a acquis : [Param1]{[Param1]}.
+22,[Param1] a tué [Param2] ennemis à la suite !
+23,[Param2] de [Param1] a tué [Param3] ennemis de suite !
+24,Champ de bataille d'honneur ouvert.
+25,Champ de bataille d'honneur dans [Param1] min.
+26,Champ de bataille des braves ouvert.
+27,Champ de bataille des braves dans [Param1] min.
+28,"[Param1] récompense [Param3] joueur(s), y compris [Param2]."

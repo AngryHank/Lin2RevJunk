@@ -1,0 +1,31 @@
+GuildRecordType,GuildRecordString
+0,"Klan üyesi [Param1], [Param2]xAdena bağışladı."
+1,"[Param1], [Param2]xKan Nişanı bağışladı."
+2,"Klan Güçlendirmesi [Param1], [Param2]. seviyeye ulaştı."
+3,"<FontYellow>Klan, [Param1]. seviyeye ulaştı.</>"
+4,[Param1] isimli klana <FontRed>savaş ilan edildi.</>
+6,[Param1] isimli klanla <FontBlue>ittifak kuruldu</>
+7,[Param1] isimli klanla ittifak <FontRed>sona erdi</>.
+8,"Klan üyesi [Param1], [Param2] oldu."
+10,"[Param1], klana <FontBlue>katıldı.</>"
+11,"[Param1], klandan <FontBlue>çıktı.</>"
+12,"<FontYellow>[Param1], [Param2]xElmas Sandığını vergi olarak ödedi.</>"
+13,<FontBlue>[Param1]</> Klan Zindanı tamamlandı.
+14,<FontGreen>[Param1]</> Klan Başarımı kazanıldı.
+15,<FontYellow>[Param1]'in hükümdarı oldun.</>
+16,@CastleAcquired
+17," [Param3] [Param2], [Param1] klan üyelerine <FontGreen>hediye edildi</>."
+18," [Param2] [Param3], [Param1] klan üyelerine <FontGreen>ödül</> ver."
+19,Tüm klan üyeleri [Param1]x[Param2] ile <FontBlue>ödüllendirildi.</>
+20,[Param1] klanına karşı savaş <FontBlue>kazanıldı.</>
+21,[Param1] klanına karşı savaş <FontRed>kaybedildi.</>
+22,[Param1] klanı ile olan savaş berabere bitti.
+23,"Lord [Param1], Kale Kuşatması Dükkan'ından [Param2] aldı."
+24,"Klan üyesi [Param1], [Param2]xKırmızı Yıldıztaşı bağışladı."
+9,"[Param1], yeni Lord olarak [Param2] isimli üyeyi <FontRed>otomatik olarak atadı.</>"
+25,<FontYellow>Klan Meydanı aldın.</>
+26,"<FontYellow> Klan Meydanı, [Param1]. seviyeye ulaştı.</>"
+27,"<FontYellow>Birlik Kristali, [Param1]. seviyeye ulaştı.</>"
+28,[Param1] mülkiyetinden vazgeçilecek.
+29,[Param1] mülkiyetinden vazgeçildi.
+30,[Param1] klanına karşı savaş anlaşma ile çözüldü.

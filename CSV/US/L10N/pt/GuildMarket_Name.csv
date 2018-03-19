@@ -1,0 +1,66 @@
+Id,ItemName,Desc1,Desc2
+4,Caixa de Seleção de Essências de Elixir,Use para selecionar e adquirir uma essência de elixir.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+5,Cx. de Sel. de Concl. Automátic.,Use para selecionar e adquirir 1 bilhete de conclusão automática.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+10,Caixa de Fragmento de Pedra de Evocação,Use para conseguir fragmentos de Pedra de Evocação de várias montarias aleatórias.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+11,Caixa de Pergaminho de Aprimoramento,Use para conseguir um pergaminho de aprimoramento aleatório.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+12,Caixa de Pedra de Melhoria,Use para conseguir uma pedra de melhoria aleatória.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+26,Exp.,Use para conseguir Exp.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+27,Exp. superior,Use para conseguir uma grande quantidade de Exp.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+30,Pergaminho de Fuga,Use para se teletransportar.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+31,5 Proteções de Maphr,Combine fragmentos para ganhar a Proteção de Maphr.,Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+30000103,1 Caixa de Equipamento do Clã,Use para conseguir um equipamento aleatório A - SR.,
+30000104,10 Caixas de Equip. do Clã (+1 bônus),Use para conseguir um equipamento aleatório A - SR.,
+30000105,1 Caixa de pergaminho de aprimoramento do clã,@11,
+30000106,10 caixas de sup. de clã (+1 de bônus),Use para restaurar pequena quantidade do PV.,
+30000107,200 Poções de PM,Use para restaurar pequena quantidade do PM.,
+30000108,5.000 Disparos Anímicos,Use para imbuir uma arma com poder misterioso que aumenta o dano.,
+30000109,1 caixa de fortalec. de montaria,"Use para ganhar um dos itens seguintes: equipamento de montaria (A - SR), Caixa de Pedra de Avanço (Pequena - Grande) ou fragmento de pedra de evocação de montaria (Urso-Negro, Santo de Prata, Kukurin e Leão com Juba).",
+30000110,10 caixas de fort. mont. (+1 bônus),@30000109,
+201,Aum. de tempo de marc. de relíquia Nv. 1,Aumenta em 1 segundo o tempo para marcar uma relíquia.,
+202,Aum. de tempo de marc. de relíquia Nv. 2,Aumenta em 2 segundos o tempo para marcar uma relíquia.,
+203,Aum. de tempo de marc. de relíquia Nv. 3,Aumenta em 3 segundos o tempo para marcar uma relíquia.,
+204,Aum. de tempo de marc. de relíquia Nv. 4,Aumenta em 4 segundos o tempo para marcar uma relíquia.,
+205,Aum. de tempo de marc. de relíquia Nv. 5,Aumenta em 5 segundos o tempo para marcar uma relíquia.,
+206,Aum. de durab. da Torre de Defesa Nv. 1,,
+207,Aum. de durab. da Torre de Defesa Nv. 2,Aumenta em 20.000 a durabilidade da Torre de Defesa.,
+208,Aum. de durab. da Torre de Defesa Nv. 3,Aumenta em 30.000 a durabilidade da Torre de Defesa.,
+209,Aum. de durab. da Torre de Defesa Nv. 4,Aumenta em 40.000 a durabilidade da Torre de Defesa.,
+210,Aum. de durab. da Torre de Defesa Nv. 5,Aumenta em 50.000 a durabilidade da Torre de Defesa.,
+211,Aumento de atq. da armadilha Nv. 1,"Aumenta em 1% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo.",
+212,Aumento de atq. da armadilha Nv. 2,"Aumenta em 2% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo.",
+213,Aumento de atq. da armadilha Nv. 3,"Aumenta em 3% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo.",
+214,Aumento de atq. da armadilha Nv. 4,"Aumenta em 4% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo.",
+215,Aumento de atq. da armadilha Nv. 5,"Aumenta em 5% o atq. da armadilha.
+As armadilhas causam % de dano a mais ao PV máx. do inimigo.",
+301,Bônus da eficácia de poção,"Use para aplicar a Proteção do Senhor ao clã por 1 hora.
+A eficácia da Poção de PM e PV ganha +20% (fora do Cerco ao Castelo e do Cerco à Fortaleza).",
+302,Bônus de ganho de núcleo / exp. de caça,"Use para aplicar a Proteção do Senhor ao clã por 1 hora.
+Exp. ganha ao caçar e taxa de caída de Núcleo de monstro +20%.",Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+303,Bônus de ganho de item / adena de caça,"Use para aplicar a Proteção do Senhor ao clã por 1 hora.
+Receba +20% de Adena em caçada e taxa de caída de item.",Disponível para compra ao chegar ao Nível do clã {RequiredGuildLevel}.
+158,1 Essência de Elixir de PV,Essência vermelha usada para fazer elixires de PV.,"Disponível para compra após conquistar
+uma fortaleza de grau C ou superior."
+159,1 Essência de Elixir de PM,Essência azul usada para fazer elixires de PM.,@158
+160,1 Essência de Elixir de Atq.,Essência roxa usada para fazer elixires de atq.,@158
+161,1 Essência de Elixir de Def.,Essência amarela usada para fazer elixires de def.,@158
+165,1 Pedra de Melhoria de Arma,Usa-se para melhorar uma arma ao seu próximo grau.,@158
+166,1 Pedra de Melhoria de Armadura,Usa-se para melhorar uma armadura ao seu próximo grau.,@158
+401,Pigmento da Capa de Clã: Baixo Grau,Item necessário para alterar a cor da Capa de Clã.,Disponível para compra ao conquistar uma fortaleza.
+402,Pigmento da Capa de Clã: Médio Grau,@401,Disponível para compra ao conquistar uma fortaleza de grau A ou maior.
+404,Pigmento de Emblema da Capa de clã: Baixo Grau,Item necessário para alterar a cor do Emblema da Capa de Clã.,@401
+405,Pigmento de Emblema da Capa de clã: Médio Grau,@404,@402
+810000001,Poção do Clã Nv. 5: Bônus de Adena,Aumenta a quantidade de Adena obtida em 50% por 1 hora. (Aplicável apenas a Caçada de Campo),@158
+810000002,Baú de Relíquia esfarrapada,"É uma relíquia esfarrapada.
+Peça ao Guardião de Relíquias da Sede do Clã que avalie esta relíquia para você adquirir uma recompensa.",@158
+810000003,Poção do Clã nv. 5: Bônus de Caída de Núcleo,"Depois de usada, a taxa de caída de núcleo de monstro aumenta em 50%.
+O efeito dura 1 hora.","Disponível para compra após conquistar
+uma fortaleza de grau B ou superior."
+810000004,Proteção de Maphr,Usa-se para aprimorar equipamento. O fracasso não diminui o valor de aprimoramento.,"Disponível para compra após conquistar
+uma fortaleza de grau A ou superior."
+810000005,Caixa de Pergaminho Abençoado,Use para conseguir um Pergaminho Abençoado aleatório: Aprimorar.,@810000003
+810000006,Pedra de Atributo - grau S,Use para aprimorar um atributo de um equipamento.,@810000003
+810000007,Pedra de Atributo - grau R,Use para aprimorar um atributo de um equipamento.,@810000004

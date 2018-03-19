@@ -1,0 +1,92 @@
+Type,Name
+0,Att. F.
+1,Att. M.
+2,Amplificazione Att. F.
+3,Amplificazione Att. M.
+4,Aumento Att. Attacco Normale
+5,Amplificazione Att. in base a membri del gruppo
+6,Amplificazione Vel. Att.
+7,Potere di combattimento
+126,Aumento Tempo di attesa
+9,Livello crit.
+10,Livello Resistenza critica
+11,Amplificazione Danni critici
+12,Livello Colpo critico
+13,Resistenza critica
+14,Amplificazione Livello critico
+15,Amplificazione Resistenza critica
+16,Dif. F.
+17,Dif. M.
+18,Amplificazione Dif. F.
+19,Amplificazione Dif. M.
+20,Elusione
+21,Amplificazione Elusione
+22,Livello di Elusione
+23,Precisione
+24,Amplificazione Precisione
+25,Livello di Precisione
+26,Livello di aumento Danni
+27,Livello di aumento Danni F.
+28,@IncreaseDamagePhyMul
+29,Livello di aumento danni a Bersagli rallentati
+30,Ignora Danni Dif.
+31,Livello di riduzione Danni
+32,Livello di riduzione Danni F.
+33,Livello di riduzione Danni M.
+34,Riduzione danno costante
+35,Livello di Parata
+36,Livello di riduzione Danni Parata
+37,Esp.
+38,Livello di aumento Esp. ottenuta
+39,Amplificazione aggressività
+40,PS
+41,Rigen. PS
+42,Esaurimento PS
+43,Aumento livello di Rilascio oggetti
+44,PS massimi
+45,Amplificazione PS massimi
+46,PM massimi
+47,Amplificazione PM massimi
+48,PM
+49,Amplificazione costo PM
+50,Livello Rigen. PM
+51,Velocità
+52,Amplificazione Velocità
+53,Liv. resist. Lentezza
+54,Liv. resist. Stordimento
+55,Livello di resistenza agli stati anormali
+56,Livello di resistenza agli strattoni del Bersaglio
+126,Livello di resistenza agli spintoni
+58,Adena
+59,Livello di aumento Adena ottenuti
+60,Diamante Gratis
+61,Diamante Pagato
+62,Biglietto Quest
+63,Biglietto Completamento automatico Conquista
+64,Frammento di Runa
+65,Punto Abilità
+66,Punti Amicizia
+67,Topazio
+68,Punti Lealtà
+69,Invincibile
+70,Uccisione istantanea
+71,Intelligente
+72,Duraturo
+73,Esp. Classe
+74,Moneta del Clan
+75,Punto Traguardo
+76,Biglietto Festival dell’Assedio
+77,Biglietto PvP
+78,Punteggio Onore PvP
+79,Livello
+80,Penetrazione
+81,Recupero
+82,Aumento Abilità AE
+83,Aumento Totale colpi Abilità
+84,Aumento Velocità Scavo
+85,Aumento Totale Estrazione
+86,Livello Scudo Mana (Assorbimento danni via Mana)
+87,Blocca GK
+88,Aumento livello di rilascio Essenza Mostro
+89,@CombatPower
+90,Aumento Durata combo

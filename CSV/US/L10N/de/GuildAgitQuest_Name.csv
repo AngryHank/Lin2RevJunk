@@ -1,0 +1,138 @@
+Id,ReplaceString1,Name,ReplaceString2,QuestDesc1,QuestDesc2
+1,Östliche Sprechende Insel,{ReplaceString1}-Aufklärung,Östliche Sprechende Insel,Bes. {ReplaceString2} Mons.,Besiege {TaskCount} Monster auf der Östlichen Sprechenden Insel.
+2,Westliche Sprechende Insel,@1,Westliche Sprechende Insel,@1,Besiege {TaskCount} Monster auf der Westlichen Sprechenden Insel.
+3,Gludin-Straße,@1,Gludin-Straße,@1,Besiege {TaskCount} Monster der Gludin-Straße.
+4,Gludio-Ebenen,@1,Gludio-Ebenen,@1,Besiege {TaskCount} Monster der Gludio-Ebenen.
+5,Windawood-Anwesen,@1,Windawood-Anwesen,@1,Besiege {TaskCount} Monster des Windawood-Anwesens.
+6,Einöde,@1,Einöde,@1,Besiege {TaskCount} Monster der Einöde.
+7,Dion-Ebenen,@1,Dion-Ebenen,@1,Besiege {TaskCount} Monster der Dion-Ebenen.
+8,Cruma-Sumpf,@1,Cruma-Sumpf,@1,Besiege {TaskCount} Monster des Cruma-Sumpfes.
+9,Gipfel des Missklangs,@1,Gipfel des Missklangs,@1,Besiege {TaskCount} Monster des Gipfels des Missklangs.
+10,Kreischendes Heiligtum,@1,Kreischendes Heiligtum,@1,Besiege {TaskCount} Monster des Kreischenden Heiligtums.
+11,Giran-Reich,@1,Giran-Reich,@1,Besiege {TaskCount} Monster des Giran-Reiches.
+12,Tödliche Nebelküste,@1,Tödliche Nebelküste,@1,Besiege {TaskCount} Monster der Tödliche Nebelküste.
+13,Teufelsinsel,@1,Teufelsinsel,@1,Besiege {TaskCount} Monster der Teufelsinsel.
+14,@13,@1,@13,@1,@13
+15,Ruhelose Totenstadt,@1,Ruhelose Totenstadt,@1,Besiege {TaskCount} Monster der Ruhelosen Totenstadt.
+16,@15,@1,@15,@1,@15
+101,Elfenruinen 1,Auto-Erledige {ReplaceString1},Elfenruinen 1,@1,Besiege {TaskCount} Monster in Elfenruinen 1.
+102,Elfenruinen 2,@101,Elfenruinen 2,@1,Besiege {TaskCount} Monster in Elfenruinen 2.
+103,Ameisennest 1,@101,Ameisennest 1,@1,Besiege {TaskCount} Monster im Ameisennest 1.
+104,Ameisennest 2,@101,Ameisennest 2,@1,Besiege {TaskCount} Monster im Ameisennest 2.
+105,Cruma-Turm Etage 2,@101,Cruma-Turm Etage 2,@1,Besiege {TaskCount} Monster der Etage 2 des Cruma-Turms.
+106,Cruma-Turm Etage 3,@101,Cruma-Turm Etage 3,@1,Besiege {TaskCount} Monster der Etage 3 des Cruma-Turms.
+107,Elfenbeinturm Katakombe 1,@101,Elfenbeinturm Katakombe 1,@1,Besiege {TaskCount} Monster der Katakombe 1 des Elfenbeinturms.
+108,@107,@101,@107,@1,@107
+109,Elfenbeinturm Katakombe 2,@101,Elfenbeinturm Katakombe 2,@1,Besiege {TaskCount} Monster der Katakombe 2 des Elfenbeinturms.
+110,@109,@101,@109,@1,@109
+111,Elfenbeinturm Katakombe 3,@101,Elfenbeinturm Katakombe 3,@1,Besiege {TaskCount} Monster der Katakombe 3 des Elfenbeinturms.
+112,@111,@101,@111,@1,@111
+201,Zuflucht Verlorener Erinnerungen,{ReplaceString1}-Forschung,Tagesdungeon,@1,Besiege {TaskCount} Monster im Tagesdungeon.
+202,@201,@201,@201,@1,@201
+203,Entnahme-Dungeon,@201,Entnahme-Dungeon,@1,Besiege {TaskCount} Monster im Entnahme-Dungeon.
+204,@203,@201,@203,@1,@203
+205,Wassertempel,Beschütze {ReplaceString1}.,Tempelwächter,@1,Besiege {TaskCount} Monster im Tempelwächter.
+206,@205,@205,@205,@1,@205
+207,Kresous' Schatulle,{ReplaceString1}-Erschütterung,Adena-Dungeon,@1,Besiege {TaskCount} Monster im Adena-Dungeon.
+208,@207,@207,@207,@1,@207
+209,Unterwelt-Rift,{ReplaceString1}-Eroberung,ERF-Dungeon,@1,Besiege {TaskCount} Monster im ERF-Dungeon.
+210,@209,@209,@209,@1,@209
+211,Versiegelter Eingang,@201,Beschwörungskreis,@1,Besiege {TaskCount} Monster in Beschwörungskreisen.
+212,@211,@201,@211,@1,@211
+301,Böser Beschwörungsstein (Selten),Läutere {ReplaceString1},Beschwörungsstein für seltenes Monster,@1,Besiege {TaskCount} Monster im Dungeon durch Benutzung des Beschwörungssteins für seltenes Monster.
+302,@301,@301,@301,@1,@301
+303,Böser Beschwörungsstein (Boss),@301,Boss-Beschwörungsstein,@1,Besiege {TaskCount} Monster im Dungeon durch Benutzung des Boss-Beschwörungssteins.
+351,,Schlachter,,PK,Töte einen anderen Spieler {TaskCount} Mal als PK.
+352,,@351,,@351,@351
+401,Geisterhirte,Besiege {ReplaceString1},@2,Bes. {ReplaceString2} Boss(e).,Besiege Geisterhirten der Westl. Sprech. Insel {TaskCount} Mal.
+402,Zodiac,@401,@3,@401,Besiege Zodiac der Gludin-Straße {TaskCount} Mal.
+403,Silberbart,@401,@4,@401,Besiege Silberbart der Gludio-Ebenen {TaskCount} Mal.
+404,Vapar,@401,@5,@401,Besiege Vapar des Windawood-Anwesens {TaskCount} Mal.
+405,Kazir,@401,@6,@401,Besiege Kazir der Einöde {TaskCount} Mal.
+406,Flagon,@401,@7,@401,"Besiege Flagon, Boss der Dion-Ebenen, {TaskCount} Mal."
+407,Sina,@401,@8,@401,Besiege Sina des Cruma-Sumpfes {TaskCount} Mal.
+408,Amadeus,@401,@9,@401,Besiege Amadeus des Gipfels des Missklangs {TaskCount} Mal.
+409,Stenoa,@401,@11,@401,Besiege Stenoa des Giran-Reichs {TaskCount} Mal.
+1001,,"Eifrig, eifrig jeden Tag",Tagesquests,Erf. {ReplaceString2},Schließe eine Tagesquest {TaskCount} Mal ab.
+1002,,"Eifrig, eifrig jede Woche",Wochenquests,@1001,Schließe eine Wochenquest {TaskCount} Mal ab.
+1011,,Adena durch Schriftrollen versorgen,C,Vervoll. Schriftr. {ReplaceString2} o. höher,Vervollständige eine Questschriftrolle der Stufe C oder höher {TaskCount} Mal.
+1012,,@1011,B,@1011,Vervollständige eine Questschriftrolle der Stufe B oder höher {TaskCount} Mal.
+1013,,@1011,A,@1011,Vervollständige eine Questschriftrolle der Stufe A oder höher {TaskCount} Mal.
+1014,,@1011,S,@1011,Vervollständige eine Questschriftrolle der Stufe S oder höher {TaskCount} Mal.
+1031,,Treffer um Treffer,,Kombo erreichen,Erreiche {TaskCount} Kombo(s) aufeinanderfolgender Angriffe.
+1032,,Überwältigender Schlag,,1 Schlag max. SCH,Teile mit einem einzigen Schlag {TaskCount}.000.000 oder höheren Schaden aus.
+1101,Monster,{ReplaceString1}-Schlachter,Normales Monster,Bes. {ReplaceString2},Besiege {TaskCount} Monster.
+1102,Elite-Monster,@1101,Elite-Monster,@1101,Besiege {TaskCount} Elite-Monster.
+1103,Boss,@1101,Boss,@1101,Besiege {TaskCount} Boss(e).
+1104,,Klassentransfer - Geheimer Freund,Kyrios,@1101,Besiege Kyrios {TaskCount} Mal.
+1105,,Gartenwächter,Gartenwächter,@1101,Besiege den Gartenwächter im Entnahme-Dungeon {TaskCount} Mal.
+1106,@203,{ReplaceString1}-Fieber,Mandragora,@1101,Besiege Mandragora {TaskCount} Mal im Entnahme-Dungeon.
+1107,Bronze,{ReplaceString1}-Entnahme-Dungeon,Grüner Robuster Honigdachs,@1101,Besiege Grünen Robusten Honigdachs im Entnahme-Dungeon {TaskCount} Mal.
+1108,Silber,@1107,Silberner Robuster Honigdachs,@1101,Besiege Silbernen Robusten Honigdachs im Entnahme-Dungeon {TaskCount} Mal.
+1109,Gold,@1107,Goldener Robuster Honigdachs,@1101,Besiege Goldenen Robusten Honigdachs im Entnahme-Dungeon {TaskCount} Mal.
+1151,Besiege Varkaron,Macht Euch zu {ReplaceString1},Monster in Klan-Dungeon (Varkaron),@1101,Besiege {TaskCount} Monster im Klan-Dungeon (Varkaron).
+1152,Besiege die Ameisenkönigin,@1151,Monster in Klan-Dungeon (Ameisenkönigin),@1101,Besiege {TaskCount} Monster im Klan-Dungeon (Ameisenkönigin).
+1153,Besiege den Cruma-Kern,@1151,Monster in Klan-Dungeon (Cruma-Kern),@1101,Besiege {TaskCount} Monster im Klan-Dungeon (Cruma-Kern).
+1201,Arena,{ReplaceString1}-Tour,,Nimm an Arena teil,Nimm {TaskCount} Mal an der Arena bei.
+1202,@1201,@209,,Gewinne in der Arena,Gewinne {TaskCount} Mal in der Arena.
+1203,@1201,Siegesserie: {ReplaceString1},,Gew. mehr. hint. Ar.,Gewinne {TaskCondition} aufeinanderfolgende Wettkämpfe in der Arena.
+1301,Tagesdungeon,@209,Schwer oder höher,Erl. T.dun. ({ReplaceString2}),Erledige Tagesdungeon (Schwer oder höher) {TaskCount} Mal.
+1303,,Richtung Himmel,,Au.-Erl. Turm d. An.,Auto-Erledige den Turm der Anmaßung {TaskCount} Mal.
+1304,,Kräuterkönig,,Sa. Kräu. Entn.-Dun.,Sammle {TaskCount} Kräuter im Entnahme-Dungeon.
+1306,@207,{ReplaceString1}-Meister,@1301,Erl. Ad.-Dun. ({ReplaceString2}) mit SS o. höher,"Erledige Adena-Dungeon (Schwer) {TaskCount} Mal
+mit SS oder höher."
+1307,@207,@1106,,Err. Ad.-Dun.-Kombo,Erreiche {TaskCondition} Kombos in den Adena-Dungeon.
+1308,@209,@209,@1301,Erl. ERF-Dun. ({ReplaceString2}) mit SSS o. höher,"Erledige ERF-Dungeon (Schwer oder höher)
+{TaskCount} Mal mit SSS."
+1401,Dunkelfürst,@401,Varkaron (Einfach),@1101,Besiege Varkarons Spur (Einfach) {TaskCount} Mal.
+1402,@1401,@401,Varkaron (Normal),@1101,Besiege Varkarons Spur (Normal) {TaskCount} Mal.
+1403,@1401,@401,Varkaron (Schwer),@1101,Besiege Varkarons Spur (Schwer) {TaskCount} Mal.
+1411,Patin der Kolonie,@401,Ameisenkönigin (Einfach),@1101,Besiege Höhle der Ameisenkönigin (Leicht) {TaskCount} Mal.
+1412,@1411,@401,Ameisenkönigin (Normal),@1101,Besiege Höhle der Ameisenkönigin (Normal) {TaskCount} Mal.
+1413,@1411,@401,Ameisenkönigin (Schwer),@1101,Besiege Höhle der Ameisenkönigin (Schwer) {TaskCount} Mal.
+1421,Gedankenkontrolleur,@401,Cruma-Kern (Einfach),@1101,Besiege Raum des Cruma-Kerns (Leicht) {TaskCount} Mal.
+1422,@1421,@401,Cruma-Kern (Normal),@1101,Besiege Raum des Cruma-Kerns (Normal) {TaskCount} Mal.
+1423,@1421,@401,Cruma-Kern (Schwer),@1101,Besiege Raum des Cruma-Kerns (Schwer) {TaskCount} Mal.
+1501,,Ich mag Runenprägung,,Versuche Runenpräg.,"Versuche {TaskCount} Mal, Runen zu prägen."
+1502,,Runenprägung ist das Tollste,,Präge Rune erfolgr.,Schaffe {TaskCount} Mal eine Runenprägung.
+1511,,Elixiere sind das Tollste,,Elixier herstellen,Stelle {TaskCount} Elixier(e) her.
+1521,,Pfennigfuchser,Adena,Erhalte: {ReplaceString2},Erhalte {TaskCount} Adena.
+1522,Klans,Für {ReplaceString1},Blutzeugnis,@1521,Erhalte {TaskCount} Blutzeugnis(se).
+1523,Klan-Dungeon,@1522,Rotsternstein,@1521,Erhalte {TaskCount} Rotsternstein(e).
+1524,Monsterkern,@1106,Monsterkern,@1521,Erhalte {TaskCount} Monsterkern(e).
+1525,Seelenkristall,@1106,Seelenkristall,@1521,Erhalte {TaskCount} Seelenkristall(e).
+1527,C,Stufe {ReplaceString1} Gegenstandsmanie,@1011,Erh. St. {ReplaceString2}-Gegenst.,Erhalte {TaskCount} Stufe C-Gegenstand/-Gegenstände.
+1528,B,@1527,@1012,@1527,Erhalte {TaskCount} Stufe-B-Gegenstände.
+1529,A,@1527,@1013,@1527,Erhalte {TaskCount} Stufe A-Gegenstände.
+1530,Extra-hochstufig,{ReplaceString1} Gegenstandsmanie,@1014,Erh. Gegenst. St. {ReplaceString2} o. höher,Erhalte {TaskCount} Gegenstand/Gegenstände der Stufe S oder höher.
+1551,Ausrüstung,@1106,Ausrüstung,Erhalte Gegenstand {ReplaceString2},Erhalte {TaskCount} Ausrüstungsteil(e).
+1552,Ausrüst.,@1106,Ausrüst.,@1551,Erhalte {TaskCount} Reitbegleiterausrüstungsteil(e).
+1601,,Grundlagen der Stärkung von Ausrüstung,@1551,Versuche {ReplaceString2} im Level aufsteigen zu lassen,"Versuche mind. {TaskCount} Mal, das Level von Ausrüstung zu erhöhen."
+1602,,Reitbegleiterausrüstung ist wichtig,@1552,@1601,"Versuche mind. {TaskCount} Mal, das Level von Reitbegleiterausrüstung zu erhöhen."
+1603,,So stärkt man Ausrüstung,Verbessern,Versuche {ReplaceString2} auf Ausrüstung,"Versuche {TaskCount} Mal, Ausrüstung zu verbessern."
+1604,,Für die gewünschte Ausrüstung,Kombinieren,@1603,"Versuche mind. {TaskCount} Mal, Ausrüstung zu kombinieren."
+1605,,"Werte auf, mit ruhiger Hand",Aufwerten,@1603,"Versuche mind. {TaskCount} Mal, Ausrüstung aufzuwerten."
+1606,,"Werte auf, mit kühlem Kopf",Werte Ausrüstung erfolgreich auf,{ReplaceString2},Werte Ausrüstung mind. {TaskCount} Mal erfolgreich auf.
+1607,,Attributaufwertung über Allem,"Attribut-
+aufwertung",@1603,"Versuche {TaskCount} Mal, Attribute aufzuwerten."
+1608,,Subwerte sind das i-Tüpfelchen,"Subwerte
+ändern",@1603,"Versuche {TaskCount} Mal, Subwerte zu ändern."
+1609,,Es gibt keine Grenzen,Limit-Break,@1603,"Versuche {TaskCount} Mal, für Ausrüstung einen Limit-Break einzusetzen."
+1801,,"Stärker, schneller",Seelenschuss,Verwende: {ReplaceString2},Verwende {TaskCount} Seelenschüsse.
+1802,Gesundheit,@1522,LP-Trank,@1801,Verwende {TaskCount} LP-Tränke.
+1803,@1802,@1522,MP-Trank,@1801,Verwende {TaskCount} MP-Tränke.
+1804,Die Welt Aden,Das Wachstum von {ReplaceString1},@1521,@1801,Verwende {TaskCount} Adena.
+1805,@1804,Der Fortschritt von {ReplaceString1},Roter Diamant,@1801,Verwende {TaskCount} Rote Diamant(en).
+1806,@1804,Der Ruhm von {ReplaceString1},Blauer Diamant,@1801,Verwende {TaskCount} Blaue Diamant(en).
+1807,,"Werte auf, mit mutiger Hand",@1605,@1603,Versuche {TaskCount} Mal Ausrüstung aufzuwerten.
+1901,@1522,@1522,,Erhalte Klan-Beitragspunkte,Erhalte {TaskCount} Klan-Beitragspunkt(e).
+1902,,Höfliches Klanmitglied,,Grüße ein Klanmitglied,Grüße deine Klanmitglieder {TaskCount} Mal.
+1903,,Top-Spender,,Klan-Spende,Spende {TaskCount} Mal an den Klan.
+1904,@1522,@1804,@1521,Spende {ReplaceString2} an den Klan,Spende dem Klan {TaskCount} Adena.
+1905,@1522,@1805,@1522,@1904,Spende {TaskCount} Blutzeugnis(se) an den Klan.
+1906,@1522,@1806,@1523,@1904,Spende {TaskCount} Rotsternstein(e) an den Klan.
+9015,,Nur eine Kleinigkeit,Kleines Festmahl,Bereite in der Klanhalle Folgendes vor: {ReplaceString2},Bereite in der Klanhalle {TaskCount} Mal ein Kleines Festmahl vor.
+9016,,"Ich zeige in der Küche, was ich kann",Mittleres Festmahl,@9015,Bereite in der Klanhalle {TaskCount} Mal ein Mittleres Festmahl vor.
+9017,,Heute Abend feiern wir!,Großes Festmahl,@9015,Bereite in der Klanhalle {TaskCount} Mal ein Großes Festmahl vor.
+9018,,Kraft des Tigers,,Stelle in der Klanhalle Persönliche Tränke her,Stelle in der Klanhalle {TaskCount} Mal persönliche Tränke her.
+9019,,König der Relikte,,Schätze in der Klanhalle ein Relikt,Schätze in der Klanhalle {TaskCount} Relikt(e).

@@ -1,0 +1,129 @@
+Id,Value,ButtonString1,ButtonString2
+1,[ChatString],,
+2,Vous avez été déconnecté(e) du serveur.,,
+3,Un groupe a été créé.,,
+4,Vous avez rejoint le groupe.,,
+5,<FontGreen>[Name]</> a rejoint le groupe.,,
+6,Vous avez quitté le groupe.,,
+7,<FontGreen>[Name]</> a quitté le groupe.,,
+8,Vous avez été expulsé(e) du groupe.,,
+9,<FontGreen>[Name]</> a été expulsé(e) du groupe.,,
+10,Vous devenez le chef du groupe.,,
+11,<FontGreen>[Name]</> a été désigné(e) nouveau chef de groupe.,,
+12,Le groupe a été dissous.,,
+13,"<FontGreen>[Name]</> vous invite à rejoindre son groupe.
+Rejoindre le groupe ?<FontRed>[Seconds]</> s",Refuser,Rejoindre
+14,Vous avez refusé de rejoindre le groupe.,,
+15,"Quelqu'un a demandé à rejoindre le groupe.
+Approuvez-vous ? <FontRed>[Seconds]</> seconde(s)",@13,Accepter
+16,Groupe auto. annulé.,,
+17,"Lieu : <FontGreen>[DungeonName]</><FontRed>([Difficulty])</>
+<FontBlue>[Name]</> souhaite commencer l'aventure. Se préparer ?<FontRed>[Seconds]</> s",@13,Accepter
+18,"Lieu : <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</>
+Vous allez entrer <FontGreen>[DungeonName]</> <FontRed>([Difficulty])</> dans <FontRed>[Seconds]</> secondes.
+Préparez-vous au combat.",,
+19,"Lieu : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> souhaite vous invoquer.
+Accepter l'invocation ? <FontRed>[Seconds]</> s",En marchant,Par portail
+20,@19,Fermer,Entrer
+21,"Lieu : <FontGreen>[WorldName]</>
+Vous rendre à l'emplacement où le groupe se réunit ? <FontRed>[Seconds]</> s",@19,@19
+22,@21,@20,@20
+23,"<FontYellow>Le groupe de [Battlefield] a été créé.
+Entrez sur le champ de bataille <FontBlue>en solo</> ou dans un <FontBlue>groupe de champ de bataille</> avec d'autres joueurs.",,
+24,Groupe de <FontYellow>[Battlefield]</> rejoint.,,
+25,<FontGreen>[Name]</> a rejoint le groupe de <FontYellow>[Battlefield]</>.,,
+26,Le groupe de <FontYellow>[Battlefield]</> a été dissous.,,
+27,A quitté le groupe de <FontYellow>[Battlefield]</>.,,
+28,<FontGreen>[Name]</> a quitté le groupe <FontYellow>[Battlefield]</>.,,
+29,"<FontGreen>[Name]</> ([Power]) vous invite à rejoindre son groupe de champ de bataille.
+Rejoindre le groupe de <FontYellow>[Battlefield]</> ?<FontRed>[Seconds]</> s",@13,@15
+30,"L'association pour <FontYellow>[BattlefieldType]</> est terminée.
+Entrée sur le champ de bataille dans <FontRed>[Seconds]</> s. Préparez-vous au combat.",,
+31,[Name] vous a envoyé une demande d'amitié.,Ami,
+32,[Name] rejoint votre liste d'amis.,@31,
+33, <FontYellow>Le chef de clan a changé l'emblème de clan.</>,,
+34,Le membre du clan [Name] a changé son pseudo : <FontGreen>[Name2]</>,,
+35,<FontGreen>[Param1]</> s'est connecté(e).,,
+36,<FontGreen>[Name]</> a fait un bon de <FontGreen>[Count] [AssetsType]</> pour les membres du clan.,,
+37,<FontGreen>[Param1]</> a <FontBlue>rejoint</> le clan.,,
+38,<FontGreen>[Param1]</> a <FontRed>quitté</> le clan.,,
+39,<FontGreen>[Name]</> a été <FontRed>expulsé(e)</> du clan.,,
+40,Le clan <FontBlue>[GuildName]</> a envoyé une invitation.,@13,@17
+41,<FontBlue>[Name]</> a décliné l'invitation.,,
+42,<FontYellow>Il existe une nouvelle demande d'adhésion au clan.</>,Clan,
+43,Vous avez rejoint <FontBlue>[GuildName]</>.,@42,
+44,<FontBlue>[GuildName]</><FontRed> </> a refusé votre demande d'adhésion.,,
+45,A quitté le clan.,,
+46,<FontGreen>[Param1]</> voit son rang devenir <FontBlue>[Param2]</>,,
+47,<FontGreen>[Param1]</> a été nommé(e) chef de clan.,,
+48,<FontGreen>[Param1]</> a été nommé(e) chef de clan suite à l'absence prolongée ou au manque de participation de l'ancien chef de clan.,,
+49,[Param1] a donné une récompense à <FontGreen>[Param2]</>.,,
+50,[Param1] a donné des récompenses à <FontGreen>tous les membres du clan</>.,,
+51,"[Param1] a donné des récompenses aux <FontGreen>[Param3] membres</>, dont [Param2].",,
+52,Un cadeau de clan a été envoyé par <FontGreen>[Name]</>.,Bulletin,
+53,"<FontGreen>[Name]</>, membre du clan, a demandé une
+revanche à [Name2] du <FontRed>clan [GuildName]</>.",@20,@19
+54,"<FontGreen>[Name]</>, membre du clan, a demandé une
+revanche à [Name] du <FontRed>clan [GuildName]</>.",@20,@20
+55,"<FontGreen>[Name]</>, membre du clan, a demandé une
+ revanche à <FontRed>[Name2]</>.",@20,@19
+56,"<FontGreen>[Name]</>, membre du clan, a demandé une
+ revanche à <FontRed>[Name]</>.",@20,@20
+57,Vous avez <FontBlue>formé</> une alliance avec <FontBlue>[Param1]</>.,,
+58,Votre alliance a <FontRed>pris fin</> avec <FontBlue>[Param1]</>.,,
+59,La guerre est <FontRed>déclarée</> contre le clan <FontBlue>[Name]</>.,,
+60,<FontRed>Rejet</> du cessez-le-feu avec <FontBlue>[GuildName]</>.,,
+61,<FontBlue>[GuildName]</> a <FontRed>refusé</> de mettre fin à la guerre.,,
+62,<FontGreen>Conclusion</> d'un cessez-le-feu avec <FontBlue>[Name]</>.,,
+63,<FontBlue>Victoire</> de la guerre contre <FontBlue>[Name]</>.,,
+64,<FontRed>Défaite</> de la guerre contre <FontBlue>[Name]</>.,,
+65,<FontYellow>La Salle du clan a atteint le niv. [Param1].</>,,
+66,<FontYellow>Le buff de clan [Name] a atteint le niv. [param].</>,,
+67,[Name] a acheté <FontGreen>[Item]</> au <FontGreen>[ShopName]</>.,,
+68,<FontYellow>[Param1] a terminé avec succès.</>,Succès de clan,
+69,"Le chef de clan a lancé un appel depuis <FontGreen>[DungeonName]</>.
+Accepter ?",@20,@20
+70,<FontYellow>[GuildDungeonName] ([Difficulty]) a été réinitialisé.</>,Donjon de clan,
+71,Renouveler l'enchère pour <FontYellow>[Param1] !</>,Siège de forteresse,
+72,@71,Siège de château,
+73,L'enchère pour <FontYellow>[Param1]a été prolongée.</>,@71,
+74,@73,@72,
+75,"Le Siège de forteresse a débuté.
+Accéder à <FontGreen>[FortressName]</> ?",@20,@20
+76,"Le Siège de château a débuté.
+Accéder à <FontGreen>[CastleName]</> ?",@20,@20
+77,<FontYellow>Le chef de clan a abandonné la propriété de [Name].</>,,
+78,Le chef de clan sélectionné<FontBlue>[Name]</> en tant que<FontYellow>[CastleType]</>.,,
+79,<FontYellow>La Salle du clan a atteint le niv. [Level].</>,,
+80,<FontYellow>Le cristal d'unité de la Salle du clan a atteint le niv. [param].</>,,
+81,<FontGreen>[Name]</> a effectué pour le clan une quête de salle de clan.,,
+82,<FontGreen>[Name]</> a préparé un <FontBlue>festin</> dans la Salle du clan.,@20,@20
+83,<FontYellow>[Value] reliques mystiques sont envoyées vers le stockage du clan.</>,,
+84,[NAME] a fabriqué [COUNT]x<FontGreen>[POTION_NAME]</>.,,
+85,<FontYellow>Le foyer de la Salle du clan brûle avec éclat.</>,@20,@20
+86,<FontYellow>Le foyer de la Salle du clan se réchauffe.</>,@20,@20
+87,<FontYellow>La chaleur qui émanait du foyer s'est atténuée.</>,,
+88,<FontRed>Expulsé(e)</> du clan.,,
+89,"Le Siège de forteresse a commencé !
+Entrer dans : <FontGreen>[FortressName]</> ?",@20,@20
+90,"Le Siège de château a commencé !
+Entrer dans : <FontGreen>[CastleName]</> ?",@20,@20
+91,"Emplacement : <FontGreen>[WorldName]</>
+<FontBlue>[Name]</> souhaite vous invoquer.
+Partir maintenant ? <FontRed>[Seconds]</> s",@13,@17
+92,"Vous n'êtes pas dans un groupe, les actions sont limitées.
+Vous quitterez automatiquement la faille temporelle dans 15 s.",Quitter,
+93,<FontYellow>L'objet de l'événement [EventName] a expiré.</>Il a été supprimé de l'inventaire.,,
+94,"Groupe de <FontYellow>Siège ouvert</> créé.
+Accédez au Siège ouvert <FontGreen>seul(e)</> ou avec un <FontGreen>groupe</>.",,
+95,Vous avez rejoint un groupe de <FontYellow>Siège ouvert</>.,,
+96,<FontGreen>[Name]</> a rejoint le <FontYellow>Siège ouvert</>.,,
+97,Groupe de <FontYellow>Siège ouvert</> dissous.,,
+98,A quitté le <FontYellow>Siège ouvert</>.,,
+99,<FontGreen>[Name]</> a quitté le groupe de <FontYellow>Siège ouvert</>.,,
+100,"<FontGreen>[Name]</> vous a invité(e) dans un groupe de Siège ouvert.
+Accepter l'invitation du groupe de <FontYellow>Siège ouvert</> ? <FontRed>[Seconds]</> s",@13,@15
+101,"Recherche de <FontYellow>Siège ouvert</> réussie.
+Vous accéderez au Siège ouvert dans <FontRed>[Seconds]</> s. Préparez-vous au combat.",,
+1000,Connexion en cours.,,

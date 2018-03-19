@@ -1,0 +1,830 @@
+Id,Name,Desc,Desc2
+1001,20.000 Adena,Acquisisci 20.000 Adena.,
+1002,42.000 Adena,Da usare per acquisire 40.000 Adena (+ 2.000 bonus).,
+1003,88.000 Adena,Da usare per acquisire 80.000 Adena (+ 8.000 bonus).,
+1004,184.000 Adena,Da usare per acquisire 160.000 Adena (+ 24.000 bonus).,
+1005,384.000 Adena,Da usare per acquisire 320.000 Adena (+ 64.000 bonus).,
+1006,800.000 Adena,Da usare per acquisire 640.000 Adena (+ 160.000 bonus).,
+3001,1 Scatola Equipaggiamento speciale,"Ottieni equipaggiamento (S - SR)!
+Equipaggiamenti rari possono essere acquisiti!",
+3002,Pergamena Benedetta: Arma,"Una Pergamena Benedetta: Arma.
+Da usare per potenziare un’arma di 1, 2 o 3 livelli.",
+3003,Pergamena Benedetta: Armatura,"Una Pergamena Benedetta: Armatura.
+Da usare per potenziare un’armatura di 1, 2 o 3 livelli.",
+3004,Pergamena Benedetta: Accessorio,"Una Pergamena Benedetta: Accessorio.
+Da usare per potenziare un accessorio di 1, 2 o 3 livelli.",
+3005,Protezione di Maphr,Protegge dalla perdita di qualsiasi livello di potenziamento in seguito a un potenziamento non riuscito.,
+3006,Pietra di Superamento limite grado SR,Da usare per superare il limite di un elemento dell’equipaggiamento di grado SR.,
+3007,Pietra Attributo grado S,Da usare per potenziare un Attributo di un elemento dell’equipaggiamento.,
+3008,Pietra Attributo di grado R,@3007,
+3009,Pietra Attributo di grado SR,@3007,
+3011,1 Scatola Accessorio speciale,Acquisisci Accessorio (S - SR)!,
+4001,20 Pozioni PS,Da usare per ripristinare leggermente i PS.,
+4002,-10%! 200 Pozioni PS,@4001,
+4005,20 Pozioni PM,Da usare per ripristinare leggermente i PM.,
+4006,-10%! 200 Pozioni PM,@4005,
+4009,500 Colpi d’Anima,Da usare per benedire l’arma con luce spirituale e aumentarne i danni.,
+4010,-10%! 5.000 Colpi d’Anima,@4009,
+4013,1 Megafono,Un oggetto usato per parlare nella Chat Mondiale.,
+4014,10 Megafoni,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Crocifisso del Pentimento,"Da usare per ridurre il Valore Caotico di 30.
+Puoi usare le croci 3 volte al giorno.",
+4101,50 Pergamene di Fuga,Da usare per il teletrasporto.,
+4105,Fuochi d’artificio del cielo notturno,"Fuochi d’artificio che possono illuminare il cielo notturno, anche durante il giorno.",
+4106,Fuochi d’artificio Silverlight,Fuochi d’artificio che brillano come le stelle nel cielo.,
+4107,Fuochi d’artificio della prosperità,Fuochi d’artificio che simbolizzano un desiderio di prosperità.,
+4108,Fuochi d’artificio dell’amore,Speciali fuochi d’artificio che garantiscono una proposta vincente.,
+5002,1 Equipaggiamento di grado alto,"Acquisisci equipaggiamento (A - SR)!
+Equipaggiamenti rari possono essere acquisiti!",
+5003,10 Equip. di grado alto (+1 bonus),"Acquisisci equipaggiamento (A - SR)!
+Almeno 1 elemento dell’equipaggiamento di grado S o più alto garantito!
+Equipaggiamenti rari possono essere acquisiti!",
+5014,@5002,"Acquisisci equipaggiamento (A - SR)!
+Equipaggiamenti rari e Equipaggiamenti commerciabili possono essere acquisiti!",
+5015,@5003,"Acquisisci equipaggiamento (A - SR)!
+Almeno 1 elemento dell’equipaggiamento di grado S o più alto garantito!
+Equipaggiamenti rari e Equipaggiamenti commerciabili possono essere acquisiti!",
+5101,1 Scatola di Rinforzo Arma,"Armi e Vernice Arma (grado A - SR) disponibili!
+Livello di Acquisizione Equipaggiamento Raro aumentato!
+Ottenendo Equipaggiamento Raro, possono essere acquisite solo Armi!",
+5102,10 Scatole di Rinforzo Arma (+1 bonus),@5101,
+5103,@5101,"Le Armi e le Vernici Arma (di grado A - SR) sono ora disponibili!
+Pergamena di Alchimia - Pergamena Benedetta: Arma/Armatura/Accessorio disponibili!",
+5104,@5102,"Le Armi e le Vernici Arma (di grado A - SR) sono ora disponibili!
+Pergamena di Alchimia - Pergamena Benedetta: Arma/Armatura/Accessorio disponibili!
+Acquista 7 volte per ottenere un'Arma Rossa di grado S!",
+5201,1 Scatola Rinforzo Armatura,"Armatura e Vernice Armatura (Grado A - SR) disponibili!
+Livello di Acquisizione Equipaggiamento Raro aumentato!
+Ottenendo Equipaggiamento Raro, possono essere acquisite solo Armature!",
+5202,10 Scatole di Rinforzo Armatura (+1 bonus),@5201,
+5301,10 Scatole Materiale speciale (+1 bonus),"Sono disponibili diversi materiali rinforzanti, tra cui Pergamene Benedette, Protezioni di Maphr,
+Filo del Mantello, Schegge della Follia,
+Lacrime di Trisha e Cristalli dell’Anima!",
+10001,10 Pozioni PS,@4001,
+10002,10 Pozioni PM,@4005,
+10003,250 Colpi d’Anima,@4009,
+10017,1 Scatola Equipaggiamento,Equipaggiamento fino al grado A disponibile!,
+10020,Croce del Pentimento,"Riduce il valore Caotico di un personaggio.
+Ad ogni uso, il valore Caotico si riduce di 3.
+Questo effetto può essere attivato 3 volte al giorno.",
+10029,100 Pietrestella rosse,Da usare per resettare le Segrete del Clan.,
+13000,Pergamena Quest di grado C (Liv. 20),Da usare per partecipare a una Sub-quest Grado C.,
+13001,Pergamena Quest di grado C (Liv. 30),@13000,
+13002,Pergamena Quest di grado C (Liv. 40),@13000,
+13003,Pergamena Quest di grado C (Liv. 50),@13000,
+13004,Pergamena Quest di grado C (Liv. 60),@13000,
+13005,Pergamena Quest di grado C (Liv. 75),@13000,
+13006,Pergamena Quest di grado C (Liv. 90),@13000,
+13007,Pergamena Quest di grado C (Liv. 105),@13000,
+13008,Pergamena Quest di grado C (Liv. 120),@13000,
+13009,Pergamena Quest di grado C (Liv. 135),@13000,
+13010,Pergamena Quest di grado C (Liv. 150),@13000,
+13011,Pergamena Quest di grado C (Liv. 165),@13000,
+13100,Pergamena Quest di grado A (Liv. 20),Da usare per partecipare a una Sub-quest Grado A.,
+13101,Pergamena Quest di grado A (Liv. 30),@13100,
+13102,Pergamena Quest di grado A (Liv. 40),@13100,
+13103,Pergamena Quest di grado A (Liv. 50),@13100,
+13104,Pergamena Quest di grado A (Liv. 60),@13100,
+13105,Pergamena Quest di grado A (Liv. 75),@13100,
+13106,Pergamena Quest di grado A (Liv. 90),@13100,
+13107,Pergamena Quest di grado A (Liv. 105),@13100,
+13108,Pergamena Quest di grado A (Liv. 120),@13100,
+13109,Pergamena Quest di grado A (Liv. 135),@13100,
+13110,Pergamena Quest di grado A (Liv. 150),@13100,
+13111,Pergamena Quest di grado A (Liv. 165),@13100,
+13200,Pergamena Quest di grado S (Liv. 20),Da usare per partecipare a una Sub-quest Grado S.,
+13201,Pergamena Quest di grado S (Liv. 30),@13200,
+13202,Pergamena Quest di grado S (Liv. 40),@13200,
+13203,Pergamena Quest di grado S (Liv. 50),@13200,
+13204,Pergamena Quest di grado S (Liv. 60),@13200,
+13205,Pergamena Quest di grado S (Liv. 75),@13200,
+13206,Pergamena Quest di grado S (Liv. 90),@13200,
+13207,Pergamena Quest di grado S (Liv. 105),@13200,
+13208,Pergamena Quest di grado S (Liv. 120),@13200,
+13209,Pergamena Quest di grado S (Liv. 135),@13200,
+13210,Pergamena Quest di grado S (Liv. 150),@13200,
+13211,Pergamena Quest di grado S (Liv. 165),@13200,
+30001000,60 + 60 Diamanti,"60 Diamanti blu
+60 Diamanti rossi",
+30001010,Solo una volta! 90 + 90 Diamanti,"90 Diamanti blu
+90 Diamanti rossi
+2 Topazi",
+30001020,Solo una volta! 160 + 160 Diamanti,"160 Diamanti blu
+160 Diamanti rossi
+4 Topazi",
+30001030,Solo una volta! 340 + 340 Diamanti,"340 Diamanti blu
+340 Diamanti rossi
+8 Topazi",
+30001040,80 + 80 Diamanti,"80 Diamanti blu
+80 Diamanti rossi",
+30001050,700 Diamanti (20%),"700 Diamanti blu
+16 Topazi",
+30001060,1.080 Diamanti (20%),"1.080 Diamanti blu
+25 Topazi",
+30001070,1.900 Diamanti (10%),"1.900 Diamanti blu
+45 Topazi",
+30001080,1.900 Diamanti (20%),@30001070,
+30001090,4.000 Diamanti (10%),"4.000 Diamanti blu
+100 Topazi",
+30001100,4.000 Diamanti (20%),@30001090,
+30001110,4.000 Diamanti (30%),@30001090,
+30001120,4.000 + 2.000 Diamanti,"4.000 Diamanti blu
+2.000 Diamanti rossi",
+30001130,1.080 + 540 Diamanti,"1.080 Diamanti blu
+540 Diamanti rossi",
+30001140,1.080 + 108 Diamanti,"1.080 Diamanti blu
+108 Diamanti rossi",
+30001150,1.080 + 216 Diamanti,"1.080 Diamanti blu
+216 Diamanti rossi",
+30001160,1.900 + 190 Diamanti,"1.900 Diamanti blu
+190 Diamanti rossi",
+30001170,1.900 + 380 Diamanti,"1.900 Diamanti blu
+380 Diamanti rossi",
+30001180,4.000 + 400 Diamanti,"4.000 Diamanti blu
+400 Diamanti rossi",
+30001190,4.000 + 800 Diamanti,"4.000 Diamanti blu
+800 Diamanti rossi",
+30001200,Solo una volta! 30 + 60 Diamanti,"30 Diamanti blu
+60 Diamanti rossi
+1 Topazi",
+30002000,90 Diamanti,"90 Diamanti blu
+2 Topazi",
+30002010,160 Diamanti,"160 Diamanti blu
+4 Topazi + 8 Topazi",
+30002020,340 Diamanti,"340 Diamanti blu
+8 Topazi + 16 topazi",
+30002030,700 Diamanti,"700 Diamanti blu
+16 Topazi + 32 Topazi",
+30002040,1.080 Diamanti,"1.080 Diamanti blu
+25 Topazi + 50 Topazi",
+30002050,1.900 Diamanti,"1.900 Diamanti blu
+45 Topazi + 90 Topazi",
+30002060,4.000 Diamanti,"4.000 Diamanti blu
+100 Topazi + 200 Topazi",
+30002070,60 Diamanti,"60 Diamanti blu
+1 Topazi",
+30002080,@30002010,"160 Diamanti blu
+4 Topazi",
+30002090,@30002020,"340 Diamanti blu
+8 Topazi",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Bundle Diamante giornaliero I (28 gg.),"1.200 Diamanti rossi ottenuti immediatamente!
+120 Diamanti rossi giornalieri!
++10 Topazi ogni 8 raccolte giornaliere!",Un totale di 4.560 Diamanti rossi!
+30003100,Adena giornaliero I (28 gg.),"50.000 Adena immediatamente!
+10.000 Adena giornalieri!
++ 40 Diamanti rossi ogni 8 raccolte!",Un totale di 330.000 Adena!
+30003101,Adena giornaliero II (28 gg.),"160.000 Adena immediatamente!
+30.000 Adena giornalieri!
++ 80 Diamanti rossi ogni 8 raccolte giornaliere!",Un totale di 1.000.000 Adena!
+30004000,Scatola Equip. Esclusivo Raro di grado S,Acquisisci 1 Scatola Equipaggiamento Esclusivo Raro di grado S.,
+30004001,Scatola Accessorio di grado alto,Acquisisci 1 Scatola Accessorio di grado alto.,
+30004002,Pietra di Superamento limite SR,Acquisisci 1 Pietra di Superamento Limite di grado SR.,
+30004003,Pietra Attributo R,Acquisisci 1 Pietra Attributo di grado R.,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Scatola Pergamena Benedetta casuale,Da usare per acquisire una Pergamena Benedetta casuale.,
+30004008,3 Scatole Pergamena Benedetta casuale,@30004007,
+30004100,Flauto di corno incantato del Santo d'argento,Acquisisci 1 Flauto di corno incantato del Santo d'argento.,
+30004101,Flauto di corno incantato di Kukurin,Acquisisci 1 Flauto di corno incantato di Kukurin.,
+30004102,10 Energie di Superamento Limite,Acquisisci 10 Energie di Superamento Limite.,
+30004103,10 Energie Attributo,Acquisisci 10 Energie Attributo.,
+30004104,Perg. di Alchim. - P. Attributo di gr. S,Acquisisci 1 Pergamena di Alchimia - Pietra Attributo di grado S.,
+30004105,Perg. di Alchim. - P. Attributo di gr. R,Acquisisci 1 Pergamena di Alchimia - Pietra Attributo di grado R.,
+30004106,Perg. di Alchim. - P. Attrib. di gr. SR,Acquisisci 1 Pergamena di Alchimia - Pietra Attributo di grado SR.,
+30004107,Perg. di Alchim. - P. Sup. Lim. gr. SR,Acquisisci 1 Pergamena di Alchimia - Pietra Superamento Limite di grado SR.,
+30004108,Perg. di Alchim. - Perg. Benedetta: Arma,Acquisisci 1 Pergamena di Alchimia - Pergamena Benedetta: Arma.,
+30004109,Perg. di Alchim. - P. Bened.: Armatura,Acquisisci 1 Pergamena di Alchimia - Pergamena Benedetta: Armatura.,
+30004110,Perg. di Alchim. - P. Bened.: Accessorio,Acquisisci 1 Pergamena di Alchimia - Pergamena Benedetta: Accessorio.,
+30004111,200 Framm. Pietra Evocazione Orso nero,Da combinare per formare una Pietra di Evocazione Orso nero.,
+30004112,150 Framm. Pietra Evoc. Santo d'argento,Da combinare per formare una Pietra di Evocazione Santo d'argento.,
+30004113,100 Framm. Pietra Evocazione Kukurin,Da combinare per formare una Pietra di Evocazione Kukurin.,
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Framm. Pietra Evocazione Orso nero,@30004111,
+30004120,5 Framm. Pietra Evoc. Santo d'argento,@30004112,
+30004121,5 Framm. Pietra Evocazione Kukurin,@30004113,
+30004122,Perg. di Alch. - Estratto di Elisir Att.,La formula per creare gli Estratti di Elisir Att. è in questo documento. Combina le erbe per ottenere Estratti di Elisir Att.,
+30004123,Perg. di Alch. - Estratto di Elisir Dif.,La formula per creare gli Estratti di Elisir Dif. è in questo documento. Combina le erbe per ottenere Estratti di Elisir Dif.,
+30004124,Perg. di Alch. - Estratto di Elisir PS,La formula per creare gli Estratti di Elisir PS è in questo documento. Combina le erbe per ottenere Estratti di Elisir PS.,
+30004125,Perg. di Alch. - Estratto di Elisir PM,La formula per creare gli Estratti di Elisir PM è in questo documento. Combina le erbe per ottenere Estratti di Elisir PM.,
+30004126,50 Pietre di Avanzamento,Use le Pietre di Avanzamento per rinforzare gli animali cavalcabili.,
+30004200,Scatola sel. Perg. Benedetta,Acquisisci 1 Scatola selezione Pergamena Benedetta.,
+30004201,3 Scatole selezione Pietra Upgrade,Da usare per selezionare e acquisire una Pietra Upgrade.,
+30004202,3 Scatole casuali Pietra Upgrade,Da usare per acquisire una Pietra Upgrade casuale.,
+30004203,3 Scatole selezione Estratto di Elisir,Da usare per selezionare e acquisire un Estratto di Elisir.,
+30004204,3 Scatole casuali Estratto di Elisir,Da usare per acquisire un Estratto di Elisir casuale.,
+30004205,@3005,@3005,
+30004206,10 Scatole selezione Perg. Potenziamento,Da usare per selezionare e acquisire una Pergamena di Potenziamento.,
+30004207,10 Scatole casuali Perg. Potenziamento,Da usare per acquisire una Pergamena di Potenziamento casuale.,
+30004208,10 Pergamene: Potenzia Arma,Questa pergamena potenzia le armi e aumenta le statistiche.,
+30004209,10 Pergamene: Potenzia Armatura,Questa pergamena potenzia l'armatura e aumenta le statistiche.,
+30004210,10 Pergamene: Potenzia Accessorio,Questa pergamena potenzia gli accessori e aumenta le statistiche.,
+30004211,3 Estratti di Elisir PS,Questo Estratto è usato per creare Elisir PS.,
+30004212,3 Estratti di Elisir PM,Questo Estratto è usato per creare Elisir PM.,
+30004213,3 Estratti di Elisir Att.,Questo Estratto è usato per creare Elisir Att.,
+30004214,3 Estratti di Elisir Dif.,Questo Estratto è usato per creare Elisir Dif.,
+30004215,15 Pietre Upgrade Arma,Usate per l'upgrade delle armi al grado successivo.,
+30004216,15 Pietre Upgrade Armatura,Usate per l'upgrade dell'armatura al grado successivo.,
+30004217,15 Pietre Upgrade Accessorio,Usate per l'upgrade di un accessorio al grado successivo.,
+30004218,5 Scatole selezione Vernice di Grado S,Da usare per selezionare e acquisire una Vernice di Grado S.,
+30004219,5 Scatole casuali Pietra Upgrade,@30004202,
+30004220,10 Scatole selezione Pietra Upgrade,@30004201,
+30004221,@30004220,@30004201,
+30004222,5 Scatole selezione Vernice di Grado R,Da usare per selezionare e acquisire una Vernice di Grado R.,
+30004223,5 Scatole selezione Vernice di Grado SR,Da usare per selezionare e acquisire una Vernice di Grado SR.,
+30004224,10 Pietre Upgrade Arma,@30004215,
+30004225,10 Pietre Upgrade Armatura,@30004216,
+30004226,10 Pietre Upgrade Accessorio,@30004217,
+30004227,5 Scatole selezione Pergamena di Potenziamento,@30004206,
+30004228,5 Pergamene: Potenzia Arma,@30004208,
+30004229,5 Pergamene: Potenzia Armatura,@30004209,
+30004230,5 Pergamene: Potenzia Accessorio,@30004210,
+30004231,3 Scatole sel. Perg. Benedetta,Acquisisci 3 Scatole selezione Pergamena Benedetta.,
+30004232,3 Pergamene Benedette: Arma,@3002,
+30004233,3 Pergamene Benedette: Armatura,@3003,
+30004234,3 Pergamene Benedette: Accessorio,@3004,
+30004235,@30004102,@30004102,
+30004236,20 Energia Attributo,Acquisisci 20 Energia Attributo.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Frammenti di Pietra di Evocazione Orso nero,@30004111,
+30004241,100 Frammenti di Pietra di Evocazione Santo d'argento,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 Scatole sel. Cris. dell'Anima di gr. A,Acquisisci una Scatola selezione Cristallo dell'Anima di grado A.,
+30004301,Scatola sel. Crist. dell’Anima di gr. S,Acquisisci una Scatola selezione Cristallo dell'Anima di grado S.,
+30004302,Scatola casuale Cris. Anima di gr. B-S,Acquisisci 1 Scatola casuale Cristallo dell'Anima di grado B-S.,
+30004303,Crist. dell'Anima dell'Att. di grado A,"Puoi inserire anime in armi e guanti.
+Così facendo potenzierai Att. F. e Att. M.
+Il cristallo contiene le anime dei mostri.",
+30004304,Crist. dell'Anima della Dif. di grado A,"Puoi inserire anime in protezioni per la testa e armature.
+Così facendo potenzierai Dif. F. e Dif. M.
+Il cristallo contiene le anime dei mostri.",
+30004305,Cr. dell'Anima della Penetr. di grado A,"Puoi inserire anime negli anelli.
+Il cristallo contiene le anime dei mostri.",
+30004306,Cr. dell'Anima del Recupero di grado A,"Puoi inserire anime negli orecchini.
+Il cristallo contiene le anime dei mostri.",
+30004307,Cr. dell'Anima della Precis. di grado A,"Puoi inserire anime in stivali e collane.
+Il cristallo contiene le anime dei mostri.",
+30004308,Cr. dell'Anima dell'Elusione di grado A,@30004307,
+30004309,Cris. dell'Anima di Lv. Critico di gr. A,"Puoi inserire anime in armi e guanti.
+Il cristallo contiene le anime dei mostri.",
+30004310,Cris. dell'Anima di Res. Crit. di gr. A,@30004306,
+30004311,Cristallo dell'Anima dei PS di grado A,"Puoi inserire anime in protezioni per la testa e armature.
+Il cristallo contiene le anime dei mostri.",
+30004312,3 Cris. dell'Anima dell'Att. di grado B,@30004303,
+30004313,3 Cris. dell'Anima della Dif. di grado B,@30004304,
+30004314,3 Cris. dell'Anima della Pen. di gr. B,@30004305,
+30004315,3 Cris. dell'Anima del Recup. di gr. B,@30004306,
+30004316,3 Cr. dell'Anima della Prec. di grado B,@30004307,
+30004317,3 Cris. dell'Anima dell'Elus. di grado B,@30004307,
+30004318,3 Cris. dell'Anima di Lv. Crit. di gr. B,@30004309,
+30004319,3 Cris. Anima di Res. Crit. di gr. B,@30004306,
+30004320,3 Cristalli dell'Anima dei PS di grado B,@30004311,
+30110000,Bundle Iniziale di lusso,"600 Diamanti blu
+1.000 Pozioni PS
+1.000 Pozioni PM
+5.000 Colpi d’Anima
++120 slot Inventario",
+30110001,Bundle Inventario di lusso,"1.500 Diamanti blu
+1.000 Pozioni PS
+1.000 Pozioni PM
+10.000 Colpi d’Anima
++100 slot Inventario",
+30110011,Bundle Potenziamento Abilità Rara Speciale,"500.000 Adena
+3 Scatole selezione Pagina di Pergamena Dimenticata
+3 Bundle Pergamena di Potenziamento
+500 PA
+30 Pergamene di Fuga",
+30110012,Bundle Potenziamento Abilità Rara Speciale (10%),@30110011,
+30110013,Bundle Potenziamento Abilità Rara Speciale (20%),@30110011,
+30110014,Set abilità Rare,"250.000 Adena
+2 Scatole selezione Pagina di Pergamena Dimenticata
+5 Scatole casuali Pergamena di Potenziamento
+3 Scatole PA piccole
+20 Pergamene di Fuga",
+30110015,Bundle Avventuriero junior,"600 Diamanti blu
+600 Diamanti rossi
+1 Scatola selezione Armi esclusive
+di grado S
+1.000 Frammenti di Runa",
+30110016,Bundle Avventuriero senior,"2.000 Diamanti blu
+2.000 Diamanti rossi
+1 Scatola selezione Equipaggiamento di grado R
+10 Scatole selezione Pietra Upgrade
+10 Scatole selezione Vernice di Grado S",
+30110017,Bundle Avventuriero veterano,"2.000 Diamanti blu
+2.000 Diamanti rossi
+1 Scatola selezione Accessori di grado R
+1 Pietra Attributo di grado R",
+30120005,Bundle Incisione Rune speciale,"150.000 Adena
+3.000 Frammenti di Runa",
+30120007,Bundle PA,"360 Diamanti rossi
+1 Scatola PA (500 Punti)",
+30120008,Bundle PA di grado alto,"1.200 Diamanti rossi
+100.000 Adena
+3 Scatole PA (500 PA)",
+30120009,Bundle Evocazione accessorio,"2.500 Diamanti rossi
+50 Topazi
+150.000 Adena
+3 Scatole Accessorio di grado alto",
+30120010,Bundle Elisir speciale,"20 Scatole Estratti di Elisir
+40 Bundle d’Erbe",
+30120011,Bundle Adena Speciale (Ed. Limitata),1.000.000 Adena,
+30120012,Bundle Evocazione accessorio (10%),@30120009,
+30120013,Bundle Evocazione accessorio (20%),@30120009,
+30120014,Bundle Abilità Rara,"300 Diamanti rossi
+100.000 Adena
+1 Scatola Pagina di pergamena Dimenticata casuale",
+30130000,Bundle Perg. di Potenz. di grado basso,"300 Diamanti blu
+20 Topazi
+3 Bundle Pergamena di Potenziamento",
+30130001,Bundle Perg. di Potenz. di grado alto,"1.000 Diamanti rossi
+50 Topazi
+5 Bundle Pergamena di Potenziamento
+1 Protezione di Maphr",
+30130002,Bundle Scatola sel. Pietra Upgrade spec.,"3.000 Diamanti rossi
+200.000 Adena
+40 Scatole selezione Pietra Upgrade",
+30130003,Bundle di Rinforzo Equip. grado A,"200.000 Adena
+10 Scatole selezione Vernice di Grado A",
+30130004,Bundle di Rinforzo Equip. grado S,"300.000 Adena
+5 Scatole selezione Vernic di Grado S
+10 Scatole selezione Vernice di Grado A",
+30130005,Bundle di Rinforzo Equip. grado R,"500.000 Adena
+3 Scatole selezione Vernice di Grado R
+10 Scatole selezione Vernice di Grado S",
+30130006,Bundle Pergamena Benedetta,"1.200 Diamanti rossi
+20 Topazi
+5 Scatole selezione Pergamena Benedetta
+10 Pergamene di Potenziamento",
+30130007,Bundle Cristallo dell’Anima,"1.000 Diamanti rossi
+50.000 Adena
+7 Scatole casuali Cristallo dell'Anima di grado A-S",
+30130008,Bundle Cristallo dell’Anima Premium II,"1.000 Diamanti rossi
+100.000 Adena
+3 Scatole casuali Cristallo dell'Anima di grado S-R",
+30130009,Bundle Cristallo dell’Anima Premium III,"2.000 Diamanti rossi
+200.000 Adena
+3 Scatole casuali Cristallo dell'Anima di grado S-SR",
+30130010,Bundle Scatola Armatura Rara di grado S,"120 Diamanti Rossi
+1 Scatola Armatura Rara esclusiva di grado S",
+30130011,Bundle Protezione Benedetta,"500 Diamanti blu
+500 Diamanti rossi
+5 Scatole selezione Pergamena Benedetta
+5 Protezioni di Maphr",
+30130012,Bundle Superamento Limite di grado SR,"100.000 Adena
+1 Pietra di Superamento limite di grado SR",
+30130013,Bundle Per. di Pot. di grado alto (10%),@30130001,
+30130014,Bundle speciale Pietra Upgrade 10%,@30130002,
+30130015,Bundle speciale Pietra Upgrade 20%,@30130002,
+30130016,Bundle Pergamena Benedetta 10%,@30130006,
+30130017,Bundle Scatola Equip. raro di grado S,"300 Diamanti rossi
+1 Scatola Equipaggiamento Esclusivo Raro di grado S",
+30130018,Bundle Accessorio di grado A,"300 Diamanti rossi
+1 Scatola Accessori di grado A",
+30130019,Bundle Equipaggiamento di grado S,"1 Scatola selezione Armi Esclusive di grado S
+1 Scatola selezione Armatura Esclusiva di grado S",
+30150000,Bundle di Rinforzo Cavalcatura I,"100.000 Adena
+40 Pietre di Avanzamento
+10 Vernici Equipaggiamento Cavalcatura di Grado B
+5 Pergamene di Potenziamento Cavalcatura",
+30150001,Bundle di Rinforzo Cavalcatura II,"150.000 Adena
+80 Pietre di Avanzamento
+10 Vernici Equipaggiamento Cavalcatura di Grado A
+5 Pergamene di Potenziamento Cavalcatura",
+30150002,Bundle di Rinforzo Cavalcatura III,"300.000 Adena
+120 Pietre di Avanzamento
+10 Vernici Equipaggiamento Cavalcatura di Grado S
+10 Pergamene di Potenziamento Cavalcatura",
+30150003,Bundle Evocazione Santo d'argento,"1.000 Diamanti blu
+1 Flauto di corno incantato del Santo d'argento
+1 Pietra di evocazione Santo d'argento
+40 Pietre di avanzamento
+5 Pergamene Potenziamento Cavalcatura",
+30150004,Bundle Evocazione Kukurin,"1.500 Diamanti blu
+1 Flauto di corno incantato di Kukurin
+1 Pietra di evocazione Kukurin
+40 Pietre di avanzamento
+5 Pergamene Potenziamento Cavalcatura",
+30160000,Diamante Rinforzante I,"Acquisisci all’istante fino a 1.500 Diam. rossi e 1 Scat. Evo. Arma Es. grado A! 
+Ricevi fino a 8.500 Diam. rossi, 1 Scat. Armat. Esclusiva grado A e 1 Scat. selezione Cristallo Anima grado C-B!",
+30160001,Diamante Rinforzante II,"Acquisisci all’istante fino a 1.500 Diam. rossi e 1 Scat. Evo. Arma Es. grado S! 
+Ricevi fino a 8.500 Diam. rossi, 1 Scat. Armat. Esclusiva grado S e 1 Scat. Selezione Cristallo Anima grado B-A!",
+30160002,Diamante Rinforzante III,"È possibile acquisire all’istante fino a 1.500 Diamanti rossi e una Pietra Attributo di grado S! 
+Ricevi fino a 8.500 Diamanti rossi, una Scatola selezione Cristallo dell’Anima di grado A e/o una Pietra Attributo di grado S!",
+30170000,Storia I,"Ottieni 1.000 Diamanti rossi subito e una ricompensa ogni volta che completi una storia precedente alla Storia di Dion!
+Otterrai ricompense anche per storie completate prima del tuo acquisto!",
+30170001,Storia II,"Ottieni subito 2.000 Diamanti rossi + Protezione di Maphr e una ricompensa ogni volta che completi una storia precedente alla Storia di Giran!
+Otterrai ricompense anche per le storie completate prima del tuo acquisto!",
+39005000,1 Scatola Materiale Rinf. (gr. alto),"Disponibili vari materiali di Rinforzo
+come Vernici, Pergamena di Potenziamento, Materiali per Elisir e Protezione di Maphr!",
+39005001,10 Scatole Mat. Rin. gr. alto (+1 bonus),@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"Disponibili vari materiali di Rinforzo
+come Finiture, Pergamena di Potenziamento, Materiali per Elisir e Protezione di Maphr!
+100% sicuro di acquisire una Vernice di Grado R o superiore!",
+39005004,1 Scatola Materiale Cavalcatura,"Puoi acquisire Equipaggiamento Cavalcatura, 
+Pietra di Avanzamento, 
+Pietra di Evocazione, 
+Pergamena di Potenziamento Equipaggiamento Cavalcatura!",
+39005005,10 Scatole Mat. Cavalcatura (+1 bonus),@39005004,
+39005010,1 Scatola Materiale Cavalcatura di grado alto,"Flauto di corno Cavalcatura, Frammento di Pietra di Evocazione,
+Equipaggiamento Cavalcatura, Pergamena di Potenziamento Cavalcatura e Pietra di avanzamento disponibili!
+(Sono inclusi Flauto di corno del Leone con criniera, Pietra di Evocazione e Frammento di Pietra di Evocazione)",
+39005011,10 Scatole Mat. Cavalc. di grado alto (+1 bonus),@39005010,
+30014000,Scatola selez. Completamento automatico,Da usare per selezionare e acquisire 1 biglietto Completamento automatico.,
+30014001,@10029,@10029,
+30014002,10 PA,Questi punti sono usati per migliorare le abilità.,
+30014003,5 Frammenti di Protezione di Maphr,Combina i frammenti per acquisire la Protezione di Maphr.,
+30014004,Scatola selezione Perg. di Potenziamento,Acquisisci 1 Scatola selezione Pergamena di Potenziamento.,
+30014005,Scatola Pietra di Evocazione Mostro Raro,Da usare per acquisire Pietre di Evocazione Mostro Raro casuali.,
+30014006,10 Scatole Fram. di Pietra evocaz. Boss,Da usare per acquisire Frammenti di Pietra di Evocazione Mostro casuali.,
+30014007,Scatola selez. Estratto di Elisir,Da usare per selezionare e acquisire 1 Estratto di Elisir.,
+30014008,Scatola Vernice di Grado C - A,Acquisisci 1 Scatola di Vernice di Grado C - A.,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,(Evento) 340 Diamanti,"340 Diamanti blu
+5 Scatole selezione Vernice di Grado A",
+38000001,@30001050,"700 Diamanti blu
+Scatola selezione Pergamena di Potenziamento x10",
+38000002,@30001060,"1.080 Diamanti
+10 Scatole selez. Pietra Upgrade",
+38000003,@30001110,"4.000 Diamanti
+30 Scatola selez. Pietra Upgrade",
+30130020,Bundle Rinforzo Equipaggiamento Grado R commemorativo dell’aggiornamento dell’Assedio aperto,"200.000 Adena
+2 Scatole selezione Vernice di Grado R
+5 Scatole selezione Vernice di Grado S",
+30130021,Bundle Potenziamento commemorativo dell’aggiornamento dell’Assedio aperto,"1.000 Diamanti rossi
+50 Topazi
+5 Bundle Pergamena di Potenziamento
+3 Protezione di Maphr",
+30110018,Pacchetto Rango 1,Il Pacchetto Rango 1 è stato acquistato.,
+30110019,Pacchetto Rango 2,Il Pacchetto Rango 2 è stato acquistato.,
+30110020,Pacchetto Rango 3,Il Pacchetto Rango 3 è stato acquistato.,
+30110021,Pacchetto Rango 5,Il Pacchetto Rango 5 è stato acquistato.,
+30110022,Pacchetto Rango 10,Il Pacchetto Rango 10 è stato acquistato.,
+30110023,Pacchetto Rango 16,Il Pacchetto Rango 16 è stato acquistato.,
+30110024,Pacchetto Rango 20,Il Pacchetto Rango 20 è stato acquistato.,
+30110025,Pacchetto Rango 24,Il Pacchetto Rango 24 è stato acquistato.,
+30110026,Pacchetto Rango 30,Il Pacchetto Rango 30 è stato acquistato.,
+30110027,Pacchetto Rango 40,Il Pacchetto Rango 40 è stato acquistato.,
+30110028,Pacchetto Rango 45,Il Pacchetto Rango 45 è stato acquistato.,
+30110029,Pacchetto Rango 50,Il Pacchetto Rango 50 è stato acquistato.,
+30110030,Pacchetto Rango 54,Il Pacchetto Rango 54 è stato acquistato.,
+30110031,Pacchetto Rango 56,Il Pacchetto Rango 56 è stato acquistato.,
+30110032,Pacchetto Rango 58,Il Pacchetto Rango 58 è stato acquistato.,
+30110033,Pacchetto Rango 60,Il Pacchetto Rango 60 è stato acquistato.,
+5022,10 Scatole Rinforzanti di grado Alto (+ 1 Bonus),"Disponibili vari materiali di Rinforzo
+come Cristalli dell'Anima, Pergamene benedette, Essenze per Elisir e Protezioni di Maphr!
+Acquisisci diversi materiali di Rinforzo!",
+6002,Pietra Upgrade Arma,"Un oggetto usato per
+effettuare l’upgrade di un’arma.",
+6003,Pietra Upgrade Armatura,"Un oggetto usato per
+effettuare l’upgrade di un pezzo di armatura.",
+6004,Pietra Upgrade Accessorio,"Un oggetto usato per
+effettuare l’upgrade di un accessorio.",
+6005,Pergamena: Potenzia Arma,"Una pergamena usata per
+potenziare un’arma.",
+6006,Pergamena: Potenzia Armatura,"Una pergamena usata per
+potenziare un pezzo di armatura.",
+6007,Pergamena: Potenzia Accessorio,"Una pergamena usata per
+potenziare un accessorio.",
+6008,@3005,@3005,
+6015,Scatola sel. Piet. Evoc. Boss del gruppo,"Da usare per selezionare e acquisire
+una Pietra di Evocazione Boss.",
+6020,1 Scatola Arma speciale,"Acquisisci un’arma (S - SR)!
+Equipaggiamenti rari possono essere acquisiti!",
+6021,1 Scatola Armatura speciale,"Acquisisci un pezzo di armatura (S - SR)!
+Equipaggiamenti rari possono essere acquisiti!",
+6022,1 Scatola Avanzamento speciale,"Equipaggiamento (R - SR) o Equipaggiamento (S - SR) Raro
+disponibile!",
+8002,Diamante d’accesso,"Acquisisci 600 Diamanti rossi immediatamente!
+Acquisisci un totale di 2.000 Diamanti rossi e ricevi Rune, Erbe e Pergamene ogni giorno!",
+30004243,Benedizione di Einhasad (+200%),Da usare per aumentare l’Esp. di Caccia sul Campo e l’Esp. Estrazione ottenuta del 200%. (1 ora),
+30004244,1500 Colpi d’Anima,@4009,
+30004245,@10029,@10029,
+30004246,5 Pergamene di Fuga,@4101,
+30004247,15 Megafoni,@4013,
+30004248,50 Pane appena sfornato,Da usare nella Sala del Clan durante la preparazione di feste.,
+30004249,50 Verdure fresche,@30004248,
+30004250,50 Carne succosa,@30004248,
+30004251,Essenza di Barba d’argento,"Essenza di Mostro contenente energia di Barba d’argento.
+Registrati sul Codex dei Mostri per aumentare le statistiche.",
+30004252,Scatola PA piccola,"Questa piccola scatola contiene PA.
+Usala per acquisire 100 PA.",
+30004253,Scatola Pergamena della Quest Grado S,Da usare per acquisire Pergamena della Quest di g. S.,
+30004254,20 Pozioni PS superiori,Da usare per ripristinare una grande quantità di PS.,
+30004255,20 Pozioni PM superiori,Da usare per ripristinare una grande quantità di PM.,
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Bundle d’Erbe,"Questa scatola contiene erbe necessarie per creare elisir.
+Da usare per acquisire un’erba di ogni tipo.",
+30004263,Scatola casuale Cris. Anima di gr. A-S,Acquisisci 1 Scatola casuale Cristallo dell'Anima di grado A-S.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Perg. Potenz. Equip. Cavalcatura,Questa pergamena potenzia Equipaggiamento Cavalcatura e aumenta le statistiche.,
+30004270,Scatola selezione Accessori di grado S,Da usare per selezionare e acquisire un Accessorio di grado S dalla lista.,
+30004271,Scatola selezione di Pagine di pergamena Dimenticata,Da usare per selezionare e acquisire una Pagina di pergamena Dimenticata dalla lista.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Bundle di Rinforzo festivo,"<Gli oggetti qui sotto sono disponibili!>
+500.000 Adena
+5 Scatole selezione Finitura di grado R
+2 Scatole selezione Finitura di grado SR
+15 Scatole selezione Pietra Upgrade",
+30004275,Bundle speciale Adena 2018,"Tenetevi forte!
+2.018.000 Adena!",
+30005015,Solo una volta! 10 Equip. di grado alto (+1 grado R),"Acquisisci equipaggiamento (A - SR)!
+Almeno 1 elemento dell’equipaggiamento di grado R o più alto garantito!",
+30005016,Scatola per equipaggiamento raro per le vacanze,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 Pozioni PS superiori,Da usare per ripristinare una grande quantità di PS.,
+30004282,100 Pozioni PM superiori,Da usare per ripristinare una grande quantità di PM.,
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,10 Scatole di Raccolta Arma Rara (+1 bonus),"[Solo per un periodo limitato]
+Ottieni un Equipaggiamento 【Grado A - SR】casuale
+Con 1.200 Diamanti blu!
+Maggiore probabilità che appaia un’Arma Rara!",
+39005007,10 Scatole di Raccolta Armatura Rara (+1 bonus),"[Solo per un periodo limitato]
+Ottieni un Equipaggiamento 【Grado A - SR】casuale
+Con 1.200 Diamanti blu!
+Maggiore probabilità che appaia un’Armatura Rara!",
+39005008,10 Scatole di Raccolta Equipaggiamento Attributo del boss (+1),"[Solo per un periodo limitato] Possibilità di acquisto di un’Arma e Armatura [Grado A - SR]!
+Equipaggiamento con Attributi utili contro i boss!",
+39005009,10 Scatole di Raccolta Equipaggiamento Attributo d’élite (+1),"[Solo per un periodo limitato] Possibilità di acquisto di un’Arma e Armatura [Grado A - SR]!
+Equipaggiamento con Attributi utili contro i Mostri élite!",
+39009000,@30110015,"1.000 Diamanti blu
+1 Scatola Armatura Rara esclusiva di grado S
+1.000 Frammenti di Runa
+[Livello richiesto per l’acquisto: 16]",
+39009001,@30110016,"3.500 Diamanti rossi
+1 Scatola selezione di Equipaggiamento esclusivo di grado R
+1 Pietra Attributo di grado SR
+[Livello richiesto per l’acquisto: 44]",
+39009002,@30110017,"3.500 Diamanti rossi
+1 Scatola selezione Accessori di grado R
+1 Pietra di Superamento Limite di grado SR
+[Livello richiesto per l’acquisto: 73]",
+39009003,Bundle Avventuriero Élite,"2.000 Diamanti rossi
+1 Pietra Attributo di grado SR
+3 Protezioni di Maphr
+[Livello richiesto per l’acquisto: 121]",
+39009004,Bundle dell’Avventuriero Noblesse,"2.000 Diamanti rossi
+200.000 Adena
+1 Pietra di Superamento Limite di grado SR
+1 Pietra Attributo di grado SR
+[Livello richiesto per l’acquisto: 151]",
+39009005,Bundle light Pietra Upgrade,"250 Diamanti rossi
+25.000 Adena
+4 Scatole selezione Pietra Upgrade",
+39009006,Bundle Pietra Upgrade,"1.500 Diamanti rossi
+100.000 Adena
+20 Scatole selezione Pietra Upgrade",
+39009007,Bundle Pietra Upgrade Speciale,"3.300 Diamanti rossi
+250.000 Adena
+40 Scatole selezione Pietra Upgrade",
+39009008,Bundle potenziamento,"4 Pergamene Potenziamento: Arma
+4 Pergamene Potenziamento: Armatura
+4 Pergamene Potenziamento: Accessorio
+1 Protezione di Maphr
+15 Topazi",
+39009009,Bundle Potenziamento Speciale,"15 Pergamene Potenziamento: Arma
+15 Pergamene Potenziamento: Armatura
+15 Pergamene Potenziamento: Accessorio
+3 Protezioni di Maphr
+50 Topazi",
+39009010,Bundle light Pergamena Benedetta,"150 Diamanti rossi
+1 Pergamena Benedetta: Scatola selezione Potenziamento
+20 Frammenti di Protezione di Maphr",
+39009011,Bundle Pergamena Benedetta,"1.000 Diamanti rossi
+20 Topazi
+5 Pergamene Benedette: Scatole selezione Potenziamento
+1 Protezione di Maphr",
+39009012,Bundle Pergamena Benedetta Speciale,"2.000 Diamanti rossi
+50 Topazi
+10 Pergamene Benedette: Scatole selezione potenziamento
+2 Protezioni di Maphr",
+39009013,Bundle potenziamento Cavalcatura,"300.000 Adena
+120 Pietre Avanzamento
+10 Scatole Vernice Equipaggiamento Cavalcatura di grado S
+10 Pergamene Potenziamento Cavalcatura",
+30004325,Bundle light Potenziamento,"50.000 Adena
+4 Pergamene di Potenziamento: Arma
+4 Pergamene di Potenziamento: Armatura
+4 Pergamene di Potenziamento: Accessorio
+20 Frammenti di Protezione di Maphr",
+30004326,Pergamena di Alchimia - Pergamena Benedetta: Arma,@30004108,
+30004327,Pergamena di Alchimia - Perg. Benedetta: Armatura,@30004109,
+30004328,Pergamena di Alchimia - Perg. Benedetta: Accessorio,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,Scatola selezione Vernice di grado S,@30004218,
+30004334,Scatola selezione Vernice di grado R,@30004222,
+30004335,Scatola selezione Vernice di grado SR,@30004223,
+30004336,Scatola selezione Pietra Upgrade,@30004201,
+30004337,Scatola selezione Pergamena Potenziamento,@30004206,
+30004338,@3005,@3005,
+30004339,Energia Attributo,Acquisisci una Energia Attributo.,
+30004340,Energia di Superamento Limite,Acquisisci una Energia di Superamento Limite.,
+30004341,Bundle light Cristallo dell’Anima,"100.000 Adena
+3 Scatole casuali Cristallo dell'Anima di grado A",
+30004342,2 Cristalli dell'Anima dell'Attacco di grado B,@30004303,
+30004343,2 Cristalli dell'Anima della Difesa di grado B,@30004304,
+30004344,2 Cristalli dell'Anima della Precisione di grado B,@30004307,
+30004345,2 Cristalli dell'Anima dell'Elusione di grado B,@30004307,
+30004346,2 Cristalli dell'Anima di Livello Critico di grado B,@30004309,
+30004347,2 Cristalli dell'Anima di Resistenza Critica di grado B,@30004306,
+30004348,2 Cristalli dell'Anima dei PS di grado B,@30004311,
+30004349,Bundle light di Rinforzo Cavalcatura,"50.000 Adena
+25 Pietre di Avanzamento
+2 Vernici Equipaggiamento Cavalcatura di grado S
+2 Pergamene Potenziamento Cavalcatura",
+30004350,10 Frammenti di Pietra di evocazione Orso nero,@30004111,
+30004351,10 Frammenti di Pietra di evocazione Santo d'argento,@30004112,
+30004352,10 Frammenti di Pietra di evocazione Kukurin,@30004113,
+30004353,10 Pietre di Avanzamento,@30004126,
+30004354,Visiera d’Acciaio di grado A,Una visiera molto resistente per cavalcature.,
+30004355,Sella d’Acciaio di grado A,Una sella molto resistente per cavalcature.,
+30004356,Armatura d’Acciaio di grado A,Un’armatura molto resistente per cavalcature.,
+30004357,Stivali d’Acciaio di grado A,Degli stivali molto resistenti per cavalcature.,
+30004358,500 Frammenti di Runa,Acquisisci 500 Frammenti di Runa.,
+39009014,@39009010,"200 Diamanti rossi
+50.000 Adena
+1 Pergamena Benedetta: Scatola selezione potenziamento
+5 Scatole selezione Pergamena di Potenziamento",
+39006001,Bundle festeggiamento 100 Giorni della Rivoluzione I,"50 Diamanti rossi
+500 Colpi d’anima
+50 Pozioni PS
+50 Pozioni PM
+5 Scatole casuali Pietra Upgrade",
+39006002,Bundle festeggiamento 100 Giorni della Rivoluzione II,"100 Diamanti blu
+100 Pietrestella rosse
+100 Pozioni PS
+100 Pozioni PM
+Scatola Armatura Rara esclusiva di grado S",
+39006101,Scatola selezione Arma Rara festeggiamento 100 Giorni,Da usare per selezionare Arma/i rara/e di grado S.,
+39006102,@3008,@3007,
+39006003,Bundle speciale limitato Leone con criniera,"1 Pietra di Evocazione Leone con criniera
+1 Pietra di Evocazione Flauto di corno del Leone con criniera
+500 Pietre di avanzamento
+10 Pergamene Potenziamento Cavalcatura
+500.000 Adena",
+39006004,Bundle speciale limitato Rinforzo della Sorgente,"100 Diamanti rossi
+1 Vernice Armatura bianco puro di grado SR
+1 Vernice Arma bianco puro di grado SR",
+3016,Pietra di Evocazione Leone con criniera,1 Pietra di Evocazione Leone con criniera,
+30150005,Bundle speciale Potenziamento Cavalcatura,"1.000 Diamanti rossi
+200 Pietre di avanzamento
+20 Scatole Vernice Equipaggiamento Cavalcatura di grado S
+20 Pergamene Potenziamento Cavalcatura
+1 Scatola selezione Pietre di Evocazione Cavalcatura",
+30130022,Bundle speciale Cristallo dell’Anima,"2.000 Diamanti rossi
+200.000 Adena
+2 Scatole selezione Cristalli dell’Anima di grado S
+10 Scatole casuali Cristalli dell’Anima di grado S - SR",
+39006103,Scatola sel. Armatura rara festegg. 100 Giorni,@39006101,
+30004359,@30004341,"200 Diamanti rossi
+2 Scatole selezione Cristallo dell’Anima di grado A",
+38000100,Carta Regalo ricompensa A,"400 Diamanti rossi
+150.000 Adena
+3 Scatole casuali Pergamena di Potenziamento",
+38000200,Carta Regalo Ricompensa B,"800 Diamanti rossi
+500.000 Adena
+10 Scatole casuali Pergamena di Potenziamento",
+9667,Vantaggi Quest giornaliera (28 Giorni),"1. Funzionalità Pergamene della Quest automatiche
+2. Funzionalità Quest settimanali automatiche
+3. 3 Scatole Pergamena della Quest di grado S consegnate quotidianamente
+4. 1.200 Diamanti rossi su acquisto",
+9668,Vantaggi Caccia giornaliera (28 Giorni),"1. Funzionalità vendita automatica Oggetto dell’Inventario
+2. Rilascio oggetti Buff +20%
+3. Guadagni di Adena Buff +20%
+4. 1 Completamento automatico della Segreta consegnato quotidianamente
+5. 20 Punti Lealtà consegnati quotidianamente
+6. 1.200 Diamanti rossi su acquisto",
+30180001,Bundle di supporto Abilità del Clan,"[Ricompensa Individuale]
+1.500 [Diamanti Rossi]
+[Scatola Pagina di pergamena dimenticata casuale]
+[Scatola Selezione di pagine di pergamena dimenticata]
+[Ricompensa Membro del Clan]
+1 [Pacchetto compresso Colpo d’Anima]
+10 [PA]
+10 [Pozioni PS superiori]",
+30180002,Bundle di supporto rinforzante Clan,"Ricompensa individuale:
+2.000 [Diamanti rossi]
+5 [Scatole selezione Pergamena Benedetta]
+3 [Protezioni di Maphr]
+Ricompensa Membro del Clan:
+2 [Scatola selezione Pergamena di Potenziamento]
+5 [Frammenti di Protezione di Maphr]",
+30150006,Bundle Leone con la criniera,"1 [Pietra di evocazione Leone con la criniera]
+1 [Flauto di corno Leone con la criniera]
+300 [Pietre di Avanzamento]
+10 [Pergamene di Potenziamento Cavalcatura]
+200.000 [Adena]",
+39006005,Bundle speciale Armatura rossa Rara,"1 [Scatola selezione Armatura di Aegis di grado SR]
+5 [Vernici Armatura di grado SR]
+300.000 [Adena]
+5 [Pergamene Benedette: Armatura]",
+39006006,Bundle Armatura della pazienza,"1 [Scatola selezione Armatura di Aegis di grado SR]
+1 [Pietra Attributo di grado R]
+100.000 [Adena]
+2 [Pergamene Benedette: Armatura]",
+39006007,Bundle Armatura della protezione,"1 [Scatola selezione Armatura di Aegis di grado SR]
+1 [Pietra Attributo di grado R]
+100.000 [Adena]
+2 [Pergamene Benedette: Armatura]",
+30130023,Bundle Spilla del Mantello del Ranger di Sangue,"1 [Spilla del Mantello del Ranger di Sangue]
+100 [Fili del Mantello]",
+30130024,Bundle Spilla del Mantello del Giardino,"1 [Spilla del Mantello del Giardino]
+30 [Fili del Mantello]",
+30130025,Bundle speciale Protezione di Maphr,"10 [Protezioni di Maphr]
+10 [Bundle Pergamena di Potenziamento]
+30 [Topazi]",
+30130026,Bundle rinforzante Mantello,"100.000 [Adena]
+50 [Fili del Mantello]
+5 [Schegge della Follia]
+5 [Lacrime di Trisha]
+10 [Topazio]",
+30130027,Bundle speciale rinforzante Mantello,"200 [Fili del Mantello]
+40 [Schegge della Follia]
+40 [Lacrime di Trisha]",
+30004360,Bundle leggero rinforzante Mantello,"2 [Scatole selezione Materiali di rinforzo Mantello]
+50.000 [Adena]",
+30004361,Filo del Mantello,Materiale necessario per aumentare il livello dei mantelli.,
+30004362,Scheggia della Follia,Materiale necessario per aumentare il livello del Mantello della Distruzione rossa. Usa 1.000 Schegge della Follia per creare una Spilla del Mantello della Distruzione rossa.,
+30004363,Lacrima di Trisha,Materiale necessario per aumentare il livello del Mantello del Sangue virtuoso. Usa 1.000 Lacrime di Trisha per creare una Spilla del Mantello del Sangue virtuoso.,
+30004364,Tessuto magico,Materiale necessario per modificare le sottostatistiche.,
+30004365,Tessuto magico della Distruzione,Materiale necessario per modificare le sottostatistiche del Mantello della Distruzione rossa.,
+30004366,Tessuto magico del Sangue virtuoso,Materiale necessario per modificare le sottostatistiche del Mantello del Sangue virtuoso.,
+30004367,Ago magico,Materiale necessario per mantenere le sottostatistiche.,
+3017,20 Schegge della Follia,@30004362,
+3018,20 Lacrime di Trisha,@30004363,
+6023,80 Fili del Mantello,@30004361,
+39006008,Bundle Diamanti Rossi,4.000 Diamanti Rossi,
+39006009,Aggiornamento del Bundle Speciale da Festeggiamento,"10 [Aggiornamenti della Borsa Speciale da Festeggiamento]
+(Usa per acquisire in maniera casuale 1-10 Protezioni di Maphr o Pergamene Benedette.)
+1.000 Diamanti blu",
+39006010,Aggiornamento della Borsa Speciale da Festeggiamento,"1 [Aggiornamento della Borsa Speciale da Festeggiamento]
+(Usa per acquisire in maniera casuale 1-10 Protezioni di Maphr o Pergamene Benedette.)",
+39006011,Bundle Armatura Rossa Rara,"1 [Scatola selezione Armatura di Aegis di grado SR]
+1 [Vernice Armatura di grado SR]
+100.000 Adena
+1 [Pergamena Benedetta: Armatura]",
+30014013,Scatola selezione Vernice Equipaggiamento di grado S,Da usare per selezionare e acquisire una Vernice di grado S.,
+30014014,Bundle Pergamena di Potenziamento,"Questa scatola contiene Pergamene di Potenziamento.
+Da usare per acquisire una Pergamena di Potenziamento di ogni tipo.",
+30014015,@3005,"La protezione di Maphr, dea della terra, risiede in questa gemma.
+Quest’oggetto protegge il livello di potenziamento del tuo equipaggiamento dal calare vertiginosamente in caso di un potenziamento non riuscito.",
+30014016,Scatola di selezione pietre evocazione Boss,Da usare per selezionare e acquisire una Pietra di Evocazione Boss.,
+30014017,50 Fili del Mantello,@30004361,
+30014018,@30004367,@30004364,
+30014019,Scatola sel. Perg. Benedetta,Da usare per selezionare e acquisire uno dei seguenti: Pergamena Benedetta:   Accessorio.,
+30014020,@3008,@3007,
+30130028,Bundle Armatura Rara Blu di grado S,@30130010,

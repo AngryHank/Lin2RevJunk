@@ -1,0 +1,347 @@
+Index,Id,Type,Operation,Parameter,StartAttack,FireOnFinish
+1,10112,Sequence,Wait,Section:Start,1,0
+2,10112,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+3,11113,Sequence,Wait,Section:Start,1,0
+4,11113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+5,12113,Sequence,Wait,Section:Start,1,0
+6,12113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+7,13113,Sequence,Wait,Section:Start,1,0
+8,13113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+9,14113,Sequence,Wait,Section:Start,1,0
+10,14113,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+11,10122,Group,Collision,Name:Ghost,0,0
+12,10122,Group,HitState,,0,0
+13,10122,Sequence,Wait,Section:Start,1,0
+14,10122,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+15,11123,Group,Collision,Name:Ghost,0,0
+16,11123,Group,HitState,,0,0
+17,11123,Sequence,Wait,Section:Start,1,0
+18,11123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+19,12123,Group,Collision,Name:Ghost,0,0
+20,12123,Group,HitState,,0,0
+21,12123,Sequence,Wait,Section:Start,1,0
+22,12123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+23,13123,Group,Collision,Name:Ghost,0,0
+24,13123,Group,HitState,,0,0
+25,13123,Sequence,Wait,Section:Start,1,0
+26,13123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+27,14123,Group,Collision,Name:Ghost,0,0
+28,14123,Group,HitState,,0,0
+29,14123,Sequence,Wait,Section:Start,1,0
+30,14123,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+31,14231,Group,Collision,Name:Ghost,0,0
+32,14231,Group,HitState,,0,0
+33,14231,Sequence,Fade,"Type:Out, Time:0.6",0,0
+34,14231,Sequence,Wait,Section:Start,1,0
+35,14231,Sequence,Fade,"Type:In, Time:0.4",0,0
+36,14231,Sequence,PiercingMove,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+37,11232,Sequence,Fade,"Type:Out, Time:0.6",1,0
+38,11232,Sequence,Wait,Time:0.65,0,0
+39,11232,Sequence,Fade,"Type:In, Time:0.1",0,0
+40,11232,Sequence,Teleport,Rear,0,0
+41,13212,Group,Shift,"Dist:5, Duration:0.3",1,0
+42,14222,Sequence,Wait,Section:Start,1,0
+43,14222,Sequence,Jump,"Dist:5, Duration:0.5, Height:5, RatioA:0.4, RatioB:0.6",0,1
+44,13222,Sequence,Wait,Section:Start,1,0
+45,13222,Sequence,Channeling,"Type:Move, MoveSpeed:500, Tick:1.0",0,0
+46,13251,Sequence,Wait,Section:Start,1,0
+47,13251,Sequence,Channeling,"Type:Rotate, RotateSpeed:500, Tick:1.0",0,0
+48,60110,Sequence,Wait,Section:Start,1,0
+49,60110,Sequence,Channeling,"Type:Move, MoveSpeed:500, Tick:1.0",0,0
+50,74052,Group,Shift,"Dist:5, Duration:0.3",1,0
+51,74112,Sequence,Wait,Section:Start,1,0
+52,74112,Sequence,Move,"Type:Direct, Dist:10, Speed:20, Acc:100",0,1
+53,74132,Sequence,Wait,Section:Start,1,0
+54,74132,Sequence,Move,"Type:Direct, Dist:10, Speed:20, Acc:100",0,1
+55,200016,Group,Attach,,0,0
+56,72034,Sequence,Wait,Section:Start,1,0
+57,72034,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+58,74135,Sequence,Wait,Section:Start,1,0
+59,74135,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+60,60127,Sequence,Wait,Section:Start,1,0
+61,60127,Sequence,Move,"Type:Direct, Dist:5, Speed:20, Acc:20",0,1
+62,74114,Sequence,Fade,"Type:Out, Time:0.7",1,0
+63,74114,Sequence,Wait,Time:0.7,0,0
+64,74114,Sequence,Fade,"Type:In, Time:0.0",0,0
+65,74114,Sequence,Teleport,Front,0,1
+66,401036,Sequence,Fade,"Type:In, Time:0.5",1,0
+67,401036,Sequence,Teleport,Rear,0,0
+68,401036,Sequence,Fade,"Type:Out, Time:0.5",0,1
+69,401204,Sequence,Fade,"Type:Out, Time:0.7",1,0
+70,401204,Sequence,Teleport,Rear,0,0
+71,401204,Sequence,Fade,"Type:In, Time:0.7",0,1
+72,401207,Sequence,Fade,"Type:Out, Time:0.7",1,0
+73,401207,Sequence,Teleport,Rear,0,0
+74,401207,Sequence,Fade,"Type:In, Time:0.7",0,1
+75,401216,Sequence,Fade,"Type:Out, Time:0.7",1,0
+76,401216,Sequence,Teleport,Rear,0,0
+77,401216,Sequence,Fade,"Type:In, Time:0.7",0,1
+78,73025,Sequence,Fade,"Type:In, Time:0.7",1,0
+79,73025,Sequence,Teleport,Rear,0,0
+80,73025,Sequence,Fade,"Type:Out, Time:0.7",0,1
+400201371,40020137,Group,Shift,"Dist:30, Duration:0.3",1,0
+400201381,40020138,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201382,40020138,Sequence,Teleport,Rear,0,0
+400201383,40020138,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201451,40020145,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201452,40020145,Sequence,Teleport,Rear,0,0
+400201453,40020145,Sequence,Fade,"Type:In, Time:0.7",0,1
+400201791,40020179,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201792,40020179,Sequence,Teleport,Rear,0,0
+400201793,40020179,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201801,40020180,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201802,40020180,Sequence,Teleport,Rear,0,0
+400201803,40020180,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201811,40020181,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201812,40020181,Sequence,Teleport,Rear,0,0
+400201813,40020181,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201821,40020182,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201822,40020182,Sequence,Teleport,Rear,0,0
+400201823,40020182,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201831,40020183,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201832,40020183,Sequence,Teleport,Rear,0,0
+400201833,40020183,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201841,40020184,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201842,40020184,Sequence,Teleport,Rear,0,0
+400201843,40020184,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201851,40020185,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201852,40020185,Sequence,Teleport,Rear,0,0
+400201853,40020185,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201861,40020186,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201862,40020186,Sequence,Teleport,Rear,0,0
+400201863,40020186,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201871,40020187,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201872,40020187,Sequence,Teleport,Rear,0,0
+400201873,40020187,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201881,40020188,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201882,40020188,Sequence,Teleport,Rear,0,0
+400201883,40020188,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201891,40020189,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201892,40020189,Sequence,Teleport,Rear,0,0
+400201893,40020189,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201901,40020190,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201902,40020190,Sequence,Teleport,Rear,0,0
+400201903,40020190,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201911,40020191,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201912,40020191,Sequence,Teleport,Rear,0,0
+400201913,40020191,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201921,40020192,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201922,40020192,Sequence,Teleport,Rear,0,0
+400201923,40020192,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201931,40020193,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201932,40020193,Sequence,Teleport,Rear,0,0
+400201933,40020193,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201941,40020194,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201942,40020194,Sequence,Teleport,Rear,0,0
+400201943,40020194,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201951,40020195,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201952,40020195,Sequence,Teleport,Rear,0,0
+400201953,40020195,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201961,40020196,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201962,40020196,Sequence,Teleport,Rear,0,0
+400201963,40020196,Sequence,Fade,"Type:In, Time:0.1",0,1
+400201981,40020198,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400201982,40020198,Sequence,Teleport,Rear,0,0
+400201983,40020198,Sequence,Fade,"Type:In, Time:0.7",0,1
+400202371,40020237,Group,Shift,"Dist:30, Duration:0.3",1,0
+400202381,40020238,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202382,40020238,Sequence,Teleport,Rear,0,0
+400202383,40020238,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202451,40020245,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202452,40020245,Sequence,Teleport,Rear,0,0
+400202453,40020245,Sequence,Fade,"Type:In, Time:0.7",0,1
+400202791,40020279,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202792,40020279,Sequence,Teleport,Rear,0,0
+400202793,40020279,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202801,40020280,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202802,40020280,Sequence,Teleport,Rear,0,0
+400202803,40020280,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202811,40020281,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202812,40020281,Sequence,Teleport,Rear,0,0
+400202813,40020281,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202821,40020282,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202822,40020282,Sequence,Teleport,Rear,0,0
+400202823,40020282,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202831,40020283,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202832,40020283,Sequence,Teleport,Rear,0,0
+400202833,40020283,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202841,40020284,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202842,40020284,Sequence,Teleport,Rear,0,0
+400202843,40020284,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202851,40020285,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202852,40020285,Sequence,Teleport,Rear,0,0
+400202853,40020285,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202861,40020286,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202862,40020286,Sequence,Teleport,Rear,0,0
+400202863,40020286,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202871,40020287,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202872,40020287,Sequence,Teleport,Rear,0,0
+400202873,40020287,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202881,40020288,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202882,40020288,Sequence,Teleport,Rear,0,0
+400202883,40020288,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202891,40020289,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202892,40020289,Sequence,Teleport,Rear,0,0
+400202893,40020289,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202901,40020290,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202902,40020290,Sequence,Teleport,Rear,0,0
+400202903,40020290,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202911,40020291,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202912,40020291,Sequence,Teleport,Rear,0,0
+400202913,40020291,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202921,40020292,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202922,40020292,Sequence,Teleport,Rear,0,0
+400202923,40020292,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202931,40020293,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202932,40020293,Sequence,Teleport,Rear,0,0
+400202933,40020293,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202941,40020294,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202942,40020294,Sequence,Teleport,Rear,0,0
+400202943,40020294,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202951,40020295,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202952,40020295,Sequence,Teleport,Rear,0,0
+400202953,40020295,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202961,40020296,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202962,40020296,Sequence,Teleport,Rear,0,0
+400202963,40020296,Sequence,Fade,"Type:In, Time:0.1",0,1
+400202981,40020298,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400202982,40020298,Sequence,Teleport,Rear,0,0
+400202983,40020298,Sequence,Fade,"Type:In, Time:0.7",0,1
+400203371,40020337,Group,Shift,"Dist:30, Duration:0.3",1,0
+400203381,40020338,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203382,40020338,Sequence,Teleport,Rear,0,0
+400203383,40020338,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203451,40020345,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203452,40020345,Sequence,Teleport,Rear,0,0
+400203453,40020345,Sequence,Fade,"Type:In, Time:0.7",0,1
+400203791,40020379,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203792,40020379,Sequence,Teleport,Rear,0,0
+400203793,40020379,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203801,40020380,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203802,40020380,Sequence,Teleport,Rear,0,0
+400203803,40020380,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203811,40020381,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203812,40020381,Sequence,Teleport,Rear,0,0
+400203813,40020381,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203821,40020382,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203822,40020382,Sequence,Teleport,Rear,0,0
+400203823,40020382,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203831,40020383,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203832,40020383,Sequence,Teleport,Rear,0,0
+400203833,40020383,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203841,40020384,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203842,40020384,Sequence,Teleport,Rear,0,0
+400203843,40020384,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203851,40020385,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203852,40020385,Sequence,Teleport,Rear,0,0
+400203853,40020385,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203861,40020386,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203862,40020386,Sequence,Teleport,Rear,0,0
+400203863,40020386,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203871,40020387,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203872,40020387,Sequence,Teleport,Rear,0,0
+400203873,40020387,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203881,40020388,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203882,40020388,Sequence,Teleport,Rear,0,0
+400203883,40020388,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203891,40020389,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203892,40020389,Sequence,Teleport,Rear,0,0
+400203893,40020389,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203901,40020390,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203902,40020390,Sequence,Teleport,Rear,0,0
+400203903,40020390,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203911,40020391,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203912,40020391,Sequence,Teleport,Rear,0,0
+400203913,40020391,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203921,40020392,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203922,40020392,Sequence,Teleport,Rear,0,0
+400203923,40020392,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203931,40020393,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203932,40020393,Sequence,Teleport,Rear,0,0
+400203933,40020393,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203941,40020394,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203942,40020394,Sequence,Teleport,Rear,0,0
+400203943,40020394,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203951,40020395,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203952,40020395,Sequence,Teleport,Rear,0,0
+400203953,40020395,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203961,40020396,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203962,40020396,Sequence,Teleport,Rear,0,0
+400203963,40020396,Sequence,Fade,"Type:In, Time:0.1",0,1
+400203981,40020398,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400203982,40020398,Sequence,Teleport,Rear,0,0
+400203983,40020398,Sequence,Fade,"Type:In, Time:0.7",0,1
+400204371,40020437,Group,Shift,"Dist:30, Duration:0.3",1,0
+400204381,40020438,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204382,40020438,Sequence,Teleport,Rear,0,0
+400204383,40020438,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204451,40020445,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204452,40020445,Sequence,Teleport,Rear,0,0
+400204453,40020445,Sequence,Fade,"Type:In, Time:0.7",0,1
+400204791,40020479,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204792,40020479,Sequence,Teleport,Rear,0,0
+400204793,40020479,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204801,40020480,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204802,40020480,Sequence,Teleport,Rear,0,0
+400204803,40020480,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204811,40020481,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204812,40020481,Sequence,Teleport,Rear,0,0
+400204813,40020481,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204821,40020482,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204822,40020482,Sequence,Teleport,Rear,0,0
+400204823,40020482,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204831,40020483,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204832,40020483,Sequence,Teleport,Rear,0,0
+400204833,40020483,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204841,40020484,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204842,40020484,Sequence,Teleport,Rear,0,0
+400204843,40020484,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204851,40020485,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204852,40020485,Sequence,Teleport,Rear,0,0
+400204853,40020485,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204861,40020486,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204862,40020486,Sequence,Teleport,Rear,0,0
+400204863,40020486,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204871,40020487,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204872,40020487,Sequence,Teleport,Rear,0,0
+400204873,40020487,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204881,40020488,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204882,40020488,Sequence,Teleport,Rear,0,0
+400204883,40020488,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204891,40020489,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204892,40020489,Sequence,Teleport,Rear,0,0
+400204893,40020489,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204901,40020490,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204902,40020490,Sequence,Teleport,Rear,0,0
+400204903,40020490,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204911,40020491,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204912,40020491,Sequence,Teleport,Rear,0,0
+400204913,40020491,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204921,40020492,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204922,40020492,Sequence,Teleport,Rear,0,0
+400204923,40020492,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204931,40020493,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204932,40020493,Sequence,Teleport,Rear,0,0
+400204933,40020493,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204941,40020494,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204942,40020494,Sequence,Teleport,Rear,0,0
+400204943,40020494,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204951,40020495,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204952,40020495,Sequence,Teleport,Rear,0,0
+400204953,40020495,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204961,40020496,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204962,40020496,Sequence,Teleport,Rear,0,0
+400204963,40020496,Sequence,Fade,"Type:In, Time:0.1",0,1
+400204981,40020498,Sequence,Fade,"Type:Out, Time:0.1",1,0
+400204982,40020498,Sequence,Teleport,Rear,0,0
+400204983,40020498,Sequence,Fade,"Type:In, Time:0.7",0,1
+450004181,45000418,Sequence,Fade,"Type:Out, Time:0.1",1,0
+450004182,45000418,Sequence,Teleport,Rear,0,0
+450004183,45000418,Sequence,Fade,"Type:In, Time:0.1",0,1
+450004411,45000441,Group,Shift,"Dist:30, Duration:0.3",1,0
+450004571,45000457,Sequence,Fade,"Type:Out, Time:0.1",1,0
+450004572,45000457,Sequence,Teleport,Rear,0,0
+450004573,45000457,Sequence,Fade,"Type:In, Time:0.7",0,1
+450004581,45000458,Sequence,Fade,"Type:Out, Time:0.1",1,0
+450004582,45000458,Sequence,Teleport,Rear,0,0
+450004583,45000458,Sequence,Fade,"Type:In, Time:0.7",0,1

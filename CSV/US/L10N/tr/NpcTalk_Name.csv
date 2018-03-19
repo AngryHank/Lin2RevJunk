@@ -1,0 +1,712 @@
+Id,NpcName,Message
+101,Aymel,"Selam! eğitimin nasıl gidiyor?<p>Tek başına eğitim sıkıcıdır ve büyük ihtimalle nereden başlayacağını bilemiyorsundur. Aden'de maceracılar Klan adı verilen gruplar kurarak birlik olurlar.<p>diğer maceracılarla birlikte yolculuk etmek, klanına bağış yapmak ve klan dükkanından alışveriş yapmak... kulağa nasıl geliyor?"
+102,@101,B-derecesine ulaştın! Eminim daha yeni başladığının farkındasındır.<p>Şu et kafalı Russel şimdiden A-derecesine ulaştı bile!
+103,Russel,Sen fazla gevşemiş görünüyorsun. Hadi bakalım antrenmana dön de benim seviyeme ulaşmaya çalış! Hahaha!
+104,@101,A-derecesine ulaştın! Şimdi o et kafa ile eşsin! Sakın durma!
+105,@101,S-derecesine ulaştın! O et kafayla rekabetin gereken tüm motivasyonu sağladı gibi!
+106,@103,Ne? S-derecesine mi ulaştın? Ben hâlâ A-derecesindeyim...<p>Hiç böbürlenme! Sana yetişeceğim! göreceksin!
+107,@101,R-derecesine ulaştın!<p>Hemen gaza gelme yalnız. Daha SR-derecesi var önünde!
+108,Theodore,Anca R-derecesisin yani çalışmaya devam.
+109,@101,Derece SR'ye ulaştın! Etkafa Russel'a tozunu yutturdun!<p>Şimdi sıra Derecesi UR olan Theodore'a yetişmekte! Biraz daha gerekiyor!
+110,@101,"Artık Derece UR'sin!<p>Kendini fazla zorlamadığına emin misin? Peki o zaman, Theodore işini bitirdi ve çıktı. Etkafa ise çok geride kaldı. Acele etmene gerek yok."
+111,@101,UR-derecesine ulaştın! Theodore'dan sonraki en hızlı sensin!<p>Etkafa ve diğerleirnin neredeyse pes etmek üzere olduklarını düşünürsek oldukça etkileyici!<p>Şimdi diğererinin bitirmelerini beklemelisin. Neden en baştan başlamayı denemiyorsun?
+112,@101,Hey! Uzun zamandır görüşememiştik! Son gördüğümden beri bayağı güçlenmişsin.<p>Ama bu yeterli değil. Theodore senden çok daha güçlü.<p>Ama endişelenme! Senin için bir eğitim kılavuzu daha hazırladım. Bu seferki biraz daha zor ama! Geride kalmamaya çalış!<p>Ama endişelenmene de gerek yok. eminim harika bir iş çıkaracaksın!
+113,@101,"Harika, gayet iyi gidiyorsun. Derece B'ye hızla ulaştın!<p>Russel! Sen ne durumdasın Russel?"
+114,@103,Ben çoktan Derece A oldum! Bu sefer kaybetmeyeceğim!
+115,@101,@104
+116,@101,S Derecesine ulaştın! O kaskafa ile rekabetin bayağı işe yaramış gibi!
+117,@103,Ne?! Şimdiden S Derece mi oldun? Ben hâlâ A Derecesindeyim…<p>Ahh! Geçen sefer de böyle olmamış mıydı?
+118,@101,@107
+119,@108,@108
+120,@101,Tebrikler SR Derecesine ulaştın! O kaskafalı Russel sana yetişmeyi hayal bile edemez artık!<p>
+100011,,Konuşkan Ada'ya hoş geldin.
+100021,,Konuşkan Ada güçlenmen için ideal bir yerdir!
+100041,,Buradan sonra canavarlara dikkat et!
+101171,,Konuşkan Ada'nın güvenliğinden biz sorumluyuz!
+101181,,Bir takas daha başarılı!
+101191,,İyi ekipmanlar hayatta kalmanı sağlar!
+101201,,Vakit geldi! Gludio eşyaları için açık arttırma yakında başlayacak!
+101211,,Gludio için biletlerinizi benden alabilirsiniz!
+101231,,Konuşkan Ada'da Zafer Dikilitaşı'nı ziyaret et!
+101241,,Bir liman ancak kalabalıktan geçilmiyorsa bir liman sayılır.
+101261,,Konuşkan Ada bu aralar turistlerin gözdesi.
+101301,,Orklar mı? Ne demek istiyorsun?
+101311,,Gludio'ya giden gemi yakında kalkacak. Hemen binmezsen kaçıracaksın.
+101331,,Turistleri gördün mü? Bazıları tam benim tipimdi!
+101341,,Denize açılmak için mükemmel bir gün!
+101381,,Orklara dikkat edin!!!
+101391,,Savunmayı bozmayın!!!
+101441,,@101391
+101451,,Onları burada durdurmalıyız!!
+101461,,@101381
+101471,,@101391
+101501,,Hehe. Acaba ordudan atılır mıyım...
+101541,,Konuşkan Ada'nın nen iyileri burada! Altın kürklerimiz bile var!
+101542,,"Bunlar sadece burada, Konuşkan Ada'da yaşayabilir."
+101543,,Konuşkan Ada'yı tam olarak gezmek için bunlardan birine ihtiyacın var.
+101544,,Hoş geldiniz!
+101545,,İksire ihtiyacın yok mu?
+101551,,Hehe. Çocuğumuz 3 yaşına bastı bile!
+101571,,Maceracılar biraz para için canlarını aptalca riske atarlar...
+101611,,Konuşkan Ada'da balık tutmalısın. Burada balıklar devasa!
+101621,,"Sence şehrin kuzeyinde orkların gözüktüğü söylentisi, doğru mu?"
+101771,,Küpeler! Değerli küpeler!
+101811,,Başka bölgelere geçmek için bu noktayı kullan.
+101821,,Bir Klana katıl! Birlikten kuvvet doğar!
+101831,,Düşmanlarını alt etmek için ekipmanlarını güçlendir!
+101841,,Düşmanlarına daha fazla hasar verebilmen için Güç Şerbeti satıyorum!
+101911,,Orkların icabına bakacağız!
+101921,,Kasabanın güvenliğini biz sağlıyoruz.
+101931,,Konuşkan Ada güvenli değil.
+101941,,Kasabamıza hoş geldiniz!
+101961,,Burada bazı garip şeyler oluyor...
+101971,,Ada ne kadar çabuk ayrılırsanız o kadar iyi.
+101981,,Kuzeyde 10.000'den fazla ork olduğunu duydum.
+102011,,Kuzeyde orklar gözükmüş!!
+102221,,Endişelenme! Görevinden güvenli bir şekilde taburcu olacaksın.
+102501,,Lanet orklar! Yoldaşlarımın intikamını alacağım!
+102511,,Bu savaşı kaybedemeyiz. Ailem şehirde saklanıyor.
+102551,,"Orklar, taburu olmamdan hemen önce saldırdılar..."
+102561,,Orklar bize geçerse şehre ulaşırlar.
+103001,,Şimdilik orkları büyü yardımıyla uzak tutuyoruz ama...
+103011,,... artık çok yoruldum.
+103021,,Orklar mı? Beni korkutmuyorlar!
+111671,,"Lütfen, Konuşkan Ada av birliğine kayıt olun!"
+111691,,Av birliğine katılmak için mi geldin?
+111851,,Komik bir şey olur diye takipte olacağım.
+111861,,Kendini tutmana gerek yok!
+111891,,Hepsini tek vuruşta kes!
+111971,,Orklara derslerini ver!
+111981,,Te-teşekkürler! Çok korkmuştum!
+210011,,Golemlere karşı savaşırken Güç Şerbeti kullanmayı unutma!
+280811,,Ö-öldür beni...
+280821,,Çok acıyor... Buna son ver...
+300171,,"Asam yanımda olsaydı, ben de savaşırdım!"
+300181,,Az evvel saklanmış ve ağlıyordun!
+304081,,Einhasad seni göndereceğini söylemişti.
+304111,,İnanılmazdın! Çok teşekkürler!
+305851,,Bu da ne böyle?! Sanki korsanlar çağındayız.
+307781,,Ahh... Buraya gelmemem gerektiğini biliyordum.
+307791,,Sen! Sakin ol!
+309371,,Konuşkan Ada Limanı biletli için bu tarafta.
+309391,,Bir Gludin askerini birliği almayacak mısın?
+309411,,La-di-da... Arkadaşlarım nereye gitmiş olabilir...
+309441,,"Gelecek sefere, ben olacağım. Sen değil!"
+309451,,Gludin Liman şehrine hoş geldiniz.
+309791,,Demek Einhasad'ın yolladığı sensin.
+309801,,İsteğin bölgeyi gitmek için bu noktayı kullan.
+309811,,Kale Kuşatmasına katılmak için burada kayıt olabilirsin.
+309831,,Güç Şerbeti satmak en sevdiğim hobimdir.
+309841,,Envanterinde yer kalmadığında eşyalarını depola.
+309851,,Aman! Yine kaydım!
+309861,,"Tanrım, çok gürültülü. Sadece sessizce balık tutmak istiyorum."
+309871,,Kasabamızın kahramanı olduğundan sana biraz indirim yapacağım!
+309891,,Görevimiz burayı korumak.
+309901,,Vardiyamız ne zaman bitecek bizim...
+309921,,@309891
+309951,,Bir Ay Işığı Lejyoneri!!! Hoş geldin!
+309961,,En son pusuyu bir Ay Işığı Lejyoneri engellemişti.
+309971,,Gerçekten mi? Harika bir lejyonermiş.
+310331,,Ay Işığı Lejyonerleri için çok yaşa!
+310341,,Hayatta olmaz. Bir adaya gidemem. Ben şehirde yaşamak için yapılmışım.
+310441,,Merhaba!
+318221,,"Ah, ne güzel günlerdi... sandalla yolculuk ederdik!"
+318231,,Teşekkürler! Yolcularım sayenizde güvende!
+318241,,"Korsanları siz yendiniz, değil mi? Olağanüstüsünüz!"
+322561,,Dikkatli olmalıyız. Ol Mahum bölgesine girdik.
+322611,,Ol Mahumları avlamak için mi kayıt oluyorsun?
+322701,,Önceliğimiz rehinelerin güvenliğini. Anladın mı?
+322711,,Delirdin mi? Ben olsam mezarlığa gitmezdim.
+322981,,Ol Mahumları avlamak için iksirlere ihtiyacın olacak.
+392751,,Hey sen! Onlar hakkında bir şey yap!
+392781,,Onca yol geldikten sonra bu kadar bela fazla.
+350151,,"Bu kadar pinti olma - biraz daha ver, seni cimri!"
+350152,,Seni gidi dolandırıcı kedi!
+350161,,Hortlaklarsa savaşırken tek ihtiyacın Güç Şerbeti!
+350162,,"Hey sen, maceracı! Biraz yenileyici almalısın."
+350163,,Savaş için hazırlıklar çok önemlidir! Bu yüzden biraz...
+350181,,"Sessiz ol, hortlaklar işleri çok zorlaştırıyor..."
+350182,,Hey! Hazır buradayken kendi tabutunu da yap! Ha!
+350191,,Korkmuyor musun?
+350192,,"Dikkatli olmalısın, buralarda hayaletler olur. Haha."
+350201,,Gerçekten mi! Bana inan! Daha önce bir hayalet gördüm!
+350202,,Kesinlikle sarışın bir elf hayaletiydi!
+350211,,"Yalan söylemeyi bırak artık, seni yalancı!"
+350212,,İnandırıcı bir şey söylesene! Sessiz ol.
+350221,,Ciddi misin? Gerçekten bir Kaotik gördün mü?
+350222,,"Yalan söylemiyorsun, değil mi? Şüphelilerden biri de sensin!"
+350231,,Gerçeği söylüyorum! Kaotik olduğumu söylesem ne dersin?
+350232,,Şurada duran adamın bile senden güçlü olduğundan eminim!
+350241,,Gluodi'dan sonra dikkatli ol. Etrafta Kaotikler olacak.
+350242,,Kayıp vakasını mı incelmeye geldin?
+350261,,Şu adama baksana! Herkes onun bir Ay Işığı Lejyoneri olduğunu söylüyor.
+350262,,Keşke ben de Ay Işığı Lejyonerlerine katılabilsem...
+350281,,Kayıp vakalarını araştırmam istendi...
+350282,,Hiç kolay görev yok mu?
+350311,,Bir liman şehrinden beklendiği gibi herkes enerji dolu!
+350312,,Görülecek başka bir şey yok mu?
+350321,,Çabuk ol! Şuraya da gidelim!
+350322,,Vay be! Çok geniş!
+350331,,Biraz yavaşlayamaz mısın?
+350332,,Yavaşlayamaz mıyız? Bacaklarım beni öldürüyor.
+309911,,İnanılmaz bir fiyat sunuyorum sana!
+309912,,Ben bir sfenks kedisine dönüşmeden olmaz!
+309931,,Çok fazla haydut var. Dikkatli ol.
+309932,,"Hiç kaçak eşyan yoktur, değil mi?"
+401151,,"Kahretsin... sadece izle, kesinlikle hayatta kalacağım."
+401152,,Hayatta kalacağım ve ailemi göreceğim.
+410421,,Seni takip eden Kertenkeleadam oldu mu?
+410422,,Harap Tarlalar'dan geçmek çok zordur!
+410331,,"Sen, canavarları avlayan lejyoner değil misin? Bir nefes al!"
+410332,,Kılıcı kertenkeleleri kesmek için birebirdir!
+400131,,Av mangasına katılmak istemez misin?
+400132,,Boş boş oturman bir işe yaramaz. Hadi bize katıl!
+409511,,"Sadece budalalar, Böcayıların düşük zekalarını küçümser!"
+409512,,Önceliğimiz kayıpların güvenliğini sağlamak.
+410391,,Canavarlar yaklaşıyor... Umarım her şey iyi olur.
+410392,,"Oh, Einhasad... Gludio'yu güvende tut..."
+410521,,Ah... Ne zaman eve gidebileceğim acaba...
+410522,,Kaç tane daha bu canavarlardan öldürmemiz gerek?
+410541,,Hiç bitmeyecek gibi...
+410542,,Anne... Annemi görmek istiyorum...
+410571,,Burası çok tehlikeli. Savaşçı değilsen geri dönmelisin.
+410572,,Av mangasına katılmak için Yüzbaşı ile konuş.
+418501,,Şehirde fazla gürültü çıkarma.
+418502,,"Bir işe ihtiyacın varsa, av mangasına katıl."
+418561,,Kertenkeleadamların gelmelerine artık izin veremeyiz!
+418562,,Lanet kertenkeleler sürekli fırsat kovalıyorlar.
+400401,,Lanet kertenkelelerin kasabamızı altüst ettiğine inanamıyorum!
+400402,,"Hükümdar, niye yardım yollamıyor?"
+450471,,Hmm... Canavar avlamak için katılsam mı?
+450472,,Bizim seviyemizdekiler zorluk çekmez mi?
+450481,,Bence şansımızı deneyelim! Öleceğimizi sanmam.
+450482,,Böcayılardan şiş kebap yapacağız!
+450491,,Kurtarma operasyonunu Sör Vaughn yürütecekmiş diye duydum.
+450492,,Windawood yakında yeniden doğacak...
+450501,,Windawood'u hemen kurtarmalıyız.
+450502,,Windawood'taki trajediler artık sona ermeli.
+450531,,Gludio Kalesi'ne saldırı yakında başlayacakmış diye duydum.
+450532,,"Ah, Kale Kuşatması'na katılmaya çok isterdim."
+450541,,Tek hareketle düşmanlarımı ikiye bölerim!
+450542,,Yuh! Bensiz bir Kale Kuşatması olacak...!
+450551,,"Gludio Kalesi Kuşatması için adam arıyormuşsunuz, öyle mi?"
+450552,,İnsan krallığına hükmeden bir Elf. Kulağa kötü gelmiyor.
+450561,,Klan kalesine başvurmak gibi komik fikirleri aklından geçirme!
+450562,,Kesinlikle çok güzel bir Klan Kalesi Şövalyesi olacağım.
+499711,,Kertenkele adam avlarken Güç Şerbeti çok işine yarar!
+506751,,Son hazırlıklarımızı yaparken sen de hazırda bekle!
+506752,,Başka perişan asker görmüş olabilir misin?
+508741,,Ol Mahumlar kafayı mı yedi?
+508742,,"Haydutlar, kristaller ile niye bu kadar ilgileniyor?"
+512641,,Hortlakların bir anda her yerde bittiğine inanamıyorum!
+512642,,Herkes odaklansın. Dağılmayın!
+514601,,Windawood'un yenilenmesi neredeyse tamamlandı! Hücum!
+514602,,Orkları evimizden kovmanın vakti geldi artık!
+550011,,"Güzel Windawood, nasıl bu hallere düşebilir..."
+550012,,Lanet Orklar. İntikamımı alacağım!
+550021,,Ağaçların hepsi ölmüş...
+550022,,Yakınlardan çığlıklar duydum...
+550031,,Orklarla karşılaşmadan önce biraz yenileyici al.
+550032,,Orklarla baş etmen için yeteri kadar Güç Şerbetiin yok.
+607241,,Uh... Uh oh... Bazı eşyalar kaybolmuş.
+607251,,"Bu kadar şeyi, ne zaman taşıyacağım..."
+607261,,Neden? Bir şey mi oldu?
+607521,,Görevdeyim! Hiç sorun yok!
+607541,,@607521
+607551,,Nö-nöbetimi alabilir misin...
+612811,,Tüccarın siparişleri ne zaman gelir?
+612812,,"Hmm, elimizdeki eşyalar tükenmek üzere."
+630251,,Savaşmak için acınacak haldesin. Biraz iksir al!
+630252,,Karıncalarla savaşırken Güç Şerbetiler çok işine yarar.
+650061,,Ugh... iğrenç karıncalar!
+650062,,"Böyle bir karıncanın yaratılmasının nedeni, ne olabilir ki?"
+650071,,Karınca yuvasının derinliklerinde Devasa bir Kraliçe var.
+650072,,Kraliçe Karınca mı? Ne kadar güzeldir acaba!
+650081,,Fildişi Kulesi Büyücülerinin esrarengiz bir şekilde öldüklerini duydum.
+650082,,Fildişi Kulesi Büyücülerini kim öldürmüş olabilir ki?
+650121,,"Kuzeyde Dion bölgesi var. Sen aranan bir kaçak falan değilsin, değil mi?"
+650122,,Dion'a girmeden önce kendini tanıttığına emin ol.
+650181,,Dion Bölgesi'ne geçmeme izi vermiyorlar!
+650182,,Bu çölden sıkıldım ve bezdim artık!
+650191,,Susamadın mı? Biraz yenileyici al!
+650192,,Gitmeden önce kamptan yanına bir şey al!
+650231,,Dikkatli ol. Kazirlerin etrafta olduğunu duydum.
+650232,,"Kazirleri daha önce duymuştum. Çöl avcılarılar, değil mi?"
+699711,,Çorak Diyar'dan geçerken yenileyicilere ihtiyacın olacak.
+706031,,"Hey, sen! Kılıcın paslanmış!"
+706041,,Eşyalarını güvende tutarız!
+706051,,Bu eşyaları şu an satmamam gerek...
+706061,,Şu çocuğu daha önce gördün mü?
+706071,,Yardımıma ihtiyaç duyarsan sadece kelimeyi söyle!
+706101,,Hahaha. Gus'ın işleri nasıl gittiğini merak ediyorum.
+706111,,Görünüşe göre yine Sarah tarafından azarlanacağım!
+706121,,"Oh, bir çocuk. Uzamak için bir ilaca ihtiyacın yok mu?"
+706122,,Bunu yersen bir Böcayı kadar büyürsün!
+706131,,"Voah! Ama neden bu kadar küçüksün, Bay Kedi!"
+706132,,"Ehh, yalancıya bak! Öyle bir ilaç yok!"
+706141,,Canavarlar yüzünden dışarıya çıkamıyorum.
+706151,,Ah... Gidip bitki toplamam gerek.
+706171,,Bugün de içecek miyiz?
+706181,,Mükemmel! Vardiyamız bittiği zaman görüşürüz!
+706191,,Hoş geldin. Burası Dion.
+706201,,Güvenliği bize bırak!
+706211,,Dışarıdaki kızı gördün mü?
+706221,,"Tabii ki! Çok gizemli gözüküyordu, değil mi?"
+706231,,"Örümceklerin, insanları yediğini söylüyorlar."
+706241,,Kuzeyde milyonlarda örümcek olduğunu söylüyorlar.
+799711,,Ah! Çok Tehlikeli! Güç Şerbeti al biraz!
+780471,,Ahha! Orada!
+780481,,Bu sefer kaçmana izin vermeyeceğim!
+780491,,Anahtarı al!
+780911,,Bizden kaçamazsın!!!
+780921,,Peşlerinden! Hadi!
+780951,,Öl! Öl!
+780981,,Bu büyü seni bütün olarak yutacak!
+781001,,Yakala onları!
+781021,,Onları canlı ele geçirin!
+720091,,Burayı terk etmeyeceksin!
+750051,,Sessizlik. Sana doğruyu söylüyorum!
+750052,,Ben şahsen kendim Ork Yüzbaşısını kafasından vurdum.
+750061,,"Orklar, Dion Kalesi'ne kadar ulaşmış mı?"
+750062,,Acele etmeli ve Dion Kalesi'ne yardım etmeliyiz! Tehlike altındalar!
+750081,,Pfft! Ork Yüzbaşısı'nı sen mi yendin? Sen ve hangi ordu?
+750082,,Yalanların inanılmaz! Hahaha!
+750501,,"Dikaktli ol, Tarım Bölgesi Kertenkeleadamlarla kaynıyor."
+750502,,Kertenkeleadamların bir yere gitmelerini engelledik.
+750521,,Cruma Kule'sinden enerji yayılıyor.
+750522,,Cruma Kulesi... Kesinlikle ona meydan okumak istiyorum!
+750531,,Zayıf Devler kulesi mi? Tüm sırlarını çözmek istiyorum!
+750532,,"Kara Kardeşlik, Cruma Kulesi'nin peşine düşmüş diye duydum..."
+750551,,Hehe. Kolaysa yakala beni!
+750552,,Vagon geçiyor! Düt düt.
+750561,,Dion Kalesi'ne yapılan saldırı kanımı kaynatıyor!
+750562,,Dion Bölgesi'nin hükümdarını merak ediyorum.
+750601,,"Ah, Kale Klanı gibi havalı bir klanda olmayı çok isterdim!"
+750602,,Hmm. Kale Klanı'na başvursam mı acaba?
+750591,,Yerine getirmek için yeterli tutkumuz yok...
+750592,,Sen yaparsan ben de yaparım!
+750621,,Dion Kalesi Kuşatması için klanlar arıyorlar!
+750622,,Hiç bir yerde kolay görev yok mu? Kedi yakalamak gibi...?
+750651,,Shhh! Kedi hala bizi fark etmedi! Yakala onu!
+750652,,Bu uyuz kedilerden bir iki tane alalım!
+750661,,Şimdi! Çocuk onun dikkatini dağıttı!
+750662,,Katılmak mı istiyorsun? Sen de suç ortağımız olacaksın.
+750681,,Baksana! Dolandırıcı kedi başkalarını da soyacak.
+750682,,O çocuğu da mı dolandıracaktın? Konuşma!
+800381,,Cruma Kulesi'ni görmeye mi geldin?
+800382,,Zayıf Devler kulesi... yerimde duramıyorum!
+803881,,"Hmm... Bir bataklıktan beklendiği gibi, soğukmuş."
+803882,,Daha güçlü bir ateş yakamaz mısın?
+804101,,"Bir, iki... ? Birkaçı kayıp sanki."
+804102,,Bu yaşta eşya araştırdığıma inanamıyorum!
+804131,,Feldheim Kazı Birimi araştırma kampına hoş geldin!
+804132,,Siparişleri getirmiş olabilir misin?
+850641,,Büyüm güçlenmeyecek mi?
+850642,,Cruma'da binlerce büyülü yaşam türü olduğunu duydum.
+850661,,"Ugh... Neden, her zaman belgeleri ben düzenliyorum?"
+850662,,Daha sık düzenlemelisin. Şu dağınıklığı bak!
+850671,,"Buradan daha sonra dikkatli ol, her yerde ceset var!"
+850672,,"Ulaşamadığımız birisini bulursan, onu buraya getir!"
+899711,,Bu kadar tehlikeli bir yerde ne gerekir? Bu yenileyici!
+998711,,İş yaparken ırkın bir önemi yoktur!
+1019911,,"Uluyan Oyuk için daha fazla Güç Şerbeti al, tamam mı?"
+1050001,,"Hey, operasyona yardım etmez misin?"
+1050002,,Burası macera için iyi bir yer değil.
+1050021,,Ahh... Kemiklerim ağrıyor.
+1050022,,Hortaklara için gerekli hazırlıkları yapıyor musun?
+1050031,,Einhasad'ın Kutsaması üstünde olsun.
+1050032,,Onların sonunu getirmen için dua edeceğim.
+1050061,,Maltızdan uzaklaşmak tehlikelidir.
+1050062,,Agoni Ordusu'nu gözlemlemeye geldik.
+1050051,,Onları izlemek beni üzüyor.
+1050052,,Sonun onlar gibi olsun istemiyorsan dikkatli ol.
+1050201,,Maceraya mı çıktın? Giran'a şu an giremezsin.
+1050202,,Uluyan Oyuk'taki işler yoluna girene kadar Giran'a geçemezsin.
+1050231,,Giran'a şu an gidemezsin.
+1050232,,Hükümdarımız girişi yasakladı.
+1106931,,Selam güzelim! Aradığın silah var mı?
+1106932,,"Bu kadar güzel bir elbiseyle, Gorgon'un koleksiyonuna dikkat et!"
+1106933,,Gel! Ceplerini boşalt ve biraz ekipman al!
+1191421,,Kimsin sen? Şüpheli birini gördün mü?
+1191422,,Bu kaza ile bir ilgisi var mı?
+1191431,,Hiç Oren casusu gördün mü?
+1191461,,Orenlıların bir casus yolladığına adım gibi eminim.
+1150411,,Giran kasabasına hoş geldin!
+1150412,,"Ticaretin merkezi, Giran'a hoş geldin!"
+1117001,,Etrafta bu kadar çok kişi varken her zaman hazırda ol!
+1117002,,Sana yiyecek teklif etseler bile hiçbir yabancıyı takip etme.
+1117003,,Geri dönüş yolunu hatırlıyor musun?
+1117021,,Biraz içeri gelip eşsiz romumuzun tadına baksana!
+1117022,,"Hey, maceracı! Bir saniyeliğine gelir misin?"
+1117023,,Yolculuk etmekten yorulmadın mı? İçeri gel ve dinlen biraz!
+1170041,,Ne istiyorsun? Etrafından dolanmak mı?
+1170042,,"Yaralanmadan önce geri dön, tamam mı?"
+1170043,,Neye bakıyorsun? Kaybol!
+1170081,,Giran ve Oren arasındaki ilişkilerin kötüye gittiğini duydun mu?
+1170082,,"Çok endişeliyim... Yakında bir savaş olmaz, değil mi?"
+1170083,,Bir kez bile olsa Oren'ı görmek istiyorum...
+1170091,,Macera ve ıvır zıvırlar... Günümüzün çocukları...
+1170092,,Elçiler geldiğinde onlarla konuşmalıyım.
+1170111,,Sıcak bir tabak çorba için içeri gelin!
+1170112,,Kasaba dışından mısın? İçeri gel ve bu geceyi burada geçir!
+1170113,,Yorgun gözüküyorsun. İçeri gel ve dinlen biraz.
+1170121,,Bu yüzüğü almayacak mısın?
+1170122,,Bunu hiçbir yerde bulamazsın!
+1170123,,Sadece 10 milyon Adena! Beni soyuyorsun resmen!
+1170151,,Doğru miktarda olduğuna emin olmak için say.
+1170152,,"Tetikte ol, tüccarlar gelir birazdan."
+1170153,,Nadir büyülü eşyaların ticareti yapıyoruz - dikkat et.
+1170161,,Mm... Nasıl piştiğini anlamak için tadına baksak mı?
+1170162,,Bir şeyler eksik... Biraz büyü işe yarar mı?
+1170163,,"Hey, sen neye bakıyorsun? Sırlarımızı mı çalacaksın!?"
+1170181,,Sebzeler! Ucuza sebze alın!
+1170182,,Bunu Dion'dan aldım ve Uluyan Oyuk'u atladım!
+1170183,,Tadına baksana! Ovalardan gelen bir lezzet!
+1170221,,"Sana söylüyorum, Mischa beni süzüyordu!"
+1170222,,Gerard'ın benimle ilgilendiğinden eminim.
+1170223,,Ne yapmalıyım...? Gidip konuşsam mı?
+1170241,,Ne? İlk defa mı kedi görüyorsun?
+1170242,,"Dayak yemek istemiyorsan, beni sakın hafife alma, velet!"
+1170243,,"Dayak yemek istiyorsan, biraz daha buralarda takılabilirsin."
+1170311,,Gorgon avına katılsam mı? İyi bir tecrübe olur...
+1170312,,Medusa'nın oyuncaklarından biri olmak istemiyorum.
+1170313,,Ölmek için çok genç ve güzelim... Avla yada avlan...!
+1170291,,Bu Medusa'nın neyi bu kadar korkutucu?
+1170292,,Hadi ava katılalım! En kötü ne olabilir ki?
+1170293,,Her zaman bu fırsat karşımıza çıkmaz.
+1160101,,Haydutlar burada takılır. İçeri kesinlikle girme.
+1160102,,Buradan gerisi çok tehlikeli. Geri dönün.
+1160161,,Gorgon Çiçek Bahçesi'ne gitmek için hazır mısın?
+1160162,,Vasiyetini yazdıktan sonra bana ver.
+1160163,,Bir Medusa'nın gözlerine asla bakma. Anladın mı?
+1170341,,Bunu içersen - Medusa'nın bakışları seni etkilemez!
+1170342,,Oren'a gitmekten korkuyor musun? O zaman bu kılık değiştirme aracını al!
+1170343,,Bu floroskop ile casusları yakalayıp ödüller kazanabilirsin!
+1170371,,"Hey, sen bir Ay Işığı Lejyoneri misin? Çok kıskandım."
+1170372,,Maceracıların hepsi Ay Işığı Lejyonerleri'ne katılmak ister.
+1170373,,Ay Işığı Lejyonerleri'nden Lucien gibi bir büyücü olacağım.
+1170381,,"Güzel, değil mi? Otlarını çekme - onların canını yakarsın."
+1170382,,"Burası Einhasad Meydanı. Daha sonra dua ederiz, tamam mı?"
+1170383,,"Etraf çok kalabalık. Biraz sessiz olalım, tamam mı?"
+1170501,,"Einhasad, sana bakacaktır."
+1170502,,"Einhasad, kayıtsız şartsız sever ve karşılığında bir şey beklemez."
+1170503,,Komşularını da Einhasad'ı sevdiğin gibi sev.
+1170531,,Shh. Sessiz ol. Rahip konuşuyor.
+1170532,,"Oh Einhasad, kardeşimin sağ salim dönmesi için dua ediyorum..."
+1170533,,Tüm dualarım Gorgon avına çıkanlarla olsun...
+1170561,,Lütfen... Bu dünyadaki savaşı bitir...
+1170562,,"Tanrı, Giran topraklarını kutsasın..."
+1170601,,Vay be! Büyükbabanın botunu görüyorum!
+1170602,,Vay! Kuşlar!
+1170603,,"İiik! Buraya gelin, kuşlar! Benimle oynayın!"
+1200011,,Bizi... kurtarmaya mı geldin?
+1200031,,Miyav... Bundan sonra nereye gitsem...
+1200041,,Shelter Kasabası'na hoş geldin!
+1200061,,"Herkes, Giran Limanı'nın kaos içinde olduğundan bahsediyor."
+1200071,,Tüm bu kargaşa işleri kötü etkiliyor...
+1200081,,Zayıf Devlerin Harabeleri! Seni heyecanlandırmıyor mu?
+1200091,,Bu çok heyecanlı... Yoluma çıkmaya bırakabilir misin?
+1200111,,"Bu kristali, Cruma'dan almıştık!"
+1200281,,Bir tek korsanın bile ayrılmasına izin verilmemeli!
+1200301,,"Mültecileri, biz güvende tutarız."
+1200351,,Tüccarlar için hiç yardım ikmali yok mu?
+1211311,,Böyle bir limanla lanetlendik!
+1399711,,Bu Güç Şerbetleri korsanların hakkından gelecektir!
+1430361,,Bu tüylü şeyi sevebilir miyim?
+1430401,,Bu da ne şimdi?
+1430421,,"Merhaba, yabancı."
+1430431,,"Bu ağacı kesersen, iyi paraya satabilirsin."
+1430491,,Neden burada hortlaklar var?
+1430511,,Tüyle şey de bizimle gelirse güzel olur.
+1430541,,"Vay, yine tüylü şeyle karşılaştık."
+1430571,,Konuşkan Ada'da yaşayan periyi duydun mu?
+1430591,,@1430571
+1430611,,Mm... tablette yazana gör...
+1430631,,"Cüce çocuk, çok küçük."
+1430651,,Kadim Elf diliyle yazılmış.
+1430661,,Başardık.
+1430671,,Miyav... Miyav...
+1430681,,Doydum artık.
+1430691,,Tabletin şifresinin çözerken beni koru.
+1430811,,"Aferin, Cara."
+1550061,,Coocoo! Coocoo!
+1550071,,Coocoo! Aramaya devam!
+1550091,,Oink! Oink! Sniff sniff.
+1550131,,Coocoo eve sağ salim ulaştı.
+1550132,,Coocoo'yu görmek istiyorum.
+1550181,,"Sırtımda garip bir şey büyüyor, miyav..."
+1550182,,Ölmemiş miydi...?
+1550191,,Argh... Lanet olası Vadi Örümcekleri!
+1550192,,O!!! Bu kişinin durumu nedir?
+1550241,,Bu-bu kargaşa da ne?
+1550242,,Böcayılar sanki çıtır bir çerezmişim gibi ğeşimdeler...
+1550281,,Kadınları ve çocukları korumalıyız!
+1550282,,Şu domuzlrın daha fazla yaklaşmasına izin vermeyin!
+1550481,,Argh... yaram acıyor...
+1550482,,Bu benim hatam. dikkatsiz davrandım.
+1550491,,"Russel, seni aptal! Sana dikkatli olmanı söylemiştim!"
+1550492,,İyi misin?
+1571621,,Kafesten kaçmayı mı düşünüyorsun?
+1571622,,Hepsini idam edin!
+1558351,,Kaçmayı mı düşünüyorsun? Bu kararından pişman olacaksın. Kekeke...
+1558352,,"Vay, çok cesursun! nasıl olsa yakında buraya döneceksin. Hahaha."
+1558381,,"Hey, muhafızlar! Bana ne zaman yemek vereceksiniz?"
+1558382,,Özgür bir adamken hafife alınmayacak bir güçtüm.
+1551881,,Sen... gerçekten er şeyi ateşe vermek zorunda mıydın?
+1551882,,Caraku... Caraku'yu bulmalıyız!
+1551961,,Kazan'ın işi bitti!
+1551962,,O hainin boynunu kendi ellerimle kıracağım!
+1552081,,Argh! O kadar öfkeliyim ki! Tanor neden konuşmuyor?
+1552082,,O Russel denen aptal nerede?
+1552091,,Umarım Durzel iyidir. Hımm...
+1552092,,Aymel'i gördün mü? O ufaklık iyi mi?
+1552191,,Durzel nerede yahu?
+1552192,,Bir enerji seziyorum...
+1566401,,Gerçek avcılar hazırlıkları savsaklamazlar!
+1566402,,İşte! Güç Şerbeti'ne ihtiyaçları var gibi!
+1565341,,Oren Kalesi'nde curcuna koptuğunu duydum...
+1565342,,"Söylenenlere göre Oren Kalesi'ndeki maceracılar, Giran casusu olmakla suçlanıyorlarmış!"
+1565381,,Sırların Ormanı bu vadide bir yerlerde!
+1565382,,Sırların Ormanı'nı geçtikten sonra Periler Vadisi'ne ulaşmış olman lazım.
+1565531,,Plato'nun Kalbi uzun zamandır vadide diyorlar.
+1565532,,Herkesi toplayıp Plato'nun Kalbi'ne gitmeyi mi deneyeceksiniz?
+1565371,,Giran ile Oren'in arası bozuk olduğu için dikkatli olmalıyız.
+1565372,,Giran'dan geliyorsanız Oren Kalesi'nde dikkatli olmalısınız.
+1565441,,Bir Grendel yakalamaya çalışan eleman nereye giti acaba...
+1565442,,Yoksa... Poricule tarafından yakalanmış olabilir mi?
+1569071,,"Shayden, seni aptal!"
+1569072,,Sen ne saçmalıyorsun? Böcayılar önlük mü çalmış?
+1569011,,Hımm. bu Grendel eti yahnisi çok lezzetli olacak!
+1569012,,Hızla hazırlanmalıyız... lord bekliyor...
+1569101,,İşler bu haldeyken görevimizi tamamlamak zor olacak...
+1569102,,Böyle geri dönemeyiz. Yardım isteyebilecğeimiz kims yok mu?
+1569061,,Hiç dev Windsus gördün mü?
+1569062,,Bu civarda haydutlara dikkat etmelisin!
+1569041,,Vay. yine karşılaştık!
+1569042,,Mmm... doğa ile baş başayız! Buradan toplayacağımız malzemelere muhteşem olmalı.
+1569311,,Amma çok örümcek var!
+1569312,,Perilerden bir çiçek yaprağı daha istesem mi?
+1569221,,"Acaba dev, beyaz bir çiçek gördün mü?"
+1569222,,Bu civardaki periler çok asabidir. Güzellikleri sizi yanıltmasın.
+1565601,,Olay çıkarmayın.
+1565602,,Giran'dan mı geliyorsun? Seni de soruşturdular mı?
+1565981,,İyi hazırlanın. Giran'dan ne zaman geleceklerini bilmiyoruz.
+1565982,,Bu ballistada ne sorun var?
+1565791,,Kendini bu kadar çabuk salma. Odaklan!
+1565792,,En baştan başlayıp eylemlerimiz senkronize olana kadar tekrarlayacağız.
+1565661,,Şu gergin Muhafız Yüzbaşısı yine iş başında...
+1565662,,Onların altında eğitim alanlara üzlüyorum.
+1565561,,Kaleye girince soruşturma alanına git.
+1565562,,Tuhaf hareketler yaparsan doğruca hücreyi boylarsın ona göre.
+1566081,,"Doğruyu söyle! İstihbaratımız sağlam, yani sadece konuşarak paçayı kurtaramazsın."
+1566082,,Aptala yatmak seni kurtarmaz. Adi Giran casusu!
+1566181,,Giran'lı bazı casusların tutuklandığını duydum!
+1566182,,Ne kadar da korkutucu bir dünyada yaşıyoruz... Giran ile ilişkileirmiz hiç düzelebilecek mi acaba?
+1566021,,Gardınızı düşürmeyin.
+1566022,,Her yeer casus dolu!
+1566351,,Batı oldukça tehlikelidir. dikkatli olun!
+1566352,,Buradaki Kertenkele adamlarda bir tuhaflık var...
+1566061,,Fildişi Kulesi Büyücüleri bizden uzak durmaya mı çalışıyorlar?
+1566062,,Fildüşü Kulesi güçlerini bizimle birleştirse her şey yoluna girerdi.
+1566111,,Bizler Einhasad çocuklarıyız.
+1566112,,Savaşta ölürsek Einhasad şüphesiz bize kızacaktır.
+1566141,,Lütfen... artık savaş olmasın...
+1566142,,Bu topraklara barış hüküm sürsün...
+1566091,,"Gördüğünüz şüpheli herkesi muhafızlara bildirmeyi unutmayın, tamam mı?"
+1566092,,"Kale'nin dışına çıkmayın, tamam mı?"
+1566361,,Klanala ilgili tüm görevler için gidip Sereos'u görün.
+1566362,,Lütfen casus olduğunu düşündüğünüz herkesi rapor edin.
+1566341,,Ah! hava o kadar güzel ki!
+1566342,,Yerdeki işaretin dışında çıkarsan ebe sen olursun!
+1565231,,Koca Yem! Koca Yem'inizi alın!
+1565232,,Bu olta bizzat Einhasad tarafından kutsanmıştır!
+1566291,,Neye bakıyorsun? Kaybol!
+1566292,,Argh! Ptuuh!
+1566381,,Off... Dünya neden bu kadar kokutucu?
+1566382,,Komşu kız da casuslukla suçlamış diye duydum.
+1565971,,Kertenkeleadamlar ile Orklara dikkat eidn.
+1565972,,İşler tehlikeli bir hal alırsa kaleden yardım isteyin.
+1569231,,Acaba yumurtayı kimse fark etmeden nasıl alabiliriz?
+1569232,,Belki de Kertenkele adam yumrutaları satmaya başlamak istiyorsundur?
+1569251,,Vay! Bu ne süpriz! Burada ne yapıyorsun?
+1569252,,Şu rener! Ona gerçek yeteneklerimi göstereceğim!
+1569253,,Pelerinim... yepyeniydi...
+1569321,,Sen de Orc avlamaya mı geldin?
+1569322,,Yine karşılaştık!
+1569323,,Orc avına çıkmaya hazır mısın?
+1569261,,"Oh, seni buraya hangi rüzgar attı?"
+1569262,,Yine bana yardımcı olmaya mı geldin?
+1569271,,Eğer Ceza Gürzü bulursan bana sat!
+1569272,,Tanor liderinin korsesini gördün mü? Bayağı iyi bir fiyata gider gibi görünüyor.
+1569301,,Uzun zamandır görüşmemiştik!
+1569302,,Hepimiz de Şef Tanor olmaya çalışalım mı?
+1610011,,Yenileyicilerin mi azaldı? Çok ucuza alabilirsin!
+7920011,,Klan'ın ricasını dinlemek ister misin?
+7920012,,Klan Meydanı seviyesi yükseldikçe kullanabileceğin alan artar!
+7920021,,Varkaron'un kadim yadigarını duydun mu?
+7920022,,Bulduğun ilgin yadigarları bana getirebilirsin!
+7920023,,Yadigarlar hakkında düşünmek bile beni heyecanlandırıyor! Haha!
+7920041,,Bu kadar düşük kaliteli yenileyici kullanma - bu işi bana bırak!
+7920042,,Benim yenileyicilerim kesinlikle Aden'in en iyileri!
+7920043,,Tek bir iksirle bir Böcayı kadar güçlü olabilirsin!
+7920031,,Vay be! Manzara inanılmaz!
+7920032,,Bir çiçek buketi nasıl bu kadar kırmızı olabilir?
+7920033,,Hizmetçi kızlar çok tatlı!
+7920061,,"Karnından sesler geldiğinde, her zaman bana uğrayabilirsin!"
+7920062,,Taze malzemelerle her gün yemek pişiriyorum!
+7920063,,Yeni yemeğimin lezzet testinde bana yardımcı olmak ister misin?
+7920081,,Günde bir kez bana uğramayı unutma!
+7920082,,"Senin için günlük hediyelerim var, miyav!"
+7920083,,Klan Meydanı'nın seviyesi artınca daha iyi hediyeler vereceğim.
+7920181,,Çok güzel değil mi? Bir kadının dudakları kadar kırmızı.
+7920182,,Çiçek bahçesinin bakımını bana bırak.
+7920183,,Çiçek mi bakıyorsun? Kimin için olacak? Hehe!
+7920191,,Bu haftanın tüm Klan Meydanı görevlerini tamamladın mı?
+7920192,,Beni o kadar güzel mi buluyorsun? Lütfen öyle bakmamaya çalış.
+7920193,,Klan Meydanı Şöminesinin sıcaklığını çok seviyorum.
+7920194,,"Klanımız, Aden'deki en iyi klan!"
+7920111,,Klan Meydanı'na hoş geldin!
+7920112,,Hoş geldin! Bahçenin tadını çıkarmak için mükemmel bir gün.
+7920113,,Senin dönüşünü bekliyordum. Hoş geldin.
+7920131,,Hadi ya... Nereye koymuş olabilirim ki?
+7920132,,Sorumlu seni bekliyor olmalı...
+7920133,,Hmm... Burada bırakmıştım. Nereye gitmiş olabilir ki?
+7921011,,@7920011
+7921012,,Klan Ana Meydanı genişletmesi tamamlandı.
+7921013,,@7920012
+7921021,,@7920021
+7921022,,@7920022
+7921023,,@7920023
+7921041,,@7920041
+7921042,,@7920042
+7921043,,@7920043
+7921031,,@7920031
+7921032,,@7920032
+7921033,,@7920033
+7921061,,@7920061
+7921062,,@7920062
+7921063,,@7920063
+7921081,,@7920081
+7921082,,@7920082
+7921083,,Klan Meydanı'nın seviyesi arttığına göre sana daha iyi hediyeler vereceğim.
+7921181,,@7920181
+7921182,,@7920182
+7921183,,@7920183
+7921191,,@7920191
+7921192,,@7920192
+7921193,,@7920193
+7921194,,@7920194
+7921111,,@7920111
+7921112,,@7920112
+7921113,,@7920113
+7921131,,@7920131
+7921132,,@7920132
+7921133,,@7920133
+7922011,,@7920011
+7922012,,İkincil Klan Meydanı genişletmesi tamamlandı.
+7922013,,@7920012
+7922021,,@7920021
+7922022,,@7920022
+7922023,,@7920023
+7922041,,@7920041
+7922042,,@7920042
+7922043,,@7920043
+7922031,,@7920031
+7922032,,@7920032
+7922033,,@7920033
+7922061,,@7920061
+7922062,,@7920062
+7922063,,@7920063
+7922081,,@7920081
+7922082,,@7920082
+7922083,,@7921083
+7922181,,@7920181
+7922182,,@7920182
+7922183,,@7920183
+7922191,,@7920191
+7922192,,@7920192
+7922193,,@7920193
+7922194,,@7920194
+7922111,,@7920111
+7922112,,@7920112
+7922113,,@7920113
+7922131,,@7920131
+7922132,,@7920132
+7922133,,@7920133
+7923011,,@7920011
+7923012,,Bütün Klan Meydanı alanları genişledi. Ne harika bir görüntü!
+7923013,,@7920012
+7923021,,@7920021
+7923022,,@7920022
+7923023,,@7920023
+7923041,,@7920041
+7923042,,@7920042
+7923043,,@7920043
+7923031,,@7920031
+7923032,,@7920032
+7923033,,@7920033
+7923061,,@7920061
+7923062,,@7920062
+7923063,,@7920063
+7923081,,@7920081
+7923082,,@7920082
+7923083,,@7921083
+7923181,,@7920181
+7923182,,@7920182
+7923183,,@7920183
+7923191,,@7920191
+7923192,,@7920192
+7923193,,@7920193
+7923194,,@7920194
+7923111,,@7920111
+7923112,,@7920112
+7923113,,@7920113
+7923131,,@7920131
+7923132,,@7920132
+7923133,,@7920133
+1085041,,Tehlike bölgesi! Geri dön!
+1085051,,Guillotine Kalesi ileride.
+1085011,,Kendine hakim olman en iyisi!
+1085031,,Agoni Ordusu ile yüzleşmek zorunda mıyız...?
+650521,,Size söylüyorum! Sakın dışarı çıkmaya kalkmayın!
+650401,,Krrr!
+650402,,Krrr! Krrr!
+650403,,Krrrr!
+1601631,,Bunun iyi para getireceğinden eminim.
+1602611,,O-oh! ne yapacağız?
+30001011,,Peri Ormanı'na hoş geldiniz.
+30001021,,O tuhaf canavarlar yüzünden eve gidemiyorum. Lütfen yardım et.
+21000011,,은빛 용병단에 어울리는 은빛 무기들입니다!
+21000012,,당신에게 곧 다가올지도 모르는 시련에 대비하세요!
+21000021,,이곳엔 특별한 장비가 많군.
+21000022,,은빛 용병단은 이런 장비를 하고 싸운단 말인가? 대단하군.
+21000031,,하늘에서는 뭘 낚을 수 있을까…?
+21000032,,"어차피 강에서도 아무 것도 못 낚는데, 하늘에라도 낚싯대를 던져볼까?"
+21000041,,천공섬 마그나딘까지 먼 여행길 오시느라 출출하시죠~?
+21000042,,잘 구워진 마그나딘 특제 호밀빵이 있습니다~ 어서 오세요~
+21000051,,마그나딘이 일반인에게 공개된 기념으로 특별 주문서를 판매합니다!
+21000052,,아직 일반인에게는 공개되지 않은 특별한 주문서입니다!
+21000061,,은빛 용병단의 눈부신 업적이 기록된 책입니다!
+21000062,,이 책을 집필하기 위해 수많은 은빛 용병단과 함께 했답니다.
+21000071,,자! 빨리 일해요 일! 하딘님께서 나머지 구역을 공개하기 전에 끝내야 합니다!
+21000072,,여기 상업 지구 외에도 마그나딘은 엄청나게 넓다고요!
+21000081,,천공에 빛나는 영혼… 은빛으로 날개짓하네~
+21000082,,그 찬란한 빛 아래… 스며든 온기 속에~ 새로운 희망이 잉태하네~
+21000091,,너무 뛰어다니지 말거라~ 그러다 다쳐~
+21000092,,"후후, 보고만 있어도 정말 귀여운 손녀랍니다."
+21000101,,천공섬~ 마그나딘~
+21000102,,하늘을~ 난다~ 마그나딘~
+21000111,,천공섬이라니… 너무 낭만적이에요!
+21000112,,"우리, 여기서 결혼식도 올릴 거죠?"
+21000121,,"글쎄, 이 마그나딘은 거인의 힘으로 떠 있는 거래!"
+21000122,,굉장하지 않아? 거인의 힘으로 하늘에 떠 있다니….
+21000131,,진짜? 거인의 힘으로? 대단하다!
+21000132,,거인은 도대체 어떻게 생겼을까?
+21000141,,이 거대한 도시가 떠오를 정도의 힘이라니….
+21000142,,도대체 거인들은 어떤 문명을 가지고 있었을까요?
+21000151,,"대륙… 아니지, 천공 최고의 펫을 구경하세요!"
+21000152,,그 어디서도 보지 못한 당신만을 위한 펫이 기다리고 있습니다!
+210000011,,자네 짐이 너무 무거워 보이는군!
+210000012,,물건 좀 맡기고 가지 그러나!
+210002401,,거기 너! 그러다 어깨 내려앉겠다옹! 이리 맡기고 가라옹!
+210002402,,쓸데없이 무슨 짐이 그리 많냐옹? 여기에 맡기라옹~

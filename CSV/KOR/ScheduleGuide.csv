@@ -1,0 +1,31 @@
+Id,Name,Order,TimeType,Type,Value,Keyword,IconTexture,Desc,MoveContentType
+1,공성전,1,1,1,1,CASTLE_SIEGE,UI_Icon_Battle,성을 점령할 최강의 혈맹을 가리는 공성전이 진행됩니다.,50
+2,요새전,1,1,1,2,FORTRESS_SIEGE,UI_Icon_Battle,23개 요새의 주인이 탄생하는 요새전이 진행됩니다.,51
+3,자유 요새전,1,1,1,3,FREE_FORTRESS_SIEGE,UI_Icon_Battle,동등한 조건에서 원하는 클래스를 골라 싸우는 누구나 참여 가능한 자유 요새전이 진행됩니다.,52
+4,명예의 전장,1,1,1,4,PVP_BATTLEFIELD_3VS3,UI_Icon_Battle,"힘과 조합, 전략으로 겨루는 3대3 명예의 전장이 진행됩니다.",80
+5,공성전 입찰,2,1,1,5,CASTLE_SIEGE,UI_Icon_Battle,최대 50자 입력 예정,50
+6,요새전 입찰,2,1,1,6,FORTRESS_SIEGE,UI_Icon_Battle,최대 50자 입력 예정,51
+7,자유 요새전 입장 신청,1,1,1,7,FREE_FORTRESS_SIEGE,UI_Icon_Battle,최대 50자 입력 예정,52
+8,광기의 제단,3,2,2,100001,PARTY_DUNGEON_1,UI_Btn_Party_Dungeon,최대 50자 입력 예정,14
+9,광기의 제단: 악몽,3,2,2,100005,PARTY_DUNGEON_HARD_1,UI_Btn_Party_Dungeon,최대 50자 입력 예정,14
+10,피의 여백작 침소,3,2,2,100103,PARTY_DUNGEON_2,UI_Btn_Party_Dungeon,최대 50자 입력 예정,14
+11,피의 여백작 침소: 악몽,3,2,2,100105,PARTY_DUNGEON_HARD_2,UI_Btn_Party_Dungeon,최대 50자 입력 예정,14
+12,창조의 신전,3,2,2,100200,PARTY_DUNGEON_3,UI_Btn_Party_Dungeon,최대 50자 입력 예정,14
+13,접속 포인트,4,3,3,40600,EVENT,UI_Btn_Event,최대 50자 입력 예정,26
+14,문자 조합,4,3,3,20007,EVENT,UI_Btn_Event,최대 50자 입력 예정,144
+15,이벤트 상점,4,3,3,1002,EVENT,UI_Btn_Event,최대 50자 입력 예정,26
+16,주사위 이벤트,4,3,3,21001,EVENT,UI_Btn_Event,최대 50자 입력 예정,123
+17,아이멜의 교습소,4,3,3,23000,EVENT,UI_Btn_Event,최대 50자 입력 예정,125
+18,페르넬의 유적탐사,4,3,3,40100,EVENT,UI_Btn_Event,최대 50자 입력 예정,145
+19,네로 주사위 이벤트,4,3,3,21002,EVENT,UI_Btn_Event,최대 50자 입력 예정,124
+20,신의 선물,4,3,3,60004,EVENT,UI_Btn_Event,최대 50자 입력 예정,0
+21,가격 할인 이벤트-장비 레벨업,2,3,4,2,FORGE,UI_Btn_Event,최대 50자 입력 예정,56
+22,가격 할인 이벤트-집혼석 레벨업,2,3,4,3,SOUL_CRYSTAL,UI_Btn_Event,최대 50자 입력 예정,21
+23,가격 할인 이벤트-펫장비 레벨업,2,3,4,1,RIDINGPET_EQUIPLEVELUP,UI_Btn_Event,최대 50자 입력 예정,93
+24,핫타임 경험치 이벤트,2,1,3,40001,,UI_Btn_Event,최대 50자 입력 예정,0
+25,핫타임 아데나 이벤트,2,1,3,40002,,UI_Btn_Event,최대 50자 입력 예정,0
+26,핫타임 아이템 이벤트,2,1,3,40003,,UI_Btn_Event,최대 50자 입력 예정,0
+27,핫타임 몬스터 코어 이벤트,2,1,3,40004,,UI_Btn_Event,최대 50자 입력 예정,0
+28,공성전 축제,3,1,1,8,FESTIVAL,UI_Btn_Event,최대 50자 입력 예정,102
+29,행운 상자,2,3,5,,,UI_Btn_Event,최대 50자 입력 예정,142
+30,한정 상점,2,1,6,,,UI_Btn_Event,최대 50자 입력 예정,26

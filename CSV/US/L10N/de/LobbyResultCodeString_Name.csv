@@ -1,0 +1,43 @@
+Key,Value
+10001,Die Paketversion stimmt nicht mit der des Servers überein. App neustarten.
+10002,Spiel für Update neustarten.
+10003,Serverfehler (DB)
+10004,Serverfehler (LUA)
+10005,Exceltabellenfehler
+10006,Serverfehler (Parameter)
+10007,Serverfehler (Logik)
+10008,Serverfehler
+10009,Du bist nicht eingeloggt.
+10010,Du bist bereits eingeloggt.
+10011,"Es gibt keine Ziele, die du hinauswerfen könntest."
+10012,Unzulässige Authentifikation
+10013,Unzulässige Charakterkennung.
+10014,Unzulässige Klasseninformation.
+10015,Unzulässiges Geschlecht.
+10016,Unzulässiger Name.
+10017,Unzulässige NPC-Information.
+10018,Unzulässige Spielerkennung.
+10019,Unzulässige Rasseninformation.
+10020,Unzulässige Fertigkeit.
+10021,Unzulässiges Fertigkeitsziel.
+10022,Unzul. Status.
+10023,Unzulässige Regionsinformation.
+10024,Gerätekennung ist leer.
+10025,Der Name wird bereits verwendet.
+10026,Fertigkeit ist im Casting.
+10027,Zurzeit außer Gefecht.
+10028,Du bist nicht tot.
+10029,Nicht genug MP.
+10030,Sitzung wurde getrennt.
+10031,GameToken ist nicht aktuell.
+10032,"Protokollfehler.
+Neueste Aktualisierung wird benötigt."
+10033,Systemfehler
+10034,GameToken-Formatfehler
+10035,GameToken existiert nicht.
+10036,Wartung im Gange.
+10037,Account ist leer.
+10038,Bald verfügbar.
+10039,"Du kannst diesen Server nicht betreten, da die Charaktererstellung eingeschränkt ist. Bitte nutze einen anderen Server."
+10040,Netmarble-Sicherheit ist fehlgeschlagen
+10100,Dieser Spieler ist fort.

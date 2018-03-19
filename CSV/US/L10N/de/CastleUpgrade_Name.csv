@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Verlängerung der Prägung von Heiligen Artefakten,Erhöht die zum Prägen eines Heiligen Artefakts benötigte Zeit um 1 Sekunde.
+1002,@1001,Erhöht die zum Prägen eines Heiligen Artefakts benötigte Zeit um 2 Sekunden.
+1003,@1001,Erhöht die zum Prägen eines Heiligen Artefakts benötigte Zeit um 3 Sekunden.
+1004,@1001,Erhöht die zum Prägen eines Heiligen Artefakts benötigte Zeit um 4 Sekunden.
+1005,@1001,Erhöht die zum Prägen eines Heiligen Artefakts benötigte Zeit um 5 Sekunden.
+2001,Verteidigungsturm-LP-Erhöhung,Erhöht die Verteidigungsturm-LP um 500.
+2002,@2001,Erhöht die Verteidigungsturm-LP um 1.000.
+2003,@2001,Erhöht die Verteidigungsturm-LP um 1.500.
+2004,@2001,Erhöht die Verteidigungsturm-LP um 2.000.
+2005,@2001,Erhöht die Verteidigungsturm-LP um 2.500.
+3001,Fallen-ANG-Erhöhung,"Erhöht Fallen-ANG um 1 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu."
+3002,@3001,"Erhöht Fallen-ANG um 2 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu."
+3003,@3001,"Erhöht Fallen-ANG um 3 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu."
+3004,@3001,"Erhöht Fallen-ANG um 4 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu."
+3005,@3001,"Erhöht Fallen-ANG um 5 %.
+Fallen fügen Gegnern prozentualen Schaden auf Basis ihrer max. LP zu."

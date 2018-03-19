@@ -1,0 +1,54 @@
+Id,Name,Description,Unit
+1001,Kampfkraft,Kampfkraft-Rang,Kampfkraft
+1,Level,Charakterlevel-Rang,Level
+2,P-ANG,Max.-P-ANG-Rang,P-ANG
+3,P-VER,Max.-P-VER-Rang,P-VER
+4,M-ANG,Max.-M-ANG-Rang,M-ANG
+5,M-VER,Max.-M-VER-Rang,M-VER
+6,LP,Max.-LP-Rang,LP
+7,Runenprägung,Runenprägung-Erfolgsrang,Anzahl
+8,Elixier,Elixier-Anwendungsrang,Nummer
+9,Monsterkodex,Monsterkodex-Vervollständigungsrang,Abgeschlossen
+10,Level insgesamt,Charakterlevel-Server-Gesamtrang,@1
+12,Ehrenpunkte,Ehrenpunkte-Gesamtrang,Punktzahl
+13,Gesamtzahl,Arenazutritte-Gesamtrang,@7
+14,Siege insgesamt,Arenagewinnzahl-Gesamtrang,Siege
+15,Siegesserie,Max.-Siegesserie-Rang,@7
+18,Wöchentlicher Beitrag,Rang eigener wöchentlicher Klan-Beiträge,Bei.-Pkt.
+19,Beitragspunkte insgesamt,Rang eigener Klan-Beiträge,@18
+20,"Belagerungs-
+beitrag",Rang eigener Belagerungsbeiträge,Beitrag
+21,"Festenbelager-
+ungsbeitrag",Rang eigener Festenbelagerungsbeiträge,@20
+22,Heldenerfolge,Helden-Erfolgspunkte-Rang,@12
+27,Einchecken,Rang eingecheckter Tage,Tage
+28,Handel zum max. Preis,Rang des Handels zum max. Preis,Handelspreis
+29,Handel,Max.-Handel-Rang,@7
+30,Aufwertungen,Max.-Aufwertungen-Rang,@7
+31,Aufgewertetes Set,Rang für max. aufgewertete Sets,Aufwertungen
+32,Kombinationen,Max.-Kombinieren-Rang,@7
+33,Verbesserungen,Max.-Verbessern-Rang,@7
+34,Limit-Breaks,Max.-Limit-Breaks-Rang,@7
+35,Turm der Anmaßung,Rang für die höchste Turm der Anmaßung-Etage,Höchste Etage
+48,Klanruf,Klanruf-Rang,@12
+49,Kampfkraft,Klan-Kampfkraft-Rang,@1001
+1000,Geplänkel-Arena,Rang - Geplänkel-Arena,@12
+4000,Ehrenhaftes Schlachtfeld,Gesamtrang - Ehrenhaftes Schlachtfeld,@12
+4001,@4000,Rang 3 - Ehrenhaftes Schlachtfeld (Bronze),@12
+4002,@4000,Rang 2 - Ehrenhaftes Schlachtfeld (Bronze),@12
+4003,@4000,Rang 1 - Ehrenhaftes Schlachtfeld (Bronze),@12
+4004,@4000,Rang 3 - Ehrenhaftes Schlachtfeld (Silber),@12
+4005,@4000,Rang 2 - Ehrenhaftes Schlachtfeld (Silber),@12
+4006,@4000,Rang 1 - Ehrenhaftes Schlachtfeld (Silber),@12
+4007,@4000,Rang 3 - Ehrenhaftes Schlachtfeld (Gold),@12
+4008,@4000,Rang 2 - Ehrenhaftes Schlachtfeld (Gold),@12
+4009,@4000,Rang 1 - Ehrenhaftes Schlachtfeld (Gold),@12
+4010,@4000,Ehrenhaftes Schlachtfeld (Platin) Rang 3,@12
+4011,@4000,Ehrenhaftes Schlachtfeld (Platin) Rang 2,@12
+4012,@4000,Ehrenhaftes Schlachtfeld (Platin) Rang 1,@12
+4013,@4000,Ehrenhaftes Schlachtfeld (Diamant) Rang 3,@12
+4014,@4000,Ehrenhaftes Schlachtfeld (Diamant) Rang 2,@12
+4015,@4000,Ehrenhaftes Schlachtfeld (Diamant) Rang 1,@12
+4016,@4000,Ehrenhaftes Schlachtfeld (Meister) Rang,@12
+4017,@4000,Ehrenhaftes Schlachtfeld (Großmeister) Rang,@12
+4018,@4000,Ehrenhaftes Schlachtfeld (Legende) Rang,@12

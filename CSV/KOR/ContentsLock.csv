@@ -1,0 +1,107 @@
+Id,Keyword,ConditionType,ConditionValue,ConditionSubValue,ShowInProgressBar,SortNum,ContentsDesc,Name,ContentIcon,BadgeType
+1,FORGE,2,1011,0,1,1,다양한 방법으로 장비의 성능을 향상시킵니다.,대장간,UI_Btn_EquipmentEnhancement,22
+2,SOULSHOT,2,1017,0,1,2,무기에 정령의 힘을 부여하여 강한 공격을 가합니다.,정령탄,UI_Icon_Soulshot2,271
+3,DUNGEON,2,1025,0,0,,,던전,UI_Btn_Dungeon,33
+4,DAILY_DUNGEON,2,1025,0,1,3,요일별로 다양한 보스와 보상을 만날 수 있는 던전입니다.,요일 던전,UI_Btn_Dungeon,130
+5,HEROIC,2,1036,0,1,5,아덴을 모험할수록 더 많은 보상을 얻습니다.,업적,UI_Btn_Achievement,27
+6,FRIEND,0,1,0,0,,,친구,UI_Btn_Friend,49
+8,GACHA_PREMIUM,2,1041,0,1,6,매일 최소 A급 이상의 장비 또는 연마제를 무료로 얻습니다.,프리미엄 장비,UI_Btn_DiaShop,105
+10,PVP,2,1106,0,1,8,아덴의 다양한 모험가들과 실력을 겨룹니다.,결투장,UI_Btn_BattleField,150
+11,RANKING,0,1,0,0,,,랭킹,UI_Btn_Ranking,35
+12,COMPOSITION,2,1111,0,1,9,두 장비를 합성하여 한 등급 높은 장비를 얻습니다.,합성,UI_Btn_EquipmentEnhancement,121
+13,ENCHANT,2,1115,0,1,14,강화주문서를 사용하여 장비의 성능을 향상시킵니다.,강화,UI_Btn_EquipmentEnhancement,122
+14,GUILD,0,10,,0,,,혈맹,UI_Btn_Guild,54
+15,INFINITY_DUNGEON,2,1120,0,1,10,끝없이 높은 탑에 도전하여 자신의 한계를 시험합니다.,오만의 탑,UI_Btn_Dungeon,131
+16,RUNE,2,1120,5,1,11,룬을 각인하여 자신의 능력을 영구히 향상시킵니다.,룬 각인,UI_Btn_Rune,8
+17,UPGRADE,2,1125,0,1,12,장비의 외형과 옵션을 보존하면서 등급을 향상시킵니다.,승급,UI_Btn_EquipmentEnhancement,120
+18,DAILY_ACTIVITY,2,1132,0,0,,,오늘의 활동,UI_Btn_Mission,111
+19,MISSION_REQUEST,2,2005,0,0,,,일일 퀘스트,UI_Btn_QuestProgress,271
+20,REQUEST_WEEKLY,2,2010,0,0,,,주간 퀘스트,UI_Btn_QuestProgress,271
+21,SOUL_CRYSTAL,2,2118,0,1,15,장비에 혼이 담긴 보석을 박아 특수한 능력을 얻습니다.,집혼석,UI_Btn_JewelCraft,23
+22,ELITE_DUNGEON_0,2,2102,0,1,13,몹시 위험하지만 멋진 보상이 있는 던전에 도전합니다.,정예 던전,UI_Btn_Dungeon,133
+23,ELITE_DUNGEON_1,2,2102,0,0,,,엘프의 유적지 1층,UI_Btn_Dungeon,271
+24,MONSTER_BOOK,2,2122,3,1,16,몬스터의 코어를 수집하여 다양한 보상을 얻습니다.,몬스터 도감,UI_Btn_MonsterBook,28
+25,UNIQUE_SKILL,2,2126,0,1,17,"쉽게 얻을 수 없지만, 강력한 스킬을 사용할 수 있습니다.",레어 스킬,UI_Btn_Skill,271
+27,AUCTION_HOUSE,0,21,0,0,,,거래소,UI_Btn_AuctionHouse,39
+28,ELIXIR,2,3324,6,1,18,엘릭서를 복용하여 자신의 능력을 영구히 향상시킵니다.,엘릭서,UI_Btn_MiscCraft,271
+29,COLLECT_DUNGEON,2,3326,0,1,19,엘릭서 제조에 필요한 약초를 채집할 수 있습니다.,채집 던전,UI_Btn_Dungeon,132
+30,AUTO_COMBAT,2,1025,0,1,4,캐릭터가 스스로 주변의 적을 찾아 전투를 수행합니다.,자동 전투,UI_Btn_AutoCombat3,271
+40,CHARACTER_TITLE,2,1036,0,0,,칭호 입니다.,칭호,UI_Btn_CharacterTitle,169
+101,DAILY_DUNGEON_NORMAL,2,1025,,0,,,요일 던전(보통),UI_Btn_Dungeon,271
+102,ELITE_DUNGEON_2,0,20,,0,,,엘프의 유적지 2층,UI_Btn_Dungeon,271
+103,CLASS_TRANSFER,0,31,,0,,,전직,UI_Btn_Class,271
+104,DAILY_DUNGEON_HARD,2,1025,,0,,,요일 던전(어려움),UI_Btn_Dungeon,271
+105,ELITE_DUNGEON_3,0,30,,0,,,개미굴 지하 1층,UI_Btn_Dungeon,271
+106,ELITE_DUNGEON_4,0,45,,0,,,개미굴 지하 2층,UI_Btn_Dungeon,271
+107,DAILY_DUNGEON_EXPERT,2,1025,,0,,,요일 던전(매우 어려움),UI_Btn_Dungeon,271
+108,ELITE_DUNGEON_5,0,65,,0,,,크루마 탑 2층,UI_Btn_Dungeon,271
+109,ELITE_DUNGEON_6,0,90,,0,,,크루마 탑 3층,UI_Btn_Dungeon,271
+110,ELITE_DUNGEON_7,0,128,,0,,,상아탑 지하 1층,UI_Btn_Dungeon,271
+111,ELITE_DUNGEON_8,0,140,,0,,,상아탑 지하 2층,UI_Btn_Dungeon,271
+112,EXP_DUNGEON,2,4312,0,1,22,몰려오는 마물을 처치하고 대량의 경험치를 얻습니다.,경험치 던전,UI_Btn_Dungeon,134
+113,ADENA_DUNGEON,2,4298,0,1,21,금을 지키는 용을 처치하고 대량의 아데나를 얻습니다.,아데나 던전,UI_Btn_Dungeon,135
+114,EQUIP_DUNGEON,2,3099,0,1,20,마물로부터 신전을 방어하고 장비를 얻습니다.,장비 던전,UI_Btn_Dungeon,136
+115,SUMMON_STONE_DUNGEON,2,6121,,0,,,소환석 던전,UI_Btn_Dungeon,139
+116,GUILD_DUNGEON_1,3,2,,0,,,바르칼론 혈맹 던전,UI_Btn_Dungeon,271
+117,GUILD_DUNGEON_2,4,90101,,0,,,여왕개미 혈맹 던전,UI_Btn_Dungeon,271
+118,FORTRESS_SIEGE,0,10,,0,,,요새전,UI_Btn_BattleField,271
+119,CASTLE_SIEGE,0,10,,0,,,공성전,UI_Btn_BattleField,271
+120,SKILL_LEVELUP,2,1101,0,1,7,스킬 레벨을 향상시켜 더 강력한 효과를 얻습니다.,스킬 레벨업,UI_Btn_Skill,36
+121,REFINEMENT_DUNGEON,6,0,,0,,몬스터가 지키는 차원문을 파괴하세요,세련석 던전,UI_Btn_Dungeon,271
+122,NECKLACE_UNLOCK,8,2,,0,,,인벤토리,UI_Btn_Class,271
+123,GUILD_DUNGEON_3,4,90301,,0,,,크루마 코어,UI_Btn_Dungeon,271
+125,PVP_BATTLEFIELD_3VS3,0,40,,0,,,명예의 전장,UI_Btn_BattleField,271
+126,AGIT,3,5,,0,,,아지트,UI_Btn_Guild,271
+127,ELITE_DUNGEON_9,0,162,,0,,,상아탑 지하 3층,UI_Btn_Dungeon,271
+128,MELEE,0,31,,0,,,난투장,UI_Btn_BattleField,271
+129,RIDING_PET,7,33,50,0,,,펫,UI_Btn_Pet,271
+132,ELITE_DUNGEON_9,0,180,,0,,,비밀의 숲 상층,UI_Btn_Dungeon,271
+133,ELITE_DUNGEON_10,0,182,,0,,,상아탑 지하 연구소,UI_Btn_Dungeon,271
+134,ELITE_DUNGEON_11,0,230,,0,,,비밀의 숲 하층,UI_Btn_Dungeon,271
+135,ELITE_DUNGEON_12,0,260,,0,,,비밀의 숲 학살지,UI_Btn_Dungeon,271
+136,ACCOUNT_STORAGE,7,50,30,0,,,창고,UI_Btn_TreasureBox,271
+137,CAPE,0,75,,0,,,망토,UI_Btn_Cape,271
+138,FREE_FORTRESS_SIEGE,0,11,,0,,,자유요새전,UI_Btn_BattleField,271
+139,CLASS_TRANSFER_2,8,2,250,0,,,2차 전직,UI_Btn_Class,271
+140,TALISMAN,8,3,,0,,,탈리스만,UI_Btn_Talisman,271
+141,ELITE_DUNGEON_13,0,268,,0,,,용의 동굴 지하 1층,UI_Btn_Dungeon,271
+142,ELITE_DUNGEON_14,0,290,,0,,,용의 동굴 지하 2층,UI_Btn_Dungeon,271
+143,ELITE_DUNGEON_15,0,320,,0,,,용의 동굴 심층,UI_Btn_Dungeon,271
+10000,CHARACTER,0,1,,0,,해당 기능은 이용할 수 없습니다.,캐릭터,UI_Btn_Character,271
+10003,CLASS,0,1,,0,,해당 기능은 이용할 수 없습니다.,클래스,UI_Btn_Class,271
+10006,ITEMCRAFTING,0,1,,0,,해당 기능은 이용할 수 없습니다.,공방,UI_Btn_Atelier,271
+10007,QUEST,0,1,,0,,해당 기능은 이용할 수 없습니다.,퀘스트,UI_Btn_QuestProgress,271
+10008,ACTIVITY,0,1,,0,,해당 기능은 이용할 수 없습니다.,오늘의 활동,UI_Btn_Mission,271
+10011,CHARACTERTITLE,0,1,,0,,해당 기능은 이용할 수 없습니다.,칭호,UI_Btn_CharacterTitle,271
+10012,EVENT,0,1,,0,,해당 기능은 이용할 수 없습니다.,이벤트,UI_Btn_Event,271
+10013,RESTREWARD,0,1,,0,,해당 기능은 이용할 수 없습니다.,휴식보상,UI_Btn_RestReward,271
+10014,CONNECTREWARD,0,1,,0,,해당 기능은 이용할 수 없습니다.,접속보상,UI_Btn_ButtonConnectReward,271
+10015,FESTIVAL,0,1,,0,,해당 기능은 이용할 수 없습니다.,공성전 축제,UI_Btn_CastleSiegeFestival,271
+10016,WEBEVENT,0,1,,0,,해당 기능은 이용할 수 없습니다.,웹이벤트,UI_Btn_Reward,271
+10017,NORMALSHOP,0,1,,0,,해당 기능은 이용할 수 없습니다.,일반 상점,UI_Btn_Shop,271
+10018,DIASHOP,0,1,,0,,해당 기능은 이용할 수 없습니다.,다이아 상점,UI_Btn_DiaShop,271
+10019,PACKSHOP,0,1,,0,,해당 기능은 이용할 수 없습니다.,꾸러미 상점,UI_Btn_ShopPack,271
+10021,BATTLEFIELD,0,1,,0,,해당 기능은 이용할 수 없습니다.,전장,UI_Btn_BattleField,271
+10022,GUILDMAIN,0,1,,0,,해당 기능은 이용할 수 없습니다.,혈맹,UI_Btn_Guild,271
+10023,GUILDDUNGEON,0,1,,0,,해당 기능은 이용할 수 없습니다.,혈맹 던전,UI_Btn_Guild,271
+10029,INVENTORY_SELL,0,1,,0,,해당 기능은 이용할 수 없습니다.,아이템 판매,UI_btn_Inventory,271
+10030,INVENTORY_USE,0,1,,0,,해당 기능은 이용할 수 없습니다.,아이템 사용,UI_btn_Inventory,271
+10031,INVENTORY_MOVE,0,1,,0,,해당 기능은 이용할 수 없습니다.,아이템 이동,UI_btn_Inventory,271
+10032,SKILL_SKILLBOOK,0,1,,0,,해당 기능은 이용할 수 없습니다.,스킬북,UI_Btn_Skill,271
+10034,RIDINGPET_EQUIPLEVELUP,0,1,,0,,해당 기능은 이용할 수 없습니다.,펫 장비 레벨업,UI_Btn_Vehicle,271
+10035,RIDINGPET_SUMMON,0,1,,0,,해당 기능은 이용할 수 없습니다.,펫 소환,UI_Btn_Vehicle,271
+10036,RIDINGPET_LEVELUP,0,1,,0,,해당 기능은 이용할 수 없습니다.,펫 레벨업,UI_Btn_Vehicle,271
+10037,OPTION_INFO,0,1,,0,,해당 기능은 이용할 수 없습니다.,옵션 정보,UI_Btn_Setting,271
+10038,OPTION_ACCOUNT,0,1,,0,,해당 기능은 이용할 수 없습니다.,옵션 계정,UI_Btn_Setting,271
+10039,NETMARBLE_FORUM,0,1,,0,,해당 기능은 이용할 수 없습니다.,포럼,UI_BtnForum,271
+10040,RIDINGPET_ENCHANT,0,1,,0,,해당 기능은 이용할 수 없습니다.,펫 강화,UI_Btn_Vehicle,271
+20001,PARTY_DUNGEON_1,0,60,,0,,,광기의 재단,UI_Btn_Party_Dungeon,271
+20002,PARTY_DUNGEON_2,0,90,,0,,,피의 여백작 침소,UI_Btn_Party_Dungeon,271
+20003,PARTY_DUNGEON_3,0,75,,0,,,창조의 신전,UI_Btn_Party_Dungeon,271
+21001,PARTY_DUNGEON_HARD_1,5,100004,,0,,,광기의 제단,UI_Btn_Party_Dungeon,271
+21002,PARTY_DUNGEON_HARD_2,5,100104,,0,,,피의 여백작 침소,UI_Btn_Party_Dungeon,271
+401,MASTERY_SHOP,0,320,,0,,해당 기능은 이용할 수 없습니다.,정복자의 전당,UI_Btn_Shop,271
+42,ITEM_ACHIEVEMENT,8,2,,0,,,장비 수집,UI_Btn_EquipAchievement,204
+405,WorldBossRecipe_01,9,1101,,0,,,결전의 징표 : 기요틴,Icon_MonsterCore_Guillotine,271
+406,WorldBossRecipe_01,9,1102,,0,,,결전의 징표 : 자켄,Icon_MonsterCore_Zaken,271
+43,MONSTER_CARD,0,25,,0,,몬스터 카드를 수집하여 자신의 능력치를 향상시킵니다.,몬스터 카드,UI_Btn_MonsterBook,271

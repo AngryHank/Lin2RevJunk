@@ -1,0 +1,60 @@
+Id,Name
+11131,Energieblitz
+11125,Doppelschuss
+11132,Flammenschlag
+11133,Windstoß
+12131,@11131
+12125,@11125
+12132,@11132
+12133,@11133
+13131,@11131
+13125,@11125
+13132,@11132
+13133,@11133
+14131,@11131
+14125,@11125
+14132,@11132
+14133,@11133
+11252,Feuerkessel
+12221,Schallsprenger
+12222,Schallsturm
+12242,Doppelter Streuschuss
+12251,Eisspeer
+13241,Todesstachel
+30004,Blutpfeil
+30006,Rakete
+31003,Großer Knall
+50001,Monster: Feuerball
+50002,Monster: Eislanze
+50003,Monster: Erdmagie
+50004,Monster: Windmagie
+50005,Monster: Dunkle Magie
+50006,Monster: Energieblitz
+50007,Monster: Doppelschuss
+60107,@11132
+60109,Machtschuss
+73022,Zaken-Fertigkeit 2
+77085,Fertigkeit von Zakens Phantom (Quest-Boss)
+74061,Elektrische Welle
+74101,MTG_DullahanBossfertigkeit_01
+74111,MTG_DunkelfürstBossfertigkeit_01
+74121,Schwelender Schlamm
+80001,Verteidigungsturm-Geschoss des Angreifers
+1508031,@11133
+1512031,@11131
+1513021,@11131
+1513071,@11125
+1514051,@60109
+1518031,Eisblitz
+1519021,@11131
+720441,Schwerkraftgift
+601261,Fee
+601391,DrachenpythonFertigkeit_01
+601441,DunklerBund_M_HochFertigkeit_01
+731271,Freisetzen - Abschnitt 1
+731281,Freisetzen - Abschnitt 2
+731291,Freisetzen - Abschnitt 3
+731301,Freisetzen - Abschnitt 4
+731311,Freisetzen - Abschnitt 5
+731371,Deckarbeiter der Zaken-Piraten
+730311,Freisetzen - Hauptkörper

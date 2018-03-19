@@ -1,0 +1,134 @@
+Id,ActName,ChapterName
+1,1. Isla Parlante Oriental,Nace un héroe
+2,@1,La oscuridad viene
+3,@1,La primera barrera
+4,@1,Amigo de Niah
+5,@1,"¡Cazaorcos, venid!"
+6,@1,Iniciación
+7,@1,Suertudo
+8,@1,Corona élfica
+9,@1,Algo increíble
+10,@1,La segunda barrera
+11,@1,Niah desaparece
+12,2. Isla Parlante Occidental,Tras arqueólogos
+13,@12,¡A la búsqueda!
+14,@12,Sin piedad
+15,@12,Cacería
+16,@12,La tercera barrera
+17,@12,No puedo dejarlo
+18,@12,Ese individuo
+19,3. Carretera de Gludin,¡Emergencia!
+20,@19,¡Contraataquemos!
+21,@19,Algo sospechoso
+22,@19,¡Hay pruebas!
+23,@19,Chica solitaria
+24,@19,Tragedia
+25,@19,¡Al secuestrador!
+26,@19,Caras felices
+27,@19,Avaricioso
+28,@19,Premio y castigo
+29,4. Llanuras de Gludio,Gana cuando puedas
+30,@29,Ciudad sitiada
+31,@29,¡Huye!
+32,@29,2º pelotón peligra
+33,@29,División
+34,@29,Objeto conocido
+35,@29,¡Claro que sí!
+36,@29,Final esperado
+37,@29,¡No hay tiempo!
+38,@29,El héroe de Gludio
+39,5. Casa Windawood,Desaparecidos
+40,@39,¡Plan de rescate!
+41,@39,Juntos de nuevo
+42,@39,Batalla decisiva
+43,@39,Lucha del cristal
+44,@39,Hombre misterioso
+45,@39,Demonio antiguo
+46,@39,Vengar Windawood
+47,@39,Toca contraataque
+48,@39,Batalla final
+49,6. Erial,Hech. T. marfil
+50,@49,Pobre hechicero
+51,@49,Desvelar la verdad
+52,@49,Staris
+53,@49,Por los caídos
+54,@49,Vendedores raros
+55,@49,A mitad del camino
+56,@49,Pelea de Ol Mahum
+57,@49,Sofocar rebelión
+58,@49,Asuntos personales
+59,7. Llanuras de Dion,Emboscada orca
+60,@59,Carta sospechosa
+61,@59,Invasión lagarta
+62,@59,Chica con amnesia
+63,@59,A un lugar seguro
+64,@59,En busca de Elie
+65,@59,Causa confusión
+66,@59,Lucha soldado Dion
+67,@59,Obj. de H. oscura
+68,8. Pantano de Cruma,Proliferan arañas 
+69,@68,Cara agradable
+70,@68,Pantano H. oscura
+71,@68,¡Por la espalda!
+72,@68,Inv. atacados
+73,@68,Buscando la llave
+74,@68,A Torre de Cruma
+75,@68,Trampa
+76,@68,Gato sospechoso
+77,9. Cima de disonancia,Cazador del bosque
+78,@77,No eres bienvenido
+79,@77,Al jefe tanor
+80,@77,@78
+81,@77,Tanor honorable
+82,@77,Plan original
+83,@77,Enemigo público
+84,@77,Poder de facto
+85,10. Sepulcros agonizantes,Por los muertos
+86,@85,Reto infinito
+87,@85,Cara familiar
+88,@85,No debería estar
+89,@85,Muerte acelerada
+90,@85,Trampa cruel
+91,@85,Contrato
+92,@85,Vuelve a dormir
+93,@85,El negocio sigue
+94,11. Dominios de Giran,Rebajas al empezar
+95,@94,Favor de gato
+96,@94,Buscar hermano I
+97,@94,Buscar hermano II
+98,@94,Reina de Gorgon
+99,@94,La caja de Pandora
+100,@94,Pasado sellado
+101,@94,Encubrimiento
+102,@94,¿Y la delegación?
+103,@94,Delegación de rescate
+104,12. Orillas de niebla sepulcral,Venganza de Pan
+105,@104,Transporte desaparecido
+106,@104,Desvelar la verdad
+107,@104,Huida realista
+108,@104,Reorganización
+109,@104,Entrega del objeto
+110,@104,Rastro de Gnosis
+111,@104,Duermevela eterno
+112,@104,Sigue investigando
+113,@104,Puerto oscuro
+114,@104,Piratas revividos
+115,13. Isla del Diablo,La avanzadilla
+116,@115,Conducta extraña
+117,@115,Lugar donde volver
+118,@115,Tragedia I
+119,@115,Pasado de piratas
+120,@115,La furia de Frederick I
+121,@115,Tragedia II
+122,@115,La furia de Frederick II
+123,@115,Malas noticias
+124,14. Necrópolis encantada,Rescata la delegación Oren
+125,@124,¡Hay que resistir!
+126,@124,El árbol protector
+127,@124,Fantasma pasado
+128,@124,Recuerdos muertos
+129,@124,Mensaje de futuro
+130,@124,Pan es Pan
+131,@124,Custodios
+132,@124,Espada de espíritu
+133,@124,Esperanza resurge

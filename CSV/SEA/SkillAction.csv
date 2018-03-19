@@ -333,3 +333,7 @@ Index,Id,NameKey,Type,Operation,Parameter,StartAttack,FireOnFinish
 400204982,40020498,0,Sequence,Teleport,Rear,0,0
 400204983,40020498,0,Sequence,Fade,"Type:In, Time:0.7",0,1
 78,73027,0,Sequence,Teleport,Rear,1,1
+79,12234,0,Group,Collision,Name:Ghost,0,0
+80,12234,0,Group,HitState,,0,0
+81,12234,0,Sequence,Wait,Section:Start,1,0
+82,12234,0,Sequence,PiercingMove,"Type:Direct, Dist:4, Speed:20, Acc:20",0,1

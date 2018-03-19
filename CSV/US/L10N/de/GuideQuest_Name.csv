@@ -1,0 +1,106 @@
+Id,Title,Desc
+31001,Episode abgeschlossen,Erledige Episode <RedBold>1-2</>.
+31002,Ausrüstungslevelaufstieg,"Versuche <RedBold>[Value]</> Mal, Ausrüstung im Level aufsteigen zu lassen. ([Value1]/[Value2])"
+31003,@31001,Erledige Episode <RedBold>1-5</>.
+31004,Kampfkraft,Erreiche eine maximale Kampfkraft von <RedBold>[Value]</>. ([Value1]/[Value2])
+31005,Arena,Stelle dich <RedBold>[Value]</> Mal der Arena. ([Value1]/[Value2])
+31006,Ausrüstung erhalten,Erhalte <RedBold>[Value]</> Ausrüstung. ([Value1]/[Value2])
+31007,Fertigkeit im Level aufsteigen lassen,Lasse eine Fertigkeit <RedBold>[Value]</> Mal im Level aufsteigen. ([Value1]/[Value2])
+31008,@31002,@31002
+31009,Erfolgspunkte,Erreiche <RedBold>[Value]</> Erfolgspunkt(e). ([Value1]/[Value2])
+31010,Beim Klan einchecken,Check-in <RedBold>[Value]</> Mal an den Klan. ([Value1]/[Value2])
+31011,Klan-Spende,Spende <RedBold>[Value]</> Mal an den Klan. ([Value1]/[Value2])
+31012,Klanladen,Kaufe <RedBold>[Value]</> Mal einen Klan-Buff. ([Value1]/[Value2])
+31013,Den Turm der Anmaßung betreten,Stelle dich <RedBold>[Value]</> Mal dem Turm der Anmaßung. ([Value1]/[Value2])
+31014,Den Turm der Anmaßung auto-erledigen,Auto-Erledige <RedBold>[Value]</> Mal den Turm der Anmaßung. ([Value1]/[Value2])
+31015,Runenprägung,Versuche <RedBold>[Value]</> Mal eine Runenprägung. ([Value1]/[Value2])
+31016,Ausrüstungskombination,"Versuche <RedBold>[Value]</> Mal, Ausrüstung zu kombinieren. ([Value1]/[Value2])"
+31017,@31001,Erledige Episode <RedBold>1-11</>.
+31018,Verbessern von Ausrüstung,"Versuche <RedBold>[Value]</> Mal, Ausrüstung zu verbessern. ([Value1]/[Value2])"
+31019,Tägliche Mission,Schließe <RedBold>[Value]</> Tagesquest(s) ab. ([Value1]/[Value2])
+31020,@31015,Präge <RedBold>[Value]</> Mal Runen erfolgreich. ([Value1]/[Value2])
+31021,@31004,@31004
+31101,Wochenquest abgeschlossen,Erledige <RedBold>[Value]</> Mal die Wochenquest. ([Value1]/[Value2])
+31102,Ausrüstungsaufwertung,Werte <RedBold>[Value]</> Mal Ausrüstung auf. ([Value1]/[Value2])
+31103,@31016,@31016
+31104,Elite-Dungeons,Schließe <RedBold>[Value]</> Elite-Dungeon-Quest(s) ab. ([Value1]/[Value2])
+31105,Monster in Elfenruinen 1 besiegen,Besiege <RedBold>[Value]</> Monster ([Value1]/[Value2]) in Elfenruinen 1.
+31106,Monsterkern erhalten,Erhalte <RedBold>[Value]</> Monsterkern(e). ([Value1]/[Value2])
+31107,Monsterkerne registrieren,Registriere <RedBold>[Value]</> Monsterkern(e). ([Value1]/[Value2])
+31108,Tempelwächter erledigen,Erledige Tempelwächter <RedBold>[Value]</> Mal. ([Value1]/[Value2])
+31109,Turm der Anmaßung,Erledige die <RedBold>[Value]. Etage</> im Turm der Anmaßung. ([Value1]/[Value2])
+31110,@31018,@31018
+31111,@31001,Erledige Episode <RedBold>3-5</>.
+31112,@31105,@31105
+31113,@31015,@31020
+31114,@31007,@31007
+31115,@31109,@31109
+31116,Entnahmegrube,Entnimm <RedBold>[Value2]</> Mal Kräuter in der Entnahmegrube. ([Value1]/[Value2])
+31117,Elixier-Herstellung,Stelle <RedBold>[Value]</> Mal ein Elixier her. ([Value1]/[Value2])
+31118,Seelenkristall verbessern,"Versuche <RedBold>[Value]</> Mal, einen Seelenkristall zu verbessern. ([Value1]/[Value2])"
+31119,@31001,Erledige Episode <RedBold>4-4</>.
+31120,Level erreichen,<RedBold>Erreiche</> Level 31 ([Value1]/[Value2]).
+31121,Klassentransfer abgeschlossen,Führe einen <RedBold>Klassentransfer</> durch.
+31201,@31101,@31101
+31202,@31104,@31104
+31203,@31019,@31019
+31204,Tagesdungeon erledigt,Erledige <RedBold>[Value]</> Mal einen Tagesdungeon. ([Value1]/[Value2])
+31205,@31007,@31007
+31206,@31013,@31013
+31207,@31011,@31011
+31208,@31108,@31108
+31209,Besiege Monster des Ameisennests 1,Besiege <RedBold>[Value]</> Monster ([Value1]/[Value2]) des Ameisennests 1
+31210,@31107,@31107
+31211,@31002,@31002
+31212,@31116,@31116
+31213,Adena-Dungeon,Erledige <RedBold>[Value]</> Mal den Adena-Dungeon. ([Value1]/[Value2])
+31214,@31117,@31117
+31215,@31014,@31014
+31216,@31005,@31005
+31217,@31018,@31018
+31218,@31015,@31020
+31219,@31209,@31209
+31220,@31102,@31102
+31221,@31118,@31118
+31301,@31120,Erreiche Lv. <RedBold>50</>. ([Value1]/[Value2])
+31302,Beschwörungskreis erledigen,Erledige <RedBold>[Value]</> Mal den Beschwörungskreis. ([Value1]/[Value2])
+31303,Reitbegleiter-Ausrüstung,Lege dem Reitbegleiter <RedBold>Ausrüstung</> an. ([Value1]/[Value2])
+31304,Reitbegleiter-Ausrüstung im Level aufsteigen lassen,"Versuche <RedBold>[Value]</> Mal, Reitbegleiter-Ausrüstung im Level aufsteigen zu lassen. ([Value1]/[Value2])"
+31305,Fortschrittsstein benutzen,Benutze <RedBold>[Value]</> Mal einen Fortschrittsstein für Reitbegleiter. ([Value1]/[Value2])
+31306,Reitbegleiter-Ausrüstung aufwerten,Werte <RedBold>[Value]</> Mal Reitbegleiter-Ausrüstung auf. ([Value1]/[Value2])
+31307,Reitbegleiter-Levelziel erreichen,Erreiche Reitbegleiter-<RedBold>Lv. [Value]</>. ([Value1]/[Value2])
+31308,Reitbegleiter verbessern,Verbessere Reitbegleiter <RedBold>[Value]</> Mal. ([Value1]/[Value2])
+31309,@31302,@31302
+31310,Reitbegleiter-Ausrüstung erhalten,Erhalte <RedBold>[Value]</> Reitbegleiter-Ausrüstung(en) der Stufe A oder höher. ([Value1]/[Value2])
+31311,@31304,@31304
+31312,@31305,@31305
+31313,@31306,@31306
+31314,@31307,@31307
+31315,@31305,@31305
+31316,@31302,@31302
+31317,@31310,Erhalte <RedBold>[Value]</> Reitbegleiter-Ausrüstung(en) der Stufe S oder höher. ([Value1]/[Value2])
+31318,@31304,@31304
+31319,@31305,@31305
+31320,@31306,@31306
+31321,@31310,Erhalte <RedBold>[Value]</> Reitbegleiter-Ausrüstung(en) der Stufe R oder höher. ([Value1]/[Value2])
+32001,@31204,@31204
+32002,@31014,@31014
+32003,@31116,@31116
+32004,@31108,@31108
+32005,@31213,@31213
+32006,ERF-Dungeon,Erledige Prüfungen der Erfahrung <RedBold>[Value]</> Mal. ([Value1]/[Value2]).
+32007,@31302,@31302
+32008,@31019,@31019
+32009,@31101,@31101
+32010,@31015,@31020
+32011,@31002,@31002
+32012,@31102,@31102
+32013,@31007,@31007
+32014,@31117,@31117
+32015,@31204,@31204
+32016,@31014,@31014
+32017,@31116,@31116
+32018,@31108,@31108
+32019,@31213,@31213
+32020,@32006,@32006
+32021,@31302,@31302

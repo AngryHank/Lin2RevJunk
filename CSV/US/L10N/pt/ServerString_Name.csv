@@ -1,0 +1,250 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,Recompensa do Cerco ao Castelo
+GuildWarehouseRecordSiegeWarBidding,Lance em Cerco ao Castelo
+GuildWarehouseRecordFortressWarReward,Recompensa de Cerco à Fortaleza
+GuildWarehouseRecordFortressWarBidding,Lance de Cerco à Fortaleza
+GuildWarehouseRecordCommission,Coletar impostos
+GuildWarehouseRecordMarketBuy,Comprar na loja
+SystemMailName,Sistema
+SystemMessageKickOutFromGM,O servidor reiniciará. Reinicie o jogo.
+SystemMessageLogOut,O jogo terminará agora.
+CastleSiegeFestivalCouponResetNotify,Os bilhetes do Festival de Cerco reiniciarão.
+MailTitleCheat,Trapaça
+MailTitleTutorialReward,Tutorial
+MailTitleGuideQuestReward,Recompensa de Jornada do Mercenário
+MailTitleShopGachaItem,Item da caixa da Loja de Evocação
+MailTitleDungeonReward,Recompensa da masmorra
+MailTitlePvpHonorPointReward,Recompensa de honra da arena
+MailTitlePvpFirstRankReward,Recompensa de conquista de primeira classificação na arena
+MailTitlePvpRankingReward,Recompensa de classificação na arena
+MailTitleCastleSiegeBegin,Início de Cerco ao Castelo
+MailTitleCastleSiegeLoseReward,Recompensa de derrota no Cerco ao Castelo
+MailTitleCastleSiegeWinReward,Recompensa de vitória no Cerco ao Castelo
+MailTitleFortressSiegeLoseReward,Recompensa de derrota no Cerco à Fortaleza
+MailTitleFortressSiegeWinReward,Recompensa de vitória no Cerco à Fortaleza
+MailTitleFortressSiegeDrawReward,Recompensa de empate na partida de Cerco à Fortaleza
+MailTitleAuctionHouseBuy,Comprar no Entreposto Comercial
+MailTitleAuctionHouseSellFailed,Venda no Entreposto Comercial expirada
+MailTitleAuctionHouseSellingCancel,Venda do Entreposto Comercial cancelada
+MailTitleConnectDailyReward,Recompensa de login diário
+MailTitleConnectWeeklyReward,Recompensa de login semanal
+MailTitleConnectMonthlyReward,Recompensa de login mensal
+MailTitleGuildAchievementReward,Recompensa de conquistas do clã
+MailTitleGuildMarketBuy,Comprar na Loja do Clã
+MailTitleGuildMarketGiftBuy,[Player] enviou um presente.
+MailTitleGuildWarehouseGrant,Prêmio do clã
+MailTitleAchievementReward,Recompensa de conquista
+MailTitlePeriodAchievementReward,Recompensa de conquista por tempo limitado
+MailTitleFriendGreet,Saudar amigo
+MailTitleBagIsFull,Inventário cheio
+MailTitleDailyActivityReward,Recompensa de atividades diárias
+MailTitleInstantCompleteReward,Item de resgate de recompensa
+MailTitleMissionDailyReward,Recompensa de missão diária
+MailTitleMissionWeeklyReward,Recompensa de missão semanal
+MailTitleShopReward,Recompensa de recarga/gasto
+MailTitleSupriseBox,Abrir caixa-surpresa
+MailTitleEvent,Recompensa de evento
+MailTitleEventDice,Recompensa do Evento dos Dados
+MailTitleEventDiceComplete,Recompensa de Conclusão da Volta do Evento dos Dados
+MailTitleCastleSiegeFestivalWin,Acertou a previsão do clã vitorioso no Festival do Cerco ao Castelo
+MailTitleCastleSiegeFestivalLose,Errou a previsão do clã vitorioso no Festival do Cerco ao Castelo
+MailTitleItemEnchantFailReward,Recompensa por falhar de aprimoramento
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,Você recebeu [Item] como recompensa do tutorial!
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,Item adquirido da caixa da Loja de Evocação. (Limite de inventário alcançado)
+MailContentDungeonReward,Item obtido como recompensa da masmorra.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,Receba os itens comprados no Entreposto Comercial.
+MailContentAuctionHouseSellFailed,Não foi possível vender o item no Entreposto Comercial.
+MailContentAuctionHouseSellingCancel,A venda desse item foi cancelada no Entreposto Comercial.
+MailContentConnectDailyReward,Adquirido [Item] por estar online
+MailContentConnectWeeklyReward,Obteve [Item] pelo [Day]º dia.
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,Recebeu uma recompensa do clã.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,[Count] adenas
+MailRewardDiamond,[Count] diamantes
+MailRewardCrystal,Sucata
+MailRewardExp,[Count] de exp.
+MailRewardQuestLimitTime,Limite de tempo da missão
+MailRewardFriendshipPoint,[Count] pontos de amizade
+MailRewardStatus,[Count] atributos
+MailRewardBloodCrystal,[Count] Cristais Sanguíneos
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,Bilhete de festival de cerco
+GuildWarehouseRecordGuildAchievement,Conquista do clã
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,PH
+MailRewardTopaz,Topázio
+MailRewardMileage,Pontos de lealdade
+MailRewardGuildCoin,Moeda do clã
+MailRewardAchievementPoint,Pontos de Conquista
+MailRewardPvpHonorPoint,Pontos de Honra
+MailRewardRunePiece,Fragmento de runa
+MailRewardPvpTicket,Bilhete da arena
+MailTitleClassTransfer,Transferência de classe
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,Códice de monstros
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,Eis a sua recompensa por não participar de [GuildDungeonName].
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,Eis a sua recompensa por participar de [GuildDungeonName].
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,A recompensa de apoio ao clã [GuildDungeonName] será enviada.
+MailContentGuildDungeonHelpReward,Recompensa final c/ ajuda clã [GuildDungeonName] foi enviada.
+MailTitleLevelUpGift,Recompensa fortalecedora de personagem
+MailContentLevelUpGift,Recompensa: [Item]
+MailTitleReservedNickName,Eis um presente de agradecimento por reservar seu nome!
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,Recompensa de missão do clã da Sede do Clã
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,Recompensa por vincular conta
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,Resultados de avaliação de relíquia
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,Recuperar a relíquia registrada
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,Fabricar poção
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,Recompensa do códice de pesca
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,Recompensa da temporada Campo de Batalha Honorável
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,Recompensa da temporada Campo de Batalha da Coragem
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,Recompensa da temporada Campo de Batalha Antigo
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,Missões da Sede do Clã
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,Use materiais de poções
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,Baú de Relíquias do Clã
+EquipDungeonHp80,O artefato sagrado tem 80% de PV restante.
+EquipDungeonHp60,O artefato sagrado tem 60% de PV restante.
+EquipDungeonHp40,O artefato sagrado tem 40% de PV restante.
+EquipDungeonHp20,O artefato sagrado tem 20% de PV restante.
+EquipDungeonHp0,O artefato sagrado foi destruído.
+VarBerk30,Varkaron está em fúria.
+QueenAntScout,Apareceram monstros protetores da Formiga Rainha.
+QueenBigAnt,Uma Formiga Mentora Grande aparece!
+BigAntGiveHeal,A Formiga Mentora Grande cura a Formiga Rainha.
+KICKOUT_FOR_INSPECT,Você se desconectou por causa de uma manutenção no servidor.
+KICKOUT_FOR_ASSET_PATCH,Indo para a tela inicial para baixar novos recursos.
+KICKOUT_PACKET_KEY_CHANGE,Você se desconectou devido à extensa inatividade.
+KICKOUT_SPEED_CHECK,Você se desconectou.
+CannotAcquireItemAnymore,Impossível adquirir mais.
+GuildMasterAutoEntrust,[System] Não há membros ativos nesse clã.
+MailTitlePurchaseLimitOverReward,[TargetItem] Compra duplicada
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"Esse clã recebeu o número máximo de solicitações permitidas por dia.
+Tente após às 4h00."
+GuildJoinAcceptDailyJoinLimit,"Você alcançou o número máximo de aprovações permitidas por dia.
+Tente após às 4h00."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,O Núcleo de Cruma evocou o Guardião.
+DiceEventMaxCount,Você atingiu a contagem máxima do Evento dos Dados.
+PET_EQUIPMENT_ERROR_MESSAGE,"Não é possível acessar os equipamentos de montaria na Forja.
+Use o menu Montaria."
+MailTitleGuildCastleDailyReward,Recompensa diária de Conquista do Castelo
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,Pagamento pela venda do Entreposto Comercial
+MailContentAuctionHouseSellCompleted,Aqui está o pagamento pela venda do Entreposto Comercial.
+ConfineMessage,"O acesso ao jogo ficará restrito por <FontRed>[Day]</> dias.
+Verifique as notificações do Fórum da Comunidade ou entre em contato com o Atendimento ao Cliente para saber mais detalhes.
+(Disponível para uso a partir de <FontRed>[ReuseMonth]/[ReuseDay]/[ReuseYear] [ReuseHour] h e [ReuseMin] min.</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,Recompensa por presença na Sede do Clã
+EventDailyQuest,Evento de missão diária
+EventDailyQuestReward,Recompensa de evento de missão diária
+EventDailyQuestProgressReward,Recompensa de progresso de evento de missão diária
+ESportsMasterDiedNotify,"<FontYellow>[PlayerName]</>, o <FontWhite>Líder do clã de</> <FontYellow>[GuildName]</> <FontWhite>morreu</>."
+ESportsMsgNotStartTime,"Você não pode entrar, pois a partida ainda não começou."
+ESportsMsgNoMoreMatch,Nenhuma partida em andamento.
+ESportsMsgMatchInfo,[PlayerName] de [MyGuildName] em [MyServerName] terá uma partida em [Date] com [TargetGuildName] em [TargetServerName].
+ESportsMatchEnded,A partida na sala [MatchId] foi encerrada.
+ESportsMsgKickoutMatchEnded,"A partida foi encerrada, então você será direcionado para a tela inicial."
+AuctionHouseDisabledMessage,"O Entreposto Comercial está indisponível no momento.
+Verifique o Fórum da Comunidade para saber mais detalhes."
+DayOfWeekMon,Segunda-feira
+DayOfWeekTue,Terça-feira
+DayOfWeekWed,Quarta-feira
+DayOfWeekThu,Quinta-feira
+DayOfWeekFri,Sexta-feira
+DayOfWeekSat,Sábado
+DayOfWeekSun,Domingo
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,Recompensa de estreia de Caçada ao Tesouro de Feldheim
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,Recompensa total de Caçada ao Tesouro de Feldheim
+MailTitleShopGuildReward,Presente de [Player]: [Name]
+MailContentRecommandationServerReward,Caixa de Recompensas de Seleção do Servidor Recomendado
+MailTitleRecommandationServerReward,Caixa de Seleção do Servidor Recomendado
+MailTitleGuildDonationReward,Recompensa de doação do clã
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,Este é um saque descoberto na Fenda Temporal [PartyDungeonName].
+MailTitleServerTransferDailyDiamond,Entrega de conjunto de itens ausentes do Conjunto de Diamantes Diários
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,Recompensa de conclusão da Fenda Temporal
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,Recompensa de conquista [NpcName]
+MailContentBossReward,Espaço de inventário insuficiente após derrotar [NpcName]. Recompensa enviada para a caixa de correio.
+MailTitleFreeFortressResultWinReward,Recompensa de vitória no Cerco Aberto
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,Recompensa de empate no Cerco Aberto
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,Recompensa de derrota no Cerco Aberto
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,Pontos adquiridos no Cerco Aberto
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,Recompensa de Maestria aumentada
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,Ficha de maestria
+MailTitleFotressDailyReward,Recompensa de Conquista do Cerco à Fortaleza
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,Jogo de Dados de Nero
+MaileContentNerodiceEvent,Parabéns! Aqui está o prêmio por vencer o Jogo de Dados de Nero.
+MailTitleFortressSiegeSpotReward,Recompensa do Cerco Aberto
+MailContentFortressSiegeSpotReward,Esta é uma recompensa por vencer o Cerco Aberto.
+MaileTitleNerodiceEventFail,Prêmio de consolação do Jogo de Dados de Nero
+MaileContentNerodiceEventFail,Prêmio de consolação por perder o Jogo de Dados de Nero
+MailTitleAppstoreReward,Caixa do Fundador
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Caixa de Presente Especial
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,Você se desconectou por inatividade ao participar do Cerco Aberto.
+SuspendAccount,"Seu acesso foi suspenso de acordo com os Termos de serviço. (Transações ilegais etc.)
+Em caso de dúvidas, entre em contato com a Central de Atendimento ao Cliente.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,"[MyServerName]-[MyGuildName], a partida de [PlayerName] com [TargetServerName]-[TargetGuildName] está em andamento no servidor de competições."
+MailTitleFacebookReward,Recompensa de conquista do Facebook
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,Recompensa [CumulativeRewardCount] da categoria de bônus de compra
+MailContentCumulativePurchaseReward,@MailContentCheat

@@ -32,7 +32,11 @@ Id,Hide,TerritoryId,StartPointX,StartPointY,MapData,QuestMapTexturePath,Type,Wor
 212,1,0,53065,943,Dungeon/SecretForest/SecretForest_Conflict,,9,4,260,322,1,40,6,1,1,212,Dungeon/SecretForest/SecretForestRedZone/SecretForestRedZone,4,4,0.56,34000,34000,54000,-83,,,,,,,,,,0,,0,1,0
 213,1,0,,,,,0,4,,,10,200,29,,,,,,,,,,,,,,,,,,,,,0,,0,1,0
 214,1,0,,,,,0,4,,,10,200,29,,,,,,,,,,,,,,,,,,,,,0,,0,1,0
-215,1,0,,,,,0,4,,,10,200,29,,,,,,,,,,,,,,,,,,,,,0,,0,1,0
+215,1,0,,,,,0,4,80,100,10,200,29,,,,,,,,,,,,,,,,,,,,,0,,0,1,0
+300,0,0,-11060,20850,Dungeon/AltarOfMadness/AltarOfMadness,,28,4,130,150,1,5,29,,,,Dungeon/AltarOfMadness/AltarOfMadness,4,4,0.56,40000,40000,-2800,10560,,,,,,,,,,10,,0,0,0
+301,0,0,10480,-1070,Dungeon/BedroomOfContessa/BedroomOfContessa,,28,4,,,1,5,29,,,,Dungeon/BedroomOfContessa/BedroomOfContessa,4,4,0.56,30000,30000,19590,-6870,,,,,,,,,,10,,0,0,0
+400,0,0,0,0,Field/Protoland,,0,4,11,15,10,200,6,2,2,,,4,4,0.56,72000,72000,-859,-10930,,,,,,,,,,10,,1,0,0
+402,1,0,-4493,7547,WorldBoss/Zaken_GhostShip/Zaken_GhostShip,13_DevilIsle,23,0,0,0,1,100,29,,,,WorldBoss/Zaken_GhostShip/Zaken_GhostShip,4,4,0.56,60000,60000,2000,2000,,,,,,,,,,10,,0,0,0
 11000,0,,9102,11474,Dungeon/MemorySanctuary/MemorySanctuary,,3,4,1,50,10,200,1,100,,,Dungeon/MemorySanctuary/MemorySanctuary,4,4,0.56,24000,24000,9260,7590,,,,,,,,,,0,,0,0,0
 12000,0,,507,1708,Dungeon/TowerOfInsolence/TowerOfInsolence_G05,,5,4,1,50,10,200,1,100,,,Dungeon/TowerOfInsolence/TowerOfInsolence,4,4,0.56,14000,14000,550,1720,,,,,,,,,,0,,0,0,0
 13000,0,0,-1465,520,Dungeon/SecretMine/SecretMine,,4,4,,,10,200,6,2,2,,Dungeon/SecretMine/SecretMine,4,4,0.56,26000,26000,2240,-1340,,,,,,,,,,0,,0,0,0
@@ -78,6 +82,8 @@ Id,Hide,TerritoryId,StartPointX,StartPointY,MapData,QuestMapTexturePath,Type,Wor
 20000,0,0,-9625,-10930,Field/Etc/RuinsOfGiants/RuinsOfGiants,,17,4,1,1,10,200,6,,,,Dungeon/RuinsOfGiants/RuinsOfGiants,4,4,0.56,22000,22000,-7000,-7460,,,,,,,,,,10,,0,0,0
 20001,0,0,-9625,-10930,Field/Etc/RuinsOfGiants/RuinsOfGiants,,17,4,1,1,10,200,6,,,,Dungeon/RuinsOfGiants/RuinsOfGiants,4,4,0.56,22000,22000,-7000,-7460,,,,,,,,,,10,,0,0,0
 20002,0,0,-9625,-10930,Field/Etc/RuinsOfGiants/RuinsOfGiants,,17,4,1,1,10,200,6,,,,Dungeon/RuinsOfGiants/RuinsOfGiants,4,4,0.56,22000,22000,-7000,-7460,,,,,,,,,,10,,0,0,0
+21000,0,0,5820,11970,Field/Etc/Magnadin/Magnadin,,29,4,1,1,10,200,29,,,21000,Field/Etc/Magnadin/Magnadin,4,4,0.56,24000,24000,6000,6350,,,,,,,,,,10,,0,1,0
+211010,0,0,-3190,7210,Dungeon/CrumaTower/2ndFloor/CrumaTower_2F,,0,4,0,0,10,200,29,,,211010,Dungeon/CrumaTower/2ndFloor/CrumaTower_2ndFloor,4,4,0.56,40000,40000,-10960,10570,,,,,,,,,,10,,0,0,0
 30001,0,0,-2155,2020,Field/Etc/FairyForest/FairyForest,,17,4,1,1,10,200,29,,,,,4,4,0.56,22000,22000,-7000,-7460,,,,,,,,,,10,,0,0,0
 30002,0,0,8172,-4373,Field/Etc/FairyForest/FairyForest,,17,4,1,1,10,200,29,,,,,4,4,0.56,22000,22000,-7000,-7460,,,,,,,,,,10,,0,0,0
 999,0,0,0,0,Battle/CastleSiege/CastleSiege,,2,4,1,1,10,200,6,3,3,999,Battle/CastleSiege/Battle_CastleSiege,2,2,1,36000,36000,-1610,120,,,,,,,,,,10,,1,0,0
@@ -125,6 +131,8 @@ Id,Hide,TerritoryId,StartPointX,StartPointY,MapData,QuestMapTexturePath,Type,Wor
 200010,0,0,50029,37488,Field/Dion/Scream/Scream_01_G04,,8,4,0,0,10,200,29,,,200010,Field/Dion/Scream/Dion_Scream,4,4,0.56,120000,120000,36750,22490,,,,,,,,,,10,,0,1,0
 210206,0,0,-16837,33184,Dungeon/IvoryTowerBasement/IvoryTowerBasement_expand,,8,4,0,0,10,200,29,,,210206,Dungeon/IvoryTowerBasement/1stFloor_Expand/IvoryTowerBasement_1stFloor,4,4,0.56,40000,40000,-14770,24780,,,,,,,,,,10,,0,1,0
 210207,0,0,10275,46390,Dungeon/IvoryTowerBasement/IvoryTowerBasement_expand,,8,4,0,0,10,200,29,,,210207,Dungeon/IvoryTowerBasement/2ndFloor_Expand/IvoryTowerBasement_2ndFloor,4,4,0.56,40000,40000,-14770,24780,,,,,,,,,,10,,0,1,0
+210208,0,0,16412,-3532,Field/Giran/DevilIsle/DevilIsle,,8,4,0,0,10,200,29,,,210208,Field/Giran/DevilIsle/Giran_DevilIsle,4,4,0.56,70000,70000,470,3610,,,,,,,,,,10,,0,1,0
+299301,0,0,10480,-1070,Dungeon/BedroomOfContessa/BedroomOfContessa,,28,4,130,150,1,5,29,40,,,Dungeon/BedroomOfContessa/BedroomOfContessa,4,4,0.56,30000,30000,19590,-6870,,,,,,,,,,10,,0,0,0
 299981,0,0,13207,41978,Field/TalkingIsland/Eastern/Eastern,,8,4,0,0,10,200,29,,,299981,Field/TalkingIsland/Eastern/TalkingIsland_Eastern,4,4,0.56,60000,60000,3710,21120,,,,,,,,,,10,,0,0,0
 299982,0,0,6397,42129,Field/TalkingIsland/Western/Western,,8,4,0,0,10,200,29,,,299982,Field/TalkingIsland/Western/TalkingIsland_Western,4,4,0.56,50000,50000,14470,25980,,,,,,,,,,10,,0,0,0
 299983,0,0,-58348,20148,Field/Gludio/GludinMainload/GludinMainload_01_G01,,8,4,0,0,10,200,29,,,299983,Field/Gludio/GludinMainload/Gludio_GludinMainload,4,4,0.56,140000,140000,-11040,-190,,,,,,,,,,10,,0,0,0
@@ -146,6 +154,5 @@ Id,Hide,TerritoryId,StartPointX,StartPointY,MapData,QuestMapTexturePath,Type,Wor
 1500,0,0,0,0,Field/ProtoLand5,,0,4,11,15,10,200,6,2,2,,,4,4,0.56,72000,72000,-859,-10930,,,,,,,,,,10,,0,0,0
 300201,0,0,45459,-5297,Dungeon/ElvenRuins/Ruin_B1,201_ElvenRuins_2F,16,4,,,10,200,6,1,1,,Dungeon/ElvenRuins/Varkaron/ElvenRuins_Varkaron,4,4,0.56,18000,18000,45350,-10170,,,,,,,,,,0,,0,0,0
 300203,0,0,-1208,1660,Dungeon/AntTunnel/B1Tunnel/B1Tunnel,203_AntTunnel_B2F,16,4,,,10,200,6,1,1,,Dungeon/AntTunnel/QueenAnt/AntTunnel_QueenAnt,4,4,0.56,20000,20000,-1690,-3420,,,,,,,,,,0,,0,0,0
-300205,1,0,13732,19016,Dungeon/CrumaTower/2ndFloor/CrumaTower_2F,205_CrumaTower_3F,16,4,,,10,200,6,1,1,,Dungeon/CrumaTower/CrumaCore/CrumaTower_CrumaCore,4,4,0.56,20000,20000,14920,14890,,,,,,,,,,0,,0,0,0
+300205,0,0,13732,19016,Dungeon/CrumaTower/2ndFloor/CrumaTower_2F,205_CrumaTower_3F,16,4,,,10,200,6,1,1,,Dungeon/CrumaTower/CrumaCore/CrumaTower_CrumaCore,4,4,0.56,20000,20000,14920,14890,,,,,,,,,,0,,0,0,0
 300207,1,0,-11060,23690,Dungeon/IvoryTowerBasement/IvoryTowerBasement_expand,207_IvoryTowerBasement_B2F,16,4,,,10,200,6,1,1,,Dungeon/IvoryTowerBasement/2ndFloor/IvoryTowerBasement_2ndFloor,4,4,0.56,36000,36000,15600,41980,,,,,,,,,,0,,0,0,0
-401,1,0,32560,29400,Field/Dion/Scream/Scream_01_G04,10_Scream,23,0,0,0,1,100,29,,,401,Field/Dion/Scream/Dion_Scream,4,4,0.56,120000,120000,36750,22490,,,,,,,,996,352,10,,0,0,0

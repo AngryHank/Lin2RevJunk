@@ -1,0 +1,92 @@
+Type,Name
+0,P-ANG
+1,M-ANG
+2,P-ANG-Steigerung
+3,M-ANG-Steigerung
+4,Normaler Angriff - ANG-Erhöhung
+5,ANG-Steigerung basierend auf Gruppenmitgliedern
+6,ANG-GES-Steigerung
+7,Kampfkraft
+126,Abklingzeiterhöhung
+9,Krit. Rate
+10,Kritische Widerstandsrate
+11,Steigerung des Kritischen Schadens
+12,Kritische Trefferrate
+13,Krit. Widerstand
+14,Steigerung der Kritischen Rate
+15,Steigerung des Kritischen Widerstandes
+16,P-VER
+17,M-VER
+18,P-VER-Steigerung
+19,M-VER-Steigerung
+20,Ausweichen
+21,Ausweichen-Steigerung
+22,Ausweichrate
+23,Genauigkeit
+24,Genauigkeitssteigerung
+25,Genauigkeitsrate
+26,Schaden-Erhöhungsrate
+27,P-SCH-Erhöhungsrate
+28,@IncreaseDamagePhyMul
+29,Erhöhungsrate für Schaden an verlangsamtem Ziel
+30,VER-SCH-Ignorieren
+31,Schaden-Verringerungsrate
+32,P-SCH-Verringerungsrate
+33,M-SCH-Verringerungsrate
+34,Festschadenverringerung
+35,Abwehrrate
+36,Abwehr-SCH-Verringerungsrate
+37,ERF
+38,ERF-Gewinn-Erhöhungsrate
+39,Aggressionssteigerung
+40,LP
+41,LP-Regen.
+42,LP-Entzug
+43,Gegenstandsfundratenerhöhung
+44,Max. LP
+45,Max. LP-Steigerung
+46,Max. MP
+47,Max. MP-Steigerung
+48,MP
+49,MP-Kostensteigerung
+50,MP-Regen.-Rate
+51,Geschwindigkeit
+52,Geschwindigkeitssteigerung
+53,Verlangsamungswiderstandsrate
+54,Betäubungswiderstandsrate
+55,Abnormaler Status-Widerstandsrate
+56,Ziel-Zugwiderstandsrate
+126,Rückschlag-Widerstandsrate
+58,Adena
+59,Adenagewinn-Erhöhungsrate
+60,Kostenloser Diamant
+61,Bezahlter Diamant
+62,Quest-Ticket
+63,Eroberungs-Auto-Erledigen-Ticket
+64,Runenfragment
+65,Fertigkeitspunkt
+66,Freundschaftspunkte
+67,Topas
+68,Treuepunkte
+69,Unbesiegbar
+70,Ein-Schlag-Kill
+71,Gerissen
+72,Langlebig
+73,Klassen-ERF
+74,Klanmünzen
+75,Erfolgspunkt
+76,Belagerungsfest-Ticket
+77,PvP-Ticket
+78,PvP-Ehrenpunktzahl
+79,Level
+80,Durchdringung
+81,Zähigkeit
+82,Fertigkeiten-Flächenerhöhung
+83,Erhöhung der Fertigkeits-Trefferzahl
+84,Entnahmegeschwindigkeits-Erhöhung
+85,Entnahme-Erhöhung
+86,Manaschildrate (Schadensabsorption durch Mana)
+87,PK-Block
+88,Monsterkernfundratenerhöhung
+89,@CombatPower
+90,Kombodauer-Erhöhung

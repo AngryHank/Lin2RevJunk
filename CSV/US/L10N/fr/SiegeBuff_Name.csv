@@ -1,0 +1,25 @@
+ID,BuffInfo,GradeName
+1,Aucun,Guerrier
+2,ATQ et DÉF +1 %,Chevalier
+3,ATQ et DÉF +2 %,Chevalier de haut rang
+4,ATQ et DÉF +3 %,Capitaine des chevaliers
+5,ATQ et DÉF +4 %,Chevalier
+6,ATQ et DÉF +5 %,Commandant
+7,ATQ et DÉF +6 %,Général
+8,ATQ et DÉF +7 %,Héros
+9,@1,@1
+10,@2,@2
+11,@3,@3
+12,@4,@4
+13,@5,@5
+14,@6,@6
+15,@7,@7
+16,@8,@8
+17,@1,@1
+18,@2,@2
+19,@3,@3
+20,@4,@4
+21,@5,@5
+22,@6,@6
+23,@7,@7
+24,@8,@8

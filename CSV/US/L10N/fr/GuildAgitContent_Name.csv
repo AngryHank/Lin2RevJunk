@@ -1,0 +1,16 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,"Cristal
+d'unité",Niveau : [CrystalLevel],"Un cristal mystique qui confère
+un buff à tous les membres du clan."
+2,Responsable de quête,Quêtes en cours : [ProgressQuestCount]. Quêtes terminées : [CompleteQuestCount].,"Des quêtes les plus faciles aux quêtes impossibles !
+Je suis le Responsable, et je suis là pour vous aider."
+3,Responsable des festins,Petit festin : [SmallDinnerActivity]. Festin moyen : [MiddleDinnerActivity]. Grand festin : [BigDinnerActivity].,"Plus on est de fous, plus on rit !
+Veuillez envoyer vos compliments au chef."
+4,Responsable des reliques,Reliques en cours d'estimation : [ProgressArtifactCount] / Total : [CompleteArtifactCount],"Laissez-moi évaluer vos reliques.
+Je vous dirais leur vraie valeur."
+5,Responsable des potions,Potions individuelles préparables : [PotionAvaliableCount],"Vous pouvez préparer des potions et les utiliser
+quand bon vous semble."
+6,Foyer,Petit bois possédé : [WoodCount] / État du foyer : [FirePlaceActivity],"Allumez le feu dans le foyer et
+toutes les personnes présentes dans la Salle du clan gagneront de l'EXP."
+7,Attraper des Fées,Mise à jour à venir.,"Des Fées malicieuses font des leurs !
+Attrapez-les pour une récompense."

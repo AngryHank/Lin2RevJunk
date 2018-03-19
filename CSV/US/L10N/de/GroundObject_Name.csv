@@ -1,0 +1,72 @@
+Id,Name
+11222,Donnersturm
+11242,Falkenauge
+11251,Hexenmeister
+11261,Bischof
+12212,Tempelritter
+12251,Zaubersänger
+12261,Ältester
+13252,Zauberwüter
+14262,Weiser
+30005,Blitzfeld
+30007,Giftschwarm
+30012,Meteoritenregen
+60096,Feueratem
+60097,Boreas der Sprechenden Insel
+60100,Dunkle Sensendrehung
+60115,Goldener Feueratem
+60162,Goldener Feueratem (Hölle)
+71032,@60100
+71072,@60096
+71073,Boreas Fertigkeit 02
+71472,@60096
+73012,Albtraum
+73032,OrfenBossFertigkeit_02
+74031,Totemschlag
+74032,Blitz rufen
+74051,Giftgrube
+74062,@11222
+74071,Moor der Bosheit
+74131,Marshas Gift
+74132,Medusas Fluch
+720231,Pheromon freigeben
+1720231,@720231
+1504021,Hardins Blitzfeld
+7204311,Zeitschleife
+7204321,@7204311
+7204331,@7204311
+601252,Fertigkeit von Nymphenkönigin Lara 2
+601451,DunklerBund_M_HochFertigkeit_02
+741352,Marsha: Klingenwind
+8010441,Nahkampfschadensaura
+805000,Boss-Etagen-Fertigkeit (Kreis) des Gruppen-Dungeons
+805001,Boss-Etagen-Fertigkeit (Fächer) des Gruppen-Dungeons
+805002,Boss-Etagen-Fertigkeit (Obb) des Gruppen-Dungeons
+805003,Boss-Etagen-Fertigkeit (Donut) des Gruppen-Dungeons
+72040,Pfütze der Zerstörung
+1720223,Giftpfütze
+17203181,Tödliches Gift
+411004,Ätzende Säure
+412004,@411004
+413004,@411004
+413012,Schwelendes Blut
+413023,Blutschwall: Welle
+414004,@411004
+414012,@413012
+414023,@413023
+74113,Marlox 
+30015,Verteidigungszone
+401023,Feuerzone
+401008,Ramogs Wachgrenadier: Bombenwurf
+401016,Wahnsinniger selbstzerstörender Soldat: Selbstzerstörung
+401210,Paagrios große Explosion
+4011021,Glutexplosion: Feuerzone
+2000001,Feuerwerk 1
+2000002,Feuerwerk 2
+2000003,Feuerwerk 3
+2000004,Feuerwerk 4
+2000005,Feuerwerk 5
+2000006,Feuerwerk 6
+730212,Welle
+731351,Artillerist der Zaken-Piraten
+731401,Soldat der Zaken-Piraten

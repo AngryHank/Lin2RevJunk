@@ -1,0 +1,45 @@
+Id,Description
+1,Ajoute [Param] de dégâts bonus aux dégâts finaux en attaquant les monstres normaux
+2,Ajoute [Param] de dégâts bonus aux dégâts finaux en attaquant les monstres élites
+3,Ajoute [Param] de dégâts bonus aux dégâts finaux en attaquant les boss
+4,Ajoute [Param] de dégâts bonus aux dégâts finaux en attaquant les joueurs
+5,Réduit les dégâts finaux infligés par les monstres normaux de [Param]
+6,Réduit les dégâts finaux infligés par les monstres élites de [Param]
+7,Réduit les dégâts finaux infligés par les boss de [Param]
+8,Réduit les dégâts finaux infligés par les joueurs de [Param]
+9,Augmente l'amplification du taux de résistance aux renversements et étourdissements de [Param]
+10,DÉFM +[Param]
+11,Augmente l'amplification du taux de résistance aux ralentissements de [Param]
+12,Augmente l'amplification du taux de résistance aux CRIT de [Param]
+13,Vitesse +[Param]
+14,Augmente la durée du combo de [Param] secondes
+15,Ajoute [Param] de dégâts bonus en utilisant les compétences d'attaque normale
+16,Ajoute [Param] de dégâts bonus aux dégâts finaux en attaquant les monstres magiques
+17,Réduit les dégâts finaux infligés par les monstres magiques de [Param]
+19,Ajoute [Param] de dégâts bonus aux monstres en utilisant les compétences d'attaque normale
+20,Ajoute [Param] points de récupération bonus en utilisant les compétences de récupération normale
+101,[Param] de dégâts bonus contre les monstres normaux
+102,@101
+103,@101
+104,[Param] de dégâts bonus contre les boss
+105,@104
+106,@104
+107,[Param] de dégâts des autres joueurs
+108,@107
+109,[Param] de dégâts bonus contre les joueurs
+110,@109
+111,Dégâts infligés par les monstres normaux -[Param]
+112,@111
+113,[Param] de dégâts bonus contre les monstres élites
+114,@113
+115,Dégâts infligés par les monstres élites -[Param]
+116,@115
+117,Dégâts infligés par les boss -[Param]
+118,@117
+201,@104
+202,@117
+203,[Param] DÉG bonus contre les bâtiments de Siège de château
+204,@113
+205,@104
+206,Ajoute [Param] de dégâts bonus en attaquant les monstres magiques
+301,Augmente la VIT d'ATQ de [Param] sur le champ de bataille.

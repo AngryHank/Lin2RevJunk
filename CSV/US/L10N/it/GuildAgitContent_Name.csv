@@ -1,0 +1,16 @@
+Id,ContentName,ContentStatus,ContentsDescription
+1,"Cristallo
+dell’Unità",Livello: [CrystalLevel],"Un cristallo mistico che fornisce
+un buff a tutti i membri del clan."
+2,Custode delle Quest,Quest In Corso: [ProgressQuestCount]. Quest Completata: [CompleteQuestCount].,"Dalle quest facili a quelle quasi impossibili!
+Io sono il Custode, sono qui per dare una mano."
+3,Custode dei Banchetti,Banchetto Piccolo: [SmallDinnerActivity]. Banchetto Medio: [MiddleDinnerActivity]. Grande Banchetto: [BigDinnerActivity].,"Più siamo meglio è!
+Fai i miei complimenti allo chef."
+4,Custode delle Reliquie,Reliquie in Valutazione: [ProgressArtifactCount] / Completate: [CompleteArtifactCount],"Fammi valutare le tue reliquie.
+Ti dirò quanto valgono davvero."
+5,Custode delle Pozioni,Pozioni Personali da creare: [PotionAvaliableCount],"Puoi creare pozioni che possono essere usate
+quando desideri."
+6,Camino,Ramoscelli Posseduti: [WoodCount] / Stato del Camino: [FirePlaceActivity],"Se accendi il fuoco nel camino
+tutti i presenti nella Sala del Clan guadagneranno Esp."
+7,Acchiappa Folletti,Aggiornamento in arrivo prossimamente.,"Dei Folletti dispettosi stanno facendo confusione!
+Acchiappali per prendere una ricompensa."

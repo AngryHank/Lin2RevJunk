@@ -16,43 +16,51 @@ Id,Description
 15,Sets the graphics quality related to memory usage.
 16,Sets the sound channel quality.
 17,Sets the effect display target.
-18,Sets the maximum number of players to be displayed on your screen.
-19,Sets the equipment to be displayed on your screen.
-20,Sets the master sound volume.
-21,Sets the background sound volume.
-22,Sets the sound effect volume.
-23,Sets the voice actor volume.
-24,Toggles vibration feedback.
-25,Toggles your mobile device’s auto-turn on/off feature.
-26,Toggles the voice chat’s auto-play feature.
-27,You can toggle all in-game notifications.
-28,Receive game notifications.
-29,Receive game notice notifications.
-30,Turning this off blocks all notification between 9pm and 8am.
-31,Turn off this option to disable pop-up notifications (except high-priority notifications).
-32,Turn off this option to disable 1:1 Chat pop-up notifications.
-33,Turn off this option to disable Clan Chat pop-up notifications.
-34,Turn off this option to disable Party Chat pop-up notifications.
-41,Sets the HP at which to use HP Potions automatically.
-42,Sets the MP at which to use MP Potions automatically.
-43,Sets the HP percentage at which to use healing skills automatically.
-44,Sets the order of potions to use when using HP Potions automatically.
-45,Sets the order of potions to use when using MP Potions automatically.
-46,Displays normal attack range.
-47,Sets the range your character moves within while in Auto-Battle.
-48,Sets the minimum grade for equipment to acquire.
-49,Escape to safety when you encounter Elite or greater Monsters while in Auto-Battle.
-50,You will acquire items of at least this grade. (Will not acquire lower grade items.)
-51,Sets the control area of the Digital Analog controls to a fixed area of the screen.
-52,Translates chat messages to the language used in-game.
-53,Sets which languages should or should not be translated in chat.
-54,@53
-55,@53
-56,@53
-57,@53
-58,@53
-59,@53
-60,@53
-61,@53
-62,@53
-63,@53
+18,Configure if other players’ name tags are displayed.
+19,Sets the maximum number of players to be displayed on your screen.
+20,Sets the equipment to be displayed on your screen.
+21,Configure if cloaks are displayed.
+22,"Configure Level of Enhancement Broadcasting (Enhance Success, Enhance Failed)."
+23,Sets the master sound volume.
+24,Sets the background sound volume.
+25,Sets the sound effect volume.
+26,Sets the voice actor volume.
+27,Toggles vibration feedback.
+28,Toggles your mobile device’s auto-turn on/off feature.
+29,Toggles the voice chat’s auto-play feature.
+30,You can toggle all in-game notifications.
+31,Receive game notifications.
+32,Receive game notice notifications.
+33,Turning this off blocks all notification between 9pm and 8am.
+34,Turn off this option to disable pop-up notifications (except high-priority notifications).
+35,Turn off this option to disable 1:1 Chat pop-up notifications.
+36,Turn off this option to disable Clan Chat pop-up notifications.
+37,Turn off this option to disable Party Chat pop-up notifications.
+44,Sets the HP at which to use HP Potions automatically.
+45,Sets the MP at which to use MP Potions automatically.
+46,Sets the HP percentage at which to use healing skills automatically.
+47,Sets the order of potions to use when using HP Potions automatically.
+48,Sets the order of potions to use when using MP Potions automatically.
+49,Displays normal attack range.
+50,Sets the range your character moves within while in Auto-Battle.
+51,Sets the minimum grade for equipment to acquire.
+52,Displays the current target of the target selected by the player.
+53,Displays the target’s HP in various ways.
+54,Escape to safety when you encounter Elite or greater Monsters while in Auto-Battle.
+55,You will acquire items of at least this grade. (Will not acquire lower grade items.)
+56,
+57,
+58,
+59,Sets the control area of the Digital Analog controls to a fixed area of the screen.
+60,Translates chat messages to the language used in-game.
+61,Sets which languages should or should not be translated in chat.
+62,@61
+63,@61
+64,@61
+65,@61
+66,@61
+67,@61
+68,@61
+69,@61
+70,@61
+71,@61

@@ -1,0 +1,2149 @@
+Id,Name,Description,EffectDescription,SkillDialogue
+1101,Combo 1 de espada humana,Un ataque básico con una espada y un escudo.,,
+1102,Combo 2 de espada humana,@1101,,
+1103,Combo 3 de espada humana,@1101,,
+1104,Combo 4 de espada humana,@1101,,
+1105,Combo 5 de espada humana,@1101,,
+1106,Combo 6 de espada humana,@1101,,
+1201,Combo 1 de espada élfica,@1101,,
+1202,Combo 2 de espada élfica,@1101,,
+1203,Combo 3 de espada élfica,@1101,,
+1204,Combo 4 de espada élfica,@1101,,
+1205,Combo 5 de espada élfica,@1101,,
+1206,Combo 6 de espada élfica,@1101,,
+1301,Combo 1 de espada élfica oscura,@1101,,
+1302,Combo 2 de espada élfica oscura,@1101,,
+1303,Combo 3 de espada élfica oscura,@1101,,
+1304,Combo 4 de espada élfica oscura,@1101,,
+1305,Combo 5 de espada élfica oscura,@1101,,
+1306,Combo 6 de espada élfica oscura,@1101,,
+1401,Combo 1 de espada enana,@1101,,
+1402,Combo 2 de espada enana,@1101,,
+1403,Combo 3 de espada enana,@1101,,
+1404,Combo 4 de espada enana,@1101,,
+1405,Combo 5 de espada enana,@1101,,
+1406,Combo 6 de espada enana,@1101,,
+2101,Combo 1 de lanza humana,Un ataque básico con una lanza.,,
+2102,Combo 2 de lanza humana,@2101,,
+2103,Combo 3 de lanza humana,@2101,,
+2104,Combo 4 de lanza humana,@2101,,
+2105,Combo 5 de lanza humana,@2101,,
+2106,Combo 6 de lanza humana,@2101,,
+2201,Combo 1 de lanza élfica,@2101,,
+2202,Combo 2 de lanza élfica,@2101,,
+2203,Combo 3 de lanza élfica,@2101,,
+2204,Combo 4 de lanza élfica,@2101,,
+2205,Combo 5 de lanza élfica,@2101,,
+2206,Combo 6 de lanza élfica,@2101,,
+2301,Combo 1 de lanza élfica oscura,@2101,,
+2302,Combo 2 de lanza élfica oscura,@2101,,
+2303,Combo 3 de lanza élfica oscura,@2101,,
+2304,Combo 4 de lanza élfica oscura,@2101,,
+2305,Combo 5 de lanza élfica oscura,@2101,,
+2306,Combo 6 de lanza élfica oscura,@2101,,
+2401,Combo 1 de lanza enana,@2101,,
+2402,Combo 2 de lanza enana,@2101,,
+2403,Combo 3 de lanza enana,@2101,,
+2404,Combo 4 de lanza enana,@2101,,
+2405,Combo 5 de lanza enana,@2101,,
+2406,Combo 6 de lanza enana,@2101,,
+3101,Combo 1 de doble espada humana,Un ataque básico con una doble espada.,,
+3102,Combo 2 de doble espada humana,@3101,,
+3103,Combo 3 de doble espada humana,@3101,,
+3104,Combo 4 de doble espada humana,@3101,,
+3105,Combo 5 de doble espada humana,@3101,,
+3106,Combo 6 de doble espada humana,@3101,,
+3107,Combo 7 de doble espada humana,@3101,,
+3108,Combo 8 de doble espada humana,@3101,,
+3201,Combo 1 de doble espada élfica,@3101,,
+3202,Combo 2 de doble espada élfica,@3101,,
+3203,Combo 3 de doble espada élfica,@3101,,
+3204,Combo 4 de doble espada élfica,@3101,,
+3205,Combo 5 de doble espada élfica,@3101,,
+3206,Combo 6 de doble espada élfica,@3101,,
+3207,Combo 7 de doble espada élfica,@3101,,
+3208,Combo 8 de doble espada élfica,@3101,,
+3301,Combo 1 de doble espada élfica oscura,@3101,,
+3302,Combo 2 de doble espada élfica oscura,@3101,,
+3303,Combo 3 de doble espada élfica oscura,@3101,,
+3304,Combo 4 de doble espada élfica oscura,@3101,,
+3305,Combo 5 de doble espada élfica oscura,@3101,,
+3306,Combo 6 de doble espada élfica oscura,@3101,,
+3307,Combo 7 de doble espada élfica oscura,@3101,,
+3308,Combo 8 de doble espada élfica oscura,@3101,,
+3401,Combo 1 de doble espada enana,@3101,,
+3402,Combo 2 de doble espada enana,@3101,,
+3403,Combo 3 de doble espada enana,@3101,,
+3404,Combo 4 de doble espada enana,@3101,,
+3405,Combo 5 de doble espada enana,@3101,,
+3406,Combo 6 de doble espada enana,@3101,,
+3407,Combo 7 de doble espada enana,@3101,,
+3408,Combo 8 de doble espada enana,@3101,,
+4101,Combo 1 de daga humana,Un ataque básico con una daga.,,
+4102,Combo 2 de daga humana,@4101,,
+4103,Combo 3 de daga humana,@4101,,
+4104,Combo 4 de daga humana,@4101,,
+4105,Combo 5 de daga humana,@4101,,
+4106,Combo 6 de daga humana,@4101,,
+4201,Combo 1 de daga élfica,@4101,,
+4202,Combo 2 de daga élfica,@4101,,
+4203,Combo 3 de daga élfica,@4101,,
+4204,Combo 4 de daga élfica,@4101,,
+4205,Combo 5 de daga élfica,@4101,,
+4206,Combo 6 de daga élfica,@4101,,
+4301,Combo 1 de daga élfica oscura,@4101,,
+4302,Combo 2 de daga élfica oscura,@4101,,
+4303,Combo 3 de daga élfica oscura,@4101,,
+4304,Combo 4 de daga élfica oscura,@4101,,
+4305,Combo 5 de daga élfica oscura,@4101,,
+4306,Combo 6 de daga élfica oscura,@4101,,
+4401,Combo 1 de daga enana,@4101,,
+4402,Combo 2 de daga enana,@4101,,
+4403,Combo 3 de daga enana,@4101,,
+4404,Combo 4 de daga enana,@4101,,
+4405,Combo 5 de daga enana,@4101,,
+4406,Combo 6 de daga enana,@4101,,
+5101,Combo 1 de arco humano,Un ataque básico con un arco.,,
+5102,Combo 2 de arco humano,@5101,,
+5103,Combo 3 de arco humano,@5101,,
+5104,Combo 4 de arco humano,@5101,,
+5201,Combo 1 de arco élfico,@5101,,
+5202,Combo 2 de arco élfico,@5101,,
+5203,Combo 3 de arco élfico,@5101,,
+5204,Combo 4 de arco élfico,@5101,,
+5301,Combo 1 de arco élfico oscuro,@5101,,
+5302,Combo 2 de arco élfico oscuro,@5101,,
+5303,Combo 3 de arco élfico oscuro,@5101,,
+5304,Combo 4 de arco élfico oscuro,@5101,,
+5401,Combo 1 de arco enano,@5101,,
+5402,Combo 2 de arco enano,@5101,,
+5403,Combo 3 de arco enano,@5101,,
+5404,Combo 4 de arco enano,@5101,,
+6101,Combo 1 de bastón humano,Un ataque básico con un bastón.,,
+6102,Combo 2 de bastón humano,@6101,,
+6103,Combo 3 de bastón humano,@6101,,
+6104,Combo 4 de bastón humano,@6101,,
+6201,Combo 1 de bastón élfico,@6101,,
+6202,Combo 2 de bastón élfico,@6101,,
+6203,Combo 3 de bastón élfico,@6101,,
+6204,Combo 4 de bastón élfico,@6101,,
+6301,Combo 1 de bastón élfico oscuro,@6101,,
+6302,Combo 2 de bastón élfico oscuro,@6101,,
+6303,Combo 3 de bastón élfico oscuro,@6101,,
+6304,Combo 4 de bastón élfico oscuro,@6101,,
+6401,Combo 1 de bastón enano,@6101,,
+6402,Combo 2 de bastón enano,@6101,,
+6403,Combo 3 de bastón enano,@6101,,
+6404,Combo 4 de bastón enano,@6101,,
+11111,Explosión de energía,"<SkillTitle>[Cualquier arma]</>
+Crea una concentración de energía delante que explota y causa daño a los enemigos.",Daño: {[Use34Param]1%}% de ATQ +{1},
+11112,Golpe de poder,"<SkillTitle>[Solo espada y escudo, lanza o doble espada]</>
+Traza un arco grande con el arma que inflige daño y derriba a los enemigos.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Derriba objetivos durante 2 s.",
+11113,Impacto de ráfaga,"<SkillTitle>[Solo espada y escudo, lanza o doble espada]</>
+Se abalanza contra los enemigos para golpearlos y derribarlos.",@11112,
+11121,@11111,@11111,@11111,
+11122,Golpe mortal,"<SkillTitle>[Solo daga]</>
+Se carga, ataca a toda potencia y derriba al enemigo.",@11112,
+11123,Impulso de potencia,"<SkillTitle>[Solo daga]</>
+Pasa entre los enemigos mientras los daña y los aturde brevemente.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Aturde objetivos durante 2 s.",
+11124,Disparo de poder,"<SkillTitle>[Solo arco]</>
+Dispara una flecha que causa daño y derriba al enemigo.","Daño: {[Use34Param]1-1%}% de ATQ +{1-1}
+Derriba objetivos durante 2 s.",
+11125,Doble disparo,"<SkillTitle>[Solo arco]</>
+Dispara dos flechas que causan gran daño a los enemigos que están delante.",Daño: {[Use34Param]1-1%}% de ATQ +{1-1} por cada 2 disparos.,
+11131,Impacto de energía,"<SkillTitle>[Cualquier arma]</>
+Lanza una bola de energía que inflinge daño a los enemigos que están delante.",Daño: {[Use34Param]1-1%}% de ATQ +{1-1},
+11132,Golpe de llama,"<SkillTitle>[Solo bastón]</>
+Lanza una bola de fuego que causa un daño importante y derriba a los enemigos.",@11124,
+11133,Golpe de viento,"<SkillTitle>[Solo bastón]</>
+Crea una ráfaga de viento que avanza entre los enemigos en línea recta.",@11131,
+12111,@11111,@11111,@11111,
+12112,@11112,@11112,@11112,
+12113,@11113,@11113,@11112,
+12121,@11111,@11111,@11111,
+12122,@11122,@11122,@11112,
+12123,@11123,@11123,@11123,
+12124,@11124,@11124,@11124,
+12125,@11125,@11125,@11125,
+12131,@11131,@11131,@11131,
+12132,@11132,@11132,@11124,
+12133,@11133,@11133,@11131,
+13111,@11111,@11111,@11111,
+13112,@11112,@11112,@11112,
+13113,@11113,@11113,@11112,
+13121,@11111,@11111,@11111,
+13122,@11122,@11122,@11112,
+13123,@11123,@11123,@11123,
+13124,@11124,@11124,@11124,
+13125,@11125,@11125,@11125,
+13131,@11131,@11131,@11131,
+13132,@11132,@11132,@11124,
+13133,@11133,@11133,@11131,
+14111,@11111,@11111,@11111,
+14112,@11112,@11112,@11112,
+14113,@11113,@11113,@11112,
+14121,@11111,@11111,@11111,
+14122,@11122,@11122,@11112,
+14123,@11123,@11123,@11123,
+14124,@11124,@11124,@11124,
+14125,@11125,@11125,@11125,
+14131,@11131,@11131,@11131,
+14132,@11132,@11132,@11124,
+14133,@11133,@11133,@11131,
+11211,Bofetada,"<SkillTitle>[Solo espada y escudo]</>
+Oscila el arma en un amplio arco que inflige daño a los enemigos, los derriba y los provoca.","Daño: {[Use34Param]1%}% de ATQ +{1}.
+Derriba el objetivo durante 2 s.
+Aggro +50%",
+11212,Represalia,"<SkillTitle>[Solo espada y escudo]</>
+Un grito que provoca a los enemigos. Los que golpees pierden control y habilidades.","Daño: Causa {[Use34Param]1%}% de ATQ + {1}. Reduce el ATQ de los objetivos en {4-1} durante 8 s.
+Provocación monstruosa: Todos los ataque se centrarán en el objetivo durante 8 s.
+Provocación heroica: Los objetivos no pueden usar habilidades y deben atacar al usuario durante 4 s.",
+11213,Majestad,"<SkillTitle>[Solo espada y escudo]</>
+Aumenta la defensa durante un instante y devuelve parte del daño recibido.","DEF +{1-2%}%
+Refleja un {1-1%}% del daño recibido
+Duración: 15 seg.",
+11221,Juicio,"<SkillTitle>[Solo espada doble o lanza]</>
+Traza un arco grande con el arma que inflige daño a los enemigos y los derriba.",@11112,
+11222,Tormenta de truenos,"<SkillTitle>[Solo espada doble o lanza]</>
+Sacude el suelo con fuerza abismal. Inflige daño y aturde a enemigos circundantes.",@11123,
+11223,Barrido general,"<SkillTitle>[Solo espada doble o lanza]</>
+Aumenta la vel. de ATQ y el número de enemigos a los que golpeas en un ataque.","Objetivos simultáneos +{1-1}, velocidad de ATQ +{1-2%}%
+Duración: 15 s.",
+11231,Nube de arena,"<SkillTitle>[Solo daga]</>
+Lanza barro a los enemigos para infligir daño y reducir su vista y precisión.","Daño: {[Use34Param]1%}% del ATQ + {1}.
+Baja la tasa de precisión de los enemigos un {2%}% durante 10 segundos.",
+11232,Puñalada por la espalda,"<SkillTitle>[Solo daga]</>
+Se teletransporta detrás de un enemigo, le inflige daño y aturde a los enemigos circundantes.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Aturde a los objetivos durante 3 s.",
+11233,Apuro,"<SkillTitle>[Solo daga]</>
+Aumenta drásticamente la vel. de ATQ y la evasión durante un instante.","Vel. De ATQ. +{1-1%}%
+Evasión + {2-1%}%
+Duración: 15 s.",
+11241,Disparo múltiple,"<SkillTitle>[Solo arco]</>
+Dispara flechas penetrantes en cono para infligir daño y derribar a los enemigos.",@11112,
+11242,Lluvia de flechas,"<SkillTitle>[Solo arco]</>
+Caen flechas en círculo para infligir daño continuo a los enemigos.","Daño: {[Use34Param]1-1%}% del ATQ +{1-1}
+y {[Use34Param]1-2%}% del ATQ +{1-2} cada 4 golpes adicionales.",
+11243,Tirador,"<SkillTitle>[Solo arco]</>
+Ataca enemigos lejanos, moviéndose con cautela para aum. ATQ y precisión.","Alcance:  4m, {1-2%}% de ATQ., PRE +{1-3}
+Movimiento ralentizado. Duración: 15 sec.",
+11244,Ojo de halcón,"<SkillTitle>[Solo arco]</>
+Activa Ojo de halcón. Ojo de halcón aumenta la tasa crít. e inflige daño a los enemigos.","Tasa de crít.  +{1-1} y Daño de ATQ. +{1-2%}%
+Duración: 20 sec.",
+11251,Volcán,"<SkillTitle>[Solo bastón]</>
+Crea una poderosa columna de fuego que inflige daño a los enemigos dentro de esa zona.",Daño: {[Use34Param]1%}% de ATQ +{1} por cada 5 golpes.,
+11252,Caldero fundido,"<SkillTitle>[Solo bastón]</>
+Lanza un orbe de fuego que atraviesa a los enemigos y explota al final de la trayectoria.","Daño: {[Use34Param]1-3%}% del ATQ +{1-3}
+Daño por explosión: {[Use34Param]1-1%}% del ATQ +{1-1}
+Derriba objetivos durante 2 segundos.",
+11253,Maná estimulante,"<SkillTitle>[Solo bastón]</>
+Aumenta los PM usados para las habilidades y potencia el ATQ de habilidades.","Uso de PM +{1-1%}%
+ATQ de habilidad +{1-2%}%
+Duración: 90 segundos.",
+11261,Castigo divino,"<SkillTitle>[Solo bastón]</>
+Crea una explosión sagrada que inflige daño y derriba a los enemigos dentro de esa zona.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Derriba objetivos durante 2,5 s.",
+11262,Curación superior,"<SkillTitle>[Solo bastón]</>
+Te cura a ti y a tu equipo con poderes sagrados, lo que hace que recuperen PV y PM.","Tasa de regen. de PV:
+{[Use34Param]1%}% de ATQ. +{1}
+Tasa de regen. de PM: {[Use34Param]2%}% de ATQ. +{2}",
+12211,Tribunal,"<SkillTitle>[Solo espada y escudo]</>
+Hace un giro amplio que provoca, inflige daño y derriba a los enemigos.","Daño: {[Use34Param]1%}% del ATQ + {1}.
+Aggro +30%
+Derriba enemigos durante 2 segundos.",
+12212,Gracia de Eva,"<SkillTitle>[Solo espada y escudo]</>
+Crea una zona sagrada en el suelo que va dañando a los enemigos que estén dentro y reduce su regeneración de PV.","Daño: {[Use34Param]1%}% del ATQ + {1} cada 6 golpes.
+Reduce la regen. de los enemigos cercanos un 50%.",
+12213,Actitud de Aegis,"<SkillTitle>[Solo espada y escudo]</>
+Se vuelve invulnerable al daño por un instante y aumenta la velocidad.","Garantiza inmunidad al daño durante 5 seg.
+Vel. +{2-1%}% por 15 seg.",
+12221,Cañón sónico,"<SkillTitle>[Solo espada doble o lanza]</>
+Dispara un aura hacia delante que daña a los enemigos lejanos y reduce la velocidad.","Daño: {[Use34Param]1-1%}% del ATQ +{1-1}
+Reduce la velocidad del objetivo un {PhyBuff:12221-1%}% durante 5 s.",
+12222,Tormenta sónica,"<SkillTitle>[Solo espada doble o lanza]</>
+Dispara un aura que explota, daña a los enemigos y los derriba.","Daño: {[Use34Param]1-1%}% de ATQ +{1-1}
+Derriba objetivos durante 2,5 s.",
+12223,Ritmo del combate,"<SkillTitle>[Solo espada doble o lanza]</>
+Aumenta el ATQ y DEF del usuario y las de los miembros de su equipo.","ATQ +{1-1}
+DEF +{1-3}
+Duración: 90 segundos.",
+12224,Canción del cazador,"<SkillTitle>[Solo espada doble o lanza]</>
+Aumenta la tasa de crít. y el daño crítico tuyo y de los miembros de tu equipo.","Tasa de crít. +{1-1%}%
+Daño crít.  + {1-2%}%
+Duración: 30 sec.",
+12231,Triple astilla,"<SkillTitle>[Solo daga]</>
+3 ataques rápidos que infligen mucho daño a los enemigos y reducen la DEF, la vel. ATQ y la velocidad.","Daño: {[Use34Param]1%}% del ATQ + {1}.
+Reduce la DEF de los enemigos un {2-1%}% durante 5 s.
+Reduce la vel. de ATQ de enemigos un {2-3%}% y la velocidad un {2-4%}% durante 5 s.",
+12232,Huracán de cuchillas,"<SkillTitle>[Solo daga]</>
+Lanza una ráfaga de ataques hacia delante que inflige daño varias veces a los enemigos.","Daño: {[Use34Param]1-1%}% del ATQ +{1-1}
+Aturde a los enemigos durante 3 s.",
+12233,Caminar entre planos,"<SkillTitle>[Solo daga]</>
+Aumenta considerablemente la vel. ATQ, la velocidad y la tasa de succión de PV.","Aumenta la vel. de ATQ un {1-1%}% y la velocidad un {1-2%}%.
+Aumenta la tasa de succión de PV un {1-3%}%.
+Duración: 20 s.",
+12241,Disparo letal,"<SkillTitle>[Solo arco]</>
+Dispara una flecha penetrante que inflige daño y aturde a los enemigos.","Daño: {[Use34Param]1-1%}% de ATQ +{1-1}
+Aturde objetivos durante 2 s.",
+12242,Doble tiro amplio,"<SkillTitle>[Solo arco]</>
+Dispara 2 rayos de energía, causando daño a los enemigos y reduciendo su DEF.","Daño: {[Use34Param]1-1%}% del ATQ +{1-1} por cada 2 disparos.
+Reduce la DEF de los objetivos un {PhyBuff:12242-1%}% durante 10 s.",
+12243,Ojo de la mente,"<SkillTitle>[Solo arco]</>
+Aumenta la tasa crít. considerablemente.","Tasa crít +{1-1}
+Duración: 30 s.",
+12244,Doble paso rápido,"<SkillTitle>[Solo arco]</>
+Aumenta la vel. de ATQ y la velocidad.","Velocidad +{1-1%}%, velocidad de ATQ. +{1-2%}%
+Duración: 30 s.",
+12251,Lanza de hielo,"<SkillTitle>[Solo bastón]</>
+Dispara una lanza de hielo que inflige gran daño y ralentiza a los enemigos afectados.","Daño: {[Use34Param]1-2%}% del ATQ. +{1-2}
+Reducción de velocidad de objetivos un {PhyBuff:12251-1%}% durante 5 s.",
+12252,Ventisca,"<SkillTitle>[Solo bastón]</>
+Invoca una tormenta de nieve a tu alrededor que ralentiza y aturde a los enemigos.","Daño: {[Use34Param]1%}% de ATQ +{1} por cada 5 golpes.
+Disminuye la velocidad de los enemigos en un {2-1%}% durante 5 s.
+Aturde a los enemigos durante 2 s.",
+12261,Fuego sagrado,"<SkillTitle>[Solo bastón]</>
+Pilar de llamas sagradas que daña al enemigo. Los enemigos alcanzados reciben más daño.","Daño: {[Use34Param]1%}% de ATQ +{1}
+y {[Use34Param]2-1%}% de ATQ +{2-1} cada 2 golpes adicionales.
+Aumenta el daño infligido a los enemigos en un {3-1%}% durante 7 s.",
+12262,Restauración,"<SkillTitle>[Solo bastón]</>
+Activa un efecto que te cura a ti y a los miembros del equipo que estén cerca continuamente.",Tasa de regen.: {[Use34Param]1-1%}% de ATQ +{1-1} durante 6 s.,
+12263,Refresco mental,"<SkillTitle>[Solo bastón]</>
+Te alienta a ti y al equipo, reduce el enfriamiento de hdes. y elimina efec. negativos.","Enfriamiento de habilidad - {1-1#} s.
+Duración: 20 s.
+Elimina efectos negativos.",
+12264,Seguir defensa,"<SkillTitle>[Solo bastón]</>
+Aumenta tu DEF y la de los miembros del equipo.","DEFM +{1-1%}%
+Duración: 40 s.",
+13211,Chupavidas,"<SkillTitle>[Solo espada y escudo]</>
+Traza un arco amplio para atacar y succiona parte de los PV y reduce la DEF de los enemigos afectados.","Daño: {[Use34Param]1%}% del ATQ + {1}.
+Absorbe PV por el 30% del daño infligido.
+Reduce la DEF de los enemigos un {2-1%}%.",
+13212,Hidra encadenada,"<SkillTitle>[Solo espada y escudo]</>
+Atrae a los enemigos para infringirles daño, los aturde y les obliga a atacarte.","Daño: {[Use34Param]1%}% del ATQ + {1}
+Provocar: Los ataques se centran en ti 8 s.
+Aturde objetivos durante 2,5 s.",
+13213,Defensa final,"<SkillTitle>[Solo espada y escudo]</>
+Aumenta la DEF y reduce la vel. de ATQ de los enemigos durante un tiempo.","DEF: {1-1%}% + {1-3}.
+Reduce de velocidad un 50% durante 5 s. cuando el efecto está activo.
+Duración: 15 s.",
+13221,Degollador giratorio,"<SkillTitle>[Solo espada doble o lanza]</>
+Traza un arco grande con el arma que inflige daño a los enemigos y los derriba.",@11124,
+13222,Tormenta huracanada,"<SkillTitle>[Solo para lanza o doble espada]
+Gira para atacar a los enemigos cercanos.
+Ralentiza al objetivo dañado.
+Puedes moverte rápidamente mientras usas esta habilidad.","Daño: {[Use34Param]1%}% de ATQ. + {1} por cada 7 golpes.
+Velocidad del objetivo: -{2-1%}% durante 3 s.
+Velocidad +{3-1%}% durante 7 s.",
+13223,Baile del guerrero,"<SkillTitle>[Solo espada doble o lanza]</>
+Aumenta tu ATQF y el de los miembros del equipo.","ATQF +{1-1}
+Duración: 40 s.",
+13224,Baile furioso,"<SkillTitle>[Solo espada doble o lanza]</>
+Aumenta tu vel. de ATQ y la de los miembros del equipo.","Velocidad de ATQ. +{1-1%}%
+Duración: 40 s.",
+13231,Aguijón,"<SkillTitle>[Solo daga]</>
+Ataca a los enemigos que están delante, les inflige daño y hace que sangren. Se aplica una parte del daño sin tener en cuenta la DEF.","Daño: {[Use34Param]1%}% del ATQ + {1}
+El daño ignora la DEF: {2}
+Inflige daño adicional a los enemigos durante 3 s.",
+13232,Lluvia acuchilladora,"<SkillTitle>[Solo daga]</>
+Ataca a los enemigos cercanos, los aturde brevemente y hace que sangren.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Daño extra a los objetivos 3 s; aturde a los objetivos 2 s.",
+13233,Postura feroz,"<SkillTitle>[Solo daga]</>
+El daño crítico aumenta considerablemente. También aumenta brevemente la tasa de crít. al máx.","Daño crítico +{1-1%}%, duración: 20 s.
+Efecto adicional: Eficiencia máx. de tasa crít. durante 4 s.",
+13241,Aguijón de la muerte,"<SkillTitle>[Solo arco]</>
+Dispara una flecha feroz que penetra en los enemigos e inflige grandes daños.",@11131,
+13242,Disparo aturdidor,"<SkillTitle>[Solo arco]</>
+Provoca daños y leve aturdimiento entre los enemigos.",@11232,
+13243,Fuego veloz,"<SkillTitle>[Solo arco]</>
+Un estado que aumenta la vel. de ATQ mientras desciende el alcance del ataque.","Vel. De ATQ. +{1-1%}%
+Rango - {1-2%}m
+Duración: 15 s.",
+13244,Combo mortal,"<SkillTitle>[Solo arco]</>
+Olvida la evasión y se centra en atacar, aumentando el ATQ considerablemente mientras estás en este estado.","ATQ +{1-1}, evasión: {1-2%}%
+Duración: 15 s.",
+13251,Aliento oscuro,"<SkillTitle>[Solo bastón]</>
+Canaliza las llamas de elemento oscuro para provocar daño. Puedes modificar la dirección mientras lo lanzas.",Daño: {[Use34Param]1%}% de ATQ +{1} cada 7 golpes.,
+13252,Corrupción,"<SkillTitle>[Solo bastón]</>
+Corrompe un área de la tierra para infligir daños a los enemigos y disminuir su DEF y vel.","Daño: {[Use34Param]1%}% de ATQ +{1} cada 5 golpes
+Breve reducción de DEF y velocidad de objetivos.",
+13253,Sabiduría mortal,"<SkillTitle>[Solo bastón]</>
+Breve aumento de ATQM a su límite.","ATQM +{1-1}
+Duración: 15 s.",
+13261,Toque vampírico,"<SkillTitle>[Solo bastón]</>
+Ataque robavidas para curar a tu equipo. Los miembros con menos PV reciben mayor curación.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Tasa reg.: 20% - 60% del daño infligido según PV actuales del objetivo",
+13262,Rabia sangrienta,"<SkillTitle>[Solo bastón]</>
+Lanza una onda sísmica de elemento oscuro dañando y ralentizando enemigos, además de eliminar sus potenciadores.","Daño: {[Use34Param]1%}% del ATQ +{1}
+Reduce la velocidad de objetivos un {2%}% durante 4 s.
+Elimina los potenciadores de los objetivos.",
+13263,Empoderamiento,"<SkillTitle>[Solo bastón]</>
+Evita que los PV se queden en menos de cierta cantidad cuando la habilidad está activa y restaura unos pocos PV.","Evita que los PV se queden en menos de {1-1}
+Duración: 5 s.
+Restaura {2} PV.",
+13264,Empoderamiento (cura),@13263,"ATQM +{1-1}
+Duración: 20 s.",
+14211,Impulso,"<SkillTitle>[Solo espada y escudo]</>
+Balanceo con daño que disminuye los daños infligidos por los enemigos y les incita a atacar.","Daño: {[Use34Param]1-1%}% del ATQ +{1-1}
+Reduce la velocidad de los objetivos un {2-1%}%. Provocar: Los ataques se centran en ti durante 8 s.",
+14212,Terremoto,"<SkillTitle>[Solo espada y escudo]</>
+Sacude el suelo, dañando y derribando a los enemigos dentro de esa zona. Disminuye el ATQ de los enemigos afectados.","Daño: {[Use34Param]1-1%}% del ATQ + {1-1}.
+ATQ del objetivo -20% durante 8,5 s.
+Aturde a los objetivos durante 2,5 s.",
+14221,Choque de poder,"<SkillTitle>[Solo espada doble o lanza]</>
+Ataca la zona que tienes delante para provocar un daño importante a los enemigos dentro de esa zona.",@11131,
+14222,Ataque con salto,"<SkillTitle>[Solo espada doble o lanza]</>
+Salta sobre un objetivo para derribar a los enemigos cercanos y mantiene sus acciones bloqueadas durante un breve tiempo.",@12222,
+14223,Enano furioso,"<SkillTitle>[Solo espada doble o lanza]</>
+Confía en tu alto poder de DEF innato para centrarte en atacar y no en defenderte.","ATQ +{1-1}, DEF +{1-2%}%
+Duración: 15 segundos.",
+14231,Ráfaga de cuchillas,"<SkillTitle>[Solo daga]</>
+Carga hacia adelante, penetrando en los enemigos y haciéndolo más vulnerables a ataques críticos.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Baja la resistencia a críticos de objetivos en {2-1%}% durante 10 s.",
+14232,Estrella sónica,"<SkillTitle>[Solo daga]</>
+Mov. rápido en forma de pentagrama. Los enemigos afectados ven disminuida su velocidad y no pueden usar sus habilidades.","Daño: {[Use34Param]1%}% del ATQ + {1}
+Reduce la velocidad de los enemigos un {2-1%}% durante 10 s.
+Silencia a los enemigos durante 5 s.",
+14233,Búsqueda de adenas,"<SkillTitle>[Solo daga]</>
+Descubre más adenas durante la batalla. Aumenta la velocidad y los enemigos afectados se envenenan y ralentizan.","Ganancia de adenas +{1-1%} y velocidad +{1-2%}.
+Envenena y ralentiza a los enemigos mientras está activa.
+Duración: 60 s.",
+14241,Disparo explosivo,"<SkillTitle>[Solo arco]</>
+Dispara una flecha de elemento de fuego que explota para provocar daños y derribar a los enemigos.","Daño: {[Use34Param]1%}% del ATQ +{1}
+Daño extra de {3-1} a objetivos durante 4 s.
+Derriba objetivos durante 2,5 s.",
+14242,Tiro de evasión,"<SkillTitle>[Solo arco]</>
+Retrocede 3 metros y dispara 3 flechas que explotan para provocar daños y ralentizar a los enemigos.","Daño: {[Use34Param]1%}% del ATQ +{1}
+Reduce la velocidad de objetivos un {2-1%}% durante 4 s.
+La distancia de ataque aumenta en {PhyBuff:142422-1%}m. durante 5 s.",
+14251,Pico terrestre,"<SkillTitle>[Solo bastón]</>
+Levantamiento violento de un pilar de piedra para causar daño y derribar a los enemigos dentro de la zona.","Daño: {[Use34Param]1%}% de ATQ +{1}
+Derriba objetivos durante 3 s.",
+14252,Triple esquirla,"<SkillTitle>[Solo bastón]</>
+Lanza esquirlas de elemento de tierra en 3 direcciones, penetrando y dañando a los enemigos.",@11131,
+14253,Luchador interno,"<SkillTitle>[Solo bastón]</>
+Invoca antiguos recuerdos para aumentar el ATQ de los ataques básicos de tu equipo.","ATQ ataque básico +{1-1%}%
+Duración: 30 s.",
+14261,Protección divina,"<SkillTitle>[Solo bastón]</>
+Repara tus PV y los de los miembros de tu equipo y aumenta la DEF.","Tasa de regen.: {[Use34Param]1%}% de ATQ +{1}
+Aumenta la DEF del equipo en {2-1} durante 10 s.",
+14262,Aplauso divino,"<SkillTitle>[Solo bastón]</>
+Sacude el suelo para provocar daños y aturdir a los enemigos dentro de la zona.","Daño: {[Use34Param]1%}% de ATQ +{1}
+y {[Use34Param]1-3%}% de ATQ +{1-3} cada 4 golpes extra; aturde durante 2,5 s.",
+14263,Gran vitalidad,"<SkillTitle>[Solo bastón]</>
+Aumenta tus PV máximos y los de tu equipo.","PV máximos +{1-1}
+Duración: 180 sec.",
+21001,Potencial humano,El firme propósito de los humanos les proporciona un mayor ATQ frente a los enemigos.,Bonificaciones a ATQF y resistencia a críticos,
+21111,Dominio arma guerrero,"<SkillTitle>[Pasiva]</>
+Aumenta el ATQ cuando te equipas con una espada y un escudo, con una lanza o con una doble espada.",ATQ +{1},
+21112,Dominio armad. pesada,"<SkillTitle>[Pasiva]</>
+Disminuye el daño sufrido cuando te equipas con una armadura pesada. Este efecto se acumula hasta 4 veces.","Daño - {1%}%
+Se acumula con cada pieza: Casco, armadura, guantes, botas.",
+21121,Dominio arma pícaro,"<SkillTitle>[Pasiva]</>
+Aumenta el ATQ cuando te equipas con una daga o un arco.",@21111,
+21122,Dominio armad. ligera,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de evasión cuando te equipas con una armadura ligera. Este efecto se acumula hasta 4 veces.","Tasa de evasión +{1%}%
+Se acumula con cada pieza: Casco, armadura, guantes, botas.",
+21131,Dominio arma de mago,"<SkillTitle>[Pasiva]</>
+Aumenta el ATQ cuando te equipas con un bastón.",@21111,
+21132,Dominio de traje,"<SkillTitle>[Pasiva]</>
+Aumenta el daño de ataque cuando te equipas con una armadura de traje. Este efecto se acumula hasta 4 veces.","Daño +{1%}%
+Se acumula con cada pieza: Casco, armadura, guantes, botas.",
+22001,Potencial élfico,Los movimientos rápidos permiten una mejor evasión frente a los ataques del enemigo.,"Bonificaciones a la evasión, la velocidad y el ATQM.",
+22111,@21111,@21111,@21111,
+22112,@21112,@21112,@21112,
+22121,@21121,@21121,@21111,
+22122,@21122,@21122,@21122,
+22131,@21131,@21131,@21111,
+22132,@21132,@21132,@21132,
+23001,Potencial élfico oscuro,Su increíble sentido de la batalla les proporciona una mayor tasa crít. al atacar a los enemigos.,Bonificaciones a la precisión y la tasa de crít.,
+23111,@21111,@21111,@21111,
+23112,@21112,@21112,@21112,
+23121,@21121,@21121,@21111,
+23122,@21122,@21122,@21122,
+23131,@21131,@21131,@21111,
+23132,@21132,@21132,@21132,
+24001,Potencial enano,"Sus cuerpos están bendecidos por los cielos, por lo que se les otorga muchos PV.",Bonificaciones a DEFF y PV máximos,
+24111,@21111,@21111,@21111,
+24112,@21112,@21112,@21112,
+24121,@21121,@21121,@21111,
+24122,@21122,@21122,@21122,
+24131,@21131,@21131,@21111,
+24132,@21132,@21132,@21132,
+20211,Aura de defensa,"<SkillTitle>[Pasiva]</>
+Aumenta tu DEF y la de los miembros de tu equipo. Esto afecta a toda la región.",DEF +{1-1}%,
+20212,Furia justa,"<SkillTitle>[Pasiva]</>
+Aumenta el daño infligido a los monstruos y disminuye el daño que causan. Sube el nivel de agresión de los ataques.","Aumenta el daño de ATQ un {2%}% y reduce el daño recibido un {3%}% contra monstruos.
+Aumenta la ganancia de aggro un {1%}%.",
+20221,Aura de ataque,"<SkillTitle>[Pasiva]</>
+Aumenta tu ATQ y el de los miembros de tu equipo. Esto afecta a toda la región.",ATQ de los miembros del equipo +{1-1},
+20231,Paso rápido,"<SkillTitle>[Pasiva]</>
+Aumenta tu velocidad y la de los miembros de tu equipo. Esto afecta a toda la región.",Velocidad de los miembros del equipo +{1-1%}%,
+20241,Guía,"<SkillTitle>[Pasiva]</>
+Aumenta tu precisión y la de los miembros de tu equipo. Esto afecta a toda la región.",Precisión de los miembros del equipo +{1-1},
+20251,Susurro mortal,"<SkillTitle>[Pasiva]</>
+Aumenta tu daño crítico y el de los miembros de tu equipo. Esto afecta a toda la región.",Daño crítico de los miembros del equipo +{1-1%}%,
+20261,PV estimulantes,"<SkillTitle>[Pasiva]</>
+Aumenta tus PV máximos y los de tu equipo. Esto afecta a toda la región.",PV máximos de los miembros del equipo +{1-1},
+21211,Dominio de evasión,"<SkillTitle>[Pasiva]</>
+Probabilidad de disminuir el daño sufrido cuando se sufre un ataque.","Defensa de escudo: {1%}%
+Daño recibido al defender con escudo -{2%}%
+DEF +{3}",
+21221,Venganza,"<SkillTitle>[Pasiva]</>
+Probabilidad de generar un potenciador que aumenta el ATQ cuando se lanza un ATQ crít.","ATQ +{1-1}
+Probabilidad de activación: 10%, duración: 6 s.",
+21222,Dominio de combate,"<SkillTitle>[Pasiva]</>
+Aumenta el ATQ cuando se lleva lanza o doble espada equipada.",ATQ +{1%}%,
+21231,Escabullida,"<SkillTitle>[Pasiva]</>
+Reduce el enfriamiento de habilidades durante la evasión y aumenta el ATQ durante 3 segundos.","Reduce la recarga de habilidad en {1-1#} s.
+Aumenta el ATQ en {2-1} durante 3 s.
+Prob. de activación: 10%. Duración: 6 s.",
+21232,Mejorar ataque crítico,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de crít. y el daño crítico.","Aumenta la tasa de crít. un {1%}%.
+Aumenta el daño crítico un {2%}%.",
+21241,Lentitud mejorada,"<SkillTitle>[Pasiva]</>
+Ralentiza al enemigo cuando se lanza un ATQ crít.","Velocidad del enemigo -{1-1%}%
+Daño de sangre del enemigo: {[Use34Param]2-1%}%
+Probabilidad de activación: 10%. Duración: 3 s.",
+21251,Fulgor,@21221,@21221,
+21261,Vínculo divino,"<SkillTitle>[Pasiva]</>
+Aumenta la DEF cuando se está en un equipo. El efecto se magnifica cuantos más miembros del equipo haya.",DEF +{1-1%}% por miembro del equipo,
+21262,Escudo de maná,"<SkillTitle>[Pasiva]</>
+Si te alcanza pierdes PM en vez de parte del daño.",Un {1-1%}% del DAÑ se resta de los PM,
+22211,Evasión de anciano,"<SkillTitle>[Pasiva]</>
+Probabilidad de generar un potenciador que aumenta la tasa de evasión cuando se sufre un ataque.","Tasa de evasión +{1-1%}%
+Probabilidad de activación: 15%, duración: 5 s.",
+22212,@21211,@21211,@21211,
+22221,Espíritu,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de crít. continuamente.",Tasa de crít. +{1-1%}%,
+22222,@21222,@21222,@21222,
+22231,Rabia veloz,"<SkillTitle>[Pasiva]</>
+Al atacar, aumenta la vel. de ATQ y la velocidad según número de golpes.","Aumenta la vel. de ATQ por ataque un {1-1%}%.
+Cada ataque aumenta la velocidad de movimiento un {1-2%}%.
+Duración: 5 s.",
+22232,Oportunidad crucial,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de crít.",Tasa crít +{1-1},
+22241,Veloz,"<SkillTitle>[Pasiva]</>
+Aumenta el daño de los ataques básicos.",DAÑ de ataques básicos +{1%}%,
+22251,Sello escarchado,"<SkillTitle>[Pasiva]</>
+Aumenta el daño cuando se ataca a enemigos que sufren efectos de alteración del movimiento.",ATQ +{1%}% contra los enemigos que sufren efectos de alteración del movimiento.,
+22252,Curación ligera ofensiva,"<SkillTitle>[Pasiva]</>
+Probabilidad de recuperar PV cuando se ataca.","Tasa de regeneración: {1}
+Probabilidad de activación: 10%",
+22261,@22211,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de evasión continuamente.",Tasa de evasión +{1-1%}%,
+23211,Succión mejorada,"<SkillTitle>[Pasiva]</>
+Probabilidad de generar un potenciador que absorbe PV cuando se sufre un ataque.","Succión de PV: {1-1%}% del daño infligido
+Probabilidad de activación: 15%, duración: 6 s.",
+132132,Defensa final (ralentización),"<SkillTitle>[Solo espada y escudo]</>
+Aumenta la DEF al máximo cuando el usuario se desplaza con cuidado.","DEF: +{1-1%}% + {1-3}. La velocidad se reduce mientras el efecto está activo.
+Duración: 15 s.",
+23221,Fiebre,"<SkillTitle>[Pasiva]</>
+Probabilidad de generar un potenciador que aumenta el daño crítico cuando se lanza un ATQ crít.","Daño crítico +{1-1%}%
+Probabilidad de activación: 10%, duración: 6 s.",
+23222,@21222,@21222,@21222,
+23231,Sed de sangre,"<SkillTitle>[Pasiva]</>
+Cuando se ataca a los enemigos con pocos PV, disminuye su DEF y su resistencia crítica.","Si los PV del enemigo están por debajo del 50%.
+DEF: -{1-1%}%.
+Resist. tasa de crít. -{1-3%}%. Duración: 3 s.",
+23232,Poder crítico,"<SkillTitle>[Pasiva]</>
+Aumenta el daño crítico y aumenta el ATQ cuando se ataca a enemigos que sangran.","Daño crítico +{1-1%}%.
+ATQ contra enemigos que sangran +{2%}%.",
+23241,Señal crítica,"<SkillTitle>[Pasiva]</>
+Probabilidad de generar un potenciador que aumenta la tasa de precisión cuando se lanza un ATQ crít.","Tasa de PRE +{1-1%}%
+Recuperación de PM {2}
+Prob. de activación: 10%. Duración: 6 s.",
+23251,@23221,@23221,@23221,
+23252,@22252,"<SkillTitle>[Pasiva]</>
+Probabilidad de recuperar PV cuando se lanza un ATQ crít.",@22252,
+23261,Agresión,"<SkillTitle>[Pasiva]</>
+Da una pequeña parte de la succión de PV a un miembro del equipo de forma continua.",Succión de PV +{1-1%}%,
+24211,Pericia en evasión,"<SkillTitle>[Pasiva]</>
+Aumenta los PV máx y tiene una probabilidad de disminuir el daño recibido al ser atacado.","PV máximos +{3%}%. Defensa de escudo: {1%}%
+Daño recibido al defender con escudo -{2%}%.
+DEF +{4}.",
+24212,Destreza fortuita,"<SkillTitle>[Pasiva]</>
+Esta habilidad puede usarse dos veces cada cierto tiempo; aumenta levemente los PV.","Usa la habilidad en un espacio que brille para utilizarla dos veces.
+Tasa de regeneración: {2}
+Enfriamiento: 15 s.",
+24221,Impacto de anhelo,"<SkillTitle>[Pasiva]</>
+Al lanzar un ataque tiene la probabilidad de generar un potenciador que aumenta el ATQ y el número de objetivos.","ATQ +{1-1}
+Aumenta el número de enemigos atacados en 1
+Prob. de activación: 10%. Duración: 6 s.",
+24222,@21222,@21222,@21222,
+24223,Enloquecido fortuito,"<SkillTitle>[Pasiva]</>
+Probabilidad de aplicar un potenciador que aumenta la velocidad de ATQ del equipo cuando se lanza un ATQ crít.","Velocidad de ATQ +{1-1%}%
+Probabilidad de activación: 8%, duración: 6,5 s.",
+24231,@22221,@22221,@22221,
+24232,Fatalidad fortuita,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa crít. y provoca daños adicionales cuando se ataca a enemigos con velocidad reducida.","Tasa de crít. +{1-1}
+Aumenta ATQ. En contra de enemigos ralentizados por {2%}%.",
+24233,Búsqueda de adenas (veneno),"<SkillTitle>[Solo daga]</>
+Descubre más adenas durante la batalla. Aumenta la velocidad y envenena a los enemigos afectados.","Aumenta la ganancia de adenas un {1-1%}% y la velocidad un {1-2%}%.
+Duración: 60 s.",
+142422,@14242,@14242,"Daño: {[Use34Param]1%}% de ATQ. + {1}
+Reduce la velocidad de los objetivos durante 4 s.
+Aumenta el rango durante 5 s.",
+24241,Acrobacia,"<SkillTitle>[Pasiva]</>
+Aumenta la tasa de evasión y la vel. de ATQ de forma continua.","Tasa de evasión +{1%}%
+Vel. de ATQ +{2%}%",
+24242,Doble paso fortuito,"<SkillTitle>[Pasiva]</>
+Probabilidad de aturdir y de reducir el ATQ si golpea un ataque directo.","10% d probabilidad de aturdir enemigos durante 0,5 s. tras un ataque directo, ATQ -{2-1%}%",
+24251,@23261,@21221,"ATQ +{1-1%}%.
+Probabilidad de activación: 10%. Duración: 6 s.",
+24252,Defensa fortuita,"<SkillTitle>[Pasiva]</>
+Probabilidad de aumentar tu DEF y la de los miembros de tu equipo cuando se lanza un ATQ crít.","DEF +{1-1}%
+Probabilidad de activación: 15%, duración: 6 s.",
+24261,Fortalecer,"<SkillTitle>[Pasiva]</>
+Aumenta la regen. de PV de un aliado.",Regeneración de PV + {1-1%}%,
+24262,Curación pura fortuita,"<SkillTitle>[Pasiva]</>
+Ofrece la posibilidad de recuperar tus PV y los de los miembros de tu equipo cuando se sufre un ataque.","Tasa de Regeneración : {1}
+Probabilidad de activación: 15%",
+30001,Escudo absoluto,"<SkillTitle>[Cualquier arma]</>
+Hechizo de protección. Dis. daño sufrido y aum. resist. a incapacitación.","DEFM +{1-1%}%
+Resistencia de incapacitación +{1-3%}%.",
+30002,Paso ligero,"<SkillTitle>[Cualquier arma]</>
+Movimiento rápido durante un breve instante.",Velocidad +{1%}%,
+30003,Inmortal,"<SkillTitle>[Pasiva]</>
+Da la oportunidad de sobrevivir con 1 PV si se está herido de muerte.",¿Eh?,
+30004,Flecha de sangre,"<SkillTitle>[Cualquier arma]</>
+Lanza un aura de espadas para producir sangrado.",Daño: {[Use34Param]1%}% de ATQF.,
+30005,Campo de relámpago,"<SkillTitle>[Cualquier arma]</>
+Crea una zona delante que frena a los enemigos.",Daño: {[Use34Param]1%}% de ATQM.,
+30006,Impacto de misil,"<SkillTitle>[Cualquier arma]</>
+Ataca a los enemigos con una poderosa onda sísmica que provoca graves daños.",Daño: {[Use34Param]1-1%}% de ATQF +{[Use34Param]1-2%}% of ATQM.,
+30007,Veneno de enjambre,"<SkillTitle>[Cualquier arma]</>
+Crea una zona delante que envenena a los enemigos. En esta zona los enemigos están ralentizados.",@30005,
+30008,Armadura de escarcha,"<SkillTitle>[Cualquier arma]</>
+Aumenta la DEF durante un período de tiempo y ralentiza a los enemigos atacados.","Daño: x1,5 + {[Use34Param]1} de ATQ
+Reduce el ATQ de los objetivos en {4-1} durante 3 s.",
+30009,Descarga de evasión,"<SkillTitle>[Cualquier arma]</>
+Evade retrocediendo y lanza una onda sísmica hacia adelante.",@30004,
+30010,Escudo de maná,"<SkillTitle>[Cualquier arma]</>
+Al golpear, causa una parte de daño que se resta a los PM en lugar de a los PV.",Usa PM equivalentes a un {2%}% del daño recibido.,
+30011,Golpe curativo,"<SkillTitle>[Cualquier arma]</>
+Cura levemente tus PV.",Tasa de regen.: {[Use34Param]1%}% de ATQ,
+30012,Lluvia de meteoritos,"<SkillTitle>[Cualquier arma]</>
+Lanza un meteorito delante para infligir daño de fuego.","Daño: {[Use34Param]1-1%}% del ATQF + {[Use34Param]1-2%}% del ATQM.
+Derriba al enemigo.
+Inflige daño durante 3 s.",
+30013,Reducción de tiempo,"<SkillTitle>[Cualquier arma]</>
+Disminuye el tiempo de enfriamiento de habilidades durante un período de tiempo.",Enfriamiento de habilidad -{1#} s,
+30014,Golpe envenenado,"<SkillTitle>[Cualquier arma]</>
+Envenena a los enemigos y reduce su daño y velocidad durante un tiempo.","Daño: {[Use34Param]1-1%}% del ATQF + {[Use34Param]1-2%}% del ATQM.
+Daño adicional durante 5 s.
+Durante 5 s, velocidad del enemigo: -{3-2%}%. Daño: -{3-1%}%.",
+30015,Zona de defensa,"<SkillTitle>[Cualquier arma]</>
+Reduce el daño recibido por los aliados circundantes y otorga inmunidad momentánea al usuario.","Durante 6 s, daño recibido por aliados -{PhyBuff:300151-1%}%.
+Daño recibido de habilidades poco comunes reducido un {PhyBuff:300151-2%}% adicional.
+Inmunidad frente a efectos negativos 2 s.",
+31001,Armadura de escarcha (prueba del efecto ralentización),Ralentización pasiva de Armadura de escarcha,Reduce un {2-1}% la velocidad,
+31002,Choque de poder (Old),Ataca con fuerza a los enemigos delante.,Ataca con fuerza a los enemigos delante.,
+31003,Gran choque (antiguo),@31002,@31002,
+31004,@14221,Choque de poder,Ataca a los enemigos cercanos con un poderoso ataque.,
+31005,Gran choque,Gran choque,@31004,
+31006,@11222,Tormenta de truenos,@31004,
+31007,Campo sagrado,Provoca graves daños a los enemigos cercanos.,@31004,
+31008,@30009,Lanza una onda sísmica mientras evade retrocediendo.,@30004,
+35001,@21111,@21111,,
+35002,@21112,@21112,,
+35003,@21121,@21121,,
+35004,@21122,@21122,,
+35005,@21131,@21131,,
+35006,@21132,@21132,,
+35011,@21211,@21211,,
+35021,@21222,@21222,,
+35031,@21232,@21232,,
+35111,@21211,@21211,,
+35121,@22221,@22221,,
+35122,@21222,@21222,,
+35131,@22232,@22232,,
+35141,@22241,@22241,,
+35151,@22251,@22251,,
+35161,@22211,@22261,,
+35221,@21222,@21222,,
+35231,@23232,@23232,,
+35311,@24211,@24211,,
+35321,@21222,@21222,,
+35331,@22221,@22221,,
+35332,Fatalidad fortuita,@24232,,
+35341,@24241,@24241,,
+40001,ATQF,ATQF,Aumenta un{1-1} el ATQM,
+40002,ATQM,ATQM,@40001,
+40003,Tasa de aumento de ATQF,Tasa de aumento de ATQF,@40001,
+40004,Tasa de aumento de ATQM,Tasa de aumento de ATQM,@40001,
+40005,Potencia de ataque básico,Potencia de ataque básico,@40001,
+40006,Tasa de aumento de ATQ de miembro de equipo,Tasa de aumento de ATQ de miembro de equipo,@40001,
+40007,Tasa de aumento de vel. de ATQ,Tasa de aumento de vel. de ATQ,@40001,
+40008,Tasa de aumento del daño crítico,Tasa de aumento del daño crítico,@40001,
+40009,Tasa de PRE de crítico,Tasa de PRE de crítico,@40001,
+40010,Tasa de RES a críticos,Tasa de RES a críticos,@40001,
+40011,DAÑF,DAÑF,@40001,
+40012,DAÑM,DAÑM,@40001,
+40013,Ignorar DEF,Ignorar DEF,@40001,
+40014,Reducción de PV del objetivo,Reducción de PV del objetivo,@40001,
+40015,Reducción de PV del objetivo (%),Reducción de PV del objetivo (%),@40001,
+40016,DEFF,DEFF,@40001,
+40017,DEFM,DEFM,@40001,
+40018,Tasa de aumento de DEFF,Tasa de aumento de DEFF,@40001,
+40019,Tasa de aumento de DEFM,Tasa de aumento de DEFM,@40001,
+40020,Evasión,Evasión,@40001,
+40021,Tasa de aumento de evasión,Tasa de aumento de evasión,@40001,
+40022,Tasa de evasión,Tasa de evasión,@40001,
+40023,Precisión,Precisión,@40001,
+40024,Tasa de aumento de precisión,Tasa de aumento de precisión,@40001,
+40025,Tasa de precisión,Tasa de precisión,@40001,
+40026,Tasa de aumento del daño,Tasa de aumento del daño,@40001,
+40027,Tasa de aumento de DAÑF,Tasa de aumento de DAÑF,@40001,
+40028,@40027,@40027,@40001,
+40029,Tasa de aumento de daño a objetivo ralentizado,Tasa de aumento de daño a objetivo ralentizado,@40001,
+40030,Ignorar daños DEF,Ignorar daños DEF,@40001,
+40031,Tasa de reducción del daño,Tasa de reducción del daño,@40001,
+40032,Tasa de reducción de DAÑF,Tasa de reducción de DAÑF,@40001,
+40033,Tasa de reducción de DAÑM,Tasa de reducción de DAÑM,@40001,
+40034,Reduc. DAÑ fijo,Reduc. DAÑ fijo,@40001,
+40035,Tasa de desvío,Tasa de desvío,@40001,
+40036,Tasa de reducción de DAÑ de desvío,Tasa de reducción de DAÑ de desvío,@40001,
+40037,DAÑF con el tiempo,DAÑF con el tiempo,@40001,
+40038,DAÑM con el tiempo,DAÑM con el tiempo,@40001,
+40039,Curar PV según ATQ,Curar PV según ATQ,@40001,
+40040,Curar con el tiempo,Curar con el tiempo,@40001,
+40041,Tasa de aumento de agresión,Tasa de aumento de agresión,@40001,
+40042,Regeneración de PV,Regeneración de PV,@40001,
+40043,Succión de PV,Succión de PV,@40001,
+40044,Absorción de PV (habilidad activa que le roba PV al enemigo),Absorción de PV (habilidad activa que le roba PV al enemigo),@40001,
+40045,Absorción de PV (reparte los PV robados entre todo el equipo),Absorción de PV (reparte los PV robados entre todo el equipo),@40001,
+40046,PV máximos,PV máximos,@40001,
+40047,Tasa de aumento de PV máximos,Tasa de aumento de PV máximos,@40001,
+40048,PM máximos,PM máximos,@40001,
+40049,Tasa de aumento de PM máximos,Tasa de aumento de PM máximos,@40001,
+40050,Tasa de aumento de velocidad,Tasa de aumento de velocidad,@40001,
+40051,Tasa de reducción del coste de PM,Tasa de reducción del coste de PM,@40001,
+40052,Reducción del coste de PM,Reducción del coste de PM,@40001,
+40053,Tasa regen. de PM,Tasa regen. de PM,@40001,
+40054,Enfriamiento de habilidad,Enfriamiento de habilidad,@40001,
+40055,Desprecio (aumenta Aggro al máx.),Desprecio (aumenta Aggro al máx.),@40001,
+40056,Bloquear objetivo,Bloquear objetivo,@40001,
+40057,Mover objetivo,Mover objetivo,@40001,
+40058,Tirar del objetivo,Tirar del objetivo,@40001,
+40059,Tasa de RES de tracción,Tasa de RES de tracción,@40001,
+40060,Tasa de RES de revés,Tasa de RES de revés,@40001,
+40061,Tasa aum. obtención experiencia,Tasa aum. obtención experiencia,@40001,
+40062,Tasa de aumento de ganancia de adenas,Tasa de aumento de ganancia de adenas,@40001,
+40063,Tasa de RES a ralentizar,Tasa de RES a ralentizar,@40001,
+40064,Tasa de RES a aturdir,Tasa de RES a aturdir,@40001,
+40065,RES a estado alterado,RES a estado alterado,@40001,
+40066,Aumento de rango de habilidad,Aumento de rango de habilidad,@40001,
+40067,Aumento de número de golpes de habilidad,Aumento de número de golpes de habilidad,@40001,
+40068,Aumento de tiempo de fin de combo,Aumento de tiempo de fin de combo,@40001,
+40069,Penetración,Penetración,@40001,
+40070,Resistencia,Resistencia,@40001,
+40071,Tasa de crít.,Tasa de crít.,@40001,
+40072,Resistencia a crít.,Resistencia a crít.,@40001,
+40073,Tasa de aumento de tasa de crít.,Tasa de aumento de tasa de crít.,@40001,
+40074,Tasa de aumento de RES a críticos,Tasa de aumento de RES a críticos,@40001,
+50001,Antílope,Monstruo con tipo de ataque cuerpo a cuerpo,,
+50002,Orco breka,@50001,,
+50003,Luchador orco breka,@50001,,
+50004,Pellizcadora gigante,@50001,,
+50005,Oso rojo,@50001,,
+50006,Avispa,@50001,,
+50007,Goblón rey,@50001,,
+50008,Hombre lagarto leto,@50001,,
+50009,Chamán lagarto leto,Ataque a distancia del elemento de viento. Dispara un proyectil de viento. Penetra en el enemigo.,,
+50010,Luchador lagarto leto,@50001,,
+50011,Chamán lagarto maille,Ataque a distancia del elemento de fuego. Dispara un proyectil de llama. Aplica DcT.,,
+50012,Luchador lagarto maille,@50001,,
+50013,Soldado stakato de la ciénaga,@50001,,
+50014,Tejedor místico,"Ataque a distancia del elemento de oscuridad. Dispara un proyectil oscuro para infliigr DAÑ. Aplica maldición. El DcT es débil, pero dura bastante.",,
+50015,Araña venenosa,@50001,,
+50016,Prima del coro oscuro,@50001,,
+50017,Parca,@50001,,
+50018,Acosador de esqueletos,@50001,,
+50019,Murciélago vampiro,@50001,,
+50020,Windsus,@50001,,
+50021,Señor zombi Crowl,@50001,,
+50022,Leopardo negro,@50001,,
+50023,Luchador silenos tanor,@50001,,
+50024,Silenos tanor,@50001,,
+50025,Explorador Ol Mahum,@50001,,
+50026,Guerrero Ol Mahum,@50001,,
+50027,Chamán silenos tanor,@50009,,
+50028,Jefe silenos tanor,@50001,,
+50029,Caballero oscuro,@50001,,
+50030,Gólem de piedra,@50001,,
+50031,@11243,@50001,,
+50032,Meforde,@50001,,
+50033,Premo,@50001,,
+50034,Rorka,@50001,,
+50035,Mandrágora,@50001,,
+50036,Sirviente de la condena,@50001,,
+50037,Alma encadenada,@50001,,
+50038,Nerkas,@50001,,
+50039,Guillotine de la muerte,@50001,,
+50040,Lobo negro,@50001,,
+50041,Arquero orco turek,Un ataque básico de monstruos distancia que usan arcos.,,
+50042,Jefe de guerra orco turek,@50001,,
+50043,Combatiente orco turek,@50001,,
+50044,Sold. esqueleto de mazm.,@50001,,
+50045,Merodeador de esqueletos,@50041,,
+50046,Hombre lobo,@50001,,
+50047,Escorpión Tepra,@50001,,
+50048,Puma rabioso,@50001,,
+50049,Zorro rojo,@50001,,
+50050,Custodio de ojo de monstruo,@50001,,
+50051,Perro de guerra turek,@50001,,
+50052,Larva de hormiga,@50001,,
+50053,Hormiga soldado,@50001,,
+50054,Hormiga,@50001,,
+50055,Basilisco,@50001,,
+50056,Sanguijuela gigante,@50001,,
+50057,Sahara,@50001,,
+50058,Hormiga noble,@50001,,
+50060,Espectro resucitado,@50001,,
+50061,Espectro inquieto,@50001,,
+50062,Súcubo,@50001,,
+50063,Jefe de guerra orco breka,@50001,,
+50064,Chamán orco breka,@50009,,
+50065,Perum,@50001,,
+50066,Señor oscuro,@50001,,
+50067,Pirata zombi ,@50001,,
+50068,Susceptor Prime,@50001,,
+50069,Grito lúgubre,@50001,,
+50070,Kaim Vanul,@50001,,
+50071,Navegante pirata zombi,@50001,,
+50072,Capitán pirata zombi,@50001,,
+50073,Zaken,@50001,,
+50074,Stenoa reina de Gorgon,@50001,,
+50075,Medusa,@50001,,
+50076,Wyrm,@50001,,
+50077,Caballero sin cabeza,@50001,,
+50078,Gárgola tormenta de arena,@50001,,
+50079,Grandis,@50001,,
+50080,Jefe lagarto leto,@50001,,
+50081,Drake,@50001,,
+50082,Hongo de esporas,@50001,,
+50083,Richard,@50001,,
+50084,Orfen,@50001,,
+50085,Sirvienta de Orfen,@50001,,
+50086,Buscador orco ketra,@50041,,
+50087,Oel Mahum,@50001,,
+50088,Chamán Oel Mahum,@50011,,
+50089,Luchador Oel Mahum,@50001,,
+50090,Reina de sangre,@50001,,
+50091,Boreas,@50001,,
+50092,Protector de la cueva,@50001,,
+50093,Jefe de guerra Ol Mahum,@50001,,
+50094,Disparador Ol Mahum,@50041,,
+50095,Explorador lagarto maille,Un ataque básico a distancia que usa lanzas.,,
+50096,Arquero lagarto leto,@50041,,
+50097,Criminal del pantano,@50001,,
+50098,Explorador de esqueletos,@50041,,
+50099,Validus,@50001,,
+50100,Arquero orco breka,@50041,,
+50101,Dicor,@50001,,
+50102,Sauce negro,@50001,,
+50103,Hermandad oscura,@50014,,
+50104,Typheron,@50001,,
+50105,Lobo blanco,@50001,,
+50106,Cap. ranger orco ketra,@50001,,
+50107,Cap. orco blanco ketra,@50001,,
+50108,Balrog,@50001,,
+50109,Apóstol,@50001,,
+50110,Caballero de tutorial 1,@50001,,
+50111,@50110,@50001,,
+50112,Caballero de tutorial 2,@50001,,
+50113,@50112,@50001,,
+50114,Caballero de tutorial 3,@50041,,
+50115,Caballero de tutorial 4,@50001,,
+50116,@50115,@50001,,
+50117,Caballero de tutorial 5,@50001,,
+50118,@50117,@50001,,
+50119,Caballero de tutorial 6,@50041,,
+50120,Caballero de tutorial 7,@50001,,
+50121,@50120,@50001,,
+50122,Field Boss_West Talking Island_Fallen Spirit Shepherd,@50001,,
+50123,Field Boss_Gludin Highway_Zodiac the Murderer,@50001,,
+50124,Field Boss_Gludio Plains_Silverbeard the Invasion Leader,@50001,,
+50125,Field Boss_Windawood Manor_Vapar the Fallen Guardian,@50001,,
+50126,Field Boss_Wasteland_Shelop Watcher,@50001,,
+50127,Field Boss_Plains of Dion_Flagon,@50001,,
+50128,Field Boss_Cruma Swamp_Sina the Swamp Ruler,@50001,,
+50129,Field Boss_Summit of Dissonance_Rorka the Forgotten,@50001,,
+50130,Field Boss_Giran Dominion_Stenoa the Gorgon Queen,@50001,,
+50131,Field Boss_Deathly Fog Shores_Undertaker,@50001,,
+50132,Field Boss_Haunted Necropolis_Marlox,@50001,,
+50133,Field Boss_Northwind Plateau_Heart of the Plateau,@50001,,
+50134,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady,@50001,,
+50140,Combo 1 de caballero revolucionario (humano: lanza),@2101,,
+50141,Combo 2 de caballero revolucionario (humano: lanza),@2101,,
+50142,Combo 3 de caballero revolucionario (humano: lanza),@2101,,
+50143,Combo 4 de caballero revolucionario (humano: lanza),@2101,,
+50144,Combo 5 de caballero revolucionario (humano: lanza),@2101,,
+50145,Combo 6 de caballero revolucionario (humano: lanza),@2101,,
+50146,Combo 1 de arquero revolucionario (humano: arco),@5101,,
+50147,Combo 2 de arquero revolucionario (humano: arco),@5101,,
+50148,Combo 3 de arquero revolucionario (humano: arco),@5101,,
+50149,Combo 4 de arquero revolucionario (humano: arco),@5101,,
+50150,Combo 1 de caballero revolucionario (humano: espada),Un ataque básico que usa una espada.,,
+50151,Combo 2 de caballero revolucionario (humano: espada),@50150,,
+50152,Combo 3 de caballero revolucionario (humano: espada),@50150,,
+50153,Combo 4 de caballero revolucionario (humano: espada),@50150,,
+50154,Combo 5 de caballero revolucionario (humano: espada),@50150,,
+50155,Combo 6 de caballero revolucionario (humano: espada),@50150,,
+50156,Combo 1 de bastón de Lucien,@6101,,
+50157,Combo 2 de bastón de Lucien,@6101,,
+50158,Combo 3 de bastón de Lucien,@6101,,
+50159,Combo 4 de bastón de Lucien,@6101,,
+50160,Combo 1 de arco de Elpin,@5101,,
+50161,Combo 2 de arco de Elpin,@5101,,
+50162,Combo 3 de arco de Elpin,@5101,,
+50163,Combo 4 de arco de Elpin,@5101,,
+50164,Combo 1 de caballero fiel (humano: lanza),@2101,,
+50165,Combo 2 de caballero fiel (humano: lanza),@2101,,
+50166,Combo 3 de caballero fiel (humano: lanza),@2101,,
+50167,Combo 4 de caballero fiel (humano: lanza),@2101,,
+50168,Combo 5 de caballero fiel (humano: lanza),@2101,,
+50169,Combo 6 de caballero fiel (humano: lanza),@2101,,
+50170,Combo 1 de arquero fiel (humano: arco),@5101,,
+50171,Combo 2 de arquero fiel (humano: arco),@5101,,
+50172,Combo 3 de arquero fiel (humano: arco),@5101,,
+50173,Combo 4 de arquero fiel (humano: arco),@5101,,
+50174,Combo 1 de caballero fiel (humano: espada),@50150,,
+50175,Combo 2 de caballero fiel (humano: espada),@50150,,
+50176,Combo 3 de caballero fiel (humano: espada),@50150,,
+50177,Combo 4 de caballero fiel (humano: espada),@50150,,
+50178,Combo 5 de caballero fiel (humano: espada),@50150,,
+50179,Combo 6 de caballero fiel (humano: espada),@50150,,
+50180,Combo 1 de lanza de Marlow,@2101,,
+50181,Combo 2 de lanza de Marlow,@2101,,
+50182,Combo 3 de lanza de Marlow,@2101,,
+50183,Combo 4 de lanza de Marlow,@2101,,
+50184,Combo 5 de lanza de Marlow,@2101,,
+50185,Combo 6 de lanza de Marlow,@2101,,
+50186,Ataque de torre de control,,,
+50187,Ataque normal de jefe de mazmorra de adenas,"Un dragón dorado cuerpo a cuerpo que protege la mazmorra de adenas.
+Usa sus colosales aals para crear potentes ráfagas de viento.",,
+50188,Ataque normal de monstruo invocado de mazmorra de adenas,Ataque básico del monstruo invocado en la mazmorra de adenas.,,
+50189,Varkaron,Ataque básico del monstruo Varcarlo en la mazmorra de clan.,,
+501891,Creación de Varkaron,Ataque básico usado por la Creación de Varkaron (jefe de mazmorra de clan),,
+50190,@50187,@50187,,
+50191,Krakia,,,
+50192,Rosa ninfa,,,
+50193,Ninfa reina Lara,,,
+50194,Diablilla,"Agita sus alas, salta y golpea con la llave.",,
+50195,Imitación de oro,Abre los párpados y golpea con su lengua.,,
+50196,Hada,,,
+50197,Pan,,,
+50198,Enloquecido lagarto tanta,,,
+50199,Invocador lagarto tanta,,,
+50200,Orco de Ketra,,,
+50201,Jefe de guerra orco de Ketra,,,
+50202,Oficial silenos de Barka,,,
+50203,Marsha,,,
+50204,DragonPython,,,
+50205,DragonBerserker,,,
+50206,Karinness,,,
+50207,DarkAssociation_M_High,,,
+50208,Grendel_Boss,,,
+50209,Void sabueso,@50001,,
+50210,ArmoredGrandis,,,
+50211,EmbryonKnights,,,
+50212,Grendel,,,
+50213,Atrox,,,
+50214,Embryon,,,
+58001,ArmorMerchant_01,,,
+58002,Aimel,,,
+58003,Hardin,,,
+58004,HardinsFallower,,,
+58005,Fernel,,,
+58006,CatTheCat_01,,,
+58011,Resident_02_Sword,,,
+58012,Resident_02_Staff,,,
+58021,Resident_03,,,
+58022,Resident_03_Bow,,,
+58023,Resident_03_Sword,,,
+58024,Resident_03_DualSword,,,
+58031,Resident_04_Sword,,,
+58032,Resident_04_Bow,,,
+58033,Resident_04_Sword_2,,,
+58034,Resident_04_Sword_3,,,
+58041,Resident_05_Dagger,,,
+58051,Noble_02_Staff,,,
+58061,Noble_03_Sword,,,
+58071,Student_Dagger,,,
+58072,Student_Staff,,,
+58081,Teleporter_01_Staff,,,
+58091,SmeltingMerchant_01_Sword,,,
+58101,Magician_Staff,,,
+58111,ItemMerchant_01_Spear,,,
+58121,Officer_Sword,,,
+58131,WarehouseKeeper_01_Sword,,,
+58141,TemplePriest_01,,,
+58151,Officer_02_Spear,,,
+58152,Officer_02_Spear_Skill1,,,
+58153,Officer_02_Spear_Skill2,,,
+58161,CityGuard_01_01_Spear,,,
+58162,CityGuard_01_02_Spear,,,
+58163,CityGuard_01_03_Spear,,,
+58164,Tsun,,,
+58165,BP_Wooldie,Ataque normal,,
+58166,BP_Scooldie,@58165,,
+60001,@50001,Potente DAÑ.,,
+60002,@50002,@60001,,
+60003,@50003,@60001,,
+60004,@50004,"Aplica un DcT débil, pero que se mantiene en el tiempo.",,
+60005,@50005,Aturde.,,
+60006,@50006,@60004,,
+60007,@50007,@60005,,
+60008,@50008,@60001,,
+60009,@50010,@60001,,
+60010,@50012,@60001,,
+60011,@50013,@60001,,
+60012,@50015,@60004,,
+60013,@50016,Inflige daño y recupera sus PV.,,
+60014,@50017,@60013,,
+60015,@50018,@60005,,
+60016,@50019,Aplica DcT.,,
+60017,@50020,@60001,,
+60018,@50021,@60005,,
+60019,@50022,@60005,,
+60020,@50023,@60001,,
+60021,@50024,@60001,,
+60022,@50025,@60004,,
+60023,@50026,@60001,,
+60024,@50028,@60001,,
+60025,@50029,Disminuye el ATQ y la DEF del objetivo.,,
+60026,@50030,@60001,,
+60027,@11243,@60025,,
+60028,@50032,@60025,,
+60029,@50033,@60005,,
+60030,@50034,@60001,,
+60031,@50035,@60004,,
+60032,@50036,@60001,,
+60033,@50037,@60001,,
+60034,@50038,@60001,,
+60035,@50040,@60016,,
+60036,@50042,@60001,,
+60037,@50043,@60001,,
+60038,@50044,@60005,,
+60039,@50046,@60016,,
+60040,@50047,@60004,,
+60041,@50048,@60005,,
+60042,@50049,@60016,,
+60043,@50050,@60025,,
+60044,@50051,@60016,,
+60045,@50053,@60004,,
+60046,@50054,@60004,,
+60047,@50055,@60005,,
+60048,@50056,@60013,,
+60049,@50057,@60005,,
+60050,@50058,@60016,,
+60051,@50060,@60001,,
+60052,@50061,@60004,,
+60053,@50062,@60025,,
+60054,@50063,@60001,,
+60055,@50065,@60001,,
+60056,@50066,Daño débil pero contínuo.,,
+60057,@50067,@60001,,
+60058,@50068,@60001,,
+60059,@50069,@60001,,
+60060,@50070,@60001,,
+60061,@50071,@60001,,
+60062,@50072,@60013,,
+60063,@50074,@60001,,
+60064,@50075,@60004,,
+60065,@50076,@60016,,
+60066,@50077,@60013,,
+60067,@50078,@60001,,
+60068,@50079,@60005,,
+60069,@50080,@60001,,
+60070,@50081,@60016,,
+60071,@50082,@60004,,
+60072,@50083,@60001,,
+60073,@50085,@60004,,
+60074,@50087,@60001,,
+60075,@50089,@60001,,
+60076,@50090,@60025,,
+60077,@50091,@60025,,
+60078,@50092,@60001,,
+60079,@50093,@60001,,
+60080,@50097,@60001,,
+60081,@50098,@60013,,
+60082,@50099,@60001,,
+60083,@50101,@60001,,
+60084,@50102,@60001,,
+60085,@50106,@60001,,
+60086,@50107,@60001,,
+60087,@50108,@60001,,
+60088,@50110,@60001,,
+60089,@50112,@60001,,
+60090,@50114,@50041,,
+60091,@50115,@60001,,
+60092,@50117,@60001,,
+60093,@50119,@50041,,
+60094,@50120,@60001,,
+160018,@50021,@60005,,
+160032,@50036,@60001,,
+160033,@50037,@60001,,
+160056,@50066,@60056,,
+60095,@11222,"<SkillTitle>[Solo espada doble o lanza]</>
+Sacude el suelo con la máxima potencia para provocar daños y ralentizar a los enemigos cercanos.","Daño: 100% de ATQ +{1}
+Menos velocidad y velocidad de ATQ de objetivos en un {2-1%}% 3 s.",
+50135,Ataque normal de Boreas de la Isla Parlante,Ataque básico de Boreas,,
+60096,Habilidad 1 de Gorsaur de la Isla Parlante,,,
+60097,Habilidad 2 de Gorsaur de la Isla Parlante,,,
+50136,Ataque normal de Orbis de la Isla Parlante,Ataque básico de Orbis,,
+60098,Habilidad 1 de Carpheous de la Isla Parlante,,,
+60099,Habilidad 2 de Carpheous de la Isla Parlante,,,
+50137,Ataque normal de Apóstol de la Isla Parlante,Ataque básico de Apostle,,
+60100,Habilidad 1 de Orobas de la Isla Parlante,,,
+50138,Ataque normal de arconte de Bau de la Isla parlante,Ataque básico de Arconte Bau,,
+60101,Habilidad 1 de arconte Votis de la Isla parlante,,,
+60102,Habilidad 2 de arconte Votis de la Isla parlante,,,
+60103,Habilidad de maniquí de prueba,,,
+50139,Ataque normal de Makkum de la Isla Parlante,Ataque básico de Makkum,,
+60104,Dexter de la Isla Parlante 1,,,
+60105,Dexter de la Isla Parlante 2,,,
+60106,Lucien - Curación superior,"<SkillTitle>[Solo bastón]</>
+Te cura a ti y a los miembros de tu equipo con poderes sagrados, lo que hace que se recuperen PV.",,
+60107,Lucien - Golpe de llama,"<SkillTitle>[Solo bastón]</>
+Lanza una bola de fuego para provocar daños de explosión graves a los enemigos.",,
+60108,Elpin - Estrella sónica,"<SkillTitle>[Solo daga]</>
+Movimiento rápido en forma de pentagrama mientras se ataca a los enemigos. Luego se produce una segunda ronda de daños a los enemigos cercanos. Disminuye el daño sufrido mientras se está en movimiento.",,
+60109,Elpin - Disparo de poder,"<SkillTitle>[Solo arco]</>
+Dispara una flecha para provocar daño y aturde momentáneamente al enemigo y a los objetivos circundantes.",,
+60110,Tormenta huracanada de Marlow,Habilidad exclusiva del jefe Marlow en el tutorial de Asedio al castillo,,
+60111,Aliento oscuro de Marlow,@60110,,
+60112,Campo de relámpago por aparición de Marlow,@60110,,
+60113,Golpe de viento,"Inflige daño y derriba a los enemigos que tiene enfrente.
+Bate sus alas mientras se encara para atacar.",,
+60114,Grieta Fluish,Golpea el suelo para enviar una onda sísmica al dragón.,,
+60115,Aliento de fuego dorado,Exhala fuego para atacar.,,
+60116,Campo de relámpago de Hardin,@60110,,
+60117,Protector de la cueva: jefe del acto 8 de Isla Parlante Oriental,@60001,,
+60118,Defensa final de Marlow,Aumenta considerablemente la DEF.,,
+60121,@50078,Montruo tipo cuerpo a cuerpo (para cofres del tesoro del campo),,
+60122,@50078,Daño poderoso (para cofres del tesoro del campo),,
+60123,@50192,,,
+60124,@50193,,,
+60125,@50193,,,
+60126,@50196,,,
+60127,@50197,,,
+60128,@50197,,,
+60129,@50198,,,
+60130,@50199,,,
+60131,@50200,,,
+60132,@50201,,,
+60135,@50201,,,
+60133,@50202,,,
+60134,@50202,,,
+60136,Cazador de esqueletos (+ aturdir/para mazmorra de Pergamino de mejora),Cazador de esqueletos (+ aturdir/para mazmorra de Pergamino de mejora),,
+60137,Gólem de piedra (+ aturdir/para mazmorra de Pergamino de mejora),Gólem de piedra (+ aturdir/para mazmorra de Pergamino de mejora),,
+60138,DragonPythonBossSkill_01,,,
+60139,DragonPythonSkill_01,,,
+60140,DragonBerserkerBossSkill_01,,,
+60141,DragonBerserkerSkill_01,,,
+60142,KarinnessSkill_01,,,
+60143,KarinnessBossSkill_01,,,
+60144,DarkAssociation_M_HighSkill_01,,,
+60145,DarkAssociation_M_HighSkill_02,,,
+60146,GrendelSkill_01(Boss),,,
+60147,GrendelSkill_02(Boss),,,
+60148,@50030,@50001,,
+60149,@50077,@50001,,
+60150,@50077,@60013,,
+60151,@50070,@50001,,
+60152,@50070,@60001,,
+60153,@50210,@60001,,
+60154,@50211,@60001,,
+60155,@50211,@60001,,
+60156,GrendelSkill_01,@60001,,
+60157,AtroxSkill_01,@60001,,
+60158,Embryon_Skill_Sword_01,@60001,,
+60159,Embryon_Skill_Sword_02,@60001,,
+60160,VoidHoundSkill_01,@60001,,
+60161,VoidHoundSkill_01(Mazmorra de experiencia: infernal),Inflige daño y derriba al enemigo.,,
+60162,Aliento de fuego dorado (infierno),@60115,,
+60163,ValidusSkill_02(Templo guardián: infernal),Autodestrucción + salpicadura + DAÑ,,
+60164,KetraOrcArcher(Círculo de invocación : muy difícil),,,
+71011,Mazmorra diaria: Makkum (fácil),,,
+71012,@71011,"Mueve los puños en un gran arco para atacar.
+> Inflige daño a los enemigos que estén enfrente.
++ aplica aturdir",,
+71013,@71011,"Golpea el suelo para atacar usando las ondas sísmicas de la tierra.
+> Inflige mucho daño a los enemigos cercanos.",,
+71021,Mazmorra diaria: Trikan (fácil),,,
+71022,@71021,"Salta y después cae el suelo con un ataque muy potente.
+> Inflige muchísimo daño a los enemigos cercanos.",,
+71023,@71021,"Emite un grito que genera una onda sónica.
+> Inflige poco daño a los enemigos cercanos.
+ + Lento",,
+71031,Mazmorra diaria: Apóstol (fácil),,,
+71032,@71031,"Mueve la guadaña para realizar un ataque que golpea varias veces.
+> Inflige mucho daño a los enemigos que hay delante.",,
+71033,@71031,"Invoca secuaces diabólicos en los alrededores.
+> Los monstruos invocados dependerán de la dificultad de la mazmorra.
+> Los secuaces están controlados por la máquina.",,
+71041,Mazmorra diaria: arconte Bau (fácil),,,
+71042,@71041,"Ataca disparando armas desde el subsuelo.
+> Inflige daño normal a los enemigos que estén enfrente.
+> Difícil de esquivar.",,
+71043,@71041,"Transforma el arma en un filo y lo mueve.
+> Inflige mucho daño a los enemigos que hay delante.",,
+71051,Mazmorra diaria: Rey de sangre (fácil),,,
+71052,@71051,"La cabeza de la estatua muerde constantemente.
+> Inflige mucho daño a los enemigos que hay delante.
++ sangrado DcT",,
+71053,@71051,"Invoca secuaces no muertos en los alrededores.
+> Los monstruos invocados dependerán de la dificultad de la mazmorra.
+> Los secuaces están controlados por la máquina.",,
+71061,Mazmorra diaria: Orbis (fácil),,,
+71062,@71061,"Traza un arco con sus garras delanteras para atacar.
+> Inflige poco daño a los enemigos cercanos.
++ sangrado grave DcT",,
+71063,@71061,"Carga de frente mientras ataca con los dientes.
+> Inflige mucho daño a los enemigos que hay delante.
+> Repite el ataque entre 1-4 veces en la dirección del jugador, dependiendo de la dificultad.",,
+71071,Mazmorra diaria: Boreas (fácil),,,
+71072,@71071,"Exhala fuego para atacar.
+> Inflige mucho daño a los enemigos que hay delante.
+> Respira fuego durante 5 s.",,
+71073,@71071,"Escupe esferas llameantes al suelo y explotan al impactar.
+> Inflige mucho daño a los enemigos que hay delante.
+> Las llamas explotan 3 veces seguidas.",,
+71111,Mazmorra diaria: Makkum (normal),,,
+71112,@71111,,,
+71113,@71111,,,
+71121,Mazmorra diaria: Trikan (normal),,,
+71122,@71121,,,
+71123,@71121,,,
+71131,Mazmorra diaria: Apóstol (normal),,,
+71132,@71131,,,
+71133,@71131,,,
+71141,Mazmorra diaria: arconte Bau (normal),,,
+71142,@71141,,,
+71143,@71141,,,
+71151,Mazmorra diaria: Rey de sangre (normal),,,
+71152,@71151,,,
+71153,@71151,,,
+71161,Mazmorra diaria: Orbis (normal),,,
+71162,@71161,,,
+71163,@71161,,,
+71171,Mazmorra diaria: Boreas (normal),,,
+71172,@71171,,,
+71173,@71171,,,
+71211,Mazmorra diaria: Makkum (difícil),,,
+71212,@71211,,,
+71213,@71211,,,
+71221,Mazmorra diaria: Trikan (difícil),,,
+71222,@71221,,,
+71223,@71221,,,
+71231,Mazmorra diaria: Apóstol (difícil),,,
+71232,@71231,,,
+71233,@71231,,,
+71241,Mazmorra diaria: arconte Bau (difícil),,,
+71242,@71241,,,
+71243,@71241,,,
+71251,Mazmorra diaria: Rey de sangre (difícil),,,
+71252,@71251,,,
+71253,@71251,,,
+71261,Mazmorra diaria: Orbis (difícil),,,
+71262,@71261,,,
+71263,@71261,,,
+71271,Mazmorra diaria: Boreas (difícil),,,
+71272,@71271,,,
+71273,@71271,,,
+71311,Mazmorra diaria: Makkum (muy difícil),,,
+71312,@71311,,,
+71313,@71311,,,
+71321,Mazmorra diaria: Trikan (muy difícil),,,
+71322,@71321,,,
+71323,@71321,,,
+71331,Mazmorra diaria: Apóstol (muy difícil),,,
+71332,@71331,,,
+71333,@71331,,,
+71341,Mazmorra diaria: arconte Bau (muy difícil),,,
+71342,@71341,,,
+71343,@71341,,,
+71351,Mazmorra diaria: Rey de sangre (muy difícil),,,
+71352,@71351,,,
+71353,@71351,,,
+71361,Mazmorra diaria: Orbis (muy difícil),,,
+71362,@71361,,,
+71363,@71361,,,
+71371,Mazmorra diaria: Boreas (muy difícil),,,
+71372,@71371,,,
+71373,@71371,,,
+71411,Mazmorra diaria: Makkum (infernal),,,
+71412,@71411,,,
+71413,@71411,,,
+71421,Mazmorra diaria: Trikan (infernal),,,
+71422,@71421,,,
+71423,@71421,,,
+71431,Mazmorra diaria: Apóstol (infernal),,,
+71432,@71431,,,
+71433,@71431,,,
+71441,Mazmorra diaria: arconte Bau (infernal),,,
+71442,@71441,,,
+71443,@71441,,,
+71451,Mazmorra diaria: Rey de sangre (infernal),,,
+71452,@71451,,,
+71453,@71451,,,
+71461,Mazmorra diaria: Orbis (infernal),,,
+71462,@71461,,,
+71463,@71461,,,
+71471,Mazmorra diaria: Boreas (infernal),,,
+71472,@71471,,,
+71473,@71471,,,
+72011,Incursión de clan: Kaim Vanul,Realiza una serie de ataques delante durante 3 segundos para hacer daño a los enemigos en la zona.,,
+50059,Hormiga reina,@50001,,
+500591,@50059,@50001,,
+72021,Abalanzarse,DAÑ a distancia enfrente,,La Reina hormiga utiliza Abalanzarse.
+72022,Escupir veneno,DAÑ a distancia enfrente + DoT,,La Reina hormiga utiliza Escupir veneno.
+72023,Liberar feromina,DAÑ circular AdE + reducción de la DEF + reducción de velocidad,,La Reina hormiga libera sus feromonas.
+72024,Cavar,Ocultar + invencibilidad,,La Reina hormiga desaparece bajo tierra.
+72025,Enloquecido (reina hormiga),Autopotenciador,,La Reina hormiga ha enloquecido.
+72026,Autodestrucción fórmica (10 s),@60163,,
+72027,Autodestrucción fórmica (20 s),@60163,,
+720271,Autodestrucción fórmica (40 s),@60163,,
+72028,Ataque normal ralentizador de hormiga soldado,Ataque básico + Lento,,
+72029,Curación con AdE de hormiga noble,Curación,,
+72030,Inmunidad ATQF (15 s),Inmunidad ATQF,,
+72121,Aumento de DEF (20 s),Aumento de DEF,,
+72122,Mejora de ataque básico de reina hormiga,,,
+72123,Fin de Cavar,,,La Reina hormiga ha reaparecido.
+721241,Pot. de hormiga 0,,,
+72124,Pot. de hormiga 1,,,
+72125,Pot. de hormiga 2,,,
+72126,Pot. de hormiga 3,,,
+72127,Pot. de hormiga 4,,,
+72128,Pot. de hormiga 5,,,
+72129,Pot. de hormiga 6,,,
+172021,Abalanzarse - Muy difícil,Daño frontal + aturdir,,@72021
+172022,Escupir veneno - Conecta con Abalanzarse,@72022,,@72022
+172023,Liberar feromina - Corta distancia,@72023,,@72023
+172024,Liberar feromina - Larga distancia,@72023,,@72023
+172025,Escupir veneno - Frontal,@72022,,@72022
+172026,Escupir veneno - Izquierda,Daño a la izquierda + daño con el tiempo,,@72022
+172027,Escupir veneno - Derecha,Daño a la derecha + daño con el tiempo,,@72022
+172028,Estallido venenoso,Acumula daño de veneno en un área circular.,,La Reina hormiga utiliza Estallido venenoso.
+172029,Charco de veneno,Envenena una pequeña área circular.,,@72022
+1720310,Bendición de la gran hormiga enfermera_1,Invencible,,La Reina hormiga es Barrera 1
+1720311,Bendición de la gran hormiga enfermera_2,@1720310,,La Reina hormiga es Barrera 2
+1720312,Bendición de la gran hormiga enfermera_3,@1720310,,La Reina hormiga es Barrera 3
+1720313,Eliminar bendición de la gran hormiga enfermera_1,Disipahechizos,,Eliminar Barrera 1
+1720314,Eliminar bendición de la gran hormiga enfermera_2,@1720313,,Eliminar Barrera 2
+1720315,Eliminar bendición de la gran hormiga enfermera_3,@1720313,,Eliminar Barrera 3
+1720316,Autoaturdimiento,Aturdir,,Autoaturdimiento
+1720317,Cavar (aturdimiento breve),@72024,,@72024
+1720318,Veneno mortal,AdE en el suelo,,Lanza Veneno mortal
+1720319,Liberar feromina - Corta distancia (subterráneo),@72023,,@72023
+1720320,Liberar feromina - Larga distancia (subterráneo),@72023,,@72023
+72130,Aturdimiento antes de Cavar,Aturdir AdE,,
+72131,Autodestrucción fórmica (5 s),@60163,,
+72132,Unión,Unir con AdE,,La Reina hormiga utiliza Unir.
+72133,Curación de hormiga enfermera,@72029,,
+72134,Curación de hormiga enfermera (falsa),@72029,,
+1720001,Reina hormiga (ataque básico),@50001,,
+1720002,@72022,Daño frontal + Veneno,,@72022
+1720003,@72021,Daño frontal + Derribo + Charco de veneno + Veneno,,@72021
+1720004,Furia de hormiga,Daño circular = Veneno,,La Reina hormiga utiliza Furia.
+1720005,@172023,Daño circular AdE + Veneno + Unión,,La Reina hormiga esparce sus feromonas por los alrededores.
+1720006,@172024,Daño toroidal AdE + Veneno + Unión,,La Reina hormiga esparce sus feromonas a larga distancia.
+1720007,@1720318,Suelo circular,,
+1720008,Abalanzarse II,@1720003,,
+1720009,Enloquecido,@72025,,La Reina hormiga ha enloquecido.
+72031,Cuchilla sangrienta,Mueve la espada para infligir daño.,,Varkaron utiliza Cuchilla sangrienta.
+720311,Cuchilla sangrienta - Muy difícil,@72031,,@72031
+72032,Protección sangrienta,Lanza un escudo sobre sí mismo.,,Varkaron utiliza Escudo sangriento.
+72033,Guillotina de sangre,Salta y golpea con la espada hacia abajo para infligir daño.,,Varkaron utiliza Resonancia sangrienta.
+72034,Carga de sangre,Carga de frente con la espada.,,
+72035,Enloquecido sangriento,Enloquecido,,
+720353,Enloquecido sangriento - Muy difícil,@72035,,
+72036,Cuchilla sangrienta (mejora),Mueve la espada para infligir daño y drenar PV.,,@72031
+720361,Cuchilla sangrienta (mejora) - Muy difícil,@72036,,@72031
+72037,Guillotina de sangre (mejora),Salta y golpea con la espada hacia abajo para infligir daño y aturdir.,,@72033
+720371,Guillotina de sangre (mejora) - Muy difícil,@72037,,@72033
+72038,Vórtice de sangre,Ataca a los enemigos mientras gira,,Varkaron usa Vórtice de sangre.
+72039,Invocar clon,Para rotación del enfriamiento.,,
+72040,Suelo (fase 1),Habilidad de suelo,,Varkaron usa Charco de destrucción
+720401,Suelo (fase 2),@72040,,@72040
+720402,Suelo (fase 3),@72040,,@72040
+172031,@72031,@72031,,@72031
+172032,@72032,@72032,,@72032
+172033,@72033,@72033,,@72033
+172034,@72034,@72034,,
+172035,Potenciador,Habilidad potenciadora,,La Creación de Varkaron ha mejorado a Varkaron.
+172036,Remove Buff,@172035,,
+172038,@72038,@72038,,@72038
+720411,Láser mortal (fácil),Dispara un rayo láser + explota al contacto.,,
+720412,Láser mortal (normal),@720411,,
+720413,Láser mortal (difícil),@720411,,
+720414,Láser mortal (evento),@720411,,
+72042,Chispa creciente,Daño de AdE de largo alcance delante,,El corazón de Cruma utiliza Chispa creciente.
+720431,Restablecer el tiempo (fácil),Restaura PV del corazón por sí mismo.,,El corazón de Cruma utiliza Restablecer el tiempo.
+720432,Restablecer el tiempo (normal),@720431,,@720431
+720433,Restablecer el tiempo (difícil),@720431,,@720431
+72044,Veneno de gravedad,Explosión de esfera + DcT,,El corazón de Cruma utiliza Veneno de gravedad.
+72045,Embestida de corazón,Daño DAÑ + reflejo de DAÑ,,El corazón de Cruma comienza a embestir.
+72046,Machacador de mentes,Control mental en una pequeña zona de alrededor.,,El corazón de Cruma utiliza Machacador de mentes.
+72047,Choque perforador,DAÑ cercano + aturdir,,
+72048,Clamor del guarda,DAÑ cercano + silenciar,,
+72051,Invocación fácil 1,@72039,,El corazón de Cruma invoca guardianes.
+72052,@72046,@72046,,@72046
+72053,@72046,@72046,,@72046
+72054,Invocación fácil 2,@72039,,@72051
+72055,Invocación normal 1,@72039,,@72051
+72056,Invocación normal 2,@72039,,@72051
+72057,Invocación normal 3,@72039,,@72051
+72058,Invocación difícil 1,@72039,,@72051
+72059,Invocación difícil 2,@72039,,@72051
+72060,Invocación difícil 3,@72039,,@72051
+72061,Invocación de evento 1,@72039,,La unidad de guardia alfa invoca al guardián.
+72062,Invocación de evento 2,@72039,,@72061
+73011,Degollador de Curth,"Inflige ""daño ignora la defensa"" a los enemigos cercanos.",,
+73012,Pesadilla,Crea un área maldita alrededor del objetivo enemigo.,,
+73013,Furia,"Aumento del ATQ y la vel. de ATQ, DEF",,
+73041,Incursión de campo de Orfen 1,Reduce la DEF propia.,,
+73042,Incursión de campo de Orfen 2,"Lanza 4 explosiones venenosas en puntos cercanos al azar.
+Los enemigos dentro del área reciben daño y se les aplica DcT.",,
+73043,Incursión de campo de Orfen 3,Aumento del ATQ y la velocidad de ATQ (acumulable),,
+74011,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 01,Todos los enemigos dentro del área reciben DAÑ fijo y son derribados.,,
+74012,Field Boss_West Talking Island_Fallen Spirit Shepherd_Skill 02,Se selecciona al azar un enemigo cercano al que infligirle mucho daño.,,
+74021,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 01,Inflige mucho daño a un personaje enfrente del jefe y aplica un estado anormal (sangrado).,,
+74022,Field Boss_Gludin Highway_Zodiac the Murderer_Skill 02,Recupera sus propios PV un n% cada segundo.,,
+74031,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 01,Inflige daño de AdE.,,
+74032,Field Boss_Gludio Plains_Silverbeard the Invasion Leader_Skill 02,Inflige daño igual a un porcentaje de los PV del objetuvo durante un tiempo.,,
+74041,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 01,Inflige daño de AdE a los enemigos cercanos.,,
+74042,Field Boss_Windawood Manor_Vapar the Fallen Guardian_Skill 02,Aplica Quemadura a enemigos aleatorios en la zona.,,
+74051,Field Boss_Wasteland_Shelop Watcher_Skill 01,Alfombra envenenada,,
+74052,Field Boss_Wasteland_Shelop Watcher_Skill 02,Daño,,
+74061,Field Boss_Plains of Dion_Flagon_Skill 01,Lanza esferas relámpago a 3 objetivos aleatorios.,,
+74062,Field Boss_Plains of Dion_Flagon_Skill 02,Ataca a 5 objetivos aleatorios con relámpagos.,,
+74071,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 01,Extiende alfombras envenenadas bajo 3 objetivos aleatorios.,,
+74072,Field Boss_Cruma Swamp_Sina the Swamp Ruler_Skill 02,Ataca a los enemigos cercanos y los ralentiza.,,
+74081,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 01,Ataca a los enemigos de delante para abatirlos.,,
+74082,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_01,Aumento de parámetros propios,,
+74083,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_02,@74082,,
+74084,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_03,@74082,,
+74085,Field Boss_Summit of Dissonance_Rorka the Forgotten_Skill 02_Unlimited,Aumento de parámetros propios hasta la muerte,,
+74091,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 01,Petrifica a un objetivo aleatorio.,,Stenoa usa Mirada petrificante.
+74092,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 02,Daño de AdE.,,Stenoa usa Golpe de la reina.
+74093,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 03,Potenciación de DEFF,,Stenoa usa Mejora de escama y aumenta su DEFF.
+74094,Field Boss_Giran Dominion_Stenoa the Gorgon Queen_Skill 04,Potenciación de DEFM,,Stenoa usa Mejora de escama y aumenta su DEFM.
+74101,Field Boss_Deathly Fog Shores_Undertaker_Skill 01,Lanza energía de espada para infligir daño.,,
+74102,Field Boss_Deathly Fog Shores_Undertaker_Skill 02,Carga hacia adelante y ataca.,,
+74111,Field Boss_Haunted Necropolis_Marlox_Skill 01,Ataca a dos objetivos aleatorios.,,
+74112,Field Boss_Haunted Necropolis_Marlox_Skill 02,@74092,,
+74113,Field Boss_Haunted Necropolis_Marlox_Skill 01_Stone Punch,Puño pétreo,,
+74114,Field Boss_Haunted Necropolis_Marlox_Skill 02_Devil Kick,Patada demoníaca,,
+74115,Field Boss_Haunted Necropolis_Marlox_Skill 03_Flame of Death,Llama de la muerte,,
+74116,Field Boss_Haunted Necropolis_Marlox_Skill 04_Demonic Roar,Rugido demoníaco,,Marlox usa Rugido demoníaco
+74117,Field Boss_Haunted Necropolis_Marlox_Skill 04_01_Fatigue,Fatiga,,
+74118,Field Boss_Haunted Necropolis_Marlox_Normal Attack,Ataque normal,,
+74119,Field Boss_Haunted Necropolis_Marlox_Demon Totem Buff (Stackable),Potenciador acumulable,,
+74120,Field Boss_Haunted Necropolis_Marlox_Demon Totem (Fireball),Bola de fuego,,
+741161,@74120,@74117,,
+74121,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 01,@74092,,
+74122,Field Boss_Northwind Plateau_Heart of the Plateau_Skill 02,@74092,,
+74131,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 01,@74092,,
+74132,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 02,@74092,,
+74133,Field Boss_Ivory Tower Conquered Territory_Marsha (Old) the Underground Lady_Skill 03,Extiende alfombras envenenadas bajo el conjurador.,,
+74134,Marsha: Tornado de tentación,,,Marsha usa Tornado de tentación.
+74135,Marsha: Viento de cuchillas,,,Marsha usa Viento de cuchillas.
+74136,@74135,,,
+74137,Marsha: Invocación,@72039,,Marsha invoca secuaces.
+75016,@50016,@50001,,
+75017,@50017,@50001,,
+75018,@50018,@50001,,
+75019,@50209,@50001,,
+75029,@50029,@50001,,
+75038,@50038,@50001,,
+75044,@50044,@50001,,
+75045,@50045,Un monstruo a distancia básico que usa arcos.,,
+75060,@50060,@50001,,
+75061,@50061,@50001,,
+75066,@50066,@50001,,
+75098,@50098,@75045,,
+76001,@50001,@50001,,
+76002,@50002,@50001,,
+76003,@50003,@50001,,
+76004,@50004,@50001,,
+76005,@50005,@50001,,
+76006,@50006,@50001,,
+76007,@50007,@50001,,
+76008,@50008,@50001,,
+76009,@50009,Ataque a distancia del elemento de agua. Dispara un proyectil de hielo. Ralentiza a los enemigos.,,
+76010,@50010,@50001,,
+76011,@50011,@50011,,
+76012,@50012,@50001,,
+76013,@50013,@50001,,
+76014,@50014,@50014,,
+76015,@50015,@50001,,
+76016,@50016,@50001,,
+76017,@50017,@50001,,
+76018,@50018,@50001,,
+76019,@50019,@50001,,
+76020,@50020,@50001,,
+76021,@50021,@50001,,
+76022,@50022,@50001,,
+76023,@50023,@50001,,
+76024,@50024,@50001,,
+76025,@50025,@50001,,
+76026,@50026,@50001,,
+76027,@50027,@50009,,
+76028,@50028,@50001,,
+76029,@50029,@50001,,
+76030,@50030,@50001,,
+76031,@11243,@50001,,
+76032,@50032,@50001,,
+76033,@50033,@50001,,
+76034,@50034,@50001,,
+76035,@50035,@50001,,
+76036,@50036,@50001,,
+76037,@50037,@50001,,
+76038,@50038,@50001,,
+76039,@50039,@50001,,
+76040,@50040,@50001,,
+76041,@50041,@50041,,
+76042,@50042,@50001,,
+76043,@50043,@50001,,
+76044,@50044,@50001,,
+76045,@50045,@50041,,
+76046,@50046,@50001,,
+76047,@50047,@50001,,
+76048,@50048,@50001,,
+76049,@50049,@50001,,
+76050,@50050,@50001,,
+76051,@50051,@50001,,
+76052,@50052,@50001,,
+76053,@50053,@50001,,
+76054,@50054,@50001,,
+76055,@50055,@50001,,
+76056,@50056,@50001,,
+76057,@50057,@50001,,
+76058,@50058,@50001,,
+76059,@50059,@50001,,
+76060,@50060,@50001,,
+76061,@50061,@50001,,
+76062,@50062,@50001,,
+76063,@50063,@50001,,
+76064,@50064,@50009,,
+76065,@50065,@50001,,
+76066,@50066,@50001,,
+76067,@50067,@50001,,
+76068,@50068,@50001,,
+76069,@50069,@50001,,
+76070,@50070,@50001,,
+76071,@50071,@50001,,
+76072,@50072,@50001,,
+76073,@50073,@50001,,
+76074,@50074,@50001,,
+76075,@50075,@50001,,
+76076,@50076,@50001,,
+76077,@50077,@50001,,
+76078,@50078,@50001,,
+76079,@50079,@50001,,
+76080,@50080,@50001,,
+76081,@50081,@50001,,
+76082,@50082,@50001,,
+76083,@50083,@50001,,
+76084,@50084,@50001,,
+76085,@50085,@50001,,
+76086,@50086,@50041,,
+76087,@50087,@50001,,
+76088,@50088,@50011,,
+76089,@50089,@50001,,
+76090,@50090,@50001,,
+76091,@50091,@50001,,
+76092,@50092,@50001,,
+76093,@50093,@50001,,
+76094,@50094,@50041,,
+76095,@50095,@50095,,
+76096,@50096,@50041,,
+76097,@50097,@50001,,
+76098,@50098,@50001,,
+76099,@50099,@50001,,
+76100,@50100,@50041,,
+76101,@50101,@50001,,
+76102,@50102,@50001,,
+76103,@50103,@50014,,
+76104,@50104,@50001,,
+76105,@50105,@50001,,
+77001,@50001,@60001,,
+77002,@50002,@60001,,
+77003,@50003,@60001,,
+77004,@50004,@60004,,
+77005,@50005,@60005,,
+77006,@50006,@60004,,
+77007,@50007,@60005,,
+77008,@50008,@60001,,
+77009,@50010,@60001,,
+77010,@50012,@60001,,
+77011,@50013,@60001,,
+77012,@50015,@60004,,
+77013,@50016,@60013,,
+77014,@50017,@60013,,
+77015,@50018,@60005,,
+77016,@50019,@60016,,
+77017,@50020,@60001,,
+77018,@50021,@60005,,
+77019,@50022,@60005,,
+77020,@50023,@60001,,
+77021,@50024,@60001,,
+77022,@50025,@60004,,
+77023,@50026,@60001,,
+77024,@50028,@60001,,
+77025,@50029,@60025,,
+77026,@50030,@60001,,
+77027,@11243,@60025,,
+77028,@50032,@60025,,
+77029,@50033,@60005,,
+77030,@50034,@60001,,
+77031,@50035,@60004,,
+77032,@50036,@60001,,
+77033,@50037,@60001,,
+77034,@50038,@60001,,
+77035,@50040,@60016,,
+77036,@50042,@60001,,
+77037,@50043,@60001,,
+77038,@50044,@60005,,
+77039,@50046,@60016,,
+77040,@50047,@60004,,
+77041,@50048,@60005,,
+77042,@50049,@60016,,
+77043,@50050,@60025,,
+77044,@50051,@60016,,
+77045,@50053,@60004,,
+77046,@50054,@60004,,
+77047,@50055,@60005,,
+77048,@50056,@60013,,
+77049,@50057,@60005,,
+77050,@50058,@60016,,
+77051,@50060,@60001,,
+77052,@50061,@60004,,
+77053,@50062,@60025,,
+77054,@50063,@60001,,
+77055,@50065,@60001,,
+77056,@50066,@60056,,
+77057,@50067,@60001,,
+77058,@50068,@60001,,
+77059,@50069,@60001,,
+77060,@50070,@60001,,
+77061,@50071,@60001,,
+77062,@50072,@60013,,
+77063,@50074,@60001,,
+77064,@50075,@60004,,
+77065,@50076,@60016,,
+77066,@50077,@60013,,
+77067,@50078,@60001,,
+77068,@50079,@60005,,
+77069,@50080,@60001,,
+77070,@50081,@60016,,
+77071,@50082,@60004,,
+77072,@50083,@60001,,
+77073,@50085,@60004,,
+77074,@50087,@60001,,
+77075,@50089,@60001,,
+77076,@50090,@60025,,
+77077,@50091,@60025,,
+77078,@50092,@60001,,
+77079,@50093,@60001,,
+77080,@50097,@60001,,
+77081,@50098,@60013,,
+77082,@50099,@60001,,
+77083,@50101,@60001,,
+77084,@50102,@60001,,
+77085,Incursión de campo de Zaken 1,Inflige daño a los enemigos cercanos.,,
+77086,Incursión de campo de Zaken 2,Dispara un aura penetrante en forma de espada a un enemigo aleatorio a distancia.,,
+77087,Incursión de campo de Zaken 3,Inflige daño a los enemigos cercanos y recupera PV.,,
+80001,Ataque básico de torre defensiva,,,
+80002,Ataque básico de trampa,,,
+80003,Ataque de trampa 1,,,
+80004,Ataque de trampa 2,,,
+80005,Ataque de trampa 3,,,
+80006,Ataque de trampa 4,,,
+80007,Ataque de trampa 5,,,
+80008,Ataque básico de torre defensiva de fortaleza,,,
+80009,Ataque básico de campamento de asedio,,,
+90002,Ataque básico de PNJ,,,
+90003,Ataque de CrakiaKarcus,,,
+100001,Vida del clan,Aumenta los PV máx. durante 1 hora.,PV máximos + {1-1%}%,
+100002,Alma del clan,Aumenta los PM máx. durante 1 hora.,PM máximos + {1-1%}%,
+100003,Escudo del clan,Aumenta la DEF durante 1 hora.,DEF + {1-1%}%,
+100004,Fuerza del clan,Aumenta el ATQ durante 1 hora.,ATQ + {1-1%}%,
+100005,Guía del clan,Aumenta la precisión durante 1 hora.,Precisión + {1-1%}%,
+100006,Evasión del clan,Aumenta la evasión durante 1 hora.,Evasión + {1-1%}%,
+100007,Movimiento del clan,Aumenta la velocidad durante 1 hora.,Velocidad + {1-1%}%,
+100008,Golpe mortal del clan,Aumenta el daño crítico durante 1 hora.,Daño crítico + {1-1%}%,
+100009,Tasa de crít. del clan,Aumenta los críticos durante 1 hora.,Tasa crít + {1-1%}%,
+500001,Rabia de Eldru,"Aumenta ATQ, DEF, velocidad y velocidad de ATQ durante 1 hora.",Ataque defensa vel. de ataque vel.,
+900001,Visor de jefe de Torre de la insolencia,Hh,,
+905602,Efecto de aumento de moral,Prolonga el efecto de poción de aumento de moral.,,
+905604,Efecto de tormenta de hielo,Prolonga el efecto de poción de tormenta de hielo.,,
+905607,Regen. de PV Poción de amplificación,Prolonga la regeneración de PV. Amplifica el efecto de la poción.,,
+905612,Efecto de antimagia,Prolonga el efecto de la poción antimagia.,,
+906002,Batalla de honor,Recuperación de PV,,
+301,Bendición de ratel robusto,Aumento de velocidad,,
+302,@301,Aumento de velocidad de extracción,,
+303,@301,Aumento de la cantidad de extracción,,
+304,Ratel durable,"Un dócil monstruo que nunca ataca. Si lo derrotas, conseguirás un potenciador.",,
+305,Centinela del jardín,La primera habilidad que el centinela del jardín utiliza cuando aparece.,,
+306,Efecto de centinela del jardín,El efecto de la habilidad que el centinela del jardín usa normalmente.,,
+401,Manantial de recuperación,La primera habilidad que el manantial de recuperación usa cuando aparece.,,
+402,Potenciador de manantial de recuperación,La habilidad que el manantial de recuperación usa repetidamente.,,
+451,Puesto de guardia de Asalto al castillo durable,El puesto de guardia siempre recibe 1 de daño durante el Asedio al castillo.,,
+601,Autoaturdimiento de Feldheim,Sufre un aturdimiento temporal cuando le golpean.,Aturdir,
+602,Visor de jefe de campo durante aturdimiento,Aturdimiento temporal,,
+701,Datos de animación de fuegos artificiales 1 ,Fuegos artificiales 1,,
+702,Datos de animación de fuegos artificiales 2,Fuegos artificiales 2,,
+703,Datos de animación de fuegos artificiales 3,Fuegos artificiales 3,,
+704,Datos de animación de fuegos artificiales 4,Fuegos artificiales 4,,
+150001,BP_Aimel_Attack_Sword,,,
+150002,@150001,,,
+150003,@150001,,,
+150101,BP_ArmorMerchant_01_Attack_Spear,,,
+150102,@150101,,,
+150103,@150101,,,
+150104,@150101,,,
+150201,BP_CityGuard_01_Attack_Spear,,,
+150202,@150201,,,
+150203,@150201,,,
+150301,BP_Fernel_Attack_DualSword,,,
+150302,@150301,,,
+150303,@150301,,,
+150401,BP_Hardin_Attack_NoWeapon,,,
+150402,@150401,,,
+150501,BP_HardinsFollower_Attack_Staff,,,
+150502,@150501,,,
+150503,@150501,,,
+150601,BP_ItemMerchant_01_Attack_Spear,,,
+150602,@150601,,,
+150603,@150601,,,
+150701,BP_Magician_Attack_Staff,,,
+150702,@150701,,,
+150703,@150701,,,
+150801,BP_Noble_02_Attack_Staff,,,
+150802,@150801,,,
+150803,@150801,,,
+150901,BP_Noble_03_Attack_Sword,,,
+150902,@150901,,,
+150903,@150901,,,
+151001,BP_Officer_Attack_Sword,,,
+151002,@151001,,,
+151003,@151001,,,
+151101,BP_Officer_02_Attack_Spear,,,
+151102,@151101,,,
+151103,@151101,,,
+151201,BP_Resident_02_Attack_Staff,,,
+151202,@151201,,,
+151203,@151201,,,
+151204,BP_Resident_02_Attack_Sword,,,
+151205,@151204,,,
+151206,@151204,,,
+151301,BP_Resident_03_Attack_NoWeapon,,,
+151302,@151301,,,
+151303,BP_Resident_03_Attack_Sword,,,
+151304,@151303,,,
+151305,@151303,,,
+151306,BP_Resident_03_Attack_Bow,,,
+151307,@151306,,,
+151308,BP_Resident_03_Attack_DualSword,,,
+151309,@151308,,,
+151310,@151308,,,
+151401,BP_Resident_04_Attack_Sword,,,
+151402,@151401,,,
+151403,@151401,,,
+151404,BP_Resident_04_Attack_Bow,,,
+151405,@151404,,,
+151501,BP_Resident_05_Attack_Dagger,,,
+151502,@151501,,,
+151503,@151501,,,
+151601,BP_SmeltingMerchant_Attack_Sword,,,
+151602,@151601,,,
+151603,@151601,,,
+151604,BP_SmeltingMerchant_Attack_Bow,,,
+151605,@151604,,,
+151701,BP_student_Attack_Dagger,,,
+151702,@151701,,,
+151703,@151701,,,
+151704,BP_student_Attack_Staff,,,
+151705,@151704,,,
+151706,@151704,,,
+151801,BP_Teleporter_01_Attack_Staff,,,
+151802,@151801,,,
+151803,@151801,,,
+151901,BP_TemplePriest_01_Attack_NoWeapon,,,
+151902,@151901,,,
+152001,BP_WarehouseKeeper_Attack_Sword,,,
+152002,@152001,,,
+152003,@152001,,,
+152101,BP_CatTheCat_Attack,,,
+152102,DarkAssociation,,,
+152103,UnKnown_Male,,,
+153001,BP_Maid_01_Attack_DualSword,,,
+153002,@153001,,,
+153003,@153001,,,
+200001,Reducción de daño de monstruo pasiva,,,
+210001,Aumento de daño de monstruo pasivo,,,
+8010441,Aura de daño cuerpo a cuerpo,,,
+8010461,Equipo de furia,,,
+801047,Avasallar,,,
+801048,@801047,,,
+93506,Goblón enloquecido,"Gran aumento de ATQ y DEF, pequeño aumento de vel. de ATQ y la vel. de ATQ, DEF",,
+94409,Demonio contratista enloquecido,@93506,,
+94407,Buscador orco ketra (para círculo de invocación),@50041,,
+805000,Habilidad de suelo de mazmorra de equipo (círculo),Inflige daño a medida que el tamaño del círculo aumenta.,,
+805001,Habilidad de suelo de mazmorra de equipo (cono),Inflige daño a medida que el tamaño del cono aumenta.,,
+805002,Habilidad de suelo de mazmorra de equipo (rectángulo),Inflige daño a medida que el alcance frontal aumenta.,,
+805003,Habilidad de suelo de mazmorra de equipo (toro),Inflige daño a medida que el área máxima y mínima del toro aumentan.,,
+805004,Cuchilla sangrienta para pruebas,@72031,,@72031
+170001,Leonard,Ataque básico,,
+411001,Trisha,@170001,,
+411002,@170001,@170001,,
+411005,Seccionar,"Inflige daño instantáneo sobre un área cónica.
+Aplica [Sangrado]",,
+411006,Lanza de Tepes: Señal,"Daño instantáneo sobre un área circular + toroidal.
+Aplica [Sangrado]",,
+411007,Lanza de Tepes: Continuación,"Inflige daño instantáneo sobre un área toroidal.
+Aplica [Sangrado]",,
+411008,Explosión de sangre,"Afecta a los enemigos con [Sangrado].
+Inflige daño inmediato a los enemigos con [Sangrado].
+Elimina el efecto [Sangrado] de los enemigos a los que afecta.",,
+411009,Invocar coágulo de sangre,Invoca un monstruo suicida sobre los enemigos con [Sangrado].,,
+411010,Anemia,"Aplica [Aturdimiento] a uno mismo.
+Aumenta el daño recibido.",,
+411011,Potente succión de PV,Aplica [Succión de PV] a los enemigos.,,
+411012,Autodestrucción,@60163,,
+411015,Transferencia de PV,Restaura los PV de Trisha y elimina los efectos negativos,,
+411016,Invisibilidad,Desaparece tras la curación,,
+411017,Horda de murciélagos,"Daño instantáneo en línea recta.
+Elimina [Vampirizar]",,
+411018,Permuta de sangre,"Inflige daño instantáneo sobre un área cónica.
+Aplica [Vampirizar]",,
+411019,Cruz sanguina: 1,"Inflige daño instantáneo sobre un área en forma de aspa.
+Aplica [Vampirizar]",,
+411020,Cruz sanguina: 2,@411019,,
+411021,Recargar sangre,"Desaparece.
+Invoca 15 murciélagos vampiro.",,
+411022,Unificación,Aparece,,
+411025,Esencia de sanguijuela pegajosa,Crea un objeto en el suelo en cualquier lugar.,,
+411028,Transformación vampírica,Elimina el efecto [Succión de PV].,,Transfórmate usando sangre de vampiro y líbrate de la succión de PV.
+411036,Escalafón de furia 1,Enloquece si solo queda 1 murciélago vivo,,
+411037,Escalafón de furia 2,Enloquece si solo quedan 2 murciélagos vivos,,
+411038,Escalafón de furia 3,Enloquece si solo quedan 3 murciélagos vivos,,
+411042,Lanza de Tepes: Señal - Conexión,@411006,,
+412005,@411005,@411005,,
+412006,@411006,@411006,,
+412007,@411007,@411007,,
+412008,@411008,@411008,,
+412009,@411009,@411009,,
+412010,@411010,@411010,,
+412011,@411011,@411011,,
+412012,@411012,@60163,,
+412015,@411015,@411015,,
+412016,@411016,@411016,,
+412017,@411017,@411017,,
+412018,@411018,@411018,,
+412019,@411019,@411019,,
+412020,@411020,@411019,,
+412021,@411021,@411021,,
+412022,@411022,@411022,,
+412025,@411025,@411025,,
+412028,@411028,@411028,,@411028
+412036,@411036,@411036,,
+412037,@411037,@411037,,
+412038,@411038,@411038,,
+412042,@411042,@411006,,
+413002,Sangre enfurecida,Otorga potenciadores de ATQ y velocidad de ATQ a los aliados,,
+413003,Sobremuerte,Inflige daño al objetivo frontal y lo derriba,,
+413005,@411005,@411005,,
+413006,@411006,@411006,,
+413007,@411007,@411007,,
+413008,@411008,@411008,,
+413009,@411009,@411009,,
+413010,@411010,@411010,,
+413011,@411011,@411011,,
+413012,@411012,Autodestrucción + salpicadura + DAÑ + suelo,,
+413013,Uñas tóxicas,"Inflige daño instantáneo sobre un área cónica
+Aplica [Ácido corrosivo]",,
+413015,@411015,@411015,,
+413016,@411016,@411016,,
+413017,@411017,@411017,,
+413018,@411018,@411018,,
+413019,@411019,@411019,,
+413020,@411020,@411019,,
+413021,@411021,@411021,,
+413022,@411022,@411022,,
+413023,Torrente de sangre: onda,Crea un objeto en el suelo a su alrededor.,,
+413024,Torrente de sangre: explosión,Explosión toroidal a su alrededor.,,
+413025,@411025,@411025,,
+413027,Brillo de coágulo de sangre,Indica el tiempo que falta para la explosión del coágulo de sangre.,,
+413028,@411028,@411028,,@411028
+413029,Eliminar efecto negativo de Trisha,Elimina 1 efecto negativo de Trisha al morir.,,
+413030,Fantasma de Zaken: Invisibilidad,El Fantasma de Zaken invoca a Zaken,,
+413032,Ataque básico de coágulo de sangre,,,
+413034,Sobresaturación de sanguijuelas: Potenciador de color,Potenciador de color de sanguijuela,,
+413035,Fantasma de Zaken: Invencible,Aplica un potenciador de invencibilidad al Fantasma de Zaken,,
+413036,@411036,@411036,,
+413037,@411037,@411037,,
+413038,@411038,@411038,,
+413039,Sangre ardiente,Tras la autodestrucción se genera un objeto temporal en el suelo,,
+413040,Invisibilidad de Zaken,Se vuelve invisible después de la batalla,,
+413041,Infierno de sangre: Anemia,Reduce los PV propios un 5%,,
+413042,@411042,@411006,,
+414002,@413002,@413002,,
+414003,@413003,@413003,,
+414005,@411005,@411005,,
+414006,@411006,@411006,,
+414007,@411007,@411007,,
+414008,@411008,@411008,,
+414009,@411009,@411009,,
+414010,@411010,@411010,,
+414011,@411011,@411011,,
+414012,@411012,@413012,,
+414013,@413013,@413013,,
+414015,@411015,@411015,,
+414016,@411016,@411016,,
+414017,@411017,@411017,,
+414018,@411018,@411018,,
+414019,@411019,@411019,,
+414020,@411020,@411019,,
+414021,@411021,@411021,,
+414022,@411022,@411022,,
+414023,@413023,@413023,,
+414024,@413024,@413024,,
+414025,@411025,@411025,,
+414028,@411028,@411028,,@411028
+414036,@411036,@411036,,
+414037,@411037,@411037,,
+414038,@411038,@411038,,
+414039,@413039,@413039,,
+414041,@413041,@413041,,
+414042,@411042,@411006,,
+414043,Potenciador de invisibilidad de Turner,,,
+414044,Ataque básico de Zaken para la condesa,Zaken dispara a un personaje,,
+414045,Resonancia vampírica,Enloquece tras la aparición de Zaken,,
+401001,Ataque normal de guarda real,@74118,,
+401002,Ataque normal del capitán de la guardia real,@74118,,
+401003,Tajo táctico,Daño instantáneo sobre un área cónica,,
+401004,Ataque normal de guarda,@74118,,
+401005,Ataque normal de gólem,@74118,,
+401006,Choque de roca,"Inflige daño instantáneo a 1 objetivo
+Puede aplicar [Aturdimiento]",,
+401007,Ataque normal de arquero,Ataque básico a distancia,,
+401008,Lanzamiento de bomba,Inflige daño de AdE en un lugar aleatorio dentro del rango,,
+401009,Rabia de guarda,La rabia potencia habilidades adicionales,,
+401010,Animación de alma de chamán orco,Habilidad de animación de alma,,
+401011,Habilidad mortal de cristal de nebulita,Habilidad que mata a los objetivos después de un tiempo,,
+401012,Cristal de nebulita de Ramog enloquecido,Provoca que Ramog esté continuamente enloquecido,,
+401016,@411012,"Se acerca a un objetivo y se autodestruye
+Inflige daño en un área circular",,
+401013,Temporizador de autodestrucción,Habilidad que muestra un temporizador,,
+401014,Autodestrucción en 1 segundo,Habilidad de control de tiempo,,
+401015,Autodestrucción en 3 segundos,@401014,,
+401019,Ataque normal,@74118,,
+401024,Zona de fuego,Inflige daño al contactar con el objetivo,,Zona de fuego creada.
+401025,@401019,@74118,,
+403002,Disparo de guarda,Daño en línea recta,,
+401101,Choque de tierra,Inflige daño sobre un área cónica,,Boranta usa Choque de tierra.
+401103,Objetivo identificado,"Inflige daño instantáneo a un único objetivo
+Otorga el efecto [Destinatario]",,Boranta selecciona a un objetivo.
+401104,Lanzamiento de hacha,"Daño en línea recta
+Usa [Destinatario] sobre el objetivo
+Otorga el efecto [Brasa] a 1 enemigo al azar (fácil)",,Boranta le lanza un hacha al objetivo seleccionado.
+401105,@401104,"Daño en línea recta
+Usa [Destinatario] sobre el objetivo
+Otorga el efecto [Brasa] a 1 enemigo al azar (normal)",,@401104
+401106,@401104,"Daño en línea recta
+Usa [Destinatario] sobre el objetivo
+Otorga el efecto [Brasa] a 1 enemigo al azar (difícil)",,@401104
+401107,@401104,@401106,,@401104
+401108,@401104,"Daño en línea recta
+Usa [Destinatario] sobre el objetivo
+Otorga el efecto [Brasa] a 1 enemigo al azar (muy difícil)",,@401104
+401113,@401104,@401108,,@401104
+401102,Explosión de brasas 1,Afecta a una pequeña área circular,,
+401109,Explosión de brasas 2,@401102,,
+401110,Grito de Boranta para invocar secuaces de escalafón 1,Acompaña el ataque básico con un grito antes de la invocación,,
+401111,Grito de Boranta para invocar secuaces de escalafón 2,@401110,,
+401112,Grito de Boranta para invocar secuaces de escalafón 3,@401110,,
+401201,Misión de muerte de Paagrio,Animación de misión para habilidad,,¡El poder de la magia purifica las brasas de Paagrio!
+401202,Hoja lunática,,,
+401203,Decadencia,Decadencia se utiliza de manera continua,,
+401204,Mover al centro (explosión en espera),,,Ramog se mueve al centro
+401205,Explosión en espera,,,
+401207,Mover al centro (decadencia),,,@401204
+401210,Gran explosión de Paagrio,"Si toca a Ramog, inflige daño de AdE de gran extensión
+Inflige daño adicional a los objetivos con [Decadencia]",,¡Las brasas de Paagrio explotan!
+401216,Mover al centro (enloquecido),,,Ramog se mueve para recuperar fuerza.
+401217,Enloquecido en espera,Tiempo de espera para enloquecer tras moverse al centro,,¡La energía de Paagrio emana de Ramog!
+401218,Autoaturdimiento,Queda aturdido tras destruir el cristal de nebulita,,Ramog se queda sin fuerzas.
+401211,Ramog enloquecido,Enloquece cuando los PV caen por debajo del 10 %,,
+401212,@401203,Decadencia hacia adelante activada en primer lugar: Gran retraso del ataque,,
+401213,Decadencia: Contraataque,Decadencia hacia atrás activada en primer lugar: Gran retraso del ataque,,
+401214,Decadencia menor,Decadencia hacia adelante invertida activada en primer lugar: Gran retraso del ataque,,
+401215,Decadencia menor: Contraataque,Decadencia hacia atrás invertida activada en primer lugar: Gran retraso del ataque,,
+990001,Efecto de capa de nv. 1: reinicio de habilidad normal,,,
+990002,Efecto de capa de nv. 2: reinicio de habilidad normal,,,
+990003,Efecto de capa de nv. 3: reinicio de habilidad normal,,,
+990004,Efecto de capa de nv. 4: reinicio de habilidad normal,,,
+990005,Efecto de capa de nv. 5: reinicio de habilidad normal,,,
+990006,Efecto de capa de nv. 6: reinicio de habilidad normal,,,
+990007,Efecto de capa de nv. 7: reinicio de habilidad normal,,,
+990008,Efecto de capa de nv. 8: reinicio de habilidad normal,,,
+990009,Efecto de capa de nv. 9: reinicio de habilidad normal,,,
+990010,Efecto de capa de nv. 10: reinicio de habilidad normal,,,
+990011,Efecto de capa de nv. 11: reinicio de habilidad normal,,,
+990012,Efecto de capa de nv. 12: reinicio de habilidad normal,,,
+990013,Efecto de capa de nv. 13: reinicio de habilidad normal,,,
+990014,Efecto de capa de nv. 14: reinicio de habilidad normal,,,
+990015,Efecto de capa de nv. 15: reinicio de habilidad normal,,,
+990016,Efecto de capa de nv. 16: reinicio de habilidad normal,,,
+990017,Efecto de capa de nv. 17: reinicio de habilidad normal,,,
+990018,Efecto de capa de nv. 18: reinicio de habilidad normal,,,
+990019,Efecto de capa de nv. 19: reinicio de habilidad normal,,,
+990020,Efecto de capa de nv. 20: reinicio de habilidad normal,,,
+990021,Efecto de capa de nv. 21: reinicio de habilidad normal,,,
+990022,Efecto de capa de nv. 22: reinicio de habilidad normal,,,
+990023,Efecto de capa de nv. 23: reinicio de habilidad normal,,,
+990024,Efecto de capa de nv. 24: reinicio de habilidad normal,,,
+990025,Efecto de capa de nv. 25: reinicio de habilidad normal,,,
+990026,Efecto de capa de nv. 26: reinicio de habilidad normal,,,
+990027,Efecto de capa de nv. 27: reinicio de habilidad normal,,,
+990028,Efecto de capa de nv. 28: reinicio de habilidad normal,,,
+990029,Efecto de capa de nv. 29: reinicio de habilidad normal,,,
+990030,Efecto de capa de nv. 30: reinicio de habilidad normal,,,
+990101,Efecto de capa de nv. 1: sin decidir,,,
+990102,Efecto de capa de nv. 2: sin decidir,,,
+990103,Efecto de capa de nv. 3: sin decidir,,,
+990104,Efecto de capa de nv. 4: sin decidir,,,
+990105,Efecto de capa de nv. 5: sin decidir,,,
+990106,Efecto de capa de nv. 6: sin decidir,,,
+990107,Efecto de capa de nv. 7: sin decidir,,,
+990108,Efecto de capa de nv. 8: sin decidir,,,
+990109,Efecto de capa de nv. 9: sin decidir,,,
+990110,Efecto de capa de nv. 10: sin decidir,,,
+990111,Efecto de capa de nv. 11: sin decidir,,,
+990112,Efecto de capa de nv. 12: sin decidir,,,
+990113,Efecto de capa de nv. 13: sin decidir,,,
+990114,Efecto de capa de nv. 14: sin decidir,,,
+990115,Efecto de capa de nv. 15: sin decidir,,,
+990116,Efecto de capa de nv. 16: sin decidir,,,
+990117,Efecto de capa de nv. 17: sin decidir,,,
+990118,Efecto de capa de nv. 18: sin decidir,,,
+990119,Efecto de capa de nv. 19: sin decidir,,,
+990120,Efecto de capa de nv. 20: sin decidir,,,
+990121,Efecto de capa de nv. 21: sin decidir,,,
+990122,Efecto de capa de nv. 22: sin decidir,,,
+990123,Efecto de capa de nv. 23: sin decidir,,,
+990124,Efecto de capa de nv. 24: sin decidir,,,
+990125,Efecto de capa de nv. 25: sin decidir,,,
+990126,Efecto de capa de nv. 26: sin decidir,,,
+990127,Efecto de capa de nv. 27: sin decidir,,,
+990128,Efecto de capa de nv. 28: sin decidir,,,
+990129,Efecto de capa de nv. 29: sin decidir,,,
+990130,Efecto de capa de nv. 30: sin decidir,,,
+990201,Efecto de capa de nv. 1: barrera de desactivación del ataque en JcE,,,
+990202,Efecto de capa de nv. 2: barrera de desactivación del ataque en JcE,,,
+990203,Efecto de capa de nv. 3: barrera de desactivación del ataque en JcE,,,
+990204,Efecto de capa de nv. 4: barrera de desactivación del ataque en JcE,,,
+990205,Efecto de capa de nv. 5: barrera de desactivación del ataque en JcE,,,
+990206,Efecto de capa de nv. 6: barrera de desactivación del ataque en JcE,,,
+990207,Efecto de capa de nv. 7: barrera de desactivación del ataque en JcE,,,
+990208,Efecto de capa de nv. 8: barrera de desactivación del ataque en JcE,,,
+990209,Efecto de capa de nv. 9: barrera de desactivación del ataque en JcE,,,
+990210,Efecto de capa de nv. 10: barrera de desactivación del ataque en JcE,,,
+990211,Efecto de capa de nv. 11: barrera de desactivación del ataque en JcE,,,
+990212,Efecto de capa de nv. 12: barrera de desactivación del ataque en JcE,,,
+990213,Efecto de capa de nv. 13: barrera de desactivación del ataque en JcE,,,
+990214,Efecto de capa de nv. 14: barrera de desactivación del ataque en JcE,,,
+990215,Efecto de capa de nv. 15: barrera de desactivación del ataque en JcE,,,
+990216,Efecto de capa de nv. 16: barrera de desactivación del ataque en JcE,,,
+990217,Efecto de capa de nv. 17: barrera de desactivación del ataque en JcE,,,
+990218,Efecto de capa de nv. 18: barrera de desactivación del ataque en JcE,,,
+990219,Efecto de capa de nv. 19: barrera de desactivación del ataque en JcE,,,
+990220,Efecto de capa de nv. 20: barrera de desactivación del ataque en JcE,,,
+990221,Efecto de capa de nv. 21: barrera de desactivación del ataque en JcE,,,
+990222,Efecto de capa de nv. 22: barrera de desactivación del ataque en JcE,,,
+990223,Efecto de capa de nv. 23: barrera de desactivación del ataque en JcE,,,
+990224,Efecto de capa de nv. 24: barrera de desactivación del ataque en JcE,,,
+990225,Efecto de capa de nv. 25: barrera de desactivación del ataque en JcE,,,
+990226,Efecto de capa de nv. 26: barrera de desactivación del ataque en JcE,,,
+990227,Efecto de capa de nv. 27: barrera de desactivación del ataque en JcE,,,
+990228,Efecto de capa de nv. 28: barrera de desactivación del ataque en JcE,,,
+990229,Efecto de capa de nv. 29: barrera de desactivación del ataque en JcE,,,
+990230,Efecto de capa de nv. 30: barrera de desactivación del ataque en JcE,,,
+990301,Efecto de capa de nv. 1: barrera contra habilidad poco común en JcJ,,,
+990302,Efecto de capa de nv. 2: barrera contra habilidad poco común en JcJ,,,
+990303,Efecto de capa de nv. 3: barrera contra habilidad poco común en JcJ,,,
+990304,Efecto de capa de nv. 4: barrera contra habilidad poco común en JcJ,,,
+990305,Efecto de capa de nv. 5: barrera contra habilidad poco común en JcJ,,,
+990306,Efecto de capa de nv. 6: barrera contra habilidad poco común en JcJ,,,
+990307,Efecto de capa de nv. 7: barrera contra habilidad poco común en JcJ,,,
+990308,Efecto de capa de nv. 8: barrera contra habilidad poco común en JcJ,,,
+990309,Efecto de capa de nv. 9: barrera contra habilidad poco común en JcJ,,,
+990310,Efecto de capa de nv. 10: barrera contra habilidad poco común en JcJ,,,
+990311,Efecto de capa de nv. 11: barrera contra habilidad poco común en JcJ,,,
+990312,Efecto de capa de nv. 12: barrera contra habilidad poco común en JcJ,,,
+990313,Efecto de capa de nv. 13: barrera contra habilidad poco común en JcJ,,,
+990314,Efecto de capa de nv. 14: barrera contra habilidad poco común en JcJ,,,
+990315,Efecto de capa de nv. 15: barrera contra habilidad poco común en JcJ,,,
+990316,Efecto de capa de nv. 16: barrera contra habilidad poco común en JcJ,,,
+990317,Efecto de capa de nv. 17: barrera contra habilidad poco común en JcJ,,,
+990318,Efecto de capa de nv. 18: barrera contra habilidad poco común en JcJ,,,
+990319,Efecto de capa de nv. 19: barrera contra habilidad poco común en JcJ,,,
+990320,Efecto de capa de nv. 20: barrera contra habilidad poco común en JcJ,,,
+990321,Efecto de capa de nv. 21: barrera contra habilidad poco común en JcJ,,,
+990322,Efecto de capa de nv. 22: barrera contra habilidad poco común en JcJ,,,
+990323,Efecto de capa de nv. 23: barrera contra habilidad poco común en JcJ,,,
+990324,Efecto de capa de nv. 24: barrera contra habilidad poco común en JcJ,,,
+990325,Efecto de capa de nv. 25: barrera contra habilidad poco común en JcJ,,,
+990326,Efecto de capa de nv. 26: barrera contra habilidad poco común en JcJ,,,
+990327,Efecto de capa de nv. 27: barrera contra habilidad poco común en JcJ,,,
+990328,Efecto de capa de nv. 28: barrera contra habilidad poco común en JcJ,,,
+990329,Efecto de capa de nv. 29: barrera contra habilidad poco común en JcJ,,,
+990330,Efecto de capa de nv. 30: barrera contra habilidad poco común en JcJ,,,
+500661,@50066,Corazón de monstruo invocado para evento,,
+500291,@50029,@500661,,
+501911,@50191,@500661,,
+73020,@50073,@50001,,
+73021,Oleada,,,
+73022,Invitación,,,
+73023,@73022,,,
+73024,Regreso,,,
+73025,Caminar,Caminar,,
+73026,Succión de vida,Succión de vida,,
+73027,Mover,Mover,,
+73028,Ocultar,Ocultar,,
+73029,Ir al primer barco,,,
+73030,Ir al segundo barco,,,
+73031,Liberación: cuerpo principal,,,
+73127,Liberación: fase 1,,,
+73128,Liberación: fase 2,,,
+73129,Liberación: fase 3,,,
+73130,Liberación: fase 4,,,
+73131,Liberación: fase 5,,,
+73132,Suicidio de fantasma,Suicidio,,
+73121,밤 1단계,,,
+73122,밤 2단계,,,
+73123,밤 3단계,,,
+73124,밤 4단계,,,
+73125,밤 5단계,,,
+73126,밤 6단계,,,
+73134,Cañón de fuego (animación),,,
+73135,Cañón de fuego (real),,,
+73136,자켄 해적단 전투원,,,
+73137,자켄 해적단 갑판원,,,
+73138,자켄 해적단 항해사,,,
+73139,자켄 해적단 선장,,,
+73140,자켄 해적단 전투원(장판),,,
+73141,정체 불명의 촉수 공격 01,,,
+73142,정체 불명의 촉수 공격 02,,,
+73143,정체 불명의 촉수 공격 03,,,
+73144,정체 불명의 촉수 공격 04,,,
+73145,정체 불명의 촉수 스폰 어택,,,
+73146,Ratón: invisible,,,
+73147,Ratón: regreso,,,

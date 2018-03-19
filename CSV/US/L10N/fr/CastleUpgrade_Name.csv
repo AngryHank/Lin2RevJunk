@@ -1,0 +1,21 @@
+Id,Name,Description
+1001,Augmentation du délai de marquage de l'artefact sacré,Augmente la durée requise pour marquer un artefact sacré de 1 s.
+1002,@1001,Augmente la durée requise pour marquer un artefact sacré de 2 s.
+1003,@1001,Augmente la durée requise pour marquer un artefact sacré de 3 s.
+1004,@1001,Augmente la durée requise pour marquer un artefact sacré de 4 s.
+1005,@1001,Augmente la durée requise pour marquer un artefact sacré de 5 s.
+2001,Augmentation des PV de la Tour de défense,Augmente les PV de la Tour de défense de 500.
+2002,@2001,Augmente les PV de la Tour de défense de 1 000.
+2003,@2001,Augmente les PV de la Tour de défense de 1 500.
+2004,@2001,Augmente les PV de la Tour de défense de 2 000.
+2005,@2001,Augmente les PV de la Tour de défense de 2 500.
+3001,Augmentation de l'ATQ du piège,"Augmente l'ATQ du piège de 1 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi."
+3002,@3001,"Augmente l'ATQ du piège de 2 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi."
+3003,@3001,"Augmente l'ATQ du piège de 3 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi."
+3004,@3001,"Augmente l'ATQ du piège de 4 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi."
+3005,@3001,"Augmente l'ATQ du piège de 5 %.
+Le piège inflige % de dégâts aux PV max. de l'ennemi."

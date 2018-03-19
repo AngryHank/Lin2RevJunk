@@ -1,0 +1,7 @@
+Id,CapeType,IconTexture,MaxLevel,OptionCount,AcquireLevel,AcquireCapeInfoId,AcquireCapeLevel,AcquireCondition,AcquireConditionValue,ActivateItem,ActivateItemValue,OptionChangeItem,OptionChangeCount,OptionChangeCashCost,ChangeOptionGroup
+70001,1,,30,3,75,,,7,,,,,,,
+71001,0,,30,3,75,,,0,,1300001,1,1303001,1,,71001101
+71002,0,,30,3,75,,,0,,1300002,1,1303001,1,,71002101
+71003,0,,30,4,75,,,0,,1300003,1,1303001,1,,71003101
+71006,0,,30,5,75,,,0,,1300006,1,1303002,1,,71006101
+71007,0,,30,5,75,,,0,,1300007,1,1303003,1,,71007101

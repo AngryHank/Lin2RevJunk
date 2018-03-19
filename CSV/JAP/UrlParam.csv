@@ -1,0 +1,12 @@
+ParamType,MatchString
+0,s
+1,party
+2,gdungeoninfo
+3,dunlinkobjid
+4,dunlinkgemid
+5,linktype
+6,worldid
+7,summongemsubid
+8,guildid
+11,pid
+10,p

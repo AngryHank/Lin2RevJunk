@@ -1,0 +1,2 @@
+Id,StampItemInfoId,StampRewardGroupInfoID,ImageNormalStamp,ImageRewardStamp,UsePeriod,StartStr,EndStr,ImageBackGround,BadgeType
+1,81000126,101,MI_UI_Image_GetStamp,MI_UI_Image_JourneyEvent_ClearStamp,1,2018-01-01 04:00:00,2020-02-01 04:00:00,UI_Image_OrenTerritory,225

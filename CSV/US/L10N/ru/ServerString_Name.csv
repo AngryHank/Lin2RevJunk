@@ -1,0 +1,250 @@
+Key,Value
+GuildWarehouseRecordSiegeWarReward,Награда за Осаду замка
+GuildWarehouseRecordSiegeWarBidding,Ставка на Осаду замка
+GuildWarehouseRecordFortressWarReward,Награда за Осаду крепости
+GuildWarehouseRecordFortressWarBidding,Ставка на Осаду крепости
+GuildWarehouseRecordCommission,Сбор налогов
+GuildWarehouseRecordMarketBuy,Покупка в магазине
+SystemMailName,Система
+SystemMessageKickOutFromGM,Идет перезагрузка сервера. Перезапустите игру.
+SystemMessageLogOut,Теперь игра закончится.
+CastleSiegeFestivalCouponResetNotify,Билеты Фестиваля Осад будут обнулены.
+MailTitleCheat,Наруш. правил
+MailTitleTutorialReward,Обучение
+MailTitleGuideQuestReward,Награда за путешествие наемника
+MailTitleShopGachaItem,Коробка из магазина призываний
+MailTitleDungeonReward,Награда за подземелье
+MailTitlePvpHonorPointReward,Награда славы на Арене
+MailTitlePvpFirstRankReward,Награда за первый ранг Арены
+MailTitlePvpRankingReward,Награда за рейтинг Арены
+MailTitleCastleSiegeBegin,Начало Осады замка
+MailTitleCastleSiegeLoseReward,Награда за проигр. Осаду замка
+MailTitleCastleSiegeWinReward,Награда за победу при Осаде замка
+MailTitleFortressSiegeLoseReward,Награда за проигр. Осаду крепости
+MailTitleFortressSiegeWinReward,Награда за победу при Осаде крепости
+MailTitleFortressSiegeDrawReward,Награда за ничью при Осаде крепости
+MailTitleAuctionHouseBuy,Покупка на фактории
+MailTitleAuctionHouseSellFailed,Продажа на фактории истекла
+MailTitleAuctionHouseSellingCancel,Продажа на фактории отменена
+MailTitleConnectDailyReward,Награда за ежедн. логин
+MailTitleConnectWeeklyReward,Награда за нед. логин
+MailTitleConnectMonthlyReward,Награда за мес. логин
+MailTitleGuildAchievementReward,Награда за достижения клана
+MailTitleGuildMarketBuy,Покупка в магазине клана
+MailTitleGuildMarketGiftBuy,[Player] шлет вам дар.
+MailTitleGuildWarehouseGrant,Приз клана
+MailTitleAchievementReward,Награда за достижения
+MailTitlePeriodAchievementReward,Награда за времен. достижения
+MailTitleFriendGreet,Привет другу
+MailTitleBagIsFull,Инвентарь полон
+MailTitleDailyActivityReward,Награда за ежедн. активность
+MailTitleInstantCompleteReward,"Предмет, получ. в награду"
+MailTitleMissionDailyReward,Награда за ежедн. задание
+MailTitleMissionWeeklyReward,Награда за нед. задание
+MailTitleShopReward,Награда за пополнение/расход
+MailTitleSupriseBox,Открыть коробку-сюрприз
+MailTitleEvent,Награда за событие
+MailTitleEventDice,Награда за Кубическое событие
+MailTitleEventDiceComplete,Награда за завершение круга Кубического события
+MailTitleCastleSiegeFestivalWin,Вы успешно предсказали клан-победитель на Фестивале Осад
+MailTitleCastleSiegeFestivalLose,Вы не смогли предсказать клан-победитель на Фестивале Осад
+MailTitleItemEnchantFailReward,Награда за провал модификации
+MailTitleAccountLevelReward,서버 레벨 달성 이벤트 보상
+MailContentCheat,[Item]
+MailContentTutorialReward,Ваша награда за прохождение обучения - [Item]
+MailContentGuideQuestReward,@MailContentCheat
+MailContentShopGachaItem,Предмет из Коробки из магазина призываний. (Достигнут лимит предметов)
+MailContentDungeonReward,Награда за прохождение подземелья.
+MailContentPvpHonorPointReward,@MailContentCheat
+MailContentPvpFirstRankReward,@MailContentCheat
+MailContentPvpRankingReward,@MailContentCheat
+MailContentCastleSiegeBegin,@MailContentCheat
+MailContentCastleSiegeLoseReward,@MailContentCheat
+MailContentCastleSiegeWinReward,@MailContentCheat
+MailContentFortressSiegeLoseReward,@MailContentCheat
+MailContentFortressSiegeWinReward,@MailContentCheat
+MailContentAuctionHouseBuy,"Просмотрите предметы, купленные вами на фактории."
+MailContentAuctionHouseSellFailed,Этот предмет не удалось продать на фактории.
+MailContentAuctionHouseSellingCancel,Продажа этого предмета на фактории была отменена.
+MailContentConnectDailyReward,Приобретённый [Item] для онлайн
+MailContentConnectWeeklyReward,Приобретение: [Item] для дня [Day].
+MailContentConnectMonthlyReward,@MailContentConnectWeeklyReward
+MailContentGuildAchievementReward,@MailContentCheat
+MailContentGuildMarketBuy,@MailTitleGuildMarketBuy
+MailContentGuildMarketGiftBuy,[RewardName]
+MailContentGuildWarehouseGrant,Получено в качестве приза от клана.
+MailContentAchievementReward,@MailContentCheat
+MailContentPeriodAchievementReward,@MailContentCheat
+MailContentFriendGreet,@MailContentCheat
+MailContentBagIsFull,@MailContentCheat
+MailContentDailyActivityReward,@MailContentCheat
+MailContentInstantCompleteReward,@MailContentCheat
+MailContentMissionDailyReward,@MailContentCheat
+MailContentMissionWeeklyReward,@MailContentCheat
+MailContentShopReward,@MailContentCheat
+MailContentSupriseBox,@MailContentCheat
+MailContentEvent,@MailContentCheat
+MailContentEventDice,@MailContentCheat
+MailContentEventDiceComplete,@MailContentCheat
+MailContentCastleSiegeFestivalWin,@MailContentCheat
+MailContentCastleSiegeFestivalLose,@MailContentCheat
+MailContentItemEnchantFailReward,@MailContentCheat
+MailContentAccountLevelReward,서버 레벨 달성 이벤트 보상입니다.
+MailRewardAdena,Адены: [Count]
+MailRewardDiamond,Алмазы: [Count]
+MailRewardCrystal,Часть
+MailRewardExp,Опыт: [Count]
+MailRewardQuestLimitTime,Лимит времени задания
+MailRewardFriendshipPoint,Очки дружбы: [Count]
+MailRewardStatus,Характ-ки: [Count]
+MailRewardBloodCrystal,Кровяные кристаллы: [Count]
+MailRewardGachaTicket,@MailContentCheat
+MailRewardCastleSiegeFestivalCoupon,Билет Фестиваля Осад
+GuildWarehouseRecordGuildAchievement,Достижение клана
+GuildWarehouseRecordGuildDungeon,[GuildDungeonName]
+MailRewardSkillPoint,SP
+MailRewardTopaz,Топаз
+MailRewardMileage,Очки лояльности
+MailRewardGuildCoin,Монета клана
+MailRewardAchievementPoint,Очки достижений
+MailRewardPvpHonorPoint,Очки славы
+MailRewardRunePiece,Фрагмент Руны
+MailRewardPvpTicket,Билет на Арену
+MailTitleClassTransfer,Смена класса
+MailContentClassTransfer,@MailContentCheat
+MailTitleMonsterBook,Бестиарий
+MailContentMonsterBook,@MailContentCheat
+MailTitleGuildDungeonReward,"Награда за то, что вы не участвовали в подземелье «[GuildDungeonName]»."
+MailContentGuildDungeonReward,@MailTitleGuildDungeonReward
+MailTitleGuildDungeonAttendanceReward,Это ваша награда за участие в подземелье «[GuildDungeonName]».
+MailContentGuildDungeonAttendanceReward,@MailTitleGuildDungeonAttendanceReward
+MailTitleGuildDungeonHelpReward,Награда за помощь [GuildDungeonName] будет отправлена.
+MailContentGuildDungeonHelpReward,Награда за помощь в прохожд. [GuildDungeonName] отправлена.
+MailTitleLevelUpGift,Награда за усиление персонажа
+MailContentLevelUpGift,Награда: [Item]
+MailTitleReservedNickName,Это подарок за регистрацию!
+MailContentReservedNickName,@MailContentCheat
+MailTitleGuildAgitQuestReward,Награда клана за задание холла клана
+MailContentGuildAgitQuestReward,@MailContentCheat
+MailTitleAccountLink,Награда за привязку уч. записи
+MailContentAccountLink,@MailContentCheat
+MailTitleGuildAgitRelicReward,Результаты оценки реликвии
+MailContentGuildAgitRelicReward,@MailContentCheat
+MailTitleGuildAgitRelicCollect,Восстановить зарегистрированную реликвию
+MailContentGuildAgitRelicCollect,@MailContentCheat
+MailTitleGuildAgitLiquidCreate,Создать зелье
+MailContentGuildAgitLiquidCreate,@MailContentCheat
+MailTitleFishingBookReward,Награда рыболовного кодекса
+MailContentFishingBookReward,@MailContentCheat
+MailTitleBattlefieldOfHonorSeasonReward,Награда почетного поля боя за сезон
+MailContentBattlefieldOfHonorSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfBraveSeasonReward,Награда геройского поля боя за сезон
+MailContentBattlefieldOfBraveSeasonReward,@MailContentCheat
+MailTitleBattlefieldOfAncientSeasonReward,Награда древнего поля боя за сезон
+MailContentBattlefieldOfAncientSeasonReward,@MailContentCheat
+GuildWarehouseRecordGuillAgitQuest,Задания холла клана
+GuildWarehouseRecordGuildAgitLiquidMaterialUse,Используйте материалы для зелий
+GuildWarehouseRecordGuildAgitLiquidMaterialCreate,@MailTitleGuildAgitLiquidCreate
+GuildWarehouseRecordGuildAgitRelicPointUse,Сундук клановой реликвии
+EquipDungeonHp80,Целостность Священного артефакта - 80%.
+EquipDungeonHp60,Целостность Священного артефакта - 60%.
+EquipDungeonHp40,Целостность Священного артефакта - 40%.
+EquipDungeonHp20,Целостность Священного артефакта - 20%.
+EquipDungeonHp0,Священный артефакт уничтожен.
+VarBerk30,Варкарон впал в неистовство.
+QueenAntScout,"Появляются монстры, защищающие Королеву Муравьев."
+QueenBigAnt,Появилась Большая Муравьиная нянька!
+BigAntGiveHeal,Большая Муравьиная нянька лечит Королеву Муравьев!
+KICKOUT_FOR_INSPECT,Вы отключены в результате технических работ на сервере.
+KICKOUT_FOR_ASSET_PATCH,Переход на заглавный экран для загрузки новых материалов.
+KICKOUT_PACKET_KEY_CHANGE,Вы отключены из-за длительной неактивности.
+KICKOUT_SPEED_CHECK,Вы отключены.
+CannotAcquireItemAnymore,Получение стало невозможно.
+GuildMasterAutoEntrust,[System] В клане нет активных членов.
+MailTitlePurchaseLimitOverReward,[TargetItem] Дублирующаяся покупка
+MailContentPurchaseLimitOverReward,@MailContentCheat
+GuildJoinRequestDailyJoinLimit,"Этот клан уже получил максимальное число заявок за день.
+Повторите попытку после 4:00 утра."
+GuildJoinAcceptDailyJoinLimit,"Вы уже одобрили максимальное число заявок за день.
+Повторите попытку после 4:00 утра."
+PlayerIdleKickoutMessage,@KICKOUT_PACKET_KEY_CHANGE
+CrumaCore_Summon,Ядро Крумы призывает Стража.
+DiceEventMaxCount,Вы достигли максимального количества для Кубического события.
+PET_EQUIPMENT_ERROR_MESSAGE,"Снаряжение для ездовых животных недоступно из Кузницы.
+Используйте меню ездового животного."
+MailTitleGuildCastleDailyReward,Ежедневная награда за захват замка
+MailContentGuildCastleDailyReward,@MailContentCheat
+MailTitleAuctionHouseSellCompleted,Оплата сделки на фактории
+MailContentAuctionHouseSellCompleted,Это оплата за сделку на фактории.
+ConfineMessage,"Доступ к игре ограничен на <FontRed>[Day]</> д.
+Для получения более подробной информации изучите уведомления на форуме сообщества или обратитесь в службу поддержки.
+(Доступно для использования с <FontRed>[ReuseMonth]/[ReuseDay]/[ReuseYear] [ReuseHour] ч. [ReuseMin] мин.</>)"
+MailTitleGuildAgitWish,@MailContentCheat
+MailContentGuildAgitWish,Награда за отметку в Холле клана
+EventDailyQuest,Событие Ежедневного задания
+EventDailyQuestReward,Награда за событие Ежедневного задания
+EventDailyQuestProgressReward,Прогресс награды за событие Ежедневного задания
+ESportsMasterDiedNotify,"<FontYellow>[PlayerName]</>, <FontWhite>лидер клана из гильдии</> <FontYellow>[GuildName]</>, <FontWhite>погибает.</>"
+ESportsMsgNotStartTime,"Вход невозможен, потому что матч еще не начался."
+ESportsMsgNoMoreMatch,В настоящее время матчей нет.
+ESportsMsgMatchInfo,[PlayerName] из гильдии [MyGuildName] на сервере [MyServerName] [Date] сразится с гильдией [TargetGuildName] на сервере [TargetServerName].
+ESportsMatchEnded,Матч в комнате [MatchId] завершен.
+ESportsMsgKickoutMatchEnded,"Матч завершен, поэтому вы перейдете на главный экран."
+AuctionHouseDisabledMessage,"Фактория в настоящее время недоступна.
+Чтобы получить подробную информацию, посетите форум сообщества."
+DayOfWeekMon,Пн.
+DayOfWeekTue,Вторник
+DayOfWeekWed,Среда
+DayOfWeekThu,Четверг
+DayOfWeekFri,Пятница
+DayOfWeekSat,Сб.
+DayOfWeekSun,Вс.
+MailTitleEventCheckBoardReward,@MailContentCheat
+MailContentEventCheckBoardReward,Первая награда охоты на сокровища Фельдхейма
+MailTitleEventCheckBoardAccrueReward,@MailContentCheat
+MailContentEventCheckBoardAccrueReward,Общая награда охоты на сокровища Фельдхейма
+MailTitleShopGuildReward,Подарок [Player]: [Name]
+MailContentRecommandationServerReward,Окно наград рекомендуемых серверов
+MailTitleRecommandationServerReward,Окно рекомендуемых серверов
+MailTitleGuildDonationReward,Награда за пожертвование в клан
+MailContentGuildDonationReward,@MailContentCheat
+MailContentPartyDungeonReward,"Это добыча, найденная во Временном разломе [PartyDungeonName]."
+MailTitleServerTransferDailyDiamond,Недостающие элементы из ежедневного набора алмазов
+MailTitleServerTransferAccountWarehouseExtension,계정창고 확장비용 환불
+MailTitlePartyDungeonReward,Награда за прохождение Временного разлома
+MailTitleServerTransferNameDuplicate,서버 이전에 따른 캐릭터 이름 변경권 지급
+MailContentServerTransferNameDuplicate,"서버 이전시 캐릭터 이름이 중복되어, 변경권을 지급해드립니다."
+MailTitleBossReward,Награда за захват персонажа по имени [NpcName]
+MailContentBossReward,Недостаточно места в инвентаре после победы над персонажем по имени [NpcName]. Награда отправлена в почтовый ящик.
+MailTitleFreeFortressResultWinReward,Награда за победу в открытой осаде
+MailContentFreeFortressResultWinReward,@MailContentCheat
+MailTitleFreeFortressResultDrawReward,Награда за ничью в открытой осаде
+MailContentFreeFortressResultDrawReward,@MailContentCheat
+MailTitleFreeFortressResultLoseReward,Награда за поражение в открытой осаде
+MailContentFreeFortressResultLoseReward,@MailContentCheat
+MailTitleFreeFortressScoreReward,Полученные при открытой осаде очки
+MailContentFreeFortressScoreReward,@MailContentCheat
+MailTitleMasteryUpGift,Увеличена награда за мастерство
+MailContentMasteryUpGift,@MailContentLevelUpGift
+MailRewardMasteryCoin,Жетон мастерства
+MailTitleFotressDailyReward,Награда за захват после осады крепости
+MailContentFotressDailyReward,@MailContentCheat
+MaileTitleNerodiceEvent,Игра в кубики Неро
+MaileContentNerodiceEvent,Поздравляем! Вот приз за победу в игре в кубики Неро.
+MailTitleFortressSiegeSpotReward,Награда за открытую осаду
+MailContentFortressSiegeSpotReward,Это награда за победу в точке открытой осады.
+MaileTitleNerodiceEventFail,Утешительный приз игры в кубики Неро
+MaileContentNerodiceEventFail,Вот утешительный приз за проигрыш в игре в кубики Неро.
+MailTitleAppstoreReward,Сундук основателя
+MailContentAppstoreReward,@MailContentCheat
+MailTitleGooglePlayReward,Особый сундук с подарком
+MailContentGooglePlayReward,@MailContentCheat
+FreeFortressKickoutMessage,Вы отключены за бездействие при участии в открытой осаде.
+SuspendAccount,"Ваш доступ приостановлен согласно условиям использования (Неразрешенные операции, пр.).
+Если вам нужна помощь, обратитесь в службу поддержки.
+http://help.netmarble.com/web/lin2ws"
+ESportsMsgMatchInfoLastTime,На сервере состязаний идет матч. Противники: [PlayerName] ([MyServerName]-[MyGuildName]) и [TargetServerName]-[TargetGuildName].
+MailTitleFacebookReward,Награда за достижение на Facebook
+MailContentFacebookReward,@MailContentCheat
+MailTitleCumulativePurchaseReward,Приобрести бонусную награду уровня [CumulativeRewardCount]
+MailContentCumulativePurchaseReward,@MailContentCheat

@@ -1,0 +1,89 @@
+Id,Name,Desc,DialogNpcName,Dialog
+1111,1. Prueba de paciencia,Derrota a {TaskCount} monstruo(s).,,
+1112,2. Día de clasificación,Completa mazmorras diarias en modo Fácil.,Aymel,"¡Hala! ¿Ya has acabado con 50 monstruos? ¡Increíble!<p>Tu siguiente prueba es completar una mazmorra diaria fácil!
+Estos jefes son muy fuertes.<p>¡Solo los mejores pueden derrotarlos!
+¡Ve y ponte a prueba!"
+1113,3. Estado de preparación,Consigue {TaskCount} objeto(s) de grado C.,@1112,"¡Eres el primero que ha derrotado al jefe de la tierra sagrada tan rápido! Tienes algo, ¿sabes?<p>La siguiente prueba es... Mmm... Bueno, en realidad no es muy difícil. Hay que recoger objetos de grado C.<p>¡Tendrás que subir de nivel tu equip. según luchas! Ahora necesitas objetos grado C. Recógelos y mejora tu equip. ¡Serán de gran ayuda! ¡Ve y consigue algunos obj. de grado C!"
+1114,4. La aprobación de todos,Participa en {TaskCount} o más duelos.,@1112,"¿Y bien? Subir de nivel tu equip. con objetos de grado C ha ayudado, ¿verdad?<p>Ahora que has subido el nivel de tu equip., miremos tus habilidades.<p>Oh, ¿creías que ibas a luchar contra monstruos? ¡Buen intento! ¡Has de poner a prueba tus habilidades contra otros jugadores!<p>¡Sería una pena si perdieses en la arena sin dar algo de guerra!<p>¡Hmm, esto debería valer! ¡Una pelea en la arena! Fácil, ¿verdad?<p>¡No seas quejica!<p>Cuando era novata, ¡participé en 100 combates!<p>Vamos, ¡ahora es tu turno!"
+1115,5. Prueba de cualificación,Consigue {TaskCount} adenas.,@1112,"¿Estás listo? ¿Ya has luchado una vez en la arena?<p>Bueno, entonces vamos a la siguiente prueba.<p>Tienes que conseguir 10 000 adenas.<p>¡Así pondremos a prueba tu habilidad para la caza y las finanzas!
+¡Si no te gestionas bien, podrías morir en un momento crucial!<p>¡Trae 10 000 adenas!"
+1116,6. Avance,Consigue mejorar equipamiento {TaskCount} vez/veces.,@1112,"¡A por la siguiente!<p>Ahora has de mejorar tu equipamiento.<p>¡Es tan importante como tu vida!
+¡Mejora tu equipamiento si quieres sobrevivir al campo de batalla!<p>¡Intenta mejorar una pieza del equipamiento!"
+1117,7. Reconocimiento,Derrota a Kyrios {TaskCount} vez/veces.,@1112,"¡Vaya! ¿Es ya la última prueba? ¡Enhorabuena! Los de arriba esperan mucho de ti por alguna razón.<p>Se te incluirá en la tarea de la subyugación de Kyrios por tus extraordinarias habilidades. ¡Kyrios es un monstruo terrible que asesina a humanos!<p>Solo mandamos a los mercenarios con más talento. ¡Los de arriba quieren que cumplas esta tarea!<p>¡Es la primera vez que pasa algo así! ¡Es la prueba de que reconocen tu talento!<p>¡Más te vale que lo derrotes, se dice que esta será la última misión! Será complicado. ¡Te deseo mucha suerte!<p>Por cierto, puede que sea más fuerte de lo que esperas, así que ve con algunos compañeros."
+1121,@1111,@1111,,
+1122,@1112,@1112,@1112,@1112
+1123,@1113,@1113,@1112,@1113
+1124,@1114,@1114,@1112,@1114
+1125,@1115,@1115,@1112,@1115
+1126,@1116,@1116,@1112,@1116
+1127,@1117,@1117,@1112,@1117
+1131,@1111,@1111,,
+1132,@1112,@1112,@1112,@1112
+1133,@1113,@1113,@1112,@1113
+1134,@1114,@1114,@1112,@1114
+1135,@1115,@1115,@1112,@1115
+1136,@1116,@1116,@1112,@1116
+1137,@1117,@1117,@1112,@1117
+1211,@1111,@1111,,
+1212,@1112,@1112,@1112,@1112
+1213,@1113,@1113,@1112,@1113
+1214,@1114,@1114,@1112,@1114
+1215,@1115,@1115,@1112,@1115
+1216,@1116,@1116,@1112,@1116
+1217,@1117,@1117,@1112,@1117
+1221,@1111,@1111,,
+1222,@1112,@1112,@1112,@1112
+1223,@1113,@1113,@1112,@1113
+1224,@1114,@1114,@1112,@1114
+1225,@1115,@1115,@1112,@1115
+1226,@1116,@1116,@1112,@1116
+1227,@1117,@1117,@1112,@1117
+1231,@1111,@1111,,
+1232,@1112,@1112,@1112,@1112
+1233,@1113,@1113,@1112,@1113
+1234,@1114,@1114,@1112,@1114
+1235,@1115,@1115,@1112,@1115
+1236,@1116,@1116,@1112,@1116
+1237,@1117,@1117,@1112,@1117
+1311,@1111,@1111,,
+1312,@1112,@1112,@1112,@1112
+1313,@1113,@1113,@1112,@1113
+1314,@1114,@1114,@1112,@1114
+1315,@1115,@1115,@1112,@1115
+1316,@1116,@1116,@1112,@1116
+1317,@1117,@1117,@1112,@1117
+1321,@1111,@1111,,
+1322,@1112,@1112,@1112,@1112
+1323,@1113,@1113,@1112,@1113
+1324,@1114,@1114,@1112,@1114
+1325,@1115,@1115,@1112,@1115
+1326,@1116,@1116,@1112,@1116
+1327,@1117,@1117,@1112,@1117
+1331,@1111,@1111,,
+1332,@1112,@1112,@1112,@1112
+1333,@1113,@1113,@1112,@1113
+1334,@1114,@1114,@1112,@1114
+1335,@1115,@1115,@1112,@1115
+1336,@1116,@1116,@1112,@1116
+1337,@1117,@1117,@1112,@1117
+1411,@1111,@1111,,
+1412,@1112,@1112,@1112,@1112
+1413,@1113,@1113,@1112,@1113
+1414,@1114,@1114,@1112,@1114
+1415,@1115,@1115,@1112,@1115
+1416,@1116,@1116,@1112,@1116
+1417,@1117,@1117,@1112,@1117
+1421,@1111,@1111,,
+1422,@1112,@1112,@1112,@1112
+1423,@1113,@1113,@1112,@1113
+1424,@1114,@1114,@1112,@1114
+1425,@1115,@1115,@1112,@1115
+1426,@1116,@1116,@1112,@1116
+1427,@1117,@1117,@1112,@1117
+1431,@1111,@1111,,
+1432,@1112,@1112,@1112,@1112
+1433,@1113,@1113,@1112,@1113
+1434,@1114,@1114,@1112,@1114
+1435,@1115,@1115,@1112,@1115
+1436,@1116,@1116,@1112,@1116
+1437,@1117,@1117,@1112,@1117

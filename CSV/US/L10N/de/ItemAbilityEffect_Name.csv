@@ -1,0 +1,45 @@
+Id,Description
+1,Fügt beim Angriff gegen normale Monster dem finalen Schaden [Param] Bonus-SCH hinzu
+2,Fügt beim Angriff gegen Elite-Monster dem finalen Schaden [Param] Bonus-SCH hinzu
+3,Fügt beim Angriff gegen Bosse dem finalen Schaden [Param] Bonus-SCH hinzu
+4,Fügt beim Angriff gegen Spieler dem finalen Schaden [Param] Bonus-SCH hinzu
+5,Verringert den finalen Schaden von normalen Monstern um [Param]
+6,Verringert den finalen Schaden von Elite-Monstern um [Param]
+7,Verringert den finalen Schaden von Bossen um [Param]
+8,Verringert den finalen Schaden von Spielern um [Param]
+9,Erhöht die Steigerung der Betäuben- und Niederschlagen-Widerstandsrate um [Param]
+10,+[Param] M-VER
+11,Erhöht die Steigerung der Verlangsamenwiderstandsrate um [Param]
+12,Erhöht die Steigerung der Krit. Wdst.-Rate um [Param]
+13,+[Param] Geschwindigkeit
+14,Erhöht Kombodauer um [Param] Sekunden
+15,Fügt bei Benutzung normaler Angriffsfertigkeiten [Param] Bonus-SCH hinzu
+16,Fügt beim Angriff gegen magische Monster dem finalen Schaden [Param] Bonus-SCH hinzu
+17,Verringert den finalen Schaden von magischen Monstern um [Param]
+19,Fügt bei Benutzung normaler Angriffsfertigkeiten Monstern [Param] Bonus-SCH hinzu
+20,Fügt bei Benutzung normaler Wiederherstellungsfertigkeiten [Param] Bonus-Wiederherstellung hinzu
+101,[Param] Bonus-SCH gegen normale Monster
+102,@101
+103,@101
+104,[Param] Bonus-SCH gegen Bosse
+105,@104
+106,@104
+107,-[Param] Schaden von anderen Spielern
+108,@107
+109,[Param] Bonus-SCH gegen andere Spieler
+110,@109
+111,-[Param] Schaden von normalen Monstern
+112,@111
+113,[Param] Bonus-SCH gegen Elite-Monster
+114,@113
+115,-[Param] Schaden von Elite-Monstern
+116,@115
+117,-[Param] Schaden von Bossen
+118,@117
+201,@104
+202,@117
+203,[Param] Bonus-SCH gegen Burgbelagerungsgebäude
+204,@113
+205,@104
+206,Fügt bei Angriff gegen magische Monster [Param] Bonus-SCH hinzu
+301,Erhöht ANG-GES auf dem Schlachtfeld um [Param].

@@ -1,4 +1,0 @@
-﻿EventGroupID,EventTitle,EventDes,EndCellNum,EventKeyItem_ID,NeedKeyItem_Count,NeedKeyItem_SpecialCount,AcquireContents1,AcquireContents2,AcquireContents3,AcquireContents4,RewardRank_1st,RewardRank_2nd,RewardRank_3rd,RewardRank_4th,RewardRank_5th,EventDiceMaxCount
-20001,네로의 주사위 게임,"""꽝""에 걸리거나
-보상을 받으면
-게임이 초기화 된다냥!",30,490069,100,50,35,42,32,10,101,102,103,104,105,300

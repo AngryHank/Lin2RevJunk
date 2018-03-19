@@ -1,0 +1,161 @@
+ID,SkillName,SkillDesc
+1,Hedef Saptandı,"Yakındaki oyuncuların içerisinden bir <YellowBold>hedef</> seçer.
+Bu yetenek hızlı olduğundan,
+menzil içindeyken kaçınılması mümkün değil.
+
+Hedef <YellowBold>sersemletilecek</> ve hareket edemeyecek."
+2,Balta Atma,"Hedefe bir balta fırlatarak <YellowBold>Sabit Hasar</> verir.
+
+
+
+
+
+
+
+"
+3,Kopma,<YellowBold>Ön menzilde</> bulunan tüm hedeflere hasar verir.
+4,Deli Kılıç,"Koni şeklindeki tüm ön hedeflere hasar verir.
+Saldırılan hedefler <YellowBold>Ateşleme</>'den etkilenir.
+
+<YellowBold>Ateşleme</>'den etkilenen hedefler
+<YellowBold>1 kat Ateşleme başına ek hasar</>alır
+ki bu <RedBold>Paagrio'nun Amberleri</> <YellowBold>patladığında</> olur.
+En fazla 5 kat Ateşleme."
+5,Çöküş,"<RedBold>Ramog</> merkeze ilerler,
+
+Bu yetenek bir kez kullanılınca <YellowBold>peş peşe 4 kez etkinleşir</>.
+Her etkinleştiğinde yön değişir.
+
+
+
+
+
+"
+6,Patlama Hazırla,"<RedBold>Ramog</> merkeze ilerler,
+
+
+
+ 
+
+
+
+"
+7,@1,@1
+8,@2,@2
+9,@3,@3
+10,@4,@4
+11,@5,@5
+12,@6,@6
+13,@1,@1
+14,@2,"Hedefe bir balta fırlatarak <YellowBold>Sabit Hasar</> verir.
+
+
+
+
+
+
+
+
+
+
+"
+15,@3,@3
+16,@4,@4
+17,@5,"<RedBold>Ramog</> merkeze ilerler,
+
+Bu yetenek bir kez kullanılınca <YellowBold>peş peşe 4 kez etkinleşir</>.
+Her etkinleştiğinde yön değişir.
+
+
+
+
+
+
+
+
+"
+18,@6,"<RedBold>Ramog</> merkeze ilerler,
+
+
+
+ 
+
+
+
+
+
+"
+19,@1,@1
+20,@2,@14
+21,@3,@3
+22,@4,@4
+23,@5,@17
+24,@6,@18
+25,Delme Hasarı,"Düşmanın tenini kılıç ile yarıp <YellowBold>savunmasını düşürür</>.
+3 defaya kadar uygulanabilir."
+26,Kan Patlaması,"Düşmanın <YellowBold>Delme Hasarı</> yarasından dışarı akan kandan <YellowBold>Kan Pıhtısı çağırır</>.
+Çağrılan <RedBold>Kan Pıhtıları</> yakındaki düşmanları hedefler ve <YellowBold>infilak eder</>."
+27,Anemi,"Uzayan savaşlardayken, kan büyüsü kullanan vampirler
+<YellowBold>Savunmasız</> olur ve <YellowBold>ek hasar</> alır."
+28,Zorla Can Çalma,"<YellowBold>Anemi</> yakındaki düşmanlardan <YellowBold>zorla kan çıkarmayı</> sağlar.
+Bundan kaçmanın tek yolu bedene <YellowBold>Vampir Kanı</> uygulamak
+ve <YellowBold>kan büyülerini kandırmak.</>"
+29,@25,@25
+30,@26,@26
+31,@27,@27
+32,@28,@28
+33,@25,"Düşmanın tenini kılıç ile yarıp <YellowBold>savunmasını düşürür</>.
+
+"
+34,@26,"Düşmanın <YellowBold>Delme Hasarı</> yarasından kan çeker ve <YellowBold>Kan Pıhtısı çağırır</>.
+Çağrılan <RedBold>Kan Pıhtısı</> yakındaki düşmanı arar ve <YellowBold>infilak eder</>.
+
+<YellowBold>- İnfilak eder ve Yanan Kan oluşturur.</>
+<YellowBold>- Yanan Kan'a temas edildiğinde hasar alınır.</>"
+35,@27,@27
+36,@28,@28
+37,Kan Cehennemi,"<YellowBold>Can %50'ye ulaştığında</>, Leonard çaresi olur.
+Bu durumdayken <YellowBold>bir sürü Kan Pıhtısı çağırır</> ve intihar saldırısı düzenler."
+38,@25,"Düşmanın tenini kılıç ile yarıp <YellowBold>savunmasını düşürür</>.
+
+"
+39,@26,@34
+40,@27,@27
+41,@28,@28
+42,@37,@37
+43,Vampirleşme,"Düşmanı vampire dönüştürmek için sürekli kan büyüsü kullanır.
+Hedef <YellowBold>3 aşamada</> dönüşür
+ve her aşamada <YellowBold>Saldırısı artar</>, ama <YellowBold>Savunması düşer</>."
+44,Vampirsel Değişim,"<YellowBold>Vampirleşme</>'ye <YellowBold>3 kez</> maruz kalırsa,
+hedef geçici olarak vampire dönüşür ve <YellowBold>ekip arkadaşlarına saldırır</>."
+45,Kan Yükleme,"Uzayan savaşlarda büyü yapmak için kan kullanan
+vampirlerin kan yenilemek için <YellowBold>yarasa olarak kaçması gerekir</>.
+<RedBold>Yarasalar</> uçarlar ve
+<BlueBold>Giran Öncü Birliği</> askerlerinin cesetlerine gider ve <YellowBold>3 kez Can Çalar</>."
+46,Kan Öfkesi,"<RedBold>Yarasalar</> alınan kanı Trisha'ya götürür.
+<RedBold>Trisha</> <YellowBold>sağlığını kazanır</>
+ama başarılı olan yarasaların sayısına göre <YellowBold>geçici güç</> kazanır."
+47,Zaken’in Dönüşü,"<YellowBold>5 dakika savaştıktan sonra</>, çağrı büyüsü tamamlanır
+ve <YellowBold>Zaken belirir</>.
+Zaken, Trisha'yı tehdit eden <YellowBold>tüm maceracıları yok edecek</>."
+48,@43,@43
+49,@44,@44
+50,@45,@45
+51,@46,@46
+52,@47,@47
+53,@43,@43
+54,@44,"<YellowBold>Vampirleşme</>'ye <YellowBold>3 kez</> maruz kalırsa,
+hedef geçici olarak vampire dönüşür ve <YellowBold>ekip arkadaşlarına saldırır</>.
+
+<YellowBold>- Vampire dönüşenler daha güçlü olur.</>"
+55,@45,@45
+56,@46,@46
+57,@47,@47
+58,Kan Seli,"Sırtını duvara yaslayan Trisha,
+dev bir <YellowBold>Kan Dalgası</> çağırır."
+59,@43,@43
+60,@44,@54
+61,@45,@45
+62,@46,@46
+63,@47,@47
+64,@58,@58

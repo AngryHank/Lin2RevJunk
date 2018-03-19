@@ -1,0 +1,129 @@
+Type,Name
+0,Añadido al arma
+1,ATQF
+2,ATQM
+3,Tasa de aumento de ATQF
+4,Tasa de aumento de ATQM
+5,Potencia de ataque básico
+6,Tasa de aumento de ATQ de miembro de equipo
+7,Tasa de aumento de vel. de ATQ
+8,Potenciador
+9,Tasa de aumento del daño crítico
+14,Aumento de tasa de PRE de crítico
+15,Aumento de tasa de RES crít.
+16,DAÑF
+17,DAÑM
+18,Ignorar DEF
+19,Reducción de PV del objetivo
+20,Reducción de PV del objetivo (%)
+21,DEFF
+22,DEFM
+23,Tasa de aumento de DEFF
+24,Tasa de aumento de DEFM
+26,Evasión
+27,Tasa de aumento de evasión
+28,Aumento de tasa de evasión
+29,Precisión
+30,Tasa de aumento de precisión
+31,Aumento de tasa de precisión
+32,Tasa de aumento del daño
+33,Tasa de aumento de DAÑF
+34,@IncreaseDamagePhyMul
+35,Tasa de aumento de daño a objetivo ralentizado
+36,Ignorar daños de DEF
+37,Tasa de reducción del daño
+38,Tasa de reducción de DAÑF
+39,Tasa de reducción de DAÑM
+40,Reduc. DAÑ fijo
+41,Posibilidad de evasión
+42,Tasa de reducción del daño de bloqueo
+43,DAÑF con el tiempo
+44,DAÑM con el tiempo
+45,Curar PV según ATQ
+46,Curar con el tiempo
+47,Efecto de terreno
+48,Tasa de aumento de agresión
+49,PV
+50,Aumentar PV según porcentaje de PV máximos
+51,Regeneración de PV
+52,Succión de PV
+53,Absorción de PV (habilidad activa que le roba PV al enemigo)
+54,Absorción de PV (reparte los PV robados entre todo el equipo)
+55,Invencible
+56,Invisible
+57,Aumento de la tasa de obtención de objetos
+58,PV máximos
+59,Tasa de aumento de PV máximos
+60,PM máximos
+61,Tasa de aumento de PM máximos
+62,Tasa de aumento de velocidad
+63,PM
+64,Aumentar PM según porcentaje de PM máximos
+65,Tasa de red. del coste de PM
+66,Reducción del coste de PM
+67,Tasa regen. de PM
+68,Una muerte (muerte instantánea)
+69,Proyectil
+70,Reducción de recarga de habilidades
+71,Inteligente (el coste de PM para todas las habilidades es 1)
+72,Bonificación por ataque con Refuerzo de alma
+73,Durable (todo daño recibido es 1)
+74,Aturdir
+75,Desprecio (aumenta Aggro al máx.)
+76,Bloquear objetivo
+77,Mover objetivo
+78,Tirar del objetivo
+79,Tasa de RES de tracción
+81,Tasa de RES de revés
+83,Elixir
+84,Sin efecto
+85,Identificador de información de tabla de habilidades
+179,Potenciador de AdE (tótem de aura)
+86,Exp.
+87,Tasa aum. obtención experiencia
+88,Adena
+89,Tasa de aumento de ganancia de adenas
+90,Diamante gratis
+91,Diamante pagado
+92,Moneda de clan
+93,Fragmento de runa
+94,PH
+95,Autocomp.
+96,Obtención de objetos
+97,Tasa de RES a ralentizar
+98,Tasa de resistencia a aturdimiento y derribo
+99,Tasa de RES a estado alterado
+103,Aumento de rango de habilidad
+104,Aumento de número de golpes de habilidad
+100,Aumento de tiempo de fin de combo
+101,Penetración
+102,Resistencia
+105,Aumento de velocidad de extracción
+106,Aumento de número de extracciones
+10,Tasa de crít.
+11,Resistencia a críticos
+12,Tasa de aumento de tasa de crít.
+13,Tasa de aumento de RES a críticos
+125,Control mental
+133,Aumento de daño de habilidad de ataque normal
+140,Reduce la recarga de habilidad en %
+146,Reducción del PM del obj.
+147,Reducción del PM del obj. en %
+148,Restaura el PM relativo al ATQ
+179,Tasa de aumento de DEF según el tamaño del equipo
+151,Elimina estado alterado
+152,Elimina efecto positivo del objetivo
+153,Inmune al daño por debajo de determinado PV
+136,Regen. de PV Tasa de aumento
+163,Tasa de aumento daño final
+164,Tasa de reducción del daño final y el daño adicional.
+165,@NormalSkillDamageMul
+174,Aumento de la curación de la habilidad curativa normal
+171,Amplificación de la tasa de resistencia a aturdimiento y derribo
+170,Amplificación de la tasa de resistencia a lentitud
+169,Amplificación de la tasa de resistencia a críticos
+131,Aumento del daño infligido a monstruos
+132,Reducción del daño recibido por monstruos
+176,Aumento del daño de habilidad normal infligido a monstruos
+177,@NormalSkillMonsterDamageMul
+160,Tasa de aumento del daño basada en el rango y raza del PNJ

@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,Aventurero novel,El primer título que se le da a un héroe al comienzo de su aventura.,
+1000200,Donante estrella,"Se activa al completar el logro ""Lo mío es nuestro (Escalafón {DescParam})"".",10
+1000300,Asistente asiduo,"Se activa al completar el logro ""Siempre en mi cabeza (Escalafón {DescParam})"".",10
+1000400,Amigo devoto,"Se activa al completar el logro ""Mi amigo se lo merece (Escalafón {DescParam})"".",10
+1000500,Primer 1%,"Se activa al completar el logro ""Morralla inútil (Escalafón {DescParam})"".",10
+1000600,Cazador de monstruos,"Se activa al completar el logro ""Cazador indiscriminado (Escalafón {DescParam})"".",11
+1000800,Luchador novato,Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de la arena.,10000
+1000900,Adorador del poder,Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de poder de combate.,10000
+1001000,Investigador auxiliar,Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de nivel.,10000
+1001200,Maestro del progreso,"Se activa al completar el logro ""Más que comida (Escalafón {DescParam})"".",10
+1001300,Cazador de almas,"Se activa al completar el logro ""Tantos destellos (Escalafón {DescParam})"".",10
+1001400,Administrador de fondos,"Se activa al completar el logro ""Hace falta tiempo, amor y cuidado (Escalafón {DescParam})"".",10
+1001500,Coleccionista,"Se activa al completar el logro ""No soy un basurero, pero... (Escalafón {DescParam})"".",10
+1001600,Alquimista,"Se activa al completar el logro ""Lo que me hace brillar (Escalafón {DescParam})"".",10
+1001700,Duelista,"Se activa al completar el logro ""Señal de la victoria (Escalafón {DescParam})"".",10
+1001800,Experto en sorteos,"Se activa al completar el logro ""La suerte no es una habilidad (Escalafón {DescParam})"".",10
+1001900,Cazador de corazones,"Se activa al completar el logro ""Recogida de botín (Escalafón {DescParam})"".",10
+2000200,Luchador experto,@1000800,5000
+2000300,Aventurero,@1000900,5000
+2000400,Investigador mayor,@1001000,5000
+2000600,Atisbador de monstruos,"Se activa al completar el logro ""{DescParam}"".",Códice de la región de los Sepulcros agonizantes
+2000700,Amante de riquezas,"Se activa al completar el logro ""¿Habías visto esto antes? (Escalafón {DescParam})"".",10
+2000900,Chico afortunado,"Se activa al completar el logro ""Que la suerte te acompañe (Escalafón {DescParam})"".",10
+2001000,Entrenador de monturas,"Se activa al completar el logro ""Más fuerte y más feroz (Escalafón {DescParam})"".",10
+2001100,Protegido por los espíritus,"Se activa al completar el logro ""Necesidad de batalla (Escalafón {DescParam})"".",10
+2001200,Forense,"Se activa al completar el logro ""Sangre diferente (Escalafón {DescParam})"".",10
+2001300,Fanático de la seguridad,"Se activa al completar el logro ""Hacia un camino seguro (Escalafón {DescParam})"".",10
+2001400,Maestro del disfraz,"Se activa al completar el logro ""Es duro ser temperamental (Escalafón {DescParam})"".",10
+2001500,Maestro armero,"Se activa al completar el logro ""De las leyendas (Escalafón {DescParam})"".",10
+2001600,Maestro de corazas,"Se activa al completar el logro ""El pergamino de los sueños (Escalafón {DescParam})"".",10
+2001800,Amante de la variedad,"Se activa al completar el logro ""Evolución infinita de equipamiento (Escalafón {DescParam})"".",10
+2001900,Maestro joyero,"Se activa al completar el logro ""Encontré mi pergamino (Escalafón {DescParam})"".",10
+2002000,Asesino,"Se activa al completar el logro ""Un monstruo legendario derrotado (Escalafón {DescParam})"".",10
+2002100,Maestro del aumento,"Se activa al completar el logro ""Es completamente diferente (Escalafón {DescParam})"".",10
+3000200,Luchador motivado,@1000800,100
+3000300,Conquistador formidable,@1000900,100
+3000500,Investigador sabio,@1001000,100
+3000900,Especialista,"Se activa al completar el logro ""Cómo fabricar equipamiento especial (Escalafón {DescParam})"".",10
+3001000,Superalímites,"Se activa al completar el logro ""Es eso todo lo que puedes hacer (Escalafón {DescParam})"".",10
+3100100,Comandante de fortaleza,"Se obtiene si eres el {DescParam} del clan que dirige la fortaleza.
+(Se conserva mientras se cumplan los requisitos).",Anciano
+3100200,Guardián de la fortaleza,@3100100,- Miembro de clan:
+4100100,Comandante de fortaleza,@3100100,Líder
+4101000,Los diez aspirantes,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de la arena.
+(Lo conservas mientras cumplas los requisitos).",10
+4101100,Los diez conquistadores,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de poder de combate.
+(Lo conservas mientras cumplas los requisitos).",10
+4101200,Investigador prestigioso,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de nivel.
+(Lo conservas mientras cumplas los requisitos).",10
+5100200,Rey del duelo,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de la arena.
+(Lo conservas mientras cumplas los requisitos).",1
+5100300,Soy el más fuerte,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de poder de combate.
+(Lo conservas mientras cumplas los requisitos).",1
+5100400,El iluminado,"Se obtiene cuando alcanzas el rango {DescParam} o superior en la clasificación de nivel.
+(Lo conservas mientras cumplas los requisitos).",1
+30000000,Pionero inicial,Título de edición limitada disponible para los jugadores que hayan completado su prerregistro.,
+30000010,Patrón de clan,Un título honorífico otorgado a los miembros del clan que apoyen enormemente a sus clanes.,

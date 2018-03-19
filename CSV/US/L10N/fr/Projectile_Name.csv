@@ -1,0 +1,60 @@
+Id,Name
+11131,Missile d'énergie
+11125,Double tir
+11132,Frappe de flamme
+11133,Frappe venteuse
+12131,@11131
+12125,@11125
+12132,@11132
+12133,@11133
+13131,@11131
+13125,@11125
+13132,@11132
+13133,@11133
+14131,@11131
+14125,@11125
+14132,@11132
+14133,@11133
+11252,Coup fusion
+12221,Blaster sonique
+12222,Tempête sonique
+12242,Double tir large
+12251,Lance glaciale
+13241,Dard mortel
+30004,Flèche sanglante
+30006,Missile filant
+31003,Lourd heurt
+50001,Monstre : Boule de feu
+50002,Monstre : Épieu de glace
+50003,Monstre : Magie de la terre
+50004,Monstre : Magie du vent
+50005,Monstre : Magie sombre
+50006,Monstre : Missile d'énergie
+50007,Monstre : Double tir
+60107,@11132
+60109,Tir puissant
+73022,Compétence de Zaken 2
+77085,Compétence du Fantôme de Zaken (Boss de quête)
+74061,Onde électrique
+74101,MTG_DullahanBossSkill_01
+74111,MTG_DarkLordBossSkill_01
+74121,Vase consumante
+80001,Projectile de la tour de défense de l'attaquant
+1508031,@11133
+1512031,@11131
+1513021,@11131
+1513071,@11125
+1514051,@60109
+1518031,Missile de glace
+1519021,@11131
+720441,Poison de gravité
+601261,Fée
+601391,DragonPythonSkill_01
+601441,DarkAssociation_M_HighSkill_01
+731271,Libération - Étape 1
+731281,Libération - Étape 2
+731291,Libération - Étape 3
+731301,Libération - Étape 4
+731311,Libération - Étape 5
+731371,Matelot des pirates de Zaken
+730311,Libération - Corps principal

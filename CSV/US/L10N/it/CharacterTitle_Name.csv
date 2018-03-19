@@ -1,0 +1,58 @@
+Id,Name,Description,DescParam
+1000100,L’avventura ha inizio,Il primo titolo dato ad un eroe all’inizio dell’avventura.,
+1000200,Miglior Donatore,Attiva al completamento del traguardo “Ciò che è mio è nostro (Rango {DescParam})”.,10
+1000300,Buona Presenza,Attiva al completamento del traguardo “Sempre nei miei pensieri (Rango {DescParam})”.,10
+1000400,Tra Amore e Amicizia,Attiva al completamento del traguardo “Nessun spreco se è per un Amico (Rango {DescParam})”.,10
+1000500,Top 1%,Attiva al completamento del traguardo “Gli spiccioli non servono (Rango {DescParam})”.,10
+1000600,Cacciatore di mostri,Attiva al completamento del traguardo “Cacciatore indiscriminato (Rango {DescParam})”.,11
+1000800,Lottatore principiante,Ottenuto quando raggiungi la posizione #{DescParam} o maggiore nella classifica dell’Arena.,10000
+1000900,Seguace del Potere,Ottenuto quando raggiungi la posizione #{DescParam} o maggiore nella classifica del Potere di combattimento.,10000
+1001000,Assistente Ricercatore,Ottenuto quando raggiungi la posizione #{DescParam} o maggiore nella classifica di livello.,10000
+1001200,Maestro Avanzamento,Attiva al completamento del traguardo “Più di semplice cibo (Rango {DescParam})”.,10
+1001300,Cacciatore di Anime,Attiva al completamento del traguardo “Così tante Scintille (Rango {DescParam})”.,10
+1001400,Amministratore della Sacca,Attiva al completamento del traguardo “Ci vuole amore (Rango {DescParam})”.,10
+1001500,Collezionista,"Attiva al completamento del traguardo “Non un Rigattiere, ma...(Rango {DescParam})”.",10
+1001600,Alchimista,Attiva al completamento del traguardo “Quello che mi fa brillare (Rango {DescParam})”.,10
+1001700,Duellante,Attiva al completamento del traguardo “Simbolo di Vittoria (Rango {DescParam})”.,10
+1001800,Esperto di Disegno,Attiva al completamento del traguardo “La fortuna non è un’abilità (Rango {DescParam})”.,10
+1001900,Cacciatore di Essenza,Attiva al completamento del traguardo “Raccolta Bottino (Rango {DescParam})”.,10
+2000200,Lottatore esperto,@1000800,5000
+2000300,Avventuriero,@1000900,5000
+2000400,Ricercatore Migliore,@1001000,5000
+2000600,Diario del Mostro,Attiva al completamento del traguardo “({DescParam})”.,Codex Regione dei Santi Urlanti
+2000700,Appassionato tesori,Attiva al completamento del traguardo “L’hai mai visto prima? (Rango {DescParam})”.,10
+2000900,Ragazzo fortunato,Attiva al completamento del traguardo “Che la fortuna sia con te (Rango {DescParam})”.,10
+2001000,Addestratore di Cavalcature,Attiva al completamento del traguardo “Più forte e spietato (Rango {DescParam})”.,10
+2001100,Protezione dello Spirito,Attiva al completamento del traguardo “Necessità di Battaglia (Rango {DescParam})”.,10
+2001200,Investigatore Forense,Attiva al completamento del traguardo “Sangue diverso (Rango {DescParam})”.,10
+2001300,Sicurezza per Prima,Attiva al completamento del traguardo “Via per una strada sicura (Rango {DescParam})”.,10
+2001400,Maestro Travestimento,Attiva al completamento del traguardo “È dura essere volubili (Rango {DescParam})”.,10
+2001500,Maestro d’Arma,Attiva al completamento del traguardo “Dalle Leggende (Rango {DescParam})”.,10
+2001600,Maestro d’Armatura,Attiva al completamento del traguardo “Pergamena dai Sogni (Rango {DescParam})”.,10
+2001800,Combinatore,Attiva al completamento del traguardo “Evoluzione infinita dell’Equipaggiamento (Rango {DescParam})”.,10
+2001900,Maestro di Gioielli,Attiva al completamento del traguardo “Ho trovato la mia Pergamena (Rango {DescParam})”.,10
+2002000,Uccisore,Attiva al completamento del traguardo “Sconfitto un Mostro leggendario (Rango {DescParam})”.,10
+2002100,Maestro di Upgrade,Attiva al completamento del traguardo “È completamente diverso (Rango {DescParam})”.,10
+3000200,Lottatore motivato,@1000800,100
+3000300,Conquistatore abile,@1000900,100
+3000500,Ricercatore Intelligente,@1001000,100
+3000900,Specialista,Attiva al completamento del traguardo “Come creare Equipaggiamento speciale (Rango {DescParam})”.,10
+3001000,Distruttore di Limiti,Attiva al completamento del traguardo “Questo è il tuo meglio? ({DescParam} Rango)”.,10
+3100100,Comandante della Fortezza,"Ottenuto se sei il {DescParam} del clan dominante della fortezza.
+(Posseduto mentre soddisfi le condizioni impostate.)",Anziano
+3100200,Guardiano Fortezza,@3100100,- Membro del clan:
+4100100,Comandante della Fortezza,@3100100,Leader
+4101000,I Dieci Contendenti,"Ottenuto quando raggiungi la posizione #{DescParam} o superiore nella classifica dell’Arena. 
+(Posseduto mentre soddisfi le condizioni impostate.)",10
+4101100,I Dieci Conquistatori,"Ottenuto quando raggiungi la posizione #{DescParam} o superiore nella classifica del Potere di combattimento. 
+(Posseduto mentre soddisfi le condizioni impostate.)",10
+4101200,Ricercatore Rinomato,"Ottenuto quando raggiungi la posizione #{DescParam} o maggiore nella classifica di livello. 
+(Posseduto mentre soddisfi le condizioni impostate.)",10
+5100200,Re del duello,"Ottenuto quando raggiungi la posizione #{DescParam} nella classifica dell’Arena.
+(Posseduto mentre soddisfi le condizioni impostate.)",1
+5100300,Sono il più Forte,"Ottenuto quando raggiungi la posizione #{DescParam} nella classifica del Potere di combattimento.
+(Posseduto mentre soddisfi le condizioni impostate.)",1
+5100400,L’Illuminato,"Ottenuto quando raggiungi la posizione #{DescParam} nella classifica di livello. 
+(Posseduto mentre soddisfi le condizioni impostate.)",1
+30000000,Pioniere Iniziale,Titolo ad edizione limitata disponibile per i giocatori che hanno completato la pre-registrazione.,
+30000010,Patrono del Clan,Un titolo onorifico assegnato ai membri dei clan che offrono un grande supporto ai loro clan.,

@@ -21,8 +21,6 @@ Id,Name,RepresentRewardName,RepresentRewardDescription,Description
 9004,Adena Vault I,@9000,@9000,"Shunaiman, the Emperor of Elmoreden, used this place to store gold required to build the Tower of Insolence. After his death it became occupied by Kresous the Gold Dragon."
 9005,Adena Vault II,@9000,@9001,@9004
 9006,Adena Vault III,@9000,@9002,@9004
-9008,Adena Vault IV,@9000,@9003,@9004
-9200,Adena Vault V,@9000,@9003,@9004
 9009,Temple Guardian I,@9000,@9000,The Elven temple that houses the Water Crystal blessed by Eva. Hardin ordered the Silverlight Mercenaries to guard the temple to protect the Water Crystal from the Dark Brotherhood.
 9010,Temple Guardian II,@9000,@9001,@9009
 9011,Temple Guardian III,@9000,@9002,@9009
@@ -350,19 +348,54 @@ Id,Name,RepresentRewardName,RepresentRewardDescription,Description
 60001,Official Tutorial,Exp.,,
 70001,@60001,@60001,,
 70002,@60001,@60001,,
-90100,Varkaron’s Vestige,@12003,,Varkaron’s sharp blades will cause heavy bleeding.
-90101,@90100,@12003,,@90100
-90102,@90100,@12003,,@90100
-90103,@90100,@12003,,@90100
-90300,Queen Ant’s Cave,@12003,,"The Queen Ant deep in her
-dark cave is a master of poisons."
-90301,@90300,@12003,,@90300
-90302,@90300,@12003,,@90300
-90303,@90300,@12003,,@90300
-90400,Room of Cruma Core,@12003,,"The Cruma Core is the heart of the Cruma Tower.
+90101,Varkaron’s Vestige,@12003,,"Varkaron’s sharp blades
+will cause heavy bleeding."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Queen Ant’s Cave,@12003,,"The Queen Ant, deep in her
+dark cave, is a master of poisons."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Cruma Core Room,@12003,,"The Cruma Core is the heart of the Cruma Tower.
 It guards the knowledge of the Lesser Giants that is sealed in Cruma Tower."
-90401,@90400,@12003,,@90400
-90402,@90400,@12003,,@90400
-90403,@90400,@12003,,@90400
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
 70003,God’s Gift,,,
 70004,@70003,,,
+100001,Altar of Madness,,,"The wizards of the <GreenBold>Ivory Tower</>
+endeavor to find a portion of the shards that were stolen.
+
+During their investigation
+they discovered <BlueBold>Leanis</>, one of the wizards 
+from the <GreenBold>Ivory Tower</>, had disappeared.
+While searching for her tracks
+they stumble upon a village where the <RedBold>Timak Orc Shamans</> live.
+
+The wizards deduce that <BlueBold>Laenis</> has been kidnapped
+by the <RedBold>Orcs</>
+and enter the village to save her.
+However, they are forced to retreat after experiencing 
+strength they had never encountered before from the <RedBold>Orcs</>.
+The wizards of the <GreenBold>Ivory Tower</> have doubled down
+on investigating the <RedBold>Orcs</>, and have recruited
+the <BlueBold>Silverlight Mercenaries</> to help rescue <BlueBold>Laenis</>."
+100002,@100001,,,@100001
+100101,Countess of Blood’s Boudoir,,,"The <RedBold>Countess Trisha</>, who was once dearly beloved
+by the Lord of Giran,
+
+suddenly disappeared, causing an uproar among the Giran nobility.
+They knew that if this information was leaked to the hostile land
+of Oren, they’d be put in an unfavorable situation politically.
+Knowing this, the Lord of Giran secretly deployed <BlueBold>Captain Tark</>
+to lead a search party to find her.
+
+After hearing that the <RedBold>Countess Trisha</> was last seen with
+her <RedBold>Guardian Knight</> in <GreenBold>Giran Harbor</>, <BlueBold>Captain Tark</> and
+his search party disguised themselves as Blood Rangers
+from the Devil’s Isle and secretly began searching <GreenBold>Devil’s Isle</>.
+However, after being exposed to various dangerous situations,
+<BlueBold>Captain Tark</> was forced to request help from the
+<BlueBold>Silverlight Mercenaries</>."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

@@ -1,0 +1,828 @@
+Id,Name,Desc,Desc2
+1001,20.000 Adena,Erhalte 20.000 Adena.,
+1002,42.000 Adena,Erhalte 40.000 Adena + 2.000 Bonus-Adena.,
+1003,88.000 Adena,Erhalte 80.000 Adena + 8.000 Bonus-Adena.,
+1004,184.000 Adena,Erhalte 160.000 Adena + 24.000 Bonus-Adena.,
+1005,384.000 Adena,Erhalte 320.000 Adena + 64.000 Bonus-Adena.,
+1006,800.000 Adena,Erhalte 640.000 Adena + 160.000 Bonus-Adena.,
+3001,1 Besond. Ausr.-Kiste,"Erhalte (S-SR)-Ausrüstung!
+Seltene Ausrüstung kann erhalten werden!",
+3002,Ges. Schriftr.: Waffe,"Gesegnete Schriftrolle: Waffe.
+Wird verwendet, um eine Waffe um 1-3 Levels aufzuwerten.",
+3003,Ges. Schriftr.: Rüst.,"Gesegnete Schriftrolle: Rüstung.
+Wird verwendet, um eine Rüstung um 1-3 Levels aufzuwerten.",
+3004,Ges. Schriftr.: Acc.,"Gesegnete Schriftrolle: Accessoire.
+Wird verwendet, um ein Accessoire um 1-3 Levels aufzuwerten.",
+3005,Maphrs Segen,"Schützt davor, durch gescheitertes Aufwerten Aufwertungslevel zu verlieren.",
+3006,St. SR-Limit-B.-Stein,Wird für einen Limit-Break eines Stufe-SR-Ausrüstungsteils verwendet.,
+3007,Stufe S-Attributstein,"Wird verwendet, um ein Attribut eines Ausrüstungsteils aufzuwerten.",
+3008,Stufe R-Attributstein,@3007,
+3009,St. SR-Attributstein,@3007,
+3011,1 Besond. Acc.-Kiste,Erhalte ein (S-SR)-Accessoire!,
+4001,20 LP-Tränke,"Wird verwendet, um einige LP wiederherzustellen.",
+4002,-10 %! 200 LP-Tränke,@4001,
+4005,20 MP-Tränke,"Wird verwendet, um einige MP wiederherzustellen.",
+4006,-10 %! 200 MP-Tränke,@4005,
+4009,500 Seelenschüsse,"Wird verwendet, um die Waffe mit spirituellem Licht zu erfüllen und so ihren Schaden zu erhöhen.",
+4010,-10 %! 5000 Seelens.,@4009,
+4013,1 Megafon,"Ein Gegenstand, der verwendet wird, um am Weltchat teilzunehmen.",
+4014,10 Megafone,@4013,
+4018,@4013,@4013,
+4019,@4014,@4013,
+4100,Kruzifix der Reue,"Wird verwendet, um den Chaoswert um 30 zu verringern.
+Du kannst Kreuze 3 Mal täglich verwenden.",
+4101,50 Schriftrollen des Entkommens,Wird zum Teleportieren verwendet.,
+4105,Nachthimmel-Feuerwerk,"Feuerwerk, das den Nachthimmel erleuchten kann. Sogar tagsüber.",
+4106,Silberlicht-Feuerwerk,"Feuerwerk, das wie ein Stern am Himmel strahlt.",
+4107,Wohlstands-Feuerwerk,"Feuerwerk, das das Streben nach Wohlstand symbolisiert.",
+4108,Liebes-Feuerwerk,"Besonderes Feuerwerk, das einen erfolgreichen Antrag garantiert.",
+5002,1 Hochstufige Ausr.,"Erhalte A-SR-Ausrüstung!
+Seltene Ausrüstung kann erhalten werden!",
+5003,10 Hochstufige Ausrüstungen (+1 Bonus),"Erhalte A-SR-Ausrüstung!
+1 Ausrüstungsteil der Stufe S oder höher ist garantiert!
+Seltene Ausrüstung kann erhalten werden!",
+5014,@5002,"Erhalte A-SR-Ausrüstung!
+Seltene Ausrüstung und handelbare Ausrüstung kann erhalten werden!",
+5015,@5003,"Erhalte A-SR-Ausrüstung!
+1 Ausrüstungsteil der Stufe S oder höher ist garantiert!
+Seltene Ausrüstung und handelbare Ausrüstung kann erhalten werden!",
+5101,1 Waffenstärkungskiste,"Waffen und Waffenlackierung (Stufe A-SR) verfügbar!
+Seltene Ausrüstungserhaltungsrate erhöht!
+Beim Erhalt seltener Ausrüstung können nur Waffen erhalten werden!",
+5102,10 Waffenstärkungskisten (+1 Bonus),@5101,
+5103,@5101,"(Stufe A – Stufe SR) Waffen und Waffenlackierungen möglich!
+Schriftrolle der Alchemie - Gesegnete Schriftrolle: Waffe / Rüstung / Accessoire möglich!",
+5104,@5102,"(Stufe A – Stufe SR) Waffen und Waffenlackierungen möglich!
+Schriftrolle der Alchemie - Gesegnete Schriftrolle: Waffe / Rüstung / Accessoire möglich!
+Kaufe 7 Mal, um eine garantierte rote Waffe Stufe S zu erhalten!",
+5201,1 Rüstungsstärkungskiste,"Rüstung und Rüstungslackierung (Stufe A-SR) erhältlich!
+Seltene Ausrüstungserhaltungsrate erhöht!
+Beim Erhalt seltener Ausrüstung kann nur Rüstung erhalten werden!",
+5202,10 Rüstungsstärkungskisten (+1 Bonus),@5201,
+5301,10 Besondere Materialkisten (+1 Bonus),"Verschiedene Stärkungsmaterialien, wie Gesegnete Schriftrollen, Maphrs Segen, Umhangsgarn,
+Wahnsinns-Scherben, Trishas Tränen und Seelenkristalle
+möglich!",
+10001,10 LP-Tränke,@4001,
+10002,10 MP-Tränke,@4005,
+10003,250 Seelenschüsse,@4009,
+10017,1 Ausrüstungskiste,Ausrüstung bis Stufe A verfügbar!,
+10020,Kreuz der Reue,"Verringert den Chaoswert eines Charakters.
+Jede Verwendung verringert den Chaoswert um 3 und du kannst diesen Effekt 3 Mal täglich verwenden.",
+10029,100 Rotsternsteine,"Verwenden, um Klan-Dungeons zurückzusetzen.",
+13000,Lv. 20 Q.-Schrift. C,"Wird verwendet, um an einer (Stufe C-Sub-Quest) teilzunehmen.",
+13001,Lv. 30 Q.-Schrift. C,@13000,
+13002,Lv. 40 Q.-Schrift. C,@13000,
+13003,Lv. 50 Q.-Schrift. C,@13000,
+13004,Lv. 60 Q.-Schrift. C,@13000,
+13005,Lv. 75 Q.-Schrift. C,@13000,
+13006,Lv. 90 Q.-Schrift. C,@13000,
+13007,Lv. 105 Q.-Schrift. C,@13000,
+13008,Lv. 120 Q.-Schrift. C,@13000,
+13009,Lv. 135 Q.-Schrift. C,@13000,
+13010,Lv. 150 Q.-Schrift. C,@13000,
+13011,Lv. 165 Q.-Schrift. C,@13000,
+13100,Lv. 20 Q.-Schrift. A,"Wird verwendet, um an einer (Stufe A-Sub-Quest) teilzunehmen.",
+13101,Lv. 30 Q.-Schrift. A,@13100,
+13102,Lv. 40 Q.-Schrift. A,@13100,
+13103,Lv. 50 Q.-Schrift. A,@13100,
+13104,Lv. 60 Q.-Schrift. A,@13100,
+13105,Lv. 75 Q.-Schrift. A,@13100,
+13106,Lv. 90 Q.-Schrift. A,@13100,
+13107,Lv. 105 Q.-Schrift. A,@13100,
+13108,Lv. 120 Q.-Schrift. A,@13100,
+13109,Lv. 135 Q.-Schrift. A,@13100,
+13110,Lv. 150 Q.-Schrift. A,@13100,
+13111,Lv. 165 Q.-Schrift. A,@13100,
+13200,Lv. 20 Q.-Schrift. S,"Wird verwendet, um an einer (Stufe S-Sub-Quest) teilzunehmen.",
+13201,Lv. 30 Q.-Schrift. S,@13200,
+13202,Lv. 40 Q.-Schrift. S,@13200,
+13203,Lv. 50 Q.-Schrift. S,@13200,
+13204,Lv. 60 Q.-Schrift. S,@13200,
+13205,Lv. 75 Q.-Schrift. S,@13200,
+13206,Lv. 90 Q.-Schrift. S,@13200,
+13207,Lv. 105 Q.-Schrift. S,@13200,
+13208,Lv. 120 Q.-Schrift. S,@13200,
+13209,Lv. 135 Q.-Schrift. S,@13200,
+13210,Lv. 150 Q.-Schrift. S,@13200,
+13211,Lv. 165 Q.-Schrift. S,@13200,
+30001000,60 + 60 Diamanten,"60 Blaue Diamanten
+60 Rote Diamanten",
+30001010,Nur 1x! 2x 90 Diam.,"90 Blaue Diamanten
+90 Rote Diamanten
+2 Topase",
+30001020,Nur 1x! 2x 160 Diam.,"160 Blaue Diamanten
+160 Rote Diamanten
+4 Topase",
+30001030,Nur 1x! 2x 340 Diam.,"340 Blaue Diamanten
+340 Rote Diamanten
+8 Topase",
+30001040,80 + 80 Diamanten,"80 Blaue Diamanten
+80 Rote Diamanten",
+30001050,700 Diamanten (20 %),"700 Blaue Diamanten
+16 Topase",
+30001060,1.080 Diamanten (20 %),"1.080 Blaue Diamanten
+25 Topase",
+30001070,1.900 Diamanten (10 %),"1.900 Blaue Diamanten
+45 Topase",
+30001080,1.900 Diamanten (20 %),@30001070,
+30001090,4.000 Diamanten (10 %),"4.000 Blaue Diamanten
+100 Topase",
+30001100,4.000 Diamanten (20 %),@30001090,
+30001110,4.000 Diamanten (30 %),@30001090,
+30001120,4.000 + 2.000 Diamanten,"4.000 Blaue Diamanten
+2.000 Rote Diamanten",
+30001130,1.080 + 540 Diamanten,"1.080 Blaue Diamanten
+540 Rote Diamanten",
+30001140,1.080 + 108 Diamanten,"1.080 Blaue Diamanten
+108 Rote Diamanten",
+30001150,1.080 + 216 Diamanten,"1.080 Blaue Diamanten
+216 Rote Diamanten",
+30001160,1.900 + 190 Diamanten,"1.900 Blaue Diamanten
+190 Rote Diamanten",
+30001170,1.900 + 380 Diamanten,"1.900 Blaue Diamanten
+380 Rote Diamanten",
+30001180,4.000 + 400 Diamanten,"4.000 Blaue Diamanten
+400 Rote Diamanten",
+30001190,4.000 + 800 Diamanten,"4.000 Blaue Diamanten
+800 Rote Diamanten",
+30001200,Nur 1x! 30 + 60 Diam.,"30 Blaue Diamanten
+60 Rote Diamanten
+1 Topas",
+30002000,90 Diamanten,"90 Blaue Diamanten
+2 Topase",
+30002010,160 Diamanten,"160 Blaue Diamanten
+4 Topase + 8 Topase",
+30002020,340 Diamanten,"340 Blaue Diamanten
+8 Topase + 16 Topase",
+30002030,700 Diamanten,"700 Blaue Diamanten
+16 Topase + 32 Topase",
+30002040,1080 Diamanten,"1.080 Blaue Diamanten
+25 Topase + 50 Topase",
+30002050,1900 Diamanten,"1.900 Blaue Diamanten
+45 Topase + 90 Topase",
+30002060,4000 Diamanten,"4.000 Blaue Diamanten
+100 Topase + 200 Topase",
+30002070,60 Diamanten,"60 Blaue Diamanten
+1 Topas",
+30002080,@30002010,"160 Blaue Diamanten
+4 Topase",
+30002090,@30002020,"340 Blaue Diamanten
+8 Topase",
+30002100,@30002030,@30001050,
+30002110,@30002040,@30001060,
+30002120,@30002050,@30001070,
+30002130,@30002060,@30001090,
+30003000,Tägliches Diamantenpaket I (28 Tage),"Erhalte sofort 1.200 Rote Diamanten!
+Täglich 120 Rote Diamanten!
++10 Topase nach jeder 8. Tagessammlung!",Insgesamt 4.560 Rote Diamanten!
+30003100,Tägliche Adena I (28 Tage),"50.000 Adena sofort!
+Täglich 10.000 Adena!
++ 40 Rote Diamanten zu jeder 8. Sammlung!",Insgesamt 330.000 Adena!
+30003101,Tägliche Adena II (28 Tage),"Sofort 160.000 Adena!
+30.000 Adena täglich!
++ 80 Rote Diamanten zu jeder 8. Tagessammlung!",Insgesamt 1 Millionen Adena!
+30004000,Selt. Exkl. Ausrüstungskiste Stufe S,Erhalte 1 Seltene Exklusive Ausrüstungskiste Stufe S.,
+30004001,Hochstufige Accessoirekiste,Erhalte 1 Hochstufige Accessoirekiste.,
+30004002,SR-Limit-Break-Stein,Erhalte 1 Stufe SR-Limit-Break-Stein.,
+30004003,R-Attributstein,Erhalte 1 Stufe R-Attributstein.,
+30004004,@3002,@3002,
+30004005,@3003,@3003,
+30004006,@3004,@3004,
+30004007,Gesegnete-Schriftrollen-Zufallskiste,Erhalte eine zufällige Gesegnete Schriftrolle.,
+30004008,3 Gesegnete-Schriftrollen-Zufallskisten,@30004007,
+30004100,Bindende Hornflöte (Silberheiliger),Erhalte 1 Bindende Hornflöte (Silberheiliger).,
+30004101,Bindende Hornflöte (Kukurin),Erhalte 1 Bindende Hornflöte (Kukurin).,
+30004102,10 Limit-Break-Energie,Erhalte 10 Limit-Break-Energie.,
+30004103,10 Attribut-Energie,Erhalte 10 Attribut-Energie.,
+30004104,Alch. Schriftr. - Stufe S-Attributstein,Erhalte 1 Alchemie Schriftrolle - Stufe S-Attributstein.,
+30004105,Alch. Schriftr. - Stufe R-Attributstein,Erhalte 1 Alchemie Schriftrolle - Stufe R-Attributstein.,
+30004106,Alch. Schriftr. - Stufe SR-Attributstein,Erhalte 1 Alchemie Schriftrolle - Stufe SR-Attributstein.,
+30004107,Alch. Schriftr. - Stufe SR-LB-Stein,Erhalte 1 Alchemie Schriftrolle - Stufe SR-Limit-Break-Stein.,
+30004108,Alch. Schriftr. - Ges. Schriftr.: Waffe,Erhalte 1 Alchemie Schriftrolle - Gesegnete Schriftrolle: Waffe.,
+30004109,Alch. Schriftr. - Ges. Schriftr.: Rüst.,Erhalte 1 Alchemie Schriftrolle - Gesegnete Schriftrolle: Rüstung,
+30004110,Alch. Schriftr. - Ges. Schriftr.: Acc.,Erhalte 1 Alchemie Schriftrolle - Gesegnete Schriftrolle: Accessoire,
+30004111,200 Schwarzbär-Beschw.-fragm.,"Binden, um einen Schwarzbär-Beschwörungsstein herzustellen.",
+30004112,150 Silberheiliger-Beschw.-fragm.,"Binden, um einen Silberheiliger-Beschwörungsstein herzustellen.",
+30004113,100 Kukurin-Beschw.-fragm.,"Binden, um einen Kukurin-Beschwörungsstein herzustellen.",
+30004114,@30004104,@30004104,
+30004115,@30004105,@30004105,
+30004116,@30004108,@30004108,
+30004117,@30004109,@30004109,
+30004118,@30004110,@30004110,
+30004119,5 Schwarzbär-Beschwörungssteinfragmente,@30004111,
+30004120,5 Silberheiliger-Beschwörungssteinfragm.,@30004112,
+30004121,5 Kukurin-Beschwörungssteinfragmente,@30004113,
+30004122,Alchemie-SR - ANG-Elixieressenz,"In diesem Dokument steht die Formel zur Herstellung von ANG-Elixieressenzen. Binde Kräuter, um ANG-Elixieressenzen zu erhalten.",
+30004123,Alchemie-SR - VER-Elixieressenz,"In diesem Dokument steht die Formel zur Herstellung von VER-Elixieressenzen. Binde Kräuter, um VER-Elixieressenzen zu erhalten.",
+30004124,Alchemie-SR - LP-Elixieressenz,"In diesem Dokument steht die Formel zur Herstellung von LP-Elixieressenzen. Binde Kräuter, um LP-Elixieressenzen zu erhalten.",
+30004125,Alchemie-SR - MP-Elixieressenz,"In diesem Dokument steht die Formel zur Herstellung von MP-Elixieressenzen. Binde Kräuter, um MP-Elixieressenzen zu erhalten.",
+30004126,50 Fortschrittssteine,"Verwende Fortschrittssteine, um deine Reitbegleiter zu stärken.",
+30004200,Gesegnete-Schriftrolle-Auswahlkiste,Erhalte 1 Gesegnete-Schriftrolle-Auswahlkiste.,
+30004201,3 Verbesserungsstein-Auswahlkisten,"Wird verwendet, um einen Verbesserungsstein auszuwählen und zu erhalten.",
+30004202,3 Verbesserungsstein-Zufallskisten,"Wird verwendet, um einen zufälligen Verbesserungsstein zu erhalten.",
+30004203,3 Elixieressenz-Auswahlkisten,"Wird verwendet, um eine Elixieressenz auszuwählen und zu erhalten.",
+30004204,3 Elixieressenz-Zufallskisten,"Wird verwendet, um eine zufällige Elixieressenz zu erhalten.",
+30004205,@3005,@3005,
+30004206,10 Aufwertungsrollen-Auswahlkisten,"Wird verwendet, um eine Aufwertungsrolle auszuwählen und zu erhalten.",
+30004207,10 Aufwertungsrollen-Zufallskisten,"Wird verwendet, um eine zufällige Aufwertungsrolle zu erhalten.",
+30004208,10 Schriftrollen: Waffenaufwertung,Diese Schriftrolle wertet Waffen auf und erhöht Werte.,
+30004209,10 Schriftrollen: Rüstungsaufwertung,Diese Schriftrolle wertet Rüstungen auf und erhöht Werte.,
+30004210,10 Schriftrollen: Accessoireaufwertung,Diese Schriftrolle wertet Accessoires auf und erhöht Werte.,
+30004211,3 LP-Elixieressenzen,Diese Essenz wird zur Herstellung von LP-Elixieren verwendet.,
+30004212,3 MP-Elixieressenzen,Diese Essenz wird zur Herstellung von MP-Elixieren verwendet.,
+30004213,3 ANG-Elixieressenzen,Diese Essenz wird zur Herstellung von ANG-Elixieren verwendet.,
+30004214,3 VER-Elixieressenzen,Diese Essenz wird zur Herstellung von VER-Elixieren verwendet.,
+30004215,15 Waffen-Verbesserungssteine,"Wird verwendet, um Waffen auf ihre nächste Stufe zu bringen.",
+30004216,15 Rüstung-Verbesserungssteine,"Wird verwendet, um Rüstungen auf ihre nächste Stufe zu bringen.",
+30004217,15 Accessoire-Verbesserungssteine,"Wird verwendet, um Accessoires auf ihre nächste Stufe zu bringen.",
+30004218,5 Lackierungs-Auswahlkisten Stufe S,"Wird verwendet, um eine Lackierung Stufe S auszuwählen und zu erhalten.",
+30004219,5 Verbesserungsstein-Zufallskisten,@30004202,
+30004220,10 Verbesserungsstein-Auswahlkisten,@30004201,
+30004221,@30004220,@30004201,
+30004222,5 Lackierungs-Auswahlkisten Stufe R,"Wird verwendet, um eine Lackierung Stufe R auszuwählen und zu erhalten.",
+30004223,5 Lackierungs-Auswahlkisten Stufe SR,"Wird verwendet, um eine Lackierung Stufe SR auszuwählen und zu erhalten.",
+30004224,10 Waffen-Verbesserungssteine,@30004215,
+30004225,10 Rüstung-Verbesserungssteine,@30004216,
+30004226,10 Accessoire-Verbesserungssteine,@30004217,
+30004227,5 Aufwertungsrollen-Auswahlkisten,@30004206,
+30004228,5 Schriftrollen: Waffenaufwertung,@30004208,
+30004229,5 Schriftrollen: Rüstungsaufwertung,@30004209,
+30004230,5 Schriftrollen: Accessoireaufwertung,@30004210,
+30004231,3 Gesegnete-Schriftrolle-Auswahlkisten,Erhalte 3 Gesegnete-Schriftrolle-Auswahlkiste.,
+30004232,3 Ges. Schriftr.: Waffen,@3002,
+30004233,3 Ges. Schriftr.: Rüst.,@3003,
+30004234,3 Ges. Schriftr.: Acc.,@3004,
+30004235,@30004102,@30004102,
+30004236,20 Attribut-Energie,Erhalte 20 Attribut-Energie.,
+30004237,@30004108,@30004108,
+30004238,@30004109,@30004109,
+30004239,@30004110,@30004110,
+30004240,100 Schwarzbär-Beschwörungssteinfragmente,@30004111,
+30004241,100 Silberheiliger-Beschwörungssteinfragm.,@30004112,
+30004242,@30004126,@30004126,
+30004300,3 Seelenkristall-Auswahlkisten Stufe A,Erhalte eine Seelenkristall-Auswahlkiste Stufe A.,
+30004301,Seelenkristall-Auswahlkiste Stufe S,Erhalte eine Seelenkristall-Auswahlkiste Stufe S.,
+30004302,Seelenkristall-Zufallskiste Stufe B-S,Erhalte 1 Seelenkristall-Zufallskiste Stufe B-S.,
+30004303,Seelenkristall des ANG (Stufe A),"Du kannst Waffen und Handschuhe mit Seelen erfüllen.
+Das erhöht deinen P-ANG und M-ANG.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004304,Seelenkristall der VER (Stufe A),"Du kannst Kopfschutz und Rüstung mit Seelen erfüllen.
+Das erhöht deine P-VER und M-VER.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004305,Seelenkristall der Durchdr. (Stufe A),"Du kannst Ringe mit Seelen erfüllen.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004306,Seelenkristall der Zähigkeit (Stufe A),"Du kannst Ohrringe mit Seelen erfüllen.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004307,Seelenkristall der Genauigkeit (Stufe A),"Du kannst Stiefel und Halsketten mit Seelen erfüllen.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004308,Seelenkristall des Ausweichens (Stufe A),@30004307,
+30004309,Seelenkristall der Krit. Rate (St. A),"Du kannst Waffen und Handschuhe mit Seelen erfüllen.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004310,Seelenkristall d. Krit. Widerst. (St. A),@30004306,
+30004311,Seelenkristall der LP (Stufe A),"Du kannst Kopfschutz und Rüstung mit Seelen erfüllen.
+Dieser Kristall enthält die Seelen von Monstern.",
+30004312,3 Seelenkristalle des ANG (Stufe B),@30004303,
+30004313,3 Seelenkristalle der VER (Stufe B),@30004304,
+30004314,3 Seelenkristalle der Durchdr. (St. B),@30004305,
+30004315,3 Seelenkristalle der Zähig. (Stufe B),@30004306,
+30004316,3 Seelenkristalle der Genauig. (Stufe B),@30004307,
+30004317,3 Seelenkristalle des Ausw. (Stufe B),@30004307,
+30004318,3 Seelenkristalle der Krit. Rate (St. B),@30004309,
+30004319,3 Seelenkrist. d. Krit. Widerst. (St. B),@30004306,
+30004320,3 Seelenkristalle der LP (Stufe B),@30004311,
+30110000,Luxus-Starter-Paket,"600 Blaue Diamanten
+1.000 LP-Tränke
+1.000 MP-Tränke
+5.000 Seelenschüsse
+120 zusätzliche Inventarslots",
+30110001,Luxus-Inventar-Paket,"1.500 Blaue Diamanten
+1.000 LP-Tränke
+1.000 MP-Tränke
+10.000 Seelenschüsse
+100 zusätzliche Inventarslots",
+30110011,Besonderes Seltene-Fertigkeit-Aufwertungspaket,"500.000 Adena
+3 Vergessene-Schriftrollenseiten-Auswahlkisten
+3 Aufwertungsschriftrollenpakete
+500 FP
+30 Schriftrollen des Entkommens",
+30110012,Besonderes Seltene-Fertigkeit-Aufwertungspaket (10 %),@30110011,
+30110013,Besonderes Seltene-Fertigkeit-Aufwertungspaket (20 %),@30110011,
+30110014,Selt.-Fertigk.-Kraft-Paket,"250.000 Adena
+2 Vergessene-Schriftrollenseiten-Auswahlkisten
+5 Aufwertungsschriftrollen-Zufallskisten
+3 kleine FP-Kisten
+20 Schriftrollen des Entkommens",
+30110015,Paket des jüngeren Abenteurers,"600 Blaue Diamanten
+600 Rote Diamanten
+1 Exklusive Waffen-Auswahlkiste
+Stufe S
+1.000 Runenfragmente",
+30110016,Paket des älteren Abenteurers,"2.000 Blaue Diamanten
+2.000 Rote Diamanten
+1 Ausrüstungs-Auswahlkiste Stufe R
+10 Verbesserungsstein-Auswahlkisten
+10 Lackierungs-Auswahlkisten Stufe S",
+30110017,Paket des erfahr. Abenteurers,"2.000 Blaue Diamanten
+2.000 Rote Diamanten
+1 Accessoire-Auswahlkiste Stufe R
+1 Attributstein Stufe R",
+30120005,Runenprägung-Sonderpaket,"150.000 Adena
+3.000 Runenfragmente",
+30120007,FP-Paket,"360 Rote Diamanten
+1 FP-Kiste (500 Punkte)",
+30120008,Hochstufiges FP-Paket,"1.200 Rote Diamanten
+100.000 Adena
+3 FP-Kisten (500 FP)",
+30120009,Accessoire-Beschwör.-Paket,"2.500 Rote Diamanten
+50 Topase
+150.000 Adena
+3 Hochstufige Accessoirekisten",
+30120010,Elixier-Sonderpaket,"20 Elixieressenz-Auswahlkisten
+40 Kräuterpakete",
+30120011,Adena-Sonderpaket (Limitierte Auflage),1.000.000 Adena,
+30120012,Accessoire-Beschwör.-Paket 10%,@30120009,
+30120013,Accessoire-Beschwör.-Paket 20%,@30120009,
+30120014,"""Seltene Fertigkeit""-Paket","300 Rote Diamanten
+100.000 Adena
+1 Zuf. Vergessene-Schriftrollenseiten-Kiste",
+30130000,Niedrigstuf. Aufwertungsrollen-Paket,"300 Blaue Diamanten
+20 Topase
+3 Aufwertungsrollenpakete",
+30130001,Hochstufiges Aufwertungsrollen-Paket,"1.000 Rote Diamanten
+50 Topase
+5 Aufwertungsschriftrollenpakete
+1 Maphrs Segen",
+30130002,Besond. Verbesserungsst.-Auswahlpaket,"3.000 Rote Diamanten
+200.000 Adena
+40 Verbesserungsstein-Auswahlkisten",
+30130003,Ausrüstungsstärkungspaket Stufe A,"200.000 Adena
+10 Lackierungs-Auswahlkisten Stufe A",
+30130004,Ausrüstungsstärkungspaket Stufe S,"300.000 Adena
+5 Lackierungs-Auswahlkisten Stufe S
+10 Lackierungs-Auswahlkisten Stufe A",
+30130005,Ausrüstungsstärkungspaket Stufe R,"500.000 Adena
+3 Lackierungs-Auswahlkisten Stufe R
+10 Lackierungs-Auswahlkisten Stufe S",
+30130006,Gesegnete-Schriftrolle-Paket,"1.200 Rote Diamanten
+20 Topase
+5 Gesegnete-Schriftrolle-Auswahlkisten
+10 Aufwertungsrollen-Auswahlkisten",
+30130007,Seelenkristall-Paket,"1.000 Rote Diamanten
+50.000 Adena
+7 Seelenkristall-Zufallskisten Stufe A-S",
+30130008,Premium-Seelenkristall-Paket II,"1.000 Rote Diamanten
+100.000 Adena
+3 Seelenkristall-Zufallskisten Stufe S-R",
+30130009,Premium-Seelenkristall-Paket III,"2.000 Rote Diamanten
+200.000 Adena
+3 Seelenkristall-Zufallskisten Stufe S-SR",
+30130010,Paket: Seltene Rüstungskiste Stufe S,"120 Rote Diamanten
+1 Seltene Rüstungskiste Stufe S",
+30130011,Gesegnetes Schutzpaket,"500 Blaue Diamanten
+500 Rote Diamanten
+5 Gesegnete-Schriftrolle-Auswahlkisten
+5 Maphrs Segen",
+30130012,Limit-Break-Paket Stufe SR,"100.000 Adena
+1 Limit-Break-Stein Stufe SR",
+30130013,Hochstuf. Aufwertungsrollenpaket 10%,@30130001,
+30130014,Besond. Verbesserungsstein-Paket (10 %),@30130002,
+30130015,Besond. Verbesserungsstein-Paket (20 %),@30130002,
+30130016,Gesegnete-Schriftrolle-Paket 10 %,@30130006,
+30130017,Paket: Seltene Ausrüstungskiste Stufe S,"300 Rote Diamanten
+1 Selten-Exklusive Ausrüstungskiste Stufe S.",
+30130018,Accessoirepaket Stufe A,"300 Rote Diamanten
+1 Accessoirekiste Stufe A",
+30130019,Ausrüstungspaket Stufe S,"1 Exklusive Waffenkiste der Stufe S
+1 Exklusive Rüstungskiste der Stufe S",
+30150000,Reitbegleiter-Stärkungspaket I,"100.000 Adena
+40 Fortschrittssteine
+10 Reitbegl.-Ausrüstungslack. Stufe B
+5 Reitbegleiter-Aufwertungsschriftrollen",
+30150001,Reitbegleiter-Stärkungspaket II,"150.000 Adena
+80 Fortschrittssteine
+10 Reitbegl.-Ausrüstungslack. Stufe A
+5 Reitbegleiter-Aufwertungsschriftrollen",
+30150002,Reitbegleiter-Stärkungspaket III,"300.000 Adena
+120 Fortschrittssteine
+10 Reitbegl.-Ausrüstungslack. Stufe S
+10 Reitbegleiter-Aufwertungsschriftrollen",
+30150003,Silberheiliger-Beschwörungspaket,"1.000 Blaue Diamanten
+1 Bindende Hornflöte (Silberheiliger)
+1 Silberheiliger-Beschwörungsstein
+40 Fortschrittssteine
+5 Reitbegleiter-Aufwertungsschriftrollen",
+30150004,Kukurin-Beschwörungspaket,"1.500 Blaue Diamanten
+1 Bindende Hornflöte (Kukurin)
+1 Kukurin-Beschwörungsstein
+40 Fortschrittssteine
+5 Reitbegleiter-Aufwertungsschriftrollen",
+30160000,Stärkungsdiamant I,"Erhalte sofort b. z. 1.500 Rote Diamanten und 1 Waffen-Beschw.-Kiste Stufe A!
+Erhalte b. z. 8.500 Rote Diamanten, Exklusive Rüst.-Kiste Stufe A oder 1 Seelenkristall-Ausw.-Kiste Stufe C-B!",
+30160001,Stärkungsdiamant II,"Erhalte sofort b. z. 1.500 Rote Diamanten und 1 Exkl. Waffen-Beschw.-Kiste Stufe S!
+Erhalte 8.500 Rote Diamanten, 1 Exklusive Rüst.-Kiste Stufe S und 1 Seelenkristall-Ausw.-Kiste Stufe B-A!",
+30160002,Stärkungsdiamant III,"Du kannst sofort bis zu 1.500 Rote Diamanten und einen Attributstein Stufe S erhalten! 
+Erhalte bis zu 8.500 Rote Diamanten, eine Seelenkristall-Auswahlkiste Stufe A und/oder einen Attributstein Stufe S!",
+30170000,Handlung I,"Erhalte sofort 1.000 Rote Diamanten + eine Belohnung, jedes Mal, wenn du eine Handlung vor der Dion-Handlung abschließt!
+Du erhältst sogar Belohnungen für Handlungen, die du vor dem Kauf abgeschlossen hast!",
+30170001,Handlung II,"Erhalte jetzt 2.000 Rote Diamanten + Maphrs Segen und eine Belohnung, jedes Mal, wenn du eine Handlung vor der Giran-Handlung abschließt!
+Du erhältst sogar Belohnungen für Handlungen, die du vor dem Kauf abgeschlossen hast!",
+39005000,1 Hochstufige Stärkungsmaterialkiste,"Verschiedene Stärkungsmaterialien
+wie Lackierung, Aufwertungsrolle, Elixier-Materialien und Maphrs Segen sind verfügbar!",
+39005001,Stärkungsmaterialkiste (Hochstufig) 10+1,@39005000,
+39005002,@39005000,@39005000,
+39005003,@39005001,"Verschiedene Stärkungsmaterialien
+wie Lackierung, Aufwertungsrolle, Elixier-Materialien und Maphrs Segen sind verfügbar!
+100% Garantie um eine Stufe R oder eine höhere Lackierung zu erhalten!",
+39005004,1 Reitbegleiter-Materialkiste,"Kann Reitbegleiter-Ausrüstung,
+Fortschrittsstein, Beschwörungsstein,
+Reitbegleiterausrüstung-
+Aufwertungsrolle enthalten!",
+39005005,Reitbegleiter-Materialkiste 10+1,@39005004,
+39005010,1 Hochstufige Reitbegleiter-Materialkiste,"Reitbegleiter-Hornflöte, Beschwörungsstein, Beschwörungssteinfragment,
+Reitbegleiter-Ausrüstung, Reitbegleiter-Aufwertungsschriftrolle und Fortschrittsstein verfügbar!
+(Mähnenlöwen-Hornflöte, Beschwörungsstein und Beschwörungssteinfragment enthalten)",
+39005011,10 Hochstufige Reitbegleiter-Materialkisten (+1 Bonus),@39005010,
+30014000,Auto-Erl.-Ausw.-K.,"Wird verwendet, um 1 Auto-Erledigen-Ticket auszuwählen und zu erhalten.",
+30014001,@10029,@10029,
+30014002,10 FP,Diese Punkte werden zur Verbesserung von Fertigkeiten verwendet.,
+30014003,5 Fragmente von Maphrs Segen,Durch das Kombinieren von Fragmenten erhältst du Maphrs Segen.,
+30014004,Aufwertungsrollen-Auswahlkiste,Erhalte 1 Aufwertungsschriftrollen-Auswahlkiste.,
+30014005,Beschwörungssteinkiste für selt. Monster,"Wird verwendet, um zufällige Beschwörungssteine für seltene Monster zu erhalten.",
+30014006,10 Boss-Beschw.-Fragmentkisten,"Wird verwendet, um zufällige Monster-Beschwörungssteinfragmente zu erhalten.",
+30014007,Elixieressenz-Auswahlkiste,"Wird verwendet, um 1 Elixieressenz auszuwählen und zu erhalten.",
+30014008,Ausrüstungs-Lackierungskiste Stufe C-A,Erhalte 1 Ausrüstungs-Lackierungskiste Stufe C-A,
+30014009,@5002,@5002,
+30014010,@39005000,@39005000,
+30014011,@3006,@3006,
+30014012,@3009,@3007,
+30010001,@30014000,@30014000,
+38000000,340 Diamanten (Event),"340 Blaue Diamanten
+5 Lackierungs-Auswahlkisten Stufe A",
+38000001,@30001050,"700 Blaue Diamanten
+10 Aufwertungsrollen-Auswahlkisten",
+38000002,@30001060,"1080 Diamanten
+10 Verbesserungsstein-Auswahlkisten",
+38000003,@30001110,"4000 Diamanten
+30 Verbesserungsstein-Auswahlkisten",
+30130020,Gedenk-Ausrüstungsstärkungspaket Stufe R für das Offene Belagerungs-Update,"200.000 Adena
+2 Lackierungs-Auswahlkisten Stufe R
+5 Lackierungs-Auswahlkisten Stufe S",
+30130021,Gedenk-Aufwertungspaket Stufe R für das Offene Belagerungs-Update,"1.000 Rote Diamanten
+50 Topase
+5 Aufwertungsschriftrollenpakete
+3 Maphrs Segen",
+30110018,Ebene-1-Päckchen,Ebene-1-Päckchen wurde gekauft.,
+30110019,Ebene-2-Päckchen,Ebene-2-Päckchen wurde gekauft.,
+30110020,Ebene-3-Päckchen,Ebene-3-Päckchen wurde gekauft.,
+30110021,Ebene-5-Päckchen,Ebene-5-Päckchen wurde gekauft.,
+30110022,Ebene-10-Päckchen,Ebene-10-Päckchen wurde gekauft.,
+30110023,Ebene-16-Päckchen,Ebene-16-Päckchen wurde gekauft.,
+30110024,Ebene-20-Päckchen,Ebene-20-Päckchen wurde gekauft.,
+30110025,Ebene-24-Päckchen,Ebene-24-Päckchen wurde gekauft.,
+30110026,Ebene-30-Päckchen,Ebene-30-Päckchen wurde gekauft.,
+30110027,Ebene-40-Päckchen,Ebene-40-Päckchen wurde gekauft.,
+30110028,Ebene-45-Päckchen,Ebene-45-Päckchen wurde gekauft.,
+30110029,Ebene-50-Päckchen,Ebene-50-Päckchen wurde gekauft.,
+30110030,Ebene-54-Päckchen,Ebene-54-Päckchen wurde gekauft.,
+30110031,Ebene-56-Päckchen,Ebene-56-Päckchen wurde gekauft.,
+30110032,Ebene-58-Päckchen,Ebene-58-Päckchen wurde gekauft.,
+30110033,Ebene-60-Päckchen,Ebene-60-Päckchen wurde gekauft.,
+5022,10 Hochstufige Stärkungskisten (+1 Bonus),"Verschiedene Stärkungsmaterialien
+wie Seelenkristalle, Aufwertungsrollen, Elixieressenzen und Maphrs Segen sind verfügbar! Erhalte verschiedene Stärkungsmaterialien!",
+6002,Waffen-Verbesserungsstein,"Ein Gegenstand, der verwendet wird, um
+eine Waffe zu verbessern.",
+6003,Rüstung-Verbesserungsstein,"Ein Gegenstand, der verwendet wird, um
+ein Rüstungsteil zu verbessern.",
+6004,Accessoire-Verbesserungsstein,"Ein Gegenstand, der verwendet wird, um
+ein Accessoire zu verbessern.",
+6005,Schriftrolle: Waffenaufwertung,"Eine Schriftrolle, die verwendet wird, um
+eine Waffe aufzuwerten.",
+6006,Schriftrolle: Rüstungsaufwertung,"Eine Schriftrolle, die verwendet wird, um
+ein Rüstungsteil aufzuwerten.",
+6007,Schriftrolle: Accessoireaufwertung,"Eine Schriftrolle, die verwendet wird, um
+ein Accessoire aufzuwerten.",
+6008,@3005,@3005,
+6015,Auswahlkiste für Gruppen-Boss-BS,"Wird verwendet, um einen
+Boss-Beschwörungsstein auszuwählen und zu erhalten.",
+6020,1 Besondere Waffenkiste,"Erhalte eine (S-SR)-Waffe!
+Seltene Ausrüstung kann erhalten werden!",
+6021,1 Besondere Rüstungskiste,"Erhalte ein (S-SR)-Rüstungsteil!
+Seltene Ausrüstung kann erhalten werden!",
+6022,1 Besondere Fortschrittskiste,"Ausrüstung (Stufe R-SR) oder Seltene Ausrüstung (Stufe S-SR)
+verfügbar!",
+8002,Login-Diamant,"Erhalte sofort 600 Rote Diamanten!
+Erhalte insgesamt 2.000 Rote Diamanten und täglich Runen, Kräuter und Schriftrollen!",
+30004243,Einhasads Segen (+200 %),"Wird verwendet, um gewonnene Feldjagd-ERF und Entnahme-ERF um 200 % zu erhöhen. (1 Stunde lang)",
+30004244,1500 Seelenschüsse,@4009,
+30004245,@10029,@10029,
+30004246,5 Schriftrollen des Entkommens,@4101,
+30004247,15 Megafone,@4013,
+30004248,50 Frisch gebackenes Brot,Wird in der Klanhalle beim Vorbereiten von Festmählern verwendet.,
+30004249,50 Frisches Gemüse,@30004248,
+30004250,50 Saftiges Fleisch,@30004248,
+30004251,Silberbart-Kern,"Monsterkern, der Energie enthält von: Silberbart.
+Im Monsterkodex registrieren, um deine Werte zu erhöhen.",
+30004252,Kleine FP-Kiste,"Diese kleine Kiste enthält FP.
+Verwende sie, um 100 FP zu erhalten.",
+30004253,Questschriftrollenkiste Stufe S,"Wird verwendet, um eine Stufe S Questschriftrolle zu erlangen",
+30004254,20 Starke LP-Tränke,"Wird verwendet, um viele LP wiederherzustellen.",
+30004255,20 Starke MP-Tränke,"Wird verwendet, um viele MP wiederherzustellen.",
+30004256,@30004307,@30004307,
+30004257,@30004308,@30004307,
+30004258,@30004309,@30004309,
+30004259,@30004310,@30004306,
+30004260,@30004311,@30004311,
+30004261,@30004001,@30004001,
+30004262,10 Kräuterpaket,"Diese Kiste enthält zum Herstellen von Elixieren benötigte Kräuter.
+Verwende sie, um ein Kraut jeden Typs zu erhalten.",
+30004263,Seelenkristall-Zufallskiste Stufe A-S,Erhalte 1 Seelenkristall-Zufallskiste Stufe A-S.,
+30004264,@30004303,@30004303,
+30004265,@30004304,@30004304,
+30004266,@30004305,@30004305,
+30004267,@30004306,@30004306,
+30004268,@30004003,@30004003,
+30004269,3 Reitbegl.-Ausr.-Aufw.-Rollen,Diese Schriftrolle erhöht die Werte und wertet auf: Reitbegleiter-Ausrüstung.,
+30004270,Accessoire-Auswahlkiste Stufe S,"Wird verwendet, um ein aufgelistetes Stufe S-Accessoire auszuwählen und zu erhalten.",
+30004271,Vergessene-Schriftrollenseiten-Auswahlkiste,Wähle und erhalte eine aufgelistete Vergessene Schriftrollenseite.,
+30004272,@30004002,@30004002,
+30004273,@3005,@3005,
+30004274,Feiertags-Stärkungspaket,"<Die folgenden Gegenstände sind verfügbar!>
+500.000 Adena
+5 Lackierungs-Auswahlkisten Stufe R
+2 Lackierungs-Auswahlkisten Stufe SR
+15 Verbesserungsstein-Auswahlkisten",
+30004275,Besonderes Adena-Paket 2018,"Festhalten!
+2.018.000 Adena!",
+30005015,Nur 1x! 10 Hochstufige Ausrüstungen (+1 Stufe R),"Erhalte A-SR-Ausrüstung!
+1 Ausrüstungsteil der Stufe R oder höher ist garantiert!",
+30005016,Seltene Ausrüstungsbox für den Urlaub,@30004000,
+30004276,@30004243,@30004243,
+30004277,@30004244,@4009,
+30004278,@10029,@10029,
+30004279,@30004246,@4101,
+30004280,@30004252,@30004252,
+30004281,100 Starke LP-Tränke,"Wird verwendet, um viele LP wiederherzustellen.",
+30004282,100 Starke MP-Tränke,"Wird verwendet, um viele MP wiederherzustellen.",
+30004283,@30004307,@30004307,
+30004284,@30004308,@30004307,
+30004285,@30004309,@30004309,
+30004286,@30004310,@30004306,
+30004287,@30004311,@30004311,
+30004288,@30004001,@30004001,
+30004289,@30004303,@30004303,
+30004290,@30004304,@30004304,
+30004291,@30004305,@30004305,
+30004292,@30004306,@30004306,
+30004293,@30004269,@30004269,
+30004294,@30004270,@30004270,
+30004295,@3005,@3005,
+30004296,@30004220,@30004201,
+30004297,@30004222,@30004222,
+30004298,@30004223,@30004223,
+30004299,@30004227,@30004206,
+30004321,@30004231,@30004231,
+30004322,@30004240,@30004111,
+30004323,@30004241,@30004112,
+30004324,@30004126,@30004126,
+39005006,10 seltene Waffen-Pickup-Kisten (+1 Bonus),"[Nur für begrenzte Zeit]
+Erhalte ein seltenes Ausrüstungsteil 【Stufe A-SR】
+Mit 1.200 Blauen Diamanten!
+Erhöhte Chance auf das Erscheinen einer seltenen Waffe!",
+39005007,10 seltene Rüstung-Pickup-Kisten (+1 Bonus),"[Nur für begrenzte Zeit]
+Erhalte ein seltenes Ausrüstungsteil 【Stufe A-SR】
+Mit 1.200 Blauen Diamanten!
+Erhöhte Chance auf das Erscheinen einer seltenen Rüstung!",
+39005008,10 Boss-Attributausrüstungs-Pickup-Kisten (+1),"[Nur für begrenzte Zeit] Du kannst eine Waffe und Rüstung der [Stufe A-SR] erhalten!
+Ausrüstung mit nützlichen Attributen für den Kampf gegen Bosse!",
+39005009,10 Elite-Attributausrüstungs-Pickup-Kisten (+1),"[Nur für begrenzte Zeit] Du kannst eine Waffe und Rüstung der [Stufe A-SR] erhalten!
+Ausrüstung mit nützlichen Attributen für den Kampf gegen Elite-Monster!",
+39009000,@30110015,"1.000 Blaue Diamanten
+1 Exklusive seltene Rüstungskiste Stufe S
+1.000 Runenfragmente
+[Zum Kauf berechtigt ab Level: 16]",
+39009001,@30110016,"3.500 Rote Diamanten
+1 Exklusive Ausrüstungs-Auswahlkiste Stufe R
+1 Stufe SR-Attributstein
+[Zum Kauf berechtigt ab Level: 44]",
+39009002,@30110017,"3.500 Rote Diamanten
+1 Accessoire-Auswahlkiste Stufe R
+1 Stufe SR-Limit-Break-Stein
+[Zum Kauf berechtigt ab Level: 73]",
+39009003,Paket des Elite-Abenteurers,"2.000 Rote Diamanten
+1 Stufe SR-Attributstein
+3 Maphrs Segen
+[Zum Kauf berechtigt ab Level: 121]",
+39009004,Paket des vornehmen Abenteurers,"2.000 Rote Diamanten
+200.000 Adena
+1 Stufe SR-Limit-Break-Stein
+1 Stufe SR-Attributstein
+[Zum Kauf berechtigt ab Level: 151]",
+39009005,Leichtes Verbesserungsstein-Paket,"250 Rote Diamanten
+25.000 Adena
+4 Verbesserungsstein-Auswahlkisten",
+39009006,Verbesserungsstein-Paket,"1.500 Rote Diamanten
+100.000 Adena
+20 Verbesserungsstein-Auswahlkisten",
+39009007,Besonderes Verbesserungsstein-Paket,"3.300 Rote Diamanten
+250.000 Adena
+40 Verbesserungsstein-Auswahlkisten",
+39009008,Aufwertungspaket,"4 Aufwertungsrollen: Waffe
+4 Aufwertungsrollen: Rüstung
+4 Aufwertungsrollen: Accessoire
+1 Maphrs Segen
+15 Topase",
+39009009,Besonderes Aufwertungspaket,"15 Aufwertungsrollen: Waffe
+15 Aufwertungsrollen: Rüstung
+15 Aufwertungsrollen: Accessoire
+3 Maphrs Segen
+50 Topase",
+39009010,Leichtes Gesegnete-Schriftrolle-Paket,"150 Rote Diamanten
+1 Gesegnete Schriftrolle: Aufwertungs-Auswahlkiste
+20 Fragmente von Maphrs Segen",
+39009011,Gesegnete-Schriftrolle-Paket,"1.000 Rote Diamanten
+20 Topase
+5 Gesegnete Schriftrollen: Aufwertungs-Auswahlkisten
+1 Maphrs Segen",
+39009012,Besonderes Gesegnete-Schriftrolle-Paket,"2.000 Rote Diamanten
+50 Topase
+10 Gesegnete Schriftrollen: Aufwertungs-Auswahlkisten
+2 Maphrs Segen",
+39009013,Reitbegleiter-Aufwertungspaket,"300.000 Adena
+120 Fortschrittssteine
+10 Reitbegleiter-Ausrüstungs-Lackierungskisten Stufe S
+10 Reitbegleiter-Aufwertungsrollen",
+30004325,Leichtes Aufwertungspaket,"50.000 Adena
+4 Aufwertungsrollen: Waffe
+4 Aufwertungsrollen: Rüstung
+4 Aufwertungsrollen: Accessoire
+20 Fragmente von Maphrs Segen",
+30004326,Schriftrolle der Alchemie - Gesegnete Schriftrolle: Waffe,@30004108,
+30004327,Schriftrolle der Alchemie - Gesegnete Schriftrolle: Rüstung,@30004109,
+30004328,Schriftrolle der Alchemie - Gesegnete Schriftrolle: Accessoire,@30004110,
+30004329,@30004104,@30004104,
+30004330,@30004105,@30004105,
+30004331,@30004106,@30004106,
+30004332,@30004107,@30004107,
+30004333,Lackierungs-Auswahlkiste Stufe S,@30004218,
+30004334,Lackierungs-Auswahlkiste Stufe R,@30004222,
+30004335,Lackierungs-Auswahlkiste Stufe SR,@30004223,
+30004336,Verbesserungsstein-Auswahlkiste,@30004201,
+30004337,Aufwertungsrollen-Auswahlkiste,@30004206,
+30004338,@3005,@3005,
+30004339,Attribut-Energie,Erhalte eine Attribut-Energie.,
+30004340,Limit-Break-Energie,Erhalte eine Limit-Break-Energie.,
+30004341,Leichtes Seelenkristall-Paket,"100.000 Adena
+3 Seelenkristall-Zufallskisten Stufe A",
+30004342,2 Seelenkristalle des Angriffs (Stufe B),@30004303,
+30004343,2 Seelenkristalle der Verteidigung (Stufe B),@30004304,
+30004344,2 Seelenkristalle der Genauigkeit (Stufe B),@30004307,
+30004345,2 Seelenkristalle des Ausweichens (Stufe B),@30004307,
+30004346,2 Seelenkristalle der Kritischen Rate (Stufe B),@30004309,
+30004347,2 Seelenkristalle des Kritischen Widerstands (Stufe B),@30004306,
+30004348,2 Seelenkristalle der LP (Stufe B),@30004311,
+30004349,Leichtes Reitbegleiter-Stärkungspaket,"50.000 Adena
+25 Fortschrittssteine
+2 Reitbegleiter-Ausrüstungs-Lackierungen Stufe S
+2 Reitbegleiter-Aufwertungsrollen",
+30004350,10 Schwarzbär-Beschwörungssteinfragmente,@30004111,
+30004351,10 Silberheiliger-Beschwörungssteinfragmente,@30004112,
+30004352,10 Kukurin-Beschwörungssteinfragmente,@30004113,
+30004353,10 Fortschrittssteine,@30004126,
+30004354,Stahlvisier Stufe A,Ein sehr robustes Visier für Reitbegleiter.,
+30004355,Stahlsattel Stufe A,Ein sehr robuster Sattel für Reitbegleiter.,
+30004356,Stahlrüstung Stufe A,Eine sehr robuste Rüstung für Reitbegleiter.,
+30004357,Stahlstiefel Stufe A,Sehr robuste Stiefel für Reitbegleiter.,
+30004358,500 Runenfragmente,Erhalte 500 Runenfragmente.,
+39009014,@39009010,"200 Rote Diamanten
+50.000 Adena
+1 Gesegnete Schriftrolle: Aufwertungs-Auswahlkiste
+5 Aufwertungsrollen-Auswahlkisten",
+39006001,"""100 Tage Revolution""-Feierpaket I","50 Rote Diamanten
+500 Seelensteine
+50 LP-Tränke
+50 MP-Tränke
+5 Verbesserungsstein-Zufallskisten",
+39006002,"""100 Tage Revolution""-Feierpaket II","100 Rote Diamanten
+100 Rotsternsteine
+100 LP-Tränke
+100 MP-Tränke
+Exklusive seltene Rüstungskiste Stufe S",
+39006101,"Seltene Waffen-Auswahlkiste zur ""100 Tage""-Feier",Wähle seltene Waffe(n) der Stufe S.,
+39006102,@3008,@3007,
+39006003,Besonderes begrenztes Mähnenlöwen-Paket,"1 Mähnenlöwen-Beschwörungsstein
+1 Mähnenlöwen-Hornflöte
+500 Fortschrittssteine
+10 Reitbegleiter-Aufwertungsschriftrollen
+500.000 Adena",
+39006004,Besonderes begrenztes Frühlingsstärkungs-Paket,"100 Rote Diamanten
+1 Reinweiße Rüstungslackierung Stufe SR
+1 Reinweiße Waffenlackierung Stufe SR",
+3016,Mähnenlöwen-Beschwörungsstein,1 Mähnenlöwen-Beschwörungsstein,
+30150005,Besonderes Reitbegleiter-Aufwertungspaket,"1.000 Rote Diamanten
+200 Fortschrittssteine
+20 Reitbegleiter-Ausrüstungs-Lackierungskisten Stufe S
+20 Reitbegleiter-Aufwertungsschriftrollen
+1 Auswahlkiste für Reitbegleiter-Beschwörungssteine",
+30130022,Besonderes Seelenkristall-Paket,"2.000 Rote Diamanten
+200.000 Adena
+2 Seelenkristall-Auswahlkisten Stufe S
+10 Seelenkristall-Zufallskisten Stufe S-SR",
+39006103,"Seltene Rüstungs-Auswahlkiste zur ""100 Tage""-Feier",@39006101,
+30004359,@30004341,"200 Rote Diamanten
+2 Seelenkristall-Auswahlkisten Stufe A",
+38000100,Geschenkkarten-Belohnung A,"400 Rote Diamanten
+150.000 Adena
+3 Aufwertungsrollen-Zufallskisten",
+38000200,Geschenkkarten-Belohnung B,"800 Rote Diamanten
+500.000 Adena
+10 Aufwertungsrollen-Zufallskisten",
+9667,Tägliche Quest-Vorteile (28 Tage),"1. Auto-Questschriftrollenfunktion
+2. Auto-Wochenquestfunktion
+3. 3 tägliche Questschriftrollenkisten Stufe S
+4. 1.200 Rote Diamanten bei Kauf",
+9668,Tägliche Jagd-Vorteile (28 Tage),"1. Auto-Inventar-Verkaufsfunktion
+2. +20-%-Gegenstandsfund-Buff
+3. +20-%-Adenagewinn-Buff
+4. 1 täglicher Dungeon-Auto-Erlediger
+5. 20 tägliche Treuepunkte
+6. 1.200 Rote Diamanten bei Kauf",
+30180001,Klanfertigkeit-Unterstützungspaket,"[Individuelle Belohnung]
+1.500 [Rote Diamanten]
+[Zufällige Vergessene Schriftrollenseite-Kiste]
+[Vergessene Schriftrollenseiten-Auswahlkiste]
+[Klanmitgliedsbelohnung]
+1 [Seelenschuss - Komprimierte Packung]
+10 [FP]
+10 [Starke LP-Tränke]",
+30180002,Klanstärkung-Unterstützungspaket,"Individuelle Belohnung:
+2.000 [Rote Diamanten]
+5 [Gesegnete-Schriftrolle-Auswahlkisten]
+3 [Maphrs Segen]
+Klanmitgliedsbelohnung:
+2 [Aufwertungsrollen-Auswahlkisten]
+5 [Fragmente von Maphrs Segen]",
+30150006,Mähnenlöwen-Paket,"1 [Mähnenlöwen-Beschwörungsstein]
+1 [Mähnenlöwe-Fesselhornflöte]
+300 [Fortschrittssteine]
+10 [Reitbegleiter-Ausrüstungskisten der Stufe A–S]
+200.000 [Adena]",
+39006005,Seltenes Rotes Rüstungs-Sonderpaket,"1 Aigis-Rüstungs-Auswahlkiste Stufe SR]
+5 [Rüstungslackierung Stufe SR]
+300.000 [Adena]
+5 [Gesegnete Schriftrollen: Rüstung]",
+39006006,Geduld-Rüstungspaket,"1 [Geduld-Rüstungs-Auswahlkiste Stufe SR]
+1 [Stufe R-Attributstein]
+100.000 [Adena]
+2 [Gesegnete Schriftrollen: Rüstung]",
+39006007,Schutz-Rüstungspaket,"1 [Schutz-Rüstungs-Auswahlkiste Stufe SR]
+1 [Stufe R-Attributstein]
+100.000 [Adena]
+2 [Gesegnete Schriftrollen: Rüstung]",
+30130023,Paket der Brosche des Umhangs des Blut-Rangers,"1 [Brosche des Umhangs des Blut-Rangers]
+100 [Umhangsgarn]",
+30130024,Paket der Brosche des Gartenumhangs,"1 [Brosche des Gartenumhangs]
+30 [Umhangsgarn]",
+30130025,Besonderes Paket von Maphrs Segen,"10 [Maphrs Segen]
+10 [Aufwertungsrollenpakete]
+30 [Topaze]",
+30130026,Umhangstärkungspaket,"100.000 [Adena]
+50 [Umhangsgarn]
+5 [Wahnsinns-Scherben]
+5 [Trishas Tränen]
+10 [Topas]",
+30130027,Besonderes Umhangstärkungspaket,"200 [Umhangsgarn]
+40 [Wahnsinns-Scherben]
+40 [Trishas Tränen]",
+30004360,Leichtes Umhangstärkungspaket,"2 [Umhangstärkungsmaterial-Auswahlkisten]
+50.000 [Adena]",
+30004361,Umhangsgarn,Material zur Erhöhung des Levels von Umhängen.,
+30004362,Wahnsinns-Scherben,"Material zur Erhöhung des Levels des Umhangs der Roten Zerstörung. Verwende 1.000 Wahnsinns-Scherben, um eine Brosche des Umhangs der Roten Zerstörung herzustellen.",
+30004363,Trishas Träne,"Material zur Erhöhung des Levels des Umhangs des Tugendhaften Bluts. Verwende 1.000 Trishas Tränen, um eine Brosche des Umhangs des Tugendhaften Bluts herzustellen.",
+30004364,Magischer Stoff,Material zum Ändern von Subwerten.,
+30004365,Magischer Stoff der Zerstörung,Material zum Ändern der Subwerte des Umhangs der Roten Zerstörung.,
+30004366,Magischer Stoff der Tugend,Material zum Ändern der Subwerte des Umhangs des Tugendhaften Bluts.,
+30004367,Magische Nadel,Material zum Erhalt von Subwerten.,
+3017,20 Wahnsinns-Scherben,@30004362,
+3018,20 Trishas Tränen,@30004363,
+6023,80 Mantelgarne,@30004361,
+39006008,Rote-Diamanten-Paket,4.000 Rote Diamanten,
+39006009,Besonderes Update-Feierpaket,"10 [Besondere Update-Feierbeutel]
+(Wird verwendet, um zufällig 1-10 Maphrs Segen oder Gesegnete Schriftrollen zu erhalten.)
+1.000 Blaue Diamanten",
+39006010,Besonderer Update-Feierbeutel,"1 [Besonderer Update-Feierbeutel]
+(Wird verwendet, um zufällig 1-10 Maphrs Segen oder Gesegnete Schriftrollen zu erhalten.)",
+39006011,Seltenes Rotes Ausrüstungspaket,"1 [Aigis-Rüstungs-Auswahlkiste Stufe SR]
+1 [Rüstungslackierung Stufe SR]
+100.000 Adena
+1 [Gesegnete Schriftrolle: Rüstung]",
+30014013,Ausrüstungslackierungs-Auswahlkiste Stufe S,"Wird verwendet, um eine Lackierung Stufe S auszuwählen und zu erhalten.",
+30014014,Aufwertungsrollenpaket,"Diese Kiste enthält Aufwertungsrollen.
+Verwende sie, um eine Aufwertungsrolle jeden Typs zu erhalten.",
+30014015,@3005,"Der Schutz Maphrs, der Göttin des Landes, wohnt diesem Edelstein inne.
+Dieser Gegenstand verhindert, dass das Aufwertungslevel deiner Ausrüstung sinkt, wenn eine Aufwertung scheitert.",
+30014016,Auswahlkiste für Boss-Beschwörungssteine,"Wird verwendet, um einen Boss-Beschwörungsstein auszuwählen und zu erhalten.",
+30014017,50 Mantelgarne,@30004361,
+30014018,@30004367,@30004364,
+30014019,Gesegnete-Schriftrolle-Auswahlkiste,"Wird verwendet, um einen der folgenden Gegenstände auszuwählen und zu erhalten: Gesegnete Schriftrolle: Waffe, Gesegnete Schriftrolle: Rüstung oder Gesegnete Schriftrolle: Accessoire.",
+30014020,@3008,@3007,
+30130028,Seltenes Blaues Ausrüstungspaket Stufe S,@30130010,

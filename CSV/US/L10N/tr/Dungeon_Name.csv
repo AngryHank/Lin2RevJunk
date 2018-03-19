@@ -1,0 +1,414 @@
+Id,Name,RepresentRewardName,RepresentRewardDescription,Description
+200,Elf Harabeleri Kat 1,,,"Büyü enerjisi dolu bir yer, burası Elflerin insanlara büyü öğrettiği yer. İnsanlar ilerde kıtanın hakimi olmak için buraya yerleşti."
+201,Elf Harabeleri Kat 2,,,Kıtayı elfler yönetirken bu kar sadece özel yetenekleri olan insanlara açıktı. Buradaki büyü enerjisi ilk kattakinden fazla.
+202,Karınca Yuvası Dehliz 1,,,Devasa kara büyü patlamasıyla ortaya çıkan Çorak Diyar’a adapte olan dev karıncalarla dolu bir mağara.
+203,Karınca Yuvası Dehliz 2,,,Karıncalar değerli eşyalarını korumak için daha da komplike bir labirent inşa ettiler. Sadece karıncalar yollarını bulabilir.
+204,Cruma Kulesi Kat 2,,,Yeni bir yaşam türü bulmak için çalışan kadim devler tarafından kullanılan hareket eden bir şato ve bilim tesisi. Laboratuvarı korumak için kullanılırdı.
+205,Cruma Kulesi Kat 3,,,Kulenin asıl amacına uyan bu katta pek çok biyolojik araştırma laboratuvarı vardır. Devlerin büyü enerjisiyle doludur.
+206,Fildişi Kulesi Dehliz 1,,,Nebulite meteoru düştüğünde şekillenen alan. Aslen bir laboratuvar ve kütüphaneydi ama Delirmiş Büyücüler Olayı sonrasında kapanmıştı.
+207,Fildişi Kulesi Dehliz 2,,,Burada aslen bir simya laboratuvarı vardı ama yerden biten kaya misali mantarlar tarafından istila edildi.
+208,Fildişi Kulesi Dehliz 3,,,Nebulite meteorunun bulunduğu yer. Burada Nebulite’nin etkisiyle kuvvetlenen canavarlar cirit atar.
+209,Fildişi Kulesi Yer Altı Laboratuvarı,,,Burası Fildişi Kulesi Büyücüsü'nün laboratuvarı ve mühürlendiği yer. Deneklerinin çoğu hâlâ buralarda dolaşır.
+210,Sırların Ormanı Tepe Tacı,,,"Burada eskinden Periler yaşardı. Periler, savaşın tehlikelerinden kaçmak için başka bir diyara göç ettikten sonra canavarlar tarafından işgal edilmiştir."
+211,Sırların Ormanı Yeşillik Alanı,,,Canavarlar tarafından kutsallığı bozulan Sırların Ormanı o kadar büyüdü ki artık güneş ışığı bile ormana giremiyor.
+212,Sırların Ormanı Katliam Alanı,,,Peri avına direnen perilerin ebedi istirahatlarından önceki son durağı. Burada her zaman kasvetli bir kırmızı sis hakimdir.
+4000,Gökkuşağı Bahçesi (Kukla),,,
+9000,TP Zindanı I,Geliştirme Taşı,{1} adet Geliştirme Taşı kazanmak için kullan.,Kara Kardeşlik tarafından hazırlanmış ve keşfedilmemiş pek çok güçlü Kötülük Çağırma Taşı vardır. Dış Dünya’daki canavarları yenerek o taşları yok etmelisin.
+9001,TP Zindanı II,@9000,{2} adet Geliştirme Taşı kazanmak için kullan.,@9000
+9002,TP Zindanı III,@9000,{3} adet Geliştirme Taşı kazanmak için kullan.,@9000
+9003,TP Zindanı IV,@9000,"{5} adet Geliştirme Taşı kazanmak için kullan.
+",@9000
+9100,TP Zindanı V,@9000,@9003,@9000
+9004,Adena Zindanı I,@9000,@9000,"Elmoreden İmparatoru Shunaiman burayı, Kibir Kulesi’nin inşası için gereken altını depolamak için kullandı. Shunaiman’ın ölümüyle burası unutuldu ve artık Altın Ejderha Kresous’un yeri."
+9005,Adena Zindanı II,@9000,@9001,@9004
+9006,Adena Zindanı III,@9000,@9002,@9004
+9009,Ekipman Zindanı I,@9000,@9000,Eva tarafından kutsanan Su Kristali’ne ev sahipliği yapan elf tapınağı. Hardin Su Kristali’ni Kara Kardeşlik’ten korumak için Ay Işığı Lejyonerleri’ne tapınağı korumalarını emretti.
+9010,Ekipman Zindanı II,@9000,@9001,@9009
+9011,Ekipman Zindanı III,@9000,@9002,@9009
+9012,Ekipman Zindanı IV,@9000,@9003,@9009
+9300,Ekipman Zindanı V,@9000,@9003,@9009
+9013,Binek Zindanı I,@9000,@9000,Mühürlü Kutsal Kristal üstündeki büyüyü kaldırırken Feldheim'i koru ve Çağırma Taşı için zindanı tamamla.
+9014,Binek Zindanı II,@9000,@9001,@9013
+9015,Binek Zindanı III,@9000,@9002,@9013
+9016,Binek Zindanı IV,@9000,@9003,@9013
+9017,Saflaştırma Taşı Zindanı I,@9000,@9000,Canavarların çıkmasına sebep olan boyut kapısını yok et ve ödüller kazan.
+9018,Saflaştırma Taşı Zindanı II,@9000,@9001,@9017
+9019,Saflaştırma Taşı Zindanı III,@9000,@9002,@9017
+9020,Saflaştırma Taşı Zindanı IV,@9000,@9003,@9017
+11100,Antik Tapınak I,Geliştirme Taşı Seçim Sandığı,{1} adet Geliştirme Taşı Seçim Sandığı kazanmak için kullan.,
+11101,Antik Tapınak II,@11100,{2} adet Geliştirme Taşı Seçim Sandığı kazanmak için kullan.,
+11102,Antik Tapınak III,@11100,{3} adet Geliştirme Taşı Seçim Sandığı kazanmak için kullan.,
+11103,Antik Tapınak IV,@11100,{4} adet Geliştirme Taşı Seçim Sandığı kazanmak için kullan.,
+11104,Antik Tapınak V,Işıyan Geliştirme Taşı Seçim Sandığı,1 adet Işıyan Geliştirme Taşı Seçim Sandığı kazanmak için kullanılır.,
+11200,Takipçilerin Tapınağı I,Parşömen: Silah Güçlendirme,"1 adet Parşömen: Silah Güçlendirmesi 
+kazanmak için kullan.",
+11201,Takipçilerin Tapınağı II,@11200,"2 adet Parşömen: Silah Güçlendirmesi 
+kazanmak için kullan.",
+11202,Takipçilerin Tapınağı III,@11200,"3 adet Parşömen: Silah Güçlendirmesi 
+kazanmak için kullan.",
+11203,Takipçilerin Tapınağı IV,@11200,"4 adet Parşömen: Silah Güçlendirmesi 
+kazanmak için kullan.",
+11204,Takipçilerin Tapınağı V,Silah & Binek Ekipmanı Güçlendirme Parşömeni,"5 Silah Güçlendirme Parşömeni ve
+1 Binek Ekipmanı Güçlendirme Parşömeni almak için kullan.",
+11300,Savaşçıların Tapınağı I,Silah Geliştirme Taşı,1 adet Silah Geliştirme Taşı kazanmak için kullan.,
+11301,Savaşçıların Tapınağı II,@11300,2 adet Silah Geliştirme Taşı kazanmak için kullan.,
+11302,Savaşçıların Tapınağı III,@11300,3 adet Silah Geliştirme Taşı kazanmak için kullan.,
+11303,Savaşçıların Tapınağı IV,@11300,4 adet Silah Geliştirme Taşı kazanmak için kullan.,
+11304,Savaşçıların Tapınağı V,Işıyan Silah Geliştirme Taşı,1 adet Işıyan Silah Geliştirme Taşı kazanmak için kullan.,
+11400,Hayvan Tapınağı I,Parşömen: Zırh Güçlendirme,"1 adet Parşömen: Zırh Güçlendirme 
+kazanmak için kullan.",
+11401,Hayvan Tapınağı II,@11400,"2 adet Parşömen: Zırh Güçlendirme 
+kazanmak için kullan.",
+11402,Hayvan Tapınağı III,@11400,"3 adet Parşömen: Zırh Güçlendirme 
+kazanmak için kullan.",
+11403,Hayvan Tapınağı IV,@11400,"4 adet Parşömen: Zırh Güçlendirme 
+kazanmak için kullan.",
+11404,Hayvan Tapınağı V,Zırh & Binek Ekipmanı Güçlendirme Parşömeni,"5 Zırh Güçlendirme Parşömeni ve
+1 Binek Ekipmanı Güçlendirme Parşömeni almak için kullan.",
+11500,Canavar Tapınağı I,Zırh Geliştirme Taşı,1 adet Zırh Geliştirme Taşı kazanmak için kullan.,
+11501,Canavar Tapınağı II,@11500,2 adet Zırh Geliştirme Taşı kazanmak için kullan.,
+11502,Canavar Tapınağı III,@11500,3 adet Zırh Geliştirme Taşı kazanmak için kullan.,
+11503,Canavar Tapınağı IV,@11500,4 adet Zırh Geliştirme Taşı kazanmak için kullan.,
+11504,Canavar Tapınağı V,Işıyan Zırh Geliştirme Taşı,1 adet Işıyan Zırh Geliştirme Taşı kazanmak için kullan.,
+11600,İfrit Tapınağı I,Parşömen: Aksesuar Güçlendirme,"1 adet Parşömen: Aksesuar Güçlendirme 
+kazanmak için kullan.",
+11601,İfrit Tapınağı II,@11600,"2 adet Parşömen: Aksesuar Güçlendirme 
+kazanmak için kullan.",
+11602,İfrit Tapınağı III,@11600,"3 adet Parşömen: Aksesuar Güçlendirme 
+kazanmak için kullan.",
+11603,İfrit Tapınağı IV,@11600,"4 adet Parşömen: Aksesuar Güçlendirme 
+kazanmak için kullan.",
+11604,İfrit Tapınağı V,Aksesuar & Binek Ekipmanı Güçlendirme Parşömeni,"5 Aksesuar Güçlendirme Parşömeni ve
+1 Binek Ekipmanı Güçlendirme Parşömeni almak için kullan.",
+11700,Anılar Tapınağı I,Aksesuar Geliştirme Taşı,1 adet Aksesuar Geliştirme Taşı kazanmak için kullan.,
+11701,Anılar Tapınağı II,@11700,2 adet Aksesuar Geliştirme Taşı kazanmak için kullan.,
+11702,Anılar Tapınağı III,@11700,3 adet Aksesuar Geliştirme Taşı kazanmak için kullan.,
+11703,Anılar Tapınağı IV,@11700,4 adet Aksesuar Geliştirme Taşı kazanmak için kullan.,
+11704,Anılar Tapınağı V,Işıyan Aksesuar Geliştirme Taşı,1 adet Işıyan Aksesuar Geliştirme Taşı kazanmak için kullan.,
+12001,Kibir Kulesi Kat {IntParam},@9000,,
+12002,@12001,Güçlendirme Parşömeni,,
+12003,@12001,Kan Nişanı,,
+12004,@12001,Ruh Kristali,,
+12005,@12001,Adena,,
+12006,@12001,Ekipman Çekiliş Bileti,,
+12007,@12001,@9000,,
+12008,@12001,@12002,,
+12009,@12001,@12003,,
+12010,@12001,@12004,,
+12011,@12001,@12005,,
+12012,@12001,@12006,,
+12013,@12001,@9000,,
+12014,@12001,@12002,,
+12015,@12001,@12003,,
+12016,@12001,@12004,,
+12017,@12001,@12005,,
+12018,@12001,@12006,,
+12019,@12001,@9000,,
+12020,@12001,@12002,,
+12021,@12001,@12003,,
+12022,@12001,@12004,,
+12023,@12001,@12005,,
+12024,@12001,@12006,,
+12025,@12001,@9000,,
+12026,@12001,@12002,,
+12027,@12001,@12003,,
+12028,@12001,@12004,,
+12029,@12001,@12005,,
+12030,@12001,@12006,,
+12031,@12001,@12006,,
+12032,@12001,@12006,,
+12033,@12001,@12006,,
+12034,@12001,@12006,,
+12035,@12001,@12006,,
+12036,@12001,@12006,,
+12037,@12001,@12006,,
+12038,@12001,@12006,,
+12039,@12001,@12006,,
+12040,@12001,@12006,,
+12041,@12001,@12006,,
+12042,@12001,@12006,,
+12043,@12001,@12006,,
+12044,@12001,@12006,,
+12045,@12001,@12006,,
+12046,@12001,@12006,,
+12047,@12001,@12006,,
+12048,@12001,@12006,,
+12049,@12001,@12006,,
+12050,@12001,@12006,,
+12051,@12001,@12006,,
+12052,@12001,@12006,,
+12053,@12001,@12006,,
+12054,@12001,@12006,,
+12055,@12001,@12006,,
+12056,@12001,@12006,,
+12057,@12001,@12006,,
+12058,@12001,@12006,,
+12059,@12001,@12006,,
+12060,@12001,@12006,,
+12061,@12001,@12006,,
+12062,@12001,@12006,,
+12063,@12001,@12006,,
+12064,@12001,@12006,,
+12065,@12001,@12006,,
+12066,@12001,@12006,,
+12067,@12001,@12006,,
+12068,@12001,@12006,,
+12069,@12001,@12006,,
+12070,@12001,@12006,,
+12071,@12001,@12006,,
+12072,@12001,@12006,,
+12073,@12001,@12006,,
+12074,@12001,@12006,,
+12075,@12001,@12006,,
+12076,@12001,@12006,,
+12077,@12001,@12006,,
+12078,@12001,@12006,,
+12079,@12001,@12006,,
+12080,@12001,@12006,,
+12081,@12001,@12006,,
+12082,@12001,@12006,,
+12083,@12001,@12006,,
+12084,@12001,@12006,,
+12085,@12001,@12006,,
+12086,@12001,@12006,,
+12087,@12001,@12006,,
+12088,@12001,@12006,,
+12089,@12001,@12006,,
+12090,@12001,@12006,,
+12091,@12001,@12006,,
+12092,@12001,@12006,,
+12093,@12001,@12006,,
+12094,@12001,@12006,,
+12095,@12001,@12006,,
+12096,@12001,@12006,,
+12097,@12001,@12006,,
+12098,@12001,@12006,,
+12099,@12001,@12006,,
+12100,@12001,@12006,,
+20001,Zayıf Devlerin Harabeleri,,,
+20002,@20001,,,
+20003,@20001,,,
+20004,@20001,,,
+20005,@20001,,,
+20006,@20001,,,
+20007,@20001,,,
+20008,@20001,,,
+20009,@20001,,,
+20010,@20001,,,
+20011,@20001,,,
+20012,@20001,,,
+20013,@20001,,,
+20014,@20001,,,
+20015,@20001,,,
+20016,@20001,,,
+20017,@20001,,,
+20018,@20001,,,
+20019,@20001,,,
+20020,@20001,,,
+20021,@20001,,,
+20022,@20001,,,
+20023,@20001,,,
+20024,@20001,,,
+20025,@20001,,,
+20026,@20001,,,
+20027,@20001,,,
+20028,@20001,,,
+20029,@20001,,,
+20030,@20001,,,
+20031,@20001,,,
+20032,@20001,,,
+20033,@20001,,,
+20034,@20001,,,
+20035,@20001,,,
+20036,@20001,,,
+20037,@20001,,,
+20038,@20001,,,
+20039,@20001,,,
+20040,@20001,,,
+20041,@20001,,,
+20042,@20001,,,
+20043,@20001,,,
+20044,@20001,,,
+20045,@20001,,,
+20046,@20001,,,
+20047,@20001,,,
+20048,@20001,,,
+20049,@20001,,,
+20050,@20001,,,
+20051,@20001,,,
+20052,@20001,,,
+20053,@20001,,,
+20054,@20001,,,
+20055,@20001,,,
+20056,@20001,,,
+20057,@20001,,,
+20058,@20001,,,
+20059,@20001,,,
+20060,@20001,,,
+20061,@20001,,,
+20062,@20001,,,
+20063,@20001,,,
+20064,@20001,,,
+20065,@20001,,,
+20066,@20001,,,
+20067,@20001,,,
+20068,@20001,,,
+20069,@20001,,,
+20070,@20001,,,
+20071,@20001,,,
+20072,@20001,,,
+20073,@20001,,,
+20074,@20001,,,
+20075,@20001,,,
+20076,@20001,,,
+20077,@20001,,,
+20078,@20001,,,
+20079,@20001,,,
+20080,@20001,,,
+20081,@20001,,,
+20082,@20001,,,
+20083,@20001,,,
+20084,@20001,,,
+20085,@20001,,,
+20086,@20001,,,
+20087,@20001,,,
+20088,@20001,,,
+20089,@20001,,,
+20090,@20001,,,
+20091,@20001,,,
+20092,@20001,,,
+20093,@20001,,,
+20094,@20001,,,
+20095,@20001,,,
+20096,@20001,,,
+20097,@20001,,,
+20098,@20001,,,
+20099,@20001,,,
+20100,@20001,,,
+20101,@20001,,,
+20102,@20001,,,
+20103,@20001,,,
+20104,@20001,,,
+20105,@20001,,,
+20106,@20001,,,
+20107,@20001,,,
+20108,@20001,,,
+20109,@20001,,,
+20110,@20001,,,
+20111,@20001,,,
+20112,@20001,,,
+20113,@20001,,,
+20114,@20001,,,
+20115,@20001,,,
+20116,@20001,,,
+20117,@20001,,,
+20118,@20001,,,
+20119,@20001,,,
+20120,@20001,,,
+20121,@20001,,,
+20122,@20001,,,
+20123,@20001,,,
+20124,@20001,,,
+20125,@20001,,,
+20126,@20001,,,
+20127,@20001,,,
+20128,@20001,,,
+20129,@20001,,,
+20130,@20001,,,
+20131,@20001,,,
+20132,@20001,,,
+20133,@20001,,,
+20134,@20001,,,
+20135,@20001,,,
+20136,@20001,,,
+20137,@20001,,,
+20138,@20001,,,
+20139,@20001,,,
+20140,@20001,,,
+20141,@20001,,,
+20142,@20001,,,
+20143,@20001,,,
+20144,@20001,,,
+20145,@20001,,,
+20146,@20001,,,
+20147,@20001,,,
+20148,@20001,,,
+20149,@20001,,,
+20150,@20001,,,
+20151,@20001,,,
+20152,@20001,,,
+20153,@20001,,,
+20154,@20001,,,
+20155,@20001,,,
+20156,@20001,,,
+20157,@20001,,,
+20158,@20001,,,
+20159,@20001,,,
+20160,@20001,,,
+20161,@20001,,,
+20162,@20001,,,
+20163,@20001,,,
+20164,@20001,,,
+20165,@20001,,,
+20166,@20001,,,
+20167,@20001,,,
+20168,@20001,,,
+20169,@20001,,,
+20170,@20001,,,
+20171,@20001,,,
+20172,@20001,,,
+50000,Botanik Zindanı,@12003,,Fildişi Kulesi’nin altına açılan meteor Nebulite’yi saklayan bir gizli maden. Burada gizemli güçleri olan pek çok bitki yetişir.
+60001,Resmi Rehber,TP,,
+70001,@60001,@60001,,
+70002,@60001,@60001,,
+90101,Varkaron'un İzi,@12003,,"Varkaron’un keskin kılıçları
+ağır kanamaya yol açar."
+90102,@90101,@12003,,@90101
+90103,@90101,@12003,,@90101
+90301,Kraliçe Karınca'nın Mağarası,@12003,,"Karanlık mağarasının derinliklerindeki
+Kraliçe Karınca zehirler konusunda ustadır."
+90302,@90301,@12003,,@90301
+90303,@90301,@12003,,@90301
+90401,Cruma Çekirdeği Odası,@12003,,"Cruma Çekirdeği, Cruma Kulesi'nin kalbidir.
+Cruma Kulesi'nde hapsedilen Zayıf Devler'in bilgisini koruyor."
+90402,@90401,@12003,,@90401
+90403,@90401,@12003,,@90401
+70003,Tanrı'nın Hediyesi,,,
+70004,@70003,,,
+100001,Delilik Sunağı,,,"<GreenBold>Fildişi Kulesi</> büyücüleri
+çalınan parçaların bir kısmını bulmaya çalışıyor.
+
+Araştırmaları sırasında
+<GreenBold>Fildişi Kulesi</>'ndeki büyücülerden biri olan 
+<BlueBold>Leanis</>'in kaybolduğunu öğrendiler.
+Bıraktığı izleri ararken
+<RedBold>Timak Orku Şamanları</>'nın yaşadığı bir köye geldiler.
+
+Büyücüler <BlueBold>Laenis</>'i kaçıranların
+<RedBold>Orklar</> olduğunu düşünüp
+onu kurtarmak için köye gelirler.
+Ancak daha önce <RedBold>Orklar</>'dan hiç görmedikleri 
+güçlü saldırı karşısında geri çekilmek zorunda kalırlar.
+<GreenBold>Fildişi Kulesi</>'nin büyücüleri <RedBold>Orklar</> hakkında iki kat
+araştırma yapar ve <BlueBold>Laenis</>'in kurtarılmasına
+yardımcı olmak için <BlueBold>Ay Işığı Lejyonerleri</>'ni görevlendirir."
+100002,@100001,,,@100001
+100101,Kan Kontesi'nin Yatak Odası,,,"Bir zamanlar Giran Lordu'nun biricik aşkı olan <RedBold>Kontes Trisha</>
+bir anda ortadan
+
+kaybolur ve Giran soyluları arasında bir kargaşa çıkar.
+Bu bilginin Oren'in düşman topraklarına sızması durumunda,
+politik açıdan zor bir durumda kalacaklarını anladılar.
+Bunu bilen Giran Lordu kontesi bulacak arama ekibine liderlik etmesi için
+<BlueBold>Yüzbaşı Tark</>'ı gizlice görevlendirir.
+
+<RedBold>Kontes Trisha</>'nın en son <GreenBold>Giran Limanı</>'nda
+<RedBold>Muhafız Şövalyesi</> ile birlikte görüldüğünü öğrenen <BlueBold>Yüzbaşı Tark</>
+ve arama ekibi Şeytan Adası'ndan gelen Kızıl Kolcular'ın
+kılığına girip gizlice <GreenBold>Şeytan Adası</>'nı aramaya başlar.
+Ancak bazı tehlikeler atlattıktan sonra,
+<BlueBold>Yüzbaşı Tark</> <BlueBold>Ay Işığı Lejyonerleri</>'nden
+yardım istemek zorunda kalır."
+100102,@100101,,,@100101
+90100,@90101,@12003,,@90101
+90300,@90301,@12003,,@90301

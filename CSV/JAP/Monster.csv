@@ -1,0 +1,5 @@
+MonsterType,NameColor,IconTexture
+1,4,Icon_Boss_Raid
+2,4,Icon_Boss_Field
+3,8,Icon_Boss_Named
+4,4,UI_Icon_QuestBoss

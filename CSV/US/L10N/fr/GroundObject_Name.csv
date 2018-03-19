@@ -1,0 +1,72 @@
+Id,Name
+11222,Tempête de tonnerre
+11242,Œil de faucon
+11251,Thaumaturge
+11261,Évêque
+12212,Chevalier du temple
+12251,Chante-sort
+12261,Ancêtre
+13252,Braille-sort
+14262,Sage
+30005,Champ foudroyant
+30007,Essaim empoisonné
+30012,Pluie de météores
+60096,Souffle ardent
+60097,Boreas de l'Île du discours
+60100,Coup de faux ténébreuse
+60115,Souffle ardent doré
+60162,Souffle ardent doré (enfer)
+71032,@60100
+71072,@60096
+71073,Compétence de Boreas 02
+71472,@60096
+73012,Cauchemar
+73032,OrfenBossSkill_02
+74031,Frappe de totem
+74032,Appel de la foudre
+74051,Fosse empoisonnée
+74062,@11222
+74071,Marécage de la malveillance
+74131,Poison de Marsha
+74132,Malédiction de Méduse
+720231,Déchaînement de phéromones
+1720231,@720231
+1504021,Champ foudroyant de Hardin
+7204311,Réinitialisation du temps
+7204321,@7204311
+7204331,@7204311
+601252,"Compétence de Lara, reine nymphe 2"
+601451,DarkAssociation_M_HighSkill_02
+741352,Marsha : vent cisaillant
+8010441,Aura de dégâts de mêlée
+805000,Compétence d'étage de boss de donjon de groupe (cercle)
+805001,Compétence d'étage de boss de donjon de groupe (éventail)
+805002,Compétence d'étage de boss de donjon de groupe (sphère)
+805003,Compétence d'étage de boss de donjon de groupe (anneau)
+72040,Flaque de destruction
+1720223,Flaque de poison
+17203181,Poison mortel
+411004,Acide corrosif
+412004,@411004
+413004,@411004
+413012,Sang consumant
+413023,Torrent de sang : Vague
+414004,@411004
+414012,@413012
+414023,@413023
+74113,Marlox : Frappe de pierre
+30015,Zone de défense
+401023,Zone de feu
+401008,Garde grenadier de Ramog : jet de bombe
+401016,Soldat autodestructeur lunatique : autodestruction
+401210,Grande explosion de Paagrio
+4011021,Explosion de braises : zone de feu
+2000001,Feu d'artifice 1
+2000002,Feu d'artifice 2
+2000003,Feu d'artifice 3
+2000004,Feu d'artifice 4
+2000005,Feu d'artifice 5
+2000006,Feu d'artifice 6
+730212,Vague
+731351,Artilleur des pirates de Zaken
+731401,Soldat des pirates de Zaken

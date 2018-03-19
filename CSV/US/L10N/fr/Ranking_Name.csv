@@ -1,0 +1,52 @@
+Id,Name,Description,Unit
+1001,Puissance combat,Rang de puissance de combat,Puissance de combat
+1,Niveau,Rang de niveau de personnage,Niveau
+2,ATQP,Rang d'ATQP max.,ATQP
+3,DÉFP,Rang de DÉFP max.,DÉFP
+4,ATQM,Rang d'ATQM max.,ATQM
+5,DÉFM,Rang de DÉFM max.,DÉFM
+6,PV,Rang de PV max.,PV
+7,Marquage rune,Rang de marquages de rune réussis,Nombre
+8,Élixir,Rang d'utilisation d'élixirs,Nombre
+9,Codex de monstres,Rang de codex de monstres terminés,Terminé
+10,Niveau total,Rang de total des niveaux des perso sur serveur,@1
+12,Points d'honneur,Rang de points d'honneur totaux,Score
+13,Nombre total,Rang de nombre d'Arènes,@7
+14,Total de victoires,Rang de nombre de victoires en Arène,Victoires
+15,Série de victoires,Rang de série de victoires max.,@7
+18,Contribution,Rang de contribution hebdomadaire personnelle,Pts de contribution
+19,Contribution totale,Rang de contribution au clan totale personnelle,@18
+20,Contributions au siège,Rang de contribution au siège personnelle,Contribution
+21,Contribution au Siège de forteresse,Rang de contribution personelle,@20
+22,Succès de héros,Rang de points de succès de héros,@12
+27,S'enregistrer,Rang de total de jours de connexion,Nombre de jours
+28,Vente au prix max.,Rang de ventes au prix max.,Prix d'échange
+29,Nombre de ventes,Rang de nombre de ventes max.,@7
+30,Nombre de perfectionnements,Rang de nombre de perfectionnements max.,@7
+31,Ensemble perfectionné,Rang d'ensemble perfectionné au max.,Nombre de candidatures
+32,Nombre de fusions,Rang de nombre de fusions max.,@7
+33,Nombre d'améliorations,Rang de nombre d'améliorations max.,@7
+34,Nombre de revalorisations,Rang de nombre de revalorisations max.,@7
+35,Tour de l'insolence,Rang de l'étage le plus élevé,Nombre d'étages
+48,Réputation,Rang de réputation,@12
+49,Puissance combat,Rang PUIC,@1001
+1000,Arène impitoyable,Rang d'Arène impitoyable,@12
+4000,Champ de bataille d'honneur,Rang général de champ de bataille d'honneur,@12
+4001,@4000,Rang de champ de bataille d'honneur (bronze) 3,@12
+4002,@4000,Rang de champ de bataille d'honneur (bronze) 2,@12
+4003,@4000,Rang de champ de bataille d'honneur (bronze) 1,@12
+4004,@4000,Rang de champ de bataille d'honneur (argent) 3,@12
+4005,@4000,Rang de champ de bataille d'honneur (argent) 2,@12
+4006,@4000,Rang de champ de bataille d'honneur (argent) 1,@12
+4007,@4000,Rang de champ de bataille d'honneur (or) 3,@12
+4008,@4000,Rang de champ de bataille d'honneur (or) 2,@12
+4009,@4000,Rang de champ de bataille d'honneur (or) 1,@12
+4010,@4000,Rang de champ de bataille d'honneur (platine) 3,@12
+4011,@4000,Rang de champ de bataille d'honneur (platine) 2,@12
+4012,@4000,Rang de champ de bataille d'honneur (platine) 1,@12
+4013,@4000,Rang de champ de bataille d'honneur (diamant) 3,@12
+4014,@4000,Rang de champ de bataille d'honneur (diamant) 2,@12
+4015,@4000,Rang de champ de bataille d'honneur (diamant) 1,@12
+4016,@4000,Rang de champ de bataille d'honneur (maître) 3,@12
+4017,@4000,Rang de champ de bataille d'honneur (grand maître) 3,@12
+4018,@4000,Champ de bataille d'honneur (légende),@12

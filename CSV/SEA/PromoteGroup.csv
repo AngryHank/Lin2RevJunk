@@ -1,0 +1,4 @@
+GroupId,Name,IconTexture,PromoteGroup
+1,캐릭터 육성 점수,UI_Btn_Character,"10,7,4,12"
+2,아이템 달성 점수,UI_Btn_Inventory2,"1,3,9,13"
+3,도전 달성 점수,UI_Btn_PeroidAchievement,"5,8,11"
