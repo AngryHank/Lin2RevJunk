@@ -95,7 +95,7 @@ namespace L2RPacketReader
             Int64 seconds = ReadInt64();
             if (seconds > 0)
             {
-                return new DateTime(1970, 1, 1).AddSeconds(seconds - 18000 /* TODO: This a time zone adjustment? Check it. */);
+                return new DateTime(1970, 1, 1).AddSeconds(seconds - 18000 /* This adjusts timezone to EST. Server time is UTC-2 */);
             }
             else
             {

@@ -20,7 +20,11 @@ namespace L2RPacketReader.Parser.Parsers
                 UInt16 MemberCount = packet.ReadUInt16();
 
                 //Writes header for the PktGuildMemberListReadresult
-                fileStream.WriteLine("Clan ID,Name,Member Count\n" + ClanID + ",\"=VLOOKUP(OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())),0,-1),DetailedGuildInfo!A:C,3,FALSE)\"," + MemberCount + "\n");
+                fileStream.WriteLine("Clan ID,Name,Member Count\n" + ClanID + "," +
+                    /* The following is a formula for spreadsheets that will look up the clan name from the DetailedGuildInfo
+                     * output if both are imported into the same spreadsheet. It likely should be removed at a later date.*/
+                    "\"=VLOOKUP(OFFSET(INDIRECT(ADDRESS(ROW(), COLUMN())),0,-1),DetailedGuildInfo!A:C,3,FALSE)\"," 
+                    +  MemberCount + "\n");
                 fileStream.WriteLine("Player ID," + "Player Name," + "Level," + "Combat Power," +
                     "Role," + "Class," + "Offline," + "Contribution," + "Total Contributions," +
                     "Checked in," + "Rewards Count," + "World," + "Introduction");
