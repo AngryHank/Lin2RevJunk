@@ -102,7 +102,7 @@ namespace L2RPacketReader
             // If the buffer contains any complete packets, process them
             while (_incomingBuffer.Count >= 2)
             {
-                ushort packetLength = BitConverter.ToUInt16(_incomingBuffer.GetRange(0,2).ToArray(), 0);
+                ushort packetLength = BitConverter.ToUInt16(_incomingBuffer.GetRange(0, 2).ToArray(), 0);
                 if (_incomingBuffer.Count >= packetLength)
                 {
                     byte spacer = _incomingBuffer[2]; // skip 1 byte
@@ -117,7 +117,7 @@ namespace L2RPacketReader
                 {
                     break;
                 }
-            }            
+            }
         }
 
         private static void DecryptPacket(byte[] packet)
@@ -144,11 +144,12 @@ namespace L2RPacketReader
             {
                 string value = args[i];
                 Console.WriteLine(value.Substring(0, 1));
-                if (value.Substring(0,1)!= "-")
+                if (value.Substring(0, 1) != "-")
                 {
                     value = "h";
 
-                } else
+                }
+                else
                 {
                     value = value.Substring(1, 1).ToLower();
                 }
@@ -186,15 +187,15 @@ namespace L2RPacketReader
 
             // Deletes old record files if it exists.
             if (delData == 1)
-            { 
+            {
                 foreach (var item in Directory.GetFiles(@"Output\", "*.csv")) File.Delete(item);
                 foreach (var item in Directory.GetFiles(@"Output\", "*.txt")) File.Delete(item);
-            } 
+            }
             /* Retrieve the device list */
             var devices = CaptureDeviceList.Instance;
-            
-           // Returns error if no devices found.
-           // If only one device found uses that device.
+
+            // Returns error if no devices found.
+            // If only one device found uses that device.
             if (devices.Count < 1)
             {
                 Console.WriteLine("No device found on this machine");
@@ -208,7 +209,7 @@ namespace L2RPacketReader
 
 
             if (defaultDevice < 0)
-            { 
+            {
                 defaultDevice = 0;
                 // Lists each of the devices that can be captured
                 // and then has you select the device you want to use.
