@@ -1,0 +1,92 @@
+Type,Name
+0,P. Atk.
+1,M. Atk.
+2,P. Atk. Amplification
+3,M. Atk. Amplification
+4,Normal Attack Atk. Increase
+5,Atk. Amplification Based on Party Members
+6,Atk. Spd. Amplification
+7,Combat Power
+126,Cooldown Increase
+9,Crit. Rate
+10,Critical Resistance Rate
+11,Critical Damage Amplification
+12,Critical Hit Rate
+13,Critical Resistance
+14,Critical Rate Amplification
+15,Critical Resistance Amplification
+16,P. Def.
+17,M. Def.
+18,P. Def. Amplification
+19,M. Def. Amplification
+20,Evasion
+21,Evasion Amplification
+22,Evasion Rate
+23,Accuracy
+24,Accuracy Amplification
+25,Accuracy Rate
+26,Damage Increase Rate
+27,P. Damage Increase Rate
+28,@IncreaseDamagePhyMul
+29,Damage to Slowed Target Increase Rate
+30,Ignore Def. Dmg.
+31,Damage Decrease Rate
+32,P. Damage Decrease Rate
+33,M. Damage Decrease Rate
+34,Fixed Damage Decrease
+35,Parry Rate
+36,Parry Damage Decrease Rate
+37,Exp.
+38,Exp. Gain Increase Rate
+39,Aggression Amplification
+40,HP
+41,HP Regen.
+42,HP Drain
+43,Item Drop Rate Increase
+44,Max HP
+45,Max HP Amplification
+46,Max MP
+47,Max MP Amplification
+48,MP
+49,MP Cost Amplification
+50,MP Regen. Rate
+51,Speed
+52,Speed Amplification
+53,Slow Resistance Rate
+54,Stun Resistance Rate
+55,Abnormal Status Resistance Rate
+56,Target Pull Resistance Rate
+126,Knock Back Resistance Rate
+58,Adena
+59,Adena Gain Increase Rate
+60,Free Diamond
+61,Paid Diamond
+62,Quest Ticket
+63,Conquest Auto-Clear Ticket
+64,Rune Fragment
+65,Skill Point
+66,Friendship Points
+67,Topaz
+68,Loyalty Points
+69,Invincible
+70,One Kill
+71,Smart
+72,Durable
+73,Class Exp.
+74,Clan Coin
+75,Achievement Point
+76,Siege Festival Ticket
+77,PvP Ticket
+78,PvP Honor Score
+79,Level
+80,Penetration
+81,Resilience
+82,Skill AoE Increase
+83,Skill Hit Count Increase
+84,Excavation Speed Increase
+85,Extraction Count Increase
+86,Mana Shield Rate (Damage absorption via Mana)
+87,Block PK
+88,Monster Core Drop Rate Increase
+89,@CombatPower
+90,Combo Duration Increase

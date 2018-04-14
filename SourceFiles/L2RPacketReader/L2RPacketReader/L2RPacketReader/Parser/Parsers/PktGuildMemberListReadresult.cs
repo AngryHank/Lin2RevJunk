@@ -53,6 +53,7 @@ namespace L2RPacketReader.Parser.Parsers
                     string WorldID = CSV.world.worldName(packet.ReadUInt16());
                     UInt16 introLength = packet.ReadUInt16();
                     string Introduction = packet.ReadString();
+                    packet.Skip(1);
 
 
                     fileStream.WriteLine(PlayerID + "," + PlayerName + "," + Level + "," + PlayerCP + "," +

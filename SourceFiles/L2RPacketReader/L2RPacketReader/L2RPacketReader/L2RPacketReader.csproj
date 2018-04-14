@@ -83,6 +83,8 @@
     <Compile Include="Misc\Misc.cs" />
     <Compile Include="Parser\PacketReader.cs" />
     <Compile Include="Parser\Handler.cs" />
+    <Compile Include="Parser\Parsers\PktActorDestroyNotify.cs" />
+    <Compile Include="Parser\Parsers\PktCharacterStatChangeNotify.cs" />
     <Compile Include="Parser\Parsers\PktItemLootNotify.cs" />
     <Compile Include="Parser\Parsers\PktChatPromoListReadresult.cs" />
     <Compile Include="Parser\Parsers\PkgGuildAgitQuestListresult.cs" />

@@ -285,6 +285,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xD0:	//208	
                     result = "PktActorDestroyNotify";
+                    //PktActorDestroyNotify.Packet(packet);
                     break;
                 case 0xD1:	//209	
                     result = "PktPlayerRevive";
@@ -330,6 +331,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xDF:	//223	
                     result = "PktCharacterStatChangeNotify";
+                    PktCharacterStatChangeNotify.Packet(packet);
                     break;
                 case 0xE0:	//224	
                     result = "PktActorStateChange";
@@ -962,7 +964,7 @@ namespace L2RPacketReader.Parser
                     result = "PktChatPromoListRead";
                     break;
                 case 0x319:	//793	
-                    result = "PktChatPromoListReadResult";
+                //    result = "PktChatPromoListReadResult";
                     break;
                 case 0x31A:	//794	
                     result = "PktChatPromoWrite";
@@ -993,7 +995,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x353:	//851	
                     result = "PktBagListReadResult";
-					//PktBagListReadresult.Packet(packet);
+					PktBagListReadresult.Packet(packet);
                     break;
                 case 0x354:	//852	
                     result = "PktEquipmentListRead";
@@ -1937,14 +1939,14 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x579:	//1401	
                     result = "PktGuildInfoReadResult";
-                    //PktGuildInfoReadresult.Packet(packet);
+                    PktGuildInfoReadresult.Packet(packet);
                     break;
                 case 0x57A:	//1402	
                     result = "PktGuildMemberListRead";
                     break;
                 case 0x57B:	//1403	
                     result = "PktGuildMemberListReadResult";
-                    //PktGuildMemberListReadresult.Packet(packet);
+                    PktGuildMemberListReadresult.Packet(packet);
                     break;
                 case 0x57C:	//1404	
                     result = "PktGuildCreate";
@@ -2116,7 +2118,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x5B4:	//1460	
                     result = "PktGuildRecommendationListReadResult";
-                    //PktGuildRecommendationListReadresult.Packet(packet);
+                    PktGuildRecommendationListReadresult.Packet(packet);
                     break;
                 case 0x5B5:	//1461	
                     result = "PktGuildRankingListRead";
@@ -2198,7 +2200,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x5CF:	//1487	
                     result = "PktGuildRecordListReadResult";
-                    //PktGuildRecordListReadresult.Packet(packet);
+                    PktGuildRecordListReadresult.Packet(packet);
                     break;
                 case 0x5D0:	//1488	
                     result = "PktGuildWarehouseListRead";
@@ -2504,6 +2506,7 @@ namespace L2RPacketReader.Parser
                     result = "PktGuildAgitQuestList";
                     break;
                 case 0x635:	//1589	
+                    result = "PktGuildAgitQuestListResult";
                     //PktGuildAgitQuestListresult.Packet(packet);
                     break;
                 case 0x636:	//1590	
@@ -4359,7 +4362,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x232E:	//9006	
                     result = "PktGuildDungeonParticipateResult";
-                    //PktGuildDungeonParticipateresult.Packet(packet);
+                    PktGuildDungeonParticipateresult.Packet(packet);
                     break;
                 case 0x232F:	//9007	
                     result = "PktGuildDungeonHelpresultNotify";
@@ -4906,7 +4909,14 @@ namespace L2RPacketReader.Parser
                     break;
             }
 
-
+/*            using (FileStream fileStream = new FileStream(@"Packets\"+ result + "(" + packet.Remaining + ").dat", FileMode.Append, FileAccess.Write, FileShare.Write))
+            {
+                for (int j = 0; j < packet.Remaining;)
+                {
+                    fileStream.WriteByte(packet.ReadByte());
+                }
+            }
+            */
             Console.Write("\tPacketType: " + result + "\n");
         }
     }

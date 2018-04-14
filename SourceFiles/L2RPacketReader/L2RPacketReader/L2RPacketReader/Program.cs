@@ -4,14 +4,17 @@ using SharpPcap;
 
 namespace L2RPacketReader
 {
+    public class Globals { public static int lootIndex;}
+
     public class RecordPackets
     {
 
         // A few variable used throughout the program
         private static byte[] EncryptionKey = { 0xA7, 0x84, 0x20, 0xD0, 0xC9, 0x78, 0xB3, 0x9A };
-        private static string filter = "port 12000 and len > 60";
+        private static string filter = "port 51449 and len > 60";
         private static int readTimeoutMilliseconds = 1000;
         private static int defaultDevice = -1;
+     
 
 
         /// <summary>
