@@ -627,7 +627,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x1C3:	//451	
                     result = "PktMonsterBookListReadResult";
-					//PktMonsterBookListReadresult.Packet(packet);
+					PktMonsterBookListReadresult.Packet(packet);
                     break;
                 case 0x1C4:	//452	
                     result = "PktMonsterCoreUse";
@@ -908,12 +908,14 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x306:	//774	
                     result = "PktChatGuildListReadResult";
+                    PktChatGuildListReadResult.Packet(packet);
                     break;
                 case 0x307:	//775	
                     result = "PktChatGuildWrite";
                     break;
                 case 0x308:	//776	
                     result = "PktChatGuildWriteResult";
+                    PktChatGuildWriteResult.Packet(packet);
                     break;
                 case 0x309:	//777	
                     result = "PktChatGuildWriteNotify";
@@ -935,18 +937,22 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x30F:	//783	
                     result = "PktChatWorldWriteResult";
+                    PktChatWorldWriteResult.Packet(packet);
                     break;
                 case 0x310:	//784	
                     result = "PktChatWorldWriteNotify";
+                    PktChatWorldWriteNotify.Packet(packet);
                     break;
                 case 0x311:	//785	
                     result = "PktChatPartyWrite";
                     break;
                 case 0x312:	//786	
                     result = "PktChatPartyWriteResult";
+                    PktChatPartyWriteResult.Packet(packet);
                     break;
                 case 0x313:	//787	
                     result = "PktChatPartyWriteNotify";
+                    PktChatPartyWriteNotify.Packet(packet);
                     break;
                 case 0x314:	//788	
                     result = "PktChatItemLootNotify";
@@ -964,7 +970,7 @@ namespace L2RPacketReader.Parser
                     result = "PktChatPromoListRead";
                     break;
                 case 0x319:	//793	
-                //    result = "PktChatPromoListReadResult";
+                    result = "PktChatPromoListReadResult";
                     break;
                 case 0x31A:	//794	
                     result = "PktChatPromoWrite";
@@ -2447,6 +2453,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x621:	//1569	
                     result = "PktGuildMemberKillNotify";
+                    PktGuildMemberKillNotify.Packet(packet);
                     break;
                 case 0x622:	//1570	
                     result = "PktGuildInfoNotify";
@@ -2507,7 +2514,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x635:	//1589	
                     result = "PktGuildAgitQuestListResult";
-                    //PktGuildAgitQuestListresult.Packet(packet);
+                    PktGuildAgitQuestListresult.Packet(packet);
                     break;
                 case 0x636:	//1590	
                     result = "PktGuildAgitQuestAccept";
@@ -4362,7 +4369,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x232E:	//9006	
                     result = "PktGuildDungeonParticipateResult";
-                    PktGuildDungeonParticipateresult.Packet(packet);
+                    //PktGuildDungeonParticipateresult.Packet(packet);
                     break;
                 case 0x232F:	//9007	
                     result = "PktGuildDungeonHelpresultNotify";
@@ -4908,15 +4915,15 @@ namespace L2RPacketReader.Parser
                     result = "(InvalidPacket)";
                     break;
             }
-
-/*            using (FileStream fileStream = new FileStream(@"Packets\"+ result + "(" + packet.Remaining + ").dat", FileMode.Append, FileAccess.Write, FileShare.Write))
+            
+            using (FileStream fileStream = new FileStream(@"Packets\"+ result + "(" + packet.Remaining + ").dat", FileMode.Append, FileAccess.Write, FileShare.Write))
             {
                 for (int j = 0; j < packet.Remaining;)
                 {
                     fileStream.WriteByte(packet.ReadByte());
                 }
             }
-            */
+            
             Console.Write("\tPacketType: " + result + "\n");
         }
     }

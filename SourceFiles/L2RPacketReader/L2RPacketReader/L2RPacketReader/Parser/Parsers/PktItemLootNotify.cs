@@ -50,12 +50,12 @@ namespace L2RPacketReader.Parser.Parsers
                 UInt64 UItemID = packet.ReadUInt64();
                 UInt16 Count = packet.ReadUInt16();
                 UInt16 Stack = packet.ReadUInt16();
-                itemlist += "," + UItemID + " (" + Stack  + ")," + Count;
+                itemlist += "," + UItemID + "," + Count;
             }
             packet.Skip(2);
             byte LooterType = packet.ReadByte();
             UInt32 NPCInfoID = packet.ReadUInt32();
-            using (StreamWriter fileStream = new StreamWriter(@"Output\ItemsLootedTest.csv", true))
+            using (StreamWriter fileStream = new StreamWriter(@"Output\ItemsLooted.csv", true))
             {
                 if (Globals.lootIndex == 1)
                     fileStream.Write(",");

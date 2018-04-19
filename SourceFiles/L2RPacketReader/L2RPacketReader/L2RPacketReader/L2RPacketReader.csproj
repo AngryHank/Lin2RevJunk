@@ -83,10 +83,16 @@
     <Compile Include="Misc\Misc.cs" />
     <Compile Include="Parser\PacketReader.cs" />
     <Compile Include="Parser\Handler.cs" />
+    <Compile Include="Parser\Parsers\PktChatPartyWriteNotify.cs" />
+    <Compile Include="Parser\Parsers\PktChatWorldWriteResult.cs" />
+    <Compile Include="Parser\Parsers\PktChatWorldWriteNotify.cs" />
+    <Compile Include="Parser\Parsers\PktChatPartyWriteResult.cs" />
+    <Compile Include="Parser\Parsers\PktChatGuildWriteResult.cs" />
+    <Compile Include="Parser\Parsers\PktChatGuildListReadResult.cs" />
     <Compile Include="Parser\Parsers\PktActorDestroyNotify.cs" />
     <Compile Include="Parser\Parsers\PktCharacterStatChangeNotify.cs" />
+    <Compile Include="Parser\Parsers\PktGuildMemberKillNotify.cs" />
     <Compile Include="Parser\Parsers\PktItemLootNotify.cs" />
-    <Compile Include="Parser\Parsers\PktChatPromoListReadresult.cs" />
     <Compile Include="Parser\Parsers\PkgGuildAgitQuestListresult.cs" />
     <Compile Include="Parser\Parsers\PktSkillHitNotify.cs" />
     <Compile Include="Parser\Parsers\PktMonsterBookListReadresult.cs" />

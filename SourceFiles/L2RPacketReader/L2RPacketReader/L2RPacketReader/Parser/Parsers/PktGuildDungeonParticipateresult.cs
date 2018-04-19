@@ -25,16 +25,17 @@ namespace L2RPacketReader.Parser.Parsers
                 int[] Unk4 = new int[itemCount];
                 byte[] Unk5 = new byte[itemCount];
                 string[] ItemID = new string[itemCount];
-                int[] ItemCount = new int[itemCount];
+                uint[] ItemCount = new uint[itemCount];
                 for (int l = 0; l < itemCount; l++)
                 {
                     Unk1[l] = packet.ReadInt32();
                     Unk2[l] = packet.ReadInt32();
                     ItemID[l] = CusEnum.Item.Enum(packet.ReadUInt32());
-                    ItemCount[l] = packet.ReadInt16();
+                    ItemCount[l] = packet.ReadUInt32();
                     Unk3[l] = packet.ReadInt32();
                     Unk4[l] = packet.ReadInt32();
                     Unk5[l] = packet.ReadByte();
+                    Unk4[l] = packet.ReadInt16();
                 }
 
                 UInt16 PlayerCount = packet.ReadUInt16();
