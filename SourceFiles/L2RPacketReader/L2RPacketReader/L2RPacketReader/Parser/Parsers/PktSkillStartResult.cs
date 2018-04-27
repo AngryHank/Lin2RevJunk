@@ -4,20 +4,24 @@ using System.Text;
 
 namespace L2RPacketReader.Parser.Parsers
 {
-    class PktSkillHitNotify
+    class PktSkillStartResult
     {
         public static void Packet(PacketReader packet)
         {
-            using (StreamWriter fileStream = new StreamWriter(@"Output\PktSkillHitNotify.csv", true))
+            using (StreamWriter fileStream = new StreamWriter(@"Output\PktSkillStartResult.csv", true))
             {
 
                 if (fileStream.BaseStream.Length < 1)
                 {
-                    fileStream.WriteLine("ActorID,SkillInfoID,ComboCount,HitList,HitActorID,CritHit,Damage,ParryingDamage,ActorHP,MPDamage,MissList,MissActorID,MissType,Junk");
+                    fileStream.WriteLine("TID,SkillInfoID,MP,TargetPosX,TargetPosY,ComboCount,HitList,HitActorID,CritHit,Damage,ParryingDamage,ActorHP,MPDamage,MissList,MissActorID,MissType,Junk");
                 }
 
-                UInt64 ActorID = packet.ReadUInt64();
+                packet.Skip(2);
+                byte TID = packet.ReadByte();
                 String SkillInfoID = CSV.skill.skillName(packet.ReadInt32());
+                UInt32 MP = packet.ReadUInt32();
+                Single TargetPosX = packet.ReadSingle();
+                Single TargetPosY = packet.ReadSingle();
                 UInt16 ComboCount = packet.ReadUInt16();
                 UInt16 HitList = packet.ReadUInt16();
                 UInt64[] HitActorID = new UInt64[HitList];
@@ -72,7 +76,7 @@ namespace L2RPacketReader.Parser.Parsers
 
                 for (int j = 0; j < MaxArray; j++)
                 {
-                    fileStream.Write(ActorID + "," + SkillInfoID + "," + ComboCount + "," + HitList + ",");
+                    fileStream.Write(TID + "," + SkillInfoID + "," + MP + "," + TargetPosX + "," + TargetPosY + "," + ComboCount + "," + HitList + ",");
                     if (HitList < MaxArray)
                     {
                         fileStream.Write(",,,,,,");

@@ -331,7 +331,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xDF:	//223	
                     result = "PktCharacterStatChangeNotify";
-                    PktCharacterStatChangeNotify.Packet(packet);
+                    //PktCharacterStatChangeNotify.Packet(packet);
                     break;
                 case 0xE0:	//224	
                     result = "PktActorStateChange";
@@ -543,6 +543,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x12D:	//301	
                     result = "PktAchievementListReadResult";
+                    PktAchievementListReadResult.Packet(packet);
                     break;
                 case 0x12E:	//302	
                     result = "PktPeriodAchievementListRead";
@@ -717,6 +718,7 @@ namespace L2RPacketReader.Parser
                     result = "PktSkillStart";
                     break;
                 case 0x25C:	//604	
+                    //PktSkillStartResult.Packet(packet);
                     result = "PktSkillStartResult";
                     break;
                 case 0x25D:	//605	
@@ -2273,6 +2275,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0x5E5:	//1509	
                     result = "PktGuildSearchResult";
+                    PktGuildSearchResult.Packet(packet);
                     break;
                 case 0x5E6:	//1510	
                     result = "PktGuildAllianceListRead";
@@ -3631,6 +3634,7 @@ namespace L2RPacketReader.Parser
                     break;
                 case 0xB55:	//2901	
                     result = "PktRankingListRead";
+                    PktRankingListRead.Packet(packet);
                     break;
                 case 0xB56:	//2902	
                     result = "PktRankingListReadResult";

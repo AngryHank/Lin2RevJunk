@@ -8,7 +8,7 @@ namespace L2RPacketReader.Parser.Parsers
         public static void Packet(PacketReader packet)
         {
             Globals.lootIndex = 1;
-            using (StreamWriter fileStreamer = new StreamWriter(@"Output\ItemsLootedTest.csv", true))
+            using (StreamWriter fileStreamer = new StreamWriter(@"Output\ItemsLooted.csv", true))
             {
 
                 UInt32 Exp = packet.ReadUInt32();

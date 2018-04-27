@@ -66,6 +66,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CSV\achievement.cs" />
+    <Compile Include="CSV\ranking.cs" />
     <Compile Include="CSV\guildMemberGrade.cs" />
     <Compile Include="CSV\guildLevelUp.cs" />
     <Compile Include="CSV\itemOption.cs" />
@@ -92,8 +94,11 @@
     <Compile Include="Parser\Parsers\PktActorDestroyNotify.cs" />
     <Compile Include="Parser\Parsers\PktCharacterStatChangeNotify.cs" />
     <Compile Include="Parser\Parsers\PktGuildMemberKillNotify.cs" />
+    <Compile Include="Parser\Parsers\PktGuildSearchResult.cs" />
     <Compile Include="Parser\Parsers\PktItemLootNotify.cs" />
     <Compile Include="Parser\Parsers\PkgGuildAgitQuestListresult.cs" />
+    <Compile Include="Parser\Parsers\PktRankingListRead.cs" />
+    <Compile Include="Parser\Parsers\PktSkillStartResult.cs" />
     <Compile Include="Parser\Parsers\PktSkillHitNotify.cs" />
     <Compile Include="Parser\Parsers\PktMonsterBookListReadresult.cs" />
     <Compile Include="Parser\Parsers\PktBagListReadresult.cs" />
@@ -106,6 +111,24 @@
     <Compile Include="Parser\Parsers\PktPlayerMoveListNotify.cs" />
     <Compile Include="Parser\Parsers\PktNpcMoveNotify.cs" />
     <None Include="packages.config" />
+    <Compile Include="Parser\Parsers\PktAchievementListReadResult.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktAchievement.cs" />
+    <Compile Include="Parser\Pkt\PktAchievementListReadResult.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktPKMode.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\pktPartyEmblem.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktSimpleCape.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktPlayerGuild.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktSimpleEquipment.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktBuffInfo.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktAppearance.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktOtherPlayer.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktNpcMoveInfo.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktNpcCreateInfo.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktProjectileInfo.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktGroundObjectInfo.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktGadget.cs" />
+    <Compile Include="Parser\Pkt\SubPkt\PktActorOwnerInfo.cs" />
+    <Compile Include="Parser\Pkt\PktSightEnterNotify.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -119,5 +142,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
