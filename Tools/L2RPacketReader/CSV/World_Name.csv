@@ -33,6 +33,11 @@ Id,Name
 213,Dragon Cave 1
 214,Dragon Cave 2
 215,Antharas’s Nest
+300,Altar of Madness
+301,Countess of Blood’s Boudoir
+400,Temporal Rift
+401,Guillotine Keep
+402,Zaken's Ghost Ship
 11000,Sanctuary of Lost Memories
 12000,Tower of Insolence
 13000,Extraction Pit
@@ -78,6 +83,8 @@ Id,Name
 20000,Lesser Giant's Lab
 20001,@20000
 20002,@20000
+21000,Magnadin
+211010,Giant's Laboratory
 30001,God’s Gift
 30002,@30001
 999,Castle Siege TEST
@@ -125,6 +132,8 @@ Id,Name
 200010,Zaken’s Abyss
 210206,@206
 210207,@207
+210208,@13
+299301,Gadget World - Countess of Blood’s Boudoir
 299981,Gadget World - East Talking Island
 299982,Gadget World - West Talking Island
 299983,Gadget World - Gludin Highway
@@ -148,4 +157,3 @@ Id,Name
 300203,@203
 300205,@205
 300207,@207
-401,Guillotine Keep

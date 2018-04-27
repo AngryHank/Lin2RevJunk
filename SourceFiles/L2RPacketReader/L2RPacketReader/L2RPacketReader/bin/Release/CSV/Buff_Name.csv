@@ -54,6 +54,7 @@ Id,Name,EffectTypeName,Desc
 13213,Ultimate Defense,"Ultimate Defense: Large P. Def. & M. Def. Increase, Immobility",Def.: {1%}% + {3}. Decreases enemies’ Speed.
 132132,@13213,Ultimate Defense: Slows Enemy,Speed Decrease
 13222,Hurricane Storm,@10122,@10122
+132221,@13222,Speed Increase,Speed +{1%}%
 132231,Dance of the Warrior,Dance of Warrior: Party P. Atk. Increase,Party Members’ P. Atk +{1}
 132241,Dance of Fury,Dance of Fury: Party Atk. Spd. Increase,Party Members’ Atk. Spd. +{1%}%
 13231,Sting,Bonus Bleed Dmg.,Dmg.: {[Use34Param]1-1%}% of Atk. +{1-1}
@@ -107,7 +108,7 @@ Id,Name,EffectTypeName,Desc
 22211,Elder Avoidance,Evasion Increase,Evasion Rate +{1%}%
 22221,Esprit,Crit. Rate Increase,Crit. Rate +{1%}%
 22231,Rapid Anger,"Atk. Spd., Speed Increase",Atk. Spd +{[StackMul]1%}% and Speed +{[StackMul]1%}%.
-22241,Swift,Crit. Dmg. Increase,Speed +{1%}%
+22241,Swift,Crit. Dmg. Increase,@132221
 22261,@22211,@22211,Evasion +{1%}%
 23211,Enhanced Drain,HP Drain Effect,Absorb {1-1%}% of damage dealt
 23221,Fever,@22241,@132331
@@ -128,7 +129,7 @@ Id,Name,EffectTypeName,Desc
 24252,Lucky Defense,Lucky Defense: Chance to increase P. Def. and M. Def. when party attacks,Def. +{1}
 24261,Fortify,HP Regen. Increase,HP Regen. +{1%}%
 30001,Absolute Shield,"Damage Taken Decrease, Incapacitation Resist","Damage taken -{1%}% (brief), Incapacitating Debuff Resist +30%"
-30002,Nimble Step,Speed Increase,@22241
+30002,Nimble Step,@132221,@132221
 30003,Immortal,@1004,
 30004,Blood Arrow: Damage over Time,@13231,Bleed Dmg. +{[Use34Param]1%}%
 30006,Missile Bolt: Stun,@11222,@1011
@@ -140,6 +141,29 @@ Id,Name,EffectTypeName,Desc
 30015,Defense Zone,Abnormal Status Resist,Abnormal Status Resist +{1%}%
 300151,@30015,Decrease Damage Taken,Damage Taken -{1%}% and Rare Skill Dmg. Taken is additional -{2%}%
 31001,Frost Armor: Slow,@10122,@30008
+35001,Warrior Weapon Mastery,Warrior Weapon Mastery,
+35002,Heavy Armor Mastery,Heavy Armor Mastery,
+35003,Rogue Weapon Mastery,Rogue Weapon Mastery,
+35004,Light Armor Mastery,Light Armor Mastery,
+35005,Mage Weapon Mastery,Mage Weapon Mastery,
+35006,Robe Mastery,Robe Mastery,
+35011,Parry Mastery,Parry Mastery,
+35021,Combat Mastery,Combat Mastery,
+35031,Improve Critical Attack,Improve Critical Attack,
+35111,@35011,@35011,
+35121,@22221,Esprit,
+35122,@35021,@35021,
+35131,Critical Chance,Critical Chance,
+35141,@22241,Swift,
+35151,Frost Sigil,Frost Sigil,
+35161,@22211,Elder Avoidance,
+35221,@35021,@35021,
+35231,Critical Power,Critical Power,
+35311,Parry Expertise,Parry Expertise,
+35321,@35021,@35021,
+35331,@22221,@35121,
+35332,Lucky Fatality,Lucky Fatality,
+35341,@24241,Acrobatics,
 40001,Exp. Bonus Time Buff,Exp. Gain Increase,Obtain a large amount of Exp. during Bonus Time.
 40002,Adena Bonus Time Buff,Adena Gain Increase,Obtain a large amount of Adena during Bonus Time.
 40003,Equipment Bonus Time Buff,Equipment Acquisition Rate Increase,Greatly increases equipment drop rate during Bonus Time.
@@ -227,7 +251,7 @@ Id,Name,EffectTypeName,Desc
 50008,Weaken,Monster: Weaken,
 50010,@50005,@50005,
 60099,@50006,Talking Island Monster: Bleed,
-60103,Dummy Skill,@30002,
+60103,Dummy Skill,@132221,
 60115,Golden Idol,Burn,Damage is dealt over time for 5 seconds.
 60118,Marlow - Ultimate Defense,@13213,Greatly increases Def.
 60136,Skeleton Chaser (+ Stun/For Enhance Scroll Dungeon),@50005,
@@ -313,7 +337,7 @@ Id,Name,EffectTypeName,Desc
 90004,Clan Might,Atk. Increase,Atk. +{1%}%
 90005,Clan Guidance,Acc. Increase,Accuracy +{1%}%
 90006,Clan Evade,@22211,@22261
-90007,Clan Movement,Speed Increase,@22241
+90007,Clan Movement,Speed Increase,@132221
 90008,Clan Deadly Strike,@22241,@132331
 90009,Clan Crit. Rate,Crit. Rate Increase,Crit. Rate +{1%}%
 905001,Crystal of Unity Lv. {TextParam1},Crystal of Unity Lv. {TextParam2} Buff,Imbues the power of the Clan Hall’s Crystal of Unity.
@@ -406,6 +430,13 @@ Id,Name,EffectTypeName,Desc
 200007,@200003,@200003,Atk. and Def. +5%.
 200008,@200003,@200003,Atk. and Def. +6%.
 200009,@200003,@200003,Atk. and Def. +7%.
+200013,@200003,@200003,@200003
+200014,@200003,@200003,@200004
+200015,@200003,@200003,@200005
+200016,@200003,@200003,@200006
+200017,@200003,@200003,@200007
+200018,@200003,@200003,@200008
+200019,@200003,@200003,@200009
 300001,Grand Castle,Exp. Gain Increase,"Exp. from Monsters +50%.
 Only applies in a conquered castle’s territory."
 300002,Gludio Castle,"Atk., Def. +1.5%","Atk. and Def. +1.5%
@@ -438,7 +469,20 @@ Only applies in the region of your conquered Fortress."
 (Excludes Castle Siege, Fortress Siege)"
 301017,Ivory Tower Conquered Fortress,@301015,"Damage Taken from Players -4%
 (Excludes Castle Siege, Fortress Siege)"
-301018,Talking Island Fortress,@30002,"Speed +2%
+301018,Talking Island Fortress,@132221,"Speed +2%
+(Excludes Castle Siege, Fortress Siege)"
+301030,Conquered Fortress Buff C,"HP, MP, Speed Increase","HP, MP, Speed +2%
+(Excludes Castle Siege, Fortress Siege)"
+301031,Conquered Fortress Buff B,@301030,@301030
+301032,Conquered Fortress Buff A,@301030,"HP, MP, Speed +3%
+(Excludes Castle Siege, Fortress Siege)"
+301033,Conquered Fortress Buff S,@301030,"HP, MP, Speed +4%
+(Excludes Castle Siege, Fortress Siege)"
+301034,Conquered Fortress Buff R,@301030,"HP, MP, Speed +6%
+(Excludes Castle Siege, Fortress Siege)"
+301035,Conquered Fortress Buff SR,@301030,"HP, MP, Speed +8%
+(Excludes Castle Siege, Fortress Siege)"
+301036,Conquered Fortress Buff UR,@301030,"HP, MP, Speed +10%
 (Excludes Castle Siege, Fortress Siege)"
 302001,Lord's Wisdom,"HP, MP Potion Effectiveness Increase","HP and MP Potion effectiveness +20%. (Excludes Castle Siege, Fortress Siege)"
 302002,Lord's Glory,"Monster Defeat Exp. Gain, Core Drop Rate Increase",Exp. from Monsters & Core Drop Rate +20%
@@ -446,7 +490,8 @@ Only applies in the region of your conquered Fortress."
 400001,Sanctuary Buff,"Adena, Exp. Gain, and Speed Increase","Adena Gain, Exp. Gain, & Speed Increase"
 400002,Gran Kain’s Rage,"Atk., Def., and Atk. Spd Increase","Atk., Def., and Atk. Spd Increase"
 500001,Eldru's Rage,"Atk., Def., Speed, and Atk. Spd. Increase","Display rage towards weak enemies / Double Atk. & Def., Speed & Atk. Spd. Increase"
-510001,Daily Diamond Bonus Buff,@30002,Speed +8%
+510001,Daily Diamond Bonus Buff,@132221,Speed +8%
+510002,Daily Hunting Benefit Buff,"Item drop rate, Adena Gain +20%",Item drop rate / Adena Gain +20%
 900001,Tower of Insolence Boss Spotlight,Strong,Strong
 301,Blessing of Robust Ratel {TextParam1},Speed,Blessing of Robust Ratel increases Speed.
 302,@301,Extraction Speed,Blessing of Robust Ratel increases Extraction Speed.
@@ -464,6 +509,7 @@ Only applies in the region of your conquered Fortress."
 501,Block PK,Block PK,"Not subject to PK. (Excludes Fortress Siege, Castle Siege, Battlefield)"
 502,@501,@501,@501
 503,@501,@501,@501
+504,@501,@501,@501
 510,Einhasad’s Blessing,Einhasad’s Blessing,Increases Field Hunt Exp. and Extraction Exp. gained by 100%.
 511,@510,@510,Increases Field Hunt Exp. and Extraction Exp. gained by 200%.
 720212,Pounce - Stun,@11222,@1011
@@ -498,6 +544,13 @@ Only applies in the region of your conquered Fortress."
 721246,@721241,,
 721301,@720243,@11222,
 721321,Binding,,Binds and makes immobile.
+721332,Nurse Ant Buff,,
+721341,Nurse Ant Self Buff,,
+17200022,@50007,,@1720222
+17200032,@1720223,@1720223,
+17200033,Tripped,,
+17200052,@50005,,Cannot move.
+17200091,Berserk,,
 720312,Blood Blade: Bleed,Bleed,Deals damage over time for 30 seconds (Stackable).
 720321,Blood Protection,Shield,A shield that lasts for 10 seconds.
 720351,Blood Berserker,Berserk,Berserk
@@ -552,22 +605,97 @@ Damage taken by Marlox increases significantly."
 910253,Oriental Melon,,@910248
 910254,Raspberry,,@910245
 910255,Feldheim’s Treasure Hunt Key,,@910246
+910256,Firework Effect Animation Data 1 ,,Firework Effects Data 1
+910257,Firework Effect Animation Data 2,,Firework Effects Data 2
+910258,Firework Effect Animation Data 3,,Firework Effects Data 3
+910259,Firework Effect Animation Data 4,,Firework Effects Data 4
 602,Buff for displaying field boss.,For displaying field boss,For displaying field boss
 800000,Alarm Icon (Test),Display Alarm Icon,Alarm Icon Display Test
 805004,@720312,@720312,@720312
-413005,Pierced Wound,Pierced Wound,Bleeding from wound decreases Def.
-413010,Leonard: Bleed,@11222,
-413011,Forceful HP Drain,Forceful HP Drain,Leonard drains HP forcefully.
-413013,Sticky Vomit,Dmg. over Time and Speed Decrease,Sticky vomit limits movement and melts skin.
-413015,Life Drain,,Trisha’s bat drains HP successfully and keeps it.
-413016,HP Transfer,,Trisha’s bat transfers HP to Trisha.
-4130211,Recharge HP: Invisible,@100002,
-4130212,Recharge HP: Invincible,@1004,
-4130213,Recharge HP: Stun,@11222,
-413018,Vampirize,Atk. Increase and Def. Decrease,Blood vampirizes and causes rage.
-413019,Vampiric Change,@720461,Blood completely vampirizes and targets ally HP.
-413027,Blood Clot Explosion Timer,@7212411,
-413028,Vampiric Transformation,Remove HP Drain,
+411005,Piercing Wound,Piercing Wound,Bleeding from wound decreases Def.
+411010,Anemia,@11222,
+411011,Forceful HP Drain,Forceful HP Drain,Leonard drains HP forcefully.
+411018,Vampirize,Atk. Increase and Def. Decrease,Blood becomes that of a vampire and causes rage.
+411019,Vampiric Change,@720461,Blood becomes completely vampiric and an ally’s blood becomes the new target.
+411036,Rage Of Blood I,,
+411037,Rage Of Blood II,,
+411038,Rage Of Blood III,,
+412005,@411005,@411005,@411005
+412010,@411010,@11222,
+412011,@411011,@411011,@411011
+412018,@411018,@411018,@411018
+412019,@411019,@720461,@411019
+412036,@411036,,
+412037,@411037,,
+412038,@411038,,
+413002,Enraged Blood,Atk. and Atk. Spd. Increase,
+413005,@411005,@411005,@411005
+413010,Leonard: Anemia,@11222,
+413011,@411011,@411011,@411011
+413013,Corrosive Acid,Dmg. over Time and Speed Decrease,Sticky vomit limits movement and melts skin.
+413016,Bat: Invisible,,
+4130212,Recharge Blood: Invincible,@1004,
+4130213,Recharge Blood: Stun,@11222,
+413018,@411018,@411018,@411018
+413019,@411019,@720461,@411019
+4130272,Blood Clot Glow,,
+413034,Phlegmatic Supersaturation,,
+413035,Phantom of Zaken Invincibility,@1004,@1004
+413036,@411036,,
+413037,@411037,,
+413038,@411038,,
+413041,Leonard: Blood Hell,@11222,
+414002,@413002,@413002,
+414005,@411005,@411005,@411005
+414010,@411010,@11222,
+414011,@411011,@411011,@411011
+414013,@413013,@413013,@413013
+414016,@413016,,
+414018,@411018,@411018,@411018
+414019,@411019,@720461,@411019
+414036,@411036,,
+414037,@411037,,
+414038,@411038,,
+414041,@413041,@11222,
+414043,Tark Invisibility Buff,@11222,
+414045,Vampiric Resonance,,
+4010062,Rock Smash: Stun,@11222,@1011
+4010202,Target Identified: Target,Target,Becomes the target of axe throws.
+401021,Ember,,Explodes after a short duration creating fire on the ground.
+401026,Ignition,Additional Damage (Stackable),An explosion due to Ignition will deal significantly more damage.
+401009,Ramog Royal Guard Berserk,Animation,
+401010,Orc Shaman Soul: Animation,,
+401011,Nebulite Crystal: Stun,@11222,
+401013,Self-destruct Timer,@7212411,
+401014,Self-destruct Animation Buff 1,,
+401015,Self-destruct Animation Buff 2,,
+4020012,Strong Slash: Knock Down,@1001,@601472
+4010351,Explosion Standby: Incapacitation,For Incapacitating Ramog,
+4020101,Explosion Standby: Incapacitation,@12231,
+4010361,Paagrio’s Movement Buff,Mobile,
+4010222,@50001,Flame,
+401000,Orc’s Power,Orc Supply Box Buff,
+4011032,Target Identified: Stun,@1001,
+4011042,@401021,Ember,Embers stick to the body and deal continuous damage.
+4011022,Ember Explosion 1,@4011042,
+4011023,Ember Explosion 2,,
+4011092,Ember Explosion: Knock Down,@1001,
+4012022,@401026,,@401026
+4012051,Explosion Standby,,
+4012061,@4010361,,
+401217,Berserk Standby,,
+401218,Ramog Self Stun,,
+4012092,Paagrio’s Glow,,
+401211,Ramog - Berserk,,
+9902011,Cloak Effect - PVE Attack Disable Barrier: 1 time,,
+9902012,Cloak Effect - PVE Attack Disable Barrier: 2 times,,
+9902013,Cloak Effect - PVE Attack Disable Barrier: 3 times,,
+9903011,Cloak Effect - PVP Rare Skill Barrier: 1 time,,
+9903012,Cloak Effect - PVP Rare Skill Barrier: 2 times,,
+9903013,Cloak Effect - PVP Rare Skill Barrier: 3 times,,
+1000000,Elite Monster Dmg. Increase,Elite Monster Dmg. Increase Buff,15% Increased Damage to Elite Monsters
+1000001,Boss Dmg. Increase,Boss Dmg. Increase Buff,15% Increased Damage to Bosses
+1000002,Magical Monster Dmg. Increase,Magical Monster Dmg. Increase Buff,30% Increased Damage to Magical Monsters
 420001,Paladin,,
 420002,Warlord,,
 420003,Treasure Hunter,,
@@ -592,6 +720,23 @@ Damage taken by Marlox increases significantly."
 420022,War Ranger,,
 420023,Battle Mage,,
 420024,Sage,,
+731211,자켄 밤 {TextParam1}단계,,
+731221,@731211,,
+731231,@731211,,
+731241,@731211,,
+731251,@731211,,
+731261,@731211,,
+730223,Return,,
+730233,Return Animation,,
+731361,Zaken Pirates Soldier,,
+731391,Zaken Pirates Captain,,Greatly decreases Def.
+730271,Standby,,Decreases P. Def. and M. Def.
+730281,Hide,,
+730222,Teleportation + Move to First Boat,,
+730232,Teleportation + Move to Second Boat,,
+731412,Ambiguous Slime,,
+731461,Mouse - Invisible,,
+731471,Mouse - Return,,
 810000001,Lv.1 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 10%.
 The effect lasts for 1 hour."
 810000002,Lv.2 Clan Potion: Adena Buff,@40002,"Once used, the amount of Adena gained is increased by 20%.
@@ -672,8 +817,9 @@ The effect lasts for 1 hour."
 The effect lasts for 1 hour."
 810000310,Lv.10 Clan Potion: Exp. Buff,@810000301,"Once used, the amount of Exp. gained is increased by 100%.
 The effect lasts for 1 hour."
-30910245,발렌타인 버프,,@910245
-30910246,@30910245,,@910246
-30910247,@30910245,,@910247
-30910248,@30910245,,@910248
-30910251,@30910245,,@910251
+30910245,Plain Chocolate,,@910245
+30910246,Milk Chocolate,,@910246
+30910247,Dark Chocolate,,@910247
+30910248,White Chocolate,,@910248
+30910251,Amaretto Chocolate,,@910251
+30905516,@905516,@905516,Increases Monster Core drop rate by 10% for 20 min. (Excludes Elite Dungeons)
