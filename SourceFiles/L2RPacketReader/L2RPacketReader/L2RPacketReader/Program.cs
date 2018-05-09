@@ -11,7 +11,7 @@ namespace L2RPacketReader
 
         // A few variable used throughout the program
         private static byte[] EncryptionKey = { 0xA7, 0x84, 0x20, 0xD0, 0xC9, 0x78, 0xB3, 0x9A };
-        private static string filter = "port 65117 and len > 60";
+        private static string filter = "port 12000 and len > 60";
         private static int readTimeoutMilliseconds = 1000;
         private static int defaultDevice = -1;
      
@@ -134,7 +134,10 @@ namespace L2RPacketReader
         private static void ParsePacket(PacketReader packet)
         {
             ushort packetId = (ushort)(packet.ReadUInt16() - 1);
-            Parser.Handler.Parse(packet, packetId);
+
+            // Change the following for different Servers. INT/JAP/KOR/SEA
+            Parser.HandlerINT.TypePacket(packet, packetId);
+
         }
 
         private static int Initialization(string[] args)

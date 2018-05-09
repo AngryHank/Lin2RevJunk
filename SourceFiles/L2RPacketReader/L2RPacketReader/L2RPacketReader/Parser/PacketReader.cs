@@ -108,6 +108,11 @@ namespace L2RPacketReader
             _index += count;
         }
 
+        public void SetIndex(int newindex)
+        {
+            _index = newindex;
+        }
+
         public int Remaining
         {
             get

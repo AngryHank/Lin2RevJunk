@@ -28,10 +28,12 @@ namespace L2RPacketReader.Parser.Parsers
                     DateTime MessageTime = packet.ReadDate();
                     string Message = packet.ReadString();
                     UInt32 unk4 = packet.ReadUInt32();
-                    packet.Skip(27);
-                    Byte unk5 = packet.ReadByte();
-                    Byte unk6 = packet.ReadByte();
-                    stm.WriteLine(MessageTime + "," + PlayerName + "," + Message + ",GuildWrite," + unk1 + "," + unk2 + "," + unk3 + "," + unk4 + "," + unk5 + "," + unk6);
+                    UInt32 unk5 = packet.ReadUInt32();
+                    UInt32 unk6 = packet.ReadUInt32();
+                    packet.Skip(21);
+                    Byte unk7 = packet.ReadByte();
+                    Byte unk8 = packet.ReadByte();
+                    stm.WriteLine(MessageTime + "," + PlayerName + "," + Message + ",GuildWrite," + unk1 + "," + unk2 + "," + unk3 + "," + unk4 + "," + unk5 + "," + unk6 + "," + unk7 + "," + unk8);
                 }
             }
         }

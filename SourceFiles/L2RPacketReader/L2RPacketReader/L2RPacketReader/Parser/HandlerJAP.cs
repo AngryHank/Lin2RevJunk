@@ -4,4929 +4,4595 @@ using L2RPacketReader.Parser.Parsers;
 
 namespace L2RPacketReader.Parser
 {
-    class Handler
+    class HandlerJAP
     {
         private static string result;
-        public static void Parse(PacketReader packet, ushort packetID)
+        public static void TypePacket(PacketReader packet, ushort packetID)
         {
-            
+
+            /*
+             * 
+             * Packet IDs for version: 1.04.02      2018-04-27
+             * 
+             * All packet parsers will need to be readded and 
+             * tested before this will actually do anything.
+             * Most parsers likely are not compatible with this 
+             * verison
+             * 
+             */
+
             Console.Write("PacketID: " + packetID.ToString("X") + "\tLength: " + packet.Remaining);
             //Packet Handler for PacketID
             switch (packetID)
             {
-                case 0x1:	//1	
+                case 0:     // 0x1
+                    result = "PktVersion";
+                    break;
+                case 1:     // 0x2
                     result = "PktVersionResult";
                     break;
-                case 0x2:	//2	
+                case 2:     // 0x3
                     result = "PktLogin";
                     break;
-                case 0x3:	//3	
+                case 3:     // 0x4
                     result = "PktLoginResult";
                     break;
-                case 0x4:	//4	
+                case 4:     // 0x5
                     result = "PktLogout";
                     break;
-                case 0x5:	//5	
+                case 5:     // 0x6
                     result = "PktLogoutResult";
                     break;
-                case 0x6:	//6	
+                case 6:     // 0x7
                     result = "PktKeyChangeNotify";
                     break;
-                case 0x7:	//7	
+                case 7:     // 0x8
                     result = "PktKeyChanged";
                     break;
-                case 0x8:	//8	
+                case 8:     // 0x9
                     result = "PktKeyChangedResult";
                     break;
-                case 0x9:	//9	
+                case 9:     // 0xA
                     result = "PktWithdrawUser";
                     break;
-                case 0xA:	//10	
+                case 10:        // 0xB
                     result = "PktWithdrawUserResult";
                     break;
-                case 0xB:	//11	
+                case 11:        // 0xC
                     result = "PktTimeSync";
                     break;
-                case 0xC:	//12	
+                case 12:        // 0xD
                     result = "PktTimeSyncResult";
                     break;
-                case 0xD:	//13	
+                case 13:        // 0xE
                     result = "PktKickout";
                     break;
-                case 0xE:	//14	
+                case 14:        // 0xF
                     result = "PktKickoutNotify";
                     break;
-                case 0xF:	//15	
+                case 15:        // 0x10
                     result = "PktKickoutResult";
                     break;
-                case 0x10:	//16	
+                case 16:        // 0x11
                     result = "PktWaitingNumUpdateNotify";
                     break;
-                case 0x11:	//17	
+                case 17:        // 0x12
                     result = "PktWaitingOverNotify";
                     break;
-                case 0x12:	//18	
+                case 18:        // 0x13
                     result = "PktPlayerListRead";
                     break;
-                case 0x13:	//19	
+                case 19:        // 0x14
                     result = "PktPlayerListReadResult";
                     break;
-                case 0x14:	//20	
+                case 20:        // 0x15
                     result = "PktPlayerCreate";
                     break;
-                case 0x15:	//21	
+                case 21:        // 0x16
                     result = "PktPlayerCreateResult";
                     break;
-                case 0x16:	//22	
+                case 22:        // 0x17
                     result = "PktPlayerDelete";
                     break;
-                case 0x17:	//23	
+                case 23:        // 0x18
                     result = "PktPlayerDeleteResult";
                     break;
-                case 0x18:	//24	
+                case 24:        // 0x19
                     result = "PktPlayerSelect";
                     break;
-                case 0x19:	//25	
+                case 25:        // 0x1A
                     result = "PktPlayerSelectResult";
                     break;
-                case 0x1A:	//26	
+                case 26:        // 0x1B
                     result = "PktSystemTutorialStart";
                     break;
-                case 0x1B:	//27	
+                case 27:        // 0x1C
                     result = "PktSystemTutorialStartResult";
                     break;
-                case 0x1C:	//28	
+                case 28:        // 0x1D
                     result = "PktMoveToSelectCharacter";
                     break;
-                case 0x1D:	//29	
+                case 29:        // 0x1E
                     result = "PktMoveToSelectCharacterResult";
                     break;
-                case 0x1E:	//30	
+                case 30:        // 0x1F
                     result = "PktNoticeListRead";
                     break;
-                case 0x1F:	//31	
+                case 31:        // 0x20
                     result = "PktNoticeListReadResult";
                     break;
-                case 0x20:	//32	
+                case 32:        // 0x21
                     result = "PktPopupNoticeListRead";
                     break;
-                case 0x21:	//33	
+                case 33:        // 0x22
                     result = "PktPopupNoticeListReadResult";
                     break;
-                case 0x22:	//34	
+                case 34:        // 0x23
                     result = "PktPopupNoticeChangeNotify";
                     break;
-                case 0x23:	//35	
+                case 35:        // 0x24
                     result = "PktRollNoticeNotify";
                     break;
-                case 0x24:	//36	
+                case 36:        // 0x25
                     result = "PktConfineUserNotify";
                     break;
-                case 0x25:	//37	
+                case 37:        // 0x26
                     result = "PktConfineUserKick";
                     break;
-                case 0x26:	//38	
+                case 38:        // 0x27
                     result = "PktConfineUserKickResult";
                     break;
-                case 0x27:	//39	
+                case 39:        // 0x28
                     result = "PktNoticeNotify";
                     break;
-                case 0x28:	//40	
+                case 40:        // 0x29
                     result = "PktVersion2";
                     break;
-                case 0x29:	//41	
+                case 41:        // 0x2A
                     result = "PktVersion2Result";
                     break;
-                case 0x2A:	//42	
+                case 42:        // 0x2B
                     result = "PktAccountLinkInfo";
                     break;
-                case 0x2B:	//43	
+                case 43:        // 0x2C
                     result = "PktAccountLinkInfoResult";
                     break;
-                case 0x2C:	//44	
+                case 44:        // 0x2D
                     result = "PktAccountLinkReward";
                     break;
-                case 0x2D:	//45	
+                case 45:        // 0x2E
                     result = "PktAccountLinkRewardResult";
                     break;
-                case 0x2E:	//46	
+                case 46:        // 0x2F
                     result = "PktNicknameCheck";
                     break;
-                case 0x2F:	//47	
+                case 47:        // 0x30
                     result = "PktNicknameCheckResult";
                     break;
-                case 0x64:	//100	
+                case 48:        // 0x31
+                    result = "PktCurrencyDetailListRead";
+                    break;
+                case 49:        // 0x32
+                    result = "PktCurrencyDetailListReadResult";
+                    break;
+                case 50:        // 0x33
+                    result = "PktUserAgeInput";
+                    break;
+                case 51:        // 0x34
+                    result = "PktUserAgeInputResult";
+                    break;
+                case 100:       // 0x65
                     result = "PktWorldMoveReserve";
                     break;
-                case 0x65:	//101	
+                case 101:       // 0x66
                     result = "PktWorldMoveReserveResult";
                     break;
-                case 0x66:	//102	
+                case 102:       // 0x67
                     result = "PktWorldMoveStart";
                     break;
-                case 0x67:	//103	
+                case 103:       // 0x68
                     result = "PktWorldMoveStartResult";
                     break;
-                case 0x68:	//104	
+                case 104:       // 0x69
                     result = "PktWorldMoveFinish";
                     break;
-                case 0x69:	//105	
+                case 105:       // 0x6A
                     result = "PktWorldMoveFinishResult";
                     break;
-                case 0x6A:	//106	
+                case 106:       // 0x6B
                     result = "PktWorldChannelList";
                     break;
-                case 0x6B:	//107	
+                case 107:       // 0x6C
                     result = "PktWorldChannelListResult";
                     break;
-                case 0x6C:	//108	
+                case 108:       // 0x6D
                     result = "PktWorldChannelMoveReserve";
                     break;
-                case 0x6D:	//109	
+                case 109:       // 0x6E
                     result = "PktWorldChannelMoveReserveResult";
                     break;
-                case 0x6E:	//110	
+                case 110:       // 0x6F
                     result = "PktWorldLeave";
                     break;
-                case 0x6F:	//111	
+                case 111:       // 0x70
                     result = "PktWorldLeaveResult";
                     break;
-                case 0x70:	//112	
+                case 112:       // 0x71
                     result = "PktTeleportCastingStart";
                     break;
-                case 0x71:	//113	
+                case 113:       // 0x72
                     result = "PktTeleportCastingStartResult";
                     break;
-                case 0x72:	//114	
+                case 114:       // 0x73
                     result = "PktTeleportCastingStartNotify";
                     break;
-                case 0x73:	//115	
+                case 115:       // 0x74
                     result = "PktTeleportDepartNotify";
                     break;
-                case 0x74:	//116	
+                case 116:       // 0x75
                     result = "PktTeleportArriveNotify";
                     break;
-                case 0x75:	//117	
+                case 117:       // 0x76
                     result = "PktWorldInfoUpdateNotify";
                     break;
-                case 0x76:	//118	
+                case 118:       // 0x77
                     result = "PktMapPlayerPositionRead";
                     break;
-                case 0x77:	//119	
+                case 119:       // 0x78
                     result = "PktMapPlayerPositionReadResult";
                     break;
-                case 0x78:	//120	
+                case 120:       // 0x79
                     result = "PktMapWorldInfoRead";
                     break;
-                case 0x79:	//121	
+                case 121:       // 0x7A
                     result = "PktMapWorldInfoReadResult";
                     break;
-                case 0x7A:	//122	
+                case 122:       // 0x7B
                     result = "PktAutoMoveTeleport";
                     break;
-                case 0x7B:	//123	
+                case 123:       // 0x7C
                     result = "PktAutoMoveTeleportResult";
                     break;
-                case 0x7C:	//124	
+                case 124:       // 0x7D
                     result = "PktWorldExit";
                     break;
-                case 0x7D:	//125	
+                case 125:       // 0x7E
                     result = "PktWorldExitResult";
                     break;
-                case 0x7E:	//126	
+                case 126:       // 0x7F
                     result = "PktBossWorldEnterInfo";
                     break;
-                case 0x7F:	//127	
+                case 127:       // 0x80
                     result = "PktBossWorldEnterInfoResult";
                     break;
-                case 0x80:	//128	
+                case 128:       // 0x81
                     result = "PktBossWorldClosingNotify";
                     break;
-                case 0x81:	//129	
-                    result = "PktBossStateRequest";
-                    break;
-                case 0x82:	//130	
-                    result = "PktBossStateRequestResult";
-                    break;
-                case 0x83:	//131	
-                    result = "PktTownExit";
-                    break;
-                case 0x84:	//132	
-                    result = "PktTownExitResult";
-                    break;
-                case 0x85:	//133	
-                    result = "PktCertainPointNotify";
-                    break;
-                case 0xC8:	//200	
+                case 200:       // 0xC9
                     result = "PktPlayerMove";
                     break;
-                case 0xC9:	//201	
+                case 201:       // 0xCA
                     result = "PktPlayerMoveResult";
                     break;
-                case 0xCA:	//202	
+                case 202:       // 0xCB
                     result = "PktPlayerMoveNotify";
-					//PktPlayerMoveListNotify.Packet(packet);
                     break;
-                case 0xCB:	//203	
+                case 203:       // 0xCC
                     result = "PktPlayerMoveListNotify";
                     break;
-                case 0xCC:	//204	
+                case 204:       // 0xCD
                     result = "PktSightEnterNotify";
                     break;
-                case 0xCD:	//205	
+                case 205:       // 0xCE
                     result = "PktSightLeaveNotify";
                     break;
-                case 0xCE:	//206	
+                case 206:       // 0xCF
                     result = "PktNpcMoveNotify";
-					//PktNpcMoveNotify.Packet(packet);
                     break;
-                case 0xCF:	//207	
+                case 207:       // 0xD0
                     result = "PktCharacterDieNotify";
                     break;
-                case 0xD0:	//208	
+                case 208:       // 0xD1
                     result = "PktActorDestroyNotify";
-                    //PktActorDestroyNotify.Packet(packet);
                     break;
-                case 0xD1:	//209	
+                case 209:       // 0xD2
                     result = "PktPlayerRevive";
                     break;
-                case 0xD2:	//210	
+                case 210:       // 0xD3
                     result = "PktPlayerReviveResult";
                     break;
-                case 0xD3:	//211	
+                case 211:       // 0xD4
                     result = "PktPlayerReviveNotify";
                     break;
-                case 0xD4:	//212	
+                case 212:       // 0xD5
                     result = "PktNpcSpawn";
                     break;
-                case 0xD5:	//213	
+                case 213:       // 0xD6
                     result = "PktNpcSpawnResult";
                     break;
-                case 0xD6:	//214	
+                case 214:       // 0xD7
                     result = "PktNpcCreateNotify";
                     break;
-                case 0xD7:	//215	
+                case 215:       // 0xD8
                     result = "PktCharacterKill";
                     break;
-                case 0xD8:	//216	
+                case 216:       // 0xD9
                     result = "PktCharacterKillResult";
                     break;
-                case 0xD9:	//217	
+                case 217:       // 0xDA
                     result = "PktNpcAllKill";
                     break;
-                case 0xDA:	//218	
+                case 218:       // 0xDB
                     result = "PktNpcAllKillResult";
                     break;
-                case 0xDB:	//219	
+                case 219:       // 0xDC
                     result = "PktCharacterLevelUpNotify";
                     break;
-                case 0xDC:	//220	
+                case 220:       // 0xDD
                     result = "PktCharacterMasteryLevelUpNotify";
                     break;
-                case 0xDD:	//221	
+                case 221:       // 0xDE
                     result = "PktPlayerNameChange";
                     break;
-                case 0xDE:	//222	
+                case 222:       // 0xDF
                     result = "PktPlayerNameChangeResult";
                     break;
-                case 0xDF:	//223	
+                case 223:       // 0xE0
                     result = "PktCharacterStatChangeNotify";
-                    //PktCharacterStatChangeNotify.Packet(packet);
                     break;
-                case 0xE0:	//224	
+                case 224:       // 0xE1
                     result = "PktActorStateChange";
                     break;
-                case 0xE1:	//225	
+                case 225:       // 0xE2
                     result = "PktActorStateChangeResult";
                     break;
-                case 0xE2:	//226	
+                case 226:       // 0xE3
                     result = "PktActorStateChangeNotify";
                     break;
-                case 0xE3:	//227	
+                case 227:       // 0xE4
                     result = "PktActorTeamChangeNotify";
                     break;
-                case 0xE4:	//228	
+                case 228:       // 0xE5
                     result = "PktPlayerClassUpgrade";
                     break;
-                case 0xE5:	//229	
+                case 229:       // 0xE6
                     result = "PktPlayerClassUpgradeResult";
                     break;
-                case 0xE6:	//230	
+                case 230:       // 0xE7
                     result = "PktPlayerSocialActionInput";
                     break;
-                case 0xE7:	//231	
+                case 231:       // 0xE8
                     result = "PktPlayerSocialActionInputResult";
                     break;
-                case 0xE8:	//232	
+                case 232:       // 0xE9
                     result = "PktPlayerSocialActionNotify";
                     break;
-                case 0xE9:	//233	
+                case 233:       // 0xEA
                     result = "PktPlayerSubClassListRead";
                     break;
-                case 0xEA:	//234	
+                case 234:       // 0xEB
                     result = "PktPlayerSubClassListReadResult";
                     break;
-                case 0xEB:	//235	
+                case 235:       // 0xEC
                     result = "PktPlayerClassChange";
                     break;
-                case 0xEC:	//236	
+                case 236:       // 0xED
                     result = "PktPlayerClassChangeResult";
                     break;
-                case 0xED:	//237	
+                case 237:       // 0xEE
                     result = "PktGadgetCreateNotify";
                     break;
-                case 0xEE:	//238	
+                case 238:       // 0xEF
                     result = "PktGadgetControlStart";
                     break;
-                case 0xEF:	//239	
+                case 239:       // 0xF0
                     result = "PktGadgetControlStartResult";
                     break;
-                case 0xF0:	//240	
+                case 240:       // 0xF1
                     result = "PktGadgetControlStartNotify";
                     break;
-                case 0xF1:	//241	
+                case 241:       // 0xF2
                     result = "PktGadgetControl";
                     break;
-                case 0xF2:	//242	
+                case 242:       // 0xF3
                     result = "PktGadgetControlResult";
                     break;
-                case 0xF3:	//243	
+                case 243:       // 0xF4
                     result = "PktGadgetControlNotify";
                     break;
-                case 0xF4:	//244	
+                case 244:       // 0xF5
                     result = "PktGadgetControlCancel";
                     break;
-                case 0xF5:	//245	
+                case 245:       // 0xF6
                     result = "PktGadgetControlCancelResult";
                     break;
-                case 0xF6:	//246	
+                case 246:       // 0xF7
                     result = "PktGadgetControlCancelNotify";
                     break;
-                case 0xF7:	//247	
+                case 247:       // 0xF8
                     result = "PktGadgetActiveNotify";
                     break;
-                case 0xF8:	//248	
+                case 248:       // 0xF9
                     result = "PktReconnectGadgetControlNotify";
                     break;
-                case 0xF9:	//249	
+                case 249:       // 0xFA
                     result = "PktPlayerInfoRead";
                     break;
-                case 0xFA:	//250	
+                case 250:       // 0xFB
                     result = "PktPlayerInfoReadResult";
                     break;
-                case 0xFB:	//251	
+                case 251:       // 0xFC
                     result = "PktNpcSightShowNotify";
                     break;
-                case 0xFC:	//252	
+                case 252:       // 0xFD
                     result = "PktPlayerStatDetailInfoRead";
                     break;
-                case 0xFD:	//253	
+                case 253:       // 0xFE
                     result = "PktPlayerStatDetailInfoReadResult";
                     break;
-                case 0xFE:	//254	
+                case 254:       // 0xFF
                     result = "PktPlayerGuildInfoRead";
                     break;
-                case 0xFF:	//255	
+                case 255:       // 0x100
                     result = "PktPlayerGuildInfoReadResult";
                     break;
-                case 0x100:	//256	
+                case 256:       // 0x101
                     result = "PktEliminationInsert";
                     break;
-                case 0x101:	//257	
+                case 257:       // 0x102
                     result = "PktEliminationInsertResult";
                     break;
-                case 0x102:	//258	
+                case 258:       // 0x103
                     result = "PktEliminationGet";
                     break;
-                case 0x103:	//259	
+                case 259:       // 0x104
                     result = "PktEliminationGetResult";
                     break;
-                case 0x104:	//260	
+                case 260:       // 0x105
                     result = "PktEliminationDel";
                     break;
-                case 0x105:	//261	
+                case 261:       // 0x106
                     result = "PktEliminationDelResult";
                     break;
-                case 0x106:	//262	
+                case 262:       // 0x107
                     result = "PktContentUnlockListRead";
                     break;
-                case 0x107:	//263	
+                case 263:       // 0x108
                     result = "PktContentUnlockListReadResult";
                     break;
-                case 0x108:	//264	
+                case 264:       // 0x109
                     result = "PktContentUnlockRequest";
                     break;
-                case 0x109:	//265	
+                case 265:       // 0x10A
                     result = "PktContentUnlockRequestResult";
                     break;
-                case 0x10A:	//266	
-                    result = "PktUsableContentRemainCount";
-                    break;
-                case 0x10B:	//267	
-                    result = "PktUsableContentRemainCountResult";
-                    break;
-                case 0x10C:	//268	
+                case 266:       // 0x10B
                     result = "PktMapAlarm";
                     break;
-                case 0x10D:	//269	
+                case 267:       // 0x10C
                     result = "PktMapAlarmResult";
                     break;
-                case 0x10E:	//270	
+                case 268:       // 0x10D
                     result = "PktMapAlarmNotify";
                     break;
-                case 0x10F:	//271	
+                case 269:       // 0x10E
                     result = "PktPlayerBadgeNotify";
                     break;
-                case 0x110:	//272	
+                case 270:       // 0x10F
                     result = "PktBattleStartNotify";
                     break;
-                case 0x111:	//273	
+                case 271:       // 0x110
                     result = "PktBattleEndNotify";
                     break;
-                case 0x112:	//274	
+                case 272:       // 0x111
                     result = "PktTargetActorChange";
                     break;
-                case 0x113:	//275	
+                case 273:       // 0x112
                     result = "PktTargetActorChangeResult";
                     break;
-                case 0x114:	//276	
+                case 274:       // 0x113
                     result = "PktNotify";
                     break;
-                case 0x115:	//277	
+                case 275:       // 0x114
                     result = "PktLevelUpGift";
                     break;
-                case 0x116:	//278	
+                case 276:       // 0x115
                     result = "PktLevelUpGiftResult";
                     break;
-                case 0x117:	//279	
+                case 277:       // 0x116
                     result = "PktUIOpenClose";
                     break;
-                case 0x118:	//280	
+                case 278:       // 0x117
                     result = "PktUIOpenCloseResult";
                     break;
-                case 0x119:	//281	
+                case 279:       // 0x118
                     result = "PktBossMonsterKillNotify";
                     break;
-                case 0x11A:	//282	
-                    result = "PktPlayerGuildDungeonSupportListRead";
-                    break;
-                case 0x11B:	//283	
-                    result = "PktPlayerGuildDungeonSupportListReadResult";
-                    break;
-                case 0x11C:	//284	
+                case 280:       // 0x119
                     result = "PktFieldBossExistNotify";
                     break;
-                case 0x11D:	//285	
+                case 281:       // 0x11A
                     result = "PktFieldBossKillNotify";
                     break;
-                case 0x11E:	//286	
+                case 282:       // 0x11B
                     result = "PktFieldBossItemLootNotify";
                     break;
-                case 0x11F:	//287	
+                case 283:       // 0x11C
                     result = "PktExpDisplayNotify";
-					PktPktExpDisplayNotify.Packet(packet);
                     break;
-                case 0x120:	//288	
-                    result = "PktPlayerSelfIntroChange";
+                case 284:       // 0x11D
+                    result = "PktPlayerGuildDungeonSupportListRead";
                     break;
-                case 0x121:	//289	
-                    result = "PktPlayerSelfIntroChangeResult";
+                case 285:       // 0x11E
+                    result = "PktPlayerGuildDungeonSupportListReadResult";
                     break;
-                case 0x122:	//290	
+                case 286:       // 0x11F
                     result = "PktBossNpcCombatStartTimeNotify";
                     break;
-                case 0x123:	//291	
-                    result = "PktNpcTargetUpdateNotify";
+                case 287:       // 0x120
+                    result = "PktPlayerSelectNotify";
                     break;
-                case 0x12C:	//300	
+                case 300:       // 0x12D
                     result = "PktAchievementListRead";
                     break;
-                case 0x12D:	//301	
+                case 301:       // 0x12E
                     result = "PktAchievementListReadResult";
-                    PktAchievementListReadResult.Packet(packet);
                     break;
-                case 0x12E:	//302	
+                case 302:       // 0x12F
                     result = "PktPeriodAchievementListRead";
                     break;
-                case 0x12F:	//303	
+                case 303:       // 0x130
                     result = "PktPeriodAchievementListReadResult";
                     break;
-                case 0x130:	//304	
+                case 304:       // 0x131
                     result = "PktAchievementCompletedNotify";
                     break;
-                case 0x131:	//305	
+                case 305:       // 0x132
                     result = "PktAchievementRewardGet";
                     break;
-                case 0x132:	//306	
+                case 306:       // 0x133
                     result = "PktAchievementRewardGetResult";
                     break;
-                case 0x133:	//307	
+                case 307:       // 0x134
                     result = "PktPeriodAchievementRewardGet";
                     break;
-                case 0x134:	//308	
+                case 308:       // 0x135
                     result = "PktPeriodAchievementRewardGetResult";
                     break;
-                case 0x135:	//309	
+                case 309:       // 0x136
                     result = "PktAchievementLevelRewardGet";
                     break;
-                case 0x136:	//310	
+                case 310:       // 0x137
                     result = "PktAchievementLevelRewardGetResult";
                     break;
-                case 0x137:	//311	
+                case 311:       // 0x138
                     result = "PktHeroicLevelUpNotify";
                     break;
-                case 0x138:	//312	
+                case 312:       // 0x139
                     result = "PktLeaderboardScoreUpdatedNotify";
                     break;
-                case 0x139:	//313	
+                case 313:       // 0x13A
                     result = "PktAchievementCompleteListRead";
                     break;
-                case 0x13A:	//314	
+                case 314:       // 0x13B
                     result = "PktAchievementCompleteListReadResult";
                     break;
-                case 0x15E:	//350	
-                    result = "PktAchievementCompleteListRead";
+                case 315:       // 0x13C
+                    result = "PktEquipAchievementListRead";
                     break;
-                case 0x15F:	//351	
-                    result = "PktAchievementCompleteListReadResult";
+                case 316:       // 0x13D
+                    result = "PktEquipAchievementListReadResult";
                     break;
-                case 0x160:	//352	
+                case 317:       // 0x13E
+                    result = "PktEquipAchievementCompletedNotify";
+                    break;
+                case 318:       // 0x13F
+                    result = "PktEquipAchievementRewardGet";
+                    break;
+                case 319:       // 0x140
+                    result = "PktEquipAchievementRewardGetResult";
+                    break;
+                case 320:       // 0x141
+                    result = "PktEquipAchievementMasterRewardGet";
+                    break;
+                case 321:       // 0x142
+                    result = "PktEquipAchievementMasterRewardGetResult";
+                    break;
+                case 350:       // 0x15F
                     result = "PktDailyActivityListRead";
                     break;
-                case 0x161:	//353	
+                case 351:       // 0x160
                     result = "PktDailyActivityListReadResult";
                     break;
-                case 0x162:	//354	
+                case 352:       // 0x161
                     result = "PktDailyActivityCompletedNotify";
                     break;
-                case 0x163:	//355	
+                case 353:       // 0x162
                     result = "PktDailyActivityRewardGet";
                     break;
-                case 0x164:	//356	
+                case 354:       // 0x163
                     result = "PktDailyActivityRewardGetResult";
                     break;
-                case 0x190:	//400	
+                case 355:       // 0x164
                     result = "PktDailyActivityPointRewardGet";
                     break;
-                case 0x191:	//401	
+                case 356:       // 0x165
                     result = "PktDailyActivityPointRewardGetResult";
                     break;
-                case 0x192:	//402	
+                case 400:       // 0x191
                     result = "PktRuneInfoRead";
                     break;
-                case 0x193:	//403	
+                case 401:       // 0x192
                     result = "PktRuneInfoReadResult";
                     break;
-                case 0x194:	//404	
+                case 402:       // 0x193
                     result = "PktRuneLevelUp";
                     break;
-                case 0x195:	//405	
+                case 403:       // 0x194
                     result = "PktRuneLevelUpResult";
                     break;
-                case 0x1C2:	//450	
+                case 450:       // 0x1C3
                     result = "PktMonsterBookListRead";
                     break;
-                case 0x1C3:	//451	
+                case 451:       // 0x1C4
                     result = "PktMonsterBookListReadResult";
-					PktMonsterBookListReadresult.Packet(packet);
                     break;
-                case 0x1C4:	//452	
+                case 452:       // 0x1C5
                     result = "PktMonsterCoreUse";
                     break;
-                case 0x1C5:	//453	
+                case 453:       // 0x1C6
                     result = "PktMonsterCoreUseResult";
                     break;
-                case 0x1C6:	//454	
+                case 454:       // 0x1C7
                     result = "PktMonsterCoreUseAll";
                     break;
-                case 0x1C7:	//455	
+                case 455:       // 0x1C8
                     result = "PktMonsterCoreUseAllResult";
                     break;
-                case 0x1C8:	//456	
+                case 456:       // 0x1C9
                     result = "PktMonsterBookGroupRewardGet";
                     break;
-                case 0x1C9:	//457	
+                case 457:       // 0x1CA
                     result = "PktMonsterBookGroupRewardGetResult";
                     break;
-                case 0x1CA:	//458	
+                case 458:       // 0x1CB
                     result = "PktMonsterCoreDecompose";
                     break;
-                case 0x1CB:	//459	
+                case 459:       // 0x1CC
                     result = "PktMonsterCoreDecomposeResult";
                     break;
-                case 0x1CC:	//460	
+                case 460:       // 0x1CD
                     result = "PktMonsterCoreShopList";
                     break;
-                case 0x1CD:	//461	
+                case 461:       // 0x1CE
                     result = "PktMonsterCoreShopListResult";
                     break;
-                case 0x1CE:	//462	
+                case 462:       // 0x1CF
                     result = "PktMonsterCoreShopBuy";
                     break;
-                case 0x1CF:	//463	
+                case 463:       // 0x1D0
                     result = "PktMonsterCoreShopBuyResult";
                     break;
-                case 0x1D0:	//464	
+                case 464:       // 0x1D1
                     result = "PktMonsterCoreShopRefresh";
                     break;
-                case 0x1D1:	//465	
+                case 465:       // 0x1D2
                     result = "PktMonsterCoreShopRefreshResult";
                     break;
-                case 0x1F4:	//500	
+                case 466:       // 0x1D3
+                    result = "PktMonsterCoreShopListNotify";
+                    break;
+                case 500:       // 0x1F5
                     result = "PktRestRewardGet";
                     break;
-                case 0x1F5:	//501	
+                case 501:       // 0x1F6
                     result = "PktRestRewardGetResult";
                     break;
-                case 0x1F6:	//502	
+                case 502:       // 0x1F7
                     result = "PktRestRewardChangeNotify";
                     break;
-                case 0x226:	//550	
+                case 550:       // 0x227
                     result = "PktAttendanceRead";
                     break;
-                case 0x227:	//551	
+                case 551:       // 0x228
                     result = "PktAttendanceReadResult";
                     break;
-                case 0x228:	//552	
+                case 552:       // 0x229
                     result = "PktAttendanceAttend";
                     break;
-                case 0x229:	//553	
+                case 553:       // 0x22A
                     result = "PktAttendanceAttendResult";
                     break;
-                case 0x22A:	//554	
+                case 554:       // 0x22B
                     result = "PktAttendanceDailyGet";
                     break;
-                case 0x22B:	//555	
+                case 555:       // 0x22C
                     result = "PktAttendanceDailyGetResult";
                     break;
-                case 0x22C:	//556	
+                case 556:       // 0x22D
                     result = "PktAttendanceWeeklyGet";
                     break;
-                case 0x22D:	//557	
+                case 557:       // 0x22E
                     result = "PktAttendanceWeeklyGetResult";
                     break;
-                case 0x258:	//600	
+                case 600:       // 0x259
                     result = "PktSkillCastingStart";
                     break;
-                case 0x259:	//601	
+                case 601:       // 0x25A
                     result = "PktSkillCastingStartResult";
                     break;
-                case 0x25A:	//602	
+                case 602:       // 0x25B
                     result = "PktSkillCastingStartNotify";
                     break;
-                case 0x25B:	//603	
+                case 603:       // 0x25C
                     result = "PktSkillStart";
                     break;
-                case 0x25C:	//604	
-                    //PktSkillStartResult.Packet(packet);
+                case 604:       // 0x25D
                     result = "PktSkillStartResult";
                     break;
-                case 0x25D:	//605	
+                case 605:       // 0x25E
                     result = "PktSkillStartNotify";
                     break;
-                case 0x25E:	//606	
+                case 606:       // 0x25F
                     result = "PktSkillRotate";
                     break;
-                case 0x25F:	//607	
+                case 607:       // 0x260
                     result = "PktSkillRotateResult";
                     break;
-                case 0x260:	//608	
+                case 608:       // 0x261
                     result = "PktSkillRotateNotify";
                     break;
-                case 0x261:	//609	
+                case 609:       // 0x262
                     result = "PktSkillEffectFire";
                     break;
-                case 0x262:	//610	
+                case 610:       // 0x263
                     result = "PktSkillEffectFireResult";
                     break;
-                case 0x263:	//611	
+                case 611:       // 0x264
                     result = "PktSkillHitNotify";
-					//PktSkillHitNotify.Packet(packet);
                     break;
-                case 0x264:	//612	
+                case 612:       // 0x265
                     result = "PktSkillMissNotify";
                     break;
-                case 0x265:	//613	
+                case 613:       // 0x266
                     result = "PktSkillCoolTimeResetNotify";
                     break;
-                case 0x266:	//614	
+                case 614:       // 0x267
                     result = "PktProjectileCreateNotify";
                     break;
-                case 0x267:	//615	
+                case 615:       // 0x268
                     result = "PktProjectileMoveNotify";
                     break;
-                case 0x268:	//616	
+                case 616:       // 0x269
                     result = "PktProjectileHit";
                     break;
-                case 0x269:	//617	
+                case 617:       // 0x26A
                     result = "PktProjectileHitResult";
                     break;
-                case 0x26A:	//618	
+                case 618:       // 0x26B
                     result = "PktProjectileDestroyNotify";
                     break;
-                case 0x26B:	//619	
+                case 619:       // 0x26C
                     result = "PktGroundObjectCreateNotify";
                     break;
-                case 0x26C:	//620	
+                case 620:       // 0x26D
                     result = "PktGroundObjectDestroyNotify";
                     break;
-                case 0x26D:	//621	
+                case 621:       // 0x26E
                     result = "PktBuffAddNotify";
                     break;
-                case 0x26E:	//622	
+                case 622:       // 0x26F
                     result = "PktBuffRemoveNotify";
                     break;
-                case 0x26F:	//623	
+                case 623:       // 0x270
                     result = "PktBuffRemove";
                     break;
-                case 0x270:	//624	
+                case 624:       // 0x271
                     result = "PktBuffRemoveResult";
                     break;
-                case 0x271:	//625	
+                case 625:       // 0x272
                     result = "PktSkillListRead";
                     break;
-                case 0x272:	//626	
+                case 626:       // 0x273
                     result = "PktSkillListReadResult";
                     break;
-                case 0x273:	//627	
+                case 627:       // 0x274
                     result = "PktSkillUpgrade";
                     break;
-                case 0x274:	//628	
+                case 628:       // 0x275
                     result = "PktSkillUpgradeResult";
                     break;
-                case 0x275:	//629	
+                case 629:       // 0x276
                     result = "PktSkillDeckEquip";
                     break;
-                case 0x276:	//630	
+                case 630:       // 0x277
                     result = "PktSkillDeckEquipResult";
                     break;
-                case 0x277:	//631	
+                case 631:       // 0x278
                     result = "PktSkillBookUse";
                     break;
-                case 0x278:	//632	
+                case 632:       // 0x279
                     result = "PktSkillBookUseResult";
                     break;
-                case 0x279:	//633	
+                case 633:       // 0x27A
                     result = "PktSkillAcquireNotify";
                     break;
-                case 0x27A:	//634	
+                case 634:       // 0x27B
                     result = "PktSoulShotEnableChange";
                     break;
-                case 0x27B:	//635	
+                case 635:       // 0x27C
                     result = "PktSoulShotEnableChangeResult";
                     break;
-                case 0x27C:	//636	
+                case 636:       // 0x27D
                     result = "PktSoulShotEnableChangeNotify";
                     break;
-                case 0x27D:	//637	
+                case 637:       // 0x27E
                     result = "PktSoulShotItemDeleteNotify";
                     break;
-                case 0x27E:	//638	
+                case 638:       // 0x27F
                     result = "PktSkillCoolTimeNotify";
                     break;
-                case 0x27F:	//639	
+                case 639:       // 0x280
                     result = "PktSkillAutoRegistrationChange";
                     break;
-                case 0x280:	//640	
+                case 640:       // 0x281
                     result = "PktSkillAutoRegistrationChangeResult";
                     break;
-                case 0x281:	//641	
+                case 641:       // 0x282
                     result = "PktSkillAutoUseDeckChange";
                     break;
-                case 0x282:	//642	
+                case 642:       // 0x283
                     result = "PktSkillAutoUseDeckChangeResult";
                     break;
-                case 0x2EE:	//750	
+                case 750:       // 0x2EF
                     result = "PktChatChannelChange";
                     break;
-                case 0x2EF:	//751	
+                case 751:       // 0x2F0
                     result = "PktChatChannelChangeResult";
                     break;
-                case 0x2F0:	//752	
+                case 752:       // 0x2F1
                     result = "PktChatChannelChangeNotify";
                     break;
-                case 0x2F1:	//753	
+                case 753:       // 0x2F2
                     result = "PktChatChannelListRead";
                     break;
-                case 0x2F2:	//754	
+                case 754:       // 0x2F3
                     result = "PktChatChannelListReadResult";
                     break;
-                case 0x2F3:	//755	
+                case 755:       // 0x2F4
                     result = "PktChatChannelWrite";
                     break;
-                case 0x2F4:	//756	
+                case 756:       // 0x2F5
                     result = "PktChatChannelWriteResult";
                     break;
-                case 0x2F5:	//757	
+                case 757:       // 0x2F6
                     result = "PktChatFriendRoomListRead";
                     break;
-                case 0x2F6:	//758	
+                case 758:       // 0x2F7
                     result = "PktChatFriendRoomListReadResult";
                     break;
-                case 0x2F7:	//759	
+                case 759:       // 0x2F8
                     result = "PktChatFriendRoomGet";
                     break;
-                case 0x2F8:	//760	
+                case 760:       // 0x2F9
                     result = "PktChatFriendRoomGetResult";
                     break;
-                case 0x2F9:	//761	
+                case 761:       // 0x2FA
                     result = "PktChatFriendRoomCreateNotify";
                     break;
-                case 0x2FA:	//762	
+                case 762:       // 0x2FB
                     result = "PktChatFriendRoomLeave";
                     break;
-                case 0x2FB:	//763	
+                case 763:       // 0x2FC
                     result = "PktChatFriendRoomLeaveResult";
                     break;
-                case 0x2FC:	//764	
+                case 764:       // 0x2FD
                     result = "PktChatFriendRoomLeaveNotify";
                     break;
-                case 0x2FD:	//765	
+                case 765:       // 0x2FE
                     result = "PktChatFriendListRead";
                     break;
-                case 0x2FE:	//766	
+                case 766:       // 0x2FF
                     result = "PktChatFriendListReadResult";
                     break;
-                case 0x2FF:	//767	
+                case 767:       // 0x300
                     result = "PktChatFriendWrite";
                     break;
-                case 0x300:	//768	
+                case 768:       // 0x301
                     result = "PktChatFriendWriteResult";
                     break;
-                case 0x301:	//769	
+                case 769:       // 0x302
                     result = "PktChatFriendWriteNotify";
                     break;
-                case 0x302:	//770	
+                case 770:       // 0x303
                     result = "PktChatFriendMessageRead";
                     break;
-                case 0x303:	//771	
+                case 771:       // 0x304
                     result = "PktChatFriendMessageReadResult";
                     break;
-                case 0x304:	//772	
+                case 772:       // 0x305
                     result = "PktChatFriendMessageReadNotify";
                     break;
-                case 0x305:	//773	
+                case 773:       // 0x306
                     result = "PktChatGuildListRead";
                     break;
-                case 0x306:	//774	
+                case 774:       // 0x307
                     result = "PktChatGuildListReadResult";
-                    PktChatGuildListReadResult.Packet(packet);
                     break;
-                case 0x307:	//775	
+                case 775:       // 0x308
                     result = "PktChatGuildWrite";
                     break;
-                case 0x308:	//776	
+                case 776:       // 0x309
                     result = "PktChatGuildWriteResult";
-                    PktChatGuildWriteResult.Packet(packet);
                     break;
-                case 0x309:	//777	
+                case 777:       // 0x30A
                     result = "PktChatGuildWriteNotify";
                     break;
-                case 0x30A:	//778	
+                case 778:       // 0x30B
                     result = "PktChatGuildMessageRead";
                     break;
-                case 0x30B:	//779	
+                case 779:       // 0x30C
                     result = "PktChatGuildMessageReadResult";
                     break;
-                case 0x30C:	//780	
+                case 780:       // 0x30D
                     result = "PktChatSimpleRead";
                     break;
-                case 0x30D:	//781	
+                case 781:       // 0x30E
                     result = "PktChatSimpleReadResult";
                     break;
-                case 0x30E:	//782	
+                case 782:       // 0x30F
                     result = "PktChatWorldWrite";
                     break;
-                case 0x30F:	//783	
+                case 783:       // 0x310
                     result = "PktChatWorldWriteResult";
-                    PktChatWorldWriteResult.Packet(packet);
                     break;
-                case 0x310:	//784	
+                case 784:       // 0x311
                     result = "PktChatWorldWriteNotify";
-                    PktChatWorldWriteNotify.Packet(packet);
                     break;
-                case 0x311:	//785	
+                case 785:       // 0x312
                     result = "PktChatPartyWrite";
                     break;
-                case 0x312:	//786	
+                case 786:       // 0x313
                     result = "PktChatPartyWriteResult";
-                    PktChatPartyWriteResult.Packet(packet);
                     break;
-                case 0x313:	//787	
+                case 787:       // 0x314
                     result = "PktChatPartyWriteNotify";
-                    PktChatPartyWriteNotify.Packet(packet);
                     break;
-                case 0x314:	//788	
+                case 788:       // 0x315
                     result = "PktChatItemLootNotify";
                     break;
-                case 0x315:	//789	
+                case 789:       // 0x316
                     result = "PktSystemMessageShowNotify";
                     break;
-                case 0x316:	//790	
+                case 790:       // 0x317
                     result = "PktChatAddInfoRead";
                     break;
-                case 0x317:	//791	
+                case 791:       // 0x318
                     result = "PktChatAddInfoReadResult";
                     break;
-                case 0x318:	//792	
+                case 792:       // 0x319
                     result = "PktChatPromoListRead";
                     break;
-                case 0x319:	//793	
+                case 793:       // 0x31A
                     result = "PktChatPromoListReadResult";
                     break;
-                case 0x31A:	//794	
+                case 794:       // 0x31B
                     result = "PktChatPromoWrite";
                     break;
-                case 0x31B:	//795	
+                case 795:       // 0x31C
                     result = "PktChatPromoWriteResult";
                     break;
-                case 0x31C:	//796	
+                case 796:       // 0x31D
                     result = "PktChatBlockListRead";
                     break;
-                case 0x31D:	//797	
+                case 797:       // 0x31E
                     result = "PktChatBlockListReadResult";
                     break;
-                case 0x31E:	//798	
+                case 798:       // 0x31F
                     result = "PktChatBlockInsert";
                     break;
-                case 0x31F:	//799	
+                case 799:       // 0x320
                     result = "PktChatBlockInsertResult";
                     break;
-                case 0x320:	//800	
+                case 800:       // 0x321
                     result = "PktChatBlockDelete";
                     break;
-                case 0x321:	//801	
+                case 801:       // 0x322
                     result = "PktChatBlockDeleteResult";
                     break;
-                case 0x352:	//850	
+                case 850:       // 0x353
                     result = "PktBagListRead";
                     break;
-                case 0x353:	//851	
+                case 851:       // 0x354
                     result = "PktBagListReadResult";
-					PktBagListReadresult.Packet(packet);
                     break;
-                case 0x354:	//852	
+                case 852:       // 0x355
                     result = "PktEquipmentListRead";
                     break;
-                case 0x355:	//853	
+                case 853:       // 0x356
                     result = "PktEquipmentListReadResult";
                     break;
-                case 0x356:	//854	
+                case 854:       // 0x357
                     result = "PktItemUpdateNotify";
                     break;
-                case 0x357:	//855	
+                case 855:       // 0x358
                     result = "PktItemEquip";
                     break;
-                case 0x358:	//856	
+                case 856:       // 0x359
                     result = "PktItemEquipResult";
                     break;
-                case 0x359:	//857	
+                case 857:       // 0x35A
                     result = "PktItemEquipNotify";
                     break;
-                case 0x35A:	//858	
+                case 858:       // 0x35B
                     result = "PktItemUnequip";
                     break;
-                case 0x35B:	//859	
+                case 859:       // 0x35C
                     result = "PktItemUnequipResult";
                     break;
-                case 0x35C:	//860	
+                case 860:       // 0x35D
                     result = "PktItemUnequipAll";
                     break;
-                case 0x35D:	//861	
+                case 861:       // 0x35E
                     result = "PktItemUnequipAllResult";
                     break;
-                case 0x35E:	//862	
+                case 862:       // 0x35F
                     result = "PktItemUnequipNotify";
                     break;
-                case 0x35F:	//863	
+                case 863:       // 0x360
                     result = "PktItemLike";
                     break;
-                case 0x360:	//864	
+                case 864:       // 0x361
                     result = "PktItemLikeResult";
                     break;
-                case 0x361:	//865	
+                case 865:       // 0x362
                     result = "PktItemSell";
                     break;
-                case 0x362:	//866	
+                case 866:       // 0x363
                     result = "PktItemSellResult";
                     break;
-                case 0x363:	//867	
+                case 867:       // 0x364
                     result = "PktItemDecompose";
                     break;
-                case 0x364:	//868	
+                case 868:       // 0x365
                     result = "PktItemDecomposeResult";
                     break;
-                case 0x365:	//869	
+                case 869:       // 0x366
                     result = "PktItemLevelUp";
                     break;
-                case 0x366:	//870	
+                case 870:       // 0x367
                     result = "PktItemLevelUpResult";
                     break;
-                case 0x367:	//871	
+                case 871:       // 0x368
                     result = "PktItemLevelUpInSocket";
                     break;
-                case 0x368:	//872	
+                case 872:       // 0x369
                     result = "PktItemLevelUpInSocketResult";
                     break;
-                case 0x369:	//873	
+                case 873:       // 0x36A
                     result = "PktItemLimitBreak";
                     break;
-                case 0x36A:	//874	
+                case 874:       // 0x36B
                     result = "PktItemLimitBreakResult";
                     break;
-                case 0x36B:	//875	
+                case 875:       // 0x36C
                     result = "PktItemEnchant";
                     break;
-                case 0x36C:	//876	
+                case 876:       // 0x36D
                     result = "PktItemEnchantResult";
                     break;
-                case 0x36D:	//877	
+                case 877:       // 0x36E
                     result = "PktEquipmentItemChangeNotify";
                     break;
-                case 0x36E:	//878	
+                case 878:       // 0x36F
                     result = "PktItemUpgrade";
                     break;
-                case 0x36F:	//879	
+                case 879:       // 0x370
                     result = "PktItemUpgradeResult";
                     break;
-                case 0x370:	//880	
+                case 880:       // 0x371
                     result = "PktItemUpgradeInSocket";
                     break;
-                case 0x371:	//881	
+                case 881:       // 0x372
                     result = "PktItemUpgradeInSocketResult";
                     break;
-                case 0x372:	//882	
+                case 882:       // 0x373
                     result = "PktItemCompose";
                     break;
-                case 0x373:	//883	
+                case 883:       // 0x374
                     result = "PktItemComposeResult";
                     break;
-                case 0x374:	//884	
+                case 884:       // 0x375
                     result = "PktItemOptionChange";
                     break;
-                case 0x375:	//885	
+                case 885:       // 0x376
                     result = "PktItemOptionChangeResult";
                     break;
-                case 0x376:	//886	
+                case 886:       // 0x377
                     result = "PktItemAbilityUpgrade";
                     break;
-                case 0x377:	//887	
+                case 887:       // 0x378
                     result = "PktItemAbilityUpgradeResult";
                     break;
-                case 0x378:	//888	
+                case 888:       // 0x379
                     result = "PktItemUseNotify";
                     break;
-                case 0x379:	//889	
+                case 889:       // 0x37A
                     result = "PktItemUse";
                     break;
-                case 0x37A:	//890	
+                case 890:       // 0x37B
                     result = "PktItemUseResult";
                     break;
-                case 0x37B:	//891	
+                case 891:       // 0x37C
                     result = "PktItemCoolTimeResetNotyfy";
                     break;
-                case 0x37C:	//892	
+                case 892:       // 0x37D
                     result = "PktSoulCrystalEquip";
                     break;
-                case 0x37D:	//893	
+                case 893:       // 0x37E
                     result = "PktSoulCrystalEquipResult";
                     break;
-                case 0x37E:	//894	
+                case 894:       // 0x37F
                     result = "PktSoulCrystalExtract";
                     break;
-                case 0x37F:	//895	
+                case 895:       // 0x380
                     result = "PktSoulCrystalExtractResult";
                     break;
-                case 0x380:	//896	
+                case 896:       // 0x381
                     result = "PktEquipedSoulCrystalSell";
                     break;
-                case 0x381:	//897	
+                case 897:       // 0x382
                     result = "PktEquipedSoulCrystalSellResult";
                     break;
-                case 0x382:	//898	
+                case 898:       // 0x383
                     result = "PktSoulShotCraft";
                     break;
-                case 0x383:	//899	
+                case 899:       // 0x384
                     result = "PktSoulShotCraftResult";
                     break;
-                case 0x384:	//900	
+                case 900:       // 0x385
                     result = "PktItemCraft";
                     break;
-                case 0x385:	//901	
+                case 901:       // 0x386
                     result = "PktItemCraftResult";
                     break;
-                case 0x386:	//902	
+                case 902:       // 0x387
                     result = "PktItemLootNotify";
-					PktItemLootNotify.Packet(packet);
                     break;
-                case 0x387:	//903	
+                case 903:       // 0x388
                     result = "PktBagExpand";
                     break;
-                case 0x388:	//904	
+                case 904:       // 0x389
                     result = "PktBagExpandResult";
                     break;
-                case 0x389:	//905	
+                case 905:       // 0x38A
                     result = "PktBagExpandNotify";
                     break;
-                case 0x38A:	//906	
+                case 906:       // 0x38B
                     result = "PktWarehouseListRead";
                     break;
-                case 0x38B:	//907	
+                case 907:       // 0x38C
                     result = "PktWarehouseListReadResult";
                     break;
-                case 0x38C:	//908	
+                case 908:       // 0x38D
                     result = "PktItemMoveToWarehouse";
                     break;
-                case 0x38D:	//909	
+                case 909:       // 0x38E
                     result = "PktItemMoveToWarehouseResult";
                     break;
-                case 0x38E:	//910	
+                case 910:       // 0x38F
                     result = "PktItemMoveToBag";
                     break;
-                case 0x38F:	//911	
+                case 911:       // 0x390
                     result = "PktItemMoveToBagResult";
                     break;
-                case 0x390:	//912	
+                case 912:       // 0x391
                     result = "PktWarehouseExpand";
                     break;
-                case 0x391:	//913	
+                case 913:       // 0x392
                     result = "PktWarehouseExpandResult";
                     break;
-                case 0x392:	//914	
+                case 914:       // 0x393
                     result = "PktEquipmentDeckChanageNotify";
                     break;
-                case 0x393:	//915	
+                case 915:       // 0x394
                     result = "PktActiveEquipmentDeckRead";
                     break;
-                case 0x394:	//916	
+                case 916:       // 0x395
                     result = "PktActiveEquipmentDeckReadResult";
                     break;
-                case 0x395:	//917	
+                case 917:       // 0x396
                     result = "PktElixirInfoRead";
                     break;
-                case 0x396:	//918	
+                case 918:       // 0x397
                     result = "PktElixirInfoReadResult";
                     break;
-                case 0x397:	//919	
+                case 919:       // 0x398
                     result = "PktElixirChangeNotify";
                     break;
-                case 0x398:	//920	
+                case 920:       // 0x399
                     result = "PktSoulCrystalAutoExtract";
                     break;
-                case 0x399:	//921	
+                case 921:       // 0x39A
                     result = "PktSoulCrystalAutoExtractResult";
                     break;
-                case 0x39A:	//922	
+                case 922:       // 0x39B
                     result = "PktSummonGemUse";
                     break;
-                case 0x39B:	//923	
+                case 923:       // 0x39C
                     result = "PktSummonGemUseResult";
                     break;
-                case 0x39C:	//924	
+                case 924:       // 0x39D
                     result = "PktEquipmentCraft";
                     break;
-                case 0x39D:	//925	
+                case 925:       // 0x39E
                     result = "PktEquipmentCraftResult";
                     break;
-                case 0x39E:	//926	
+                case 926:       // 0x39F
                     result = "PktEquipmentCraftStepComplete";
                     break;
-                case 0x39F:	//927	
+                case 927:       // 0x3A0
                     result = "PktEquipmentCraftStepCompleteResult";
                     break;
-                case 0x3A0:	//928	
+                case 928:       // 0x3A1
                     result = "PktItemBoxListRead";
                     break;
-                case 0x3A1:	//929	
+                case 929:       // 0x3A2
                     result = "PktItemBoxListReadResult";
                     break;
-                case 0x3A2:	//930	
-                    result = "PktItemCraftInfoRead";
+                case 930:       // 0x3A3
+                    result = "PktItemProtect";
                     break;
-                case 0x3A3:	//931	
-                    result = "PktItemCraftInfoReadResult";
+                case 931:       // 0x3A4
+                    result = "PktItemProtectResult";
                     break;
-                case 0x3A4:	//932	
+                case 932:       // 0x3A5
                     result = "PktSoulCrystalUpgrade";
                     break;
-                case 0x3A5:	//933	
+                case 933:       // 0x3A6
                     result = "PktSoulCrystalUpgradeResult";
                     break;
-                case 0x3A6:	//934	
+                case 934:       // 0x3A7
                     result = "PktSoulCrystalUpgradeInSocket";
                     break;
-                case 0x3A7:	//935	
+                case 935:       // 0x3A8
                     result = "PktSoulCrystalUpgradeInSocketResult";
                     break;
-                case 0x3A8:	//936	
+                case 936:       // 0x3A9
+                    result = "PktItemCraftInfoRead";
+                    break;
+                case 937:       // 0x3AA
+                    result = "PktItemCraftInfoReadResult";
+                    break;
+                case 938:       // 0x3AB
                     result = "PktItemDisassemble";
                     break;
-                case 0x3A9:	//937	
+                case 939:       // 0x3AC
                     result = "PktItemDisassembleResult";
                     break;
-                case 0x3AA:	//938	
-                    result = "PktItemUseNicknameChange";
-                    break;
-                case 0x3AB:	//939	
-                    result = "PktItemUseNicknameChangeResult";
-                    break;
-                case 0x3AC:	//940	
+                case 940:       // 0x3AD
                     result = "PktBattleDeckActivate";
                     break;
-                case 0x3AD:	//941	
+                case 941:       // 0x3AE
                     result = "PktBattleDeckActivateResult";
                     break;
-                case 0x3AE:	//942	
-                    result = "PktItemOptionChangeInSocket";
+                case 942:       // 0x3AF
+                    result = "PktBeautyChangeNotify";
                     break;
-                case 0x3AF:	//943	
-                    result = "PktItemOptionChangeInSocketResult";
+                case 943:       // 0x3B0
+                    result = "PktAppearanceNotify";
                     break;
-                case 0x3E8:	//1000	
+                case 944:       // 0x3B1
+                    result = "PktItemUseNicknameChange";
+                    break;
+                case 945:       // 0x3B2
+                    result = "PktItemUseNicknameChangeResult";
+                    break;
+                case 946:       // 0x3B3
+                    result = "PktItemDelete";
+                    break;
+                case 947:       // 0x3B4
+                    result = "PktItemDeleteResult";
+                    break;
+                case 1000:      // 0x3E9
                     result = "PktMailListRead";
                     break;
-                case 0x3E9:	//1001	
+                case 1001:      // 0x3EA
                     result = "PktMailListReadResult";
                     break;
-                case 0x3EA:	//1002	
+                case 1002:      // 0x3EB
                     result = "PktMailDelete";
                     break;
-                case 0x3EB:	//1003	
+                case 1003:      // 0x3EC
                     result = "PktMailDeleteResult";
                     break;
-                case 0x3EC:	//1004	
+                case 1004:      // 0x3ED
                     result = "PktMailDeleteAll";
                     break;
-                case 0x3ED:	//1005	
+                case 1005:      // 0x3EE
                     result = "PktMailDeleteAllResult";
                     break;
-                case 0x3EE:	//1006	
+                case 1006:      // 0x3EF
                     result = "PktMailRewardGet";
                     break;
-                case 0x3EF:	//1007	
+                case 1007:      // 0x3F0
                     result = "PktMailRewardGetResult";
                     break;
-                case 0x3F0:	//1008	
+                case 1008:      // 0x3F1
                     result = "PktMailRewardAllGet";
                     break;
-                case 0x3F1:	//1009	
+                case 1009:      // 0x3F2
                     result = "PktMailRewardAllGetResult";
                     break;
-                case 0x3F2:	//1010	
+                case 1010:      // 0x3F3
                     result = "PktMailReceiveNotify";
                     break;
-                case 0x41A:	//1050	
+                case 1050:      // 0x41B
                     result = "PktQuestStart";
                     break;
-                case 0x41B:	//1051	
+                case 1051:      // 0x41C
                     result = "PktQuestStartResult";
                     break;
-                case 0x41C:	//1052	
+                case 1052:      // 0x41D
                     result = "PktQuestCancel";
                     break;
-                case 0x41D:	//1053	
+                case 1053:      // 0x41E
                     result = "PktQuestCancelResult";
                     break;
-                case 0x41E:	//1054	
+                case 1054:      // 0x41F
                     result = "PktQuestRestart";
                     break;
-                case 0x41F:	//1055	
+                case 1055:      // 0x420
                     result = "PktQuestRestartResult";
                     break;
-                case 0x420:	//1056	
+                case 1056:      // 0x421
                     result = "PktQuestUpdate";
                     break;
-                case 0x421:	//1057	
+                case 1057:      // 0x422
                     result = "PktQuestUpdateResult";
                     break;
-                case 0x422:	//1058	
+                case 1058:      // 0x423
                     result = "PktQuestUpdateNotify";
                     break;
-                case 0x423:	//1059	
+                case 1059:      // 0x424
                     result = "PktQuestGadgetControl";
                     break;
-                case 0x424:	//1060	
+                case 1060:      // 0x425
                     result = "PktQuestGadgetControlResult";
                     break;
-                case 0x425:	//1061	
+                case 1061:      // 0x426
                     result = "PktQuestGadgetControlNotify";
                     break;
-                case 0x426:	//1062	
+                case 1062:      // 0x427
                     result = "PktQuestFailNotify";
                     break;
-                case 0x427:	//1063	
+                case 1063:      // 0x428
                     result = "PktQuestComplete";
                     break;
-                case 0x428:	//1064	
+                case 1064:      // 0x429
                     result = "PktQuestCompleteResult";
                     break;
-                case 0x429:	//1065	
+                case 1065:      // 0x42A
                     result = "PktQuestRevive";
                     break;
-                case 0x42A:	//1066	
+                case 1066:      // 0x42B
                     result = "PktQuestReviveResult";
                     break;
-                case 0x42B:	//1067	
+                case 1067:      // 0x42C
                     result = "PktQuestNpcSearch";
                     break;
-                case 0x42C:	//1068	
+                case 1068:      // 0x42D
                     result = "PktQuestNpcSearchResult";
                     break;
-                case 0x42D:	//1069	
+                case 1069:      // 0x42E
                     result = "PktQuestWaveStartNotify";
                     break;
-                case 0x42E:	//1070	
+                case 1070:      // 0x42F
                     result = "PktCastleAndFortressListRead";
                     break;
-                case 0x42F:	//1071	
+                case 1071:      // 0x430
                     result = "PktCastleAndFortressListReadResult";
                     break;
-                case 0x430:	//1072	
+                case 1072:      // 0x431
                     result = "PktQuestShareRequestNotify";
                     break;
-                case 0x431:	//1073	
+                case 1073:      // 0x432
                     result = "PktQuestShareAcceptNotify";
                     break;
-                case 0x432:	//1074	
+                case 1074:      // 0x433
                     result = "PktQuestShare";
                     break;
-                case 0x433:	//1075	
+                case 1075:      // 0x434
                     result = "PktQuestShareResult";
                     break;
-                case 0x434:	//1076	
+                case 1076:      // 0x435
                     result = "PktSharedQuestAccept";
                     break;
-                case 0x435:	//1077	
+                case 1077:      // 0x436
                     result = "PktSharedQuestAcceptResult";
                     break;
-                case 0x436:	//1078	
+                case 1078:      // 0x437
                     result = "PktQuestActListRead";
                     break;
-                case 0x437:	//1079	
+                case 1079:      // 0x438
                     result = "PktQuestActListReadResult";
                     break;
-                case 0x438:	//1080	
+                case 1080:      // 0x439
                     result = "PktQuestActCompleteRewardGet";
                     break;
-                case 0x439:	//1081	
+                case 1081:      // 0x43A
                     result = "PktQuestActCompleteRewardGetResult";
                     break;
-                case 0x43A:	//1082	
+                case 1082:      // 0x43B
                     result = "PktQuestActChapterCompleteNotify";
                     break;
-                case 0x43B:	//1083	
+                case 1083:      // 0x43C
                     result = "PktQuestScrollCompleteCountReset";
                     break;
-                case 0x43C:	//1084	
+                case 1084:      // 0x43D
                     result = "PktQuestScrollCompleteCountResetResult";
                     break;
-                case 0x43D:	//1085	
+                case 1085:      // 0x43E
                     result = "PktQuestTeleport";
                     break;
-                case 0x43E:	//1086	
+                case 1086:      // 0x43F
                     result = "PktQuestTeleportResult";
                     break;
-                case 0x43F:	//1087	
+                case 1087:      // 0x440
+                    result = "PktQuestCutScenePlayResult";
+                    break;
+                case 1088:      // 0x441
                     result = "PktQuestSimpleUpdateNotify";
                     break;
-                case 0x47E:	//1150	
+                case 1150:      // 0x47F
                     result = "PktPartyInfoRead";
                     break;
-                case 0x47F:	//1151	
+                case 1151:      // 0x480
                     result = "PktPartyInfoReadResult";
                     break;
-                case 0x480:	//1152	
+                case 1152:      // 0x481
                     result = "PktPartySearchStart";
                     break;
-                case 0x481:	//1153	
+                case 1153:      // 0x482
                     result = "PktPartySearchStartResult";
                     break;
-                case 0x482:	//1154	
+                case 1154:      // 0x483
                     result = "PktPartySearchNotify";
                     break;
-                case 0x483:	//1155	
+                case 1155:      // 0x484
                     result = "PktPartySearchCancel";
                     break;
-                case 0x484:	//1156	
+                case 1156:      // 0x485
                     result = "PktPartySearchCancelResult";
                     break;
-                case 0x485:	//1157	
+                case 1157:      // 0x486
                     result = "PktPartyMemberSearchStart";
                     break;
-                case 0x486:	//1158	
+                case 1158:      // 0x487
                     result = "PktPartyMemberSearchStartResult";
                     break;
-                case 0x487:	//1159	
+                case 1159:      // 0x488
                     result = "PktPartyMemberSearchCancel";
                     break;
-                case 0x488:	//1160	
+                case 1160:      // 0x489
                     result = "PktPartyMemberSearchCancelResult";
                     break;
-                case 0x489:	//1161	
+                case 1161:      // 0x48A
                     result = "PktPartyInvite";
                     break;
-                case 0x48A:	//1162	
+                case 1162:      // 0x48B
                     result = "PktPartyInviteResult";
                     break;
-                case 0x48B:	//1163	
+                case 1163:      // 0x48C
                     result = "PktPartyInviteNotify";
                     break;
-                case 0x48C:	//1164	
+                case 1164:      // 0x48D
                     result = "PktPartyInviteAccept";
                     break;
-                case 0x48D:	//1165	
+                case 1165:      // 0x48E
                     result = "PktPartyInviteAcceptResult";
                     break;
-                case 0x48E:	//1166	
+                case 1166:      // 0x48F
                     result = "PktPartyInviteRefuse";
                     break;
-                case 0x48F:	//1167	
+                case 1167:      // 0x490
                     result = "PktPartyInviteRefuseResult";
                     break;
-                case 0x490:	//1168	
+                case 1168:      // 0x491
                     result = "PktPartyInviteRefuseNotify";
                     break;
-                case 0x491:	//1169	
+                case 1169:      // 0x492
                     result = "PktPartyJoinRequest";
                     break;
-                case 0x492:	//1170	
+                case 1170:      // 0x493
                     result = "PktPartyJoinRequestResult";
                     break;
-                case 0x493:	//1171	
+                case 1171:      // 0x494
                     result = "PktPartyJoinRequestNotify";
                     break;
-                case 0x494:	//1172	
+                case 1172:      // 0x495
                     result = "PktPartyJoinRequestCancel";
                     break;
-                case 0x495:	//1173	
+                case 1173:      // 0x496
                     result = "PktPartyJoinRequestCancelResult";
                     break;
-                case 0x496:	//1174	
+                case 1174:      // 0x497
                     result = "PktPartyJoinRequestCancelNotify";
                     break;
-                case 0x497:	//1175	
+                case 1175:      // 0x498
                     result = "PktPartyJoinAccept";
                     break;
-                case 0x498:	//1176	
+                case 1176:      // 0x499
                     result = "PktPartyJoinAcceptResult";
                     break;
-                case 0x499:	//1177	
+                case 1177:      // 0x49A
                     result = "PktPartyJoinAcceptNotify";
                     break;
-                case 0x49A:	//1178	
+                case 1178:      // 0x49B
                     result = "PktPartyJoinRefuse";
                     break;
-                case 0x49B:	//1179	
+                case 1179:      // 0x49C
                     result = "PktPartyJoinRefuseResult";
                     break;
-                case 0x49C:	//1180	
+                case 1180:      // 0x49D
                     result = "PktPartyJoinRefuseNotify";
                     break;
-                case 0x49D:	//1181	
+                case 1181:      // 0x49E
                     result = "PktPartyCreateNotify";
                     break;
-                case 0x49E:	//1182	
+                case 1182:      // 0x49F
                     result = "PktPartyMemberJoinNotify";
                     break;
-                case 0x49F:	//1183	
+                case 1183:      // 0x4A0
                     result = "PktPartyExpel";
                     break;
-                case 0x4A0:	//1184	
+                case 1184:      // 0x4A1
                     result = "PktPartyExpelResult";
                     break;
-                case 0x4A1:	//1185	
+                case 1185:      // 0x4A2
                     result = "PktPartyExpelNotify";
                     break;
-                case 0x4A2:	//1186	
+                case 1186:      // 0x4A3
                     result = "PktPartyWithdraw";
                     break;
-                case 0x4A3:	//1187	
+                case 1187:      // 0x4A4
                     result = "PktPartyWithdrawResult";
                     break;
-                case 0x4A4:	//1188	
+                case 1188:      // 0x4A5
                     result = "PktPartyWithdrawNotify";
                     break;
-                case 0x4A5:	//1189	
+                case 1189:      // 0x4A6
                     result = "PktPartyDisband";
                     break;
-                case 0x4A6:	//1190	
+                case 1190:      // 0x4A7
                     result = "PktPartyDisbandResult";
                     break;
-                case 0x4A7:	//1191	
+                case 1191:      // 0x4A8
                     result = "PktPartyDisbandNotify";
                     break;
-                case 0x4A8:	//1192	
+                case 1192:      // 0x4A9
                     result = "PktPartyMasterEntrust";
                     break;
-                case 0x4A9:	//1193	
+                case 1193:      // 0x4AA
                     result = "PktPartyMasterEntrustResult";
                     break;
-                case 0x4AA:	//1194	
+                case 1194:      // 0x4AB
                     result = "PktPartyMasterEntrustNotify";
                     break;
-                case 0x4AB:	//1195	
+                case 1195:      // 0x4AC
                     result = "PktPartyMuster";
                     break;
-                case 0x4AC:	//1196	
+                case 1196:      // 0x4AD
                     result = "PktPartyMusterResult";
                     break;
-                case 0x4AD:	//1197	
+                case 1197:      // 0x4AE
                     result = "PktPartyMusterNotify";
                     break;
-                case 0x4AE:	//1198	
+                case 1198:      // 0x4AF
                     result = "PktPartyMusterAccept";
                     break;
-                case 0x4AF:	//1199	
+                case 1199:      // 0x4B0
                     result = "PktPartyMusterAcceptResult";
                     break;
-                case 0x4B0:	//1200	
+                case 1200:      // 0x4B1
                     result = "PktPartyMusterRefuse";
                     break;
-                case 0x4B1:	//1201	
+                case 1201:      // 0x4B2
                     result = "PktPartyMusterRefuseResult";
                     break;
-                case 0x4B2:	//1202	
+                case 1202:      // 0x4B3
                     result = "PktPartyMusterRefuseNotify";
                     break;
-                case 0x4B3:	//1203	
+                case 1203:      // 0x4B4
                     result = "PktPartyMeet";
                     break;
-                case 0x4B4:	//1204	
+                case 1204:      // 0x4B5
                     result = "PktPartyMeetResult";
                     break;
-                case 0x4B5:	//1205	
+                case 1205:      // 0x4B6
                     result = "PktPartyCall";
                     break;
-                case 0x4B6:	//1206	
+                case 1206:      // 0x4B7
                     result = "PktPartyCallResult";
                     break;
-                case 0x4B7:	//1207	
+                case 1207:      // 0x4B8
                     result = "PktPartyCallNotify";
                     break;
-                case 0x4B8:	//1208	
+                case 1208:      // 0x4B9
                     result = "PktPartyMemberStatChangeNotify";
                     break;
-                case 0x4B9:	//1209	
+                case 1209:      // 0x4BA
                     result = "PktPartyMasterWorldMoveNotify";
                     break;
-                case 0x4BA:	//1210	
+                case 1210:      // 0x4BB
                     result = "PktPartyMemberDisconnectNotify";
                     break;
-                case 0x4BB:	//1211	
+                case 1211:      // 0x4BC
                     result = "PktPartyMemberReconnectNotify";
                     break;
-                case 0x4BC:	//1212	
+                case 1212:      // 0x4BD
                     result = "PktPartyNearPartyInfo";
                     break;
-                case 0x4BD:	//1213	
+                case 1213:      // 0x4BE
                     result = "PktPartyNearPartyInfoResult";
                     break;
-                case 0x4BE:	//1214	
+                case 1214:      // 0x4BF
                     result = "PktPartyNearPlayerInfo";
                     break;
-                case 0x4BF:	//1215	
+                case 1215:      // 0x4C0
                     result = "PktPartyNearPlayerInfoResult";
                     break;
-                case 0x4C0:	//1216	
+                case 1216:      // 0x4C1
                     result = "PktPartyTagSearch";
                     break;
-                case 0x4C1:	//1217	
+                case 1217:      // 0x4C2
                     result = "PktPartyTagSearchResult";
                     break;
-                case 0x4C2:	//1218	
+                case 1218:      // 0x4C3
                     result = "PktPartyTagChange";
                     break;
-                case 0x4C3:	//1219	
+                case 1219:      // 0x4C4
                     result = "PktPartyTagChangeResult";
                     break;
-                case 0x4C4:	//1220	
+                case 1220:      // 0x4C5
                     result = "PktPartyTempCreate";
                     break;
-                case 0x4C5:	//1221	
+                case 1221:      // 0x4C6
                     result = "PktPartyTempCreateResult";
                     break;
-                case 0x4C6:	//1222	
+                case 1222:      // 0x4C7
                     result = "PktPartyTempRegister";
                     break;
-                case 0x4C7:	//1223	
+                case 1223:      // 0x4C8
                     result = "PktPartyTempRegisterResult";
                     break;
-                case 0x4C8:	//1224	
+                case 1224:      // 0x4C9
                     result = "PktPartyCreate";
                     break;
-                case 0x4C9:	//1225	
+                case 1225:      // 0x4CA
                     result = "PktPartyCreateResult";
                     break;
-                case 0x4CA:	//1226	
+                case 1226:      // 0x4CB
                     result = "PktPartyMemberPosNotify";
                     break;
-                case 0x4CB:	//1227	
+                case 1227:      // 0x4CC
                     result = "PktPartyAutoEnterList";
                     break;
-                case 0x4CC:	//1228	
+                case 1228:      // 0x4CD
                     result = "PktPartyAutoEnterListResult";
                     break;
-                case 0x4CD:	//1229	
+                case 1229:      // 0x4CE
                     result = "PktPartyAutoEnter";
                     break;
-                case 0x4CE:	//1230	
+                case 1230:      // 0x4CF
                     result = "PktPartyAutoEnterResult";
                     break;
-                case 0x4CF:	//1231	
+                case 1231:      // 0x4D0
                     result = "PktPartyAutoEnterNotify";
                     break;
-                case 0x4D0:	//1232	
+                case 1232:      // 0x4D1
                     result = "PktPartyAutoEnterCancel";
                     break;
-                case 0x4D1:	//1233	
+                case 1233:      // 0x4D2
                     result = "PktPartyAutoEnterCancelResult";
                     break;
-                case 0x4D2:	//1234	
+                case 1234:      // 0x4D3
                     result = "PktPartyAutoEnterCancelNotify";
                     break;
-                case 0x4D3:	//1235	
+                case 1235:      // 0x4D4
                     result = "PktPartyAutoEnterStartNotify";
                     break;
-                case 0x4D4:	//1236	
+                case 1236:      // 0x4D5
                     result = "PktPartyAutoEnterAccept";
                     break;
-                case 0x4D5:	//1237	
+                case 1237:      // 0x4D6
                     result = "PktPartyAutoEnterAcceptResult";
                     break;
-                case 0x4D6:	//1238	
+                case 1238:      // 0x4D7
                     result = "PktPartyAutoEnterAcceptNotify";
                     break;
-                case 0x4D7:	//1239	
+                case 1239:      // 0x4D8
                     result = "PktPartyAutoEnterAcceptTimeOutNotify";
                     break;
-                case 0x4D8:	//1240	
+                case 1240:      // 0x4D9
                     result = "PktPartyAutoEnterAcceptImpossibleAreaNotify";
                     break;
-                case 0x4D9:	//1241	
+                case 1241:      // 0x4DA
                     result = "PktPartyDungeonEnter";
                     break;
-                case 0x4DA:	//1242	
+                case 1242:      // 0x4DB
                     result = "PktPartyDungeonEnterResult";
                     break;
-                case 0x4DB:	//1243	
+                case 1243:      // 0x4DC
                     result = "PktPartyDungeonEnterStartNotify";
                     break;
-                case 0x4DC:	//1244	
+                case 1244:      // 0x4DD
                     result = "PktPartyDungeonEnterCancelNotify";
                     break;
-                case 0x4DD:	//1245	
+                case 1245:      // 0x4DE
                     result = "PktPartyDungeonEnterAccept";
                     break;
-                case 0x4DE:	//1246	
+                case 1246:      // 0x4DF
                     result = "PktPartyDungeonEnterAcceptResult";
                     break;
-                case 0x4DF:	//1247	
+                case 1247:      // 0x4E0
                     result = "PktPartyDungeonEnterAcceptNotify";
                     break;
-                case 0x4E0:	//1248	
+                case 1248:      // 0x4E1
                     result = "PktPartyDungeonEnterNotify";
                     break;
-                case 0x4E1:	//1249	
+                case 1249:      // 0x4E2
                     result = "PktPartyInfoNotify";
                     break;
-                case 0x4E2:	//1250	
+                case 1250:      // 0x4E3
                     result = "PktPartyVoiceChatJoinNotify";
                     break;
-                case 0x4E3:	//1251	
+                case 1251:      // 0x4E4
                     result = "PktPartyVoiceChatJoin";
                     break;
-                case 0x4E4:	//1252	
+                case 1252:      // 0x4E5
                     result = "PktPartyVoiceChatJoinResult";
                     break;
-                case 0x4E5:	//1253	
+                case 1253:      // 0x4E6
                     result = "PktPartyVoiceChatExit";
                     break;
-                case 0x4E6:	//1254	
+                case 1254:      // 0x4E7
                     result = "PktPartyVoiceChatExitResult";
                     break;
-                case 0x4E7:	//1255	
+                case 1255:      // 0x4E8
                     result = "PktPartyMemberWorldMoveNotify";
                     break;
-                case 0x4E8:	//1256	
+                case 1256:      // 0x4E9
                     result = "PktPartyNameChange";
                     break;
-                case 0x4E9:	//1257	
+                case 1257:      // 0x4EA
                     result = "PktPartyNameChangeResult";
                     break;
-                case 0x4EA:	//1258	
+                case 1258:      // 0x4EB
                     result = "PktPartyNameChangeNotify";
                     break;
-                case 0x4EB:	//1259	
+                case 1259:      // 0x4EC
                     result = "PktPartyInviteIndicate";
                     break;
-                case 0x4EC:	//1260	
+                case 1260:      // 0x4ED
                     result = "PktPartyInviteIndicateResult";
                     break;
-                case 0x4ED:	//1261	
+                case 1261:      // 0x4EE
                     result = "PktPartyEmblemChangeNotify";
                     break;
-                case 0x4EE:	//1262	
+                case 1262:      // 0x4EF
                     result = "PktPartyDungeonSupportEnter";
                     break;
-                case 0x4EF:	//1263	
+                case 1263:      // 0x4F0
                     result = "PktPartyDungeonSupportEnterResult";
                     break;
-                case 0x4F0:	//1264	
+                case 1264:      // 0x4F1
                     result = "PktPartyDungeonHelpRequest";
                     break;
-                case 0x4F1:	//1265	
+                case 1265:      // 0x4F2
                     result = "PktPartyDungeonHelpRequestResult";
                     break;
-                case 0x4F2:	//1266	
+                case 1266:      // 0x4F3
                     result = "PktPartyDungeonHelpCancel";
                     break;
-                case 0x4F3:	//1267	
+                case 1267:      // 0x4F4
                     result = "PktPartyDungeonHelpCancelResult";
                     break;
-                case 0x4F4:	//1268	
+                case 1268:      // 0x4F5
                     result = "PktPartyDungeonHelpInfo";
                     break;
-                case 0x4F5:	//1269	
+                case 1269:      // 0x4F6
                     result = "PktPartyDungeonHelpInfoResult";
                     break;
-                case 0x4F6:	//1270	
+                case 1270:      // 0x4F7
                     result = "PktPartyDungeonHelpList";
                     break;
-                case 0x4F7:	//1271	
+                case 1271:      // 0x4F8
                     result = "PktPartyDungeonHelpListResult";
                     break;
-                case 0x4F8:	//1272	
+                case 1272:      // 0x4F9
                     result = "PktPartyDungeonHelpParticipate";
                     break;
-                case 0x4F9:	//1273	
+                case 1273:      // 0x4FA
                     result = "PktPartyDungeonHelpParticipateResult";
                     break;
-                case 0x4FA:	//1274	
+                case 1274:      // 0x4FB
                     result = "PktPartyDungeonResultNotify";
                     break;
-                case 0x514:	//1300	
+                case 1300:      // 0x515
                     result = "PktFriendListRead";
                     break;
-                case 0x515:	//1301	
+                case 1301:      // 0x516
                     result = "PktFriendListReadResult";
                     break;
-                case 0x516:	//1302	
+                case 1302:      // 0x517
                     result = "PktFriendInviteSendListRead";
                     break;
-                case 0x517:	//1303	
+                case 1303:      // 0x518
                     result = "PktFriendInviteSendListReadResult";
                     break;
-                case 0x518:	//1304	
+                case 1304:      // 0x519
                     result = "PktFriendInviterListRead";
                     break;
-                case 0x519:	//1305	
+                case 1305:      // 0x51A
                     result = "PktFriendInviterListReadResult";
                     break;
-                case 0x51A:	//1306	
+                case 1306:      // 0x51B
                     result = "PktFriendInvite";
                     break;
-                case 0x51B:	//1307	
+                case 1307:      // 0x51C
                     result = "PktFriendInviteResult";
                     break;
-                case 0x51C:	//1308	
+                case 1308:      // 0x51D
                     result = "PktFriendInviteNotify";
                     break;
-                case 0x51D:	//1309	
+                case 1309:      // 0x51E
                     result = "PktFriendInviteCancel";
                     break;
-                case 0x51E:	//1310	
+                case 1310:      // 0x51F
                     result = "PktFriendInviteCancelResult";
                     break;
-                case 0x51F:	//1311	
+                case 1311:      // 0x520
                     result = "PktFriendInviteCancelAll";
                     break;
-                case 0x520:	//1312	
+                case 1312:      // 0x521
                     result = "PktFriendInviteCancelAllResult";
                     break;
-                case 0x521:	//1313	
+                case 1313:      // 0x522
                     result = "PktFriendInviteCancelNotify";
                     break;
-                case 0x522:	//1314	
+                case 1314:      // 0x523
                     result = "PktFriendAccept";
                     break;
-                case 0x523:	//1315	
+                case 1315:      // 0x524
                     result = "PktFriendAcceptResult";
                     break;
-                case 0x524:	//1316	
+                case 1316:      // 0x525
                     result = "PktFriendAcceptNotify";
                     break;
-                case 0x525:	//1317	
+                case 1317:      // 0x526
                     result = "PktFriendRefuse";
                     break;
-                case 0x526:	//1318	
+                case 1318:      // 0x527
                     result = "PktFriendRefuseResult";
                     break;
-                case 0x527:	//1319	
+                case 1319:      // 0x528
                     result = "PktFriendAcceptAll";
                     break;
-                case 0x528:	//1320	
+                case 1320:      // 0x529
                     result = "PktFriendAcceptAllResult";
                     break;
-                case 0x529:	//1321	
+                case 1321:      // 0x52A
                     result = "PktFriendRefuseAll";
                     break;
-                case 0x52A:	//1322	
+                case 1322:      // 0x52B
                     result = "PktFriendRefuseAllResult";
                     break;
-                case 0x52B:	//1323	
+                case 1323:      // 0x52C
                     result = "PktFriendDelete";
                     break;
-                case 0x52C:	//1324	
+                case 1324:      // 0x52D
                     result = "PktFriendDeleteResult";
                     break;
-                case 0x52D:	//1325	
+                case 1325:      // 0x52E
                     result = "PktFriendSearch";
                     break;
-                case 0x52E:	//1326	
+                case 1326:      // 0x52F
                     result = "PktFriendSearchResult";
                     break;
-                case 0x52F:	//1327	
+                case 1327:      // 0x530
                     result = "PktFriendLike";
                     break;
-                case 0x530:	//1328	
+                case 1328:      // 0x531
                     result = "PktFriendLikeResult";
                     break;
-                case 0x531:	//1329	
+                case 1329:      // 0x532
                     result = "PktFriendRecommendationListRead";
                     break;
-                case 0x532:	//1330	
+                case 1330:      // 0x533
                     result = "PktFriendRecommendationListReadResult";
                     break;
-                case 0x533:	//1331	
+                case 1331:      // 0x534
                     result = "PktFriendRecommendationListRefresh";
                     break;
-                case 0x534:	//1332	
+                case 1332:      // 0x535
                     result = "PktFriendRecommendationListRefreshResult";
                     break;
-                case 0x535:	//1333	
+                case 1333:      // 0x536
                     result = "PktFriendRecommendationInviteAll";
                     break;
-                case 0x536:	//1334	
+                case 1334:      // 0x537
                     result = "PktFriendRecommendationInviteAllResult";
                     break;
-                case 0x537:	//1335	
+                case 1335:      // 0x538
                     result = "PktFriendListAutoManager";
                     break;
-                case 0x538:	//1336	
+                case 1336:      // 0x539
                     result = "PktFriendListAutoManagerResult";
                     break;
-                case 0x539:	//1337	
+                case 1337:      // 0x53A
                     result = "PktFriendGreet";
                     break;
-                case 0x53A:	//1338	
+                case 1338:      // 0x53B
                     result = "PktFriendGreetResult";
                     break;
-                case 0x53B:	//1339	
+                case 1339:      // 0x53C
                     result = "PktFriendGreetAll";
                     break;
-                case 0x53C:	//1340	
+                case 1340:      // 0x53D
                     result = "PktFriendGreetAllResult";
                     break;
-                case 0x53D:	//1341	
+                case 1341:      // 0x53E
                     result = "PktFriendGreetNotify";
                     break;
-                case 0x53E:	//1342	
+                case 1342:      // 0x53F
                     result = "PktFriendGreetReceive";
                     break;
-                case 0x53F:	//1343	
+                case 1343:      // 0x540
                     result = "PktFriendGreetReceiveResult";
                     break;
-                case 0x540:	//1344	
+                case 1344:      // 0x541
                     result = "PktFriendGreetReceiveAll";
                     break;
-                case 0x541:	//1345	
+                case 1345:      // 0x542
                     result = "PktFriendGreetReceiveAllResult";
                     break;
-                case 0x578:	//1400	
+                case 1346:      // 0x543
+                    result = "PktFriendInviteConnectNotify";
+                    break;
+                case 1350:      // 0x547
                     result = "PktGuildInfoRead";
                     break;
-                case 0x579:	//1401	
+                case 1351:      // 0x548
                     result = "PktGuildInfoReadResult";
-                    PktGuildInfoReadresult.Packet(packet);
                     break;
-                case 0x57A:	//1402	
+                case 1352:      // 0x549
                     result = "PktGuildMemberListRead";
                     break;
-                case 0x57B:	//1403	
+                case 1353:      // 0x54A
                     result = "PktGuildMemberListReadResult";
-                    PktGuildMemberListReadresult.Packet(packet);
                     break;
-                case 0x57C:	//1404	
+                case 1354:      // 0x54B
                     result = "PktGuildCreate";
                     break;
-                case 0x57D:	//1405	
+                case 1355:      // 0x54C
                     result = "PktGuildCreateResult";
                     break;
-                case 0x57E:	//1406	
+                case 1356:      // 0x54D
                     result = "PktGuildCreateCheck";
                     break;
-                case 0x57F:	//1407	
+                case 1357:      // 0x54E
                     result = "PktGuildCreateCheckResult";
                     break;
-                case 0x580:	//1408	
+                case 1358:      // 0x54F
                     result = "PktGuildInvite";
                     break;
-                case 0x581:	//1409	
+                case 1359:      // 0x550
                     result = "PktGuildInviteResult";
                     break;
-                case 0x582:	//1410	
+                case 1360:      // 0x551
                     result = "PktGuildInviteNotify";
                     break;
-                case 0x583:	//1411	
+                case 1361:      // 0x552
                     result = "PktGuildInviteAccept";
                     break;
-                case 0x584:	//1412	
+                case 1362:      // 0x553
                     result = "PktGuildInviteAcceptResult";
                     break;
-                case 0x585:	//1413	
+                case 1363:      // 0x554
                     result = "PktGuildInviteRefuse";
                     break;
-                case 0x586:	//1414	
+                case 1364:      // 0x555
                     result = "PktGuildInviteRefuseResult";
                     break;
-                case 0x587:	//1415	
+                case 1365:      // 0x556
                     result = "PktGuildInviteRefuseNotify";
                     break;
-                case 0x588:	//1416	
+                case 1366:      // 0x557
                     result = "PktGuildJoinRequest";
                     break;
-                case 0x589:	//1417	
+                case 1367:      // 0x558
                     result = "PktGuildJoinRequestResult";
                     break;
-                case 0x58A:	//1418	
+                case 1368:      // 0x559
                     result = "PktGuildJoinRequestNotify";
                     break;
-                case 0x58B:	//1419	
+                case 1369:      // 0x55A
                     result = "PktGuildJoinRequestListRead";
                     break;
-                case 0x58C:	//1420	
+                case 1370:      // 0x55B
                     result = "PktGuildJoinRequestListReadResult";
                     break;
-                case 0x58D:	//1421	
+                case 1371:      // 0x55C
                     result = "PktGuildReceivedJoinRequestListRead";
                     break;
-                case 0x58E:	//1422	
+                case 1372:      // 0x55D
                     result = "PktGuildReceivedJoinRequestListReadResult";
                     break;
-                case 0x58F:	//1423	
+                case 1373:      // 0x55E
                     result = "PktGuildJoinRequestCancel";
                     break;
-                case 0x590:	//1424	
+                case 1374:      // 0x55F
                     result = "PktGuildJoinRequestCancelResult";
                     break;
-                case 0x591:	//1425	
+                case 1375:      // 0x560
                     result = "PktGuildJoinAccept";
                     break;
-                case 0x592:	//1426	
+                case 1376:      // 0x561
                     result = "PktGuildJoinAcceptResult";
                     break;
-                case 0x593:	//1427	
+                case 1377:      // 0x562
                     result = "PktGuildJoinAcceptAll";
                     break;
-                case 0x594:	//1428	
+                case 1378:      // 0x563
                     result = "PktGuildJoinAcceptAllResult";
                     break;
-                case 0x595:	//1429	
+                case 1379:      // 0x564
                     result = "PktGuildJoinAcceptNotify";
                     break;
-                case 0x596:	//1430	
+                case 1380:      // 0x565
                     result = "PktGuildMemberJoinNotify";
                     break;
-                case 0x597:	//1431	
+                case 1381:      // 0x566
                     result = "PktGuildJoinRefuse";
                     break;
-                case 0x598:	//1432	
+                case 1382:      // 0x567
                     result = "PktGuildJoinRefuseResult";
                     break;
-                case 0x599:	//1433	
+                case 1383:      // 0x568
                     result = "PktGuildJoinRefuseAll";
                     break;
-                case 0x59A:	//1434	
+                case 1384:      // 0x569
                     result = "PktGuildJoinRefuseAllResult";
                     break;
-                case 0x59B:	//1435	
+                case 1385:      // 0x56A
                     result = "PktGuildJoinRefuseNotify";
                     break;
-                case 0x59C:	//1436	
+                case 1386:      // 0x56B
                     result = "PktGuildExpel";
                     break;
-                case 0x59D:	//1437	
+                case 1387:      // 0x56C
                     result = "PktGuildExpelResult";
                     break;
-                case 0x59E:	//1438	
+                case 1388:      // 0x56D
                     result = "PktGuildExpelNotify";
                     break;
-                case 0x59F:	//1439	
+                case 1389:      // 0x56E
                     result = "PktGuildWithdraw";
                     break;
-                case 0x5A0:	//1440	
+                case 1390:      // 0x56F
                     result = "PktGuildWithdrawResult";
                     break;
-                case 0x5A1:	//1441	
+                case 1391:      // 0x570
                     result = "PktGuildWithdrawNotify";
                     break;
-                case 0x5A2:	//1442	
+                case 1392:      // 0x571
                     result = "PktGuildDisband";
                     break;
-                case 0x5A3:	//1443	
+                case 1393:      // 0x572
                     result = "PktGuildDisbandResult";
                     break;
-                case 0x5A4:	//1444	
+                case 1394:      // 0x573
                     result = "PktGuildDisbandNotify";
                     break;
-                case 0x5A5:	//1445	
+                case 1395:      // 0x574
                     result = "PktGuildMasterEntrust";
                     break;
-                case 0x5A6:	//1446	
+                case 1396:      // 0x575
                     result = "PktGuildMasterEntrustResult";
                     break;
-                case 0x5A7:	//1447	
+                case 1397:      // 0x576
                     result = "PktGuildMasterEntrustNotify";
                     break;
-                case 0x5A8:	//1448	
+                case 1398:      // 0x577
                     result = "PktGuildMemberGradeChange";
                     break;
-                case 0x5A9:	//1449	
+                case 1399:      // 0x578
                     result = "PktGuildMemberGradeChangeResult";
                     break;
-                case 0x5AA:	//1450	
+                case 1400:      // 0x579
                     result = "PktGuildMemberGradeChangeNotify";
                     break;
-                case 0x5AB:	//1451	
+                case 1401:      // 0x57A
                     result = "PktGuildIntroductionChange";
                     break;
-                case 0x5AC:	//1452	
+                case 1402:      // 0x57B
                     result = "PktGuildIntroductionChangeResult";
                     break;
-                case 0x5AD:	//1453	
+                case 1403:      // 0x57C
                     result = "PktGuildNoticeChange";
                     break;
-                case 0x5AE:	//1454	
+                case 1404:      // 0x57D
                     result = "PktGuildNoticeChangeResult";
                     break;
-                case 0x5AF:	//1455	
+                case 1405:      // 0x57E
                     result = "PktGuildNameChange";
                     break;
-                case 0x5B0:	//1456	
+                case 1406:      // 0x57F
                     result = "PktGuildNameChangeResult";
                     break;
-                case 0x5B1:	//1457	
+                case 1407:      // 0x580
                     result = "PktGuildEmblemChange";
                     break;
-                case 0x5B2:	//1458	
+                case 1408:      // 0x581
                     result = "PktGuildEmblemChangeResult";
                     break;
-                case 0x5B3:	//1459	
+                case 1409:      // 0x582
+                    result = "PktGuildForceWarPreventionChange";
+                    break;
+                case 1410:      // 0x583
+                    result = "PktGuildForceWarPreventionChangeResult";
+                    break;
+                case 1411:      // 0x584
+                    result = "PktGuildWarDeclareRefuseFormCeasefireNotify";
+                    break;
+                case 1412:      // 0x585
                     result = "PktGuildRecommendationListRead";
                     break;
-                case 0x5B4:	//1460	
+                case 1413:      // 0x586
                     result = "PktGuildRecommendationListReadResult";
-                    PktGuildRecommendationListReadresult.Packet(packet);
                     break;
-                case 0x5B5:	//1461	
+                case 1414:      // 0x587
                     result = "PktGuildRankingListRead";
                     break;
-                case 0x5B6:	//1462	
+                case 1415:      // 0x588
                     result = "PktGuildRankingListReadResult";
                     break;
-                case 0x5B7:	//1463	
+                case 1416:      // 0x589
                     result = "PktGuildRecommendationListRefresh";
                     break;
-                case 0x5B8:	//1464	
+                case 1417:      // 0x58A
                     result = "PktGuildRecommendationListRefreshResult";
                     break;
-                case 0x5B9:	//1465	
+                case 1418:      // 0x58B
                     result = "PktGuildMemberRecommendationListRead";
                     break;
-                case 0x5BA:	//1466	
+                case 1419:      // 0x58C
                     result = "PktGuildMemberRecommendationListReadResult";
                     break;
-                case 0x5BB:	//1467	
+                case 1420:      // 0x58D
                     result = "PktGuildDonate";
                     break;
-                case 0x5BC:	//1468	
+                case 1421:      // 0x58E
                     result = "PktGuildDonateResult";
                     break;
-                case 0x5BD:	//1469	
+                case 1422:      // 0x58F
                     result = "PktGuildLevelUpNotify";
                     break;
-                case 0x5BE:	//1470	
+                case 1423:      // 0x590
                     result = "PktGuildImpeach";
                     break;
-                case 0x5BF:	//1471	
+                case 1424:      // 0x591
                     result = "PktGuildImpeachResult";
                     break;
-                case 0x5C0:	//1472	
+                case 1425:      // 0x592
                     result = "PktGuildImpeachNotify";
                     break;
-                case 0x5C1:	//1473	
+                case 1426:      // 0x593
                     result = "PktGuildAttend";
                     break;
-                case 0x5C2:	//1474	
+                case 1427:      // 0x594
                     result = "PktGuildAttendResult";
                     break;
-                case 0x5C3:	//1475	
+                case 1428:      // 0x595
                     result = "PktGuildAttendRewardGet";
                     break;
-                case 0x5C4:	//1476	
+                case 1429:      // 0x596
                     result = "PktGuildAttendRewardGetResult";
                     break;
-                case 0x5C5:	//1477	
+                case 1430:      // 0x597
                     result = "PktGuildGreet";
                     break;
-                case 0x5C6:	//1478	
+                case 1431:      // 0x598
                     result = "PktGuildGreetResult";
                     break;
-                case 0x5C7:	//1479	
+                case 1432:      // 0x599
                     result = "PktGuildGreetAll";
                     break;
-                case 0x5C8:	//1480	
+                case 1433:      // 0x59A
                     result = "PktGuildGreetAllResult";
                     break;
-                case 0x5C9:	//1481	
+                case 1434:      // 0x59B
                     result = "PktGuildGreetingReceivedNotify";
                     break;
-                case 0x5CA:	//1482	
+                case 1435:      // 0x59C
                     result = "PktGuildGreetReceive";
                     break;
-                case 0x5CB:	//1483	
+                case 1436:      // 0x59D
                     result = "PktGuildGreetReceiveResult";
                     break;
-                case 0x5CC:	//1484	
+                case 1437:      // 0x59E
                     result = "PktGuildGreetReceiveAll";
                     break;
-                case 0x5CD:	//1485	
+                case 1438:      // 0x59F
                     result = "PktGuildGreetReceiveAllResult";
                     break;
-                case 0x5CE:	//1486	
+                case 1439:      // 0x5A0
                     result = "PktGuildRecordListRead";
                     break;
-                case 0x5CF:	//1487	
+                case 1440:      // 0x5A1
                     result = "PktGuildRecordListReadResult";
-                    PktGuildRecordListReadresult.Packet(packet);
                     break;
-                case 0x5D0:	//1488	
+                case 1441:      // 0x5A2
                     result = "PktGuildWarehouseListRead";
                     break;
-                case 0x5D1:	//1489	
+                case 1442:      // 0x5A3
                     result = "PktGuildWarehouseListReadResult";
                     break;
-                case 0x5D2:	//1490	
+                case 1443:      // 0x5A4
                     result = "PktGuildWarehouseGrant";
                     break;
-                case 0x5D3:	//1491	
+                case 1444:      // 0x5A5
                     result = "PktGuildWarehouseGrantResult";
                     break;
-                case 0x5D4:	//1492	
+                case 1445:      // 0x5A6
                     result = "PktGuildWarehouseGrantAllMember";
                     break;
-                case 0x5D5:	//1493	
+                case 1446:      // 0x5A7
                     result = "PktGuildWarehouseGrantAllMemberResult";
                     break;
-                case 0x5D6:	//1494	
+                case 1447:      // 0x5A8
                     result = "PktGuildBuffUpgrade";
                     break;
-                case 0x5D7:	//1495	
+                case 1448:      // 0x5A9
                     result = "PktGuildBuffUpgradeResult";
                     break;
-                case 0x5D8:	//1496	
+                case 1449:      // 0x5AA
                     result = "PktGuildBuffListRead";
                     break;
-                case 0x5D9:	//1497	
+                case 1450:      // 0x5AB
                     result = "PktGuildBuffListReadResult";
                     break;
-                case 0x5DA:	//1498	
+                case 1451:      // 0x5AC
                     result = "PktGuildBuffBuy";
                     break;
-                case 0x5DB:	//1499	
+                case 1452:      // 0x5AD
                     result = "PktGuildBuffBuyResult";
                     break;
-                case 0x5DC:	//1500	
+                case 1453:      // 0x5AE
                     result = "PktGuildMarketListRead";
                     break;
-                case 0x5DD:	//1501	
+                case 1454:      // 0x5AF
                     result = "PktGuildMarketListReadResult";
                     break;
-                case 0x5DE:	//1502	
+                case 1455:      // 0x5B0
                     result = "PktGuildMarketBuy";
                     break;
-                case 0x5DF:	//1503	
+                case 1456:      // 0x5B1
                     result = "PktGuildMarketBuyResult";
                     break;
-                case 0x5E0:	//1504	
+                case 1457:      // 0x5B2
                     result = "PktGuildMarketGiftBuy";
                     break;
-                case 0x5E1:	//1505	
+                case 1458:      // 0x5B3
                     result = "PktGuildMarketGiftBuyResult";
                     break;
-                case 0x5E2:	//1506	
+                case 1459:      // 0x5B4
                     result = "PktGuildCastleUpgrade";
                     break;
-                case 0x5E3:	//1507	
+                case 1460:      // 0x5B5
                     result = "PktGuildCastleUpgradeResult";
                     break;
-                case 0x5E4:	//1508	
+                case 1461:      // 0x5B6
                     result = "PktGuildSearch";
                     break;
-                case 0x5E5:	//1509	
+                case 1462:      // 0x5B7
                     result = "PktGuildSearchResult";
-                    PktGuildSearchResult.Packet(packet);
                     break;
-                case 0x5E6:	//1510	
+                case 1463:      // 0x5B8
                     result = "PktGuildAllianceListRead";
                     break;
-                case 0x5E7:	//1511	
+                case 1464:      // 0x5B9
                     result = "PktGuildAllianceListReadResult";
                     break;
-                case 0x5E8:	//1512	
+                case 1465:      // 0x5BA
                     result = "PktGuildAllianceInviterListRead";
                     break;
-                case 0x5E9:	//1513	
+                case 1466:      // 0x5BB
                     result = "PktGuildAllianceInviterListReadResult";
                     break;
-                case 0x5EA:	//1514	
+                case 1467:      // 0x5BC
                     result = "PktGuildAllianceInvite";
                     break;
-                case 0x5EB:	//1515	
+                case 1468:      // 0x5BD
                     result = "PktGuildAllianceInviteResult";
                     break;
-                case 0x5EC:	//1516	
+                case 1469:      // 0x5BE
                     result = "PktGuildAllianceInvitationCancel";
                     break;
-                case 0x5ED:	//1517	
+                case 1470:      // 0x5BF
                     result = "PktGuildAllianceInvitationCancelResult";
                     break;
-                case 0x5EE:	//1518	
+                case 1471:      // 0x5C0
                     result = "PktGuildAllianceAccept";
                     break;
-                case 0x5EF:	//1519	
+                case 1472:      // 0x5C1
                     result = "PktGuildAllianceAcceptResult";
                     break;
-                case 0x5F0:	//1520	
+                case 1473:      // 0x5C2
                     result = "PktGuildAllianceChangeNotify";
                     break;
-                case 0x5F1:	//1521	
+                case 1474:      // 0x5C3
                     result = "PktGuildHostilityChangeNotify";
                     break;
-                case 0x5F2:	//1522	
+                case 1475:      // 0x5C4
                     result = "PktGuildAllianceRefuse";
                     break;
-                case 0x5F3:	//1523	
+                case 1476:      // 0x5C5
                     result = "PktGuildAllianceRefuseResult";
                     break;
-                case 0x5F4:	//1524	
+                case 1477:      // 0x5C6
                     result = "PktGuildAllianceRefuseAll";
                     break;
-                case 0x5F5:	//1525	
+                case 1478:      // 0x5C7
                     result = "PktGuildAllianceRefuseAllResult";
                     break;
-                case 0x5F6:	//1526	
+                case 1479:      // 0x5C8
                     result = "PktGuildAllianceDelete";
                     break;
-                case 0x5F7:	//1527	
+                case 1480:      // 0x5C9
                     result = "PktGuildAllianceDeleteResult";
                     break;
-                case 0x5F8:	//1528	
+                case 1481:      // 0x5CA
                     result = "PktGuildHostilityListRead";
                     break;
-                case 0x5F9:	//1529	
+                case 1482:      // 0x5CB
                     result = "PktGuildHostilityListReadResult";
                     break;
-                case 0x5FA:	//1530	
+                case 1483:      // 0x5CC
                     result = "PktGuildHostilityRegister";
                     break;
-                case 0x5FB:	//1531	
+                case 1484:      // 0x5CD
                     result = "PktGuildHostilityRegisterResult";
                     break;
-                case 0x5FC:	//1532	
+                case 1485:      // 0x5CE
                     result = "PktGuildHostilityWarDeclare";
                     break;
-                case 0x5FD:	//1533	
+                case 1486:      // 0x5CF
                     result = "PktGuildHostilityWarDeclareResult";
                     break;
-                case 0x5FE:	//1534	
+                case 1487:      // 0x5D0
                     result = "PktGuildHostilityUnregister";
                     break;
-                case 0x5FF:	//1535	
+                case 1488:      // 0x5D1
                     result = "PktGuildHostilityUnregisterResult";
                     break;
-                case 0x600:	//1536	
+                case 1489:      // 0x5D2
                     result = "PktGuildHostileWarSurrender";
                     break;
-                case 0x601:	//1537	
+                case 1490:      // 0x5D3
                     result = "PktGuildHostileWarSurrenderResult";
                     break;
-                case 0x602:	//1538	
+                case 1491:      // 0x5D4
                     result = "PktGuildHostileWarRecordListRead";
                     break;
-                case 0x603:	//1539	
+                case 1492:      // 0x5D5
                     result = "PktGuildHostileWarRecordListReadResult";
                     break;
-                case 0x604:	//1540	
+                case 1493:      // 0x5D6
                     result = "PktGuildAchievementListRead";
                     break;
-                case 0x605:	//1541	
+                case 1494:      // 0x5D7
                     result = "PktGuildAchievementListReadResult";
                     break;
-                case 0x606:	//1542	
+                case 1495:      // 0x5D8
                     result = "PktGuildAchievementRewardGet";
                     break;
-                case 0x607:	//1543	
+                case 1496:      // 0x5D9
                     result = "PktGuildAchievementRewardGetResult";
                     break;
-                case 0x608:	//1544	
+                case 1497:      // 0x5DA
                     result = "PktGuildJoinRequestOptionChange";
                     break;
-                case 0x609:	//1545	
+                case 1498:      // 0x5DB
                     result = "PktGuildJoinRequestOptionChangeResult";
                     break;
-                case 0x60A:	//1546	
+                case 1499:      // 0x5DC
                     result = "PktGuildInfoReadChangeNotify";
                     break;
-                case 0x60B:	//1547	
+                case 1500:      // 0x5DD
                     result = "PktGuildBadgeNotify";
                     break;
-                case 0x60C:	//1548	
+                case 1501:      // 0x5DE
                     result = "PktGuildHostileWarBroadcastNotify";
                     break;
-                case 0x60D:	//1549	
+                case 1502:      // 0x5DF
                     result = "PktGuildNoticeRead";
                     break;
-                case 0x60E:	//1550	
+                case 1503:      // 0x5E0
                     result = "PktGuildNoticeReadResult";
                     break;
-                case 0x60F:	//1551	
+                case 1504:      // 0x5E1
                     result = "PktGuildPromotionLimitTimeNotify";
                     break;
-                case 0x610:	//1552	
+                case 1505:      // 0x5E2
                     result = "PktGuildDungeonEnter";
                     break;
-                case 0x611:	//1553	
+                case 1506:      // 0x5E3
                     result = "PktGuildDungeonEnterResult";
                     break;
-                case 0x612:	//1554	
+                case 1507:      // 0x5E4
                     result = "PktGuildDungeonEnterNotify";
                     break;
-                case 0x613:	//1555	
+                case 1508:      // 0x5E5
                     result = "PktGuildDungeonList";
                     break;
-                case 0x614:	//1556	
+                case 1509:      // 0x5E6
                     result = "PktGuildDungeonListResult";
                     break;
-                case 0x615:	//1557	
+                case 1510:      // 0x5E7
                     result = "PktGuildDungeonReset";
                     break;
-                case 0x616:	//1558	
+                case 1511:      // 0x5E8
                     result = "PktGuildDungeonResetResult";
                     break;
-                case 0x617:	//1559	
+                case 1512:      // 0x5E9
                     result = "PktGuildDungeonInviteRequest";
                     break;
-                case 0x618:	//1560	
+                case 1513:      // 0x5EA
                     result = "PktGuildDungeonInviteRequestResult";
                     break;
-                case 0x619:	//1561	
+                case 1514:      // 0x5EB
                     result = "PktGuildDungeonInviteRequestNotify";
                     break;
-                case 0x61A:	//1562	
+                case 1515:      // 0x5EC
                     result = "PktGuildDungeonInviteAccept";
                     break;
-                case 0x61B:	//1563	
+                case 1516:      // 0x5ED
                     result = "PktGuildDungeonInviteAcceptResult";
                     break;
-                case 0x61C:	//1564	
+                case 1517:      // 0x5EE
                     result = "PktGuildDungeonDamageNotify";
                     break;
-                case 0x61D:	//1565	
-                    result = "PktGuildDungeonresultNotify";
+                case 1518:      // 0x5EF
+                    result = "PktGuildDungeonResultNotify";
                     break;
-                case 0x61E:	//1566	
+                case 1519:      // 0x5F0
                     result = "PktGuildDungeonKickoutNotify";
                     break;
-                case 0x61F:	//1567	
+                case 1520:      // 0x5F1
                     result = "PktGuildMasterBuffNotify";
                     break;
-                case 0x620:	//1568	
+                case 1521:      // 0x5F2
                     result = "PktGuildNameChangeNotify";
                     break;
-                case 0x621:	//1569	
+                case 1522:      // 0x5F3
                     result = "PktGuildMemberKillNotify";
-                    PktGuildMemberKillNotify.Packet(packet);
                     break;
-                case 0x622:	//1570	
+                case 1523:      // 0x5F4
                     result = "PktGuildInfoNotify";
                     break;
-                case 0x623:	//1571	
+                case 1524:      // 0x5F5
                     result = "PktGuildAgitBuy";
                     break;
-                case 0x624:	//1572	
+                case 1525:      // 0x5F6
                     result = "PktGuildAgitBuyResult";
                     break;
-                case 0x625:	//1573	
+                case 1526:      // 0x5F7
                     result = "PktGuildAgitUpgrade";
                     break;
-                case 0x626:	//1574	
+                case 1527:      // 0x5F8
                     result = "PktGuildAgitUpgradeResult";
                     break;
-                case 0x627:	//1575	
+                case 1528:      // 0x5F9
                     result = "PktGuildAgitCrystalUpgrade";
                     break;
-                case 0x628:	//1576	
+                case 1529:      // 0x5FA
                     result = "PktGuildAgitCrystalUpgradeResult";
                     break;
-                case 0x629:	//1577	
+                case 1530:      // 0x5FB
                     result = "PktGuildAgitInfo";
                     break;
-                case 0x62A:	//1578	
+                case 1531:      // 0x5FC
                     result = "PktGuildAgitInfoResult";
                     break;
-                case 0x62B:	//1579	
+                case 1532:      // 0x5FD
                     result = "PktGuildAgitOpen";
                     break;
-                case 0x62C:	//1580	
+                case 1533:      // 0x5FE
                     result = "PktGuildAgitOpenResult";
                     break;
-                case 0x62D:	//1581	
+                case 1534:      // 0x5FF
                     result = "PktGuildAgitExpel";
                     break;
-                case 0x62E:	//1582	
+                case 1535:      // 0x600
                     result = "PktGuildAgitExpelResult";
                     break;
-                case 0x62F:	//1583	
+                case 1536:      // 0x601
                     result = "PktGuildAgitExpelNotify";
                     break;
-                case 0x630:	//1584	
+                case 1537:      // 0x602
                     result = "PktGuildAgitEnter";
                     break;
-                case 0x631:	//1585	
+                case 1538:      // 0x603
                     result = "PktGuildAgitEnterResult";
                     break;
-                case 0x632:	//1586	
+                case 1539:      // 0x604
                     result = "PktGuildAgitLeave";
                     break;
-                case 0x633:	//1587	
+                case 1540:      // 0x605
                     result = "PktGuildAgitLeaveResult";
                     break;
-                case 0x634:	//1588	
+                case 1541:      // 0x606
                     result = "PktGuildAgitQuestList";
                     break;
-                case 0x635:	//1589	
+                case 1542:      // 0x607
                     result = "PktGuildAgitQuestListResult";
-                    PktGuildAgitQuestListresult.Packet(packet);
                     break;
-                case 0x636:	//1590	
+                case 1543:      // 0x608
                     result = "PktGuildAgitQuestAccept";
                     break;
-                case 0x637:	//1591	
+                case 1544:      // 0x609
                     result = "PktGuildAgitQuestAcceptResult";
                     break;
-                case 0x638:	//1592	
+                case 1545:      // 0x60A
                     result = "PktGuildAgitQuestComplete";
                     break;
-                case 0x639:	//1593	
+                case 1546:      // 0x60B
                     result = "PktGuildAgitQuestCompleteResult";
                     break;
-                case 0x63A:	//1594	
+                case 1547:      // 0x60C
                     result = "PktGuildAgitQuestCompleteImmediately";
                     break;
-                case 0x63B:	//1595	
+                case 1548:      // 0x60D
                     result = "PktGuildAgitQuestCompleteImmediatelyResult";
                     break;
-                case 0x63C:	//1596	
+                case 1549:      // 0x60E
                     result = "PktGuildPromoListRead";
                     break;
-                case 0x63D:	//1597	
+                case 1550:      // 0x60F
                     result = "PktGuildPromoListReadResult";
                     break;
-                case 0x63E:	//1598	
+                case 1551:      // 0x610
                     result = "PktGuildCommunityOpen";
                     break;
-                case 0x63F:	//1599	
+                case 1552:      // 0x611
                     result = "PktGuildCommunityOpenResult";
                     break;
-                case 0x640:	//1600	
+                case 1600:      // 0x641
                     result = "PktCastleSiegeInfoRead";
                     break;
-                case 0x641:	//1601	
+                case 1601:      // 0x642
                     result = "PktCastleSiegeInfoReadResult";
                     break;
-                case 0x642:	//1602	
+                case 1602:      // 0x643
                     result = "PktCastleSiegeEnter";
                     break;
-                case 0x643:	//1603	
+                case 1603:      // 0x644
                     result = "PktCastleSiegeEnterResult";
                     break;
-                case 0x644:	//1604	
+                case 1604:      // 0x645
                     result = "PktCastleSiegeEnterNotify";
                     break;
-                case 0x645:	//1605	
+                case 1605:      // 0x646
                     result = "PktCastleSiegeInfoNotify";
                     break;
-                case 0x646:	//1606	
+                case 1606:      // 0x647
                     result = "PktCastleSiegeStateChangeNotify";
                     break;
-                case 0x647:	//1607	
+                case 1607:      // 0x648
                     result = "PktCastleSiegeGuildInfoRead";
                     break;
-                case 0x648:	//1608	
+                case 1608:      // 0x649
                     result = "PktCastleSiegeGuildInfoReadResult";
                     break;
-                case 0x649:	//1609	
+                case 1609:      // 0x64A
                     result = "PktCastleSiegeFinishNotify";
                     break;
-                case 0x64A:	//1610	
+                case 1610:      // 0x64B
                     result = "PktCastleSiegeRetreatNotify";
                     break;
-                case 0x64B:	//1611	
+                case 1611:      // 0x64C
                     result = "PktCastleSiegeHolyArtifactHpChangeNotify";
                     break;
-                case 0x64C:	//1612	
+                case 1612:      // 0x64D
                     result = "PktCastleSiegeHolyArtifactImprintNotify";
                     break;
-                case 0x64D:	//1613	
+                case 1613:      // 0x64E
                     result = "PktCastleSiegeEventNotify";
                     break;
-                case 0x64E:	//1614	
+                case 1614:      // 0x64F
                     result = "PktCastleSiegeLeave";
                     break;
-                case 0x64F:	//1615	
+                case 1615:      // 0x650
                     result = "PktCastleSiegeLeaveResult";
                     break;
-                case 0x650:	//1616	
+                case 1616:      // 0x651
                     result = "PktCastleSiegeEntryBid";
                     break;
-                case 0x651:	//1617	
+                case 1617:      // 0x652
                     result = "PktCastleSiegeEntryBidResult";
                     break;
-                case 0x652:	//1618	
+                case 1618:      // 0x653
                     result = "PktCastleSiegeEntryBidCancel";
                     break;
-                case 0x653:	//1619	
+                case 1619:      // 0x654
                     result = "PktCastleSiegeEntryBidCancelResult";
                     break;
-                case 0x654:	//1620	
+                case 1620:      // 0x655
                     result = "PktCastleSiegeEntryChangeNotify";
                     break;
-                case 0x655:	//1621	
+                case 1621:      // 0x656
                     result = "PktCastleSiegeFestivalInfoRead";
                     break;
-                case 0x656:	//1622	
+                case 1622:      // 0x657
                     result = "PktCastleSiegeFestivalInfoReadResult";
                     break;
-                case 0x657:	//1623	
+                case 1623:      // 0x658
                     result = "PktCastleSiegeFestivalLotteryBuy";
                     break;
-                case 0x658:	//1624	
+                case 1624:      // 0x659
                     result = "PktCastleSiegeFestivalLotteryBuyResult";
                     break;
-                case 0x659:	//1625	
+                case 1625:      // 0x65A
                     result = "PktCastleSiegeFestivalLotteryRewardGet";
                     break;
-                case 0x65A:	//1626	
+                case 1626:      // 0x65B
                     result = "PktCastleSiegeFestivalLotteryRewardGetResult";
                     break;
-                case 0x65B:	//1627	
+                case 1627:      // 0x65C
                     result = "PktCastleSiegeGuildAlarm";
                     break;
-                case 0x65C:	//1628	
+                case 1628:      // 0x65D
                     result = "PktCastleSiegeGuildAlarmResult";
                     break;
-                case 0x65D:	//1629	
+                case 1629:      // 0x65E
                     result = "PktCastleSiegeGuildAlarmNotify";
                     break;
-                case 0x65E:	//1630	
+                case 1630:      // 0x65F
                     result = "PktCommonSiegeKillComboNotify";
                     break;
-                case 0x65F:	//1631	
+                case 1631:      // 0x660
                     result = "PktCommonSiegeOccupyBuffNotify";
                     break;
-                case 0x660:	//1632	
+                case 1632:      // 0x661
                     result = "PktCommonSiegeDestroyedActorNotify";
                     break;
-                case 0x661:	//1633	
+                case 1633:      // 0x662
                     result = "PktCastleOccupyGuildInfo";
                     break;
-                case 0x662:	//1634	
+                case 1634:      // 0x663
                     result = "PktCastleOccupyGuildInfoResult";
                     break;
-                case 0x663:	//1635	
+                case 1635:      // 0x664
                     result = "PktCastleSiegePrevRecord";
                     break;
-                case 0x664:	//1636	
+                case 1636:      // 0x665
                     result = "PktCastleSiegePrevRecordResult";
                     break;
-                case 0x665:	//1637	
+                case 1637:      // 0x666
                     result = "PktCastleSiegeHistoryList";
                     break;
-                case 0x666:	//1638	
+                case 1638:      // 0x667
                     result = "PktCastleSiegeHistoryListResult";
                     break;
-                case 0x667:	//1639	
-                    result = "PktCastleSiegePreseasonInfo";
-                    break;
-                case 0x668:	//1640	
-                    result = "PktCastleSiegePreseasonInfoResult";
-                    break;
-                case 0x669:	//1641	
-                    result = "PktGuildAutoDisbandNotify";
-                    break;
-                case 0x6A4:	//1700	
+                case 1700:      // 0x6A5
                     result = "PktFortressSiegeInfoRead";
                     break;
-                case 0x6A5:	//1701	
+                case 1701:      // 0x6A6
                     result = "PktFortressSiegeInfoReadResult";
                     break;
-                case 0x6A6:	//1702	
+                case 1702:      // 0x6A7
                     result = "PktFortressSiegeEntryBid";
                     break;
-                case 0x6A7:	//1703	
+                case 1703:      // 0x6A8
                     result = "PktFortressSiegeEntryBidResult";
                     break;
-                case 0x6A8:	//1704	
+                case 1704:      // 0x6A9
                     result = "PktFortressSiegeEntryBidCancel";
                     break;
-                case 0x6A9:	//1705	
+                case 1705:      // 0x6AA
                     result = "PktFortressSiegeEntryBidCancelResult";
                     break;
-                case 0x6AA:	//1706	
+                case 1706:      // 0x6AB
                     result = "PktFortressSiegeEntryChangeNotify";
                     break;
-                case 0x6AB:	//1707	
+                case 1707:      // 0x6AC
                     result = "PktFortressSiegeEnter";
                     break;
-                case 0x6AC:	//1708	
+                case 1708:      // 0x6AD
                     result = "PktFortressSiegeEnterResult";
                     break;
-                case 0x6AD:	//1709	
+                case 1709:      // 0x6AE
                     result = "PktFortressSiegeEnterNotify";
                     break;
-                case 0x6AE:	//1710	
+                case 1710:      // 0x6AF
                     result = "PktFortressSiegeInfoNotify";
                     break;
-                case 0x6AF:	//1711	
+                case 1711:      // 0x6B0
                     result = "PktFortressSiegeStateChangeNotify";
                     break;
-                case 0x6B0:	//1712	
+                case 1712:      // 0x6B1
                     result = "PktFortressSiegeGuildInfoRead";
                     break;
-                case 0x6B1:	//1713	
+                case 1713:      // 0x6B2
                     result = "PktFortressSiegeGuildInfoReadResult";
                     break;
-                case 0x6B2:	//1714	
+                case 1714:      // 0x6B3
                     result = "PktFortressSiegeFinishNotify";
                     break;
-                case 0x6B3:	//1715	
+                case 1715:      // 0x6B4
                     result = "PktFortressSiegeRetreatNotify";
                     break;
-                case 0x6B4:	//1716	
+                case 1716:      // 0x6B5
                     result = "PktFortressSiegeHolyArtifactHpChangeNotify";
                     break;
-                case 0x6B5:	//1717	
+                case 1717:      // 0x6B6
                     result = "PktFortressSiegeHolyArtifactImprintNotify";
                     break;
-                case 0x6B6:	//1718	
+                case 1718:      // 0x6B7
+                    result = "PktFortressSiegeHolyArtifactImprintAccumulateTimeNotify";
+                    break;
+                case 1719:      // 0x6B8
                     result = "PktFortressSiegeEventNotify";
                     break;
-                case 0x6B7:	//1719	
+                case 1720:      // 0x6B9
                     result = "PktFortressSiegeLeave";
                     break;
-                case 0x6B8:	//1720	
+                case 1721:      // 0x6BA
                     result = "PktFortressSiegeLeaveResult";
                     break;
-                case 0x6B9:	//1721	
+                case 1722:      // 0x6BB
                     result = "PktFortressOccupyGuildInfo";
                     break;
-                case 0x6BA:	//1722	
+                case 1723:      // 0x6BC
                     result = "PktFortressOccupyGuildInfoResult";
                     break;
-                case 0x6BB:	//1723	
+                case 1724:      // 0x6BD
                     result = "PktFortressSiegePrevRecord";
                     break;
-                case 0x6BC:	//1724	
+                case 1725:      // 0x6BE
                     result = "PktFortressSiegePrevRecordResult";
                     break;
-                case 0x6BD:	//1725	
+                case 1726:      // 0x6BF
                     result = "PktFortressSiegeHistoryList";
                     break;
-                case 0x6BE:	//1726	
+                case 1727:      // 0x6C0
                     result = "PktFortressSiegeHistoryListResult";
                     break;
-                case 0x708:	//1800	
+                case 1800:      // 0x709
                     result = "PktAuctionHouseSearchListRead";
                     break;
-                case 0x709:	//1801	
+                case 1801:      // 0x70A
                     result = "PktAuctionHouseSearchListReadResult";
                     break;
-                case 0x70A:	//1802	
+                case 1802:      // 0x70B
                     result = "PktAuctionHouseItemDetailView";
                     break;
-                case 0x70B:	//1803	
+                case 1803:      // 0x70C
                     result = "PktAuctionHouseItemDetailViewResult";
                     break;
-                case 0x70C:	//1804	
+                case 1804:      // 0x70D
                     result = "PktAuctionHouseBuy";
                     break;
-                case 0x70D:	//1805	
+                case 1805:      // 0x70E
                     result = "PktAuctionHouseBuyResult";
                     break;
-                case 0x70E:	//1806	
+                case 1806:      // 0x70F
                     result = "PktAuctionHouseSellingListRead";
                     break;
-                case 0x70F:	//1807	
+                case 1807:      // 0x710
                     result = "PktAuctionHouseSellingListReadResult";
                     break;
-                case 0x710:	//1808	
+                case 1808:      // 0x711
                     result = "PktAuctionHouseSellingRegister";
                     break;
-                case 0x711:	//1809	
+                case 1809:      // 0x712
                     result = "PktAuctionHouseSellingRegisterResult";
                     break;
-                case 0x712:	//1810	
+                case 1810:      // 0x713
                     result = "PktAuctionHouseSellingCancel";
                     break;
-                case 0x713:	//1811	
+                case 1811:      // 0x714
                     result = "PktAuctionHouseSellingCancelResult";
                     break;
-                case 0x714:	//1812	
-                    result = "PktAuctionHouseSellingresultGet";
+                case 1812:      // 0x715
+                    result = "PktAuctionHouseSellingResultGet";
                     break;
-                case 0x715:	//1813	
-                    result = "PktAuctionHouseSellingresultGetResult";
+                case 1813:      // 0x716
+                    result = "PktAuctionHouseSellingResultGetResult";
                     break;
-                case 0x716:	//1814	
-                    result = "PktAuctionHouseSellingresultGetAll";
+                case 1814:      // 0x717
+                    result = "PktAuctionHouseSellingResultGetAll";
                     break;
-                case 0x717:	//1815	
-                    result = "PktAuctionHouseSellingresultGetAllResult";
+                case 1815:      // 0x718
+                    result = "PktAuctionHouseSellingResultGetAllResult";
                     break;
-                case 0x718:	//1816	
+                case 1816:      // 0x719
                     result = "PktAuctionHouseRecordListRead";
                     break;
-                case 0x719:	//1817	
+                case 1817:      // 0x71A
                     result = "PktAuctionHouseRecordListReadResult";
                     break;
-                case 0x71A:	//1818	
+                case 1818:      // 0x71B
                     result = "PktAuctionHouseAveragePriceGet";
                     break;
-                case 0x71B:	//1819	
+                case 1819:      // 0x71C
                     result = "PktAuctionHouseAveragePriceGetResult";
                     break;
-                case 0x71C:	//1820	
+                case 1820:      // 0x71D
                     result = "PktAuctionHouseFavoritesListRead";
                     break;
-                case 0x71D:	//1821	
+                case 1821:      // 0x71E
                     result = "PktAuctionHouseFavoritesListReadResult";
                     break;
-                case 0x71E:	//1822	
+                case 1822:      // 0x71F
                     result = "PktAuctionHouseFavoritesRegister";
                     break;
-                case 0x71F:	//1823	
+                case 1823:      // 0x720
                     result = "PktAuctionHouseFavoritesRegisterResult";
                     break;
-                case 0x720:	//1824	
+                case 1824:      // 0x721
                     result = "PktAuctionHouseFavoritesOnSaleNotify";
                     break;
-                case 0x721:	//1825	
+                case 1825:      // 0x722
                     result = "PktAuctionHouseSellingRegisterAgain";
                     break;
-                case 0x722:	//1826	
+                case 1826:      // 0x723
                     result = "PktAuctionHouseSellingRegisterAgainResult";
                     break;
-                case 0x723:	//1827	
-                    result = "PktAuctionHouseGetEnabled";
-                    break;
-                case 0x724:	//1828	
-                    result = "PktAuctionHouseGetEnabledResult";
-                    break;
-                case 0x76C:	//1900	
+                case 1900:      // 0x76D
                     result = "PktShopItemListRead";
                     break;
-                case 0x76D:	//1901	
+                case 1901:      // 0x76E
                     result = "PktShopItemListReadResult";
                     break;
-                case 0x76E:	//1902	
+                case 1902:      // 0x76F
                     result = "PktShopItemBuy";
                     break;
-                case 0x76F:	//1903	
+                case 1903:      // 0x770
                     result = "PktShopItemBuyResult";
                     break;
-                case 0x770:	//1904	
+                case 1904:      // 0x771
                     result = "PktFixedChargeNotify";
                     break;
-                case 0x771:	//1905	
+                case 1905:      // 0x772
                     result = "PktFixedChargeInfoNotify";
                     break;
-                case 0x772:	//1906	
+                case 1906:      // 0x773
                     result = "PktFixedChargeDetail";
                     break;
-                case 0x773:	//1907	
+                case 1907:      // 0x774
                     result = "PktFixedChargeDetailResult";
                     break;
-                case 0x774:	//1908	
+                case 1908:      // 0x775
                     result = "PktFixedChargeBuy";
                     break;
-                case 0x775:	//1909	
+                case 1909:      // 0x776
                     result = "PktFixedChargeBuyResult";
                     break;
-                case 0x776:	//1910	
+                case 1910:      // 0x777
                     result = "PktFixedChargeTopazGet";
                     break;
-                case 0x777:	//1911	
+                case 1911:      // 0x778
                     result = "PktFixedChargeTopazGetResult";
                     break;
-                case 0x778:	//1912	
+                case 1912:      // 0x779
                     result = "PktFixedChargeDiamondGet";
                     break;
-                case 0x779:	//1913	
+                case 1913:      // 0x77A
                     result = "PktFixedChargeDiamondGetResult";
                     break;
-                case 0x77A:	//1914	
+                case 1914:      // 0x77B
                     result = "PktFixedChargeYesterdayDiamondGet";
                     break;
-                case 0x77B:	//1915	
+                case 1915:      // 0x77C
                     result = "PktFixedChargeYesterdayDiamondGetResult";
                     break;
-                case 0x77C:	//1916	
+                case 1916:      // 0x77D
                     result = "PktPensionTypeNotify";
                     break;
-                case 0x77D:	//1917	
+                case 1917:      // 0x77E
                     result = "PktPensionTypeAchievementCompleteNotify";
                     break;
-                case 0x77E:	//1918	
+                case 1918:      // 0x77F
                     result = "PktPensionTypeDetail";
                     break;
-                case 0x77F:	//1919	
+                case 1919:      // 0x780
                     result = "PktPensionTypeDetailResult";
                     break;
-                case 0x780:	//1920	
+                case 1920:      // 0x781
                     result = "PktPensionTypeBuy";
                     break;
-                case 0x781:	//1921	
+                case 1921:      // 0x782
                     result = "PktPensionTypeBuyResult";
                     break;
-                case 0x782:	//1922	
+                case 1922:      // 0x783
                     result = "PktPensionTypeRewardGet";
                     break;
-                case 0x783:	//1923	
+                case 1923:      // 0x784
                     result = "PktPensionTypeRewardGetResult";
                     break;
-                case 0x784:	//1924	
+                case 1924:      // 0x785
                     result = "PktSmartPopupNotify";
                     break;
-                case 0x785:	//1925	
+                case 1925:      // 0x786
                     result = "PktSmartPopupClose";
                     break;
-                case 0x786:	//1926	
+                case 1926:      // 0x787
                     result = "PktSmartPopupCloseResult";
                     break;
-                case 0x787:	//1927	
+                case 1927:      // 0x788
                     result = "PktDailyAdenaNotify";
                     break;
-                case 0x788:	//1928	
+                case 1928:      // 0x789
                     result = "PktDailyAdenaInfoNotify";
                     break;
-                case 0x789:	//1929	
+                case 1929:      // 0x78A
                     result = "PktDailyAdenaDetail";
                     break;
-                case 0x78A:	//1930	
+                case 1930:      // 0x78B
                     result = "PktDailyAdenaDetailResult";
                     break;
-                case 0x78B:	//1931	
+                case 1931:      // 0x78C
                     result = "PktDailyAdenaBuy";
                     break;
-                case 0x78C:	//1932	
+                case 1932:      // 0x78D
                     result = "PktDailyAdenaBuyResult";
                     break;
-                case 0x78D:	//1933	
+                case 1933:      // 0x78E
                     result = "PktDailyAdenaDiamondGet";
                     break;
-                case 0x78E:	//1934	
+                case 1934:      // 0x78F
                     result = "PktDailyAdenaDiamondGetResult";
                     break;
-                case 0x78F:	//1935	
+                case 1935:      // 0x790
                     result = "PktDailyAdenaRewardGet";
                     break;
-                case 0x790:	//1936	
+                case 1936:      // 0x791
                     result = "PktDailyAdenaRewardGetResult";
                     break;
-                case 0x791:	//1937	
+                case 1937:      // 0x792
                     result = "PktShopRewardListRead";
                     break;
-                case 0x792:	//1938	
+                case 1938:      // 0x793
                     result = "PktShopRewardListReadResult";
                     break;
-                case 0x793:	//1939	
+                case 1939:      // 0x794
                     result = "PktShopRewardGet";
                     break;
-                case 0x794:	//1940	
+                case 1940:      // 0x795
                     result = "PktShopRewardGetResult";
                     break;
-                case 0x795:	//1941	
+                case 1941:      // 0x796
                     result = "PktShopRewardNotify";
                     break;
-                case 0x796:	//1942	
-                    result = "PktFixedChargeGoodsListRead";
+                case 1942:      // 0x797
+                    result = "PktBeautyShopListRead";
                     break;
-                case 0x797:	//1943	
-                    result = "PktFixedChargeGoodsListReadResult";
+                case 1943:      // 0x798
+                    result = "PktBeautyShopListReadResult";
                     break;
-                case 0x798:	//1944	
-                    result = "PktFixedChargeGoodsBuy";
+                case 1944:      // 0x799
+                    result = "PktBeautyShopItemBuy";
                     break;
-                case 0x799:	//1945	
-                    result = "PktFixedChargeGoodsBuyResult";
+                case 1945:      // 0x79A
+                    result = "PktBeautyShopItemBuyResult";
                     break;
-                case 0x79A:	//1946	
-                    result = "PktFixedChargeGoodsDailyReward";
-                    break;
-                case 0x79B:	//1947	
-                    result = "PktFixedChargeGoodsDailyRewardResult";
-                    break;
-                case 0x79C:	//1948	
-                    result = "PktFixedChargeGoodsExpireNotify";
-                    break;
-                case 0x79D:	//1949	
+                case 1946:      // 0x79B
                     result = "PktShopSuggestionRead";
                     break;
-                case 0x79E:	//1950	
+                case 1947:      // 0x79C
                     result = "PktShopSuggestionReadResult";
                     break;
-                case 0x79F:	//1951	
+                case 1948:      // 0x79D
                     result = "PktTimeShopListRead";
                     break;
-                case 0x7A0:	//1952	
+                case 1949:      // 0x79E
                     result = "PktTimeShopListReadResult";
                     break;
-                case 0x7A1:	//1953	
+                case 1950:      // 0x79F
                     result = "PktTimeShopListNotify";
                     break;
-                case 0x7A2:	//1954	
-                    result = "PktDailyBenefitsEventStartNotify";
-                    break;
-                case 0x7A3:	//1955	
-                    result = "PktDailyBenefitsEventExpireNotify";
-                    break;
-                case 0x7A4:	//1956	
-                    result = "PktDailyBenefitsEventRequest";
-                    break;
-                case 0x7A5:	//1957	
-                    result = "PktDailyBenefitsEventRequestResult";
-                    break;
-                case 0x7A6:	//1958	
-                    result = "PktShopCumulativePurchaseListRead";
-                    break;
-                case 0x7A7:	//1959	
-                    result = "PktShopCumulativePurchaseListReadResult";
-                    break;
-                case 0x7D0:	//2000	
+                case 2000:      // 0x7D1
                     result = "PktDungeonListRead";
                     break;
-                case 0x7D1:	//2001	
+                case 2001:      // 0x7D2
                     result = "PktDungeonListReadResult";
                     break;
-                case 0x7D2:	//2002	
+                case 2002:      // 0x7D3
                     result = "PktDungeonEnter";
                     break;
-                case 0x7D3:	//2003	
+                case 2003:      // 0x7D4
                     result = "PktDungeonEnterResult";
                     break;
-                case 0x7D4:	//2004	
+                case 2004:      // 0x7D5
                     result = "PktDungeonExit";
                     break;
-                case 0x7D5:	//2005	
+                case 2005:      // 0x7D6
                     result = "PktDungeonExitResult";
                     break;
-                case 0x7D6:	//2006	
+                case 2006:      // 0x7D7
                     result = "PktDungeonGiveUp";
                     break;
-                case 0x7D7:	//2007	
+                case 2007:      // 0x7D8
                     result = "PktDungeonGiveUpResult";
                     break;
-                case 0x7D8:	//2008	
+                case 2008:      // 0x7D9
                     result = "PktDungeonSweep";
                     break;
-                case 0x7D9:	//2009	
+                case 2009:      // 0x7DA
                     result = "PktDungeonSweepResult";
                     break;
-                case 0x7DA:	//2010	
-                    result = "PktDungeonresultNotify";
+                case 2010:      // 0x7DB
+                    result = "PktDungeonResultNotify";
                     break;
-                case 0x7DB:	//2011	
+                case 2011:      // 0x7DC
                     result = "PktDungeonStateNotify";
                     break;
-                case 0x7DC:	//2012	
+                case 2012:      // 0x7DD
                     result = "PktDungeonEndTimeNotify";
                     break;
-                case 0x7DD:	//2013	
+                case 2013:      // 0x7DE
                     result = "PktDungeonStartTimeNotify";
                     break;
-                case 0x7DE:	//2014	
+                case 2014:      // 0x7DF
                     result = "PktDungeonScoreChangeNotify";
                     break;
-                case 0x7DF:	//2015	
+                case 2015:      // 0x7E0
                     result = "PktDungeonReviveInfoNotify";
                     break;
-                case 0x7E0:	//2016	
+                case 2016:      // 0x7E1
                     result = "PktGatheringNotify";
                     break;
-                case 0x7E1:	//2017	
+                case 2017:      // 0x7E2
                     result = "PktDungeonQuestSweep";
                     break;
-                case 0x7E2:	//2018	
+                case 2018:      // 0x7E3
                     result = "PktDungeonQuestSweepResult";
                     break;
-                case 0x7E3:	//2019	
+                case 2019:      // 0x7E4
                     result = "PktDungeonQuestRewardGet";
                     break;
-                case 0x7E4:	//2020	
+                case 2020:      // 0x7E5
                     result = "PktDungeonQuestRewardGetResult";
                     break;
-                case 0x7E5:	//2021	
+                case 2021:      // 0x7E6
                     result = "PktDungeonQuestPointRewardGet";
                     break;
-                case 0x7E6:	//2022	
+                case 2022:      // 0x7E7
                     result = "PktDungeonQuestPointRewardGetResult";
                     break;
-                case 0x7E7:	//2023	
+                case 2023:      // 0x7E8
                     result = "PktDungeonHotTimeCharge";
                     break;
-                case 0x7E8:	//2024	
+                case 2024:      // 0x7E9
                     result = "PktDungeonHotTimeChargeResult";
                     break;
-                case 0x7E9:	//2025	
+                case 2025:      // 0x7EA
                     result = "PktDungeonQuestNotify";
                     break;
-                case 0x7EA:	//2026	
+                case 2026:      // 0x7EB
                     result = "PktDungeonQuestCompleteNotify";
                     break;
-                case 0x7EB:	//2027	
+                case 2027:      // 0x7EC
                     result = "PktDungeonHotTimeNotify";
                     break;
-                case 0x7EC:	//2028	
+                case 2028:      // 0x7ED
                     result = "PktDungeonFreeCountBuy";
                     break;
-                case 0x7ED:	//2029	
+                case 2029:      // 0x7EE
                     result = "PktDungeonFreeCountBuyResult";
                     break;
-                case 0x7EE:	//2030	
+                case 2030:      // 0x7EF
                     result = "PktEnchantScrollDungeonStateNotify";
                     break;
-                case 0x7EF:	//2031	
+                case 2031:      // 0x7F0
                     result = "PktEnchantScrollDungeonInfoNotify";
                     break;
-                case 0x7F0:	//2032	
+                case 2032:      // 0x7F1
                     result = "PktDungeonReconnectNotify";
                     break;
-                case 0x7F1:	//2033	
+                case 2033:      // 0x7F2
                     result = "PktEnchantScrollDungeonReconnectMoreInfoNotify";
                     break;
-                case 0x7F2:	//2034	
+                case 2034:      // 0x7F3
                     result = "PktSummonStoneDungeonStateNotify";
                     break;
-                case 0x7F3:	//2035	
+                case 2035:      // 0x7F4
                     result = "PktSummonStoneDungeonInfoNotify";
                     break;
-                case 0x7F4:	//2036	
+                case 2036:      // 0x7F5
                     result = "PktSummonStoneDungeonReconnectMoreInfoNotify";
                     break;
-                case 0x7F5:	//2037	
-                    result = "PktDungeonBonusRewardNotify";
+                case 2037:      // 0x7F6
+                    result = "PktDungeonMenuListRead";
                     break;
-                case 0x7F6:	//2038	
+                case 2038:      // 0x7F7
+                    result = "PktDungeonMenuListReadResult";
+                    break;
+                case 2039:      // 0x7F8
+                    result = "PktDungeonTimeRead";
+                    break;
+                case 2040:      // 0x7F9
+                    result = "PktDungeonTimeReadResult";
+                    break;
+                case 2041:      // 0x7FA
                     result = "PktPartyDungeonListRead";
                     break;
-                case 0x7F7:	//2039	
+                case 2042:      // 0x7FB
                     result = "PktPartyDungeonListReadResult";
                     break;
-                case 0x7F8:	//2040	
+                case 2043:      // 0x7FC
                     result = "PktPartyDungeonClearReset";
                     break;
-                case 0x7F9:	//2041	
+                case 2044:      // 0x7FD
                     result = "PktPartyDungeonClearResetResult";
                     break;
-                case 0x834:	//2100	
+                case 2100:      // 0x835
                     result = "PktPvpInfoRead";
                     break;
-                case 0x835:	//2101	
+                case 2101:      // 0x836
                     result = "PktPvpInfoReadResult";
                     break;
-                case 0x836:	//2102	
+                case 2102:      // 0x837
                     result = "PktPvpTargetListRefresh";
                     break;
-                case 0x837:	//2103	
+                case 2103:      // 0x838
                     result = "PktPvpTargetListRefreshResult";
                     break;
-                case 0x838:	//2104	
+                case 2104:      // 0x839
                     result = "PktPvpStartCheck";
                     break;
-                case 0x839:	//2105	
+                case 2105:      // 0x83A
                     result = "PktPvpStartCheckResult";
                     break;
-                case 0x83A:	//2106	
+                case 2106:      // 0x83B
                     result = "PktPvpStart";
                     break;
-                case 0x83B:	//2107	
+                case 2107:      // 0x83C
                     result = "PktPvpStartResult";
                     break;
-                case 0x83C:	//2108	
+                case 2108:      // 0x83D
                     result = "PktPvpStartNotify";
                     break;
-                case 0x83D:	//2109	
+                case 2109:      // 0x83E
                     result = "PktPvpRecordListRead";
                     break;
-                case 0x83E:	//2110	
+                case 2110:      // 0x83F
                     result = "PktPvpRecordListReadResult";
                     break;
-                case 0x83F:	//2111	
+                case 2111:      // 0x840
                     result = "PktPvpRankingListRead";
                     break;
-                case 0x840:	//2112	
+                case 2112:      // 0x841
                     result = "PktPvpRankingListReadResult";
                     break;
-                case 0x841:	//2113	
+                case 2113:      // 0x842
                     result = "PktPvpLeave";
                     break;
-                case 0x842:	//2114	
+                case 2114:      // 0x843
                     result = "PktPvpLeaveResult";
                     break;
-                case 0x843:	//2115	
+                case 2115:      // 0x844
                     result = "PktPvpRewardGet";
                     break;
-                case 0x844:	//2116	
+                case 2116:      // 0x845
                     result = "PktPvpRewardGetResult";
                     break;
-                case 0x845:	//2117	
+                case 2117:      // 0x846
                     result = "PktPvpCountDownStartNotify";
                     break;
-                case 0x846:	//2118	
+                case 2118:      // 0x847
                     result = "PktPvpTimeNotify";
                     break;
-                case 0x847:	//2119	
+                case 2119:      // 0x848
                     result = "PktPvpEndNotify";
                     break;
-                case 0x848:	//2120	
+                case 2120:      // 0x849
                     result = "PktPvpHonorRankUpNotify";
                     break;
-                case 0x849:	//2121	
+                case 2121:      // 0x84A
                     result = "PktPvpRankingChangeNotify";
                     break;
-                case 0x84A:	//2122	
+                case 2122:      // 0x84B
                     result = "PktPkStatus";
                     break;
-                case 0x84B:	//2123	
+                case 2123:      // 0x84C
                     result = "PktPkStatusResult";
                     break;
-                case 0x84C:	//2124	
+                case 2124:      // 0x84D
                     result = "PktPkStatusNotify";
                     break;
-                case 0x84D:	//2125	
+                case 2125:      // 0x84E
                     result = "PktPkAttackStateNotify";
                     break;
-                case 0x84E:	//2126	
+                case 2126:      // 0x84F
                     result = "PktPkPointNotify";
                     break;
-                case 0x84F:	//2127	
+                case 2127:      // 0x850
                     result = "PktPlayerKilledNotify";
                     break;
-                case 0x850:	//2128	
+                case 2128:      // 0x851
                     result = "PktPvpBattleStart";
                     break;
-                case 0x851:	//2129	
+                case 2129:      // 0x852
                     result = "PktPvpBattleStartResult";
                     break;
-                case 0x852:	//2130	
+                case 2130:      // 0x853
                     result = "PktPkPointMonsterKillCount";
                     break;
-                case 0x853:	//2131	
+                case 2131:      // 0x854
                     result = "PktPkPointMonsterKillCountResult";
                     break;
-                case 0x898:	//2200	
-                    result = "PktClassTransferQuestStart";
+                case 2150:      // 0x867
+                    result = "PktPvpLeagueInfo";
                     break;
-                case 0x899:	//2201	
-                    result = "PktClassTransferQuestStartResult";
+                case 2151:      // 0x868
+                    result = "PktPvpLeagueInfoResult";
                     break;
-                case 0x89A:	//2202	
-                    result = "PktClassTransferQuestListRead";
+                case 2152:      // 0x869
+                    result = "PktPvpLeagueEnter";
                     break;
-                case 0x89B:	//2203	
-                    result = "PktClassTransferQuestListReadResult";
+                case 2153:      // 0x86A
+                    result = "PktPvpLeagueEnterResult";
                     break;
-                case 0x89C:	//2204	
-                    result = "PktClassTransferQuestRewardGet";
+                case 2154:      // 0x86B
+                    result = "PktPvpLeagueEnterNotify";
                     break;
-                case 0x89D:	//2205	
-                    result = "PktClassTransferQuestRewardGetResult";
+                case 2155:      // 0x86C
+                    result = "PktPvpLeagueEnterCancel";
                     break;
-                case 0x89E:	//2206	
-                    result = "PktClassTransfer";
+                case 2156:      // 0x86D
+                    result = "PktPvpLeagueEnterCancelResult";
                     break;
-                case 0x89F:	//2207	
-                    result = "PktClassTransferResult";
+                case 2157:      // 0x86E
+                    result = "PktPvpLeagueEnterCancelNotify";
                     break;
-                case 0x8A0:	//2208	
-                    result = "PktClassTransferableNotify";
+                case 2158:      // 0x86F
+                    result = "PktPvpLeagueEnterCompletedNotify";
                     break;
-                case 0x8A1:	//2209	
-                    result = "PktClassTransferQuestUpdateNotify";
+                case 2159:      // 0x870
+                    result = "PktPvpLeagueCountDownStartNotify";
                     break;
-                case 0x8A2:	//2210	
-                    result = "PktClassTransferQuestCompleteNotify";
+                case 2160:      // 0x871
+                    result = "PktPvpLeagueWorldEnter";
                     break;
-                case 0x8A3:	//2211	
-                    result = "PktClassTransferCheatNotify";
+                case 2161:      // 0x872
+                    result = "PktPvpLeagueWorldEnterResult";
                     break;
-                case 0x8FC:	//2300	
-                    result = "PktGuideQuestListRead";
+                case 2162:      // 0x873
+                    result = "PktPvpLeagueTimeNotify";
                     break;
-                case 0x8FD:	//2301	
-                    result = "PktGuideQuestListReadResult";
+                case 2163:      // 0x874
+                    result = "PktPvpLeagueEndNotify";
                     break;
-                case 0x8FE:	//2302	
-                    result = "PktGuideQuestRewardGet";
+                case 2164:      // 0x875
+                    result = "PktPvpLeagueExit";
                     break;
-                case 0x8FF:	//2303	
-                    result = "PktGuideQuestRewardGetResult";
+                case 2165:      // 0x876
+                    result = "PktPvpLeagueExitResult";
                     break;
-                case 0x900:	//2304	
-                    result = "PktGuideQuestUpdateNotify";
-                    break;
-                case 0x901:	//2305	
-                    result = "PktGuideQuestCompleteNotify";
-                    break;
-                case 0x902:	//2306	
-                    result = "PktGuideQuestCheatNotify";
-                    break;
-                case 0x903:	//2307	
-                    result = "PktGuideQuestActivityTimeRenew";
-                    break;
-                case 0x904:	//2308	
-                    result = "PktGuideQuestActivityTimeRenewResult";
-                    break;
-                case 0x92E:	//2350	
-                    result = "PktPromoteStateListRead";
-                    break;
-                case 0x92F:	//2351	
-                    result = "PktPromoteStateListReadResult";
-                    break;
-                case 0x930:	//2352	
-                    result = "PktPromoteStateLowListRead";
-                    break;
-                case 0x931:	//2353	
-                    result = "PktPromoteStateLowListReadResult";
-                    break;
-                case 0x960:	//2400	
-                    result = "PktTutorialNotify";
-                    break;
-                case 0x961:	//2401	
-                    result = "PktTutorialListRead";
-                    break;
-                case 0x962:	//2402	
-                    result = "PktTutorialListReadResult";
-                    break;
-                case 0x963:	//2403	
-                    result = "PktTutorialStart";
-                    break;
-                case 0x964:	//2404	
-                    result = "PktTutorialStartResult";
-                    break;
-                case 0x965:	//2405	
-                    result = "PktTutorialProgress";
-                    break;
-                case 0x966:	//2406	
-                    result = "PktTutorialProgressResult";
-                    break;
-                case 0x967:	//2407	
-                    result = "PktTutorialRewardGet";
-                    break;
-                case 0x968:	//2408	
-                    result = "PktTutorialRewardGetResult";
-                    break;
-                case 0x969:	//2409	
-                    result = "PktTutorialMaterialReceiveNotify";
-                    break;
-                case 0x96A:	//2410	
-                    result = "PktTutorialSkip";
-                    break;
-                case 0x96B:	//2411	
-                    result = "PktTutorialSkipResult";
-                    break;
-                case 0x9C4:	//2500	
-                    result = "PktCutSceneNotify";
-                    break;
-                case 0x9C5:	//2501	
-                    result = "PktCutSceneStart";
-                    break;
-                case 0x9C6:	//2502	
-                    result = "PktCutSceneStartResult";
-                    break;
-                case 0x9C7:	//2503	
-                    result = "PktCutSceneEnd";
-                    break;
-                case 0x9C8:	//2504	
-                    result = "PktCutSceneEndResult";
-                    break;
-                case 0x9C9:	//2505	
-                    result = "PktCutSceneEndReserve";
-                    break;
-                case 0x9CA:	//2506	
-                    result = "PktCutSceneEndReserveResult";
-                    break;
-                case 0x9CB:	//2507	
-                    result = "PktWorldPause";
-                    break;
-                case 0x9CC:	//2508	
-                    result = "PktWorldPauseResult";
-                    break;
-                case 0x9CD:	//2509	
-                    result = "PktWorldResume";
-                    break;
-                case 0x9CE:	//2510	
-                    result = "PktWorldResumeResult";
-                    break;
-                case 0x9CF:	//2511	
-                    result = "PktQuestCutSceneEndSync";
-                    break;
-                case 0x9D0:	//2512	
-                    result = "PktQuestCutSceneEndSyncResult";
-                    break;
-                case 0x9D1:	//2513	
-                    result = "PktQuestCutSceneEndSyncNotify";
-                    break;
-                case 0xA28:	//2600	
-                    result = "PktSystemSettingsGet";
-                    break;
-                case 0xA29:	//2601	
-                    result = "PktSystemSettingsGetResult";
-                    break;
-                case 0xA2A:	//2602	
-                    result = "PktSystemSettingsSet";
-                    break;
-                case 0xA2B:	//2603	
-                    result = "PktSystemSettingsSetResult";
-                    break;
-                case 0xA2C:	//2604	
-                    result = "PktSystemAlarmNotify";
-                    break;
-                case 0xA2D:	//2605	
-                    result = "PktPing";
-                    break;
-                case 0xA2E:	//2606	
-                    result = "PktPingResult";
-                    break;
-                case 0xA5A:	//2650	
-                    result = "PktInstantCompleteListRead";
-                    break;
-                case 0xA5B:	//2651	
-                    result = "PktInstantCompleteListReadResult";
-                    break;
-                case 0xA5C:	//2652	
-                    result = "PktInstantCompleteRewardGet";
-                    break;
-                case 0xA5D:	//2653	
-                    result = "PktInstantCompleteRewardGetResult";
-                    break;
-                case 0xA5E:	//2654	
-                    result = "PktInstantCompleteRewardAllGet";
-                    break;
-                case 0xA5F:	//2655	
-                    result = "PktInstantCompleteRewardAllGetResult";
-                    break;
-                case 0xA8C:	//2700	
-                    result = "PktMissionRequestListRead";
-                    break;
-                case 0xA8D:	//2701	
-                    result = "PktMissionRequestListReadResult";
-                    break;
-                case 0xA8E:	//2702	
-                    result = "PktMissionRequestStart";
-                    break;
-                case 0xA8F:	//2703	
-                    result = "PktMissionRequestStartResult";
-                    break;
-                case 0xA90:	//2704	
-                    result = "PktMissionDailyRefresh";
-                    break;
-                case 0xA91:	//2705	
-                    result = "PktMissionDailyRefreshResult";
-                    break;
-                case 0xA92:	//2706	
-                    result = "PktMissionDailyNowComplete";
-                    break;
-                case 0xA93:	//2707	
-                    result = "PktMissionDailyNowCompleteResult";
-                    break;
-                case 0xA94:	//2708	
-                    result = "PktMissionDailyMaxComboComplete";
-                    break;
-                case 0xA95:	//2709	
-                    result = "PktMissionDailyMaxComboCompleteResult";
-                    break;
-                case 0xA96:	//2710	
-                    result = "PktMissionWeeklyPass";
-                    break;
-                case 0xA97:	//2711	
-                    result = "PktMissionWeeklyPassResult";
-                    break;
-                case 0xA98:	//2712	
-                    result = "PktMissionDailyRewardGet";
-                    break;
-                case 0xA99:	//2713	
-                    result = "PktMissionDailyRewardGetResult";
-                    break;
-                case 0xA9A:	//2714	
-                    result = "PktMissionWeeklyRewardGet";
-                    break;
-                case 0xA9B:	//2715	
-                    result = "PktMissionWeeklyRewardGetResult";
-                    break;
-                case 0xA9C:	//2716	
-                    result = "PktMissionRequestRewardGet";
-                    break;
-                case 0xA9D:	//2717	
-                    result = "PktMissionRequestRewardGetResult";
-                    break;
-                case 0xA9E:	//2718	
-                    result = "PktMissionRequestCompleteNotify";
-                    break;
-                case 0xA9F:	//2719	
-                    result = "PktMissionDailyUpdateNotify";
-                    break;
-                case 0xAA0:	//2720	
-                    result = "PktMissionWeeklyUpdateNotify";
-                    break;
-                case 0xAA1:	//2721	
-                    result = "PktMissionTeleport";
-                    break;
-                case 0xAA2:	//2722	
-                    result = "PktMissionTeleportResult";
-                    break;
-                case 0xAA3:	//2723	
-                    result = "PktMissionWeeklyRefresh";
-                    break;
-                case 0xAA4:	//2724	
-                    result = "PktMissionWeeklyRefreshResult";
-                    break;
-                case 0xAA5:	//2725	
-                    result = "PktEventDailyQuestListRead";
-                    break;
-                case 0xAA6:	//2726	
-                    result = "PktEventDailyQuestListReadResult";
-                    break;
-                case 0xAA7:	//2727	
-                    result = "PktEventDailyQuestRewardGet";
-                    break;
-                case 0xAA8:	//2728	
-                    result = "PktEventDailyQuestRewardGetResult";
-                    break;
-                case 0xAA9:	//2729	
-                    result = "PktEventDailyQuestProgressRewardGet";
-                    break;
-                case 0xAAA:	//2730	
-                    result = "PktEventDailyQuestProgressRewardGetResult";
-                    break;
-                case 0xAAB:	//2731	
-                    result = "PktEventDailyQuestStart";
-                    break;
-                case 0xAAC:	//2732	
-                    result = "PktEventDailyQuestStartResult";
-                    break;
-                case 0xAAD:	//2733	
-                    result = "PktEventDailyQuestResetCompletedCountNotify";
-                    break;
-                case 0xABE:	//2750	
-                    result = "PktEventListRead";
-                    break;
-                case 0xABF:	//2751	
-                    result = "PktEventListReadResult";
-                    break;
-                case 0xAC0:	//2752	
-                    result = "PktEventRewardGet";
-                    break;
-                case 0xAC1:	//2753	
-                    result = "PktEventRewardGetResult";
-                    break;
-                case 0xAC2:	//2754	
-                    result = "PktEventStartNotify";
-                    break;
-                case 0xAC3:	//2755	
-                    result = "PktEventListNotify";
-                    break;
-                case 0xAC4:	//2756	
-                    result = "PktEventMessageNotify";
-                    break;
-                case 0xAC5:	//2757	
-                    result = "PktDropBoxEventNotify";
-                    break;
-                case 0xAC6:	//2758	
-                    result = "PktInitDropBoxNotify";
-                    break;
-                case 0xAC7:	//2759	
-                    result = "PktEventDiceExecute";
-                    break;
-                case 0xAC8:	//2760	
-                    result = "PktEventDiceExecuteResult";
-                    break;
-                case 0xAC9:	//2761	
-                    result = "PktEventProgressNotify";
-                    break;
-                case 0xACA:	//2762	
-                    result = "PktEventPostListRead";
-                    break;
-                case 0xACB:	//2763	
-                    result = "PktEventPostListReadResult";
-                    break;
-                case 0xACC:	//2764	
-                    result = "PktEventNeroDiceExecute";
-                    break;
-                case 0xACD:	//2765	
-                    result = "PktEventNeroDiceExecuteResult";
-                    break;
-                case 0xACE:	//2766	
-                    result = "PktEventNeroDiceGetReward";
-                    break;
-                case 0xACF:	//2767	
-                    result = "PktEventNeroDiceGetRewardResult";
-                    break;
-                case 0xAD0:	//2768	
-                    result = "PktEventPostConfirm";
-                    break;
-                case 0xAD1:	//2769	
-                    result = "PktEventPostConfirmResult";
-                    break;
-                case 0xAF0:	//2800	
-                    result = "PktNetmarbleSIAPInitialize";
-                    break;
-                case 0xAF1:	//2801	
-                    result = "PktNetmarbleSIAPInitializeResult";
-                    break;
-                case 0xAF2:	//2802	
-                    result = "PktNetmarbleSIAPVerify";
-                    break;
-                case 0xAF3:	//2803	
-                    result = "PktNetmarbleSIAPVerifyResult";
-                    break;
-                case 0xAF4:	//2804	
-                    result = "PktNetmarbleSIAPPurchaseCancel";
-                    break;
-                case 0xAF5:	//2805	
-                    result = "PktNetmarbleSIAPPurchaseCancelResult";
-                    break;
-                case 0xAF6:	//2806	
-                    result = "PktGoogleAnalyticsFirstDied";
-                    break;
-                case 0xAF7:	//2807	
-                    result = "PktGoogleAnalyticsFirstDiedResult";
-                    break;
-                case 0xAF8:	//2808	
-                    result = "PktNetmarbleSWebAchievementNotify";
-                    break;
-                case 0xAF9:	//2809	
-                    result = "PktNetmarbleSIAPGetNetmarbleItemId";
-                    break;
-                case 0xAFA:	//2810	
-                    result = "PktNetmarbleSIAPGetNetmarbleItemIdResult";
-                    break;
-                case 0xB55:	//2901	
-                    result = "PktRankingListRead";
-                    PktRankingListRead.Packet(packet);
-                    break;
-                case 0xB56:	//2902	
-                    result = "PktRankingListReadResult";
-                    break;
-                case 0xB57:	//2903	
-                    result = "PktBroadCastNotify";
-                    break;
-                case 0xB58:	//2904	
-                    result = "PktSocialNetworkShared";
-                    break;
-                case 0xB59:	//2905	
-                    result = "PktSocialNetworkSharedResult";
-                    break;
-                case 0xBB9:	//3001	
-                    result = "PktUpdate";
-                    break;
-                case 0xBBA:	//3002	
-                    result = "PktUpdateResult";
-                    break;
-                case 0xBBB:	//3003	
-                    result = "PktAdminToolRequest";
-                    break;
-                case 0xBBC:	//3004	
-                    result = "PktAdminToolRequestResult";
-                    break;
-                case 0xBBD:	//3005	
-                    result = "PktAdminToolNoticeInsert";
-                    break;
-                case 0xBBE:	//3006	
-                    result = "PktAdminToolNoticeInsertResult";
-                    break;
-                case 0xBBF:	//3007	
-                    result = "PktAdminToolNoticeDelete";
-                    break;
-                case 0xBC0:	//3008	
-                    result = "PktAdminToolNoticeDeleteResult";
-                    break;
-                case 0xC1D:	//3101	
-                    result = "PktCharacterTitleListRead";
-                    break;
-                case 0xC1E:	//3102	
-                    result = "PktCharacterTitleListReadResult";
-                    break;
-                case 0xC1F:	//3103	
-                    result = "PktCharacterTitleEquip";
-                    break;
-                case 0xC20:	//3104	
-                    result = "PktCharacterTitleEquipResult";
-                    break;
-                case 0xC21:	//3105	
-                    result = "PktCharacterTitleUpdateNotify";
-                    break;
-                case 0xC22:	//3106	
-                    result = "PktCharacterTitleEquipNotify";
-                    break;
-                case 0xC23:	//3107	
-                    result = "PktCharacterTitleAcquire";
-                    break;
-                case 0xC24:	//3108	
-                    result = "PktCharacterTitleAcquireResult";
-                    break;
-                case 0xC25:	//3109	
-                    result = "PktCharacterTitleDeleteNotify";
-                    break;
-                case 0xC81:	//3201	
-                    result = "PktCapeListRead";
-                    break;
-                case 0xC82:	//3202	
-                    result = "PktCapeListReadResult";
-                    break;
-                case 0xC83:	//3203	
-                    result = "PktCapeAcquire";
-                    break;
-                case 0xC84:	//3204	
-                    result = "PktCapeAcquireResult";
-                    break;
-                case 0xC85:	//3205	
-                    result = "PktCapeEquipChange";
-                    break;
-                case 0xC86:	//3206	
-                    result = "PktCapeEquipChangeResult";
-                    break;
-                case 0xC87:	//3207	
-                    result = "PktCapeUnequip";
-                    break;
-                case 0xC88:	//3208	
-                    result = "PktCapeUnequipResult";
-                    break;
-                case 0xC89:	//3209	
-                    result = "PktCapeLevelUp";
-                    break;
-                case 0xC8A:	//3210	
-                    result = "PktCapeLevelUpResult";
-                    break;
-                case 0xC8B:	//3211	
-                    result = "PktCapeOptionChange";
-                    break;
-                case 0xC8C:	//3212	
-                    result = "PktCapeOptionChangeResult";
-                    break;
-                case 0xC8D:	//3213	
-                    result = "PktGuildCapeLevelUp";
-                    break;
-                case 0xC8E:	//3214	
-                    result = "PktGuildCapeLevelUpResult";
-                    break;
-                case 0xC8F:	//3215	
-                    result = "PktGuildCapeColorChange";
-                    break;
-                case 0xC90:	//3216	
-                    result = "PktGuildCapeColorChangeResult";
-                    break;
-                case 0xC91:	//3217	
-                    result = "PktCapeChangePlayerNotify";
-                    break;
-                case 0xC92:	//3218	
-                    result = "PktCapeChangeNotify";
-                    break;
-                case 0xDAD:	//3501	
-                    result = "PktCacheObjectInvalidateNotify";
-                    break;
-                case 0xFA1:	//4001	
-                    result = "PktWebUserLogin";
-                    break;
-                case 0xFA2:	//4002	
-                    result = "PktWebUserLoginResult";
-                    break;
-                case 0xFA3:	//4003	
-                    result = "PktWebUserLogout";
-                    break;
-                case 0xFA4:	//4004	
-                    result = "PktWebUserLogoutResult";
-                    break;
-                case 0xFA5:	//4005	
-                    result = "PktActorLocationNotify";
-                    break;
-                case 0xFA6:	//4006	
-                    result = "PktMessageShowNotify";
-                    break;
-                case 0xFA7:	//4007	
-                    result = "PktMessageReply";
-                    break;
-                case 0xFA8:	//4008	
-                    result = "PktMessageReplyResult";
-                    break;
-                case 0xFA9:	//4009	
-                    result = "PktLogShowNotify";
-                    break;
-                case 0xFAA:	//4010	
-                    result = "PktStyleSheet";
-                    break;
-                case 0xFAB:	//4011	
-                    result = "PktStyleSheetResult";
-                    break;
-                case 0xFAC:	//4012	
-                    result = "PktStyleSheetResource";
-                    break;
-                case 0xFAD:	//4013	
-                    result = "PktStyleSheetResourceResult";
-                    break;
-                case 0xFAE:	//4014	
-                    result = "PktTestBotPlayerInfoRead";
-                    break;
-                case 0xFAF:	//4015	
-                    result = "PktTestBotPlayerInfoReadResult";
-                    break;
-                case 0xFB0:	//4016	
-                    result = "PktQuestEdit";
-                    break;
-                case 0xFB1:	//4017	
-                    result = "PktQuestEditResult";
-                    break;
-                case 0xFB2:	//4018	
-                    result = "PktDebugShapeShowNotify";
-                    break;
-                case 0xFB3:	//4019	
-                    result = "PktSecurityCodeManage";
-                    break;
-                case 0xFB4:	//4020	
-                    result = "PktSecurityCodeManageResult";
-                    break;
-                case 0xFB5:	//4021	
-                    result = "PktWorldBossNotify";
-                    break;
-                case 0xFB6:	//4022	
-                    result = "PktTestBotCommandNotify";
-                    break;
-                case 0xFB7:	//4023	
-                    result = "PktPerformanceTrace";
-                    break;
-                case 0xFB8:	//4024	
-                    result = "PktPerformanceTraceResult";
-                    break;
-                case 0xFB9:	//4025	
-                    result = "PktApolloVoiceGetAuthKey";
-                    break;
-                case 0xFBA:	//4026	
-                    result = "PktApolloVoiceGetAuthKeyResult";
-                    break;
-                case 0xFBB:	//4027	
-                    result = "PktEnvironmentManage";
-                    break;
-                case 0xFBC:	//4028	
-                    result = "PktEnvironmentManageResult";
-                    break;
-                case 0xFBD:	//4029	
-                    result = "PktFuncCall";
-                    break;
-                case 0xFBE:	//4030	
-                    result = "PktFuncCallResult";
-                    break;
-                case 0xFBF:	//4031	
-                    result = "PktObjectStatsTrace";
-                    break;
-                case 0xFC0:	//4032	
-                    result = "PktObjectStatsTraceResult";
-                    break;
-                case 0x1389:	//5001	
-                    result = "PktPlayerSocialActionListRead";
-                    break;
-                case 0x138A:	//5002	
-                    result = "PktPlayerSocialActionListReadResult";
-                    break;
-                case 0x138B:	//5003	
-                    result = "PktPlayerSocialActionMessageChange";
-                    break;
-                case 0x138C:	//5004	
-                    result = "PktPlayerSocialActionMessageChangeResult";
-                    break;
-                case 0x138D:	//5005	
-                    result = "PktEventGachaListRead";
-                    break;
-                case 0x138E:	//5006	
-                    result = "PktEventGachaListReadResult";
-                    break;
-                case 0x138F:	//5007	
-                    result = "PktEventGachaDetailRead";
-                    break;
-                case 0x1390:	//5008	
-                    result = "PktEventGachaDetailReadResult";
-                    break;
-                case 0x1391:	//5009	
-                    result = "PktEventGacha";
-                    break;
-                case 0x1392:	//5010	
-                    result = "PktEventGachaResult";
-                    break;
-                case 0x1393:	//5011	
-                    result = "PktEventGachaNotify";
-                    break;
-                case 0x1394:	//5012	
-                    result = "PktGuildDailyRewardRead";
-                    break;
-                case 0x1395:	//5013	
-                    result = "PktGuildDailyRewardReadResult";
-                    break;
-                case 0x1396:	//5014	
-                    result = "PktGuildFortressDailyRewardGet";
-                    break;
-                case 0x1397:	//5015	
-                    result = "PktGuildFortressDailyRewardGetResult";
-                    break;
-                case 0x1771:	//6001	
-                    result = "PktGuildAgitKeeperInfo";
-                    break;
-                case 0x1772:	//6002	
-                    result = "PktGuildAgitKeeperInfoResult";
-                    break;
-                case 0x1773:	//6003	
-                    result = "PktGuildAgitBanquetList";
-                    break;
-                case 0x1774:	//6004	
-                    result = "PktGuildAgitBanquetListResult";
-                    break;
-                case 0x1775:	//6005	
-                    result = "PktGuildAgitBanquetCreate";
-                    break;
-                case 0x1776:	//6006	
-                    result = "PktGuildAgitBanquetCreateResult";
-                    break;
-                case 0x1777:	//6007	
-                    result = "PktGuildAgitBanquetCreateNotify";
-                    break;
-                case 0x1778:	//6008	
-                    result = "PktGuildAgitRelicList";
-                    break;
-                case 0x1779:	//6009	
-                    result = "PktGuildAgitRelicListResult";
-                    break;
-                case 0x177A:	//6010	
-                    result = "PktGuildAgitRelicRegist";
-                    break;
-                case 0x177B:	//6011	
-                    result = "PktGuildAgitRelicRegistResult";
-                    break;
-                case 0x177C:	//6012	
-                    result = "PktGuildAgitRelicAppraise";
-                    break;
-                case 0x177D:	//6013	
-                    result = "PktGuildAgitRelicAppraiseResult";
-                    break;
-                case 0x177E:	//6014	
-                    result = "PktGuildAgitRelicPointUse";
-                    break;
-                case 0x177F:	//6015	
-                    result = "PktGuildAgitRelicPointUseResult";
-                    break;
-                case 0x1780:	//6016	
-                    result = "PktGuildAgitKeeperUpgrade";
-                    break;
-                case 0x1781:	//6017	
-                    result = "PktGuildAgitKeeperUpgradeResult";
-                    break;
-                case 0x1782:	//6018	
-                    result = "PktGuildAgitKeeperAutoExtends";
-                    break;
-                case 0x1783:	//6019	
-                    result = "PktGuildAgitKeeperAutoExtendsResult";
-                    break;
-                case 0x1784:	//6020	
-                    result = "PktGuildAgitQuestListNotify";
-                    break;
-                case 0x1785:	//6021	
-                    result = "PktGuildAgitQuestUpdateNotify";
-                    break;
-                case 0x1786:	//6022	
-                    result = "PktGuildFortressGiveUp";
-                    break;
-                case 0x1787:	//6023	
-                    result = "PktGuildFortressGiveUpResult";
-                    break;
-                case 0x1788:	//6024	
-                    result = "PktGuildCastleGiveUp";
-                    break;
-                case 0x1789:	//6025	
-                    result = "PktGuildCastleGiveUpResult";
-                    break;
-                case 0x178A:	//6026	
-                    result = "PktGuildStateChangeNotify";
-                    break;
-                case 0x178B:	//6027	
-                    result = "PktGuildDonateReset";
-                    break;
-                case 0x178C:	//6028	
-                    result = "PktGuildDonateResetResult";
-                    break;
-                case 0x178D:	//6029	
-                    result = "PktGuildAgitUpgradeNotify";
-                    break;
-                case 0x178E:	//6030	
-                    result = "PktGuildAgitFirePlaceEnable";
-                    break;
-                case 0x178F:	//6031	
-                    result = "PktGuildAgitFirePlaceEnableResult";
-                    break;
-                case 0x1790:	//6032	
-                    result = "PktGuildAgitFirePlaceEnableNotify";
-                    break;
-                case 0x1791:	//6033	
-                    result = "PktGuildAgitLiquidCreate";
-                    break;
-                case 0x1792:	//6034	
-                    result = "PktGuildAgitLiquidCreateResult";
-                    break;
-                case 0x1793:	//6035	
-                    result = "PktGuildAgitLiquidCreateNotify";
-                    break;
-                case 0x1794:	//6036	
-                    result = "PktOtherGuildAllianceChangeNotify";
-                    break;
-                case 0x1795:	//6037	
-                    result = "PktGuildCastleDailyRewardGet";
-                    break;
-                case 0x1796:	//6038	
-                    result = "PktGuildCastleDailyRewardGetResult";
-                    break;
-                case 0x1797:	//6039	
-                    result = "PktGuildOrderNotify";
-                    break;
-                case 0x1798:	//6040	
-                    result = "PktGuildWarehouseGrantByList";
-                    break;
-                case 0x1799:	//6041	
-                    result = "PktGuildWarehouseGrantByListResult";
-                    break;
-                case 0x179A:	//6042	
-                    result = "PktGuildCastleTypeSelect";
-                    break;
-                case 0x179B:	//6043	
-                    result = "PktGuildCastleTypeSelectResult";
-                    break;
-                case 0x179C:	//6044	
-                    result = "PktGuildCastleTypeSelectNotify";
-                    break;
-                case 0x179D:	//6045	
-                    result = "PktGuildHostileWarEndSuggest";
-                    break;
-                case 0x179E:	//6046	
-                    result = "PktGuildHostileWarEndSuggestResult";
-                    break;
-                case 0x179F:	//6047	
-                    result = "PktGuildHostileWarEndAnswer";
-                    break;
-                case 0x17A0:	//6048	
-                    result = "PktGuildHostileWarEndAnswerResult";
-                    break;
-                case 0x17A1:	//6049	
-                    result = "PktGuildAgitQuestCompleteNotify";
-                    break;
-                case 0x17A2:	//6050	
-                    result = "PktGuildAgitWishListRead";
-                    break;
-                case 0x17A3:	//6051	
-                    result = "PktGuildAgitWishListReadResult";
-                    break;
-                case 0x17A4:	//6052	
-                    result = "PktGuildCastleTypeSelectTimeNotify";
-                    break;
-                case 0x17A5:	//6053	
-                    result = "PktGuildAgitWishGet";
-                    break;
-                case 0x17A6:	//6054	
-                    result = "PktGuildAgitWishGetResult";
-                    break;
-                case 0x17A7:	//6055	
-                    result = "PktGuildReJoinPenaltyTimeRead";
-                    break;
-                case 0x17A8:	//6056	
-                    result = "PktGuildReJoinPenaltyTimeReadResult";
-                    break;
-                case 0x17A9:	//6057	
-                    result = "PktGuildWantJoin";
-                    break;
-                case 0x17AA:	//6058	
-                    result = "PktGuildWantJoinResult";
-                    break;
-                case 0x17AB:	//6059	
-                    result = "PktGuildInviteListRead";
-                    break;
-                case 0x17AC:	//6060	
-                    result = "PktGuildInviteListReadResult";
-                    break;
-                case 0x17AD:	//6061	
-                    result = "PktGuildWantJoinListRead";
-                    break;
-                case 0x17AE:	//6062	
-                    result = "PktGuildWantJoinListReadResult";
-                    break;
-                case 0x17AF:	//6063	
-                    result = "PktGuildInviteCancel";
-                    break;
-                case 0x17B0:	//6064	
-                    result = "PktGuildInviteCancelResult";
-                    break;
-                case 0x17B1:	//6065	
-                    result = "PktGuildInviteReject";
-                    break;
-                case 0x17B2:	//6066	
-                    result = "PktGuildInviteRejectResult";
-                    break;
-                case 0x17B3:	//6067	
-                    result = "PktGuildMemberSelfIntroChange";
-                    break;
-                case 0x17B4:	//6068	
-                    result = "PktGuildMemberSelfIntroChangeResult";
-                    break;
-                case 0x17B5:	//6069	
-                    result = "PktGuildHostileWarRecordDetailRead";
-                    break;
-                case 0x17B6:	//6070	
-                    result = "PktGuildHostileWarRecordDetailReadResult";
-                    break;
-                case 0x17B7:	//6071	
-                    result = "PktGuildHostileWarRecordRankRead";
-                    break;
-                case 0x17B8:	//6072	
-                    result = "PktGuildHostileWarRecordRankReadResult";
-                    break;
-                case 0x17B9:	//6073	
-                    result = "PktGuildVoiceChatJoinNotify";
-                    break;
-                case 0x17BA:	//6074	
-                    result = "PktGuildVoiceChatJoin";
-                    break;
-                case 0x17BB:	//6075	
-                    result = "PktGuildVoiceChatJoinResult";
-                    break;
-                case 0x17BC:	//6076	
-                    result = "PktGuildVoiceChatExit";
-                    break;
-                case 0x17BD:	//6077	
-                    result = "PktGuildVoiceChatExitResult";
-                    break;
-                case 0x17BE:	//6078	
-                    result = "PktGuildVoiceChatEmpowerment";
-                    break;
-                case 0x17BF:	//6079	
-                    result = "PktGuildVoiceChatEmpowermentResult";
-                    break;
-                case 0x17C0:	//6080	
-                    result = "PktGuildVoiceChatEmpowermentNotify";
-                    break;
-                case 0x1B59:	//7001	
-                    result = "PktPetListRead";
-                    break;
-                case 0x1B5A:	//7002	
-                    result = "PktPetListReadResult";
-                    break;
-                case 0x1B5B:	//7003	
-                    result = "PktPetUnlockNotify";
-                    break;
-                case 0x1B5C:	//7004	
-                    result = "PktPetItemUse";
-                    break;
-                case 0x1B5D:	//7005	
-                    result = "PktPetItemUseResult";
-                    break;
-                case 0x1B5E:	//7006	
-                    result = "PktPetEquip";
-                    break;
-                case 0x1B5F:	//7007	
-                    result = "PktPetEquipResult";
-                    break;
-                case 0x1B60:	//7008	
-                    result = "PktPetRiding";
-                    break;
-                case 0x1B61:	//7009	
-                    result = "PktPetRidingResult";
-                    break;
-                case 0x1B62:	//7010	
-                    result = "PktPetUpdateNotify";
-                    break;
-                case 0x1B63:	//7011	
-                    result = "PktPetRidingNotify";
-                    break;
-                case 0x1B64:	//7012	
-                    result = "PktPetActive";
-                    break;
-                case 0x1B65:	//7013	
-                    result = "PktPetActiveResult";
-                    break;
-                case 0x1B66:	//7014	
-                    result = "PktPetActivatableNotify";
-                    break;
-                case 0x1B67:	//7015	
-                    result = "PktPetItemEquip";
-                    break;
-                case 0x1B68:	//7016	
-                    result = "PktPetItemEquipResult";
-                    break;
-                case 0x1B69:	//7017	
-                    result = "PktPetItemLevelUp";
-                    break;
-                case 0x1B6A:	//7018	
-                    result = "PktPetItemLevelUpResult";
-                    break;
-                case 0x1B6B:	//7019	
-                    result = "PktPetItemUpgrade";
-                    break;
-                case 0x1B6C:	//7020	
-                    result = "PktPetItemUpgradeResult";
-                    break;
-                case 0x1B6D:	//7021	
-                    result = "PktPetUpgrade";
-                    break;
-                case 0x1B6E:	//7022	
-                    result = "PktPetUpgradeResult";
-                    break;
-                case 0x1B6F:	//7023	
-                    result = "PktForcePetRidingNotify";
-                    break;
-                case 0x1B70:	//7024	
-                    result = "PktPetItemEnchant";
-                    break;
-                case 0x1B71:	//7025	
-                    result = "PktPetItemEnchantResult";
-                    break;
-                case 0x1B72:	//7026	
-                    result = "PktPetEquipmentItemLike";
-                    break;
-                case 0x1B73:	//7027	
-                    result = "PktPetEquipmentItemLikeResult";
-                    break;
-                case 0x1B74:	//7028	
-                    result = "PktPetItemOptionChange";
-                    break;
-                case 0x1B75:	//7029	
-                    result = "PktPetItemOptionChangeResult";
-                    break;
-                case 0x1BBD:	//7101	
-                    result = "PktMeleeKillNotify";
-                    break;
-                case 0x1BBE:	//7102	
-                    result = "PktMeleeRankingChangeNotify";
-                    break;
-                case 0x1C21:	//7201	
-                    result = "PktOptionChange";
-                    break;
-                case 0x1C22:	//7202	
-                    result = "PktOptionChangeResult";
-                    break;
-                case 0x1C23:	//7203	
-                    result = "PktOptionDeckListRead";
-                    break;
-                case 0x1C24:	//7204	
-                    result = "PktOptionDeckListReadResult";
-                    break;
-                case 0x1C25:	//7205	
-                    result = "PktOptionDeckChange";
-                    break;
-                case 0x1C26:	//7206	
-                    result = "PktOptionDeckChangeResult";
-                    break;
-                case 0x1C85:	//7301	
-                    result = "PktBattlefieldInfo";
-                    break;
-                case 0x1C86:	//7302	
-                    result = "PktBattlefieldInfoResult";
-                    break;
-                case 0x1C87:	//7303	
-                    result = "PktBattlefieldOpenTimeListNotify";
-                    break;
-                case 0x1C88:	//7304	
-                    result = "PktBattlefieldHistoryInfo";
-                    break;
-                case 0x1C89:	//7305	
-                    result = "PktBattlefieldHistoryInfoResult";
-                    break;
-                case 0x1C8A:	//7306	
-                    result = "PktBattlefieldPopup";
-                    break;
-                case 0x1C8B:	//7307	
-                    result = "PktBattlefieldPopupResult";
-                    break;
-                case 0x1C8C:	//7308	
-                    result = "PktBattlefieldEnter";
-                    break;
-                case 0x1C8D:	//7309	
-                    result = "PktBattlefieldEnterResult";
-                    break;
-                case 0x1C8E:	//7310	
-                    result = "PktBattlefieldEnterNotify";
-                    break;
-                case 0x1C8F:	//7311	
-                    result = "PktBattlefieldEnterCancel";
-                    break;
-                case 0x1C90:	//7312	
-                    result = "PktBattlefieldEnterCancelResult";
-                    break;
-                case 0x1C91:	//7313	
-                    result = "PktBattlefieldEnterCancelNotify";
-                    break;
-                case 0x1C92:	//7314	
-                    result = "PktBattlefieldEnterCompletedNotify";
-                    break;
-                case 0x1C93:	//7315	
-                    result = "PktBattlefieldCountDownStartNotify";
-                    break;
-                case 0x1C94:	//7316	
-                    result = "PktBattlefieldWorldEnter";
-                    break;
-                case 0x1C95:	//7317	
-                    result = "PktBattlefieldWorldEnterResult";
-                    break;
-                case 0x1C96:	//7318	
-                    result = "PktBattlefieldTimeNotify";
-                    break;
-                case 0x1C97:	//7319	
-                    result = "PktBattlefieldEndNotify";
-                    break;
-                case 0x1C98:	//7320	
-                    result = "PktBattlefieldExit";
-                    break;
-                case 0x1C99:	//7321	
-                    result = "PktBattlefieldExitResult";
-                    break;
-                case 0x1C9A:	//7322	
+                case 2166:      // 0x877
                     result = "PktBattlefieldScoreChangeNotify";
                     break;
-                case 0x1C9B:	//7323	
-                    result = "PktBattlefieldOccupationProgressListNotify";
+                case 2200:      // 0x899
+                    result = "PktClassTransferQuestStart";
                     break;
-                case 0x1C9C:	//7324	
-                    result = "PktBattlefieldFreyaCarveStartNotify";
+                case 2201:      // 0x89A
+                    result = "PktClassTransferQuestStartResult";
                     break;
-                case 0x1C9D:	//7325	
-                    result = "PktBattlefieldFreyaCarveSuccessNotify";
+                case 2202:      // 0x89B
+                    result = "PktClassTransferQuestListRead";
                     break;
-                case 0x1C9E:	//7326	
-                    result = "PktBattlefieldFreyaCarveFailNotify";
+                case 2203:      // 0x89C
+                    result = "PktClassTransferQuestListReadResult";
                     break;
-                case 0x1C9F:	//7327	
-                    result = "PktBattlefieldKillNotify";
+                case 2204:      // 0x89D
+                    result = "PktClassTransferQuestRewardGet";
                     break;
-                case 0x1CA0:	//7328	
-                    result = "PktBattlefieldOfHonorReconnectDataNotify";
+                case 2205:      // 0x89E
+                    result = "PktClassTransferQuestRewardGetResult";
                     break;
-                case 0x1CA1:	//7329	
-                    result = "PktBattlefieldDailyTimeEndNotify";
+                case 2206:      // 0x89F
+                    result = "PktClassTransfer";
                     break;
-                case 0x1CA2:	//7330	
-                    result = "PktBattlefieldHallOfFameInfo";
+                case 2207:      // 0x8A0
+                    result = "PktClassTransferResult";
                     break;
-                case 0x1CA3:	//7331	
-                    result = "PktBattlefieldHallOfFameInfoResult";
+                case 2208:      // 0x8A1
+                    result = "PktClassTransferableNotify";
                     break;
-                case 0x1CA4:	//7332	
-                    result = "PktBattlefieldSeasonRewardNotify";
+                case 2209:      // 0x8A2
+                    result = "PktClassTransferQuestUpdateNotify";
                     break;
-                case 0x1CA5:	//7333	
-                    result = "PktBattlefieldSeasonRewardRequest";
+                case 2210:      // 0x8A3
+                    result = "PktClassTransferQuestCompleteNotify";
                     break;
-                case 0x1CA6:	//7334	
-                    result = "PktBattlefieldSeasonRewardRequestResult";
+                case 2211:      // 0x8A4
+                    result = "PktClassTransferCheatNotify";
                     break;
-                case 0x1CA7:	//7335	
-                    result = "PktBattlefieldPartyMemberLeagueChangeNotify";
+                case 2300:      // 0x8FD
+                    result = "PktGuideQuestListRead";
                     break;
-                case 0x1CA8:	//7336	
-                    result = "PktBattlefieldNextBuffCreateTimeNotify";
+                case 2301:      // 0x8FE
+                    result = "PktGuideQuestListReadResult";
                     break;
-                case 0x2329:	//9001	
+                case 2302:      // 0x8FF
+                    result = "PktGuideQuestRewardGet";
+                    break;
+                case 2303:      // 0x900
+                    result = "PktGuideQuestRewardGetResult";
+                    break;
+                case 2304:      // 0x901
+                    result = "PktGuideQuestUpdateNotify";
+                    break;
+                case 2305:      // 0x902
+                    result = "PktGuideQuestCompleteNotify";
+                    break;
+                case 2306:      // 0x903
+                    result = "PktGuideQuestCheatNotify";
+                    break;
+                case 2350:      // 0x92F
+                    result = "PktPromoteStateListRead";
+                    break;
+                case 2351:      // 0x930
+                    result = "PktPromoteStateListReadResult";
+                    break;
+                case 2352:      // 0x931
+                    result = "PktPromoteStateLowListRead";
+                    break;
+                case 2353:      // 0x932
+                    result = "PktPromoteStateLowListReadResult";
+                    break;
+                case 2400:      // 0x961
+                    result = "PktTutorialNotify";
+                    break;
+                case 2401:      // 0x962
+                    result = "PktTutorialListRead";
+                    break;
+                case 2402:      // 0x963
+                    result = "PktTutorialListReadResult";
+                    break;
+                case 2403:      // 0x964
+                    result = "PktTutorialStart";
+                    break;
+                case 2404:      // 0x965
+                    result = "PktTutorialStartResult";
+                    break;
+                case 2405:      // 0x966
+                    result = "PktTutorialProgress";
+                    break;
+                case 2406:      // 0x967
+                    result = "PktTutorialProgressResult";
+                    break;
+                case 2407:      // 0x968
+                    result = "PktTutorialRewardGet";
+                    break;
+                case 2408:      // 0x969
+                    result = "PktTutorialRewardGetResult";
+                    break;
+                case 2409:      // 0x96A
+                    result = "PktTutorialMaterialReceiveNotify";
+                    break;
+                case 2410:      // 0x96B
+                    result = "PktTutorialSkip";
+                    break;
+                case 2411:      // 0x96C
+                    result = "PktTutorialSkipResult";
+                    break;
+                case 2500:      // 0x9C5
+                    result = "PktCutSceneNotify";
+                    break;
+                case 2501:      // 0x9C6
+                    result = "PktCutSceneStart";
+                    break;
+                case 2502:      // 0x9C7
+                    result = "PktCutSceneStartResult";
+                    break;
+                case 2503:      // 0x9C8
+                    result = "PktCutSceneEnd";
+                    break;
+                case 2504:      // 0x9C9
+                    result = "PktCutSceneEndResult";
+                    break;
+                case 2505:      // 0x9CA
+                    result = "PktCutSceneEndReserve";
+                    break;
+                case 2506:      // 0x9CB
+                    result = "PktCutSceneEndReserveResult";
+                    break;
+                case 2507:      // 0x9CC
+                    result = "PktWorldPause";
+                    break;
+                case 2508:      // 0x9CD
+                    result = "PktWorldPauseResult";
+                    break;
+                case 2509:      // 0x9CE
+                    result = "PktWorldResume";
+                    break;
+                case 2510:      // 0x9CF
+                    result = "PktWorldResumeResult";
+                    break;
+                case 2511:      // 0x9D0
+                    result = "PktQuestCutSceneEndSync";
+                    break;
+                case 2512:      // 0x9D1
+                    result = "PktQuestCutSceneEndSyncResult";
+                    break;
+                case 2513:      // 0x9D2
+                    result = "PktQuestCutSceneEndSyncNotify";
+                    break;
+                case 2600:      // 0xA29
+                    result = "PktSystemSettingsGet";
+                    break;
+                case 2601:      // 0xA2A
+                    result = "PktSystemSettingsGetResult";
+                    break;
+                case 2602:      // 0xA2B
+                    result = "PktSystemSettingsSet";
+                    break;
+                case 2603:      // 0xA2C
+                    result = "PktSystemSettingsSetResult";
+                    break;
+                case 2604:      // 0xA2D
+                    result = "PktSystemAlarmNotify";
+                    break;
+                case 2605:      // 0xA2E
+                    result = "PktPing";
+                    break;
+                case 2606:      // 0xA2F
+                    result = "PktPingResult";
+                    break;
+                case 2650:      // 0xA5B
+                    result = "PktInstantCompleteListRead";
+                    break;
+                case 2651:      // 0xA5C
+                    result = "PktInstantCompleteListReadResult";
+                    break;
+                case 2652:      // 0xA5D
+                    result = "PktInstantCompleteRewardGet";
+                    break;
+                case 2653:      // 0xA5E
+                    result = "PktInstantCompleteRewardGetResult";
+                    break;
+                case 2654:      // 0xA5F
+                    result = "PktInstantCompleteRewardAllGet";
+                    break;
+                case 2655:      // 0xA60
+                    result = "PktInstantCompleteRewardAllGetResult";
+                    break;
+                case 2700:      // 0xA8D
+                    result = "PktMissionRequestListRead";
+                    break;
+                case 2701:      // 0xA8E
+                    result = "PktMissionRequestListReadResult";
+                    break;
+                case 2702:      // 0xA8F
+                    result = "PktMissionRequestStart";
+                    break;
+                case 2703:      // 0xA90
+                    result = "PktMissionRequestStartResult";
+                    break;
+                case 2704:      // 0xA91
+                    result = "PktMissionDailyRefresh";
+                    break;
+                case 2705:      // 0xA92
+                    result = "PktMissionDailyRefreshResult";
+                    break;
+                case 2706:      // 0xA93
+                    result = "PktMissionDailyNowComplete";
+                    break;
+                case 2707:      // 0xA94
+                    result = "PktMissionDailyNowCompleteResult";
+                    break;
+                case 2708:      // 0xA95
+                    result = "PktMissionDailyMaxComboComplete";
+                    break;
+                case 2709:      // 0xA96
+                    result = "PktMissionDailyMaxComboCompleteResult";
+                    break;
+                case 2710:      // 0xA97
+                    result = "PktMissionWeeklyPass";
+                    break;
+                case 2711:      // 0xA98
+                    result = "PktMissionWeeklyPassResult";
+                    break;
+                case 2712:      // 0xA99
+                    result = "PktMissionDailyRewardGet";
+                    break;
+                case 2713:      // 0xA9A
+                    result = "PktMissionDailyRewardGetResult";
+                    break;
+                case 2714:      // 0xA9B
+                    result = "PktMissionWeeklyRewardGet";
+                    break;
+                case 2715:      // 0xA9C
+                    result = "PktMissionWeeklyRewardGetResult";
+                    break;
+                case 2716:      // 0xA9D
+                    result = "PktMissionRequestRewardGet";
+                    break;
+                case 2717:      // 0xA9E
+                    result = "PktMissionRequestRewardGetResult";
+                    break;
+                case 2718:      // 0xA9F
+                    result = "PktMissionRequestCompleteNotify";
+                    break;
+                case 2719:      // 0xAA0
+                    result = "PktMissionDailyUpdateNotify";
+                    break;
+                case 2720:      // 0xAA1
+                    result = "PktMissionWeeklyUpdateNotify";
+                    break;
+                case 2721:      // 0xAA2
+                    result = "PktMissionTeleport";
+                    break;
+                case 2722:      // 0xAA3
+                    result = "PktMissionTeleportResult";
+                    break;
+                case 2723:      // 0xAA4
+                    result = "PktEventDailyQuestListRead";
+                    break;
+                case 2724:      // 0xAA5
+                    result = "PktEventDailyQuestListReadResult";
+                    break;
+                case 2725:      // 0xAA6
+                    result = "PktEventDailyQuestRewardGet";
+                    break;
+                case 2726:      // 0xAA7
+                    result = "PktEventDailyQuestRewardGetResult";
+                    break;
+                case 2727:      // 0xAA8
+                    result = "PktEventDailyQuestProgressRewardGet";
+                    break;
+                case 2728:      // 0xAA9
+                    result = "PktEventDailyQuestProgressRewardGetResult";
+                    break;
+                case 2729:      // 0xAAA
+                    result = "PktEventDailyQuestStart";
+                    break;
+                case 2730:      // 0xAAB
+                    result = "PktEventDailyQuestStartResult";
+                    break;
+                case 2731:      // 0xAAC
+                    result = "PktEventDailyQuestResetCompletedCountNotify";
+                    break;
+                case 2732:      // 0xAAD
+                    result = "PktMissionWeeklyRefresh";
+                    break;
+                case 2733:      // 0xAAE
+                    result = "PktMissionWeeklyRefreshResult";
+                    break;
+                case 2750:      // 0xABF
+                    result = "PktEventListRead";
+                    break;
+                case 2751:      // 0xAC0
+                    result = "PktEventListReadResult";
+                    break;
+                case 2752:      // 0xAC1
+                    result = "PktEventRewardGet";
+                    break;
+                case 2753:      // 0xAC2
+                    result = "PktEventRewardGetResult";
+                    break;
+                case 2754:      // 0xAC3
+                    result = "PktEventStartNotify";
+                    break;
+                case 2755:      // 0xAC4
+                    result = "PktEventListNotify";
+                    break;
+                case 2756:      // 0xAC5
+                    result = "PktEventMessageNotify";
+                    break;
+                case 2757:      // 0xAC6
+                    result = "PktDropBoxEventNotify";
+                    break;
+                case 2758:      // 0xAC7
+                    result = "PktInitDropBoxNotify";
+                    break;
+                case 2759:      // 0xAC8
+                    result = "PktEventDiceExecute";
+                    break;
+                case 2760:      // 0xAC9
+                    result = "PktEventDiceExecuteResult";
+                    break;
+                case 2761:      // 0xACA
+                    result = "PktEventProgressNotify";
+                    break;
+                case 2762:      // 0xACB
+                    result = "PktSlotMachineExecute";
+                    break;
+                case 2763:      // 0xACC
+                    result = "PktSlotMachineExecuteResult";
+                    break;
+                case 2800:      // 0xAF1
+                    result = "PktNetmarbleSIAPInitialize";
+                    break;
+                case 2801:      // 0xAF2
+                    result = "PktNetmarbleSIAPInitializeResult";
+                    break;
+                case 2802:      // 0xAF3
+                    result = "PktNetmarbleSIAPVerify";
+                    break;
+                case 2803:      // 0xAF4
+                    result = "PktNetmarbleSIAPVerifyResult";
+                    break;
+                case 2804:      // 0xAF5
+                    result = "PktNetmarbleSIAPPurchaseCancel";
+                    break;
+                case 2805:      // 0xAF6
+                    result = "PktNetmarbleSIAPPurchaseCancelResult";
+                    break;
+                case 2806:      // 0xAF7
+                    result = "PktGoogleAnalyticsFirstDied";
+                    break;
+                case 2807:      // 0xAF8
+                    result = "PktGoogleAnalyticsFirstDiedResult";
+                    break;
+                case 2808:      // 0xAF9
+                    result = "PktNetmarbleSWebAchievementNotify";
+                    break;
+                case 2809:      // 0xAFA
+                    result = "PktNetmarbleSIAPGetNetmarbleItemId";
+                    break;
+                case 2810:      // 0xAFB
+                    result = "PktNetmarbleSIAPGetNetmarbleItemIdResult";
+                    break;
+                case 2900:      // 0xB55
+                    result = "PktRankingListRead";
+                    break;
+                case 2901:      // 0xB56
+                    result = "PktRankingListReadResult";
+                    break;
+                case 2902:      // 0xB57
+                    result = "PktBroadCastNotify";
+                    break;
+                case 2903:      // 0xB58
+                    result = "PktSocialNetworkShared";
+                    break;
+                case 2904:      // 0xB59
+                    result = "PktSocialNetworkSharedResult";
+                    break;
+                case 3000:      // 0xBB9
+                    result = "PktUpdate";
+                    break;
+                case 3001:      // 0xBBA
+                    result = "PktUpdateResult";
+                    break;
+                case 3002:      // 0xBBB
+                    result = "PktAdminToolRequest";
+                    break;
+                case 3003:      // 0xBBC
+                    result = "PktAdminToolRequestResult";
+                    break;
+                case 3004:      // 0xBBD
+                    result = "PktAdminToolNoticeInsert";
+                    break;
+                case 3005:      // 0xBBE
+                    result = "PktAdminToolNoticeInsertResult";
+                    break;
+                case 3006:      // 0xBBF
+                    result = "PktAdminToolNoticeDelete";
+                    break;
+                case 3007:      // 0xBC0
+                    result = "PktAdminToolNoticeDeleteResult";
+                    break;
+                case 3100:      // 0xC1D
+                    result = "PktCharacterTitleListRead";
+                    break;
+                case 3101:      // 0xC1E
+                    result = "PktCharacterTitleListReadResult";
+                    break;
+                case 3102:      // 0xC1F
+                    result = "PktCharacterTitleEquip";
+                    break;
+                case 3103:      // 0xC20
+                    result = "PktCharacterTitleEquipResult";
+                    break;
+                case 3104:      // 0xC21
+                    result = "PktCharacterTitleUpdateNotify";
+                    break;
+                case 3105:      // 0xC22
+                    result = "PktCharacterTitleEquipNotify";
+                    break;
+                case 3106:      // 0xC23
+                    result = "PktCharacterTitleAcquire";
+                    break;
+                case 3107:      // 0xC24
+                    result = "PktCharacterTitleAcquireResult";
+                    break;
+                case 3108:      // 0xC25
+                    result = "PktCharacterTitleDeleteNotify";
+                    break;
+                case 3200:      // 0xC81
+                    result = "PktCapeListRead";
+                    break;
+                case 3201:      // 0xC82
+                    result = "PktCapeListReadResult";
+                    break;
+                case 3202:      // 0xC83
+                    result = "PktCapeAcquire";
+                    break;
+                case 3203:      // 0xC84
+                    result = "PktCapeAcquireResult";
+                    break;
+                case 3204:      // 0xC85
+                    result = "PktCapeEquipChange";
+                    break;
+                case 3205:      // 0xC86
+                    result = "PktCapeEquipChangeResult";
+                    break;
+                case 3206:      // 0xC87
+                    result = "PktCapeUnequip";
+                    break;
+                case 3207:      // 0xC88
+                    result = "PktCapeUnequipResult";
+                    break;
+                case 3208:      // 0xC89
+                    result = "PktCapeLevelUp";
+                    break;
+                case 3209:      // 0xC8A
+                    result = "PktCapeLevelUpResult";
+                    break;
+                case 3210:      // 0xC8B
+                    result = "PktCapeOptionChange";
+                    break;
+                case 3211:      // 0xC8C
+                    result = "PktCapeOptionChangeResult";
+                    break;
+                case 3212:      // 0xC8D
+                    result = "PktGuildCapeLevelUp";
+                    break;
+                case 3213:      // 0xC8E
+                    result = "PktGuildCapeLevelUpResult";
+                    break;
+                case 3214:      // 0xC8F
+                    result = "PktGuildCapeColorChange";
+                    break;
+                case 3215:      // 0xC90
+                    result = "PktGuildCapeColorChangeResult";
+                    break;
+                case 3216:      // 0xC91
+                    result = "PktCapeChangePlayerNotify";
+                    break;
+                case 3217:      // 0xC92
+                    result = "PktCapeChangeNotify";
+                    break;
+                case 3500:      // 0xDAD
+                    result = "PktCacheObjectInvalidateNotify";
+                    break;
+                case 4000:      // 0xFA1
+                    result = "PktWebUserLogin";
+                    break;
+                case 4001:      // 0xFA2
+                    result = "PktWebUserLoginResult";
+                    break;
+                case 4002:      // 0xFA3
+                    result = "PktWebUserLogout";
+                    break;
+                case 4003:      // 0xFA4
+                    result = "PktWebUserLogoutResult";
+                    break;
+                case 4004:      // 0xFA5
+                    result = "PktActorLocationNotify";
+                    break;
+                case 4005:      // 0xFA6
+                    result = "PktMessageShowNotify";
+                    break;
+                case 4006:      // 0xFA7
+                    result = "PktMessageReply";
+                    break;
+                case 4007:      // 0xFA8
+                    result = "PktMessageReplyResult";
+                    break;
+                case 4008:      // 0xFA9
+                    result = "PktLogShowNotify";
+                    break;
+                case 4009:      // 0xFAA
+                    result = "PktStyleSheet";
+                    break;
+                case 4010:      // 0xFAB
+                    result = "PktStyleSheetResult";
+                    break;
+                case 4011:      // 0xFAC
+                    result = "PktStyleSheetResource";
+                    break;
+                case 4012:      // 0xFAD
+                    result = "PktStyleSheetResourceResult";
+                    break;
+                case 4013:      // 0xFAE
+                    result = "PktTestBotPlayerInfoRead";
+                    break;
+                case 4014:      // 0xFAF
+                    result = "PktTestBotPlayerInfoReadResult";
+                    break;
+                case 4015:      // 0xFB0
+                    result = "PktQuestEdit";
+                    break;
+                case 4016:      // 0xFB1
+                    result = "PktQuestEditResult";
+                    break;
+                case 4017:      // 0xFB2
+                    result = "PktDebugShapeShowNotify";
+                    break;
+                case 4018:      // 0xFB3
+                    result = "PktSecurityCodeManage";
+                    break;
+                case 4019:      // 0xFB4
+                    result = "PktSecurityCodeManageResult";
+                    break;
+                case 4020:      // 0xFB5
+                    result = "PktWorldBossNotify";
+                    break;
+                case 4021:      // 0xFB6
+                    result = "PktTestBotCommandNotify";
+                    break;
+                case 4022:      // 0xFB7
+                    result = "PktPerformanceTrace";
+                    break;
+                case 4023:      // 0xFB8
+                    result = "PktPerformanceTraceResult";
+                    break;
+                case 4024:      // 0xFB9
+                    result = "PktApolloVoiceGetAuthKey";
+                    break;
+                case 4025:      // 0xFBA
+                    result = "PktApolloVoiceGetAuthKeyResult";
+                    break;
+                case 4026:      // 0xFBB
+                    result = "PktEnvironmentManage";
+                    break;
+                case 4027:      // 0xFBC
+                    result = "PktEnvironmentManageResult";
+                    break;
+                case 4028:      // 0xFBD
+                    result = "PktEnvironmentView";
+                    break;
+                case 4029:      // 0xFBE
+                    result = "PktEnvironmentViewResult";
+                    break;
+                case 4030:      // 0xFBF
+                    result = "PktFuncCall";
+                    break;
+                case 4031:      // 0xFC0
+                    result = "PktFuncCallResult";
+                    break;
+                case 4032:      // 0xFC1
+                    result = "PktObjectStatsTrace";
+                    break;
+                case 4033:      // 0xFC2
+                    result = "PktObjectStatsTraceResult";
+                    break;
+                case 4034:      // 0xFC3
+                    result = "PktScriptRun";
+                    break;
+                case 4035:      // 0xFC4
+                    result = "PktScriptRunResult";
+                    break;
+                case 4036:      // 0xFC5
+                    result = "PktServerUnityStatus";
+                    break;
+                case 4037:      // 0xFC6
+                    result = "PktServerUnityStatusResult";
+                    break;
+                case 4038:      // 0xFC7
+                    result = "PktObjectQuery";
+                    break;
+                case 4039:      // 0xFC8
+                    result = "PktObjectQueryResult";
+                    break;
+                case 5000:      // 0x1389
+                    result = "PktGuildDailyRewardRead";
+                    break;
+                case 5001:      // 0x138A
+                    result = "PktGuildDailyRewardReadResult";
+                    break;
+                case 5002:      // 0x138B
+                    result = "PktGuildFortressDailyRewardGet";
+                    break;
+                case 5003:      // 0x138C
+                    result = "PktGuildFortressDailyRewardGetResult";
+                    break;
+                case 5004:      // 0x138D
+                    result = "PktPacketLogView";
+                    break;
+                case 5005:      // 0x138E
+                    result = "PktPacketLogViewResult";
+                    break;
+                case 5006:      // 0x138F
+                    result = "PktEventGachaListRead";
+                    break;
+                case 5007:      // 0x1390
+                    result = "PktEventGachaListReadResult";
+                    break;
+                case 5008:      // 0x1391
+                    result = "PktEventGachaDetailRead";
+                    break;
+                case 5009:      // 0x1392
+                    result = "PktEventGachaDetailReadResult";
+                    break;
+                case 5010:      // 0x1393
+                    result = "PktEventGacha";
+                    break;
+                case 5011:      // 0x1394
+                    result = "PktEventGachaResult";
+                    break;
+                case 5012:      // 0x1395
+                    result = "PktEventGachaNotify";
+                    break;
+                case 5013:      // 0x1396
+                    result = "PktEventGachaReset";
+                    break;
+                case 5014:      // 0x1397
+                    result = "PktEventGachaResetResult";
+                    break;
+                case 6000:      // 0x1771
+                    result = "PktGuildAgitKeeperInfo";
+                    break;
+                case 6001:      // 0x1772
+                    result = "PktGuildAgitKeeperInfoResult";
+                    break;
+                case 6002:      // 0x1773
+                    result = "PktGuildAgitBanquetList";
+                    break;
+                case 6003:      // 0x1774
+                    result = "PktGuildAgitBanquetListResult";
+                    break;
+                case 6004:      // 0x1775
+                    result = "PktGuildAgitBanquetCreate";
+                    break;
+                case 6005:      // 0x1776
+                    result = "PktGuildAgitBanquetCreateResult";
+                    break;
+                case 6006:      // 0x1777
+                    result = "PktGuildAgitBanquetCreateNotify";
+                    break;
+                case 6007:      // 0x1778
+                    result = "PktGuildAgitRelicList";
+                    break;
+                case 6008:      // 0x1779
+                    result = "PktGuildAgitRelicListResult";
+                    break;
+                case 6009:      // 0x177A
+                    result = "PktGuildAgitRelicRegist";
+                    break;
+                case 6010:      // 0x177B
+                    result = "PktGuildAgitRelicRegistResult";
+                    break;
+                case 6011:      // 0x177C
+                    result = "PktGuildAgitRelicAppraise";
+                    break;
+                case 6012:      // 0x177D
+                    result = "PktGuildAgitRelicAppraiseResult";
+                    break;
+                case 6013:      // 0x177E
+                    result = "PktGuildAgitRelicPointUse";
+                    break;
+                case 6014:      // 0x177F
+                    result = "PktGuildAgitRelicPointUseResult";
+                    break;
+                case 6015:      // 0x1780
+                    result = "PktGuildAgitKeeperUpgrade";
+                    break;
+                case 6016:      // 0x1781
+                    result = "PktGuildAgitKeeperUpgradeResult";
+                    break;
+                case 6017:      // 0x1782
+                    result = "PktGuildAgitKeeperAutoExtends";
+                    break;
+                case 6018:      // 0x1783
+                    result = "PktGuildAgitKeeperAutoExtendsResult";
+                    break;
+                case 6019:      // 0x1784
+                    result = "PktGuildAgitQuestListNotify";
+                    break;
+                case 6020:      // 0x1785
+                    result = "PktGuildAgitQuestUpdateNotify";
+                    break;
+                case 6021:      // 0x1786
+                    result = "PktGuildFortressGiveUp";
+                    break;
+                case 6022:      // 0x1787
+                    result = "PktGuildFortressGiveUpResult";
+                    break;
+                case 6023:      // 0x1788
+                    result = "PktGuildCastleGiveUp";
+                    break;
+                case 6024:      // 0x1789
+                    result = "PktGuildCastleGiveUpResult";
+                    break;
+                case 6025:      // 0x178A
+                    result = "PktGuildStateChangeNotify";
+                    break;
+                case 6026:      // 0x178B
+                    result = "PktGuildDonateReset";
+                    break;
+                case 6027:      // 0x178C
+                    result = "PktGuildDonateResetResult";
+                    break;
+                case 6028:      // 0x178D
+                    result = "PktGuildAgitUpgradeNotify";
+                    break;
+                case 6029:      // 0x178E
+                    result = "PktGuildAgitFirePlaceEnable";
+                    break;
+                case 6030:      // 0x178F
+                    result = "PktGuildAgitFirePlaceEnableResult";
+                    break;
+                case 6031:      // 0x1790
+                    result = "PktGuildAgitFirePlaceEnableNotify";
+                    break;
+                case 6032:      // 0x1791
+                    result = "PktGuildAgitLiquidCreate";
+                    break;
+                case 6033:      // 0x1792
+                    result = "PktGuildAgitLiquidCreateResult";
+                    break;
+                case 6034:      // 0x1793
+                    result = "PktGuildAgitLiquidCreateNotify";
+                    break;
+                case 6035:      // 0x1794
+                    result = "PktGuildAgitQuestCompleteNotify";
+                    break;
+                case 6036:      // 0x1795
+                    result = "PktGuildAgitWishListRead";
+                    break;
+                case 6037:      // 0x1796
+                    result = "PktGuildAgitWishListReadResult";
+                    break;
+                case 6038:      // 0x1797
+                    result = "PktGuildAgitWishGet";
+                    break;
+                case 6039:      // 0x1798
+                    result = "PktGuildAgitWishGetResult";
+                    break;
+                case 6040:      // 0x1799
+                    result = "PktGuildOrderNotify";
+                    break;
+                case 6041:      // 0x179A
+                    result = "PktGuildWarehouseGrantByList";
+                    break;
+                case 6042:      // 0x179B
+                    result = "PktGuildWarehouseGrantByListResult";
+                    break;
+                case 6043:      // 0x179C
+                    result = "PktGuildHostileWarEndSuggest";
+                    break;
+                case 6044:      // 0x179D
+                    result = "PktGuildHostileWarEndSuggestResult";
+                    break;
+                case 6045:      // 0x179E
+                    result = "PktGuildHostileWarEndSuggestNotify";
+                    break;
+                case 6046:      // 0x179F
+                    result = "PktGuildHostileWarEndAnswer";
+                    break;
+                case 6047:      // 0x17A0
+                    result = "PktGuildHostileWarEndAnswerResult";
+                    break;
+                case 6048:      // 0x17A1
+                    result = "PktGuildReJoinPenaltyTimeRead";
+                    break;
+                case 6049:      // 0x17A2
+                    result = "PktGuildReJoinPenaltyTimeReadResult";
+                    break;
+                case 6050:      // 0x17A3
+                    result = "PktGuildIntroduceUpdate";
+                    break;
+                case 6051:      // 0x17A4
+                    result = "PktGuildIntroduceUpdateResult";
+                    break;
+                case 6052:      // 0x17A5
+                    result = "PktOtherGuildAllianceChangeNotify";
+                    break;
+                case 6053:      // 0x17A6
+                    result = "PktGuildCastleDailyRewardGet";
+                    break;
+                case 6054:      // 0x17A7
+                    result = "PktGuildCastleDailyRewardGetResult";
+                    break;
+                case 6055:      // 0x17A8
+                    result = "PktGuildAgitAllianceOpen";
+                    break;
+                case 6056:      // 0x17A9
+                    result = "PktGuildAgitAllianceOpenResult";
+                    break;
+                case 7000:      // 0x1B59
+                    result = "PktPetListRead";
+                    break;
+                case 7001:      // 0x1B5A
+                    result = "PktPetListReadResult";
+                    break;
+                case 7002:      // 0x1B5B
+                    result = "PktPetUnlockNotify";
+                    break;
+                case 7003:      // 0x1B5C
+                    result = "PktPetItemUse";
+                    break;
+                case 7004:      // 0x1B5D
+                    result = "PktPetItemUseResult";
+                    break;
+                case 7005:      // 0x1B5E
+                    result = "PktPetEquip";
+                    break;
+                case 7006:      // 0x1B5F
+                    result = "PktPetEquipResult";
+                    break;
+                case 7007:      // 0x1B60
+                    result = "PktPetRiding";
+                    break;
+                case 7008:      // 0x1B61
+                    result = "PktPetRidingResult";
+                    break;
+                case 7009:      // 0x1B62
+                    result = "PktPetUpdateNotify";
+                    break;
+                case 7010:      // 0x1B63
+                    result = "PktPetRidingNotify";
+                    break;
+                case 7011:      // 0x1B64
+                    result = "PktPetActive";
+                    break;
+                case 7012:      // 0x1B65
+                    result = "PktPetActiveResult";
+                    break;
+                case 7013:      // 0x1B66
+                    result = "PktPetActivatableNotify";
+                    break;
+                case 7014:      // 0x1B67
+                    result = "PktPetItemEquip";
+                    break;
+                case 7015:      // 0x1B68
+                    result = "PktPetItemEquipResult";
+                    break;
+                case 7016:      // 0x1B69
+                    result = "PktPetItemLevelUp";
+                    break;
+                case 7017:      // 0x1B6A
+                    result = "PktPetItemLevelUpResult";
+                    break;
+                case 7018:      // 0x1B6B
+                    result = "PktPetItemUpgrade";
+                    break;
+                case 7019:      // 0x1B6C
+                    result = "PktPetItemUpgradeResult";
+                    break;
+                case 7020:      // 0x1B6D
+                    result = "PktPetUpgrade";
+                    break;
+                case 7021:      // 0x1B6E
+                    result = "PktPetUpgradeResult";
+                    break;
+                case 7022:      // 0x1B6F
+                    result = "PktForcePetRidingNotify";
+                    break;
+                case 7100:      // 0x1BBD
+                    result = "PktMeleeKillNotify";
+                    break;
+                case 7101:      // 0x1BBE
+                    result = "PktMeleeRankingChangeNotify";
+                    break;
+                case 7200:      // 0x1C21
+                    result = "PktOptionChange";
+                    break;
+                case 7201:      // 0x1C22
+                    result = "PktOptionChangeResult";
+                    break;
+                case 7202:      // 0x1C23
+                    result = "PktOptionDeckListRead";
+                    break;
+                case 7203:      // 0x1C24
+                    result = "PktOptionDeckListReadResult";
+                    break;
+                case 7204:      // 0x1C25
+                    result = "PktOptionDeckChange";
+                    break;
+                case 7205:      // 0x1C26
+                    result = "PktOptionDeckChangeResult";
+                    break;
+                case 7400:      // 0x1CE9
+                    result = "PktBattleRoyaleInfo";
+                    break;
+                case 7401:      // 0x1CEA
+                    result = "PktBattleRoyaleInfoResult";
+                    break;
+                case 7402:      // 0x1CEB
+                    result = "PktBattleRoyaleEndNotify";
+                    break;
+                case 7403:      // 0x1CEC
+                    result = "PktBattleRoyaleCountDownStartNotify";
+                    break;
+                case 7404:      // 0x1CED
+                    result = "PktBattleRoyaleKillNotify";
+                    break;
+                case 7405:      // 0x1CEE
+                    result = "PktBattleRoyaleScoreChangeNotify";
+                    break;
+                case 7406:      // 0x1CEF
+                    result = "PktBattleRoyaleTimeNotify";
+                    break;
+                case 7407:      // 0x1CF0
+                    result = "PktBattleRoyaleHistoryInfo";
+                    break;
+                case 7408:      // 0x1CF1
+                    result = "PktBattleRoyaleHistoryInfoResult";
+                    break;
+                case 7409:      // 0x1CF2
+                    result = "PktBattleRoyaleOpenTimeListNotify";
+                    break;
+                case 7410:      // 0x1CF3
+                    result = "PktBattleRoyaleExit";
+                    break;
+                case 7411:      // 0x1CF4
+                    result = "PktBattleRoyaleExitResult";
+                    break;
+                case 7412:      // 0x1CF5
+                    result = "PktBattleRoyaleEnter";
+                    break;
+                case 7413:      // 0x1CF6
+                    result = "PktBattleRoyaleEnterResult";
+                    break;
+                case 7414:      // 0x1CF7
+                    result = "PktBattleRoyaleRegistMatchingNotify";
+                    break;
+                case 7415:      // 0x1CF8
+                    result = "PktBattleRoyaleEnterCompletedNotify";
+                    break;
+                case 7416:      // 0x1CF9
+                    result = "PktBattleRoyaleReconnectDataNotify";
+                    break;
+                case 7417:      // 0x1CFA
+                    result = "PktBattleRoyaleTransformInfo";
+                    break;
+                case 7418:      // 0x1CFB
+                    result = "PktBattleRoyaleTransformInfoResult";
+                    break;
+                case 7419:      // 0x1CFC
+                    result = "PktBattleRoyaleChangeTransform";
+                    break;
+                case 7420:      // 0x1CFD
+                    result = "PktBattleRoyaleChangeTransformResult";
+                    break;
+                case 7421:      // 0x1CFE
+                    result = "PktBattleRoyaleEnterCancel";
+                    break;
+                case 7422:      // 0x1CFF
+                    result = "PktBattleRoyaleEnterCancelResult";
+                    break;
+                case 7423:      // 0x1D00
+                    result = "PktBattleRoyaleEnterCancelNotify";
+                    break;
+                case 7424:      // 0x1D01
+                    result = "PktBattleRoyaleClassInfoNotify";
+                    break;
+                case 7425:      // 0x1D02
+                    result = "PktBattleRoyaleAreaInfoNotify";
+                    break;
+                case 7426:      // 0x1D03
+                    result = "PktBattleRoyalePlayerMoveStateNotify";
+                    break;
+                case 7800:      // 0x1E79
+                    result = "PktCostumeSetHidden";
+                    break;
+                case 7801:      // 0x1E7A
+                    result = "PktCostumeSetHiddenResult";
+                    break;
+                case 7802:      // 0x1E7B
+                    result = "PktCostumeSetHiddenNotify";
+                    break;
+                case 7803:      // 0x1E7C
+                    result = "PktCostumeShopListRead";
+                    break;
+                case 7804:      // 0x1E7D
+                    result = "PktCostumeShopListReadResult";
+                    break;
+                case 7805:      // 0x1E7E
+                    result = "PktCostumeShopBuy";
+                    break;
+                case 7806:      // 0x1E7F
+                    result = "PktCostumeShopBuyResult";
+                    break;
+                case 7900:      // 0x1EDD
+                    result = "PktStampListRead";
+                    break;
+                case 7901:      // 0x1EDE
+                    result = "PktStampListReadResult";
+                    break;
+                case 7902:      // 0x1EDF
+                    result = "PktStampMark";
+                    break;
+                case 7903:      // 0x1EE0
+                    result = "PktStampMarkResult";
+                    break;
+                case 9000:      // 0x2329
                     result = "PktGuildDungeonSupportRequest";
                     break;
-                case 0x232A:	//9002	
+                case 9001:      // 0x232A
                     result = "PktGuildDungeonSupportRequestResult";
                     break;
-                case 0x232B:	//9003	
+                case 9002:      // 0x232B
                     result = "PktGuildDungeonSupportCancel";
                     break;
-                case 0x232C:	//9004	
+                case 9003:      // 0x232C
                     result = "PktGuildDungeonSupportCancelResult";
                     break;
-                case 0x232D:	//9005	
+                case 9004:      // 0x232D
                     result = "PktGuildDungeonParticipate";
                     break;
-                case 0x232E:	//9006	
+                case 9005:      // 0x232E
                     result = "PktGuildDungeonParticipateResult";
-                    //PktGuildDungeonParticipateresult.Packet(packet);
                     break;
-                case 0x232F:	//9007	
-                    result = "PktGuildDungeonHelpresultNotify";
+                case 9006:      // 0x232F
+                    result = "PktGuildDungeonHelpResultNotify";
                     break;
-                case 0x2330:	//9008	
+                case 9007:      // 0x2330
                     result = "PktGuildDungeonHelpInfo";
                     break;
-                case 0x2331:	//9009	
+                case 9008:      // 0x2331
                     result = "PktGuildDungeonHelpInfoResult";
                     break;
-                case 0x2332:	//9010	
+                case 9009:      // 0x2332
                     result = "PktGuildDungeonHelpList";
                     break;
-                case 0x2333:	//9011	
+                case 9010:      // 0x2333
                     result = "PktGuildDungeonHelpListResult";
                     break;
-                case 0x251D:	//9501	
+                case 9500:      // 0x251D
                     result = "PktESportsContentsLockListRead";
                     break;
-                case 0x251E:	//9502	
+                case 9501:      // 0x251E
                     result = "PktESportsContentsLockListReadResult";
                     break;
-                case 0x251F:	//9503	
+                case 9502:      // 0x251F
                     result = "PktESportsMatchInfoNotify";
                     break;
-                case 0x2520:	//9504	
+                case 9503:      // 0x2520
                     result = "PktESportsMatchJoin";
                     break;
-                case 0x2521:	//9505	
+                case 9504:      // 0x2521
                     result = "PktESportsMatchJoinResult";
                     break;
-                case 0x2581:	//9601	
-                    result = "PktEventCheckBoardListRead";
+                case 9505:      // 0x2522
+                    result = "PktESportsReconnectNotify";
                     break;
-                case 0x2582:	//9602	
-                    result = "PktEventCheckBoardListReadResult";
-                    break;
-                case 0x2583:	//9603	
-                    result = "PktEventCheckBoardGet";
-                    break;
-                case 0x2584:	//9604	
-                    result = "PktEventCheckBoardGetResult";
-                    break;
-                case 0x2585:	//9605	
-                    result = "PktEventCheckBoardReset";
-                    break;
-                case 0x2586:	//9606	
-                    result = "PktEventCheckBoardResetResult";
-                    break;
-                case 0x2587:	//9607	
-                    result = "PktEventCheckBoardAccrueGet";
-                    break;
-                case 0x2588:	//9608	
-                    result = "PktEventCheckBoardAccrueGetResult";
-                    break;
-                case 0x2589:	//9609	
-                    result = "PktEventCheckBoardBadgeClear";
-                    break;
-                case 0x258A:	//9610	
-                    result = "PktEventCheckBoardBadgeClearResult";
-                    break;
-                case 0x25E5:	//9701	
-                    result = "PktFacebookInviteList";
-                    break;
-                case 0x25E6:	//9702	
-                    result = "PktFacebookInviteListResult";
-                    break;
-                case 0x25E7:	//9703	
-                    result = "PktFacebookInviteRequest";
-                    break;
-                case 0x25E8:	//9704	
-                    result = "PktFacebookInviteRequestResult";
-                    break;
-                case 0x25E9:	//9705	
-                    result = "PktFacebookFriendListInfoRequest";
-                    break;
-                case 0x25EA:	//9706	
-                    result = "PktFacebookFriendListInfoRequestResult";
-                    break;
-                case 0x25EB:	//9707	
-                    result = "PktFacebookRewardRequest";
-                    break;
-                case 0x25EC:	//9708	
-                    result = "PktFacebookRewardRequestResult";
-                    break;
-                case 0x2617:	//9751	
-                    result = "PktNewsletterListRead";
-                    break;
-                case 0x2618:	//9752	
-                    result = "PktNewsletterListReadResult";
-                    break;
-                case 0x2619:	//9753	
-                    result = "PktNewsletterDelete";
-                    break;
-                case 0x261A:	//9754	
-                    result = "PktNewsletterDeleteResult";
-                    break;
-                case 0x261B:	//9755	
-                    result = "PktNewsletterDeleteAll";
-                    break;
-                case 0x261C:	//9756	
-                    result = "PktNewsletterDeleteAllResult";
-                    break;
-                case 0x261D:	//9757	
-                    result = "PktNewsletterRewardGet";
-                    break;
-                case 0x261E:	//9758	
-                    result = "PktNewsletterRewardGetResult";
-                    break;
-                case 0x261F:	//9759	
-                    result = "PktNewsletterRewardAllGet";
-                    break;
-                case 0x2620:	//9760	
-                    result = "PktNewsletterRewardAllGetResult";
-                    break;
-                case 0x2621:	//9761	
-                    result = "PktNewsletterReceiveNotify";
-                    break;
-                case 0x2622:	//9762	
-                    result = "PktNewsletterOpen";
-                    break;
-                case 0x2623:	//9763	
-                    result = "PktNewsletterOpenResult";
-                    break;
-                case 0x2711:	//10001	
+                case 10000:     // 0x2711
                     result = "PktGuildEmblemChangeNotify";
                     break;
-                case 0x2712:	//10002	
+                case 10001:     // 0x2712
                     result = "PktGuildNicknameChangeNotify";
                     break;
-                case 0x2713:	//10003	
+                case 10002:     // 0x2713
                     result = "PktGuildMemberLoginNotify";
                     break;
-                case 0x2714:	//10004	
+                case 10003:     // 0x2714
                     result = "PktGuildDonateNotify";
                     break;
-                case 0x2715:	//10005	
+                case 10004:     // 0x2715
                     result = "PktGuildWarehouseGrantNotify";
                     break;
-                case 0x2716:	//10006	
+                case 10005:     // 0x2716
                     result = "PktGuildWarehouseGrantAllNotify";
                     break;
-                case 0x2717:	//10007	
+                case 10006:     // 0x2717
                     result = "PktGuildWarehouseGrantByListNotify";
                     break;
-                case 0x2718:	//10008	
+                case 10007:     // 0x2718
                     result = "PktGuildMarketGiftBuyNotify";
                     break;
-                case 0x2719:	//10009	
+                case 10008:     // 0x2719
                     result = "PktGuildRevenge";
                     break;
-                case 0x271A:	//10010	
+                case 10009:     // 0x271A
                     result = "PktGuildRevengeResult";
                     break;
-                case 0x271B:	//10011	
+                case 10010:     // 0x271B
                     result = "PktGuildRevengeNotify";
                     break;
-                case 0x271C:	//10012	
+                case 10011:     // 0x271C
                     result = "PktGuildRevengeAnswer";
                     break;
-                case 0x271D:	//10013	
+                case 10012:     // 0x271D
                     result = "PktGuildRevengeAnswerResult";
                     break;
-                case 0x271E:	//10014	
+                case 10013:     // 0x271E
                     result = "PktGuildHostilityRegisterNotify";
                     break;
-                case 0x271F:	//10015	
+                case 10014:     // 0x271F
                     result = "PktGuildHostileWarEndRefuseNotify";
                     break;
-                case 0x2720:	//10016	
+                case 10015:     // 0x2720
                     result = "PktGuildHostileWarEndNotify";
                     break;
-                case 0x2721:	//10017	
+                case 10016:     // 0x2721
                     result = "PktGuildHostileWarSurrenderNotify";
                     break;
-                case 0x2722:	//10018	
+                case 10017:     // 0x2722
                     result = "PktGuildBuffUpgradeNotify";
                     break;
-                case 0x2723:	//10019	
+                case 10018:     // 0x2723
                     result = "PktGuildMarketBuyNotify";
                     break;
-                case 0x2724:	//10020	
+                case 10019:     // 0x2724
                     result = "PktGuildDungeonResetNotify";
                     break;
-                case 0x2725:	//10021	
+                case 10020:     // 0x2725
                     result = "PktFortressSiegeEntryBidNotify";
                     break;
-                case 0x2726:	//10022	
+                case 10021:     // 0x2726
                     result = "PktCastleSiegeEntryBidNotify";
                     break;
-                case 0x2727:	//10023	
+                case 10022:     // 0x2727
                     result = "PktFortressSiegeEntryBidTimeNotify";
                     break;
-                case 0x2728:	//10024	
+                case 10023:     // 0x2728
                     result = "PktCastleSiegeEntryBidTimeNotify";
                     break;
-                case 0x2729:	//10025	
+                case 10024:     // 0x2729
                     result = "PktFortressSiegeJoinNotify";
                     break;
-                case 0x272A:	//10026	
+                case 10025:     // 0x272A
                     result = "PktCastleSiegeJoinNotify";
                     break;
-                case 0x272B:	//10027	
+                case 10026:     // 0x272B
                     result = "PktFortressSiegeStartNotify";
                     break;
-                case 0x272C:	//10028	
+                case 10027:     // 0x272C
                     result = "PktCastleSiegeStartNotify";
                     break;
-                case 0x272D:	//10029	
+                case 10028:     // 0x272D
                     result = "PktGuildFortressGiveUpNotify";
                     break;
-                case 0x272E:	//10030	
+                case 10029:     // 0x272E
                     result = "PktGuildCastleTypeSelectGuildNotify";
                     break;
-                case 0x272F:	//10031	
+                case 10030:     // 0x272F
                     result = "PktGuildAgitCrystalUpgradeNotify";
                     break;
-                case 0x2730:	//10032	
+                case 10031:     // 0x2730
                     result = "PktGuildAgitRelicPointUseNotify";
                     break;
-                case 0x2731:	//10033	
+                case 10032:     // 0x2731
                     result = "PktGuildAgitFirePlaceDisableNotify";
                     break;
-                case 0x2775:	//10101	
+                case 10100:     // 0x2775
                     result = "PktServerTransferListRead";
                     break;
-                case 0x2776:	//10102	
+                case 10101:     // 0x2776
                     result = "PktServerTransferListReadResult";
                     break;
-                case 0x2777:	//10103	
+                case 10102:     // 0x2777
                     result = "PktServerTransferBuyCheck";
                     break;
-                case 0x2778:	//10104	
+                case 10103:     // 0x2778
                     result = "PktServerTransferBuyCheckResult";
                     break;
-                case 0x2779:	//10105	
+                case 10104:     // 0x2779
                     result = "PktServerTransferInfoRead";
                     break;
-                case 0x277A:	//10106	
+                case 10105:     // 0x277A
                     result = "PktServerTransferInfoReadResult";
                     break;
-                case 0x277B:	//10107	
+                case 10106:     // 0x277B
                     result = "PktServerTransferItemUse";
                     break;
-                case 0x277C:	//10108	
+                case 10107:     // 0x277C
                     result = "PktServerTransferItemUseResult";
                     break;
-                case 0x277D:	//10109	
+                case 10108:     // 0x277D
                     result = "PktServerTransferReady";
                     break;
-                case 0x277E:	//10110	
+                case 10109:     // 0x277E
                     result = "PktServerTransferReadyResult";
                     break;
-                case 0x277F:	//10111	
+                case 10110:     // 0x277F
                     result = "PktServerTransferStart";
                     break;
-                case 0x2780:	//10112	
+                case 10111:     // 0x2780
                     result = "PktServerTransferStartResult";
                     break;
-                case 0x2781:	//10113	
+                case 10112:     // 0x2781
                     result = "PktServerTransferEnd";
                     break;
-                case 0x2782:	//10114	
+                case 10113:     // 0x2782
                     result = "PktServerTransferEndResult";
                     break;
-                case 0x2783:	//10115	
-                    result = "PktPlayerStorageListRead";
-                    break;
-                case 0x2784:	//10116	
-                    result = "PktPlayerStorageListReadResult";
-                    break;
-                case 0x2785:	//10117	
-                    result = "PktPlayerStorageExpand";
-                    break;
-                case 0x2786:	//10118	
-                    result = "PktPlayerStorageExpandResult";
-                    break;
-                case 0x2787:	//10119	
-                    result = "PktItemMoveToPlayerStorage";
-                    break;
-                case 0x2788:	//10120	
-                    result = "PktItemMoveToPlayerStorageResult";
-                    break;
-                case 0x2789:	//10121	
-                    result = "PktPlayerStorageItemMoveToBag";
-                    break;
-                case 0x278A:	//10122	
-                    result = "PktPlayerStorageItemMoveToBagResult";
-                    break;
-                case 0x278B:	//10123	
-                    result = "PktItemSpecialNotify";
-                    break;
-                case 0x278C:	//10124	
+                case 10114:     // 0x2783
                     result = "PktItemCoolTimeListNotify";
                     break;
-                case 0x278D:	//10125	
-                    result = "PktBossItemDropNotify";
+                case 30000:     // 0x7531
+                    result = "PktTalkAppLogin";
                     break;
-                case 0x283D:	//10301	
-                    result = "PktFreeSiegeRecruitCreate";
+                case 30001:     // 0x7532
+                    result = "PktTalkAppLoginResult";
                     break;
-                case 0x283E:	//10302	
-                    result = "PktFreeSiegeRecruitCreateResult";
+                case 30002:     // 0x7533
+                    result = "PktTalkAppUserLogin";
                     break;
-                case 0x283F:	//10303	
-                    result = "PktFreeSiegeRecruitCreateNotify";
+                case 30003:     // 0x7534
+                    result = "PktTalkAppUserLoginResult";
                     break;
-                case 0x2840:	//10304	
-                    result = "PktFreeSiegeRecruitDisband";
+                case 30004:     // 0x7535
+                    result = "PktTalkAppUserLogout";
                     break;
-                case 0x2841:	//10305	
-                    result = "PktFreeSiegeRecruitDisbandResult";
+                case 30005:     // 0x7536
+                    result = "PktTalkAppUserLogoutResult";
                     break;
-                case 0x2842:	//10306	
-                    result = "PktFreeSiegeRecruitDisbandNotify";
+                case 30006:     // 0x7537
+                    result = "PktTalkAppGuildInfoRead";
                     break;
-                case 0x2843:	//10307	
-                    result = "PktFreeSiegeRecruitExpel";
+                case 30007:     // 0x7538
+                    result = "PktTalkAppGuildInfoReadResult";
                     break;
-                case 0x2844:	//10308	
-                    result = "PktFreeSiegeRecruitExpelResult";
+                case 30008:     // 0x7539
+                    result = "PktTalkAppGuildChatRoomInfoRead";
                     break;
-                case 0x2845:	//10309	
-                    result = "PktFreeSiegeRecruitExpelNotify";
+                case 30009:     // 0x753A
+                    result = "PktTalkAppGuildChatRoomInfoReadResult";
                     break;
-                case 0x2846:	//10310	
-                    result = "PktFreeSiegeRecruitWithdraw";
+                case 30010:     // 0x753B
+                    result = "PktTalkAppChatListRead";
                     break;
-                case 0x2847:	//10311	
-                    result = "PktFreeSiegeRecruitWithdrawResult";
+                case 30011:     // 0x753C
+                    result = "PktTalkAppChatListReadResult";
                     break;
-                case 0x2848:	//10312	
-                    result = "PktFreeSiegeRecruitWithdrawNotify";
+                case 30012:     // 0x753D
+                    result = "PktTalkAppChatWrite";
                     break;
-                case 0x2849:	//10313	
-                    result = "PktFreeSiegeRecruitChangeClass";
+                case 30013:     // 0x753E
+                    result = "PktTalkAppChatWriteResult";
                     break;
-                case 0x284A:	//10314	
-                    result = "PktFreeSiegeRecruitChangeClassResult";
+                case 30014:     // 0x753F
+                    result = "PktTalkAppChatWriteNotify";
                     break;
-                case 0x284B:	//10315	
-                    result = "PktFreeSiegeRecruitChangeClassNotify";
+                case 30015:     // 0x7540
+                    result = "PktTalkAppGuildNoticeChange";
                     break;
-                case 0x284C:	//10316	
-                    result = "PktFreeSiegeRecruitInvite";
+                case 30016:     // 0x7541
+                    result = "PktTalkAppChatRead";
                     break;
-                case 0x284D:	//10317	
-                    result = "PktFreeSiegeRecruitInviteResult";
+                case 30017:     // 0x7542
+                    result = "PktTalkAppChatReadResult";
                     break;
-                case 0x284E:	//10318	
-                    result = "PktFreeSiegeRecruitInviteNotify";
+                case 30018:     // 0x7543
+                    result = "PktTalkAppGuildNoticeChangeResult";
                     break;
-                case 0x284F:	//10319	
-                    result = "PktFreeSiegeRecruitInviteRefuse";
+                case 30019:     // 0x7544
+                    result = "PktTalkAppGuildNoticeChangeNotify";
                     break;
-                case 0x2850:	//10320	
-                    result = "PktFreeSiegeRecruitInviteRefuseResult";
+                case 30020:     // 0x7545
+                    result = "PktTalkAppPartyInviteNotify";
                     break;
-                case 0x2851:	//10321	
-                    result = "PktFreeSiegeRecruitInviteRefuseNotify";
+                case 30021:     // 0x7546
+                    result = "PktTalkAppGuildEventNotify";
                     break;
-                case 0x2852:	//10322	
-                    result = "PktFreeSiegeRecruitJoin";
+                case 30022:     // 0x7547
+                    result = "PktTalkAppPlayerOnlineNotify";
                     break;
-                case 0x2853:	//10323	
-                    result = "PktFreeSiegeRecruitJoinResult";
+                case 30023:     // 0x7548
+                    result = "PktTalkAppPlayerDeleteNotify";
                     break;
-                case 0x2854:	//10324	
-                    result = "PktFreeSiegeRecruitJoinNotify";
+                case 30024:     // 0x7549
+                    result = "PktTalkAppDashboardView";
                     break;
-                case 0x2855:	//10325	
-                    result = "PktFreeSiegeRecruitReady";
-                    break;
-                case 0x2856:	//10326	
-                    result = "PktFreeSiegeRecruitReadyResult";
-                    break;
-                case 0x2857:	//10327	
-                    result = "PktFreeSiegeRecruitReadyNotify";
-                    break;
-                case 0x2858:	//10328	
-                    result = "PktFreeSiegeEnterRequest";
-                    break;
-                case 0x2859:	//10329	
-                    result = "PktFreeSiegeEnterRequestResult";
-                    break;
-                case 0x285A:	//10330	
-                    result = "PktFreeSiegeEnterRequestNotify";
-                    break;
-                case 0x285B:	//10331	
-                    result = "PktFreeSiegeRecruitDataNotify";
-                    break;
-                case 0x285C:	//10332	
-                    result = "PktFreeSiegeEnterCancel";
-                    break;
-                case 0x285D:	//10333	
-                    result = "PktFreeSiegeEnterCancelResult";
-                    break;
-                case 0x285E:	//10334	
-                    result = "PktFreeSiegeEnterCancelNotify";
-                    break;
-                case 0x285F:	//10335	
-                    result = "PktFreeSiegeStepNotify";
-                    break;
-                case 0x2860:	//10336	
-                    result = "PktFreeSiegeInfo";
-                    break;
-                case 0x2861:	//10337	
-                    result = "PktFreeSiegeInfoResult";
-                    break;
-                case 0x2862:	//10338	
-                    result = "PktFreeSiegeSubMissionUpdateNotify";
-                    break;
-                case 0x2863:	//10339	
-                    result = "PktFreeSiegeFinishNotify";
-                    break;
-                case 0x2864:	//10340	
-                    result = "PktFreeSiegeChangeClass";
-                    break;
-                case 0x2865:	//10341	
-                    result = "PktFreeSiegeChangeClassResult";
-                    break;
-                case 0x2866:	//10342	
-                    result = "PktFreeSiegeLeaderState";
-                    break;
-                case 0x2867:	//10343	
-                    result = "PktFreeSiegeLeaderStateResult";
-                    break;
-                case 0x2868:	//10344	
-                    result = "PktFreeSiegeChangeLeaderNotify";
-                    break;
-                case 0x2869:	//10345	
-                    result = "PktFreeSiegeEnterWaitNotify";
-                    break;
-                case 0x286A:	//10346	
-                    result = "PktFreeSiegeSkillListNotify";
-                    break;
-                case 0x286B:	//10347	
-                    result = "PktFreeSiegeTransferCoolTimeNotify";
-                    break;
-                case 0x2905:	//10501	
-                    result = "PktObserverSiegeEnter";
-                    break;
-                case 0x2906:	//10502	
-                    result = "PktObserverSiegeEnterResult";
-                    break;
-                case 0x2907:	//10503	
-                    result = "PktObserverSiegeEnterNotify";
-                    break;
-                case 0x2908:	//10504	
-                    result = "PktObserverParticipateInfo";
-                    break;
-                case 0x2909:	//10505	
-                    result = "PktObserverParticipateInfoResult";
-                    break;
-                case 0x290A:	//10506	
-                    result = "PktCommonSiegeGuildInfoRead";
-                    break;
-                case 0x290B:	//10507	
-                    result = "PktCommonSiegeGuildInfoReadResult";
-                    break;
-                case 0x290C:	//10508	
-                    result = "PktCommonSiegeFinishNotifyForObserver";
-                    break;
-                case 0x2AF9:	//11001	
-                    result = "PktSummonGemListRead";
-                    break;
-                case 0x2AFA:	//11002	
-                    result = "PktSummonGemListReadResult";
-                    break;
-                case 0x2AFB:	//11003	
-                    result = "PktSummonGemPartyMatch";
-                    break;
-                case 0x2AFC:	//11004	
-                    result = "PktSummonGemPartyMatchResult";
-                    break;
-                case 0x2AFD:	//11005	
-                    result = "PktSummonGemPartyMatchCancel";
-                    break;
-                case 0x2AFE:	//11006	
-                    result = "PktSummonGemPartyMatchCancelResult";
-                    break;
-                case 0x2AFF:	//11007	
-                    result = "PktSummonGemEnter";
-                    break;
-                case 0x2B00:	//11008	
-                    result = "PktSummonGemEnterResult";
-                    break;
-                case 0x2B01:	//11009	
-                    result = "PktSummonGemSingleMatch";
-                    break;
-                case 0x2B02:	//11010	
-                    result = "PktSummonGemSingleMatchResult";
-                    break;
-                case 0x2B03:	//11011	
-                    result = "PktSummonGemSingleMatchCancel";
-                    break;
-                case 0x2B04:	//11012	
-                    result = "PktSummonGemSingleMatchCancelResult";
-                    break;
-                case 0x2B05:	//11013	
-                    result = "PktSummonGemNextDungeonReadyNotice";
-                    break;
-                case 0x2B06:	//11014	
-                    result = "PktSummonGemDungeonFinishNotice";
-                    break;
-                case 0x2B07:	//11015	
-                    result = "PktSummonGemAutoMatch";
-                    break;
-                case 0x2B08:	//11016	
-                    result = "PktSummonGemAutoMatchResult";
-                    break;
-                case 0x2B09:	//11017	
-                    result = "PktSummonGemAutoMatchCancel";
-                    break;
-                case 0x2B0A:	//11018	
-                    result = "PktSummonGemAutoMatchCancelResult";
-                    break;
-                case 0x2B0B:	//11019	
-                    result = "PktSummonGemReservationExit";
-                    break;
-                case 0x2B0C:	//11020	
-                    result = "PktSummonGemReservationExitResult";
-                    break;
-                case 0x2B0D:	//11021	
-                    result = "PktSummonGemReservationExitCancel";
-                    break;
-                case 0x2B0E:	//11022	
-                    result = "PktSummonGemReservationExitCancelResult";
-                    break;
-                case 0x2B0F:	//11023	
-                    result = "PktSummonGemMemberChangeNotice";
-                    break;
-                case 0x2B10:	//11024	
-                    result = "PktSummonGemDungeonStartNotice";
-                    break;
-                case 0x2B11:	//11025	
-                    result = "PktSummonGemItemConsumeNotice";
-                    break;
-                case 0x2B12:	//11026	
-                    result = "PktSummonGemDungeonExitNotice";
+                case 30025:     // 0x754A
+                    result = "PktTalkAppDashboardViewResult";
                     break;
                 default:
                     result = "(InvalidPacket)";
                     break;
             }
             
-            using (FileStream fileStream = new FileStream(@"Packets\"+ result + "(" + packet.Remaining + ").dat", FileMode.Append, FileAccess.Write, FileShare.Write))
-            {
-                for (int j = 0; j < packet.Remaining;)
-                {
-                    fileStream.WriteByte(packet.ReadByte());
-                }
-            }
             
             Console.Write("\tPacketType: " + result + "\n");
         }
