@@ -7,7 +7,7 @@ Type,Name
 5,Atk. Amplification Based on Party Members
 6,Atk. Spd. Amplification
 7,Combat Power
-126,Cooldown Increase
+170,Cooldown Increase
 9,Crit. Rate
 10,Critical Resistance Rate
 11,Critical Damage Amplification
@@ -56,7 +56,7 @@ Type,Name
 54,Stun Resistance Rate
 55,Abnormal Status Resistance Rate
 56,Target Pull Resistance Rate
-126,Knock Back Resistance Rate
+170,Knock Back Resistance Rate
 58,Adena
 59,Adena Gain Increase Rate
 60,Free Diamond

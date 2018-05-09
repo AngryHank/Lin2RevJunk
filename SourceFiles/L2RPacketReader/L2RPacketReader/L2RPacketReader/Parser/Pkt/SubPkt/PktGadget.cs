@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             UInt64 GadgetUID = packet.ReadUInt64();
             UInt32 GadgetID = packet.ReadUInt32();
             float XPos = packet.ReadSingle();

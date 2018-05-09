@@ -20,7 +20,7 @@ namespace L2RPacketReader.CSV
     class Class
     {
         private static IEnumerable<classheader> _records;
-        public static string className(UInt16 intID)
+        public static string className(UInt32 intID)
         {
             string result = string.Empty;
             string id = intID.ToString();

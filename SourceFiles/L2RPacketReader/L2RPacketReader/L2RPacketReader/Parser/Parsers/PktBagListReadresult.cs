@@ -7,19 +7,22 @@ namespace L2RPacketReader.Parser.Parsers
     {
         public static void Packet(PacketReader packet)
         {
-            
+
+            // 1.04.16
+
+
             using (StreamWriter fileStream = new StreamWriter(@"Output\Inventory.csv", true))
             {
                 packet.Skip(2);
 
-                UInt16 BagNumber = packet.ReadUInt16();
-                byte Unk0 = packet.ReadByte();
+                UInt16 BagCount = packet.ReadUInt16();
+                byte BagType = packet.ReadByte();
                 UInt16 MaxInvenSize = packet.ReadUInt16();
                 UInt16 ExpInvenSize = packet.ReadUInt16();
                 UInt16 UsedInvenSize = packet.ReadUInt16();
 
                 fileStream.WriteLine("Bag Number, Max Inv Size, Expanded Inv Size, Filled Inv Size");
-                fileStream.WriteLine(BagNumber + "," + MaxInvenSize + "," + ExpInvenSize + "," + UsedInvenSize + "\n");
+                fileStream.WriteLine(BagCount + "," + MaxInvenSize + "," + ExpInvenSize + "," + UsedInvenSize + "\n");
 
                 //Writes header for the PktBagListReadresult
                 fileStream.WriteLine("UItemID,Time Looted,Name,Type,Level,Exp,Count,Liked," +
@@ -38,12 +41,9 @@ namespace L2RPacketReader.Parser.Parsers
                     byte LimitBreakAddRate = packet.ReadByte();
                     UInt16 Count = packet.ReadUInt16();
                     byte Liked = packet.ReadByte();
-                    Double TimeLooted = Convert.ToDouble(packet.ReadUInt64());
-                    if (TimeLooted > 0)
-                    {
-                        TimeLooted = TimeLooted / 60 / 60 / 24 + 25569 - (5 / 24);
-                    }
+                    DateTime LootedTime = packet.ReadDate();
                     UInt16 BasicOptionLength = packet.ReadUInt16();
+
                     string[] BasicOption = { "", "", "" };
                     for (int k = 0; BasicOptionLength > k; k++)
                     {
@@ -55,20 +55,24 @@ namespace L2RPacketReader.Parser.Parsers
                     string[] SocketList = { "", "", "", "", "", "" };
                     for (int k = 0; SocketListLength > k; k++)
                     {
-                        UInt64 SocketID = packet.ReadUInt64();
-                        string SocketName = CusEnum.Item.Enum(packet.ReadUInt32());
-                        packet.Skip(4);
-                        SocketList[k] = "\"" + SocketName + "\"";
+                        UInt64 SoulCrystalID = packet.ReadUInt64();
+                        string SoulCrystalName = CusEnum.Item.Enum(packet.ReadUInt32());
+                        Int32 SoulCrystalEXP = packet.ReadInt32();
+                        byte SoulCrystalLevel = packet.ReadByte();
                         UInt16 SocketCount = packet.ReadUInt16();
-                        packet.Skip(1);
+                        for (int i = 0; i < SocketCount; i++)
+                        {
+                            string ItemOption = CSV.itemOption.itemOptionName(packet.ReadInt32());
+                            UInt32 IOvalue = packet.ReadUInt32();
+                        }
+                        SocketList[k] = "\"" + SoulCrystalName + "\"";
                     }
                     byte Bind = packet.ReadByte();
                     byte AbilityLevel = packet.ReadByte();
                     UInt16 AbilityUpgradeAddRate = packet.ReadUInt16();
-                    UInt16 CraftFlag = packet.ReadUInt16();
-                    UInt16 EventPeriodID = packet.ReadUInt16();
-                    if (EventPeriodID == 0)
-                        packet.Skip(1);
+                    byte CraftFlag = packet.ReadByte();
+                    UInt32 EventPeriodID = packet.ReadUInt32();
+                    UInt64 ExpireTime = packet.ReadUInt64();
 
                     string EnchantLevelPlus = "";
 
@@ -76,7 +80,7 @@ namespace L2RPacketReader.Parser.Parsers
                         EnchantLevelPlus = "+" + EnchantLevel + " ";
 
 
-                    fileStream.WriteLine(UItemID + "," + TimeLooted + "," + EnchantLevelPlus + ItemID + "," + Level + "," + Exp + "," +
+                    fileStream.WriteLine(UItemID + "," + LootedTime + "," + EnchantLevelPlus + ItemID + "," + Level + "," + Exp + "," +
                         Count + "," + Liked + "," + Bind + "," + BasicOption[0] +
                         "," + BasicOption[1] + "," + BasicOption[2] +
                         "," + SocketList[0] + "," + SocketList[1] + "," + SocketList[2] + "," + SocketList[3] +

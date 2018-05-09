@@ -7,7 +7,12 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             byte HairID = packet.ReadByte();
+            byte HairStyleID = packet.ReadByte();
+            byte HairColorID = packet.ReadByte();
         }
     }
 }

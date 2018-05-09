@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             byte PkStatus = packet.ReadByte();
             byte Monster = packet.ReadByte();
             byte Guild = packet.ReadByte();

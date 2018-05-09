@@ -8,6 +8,9 @@ namespace L2RPacketReader.Parser.Pkt
         public static void Packet(PacketReader packet)
         {
 
+            // 1.04.16
+
+
             UInt16 PlayerCount = packet.ReadUInt16();
             for (int i = 0;i< PlayerCount; i++) {
                 PktOtherPlayer.Packet(packet);

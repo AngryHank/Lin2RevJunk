@@ -324,8 +324,8 @@ Id,Name,EffectTypeName,Desc
 80106,Max MP Increase,Max MP Increase,Max MP +40% for 30 sec.
 801043,Increase Skill Damage,Increase Skill Damage,Increases skill Damage by 300% for 30 sec.
 801044,Melee Damage Aura (Timer),Melee Damage Aura,Deals 300 fixed damage to nearby enemies over 30 sec.
-801045,Water Crystal Barrier,Water Crystal Damage Immunity,Creates a damage immunity barrier over the Water Crystal for 30 sec.
-801046,Party of Fury (Timer),Increase Party Atk. and Def.,Increases allies’ Atk. and Def. by 30% for 30 sec.
+801045,Water Crystal Barrier,Water Crystal Damage Immunity,Creates a damage immunity barrier over the Water Crystal for 15 sec.
+801046,Party of Fury (Timer),Increase Party Atk. and Def.,Increases allies’ Atk. and Def. by 30% for 15 sec.
 8010461,Party of Fury,@801046,@801046
 801047,Overpower,Atk. and Atk. Spd. Increase,Increases Atk. and Atk. Spd. for 30 sec.
 801048,@801047,@801047,Increases Atk. and Atk. Spd. for 10 sec.
@@ -720,7 +720,7 @@ Damage taken by Marlox increases significantly."
 420022,War Ranger,,
 420023,Battle Mage,,
 420024,Sage,,
-731211,자켄 밤 {TextParam1}단계,,
+731211,Zaken Night Stage {TextParam1},,
 731221,@731211,,
 731231,@731211,,
 731241,@731211,,

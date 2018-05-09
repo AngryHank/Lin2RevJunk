@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             UInt64 GroundObjectUID = packet.ReadUInt64();
             UInt32 GroundObjectID = packet.ReadUInt32();
             UInt32 SkillInfoID = packet.ReadUInt32();

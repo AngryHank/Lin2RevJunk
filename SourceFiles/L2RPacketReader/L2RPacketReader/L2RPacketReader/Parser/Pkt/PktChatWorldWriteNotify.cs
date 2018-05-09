@@ -3,16 +3,16 @@ using System.IO;
 
 namespace L2RPacketReader.Parser.Pkt
 {
-    class pktPartyEmblem
+    class PktChatWorldWriteNotify
     {
         public static void Packet(PacketReader packet)
         {
 
             // 1.04.16
 
-            string PartyName = packet.ReadString();
-            byte Bool = packet.ReadByte();
- 
+            //packet.Skip(2);
+
+                Parser.Pkt.PktChat.Packet(packet);
         }
     }
 }

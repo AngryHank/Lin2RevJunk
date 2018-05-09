@@ -8,6 +8,8 @@ namespace L2RPacketReader.Parser.Pkt
         public static void Packet(PacketReader packet)
         {
 
+            // 1.04.16
+
             UInt64 GuildID = packet.ReadUInt64();
             byte GuildMembersGrade = packet.ReadByte();
 

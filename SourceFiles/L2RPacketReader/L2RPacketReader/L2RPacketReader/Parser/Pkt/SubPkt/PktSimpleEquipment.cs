@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             UInt32 ItemInfoID = packet.ReadUInt32();
             byte EnchantLevel = packet.ReadByte();
         }

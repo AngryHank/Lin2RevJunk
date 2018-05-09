@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             UInt64 PlayerUID = packet.ReadUInt64();
             string PlayerName = packet.ReadString();
             UInt32 Race = packet.ReadUInt32();
@@ -74,6 +77,10 @@ namespace L2RPacketReader.Parser.Pkt
 
             //PktPKMode
             PktPKMode.Packet(packet);
+
+            UInt32 CurBarrier = packet.ReadUInt32();
+            UInt32 MaxBarrier = packet.ReadUInt32();
+            byte IsCostumeHidden = packet.ReadByte();
         }
     }
 }

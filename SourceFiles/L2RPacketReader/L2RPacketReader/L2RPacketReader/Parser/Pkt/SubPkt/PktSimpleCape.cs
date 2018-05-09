@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             UInt32 CapeInfoID = packet.ReadUInt32();
             UInt16 CapeLevel = packet.ReadUInt16();
             UInt32 ColorSymbolInfoID = packet.ReadUInt32();

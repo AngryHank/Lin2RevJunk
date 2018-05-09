@@ -1,12 +1,12 @@
 Id,Name,TypeDesc,LimitDesc,UsingDesc,ReplaceString1,ReplaceString2,Desc
-1021,악마의 영혼석: 자켄,Consumables,,"Acquire from Forest of Secrets Understory monsters. Bind 100 to acquire “Demonic Scroll: Zaken.”
+1021,Demonic Soulstone: Zaken,Consumables,,"Acquire from Forest of Secrets Understory monsters. Bind 100 to acquire “Demonic Scroll: Zaken.”
 The “Demonic Scroll: Zaken” is a Sub-quest Scroll that you can use when you reach Lv. 230.",,,
-1022,악마의 스크롤: 자켄,@1021,,"Sub-quest Scroll used to acquire Battle Token: Zaken.
+1022,Demonic Scroll: Zaken,@1021,,"Sub-quest Scroll used to acquire Battle Token: Zaken.
 Use Battle Token: Zaken to enter Zaken’s Pirate Ship.","Target Location: Giran Dominion
 Lv. Restriction: 230.",,
-1023,결전의 징표: 자켄,@1021,,"자켄을 처치하기로 맹세한 자의 징표입니다.
-자켄의 해적선에 입장 할 수 있습니다.",,,
-10001,Spring Sprout,Potion,,"This sprout contains energy of the approaching spring.
+1023,Battle Token: Zaken,@1021,,"Token of those who’ve pledged to defeat Zaken.
+Use to enter Zaken’s Pirate Ship.",,,
+10001,Spring Sprout,Potion,,"This sprout contains energy of the spring.
 Use to purchase items in the Event Menu.",,,"Increases Def. by 2,000 for 10 min."
 10002,Sprout Chest,@1021,,"This box holds sprouts for safe keeping.
 Open this box to acquire 30 Sprouts.",,,Items acquired after use cannot be traded.
@@ -36,9 +36,9 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 510108,Silverlight Fireworks,@1021,,Fireworks that shine like the stars in the sky.,@510107,,
 510109,Prosperity Fireworks,@1021,,Fireworks that symbolize a yearning for prosperity.,@510107,,
 510110,Love Fireworks,@1021,,Special fireworks that guarantee a successful proposal.,@510107,,
-510111,혈맹 이름 변경권,@1021,,혈맹 이름을 변경할 수 있습니다.,,,
-510112,할로윈 캔디 폭죽,@1021,,달콤한 캔디가 쏟아지는 할로윈 폭죽입니다.,@510107,,
-510113,해피 할로윈 폭죽,@1021,,행복한 할로윈을 기원하는 폭죽입니다.,@510107,,
+510111,Clan Name Change Ticket,@1021,,Use to change the Clan name.,,,
+510112,Halloween Candy Firework,@1021,,Fireworks made to celebrate Halloween by raining sweet candy.,@510107,,
+510113,Happy Halloween Firework,@1021,,Fireworks made to wish you a happy Halloween.,@510107,,
 110010,Samurai Long Sword,Sword & Shield,,This weapon increases Atk. as well as Def.,,,
 110011,@110010,@110010,,@110010,,,
 110012,@110010,@110010,,@110010,,,
@@ -67,6 +67,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 110053,StormBringer,@110010,,@110010,,,
 110054,StormBringer,@110010,,@110010,,,
 110055,StormBringer,@110010,,@110010,,,
+110056,StormBringer,@110010,,@110010,,,
 120010,Lance,Spear,,This weapon has a large radius of attack.,,,
 120011,@120010,@120010,,@120010,,,
 120012,@120010,@120010,,@120010,,,
@@ -95,6 +96,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 120053,Orcish Glaive,@120010,,@120010,,,
 120054,Orcish Glaive,@120010,,@120010,,,
 120055,Orcish Glaive,@120010,,@120010,,,
+120056,Orcish Glaive,@120010,,@120010,,,
 130010,Dual Samurai Long Sword,Dual Swords,,This weapon lands many combo attacks.,,,
 130011,@130010,@130010,,@130010,,,
 130012,@130010,@130010,,@130010,,,
@@ -123,6 +125,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 130053,Dual StormBringers,@130010,,@130010,,,
 130054,Dual StormBringers,@130010,,@130010,,,
 130055,Dual StormBringers,@130010,,@130010,,,
+130056,Dual StormBringers,@130010,,@130010,,,
 140010,Doom Dagger,Dagger,,This weapon lands quick attacks.,,,
 140011,@140010,@140010,,@140010,,,
 140012,@140010,@140010,,@140010,,,
@@ -151,6 +154,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 140053,Mithril Dagger,@140010,,@140010,,,
 140054,Mithril Dagger,@140010,,@140010,,,
 140055,Mithril Dagger,@140010,,@140010,,,
+140056,Mithril Dagger,@140010,,@140010,,,
 150010,Crystallized Ice Bow,Bow,,This weapon has a long range.,,,
 150011,@150010,@150010,,@150010,,,
 150012,@150010,@150010,,@150010,,,
@@ -179,6 +183,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 150053,Elven Bow,@150010,,@150010,,,
 150054,Elven Bow,@150010,,@150010,,,
 150055,Elven Bow,@150010,,@150010,,,
+150056,Elven Bow,@150010,,@150010,,,
 160010,Demon's Staff,Staff,,This weapon casts powerful magic attacks.,,,
 160011,@160010,@160010,,@160010,,,
 160012,@160010,@160010,,@160010,,,
@@ -207,6 +212,7 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 160053,Branch of the Mother Tree,@160010,,@160010,,,
 160054,Branch of the Mother Tree,@160010,,@160010,,,
 160055,Branch of the Mother Tree,@160010,,@160010,,,
+160056,Branch of the Mother Tree,@160010,,@160010,,,
 170014,@110010,@160010,,@160010,,,
 210010,Blue Wolf Headgear,Heavy Armor,,This equipment raises your Def.,,,
 210011,@210010,@210010,,@210010,,,
@@ -427,39 +433,51 @@ Get this fruit box when you extract herbs in the Extraction Pit.",,,
 210103,Mithril Helmet,@210010,,@210010,,,
 210104,Mithril Helmet,@210010,,@210010,,,
 210105,Mithril Helmet,@210010,,@210010,,,
+210106,Mithril Helmet,@210010,,@210010,,,
 220103,Mithril Armor,@210010,,@210010,,,
 220104,Mithril Armor,@210010,,@210010,,,
 220105,Mithril Armor,@210010,,@210010,,,
+220106,Mithril Armor,@210010,,@210010,,,
 230103,Mithril Gloves,@210010,,@210010,,,
 230104,Mithril Gloves,@210010,,@210010,,,
 230105,Mithril Gloves,@210010,,@210010,,,
+230106,Mithril Gloves,@210010,,@210010,,,
 240103,Mithril Boots,@210010,,@210010,,,
 240104,Mithril Boots,@210010,,@210010,,,
 240105,Mithril Boots,@210010,,@210010,,,
+240106,Mithril Boots,@210010,,@210010,,,
 210113,Dark Crystal Helmet,@210020,,@210010,,,
 210114,Dark Crystal Helmet,@210020,,@210010,,,
 210115,Dark Crystal Helmet,@210020,,@210010,,,
+210116,Dark Crystal Helmet,@210020,,@210010,,,
 220113,Dark Crystal Armor,@210020,,@210010,,,
 220114,Dark Crystal Armor,@210020,,@210010,,,
 220115,Dark Crystal Armor,@210020,,@210010,,,
+220116,Dark Crystal Armor,@210020,,@210010,,,
 230113,Dark Crystal Gloves,@210020,,@210010,,,
 230114,Dark Crystal Gloves,@210020,,@210010,,,
 230115,Dark Crystal Gloves,@210020,,@210010,,,
+230116,Dark Crystal Gloves,@210020,,@210010,,,
 240113,Dark Crystal Boots,@210020,,@210010,,,
 240114,Dark Crystal Boots,@210020,,@210010,,,
 240115,Dark Crystal Boots,@210020,,@210010,,,
+240116,Dark Crystal Boots,@210020,,@210010,,,
 210123,Divine Helm,@210030,,@210010,,,
 210124,Divine Helm,@210030,,@210010,,,
 210125,Divine Helm,@210030,,@210010,,,
+210126,Divine Helm,@210030,,@210010,,,
 220123,Divine Armor,@210030,,@210010,,,
 220124,Divine Armor,@210030,,@210010,,,
 220125,Divine Armor,@210030,,@210010,,,
+220126,Divine Armor,@210030,,@210010,,,
 230123,Divine Gloves,@210030,,@210010,,,
 230124,Divine Gloves,@210030,,@210010,,,
 230125,Divine Gloves,@210030,,@210010,,,
+230126,Divine Gloves,@210030,,@210010,,,
 240123,Divine Boots,@210030,,@210010,,,
 240124,Divine Boots,@210030,,@210010,,,
 240125,Divine Boots,@210030,,@210010,,,
+240126,Divine Boots,@210030,,@210010,,,
 310001,Elven Ring,Accessory,,Raises your character’s stats.,,,
 310002,@310001,@310001,,@310001,,,
 310003,@310001,@310001,,@310001,,,
@@ -728,9 +746,8 @@ This crystal contains the souls of monsters.",,,
 470004,Silver Saint Summoning Stone,@470003,,Used as material for activating or upgrading a {ReplaceString1}.,Silver Saint,,
 470005,Black Bear Summoning Stone,@470003,,@470004,Black Bear,,
 470006,Maned Lion Summoning Stone,@470003,,@470004,Maned Lion,,
-470007,Strider Summoning Stone,@470003,,@470004,Strider,,
 470009,Steam Beetle Summoning Stone,@470003,,Used as material for activating or upgrading a Steam Beetle.,,,
-470010,할로윈매직스틱 마법구슬,@470003,,할로윈매직스틱을 활성화 시킬 때의 재료로 사용됩니다.,,,
+470010,Halloween Magic Broom Enchanted Orb,@470003,,Used as material for activating a Halloween Magic Broom.,,,
 471002,Maned Lion Binding Hornflute,@470003,,Additional material for activating Maned Lion.,,,
 471004,Steam Beetle Binding Hornflute,@470003,,Additional material used to activate Steam Beetle.,,,
 480103,Kukurin Summoning Stone Fragment,Gemstone,,Bind to make a {ReplaceString1} Summoning Stone.,@470003,,
@@ -851,7 +868,7 @@ Use to acquire 100 Diamonds.",,,
 Use to acquire 500 Red Diamonds.",,,
 490068,Dice Points,@400000,,Dice Points,,,
 490069,@490068,@400000,,Dice Points used in Nero’s Dice Game.,,,
-490095,할로윈 주사위 포인트,@400000,,할로윈 주사위 게임에 사용할 수 있는 주사위 포인트입니다.,Obtainable from Uldi and Skuldi.,,
+490095,Halloween Dice Points,@400000,,Dice Points to use in the Halloween Dice Game.,Obtainable from Uldi and Skuldi.,,
 490070,Demonic Soulstone: Guillotine,@1021,,"Acquire from Elite Dungeon monsters.
 Bind Combine 100 to acquire “Demonic Scroll: Guillotine.”
 The “Demonic Scroll: Guillotine” is a Sub-quest Scroll that you can use when you reach lvl. 150.",,,
@@ -1385,6 +1402,25 @@ Register in the Monster Codex to raise your stats.",Black Fang,,
 470145,@470011,@470011,,@470011,Agarez,,
 470146,@470011,@470011,,@470011,Ravolas,,
 470147,@470011,@470011,,@470011,Wilhelm,,
+470151,@470011,@470011,,@470011,Bear Grylle,,
+470152,@470011,@470011,,@470011,Gaytin,,
+470153,@470011,@470011,,@470011,Silenos,,
+470154,@470011,@470011,,@470011,Toruq,,
+470155,@470011,@470011,,@470011,Karix,,
+470156,@470011,@470011,,@470011,Xeno,,
+470157,@470011,@470011,,@470011,Heart of the Plateau,,
+470161,@470011,@470011,,@470011,Larva,,
+470162,@470011,@470011,,@470011,Reba,,
+470163,@470011,@470011,,@470011,Host Fungus,,
+470164,@470011,@470011,,@470011,Herven,,
+470165,@470011,@470011,,@470011,Shadow,,
+470171,@470011,@470011,,@470011,Tarba,,
+470172,@470011,@470011,,@470011,Marata,,
+470173,@470011,@470011,,@470011,Kreta,,
+470174,@470011,@470011,,@470011,Morta,,
+470175,@470011,@470011,,@470011,Mita,,
+470176,@470011,@470011,,@470011,Arita,,
+470177,@470011,@470011,,@470011,Defender,,
 472001,@470011,@470011,,@470011,Horror Wing,,
 472002,@470011,@470011,,@470011,Ryukaon,,
 472003,@470011,@470011,,@470011,Arachne,,
@@ -1415,6 +1451,23 @@ Register in the Monster Codex to raise your stats.",Black Fang,,
 472081,@470011,@470011,,@470011,Skullchaser,,
 472082,@470011,@470011,,@470011,Creatus,,
 472083,@470011,@470011,,@470011,Sandstorm,,
+472084,@470011,@470011,,@470011,Argos,,
+472085,@470011,@470011,,@470011,Helissa,,
+472086,@470011,@470011,,@470011,Sling,,
+472087,@470011,@470011,,@470011,Vanuk,,
+472088,@470011,@470011,,@470011,Cailyn,,
+472089,@470011,@470011,,@470011,Veiloss,,
+472110,@470011,@470011,,@470011,Adolf,,
+472111,@470011,@470011,,@470011,Genos,,
+472112,@470011,@470011,,@470011,Alexander,,
+472113,@470011,@470011,,@470011,Trasos,,
+472114,@470011,@470011,,@470011,Barbara,,
+472115,@470011,@470011,,@470011,Amos,,
+472116,@470011,@470011,,@470011,Enclema,,
+472117,@470011,@470011,,@470011,Kloud,,
+472118,@470011,@470011,,@470011,Sophos,,
+472119,@470011,@470011,,@470011,Edwin,,
+472120,@470011,@470011,,@470011,Enas,,
 473001,@470011,@470011,,@470011,Ramog,,
 473011,@470011,@470011,,@470011,Trisha,,
 900001,Exclusive Equipment Box,@1021,,Use to acquire a random equipment piece.,,,@10002
@@ -1714,7 +1767,6 @@ Use to acquire random rewards.",,,@10002
 480018,@480003,@400000,,@480001,@490026,@480003,
 480019,@480001,@400000,,@480001,@910161,@480001,
 480020,@480002,@400000,,@480001,@910161,@480002,
-480021,@480003,@400000,,@480001,@910161,@480003,
 481001,Grade {ReplaceString1} Mount Headgear Varnish,@400000,,This item can be used as material for leveling up {ReplaceString2}.,@910101,Mount Headgear,
 481002,Grade {ReplaceString1} Mount Armor Varnish,@400000,,@481001,@910101,Mount Armor,
 481003,Grade {ReplaceString1} Mount Boots Varnish,@400000,,@481001,@910101,Mount Boots,
@@ -2069,7 +2121,7 @@ Use to open boxes in the Treasure Hunt event.",,,
 910262,@490002,@1021,,Use to acquire {ReplaceString1} Adena.,1000,,
 910263,@910231,@1021,,@492001,5000,,
 910264,@910231,@1021,,@910231,10000,,
-910265,페르넬의 유적탐사 열쇠(UR편),@1021,,A key that can be used for Feldheim’s Ruins Exploration.,Can be used on the Feldheim’s Ruins Exploration event page.,,
+910265,Feldheim’s Ruins Exploration Key (UR),@1021,,A key that can be used for Feldheim’s Ruins Exploration.,Can be used on the Feldheim’s Ruins Exploration event page.,,
 920201,Weekly Progress Monster Fragment Box,@1021,,"This box is available based on the number of Weekly Quests completed.
 Used to acquire Monster Summoning Stone Fragments.",,,
 920202,@920201,@1021,,@920201,,,
@@ -2130,8 +2182,8 @@ Ask the Clan Hall Relic Keeper to appraise this relic to acquire rewards.",,,
 500122,Appraised Old Relic,@500101,,@500104,,,@10002
 500123,Appraised Ancient Relic,@500101,,@500104,,,@10002
 500124,Appraised Mystical Relic,@500101,,@500104,,,@10002
-500125,Clan Relic Chest,@500101,,"This Clan Relic Chest is a result of the hard work of your clanmates.
-Open it to check the reward within.",,,@10002
+500125,Ancient Clan Relic,@500101,,"This Relic has been passed down through generations of clan members.
+Ask the Clan Hall Relic Keeper to appraise this relic to acquire a reward.",,,@10002
 500126,Tattered Relic,@500101,,"This is a tattered relic.
 Ask the Clan Hall Relic Keeper to appraise this relic to acquire a reward.",,,
 505001,P. Atk Increase Potion,@10001,,Increases P. Atk. by 10% for 5 min.,,,
@@ -2204,105 +2256,23 @@ Used to acquire 300,000 Adena.",,,
 911010,Grade A Mount Equipment Box,@1021,,Used to acquire a Grade A mount equipment.,,,@10002
 911011,Grade {ReplaceString1} Exclusive Rare Armor Box,@1021,,Use to acquire one Grade {ReplaceString1} Exclusive Rare Armor.,@910131,,@10002
 911012,@910254,@1021,,@910254,@910141,,@10002
-711101,Durandil Alloy,@400000,,Use to raise a normal {ReplaceString1} to Grade UR.,"Sword & Shield, Spear, and Dual Swords",,
-711102,Orichalcum,@400000,,Use to raise a Rare {ReplaceString1} to Grade UR.,@711101,,
-712101,Iron Ore,@400000,,@711101,Dagger and Bow,,
-712102,Steel,@400000,,@711102,@712101,,
-713101,Hardwood,@400000,,@711101,Staff,,
-713102,Greater Hardwood,@400000,,@711102,@713101,,
-711201,Adamantite,@400000,,@711101,Heavy Armor,,
-711202,Adamantium,@400000,,@711102,@711201,,
-712201,Leather,@400000,,@711101,Light Armor,,
-712202,Greater Leather,@400000,,@711102,@712201,,
-713201,Fiber,@400000,,@711101,Robe,,
-713202,Synthetic Fiber,@400000,,@711102,@713201,,
-701101,Recipe - Samurai Long Sword,@400000,,This is a recipe with instructions for raising {ReplaceString1} to Grade UR.,Samurai Long Sword,,
-701102,Recipe - Sword of Revolution,@400000,,@701101,Sword of Revolution,,
-701103,Recipe - Dynasty Sword,@400000,,@701101,Dynasty Sword,,
-701104,Recipe - Dunamiss Sword,@400000,,@701101,Dunamiss Sword,,
-701105,Recipe - Stormbringer,@400000,,@701101,StormBringer,,
-701106,Recipe - Sword of Delusion,@400000,,@701101,Sword of Delusion,,
-701107,Recipe - Lance,@400000,,@701101,Lance,,
-701108,Recipe - Scorpion,@400000,,@701101,Scorpion,,
-701109,Recipe - Great Axe,@400000,,@701101,Great Axe,,
-701110,Recipe - Exidium,@400000,,@701101,Exidium,,
-701111,Recipe - Orcish Glaive,@400000,,@701101,Orcish Glaive,,
-701112,Recipe - Body Slasher,@400000,,@701101,Body Slasher,,
-701113,Recipe - Dual Samurai Long Sword,@400000,,@701101,Dual Samurai Long Sword,,
-701114,Recipe - Dual Sword of Revolution,@400000,,@701101,Dual Sword of Revolution,,
-701115,Recipe - Dynasty Dualsword,@400000,,@701101,Dynasty Dualsword,,
-701116,Recipe - Dunamiss Dualsword,@400000,,@701101,Dunamiss Dualsword,,
-701117,Recipe - Dual Stormbringers,@400000,,@701101,Dual StormBringers,,
-701118,Recipe - Dual Swords of Delusion,@400000,,@701101,Dual Swords of Delusion,,
-702101,Recipe - Doom Dagger,@400000,,@701101,Doom Dagger,,
-702102,Recipe - Dark Screamer,@400000,,@701101,Dark Screamer,,
-702103,Recipe - Crystal Dagger,@400000,,@701101,Crystal Dagger,,
-702104,Recipe - Cerberus,@400000,,@701101,Cerberus,,
-702105,Recipe - Mithril Dagger,@400000,,@701101,Mithril Dagger,,
-702106,Recipe - Kris,@400000,,@701101,Kris,,
-702107,Recipe - Crystallized Ice Bow,@400000,,@701101,Crystallized Ice Bow,,
-702108,Recipe - Light Crossbow,@400000,,@701101,Light Crossbow,,
-702109,Recipe - Akat Long Bow,@400000,,@701101,Akat Long Bow,,
-702110,Recipe - Upitear,@400000,,@701101,Upitear,,
-702111,Recipe - Elven Bow,@400000,,@701101,Elven Bow,,
-702112,Recipe - Elemental Bow,@400000,,@701101,Elemental Bow,,
-703113,Recipe - Demon's Staff,@400000,,@701101,Demon's Staff,,
-703114,Recipe - Staff of Life,@400000,,@701101,Staff of Life,,
-703115,Recipe - Flaming Dragon Skull,@400000,,@701101,Flaming Dragon Skull,,
-703116,Recipe - Dark Abyss,@400000,,@701101,Dark Abyss,,
-703117,Recipe - Branch of the Mother Tree,@400000,,@701101,Branch of the Mother Tree,,
-703118,Recipe - Spirit’s Staff,@400000,,@701101,Spirit’s Staff,,
-701201,Recipe - Blue Wolf Headgear,@400000,,@701101,Blue Wolf Headgear,,
-701202,Recipe - Blue Wolf Armor,@400000,,@701101,Blue Wolf Armor,,
-701203,Recipe - Blue Wolf Gloves,@400000,,@701101,Blue Wolf Gloves,,
-701204,Recipe - Blue Wolf Boots,@400000,,@701101,Blue Wolf Boots,,
-701205,Recipe - Nightmare Headgear,@400000,,@701101,Nightmare Headgear,,
-701206,Recipe - Nightmare Armor,@400000,,@701101,Nightmare Armor,,
-701207,Recipe - Nightmare Gloves,@400000,,@701101,Nightmare Gloves,,
-701208,Recipe - Nightmare Boots,@400000,,@701101,Nightmare Boots,,
-701209,Recipe - Dominus Headgear,@400000,,@701101,Dominus Headgear,,
-701210,Recipe - Dominus Armor,@400000,,@701101,Dominus Armor,,
-701211,Recipe - Dominus Gloves,@400000,,@701101,Dominus Gloves,,
-701212,Recipe - Dominus Boots,@400000,,@701101,Dominus Boots,,
-701213,Recipe - Mithril Helmet,@400000,,@701101,Mithril Helmet,,
-701214,Recipe - Mithril Armor,@400000,,@701101,Mithril Armor,,
-701215,Recipe - Mithril Gloves,@400000,,@701101,Mithril Gloves,,
-701216,Recipe - Mithril Boots,@400000,,@701101,Mithril Boots,,
-702201,Recipe - Tracker Headgear,@400000,,@701101,Tracker Headgear,,
-702202,Recipe - Tracker Armor,@400000,,@701101,Tracker Armor,,
-702203,Recipe - Tracker Gloves,@400000,,@701101,Tracker Gloves,,
-702204,Recipe - Tracker Boots,@400000,,@701101,Tracker Boots,,
-702205,Recipe - Avadon Headgear,@400000,,@701101,Avadon Headgear,,
-702206,Recipe - Avadon Armor,@400000,,@701101,Avadon Armor,,
-702207,Recipe - Avadon Gloves,@400000,,@701101,Avadon Gloves,,
-702208,Recipe - Avadon Boots,@400000,,@701101,Avadon Boots,,
-702209,Recipe - Reggios Headgear,@400000,,@701101,Reggios Headgear,,
-702210,Recipe - Reggios Armor,@400000,,@701101,Reggios Armor,,
-702211,Recipe - Reggios Gloves,@400000,,@701101,Reggios Gloves,,
-702212,Recipe - Reggios Boots,@400000,,@701101,Reggios Boots,,
-702213,Recipe - Dark Crystal Helmet,@400000,,@701101,Dark Crystal Helmet,,
-702214,Recipe - Dark Crystal Armor,@400000,,@701101,Dark Crystal Armor,,
-702215,Recipe - Dark Crystal Gloves,@400000,,@701101,Dark Crystal Gloves,,
-702216,Recipe - Dark Crystal Boots,@400000,,@701101,Dark Crystal Boots,,
-703201,Recipe - Dynasty Headgear,@400000,,@701101,Dynasty Headgear,,
-703202,Recipe - Dynasty Armor,@400000,,@701101,Dynasty Armor,,
-703203,Recipe - Dynasty Gloves,@400000,,@701101,Dynasty Gloves,,
-703204,Recipe - Dynasty Boots,@400000,,@701101,Dynasty Boots,,
-703205,Recipe - Majestic Headgear,@400000,,@701101,Majestic Headgear,,
-703206,Recipe - Majestic Armor,@400000,,@701101,Majestic Armor,,
-703207,Recipe - Majestic Gloves,@400000,,@701101,Majestic Gloves,,
-703208,Recipe - Majestic Boots,@400000,,@701101,Majestic Boots,,
-703209,Recipe - Optimus Headgear,@400000,,@701101,Optimus Headgear,,
-703210,Recipe - Optimus Armor,@400000,,@701101,Optimus Armor,,
-703211,Recipe - Optimus Gloves,@400000,,@701101,Optimus Gloves,,
-703212,Recipe - Optimus Boots,@400000,,@701101,Optimus Boots,,
-703213,Recipe - Divine Helm,@400000,,@701101,Divine Helm,,
-703214,Recipe - Divine Armor,@400000,,@701101,Divine Armor,,
-703215,Recipe - Divine Gloves,@400000,,@701101,Divine Gloves,,
-703216,Recipe - Divine Boots,@400000,,@701101,Divine Boots,,
+711101,Durandil Alloy (Warrior Weapon),@400000,,Use to raise a normal {ReplaceString1} to Grade UR.,"Sword & Shield, Spear, and Dual Swords",,
+711102,Orichalcum (Warrior Weapon Ⅱ),@400000,,Use to raise a Rare {ReplaceString1} to Grade UR.,@711101,,
+712101,Iron Ore (Rogue Weapon),@400000,,@711101,Dagger and Bow,,
+712102,Steel (Rogue Weapon Ⅱ),@400000,,@711102,@712101,,
+713101,Hardwood (Magical Weapon),@400000,,@711101,Staff,,
+713102,Greater Hardwood (Magical Weapon II),@400000,,@711102,@713101,,
+711201,Adamantite (Heavy Armor),@400000,,@711101,Heavy Armor,,
+711202,Adamantium (Heavy Armor II),@400000,,@711102,@711201,,
+712201,Leather (Light Armor),@400000,,@711101,Light Armor,,
+712202,Greater Leather (Light Armor II),@400000,,@711102,@712201,,
+713201,Fiber (Robe),@400000,,@711101,Robe,,
+713202,Synthetic Fiber (Robe II),@400000,,@711102,@713201,,
+510103,Ripped Recipe Fragment,@400000,,This is a Ripped Recipe Fragment that can be bound into a completed Recipe.,,,
 510104,Weapon Scrap,@400000,,This scrap was salvaged from {ReplaceString1}. Use to craft and bind equipment.,@410001,,
 510105,Armor Scrap,@400000,,@510104,@410002,,
-510106,Accessory Scrap,@400000,,@510104,@410003,,
+911019,Unconfirmed Weapon Crafting Material,@1021,,This is an unconfirmed weapon crafting material. Use to acquire one Weapon Crafting Material.,,,@10002
+911020,Unconfirmed Armor Crafting Material,@1021,,This is an unconfirmed armor crafting material. Use to acquire one Armor Crafting Material.,,,@10002
 420011,Radiant Weapon Upgrade Stone,@400000,,This Upgrade Stone is used to craft UR Grade weapons. Salvage to get 10 Weapon Upgrade Stones.,,,
 420012,Radiant Armor Upgrade Stone,@400000,,This Upgrade Stone is used to craft UR Grade armor. Salvage to get 10 Armor Upgrade Stones.,,,
 420013,Radiant Accessory Upgrade Stone,@400000,,This Upgrade Stone is used to craft UR Grade accessories. Salvage to get 10 Accessory Upgrade Stones.,,,
@@ -2324,10 +2294,19 @@ Used to acquire 300,000 Adena.",,,
 510016,Scroll of Alchemy - Grade UR Attribute Stone,@400000,,The formula to make Grade UR Attribute Stones is written on this document. Bind Grade SR Attribute Stones and Attribute Energies to get Grade UR Attribute Stones.,,,
 510101,Attribute Energy,@400000,,This material is used for alchemizing Attribute Stones. Bind 100 Attribute Energies to acquire a Grade S Attribute Stone or use them with Attribute Stones to get higher grade Attribute Stones.,,,
 510102,Limit Break Energy,@400000,,This material is used for alchemizing Limit Break Stones. Use 100 Limit Break Energies to get a Grade SR Limit Break Stone.,,,
+911021,Radiant Upgrade Stone Selection Box,@1021,,Use to select and acquire a Radiant Upgrade Stone.,,,@10002
+911022,Radiant Upgrade Stone Box,@1021,,Use to acquire a random Radiant Upgrade Stone.,,,@10002
+911023,Radiant Upgrade Stone Bundle,@1021,,"This box contains Upgrade Stones.
+Use to acquire one of each sort of Radiant Upgrade Stone.",,,@10002
+911024,Unconfirmed Scrap,@1021,,This is an unconfirmed scrap. Use to acquire one Scrap.,,,@10002
 911025,Grade {ReplaceString1} Accessory Selection Box,@1021,,@910213,@490026,,@10002
 911029,Owner’s Honor Box,@1021,,This box is given to the clan that rules a castle. Use to acquire random items.,,,@10002
+911032,Equipment Scrap Selection Box (Small),@1021,,Use to select and acquire {ReplaceString1} Weapon Scraps or {ReplaceString1} Armor Scraps.,50,,@10002
+911033,Equipment Scrap Selection Box (Medium),@1021,,@911032,100,,@10002
+911034,Equipment Scrap Selection Box (Large),@1021,,@911032,500,,@10002
 911035,Grade {ReplaceString1} Exclusive Rare Equipment Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Rare Equipment from the list.,@910131,,@10002
-911036,Maestro’s Material Box,@1021,,Use to acquire a random Crafting Material.,,,@10002
+911038,Unconfirmed Rare Weapon Material,@1021,,This is an unconfirmed rare weapon material. Use to acquire one Exclusive Rare Weapon Material.,,,@10002
+911039,Unconfirmed Rare Armor Material,@1021,,This is an unconfirmed rare armor recipe. Use to acquire one Exclusive Rare Armor Material.,,,@10002
 911040,@910101,@1021,,Use to acquire a random {ReplaceString1} exclusive weapon or armor.,S - SR,,@10002
 911041,@910215,@1021,,@910215,@490026,,@10002
 911042,@910213,@1021,,@910213,@910131,,@10002
@@ -2348,33 +2327,16 @@ Use to acquire one of each type of Scroll of Alchemy - Blessed Scroll.",,,@10002
 911064,Grade {ReplaceString1} Soul Crystal Selection Box,@1021,,Use to acquire a Grade {ReplaceString1} Soul Crystal from the list.,@490026,,@10002
 911065,Clan Support Box,@1021,,"Support Box acquired from clan.
 Use to acquire a random high-grade material.",,,@10002
-911066,LRT 1st Place Server Reward,@1021,,"This item is given to the server that wins the Revolution Tournament.
-Use to acquire 2 Grade SR Equipment Selection Boxes and 3 Blessed Scroll Selection Boxes.",,,@10002
-911067,LRT 2nd Place Server Reward,@1021,,"This item is given to the server that comes second in the Revolution Tournament.
-Use to acquire one Grade SR Equipment Selection Box and one Blessed Scroll Selection Box.",,,@10002
-911068,LRT 3rd and 4th Place Server Reward,@1021,,"This item is given to the servers that come in third and fourth in the Revolution Tournament.
-Use to acquire one Grade SR Equipment Selection Box and 50,000 Adena.",,,@10002
-911070,Grade {ReplaceString1} Rare +10 Enhancement Level Weapon Selection Box,@1021,,Use to select and acquire a Grade {ReplaceString1} Rare +10 Enhancement Weapon Box.,@910131,,@10002
-911071,+10 [{ReplaceString1}] Box,@1021,,Used to acquire a Grade S +10 {ReplaceString1}.,@701104,,@10002
-911072,@911071,@1021,,@911071,@701110,,@10002
-911073,@911071,@1021,,@911071,@701116,,@10002
-911074,@911071,@1021,,@911071,@702104,,@10002
-911075,@911071,@1021,,@911071,@702110,,@10002
-911076,@911071,@1021,,@911071,@703116,,@10002
 911083,Grade {ReplaceString1} Mount Equipment Box,@1021,,Use to acquire a random piece of {ReplaceString1} mount equipment.,@910111,,@10002
 911084,Grade {ReplaceString1} Rare Weapon Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} rare weapon from the list.,@910131,,@10002
 911085,Herb Selection Box,@1021,,Use to select and acquire an herb from the list.,,,@10002
-911086,Heart of Thankfulness,@1021,,We are always working to bring you the best possible gaming experience. Thank you.,,,@10002
-1200001,LRT Season {ReplaceString1} Victory Token,@1021,,A token given to the winner of Revolution Tournament Season {ReplaceString1}. Use to activate the title “LRT Season {ReplaceString1} Winner”.,1,,
-1200002,LRT Season {ReplaceString1} Semifinalist Token,@1021,,Token given to the semifinalists of Revolution Tournament Season {ReplaceString1}. Use to activate the title “LRT Season {ReplaceString1} Expert”.,1,,
-1200003,LRT Season {ReplaceString1} Participation Token,@1021,,Token given to the winner of Revolution Tournament Season {ReplaceString1}. Use to activate the title “LRT Season {ReplaceString1} Warrior”.,1,,
-1201001,창공의 은빛용병단 징표,@1021,,창공섬 마그나딘' 퀘스트를 완료한 용사에게 지급되는 징표 입니다. 사용 시 '창공의 은빛용병단' 칭호가 활성 됩니다.,,,
-1201002,명예의 전장 시즌1 우승자의 징표,@1021,,명예의 전장 시즌1 우승자에게 지급되는 징표 입니다. 사용 시 '명예의 챔피언' 칭호가 활성 됩니다.,,,
-1201101,명예의 전장 시즌{ReplaceString1} 루키의 징표,@1021,,명예의 전장 시즌{ReplaceString1}를 실버3 리그 이상으로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌{ReplaceString1} 슈퍼 루키' 칭호가 활성 됩니다.,2,,
-1201201,명예의 전장 시즌{ReplaceString1} 근성의 징표,@1021,,명예의 전장 시즌{ReplaceString1}를 플레티넘3 리그 이상으로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌{ReplaceString1} 근성의 결투사' 칭호가 활성 됩니다.,2,,
-1201301,명예의 전장 시즌{ReplaceString1} 용맹의 징표,@1021,,명예의 전장 시즌{ReplaceString1}를 마스터 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌{ReplaceString1} 용맹한 결투사' 칭호가 활성 됩니다.,2,,
-1201401,명예의 전장 시즌{ReplaceString1} 야성의 징표,@1021,,명예의 전장 시즌{ReplaceString1}를 그랜드마스터 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌{ReplaceString1} 야성의 결투사' 칭호가 활성 됩니다.,2,,
-1201501,명예의 전장 시즌{ReplaceString1} 대전사의 징표,@1021,,명예의 전장 시즌{ReplaceString1}를 레전드 리그로 마친 용사에게 지급되는 징표 입니다. 사용 시 '시즌{ReplaceString1} 거침없는 대전사' 칭호가 활성 됩니다.,2,,
+1201001,Blue Sky Silverlight Mercenaries Token,@1021,,창공섬 마그나딘' 퀘스트를 완료한 용사에게 지급되는 징표 입니다. 사용 시 '창공의 은빛용병단' 칭호가 활성 됩니다.,,,
+1201002,Honorable Battlefield Season 1 Winner’s Token,@1021,,A token given to the winner of Honorable Battlefield Season 1. Use to acquire the title “Honorable Champion”.,,,
+1201101,Honorable Battlefield Season {ReplaceString1} Rookie’s Token,@1021,,A token given to those who have reached Silver 3 or higher in Honorable Battlefield Season {ReplaceString1}. Use to acquire the title “Season {ReplaceString1} Super Rookie”.,2,,
+1201201,Honorable Battlefield Season {ReplaceString1} Token of Tenacity,@1021,,A token given to those who have reached Platinum 3 or higher in Honorable Battlefield Season {ReplaceString1}. Use to acquire the title “Season {ReplaceString1} Tenacious Duelist”.,2,,
+1201301,Honorable Battlefield Season {ReplaceString1} Token of Courage,@1021,,A token given to those who have reached the rank of Master in Honorable Battlefield Season {ReplaceString1}. Use to acquire the title “Season {ReplaceString1} Courageous Duelist”.,2,,
+1201401,Honorable Battlefield Season {ReplaceString1} Token of Ferocity,@1021,,A token given to those who have reached the rank of Grand Master in Honorable Battlefield Season {ReplaceString1}. Use to acquire the title “Season {ReplaceString1} Ferocious Duelist”.,2,,
+1201501,Honorable Battlefield Season {ReplaceString1} Great Warrior’s Token,@1021,,A token given to those who have reached the rank of Legend in Honorable Battlefield Season {ReplaceString1}. Use to acquire the title “Season {ReplaceString1} Unstoppable Great Warrior”.,2,,
 911087,Scroll of Alchemy - Blessed Scroll Selection Box,@1021,,Use to select and acquire a Scroll of Alchemy - Blessed Scroll.,,,@10002
 910401,{ReplaceString1} Monster Core Selection Box,@1021,,Use to select and acquire one Monster Core from {ReplaceString1}.,@1000100,,@10002
 910402,@910401,@1021,,@910401,@1000101,,@10002
@@ -2418,7 +2380,7 @@ Use to acquire a random A - SR equipment or R - SR Varnish.",,,@10002
 480034,Corroded Golden Weapon Varnish,@400000,,@480031,,,
 480035,Corroded Golden Armor Varnish,@400000,,@480031,,,
 480036,Corroded Golden Accessory Varnish,@400000,,@480031,,,
-10011,Talking Island Golden Token,@10003,,A golden token from {ReplaceString1}. Bind it with golden tokens from other territories on the Event Page to acquire an [Event] binding catalyst.,@1000100,,[레볼루션 大보물시대 개막!] 이벤트 종료 시 사용할 수 없습니다.
+10011,Talking Island Golden Token,@10003,,A golden token from {ReplaceString1}. Bind it with golden tokens from other territories on the Event Page to acquire an [Event] binding catalyst.,@1000100,,Unavailable for use after [Revolution - Great Treasure Age Begins!] event ends.
 10012,Gludio Golden Token,@10003,,@10011,@1000101,,@10011
 10013,Dion Golden Token,@10003,,@10011,@1000102,,@10011
 10014,Giran Golden Token,@10003,,@10011,@1000103,,@10011
@@ -2438,8 +2400,9 @@ Use to acquire a random A - SR equipment or R - SR Varnish.",,,@10002
 10028,Haunted Necropolis Token,@10003,,@10017,Haunted Necropolis,,@10011
 10029,[Event] Varnish Powder,@10003,,Acquire by spending Talking Island and Gludio Tokens on the Event Page.,,,@10011
 10030,[Event] Binding Catalyst,@10003,,"It is an item that can be obtained by consuming the golden token of Island, Gludio, Dion, and turtle referenced on the event page.",,,@10011
-10031,[Event] Recipe Fragment,@10003,,Acquire by spending Dion and Giran Tokens on the Event Page.,,,@10011
 10032,Lucky Box Draw Ticket,@10003,,Use the Lucky Box Draw Ticket to participate in the Lucky Box Event.,,,
+919005,Grade S Rare Armor Selection Box,@1021,,Use to select and acquire 1 Grade S Rare Armor from the list.,Items acquired after use cannot be traded.,,
+919006,Grade R Exclusive Rare Armor Selection Box,@1021,,Use to select and acquire 1 Grade R Rare Armor from the list.,Items acquired after use cannot be traded.,,
 1300001,Adventurer’s Cloak Brooch,Cloak Activation,,Use to activate the Adventurer's Cloak.,,,
 1300002,Blood Ranger’s Cloak Brooch,@1300001,,Use to activate the Blood Ranger’s Cloak.,,,
 1300003,Garden Cloak Brooch,@1300001,,Use to activate the Garden Cloak.,,,
@@ -2461,16 +2424,34 @@ Use to acquire a random A - SR equipment or R - SR Varnish.",,,@10002
 1305102,Clan Cloak Emblem Dye: Mid-grade,@400000,,@1305101,,,
 1305103,Clan Cloak Emblem Dye: Top-grade,@400000,,@1305101,,,
 1111111,Soul Powder,@400000,,Acquired by salvaging Cores. Can be used in the Core Shop.,,,
-490091,서버이전권,@1021,,[사용]을 누르면 서버이전을 진행합니다.,"2017년 10월 25일까지 사용 가능한 상품이며, 해당 일자 이후 상품은 소멸됩니다",,
-490092,은빛 용병단의 징표,@10003,,"은빛용병단의 위상을 높이거나, 그에 상응하는 일을 했을 때 받을 수 있는 징표.",[Fulfill Request] Tap the button to fulfill the Event Quest.,,
+490091,Server Transfer Ticket,@1021,,Tap [Use] to transfer servers.,,,Precaution: The Server Transfer Ticket can be used through its final date of sale (5/23/2018). Unused tickets will be deleted afterward.
+490092,Silverlight Mercenaries Token,@10003,,A token acquired by performing deeds that increase the reputation of the Silverlight Mercenaries.,[Fulfill Request] Tap the button to fulfill the Event Quest.,,
 490093,[Event] Hardin’s Message,@10003,,"A message with a mission from Hardin.
 It has been damaged and is difficult to read.",Cannot be used anymore.,,
 490100,[Dummy] Point Shop use,@10003,,Unused item [Dummy],Unused item [Dummy],,
 490200,Temporal Rift Random Reward,Random Reward,,A formless substance that exists in the Temporal Rift. It must be acquired to figure out what it is.,,,
 919014,6th Place Lucky Box,@1021,,The 6th Place Lucky Box from the Lucky Box Event.,"Use to acquire one of the following: Maphr’s Protection Fragment, Proof of Blood, Red Starstone, Greater HP Potion, Greater MP Potion",,
 919015,7th Place Lucky Box,@1021,,The 7th Place Lucky Box from the Lucky Box Event.,"Use to acquire one of the following: HP Potion, MP Potion, Scroll of Escape, Soulshot, Rare Monster Summoning Stone",,
+919017,Beginner’s Strengthening Support Gift,@1021,,Support Box for beginners.,,,
+919018,Level {ReplaceString1} Strengthening Support Gift,@1021,,Support Gift for Lv. {ReplaceString1} warriors. Acquire various items appropriate to your level.,15,,
+919019,@919018,@1021,,@919018,25,,
+919020,@919018,@1021,,@919018,35,,
+919021,@919018,@1021,,@919018,45,,
+919022,@919018,@1021,,@919018,55,,
+919023,@919018,@1021,,@919018,65,,
+919024,@919018,@1021,,@919018,75,,
+919025,@919018,@1021,,@919018,80,,
+919026,@919018,@1021,,@919018,85,,
+919027,@919018,@1021,,@919018,90,,
+919028,@919018,@1021,,@919018,95,,
+919029,@919018,@1021,,@919018,100,,
+919030,Grade {ReplaceString1} Varnish Bundle,@1021,,"Get 1 Grade B Weapon, Armor, and Accessory Varnish each.",@910111,,
+919031,@919030,@1021,,"Get 1 Grade A Weapon, Armor, and Accessory Varnish each.",@910121,,
+919032,@919030,@1021,,"Get 1 Grade S Weapon, Armor, and Accessory Varnish each.",@910131,,
+919033,@919030,@1021,,"Get 1 Grade R Weapon, Armor, and Accessory Varnish each.",@910141,,
+919034,@911064,@1021,,Select and acquire a Grade A Soul Crystal.,@910121,,
 919035,@911064,@1021,,Select and acquire a Grade S Soul Crystal.,@910131,,
-491423,{ReplaceString1}레벨 경험치 물약,@1021,,대량의 경험치를 획득할 수 있는 경험치 물약입니다. {ReplaceString1}레벨 이상의 용사만 사용할 수 있습니다.,5,,
+491423,Level {ReplaceString1} Exp. Potion,@1021,,An Exp. Potion that contains a large amount of experience. Only Lv. {ReplaceString1} warriors can use it.,5,,
 491424,@491423,@1021,,@491423,10,,
 491425,@491423,@1021,,@491423,15,,
 491426,@491423,@1021,,@491423,20,,
@@ -2503,7 +2484,7 @@ Use to apply 15% bonus damage to final damage for 3 minutes when attacking Bosse
 Use to apply 30% bonus damage to final damage for 3 minutes when attacking Magic Monsters.",,,
 919054,3 Dungeon Auto-Clears Box,@1021,,Use to acquire 3 Dungeon Auto-Clears.,This item can only be used by characters below Lv. 200.,,
 919055,Grade A Quest Scroll Box,@1021,,Use to acquire Grade A Quest Scrolls appropriate to your level.,@919054,,
-919079,Grade SR Rare Weapon Selection Box,@1021,,Use to select and acquire one Grade SR Rare Weapon from the list.,Items acquired after use cannot be traded.,,
+490094,Character Name Change Ticket (Server Migration),@1021,,@490076,,,@490091
 919080,War Hero’s Adena Box,@1021,,"Use to acquire 50,000 Adena.",,,
 919081,War Hero’s Loot box,@1021,,Use to acquire a random item.,,,
 919082,War Hero’s Honor Points Potion,@1021,,Use to acquire 25 points.,,,
@@ -2512,9 +2493,9 @@ Use to apply 30% bonus damage to final damage for 3 minutes when attacking Magic
 Use to acquire 2,000,000 Adena.",,,
 30000000,Inventory Slot Expansion,@1021,,"Expands Inventory slots.
 (Up to 500 slots)",,,
-30001000,정복자의 징표,@1021,,"정복자 레벨이 상승하면 얻을 수 있는 재화입니다.
-정복자의 전당에서 아이템을 구매할 수 있습니다.",,,
-30001001,정복자의 징표 작은 상자,@1021,,사용 시 정복자의 징표 100개를 획득합니다.,,,
+30001000,Conqueror’s Token,@1021,,"Currency acquired for advancing in Conqueror Level.
+Can be used to purchase items from the Hall of Conquerors.",,,
+30001001,Small Conqueror’s Token Box,@1021,,Use to acquire 100 Conqueror’s Tokens.,,,
 919085,Temporal Rift Random Box,@1021,,"This is a Temporal Rift Random Reward Box.
 Use to acquire a Temporal Rift Random Reward.",Items acquired after use cannot be traded.,,
 481108,R등급 집혼석 연마제,@400000,,집혼석 레벨 업 재료로 사용할 수 있는 아이템입니다.,,,
@@ -2544,52 +2525,6 @@ Use to acquire a Temporal Rift Random Reward.",Items acquired after use cannot b
 919137,Grade SR Pure White Accessory Varnish,@400000,,@919122,,,
 919138,Grade SR Exclusive Armor Selection Box,@1021,,Use to select and acquire one Grade S Exclusive Armor from the list.,Items acquired after use cannot be traded.,,
 919139,Clan Hall Potion Material Box,@1021,,Use to acquire random Clan Hall Potion Materials.,Items acquired after use cannot be traded.,,
-919200,300th Day Celebration Gift,@1021,,"Use to acquire 1 Maphr’s Protection, 2 Forgotten Scroll Page Selection Boxes and 3 Blessed Scroll Selection Boxes.",Items acquired after use cannot be traded.,,
-493001,[Pierce] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Pierce] Attribute Equipment that increases Final Damage dealt to Magical Monsters.",,,
-493002,@493001,@1021,,@493001,,,
-493003,@493001,@1021,,@493001,,,
-493004,@493001,@1021,,@493001,,,
-493005,[Aegis] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Aegis] Attribute Equipment that decreases Final Damage dealt by Magical Monsters.",,,
-493006,@493005,@1021,,@493005,,,
-493007,@493005,@1021,,@493005,,,
-493008,@493005,@1021,,@493005,,,
-493009,[Massacre] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Massacre] Attribute Equipment that increases Final Damage dealt to Normal Monsters.",,,
-493010,@493009,@1021,,@493009,,,
-493011,@493009,@1021,,@493009,,,
-493012,@493009,@1021,,@493009,,,
-493013,[Hunt] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Hunt] Attribute Equipment that increases Final Damage dealt to Elite Monsters.",,,
-493014,@493013,@1021,,@493013,,,
-493015,@493013,@1021,,@493013,,,
-493016,@493013,@1021,,@493013,,,
-493017,[Bravery] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Bravery] Attribute Equipment that increases Final Damage dealt to Bosses.",,,
-493018,@493017,@1021,,@493017,,,
-493019,@493017,@1021,,@493017,,,
-493020,@493017,@1021,,@493017,,,
-493021,[Annihilate] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Annihilate] Attribute Equipment that increases Final Damage dealt to Players.",,,
-493022,@493021,@1021,,@493021,,,
-493023,@493021,@1021,,@493021,,,
-493024,@493021,@1021,,@493021,,,
-493025,[Patience] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Patience] Attribute Equipment that decreases Final Damage dealt by Elite Monsters.",,,
-493026,@493025,@1021,,@493025,,,
-493027,@493025,@1021,,@493025,,,
-493028,@493025,@1021,,@493025,,,
-493029,[Protection] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Protection] Attribute Equipment that decreases Final Damage dealt by Bosses.",,,
-493030,@493029,@1021,,@493029,,,
-493031,@493029,@1021,,@493029,,,
-493032,@493029,@1021,,@493029,,,
-493033,[Iron Wall] Attribute Stone,@1021,,"The energy of ancient lesser giants resides in this stone.
-Use to enhance [Iron Wall] Attribute Equipment that decreases Final Damage dealt by Players.",,,
-493034,@493033,@1021,,@493033,,,
-493035,@493033,@1021,,@493033,,,
-493036,@493033,@1021,,@493033,,,
 919209,Special Magic Fabric Selection Box,@1021,,Use to select and acquire 1 Magic Fabric of Destruction or 1 Magic Fabric of Virtuous Blood.,Items acquired after use cannot be traded.,,
 919210,300 SP Box,@1021,,"This large box contains SP.
 Use to acquire 300 SP.",,,
@@ -2649,7 +2584,7 @@ Acquire {ReplaceString2} items.",60,1,
 30492001,@492001,@1021,,@492001,16000,,
 30492002,@492001,@1021,,@492001,18000,,
 30492003,@492001,@1021,,@492001,21000,,
-30492004,@492001,@1021,,@492001,22500,,
+30492004,@492001,@1021,,@492001,200000,,
 30492005,@492001,@1021,,@492001,24000,,
 30492006,@492001,@1021,,@492001,27000,,
 30492007,@492001,@1021,,@492001,31500,,
@@ -2764,7 +2699,7 @@ Use to obtain a random item.",@1000100,Talking Island,
 30911042,@910213,@1021,,@910213,@910121,,@10002
 35000004,Auto-Clear Bundle Box,@1021,,Use to acquire 1 of each Auto-Clear.,,,
 35000005,New Year Gift Box,@1021,,It contains Grade R Exclusive Equipment Selection Box and Grade S Varnish Selection Box.,,,
-35000201,Grade {ReplaceString1} Varnish Bundle,@1021,,"This box contains varnish used to strengthen equipment.
+35000201,@919030,@1021,,"This box contains varnish used to strengthen equipment.
 Use to acquire one of each sort of Grade {ReplaceString1} Varnish.",@910141,,@10002
 39000006,Plain Chocolate,@1021,,"Used in the Valentine’s Day Chocolate Event.
 
@@ -2808,22 +2743,19 @@ Randomly acquire items relating to Soul Crystals and Mounts.",,,@10002
 34003600,@919014,@1021,,@919014,,,
 34003700,@919015,@1021,,@919015,,,
 34004000,@911083,@1021,,Use to acquire a Grade {ReplaceString1} Mount Equipment.,@910228,,
-33001000,Grade {ReplaceString1} Aegis Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Aegis Attribute Armor from the list.,@490026,,@10002
+33001000,Grade {ReplaceString1} Exclusive Aegis Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Aegis Attribute Armor from the list.,@490026,,@10002
 33001001,@33001000,@1021,,@33001000,@910141,,@10002
 33001002,@33001000,@1021,,@33001000,@910131,,@10002
-33001100,Grade {ReplaceString1} Patience Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Patience Attribute Armor from the list.,@490026,,@10002
+33001100,Grade {ReplaceString1} Exclusive Patience Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Patience Attribute Armor from the list.,@490026,,@10002
 33001101,@33001100,@1021,,@33001100,@910141,,@10002
 33001102,@33001100,@1021,,@33001100,@910131,,@10002
-33001200,Grade {ReplaceString1} Protection Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Protection Attribute Armor from the list.,@490026,,@10002
+33001200,Grade {ReplaceString1} Exclusive Protection Armor Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Exclusive Protection Attribute Armor from the list.,@490026,,@10002
 33001201,@33001200,@1021,,@33001200,@910141,,@10002
 33001202,@33001200,@1021,,@33001200,@910131,,@10002
 33002000,Cloak Strengthening Material Selection Box,@1021,,Use to select and acquire one Cloak Strengthening Material from the list.,,,@10002
-34010000,Weapon Strengthening Box,@1021,,"Use to randomly acquire one of the following:
-Scroll: Enhance Weapon, Weapon Varnish, Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory, Grade A-SR Weapon",,,
-34010001,Armor Strengthening Box,@1021,,"Use to randomly acquire one of the following:
-Scroll: Enhance Armor, Armor Varnish, Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory, Grade A-SR Armor",,,
-34010002,@910253,@1021,,"Use to randomly acquire one of the following:
-Blessed Scroll, Enhance Scroll, Maphr’s Protection, Maphr’s Protection Fragment, Elixir Essence, HP/MP Potions, Cloak Yarn, Madness Shard, Trisha’s Tear, Rune Fragment, Soul Crystal",,,@10002
+34010000,Weapon Strengthening Box,@1021,,"Use to randomly acquire one of the following: Scroll: Enhance Weapon, Weapon Varnish, Weapon Upgrade Stone, Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory, Grade A-SR Weapon.",,,
+34010001,Armor Strengthening Box,@1021,,"Use to randomly acquire one of the following: Scroll: Enhance Armor, Armor Varnish, Armor Upgrade Stone, Scroll of Alchemy - Blessed Scroll: Weapon/Armor/Accessory, Grade A-SR Armor.",,,
+34010002,@900007,@1021,,"Use to randomly acquire one of the following: Blessed Scroll, Enhance Scroll, Maphr’s Protection, Maphr’s Protection Fragment, Elixir Essence, HP/MP Potions, Cloak Yarn, Madness Shard, Trisha’s Tear, Rune Fragment, Soul Crystal, Ripped Recipe Fragment, Scroll of Alchemy - Radiant Upgrade Stone.",,,@10002
 34010003,High-grade Mount Material Box,@1021,,"Use to randomly acquire one of the following:
 Grade A - SR Mount Equipment, Advancement Stone, Mount Hornflute, Mount Summoning Stone, Mount Summoning Stone Fragments, Scroll: Enhance Mount Equipment, Grade A - SR Mount Equipment Varnish",,,
 34005000,Update Celebration Special Pouch,@1021,,Randomly acquire 1-10 Maphr’s Protections or Blessed Scrolls.,,,@10002
@@ -2850,10 +2782,68 @@ Grade A - SR Mount Equipment, Advancement Stone, Mount Hornflute, Mount Summonin
 36000108,@910231,@1021,,@910231,1000000,,
 36000109,@910231,@1021,,@910231,1500000,,
 36000110,@910231,@1021,,@910231,2000000,,
-32000021,{ReplaceString1} Shard,@400000,,Material for binding and crafting {ReplaceString1}.,다이너스티 네크리스,,
-32000022,{ReplaceString1} Shard,@400000,,Material for binding and crafting {ReplaceString1}.,다이너스티 이어링,,
-32000023,레시피 - {ReplaceString1},@400000,,{ReplaceString2}등급 {ReplaceString1}을 만드는 방법이 적힌 레시피 입니다.,Dynasty Ring,A,
-32000024,@32000023,@400000,,@32000023,@32000021,@32000023,
-32000025,@32000023,@400000,,@32000023,@32000022,@32000023,
 36000111,@910231,@1021,,@910231,130000,,
+36000112,@910231,@1021,,@910231,20000,,
+36000113,@910231,@1021,,@910231,30000,,
+36000114,@910231,@1021,,@910231,50000,,
+36000115,@910231,@1021,,@910231,70000,,
 39001000,Blessed Maphr's Pouch,@1021,,@34005000,,,@10002
+39001100,Purified Dragon Egg,@1021,,"A Dragon Egg found in the depths of the crater.
+Use to randomly acquire one of the following: Forgotten Scroll Page (Excludes Meteor Shower), SP, Enhance Scroll, Scroll of Alchemy - Blessed Scroll, Proof of Blood, Red Starstone",,,@10002
+39001101,Shiny Dragon Egg,@1021,,"A Rare Dragon Egg found in the depths of the crater.
+Use to randomly acquire one of the following: Forgotten Scroll Page, completed Forgotten Scroll, SP, Enhance Scroll, Scroll of Alchemy - Blessed Scroll, Proof of Blood, Red Starstone",,,@10002
+34001809,@34001000,@1021,,@34001000,Ivory Tower Catacomb Laboratory,,
+34001810,@34001000,@1021,,@34001000,Northwind Plateau,,
+34001811,@34001000,@1021,,@34001000,Eternal Lands,,
+34001812,@34001000,@1021,,@34001000,Ivory Tower Conquered Territory,,
+34001813,@34001000,@1021,,@34001000,Forest of Secrets Canopy,,
+34001814,@34001000,@1021,,@34001000,Forest of Secrets Understory,,
+39001102,Tainted Dragon Egg,@1021,,"A Tainted Dragon Egg found in the depths of the crater.
+Use to randomly acquire one of the following: SP, Soulshot, HP Potion, MP Potion, Enhance Scroll, Proof of Blood, Red Starstone",,,@10002
+39001103,Brilliant Dragon Egg,@1021,,"A very rare Dragon Egg found in the depths of the crater.
+Use to randomly acquire one of the following: Forgotten Scroll Page, completed Forgotten Scroll, SP.",,,@10002
+490099,Daily Diamond I Buff,Buff,,"A Buff granted when Daily Diamond I is purchased.
+Increases Speed by 8%.",,,
+35000300,Armor Upgrade Bundle,@1021,,"Use to acquire 20 Armor Upgrade Stones, 7 Grade S Armor Varnishes, and 200,000 Adena.",,,
+33000700,Forgotten Scroll Selection Box,@1021,,Use to select and acquire one Forgotten Scroll from the list.,,,@10002
+35100000,Recipe - Normal Attribute Weapon,@400000,,This recipe contains instructions for raising equipment with normal offensive attributes to Grade UR.,,,
+35100010,Recipe - Elite Attribute Weapon,@400000,,This recipe contains instructions for raising equipment with Elite offensive attributes to Grade UR.,,,
+35100020,Recipe - Boss Attribute Weapon,@400000,,This recipe contains instructions for raising equipment with Boss offensive attributes to Grade UR.,,,
+35100030,Recipe - PVP Attribute Weapon,@400000,,This recipe contains instructions for raising equipment with PVP offensive attributes to Grade UR.,,,
+35100040,Recipe - Magical Attribute Weapon,@400000,,This recipe contains instructions for raising equipment with Magical offensive attributes to Grade UR.,,,
+35100050,Recipe - Elite Attribute Armor,@400000,,This recipe contains instructions for raising equipment with Elite defensive attributes to Grade UR.,,,
+35100060,Recipe - Boss Attribute Armor,@400000,,This recipe contains instructions for raising equipment with Boss defensive attributes to Grade UR.,,,
+35100070,Recipe - PVP Attribute Armor,@400000,,This recipe contains instructions for raising equipment with PVP defensive attributes to Grade UR.,,,
+35100080,Recipe - Magical Attribute Armor,@400000,,This recipe contains instructions for raising equipment with Magical defensive attributes to Grade UR.,,,
+33001300,Grade {ReplaceString1} Aegis Armor Box,@1021,,Use to randomly acquire one piece of Grade {ReplaceString1} Aegis Attribute Armor.,@490026,,@10002
+33001301,@33001300,@1021,,@33001300,@910141,,@10002
+33001302,@33001300,@1021,,@33001300,@910131,,@10002
+39001300,@10001,@10003,,@10001,,,
+39001301,@10002,@1021,,@10002,,,@10002
+34004001,@911083,@1021,,@34004000,@911040,,
+30481101,Grade {ReplaceString1} Mount Equipment Varnish Selection Box,@1021,,Use to select and acquire one Grade {ReplaceString1} Mount Equipment Varnish.,@910101,,
+30481102,@30481101,@1021,,@30481101,@910111,,
+30481103,@30481101,@1021,,@30481101,@910121,,
+30481104,@30481101,@1021,,@30481101,@910131,,
+30481105,@30481101,@1021,,@30481101,@910141,,
+30481106,@30481101,@1021,,@30481101,@490026,,
+39919004,Equipment Material Selection Box,@1021,,Use to select and acquire one Equipment Material from the list.,Items acquired after use cannot be traded.,,
+30911046,Scroll of Alchemy - Radiant Upgrade Stone Selection Box,@1021,,Use to select and acquire a Scroll of Alchemy - Radiant Upgrade Stone from the list.,,,@10002
+30911017,Recipe Selection Box,@1021,,Use to select and acquire one Recipe from the list.,,,@10002
+30911034,High-grade Scrap Selection Box,@1021,,@911032,1000,,@10002
+30911041,Grade {ReplaceString1} Pure White Varnish Selection Box,@1021,,Use to select and acquire a Grade {ReplaceString1} Pure White Varnish.,@490026,,@10002
+30490084,@30490083,@1021,,@910232,90,,
+30490085,@30490083,@1021,,@910232,160,,
+30490086,@30490083,@1021,,@910232,340,,
+30490087,@30490083,@1021,,@910232,1080,,
+30490088,@30490083,@1021,,@910232,1900,,
+30490089,@30490083,@1021,,@910232,4000,,
+34007000,Pouch of Cloak Strengthening,@1021,,Use to acquire 2-100 Madness Shards or Trisha’s Tears.,,,@10002
+34007100,Pouch of Equipment Strengthening,@1021,,"Use to randomly acquire an item from the following: 1-3 Grade S Equipment Varnishes, Grade R Equipment Varnish, Grade SR Equipment Varnish.",,,@10002
+34007200,Enhance Scroll Pouch,@1021,,Use to randomly acquire 2-100 Scrolls: Enhance Weapon/Armor/Accessory.,,,@10002
+34007300,Mount Enhance Scroll Pouch,@1021,,Use to randomly acquire 5-100 Mount Equipment Enhance Scrolls.,,,@10002
+34006100,High-grade Lucky Adena Pouch,@1021,,@34006000,,,
+34006200,Lucky Clan Adena Pouch,@1021,,"Use to randomly acquire 20,000-100,000 Adena.",,,
+34008000,Equipment Material Box,@1021,,Use to randomly acquire a type of equipment crafting material.,,,@10002
+34010004,Limited Soul Crystal Summon Box,@1021,,@900012,@900012,@900003,
+39000201,@33000201,@1021,,@33000201,@910131,,@10002

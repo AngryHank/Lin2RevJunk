@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Parsers
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             using (StreamWriter stm = new StreamWriter(@"Output\Achievements.csv", true))
             {
                 stm.WriteLine("Name,Group,Desc,Count");

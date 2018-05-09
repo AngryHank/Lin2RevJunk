@@ -7,6 +7,9 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
+
+            // 1.04.16
+
             // All of this is wrong but works to get past it.
             UInt64 SkillUID = packet.ReadUInt64();
             UInt32 SkillID = packet.ReadUInt32();

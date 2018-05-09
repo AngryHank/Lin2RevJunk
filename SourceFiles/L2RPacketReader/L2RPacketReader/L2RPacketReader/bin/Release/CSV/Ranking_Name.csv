@@ -9,44 +9,44 @@ Id,Name,Description,Unit
 7,Runes,Rune Imprinting Success Count Rank,Count
 8,Elixir,Elixir Usage Rank,Number
 9,Monster Codex,Completed Monster Codex Rank,Completed
-10,Total Level,Server Character Level Total Rank,Level
+10,Total Level,Server Character Level Total Rank,@1
 12,Honor Points,Total Honor Points Rank,Score
-13,Total Count,Total Arena Count Rank,Count
+13,Total Count,Total Arena Count Rank,@7
 14,Total Wins,Total Arena Win Count Rank,Wins
-15,Win Streak,Max Win Streak Rank,Count
+15,Win Streak,Max Win Streak Rank,@7
 18,Weekly Contribution,Personal Weekly Clan Contribution Rank,Contribution Points
-19,Total Contribution,Personal Total Contribution Rank,Contribution Points
+19,Total Contribution,Personal Total Contribution Rank,@18
 20,Siege Contribution,Personal Total Siege Contribution Rank,Contribution
-21,Fortress Siege Contribution,Personal Total Fortress Siege Contribution Rank,Contribution
-22,Hero Achievements,Hero Achievement Points Rank,Score
+21,Fortress Siege Contribution,Personal Total Fortress Siege Contribution Rank,@20
+22,Hero Achievements,Hero Achievement Points Rank,@12
 27,Check In,Total Days Checked In Rank,No. of Days
 28,Max Price Trade,Max Price Trade Rank,Trade Price
-29,Trade Count,Max Trade Count Rank,Count
-30,Enhancement Count,Max Enhance Count Rank,Count
+29,Trade Count,Max Trade Count Rank,@7
+30,Enhancement Count,Max Enhance Count Rank,@7
 31,Enhanced Set,Max Enhanced Set Rank,Enhance Count
-32,Combining Count,Max Combining Count Rank,Count
-33,Upgrade Count,Max Upgrade Count Rank,Count
-34,Limit Break Count,Max Limit Break Count Rank,Count
+32,Combining Count,Max Combining Count Rank,@7
+33,Upgrade Count,Max Upgrade Count Rank,@7
+34,Limit Break Count,Max Limit Break Count Rank,@7
 35,Tower of Insolence,Tower of Insolence Highest Floor Rank,Highest Floor
-48,Reputation,Reputation Rank,Score
-49,Combat Power,Combat Power Rank,Combat Power
-1000,Scrimmage Arena,Scrimmage Arena Rank,Score
-4000,Honorable Battlefield,Overall Honorable Battlefield Rank,Score
-4001,Honorable Battlefield,Honorable Battlefield (Bronze) Rank 3,Score
-4002,Honorable Battlefield,Honorable Battlefield (Bronze) Rank 2,Score
-4003,Honorable Battlefield,Honorable Battlefield (Bronze) Rank 1,Score
-4004,Honorable Battlefield,Honorable Battlefield (Silver) Rank 3,Score
-4005,Honorable Battlefield,Honorable Battlefield (Silver) Rank 2,Score
-4006,Honorable Battlefield,Honorable Battlefield (Silver) Rank 1,Score
-4007,Honorable Battlefield,Honorable Battlefield (Gold) Rank 3,Score
-4008,Honorable Battlefield,Honorable Battlefield (Gold) Rank 2,Score
-4009,Honorable Battlefield,Honorable Battlefield (Gold) Rank 1,Score
-4010,Honorable Battlefield,Honorable Battlefield (Platinum) Rank 3,Score
-4011,Honorable Battlefield,Honorable Battlefield (Platinum) Rank 2,Score
-4012,Honorable Battlefield,Honorable Battlefield (Platinum) Rank 1,Score
-4013,Honorable Battlefield,Honorable Battlefield (Diamond) Rank 3,Score
-4014,Honorable Battlefield,Honorable Battlefield (Diamond) Rank 2,Score
-4015,Honorable Battlefield,Honorable Battlefield (Diamond) Rank 1,Score
-4016,Honorable Battlefield,Honorable Battlefield (Master) Rank,Score
-4017,Honorable Battlefield,Honorable Battlefield (Grand Master) Rank,Score
-4018,Honorable Battlefield,Honorable Battlefield (Legend) Rank,Score
+48,Reputation,Reputation Rank,@12
+49,Combat Power,Combat Power Rank,@1001
+1000,Scrimmage Arena,Scrimmage Arena Rank,@12
+4000,Honorable Battlefield,Overall Honorable Battlefield Rank,@12
+4001,@4000,Honorable Battlefield (Bronze) Rank 3,@12
+4002,@4000,Honorable Battlefield (Bronze) Rank 2,@12
+4003,@4000,Honorable Battlefield (Bronze) Rank 1,@12
+4004,@4000,Honorable Battlefield (Silver) Rank 3,@12
+4005,@4000,Honorable Battlefield (Silver) Rank 2,@12
+4006,@4000,Honorable Battlefield (Silver) Rank 1,@12
+4007,@4000,Honorable Battlefield (Gold) Rank 3,@12
+4008,@4000,Honorable Battlefield (Gold) Rank 2,@12
+4009,@4000,Honorable Battlefield (Gold) Rank 1,@12
+4010,@4000,Honorable Battlefield (Platinum) Rank 3,@12
+4011,@4000,Honorable Battlefield (Platinum) Rank 2,@12
+4012,@4000,Honorable Battlefield (Platinum) Rank 1,@12
+4013,@4000,Honorable Battlefield (Diamond) Rank 3,@12
+4014,@4000,Honorable Battlefield (Diamond) Rank 2,@12
+4015,@4000,Honorable Battlefield (Diamond) Rank 1,@12
+4016,@4000,Honorable Battlefield (Master) Rank,@12
+4017,@4000,Honorable Battlefield (Grand Master) Rank,@12
+4018,@4000,Honorable Battlefield (Legend) Rank,@12

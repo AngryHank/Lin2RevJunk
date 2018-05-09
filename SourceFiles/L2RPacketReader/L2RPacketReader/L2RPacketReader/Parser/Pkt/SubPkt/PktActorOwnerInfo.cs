@@ -7,9 +7,12 @@ namespace L2RPacketReader.Parser.Pkt
     {
         public static void Packet(PacketReader packet)
         {
-            string OwnerNamer = packet.ReadString();
-            byte ActorType = packet.ReadByte(); // Could be UInt
+
+            // 1.04.16
+
             UInt64 ActorUID = packet.ReadUInt64();
+            byte ActorType = packet.ReadByte(); // Could be UInt
+            string OwnerNamer = packet.ReadString();
         }
     }
 }
